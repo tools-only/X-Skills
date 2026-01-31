@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3 AI-powered skills** organized into 1 categories.
+A curated collection of **5 AI-powered skills** organized into 2 categories.
 
 ## Overview
 
@@ -8,12 +8,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Development**: 3 skills
+- **Automation**: 1 skill
+- **Development**: 4 skills
 
 ## Repository Structure
 
 ```
 X-Skills/
+├── automation/
 ├── development/
 ```
 
@@ -46,5 +48,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-01-31 21:28:27 UTC*
+*Last updated: 2026-01-31 23:12:37 UTC*
 *Automatically maintained by SkillFlow*
