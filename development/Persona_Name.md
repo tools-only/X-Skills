@@ -1,0 +1,175 @@
+---
+name: Persona Name
+source: https://raw.githubusercontent.com/NTCoding/claude-skillz/main/CLAUDE.md
+original_path: CLAUDE.md
+source_repo: NTCoding/claude-skillz
+category: development
+subcategory: coding
+tags: ['development']
+collected_at: 2026-01-31T19:32:40.642414
+file_hash: 68862951787addfd6b799e9cd0c18971b3bd0594b5355de113b06dd39c5538bb
+---
+
+# Claude Skillz Project Guidelines
+
+## System Prompt Composability
+
+System prompts follow a composable architecture where skills are loaded efficiently at session startup.
+
+### Structure
+
+System prompts should contain:
+
+1. **Persona definition** - expertise, idols, philosophy, collaboration style
+2. **Skills section** - @ references to skill files (processed by launcher)
+3. **Domain-specific knowledge** - content NOT duplicated in any skill
+
+### How It Works
+
+**@ Reference Processing:**
+- The `claude-launcher` pre-processes @ references before launching Claude Code
+- Skills are embedded directly into the system prompt (not loaded via Read operations)
+- A "Loaded Skills" manifest is added at the top showing what was loaded
+- Debug output saved to `/tmp/claude-launcher-debug.md` for verification
+
+**Token Efficiency:**
+- Pre-processing avoids 18k+ tokens of message history overhead
+- Near-zero overhead vs monolithic prompts (1% difference)
+- Skills remain composable and reusable across personas
+
+### Creating Composable System Prompts
+
+**🚨 CRITICAL: System Prompts Are Instructions, Not Descriptions**
+
+System prompts tell Claude what to do. Write them as directives and imperatives, not as narrative descriptions.
+
+❌ **WRONG (descriptive):**
+```
+You are a helpful assistant who researches solutions carefully. Your philosophy emphasizes clarity.
+```
+
+✅ **RIGHT (instructive):**
+```
+Research before recommending. Never guess at capabilities.
+Be maximally clear in all communication.
+```
+
+System prompts are active instructions that shape behavior. Use imperatives. Be direct.
+
+**Pattern:**
+```markdown
+---
+name: Persona Name
+shortcut: xxx
+---
+
+[Direct instructions about your behavior and principles]
+
+Your core approach:
+- [Instruction 1]
+- [Instruction 2]
+- [Instruction 3]
+
+---
+
+## Skills
+
+- @../skill-name/SKILL.md
+- @../another-skill/SKILL.md
+```
+
+**Rules:**
+- Write as instructions, not descriptions
+- Never duplicate skill content in system prompts
+- Use @ references for reusable behavioral instructions
+- Keep domain knowledge specific to this persona only
+- Include metadata frontmatter: `name` and `shortcut` (3 chars)
+
+### Example
+
+See `/system-prompts/super-tdd-developer.md` for the reference pattern.
+
+## Marketplace Plugin Distribution
+
+This repo is a Claude Code plugin marketplace. When adding new skills or plugins:
+
+### Adding New Skills
+
+1. Create skill directory with `SKILL.md`
+2. Update `.claude-plugin/marketplace.json` - add to `development-skills.skills` array:
+   ```json
+   "skills": [
+     "./tdd-process",
+     "./your-new-skill"
+   ]
+   ```
+
+### Skill Structure: Always Include a Checklist
+
+**Every skill MUST end with a mandatory checklist.** Checklists make skills actionable and verifiable.
+
+**Why checklists matter:**
+- Turn abstract principles into concrete verification steps
+- Ensure Claude systematically applies the skill
+- Make compliance measurable
+- Catch violations before they ship
+
+**Checklist format:**
+```markdown
+## Mandatory Checklist
+
+When [designing/implementing/reviewing], complete this checklist:
+
+1. [ ] Verify [specific condition]
+2. [ ] Verify [another condition]
+3. [ ] Verify [etc.]
+
+Do not proceed until all checks pass.
+```
+
+**Checklist rules:**
+- Use numbered items (not bullets)
+- Start each item with "Verify" (action-oriented)
+- Be specific and unambiguous
+- Place at the END of the skill (final thing Claude sees)
+
+**Reference:** See `separation-of-concerns/SKILL.md` or `tactical-ddd/SKILL.md` for examples.
+
+### Adding New Plugins
+
+1. Create plugin directory with `commands/`, `agents/`, or `hooks/`
+2. Add plugin entry to `.claude-plugin/marketplace.json`:
+   ```json
+   {
+     "name": "plugin-name",
+     "source": "./plugin-directory",
+     "description": "Brief description",
+     "version": "1.0.0",
+     "category": "productivity|development",
+     "keywords": ["tag1", "tag2"]
+   }
+   ```
+
+Keep marketplace.json updated so users can install via `/plugin install <name>@claude-skillz`.
+
+## Version Management (MANDATORY)
+
+When making ANY change to this repository, you MUST increment versions in `.claude-plugin/marketplace.json`:
+
+### Which version to bump:
+
+1. **Modifying a skill** (e.g., `tdd-process/SKILL.md`):
+   → Bump the `version` of the plugin that contains it (e.g., `development-skills`)
+
+2. **Modifying a plugin** (e.g., `track-and-improve/commands/`):
+   → Bump that plugin's individual `version` field
+
+3. **Adding a new plugin**:
+   → Set new plugin version to "1.0.0"
+   → Bump `metadata.version`
+
+### Format:
+- Semantic versioning (e.g., "1.0.0" → "1.0.1")
+- Patch for fixes, minor for features, major for breaking changes
+
+**Why:** Claude Code caches plugins by their INDIVIDUAL version. Bumping only `metadata.version` does nothing—clients check the plugin's own `version` field to detect updates.
