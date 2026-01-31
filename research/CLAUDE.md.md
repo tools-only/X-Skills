@@ -1,0 +1,277 @@
+---
+name: CLAUDE.md
+source: https://raw.githubusercontent.com/jkitchin/skillz/main/CLAUDE.md
+original_path: CLAUDE.md
+source_repo: jkitchin/skillz
+category: research
+subcategory: academic
+tags: ['research']
+collected_at: 2026-01-31T18:34:05.977992
+file_hash: a9800f35f982c7c19ee802df27d2b410fb6f7009eccd6e9b4c8fa4572f3ab34d
+---
+
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+Skillz is a CLI tool for managing AI assistant skills and slash commands across multiple LLM platforms (Claude Code, OpenCode, Codex, Gemini). The tool allows users to discover, install, create, and manage reusable skills that extend LLM capabilities.
+
+## Development Commands
+
+### Setup
+```bash
+# Install with development dependencies (preferred)
+uv pip install -e ".[dev]"
+
+# Alternative with pip
+pip install -e ".[dev]"
+```
+
+### Testing
+```bash
+# Run all tests
+pytest
+
+# Run with coverage report
+pytest --cov=cli --cov-report=html
+
+# Run specific test file
+pytest tests/test_validator.py
+```
+
+### Linting and Formatting
+```bash
+# Check code style
+ruff check .
+black --check .
+
+# Format code
+black .
+```
+
+### Running the CLI
+```bash
+# Via entry point (after installation)
+skillz --help
+
+# Via Python module (during development)
+python -m cli.main --help
+```
+
+## Architecture
+
+### Core Components
+
+**CLI Module (`cli/`)**
+- `main.py` - Click-based CLI entry point with command registration
+- `config.py` - Configuration management using YAML (`~/.config/skillz/config.yaml`)
+- `validator.py` - Validation logic for skills (SKILL.md) and commands (.md files)
+- `utils.py` - Shared utilities (name validation, file operations, search functions)
+- `commands/` - Individual CLI command implementations (install, uninstall, list, search, info, update, create)
+
+**Skills Repository (`skills/`)**
+Each skill is a directory containing:
+- `SKILL.md` - Required file with YAML frontmatter (name, description, allowed-tools) and markdown content
+- Supporting files: README.md, QUICK_REFERENCE.md, examples/, references/, assets/, scripts/
+
+**Commands Repository (`commands/`)**
+Standalone markdown files with optional YAML frontmatter (description, model, allowed-tools, argument-hint).
+
+**Hooks Repository (`hooks/`)**
+Each hook is a directory containing:
+- `HOOK.md` - Required file with YAML frontmatter (name, description, event, matcher, type, timeout)
+- `hook.py` or `hook.sh` - The executable hook script
+- Hooks are shell commands that execute at various points in Claude Code's lifecycle
+
+**Agents Repository (`agents/`)**
+Standalone markdown files for Claude Code subagents:
+- Each agent is a single `.md` file with YAML frontmatter (name, description, tools, model)
+- Agents are specialized AI assistants that handle specific tasks independently
+- They run in isolated context and return results to the main conversation
+
+**Templates (`templates/`)**
+- `SKILL_TEMPLATE.md` - Template for creating new skills
+- `COMMAND_TEMPLATE.md` - Template for creating new commands
+- `HOOK_TEMPLATE.md` - Template for creating new hooks
+- `AGENT_TEMPLATE.md` - Template for creating new agents
+
+### Configuration Flow
+
+1. Config loads from `~/.config/skillz/config.yaml` or uses defaults
+2. Config provides paths for personal (default: `~/.claude/`) and project (default: `.claude/`) installations
+3. Multi-platform support via `platforms` dict in config (claude, opencode, codex, gemini)
+4. Default platform is Claude Code, but fully supports OpenCode, Codex, and Gemini
+
+### Validation Logic
+
+**Skills**: Must have valid name (lowercase, hyphens, max 64 chars), description (max 1024 chars), and SKILL.md file with proper YAML frontmatter.
+
+**Commands**: Optional frontmatter, description max 256 chars, valid model values (sonnet/opus/haiku).
+
+**Allowed Tools**: Can be `["*"]` for all tools or list from: Bash, Read, Write, Edit, Glob, Grep, Task, WebFetch, WebSearch, TodoWrite, AskUserQuestion, Skill, SlashCommand, NotebookEdit, BashOutput, KillShell.
+
+**Hooks**: Must have valid name (lowercase, hyphens, max 64 chars), description (max 256 chars), valid event (PreToolUse, PostToolUse, PermissionRequest, UserPromptSubmit, Notification, Stop, SubagentStop, PreCompact, SessionStart, SessionEnd), and at least one script file (*.py or *.sh).
+
+### Discovery and Installation
+
+- `find_skill_directories()`, `find_command_files()`, and `find_hook_directories()` recursively scan repository
+- Installation copies from repository to personal/project directories
+- Search uses fuzzy matching on names, descriptions, and file contents
+- Hook installation also updates `settings.json` with the hook configuration
+
+## Key Conventions
+
+- **Naming**: Skills and commands use lowercase-with-hyphens naming
+- **Frontmatter**: YAML between `---` delimiters at file start
+- **Tools restriction**: `allowed-tools` field limits which Claude tools the skill/command can use
+- **Repository path**: Must be configured via `skillz config set repository /path/to/repo`
+
+## Install --all Feature
+
+The `install --all` command installs all skills and commands from the repository in a single operation:
+- Discovers all valid skills and commands from repository
+- Validates each before installation
+- Provides progress feedback during batch installation
+- Supports `--dry-run` to preview what would be installed
+- Respects `--target` (personal/project) and `--force` options
+
+## Hooks CLI Commands
+
+The `skillz hooks` command group manages Claude Code hooks:
+
+```bash
+# List available hooks from repository
+skillz hooks list --target repo
+
+# List installed hooks
+skillz hooks list --target personal
+
+# Install a hook
+skillz hooks install lab-notebook
+
+# Uninstall a hook
+skillz hooks uninstall lab-notebook
+
+# Get hook info
+skillz hooks info lab-notebook
+
+# Search for hooks
+skillz hooks search "format"
+
+# Create a new hook from template
+skillz hooks create my-hook --event PostToolUse
+```
+
+### Available Hooks
+
+- **lab-notebook**: Generate lab notebook entries from Claude Code sessions (SessionEnd)
+- **prettier-on-save**: Auto-format JS/TS/CSS/JSON files with Prettier (PostToolUse)
+- **black-on-save**: Auto-format Python files with Black (PostToolUse)
+- **protect-secrets**: Block writes to sensitive files like .env (PreToolUse, blocking)
+- **bash-logger**: Log all bash commands for audit (PreToolUse)
+- **notify-done**: Desktop notification when Claude needs input (Stop)
+
+## Agents CLI Commands
+
+The `skillz agents` command group manages Claude Code subagents:
+
+```bash
+# List available agents from repository
+skillz agents list --target repo
+
+# List installed agents
+skillz agents list --target personal
+
+# Install an agent
+skillz agents install code-reviewer
+
+# Uninstall an agent
+skillz agents uninstall code-reviewer
+
+# Get agent info
+skillz agents info code-reviewer
+
+# Search for agents
+skillz agents search "test"
+
+# Create a new agent from template
+skillz agents create my-agent --model sonnet
+
+# Create an agent using AI (Claude CLI)
+skillz agents create my-agent --prompt "An agent that analyzes code complexity"
+```
+
+### Available Agents
+
+- **code-reviewer**: Analyzes code for quality, security issues, and best practices
+- **debugger**: Traces issues through code, analyzes errors, suggests fixes
+- **literature-searcher**: Searches academic papers and technical resources
+- **test-writer**: Generates comprehensive test cases and suites
+- **doc-writer**: Creates documentation, READMEs, and API docs
+
+### Agents Validation
+
+Agents must have valid name (lowercase, hyphens, max 64 chars), description (max 1024 chars), valid model (sonnet/opus/haiku), and valid tools list.
+
+## Available Commands
+
+Slash commands for common tasks:
+
+### Git & Workflow
+- `/commit` - Generate commit message from staged changes
+- `/pr` - Generate PR description from branch commits
+- `/changelog` - Generate changelog entry
+
+### Code Quality
+- `/review <file>` - Quick code review
+- `/explain <file>` - Explain code in plain English
+- `/refactor <file>` - Suggest refactoring improvements
+- `/fix <error>` - Diagnose and fix errors
+
+### Documentation
+- `/doc <file>` - Generate docstrings/comments
+- `/readme [section]` - Generate README content
+- `/api <module>` - Generate API documentation
+
+### Research
+- `/cite <url|doi>` - Format citation
+- `/lab-entry <title>` - Create lab notebook entry
+- `/summarize <file|url>` - Summarize content
+
+### Analysis
+- `/deps` - Analyze project dependencies
+- `/todo [path]` - Extract TODOs from codebase
+- `/find-usage <name>` - Find where identifier is used
+
+## AI-Assisted Creation
+
+All three types support AI-assisted creation using the Claude CLI:
+
+```bash
+# Create a skill using AI
+skillz create --type skill --name my-skill --prompt "A skill for analyzing Python code style"
+
+# Create a hook using AI
+skillz hooks create my-hook --event PostToolUse --prompt "Format Python files with black"
+
+# Create an agent using AI
+skillz agents create my-agent --prompt "An agent that reviews security vulnerabilities"
+```
+
+## Common Patterns
+
+**Adding a new CLI command**: Create file in `cli/commands/`, implement as Click command, import and register in `cli/main.py`.
+
+**Creating a skill**: Use `skillz create --type skill` or manually create directory with SKILL.md containing proper frontmatter.
+
+**Creating a hook**: Use `skillz hooks create my-hook` or manually create directory with HOOK.md and hook.py.
+
+**Creating an agent**: Use `skillz agents create my-agent` or manually create .md file with proper frontmatter.
+
+**Validation errors**: SkillValidator, CommandValidator, HookValidator, and AgentValidator all return `(is_valid, list_of_errors)` tuples.
+
+## Git Policy
+
+Never use `--no-verify` with git commands per user's global instructions.
