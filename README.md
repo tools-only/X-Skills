@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6 AI-powered skills** organized into 4 categories.
+A curated collection of **3 AI-powered skills** organized into 3 categories.
 
 ## Overview
 
@@ -8,49 +8,32 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation**: 2 skills
-- **Content Creation**: 2 skills
-- **Development**: 1 skill
-- **Research**: 1 skill
+- **Automation** (1 skill)
+- **Daily Assistant** (1 skill)
+- **Development** (1 skill)
+
+## Skills Directory
+
+
+### Automation (1 skills)
+
+| Skill | Source | Tags |
+|-------|--------|------|
+| [workflow-automator](automation/workflow-automator_1a7e6bf3/) | [test-repo](https://github.com/test/test) | `automation` `workflow` `script` |
+
+### Daily Assistant (1 skills)
+
+| Skill | Source | Tags |
+|-------|--------|------|
+| [task-manager](daily-assistant/task-manager_accd2ca4/) | [test-repo](https://github.com/test/test) | `task` `todo` `productivity` |
+
+### Development (1 skills)
+
+| Skill | Source | Tags |
+|-------|--------|------|
+| [code-debugger](development/code-debugger_96eb9e1a/) | [test-repo](https://github.com/test/test) | `debug` `development` `coding` |
 
 ## Repository Structure
 
 ```
 X-Skills/
-├── automation/
-├── content-creation/
-├── development/
-├── research/
-```
-
-## How Skills Are Organized
-
-Skills are automatically categorized based on their purpose:
-
-- **Development**: Coding, debugging, testing, and developer tools
-- **Daily Assistant**: Task management, scheduling, and reminders
-- **Content Creation**: Writing, editing, and content generation
-- **Data Analysis**: Visualization, statistics, and data processing
-- **Automation**: Workflows, scripts, and task automation
-- **Research**: Academic tools, citations, and literature
-- **Communication**: Email, messaging, and collaboration
-- **Productivity**: Efficiency tools and optimization
-- **Commercial**: E-commerce and business tools
-- **Investment**: Trading, stocks, and financial analysis
-
-## Usage
-
-These skills can be used with AI coding assistants:
-
-1. Browse the category folders to find relevant skills
-2. Copy the skill content to your project
-3. Use with Claude Code or similar AI assistants
-
-## Contributing
-
-This repository is automatically maintained by [SkillFlow](https://github.com/tools-only/SkillFlow). Skills are aggregated from open-source repositories.
-
----
-
-*Last updated: 2026-02-01 04:15:15 UTC*
-*Automatically maintained by SkillFlow*
