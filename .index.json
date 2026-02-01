@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-01T17:11:20.788098",
+  "updated_at": "2026-02-01T17:12:08.345692",
   "skills": [
     {
       "file_hash": "bdf76394dcc8ea856ec496573b50b341a94c30e888b74969b7f9b6778e65cca9",
@@ -561,6 +561,237 @@
       "name": "PDF Image Extraction (Task B1.5)",
       "indexed_at": "2026-02-01T17:11:20.788025",
       "repo_stars": 8673,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "1de046e53b69f56a34a290bc6604b556453e0c2010d0b25d7852695836d5cac6",
+      "source_path": "docs/features/PDF_CHUNKING.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/pdf_chunking_1de046e5",
+      "category": "development",
+      "name": "PDF Page Detection and Chunking (Task B1.3)",
+      "indexed_at": "2026-02-01T17:12:07.905320",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "a12c273937c36597d9a1940e0c67ee236ea154e5c75af1aac61a1c609b7f3c73",
+      "source_path": "docs/features/PDF_SCRAPER.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/pdf_scraper_a12c2739",
+      "category": "development",
+      "name": "PDF Scraper CLI Tool (Tasks B1.6 + B1.8)",
+      "indexed_at": "2026-02-01T17:12:07.933179",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "64b669d1339a9bba27a2ba6c556df2481ee6fedd31a7ee0ac0548c4ac03c3800",
+      "source_path": "docs/features/UNIFIED_SCRAPING.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/unified_scraping_64b669d1",
+      "category": "development",
+      "name": "Unified Multi-Source Scraping",
+      "indexed_at": "2026-02-01T17:12:07.961389",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "5d512cbf6cd51c6a1ea642430a31d4ce6f3ca11d0db28f13d42ff0fd445c6fc9",
+      "source_path": "docs/guides/MCP_SETUP.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/mcp_setup_5d512cbf",
+      "category": "development",
+      "name": "Complete MCP Setup Guide - MCP 2025 (v2.7.0)",
+      "indexed_at": "2026-02-01T17:12:07.984902",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "9f6ee563f222358d85334f25996344aeb9f68e3ea76cc85fa143f8f8d3c56cb4",
+      "source_path": "docs/guides/MULTI_AGENT_SETUP.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/multi_agent_setup_9f6ee563",
+      "category": "development",
+      "name": "Multi-Agent Auto-Configuration Guide",
+      "indexed_at": "2026-02-01T17:12:07.997948",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "525cb4bb9cc41445887a8844b918cf80a906dc339b7097a79ec91613ab35bc3d",
+      "source_path": "docs/guides/TESTING_GUIDE.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/testing_guide_525cb4bb",
+      "category": "development",
+      "name": "CI",
+      "indexed_at": "2026-02-01T17:12:08.021341",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "ea2cf3f671bc7010360097c678d51868aab6ca33882a9abcafe935e7c8e64e96",
+      "source_path": "docs/integrations/MULTI_LLM_SUPPORT.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/multi_llm_support_ea2cf3f6",
+      "category": "development",
+      "name": "Multi-LLM Platform Support Guide",
+      "indexed_at": "2026-02-01T17:12:08.046027",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "d1b232ed41160b6c07421705816cf446fcf99894a948ef5b6a5df3d5bb41f751",
+      "source_path": "docs/reference/AI_SKILL_STANDARDS.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/ai_skill_standards_d1b232ed",
+      "category": "development",
+      "name": "building-react-applications  # kebab-case, gerund form",
+      "indexed_at": "2026-02-01T17:12:08.067734",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "76f12f0a98c4c83e731858f6013729d81ac3cc4346750d3a82722b8284277f81",
+      "source_path": "docs/reference/C3_x_Router_Architecture.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/c3_x_router_architecture_76f12f0a",
+      "category": "development",
+      "name": "fastmcp",
+      "indexed_at": "2026-02-01T17:12:08.085353",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "4439bd68f28e6b14f2506d457b57626b46795d910700b088988f7adf04133f3b",
+      "source_path": "docs/reference/FEATURE_MATRIX.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/feature_matrix_4439bd68",
+      "category": "development",
+      "name": "Skill Seekers Feature Matrix",
+      "indexed_at": "2026-02-01T17:12:08.103691",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "7155fc980419b978ed0902d15b9ba6346593d34886c59754697592a10d7ce9c3",
+      "source_path": "docs/reference/SKILL_ARCHITECTURE.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/skill_architecture_7155fc98",
+      "category": "development",
+      "name": "travel_planner",
+      "indexed_at": "2026-02-01T17:12:08.118256",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "7dde3bec021468d3f92d0272cdb2ea35707d0c760a764cfc5219134737c903c0",
+      "source_path": "docs/roadmap/INTELLIGENCE_SYSTEM_RESEARCH.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/intelligence_system_research_7dde3bec",
+      "category": "development",
+      "name": "Skill Seekers Intelligence System - Research Topics",
+      "indexed_at": "2026-02-01T17:12:08.138911",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "2a5c42683fa3479b6b50753405acb3da1e9f06746b6c344b2612e08c61b6f444",
+      "source_path": "docs/archive/historical/ARCHITECTURE_VERIFICATION_REPORT.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/architecture_verification_report_2a5c4268",
+      "category": "development",
+      "name": "Architecture Verification Report",
+      "indexed_at": "2026-02-01T17:12:08.166452",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "98cb21bb0edd4ae844e59a991e35a6a9852234ad9309dff723699386bd161f7e",
+      "source_path": "docs/archive/historical/IMPLEMENTATION_SUMMARY_THREE_STREAM.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/implementation_summary_three_stream_98cb21bb",
+      "category": "development",
+      "name": "Three-Stream GitHub Architecture - Implementation Summary",
+      "indexed_at": "2026-02-01T17:12:08.186253",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "61187af5365f4d0c6b47ae8388e83f447b8cfa3950ed56a413b23491853a6b20",
+      "source_path": "docs/archive/historical/THREE_STREAM_COMPLETION_SUMMARY.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/three_stream_completion_summary_61187af5",
+      "category": "development",
+      "name": "Three-Stream GitHub Architecture - Completion Summary",
+      "indexed_at": "2026-02-01T17:12:08.206761",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "e5a0f9eeab4eb5f19c7d2227e289de557f005fe30ea8b205ec978484ad2814d0",
+      "source_path": "docs/archive/research/PDF_EXTRACTOR_POC.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/pdf_extractor_poc_e5a0f9ee",
+      "category": "development",
+      "name": "PDF Extractor - Proof of Concept (Task B1.2)",
+      "indexed_at": "2026-02-01T17:12:08.215993",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "cfcd74673a00670c16fc8aeddddc811837a9326e10b7e6c5aab43f9e08a79cce",
+      "source_path": "docs/archive/research/PDF_PARSING_RESEARCH.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "development/pdf_parsing_research_cfcd7467",
+      "category": "development",
+      "name": "PDF Parsing Libraries Research (Task B1.1)",
+      "indexed_at": "2026-02-01T17:12:08.238980",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "78a1d38e30f6bb5e369954b482b277817839a72050174fb8cd6da26ac494292d",
+      "source_path": "docs/guides/USAGE.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "content-creation/usage_78a1d38e",
+      "category": "content-creation",
+      "name": "my-framework",
+      "indexed_at": "2026-02-01T17:12:08.263992",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "70ebdad1fec15d0c7d1a5599f23dd7a685892bb70a1c91ca853f3537c5b83f42",
+      "source_path": "docs/reference/LARGE_DOCUMENTATION.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "productivity/large_documentation_70ebdad1",
+      "category": "productivity",
+      "name": "godot",
+      "indexed_at": "2026-02-01T17:12:08.287034",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "1d9049757a8189624aa9864d970579bd3a17432f77400781181477d0135019e9",
+      "source_path": "docs/archive/plans/2025-10-24-active-skills-design.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "productivity/2025-10-24-active-skills-design_1d904975",
+      "category": "productivity",
+      "name": "{name}",
+      "indexed_at": "2026-02-01T17:12:08.320074",
+      "repo_stars": 8675,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "e202b9179e072a01500dc702150bfc0f5f60d0e172bbf9acd21331d2b82cf064",
+      "source_path": "docs/archive/research/PDF_SYNTAX_DETECTION.md",
+      "source_repo": "yusufkaraaslan/Skill_Seekers",
+      "local_path": "data-analysis/pdf_syntax_detection_e202b917",
+      "category": "data-analysis",
+      "name": "PDF Code Block Syntax Detection (Task B1.4)",
+      "indexed_at": "2026-02-01T17:12:08.345641",
+      "repo_stars": 8675,
       "repo_updated_at": null
     }
   ]
