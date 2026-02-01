@@ -1,33 +1,15 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-01T06:59:12.715416",
+  "updated_at": "2026-02-01T06:59:15.446781",
   "skills": [
     {
-      "file_hash": "96eb9e1ac053c8008f6724e145ee462a8893240dead46c985d22a6430baec28c",
-      "source_path": "/tmp/skillflow_test_wzorsbay/code-debugger.md",
-      "source_repo": "test-repo",
-      "local_path": "development/code-debugger_96eb9e1a",
+      "file_hash": "8b144729300ec00057cf664674392592438018e1b874d7825c7b10df0cbe6263",
+      "source_path": "/tmp/skillflow_cli_test_1ljrgidt/test-skill.md",
+      "source_repo": "local",
+      "local_path": "development/test-skill_8b144729",
       "category": "development",
-      "name": "code-debugger",
-      "indexed_at": "2026-02-01T06:59:12.704886"
-    },
-    {
-      "file_hash": "1a7e6bf398163cf593151fd447cd3a40eefaa2978f4508dc46711e8b52416345",
-      "source_path": "/tmp/skillflow_test_wzorsbay/workflow-automator.md",
-      "source_repo": "test-repo",
-      "local_path": "automation/workflow-automator_1a7e6bf3",
-      "category": "automation",
-      "name": "workflow-automator",
-      "indexed_at": "2026-02-01T06:59:12.709325"
-    },
-    {
-      "file_hash": "accd2ca4c15e6061eb6a54ec4d031571d1d0cb21c1e56eb49d3c69535b925088",
-      "source_path": "/tmp/skillflow_test_wzorsbay/task-manager.md",
-      "source_repo": "test-repo",
-      "local_path": "daily-assistant/task-manager_accd2ca4",
-      "category": "daily-assistant",
-      "name": "task-manager",
-      "indexed_at": "2026-02-01T06:59:12.715355"
+      "name": "test-skill",
+      "indexed_at": "2026-02-01T06:59:15.446429"
     }
   ]
 }
