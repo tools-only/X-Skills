@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **321 AI-powered skills** organized into 11 categories.
+A curated collection of **76 AI-powered skills** organized into 9 categories.
 
 ## Overview
 
@@ -8,396 +8,139 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (17 skills)
-- **Commercial** (28 skills)
-- **Communication** (24 skills)
-- **Content Creation** (10 skills)
-- **Daily Assistant** (4 skills)
-- **Data Analysis** (6 skills)
-- **Development** (210 skills)
-- **Investment** (2 skills)
-- **Other** (2 skills)
-- **Productivity** (8 skills)
-- **Research** (10 skills)
+- **Automation** (10 skills)
+- **Commercial** (16 skills)
+- **Content Creation** (1 skill)
+- **Daily Assistant** (1 skill)
+- **Development** (10 skills)
+- **Investment** (7 skills)
+- **Other** (15 skills)
+- **Productivity** (14 skills)
+- **Research** (2 skills)
 
 ## Skills Directory
 
 
-### Automation (17 skills)
+### Automation (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [prompt-engineering](automation/skill_ce33b261/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/SKILL.md) | ⭐ 80 | `prompt-engineering` `few-shot-learning` `chain-of-thought` |
-| [!Sub](automation/examples_fa7b7b14/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-dynamodb/examples.md) | ⭐ 80 | `automation` |
-| [!Sub](automation/reference_efbeeb8f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/reference.md) | ⭐ 80 | `automation` |
-| [!Sub](automation/reference_d68a9742/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-lambda/reference.md) | ⭐ 80 | `automation` |
-| [langchain4j-vector-stores-configuration](automation/skill_31eff50e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/SKILL.md) | ⭐ 80 | `langchain4j` `vector-stores` `embeddings` |
-| [spring-boot-actuator](automation/skill_0e06814a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/SKILL.md) | ⭐ 80 | `spring-boot` `actuator` `monitoring` |
-| [Developer Kit](automation/aws-bedrock-api-reference_04c949b3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/aws-bedrock-api-reference.md) | ⭐ 80 | `automation` |
-| [command-creator](automation/skill_250a46eb/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/SKILL.md) | ⭐ 383 | `automation` |
-| [Section Checklist by Project Type](automation/section-checklist_e9da988c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/section-checklist.md) | ⭐ 383 | `automation` |
-| [dependency-updater](automation/skill_e3a63ca4/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/dependency-updater/SKILL.md) | ⭐ 383 | `automation` |
-| [game-changing-features](automation/skill_b700ff1d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/game-changing-features/SKILL.md) | ⭐ 383 | `automation` |
-| [web-to-markdown](automation/skill_9c61df95/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/web-to-markdown/SKILL.md) | ⭐ 383 | `automation` |
-| [Command Examples](automation/examples_3f55c544/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/references/examples.md) | ⭐ 383 | `automation` |
-| [Config Directory README Template](automation/xdg-config_12909537/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/xdg-config.md) | ⭐ 383 | `automation` |
-| [Difficult Conversation Preparation Template](automation/preparation-template_2ebe535c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/preparation-template.md) | ⭐ 383 | `daily assistant` |
-| [Sequence Diagrams](automation/sequence-diagrams_11900f08/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/sequence-diagrams.md) | ⭐ 383 | `automation` |
-| [Figma Design Validation with MCP](automation/figma_validation_e0253fb3/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/figma_validation.md) | ⭐ 383 | `automation` |
+| [Reasoning Workflow](automation/reasoning_20440682/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/workflows/reasoning.md) | ⭐ 14 | `automation` |
+| [System Workflow](automation/system_4fe83d90/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/workflows/system.md) | ⭐ 14 | `automation` |
+| [fnd.r-scoring-problems](automation/skill_337e2bc7/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-scoring-problems/SKILL.md) | ⭐ 14 | `data analysis` |
+| [sys-activating-goals](automation/skill_7a2c650e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-activating-goals/SKILL.md) | ⭐ 14 | `automation` |
+| [sys-decomposing-goals](automation/skill_a841e031/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-decomposing-goals/SKILL.md) | ⭐ 14 | `content creation` |
+| [sys-indexing-directories](automation/skill_7c5e6383/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-indexing-directories/SKILL.md) | ⭐ 14 | `content creation` |
+| [sys-tracking-goals](automation/skill_16ca98c0/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-tracking-goals/SKILL.md) | ⭐ 14 | `daily assistant` |
+| [Monitoring Mode](automation/monitoring_e88172db/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/monitoring.md) | ⭐ 14 | `daily assistant` |
+| [Causal Mode](automation/causal_f6c5813f/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/causal.md) | ⭐ 14 | `automation` |
+| [Index Templates](automation/templates_2ef39389/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-indexing-directories/references/templates.md) | ⭐ 14 | `automation` |
 
-### Commercial (28 skills)
+### Commercial (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Workflow Name                    # Human-readable name](commercial/reference_6dc7aeaf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/reference.md) | ⭐ 80 | `commercial` |
-| [Type: String](commercial/examples_76b6709a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-vpc/examples.md) | ⭐ 80 | `commercial` |
-| [unit-test-caching](commercial/skill_357fba6f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-caching/SKILL.md) | ⭐ 80 | `junit-5` `caching` `cacheable` |
-| [Advanced Retrieval Strategies](commercial/retrieval-strategies_4db0afd8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/retrieval-strategies.md) | ⭐ 80 | `data analysis` |
-| [Vector Database Comparison and Configuration](commercial/vector-databases_164e1a30/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/vector-databases.md) | ⭐ 80 | `commercial` |
-| [AWS RDS Aurora Troubleshooting Guide](commercial/troubleshooting_05dbdb3f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-rds-spring-boot-integration/references/troubleshooting.md) | ⭐ 80 | `commercial` |
-| [Developer Kit](commercial/aws-sdk-examples_0054e1cd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/aws-sdk-examples.md) | ⭐ 80 | `commercial` |
-| [Advanced Operations Reference](commercial/advanced-operations_6f5b2186/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/advanced-operations.md) | ⭐ 80 | `commercial` |
-| [LangChain4j RAG Implementation - Practical Examples](commercial/examples_ef395526/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-rag-implementation-patterns/references/examples.md) | ⭐ 80 | `commercial` |
-| [gpt-4o-mini](commercial/configuration_84779004/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/configuration.md) | ⭐ 80 | `commercial` |
-| [LangChain4j Vector Stores - API References](commercial/api-reference_f0515c8f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/references/api-reference.md) | ⭐ 80 | `commercial` |
-| [Enabling Actuator](commercial/enabling_793fb6cb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/enabling.md) | ⭐ 80 | `commercial` |
-| [admin](commercial/monitoring_2d0647c2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/monitoring.md) | ⭐ 80 | `commercial` |
-| [Supported Cache Providers](commercial/spring-cache-doc-snippet_9216da7f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/references/spring-cache-doc-snippet.md) | ⭐ 80 | `commercial` |
-| [Compensating Transactions](commercial/05-compensating-transactions_91fb6d71/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-saga-pattern/references/05-compensating-transactions.md) | ⭐ 80 | `commercial` |
-| [c4-architecture](commercial/skill_e27b4bac/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/SKILL.md) | ⭐ 383 | `commercial` |
-| [qa-test-planner](commercial/skill_64adcbcf/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/SKILL.md) | ⭐ 383 | `commercial` |
-| [Better Alternatives to useEffect](commercial/alternatives_cbb4551e/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/alternatives.md) | ⭐ 383 | `commercial` |
-| [useEffect Anti-Patterns](commercial/anti-patterns_69146321/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/anti-patterns.md) | ⭐ 383 | `commercial` |
-| [Advanced C4 Architecture Patterns](commercial/advanced-patterns_d7cfb170/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/advanced-patterns.md) | ⭐ 383 | `commercial` |
-| [C4 Mermaid Diagram Syntax Reference](commercial/c4-syntax_8c9d1f3a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/c4-syntax.md) | ⭐ 383 | `commercial` |
-| [Marp Image Syntax Reference](commercial/image-patterns_4fef8ba8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/image-patterns.md) | ⭐ 383 | `commercial` |
-| [C4 Model Diagrams](commercial/c4-diagrams_28e73813/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/c4-diagrams.md) | ⭐ 383 | `commercial` |
-| [Class Diagrams](commercial/class-diagrams_5eba3606/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/class-diagrams.md) | ⭐ 383 | `commercial` |
-| [Flowcharts](commercial/flowcharts_73b59979/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/flowcharts.md) | ⭐ 383 | `commercial` |
-| [Bug Report Templates](commercial/bug_report_templates_f33e07f8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/bug_report_templates.md) | ⭐ 383 | `commercial` |
-| [Regression Testing Guide](commercial/regression_testing_e239509c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/regression_testing.md) | ⭐ 383 | `commercial` |
-| [string; quantity: number };](commercial/react-19-patterns_385551bd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/react-19-patterns.md) | ⭐ 383 | `commercial` |
+| [Operating Instructions](commercial/claude_152e4570/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/CLAUDE.md) | ⭐ 14 | `commercial` |
+| [Artifacts](commercial/index_93db7972/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/index.md) | ⭐ 14 | `commercial` |
+| [fnd-researcher](commercial/fnd-researcher_c5926e5e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/agents/fnd-researcher.md) | ⭐ 14 | `commercial` |
+| [Product Artifacts](commercial/index_d4ba9a5b/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/product/index.md) | ⭐ 14 | `commercial` |
+| [` field in YAML |](commercial/naming-conventions_e16d337d/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/references/naming-conventions.md) | ⭐ 14 | `commercial` |
+| [What is LeanOS Pro?](commercial/what-is-leanos-pro_ac126878/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/references/what-is-leanos-pro.md) | ⭐ 14 | `commercial` |
+| [fnd-validating-gates](commercial/skill_3520130f/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd-validating-gates/SKILL.md) | ⭐ 14 | `commercial` |
+| [fnd.r-sizing-markets](commercial/skill_d5de6e27/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-sizing-markets/SKILL.md) | ⭐ 14 | `commercial` |
+| [Observable Filters Guide](commercial/filters_8c475e63/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-segmenting-customers/references/filters.md) | ⭐ 14 | `commercial` |
+| [Pain Intensity & Prioritization Rubric](commercial/scoring_6c93af32/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-segmenting-customers/references/scoring.md) | ⭐ 14 | `commercial` |
+| [Segments Canvas Output Template](commercial/template_f6282bb0/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-segmenting-customers/references/template.md) | ⭐ 14 | `commercial` |
+| [Creative Thinking Anti-Patterns](commercial/anti-patterns_e2956f61/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/references/anti-patterns.md) | ⭐ 14 | `commercial` |
+| [Creative Thinking Worked Examples](commercial/examples_a49caf2f/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/references/examples.md) | ⭐ 14 | `commercial` |
+| [Creative Thinking Pattern Catalog](commercial/patterns_0a1e5d90/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/references/patterns.md) | ⭐ 14 | `commercial` |
+| [Filtering Mode](commercial/filtering_1891bab3/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/filtering.md) | ⭐ 14 | `commercial` |
+| [Analogical Mode](commercial/analogical_71a1defa/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/analogical.md) | ⭐ 14 | `commercial` |
 
-### Communication (24 skills)
+### Content Creation (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Long-Running Agent - Mark Feature Status](communication/devkitlramark-feature_e49043e4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.mark-feature.md) | ⭐ 80 | `communication` |
-| [unit-test-bean-validation](communication/skill_b2b392bf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-bean-validation/SKILL.md) | ⭐ 80 | `junit-5` `validation` `bean-validation` |
-| [langchain4j-tool-function-calling-patterns](communication/skill_2cf6f827/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 80 | `langchain4j` `tools` `function-calling` |
-| [LangChain4j RAG Implementation Guide](communication/langchain4j-rag-guide_3559546e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/langchain4j-rag-guide.md) | ⭐ 80 | `data analysis` |
-| [Detailed SNS Operations Reference](communication/detailed-sns-operations_5a4f436f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sns-operations.md) | ⭐ 80 | `communication` |
-| [%s](communication/implementation-patterns_9cc10d66/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-tool-function-calling-patterns/references/implementation-patterns.md) | ⭐ 80 | `communication` |
-| [my-application](communication/tracing_8e70bed2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/tracing.md) | ⭐ 80 | `communication` |
-| [Spring Security JWT Implementation Examples](communication/examples_448a1a09/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/examples.md) | ⭐ 80 | `data analysis` |
-| [ascii-ui-mockup-generator](communication/ascii-ui-mockup-generator_6e9b56b2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/ascii-ui-mockup-generator.md) | ⭐ 383 | `data analysis` |
-| [communication-excellence-coach](communication/communication-excellence-coach_37ddb040/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/communication-excellence-coach.md) | ⭐ 383 | `communication` |
-| [Draft Professional Email](communication/compose-email_ea6c231a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/compose-email.md) | ⭐ 383 | `communication` |
-| [meme-factory](communication/skill_93244397/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/SKILL.md) | ⭐ 383 | `communication` |
-| [professional-communication](communication/skill_05ad4e12/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/SKILL.md) | ⭐ 383 | `communication` |
-| [Commit message template (Conventional Commits)](communication/commit-message-template_2a37c812/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/commit-work/references/commit-message-template.md) | ⭐ 383 | `communication` |
-| [Database Schema Design Checklist](communication/schema-design-checklist_91643f65/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/database-schema-designer/references/schema-design-checklist.md) | ⭐ 383 | `communication` |
-| [Design System Checklist](communication/design-system-checklist_09b98597/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/design-system-starter/checklists/design-system-checklist.md) | ⭐ 383 | `content creation` |
-| [Difficult Conversation Framework](communication/conversation-framework_7bde1cef/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/conversation-framework.md) | ⭐ 383 | `daily assistant` |
-| [Meme Generation Examples](communication/examples_989145b5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/references/examples.md) | ⭐ 383 | `communication` |
-| [Marketplace Schema Reference](communication/marketplace-schema_5a9b0859/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/marketplace-schema.md) | ⭐ 383 | `communication` |
-| [Plugin Structure Reference](communication/plugin-structure_88bdce43/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/plugin-structure.md) | ⭐ 383 | `communication` |
-| [Email Templates for Developers](communication/email-templates_01c238a6/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/email-templates.md) | ⭐ 383 | `daily assistant` |
-| [Remote and Async Communication](communication/remote-async-communication_b79cfc6b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/remote-async-communication.md) | ⭐ 383 | `content creation` |
-| [string; email: string };](communication/hooks_f2780114/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/hooks.md) | ⭐ 383 | `communication` |
-| [PAGNI: Probably Are Gonna Need It](communication/expensive-to-add-later_e00a5bb7/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/expensive-to-add-later.md) | ⭐ 383 | `communication` |
+| [sys-executing-threads](content-creation/skill_4e959e81/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-executing-threads/SKILL.md) | ⭐ 14 | `content creation` |
 
-### Content Creation (10 skills)
+### Daily Assistant (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [spring-data-jpa](content-creation/skill_3f79fac1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/SKILL.md) | ⭐ 80 | `spring-data` `jpa` `database` |
-| [Spring Data JPA - Reference Documentation](content-creation/reference_d0f5f765/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/references/reference.md) | ⭐ 80 | `content creation` |
-| [crafting-effective-readmes](content-creation/skill_638b271f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/SKILL.md) | ⭐ 383 | `content creation` |
-| [README Style Guide](content-creation/style-guide_9bc63081/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/style-guide.md) | ⭐ 383 | `content creation` |
-| [database-schema-designer](content-creation/skill_e485710c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/database-schema-designer/SKILL.md) | ⭐ 383 | `content creation` |
-| [openapi-to-typescript](content-creation/skill_a27383fc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/openapi-to-typescript/SKILL.md) | ⭐ 383 | `content creation` |
-| [reducing-entropy](content-creation/skill_50958820/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/SKILL.md) | ⭐ 383 | `content creation` |
-| [writing-clearly-and-concisely](content-creation/skill_c5f4ecc8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/SKILL.md) | ⭐ 383 | `content creation` |
-| [Entity Relationship Diagrams (ERD)](content-creation/erd-diagrams_639ee58f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/erd-diagrams.md) | ⭐ 383 | `content creation` |
-| [Agent Toolkit](content-creation/04-a-few-matters-of-form_150feae0/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/04-a-few-matters-of-form.md) | ⭐ 383 | `content creation` |
+| [Daily Routine](daily-assistant/daily-routine_04e82941/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/workflows/daily-routine.md) | ⭐ 14 | `daily assistant` |
 
-### Daily Assistant (4 skills)
+### Development (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Using References](daily-assistant/using-references_de80ec04/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/using-references.md) | ⭐ 383 | `daily assistant` |
-| [gepetto](daily-assistant/skill_6a52b885/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/SKILL.md) | ⭐ 383 | `daily assistant` |
-| [Section File Writing](daily-assistant/section-splitting_08826730/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/section-splitting.md) | ⭐ 383 | `daily assistant` |
-| [Model-Specific Expectations](daily-assistant/model-expectations_13f79fdd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/model-expectations.md) | ⭐ 383 | `daily assistant` |
+| [Bug report](development/bug_report_5782fb58/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 14 | `development` |
+| [Feature request](development/feature_request_63f63851/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 14 | `development` |
+| [Foundations Workflow](development/foundations_93efd0c4/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/workflows/foundations.md) | ⭐ 14 | `development` |
+| [fnd.r-segmenting-customers](development/skill_5d4f62fc/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-segmenting-customers/SKILL.md) | ⭐ 14 | `content creation` |
+| [Creative Thinking Audit Rubric](development/audit-rubric_89ce3a0e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/references/audit-rubric.md) | ⭐ 14 | `development` |
+| [Experimentation](development/experimentation_b6eed1d8/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/experimentation.md) | ⭐ 14 | `development` |
+| [Abductive Mode](development/abductive_070f4c8e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/abductive.md) | ⭐ 14 | `development` |
+| [Mental Models Reference](development/mental-models_c47d90e5/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/mental-models.md) | ⭐ 14 | `data analysis` |
+| [Templates](development/templates_c1b786b4/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/templates.md) | ⭐ 14 | `daily assistant` |
+| [```python](development/patterns_cfbc333b/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-indexing-directories/references/patterns.md) | ⭐ 14 | `development` |
 
-### Data Analysis (6 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Visualization and Evaluation Tools](data-analysis/visualization-tools_3cbd984b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/visualization-tools.md) | ⭐ 80 | `data analysis` |
-| [Prompt Optimization Frameworks](data-analysis/optimization-frameworks_ab1c32c1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/optimization-frameworks.md) | ⭐ 80 | `data analysis` |
-| [enterprise-mcp-server](data-analysis/examples_0bde65bd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-ai/spring-ai-mcp-server-patterns/references/examples.md) | ⭐ 80 | `content creation` |
-| [mermaid-diagram-specialist](data-analysis/mermaid-diagram-specialist_e096b691/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/mermaid-diagram-specialist.md) | ⭐ 383 | `data analysis` |
-| [excalidraw](data-analysis/skill_561c01a2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/excalidraw/SKILL.md) | ⭐ 383 | `data analysis` |
-| [Commands Reference](data-analysis/commands_a3c2087f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/references/commands.md) | ⭐ 383 | `content creation` |
-
-### Development (210 skills)
+### Investment (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [general-debugger](development/general-debugger_a846c27a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-debugger.md) | ⭐ 80 | `development` |
-| [docker-expert](development/general-docker-expert_ddf9bdb1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-docker-expert.md) | ⭐ 80 | `development` |
-| [general-refactor-expert](development/general-refactor-expert_d9ad5ed0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-refactor-expert.md) | ⭐ 80 | `development` |
-| [general-software-architect](development/general-software-architect_92467643/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-software-architect.md) | ⭐ 80 | `development` |
-| [java-refactor-expert](development/java-refactor-expert_8517f96b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/java-refactor-expert.md) | ⭐ 80 | `development` |
-| [langchain4j-ai-development-expert](development/langchain4j-ai-development-expert_c0fc9640/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/langchain4j-ai-development-expert.md) | ⭐ 80 | `development` |
-| [nestjs-backend-development-expert](development/nestjs-backend-development-expert_9111672c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-backend-development-expert.md) | ⭐ 80 | `development` |
-| [nestjs-database-expert](development/nestjs-database-expert_7aa88d59/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-database-expert.md) | ⭐ 80 | `development` |
-| [nestjs-testing-expert](development/nestjs-testing-expert_7e7cc489/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-testing-expert.md) | ⭐ 80 | `development` |
-| [nestjs-unit-testing-expert](development/nestjs-unit-testing-expert_3a3025ca/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-unit-testing-expert.md) | ⭐ 80 | `development` |
-| [php-refactor-expert](development/php-refactor-expert_adf67a60/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/php-refactor-expert.md) | ⭐ 80 | `development` |
-| [python-code-review-expert](development/python-code-review-expert_82ef83fd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/python-code-review-expert.md) | ⭐ 80 | `development` |
-| [python-security-expert](development/python-security-expert_02b4c520/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/python-security-expert.md) | ⭐ 80 | `development` |
-| [react-frontend-development-expert](development/react-frontend-development-expert_e2ac63b5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/react-frontend-development-expert.md) | ⭐ 80 | `development` |
-| [spring-boot-code-review-expert](development/spring-boot-code-review-expert_8d763c22/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/spring-boot-code-review-expert.md) | ⭐ 80 | `development` |
-| [typescript-documentation-expert](development/typescript-documentation-expert_34e891ae/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/typescript-documentation-expert.md) | ⭐ 80 | `development` |
-| [typescript-security-expert](development/typescript-security-expert_2214bc88/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/typescript-security-expert.md) | ⭐ 80 | `development` |
-| [typescript-software-architect-review](development/typescript-software-architect-review_fa8474f3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/typescript-software-architect-review.md) | ⭐ 80 | `development` |
-| [wordpress-development-expert](development/wordpress-development-expert_cfb30fb7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/wordpress-development-expert.md) | ⭐ 80 | `development` |
-| [Fix & Debugging](development/devkitfix-debugging_e5ef935b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.fix-debugging.md) | ⭐ 80 | `development` |
-| [Release](development/devkitgenerate-changelog_617e19ed/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-changelog.md) | ⭐ 80 | `development` |
-| [Document Generation Command](development/devkitgenerate-document_ce0f786f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-document.md) | ⭐ 80 | `development` |
-| [Security Assessment Document](development/devkitgenerate-security-assessment_68d94e23/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-security-assessment.md) | ⭐ 80 | `development` |
-| [Java Architectural Review](development/devkitjavaarchitect-review_6a58600c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.architect-review.md) | ⭐ 80 | `development` |
-| [Dependency Audit](development/devkitjavadependency-audit_d36d1edd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.dependency-audit.md) | ⭐ 80 | `development` |
-| [Generate CRUD Implementation](development/devkitjavagenerate-crud_d7d7b643/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.generate-crud.md) | ⭐ 80 | `development` |
-| [Java Class Refactoring Assistant](development/devkitjavarefactor-class_3a77372a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.refactor-class.md) | ⭐ 80 | `development` |
-| [${SECURITY_USER_NAME}](development/devkitjavasecurity-review_630fb571/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.security-review.md) | ⭐ 80 | `development` |
-| [Java Dependency Upgrade Strategy](development/devkitjavaupgrade-dependencies_1e0187e6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.upgrade-dependencies.md) | ⭐ 80 | `development` |
-| [Generate Java Unit Tests](development/devkitjavawrite-unit-tests_db723c7a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.write-unit-tests.md) | ⭐ 80 | `development` |
-| [Long-Running Agent - Create Checkpoint](development/devkitlracheckpoint_5c59fbc8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.checkpoint.md) | ⭐ 80 | `development` |
-| [Long-Running Agent - Start Coding Session](development/devkitlrastart-session_030fd5d4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.start-session.md) | ⭐ 80 | `development` |
-| [Prompt Optimization](development/devkitprompt-optimize_21511e5e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.prompt-optimize.md) | ⭐ 80 | `development` |
-| [Run npm audit](development/devkittssecurity-review_e0604892/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.ts.security-review.md) | ⭐ 80 | `development` |
-| [Verify Skill: $1](development/devkitverify-skill_4eaa78fc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.verify-skill.md) | ⭐ 80 | `development` |
-| [Developer Kit](development/speckitcheck-integration_ec2db6c1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/speckit.check-integration.md) | ⭐ 80 | `development` |
-| [Run all test commands from plan.md or infer from project type](development/speckitverify_9d90ceab/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/speckit.verify.md) | ⭐ 80 | `development` |
-| [Complete Guide to Developer Kit Commands](development/guide-commands_96c019d8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-commands.md) | ⭐ 80 | `development` |
-| [Type: AWS::EC2::KeyPair::KeyName](development/examples_0f0afb71/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-auto-scaling/examples.md) | ⭐ 80 | `development` |
-| [my-key-pair](development/reference_22846987/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ec2/reference.md) | ⭐ 80 | `development` |
-| [aws-cloudformation-ecs](development/skill_a49d8760/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `ecs` |
-| [Type: String](development/examples_cb92aa52/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/examples.md) | ⭐ 80 | `development` |
-| [Type: String](development/examples_7d784143/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-elasticache/examples.md) | ⭐ 80 | `development` |
-| [aws-cloudformation-iam](development/skill_4da0279d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-iam/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `iam` |
-| [Type: String](development/examples_d5e6390d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-iam/examples.md) | ⭐ 80 | `development` |
-| [String](development/reference_b3e51496/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-iam/reference.md) | ⭐ 80 | `development` |
-| [aws-cloudformation-lambda](development/skill_e9c886ba/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-lambda/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `lambda` |
-| [admin](development/reference_8f26d276/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-rds/reference.md) | ⭐ 80 | `development` |
-| [aws-cloudformation-s3](development/skill_8ee13c97/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-s3/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `s3` |
-| [!Ref LogBucket](development/reference_60a8fce9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-s3/reference.md) | ⭐ 80 | `development` |
-| [!Sub](development/examples_b83a667a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-security/examples.md) | ⭐ 80 | `development` |
-| [aws-cloudformation-task-ecs-deploy-gh](development/skill_8ff35ea2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `github-actions` |
-| [!Sub](development/examples_d56748d4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/examples.md) | ⭐ 80 | `development` |
-| [aws-sdk-java-v2-bedrock](development/skill_c3fad0a8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/SKILL.md) | ⭐ 80 | `aws` `bedrock` `java` |
-| [Supported foundation models in Amazon Bedrock](development/bedrock_models_supported_a688842e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/bedrock_models_supported.md) | ⭐ 80 | `content creation` |
-| [Amazon Bedrock Runtime examples using SDK for Java 2.x](development/bedrock_runtime_code_examples_ecdaac3a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/bedrock_runtime_code_examples.md) | ⭐ 80 | `development` |
-| [aws-sdk-java-v2-core](development/skill_ee294854/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-core/SKILL.md) | ⭐ 80 | `aws` `java` `sdk` |
-| [aws-sdk-java-v2-lambda](development/skill_e87045dc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/SKILL.md) | ⭐ 80 | `aws` `lambda` `java` |
-| [aws-sdk-java-v2-messaging](development/skill_52a9ea55/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/SKILL.md) | ⭐ 80 | `aws` `sqs` `sns` |
-| [aws-sdk-java-v2-rds](development/skill_f50374a6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-rds/SKILL.md) | ⭐ 80 | `aws` `rds` `database` |
-| [unit-test-boundary-conditions](development/skill_d75dfda4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-boundary-conditions/SKILL.md) | ⭐ 80 | `junit-5` `boundary-testing` `edge-cases` |
-| [unit-test-controller-layer](development/skill_9cce1565/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-controller-layer/SKILL.md) | ⭐ 80 | `junit-5` `mockito` `unit-testing` |
-| [unit-test-exception-handler](development/skill_523e0d56/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-exception-handler/SKILL.md) | ⭐ 80 | `junit-5` `exception-handler` `controller-advice` |
-| [unit-test-json-serialization](development/skill_b58db1a5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-json-serialization/SKILL.md) | ⭐ 80 | `junit-5` `json-test` `jackson` |
-| [unit-test-parameterized](development/skill_bf067179/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-parameterized/SKILL.md) | ⭐ 80 | `junit-5` `parameterized-test` `value-source` |
-| [unit-test-security-authorization](development/skill_a448f85f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-security-authorization/SKILL.md) | ⭐ 80 | `junit-5` `spring-security` `authorization` |
-| [unit-test-utility-methods](development/skill_48345214/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-utility-methods/SKILL.md) | ⭐ 80 | `junit-5` `unit-testing` `utility` |
-| [langchain4j-ai-services-patterns](development/skill_2f951ab9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-ai-services-patterns/SKILL.md) | ⭐ 80 | `langchain4j` `ai-services` `annotations` |
-| [langchain4j-mcp-server-patterns](development/skill_ccd6dba7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-mcp-server-patterns/SKILL.md) | ⭐ 80 | `langchain4j` `mcp` `model-context-protocol` |
-| [langchain4j-testing-strategies](development/skill_2cdb776f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/SKILL.md) | ⭐ 80 | `langchain4j` `testing` `unit-tests` |
-| [spring-ai-mcp-server-patterns](development/skill_2987c271/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-ai/spring-ai-mcp-server-patterns/SKILL.md) | ⭐ 80 | `spring-ai` `mcp` `model-context-protocol` |
-| [spring-boot-cache](development/skill_62ae3a54/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/SKILL.md) | ⭐ 80 | `spring-boot` `caching` `performance` |
-| [spring-boot-crud-patterns](development/skill_047e4588/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-crud-patterns/SKILL.md) | ⭐ 80 | `spring-boot` `java` `ddd` |
-| [spring-boot-event-driven-patterns](development/skill_0100ef79/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-event-driven-patterns/SKILL.md) | ⭐ 80 | `spring-boot` `java` `event-driven` |
-| [spring-boot-rest-api-standards](development/skill_68fcd3bd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-rest-api-standards/SKILL.md) | ⭐ 80 | `spring-boot` `rest-api` `dto` |
-| [Spring Security JWT Skill Structure](development/structure_3760740c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/STRUCTURE.md) | ⭐ 80 | `development` |
-| [John](development/examples_3abaa019/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/typescript-docs/references/examples.md) | ⭐ 80 | `development` |
-| [My Project](development/typedoc-configuration_693f8a81/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/typescript-docs/references/typedoc-configuration.md) | ⭐ 80 | `development` |
-| [wordpress-sage-theme](development/skill_756c788f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 80 | `content creation` |
-| [str):](development/evaluation_0c14e0ea/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/evaluation.md) | ⭐ 80 | `data analysis` |
-| [System Prompt Design](development/system-prompt-design_e24eb3f3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/system-prompt-design.md) | ⭐ 80 | `development` |
-| [Template Systems Architecture](development/template-systems_fdcae240/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/template-systems.md) | ⭐ 80 | `development` |
-| [Embedding Models Guide](development/embedding-models_d9e563a4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/embedding-models.md) | ⭐ 80 | `development` |
-| [Developer Kit](development/aws-sdk-java-bedrock-api_5715c6f1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/aws-sdk-java-bedrock-api.md) | ⭐ 80 | `development` |
-| [Model ID Lookup Guide](development/models-lookup_6b62e9b5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/models-lookup.md) | ⭐ 80 | `content creation` |
-| [AWS SDK for Java 2.x API Reference](development/api-reference_6b39bd3f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-core/references/api-reference.md) | ⭐ 80 | `development` |
-| [AWS SDK for Java 2.x Developer Guide](development/developer-guide_2e4c3528/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-core/references/developer-guide.md) | ⭐ 80 | `development` |
-| [Spring Boot Integration Reference](development/spring-boot-integration_dcfbba38/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/spring-boot-integration.md) | ⭐ 80 | `data analysis` |
-| [Testing Strategies for DynamoDB](development/testing-strategies_a34dad25/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/testing-strategies.md) | ⭐ 80 | `development` |
-| [Spring Boot Integration with AWS KMS](development/spring-boot-integration_7122ab40/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-kms/references/spring-boot-integration.md) | ⭐ 80 | `development` |
-| [Testing AWS KMS Integration](development/testing_84a65ccf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-kms/references/testing.md) | ⭐ 80 | `development` |
-| [AWS Lambda Java SDK Examples](development/examples_b31f6738/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/references/examples.md) | ⭐ 80 | `development` |
-| [AWS Lambda Official Documentation Reference](development/official-documentation_71d540f2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/references/official-documentation.md) | ⭐ 80 | `development` |
-| [AWS SQS & SNS Official Documentation Reference](development/aws-official-documentation_894e6453/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/aws-official-documentation.md) | ⭐ 80 | `development` |
-| [AWS RDS API Reference](development/api-reference_8bb4f5fd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-rds/references/api-reference.md) | ⭐ 80 | `development` |
-| [Spring Boot Integration with AWS RDS](development/spring-boot-integration_094ebd6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-rds/references/spring-boot-integration.md) | ⭐ 80 | `development` |
-| [S3 Spring Boot Integration Reference](development/s3-spring-boot-integration_ff313843/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-s3/references/s3-spring-boot-integration.md) | ⭐ 80 | `development` |
-| [AWS Secrets Manager API Reference](development/api-reference_7aa526f6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-secrets-manager/references/api-reference.md) | ⭐ 80 | `development` |
-| [aws-secrets-manager-app](development/spring-boot-integration_15933877/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-secrets-manager/references/spring-boot-integration.md) | ⭐ 80 | `development` |
-| [LangChain4j AI Services - API References](development/references_ae1ee1ec/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-ai-services-patterns/references/references.md) | ⭐ 80 | `development` |
-| [LangChain4j MCP Server Implementation Examples](development/examples_24ec0bf5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-mcp-server-patterns/references/examples.md) | ⭐ 80 | `development` |
-| [LangChain4j Spring Boot Integration - Examples](development/examples_ee0cdd29/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/examples.md) | ⭐ 80 | `development` |
-| [gpt-4o-mini](development/references_94bb3f5b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/references.md) | ⭐ 80 | `development` |
-| [Advanced Testing Patterns](development/advanced-testing_f7405d4d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/references/advanced-testing.md) | ⭐ 80 | `development` |
-| [Integration Testing with Testcontainers](development/integration-testing_e38f9c82/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/references/integration-testing.md) | ⭐ 80 | `development` |
-| [Unit Testing with Mock Models](development/unit-testing_e584f0a3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/references/unit-testing.md) | ⭐ 80 | `development` |
-| [Qdrant for Java: Complete Examples](development/examples_c36d3cb5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/qdrant/references/examples.md) | ⭐ 80 | `development` |
-| [Spring AI MCP Server API Reference](development/api-reference_6d3e6efb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-ai/spring-ai-mcp-server-patterns/references/api-reference.md) | ⭐ 80 | `development` |
-| [order-service](development/examples_c33bffd3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/examples.md) | ⭐ 80 | `development` |
-| [Spring Boot Cache Abstraction - References](development/cache-core-reference_1b795999/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/references/cache-core-reference.md) | ⭐ 80 | `development` |
-| [Spring Framework Official Guidance: Dependency Injection (Clean Excerpt)](development/spring-official-dependency-injection_93e4e851/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-dependency-injection/references/spring-official-dependency-injection.md) | ⭐ 80 | `development` |
-| [Troubleshooting SpringDoc OpenAPI](development/troubleshooting_959faa99/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-openapi-documentation/references/troubleshooting.md) | ⭐ 80 | `development` |
-| [jwt-token](development/jwt-quick-reference_cc609dbf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/jwt-quick-reference.md) | ⭐ 80 | `development` |
-| [OAuth2 Integration with JWT](development/oauth2-integration_0f28ba05/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/oauth2-integration.md) | ⭐ 80 | `content creation` |
-| [Testing JWT Security](development/testing-jwt-security_4ad1e662/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/testing-jwt-security.md) | ⭐ 80 | `development` |
-| [Spring Boot Test API Reference](development/api-reference_88fea54c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-test-patterns/references/api-reference.md) | ⭐ 80 | `development` |
-| [Blade Templates Reference](development/blade_a71698f4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/wordpress/wordpress-sage-theme/references/BLADE.md) | ⭐ 80 | `development` |
-| [Sage Framework Reference](development/sage_780b649e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/wordpress/wordpress-sage-theme/references/SAGE.md) | ⭐ 80 | `development` |
-| [codebase-pattern-finder](development/codebase-pattern-finder_0a8d7abf/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/codebase-pattern-finder.md) | ⭐ 383 | `development` |
-| [general-purpose](development/general-purpose_53298ff1/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/general-purpose.md) | ⭐ 383 | `daily assistant` |
-| [Codex Plan Command](development/codex-plan_0b3c3fc5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/codex-plan.md) | ⭐ 383 | `development` |
-| [Mental Model Builder](development/explain-changes-mental-model_edb34aa6/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/explain-changes-mental-model.md) | ⭐ 383 | `data analysis` |
-| [PR workflow](development/explain-pr-changes_af639240/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/explain-pr-changes.md) | ⭐ 383 | `development` |
-| [Agent Toolkit](development/sync-branch_6333fd48/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/sync-branch.md) | ⭐ 383 | `development` |
-| [` field (skill identifier)](development/sync-skills-readme_154b4277/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/sync-skills-readme.md) | ⭐ 383 | `development` |
-| [` field from frontmatter:**](development/add-skill_d31c0705/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/.claude/commands/add-skill.md) | ⭐ 383 | `content creation` |
-| [agent-md-refactor](development/skill_f20e68b5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/agent-md-refactor/SKILL.md) | ⭐ 383 | `development` |
-| [backend-to-frontend-handoff-docs](development/skill_b77b4b7d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/backend-to-frontend-handoff-docs/SKILL.md) | ⭐ 383 | `development` |
-| [codex](development/skill_78b3fcf4/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/codex/SKILL.md) | ⭐ 383 | `development` |
-| [commit-work](development/skill_888588ea/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/commit-work/SKILL.md) | ⭐ 383 | `content creation` |
-| [daily-meeting-update](development/skill_153c2d8d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/daily-meeting-update/SKILL.md) | ⭐ 383 | `development` |
-| [datadog-cli](development/skill_d65cdb00/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/SKILL.md) | ⭐ 383 | `development` |
-| [design-system-starter](development/skill_f5efbd84/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/design-system-starter/SKILL.md) | ⭐ 383 | `design-system` `ui` `components` |
-| [draw-io](development/skill_fb23a8ba/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/SKILL.md) | ⭐ 383 | `data analysis` |
-| [feedback-mastery](development/skill_d0ee923a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/SKILL.md) | ⭐ 383 | `development` |
-| [frontend-to-backend-requirements](development/skill_d29acfea/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/frontend-to-backend-requirements/SKILL.md) | ⭐ 383 | `development` |
-| [humanizer](development/skill_6688e4e2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/humanizer/SKILL.md) | ⭐ 383 | `content creation` |
-| [jira](development/skill_80cd136d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/SKILL.md) | ⭐ 383 | `development` |
-| [marp-slide](development/skill_4244be1f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/SKILL.md) | ⭐ 383 | `development` |
-| [mermaid-diagrams](development/skill_79bca3c7/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/SKILL.md) | ⭐ 383 | `development` |
-| [mui](development/skill_d1a9a067/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/SKILL.md) | ⭐ 383 | `development` |
-| [naming-analyzer](development/skill_6c4ce79f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/naming-analyzer/SKILL.md) | ⭐ 383 | `development` |
-| [perplexity](development/skill_e7c8c405/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/perplexity/SKILL.md) | ⭐ 383 | `development` |
-| [plugin-forge](development/skill_8179b934/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/SKILL.md) | ⭐ 383 | `development` |
-| [react-useeffect](development/skill_f31e9925/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/SKILL.md) | ⭐ 383 | `data analysis` |
-| [Adding Reference Mindsets](development/adding-reference-mindsets_76be7d9d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/adding-reference-mindsets.md) | ⭐ 383 | `development` |
-| [requirements-clarity](development/skill_c554f777/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/requirements-clarity/SKILL.md) | ⭐ 383 | `development` |
-| [session-handoff](development/skill_8964e1b8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/SKILL.md) | ⭐ 383 | `daily assistant` |
-| [ship-learn-next](development/skill_503b2265/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/ship-learn-next/SKILL.md) | ⭐ 383 | `content creation` |
-| [skill-judge](development/skill_737ef362/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/skill-judge/SKILL.md) | ⭐ 383 | `development` |
-| [Common C4 Model Mistakes to Avoid](development/common-mistakes_608b39dd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/common-mistakes.md) | ⭐ 383 | `development` |
-| [Command Best Practices](development/best-practices_03b1b32e/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/references/best-practices.md) | ⭐ 383 | `content creation` |
-| [Command Patterns](development/patterns_b5fd82de/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/references/patterns.md) | ⭐ 383 | `content creation` |
-| [Art of README](development/art-of-readme_8ca299e4/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/art-of-readme.md) | ⭐ 383 | `development` |
-| [Make a README](development/make-a-readme_81b1d33b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/make-a-readme.md) | ⭐ 383 | `development` |
-| [Title](development/standard-readme-example-maximal_75133e20/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/standard-readme-example-maximal.md) | ⭐ 383 | `content creation` |
-| [Standard README Specification](development/standard-readme-spec_e1b5584f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/standard-readme-spec.md) | ⭐ 383 | `development` |
-| [Internal/Work Project README Template](development/internal_6d2d0ac2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/internal.md) | ⭐ 383 | `development` |
-| [Open Source Project README Template](development/oss_4e92c249/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/oss.md) | ⭐ 383 | `development` |
-| [Dashboards Reference](development/dashboards_6f4a2505/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/dashboards.md) | ⭐ 383 | `development` |
-| [Log Commands Reference](development/logs-commands_cda2f010/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/logs-commands.md) | ⭐ 383 | `development` |
-| [Metrics Reference](development/metrics_e9a56f75/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/metrics.md) | ⭐ 383 | `development` |
-| [Datadog Query Syntax](development/query-syntax_fa60d601/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/query-syntax.md) | ⭐ 383 | `development` |
-| [Common Workflows](development/workflows_22acfb7b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/workflows.md) | ⭐ 383 | `development` |
-| [string;](development/component-examples_4d4ab9dc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/design-system-starter/references/component-examples.md) | ⭐ 383 | `development` |
-| [Emotional Regulation for Difficult Conversations](development/emotional-regulation_ecac2f9c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/emotional-regulation.md) | ⭐ 383 | `daily assistant` |
-| [AWS アイコンとサービス名](development/aws-icons_a7d251ed/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/references/aws-icons.md) | ⭐ 383 | `development` |
-| [Expectation Alignment Guide](development/expectation-alignment_7132a9f0/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/references/expectation-alignment.md) | ⭐ 383 | `development` |
-| [SBI Feedback Model - Complete Guide](development/feedback-sbi-model_d61d4f65/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/references/feedback-sbi-model.md) | ⭐ 383 | `development` |
-| [External Review Protocol](development/external-review_ec9e2f47/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/external-review.md) | ⭐ 383 | `development` |
-| [Interview Protocol](development/interview-protocol_6c906a7d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/interview-protocol.md) | ⭐ 383 | `development` |
-| [Research Protocol](development/research-protocol_d219729c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/research-protocol.md) | ⭐ 383 | `development` |
-| [Section Index Creation](development/section-index_63a29894/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/section-index.md) | ⭐ 383 | `data analysis` |
-| [MCP Reference](development/mcp_670339d3/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/references/mcp.md) | ⭐ 383 | `development` |
-| [プレゼンテーションタイトル](development/template-basic_0c656adc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-basic.md) | ⭐ 383 | `development` |
-| [プレゼンテーション](development/template-business_2e08480b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-business.md) | ⭐ 383 | `development` |
-| [プレゼンテーション](development/template-colorful_efaf8449/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-colorful.md) | ⭐ 383 | `development` |
-| [プレゼンテーション](development/template-dark_a31a393a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-dark.md) | ⭐ 383 | `development` |
-| [プレゼンテーション](development/template-gradient_dedb860f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-gradient.md) | ⭐ 383 | `development` |
-| [プレゼンテーション](development/template-minimal_fd398a9c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-minimal.md) | ⭐ 383 | `development` |
-| [プレゼンテーション](development/template-tech_2b9f51b0/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-tech.md) | ⭐ 383 | `development` |
-| [Marp Build](development/advanced-features_ca2e1cfd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/advanced-features.md) | ⭐ 383 | `development` |
-| [Marp Slide Creation Best Practices](development/best-practices_651662ce/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/best-practices.md) | ⭐ 383 | `content creation` |
-| [value -->` format:](development/marp-syntax_6fff73be/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/marp-syntax.md) | ⭐ 383 | `development` |
-| [Marp Theme CSS Creation Guide](development/theme-css-guide_e0c14377/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/theme-css-guide.md) | ⭐ 383 | `development` |
-| [Marp Theme Selection Guide](development/theme-selection_ca4a6704/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/theme-selection.md) | ⭐ 383 | `development` |
-| [The Complete Practical Guide to Memes in Markdown Blog Posts](development/markdown-memes-guide_6dd8e5fc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/references/markdown-memes-guide.md) | ⭐ 383 | `devops` `humor` `deployments` |
-| [Advanced Mermaid Features](development/advanced-features_5b816a15/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/advanced-features.md) | ⭐ 383 | `data analysis` |
-| [Architecture Diagrams Reference](development/architecture-diagrams_117bc722/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/architecture-diagrams.md) | ⭐ 383 | `development` |
-| [MUI Component Library](development/component-library_76a0145b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/resources/component-library.md) | ⭐ 383 | `development` |
-| [MUI Styling Guide](development/styling-guide_ae6bcb6a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/resources/styling-guide.md) | ⭐ 383 | `development` |
-| [MUI Theme Customization](development/theme-customization_1185e91a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/resources/theme-customization.md) | ⭐ 383 | `development` |
-| [Plugin Development Workflows](development/workflows_23851bc5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/workflows.md) | ⭐ 383 | `development` |
-| [Technical Jargon Simplification Guide](development/jargon-simplification_dea1a1a5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/jargon-simplification.md) | ⭐ 383 | `development` |
-| [Meeting Structures for Developers](development/meeting-structures_6946adf5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/meeting-structures.md) | ⭐ 383 | `daily assistant` |
-| [[test user]](development/test_case_templates_42072c5d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/test_case_templates.md) | ⭐ 383 | `development` |
-| [string;](development/generic-components_6d2f3bc5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/examples/generic-components.md) | ⭐ 383 | `development` |
-| [z.string().min(2,](development/server-components_971117f2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/examples/server-components.md) | ⭐ 383 | `development` |
-| [formData.get(](development/event-handlers_a118e551/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/event-handlers.md) | ⭐ 383 | `development` |
-| [/search](development/react-router_b554c7f6/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/react-router.md) | ⭐ 383 | `development` |
-| [string;](development/tanstack-router_2982b9fd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/tanstack-router.md) | ⭐ 383 | `development` |
-| [Data-Oriented Design](development/data-over-abstractions_fdfa218c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/data-over-abstractions.md) | ⭐ 383 | `development` |
-| [Simplicity vs Easy](development/simplicity-vs-easy_b7755a28/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/simplicity-vs-easy.md) | ⭐ 383 | `development` |
-| [Test Results: Opus 4.5 (Baseline)](development/results-opus-baseline_8b6bd622/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/results-opus-baseline.md) | ⭐ 383 | `development` |
-| [Evaluation Test Scenarios](development/test-scenarios_987a534f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/test-scenarios.md) | ⭐ 383 | `daily assistant` |
-| [Handoff Template](development/handoff-template_35492711/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/references/handoff-template.md) | ⭐ 383 | `development` |
-| [Resume Checklist](development/resume-checklist_bd64d36b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/references/resume-checklist.md) | ⭐ 383 | `development` |
-| [Agent Toolkit](development/02-elementary-rules-of-usage_b1c9bd88/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/02-elementary-rules-of-usage.md) | ⭐ 383 | `content creation` |
-| [Agent Toolkit](development/03-elementary-principles-of-composition_3867f335/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/03-elementary-principles-of-composition.md) | ⭐ 383 | `content creation` |
-| [Agent Toolkit](development/05-words-and-expressions-commonly-misused_60db286f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/05-words-and-expressions-commonly-misused.md) | ⭐ 383 | `content creation` |
+| [Threads](investment/index_f57b1edb/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/index.md) | ⭐ 14 | `investment` |
+| [Marketing Artifacts](investment/index_03bf163b/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/marketing/index.md) | ⭐ 14 | `investment` |
+| [Marketing](investment/index_ac907231/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/marketing/index.md) | ⭐ 14 | `investment` |
+| [rsn-creating-ideas](investment/skill_3295783c/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/SKILL.md) | ⭐ 14 | `investment` |
+| [rsn-reasoning-problems](investment/skill_5488667e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/SKILL.md) | ⭐ 14 | `investment` |
+| [Synthesizing Mode](investment/synthesizing_24cc2bf4/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/synthesizing.md) | ⭐ 14 | `investment` |
+| [Dialectical Mode](investment/dialectical_ac83affd/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/dialectical.md) | ⭐ 14 | `investment` |
 
-### Investment (2 skills)
+### Other (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [domain-name-brainstormer](investment/skill_49570773/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/domain-name-brainstormer/SKILL.md) | ⭐ 383 | `investment` |
-| [Personal Project README Template](investment/personal_2aea82c2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/personal.md) | ⭐ 383 | `investment` |
+| [Meeting Notes](other/index_503959cc/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/meeting-notes/index.md) | ⭐ 14 | `daily assistant` |
+| [Strategy](other/index_36344f6d/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/strategy/index.md) | ⭐ 14 | `other` |
+| [Question](other/question_fdbf1e33/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.github/ISSUE_TEMPLATE/question.md) | ⭐ 14 | `other` |
+| [Engineering Artifacts](other/index_909f5581/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/engineering/index.md) | ⭐ 14 | `other` |
+| [Revops Artifacts](other/index_ce4c21fe/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/revops/index.md) | ⭐ 14 | `other` |
+| [Sales Artifacts](other/index_9ccd5ac1/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/sales/index.md) | ⭐ 14 | `other` |
+| [Shared Artifacts](other/index_972301d2/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/shared/index.md) | ⭐ 14 | `other` |
+| [Canvas](other/index_9efc2ea3/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/strategy/canvas/index.md) | ⭐ 14 | `other` |
+| [Financials](other/index_86eaf4f1/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/strategy/financials/index.md) | ⭐ 14 | `other` |
+| [Goals](other/index_733e18d8/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/strategy/goals/index.md) | ⭐ 14 | `other` |
+| [Engineering Threads](other/index_293e433d/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/engineering/index.md) | ⭐ 14 | `other` |
+| [Lean Os](other/index_2e7d2c03/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/operations/index.md) | ⭐ 14 | `other` |
+| [RevOps Threads](other/index_276de175/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/revops/index.md) | ⭐ 14 | `other` |
+| [Sales](other/index_761b736c/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/sales/index.md) | ⭐ 14 | `content creation` |
+| [Calibration](other/calibration_bedb0b71/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/calibration.md) | ⭐ 14 | `daily assistant` |
 
-### Other (2 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Title](other/standard-readme-example-minimal_13774396/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/standard-readme-example-minimal.md) | ⭐ 383 | `other` |
-| [レイアウトガイドライン](other/layout-guidelines_501fbf61/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/references/layout-guidelines.md) | ⭐ 383 | `other` |
-
-### Productivity (8 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Common Pitfalls and Solutions](productivity/09-pitfalls-solutions_9559cf9a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-saga-pattern/references/09-pitfalls-solutions.md) | ⭐ 80 | `productivity` |
-| [Viral Tweet Optimizer](productivity/viral-tweet_55a658f9/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/viral-tweet.md) | ⭐ 383 | `content creation` |
-| [difficult-workplace-conversations](productivity/skill_99dd7bca/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/SKILL.md) | ⭐ 383 | `productivity` |
-| [gemini](productivity/skill_bc9c52aa/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gemini/SKILL.md) | ⭐ 383 | `productivity` |
-| [react-dev](productivity/skill_ce738985/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/SKILL.md) | ⭐ 383 | `productivity` |
-| [Delivery Scripts for Difficult Conversations](productivity/delivery-scripts_3105a7c5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/delivery-scripts.md) | ⭐ 383 | `productivity` |
-| [Difficult Conversation Scripts](productivity/difficult-conversation-scripts_4529a25c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/references/difficult-conversation-scripts.md) | ⭐ 383 | `productivity` |
-| [Agent Toolkit](productivity/01-introductory_248b1859/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/01-introductory.md) | ⭐ 383 | `productivity` |
-
-### Research (10 skills)
+### Productivity (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Complete Implementation Guidelines](research/implementation_b7064f3b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/implementation.md) | ⭐ 80 | `research` |
-| [Detailed Chunking Strategies](research/strategies_533ef334/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/strategies.md) | ⭐ 80 | `research` |
-| [Chain-of-Thought Reasoning Patterns](research/cot-patterns_37c9e74c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/cot-patterns.md) | ⭐ 80 | `research` |
-| [Detailed SQS Operations Reference](research/detailed-sqs-operations_817fe9d2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sqs-operations.md) | ⭐ 80 | `research` |
-| [Spring Docs Pointers](research/spring-official-docs_fddcd44f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-crud-patterns/references/spring-official-docs.md) | ⭐ 80 | `research` |
-| [{skill-name}](research/agents_e4d6d358/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/AGENTS.md) | ⭐ 383 | `research` |
-| [ui-ux-designer](research/ui-ux-designer_a0094cb9/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/ui-ux-designer.md) | ⭐ 383 | `research` |
-| [Trikoṇamiti](research/signs-of-ai-writing_06d135c2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/signs-of-ai-writing.md) | ⭐ 383 | `content creation` |
-| [Marp Official Themes Reference](research/official-themes_ada37757/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/official-themes.md) | ⭐ 383 | `research` |
-| [Composition Over Construction](research/design-is-taking-apart_62694edb/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/design-is-taking-apart.md) | ⭐ 383 | `research` |
+| [fnd-architect](productivity/fnd-architect_391f08b5/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/agents/fnd-architect.md) | ⭐ 14 | `productivity` |
+| [rsn-problem-solver](productivity/rsn-problem-solver_e0a26fcf/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/agents/rsn-problem-solver.md) | ⭐ 14 | `productivity` |
+| [What is {PROJECT_NAME}?](productivity/what-is-projecttemplate_3ddc9d13/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/references/what-is-PROJECT.template.md) | ⭐ 14 | `productivity` |
+| [fnd.r-analyzing-competition](productivity/skill_c4e81998/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-analyzing-competition/SKILL.md) | ⭐ 14 | `productivity` |
+| [rsn-learning-outcomes](productivity/skill_84331a6f/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/SKILL.md) | ⭐ 14 | `productivity` |
+| [rsn-perceiving-information](productivity/skill_af7d7801/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/SKILL.md) | ⭐ 14 | `productivity` |
+| [sys-defining-goals](productivity/skill_7fb5d19e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-defining-goals/SKILL.md) | ⭐ 14 | `productivity` |
+| [Double-Loop Learning](productivity/double-loop_aa563edb/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/double-loop.md) | ⭐ 14 | `productivity` |
+| [Reflection](productivity/reflection_e5529869/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/reflection.md) | ⭐ 14 | `productivity` |
+| [Single-Loop Learning](productivity/single-loop_fdf8c7af/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/single-loop.md) | ⭐ 14 | `productivity` |
+| [Focusing Mode](productivity/focusing_cc09554b/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/focusing.md) | ⭐ 14 | `productivity` |
+| [Scanning Mode](productivity/scanning_91f36984/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/scanning.md) | ⭐ 14 | `productivity` |
+| [Counterfactual Mode](productivity/counterfactual_48831046/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/counterfactual.md) | ⭐ 14 | `productivity` |
+| [Inductive Mode](productivity/inductive_88420d7e/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/inductive.md) | ⭐ 14 | `productivity` |
+
+### Research (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Research](research/index_b0f1e729/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/research/index.md) | ⭐ 14 | `research` |
+| [Triangulating Mode](research/triangulating_afd97cff/) | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/triangulating.md) | ⭐ 14 | `research` |
 
 ## Repository Structure
 
