@@ -4,7 +4,7 @@
 |----------|-------|
 | **Name** | task-manager |
 | **Source** | [test-repo](https://github.com/test/test) |
-| **Original Path** | `/tmp/skillflow_test_hccae4ht/task-manager.md` |
+| **Original Path** | `/tmp/skillflow_test_wzorsbay/task-manager.md` |
 | **Category** | daily-assistant |
 | **Subcategory** | N/A |
 | **Tags** | task, todo, productivity |

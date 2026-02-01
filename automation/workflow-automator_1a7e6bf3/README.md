@@ -4,7 +4,7 @@
 |----------|-------|
 | **Name** | workflow-automator |
 | **Source** | [test-repo](https://github.com/test/test) |
-| **Original Path** | `/tmp/skillflow_test_hccae4ht/workflow-automator.md` |
+| **Original Path** | `/tmp/skillflow_test_wzorsbay/workflow-automator.md` |
 | **Category** | automation |
 | **Subcategory** | N/A |
 | **Tags** | automation, workflow, script |

@@ -4,7 +4,7 @@
 |----------|-------|
 | **Name** | code-debugger |
 | **Source** | [test-repo](https://github.com/test/test) |
-| **Original Path** | `/tmp/skillflow_test_hccae4ht/code-debugger.md` |
+| **Original Path** | `/tmp/skillflow_test_wzorsbay/code-debugger.md` |
 | **Category** | development |
 | **Subcategory** | N/A |
 | **Tags** | debug, development, coding |
