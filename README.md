@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **292 AI-powered skills** organized into 10 categories.
+A curated collection of **321 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,398 +8,398 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (11 skills)
-- **Commercial** (7 skills)
-- **Communication** (4 skills)
-- **Content Creation** (5 skills)
-- **Daily Assistant** (2 skills)
-- **Data Analysis** (2 skills)
-- **Development** (251 skills)
-- **Other** (3 skills)
-- **Productivity** (5 skills)
-- **Research** (2 skills)
+- **Automation** (17 skills)
+- **Commercial** (28 skills)
+- **Communication** (24 skills)
+- **Content Creation** (10 skills)
+- **Daily Assistant** (4 skills)
+- **Data Analysis** (6 skills)
+- **Development** (210 skills)
+- **Investment** (2 skills)
+- **Other** (2 skills)
+- **Productivity** (8 skills)
+- **Research** (10 skills)
 
 ## Skills Directory
 
-### Automation (11 skills)
+
+### Automation (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [skill-seekers](automation/bootstrap_skill_c83aa219/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/BOOTSTRAP_SKILL.md) |  |  |
-| [Internet/DMZ](automation/knowledge-architecture-v52_25a70d17/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2.md) |  | `25a70d1717c3df35...` |
-| [Bug Report](automation/bug_report_35068308/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/ISSUE_TEMPLATE/bug_report.md) |  |  |
-| [Don't Forget](automation/do-not-forget_d43ff184/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/do-not-forget.md) |  |  |
-| [Update Changelog](automation/add-to-changelog_d918c623/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/add-to-changelog/add-to-changelog.md) |  |  |
-| [Threat Modeling](automation/control-set-07-logging_e2ab4fb7/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-07-logging.md) |  |  |
-| [1. Check differences between current branch and main branch HEAD using `git diff main...HEAD`](automation/update-branch-name_dade40f7/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/update-branch-name/update-branch-name.md) |  | `git diff main...HEAD` `git diff main...HEAD` |
-| [Enhance skill](automation/enhancement_modes_34e13625/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) |  |  |
-| [Generate Skills](automation/api_reference_88d5ba78/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/API_REFERENCE.md) |  |  |
-| [Feature Request](automation/feature_request_1c6e496b/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/ISSUE_TEMPLATE/feature_request.md) |  |  |
-| [Create Hook Command](automation/create-hook_5f254c56/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-hook/create-hook.md) |  |  |
+| [prompt-engineering](automation/skill_ce33b261/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/SKILL.md) | ⭐ 80 | `prompt-engineering` `few-shot-learning` `chain-of-thought` |
+| [!Sub](automation/examples_fa7b7b14/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-dynamodb/examples.md) | ⭐ 80 | `automation` |
+| [!Sub](automation/reference_efbeeb8f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/reference.md) | ⭐ 80 | `automation` |
+| [!Sub](automation/reference_d68a9742/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-lambda/reference.md) | ⭐ 80 | `automation` |
+| [langchain4j-vector-stores-configuration](automation/skill_31eff50e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/SKILL.md) | ⭐ 80 | `langchain4j` `vector-stores` `embeddings` |
+| [spring-boot-actuator](automation/skill_0e06814a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/SKILL.md) | ⭐ 80 | `spring-boot` `actuator` `monitoring` |
+| [Developer Kit](automation/aws-bedrock-api-reference_04c949b3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/aws-bedrock-api-reference.md) | ⭐ 80 | `automation` |
+| [command-creator](automation/skill_250a46eb/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/SKILL.md) | ⭐ 383 | `automation` |
+| [Section Checklist by Project Type](automation/section-checklist_e9da988c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/section-checklist.md) | ⭐ 383 | `automation` |
+| [dependency-updater](automation/skill_e3a63ca4/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/dependency-updater/SKILL.md) | ⭐ 383 | `automation` |
+| [game-changing-features](automation/skill_b700ff1d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/game-changing-features/SKILL.md) | ⭐ 383 | `automation` |
+| [web-to-markdown](automation/skill_9c61df95/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/web-to-markdown/SKILL.md) | ⭐ 383 | `automation` |
+| [Command Examples](automation/examples_3f55c544/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/references/examples.md) | ⭐ 383 | `automation` |
+| [Config Directory README Template](automation/xdg-config_12909537/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/xdg-config.md) | ⭐ 383 | `automation` |
+| [Difficult Conversation Preparation Template](automation/preparation-template_2ebe535c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/preparation-template.md) | ⭐ 383 | `daily assistant` |
+| [Sequence Diagrams](automation/sequence-diagrams_11900f08/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/sequence-diagrams.md) | ⭐ 383 | `automation` |
+| [Figma Design Validation with MCP](automation/figma_validation_e0253fb3/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/figma_validation.md) | ⭐ 383 | `automation` |
 
-
-### Commercial (7 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Output Encoding Security Controls](commercial/control-set-04-output-encoding_acd9e1df/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-04-output-encoding.md) |  |  |
-| [Testing & Coverage](commercial/testing_00e00324/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/TESTING.md) |  | `docs/TESTING.md` `00e003243f1c691d...` |
-| [AGENTS.md - Skill Seekers](commercial/agents_265f6921/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) |  | `AGENTS.md` `265f6921af9b3cf6...` |
-| [Third Party JavaScript Management Cheat Sheet](commercial/reference-set-05-third-party-javascript_879e69e1/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-third-party-javascript.md) |  |  |
-| [Threat Modeling](commercial/control-set-10-data-protection_700e4ff2/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-10-data-protection.md) |  |  |
-| [Authentication & Authorization Implementation Patterns](commercial/control-set-ext-01_02-auth-patterns_28bf8573/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-01_02-auth-patterns.md) |  |  |
-| [REST Security Cheat Sheet](commercial/reference-set-09-rest-security_e82c8d25/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-security.md) |  |  |
-
-
-### Communication (4 skills)
+### Commercial (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Insecure Direct Object Reference Prevention Cheat Sheet](communication/reference-set-02-idor-prevention_8d00c0dc/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) |  |  |
-| [design-review](communication/design-review-agent_0b634110/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Design-Review-Workflow/design-review-agent.md) |  |  |
-| [Network Chronicles Development Notes](communication/claude_200512fb/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Network-Chronicles/CLAUDE.md) |  |  |
-| [Threat Modeling](communication/control-set-01-authentication_24fba8e0/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) |  |  |
+| [Workflow Name                    # Human-readable name](commercial/reference_6dc7aeaf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/reference.md) | ⭐ 80 | `commercial` |
+| [Type: String](commercial/examples_76b6709a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-vpc/examples.md) | ⭐ 80 | `commercial` |
+| [unit-test-caching](commercial/skill_357fba6f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-caching/SKILL.md) | ⭐ 80 | `junit-5` `caching` `cacheable` |
+| [Advanced Retrieval Strategies](commercial/retrieval-strategies_4db0afd8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/retrieval-strategies.md) | ⭐ 80 | `data analysis` |
+| [Vector Database Comparison and Configuration](commercial/vector-databases_164e1a30/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/vector-databases.md) | ⭐ 80 | `commercial` |
+| [AWS RDS Aurora Troubleshooting Guide](commercial/troubleshooting_05dbdb3f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-rds-spring-boot-integration/references/troubleshooting.md) | ⭐ 80 | `commercial` |
+| [Developer Kit](commercial/aws-sdk-examples_0054e1cd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/aws-sdk-examples.md) | ⭐ 80 | `commercial` |
+| [Advanced Operations Reference](commercial/advanced-operations_6f5b2186/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/advanced-operations.md) | ⭐ 80 | `commercial` |
+| [LangChain4j RAG Implementation - Practical Examples](commercial/examples_ef395526/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-rag-implementation-patterns/references/examples.md) | ⭐ 80 | `commercial` |
+| [gpt-4o-mini](commercial/configuration_84779004/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/configuration.md) | ⭐ 80 | `commercial` |
+| [LangChain4j Vector Stores - API References](commercial/api-reference_f0515c8f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/references/api-reference.md) | ⭐ 80 | `commercial` |
+| [Enabling Actuator](commercial/enabling_793fb6cb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/enabling.md) | ⭐ 80 | `commercial` |
+| [admin](commercial/monitoring_2d0647c2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/monitoring.md) | ⭐ 80 | `commercial` |
+| [Supported Cache Providers](commercial/spring-cache-doc-snippet_9216da7f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/references/spring-cache-doc-snippet.md) | ⭐ 80 | `commercial` |
+| [Compensating Transactions](commercial/05-compensating-transactions_91fb6d71/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-saga-pattern/references/05-compensating-transactions.md) | ⭐ 80 | `commercial` |
+| [c4-architecture](commercial/skill_e27b4bac/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/SKILL.md) | ⭐ 383 | `commercial` |
+| [qa-test-planner](commercial/skill_64adcbcf/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/SKILL.md) | ⭐ 383 | `commercial` |
+| [Better Alternatives to useEffect](commercial/alternatives_cbb4551e/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/alternatives.md) | ⭐ 383 | `commercial` |
+| [useEffect Anti-Patterns](commercial/anti-patterns_69146321/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/anti-patterns.md) | ⭐ 383 | `commercial` |
+| [Advanced C4 Architecture Patterns](commercial/advanced-patterns_d7cfb170/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/advanced-patterns.md) | ⭐ 383 | `commercial` |
+| [C4 Mermaid Diagram Syntax Reference](commercial/c4-syntax_8c9d1f3a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/c4-syntax.md) | ⭐ 383 | `commercial` |
+| [Marp Image Syntax Reference](commercial/image-patterns_4fef8ba8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/image-patterns.md) | ⭐ 383 | `commercial` |
+| [C4 Model Diagrams](commercial/c4-diagrams_28e73813/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/c4-diagrams.md) | ⭐ 383 | `commercial` |
+| [Class Diagrams](commercial/class-diagrams_5eba3606/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/class-diagrams.md) | ⭐ 383 | `commercial` |
+| [Flowcharts](commercial/flowcharts_73b59979/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/flowcharts.md) | ⭐ 383 | `commercial` |
+| [Bug Report Templates](commercial/bug_report_templates_f33e07f8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/bug_report_templates.md) | ⭐ 383 | `commercial` |
+| [Regression Testing Guide](commercial/regression_testing_e239509c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/regression_testing.md) | ⭐ 383 | `commercial` |
+| [string; quantity: number };](commercial/react-19-patterns_385551bd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/react-19-patterns.md) | ⭐ 383 | `commercial` |
 
-
-### Content Creation (5 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Awesome Claude Code](content-creation/initref_bdf76394/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/initref/initref.md) |  |  |
-| [Awesome Claude Code](content-creation/view_commands_62a425ae/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Blogging-Platform-Instructions/view_commands.md) |  |  |
-| [How to Create a Pull Request Using GitHub CLI](content-creation/create-pull-request_ce68f411/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-pull-request/create-pull-request.md) |  |  |
-| [my-framework](content-creation/usage_78a1d38e/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/USAGE.md) |  | `docs/guides/USAGE.md` `78a1d38e30f6bb5e...` |
-| [Infrastructure as Code Security Cheatsheet](content-creation/reference-set-ext-11-iac-security_921d02b5/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-iac-security.md) |  |  |
-
-
-### Daily Assistant (2 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Awesome Claude Code](daily-assistant/act_d2619b83/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/act/act.md) |  |  |
-| [todo](daily-assistant/todo_9691af6b/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/todo/todo.md) |  |  |
-
-
-### Data Analysis (2 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [PDF Code Block Syntax Detection (Task B1.4)](data-analysis/pdf_syntax_detection_e202b917/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_SYNTAX_DETECTION.md) |  |  |
-| [PDF Image Extraction (Task B1.5)](data-analysis/pdf_image_extraction_76beec6a/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_IMAGE_EXTRACTION.md) |  |  |
-
-
-### Development (251 skills)
+### Communication (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [STRIDE Threat Modeling System Architecture Analysis](development/skill-architecture-design_07e057a3/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN.md) |  |  |
-| [Awesome Claude Code](development/clean_1520cd6b/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/clean/clean.md) |  |  |
-| [Multi-Platform Upload Guide](development/upload_guide_2f3f096b/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/UPLOAD_GUIDE.md) |  | `docs/guides/UPLOAD_GUIDE.md` |
-| [Internet/DMZ](development/knowledge-architecture-v52-cn_7a1fa993/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2-cn.md) |  | `7a1fa9932a149d6e...` |
-| [Denial of Service Cheat Sheet](development/reference-set-09-dos-prevention_14f79d8d/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-dos-prevention.md) |  |  |
-| [CLAUDE.md](development/claude_d2eda093/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) |  | `CLAUDE.md` `d2eda0933cba7db1...` |
-| [Instructions](development/claude_cd9aa359/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Cursor-Tools/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_tooling_az_a56ad364/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) |  |  |
-| [Threat Modeling](development/control-set-02-authorization_91b176eb/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-02-authorization.md) |  |  |
-| [fastmcp](development/c3_x_router_architecture_76f12f0a/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/C3_x_Router_Architecture.md) |  |  |
-| [string;](development/reference-set-05-csrf-prevention_083b418d/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-csrf-prevention.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_styles_updated_8efe49e3/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_hooks_releases_2cb1f64d/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) |  |  |
-| [Skill Seekers Feature Matrix](development/feature_matrix_4439bd68/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/FEATURE_MATRIX.md) |  |  |
-| [Control Set 17: Agentic Security (AGENT)](development/control-set-ext-16-agentic_31538521/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-16-agentic.md) |  |  |
-| [Top 10 Automotive Security Vulnerabilities](development/reference-set-ext-14-automotive-security_ae84f18e/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-14-automotive-security.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_commands_created_83059858/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) |  |  |
-| [Deserialization Cheat Sheet](development/reference-set-03-deserialization_7d97d844/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-deserialization.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_tooling_releases_fc4eb5bc/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) |  |  |
-| [Development Philosophy](development/claude_0e101976/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Giselle/CLAUDE.md) |  |  |
-| [Control Set 13: Supply Chain Security (SUPPLY)](development/control-set-ext-12-supply-chain_df2188d4/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-12-supply-chain.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_docs_updated_31e376b4/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_UPDATED.md) |  |  |
-| [test-skill](development/test-skill_8b144729/) | [unknown](None) |  | `8b144729300ec000...` |
-| [Input Validation Cheat Sheet](development/reference-set-03-input-validation_2ffe1f28/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-input-validation.md) |  |  |
-| [Skill Quality Fix Plan](development/skill_quality_fix_plan_7786b9d7/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/SKILL_QUALITY_FIX_PLAN.md) |  |  |
-| [Vulnerable Dependency Management Cheat Sheet](development/reference-set-ext-12-dependency-management_a8958ef1/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-dependency-management.md) |  |  |
-| [Active Skills Phase 1: Foundation Implementation Plan](development/2025-10-24-active-skills-phase1_9525e3a8/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/plans/2025-10-24-active-skills-phase1.md) |  |  |
-| [Content Security Policy Cheat Sheet](development/reference-set-05-csp_bd57201b/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-csp.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_statusline_releases_c40b9a28/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) |  |  |
-| [REST Assessment Cheat Sheet](development/reference-set-09-rest-assessment_86c7b535/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-assessment.md) |  |  |
-| [skill-seekers](development/bootstrap_skill_technical_82dfb4b6/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/BOOTSTRAP_SKILL_TECHNICAL.md) |  |  |
-| [AJAX Security Cheat Sheet](development/reference-set-09-ajax-security_db4a8661/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-ajax-security.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_statusline_updated_7af35098/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) |  |  |
-| [Awesome Claude Code](development/husky_cc9f1cae/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/husky/husky.md) |  |  |
-| [hello-world](development/reference-set-ext-11-kubernetes-security_d1defcee/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-kubernetes-security.md) |  |  |
-| [OPEN-WEBUI](development/workflow_bb5eab28/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/WORKFLOW.md) |  | `WORKFLOW.md` `bb5eab2841e7b4bf...` |
-| [Load Xatu Data Context](development/load-llms-txt_00884e62/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/load-llms-txt/load-llms-txt.md) |  |  |
-| [Cookie Theft Mitigation Cheat Sheet](development/reference-set-01-cookie-theft-mitigation_a6ef7d7a/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-cookie-theft-mitigation.md) |  |  |
-| [Awesome Claude Code](development/context-prime_dcdbad8a/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/context-prime/context-prime.md) |  |  |
-| [Multifactor Authentication Cheat Sheet](development/reference-set-01-multifactor-authentication_1f1ea8bd/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-multifactor-authentication.md) |  |  |
-| [JAAS Cheat Sheet](development/reference-set-01-jaas_c3f57b6f/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-jaas.md) |  |  |
-| [Generate Skills](development/git_config_sources_02e77e70/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/GIT_CONFIG_SOURCES.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_claude-md_created_dd418d33/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_CREATED.md) |  |  |
-| [DroidconKotlin Development Guide](development/claude_47925f9e/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/DroidconKotlin/CLAUDE.md) |  |  |
-| [SQL Injection](development/architecture-workflow-guide-cn_b6a84e50/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/ARCHITECTURE-WORKFLOW-GUIDE-cn.md) |  | `b6a84e50e7a0c68e...` |
-| [Migration Guide](development/migration_guide_2ef4334d/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/MIGRATION_GUIDE.md) |  |  |
-| [Remove revealing headers](development/control-set-08-error-handling_d0cf867e/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-08-error-handling.md) |  |  |
-| [Multi-Agent Auto-Configuration Guide](development/multi_agent_setup_9f6ee563/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/MULTI_AGENT_SETUP.md) |  |  |
-| [Awesome Claude Code](development/footertemplate_b7f1f10a/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/templates/footer.template.md) |  | `templates/footer.template.md` |
-| [DEPRECATED: Access Control Cheatsheet](development/reference-set-02-access-control_9ced2093/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-access-control.md) |  |  |
-| [Cloud Architecture Security Cheat Sheet](development/reference-set-ext-15-cloud-architecture_39cb4813/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-15-cloud-architecture.md) |  |  |
-| [DOM Clobbering Prevention Cheat Sheet](development/reference-set-05-dom-clobbering-prevention_075c527b/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-dom-clobbering-prevention.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_all_updated_19465007/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_all_az_11c29d0f/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_styles_releases_bbebbbe1/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) |  |  |
-| [AI-Powered SKILL.md Enhancement](development/enhancement_5f720243/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT.md) |  | `docs/features/ENHANCEMENT.md` |
-| [Skill Seeker](development/readmezh-cn_6e1f9a09/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/README.zh-CN.md) |  | `README.zh-CN.md` `6e1f9a09768df3bf...` |
-| [Control Set 16: Cloud Security (CLOUD)](development/control-set-ext-15-cloud_80b98822/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-15-cloud.md) |  |  |
-| [Error Handling Cheat Sheet](development/reference-set-08-error-handling_9e413dc1/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-08-error-handling.md) |  |  |
-| [Cryptographic Security Guidelines](development/control-set-06-cryptography_a7a24278/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-06-cryptography.md) |  |  |
-| [HTTP Strict Transport Security Cheat Sheet](development/reference-set-05-hsts_34ac8601/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-hsts.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_tooling_created_65147dbd/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) |  |  |
-| [John](development/reference-set-08-xs-leaks_739b2c1b/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-08-xs-leaks.md) |  |  |
-| [Internet Boundary](development/p3-trust-boundary_622da854/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) |  | `phases/P3-TRUST-BOUNDARY.md` `622da8540fd1da7c...` |
-| [Microservices Security Cheat Sheet](development/reference-set-09-microservices-security_3114af10/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-microservices-security.md) |  |  |
-| [Awesome Claude Code - "Repo Ticker"](development/repo_ticker_0ba067ad/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/REPO_TICKER.md) |  | `docs/REPO_TICKER.md` |
-| [`AWESOME_CC_PAT_PUBLIC_REPO`](development/badge_automation_setup_b68ed68e/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/scripts/badges/BADGE_AUTOMATION_SETUP.md) |  | `AWESOME_CC_PAT_PUBLIC_REPO` `AWESOME_CC_PAT_PUBLIC_REPO` |
-| [Claude Command: Commit](development/commit_15f6d58c/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/commit/commit.md) |  |  |
-| [Injection Prevention Cheat Sheet](development/reference-set-03-injection-prevention_27be7e31/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-injection-prevention.md) |  |  |
-| [CI](development/testing_guide_525cb4bb/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/TESTING_GUIDE.md) |  | `docs/guides/TESTING_GUIDE.md` `525cb4bb9cc41445...` |
-| [llms.txt Support](development/llms_txt_support_c10322a9/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/LLMS_TXT_SUPPORT.md) |  |  |
-| [Threat Modeling](development/control-set-05-client-side_8c4df881/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-05-client-side.md) |  |  |
-| [Awesome Claude Code](development/readme_extratemplate_99144724/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/templates/README_EXTRA.template.md) |  |  |
-| [Control Set 14: AI/LLM Security (AI)](development/control-set-ext-13-ai-llm_de2f5c66/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-13-ai-llm.md) |  |  |
-| [Awesome Claude Code](development/testing_plan_integration_35e3ed27/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/testing_plan_integration/testing_plan_integration.md) |  |  |
-| [DEPRECATED: Transport Layer Protection Cheat Sheet](development/reference-set-06-transport-layer-protection_c977400c/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-transport-layer-protection.md) |  |  |
-| [Awesome Claude Code](development/summary-rendering-cheatsheet_87e7ccbd/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/summary-rendering-cheatsheet.md) |  |  |
-| [CLAUDE.md - Basic Memory Project Guide](development/claude_657f3127/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Basic-Memory/CLAUDE.md) |  |  |
-| [Comm Project Development Guide](development/claude_10e9cf61/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Comm/CLAUDE.md) |  |  |
-| [AI Integration Plugin Development Guide](development/claude_fdf23362/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/AI-IntelliJ-Plugin/CLAUDE.md) |  |  |
-| [Complete MCP Setup Guide - MCP 2025 (v2.7.0)](development/mcp_setup_5d512cbf/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/MCP_SETUP.md) |  | `docs/guides/MCP_SETUP.md` |
-| [LangGraphJS Development Guide](development/claude_6c19d749/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/LangGraphJS/CLAUDE.md) |  |  |
-| [HTTP Security Response Headers Cheat Sheet](development/reference-set-05-http-headers_502cd929/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-http-headers.md) |  |  |
-| [PDF Scraper CLI Tool (Tasks B1.6 + B1.8)](development/pdf_scraper_a12c2739/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/PDF_SCRAPER.md) |  | `docs/features/PDF_SCRAPER.md` |
-| [`node`. However, it’s not enough to just run the process as `node`. For example, the following might not be ideal for an application to function well:](development/reference-set-ext-11-nodejs-docker_e78ad704/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-nodejs-docker.md) |  | `node` `node` `node` |
-| [Awesome Claude Code (Flat)](development/readme_flat_clients_updated_6b3cf4fe/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) |  |  |
-| [Setup Quick Reference Card](development/setup_quick_reference_cc6aff09/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/SETUP_QUICK_REFERENCE.md) |  |  |
-| [CLAUDE.md](development/claude_d8151fd7/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Pareto-Mac/CLAUDE.md) |  |  |
-| [File Organizer 2000 - Developer Guide](development/claude_2e792916/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Note-Companion/CLAUDE.md) |  |  |
-| [1. Ensure that the domains that are part of your organization are resolved by your internal DNS server first in the chains of DNS resolvers.](development/reference-set-03-ssrf-prevention_48a812bf/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-ssrf-prevention.md) |  |  |
-| [Prototype Pollution Prevention Cheat Sheet](development/reference-set-05-prototype-pollution-prevention_89e61234/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-prototype-pollution-prevention.md) |  |  |
-| [str](development/reference-set-ext-16-agentic-security_d10ae89e/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-16-agentic-security.md) |  |  |
-| [Extra                    # Display name for badge alt text](development/readme-generation_fa5528c0/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/README-GENERATION.md) |  | `docs/README-GENERATION.md` |
-| [JSON Web Token Cheat Sheet for Java](development/reference-set-01-jwt-java_fb435c58/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-jwt-java.md) |  |  |
-| [Path Resolution Migration Plan](development/path-resolution-migration-plan_a129f414/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/path-resolution-migration-plan.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_docs_created_4538c891/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) |  |  |
-| [example](development/reference-set-ext-11-docker-security_72260019/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-docker-security.md) |  |  |
-| [Awesome Claude Code](development/fix-github-issue_d75f2b91/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/fix-github-issue/fix-github-issue.md) |  |  |
-| [Unvalidated Redirects and Forwards Cheat Sheet](development/reference-set-03-unvalidated-redirects_7f15fe2a/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-unvalidated-redirects.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_skills_az_2ceddfce/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_skills_updated_1c001e50/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) |  |  |
-| [Session Management Cheat Sheet](development/reference-set-01-session-management_1200fc73/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-session-management.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_hooks_created_4e9bba6f/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_CREATED.md) |  |  |
-| [Mobile Application Security Cheat Sheet](development/reference-set-ext-14-mobile-security_a404bc73/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-14-mobile-security.md) |  |  |
-| [PDF Page Detection and Chunking (Task B1.3)](development/pdf_chunking_1de046e5/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/PDF_CHUNKING.md) |  | `docs/features/PDF_CHUNKING.md` |
-| [MCP Integration Test Results](development/mcp_integration_test_5303daa8/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/tests/mcp_integration_test.md) |  | `tests/mcp_integration_test.md` |
-| [File Upload Cheat Sheet](development/reference-set-03-file-upload_de5158e2/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-file-upload.md) |  |  |
-| [Threat Modeling](development/skillset-threat-modeling-tour-v5_901086b9/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/Skillset-threat-modeling-tour-v5.md) |  |  |
-| [Mass Assignment Cheat Sheet](development/reference-set-03-mass-assignment_39f74888/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-mass-assignment.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_workflows_updated_610f2a01/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) |  |  |
-| [SQL Injection Prevention Cheat Sheet](development/reference-set-03-sql-injection-prevention_8c8ad5d9/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-sql-injection-prevention.md) |  |  |
-| [httpx](development/httpx_skill_grading_1efcff1c/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/HTTPX_SKILL_GRADING.md) |  |  |
-| [Vintage Manual Animation Style Guide](development/vintage-manual-animation-style-guide_2d45a7a1/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/vintage-manual-animation-style-guide.md) |  |  |
-| [Key Management Cheat Sheet](development/reference-set-06-key-management_8d29220d/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-key-management.md) |  |  |
-| [Authorization Cheat Sheet](development/reference-set-02-authorization_ffce59c1/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-authorization.md) |  |  |
-| [Cross Site Scripting Prevention Cheat Sheet](development/reference-set-05-xss-prevention_eef068a5/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-xss-prevention.md) |  |  |
-| [my-app](development/reference-set-10-secrets-management_a861f937/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-secrets-management.md) |  |  |
-| [Awesome Claude Code](development/design-review-slash-command_ff955918/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Design-Review-Workflow/design-review-slash-command.md) |  |  |
-| [threat-modeling](development/skill_403942b4/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) |  | `SKILL.md` `403942b4df29b331...` |
-| [Awesome Claude Code (Flat)](development/readme_flat_all_releases_7bcc0bdf/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) |  |  |
-| [HTTP Transport for FastMCP Server](development/http_transport_5ee7de2b/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/HTTP_TRANSPORT.md) |  | `docs/guides/HTTP_TRANSPORT.md` |
-| [Query Parameterization Cheat Sheet](development/reference-set-03-query-parameterization_699875f9/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-query-parameterization.md) |  |  |
-| [Awesome Claude Code](development/design-review-claude-md-snippet_a67344d8/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Design-Review-Workflow/design-review-claude-md-snippet.md) |  |  |
-| [Threat Modeling Skill v3.0.0](development/readme-cn_6c987ebf/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/README-cn.md) |  | `README-cn.md` `6c987ebf851ef56f...` |
-| [Phase 4: Security Design Review](development/p4-security-design-review_2af0dc53/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P4-SECURITY-DESIGN-REVIEW.md) |  |  |
-| [verify_token](development/p6-risk-validation_123f8670/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P6-RISK-VALIDATION.md) |  | `phases/P6-RISK-VALIDATION.md` `123f867076b0b2da...` |
-| [S-Tier SaaS Dashboard Design Checklist (Inspired by Stripe, Airbnb, Linear)](development/design-principles-example_391dde26/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Design-Review-Workflow/design-principles-example.md) |  |  |
-| [Local Repository Extraction Test - deck_deck_go](development/local_repo_test_results_14e74107/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/LOCAL_REPO_TEST_RESULTS.md) |  |  |
-| [Skill Seekers Roadmap](development/roadmap_5c83fb57/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/ROADMAP.md) |  | `ROADMAP.md` `5c83fb571486b314...` |
-| [Clickjacking Defense Cheat Sheet](development/reference-set-05-clickjacking-defense_da5507cf/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-clickjacking-defense.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_skills_releases_2aaabfc7/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_claude-md_updated_33258bb6/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_styles_az_e2c91213/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) |  |  |
-| [Design Pattern Detection Guide](development/pattern_detection_3784af51/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/PATTERN_DETECTION.md) |  |  |
-| [Cryptographic Storage Cheat Sheet](development/reference-set-06-cryptographic-storage_fbd85742/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-cryptographic-storage.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_clients_az_1d42f17b/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) |  |  |
-| [Anthropic Quickstarts Development Guide](development/claude_05941f6f/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/official-documentation/Anthropic-Quickstarts/CLAUDE.md) |  |  |
-| [str](development/reference-set-ext-13-ai-agent-security_9b1a91eb/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-13-ai-agent-security.md) |  |  |
-| [Three-Stream GitHub Architecture - Final Status Report](development/three_stream_status_report_4e1217ac/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/THREE_STREAM_STATUS_REPORT.md) |  |  |
-| [skill-seekers](development/skill_intelligence_system_bc55f4a5/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/roadmap/SKILL_INTELLIGENCE_SYSTEM.md) |  |  |
-| [Authentication Module](development/p1-project-understanding_6cc9a583/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P1-PROJECT-UNDERSTANDING.md) |  |  |
-| [Awesome Claude Code](development/readme_classictemplate_5e7eccd5/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/templates/README_CLASSIC.template.md) |  |  |
-| [building-react-applications  # kebab-case, gerund form](development/ai_skill_standards_d1b232ed/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/AI_SKILL_STANDARDS.md) |  |  |
-| [HTML5 Security Cheat Sheet](development/reference-set-05-html5-security_51836b19/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-html5-security.md) |  |  |
-| [Troubleshooting Guide](development/troubleshooting_a54548ee/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/TROUBLESHOOTING.md) |  | `TROUBLESHOOTING.md` `a54548eeb3151eeb...` |
-| [Awesome Claude Code (Flat)](development/readme_flat_styles_created_5a10c32c/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_clients_created_4f3c5a69/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_CREATED.md) |  |  |
-| [STRIDE 威胁建模系统架构分析](development/skill-architecture-design-cn_c5aa74e8/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN-cn.md) |  |  |
-| [{PROJECT}-RISK-ASSESSMENT-REPORT.md](development/p8-report-generation_97737da4/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) |  |  |
-| [Phase 7: Mitigation Planning](development/p7-mitigation-planning_f26ca73b/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P7-MITIGATION-PLANNING.md) |  |  |
-| [astro-test](development/test_mcp_in_claude_code_47c15989/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/TEST_MCP_IN_CLAUDE_CODE.md) |  |  |
-| [CLAUDE.md](development/claude_8d01c8e6/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/JSBeeb/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_claude-md_az_fe071c24/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) |  |  |
-| [Transport Layer Security Cheat Sheet](development/reference-set-06-tls_412e2255/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-tls.md) |  |  |
-| [DOM based XSS Prevention Cheat Sheet](development/reference-set-05-dom-xss-prevention_982d1e93/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-dom-xss-prevention.md) |  |  |
-| [Securing Cascading Style Sheets Cheat Sheet](development/reference-set-05-css-security_2a2123f4/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-css-security.md) |  |  |
-| [Three-Stream GitHub Architecture - Implementation Summary](development/implementation_summary_three_stream_98cb21bb/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/IMPLEMENTATION_SUMMARY_THREE_STREAM.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_workflows_releases_f03d3f19/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_workflows_az_45d3ff70/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) |  |  |
-| [Transaction Authorization Cheat Sheet](development/reference-set-02-transaction-authorization_0461d44f/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-transaction-authorization.md) |  |  |
-| [Unified Multi-Source Scraping](development/unified_scraping_64b669d1/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/UNIFIED_SCRAPING.md) |  |  |
-| [OS Command Injection Defense Cheat Sheet](development/reference-set-03-os-command-injection-defense_5e8bbce4/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-os-command-injection-defense.md) |  |  |
-| [`{framework-name}.json`](development/faq_7093d392/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/FAQ.md) |  | `{framework-name}.json` `{framework-name}.json` `docs/FAQ.md` |
-| [travel_planner](development/skill_architecture_7155fc98/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/SKILL_ARCHITECTURE.md) |  |  |
-| [Lamoom Python Project Guide](development/claude_34c30a58/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Lamoom-Python/CLAUDE.md) |  |  |
-| [PR Review](development/pr-review_24c85733/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/pr-review/pr-review.md) |  |  |
-| [Skill Seekers Intelligence System - Research Topics](development/intelligence_system_research_7dde3bec/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/roadmap/INTELLIGENCE_SYSTEM_RESEARCH.md) |  |  |
-| [API Gateway](development/p5-stride-analysis_fca7c595/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) |  | `phases/P5-STRIDE-ANALYSIS.md` `fca7c59586e0200a...` |
-| [Application Logging Vocabulary Cheat Sheet](development/reference-set-07-logging-vocabulary_9d4943cd/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-07-logging-vocabulary.md) |  |  |
-| [Strategy: Generated, Location-Correct Relative Asset Paths](development/path-resolution-strategyfinal_8dcf78b4/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/path-resolution-strategy.final.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_hooks_updated_53808350/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_UPDATED.md) |  |  |
-| [branch_name](development/create-worktrees_e0d1617a/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-worktrees/create-worktrees.md) |  |  |
-| [Injection Prevention Cheat Sheet in Java](development/reference-set-03-injection-prevention-java_ea412631/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-injection-prevention-java.md) |  |  |
-| [** `scrape_pdf`](development/pdf_mcp_tool_48095ee6/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/PDF_MCP_TOOL.md) |  | `scrape_pdf` `scrape_pdf` `docs/features/PDF_MCP_TOOL.md` |
-| [Awesome Claude Code](development/create-prp_069ce58b/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-prp/create-prp.md) |  |  |
-| [Create Pull Request Command](development/create-pr_69575000/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-pr/create-pr.md) |  |  |
-| [skill-seekers](development/skill_header_f8b9006e/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/scripts/skill_header.md) |  | `scripts/skill_header.md` `f8b9006e3717cc76...` |
-| [**](development/setup_instructions_51af6034/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/SETUP_INSTRUCTIONS.md) |  | `.github/SETUP_INSTRUCTIONS.md` `51af60344d2c84b7...` |
-| [Awesome Claude Code (Flat)](development/readme_flat_tooling_updated_b919b304/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) |  |  |
-| [How Awesome Claude Code Works](development/how_it_works_f8f8acce/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/HOW_IT_WORKS.md) |  | `docs/HOW_IT_WORKS.md` |
-| [Documentation Update Command: Update Implementation Documentation](development/update-docs_dd20fde3/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/update-docs/update-docs.md) |  |  |
-| [MCP Tool Request](development/mcp_tool_ea52f24b/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/ISSUE_TEMPLATE/mcp_tool.md) |  |  |
-| [str, module_config: dict) -> List[Path]:](development/intelligence_system_architecture_22d7ebb5/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/roadmap/INTELLIGENCE_SYSTEM_ARCHITECTURE.md) |  |  |
-| [**Skill Seekers Development Roadmap**](development/project_board_setup_fd8a6573/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/PROJECT_BOARD_SETUP.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_claude-md_releases_62663ee6/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) |  |  |
-| [No Hardcoded Credentials](development/control-set-ext-10-hardcoded-credentials_e5efa34d/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-10-hardcoded-credentials.md) |  |  |
-| [EDSL Codebase Reference](development/claude_b7f6b8de/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/EDSL/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_commands_releases_6d493a2e/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) |  |  |
-| [Password Storage Cheat Sheet](development/reference-set-01-password-storage_9f76c93f/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-password-storage.md) |  |  |
-| [Web Service Security Cheat Sheet](development/reference-set-09-web-service-security_2fe88091/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-web-service-security.md) |  |  |
-| [Software Supply Chain Security](development/reference-set-ext-12-supply-chain-security_1e87a85c/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) |  |  |
-| [GitHub Issues to Create](development/issues_to_create_a9299a52/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/ISSUES_TO_CREATE.md) |  | `.github/ISSUES_TO_CREATE.md` |
-| [NPM Security best practices](development/reference-set-ext-12-npm-security_caca2829/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) |  |  |
-| [CLAUDE.md](development/claude_ded4da2c/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/SG-Cars-Trends-Backend/CLAUDE.md) |  |  |
-| [LDAP Injection Prevention Cheat Sheet](development/reference-set-03-ldap-injection-prevention_403c288a/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-ldap-injection-prevention.md) |  |  |
-| [Control Set 12: Infrastructure Security (INFRA)](development/control-set-ext-11-infrastructure_d9fab907/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-11-infrastructure.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_hooks_az_43a9ab83/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) |  |  |
-| [react](development/openai_integration_a5706bab/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/OPENAI_INTEGRATION.md) |  | `a5706babb1576abc...` |
-| [GitHub Project Setup Guide](development/setup_guide_33eb1f0c/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/SETUP_GUIDE.md) |  | `.github/SETUP_GUIDE.md` |
-| [CI/CD Security Cheat Sheet](development/reference-set-ext-12-cicd-security_5ad60e44/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) |  |  |
-| [SPy Language - Dev Reference](development/claude_716e42ff/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/SPy/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_workflows_created_640f5672/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) |  |  |
-| [Course Builder Development Guide](development/claude_e6a7cf13/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Course-Builder/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_all_created_96d32e4d/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_CREATED.md) |  |  |
-| [Test Example Extraction (C3.2)](development/test_example_extraction_81630a9b/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/TEST_EXAMPLE_EXTRACTION.md) |  |  |
-| [Repository Evaluation Prompt (Awesome-Claude-Code · Full Version)](development/evaluate-repository_4564c383/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/.claude/commands/evaluate-repository.md) |  |  |
-| [CLAUDE.md](development/claude_integration_01dfac0f/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/CLAUDE_INTEGRATION.md) |  |  |
-| [AWS MCP Server Development Guide](development/claude_2781e56c/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/AWS-MCP-Server/CLAUDE.md) |  |  |
-| [How It Looks (WIP)](development/how_it_looks_32482173/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/HOW_IT_LOOKS.md) |  | `docs/HOW_IT_LOOKS.md` `32482173fe9ba47a...` |
-| [SAML Security Cheat Sheet](development/reference-set-01-saml-security_c85cf750/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-saml-security.md) |  |  |
-| [Authentication Cheat Sheet](development/reference-set-01-authentication_7f047941/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-authentication.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_commands_updated_efff2005/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) |  |  |
-| [Three-Stream GitHub Architecture - Completion Summary](development/three_stream_completion_summary_61187af5/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/THREE_STREAM_COMPLETION_SUMMARY.md) |  |  |
-| [Credential Stuffing Prevention Cheat Sheet](development/reference-set-01-credential-stuffing-prevention_87fbf665/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-credential-stuffing-prevention.md) |  |  |
-| [How-To Guide Generation (C3.3)](development/how_to_guides_844431f6/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/HOW_TO_GUIDES.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_clients_releases_b9ac7083/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_RELEASES.md) |  |  |
-| [User Privacy Protection Cheat Sheet](development/reference-set-10-user-privacy_3854b05a/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-user-privacy.md) |  |  |
-| [PDF Parsing Libraries Research (Task B1.1)](development/pdf_parsing_research_cfcd7467/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_PARSING_RESEARCH.md) |  |  |
-| [Quick Reference - Skill Seekers Cheat Sheet](development/quick_reference_3a8993cb/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/QUICK_REFERENCE.md) |  | `docs/QUICK_REFERENCE.md` |
-| [Documentation Improvement](development/documentation_c1ecfe17/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/.github/ISSUE_TEMPLATE/documentation.md) |  |  |
-| [SQL Injection](development/architecture-workflow-guide_08bed62a/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/ARCHITECTURE-WORKFLOW-GUIDE.md) |  | `08bed62a010a6a4f...` |
-| [Perplexity MCP Server Guide](development/claude_ae41e6ed/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Perplexity-MCP/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_docs_az_e1500649/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) |  |  |
-| [PDF Advanced Features Guide](development/pdf_advanced_features_88df9439/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/PDF_ADVANCED_FEATURES.md) |  |  |
-| [XSS Filter Evasion Cheat Sheet](development/reference-set-05-xss-filter-evasion_d061cfe8/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-xss-filter-evasion.md) |  |  |
-| [Authentication Module](development/p2-dfd-analysis_6baf7f0c/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) |  | `phases/P2-DFD-ANALYSIS.md` `6baf7f0c2d668c84...` |
-| [Awesome Claude Code (Flat)](development/readme_flat_statusline_az_c220ec0f/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) |  |  |
-| [Database Security Cheat Sheet](development/reference-set-10-database-security_142977ec/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-database-security.md) |  |  |
-| [Threat Modeling](development/control-set-09-api-security_96cdfdf8/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-09-api-security.md) |  |  |
-| [Pinning Cheat Sheet](development/reference-set-06-certificate-pinning_5702a893/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-certificate-pinning.md) |  |  |
-| [Awesome Claude Code](development/readme_awesometemplate_86172a22/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/templates/README_AWESOME.template.md) |  |  |
-| [CI](development/code_quality_1cbfd2eb/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/CODE_QUALITY.md) |  | `1cbfd2eb94319038...` |
-| [TOC Anchor Generation](development/toc-anchor-generation_40a9269d/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/toc-anchor-generation.md) |  |  |
-| [Guitar Development Guide](development/claude_956697f1/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/Guitar/CLAUDE.md) |  |  |
-| [Forgot Password Cheat Sheet](development/reference-set-01-forgot-password_589d86aa/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-forgot-password.md) |  |  |
-| [GraphQL Cheat Sheet](development/reference-set-09-graphql_ac8cf001/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-graphql.md) |  |  |
-| [GLOBAL CODING STANDARDS](development/claude_17c5260c/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/claude-code-mcp-enhanced/CLAUDE.md) |  |  |
-| [Threat Modeling](development/control-set-03-input-validation_9ce76238/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-03-input-validation.md) |  |  |
-| [Control Set 15: Mobile Security (MOBILE)](development/control-set-ext-14-mobile_e06bc984/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-14-mobile.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_skills_created_2eebac64/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) |  |  |
-| [Logging Cheat Sheet](development/reference-set-07-logging_9f223e0d/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-07-logging.md) |  |  |
-| [Threat Modeling](development/skillset-threat-modeling-tour-cn-v5_e9af870f/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/Skillset-threat-modeling-tour-cn-v5.md) |  |  |
-| [Architecture Verification Report](development/architecture_verification_report_2a5c4268/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/historical/ARCHITECTURE_VERIFICATION_REPORT.md) |  |  |
-| [Multi-LLM Platform Support Guide](development/multi_llm_support_ea2cf3f6/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/MULTI_LLM_SUPPORT.md) |  |  |
-| [DEPRECATED: TLS Cipher String Cheat Sheet](development/reference-set-06-tls-cipher-string_40f872d8/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-tls-cipher-string.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_statusline_created_d9bcc451/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) |  |  |
-| [Bean Validation Cheat Sheet](development/reference-set-03-bean-validation_0c10cfac/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-bean-validation.md) |  |  |
-| [TPL-GO Developer Guide](development/claude_c0361d65/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/TPL/CLAUDE.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_docs_releases_1b91b5a0/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_RELEASES.md) |  |  |
-| [Awesome Claude Code (Flat)](development/readme_flat_commands_az_8d81be14/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) |  |  |
-| [PDF Extractor - Proof of Concept (Task B1.2)](development/pdf_extractor_poc_e5a0f9ee/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_EXTRACTOR_POC.md) |  |  |
+| [Long-Running Agent - Mark Feature Status](communication/devkitlramark-feature_e49043e4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.mark-feature.md) | ⭐ 80 | `communication` |
+| [unit-test-bean-validation](communication/skill_b2b392bf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-bean-validation/SKILL.md) | ⭐ 80 | `junit-5` `validation` `bean-validation` |
+| [langchain4j-tool-function-calling-patterns](communication/skill_2cf6f827/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 80 | `langchain4j` `tools` `function-calling` |
+| [LangChain4j RAG Implementation Guide](communication/langchain4j-rag-guide_3559546e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/langchain4j-rag-guide.md) | ⭐ 80 | `data analysis` |
+| [Detailed SNS Operations Reference](communication/detailed-sns-operations_5a4f436f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sns-operations.md) | ⭐ 80 | `communication` |
+| [%s](communication/implementation-patterns_9cc10d66/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-tool-function-calling-patterns/references/implementation-patterns.md) | ⭐ 80 | `communication` |
+| [my-application](communication/tracing_8e70bed2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/tracing.md) | ⭐ 80 | `communication` |
+| [Spring Security JWT Implementation Examples](communication/examples_448a1a09/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/examples.md) | ⭐ 80 | `data analysis` |
+| [ascii-ui-mockup-generator](communication/ascii-ui-mockup-generator_6e9b56b2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/ascii-ui-mockup-generator.md) | ⭐ 383 | `data analysis` |
+| [communication-excellence-coach](communication/communication-excellence-coach_37ddb040/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/communication-excellence-coach.md) | ⭐ 383 | `communication` |
+| [Draft Professional Email](communication/compose-email_ea6c231a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/compose-email.md) | ⭐ 383 | `communication` |
+| [meme-factory](communication/skill_93244397/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/SKILL.md) | ⭐ 383 | `communication` |
+| [professional-communication](communication/skill_05ad4e12/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/SKILL.md) | ⭐ 383 | `communication` |
+| [Commit message template (Conventional Commits)](communication/commit-message-template_2a37c812/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/commit-work/references/commit-message-template.md) | ⭐ 383 | `communication` |
+| [Database Schema Design Checklist](communication/schema-design-checklist_91643f65/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/database-schema-designer/references/schema-design-checklist.md) | ⭐ 383 | `communication` |
+| [Design System Checklist](communication/design-system-checklist_09b98597/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/design-system-starter/checklists/design-system-checklist.md) | ⭐ 383 | `content creation` |
+| [Difficult Conversation Framework](communication/conversation-framework_7bde1cef/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/conversation-framework.md) | ⭐ 383 | `daily assistant` |
+| [Meme Generation Examples](communication/examples_989145b5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/references/examples.md) | ⭐ 383 | `communication` |
+| [Marketplace Schema Reference](communication/marketplace-schema_5a9b0859/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/marketplace-schema.md) | ⭐ 383 | `communication` |
+| [Plugin Structure Reference](communication/plugin-structure_88bdce43/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/plugin-structure.md) | ⭐ 383 | `communication` |
+| [Email Templates for Developers](communication/email-templates_01c238a6/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/email-templates.md) | ⭐ 383 | `daily assistant` |
+| [Remote and Async Communication](communication/remote-async-communication_b79cfc6b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/remote-async-communication.md) | ⭐ 383 | `content creation` |
+| [string; email: string };](communication/hooks_f2780114/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/hooks.md) | ⭐ 383 | `communication` |
+| [PAGNI: Probably Are Gonna Need It](communication/expensive-to-add-later_e00a5bb7/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/expensive-to-add-later.md) | ⭐ 383 | `communication` |
 
-
-### Other (3 skills)
+### Content Creation (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Awesome Claude Code](other/release_e893733e/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/release/release.md) |  |  |
-| [Awesome Claude Code](other/tech-debt_15563951/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/tech-debt.md) |  | `docs/development/tech-debt.md` `15563951503aed05...` |
-| [Awesome Claude Code](other/optimize_b045469c/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/optimize/optimize.md) |  |  |
+| [spring-data-jpa](content-creation/skill_3f79fac1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/SKILL.md) | ⭐ 80 | `spring-data` `jpa` `database` |
+| [Spring Data JPA - Reference Documentation](content-creation/reference_d0f5f765/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/references/reference.md) | ⭐ 80 | `content creation` |
+| [crafting-effective-readmes](content-creation/skill_638b271f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/SKILL.md) | ⭐ 383 | `content creation` |
+| [README Style Guide](content-creation/style-guide_9bc63081/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/style-guide.md) | ⭐ 383 | `content creation` |
+| [database-schema-designer](content-creation/skill_e485710c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/database-schema-designer/SKILL.md) | ⭐ 383 | `content creation` |
+| [openapi-to-typescript](content-creation/skill_a27383fc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/openapi-to-typescript/SKILL.md) | ⭐ 383 | `content creation` |
+| [reducing-entropy](content-creation/skill_50958820/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/SKILL.md) | ⭐ 383 | `content creation` |
+| [writing-clearly-and-concisely](content-creation/skill_c5f4ecc8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/SKILL.md) | ⭐ 383 | `content creation` |
+| [Entity Relationship Diagrams (ERD)](content-creation/erd-diagrams_639ee58f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/erd-diagrams.md) | ⭐ 383 | `content creation` |
+| [Agent Toolkit](content-creation/04-a-few-matters-of-form_150feae0/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/04-a-few-matters-of-form.md) | ⭐ 383 | `content creation` |
 
-
-### Productivity (5 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Awesome Claude Code](productivity/create-prd_547b33d5/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-prd/create-prd.md) |  |  |
-| [Awesome Claude Code](productivity/create-jtbd_b86ffec5/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-jtbd/create-jtbd.md) |  |  |
-| [CLAUDE.md](productivity/claude_d5cbd86a/) | [unknown](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/AVS-Vibe-Developer-Guide/CLAUDE.md) |  |  |
-| [godot](productivity/large_documentation_70ebdad1/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/LARGE_DOCUMENTATION.md) |  |  |
-| [{name}](productivity/2025-10-24-active-skills-design_1d904975/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/plans/2025-10-24-active-skills-design.md) |  |  |
-
-
-### Research (2 skills)
+### Daily Assistant (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Choosing and Using Security Questions Cheat Sheet](research/reference-set-01-security-questions_4f6a355f/) | [unknown](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-security-questions.md) |  |  |
-| [react](research/gemini_integration_74ea250d/) | [unknown](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/GEMINI_INTEGRATION.md) |  | `74ea250d4c30524e...` |
+| [Using References](daily-assistant/using-references_de80ec04/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/using-references.md) | ⭐ 383 | `daily assistant` |
+| [gepetto](daily-assistant/skill_6a52b885/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/SKILL.md) | ⭐ 383 | `daily assistant` |
+| [Section File Writing](daily-assistant/section-splitting_08826730/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/section-splitting.md) | ⭐ 383 | `daily assistant` |
+| [Model-Specific Expectations](daily-assistant/model-expectations_13f79fdd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/model-expectations.md) | ⭐ 383 | `daily assistant` |
 
+### Data Analysis (6 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Visualization and Evaluation Tools](data-analysis/visualization-tools_3cbd984b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/visualization-tools.md) | ⭐ 80 | `data analysis` |
+| [Prompt Optimization Frameworks](data-analysis/optimization-frameworks_ab1c32c1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/optimization-frameworks.md) | ⭐ 80 | `data analysis` |
+| [enterprise-mcp-server](data-analysis/examples_0bde65bd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-ai/spring-ai-mcp-server-patterns/references/examples.md) | ⭐ 80 | `content creation` |
+| [mermaid-diagram-specialist](data-analysis/mermaid-diagram-specialist_e096b691/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/mermaid-diagram-specialist.md) | ⭐ 383 | `data analysis` |
+| [excalidraw](data-analysis/skill_561c01a2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/excalidraw/SKILL.md) | ⭐ 383 | `data analysis` |
+| [Commands Reference](data-analysis/commands_a3c2087f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/references/commands.md) | ⭐ 383 | `content creation` |
+
+### Development (210 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [general-debugger](development/general-debugger_a846c27a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-debugger.md) | ⭐ 80 | `development` |
+| [docker-expert](development/general-docker-expert_ddf9bdb1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-docker-expert.md) | ⭐ 80 | `development` |
+| [general-refactor-expert](development/general-refactor-expert_d9ad5ed0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-refactor-expert.md) | ⭐ 80 | `development` |
+| [general-software-architect](development/general-software-architect_92467643/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/general-software-architect.md) | ⭐ 80 | `development` |
+| [java-refactor-expert](development/java-refactor-expert_8517f96b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/java-refactor-expert.md) | ⭐ 80 | `development` |
+| [langchain4j-ai-development-expert](development/langchain4j-ai-development-expert_c0fc9640/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/langchain4j-ai-development-expert.md) | ⭐ 80 | `development` |
+| [nestjs-backend-development-expert](development/nestjs-backend-development-expert_9111672c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-backend-development-expert.md) | ⭐ 80 | `development` |
+| [nestjs-database-expert](development/nestjs-database-expert_7aa88d59/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-database-expert.md) | ⭐ 80 | `development` |
+| [nestjs-testing-expert](development/nestjs-testing-expert_7e7cc489/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-testing-expert.md) | ⭐ 80 | `development` |
+| [nestjs-unit-testing-expert](development/nestjs-unit-testing-expert_3a3025ca/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/nestjs-unit-testing-expert.md) | ⭐ 80 | `development` |
+| [php-refactor-expert](development/php-refactor-expert_adf67a60/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/php-refactor-expert.md) | ⭐ 80 | `development` |
+| [python-code-review-expert](development/python-code-review-expert_82ef83fd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/python-code-review-expert.md) | ⭐ 80 | `development` |
+| [python-security-expert](development/python-security-expert_02b4c520/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/python-security-expert.md) | ⭐ 80 | `development` |
+| [react-frontend-development-expert](development/react-frontend-development-expert_e2ac63b5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/react-frontend-development-expert.md) | ⭐ 80 | `development` |
+| [spring-boot-code-review-expert](development/spring-boot-code-review-expert_8d763c22/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/spring-boot-code-review-expert.md) | ⭐ 80 | `development` |
+| [typescript-documentation-expert](development/typescript-documentation-expert_34e891ae/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/typescript-documentation-expert.md) | ⭐ 80 | `development` |
+| [typescript-security-expert](development/typescript-security-expert_2214bc88/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/typescript-security-expert.md) | ⭐ 80 | `development` |
+| [typescript-software-architect-review](development/typescript-software-architect-review_fa8474f3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/typescript-software-architect-review.md) | ⭐ 80 | `development` |
+| [wordpress-development-expert](development/wordpress-development-expert_cfb30fb7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/agents/wordpress-development-expert.md) | ⭐ 80 | `development` |
+| [Fix & Debugging](development/devkitfix-debugging_e5ef935b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.fix-debugging.md) | ⭐ 80 | `development` |
+| [Release](development/devkitgenerate-changelog_617e19ed/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-changelog.md) | ⭐ 80 | `development` |
+| [Document Generation Command](development/devkitgenerate-document_ce0f786f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-document.md) | ⭐ 80 | `development` |
+| [Security Assessment Document](development/devkitgenerate-security-assessment_68d94e23/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-security-assessment.md) | ⭐ 80 | `development` |
+| [Java Architectural Review](development/devkitjavaarchitect-review_6a58600c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.architect-review.md) | ⭐ 80 | `development` |
+| [Dependency Audit](development/devkitjavadependency-audit_d36d1edd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.dependency-audit.md) | ⭐ 80 | `development` |
+| [Generate CRUD Implementation](development/devkitjavagenerate-crud_d7d7b643/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.generate-crud.md) | ⭐ 80 | `development` |
+| [Java Class Refactoring Assistant](development/devkitjavarefactor-class_3a77372a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.refactor-class.md) | ⭐ 80 | `development` |
+| [${SECURITY_USER_NAME}](development/devkitjavasecurity-review_630fb571/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.security-review.md) | ⭐ 80 | `development` |
+| [Java Dependency Upgrade Strategy](development/devkitjavaupgrade-dependencies_1e0187e6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.upgrade-dependencies.md) | ⭐ 80 | `development` |
+| [Generate Java Unit Tests](development/devkitjavawrite-unit-tests_db723c7a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.java.write-unit-tests.md) | ⭐ 80 | `development` |
+| [Long-Running Agent - Create Checkpoint](development/devkitlracheckpoint_5c59fbc8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.checkpoint.md) | ⭐ 80 | `development` |
+| [Long-Running Agent - Start Coding Session](development/devkitlrastart-session_030fd5d4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.start-session.md) | ⭐ 80 | `development` |
+| [Prompt Optimization](development/devkitprompt-optimize_21511e5e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.prompt-optimize.md) | ⭐ 80 | `development` |
+| [Run npm audit](development/devkittssecurity-review_e0604892/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.ts.security-review.md) | ⭐ 80 | `development` |
+| [Verify Skill: $1](development/devkitverify-skill_4eaa78fc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.verify-skill.md) | ⭐ 80 | `development` |
+| [Developer Kit](development/speckitcheck-integration_ec2db6c1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/speckit.check-integration.md) | ⭐ 80 | `development` |
+| [Run all test commands from plan.md or infer from project type](development/speckitverify_9d90ceab/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/speckit.verify.md) | ⭐ 80 | `development` |
+| [Complete Guide to Developer Kit Commands](development/guide-commands_96c019d8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-commands.md) | ⭐ 80 | `development` |
+| [Type: AWS::EC2::KeyPair::KeyName](development/examples_0f0afb71/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-auto-scaling/examples.md) | ⭐ 80 | `development` |
+| [my-key-pair](development/reference_22846987/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ec2/reference.md) | ⭐ 80 | `development` |
+| [aws-cloudformation-ecs](development/skill_a49d8760/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `ecs` |
+| [Type: String](development/examples_cb92aa52/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/examples.md) | ⭐ 80 | `development` |
+| [Type: String](development/examples_7d784143/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-elasticache/examples.md) | ⭐ 80 | `development` |
+| [aws-cloudformation-iam](development/skill_4da0279d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-iam/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `iam` |
+| [Type: String](development/examples_d5e6390d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-iam/examples.md) | ⭐ 80 | `development` |
+| [String](development/reference_b3e51496/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-iam/reference.md) | ⭐ 80 | `development` |
+| [aws-cloudformation-lambda](development/skill_e9c886ba/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-lambda/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `lambda` |
+| [admin](development/reference_8f26d276/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-rds/reference.md) | ⭐ 80 | `development` |
+| [aws-cloudformation-s3](development/skill_8ee13c97/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-s3/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `s3` |
+| [!Ref LogBucket](development/reference_60a8fce9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-s3/reference.md) | ⭐ 80 | `development` |
+| [!Sub](development/examples_b83a667a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-security/examples.md) | ⭐ 80 | `development` |
+| [aws-cloudformation-task-ecs-deploy-gh](development/skill_8ff35ea2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/SKILL.md) | ⭐ 80 | `aws` `cloudformation` `github-actions` |
+| [!Sub](development/examples_d56748d4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/examples.md) | ⭐ 80 | `development` |
+| [aws-sdk-java-v2-bedrock](development/skill_c3fad0a8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/SKILL.md) | ⭐ 80 | `aws` `bedrock` `java` |
+| [Supported foundation models in Amazon Bedrock](development/bedrock_models_supported_a688842e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/bedrock_models_supported.md) | ⭐ 80 | `content creation` |
+| [Amazon Bedrock Runtime examples using SDK for Java 2.x](development/bedrock_runtime_code_examples_ecdaac3a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/bedrock_runtime_code_examples.md) | ⭐ 80 | `development` |
+| [aws-sdk-java-v2-core](development/skill_ee294854/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-core/SKILL.md) | ⭐ 80 | `aws` `java` `sdk` |
+| [aws-sdk-java-v2-lambda](development/skill_e87045dc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/SKILL.md) | ⭐ 80 | `aws` `lambda` `java` |
+| [aws-sdk-java-v2-messaging](development/skill_52a9ea55/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/SKILL.md) | ⭐ 80 | `aws` `sqs` `sns` |
+| [aws-sdk-java-v2-rds](development/skill_f50374a6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-rds/SKILL.md) | ⭐ 80 | `aws` `rds` `database` |
+| [unit-test-boundary-conditions](development/skill_d75dfda4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-boundary-conditions/SKILL.md) | ⭐ 80 | `junit-5` `boundary-testing` `edge-cases` |
+| [unit-test-controller-layer](development/skill_9cce1565/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-controller-layer/SKILL.md) | ⭐ 80 | `junit-5` `mockito` `unit-testing` |
+| [unit-test-exception-handler](development/skill_523e0d56/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-exception-handler/SKILL.md) | ⭐ 80 | `junit-5` `exception-handler` `controller-advice` |
+| [unit-test-json-serialization](development/skill_b58db1a5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-json-serialization/SKILL.md) | ⭐ 80 | `junit-5` `json-test` `jackson` |
+| [unit-test-parameterized](development/skill_bf067179/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-parameterized/SKILL.md) | ⭐ 80 | `junit-5` `parameterized-test` `value-source` |
+| [unit-test-security-authorization](development/skill_a448f85f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-security-authorization/SKILL.md) | ⭐ 80 | `junit-5` `spring-security` `authorization` |
+| [unit-test-utility-methods](development/skill_48345214/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-utility-methods/SKILL.md) | ⭐ 80 | `junit-5` `unit-testing` `utility` |
+| [langchain4j-ai-services-patterns](development/skill_2f951ab9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-ai-services-patterns/SKILL.md) | ⭐ 80 | `langchain4j` `ai-services` `annotations` |
+| [langchain4j-mcp-server-patterns](development/skill_ccd6dba7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-mcp-server-patterns/SKILL.md) | ⭐ 80 | `langchain4j` `mcp` `model-context-protocol` |
+| [langchain4j-testing-strategies](development/skill_2cdb776f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/SKILL.md) | ⭐ 80 | `langchain4j` `testing` `unit-tests` |
+| [spring-ai-mcp-server-patterns](development/skill_2987c271/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-ai/spring-ai-mcp-server-patterns/SKILL.md) | ⭐ 80 | `spring-ai` `mcp` `model-context-protocol` |
+| [spring-boot-cache](development/skill_62ae3a54/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/SKILL.md) | ⭐ 80 | `spring-boot` `caching` `performance` |
+| [spring-boot-crud-patterns](development/skill_047e4588/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-crud-patterns/SKILL.md) | ⭐ 80 | `spring-boot` `java` `ddd` |
+| [spring-boot-event-driven-patterns](development/skill_0100ef79/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-event-driven-patterns/SKILL.md) | ⭐ 80 | `spring-boot` `java` `event-driven` |
+| [spring-boot-rest-api-standards](development/skill_68fcd3bd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-rest-api-standards/SKILL.md) | ⭐ 80 | `spring-boot` `rest-api` `dto` |
+| [Spring Security JWT Skill Structure](development/structure_3760740c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/STRUCTURE.md) | ⭐ 80 | `development` |
+| [John](development/examples_3abaa019/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/typescript-docs/references/examples.md) | ⭐ 80 | `development` |
+| [My Project](development/typedoc-configuration_693f8a81/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/typescript-docs/references/typedoc-configuration.md) | ⭐ 80 | `development` |
+| [wordpress-sage-theme](development/skill_756c788f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 80 | `content creation` |
+| [str):](development/evaluation_0c14e0ea/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/evaluation.md) | ⭐ 80 | `data analysis` |
+| [System Prompt Design](development/system-prompt-design_e24eb3f3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/system-prompt-design.md) | ⭐ 80 | `development` |
+| [Template Systems Architecture](development/template-systems_fdcae240/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/template-systems.md) | ⭐ 80 | `development` |
+| [Embedding Models Guide](development/embedding-models_d9e563a4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/embedding-models.md) | ⭐ 80 | `development` |
+| [Developer Kit](development/aws-sdk-java-bedrock-api_5715c6f1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/aws-sdk-java-bedrock-api.md) | ⭐ 80 | `development` |
+| [Model ID Lookup Guide](development/models-lookup_6b62e9b5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/references/models-lookup.md) | ⭐ 80 | `content creation` |
+| [AWS SDK for Java 2.x API Reference](development/api-reference_6b39bd3f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-core/references/api-reference.md) | ⭐ 80 | `development` |
+| [AWS SDK for Java 2.x Developer Guide](development/developer-guide_2e4c3528/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-core/references/developer-guide.md) | ⭐ 80 | `development` |
+| [Spring Boot Integration Reference](development/spring-boot-integration_dcfbba38/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/spring-boot-integration.md) | ⭐ 80 | `data analysis` |
+| [Testing Strategies for DynamoDB](development/testing-strategies_a34dad25/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/testing-strategies.md) | ⭐ 80 | `development` |
+| [Spring Boot Integration with AWS KMS](development/spring-boot-integration_7122ab40/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-kms/references/spring-boot-integration.md) | ⭐ 80 | `development` |
+| [Testing AWS KMS Integration](development/testing_84a65ccf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-kms/references/testing.md) | ⭐ 80 | `development` |
+| [AWS Lambda Java SDK Examples](development/examples_b31f6738/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/references/examples.md) | ⭐ 80 | `development` |
+| [AWS Lambda Official Documentation Reference](development/official-documentation_71d540f2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/references/official-documentation.md) | ⭐ 80 | `development` |
+| [AWS SQS & SNS Official Documentation Reference](development/aws-official-documentation_894e6453/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/aws-official-documentation.md) | ⭐ 80 | `development` |
+| [AWS RDS API Reference](development/api-reference_8bb4f5fd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-rds/references/api-reference.md) | ⭐ 80 | `development` |
+| [Spring Boot Integration with AWS RDS](development/spring-boot-integration_094ebd6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-rds/references/spring-boot-integration.md) | ⭐ 80 | `development` |
+| [S3 Spring Boot Integration Reference](development/s3-spring-boot-integration_ff313843/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-s3/references/s3-spring-boot-integration.md) | ⭐ 80 | `development` |
+| [AWS Secrets Manager API Reference](development/api-reference_7aa526f6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-secrets-manager/references/api-reference.md) | ⭐ 80 | `development` |
+| [aws-secrets-manager-app](development/spring-boot-integration_15933877/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-secrets-manager/references/spring-boot-integration.md) | ⭐ 80 | `development` |
+| [LangChain4j AI Services - API References](development/references_ae1ee1ec/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-ai-services-patterns/references/references.md) | ⭐ 80 | `development` |
+| [LangChain4j MCP Server Implementation Examples](development/examples_24ec0bf5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-mcp-server-patterns/references/examples.md) | ⭐ 80 | `development` |
+| [LangChain4j Spring Boot Integration - Examples](development/examples_ee0cdd29/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/examples.md) | ⭐ 80 | `development` |
+| [gpt-4o-mini](development/references_94bb3f5b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/references.md) | ⭐ 80 | `development` |
+| [Advanced Testing Patterns](development/advanced-testing_f7405d4d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/references/advanced-testing.md) | ⭐ 80 | `development` |
+| [Integration Testing with Testcontainers](development/integration-testing_e38f9c82/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/references/integration-testing.md) | ⭐ 80 | `development` |
+| [Unit Testing with Mock Models](development/unit-testing_e584f0a3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-testing-strategies/references/unit-testing.md) | ⭐ 80 | `development` |
+| [Qdrant for Java: Complete Examples](development/examples_c36d3cb5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/qdrant/references/examples.md) | ⭐ 80 | `development` |
+| [Spring AI MCP Server API Reference](development/api-reference_6d3e6efb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-ai/spring-ai-mcp-server-patterns/references/api-reference.md) | ⭐ 80 | `development` |
+| [order-service](development/examples_c33bffd3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/examples.md) | ⭐ 80 | `development` |
+| [Spring Boot Cache Abstraction - References](development/cache-core-reference_1b795999/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/references/cache-core-reference.md) | ⭐ 80 | `development` |
+| [Spring Framework Official Guidance: Dependency Injection (Clean Excerpt)](development/spring-official-dependency-injection_93e4e851/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-dependency-injection/references/spring-official-dependency-injection.md) | ⭐ 80 | `development` |
+| [Troubleshooting SpringDoc OpenAPI](development/troubleshooting_959faa99/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-openapi-documentation/references/troubleshooting.md) | ⭐ 80 | `development` |
+| [jwt-token](development/jwt-quick-reference_cc609dbf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/jwt-quick-reference.md) | ⭐ 80 | `development` |
+| [OAuth2 Integration with JWT](development/oauth2-integration_0f28ba05/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/oauth2-integration.md) | ⭐ 80 | `content creation` |
+| [Testing JWT Security](development/testing-jwt-security_4ad1e662/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-security-jwt/references/testing-jwt-security.md) | ⭐ 80 | `development` |
+| [Spring Boot Test API Reference](development/api-reference_88fea54c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-test-patterns/references/api-reference.md) | ⭐ 80 | `development` |
+| [Blade Templates Reference](development/blade_a71698f4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/wordpress/wordpress-sage-theme/references/BLADE.md) | ⭐ 80 | `development` |
+| [Sage Framework Reference](development/sage_780b649e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/wordpress/wordpress-sage-theme/references/SAGE.md) | ⭐ 80 | `development` |
+| [codebase-pattern-finder](development/codebase-pattern-finder_0a8d7abf/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/codebase-pattern-finder.md) | ⭐ 383 | `development` |
+| [general-purpose](development/general-purpose_53298ff1/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/general-purpose.md) | ⭐ 383 | `daily assistant` |
+| [Codex Plan Command](development/codex-plan_0b3c3fc5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/codex-plan.md) | ⭐ 383 | `development` |
+| [Mental Model Builder](development/explain-changes-mental-model_edb34aa6/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/explain-changes-mental-model.md) | ⭐ 383 | `data analysis` |
+| [PR workflow](development/explain-pr-changes_af639240/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/explain-pr-changes.md) | ⭐ 383 | `development` |
+| [Agent Toolkit](development/sync-branch_6333fd48/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/sync-branch.md) | ⭐ 383 | `development` |
+| [` field (skill identifier)](development/sync-skills-readme_154b4277/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/sync-skills-readme.md) | ⭐ 383 | `development` |
+| [` field from frontmatter:**](development/add-skill_d31c0705/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/.claude/commands/add-skill.md) | ⭐ 383 | `content creation` |
+| [agent-md-refactor](development/skill_f20e68b5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/agent-md-refactor/SKILL.md) | ⭐ 383 | `development` |
+| [backend-to-frontend-handoff-docs](development/skill_b77b4b7d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/backend-to-frontend-handoff-docs/SKILL.md) | ⭐ 383 | `development` |
+| [codex](development/skill_78b3fcf4/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/codex/SKILL.md) | ⭐ 383 | `development` |
+| [commit-work](development/skill_888588ea/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/commit-work/SKILL.md) | ⭐ 383 | `content creation` |
+| [daily-meeting-update](development/skill_153c2d8d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/daily-meeting-update/SKILL.md) | ⭐ 383 | `development` |
+| [datadog-cli](development/skill_d65cdb00/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/SKILL.md) | ⭐ 383 | `development` |
+| [design-system-starter](development/skill_f5efbd84/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/design-system-starter/SKILL.md) | ⭐ 383 | `design-system` `ui` `components` |
+| [draw-io](development/skill_fb23a8ba/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/SKILL.md) | ⭐ 383 | `data analysis` |
+| [feedback-mastery](development/skill_d0ee923a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/SKILL.md) | ⭐ 383 | `development` |
+| [frontend-to-backend-requirements](development/skill_d29acfea/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/frontend-to-backend-requirements/SKILL.md) | ⭐ 383 | `development` |
+| [humanizer](development/skill_6688e4e2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/humanizer/SKILL.md) | ⭐ 383 | `content creation` |
+| [jira](development/skill_80cd136d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/SKILL.md) | ⭐ 383 | `development` |
+| [marp-slide](development/skill_4244be1f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/SKILL.md) | ⭐ 383 | `development` |
+| [mermaid-diagrams](development/skill_79bca3c7/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/SKILL.md) | ⭐ 383 | `development` |
+| [mui](development/skill_d1a9a067/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/SKILL.md) | ⭐ 383 | `development` |
+| [naming-analyzer](development/skill_6c4ce79f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/naming-analyzer/SKILL.md) | ⭐ 383 | `development` |
+| [perplexity](development/skill_e7c8c405/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/perplexity/SKILL.md) | ⭐ 383 | `development` |
+| [plugin-forge](development/skill_8179b934/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/SKILL.md) | ⭐ 383 | `development` |
+| [react-useeffect](development/skill_f31e9925/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/SKILL.md) | ⭐ 383 | `data analysis` |
+| [Adding Reference Mindsets](development/adding-reference-mindsets_76be7d9d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/adding-reference-mindsets.md) | ⭐ 383 | `development` |
+| [requirements-clarity](development/skill_c554f777/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/requirements-clarity/SKILL.md) | ⭐ 383 | `development` |
+| [session-handoff](development/skill_8964e1b8/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/SKILL.md) | ⭐ 383 | `daily assistant` |
+| [ship-learn-next](development/skill_503b2265/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/ship-learn-next/SKILL.md) | ⭐ 383 | `content creation` |
+| [skill-judge](development/skill_737ef362/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/skill-judge/SKILL.md) | ⭐ 383 | `development` |
+| [Common C4 Model Mistakes to Avoid](development/common-mistakes_608b39dd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/common-mistakes.md) | ⭐ 383 | `development` |
+| [Command Best Practices](development/best-practices_03b1b32e/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/references/best-practices.md) | ⭐ 383 | `content creation` |
+| [Command Patterns](development/patterns_b5fd82de/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/references/patterns.md) | ⭐ 383 | `content creation` |
+| [Art of README](development/art-of-readme_8ca299e4/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/art-of-readme.md) | ⭐ 383 | `development` |
+| [Make a README](development/make-a-readme_81b1d33b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/make-a-readme.md) | ⭐ 383 | `development` |
+| [Title](development/standard-readme-example-maximal_75133e20/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/standard-readme-example-maximal.md) | ⭐ 383 | `content creation` |
+| [Standard README Specification](development/standard-readme-spec_e1b5584f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/standard-readme-spec.md) | ⭐ 383 | `development` |
+| [Internal/Work Project README Template](development/internal_6d2d0ac2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/internal.md) | ⭐ 383 | `development` |
+| [Open Source Project README Template](development/oss_4e92c249/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/oss.md) | ⭐ 383 | `development` |
+| [Dashboards Reference](development/dashboards_6f4a2505/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/dashboards.md) | ⭐ 383 | `development` |
+| [Log Commands Reference](development/logs-commands_cda2f010/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/logs-commands.md) | ⭐ 383 | `development` |
+| [Metrics Reference](development/metrics_e9a56f75/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/metrics.md) | ⭐ 383 | `development` |
+| [Datadog Query Syntax](development/query-syntax_fa60d601/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/query-syntax.md) | ⭐ 383 | `development` |
+| [Common Workflows](development/workflows_22acfb7b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/datadog-cli/references/workflows.md) | ⭐ 383 | `development` |
+| [string;](development/component-examples_4d4ab9dc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/design-system-starter/references/component-examples.md) | ⭐ 383 | `development` |
+| [Emotional Regulation for Difficult Conversations](development/emotional-regulation_ecac2f9c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/emotional-regulation.md) | ⭐ 383 | `daily assistant` |
+| [AWS アイコンとサービス名](development/aws-icons_a7d251ed/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/references/aws-icons.md) | ⭐ 383 | `development` |
+| [Expectation Alignment Guide](development/expectation-alignment_7132a9f0/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/references/expectation-alignment.md) | ⭐ 383 | `development` |
+| [SBI Feedback Model - Complete Guide](development/feedback-sbi-model_d61d4f65/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/references/feedback-sbi-model.md) | ⭐ 383 | `development` |
+| [External Review Protocol](development/external-review_ec9e2f47/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/external-review.md) | ⭐ 383 | `development` |
+| [Interview Protocol](development/interview-protocol_6c906a7d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/interview-protocol.md) | ⭐ 383 | `development` |
+| [Research Protocol](development/research-protocol_d219729c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/research-protocol.md) | ⭐ 383 | `development` |
+| [Section Index Creation](development/section-index_63a29894/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/section-index.md) | ⭐ 383 | `data analysis` |
+| [MCP Reference](development/mcp_670339d3/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/references/mcp.md) | ⭐ 383 | `development` |
+| [プレゼンテーションタイトル](development/template-basic_0c656adc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-basic.md) | ⭐ 383 | `development` |
+| [プレゼンテーション](development/template-business_2e08480b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-business.md) | ⭐ 383 | `development` |
+| [プレゼンテーション](development/template-colorful_efaf8449/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-colorful.md) | ⭐ 383 | `development` |
+| [プレゼンテーション](development/template-dark_a31a393a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-dark.md) | ⭐ 383 | `development` |
+| [プレゼンテーション](development/template-gradient_dedb860f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-gradient.md) | ⭐ 383 | `development` |
+| [プレゼンテーション](development/template-minimal_fd398a9c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-minimal.md) | ⭐ 383 | `development` |
+| [プレゼンテーション](development/template-tech_2b9f51b0/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/assets/template-tech.md) | ⭐ 383 | `development` |
+| [Marp Build](development/advanced-features_ca2e1cfd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/advanced-features.md) | ⭐ 383 | `development` |
+| [Marp Slide Creation Best Practices](development/best-practices_651662ce/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/best-practices.md) | ⭐ 383 | `content creation` |
+| [value -->` format:](development/marp-syntax_6fff73be/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/marp-syntax.md) | ⭐ 383 | `development` |
+| [Marp Theme CSS Creation Guide](development/theme-css-guide_e0c14377/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/theme-css-guide.md) | ⭐ 383 | `development` |
+| [Marp Theme Selection Guide](development/theme-selection_ca4a6704/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/theme-selection.md) | ⭐ 383 | `development` |
+| [The Complete Practical Guide to Memes in Markdown Blog Posts](development/markdown-memes-guide_6dd8e5fc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/references/markdown-memes-guide.md) | ⭐ 383 | `devops` `humor` `deployments` |
+| [Advanced Mermaid Features](development/advanced-features_5b816a15/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/advanced-features.md) | ⭐ 383 | `data analysis` |
+| [Architecture Diagrams Reference](development/architecture-diagrams_117bc722/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/architecture-diagrams.md) | ⭐ 383 | `development` |
+| [MUI Component Library](development/component-library_76a0145b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/resources/component-library.md) | ⭐ 383 | `development` |
+| [MUI Styling Guide](development/styling-guide_ae6bcb6a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/resources/styling-guide.md) | ⭐ 383 | `development` |
+| [MUI Theme Customization](development/theme-customization_1185e91a/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mui/resources/theme-customization.md) | ⭐ 383 | `development` |
+| [Plugin Development Workflows](development/workflows_23851bc5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/workflows.md) | ⭐ 383 | `development` |
+| [Technical Jargon Simplification Guide](development/jargon-simplification_dea1a1a5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/jargon-simplification.md) | ⭐ 383 | `development` |
+| [Meeting Structures for Developers](development/meeting-structures_6946adf5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/meeting-structures.md) | ⭐ 383 | `daily assistant` |
+| [[test user]](development/test_case_templates_42072c5d/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/test_case_templates.md) | ⭐ 383 | `development` |
+| [string;](development/generic-components_6d2f3bc5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/examples/generic-components.md) | ⭐ 383 | `development` |
+| [z.string().min(2,](development/server-components_971117f2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/examples/server-components.md) | ⭐ 383 | `development` |
+| [formData.get(](development/event-handlers_a118e551/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/event-handlers.md) | ⭐ 383 | `development` |
+| [/search](development/react-router_b554c7f6/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/react-router.md) | ⭐ 383 | `development` |
+| [string;](development/tanstack-router_2982b9fd/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/tanstack-router.md) | ⭐ 383 | `development` |
+| [Data-Oriented Design](development/data-over-abstractions_fdfa218c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/data-over-abstractions.md) | ⭐ 383 | `development` |
+| [Simplicity vs Easy](development/simplicity-vs-easy_b7755a28/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/simplicity-vs-easy.md) | ⭐ 383 | `development` |
+| [Test Results: Opus 4.5 (Baseline)](development/results-opus-baseline_8b6bd622/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/results-opus-baseline.md) | ⭐ 383 | `development` |
+| [Evaluation Test Scenarios](development/test-scenarios_987a534f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/test-scenarios.md) | ⭐ 383 | `daily assistant` |
+| [Handoff Template](development/handoff-template_35492711/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/references/handoff-template.md) | ⭐ 383 | `development` |
+| [Resume Checklist](development/resume-checklist_bd64d36b/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/references/resume-checklist.md) | ⭐ 383 | `development` |
+| [Agent Toolkit](development/02-elementary-rules-of-usage_b1c9bd88/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/02-elementary-rules-of-usage.md) | ⭐ 383 | `content creation` |
+| [Agent Toolkit](development/03-elementary-principles-of-composition_3867f335/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/03-elementary-principles-of-composition.md) | ⭐ 383 | `content creation` |
+| [Agent Toolkit](development/05-words-and-expressions-commonly-misused_60db286f/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/05-words-and-expressions-commonly-misused.md) | ⭐ 383 | `content creation` |
+
+### Investment (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [domain-name-brainstormer](investment/skill_49570773/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/domain-name-brainstormer/SKILL.md) | ⭐ 383 | `investment` |
+| [Personal Project README Template](investment/personal_2aea82c2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/personal.md) | ⭐ 383 | `investment` |
+
+### Other (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Title](other/standard-readme-example-minimal_13774396/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/references/standard-readme-example-minimal.md) | ⭐ 383 | `other` |
+| [レイアウトガイドライン](other/layout-guidelines_501fbf61/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/references/layout-guidelines.md) | ⭐ 383 | `other` |
+
+### Productivity (8 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Common Pitfalls and Solutions](productivity/09-pitfalls-solutions_9559cf9a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-saga-pattern/references/09-pitfalls-solutions.md) | ⭐ 80 | `productivity` |
+| [Viral Tweet Optimizer](productivity/viral-tweet_55a658f9/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/viral-tweet.md) | ⭐ 383 | `content creation` |
+| [difficult-workplace-conversations](productivity/skill_99dd7bca/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/SKILL.md) | ⭐ 383 | `productivity` |
+| [gemini](productivity/skill_bc9c52aa/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gemini/SKILL.md) | ⭐ 383 | `productivity` |
+| [react-dev](productivity/skill_ce738985/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/SKILL.md) | ⭐ 383 | `productivity` |
+| [Delivery Scripts for Difficult Conversations](productivity/delivery-scripts_3105a7c5/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/delivery-scripts.md) | ⭐ 383 | `productivity` |
+| [Difficult Conversation Scripts](productivity/difficult-conversation-scripts_4529a25c/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/feedback-mastery/references/difficult-conversation-scripts.md) | ⭐ 383 | `productivity` |
+| [Agent Toolkit](productivity/01-introductory_248b1859/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/01-introductory.md) | ⭐ 383 | `productivity` |
+
+### Research (10 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Complete Implementation Guidelines](research/implementation_b7064f3b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/implementation.md) | ⭐ 80 | `research` |
+| [Detailed Chunking Strategies](research/strategies_533ef334/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/strategies.md) | ⭐ 80 | `research` |
+| [Chain-of-Thought Reasoning Patterns](research/cot-patterns_37c9e74c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/cot-patterns.md) | ⭐ 80 | `research` |
+| [Detailed SQS Operations Reference](research/detailed-sqs-operations_817fe9d2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sqs-operations.md) | ⭐ 80 | `research` |
+| [Spring Docs Pointers](research/spring-official-docs_fddcd44f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-crud-patterns/references/spring-official-docs.md) | ⭐ 80 | `research` |
+| [{skill-name}](research/agents_e4d6d358/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/AGENTS.md) | ⭐ 383 | `research` |
+| [ui-ux-designer](research/ui-ux-designer_a0094cb9/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/ui-ux-designer.md) | ⭐ 383 | `research` |
+| [Trikoṇamiti](research/signs-of-ai-writing_06d135c2/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/signs-of-ai-writing.md) | ⭐ 383 | `content creation` |
+| [Marp Official Themes Reference](research/official-themes_ada37757/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/official-themes.md) | ⭐ 383 | `research` |
+| [Composition Over Construction](research/design-is-taking-apart_62694edb/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/design-is-taking-apart.md) | ⭐ 383 | `research` |
 
 ## Repository Structure
 
 ```
 X-Skills/
-├── automation/       # Automation and scripting skills
-├── commercial/       # Business and e-commerce related skills
-├── communication/    # Communication and messaging skills
-├── content-creation/ # Content writing and media skills
-├── daily-assistant/  # Daily task management skills
-├── data-analysis/    # Data processing and analysis skills
-├── development/      # Software development skills
-├── other/           # Other miscellaneous skills
-├── productivity/     # Productivity enhancement skills
-└── research/        # Research and data gathering skills
-```
-
-## Usage
-
-Each skill directory contains:
-- **README.md** - The skill prompt/instructions
-- **SKILL.md** (optional) - Additional skill documentation
-
-## Contributing
-
-This repository is automatically maintained by SkillFlow. Skills are aggregated from open-source projects.
-
----
-
-*Last updated: 2026-02-01T17:45:17.397371*
-*Automatically maintained by SkillFlow*
