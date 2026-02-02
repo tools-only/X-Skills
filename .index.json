@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-02T02:13:43.897774",
+  "updated_at": "2026-02-02T05:11:38.322319",
   "skills": [
     {
       "file_hash": "2e676d597a9ad808a99b8332ac9feb4fe821fb50c02963bc95ab4ce2afc1c54f",
@@ -253,6 +253,17 @@
       "name": "skriv-som-kasper",
       "indexed_at": "2026-02-02T02:13:43.897751",
       "repo_stars": 372,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "60983dee54ca8490675b0a537c74e7d0b7ef303ab2e978a51289c2e3fe6a1576",
+      "source_path": "docs/docs/test/sbom.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/sbom_60983dee",
+      "category": "development",
+      "name": "SBOM Summary",
+      "indexed_at": "2026-02-02T05:11:38.322266",
+      "repo_stars": 3216,
       "repo_updated_at": null
     }
   ]
