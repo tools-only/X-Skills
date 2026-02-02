@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2444 AI-powered skills** organized into 11 categories.
+A curated collection of **2450 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -14,9 +14,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (50 skills)
 - **Daily Assistant** (21 skills)
 - **Data Analysis** (290 skills)
-- **Development** (1283 skills)
+- **Development** (1288 skills)
 - **Investment** (19 skills)
-- **Other** (35 skills)
+- **Other** (36 skills)
 - **Productivity** (95 skills)
 - **Research** (171 skills)
 
@@ -894,7 +894,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [DAG Validation Algorithm Visualization](data-analysis/06-dag-validation-algorithm-visualization_2cb725e9/) | [Unknown](#) | N/A | `data analysis` |
 | [CLI 模块](data-analysis/claude_5f3c1080/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/cli/CLAUDE.md) | ⭐ 41 | `content creation` |
 
-### Development (1283 skills)
+### Development (1288 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2181,6 +2181,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Jelly 294 影片 GAIA 標註批次處理案例](development/jelly-294-gaia-tagging-batch_1b403a04/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/jelly-294-gaia-tagging-batch.md) | ⭐ 17 | `content creation` |
 | [📊 Real Batch API Results](development/real-batch-results_1a6d339b/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/real-batch-results.md) | ⭐ 17 | `content creation` |
 | [Extended Thinking Quick Reference](development/extended-thinking_c8f877f8/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/extended-thinking.md) | ⭐ 17 | `development` |
+| [Deploy & Harbor: Cloud-Hosted LocalAPI](development/deploy_and_harbor_3ef2c303/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/deploy_and_harbor.md) | ⭐ 73 | `development` |
+| [Verifier Fusion Plan: PTCG Gameplay Eval + Rubrics Consolidation Refactor](development/verifier_fusion_plan_b9054e2b/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/demos/gepa_ptcg/VERIFIER_FUSION_PLAN.md) | ⭐ 73 | `development` |
+| [synth-api](development/skill_b9e49017/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-api/SKILL.md) | ⭐ 73 | `development` |
+| [Synth Ai](development/agents_1c1a4b0a/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/synth_ai/cli/AGENTS.md) | ⭐ 73 | `development` |
+| [Synth AI Agent Instructions](development/agents_f6c62914/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/tui/opencode_config/AGENTS.md) | ⭐ 73 | `development` |
 
 ### Investment (19 skills)
 
@@ -2206,7 +2211,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Spatial Analysis](investment/spatial-analysis_9e846073/) | [Unknown](#) | N/A | `investment` |
 | [*flea+collar*](investment/animal_veterinary_fc52d278/) | [Unknown](#) | N/A | `investment` |
 
-### Other (35 skills)
+### Other (36 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2245,6 +2250,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Awesome Claude Code](other/optimize_b045469c/) | [Unknown](#) | N/A | `other` |
 | [飞书资源模型](other/feishu-resources_085e903c/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/docs/feishu-resources.md) | ⭐ 41 | `other` |
 | [TUI 模块](other/claude_4c7b78fa/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/tui/CLAUDE.md) | ⭐ 41 | `other` |
+| [Project Notes](other/agents_55d03321/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md) | ⭐ 73 | `daily assistant` |
 
 ### Productivity (95 skills)
 

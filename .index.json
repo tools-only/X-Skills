@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-02T19:12:12.989544",
+  "updated_at": "2026-02-02T19:12:25.786069",
   "skills": [
     {
       "file_hash": "ff87ec7e779a6716c6784fb8569f0ef979bd903bdf8f38e41d4f80980f2ad2a8",
@@ -34217,6 +34217,90 @@
       "source_url": "https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/prompt-caching.md",
       "display_name": "Prompt Caching Quick Reference",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "55d03321b68eb4b7a7fd434f1bfe0cdebdc3e48f40871a3736316bc5c0087768",
+      "source_path": "AGENTS.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "other/agents_55d03321",
+      "category": "other",
+      "name": "agents_55d03321",
+      "indexed_at": "2026-02-02T19:12:23.920911",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-01-20T20:35:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md",
+      "display_name": "Project Notes",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "3ef2c303d9a4a532ae38f59cad258c33666b38c018017daf3de0edabaa6257c8",
+      "source_path": "docs/deploy_and_harbor.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/deploy_and_harbor_3ef2c303",
+      "category": "development",
+      "name": "deploy_and_harbor_3ef2c303",
+      "indexed_at": "2026-02-02T19:12:24.147496",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-01-30T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/deploy_and_harbor.md",
+      "display_name": "Deploy & Harbor: Cloud-Hosted LocalAPI",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b9054e2bf1553d29033101e204a31dc76c163118478d59979c66ca2bc3f8c654",
+      "source_path": "demos/gepa_ptcg/VERIFIER_FUSION_PLAN.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/verifier_fusion_plan_b9054e2b",
+      "category": "development",
+      "name": "verifier_fusion_plan_b9054e2b",
+      "indexed_at": "2026-02-02T19:12:24.327154",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-01-13T02:55:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/demos/gepa_ptcg/VERIFIER_FUSION_PLAN.md",
+      "display_name": "Verifier Fusion Plan: PTCG Gameplay Eval + Rubrics Consolidation Refactor",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b9e49017b108c359d07590ae9d549b694658f460971d4f6946bf1c3ac884f3c5",
+      "source_path": "skills/synth-api/SKILL.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/skill_b9e49017",
+      "category": "development",
+      "name": "skill_b9e49017",
+      "indexed_at": "2026-02-02T19:12:24.716802",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-01-23T01:29:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-api/SKILL.md",
+      "display_name": "synth-api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1c1a4b0abf2e5d7d0a58d138f83afce3e5d65db22caf6c2525c9d42a2bd2abbe",
+      "source_path": "synth_ai/cli/AGENTS.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/agents_1c1a4b0a",
+      "category": "development",
+      "name": "agents_1c1a4b0a",
+      "indexed_at": "2026-02-02T19:12:25.066876",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-01-10T05:11:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/synth_ai/cli/AGENTS.md",
+      "display_name": "Synth Ai",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f6c62914da838206fd1ab6bd0846ed7ed888e59c98a8158240f343528e97f4c2",
+      "source_path": "tui/opencode_config/AGENTS.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/agents_f6c62914",
+      "category": "development",
+      "name": "agents_f6c62914",
+      "indexed_at": "2026-02-02T19:12:25.786025",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-01-20T20:35:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/tui/opencode_config/AGENTS.md",
+      "display_name": "Synth AI Agent Instructions",
+      "tags": "[\"development\"]"
     }
   ]
 }
