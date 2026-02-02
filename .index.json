@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-02T14:56:45.734613",
+  "updated_at": "2026-02-02T15:13:01.291174",
   "skills": [
     {
       "file_hash": "ff87ec7e779a6716c6784fb8569f0ef979bd903bdf8f38e41d4f80980f2ad2a8",
@@ -33965,6 +33965,104 @@
       "source_url": "#",
       "display_name": "MicroSim Screenshot TODO",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "bc48c203177b1cf550bc89338e4c1f4bd5139a7d4434cd90eb4a0db1367322f9",
+      "source_path": "CLAUDE.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "development/claude_bc48c203",
+      "category": "development",
+      "name": "claude_bc48c203",
+      "indexed_at": "2026-02-02T15:12:55.500297",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-01-10T07:04:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/CLAUDE.md",
+      "display_name": "feishu-docx",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "55596d157535bd394d3109637394a7b7eaaf63e48b6255e71642bbba8b195283",
+      "source_path": "README_zh.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "development/readme_zh_55596d15",
+      "category": "development",
+      "name": "readme_zh_55596d15",
+      "indexed_at": "2026-02-02T15:12:56.377500",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-02-02T01:21:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/README_zh.md",
+      "display_name": "feishu-docx",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4b8f81ba8c1e2ad0b882a2eb2a1a93bef5fbe79bb233bfbfbd363db1254a25c0",
+      "source_path": "feishu_docx/core/sdk/CLAUDE.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "development/claude_4b8f81ba",
+      "category": "development",
+      "name": "claude_4b8f81ba",
+      "indexed_at": "2026-02-02T15:12:57.173167",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-02-01T13:53:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/core/sdk/CLAUDE.md",
+      "display_name": "SDK Module",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "085e903c353ab3c1bc0ec05f36c4461b6a050dfcea5b9383c221d1313d230945",
+      "source_path": "docs/feishu-resources.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "other/feishu-resources_085e903c",
+      "category": "other",
+      "name": "feishu-resources_085e903c",
+      "indexed_at": "2026-02-02T15:12:58.573678",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-02-02T01:20:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/docs/feishu-resources.md",
+      "display_name": "\u98de\u4e66\u8d44\u6e90\u6a21\u578b",
+      "tags": "[\"other\"]"
+    },
+    {
+      "file_hash": "4c7b78fac5fb5bd427b223eb10dce6dc549ee29e0cbd28dfa3c3d1148215075a",
+      "source_path": "feishu_docx/tui/CLAUDE.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "other/claude_4c7b78fa",
+      "category": "other",
+      "name": "claude_4c7b78fa",
+      "indexed_at": "2026-02-02T15:12:59.177445",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-01-10T13:11:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/tui/CLAUDE.md",
+      "display_name": "TUI \u6a21\u5757",
+      "tags": "[\"other\"]"
+    },
+    {
+      "file_hash": "d8a7da9be8073f2dd39ae1bc1ace149281f72f34752d9dcb59c22bcd147e7a1e",
+      "source_path": ".skills/feishu-docx/SKILL.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "automation/skill_d8a7da9b",
+      "category": "automation",
+      "name": "skill_d8a7da9b",
+      "indexed_at": "2026-02-02T15:12:59.762846",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-02-01T13:54:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/.skills/feishu-docx/SKILL.md",
+      "display_name": "feishu-docx",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "5f3c1080ed5792a7404b255046beba2ca67e818bfccbc3587d28dd9209d5e7ee",
+      "source_path": "feishu_docx/cli/CLAUDE.md",
+      "source_repo": "leemysw/feishu-docx",
+      "local_path": "data-analysis/claude_5f3c1080",
+      "category": "data-analysis",
+      "name": "claude_5f3c1080",
+      "indexed_at": "2026-02-02T15:13:01.291090",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-02-01T13:52:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/cli/CLAUDE.md",
+      "display_name": "CLI \u6a21\u5757",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

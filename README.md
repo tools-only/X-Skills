@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2426 AI-powered skills** organized into 11 categories.
+A curated collection of **2433 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,22 +8,22 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (254 skills)
+- **Automation** (255 skills)
 - **Commercial** (147 skills)
 - **Communication** (73 skills)
 - **Content Creation** (50 skills)
 - **Daily Assistant** (21 skills)
-- **Data Analysis** (289 skills)
-- **Development** (1274 skills)
+- **Data Analysis** (290 skills)
+- **Development** (1277 skills)
 - **Investment** (19 skills)
-- **Other** (33 skills)
+- **Other** (35 skills)
 - **Productivity** (95 skills)
 - **Research** (171 skills)
 
 ## Skills Directory
 
 
-### Automation (254 skills)
+### Automation (255 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -281,6 +281,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Experiment Types and Workflows](automation/experiments_28955881/) | [Unknown](#) | N/A | `automation` |
 | [{orig_file.getName()}](automation/metadata_36fdafcb/) | [Unknown](#) | N/A | `automation` |
 | [MicroSim Screenshot TODO](automation/todo_de0c7c28/) | [Unknown](#) | N/A | `automation` |
+| [feishu-docx](automation/skill_d8a7da9b/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/.skills/feishu-docx/SKILL.md) | ⭐ 41 | `automation` |
 
 ### Commercial (147 skills)
 
@@ -593,7 +594,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Using References](daily-assistant/using-references_de80ec04/) | [Unknown](#) | N/A | `daily assistant` |
 | [Field Service Lightning (FSL) Data Model Template](daily-assistant/fsl-erd_17757b46/) | [Unknown](#) | N/A | `daily assistant` |
 
-### Data Analysis (289 skills)
+### Data Analysis (290 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -886,8 +887,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [** `{FILENAME}`](data-analysis/report_template_e8642c95/) | [Unknown](#) | N/A | `data analysis` |
 | [LaminDB Ontology Management](data-analysis/ontologies_d83c8ddd/) | [Unknown](#) | N/A | `data analysis` |
 | [DAG Validation Algorithm Visualization](data-analysis/06-dag-validation-algorithm-visualization_2cb725e9/) | [Unknown](#) | N/A | `data analysis` |
+| [CLI 模块](data-analysis/claude_5f3c1080/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/cli/CLAUDE.md) | ⭐ 41 | `content creation` |
 
-### Development (1274 skills)
+### Development (1277 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2165,6 +2167,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mental Model Builder](development/explain-changes-mental-model_edb34aa6/) | [Unknown](#) | N/A | `data analysis` |
 | [My_Agent](development/testing-guide_b66259ef/) | [Unknown](#) | N/A | `development` |
 | [PubMed E-utilities API Reference](development/api_reference_a7103190/) | [Unknown](#) | N/A | `development` |
+| [feishu-docx](development/claude_bc48c203/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/CLAUDE.md) | ⭐ 41 | `development` |
+| [feishu-docx](development/readme_zh_55596d15/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/README_zh.md) | ⭐ 41 | `development` |
+| [SDK Module](development/claude_4b8f81ba/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/core/sdk/CLAUDE.md) | ⭐ 41 | `content creation` |
 
 ### Investment (19 skills)
 
@@ -2190,7 +2195,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Spatial Analysis](investment/spatial-analysis_9e846073/) | [Unknown](#) | N/A | `investment` |
 | [*flea+collar*](investment/animal_veterinary_fc52d278/) | [Unknown](#) | N/A | `investment` |
 
-### Other (33 skills)
+### Other (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2227,6 +2232,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Sales](other/index_761b736c/) | [Unknown](#) | N/A | `content creation` |
 | [List of Prompts](other/index_21fcee0d/) | [Unknown](#) | N/A | `other` |
 | [Awesome Claude Code](other/optimize_b045469c/) | [Unknown](#) | N/A | `other` |
+| [飞书资源模型](other/feishu-resources_085e903c/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/docs/feishu-resources.md) | ⭐ 41 | `other` |
+| [TUI 模块](other/claude_4c7b78fa/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/tui/CLAUDE.md) | ⭐ 41 | `other` |
 
 ### Productivity (95 skills)
 
