@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2433 AI-powered skills** organized into 11 categories.
+A curated collection of **2444 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,13 +8,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (255 skills)
+- **Automation** (258 skills)
 - **Commercial** (147 skills)
-- **Communication** (73 skills)
+- **Communication** (75 skills)
 - **Content Creation** (50 skills)
 - **Daily Assistant** (21 skills)
 - **Data Analysis** (290 skills)
-- **Development** (1277 skills)
+- **Development** (1283 skills)
 - **Investment** (19 skills)
 - **Other** (35 skills)
 - **Productivity** (95 skills)
@@ -23,7 +23,7 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Skills Directory
 
 
-### Automation (255 skills)
+### Automation (258 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -282,6 +282,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [{orig_file.getName()}](automation/metadata_36fdafcb/) | [Unknown](#) | N/A | `automation` |
 | [MicroSim Screenshot TODO](automation/todo_de0c7c28/) | [Unknown](#) | N/A | `automation` |
 | [feishu-docx](automation/skill_d8a7da9b/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/.skills/feishu-docx/SKILL.md) | ⭐ 41 | `automation` |
+| [claude-api-cost-optimization](automation/skill_3cb1abb8/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/SKILL.md) | ⭐ 17 | `automation` |
+| [🐾 從「無限貓報恩」到「省錢大絕招」的故事](automation/story_af6c537b/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/STORY.md) | ⭐ 17 | `automation` |
+| [💰 GAIA v4.8.2 Cost Savings Report](automation/gaia-savings-report_adcd0bbb/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/GAIA-savings-report.md) | ⭐ 17 | `automation` |
 
 ### Commercial (147 skills)
 
@@ -435,7 +438,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [FRED Categories Endpoints](commercial/categories_f10a02da/) | [Unknown](#) | N/A | `commercial` |
 | [FDA Submission Guide](commercial/fda-submission-guide_92744a4d/) | [Unknown](#) | N/A | `commercial` |
 
-### Communication (73 skills)
+### Communication (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -512,6 +515,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [memU](communication/readme_fr_46f92f47/) | [Unknown](#) | N/A | `communication` |
 | [Detailed SNS Operations Reference](communication/detailed-sns-operations_5a4f436f/) | [Unknown](#) | N/A | `communication` |
 | [meme-factory](communication/skill_93244397/) | [Unknown](#) | N/A | `communication` |
+| [Batch API Quick Reference](communication/batch-api_b0c20ea6/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/batch-api.md) | ⭐ 17 | `communication` |
+| [Prompt Caching Quick Reference](communication/prompt-caching_de809bae/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/prompt-caching.md) | ⭐ 17 | `content creation` |
 
 ### Content Creation (50 skills)
 
@@ -889,7 +894,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [DAG Validation Algorithm Visualization](data-analysis/06-dag-validation-algorithm-visualization_2cb725e9/) | [Unknown](#) | N/A | `data analysis` |
 | [CLI 模块](data-analysis/claude_5f3c1080/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/cli/CLAUDE.md) | ⭐ 41 | `content creation` |
 
-### Development (1277 skills)
+### Development (1283 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2170,6 +2175,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [feishu-docx](development/claude_bc48c203/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/CLAUDE.md) | ⭐ 41 | `development` |
 | [feishu-docx](development/readme_zh_55596d15/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/README_zh.md) | ⭐ 41 | `development` |
 | [SDK Module](development/claude_4b8f81ba/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/core/sdk/CLAUDE.md) | ⭐ 41 | `content creation` |
+| [Claude API Cost Optimization](development/claude-api-cost-optimizationskill_4bdeb26a/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/claude-api-cost-optimization.skill.md) | ⭐ 17 | `content creation` |
+| [📊 Case Study: Big vs Small Batch Comparison](development/batch-294-videos-case-study_e2995caa/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/batch-294-videos-case-study.md) | ⭐ 17 | `content creation` |
+| [📊 Real Anthropic Billing Data Analysis](development/billing-data-analysis_57458d6f/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/billing-data-analysis.md) | ⭐ 17 | `content creation` |
+| [Jelly 294 影片 GAIA 標註批次處理案例](development/jelly-294-gaia-tagging-batch_1b403a04/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/jelly-294-gaia-tagging-batch.md) | ⭐ 17 | `content creation` |
+| [📊 Real Batch API Results](development/real-batch-results_1a6d339b/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/real-batch-results.md) | ⭐ 17 | `content creation` |
+| [Extended Thinking Quick Reference](development/extended-thinking_c8f877f8/) | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/extended-thinking.md) | ⭐ 17 | `development` |
 
 ### Investment (19 skills)
 
