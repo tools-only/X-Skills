@@ -1,0 +1,24 @@
+# DeepChem Workflows
+
+| Property | Value |
+|----------|-------|
+| **Name** | DeepChem Workflows |
+| **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deepchem/references/workflows.md) (🔥 7.7k) |
+| **Original Path** | `scientific-skills/deepchem/references/workflows.md` |
+| **Category** | automation |
+| **Subcategory** | scripting |
+| **Tags** | automation |
+| **Created** | 2025-11-14 |
+| **Updated** | 2025-11-14 |
+| **File Hash** | `15c1f96e49f5e9f1...` |
+
+## Description
+
+This document provides detailed workflows for common DeepChem use cases.
+
+**Tags:** `automation`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deepchem/references/workflows.md)*
