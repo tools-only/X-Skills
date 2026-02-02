@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-01T23:11:30.325400",
+  "updated_at": "2026-02-02T01:11:31.199201",
   "skills": [
     {
       "file_hash": "a846c27ad2dd7dff129c53d89dda2516b0dc09984b46b072a96f38c4a243350c",
@@ -4367,6 +4367,39 @@
       "name": "sys-executing-threads",
       "indexed_at": "2026-02-01T23:11:30.325336",
       "repo_stars": 14,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "ea52394454c7ae80f0af8f4b27929d7cae0d789e4ed357792ef372d58ee2cdd9",
+      "source_path": ".github/PULL_REQUEST_TEMPLATE/bug_fix.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "commercial/bug_fix_ea523944",
+      "category": "commercial",
+      "name": "\ud83d\udc1b Bug-fix PR",
+      "indexed_at": "2026-02-02T01:11:31.008824",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "cd071f56df6fec7cd3f3e9c84c8b56071508446578399520eedead22fcd15064",
+      "source_path": "docs/docs/development/developer-workstation.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "commercial/developer-workstation_cd071f56",
+      "category": "commercial",
+      "name": "Developer Workstation",
+      "indexed_at": "2026-02-02T01:11:31.087223",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "6512220c857f9ee1860f9d2b7c6158d431954edf2160c94ec50d19a995bccfa3",
+      "source_path": "docs/docs/architecture/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/index_6512220c",
+      "category": "development",
+      "name": "mcp-translate",
+      "indexed_at": "2026-02-02T01:11:31.198700",
+      "repo_stars": 3216,
       "repo_updated_at": null
     }
   ]
