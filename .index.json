@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-02T01:11:31.087275",
+  "updated_at": "2026-02-02T01:11:32.513343",
   "skills": [
     {
       "file_hash": "a846c27ad2dd7dff129c53d89dda2516b0dc09984b46b072a96f38c4a243350c",
@@ -4388,6 +4388,138 @@
       "category": "commercial",
       "name": "Developer Workstation",
       "indexed_at": "2026-02-02T01:11:31.087223",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "6512220c857f9ee1860f9d2b7c6158d431954edf2160c94ec50d19a995bccfa3",
+      "source_path": "docs/docs/architecture/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/index_6512220c",
+      "category": "development",
+      "name": "mcp-translate",
+      "indexed_at": "2026-02-02T01:11:31.198700",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "9123887c45ca07e28395abe76784355b347af1e063dc4852d7ff488230e47eaf",
+      "source_path": "docs/docs/architecture/oauth-design.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/oauth-design_9123887c",
+      "category": "development",
+      "name": "OAuth 2.0 Integration Design for MCP Gateway",
+      "indexed_at": "2026-02-02T01:11:31.288539",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "70dd8ea30a893c2d33c1bf17fb199bad29dcb168cc5181949c8a8206b382152f",
+      "source_path": "docs/docs/architecture/plugins.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/plugins_70dd8ea3",
+      "category": "development",
+      "name": "PIIFilterPlugin",
+      "indexed_at": "2026-02-02T01:11:31.588666",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "ebaef39024470097dc1810f47c186c791c283173e0f70e96f63020259a4fdd3c",
+      "source_path": "docs/docs/best-practices/selecting-an-mcp-gateway.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/selecting-an-mcp-gateway_ebaef390",
+      "category": "development",
+      "name": "How ContextForge Fits the Criteria for Selecting an Enterprise MCP Gateway",
+      "indexed_at": "2026-02-02T01:11:31.667234",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "46ce97205d3dfa9e988bb5dd60dd9fafe8db65c48d45d8eaec5d89a4ea027d58",
+      "source_path": "docs/docs/manage/api-usage.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/api-usage_46ce9720",
+      "category": "development",
+      "name": ".name, description: .description, gateway: .gatewaySlug}",
+      "indexed_at": "2026-02-02T01:11:31.766018",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "fcd7e7629399546a7ab1b7f0d9f718c0a27a16cd2d9e1a7490a4756f2b4ac9c4",
+      "source_path": "docs/docs/manage/rbac.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/rbac_fcd7e762",
+      "category": "development",
+      "name": "custom-roles",
+      "indexed_at": "2026-02-02T01:11:31.931832",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "e5ce3cbdb45524a5535be7a7a56367ef43426d2782e298ef45d8fdf41c30e315",
+      "source_path": "docs/docs/overview/quick_start.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/quick_start_e5ce3cbd",
+      "category": "development",
+      "name": "\ud83d\ude80 Quick Start",
+      "indexed_at": "2026-02-02T01:11:32.109648",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "cb84ceae5bb0de48bc121c49e5010b6063047903d369da91be336f8532a468f2",
+      "source_path": "docs/docs/overview/ui-concepts.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/ui-concepts_cb84ceae",
+      "category": "development",
+      "name": "Admin Console Concepts",
+      "indexed_at": "2026-02-02T01:11:32.215795",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "f2c7e694a13994e17218dc67100d9e3f5e623c3c74176a7fbf815de0279afda0",
+      "source_path": "docs/docs/testing/acceptance.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/acceptance_f2c7e694",
+      "category": "development",
+      "name": "MCP Gateway Manual Acceptance Testing",
+      "indexed_at": "2026-02-02T01:11:32.297812",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "84b8a94e951898e079e37a9b415ad9d3738130315a8f2508776eae519c15383c",
+      "source_path": "docs/docs/using/plugins/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/index_84b8a94e",
+      "category": "development",
+      "name": "MyPlugin",
+      "indexed_at": "2026-02-02T01:11:32.366033",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "ec5ecaf696d33e81e474cb6f20576f8a14f386a2638927eb65ed5a06fd24b740",
+      "source_path": "docs/docs/using/servers/ibm/instana.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/instana_ec5ecaf6",
+      "category": "development",
+      "name": "IBM Instana MCP Server",
+      "indexed_at": "2026-02-02T01:11:32.442474",
+      "repo_stars": 3216,
+      "repo_updated_at": null
+    },
+    {
+      "file_hash": "1576fea85e404c166ec3a856684cf6f1b0f56716f99321a6cff9104d199a3d60",
+      "source_path": "docs/docs/architecture/adr/012-dropdown-ui-tool-selection.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "content-creation/012-dropdown-ui-tool-selection_1576fea8",
+      "category": "content-creation",
+      "name": "ADR-0012: Display available tools in a dropdown and allow selection from there for creating a server",
+      "indexed_at": "2026-02-02T01:11:32.513046",
       "repo_stars": 3216,
       "repo_updated_at": null
     }
