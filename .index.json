@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-02T20:13:04.437976",
+  "updated_at": "2026-02-02T22:12:21.770386",
   "skills": [
     {
       "file_hash": "3e5f63fb469b811dc5708eef7b5d8de4213f2926d46d6a27b28c7743b5c1087b",
@@ -2969,6 +2969,62 @@
       "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/index.md",
       "display_name": "Input data",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "59c40ecb41093606108a038acf1f3e892d7056378c4c94afb076b8dac4be15b3",
+      "source_path": "AGENTS.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "development/agents_59c40ecb",
+      "category": "development",
+      "name": "agents_59c40ecb",
+      "indexed_at": "2026-02-02T22:12:21.385012",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-12-22T07:08:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md",
+      "display_name": "Agent Skill: fecfile",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "75b30f985e5b177c3a192781b8b5eb47b36e1dd3c83068f256d9195f7d47a268",
+      "source_path": "skills/fecfile/SKILL.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "development/skill_75b30f98",
+      "category": "development",
+      "name": "skill_75b30f98",
+      "indexed_at": "2026-02-02T22:12:21.508469",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-01T16:47:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md",
+      "display_name": "fecfile",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "1ef2ba0bec8120838e251636b8c8e5a27af282ae82e343b17773739cd349b0e4",
+      "source_path": "skills/fecfile/references/FORMS.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "communication/forms_1ef2ba0b",
+      "category": "communication",
+      "name": "forms_1ef2ba0b",
+      "indexed_at": "2026-02-02T22:12:21.675618",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-12-21T17:15:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/FORMS.md",
+      "display_name": "FEC Form Types",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "1775c612c95826adde8705510703fc159f815366d3e814753aa4826689c8e3d9",
+      "source_path": "skills/fecfile/references/SCHEDULES.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "content-creation/schedules_1775c612",
+      "category": "content-creation",
+      "name": "schedules_1775c612",
+      "indexed_at": "2026-02-02T22:12:21.770230",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-12-21T17:15:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/SCHEDULES.md",
+      "display_name": "1. First check `contributor_organization_name`",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }

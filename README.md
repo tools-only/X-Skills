@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **303 AI-powered skills** organized into 11 categories.
+A curated collection of **216 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -10,11 +10,11 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (20 skills)
 - **Commercial** (46 skills)
-- **Communication** (12 skills)
-- **Content Creation** (1 skill)
+- **Communication** (13 skills)
+- **Content Creation** (2 skills)
 - **Daily Assistant** (4 skills)
 - **Data Analysis** (26 skills)
-- **Development** (168 skills)
+- **Development** (79 skills)
 - **Investment** (1 skill)
 - **Other** (16 skills)
 - **Productivity** (7 skills)
@@ -99,7 +99,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Stripe.js Reference](commercial/stripe-js_ea89bd96/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-js.md) | ⭐ 1.5k | `commercial` |
 | [upgrade-stripe](commercial/stripe-upgrade_1f3280b1/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-upgrade.md) | ⭐ 1.5k | `commercial` |
 
-### Communication (12 skills)
+### Communication (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -115,12 +115,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Security Checklists](communication/security-checklists_3be0bd62/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-testing/references/security-checklists.md) | ⭐ 1.5k | `communication` |
 | [Unit & Integration Testing](communication/unit-integration-testing_f91ba9b3/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-testing/references/unit-integration-testing.md) | ⭐ 1.5k | `communication` |
 | [private-repo](communication/benefits_29f4049d/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/benefits.md) | ⭐ 1.5k | `communication` |
+| [FEC Form Types](communication/forms_1ef2ba0b/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/FORMS.md) | ⭐ 22 | `communication` |
 
-### Content Creation (1 skills)
+### Content Creation (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Input data](content-creation/index_d0c8fc8b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/index.md) | ⭐ 12 | `data analysis` |
+| [1. First check `contributor_organization_name`](content-creation/schedules_1775c612/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/SCHEDULES.md) | ⭐ 22 | `daily assistant` |
 
 ### Daily Assistant (4 skills)
 
@@ -162,7 +164,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Input Data Structures for Charts](data-analysis/charts_f918116f/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/charts.md) | ⭐ 12 | `data analysis` |
 | [Input Data Structures](data-analysis/structure_19c926e7/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/structure.md) | ⭐ 12 | `data analysis` |
 
-### Development (168 skills)
+### Development (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -243,97 +245,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Next Gen Ui Agent](development/patternfly_npm_1585f015/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/patternfly_npm.md) | ⭐ 12 | `development` |
 | [Development Setup](development/development_d3c847fc/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/tests/ngui-e2e/client/DEVELOPMENT.md) | ⭐ 12 | `development` |
 | [Server Architecture](development/architecture_b2b747bc/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/tests/ngui-e2e/server/ARCHITECTURE.md) | ⭐ 12 | `data analysis` |
-| [Skills Installation Guide](development/installation_9ccdcbb9/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/INSTALLATION.md) | ⭐ 1.5k | `development` |
-| [No more context bloat with "mcp-manager" subagent + "mcp-management" skills!](development/mcp_management_f64a973a/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/MCP_MANAGEMENT.md) | ⭐ 1.5k | `development` |
-| [I was wrong about Agent Skills and how I refactor them](development/refactor_718d2864/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/REFACTOR.md) | ⭐ 1.5k | `development` |
-| [ClaudeKit Skills Marketplace](development/marketplace_8635279d/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/docs/MARKETPLACE.md) | ⭐ 1.5k | `data analysis` |
-| [mcp-manager](development/mcp-manager_db82af1f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/agents/mcp-manager.md) | ⭐ 1.5k | `development` |
-| [mermaidjs-v11](development/debugger-251230-1932-marketplace-visibility_a3e31cf9/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/plans/reports/debugger-251230-1932-marketplace-visibility.md) | ⭐ 1.5k | `development` |
-| [Fix Report: MCP Management CLI Errors](development/fix-251230-1954-mcp-management-cli_b3e1e804/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/plans/reports/fix-251230-1954-mcp-management-cli.md) | ⭐ 1.5k | `development` |
-| [Research Report: Converting claudekit-skills to Claude Code Marketplace](development/research-251229-1149-marketplace-conversion_9b99dd4b/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/plans/reports/research-251229-1149-marketplace-conversion.md) | ⭐ 1.5k | `content creation` |
-| [Claudekit Skills](development/cm_3124e364/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/commands/git/cm.md) | ⭐ 1.5k | `development` |
-| [Claudekit Skills](development/cp_66e9510b/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/commands/git/cp.md) | ⭐ 1.5k | `development` |
-| [Claudekit Skills](development/create_36ee7505/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/commands/skill/create.md) | ⭐ 1.5k | `development` |
-| [aesthetic](development/skill_c332f5bb/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/SKILL.md) | ⭐ 1.5k | `content creation` |
-| [backend-development](development/skill_68e7dbc0/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/SKILL.md) | ⭐ 1.5k | `development` |
-| [chrome-devtools](development/skill_893563ea/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/chrome-devtools/SKILL.md) | ⭐ 1.5k | `development` |
-| [Claude Code Expert](development/skill_196133ca/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/SKILL.md) | ⭐ 1.5k | `development` |
-| [code-review](development/skill_d7ae241e/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/code-review/SKILL.md) | ⭐ 1.5k | `development` |
-| [databases](development/skill_0567d189/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/SKILL.md) | ⭐ 1.5k | `content creation` |
-| [debugging](development/skill_303e6a9f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/debugging/SKILL.md) | ⭐ 1.5k | `development` |
-| [devops](development/skill_2456b40d/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/SKILL.md) | ⭐ 1.5k | `development` |
-| [Detailed Workflows & Examples](development/workflows_7ce5df19/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/WORKFLOWS.md) | ⭐ 1.5k | `content creation` |
-| [frontend-design](development/skill_44bac5b9/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/frontend-design/SKILL.md) | ⭐ 1.5k | `development` |
-| [frontend-dev-guidelines](development/skill_646f2fb6/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/frontend-development/SKILL.md) | ⭐ 1.5k | `development` |
-| [Google ADK Python Skill](development/skill_edf5cc1d/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/google-adk-python/SKILL.md) | ⭐ 1.5k | `development` |
-| [mcp-management](development/skill_e163d352/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mcp-management/SKILL.md) | ⭐ 1.5k | `development` |
-| [Amplifier](development/about_5ac236d4/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/problem-solving/ABOUT.md) | ⭐ 1.5k | `development` |
-| [repomix](development/skill_0e3dafc0/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/repomix/SKILL.md) | ⭐ 1.5k | `development` |
-| [skill-creator](development/skill_a1208de1/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/skill-creator/SKILL.md) | ⭐ 1.5k | `content creation` |
-| [threejs](development/skill_d7a80b29/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/SKILL.md) | ⭐ 1.5k | `data analysis` |
-| [web-testing](development/skill_a8f6e915/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-testing/SKILL.md) | ⭐ 1.5k | `development` |
-| [Storytelling Design: Peak Experience](development/storytelling-design_121d0577/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/storytelling-design.md) | ⭐ 1.5k | `data analysis` |
-| [Image Generation Reference](development/image-generation_1880b9e9/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ai-multimodal/references/image-generation.md) | ⭐ 1.5k | `content creation` |
-| [String!](development/backend-api-design_9bdf6bf1/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-api-design.md) | ⭐ 1.5k | `development` |
-| [user-service](development/backend-architecture_8ae6a40c/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-architecture.md) | ⭐ 1.5k | `development` |
-| [MyApp](development/backend-authentication_396f0d1a/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-authentication.md) | ⭐ 1.5k | `content creation` |
-| [[](development/backend-debugging_9468a89f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-debugging.md) | ⭐ 1.5k | `development` |
-| [api-deployment](development/backend-devops_1fbb7010/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-devops.md) | ⭐ 1.5k | `development` |
-| [Backend Development Mindset](development/backend-mindset_078b6f8a/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-mindset.md) | ⭐ 1.5k | `development` |
-| [Backend Security](development/backend-security_ba5e857e/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-security.md) | ⭐ 1.5k | `development` |
-| [Backend Technologies](development/backend-technologies_5f208251/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-technologies.md) | ⭐ 1.5k | `data analysis` |
-| [Test](development/backend-testing_18221e8e/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-testing.md) | ⭐ 1.5k | `development` |
-| [YourApp](development/advanced-features_cf67bd65/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/better-auth/references/advanced-features.md) | ⭐ 1.5k | `development` |
-| [profile.name,](development/oauth-providers_5201dc27/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/better-auth/references/oauth-providers.md) | ⭐ 1.5k | `development` |
-| [Chrome DevTools Protocol (CDP) Domains Reference](development/cdp-domains_fa81fa0f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/chrome-devtools/references/cdp-domains.md) | ⭐ 1.5k | `development` |
-| [entry.name,](development/performance-guide_e9391eda/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/chrome-devtools/references/performance-guide.md) | ⭐ 1.5k | `development` |
-| [Mock User](development/puppeteer-reference_dcec4af0/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/chrome-devtools/references/puppeteer-reference.md) | ⭐ 1.5k | `development` |
-| [Advanced Features](development/advanced-features_2fb92f67/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/advanced-features.md) | ⭐ 1.5k | `development` |
-| [API Reference](development/api-reference_e6c62e7d/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/api-reference.md) | ⭐ 1.5k | `development` |
-| [Best Practices](development/best-practices_efabe665/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/best-practices.md) | ⭐ 1.5k | `development` |
-| [claude-code](development/enterprise-features_8f885147/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/enterprise-features.md) | ⭐ 1.5k | `development` |
-| [Getting Started with Claude Code](development/getting-started_14e1b685/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/getting-started.md) | ⭐ 1.5k | `development` |
-| [Hooks and Plugins](development/hooks-and-plugins_22231fac/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/hooks-and-plugins.md) | ⭐ 1.5k | `development` |
-| [IDE Integration](development/ide-integration_1e599fd5/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/ide-integration.md) | ⭐ 1.5k | `development` |
-| [my-tool](development/mcp-integration_29e711f3/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/mcp-integration.md) | ⭐ 1.5k | `development` |
-| [Slash Commands Reference](development/slash-commands_e7542139/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/slash-commands.md) | ⭐ 1.5k | `development` |
-| [Troubleshooting](development/troubleshooting_39c73df6/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/troubleshooting.md) | ⭐ 1.5k | `development` |
-| [receiving-code-review](development/code-review-reception_2f611402/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/code-review/references/code-review-reception.md) | ⭐ 1.5k | `development` |
-| [requesting-code-review](development/requesting-code-review_a3703cac/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/code-review/references/requesting-code-review.md) | ⭐ 1.5k | `development` |
-| [Context Compression](development/context-compression_17a27c30/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/context-compression.md) | ⭐ 1.5k | `daily assistant` |
-| [Project Development](development/project-development_efc40a21/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/project-development.md) | ⭐ 1.5k | `data analysis` |
-| [Tool Design](development/tool-design_91d38658/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/tool-design.md) | ⭐ 1.5k | `development` |
-| [$customer.name](development/mongodb-aggregation_b7cca207/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/mongodb-aggregation.md) | ⭐ 1.5k | `data analysis` |
-| [password@cluster.mongodb.net/database?retryWrites=true&w=majority](development/mongodb-atlas_d37fea35/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/mongodb-atlas.md) | ⭐ 1.5k | `content creation` |
-| [Defense-in-Depth Validation](development/skill_26b67533/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/debugging/defense-in-depth/SKILL.md) | ⭐ 1.5k | `development` |
-| [Root Cause Tracing](development/skill_476830e1/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/debugging/root-cause-tracing/SKILL.md) | ⭐ 1.5k | `development` |
-| [Systematic Debugging](development/skill_48252adf/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/debugging/systematic-debugging/SKILL.md) | ⭐ 1.5k | `development` |
-| [Cloudflare Platform Overview](development/cloudflare-platform_d009a10f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/cloudflare-platform.md) | ⭐ 1.5k | `development` |
-| [Cloudflare R2 Storage](development/cloudflare-r2-storage_03c90dd2/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/cloudflare-r2-storage.md) | ⭐ 1.5k | `content creation` |
-| [Cloudflare Workers Advanced Patterns](development/cloudflare-workers-advanced_fc4b2c5b/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/cloudflare-workers-advanced.md) | ⭐ 1.5k | `development` |
-| [HMAC](development/cloudflare-workers-apis_d36537cf/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/cloudflare-workers-apis.md) | ⭐ 1.5k | `development` |
-| [Cloudflare Workers Basics](development/cloudflare-workers-basics_a975a4f0/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/cloudflare-workers-basics.md) | ⭐ 1.5k | `development` |
-| [Deploy to GCP](development/gcloud-platform_195c09f6/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/gcloud-platform.md) | ⭐ 1.5k | `development` |
-| [Google Cloud Services](development/gcloud-services_2581140e/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/gcloud-services.md) | ⭐ 1.5k | `development` |
-| [myapp-pod](development/kubernetes-basics_7232b88a/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-basics.md) | ⭐ 1.5k | `development` |
-| [{{ include](development/kubernetes-helm-advanced_3fbb5982/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-helm-advanced.md) | ⭐ 1.5k | `data analysis` |
-| [kubectl Essential Commands](development/kubernetes-kubectl_43fe156b/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-kubectl.md) | ⭐ 1.5k | `development` |
-| [secret-reader](development/kubernetes-security-advanced_26e8cbd5/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-security-advanced.md) | ⭐ 1.5k | `daily assistant` |
-| [pod-reader](development/kubernetes-security_83c817d3/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-security.md) | ⭐ 1.5k | `daily assistant` |
-| [myapp](development/kubernetes-troubleshooting-advanced_9922fd41/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-troubleshooting-advanced.md) | ⭐ 1.5k | `development` |
-| [Kubernetes Troubleshooting](development/kubernetes-troubleshooting_5f5d9509/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-troubleshooting.md) | ⭐ 1.5k | `development` |
-| [Build and Deploy](development/kubernetes-workflows-advanced_b18c3169/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-workflows-advanced.md) | ⭐ 1.5k | `development` |
-| [myapp](development/kubernetes-workflows_dafc947f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-workflows.md) | ⭐ 1.5k | `development` |
-| [Best Practices](development/best-practices_36f68db5/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/references/best-practices.md) | ⭐ 1.5k | `development` |
-| [`github.com/vercel/next.js`](development/documentation-sources_ad6a52d7/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/references/documentation-sources.md) | ⭐ 1.5k | `development` |
-| [Error Handling Guide](development/error-handling_0ba635c6/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/references/error-handling.md) | ⭐ 1.5k | `content creation` |
-| [Limitations & Success Criteria](development/limitations_89593bcf/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/references/limitations.md) | ⭐ 1.5k | `content creation` |
-| [Anime.js v4 Reference Guide for AI Assistants](development/animejs_d9087e59/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/frontend-design/references/animejs.md) | ⭐ 1.5k | `development` |
-| [Gemini CLI Integration Guide](development/gemini-cli-integration_4e8123a3/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mcp-management/references/gemini-cli-integration.md) | ⭐ 1.5k | `development` |
-| [FFmpeg Video & Audio Encoding](development/ffmpeg-encoding_903682c3/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/references/ffmpeg-encoding.md) | ⭐ 1.5k | `content creation` |
-| [FFmpeg Streaming & Live Video](development/ffmpeg-streaming_087eab32/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/references/ffmpeg-streaming.md) | ⭐ 1.5k | `content creation` |
-| [Format Compatibility & Conversion Guide](development/format-compatibility_900ac721/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/references/format-compatibility.md) | ⭐ 1.5k | `content creation` |
-| [ImageMagick Image Editing](development/imagemagick-editing_61f9e9f4/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/references/imagemagick-editing.md) | ⭐ 1.5k | `data analysis` |
+| [Agent Skill: fecfile](development/agents_59c40ecb/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 22 | `development` |
+| [fecfile](development/skill_75b30f98/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 22 | `content creation` |
 
 ### Investment (1 skills)
 
