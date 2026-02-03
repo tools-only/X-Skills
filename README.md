@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4683 AI-powered skills** organized into 16 categories.
+A curated collection of **4685 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,16 +11,16 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (441 skills)
 - **Automation/Scripting** (22 skills)
 - **Automation/Workflow** (25 skills)
-- **Commercial** (344 skills)
+- **Commercial** (343 skills)
 - **Communication** (177 skills)
-- **Content Creation** (114 skills)
-- **Daily Assistant** (144 skills)
-- **Data Analysis** (381 skills)
-- **Development** (2417 skills)
-- **Development/Devops** (84 skills)
-- **Development/Testing** (14 skills)
+- **Content Creation** (113 skills)
+- **Daily Assistant** (146 skills)
+- **Data Analysis** (380 skills)
+- **Development** (2421 skills)
+- **Development/Devops** (85 skills)
+- **Development/Testing** (15 skills)
 - **Development/Tools** (46 skills)
-- **Investment** (40 skills)
+- **Investment** (37 skills)
 - **Other** (43 skills)
 - **Productivity** (172 skills)
 - **Research** (219 skills)
@@ -531,7 +531,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Security Reviewer Prompt](automation/workflow/019-security-reviewer-prompt_6cf255f9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/security-reviewer-prompt.md) | ⭐ 810 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a2dff638/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/gallery-scraper/SKILL.md) | ⭐ 163 | `automation` |
 
-### Commercial (344 skills)
+### Commercial (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -878,7 +878,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
 | [Workflow](commercial/233-workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
 | [Salesforce Structure](commercial/234-salesforce_structure_308821c1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/salesforce/SALESFORCE_STRUCTURE.md) | ⭐ 163 | `commercial` |
-| [Skill](commercial/name-skill_979d1d68/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-search/SKILL.md) | ⭐ 10 | `commercial` |
 
 ### Communication (177 skills)
 
@@ -1062,7 +1061,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_4a1731fa/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/zendesk/SKILL.md) | ⭐ 163 | `communication` |
 | [Browser Workflows](communication/130-browser-workflows_80860042/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/google-ads/references/browser-workflows.md) | ⭐ 163 | `communication` |
 
-### Content Creation (114 skills)
+### Content Creation (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1157,7 +1156,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mshtools Browser Scroll Down](content-creation/057-mshtools-browser_scroll_down_3b4d231d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_down.md) | ⭐ 171 | `content creation` |
 | [Mshtools Screenshot Web Full Page](content-creation/058-mshtools-screenshot_web_full_page_74b74a15/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-screenshot_web_full_page.md) | ⭐ 171 | `content creation` |
 | [Mshtools Write File](content-creation/059-mshtools-write_file_2649fa2c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-write_file.md) | ⭐ 171 | `content creation` |
-| [Skill](content-creation/name-skill_d47aa980/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/049-name-skill_8460821f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 15 | `content creation` |
 | [Workflows](content-creation/060-workflows_ba49e91f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/references/workflows.md) | ⭐ 15 | `content creation` |
 | [Onboarding](content-creation/061-onboarding_360f416d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 58 | `content creation` |
 | [Fn 13 Pxj](content-creation/062-fn-13-pxj_07b69ef7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-13-pxj.md) | ⭐ 490 | `content creation` |
@@ -1179,9 +1178,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api](content-creation/072-api_3d2f8b33/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/API.md) | ⭐ 1.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_7e509a00/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/design-postgres-tables/SKILL.md) | ⭐ 1.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_d47aa980/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 15 | `content creation` |
-| [Skill](content-creation/name-skill_a249c53c/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-reporter/SKILL.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (144 skills)
+### Daily Assistant (146 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1327,10 +1325,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_7324dfe1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/gong/SKILL.md) | ⭐ 163 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f4e67beb/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/planner/SKILL.md) | ⭐ 163 | `daily assistant` |
 | [Common Configs](daily-assistant/084-common-configs_4140e9c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawddocs/snippets/common-configs.md) | ⭐ 163 | `daily assistant` |
-| [Prompts](daily-assistant/prompts_e97e69bb/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-predictor/references/PROMPTS.md) | ⭐ 10 | `daily assistant` |
-| [Prompts](daily-assistant/prompts_5d9b19b7/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-search/references/PROMPTS.md) | ⭐ 10 | `daily assistant` |
+| [Workflow](daily-assistant/workflow_54447418/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/WORKFLOW.md) | ⭐ 133 | `daily assistant` |
+| [P3 Trust Boundary](daily-assistant/p3-trust-boundary_ad38af2c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 133 | `daily assistant` |
+| [P5 Stride Analysis](daily-assistant/p5-stride-analysis_559a2776/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
+| [P8 Report Generation](daily-assistant/p8-report-generation_aa2eb4e2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
 
-### Data Analysis (381 skills)
+### Data Analysis (380 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1712,11 +1712,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_f434ca9d/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/migrate-postgres-tables-to-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_bf145a06/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/pgvector-semantic-search/SKILL.md) | ⭐ 1.5k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_f06ad761/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/setup-timescaledb-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
-| [Prompts](data-analysis/prompts_4435668f/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/references/PROMPTS.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_070e2504/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-logic-visualizer/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Prompts](data-analysis/prompts_372780c9/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-logic-visualizer/references/PROMPTS.md) | ⭐ 10 | `data analysis` |
+| [Prompts](data-analysis/250-prompts_4435668f/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/references/PROMPTS.md) | ⭐ 10 | `data analysis` |
+| [P2 Dfd Analysis](data-analysis/p2-dfd-analysis_0ffa7a58/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
 
-### Development (2417 skills)
+### Development (2421 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4136,9 +4135,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Devkit.Typescript.Code Review](development/1326-devkittypescriptcode-review_80c70356/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.typescript.code-review.md) | ⭐ 83 | `development` |
 | [Guide Agents](development/1327-guide-agents_34934333/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-agents.md) | ⭐ 83 | `development` |
 | [Guide Commands](development/438-guide-commands_28e4f26c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-commands.md) | ⭐ 83 | `development` |
-| [Skill](development/name-skill_4afbad1d/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/skill-creator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_4afbad1d/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/skill-creator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill Architecture Design](development/skill-architecture-design_e881dcaa/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN.md) | ⭐ 133 | `development` |
+| [P1 Project Understanding](development/p1-project-understanding_0e57440a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P1-PROJECT-UNDERSTANDING.md) | ⭐ 133 | `development` |
+| [P6 Risk Validation](development/p6-risk-validation_4e7c1437/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P6-RISK-VALIDATION.md) | ⭐ 133 | `development` |
+| [P7 Mitigation Planning](development/p7-mitigation-planning_32615020/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P7-MITIGATION-PLANNING.md) | ⭐ 133 | `development` |
 
-### Development/Devops (84 skills)
+### Development/Devops (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4269,8 +4272,9 @@ Read more about the new architecture [here` |
 | [Up And Running](development/devops/055-up-and-running_62eff66d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/up-and-running.md) | ⭐ 16 | `development` |
 | [Skill](development/devops/014-name-skill_f6d56c10/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/self-improving-agent/SKILL.md) | ⭐ 163 | `development` |
 | [Security Tools](development/devops/056-security-tools_c4696d7a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/security-tools.md) | ⭐ 163 | `development` |
+| [P4 Security Design Review](development/devops/p4-security-design-review_f192546b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P4-SECURITY-DESIGN-REVIEW.md) | ⭐ 133 | `development` |
 
-### Development/Testing (14 skills)
+### Development/Testing (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4288,6 +4292,7 @@ Read more about the new architecture [here` |
 | [006 Agents](development/testing/011-006-agents_84b8c53a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/006-AGENTS.md) | ⭐ 16 | `development` |
 | [Skill](development/testing/002-name-skill_b51a34c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
+| [Skill](development/testing/threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 
 ### Development/Tools (46 skills)
 
@@ -4340,7 +4345,7 @@ Read more about the new architecture [here` |
 | [Shell Oneliners](development/tools/033-shell-oneliners_2c30b852/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/shell-oneliners.md) | ⭐ 163 | `development` |
 | [Devkit.Refactor](development/tools/034-devkitrefactor_67b5be44/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.refactor.md) | ⭐ 83 | `development` |
 
-### Investment (40 skills)
+### Investment (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4377,13 +4382,10 @@ Read more about the new architecture [here` |
 | [Browser Guard](investment/018-browser-guard_039e96c9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/browser-guard.md) | ⭐ 171 | `investment` |
 | [Fn 17 Wti.7](investment/019-fn-17-wti7_e256ca97/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.7.md) | ⭐ 490 | `investment` |
 | [Fn 9.16](investment/020-fn-916_82f6f3c9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.16.md) | ⭐ 490 | `investment` |
-| [Skill](investment/name-skill_692716ec/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/SKILL.md) | ⭐ 10 | `investment` |
-| [Skill](investment/name-skill_81147eef/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-sentiment/SKILL.md) | ⭐ 10 | `investment` |
-| [Skill](investment/name-skill_f049b077/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/SKILL.md) | ⭐ 10 | `investment` |
-| [Sources](investment/sources_3381ae19/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md) | ⭐ 10 | `investment` |
-| [Skill](investment/name-skill_a227d9af/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-predictor/SKILL.md) | ⭐ 10 | `investment` |
-| [Skill](investment/name-skill_980e7c88/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-stock/SKILL.md) | ⭐ 10 | `investment` |
-| [Prompts](investment/prompts_c21f6ec6/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-reporter/references/PROMPTS.md) | ⭐ 10 | `investment` |
+| [Skill](investment/021-name-skill_692716ec/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/SKILL.md) | ⭐ 10 | `investment` |
+| [Skill](investment/021-name-skill_81147eef/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-sentiment/SKILL.md) | ⭐ 10 | `investment` |
+| [Skill](investment/021-name-skill_f049b077/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/SKILL.md) | ⭐ 10 | `investment` |
+| [Sources](investment/015-sources_3381ae19/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md) | ⭐ 10 | `investment` |
 
 ### Other (43 skills)
 
