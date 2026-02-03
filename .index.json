@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T11:52:32.706384",
+  "updated_at": "2026-02-03T12:03:02.415654",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -25466,6 +25466,76 @@
       "repo_updated_at": null,
       "source_url": "#",
       "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "bae07a40cc819621ec8c2d7d1671e51c1715c7999d15423cfca6b96b239713a0",
+      "source_path": ".claude/hooks/security-guardian-go/REVIEW_REPORT.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "content-creation/047-review_report_bae07a40",
+      "category": "content-creation",
+      "name": "review_report_bae07a40",
+      "indexed_at": "2026-02-03T12:03:01.699340",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-01-28T12:42:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/hooks/security-guardian-go/REVIEW_REPORT.md",
+      "display_name": "Review Report",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "770357ee8b0e80e239d52b6bd8d3bda3cbb79260f10906dea0e3d6dc7a2b9c37",
+      "source_path": "plugins/agent-deck/skills/agent-deck/references/tui-reference.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "development/1162-tui-reference_770357ee",
+      "category": "development",
+      "name": "tui-reference_770357ee",
+      "indexed_at": "2026-02-03T12:03:01.900767",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-01-11T21:39:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/tui-reference.md",
+      "display_name": "Tui Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3c5c11951efe236069b4c2c5e084f9be195a58ac05f12ec10cd52db09b9cf3bb",
+      "source_path": "plugins/agent-deck/skills/agent-deck/references/config-reference.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "development/devops/001-config-reference_3c5c1195",
+      "category": "development/devops",
+      "name": "config-reference_3c5c1195",
+      "indexed_at": "2026-02-03T12:03:02.078185",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-01-11T21:39:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/config-reference.md",
+      "display_name": "Config Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4773ea6aa2b86a8a759a89de30adb435584f3a92ecc3ca377bc9ef62205e6fc8",
+      "source_path": "plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "commercial/210-name-skill_4773ea6a",
+      "category": "commercial",
+      "name": "name-skill_4773ea6a",
+      "indexed_at": "2026-02-03T12:03:02.259901",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-01-22T10:25:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "69ab83161a3d8ebc6c0b612ab5620aefac2b5de370df78815c297965660ec851",
+      "source_path": "plugins/agent-deck/skills/agent-deck/references/troubleshooting.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "automation/scripting/001-troubleshooting_69ab8316",
+      "category": "automation/scripting",
+      "name": "troubleshooting_69ab8316",
+      "indexed_at": "2026-02-03T12:03:02.415604",
+      "repo_stars": 21,
+      "repo_updated_at": "2026-01-11T21:39:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/troubleshooting.md",
+      "display_name": "Troubleshooting",
       "tags": "[\"automation\"]"
     }
   ]

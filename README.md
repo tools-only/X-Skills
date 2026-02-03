@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1819 AI-powered skills** organized into 11 categories.
+A curated collection of **1839 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (440 skills)
-- **Commercial** (309 skills)
+- **Automation/Scripting** (2 skills)
+- **Automation/Workflow** (1 skill)
+- **Commercial** (310 skills)
 - **Communication** (160 skills)
-- **Content Creation** (77 skills)
-- **Daily Assistant** (60 skills)
-- **Data Analysis** (343 skills)
-- **Development** (1 skill)
+- **Content Creation** (78 skills)
+- **Daily Assistant** (62 skills)
+- **Data Analysis** (344 skills)
+- **Development** (5 skills)
+- **Development/Devops** (2 skills)
+- **Development/Testing** (1 skill)
 - **Investment** (30 skills)
-- **Other** (41 skills)
+- **Other** (43 skills)
 - **Productivity** (151 skills)
-- **Research** (207 skills)
+- **Research** (210 skills)
 
 ## Skills Directory
 
@@ -468,7 +472,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Quiz](automation/156-test_748efb13/) | [Unknown](#) | N/A | `automation` |
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 
-### Commercial (309 skills)
+### Automation/Scripting (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Troubleshooting](automation/scripting/troubleshooting_69ab8316/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/troubleshooting.md) | ⭐ 21 | `automation` |
+| [Automation Patterns](automation/scripting/automation-patterns_f0fe81bf/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/automation-patterns.md) | ⭐ 21 | `automation` |
+
+### Automation/Workflow (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Skill](automation/workflow/name-skill_019c338d/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/docx-contracts/skills/docx-contracts/SKILL.md) | ⭐ 21 | `automation` |
+
+### Commercial (310 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -781,6 +798,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Performance Optimization](commercial/145-improving_79fb15b0/) | [Unknown](#) | N/A | `commercial` |
 | [Nextjs Optimization Guide](commercial/133-performance_60804569/) | [Unknown](#) | N/A | `products` |
 | [Skill](commercial/181-sf-diagram-mermaid_a56bda2c/) | [Unknown](#) | N/A | `commercial` |
+| [Skill](commercial/name-skill_4773ea6a/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md) | ⭐ 21 | `commercial` |
 
 ### Communication (160 skills)
 
@@ -947,7 +965,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [International Playbooks](communication/063-market_dc929706/) | [Unknown](#) | N/A | `communication` |
 | [Board Governance Investor Relations](communication/020-size_fe407f1f/) | [Unknown](#) | N/A | `daily assistant` |
 
-### Content Creation (77 skills)
+### Content Creation (78 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1028,8 +1046,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/034-skriv-som-kasper_41675a33/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-1k-state-management_f7c35b12/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-content-research-writer_27eb5c1a/) | [Unknown](#) | N/A | `content creation` |
+| [Review Report](content-creation/review_report_bae07a40/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/hooks/security-guardian-go/REVIEW_REPORT.md) | ⭐ 21 | `content creation` |
 
-### Daily Assistant (60 skills)
+### Daily Assistant (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1093,8 +1112,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/024-planning-with-files_469dc928/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/024-agent-legal-advisor_66630c24/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/024-agent-market-researcher_8973a70b/) | [Unknown](#) | N/A | `daily assistant` |
+| [Genome](daily-assistant/genome_0495b266/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/commands/genome.md) | ⭐ 21 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_4270959f/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/genome-analizer/skills/genome-analizer/SKILL.md) | ⭐ 21 | `daily assistant` |
 
-### Data Analysis (343 skills)
+### Data Analysis (344 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1441,12 +1462,30 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Graph Objects](data-analysis/108-plotly_3cb5cbe5/) | [Unknown](#) | N/A | `data analysis` |
 | [Io](data-analysis/119-python_9047312d/) | [Unknown](#) | N/A | `data analysis` |
 | [Interactions](data-analysis/118-drugbank_5f2a2974/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill](data-analysis/name-skill_f3b0ae82/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/fal-ai-image/skills/fal-ai-image/SKILL.md) | ⭐ 21 | `data analysis` |
 
-### Development (1 skills)
+### Development (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Claude Skills Case](development/142-development_b79a0cdf/) | [Unknown](#) | N/A | `development` |
+| [Tui Reference](development/tui-reference_770357ee/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/tui-reference.md) | ⭐ 21 | `development` |
+| [Skill](development/name-skill_0674ef17/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 21 | `development` |
+| [Cli Reference](development/cli-reference_37c97ead/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/cli-reference.md) | ⭐ 21 | `development` |
+| [Mcp Management](development/mcp-management_598e798d/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/mcp-management.md) | ⭐ 21 | `development` |
+
+### Development/Devops (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Config Reference](development/devops/config-reference_3c5c1195/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/config-reference.md) | ⭐ 21 | `development` |
+| [Skill](development/devops/name-skill_d2d0dd73/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/ssh-remote-connection/skills/ssh-remote-connection/SKILL.md) | ⭐ 21 | `development` |
+
+### Development/Testing (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Profiles](development/testing/profiles_73cd5e0c/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/profiles.md) | ⭐ 21 | `development` |
 
 ### Investment (30 skills)
 
@@ -1483,7 +1522,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Synthesizing](investment/017-integrate_24cc2bf4/) | [Unknown](#) | N/A | `investment` |
 | [Skill](investment/014-agentkit_e1178a49/) | [Unknown](#) | N/A | `investment` |
 
-### Other (41 skills)
+### Other (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1528,6 +1567,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill](other/other-skill_17e1e593/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/docx-contracts/SKILL.md) | ⭐ 21 | `other` |
+| [Skill](other/other-skill_d588a26c/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/genome-analizer/SKILL.md) | ⭐ 21 | `other` |
 
 ### Productivity (151 skills)
 
@@ -1685,7 +1726,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/077-ai-doc-system-auditor_4a5edfcf/) | [Unknown](#) | N/A | `productivity` |
 | [Skill](productivity/077-agent-react-specialist_df3c8fcb/) | [Unknown](#) | N/A | `productivity` |
 
-### Research (207 skills)
+### Research (210 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1896,6 +1937,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api Reference](research/007-clinicaltrials_50a3a66c/) | [Unknown](#) | N/A | `research` |
 | [Design Principles](research/037-analyze_e7ba630a/) | [Unknown](#) | N/A | `data analysis` |
 | [Similarity](research/114-document_1d37dd43/) | [Unknown](#) | N/A | `research` |
+| [Skill](research/research-skill_63421d8b/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/scrapedo-web-scraper/SKILL.md) | ⭐ 21 | `research` |
+| [Skill](research/name-skill_21b525cc/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/SKILL.md) | ⭐ 21 | `research` |
+| [Skill](research/name-skill_ad629645/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/scrapedo-web-scraper/skills/scrapedo-web-scraper/SKILL.md) | ⭐ 21 | `research` |
 
 ## Repository Structure
 
