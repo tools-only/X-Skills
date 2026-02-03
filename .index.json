@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T17:20:37.556518",
+  "updated_at": "2026-02-03T17:25:02.433361",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -66948,6 +66948,76 @@
       "repo_updated_at": "2026-01-15T21:07:28+00:00",
       "source_url": "https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/streaming/index.md",
       "display_name": "Index",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "78ffa164ad0a35c94440bcc6a173ee7b67b339371b6869893581c8eb1b06c35b",
+      "source_path": "AGENTS.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/028-agents_78ffa164",
+      "category": "development",
+      "name": "agents_78ffa164",
+      "indexed_at": "2026-02-03T17:25:00.361042",
+      "repo_stars": 5022,
+      "repo_updated_at": "2026-01-29T21:30:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "60788cb2bddb9cb6a6cf567596aa2c7fc41ebe0604cf123ff1e73ade7903ac3b",
+      "source_path": "docs/PR.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/701-pr_60788cb2",
+      "category": "development",
+      "name": "pr_60788cb2",
+      "indexed_at": "2026-02-03T17:25:00.776373",
+      "repo_stars": 5022,
+      "repo_updated_at": "2025-12-19T18:57:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/PR.md",
+      "display_name": "Pull Request Description Guidelines",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1343517867b33858effe433168ca35ef152f336d16c5926f138b151a93325103",
+      "source_path": "docs/STYLE_GUIDE.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/1377-style_guide_13435178",
+      "category": "development",
+      "name": "style_guide_13435178",
+      "indexed_at": "2026-02-03T17:25:01.319261",
+      "repo_stars": 5022,
+      "repo_updated_at": "2025-12-10T20:09:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md",
+      "display_name": "Style Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "67caabbb3e5e885853967483b4a6d29b05598ce2c6fe0ce07975660beea07b01",
+      "source_path": "docs/MCP_CLIENT_ARCHITECTURE.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/tools/047-mcp_client_architecture_67caabbb",
+      "category": "development/tools",
+      "name": "mcp_client_architecture_67caabbb",
+      "indexed_at": "2026-02-03T17:25:01.905732",
+      "repo_stars": 5022,
+      "repo_updated_at": "2025-12-10T20:09:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/MCP_CLIENT_ARCHITECTURE.md",
+      "display_name": "Mcp Client Architecture",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2256ec7f716ad23337e296755187fe77fb7f10aa54d29834773a3ce38d74aacb",
+      "source_path": ".github/workflows/LAMDBA_LAYERS_SOP.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "automation/workflow/023-lamdba_layers_sop_2256ec7f",
+      "category": "automation/workflow",
+      "name": "lamdba_layers_sop_2256ec7f",
+      "indexed_at": "2026-02-03T17:25:02.433245",
+      "repo_stars": 5022,
+      "repo_updated_at": "2026-01-22T17:06:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/.github/workflows/LAMDBA_LAYERS_SOP.md",
+      "display_name": "Lamdba Layers Sop",
       "tags": "[\"automation\"]"
     }
   ]
