@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1839 AI-powered skills** organized into 15 categories.
+A curated collection of **4109 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,26 +8,22 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (440 skills)
-- **Automation/Scripting** (2 skills)
-- **Automation/Workflow** (1 skill)
+- **Automation** (441 skills)
 - **Commercial** (310 skills)
 - **Communication** (160 skills)
 - **Content Creation** (78 skills)
-- **Daily Assistant** (62 skills)
-- **Data Analysis** (344 skills)
-- **Development** (5 skills)
-- **Development/Devops** (2 skills)
-- **Development/Testing** (1 skill)
+- **Daily Assistant** (60 skills)
+- **Data Analysis** (343 skills)
+- **Development** (2288 skills)
 - **Investment** (30 skills)
-- **Other** (43 skills)
+- **Other** (41 skills)
 - **Productivity** (151 skills)
-- **Research** (210 skills)
+- **Research** (207 skills)
 
 ## Skills Directory
 
 
-### Automation (440 skills)
+### Automation (441 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -471,19 +467,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-model-selection_7a89e2fe/) | [Unknown](#) | N/A | `automation` |
 | [Quiz](automation/156-test_748efb13/) | [Unknown](#) | N/A | `automation` |
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
-
-### Automation/Scripting (2 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Troubleshooting](automation/scripting/troubleshooting_69ab8316/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/troubleshooting.md) | ⭐ 21 | `automation` |
-| [Automation Patterns](automation/scripting/automation-patterns_f0fe81bf/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/automation-patterns.md) | ⭐ 21 | `automation` |
-
-### Automation/Workflow (1 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Skill](automation/workflow/name-skill_019c338d/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/docx-contracts/skills/docx-contracts/SKILL.md) | ⭐ 21 | `automation` |
+| [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
 ### Commercial (310 skills)
 
@@ -519,6 +503,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Access](commercial/053-drugbank_71b2c5a9/) | [Unknown](#) | N/A | `commercial` |
 | [Matrices Linear Algebra](commercial/120-document_f22d091d/) | [Unknown](#) | N/A | `commercial` |
 | [Communication Standards](commercial/040-absolute_fd4497ed/) | [Unknown](#) | N/A | `commercial` |
+| [Skill](commercial/003-name-skill_4773ea6a/) | [Unknown](#) | N/A | `commercial` |
 | [Advanced Patterns](commercial/004-advanced_858e4c93/) | [Unknown](#) | N/A | `commercial` |
 | [Credential Setup](commercial/051-configuring_60e8fdd4/) | [Unknown](#) | N/A | `commercial` |
 | [Performance Tuning](commercial/146-python_7210f8a9/) | [Unknown](#) | N/A | `commercial` |
@@ -798,7 +783,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Performance Optimization](commercial/145-improving_79fb15b0/) | [Unknown](#) | N/A | `commercial` |
 | [Nextjs Optimization Guide](commercial/133-performance_60804569/) | [Unknown](#) | N/A | `products` |
 | [Skill](commercial/181-sf-diagram-mermaid_a56bda2c/) | [Unknown](#) | N/A | `commercial` |
-| [Skill](commercial/name-skill_4773ea6a/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md) | ⭐ 21 | `commercial` |
 
 ### Communication (160 skills)
 
@@ -1005,6 +989,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/034-openapi-to-typescript_a27383fc/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-building-dbt-semantic-layer_c4860e36/) | [Unknown](#) | N/A | `content creation` |
 | [Reference](content-creation/026-spring_d0f5f765/) | [Unknown](#) | N/A | `content creation` |
+| [Review Report](content-creation/001-review_report_bae07a40/) | [Unknown](#) | N/A | `content creation` |
 | [Reference Set Ext 11 Iac Security](content-creation/027-threat_921d02b5/) | [Unknown](#) | N/A | `content creation` |
 | [Rules](content-creation/029-document_7611526a/) | [Unknown](#) | N/A | `content creation` |
 | [File Management](content-creation/017-reference_c3ce200c/) | [Unknown](#) | N/A | `content creation` |
@@ -1046,9 +1031,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/034-skriv-som-kasper_41675a33/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-1k-state-management_f7c35b12/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-content-research-writer_27eb5c1a/) | [Unknown](#) | N/A | `content creation` |
-| [Review Report](content-creation/review_report_bae07a40/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/hooks/security-guardian-go/REVIEW_REPORT.md) | ⭐ 21 | `content creation` |
 
-### Daily Assistant (62 skills)
+### Daily Assistant (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1112,10 +1096,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/024-planning-with-files_469dc928/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/024-agent-legal-advisor_66630c24/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/024-agent-market-researcher_8973a70b/) | [Unknown](#) | N/A | `daily assistant` |
-| [Genome](daily-assistant/genome_0495b266/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/commands/genome.md) | ⭐ 21 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_4270959f/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/genome-analizer/skills/genome-analizer/SKILL.md) | ⭐ 21 | `daily assistant` |
 
-### Data Analysis (344 skills)
+### Data Analysis (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1462,30 +1444,2299 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Graph Objects](data-analysis/108-plotly_3cb5cbe5/) | [Unknown](#) | N/A | `data analysis` |
 | [Io](data-analysis/119-python_9047312d/) | [Unknown](#) | N/A | `data analysis` |
 | [Interactions](data-analysis/118-drugbank_5f2a2974/) | [Unknown](#) | N/A | `data analysis` |
-| [Skill](data-analysis/name-skill_f3b0ae82/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/fal-ai-image/skills/fal-ai-image/SKILL.md) | ⭐ 21 | `data analysis` |
 
-### Development (5 skills)
+### Development (2288 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
+| [Tui Reference](development/002-tui-reference_770357ee/) | [Unknown](#) | N/A | `development` |
 | [Claude Skills Case](development/142-development_b79a0cdf/) | [Unknown](#) | N/A | `development` |
-| [Tui Reference](development/tui-reference_770357ee/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/tui-reference.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_0674ef17/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 21 | `development` |
-| [Cli Reference](development/cli-reference_37c97ead/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/cli-reference.md) | ⭐ 21 | `development` |
-| [Mcp Management](development/mcp-management_598e798d/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/mcp-management.md) | ⭐ 21 | `development` |
-
-### Development/Devops (2 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Config Reference](development/devops/config-reference_3c5c1195/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/config-reference.md) | ⭐ 21 | `development` |
-| [Skill](development/devops/name-skill_d2d0dd73/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/ssh-remote-connection/skills/ssh-remote-connection/SKILL.md) | ⭐ 21 | `development` |
-
-### Development/Testing (1 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Profiles](development/testing/profiles_73cd5e0c/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/references/profiles.md) | ⭐ 21 | `development` |
+| [analyzer](development/979-skill_d5fc562a/) | [Unknown](#) | N/A | `development` |
+| [File System](development/378-filesystem_d862cc00/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-scp-download](development/979-skill_1c65ad3a/) | [Unknown](#) | N/A | `development` |
+| [Deployment Strategies](development/277-deployment_strategies_63d16442/) | [Unknown](#) | N/A | `development` |
+| [browsing-bluesky](development/979-skill_8569c4bf/) | [Unknown](#) | N/A | `development` |
+| [ISO 27001:2022 Controls Implementation Guide](development/492-iso27001-controls_6a434515/) | [Unknown](#) | N/A | `data analysis` |
+| [Review Checklist](development/921-review-checklist_c0e348f3/) | [Unknown](#) | N/A | `development` |
+| [Workflow Commands Reference](development/1155-workflow_commands_543c5407/) | [Unknown](#) | N/A | `data analysis` |
+| [identify](development/979-skill_18a5400a/) | [Unknown](#) | N/A | `development` |
+| [`](development/743-python-docstrings_f852d307/) | [Unknown](#) | N/A | `development` |
+| [sf-apex](development/446-hooks-frontmatter-schema_829661a6/) | [Unknown](#) | N/A | `content creation` |
+| [`root`](development/979-skill_a4e815cf/) | [Unknown](#) | N/A | `qemu` `vm` `testing` |
+| [Non-Functional Requirements Checklist](development/622-nfr-checklist_37b9b0f0/) | [Unknown](#) | N/A | `daily assistant` |
+| [Analysis Process](development/037-analysis-process_6581c95a/) | [Unknown](#) | N/A | `development` |
+| [Protocols.io Authentication](development/076-authentication_227a44f0/) | [Unknown](#) | N/A | `development` |
+| [aerospace-supply-chain](development/979-skill_5dce2922/) | [Unknown](#) | N/A | `data analysis` |
+| [存储架构](development/1026-storage_00f11502/) | [Unknown](#) | N/A | `data analysis` |
+| [prioritize](development/979-skill_f94899bc/) | [Unknown](#) | N/A | `daily assistant` |
+| [langchain4j-ai-development-expert](development/514-langchain4j-ai-development-expert_c0fc9640/) | [Unknown](#) | N/A | `development` |
+| [Control Set 17: Agentic Security (AGENT)](development/214-control-set-ext-16-agentic_31538521/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-scp-upload](development/979-skill_645cc874/) | [Unknown](#) | N/A | `development` |
+| [文件系统](development/378-filesystem_5eb9a720/) | [Unknown](#) | N/A | `development` |
+| [Repository Evaluation Prompt (Awesome-Claude-Code · Full Version)](development/345-evaluate-repository_4564c383/) | [Unknown](#) | N/A | `development` |
+| [orchestrating-agents](development/979-skill_f361703f/) | [Unknown](#) | N/A | `development` |
+| [ac-qa-reviewer](development/979-skill_f8939987/) | [Unknown](#) | N/A | `development` |
+| [Cicd Pipeline Guide](development/139-cicd_pipeline_guide_1a9081fd/) | [Unknown](#) | N/A | `development` |
+| [PDF Advanced Features Guide](development/674-pdf_advanced_features_88df9439/) | [Unknown](#) | N/A | `development` |
+| [agent-performance](development/979-skill_e4acd220/) | [Unknown](#) | N/A | `development` |
+| [Apex Security Guide](development/948-security-guide_ede31d4d/) | [Unknown](#) | N/A | `development` |
+| [Infrastructure As Code](development/472-infrastructure_as_code_82f85a94/) | [Unknown](#) | N/A | `development` |
+| [aks-automatic-2025](development/979-skill_a5030516/) | [Unknown](#) | N/A | `development` |
+| [ai-engineer-expert](development/979-skill_acc928ed/) | [Unknown](#) | N/A | `ai-engineering` `llm` `deployment` |
+| [verify_token](development/658-p6-risk-validation_123f8670/) | [Unknown](#) | N/A | `development` |
+| [agentic-structure](development/979-skill_b6bf1777/) | [Unknown](#) | N/A | `development` |
+| [Claude Command: Commit](development/174-commit_15f6d58c/) | [Unknown](#) | N/A | `development` |
+| [Security Architecture Patterns](development/953-security_architecture_patterns_86619c5f/) | [Unknown](#) | N/A | `development` |
+| [agent-review](development/979-skill_85b6f010/) | [Unknown](#) | N/A | `development` |
+| [Java Class Refactoring Assistant](development/296-devkitjavarefactor-class_3a77372a/) | [Unknown](#) | N/A | `development` |
+| [verify_token](development/658-p6-risk-validation_9cae2cdf/) | [Unknown](#) | N/A | `development` |
+| [Basic Extraction Examples](development/098-basic-extraction_8bf64104/) | [Unknown](#) | N/A | `daily assistant` |
+| [mcp-developer](development/979-skill_d6ccd35b/) | [Unknown](#) | N/A | `development` |
+| [Cryptography Implementation](development/243-cryptography_implementation_d4d994d2/) | [Unknown](#) | N/A | `development` |
+| [analyst](development/979-skill_5ea42875/) | [Unknown](#) | N/A | `development` |
+| [Worker](development/1152-worker_2d020372/) | [Unknown](#) | N/A | `content creation` |
+| [secure-code-guardian](development/979-skill_705b55f5/) | [Unknown](#) | N/A | `development` |
+| [feedback-mastery](development/979-skill_d0ee923a/) | [Unknown](#) | N/A | `development` |
+| [Analysis Checklist](development/035-analysis-checklist_8334f607/) | [Unknown](#) | N/A | `development` |
+| [password@cluster.mongodb.net/database?retryWrites=true&w=majority](development/603-mongodb-atlas_d37fea35/) | [Unknown](#) | N/A | `content creation` |
+| [my-app](development/884-reference-set-10-secrets-management_a861f937/) | [Unknown](#) | N/A | `development` |
+| [Spring Boot Integration with AWS KMS](development/1016-spring-boot-integration_7122ab40/) | [Unknown](#) | N/A | `development` |
+| [Secrets and Environment Variables](development/945-secrets_4d7b0a9f/) | [Unknown](#) | N/A | `development` |
+| [PyTorch Geometric Transforms Reference](development/1094-transforms_reference_44b55a1e/) | [Unknown](#) | N/A | `data analysis` |
+| [AWS アイコンとサービス名](development/081-aws-icons_a7d251ed/) | [Unknown](#) | N/A | `development` |
+| [PyMC Workflows and Common Patterns](development/1156-workflows_44864a30/) | [Unknown](#) | N/A | `data analysis` |
+| [Technology Evaluation Framework](development/1067-technology_evaluation_framework_0ae857e7/) | [Unknown](#) | N/A | `development` |
+| [Cloud Architecture Security Cheat Sheet](development/896-reference-set-ext-15-cloud-architecture_39cb4813/) | [Unknown](#) | N/A | `development` |
+| [AWS Secrets Manager API Reference](development/046-api-reference_7aa526f6/) | [Unknown](#) | N/A | `development` |
+| [AWS SDK for Java 2.x Developer Guide](development/282-developer-guide_2e4c3528/) | [Unknown](#) | N/A | `development` |
+| [aws-sdk-java-v2-lambda](development/979-skill_e87045dc/) | [Unknown](#) | N/A | `aws` `lambda` `java` |
+| [aws-sdk-java-v2-messaging](development/979-skill_52a9ea55/) | [Unknown](#) | N/A | `aws` `sqs` `sns` |
+| [architecture-designer](development/979-skill_02f0cb71/) | [Unknown](#) | N/A | `development` |
+| [agent-cloud-architect](development/979-skill_541dbce1/) | [Unknown](#) | N/A | `development` |
+| [Terraform Provider Configuration](development/737-providers_0eff7b26/) | [Unknown](#) | N/A | `development` |
+| [ack-resources](development/979-skill_44df54ee/) | [Unknown](#) | N/A | `development` |
+| [aws-cloudformation-s3](development/979-skill_8ee13c97/) | [Unknown](#) | N/A | `aws` `cloudformation` `s3` |
+| [Technology Decision Guide](development/1064-tech_decision_guide_a6a322d7/) | [Unknown](#) | N/A | `development` |
+| [password@localhost:5432/database](development/490-io_guide_0a3d7dd7/) | [Unknown](#) | N/A | `content creation` |
+| [Control Set 16: Cloud Security (CLOUD)](development/213-control-set-ext-15-cloud_80b98822/) | [Unknown](#) | N/A | `development` |
+| [cloud-architect](development/979-skill_62ee5a98/) | [Unknown](#) | N/A | `development` |
+| [Prompt Optimization](development/301-devkitprompt-optimize_21511e5e/) | [Unknown](#) | N/A | `development` |
+| [Performance Optimization](development/685-performance-optimization_a34ad5df/) | [Unknown](#) | N/A | `development` |
+| [python-pro](development/979-skill_bd7c3e09/) | [Unknown](#) | N/A | `development` |
+| [codebase-pattern-finder](development/166-codebase-pattern-finder_0a8d7abf/) | [Unknown](#) | N/A | `development` |
+| [route_to_returns](development/222-coverage-analysis_cbe5d6b8/) | [Unknown](#) | N/A | `development` |
+| [Statistical Tests and Diagnostics Reference](development/1025-stats_diagnostics_f4d8ec3c/) | [Unknown](#) | N/A | `data analysis` |
+| [Command Best Practices](development/102-best-practices_03b1b32e/) | [Unknown](#) | N/A | `content creation` |
+| [check-tools](development/979-skill_0d894969/) | [Unknown](#) | N/A | `development` |
+| [Testing Anti-Patterns](development/979-skill_fd926eeb/) | [Unknown](#) | N/A | `development` |
+| [Ticket Execution Workflow](development/350-execute-ticket_d227f12d/) | [Unknown](#) | N/A | `development` |
+| [abductive-analyst](development/979-skill_796cc043/) | [Unknown](#) | N/A | `content creation` |
+| [agent-python-pro](development/979-skill_206be13e/) | [Unknown](#) | N/A | `development` |
+| [Whitepaper: The Case for Prompt-Driven Development](development/1145-whitepaper_3b080f30/) | [Unknown](#) | N/A | `development` |
+| [analyze-issue](development/979-skill_09e4b872/) | [Unknown](#) | N/A | `development` |
+| [Quiz: Claude Skills Architecture and Development](development/761-quiz_f994f6ad/) | [Unknown](#) | N/A | `development` |
+| [PDF Page Detection and Chunking (Task B1.3)](development/675-pdf_chunking_1de046e5/) | [Unknown](#) | N/A | `development` |
+| [Datasets and Benchmarking](development/264-datasets_benchmarking_6e5f2382/) | [Unknown](#) | N/A | `content creation` |
+| [Biomarker Classification and Interpretation Guide](development/106-biomarker_classification_bfdebe27/) | [Unknown](#) | N/A | `development` |
+| [versioning-skills](development/979-skill_fcaefb3b/) | [Unknown](#) | N/A | `development` |
+| [str, arguments: dict) -> list[TextContent]:](development/744-python-sdk_395b3fce/) | [Unknown](#) | N/A | `development` |
+| [agent-quant-analyst](development/979-skill_2b8c3013/) | [Unknown](#) | N/A | `daily assistant` |
+| [str, arguments: dict) -> list[TextContent]:](development/055-architecture_b5fa8504/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code](development/279-design-review-claude-md-snippet_a67344d8/) | [Unknown](#) | N/A | `development` |
+| [Competing Risks Analysis](development/182-competing-risks_2d90218d/) | [Unknown](#) | N/A | `development` |
+| [Discovering Data with dbt show](development/308-discovering-data_c9eedadd/) | [Unknown](#) | N/A | `data analysis` |
+| [dbt Unit Test Fixtures](development/934-scenario_ed121739/) | [Unknown](#) | N/A | `development` |
+| [Scale Game](development/979-skill_43373c54/) | [Unknown](#) | N/A | `daily assistant` |
+| [Example YAML Error](development/934-scenario_5cb07599/) | [Unknown](#) | N/A | `development` |
+| [How to debug dbt error messages](development/267-debugging-dbt-errors_f542cf62/) | [Unknown](#) | N/A | `data analysis` |
+| [regulatory-affairs-head](development/979-skill_a8d25c87/) | [Unknown](#) | N/A | `daily assistant` |
+| [test_my_data_types](development/260-data_types_293587b7/) | [Unknown](#) | N/A | `development` |
+| [agentic-jumpstart-testing](development/979-skill_06a1ad47/) | [Unknown](#) | N/A | `development` |
+| [Assumption Classification](development/066-assumption-classification_01ed385d/) | [Unknown](#) | N/A | `development` |
+| [aws-sdk-java-v2-bedrock](development/979-skill_c3fad0a8/) | [Unknown](#) | N/A | `aws` `bedrock` `java` |
+| [Phase 7: Mitigation Planning](development/659-p7-mitigation-planning_f26ca73b/) | [Unknown](#) | N/A | `development` |
+| [PDD Sync Command: Architecture Analysis](development/1044-sync_architecture_analysis_4993077e/) | [Unknown](#) | N/A | `development` |
+| [TDD Best Practices](development/1061-tdd-best-practices_ee7a8aaa/) | [Unknown](#) | N/A | `development` |
+| [Spring Boot Integration Reference](development/1016-spring-boot-integration_dcfbba38/) | [Unknown](#) | N/A | `data analysis` |
+| [Agent Toolkit](development/1042-sync-branch_6333fd48/) | [Unknown](#) | N/A | `development` |
+| [How to Use the TDD Guide Skill](development/451-how_to_use_1257c94e/) | [Unknown](#) | N/A | `development` |
+| [`, `description:`, and `license:` fields](development/230-create-linkedin-announcement-skill_1c6a428e/) | [Unknown](#) | N/A | `data analysis` |
+| [🏆 Quality Bar & Validation Standards](development/748-quality_bar_6e74e4d9/) | [Unknown](#) | N/A | `development` |
+| [Chapters](development/468-index_438c717f/) | [Unknown](#) | N/A | `data analysis` |
+| [Per-component prompt configuration](development/681-per-component_prompt_configuration_70e3ec89plan_153938aa/) | [Unknown](#) | N/A | `development` |
+| [quality-manager-qms-iso13485](development/979-skill_97a3a879/) | [Unknown](#) | N/A | `daily assistant` |
+| [ISO 27001 ISMS Audit Methodology](development/491-iso27001-audit-methodology_52095d18/) | [Unknown](#) | N/A | `daily assistant` |
+| [ac-tdd-runner](development/979-skill_19d704ae/) | [Unknown](#) | N/A | `development` |
+| [acceptance-criteria-verification](development/979-skill_0f62cf79/) | [Unknown](#) | N/A | `development` |
+| [**](development/103-best_practices_02434213/) | [Unknown](#) | N/A | `development` |
+| [SPy Language - Dev Reference](development/140-claude_716e42ff/) | [Unknown](#) | N/A | `development` |
+| [MicroSim Index Generator Skill Updates Log](development/415-generate-microsim-index-skill_ae19faf7/) | [Unknown](#) | N/A | `daily assistant` |
+| [agentic-jumpstart-code-quality](development/979-skill_3ee0c394/) | [Unknown](#) | N/A | `development` |
+| [Abductive Mode](development/004-abductive_070f4c8e/) | [Unknown](#) | N/A | `development` |
+| [skill-seekers](development/110-bootstrap_skill_technical_82dfb4b6/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill Evaluation Tool - Developer Guide](development/028-agents_c1d8f02f/) | [Unknown](#) | N/A | `development` |
+| [Lamoom Python Project Guide](development/140-claude_34c30a58/) | [Unknown](#) | N/A | `development` |
+| [Suggest a Skill](development/979-skill_397b10e6/) | [Unknown](#) | N/A | `development` |
+| [abracon](development/979-skill_d5772e38/) | [Unknown](#) | N/A | `development` |
+| [Time Series Analysis Reference](development/1077-time_series_90461112/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-cross-review](development/979-skill_c3bb22b0/) | [Unknown](#) | N/A | `development` |
+| [ESM3 API Reference](development/344-esm3-api_ddad21af/) | [Unknown](#) | N/A | `development` |
+| [anti-reversing-techniques](development/979-skill_ce23acdc/) | [Unknown](#) | N/A | `development` |
+| [ralph-loop-init](development/979-skill_571041e8/) | [Unknown](#) | N/A | `development` |
+| [Apex Benchmarking Guide](development/101-benchmarking-guide_5ad61ae7/) | [Unknown](#) | N/A | `development` |
+| [TPL-GO Developer Guide](development/140-claude_c0361d65/) | [Unknown](#) | N/A | `development` |
+| [Test and Coverage](development/138-ci-integration_47cfd82b/) | [Unknown](#) | N/A | `development` |
+| [Anonymous Apex Guide](development/041-anonymous-apex-guide_63726248/) | [Unknown](#) | N/A | `development` |
+| [nestjs-database-expert](development/616-nestjs-database-expert_7aa88d59/) | [Unknown](#) | N/A | `development` |
+| [Troubleshooting Guide](development/1097-troubleshooting_d0fc1cae/) | [Unknown](#) | N/A | `content creation` |
+| [Diagnostic Reports Standards](development/304-diagnostic_reports_standards_c7086a49/) | [Unknown](#) | N/A | `data analysis` |
+| [ETE Toolkit API Reference](development/051-api_reference_b6da773e/) | [Unknown](#) | N/A | `content creation` |
+| [cpp-pro](development/979-skill_37bdf444/) | [Unknown](#) | N/A | `development` |
+| [AI Integration Plugin Development Guide](development/140-claude_fdf23362/) | [Unknown](#) | N/A | `development` |
+| [Release Notes](development/902-release_notes_322825b1/) | [Unknown](#) | N/A | `development` |
+| [sequential-thinking](development/979-skill_de82fdcf/) | [Unknown](#) | N/A | `development` |
+| [anchor-expert-2026](development/979-skill_e765d854/) | [Unknown](#) | N/A | `development` |
+| [Systematic Debugging](development/979-skill_48252adf/) | [Unknown](#) | N/A | `development` |
+| [str](development/1046-sync_solution_opus_c88cd137/) | [Unknown](#) | N/A | `data analysis` |
+| [general-debugger](development/404-general-debugger_a846c27a/) | [Unknown](#) | N/A | `development` |
+| [Planning dbt Models](development/692-planning-dbt-models_da9c9431/) | [Unknown](#) | N/A | `development` |
+| [Modal Functions](development/396-functions_744ec056/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/950-security-scan_24bedfc4/) | [Unknown](#) | N/A | `development` |
+| [ADR 003: Async-First Design](development/070-async-first_c2daa297/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md](development/140-claude_d8151fd7/) | [Unknown](#) | N/A | `development` |
+| [Common Ground](development/173-command_ae7f72d2/) | [Unknown](#) | N/A | `data analysis` |
+| [my_unit_test](development/340-ephemeral_dependency_9333220a/) | [Unknown](#) | N/A | `development` |
+| [algorand-vulnerability-scanner](development/979-skill_ab308eeb/) | [Unknown](#) | N/A | `development` |
+| [sf-debug Credits & Acknowledgments](development/239-credits_4f68d894/) | [Unknown](#) | N/A | `development` |
+| [test_my_data_types](development/260-data_types_82669225/) | [Unknown](#) | N/A | `development` |
+| [Equation Counting Bug Fix](development/341-equation_count_fix_e804b0bc/) | [Unknown](#) | N/A | `development` |
+| [str](development/1047-system-assessment_652749f4/) | [Unknown](#) | N/A | `development` |
+| [Standards Library - Claude Code Guidance](development/140-claude_e78fe9d9/) | [Unknown](#) | N/A | `development` |
+| [req-change-workflow](development/979-skill_a36a7cbe/) | [Unknown](#) | N/A | `development` |
+| [str):](development/346-evaluation_0c14e0ea/) | [Unknown](#) | N/A | `data analysis` |
+| [str  #](development/696-plugin-architecture_db7e7947/) | [Unknown](#) | N/A | `development` |
+| [code-reviewer](development/979-skill_afa58ef9/) | [Unknown](#) | N/A | `development` |
+| [amcs-{SKILL_NAME}-{ACTION}](development/979-skill_869aa534/) | [Unknown](#) | N/A | `development` |
+| [ai-collaborate-teaching](development/979-skill_26f0661e/) | [Unknown](#) | N/A | `development` |
+| [LangChain4j AI Services - API References](development/898-references_ae1ee1ec/) | [Unknown](#) | N/A | `development` |
+| [quality-documentation-manager](development/979-skill_51663346/) | [Unknown](#) | N/A | `daily assistant` |
+| [SF-Skills Orchestration Architecture](development/646-orchestration-architecture_5c6e62c3/) | [Unknown](#) | N/A | `development` |
+| [agentic-eval](development/979-skill_fb198a5c/) | [Unknown](#) | N/A | `development` |
+| [**Prompt-Driven Development: A Paradigm Shift in Software Engineering**](development/647-orig_whitepaper_57d4960e/) | [Unknown](#) | N/A | `development` |
+| [Geometric Operations](development/419-geometric-operations_f9d55230/) | [Unknown](#) | N/A | `development` |
+| [Skill Trigger Logging System](development/991-skill_trigger_logs_3043d64d/) | [Unknown](#) | N/A | `development` |
+| [ADAPTATION_GUIDE](development/979-skill_f271d87d/) | [Unknown](#) | N/A | `development` |
+| [adding-dbt-unit-test](development/979-skill_a68ce34d/) | [Unknown](#) | N/A | `development` |
+| [Selector Patterns: Query Abstraction in Vanilla Apex](development/956-selector-patterns_c2e47d36/) | [Unknown](#) | N/A | `development` |
+| [LLM Integration Guide for IntentKit](development/528-llm_a94e1db9/) | [Unknown](#) | N/A | `development` |
+| [test_my_data_types](development/260-data_types_d7eb96ce/) | [Unknown](#) | N/A | `data analysis` |
+| [Colin Development Guidelines](development/140-claude_cb67f37f/) | [Unknown](#) | N/A | `development` |
+| [Superpowers Research Findings: Integration Triage](development/1041-superpowers_research_findings_c22ab404/) | [Unknown](#) | N/A | `development` |
+| [example-server](development/1104-typescript-sdk_cc7b746f/) | [Unknown](#) | N/A | `development` |
+| [Test Results: Opus 4.5 (Baseline)](development/916-results-opus-baseline_8b6bd622/) | [Unknown](#) | N/A | `development` |
+| [CI](development/113-build-tooling_337ae8b6/) | [Unknown](#) | N/A | `development` |
+| [Perplexity Model Comparison](development/591-model_comparison_6460684e/) | [Unknown](#) | N/A | `development` |
+| [GLOBAL CODING STANDARDS](development/140-claude_17c5260c/) | [Unknown](#) | N/A | `development` |
+| [rust-engineer](development/979-skill_57d94a61/) | [Unknown](#) | N/A | `development` |
+| [test-master](development/979-skill_9e901cb7/) | [Unknown](#) | N/A | `development` |
+| [ai-development-guide](development/979-skill_805bfc69/) | [Unknown](#) | N/A | `development` |
+| [SimPy Real-Time Simulations](development/824-real-time_70c08f55/) | [Unknown](#) | N/A | `content creation` |
+| [Complete Epic Workflow](development/183-complete-epic_6518c2d9/) | [Unknown](#) | N/A | `development` |
+| [Ticket Execution Workflow](development/350-execute-ticket_6a98e442/) | [Unknown](#) | N/A | `development` |
+| [PyDESeq2 API Reference](development/051-api_reference_0af6421d/) | [Unknown](#) | N/A | `data analysis` |
+| [Caveats for Redshift](development/128-caveats_5bec6b91/) | [Unknown](#) | N/A | `development` |
+| [str = typer.Argument(..., help=](development/741-python-cli_8d743189/) | [Unknown](#) | N/A | `development` |
+| [140-claude_f32703df](development/140-claude_f32703df/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-repl](development/979-skill_ed6c8361/) | [Unknown](#) | N/A | `development` |
+| [S3 Spring Boot Integration Reference](development/928-s3-spring-boot-integration_ff313843/) | [Unknown](#) | N/A | `development` |
+| [debugging-wizard](development/979-skill_375d2a6a/) | [Unknown](#) | N/A | `development` |
+| [answering-natural-language-questions-with-dbt](development/979-skill_5b179af6/) | [Unknown](#) | N/A | `content creation` |
+| [ai-tuning](development/979-skill_ad23e398/) | [Unknown](#) | N/A | `development` |
+| [Distractor Writing Guide](development/312-distractor-writing-guide_63f89064/) | [Unknown](#) | N/A | `data analysis` |
+| [tdd-guide](development/979-skill_313ee021/) | [Unknown](#) | N/A | `development` |
+| [Document Control Procedures](development/316-document-control-procedures_ca4ba54d/) | [Unknown](#) | N/A | `development` |
+| [Maven Profiles → Gradle Equivalents](development/712-profiles_27b204f9/) | [Unknown](#) | N/A | `daily assistant` |
+| [Prompt-Driven Development: Solving the Software Maintenance Crisis](development/619-new_whitepaper_bdbf8bcd/) | [Unknown](#) | N/A | `development` |
+| [dbt Unit Test Format Choice](development/934-scenario_ce0a01ed/) | [Unknown](#) | N/A | `development` |
+| [agent-tooling-engineer](development/979-skill_6648fe2c/) | [Unknown](#) | N/A | `development` |
+| [Test Generation Benchmark Analysis](development/034-analysis_6979569d/) | [Unknown](#) | N/A | `development` |
+| [Test Generation Benchmark: Code-based vs TDD](development/307-discord_summary_11904d1f/) | [Unknown](#) | N/A | `development` |
+| [Log Analysis Tools](development/535-log-analysis-tools_165ab18b/) | [Unknown](#) | N/A | `data analysis` |
+| [Quality System Regulation (QSR) Compliance](development/746-qsr_compliance_requirements_e8781784/) | [Unknown](#) | N/A | `development` |
+| [AI Instruction File Standards Guide](development/979-skill_21229d90/) | [Unknown](#) | N/A | `development` |
+| [Experimentation](development/353-experimentation_b6eed1d8/) | [Unknown](#) | N/A | `development` |
+| [Foundations Workflow](development/390-foundations_93efd0c4/) | [Unknown](#) | N/A | `development` |
+| [analyze-test-results](development/979-skill_28d602b5/) | [Unknown](#) | N/A | `development` |
+| [test_my_model_overrides](development/1008-special_case_overrides_8f909542/) | [Unknown](#) | N/A | `development` |
+| [Quality KPI Framework](development/747-quality-kpi-framework_f671eacf/) | [Unknown](#) | N/A | `daily assistant` |
+| [agent-workflow](development/979-skill_fc8d0ec7/) | [Unknown](#) | N/A | `development` |
+| [EDSL Codebase Reference](development/140-claude_b7f6b8de/) | [Unknown](#) | N/A | `development` |
+| [TileLang Debugging & Troubleshooting Guide](development/266-debugging_ed1ca98e/) | [Unknown](#) | N/A | `development` |
+| [agent-chaos-engineer](development/979-skill_04cbd5aa/) | [Unknown](#) | N/A | `content creation` |
+| [Single-Cell RNA-seq Models](development/597-models-scrna-seq_850c3037/) | [Unknown](#) | N/A | `development` |
+| [Prompt Optimization](development/728-prompt-optimization_ccc38e0e/) | [Unknown](#) | N/A | `content creation` |
+| [FluidSim Solvers](development/1000-solvers_3abe7116/) | [Unknown](#) | N/A | `development` |
+| [test_my_data_types](development/260-data_types_be4f2f6c/) | [Unknown](#) | N/A | `development` |
+| [Interface Design and Composition](development/484-interfaces_0cc55637/) | [Unknown](#) | N/A | `development` |
+| [PDD Internal Onboarding](development/636-onboarding_internal_1f3be336/) | [Unknown](#) | N/A | `development` |
+| [Phase 7: Mitigation Planning](development/659-p7-mitigation-planning_1298c002/) | [Unknown](#) | N/A | `development` |
+| [Reusable Subflow Library](development/1035-subflow-library_345fdb59/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-test-gen](development/979-skill_f3e5a289/) | [Unknown](#) | N/A | `development` |
+| [agentic-jumpstart-architecture](development/979-skill_e4b7fcf2/) | [Unknown](#) | N/A | `development` |
+| [DNAnexus App Development](development/052-app-development_94f5db3d/) | [Unknown](#) | N/A | `development` |
+| [Multi-Skill Orchestration: sf-data Perspective](development/645-orchestration_cd16f94c/) | [Unknown](#) | N/A | `development` |
+| [Collision-Zone Thinking](development/979-skill_416850bf/) | [Unknown](#) | N/A | `development` |
+| [Session Log: Fix Equation Count Algorithm](development/384-fix-equation-count-algorithm_a67793c5/) | [Unknown](#) | N/A | `development` |
+| [ralph-plan](development/979-skill_f7b53c81/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/701-pr_6df8aa77/) | [Unknown](#) | N/A | `development` |
+| [my_incremental_model_full_refresh_mode](development/467-incremental_model_9264d0be/) | [Unknown](#) | N/A | `development` |
+| [AWS MCP Server Development Guide](development/140-claude_2781e56c/) | [Unknown](#) | N/A | `development` |
+| [COMPLIANCE_VALIDATION](development/979-skill_76b16635/) | [Unknown](#) | N/A | `development` |
+| [agent-ux-researcher](development/979-skill_c17b5ebf/) | [Unknown](#) | N/A | `content creation` |
+| [agentic-design](development/979-skill_0d5443b3/) | [Unknown](#) | N/A | `development` |
+| [Validator](development/1121-validator_4e005d7d/) | [Unknown](#) | N/A | `development` |
+| [Performance Optimization for Apex Tests](development/685-performance-optimization_a39c9099/) | [Unknown](#) | N/A | `development` |
+| [Common Ground: Context Engineering for Claude](development/177-common_ground_3e3460de/) | [Unknown](#) | N/A | `data analysis` |
+| [brainstorming](development/979-skill_206c63e8/) | [Unknown](#) | N/A | `content creation` |
+| [AWS SQS & SNS Official Documentation Reference](development/082-aws-official-documentation_894e6453/) | [Unknown](#) | N/A | `development` |
+| [debugging](development/979-skill_303e6a9f/) | [Unknown](#) | N/A | `development` |
+| [monitoring-expert](development/979-skill_e0c78e32/) | [Unknown](#) | N/A | `development` |
+| [Complete Epic Workflow](development/183-complete-epic_9bf15999/) | [Unknown](#) | N/A | `development` |
+| [Edit File Tool](development/325-edit_file_tool_readme_fbb8b487/) | [Unknown](#) | N/A | `development` |
+| [Credits & Acknowledgments](development/239-credits_7c28286e/) | [Unknown](#) | N/A | `development` |
+| [str](development/1142-web-endpoints_6ab0419d/) | [Unknown](#) | N/A | `development` |
+| [Quantum Machine Learning with PennyLane](development/751-quantum_ml_6a199120/) | [Unknown](#) | N/A | `development` |
+| [synapse-action-development](development/979-skill_4f98d92a/) | [Unknown](#) | N/A | `development` |
+| [Dask Bags](development/097-bags_5ff94d54/) | [Unknown](#) | N/A | `data analysis` |
+| [python-code-review-expert](development/742-python-code-review-expert_82ef83fd/) | [Unknown](#) | N/A | `development` |
+| [Pipelines and Composite Estimators Reference](development/690-pipelines_and_composition_c856b5b2/) | [Unknown](#) | N/A | `data analysis` |
+| [Quantum Algorithms and Applications](development/032-algorithms_06f48e2a/) | [Unknown](#) | N/A | `data analysis` |
+| [Plotly Express - High-Level API](development/694-plotly-express_0f34b1a9/) | [Unknown](#) | N/A | `data analysis` |
+| [Modal Images](development/461-images_3b454afd/) | [Unknown](#) | N/A | `development` |
+| [annotations](development/979-skill_916e8c02/) | [Unknown](#) | N/A | `development` |
+| [Pandas to Polars Migration Guide](development/664-pandas_migration_47e56431/) | [Unknown](#) | N/A | `data analysis` |
+| [Data Cleaning](development/253-data-cleaning_99468b76/) | [Unknown](#) | N/A | `data analysis` |
+| [docker-expert](development/405-general-docker-expert_ddf9bdb1/) | [Unknown](#) | N/A | `development` |
+| [Circuit Transformations](development/1092-transformation_f77c2709/) | [Unknown](#) | N/A | `data analysis` |
+| [Specialized Skills](development/468-index_24864b39/) | [Unknown](#) | N/A | `development` |
+| [TileLang API Reference](development/051-api_reference_519ca249/) | [Unknown](#) | N/A | `development` |
+| [Evaluation Metrics for Survival Models](development/347-evaluation-metrics_25010e4c/) | [Unknown](#) | N/A | `data analysis` |
+| [migrating-dbt-core-to-fusion](development/979-skill_e2139a1b/) | [Unknown](#) | N/A | `development` |
+| [Zarr Python Quick Reference](development/051-api_reference_68d983ea/) | [Unknown](#) | N/A | `development` |
+| [bio-alignment-sorting](development/979-skill_12695478/) | [Unknown](#) | N/A | `development` |
+| [Model Selection and Evaluation Reference](development/592-model_evaluation_246f20f8/) | [Unknown](#) | N/A | `data analysis` |
+| [Machine Learning Integration](development/541-machine_learning_defc2eaf/) | [Unknown](#) | N/A | `development` |
+| [Embedding Models](development/332-embedding-models_a840774b/) | [Unknown](#) | N/A | `data analysis` |
+| [Project Development](development/716-project-development_efc40a21/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill Seekers Feature Matrix](development/367-feature_matrix_4439bd68/) | [Unknown](#) | N/A | `development` |
+| [GPU Acceleration on Modal](development/436-gpu_12c866f9/) | [Unknown](#) | N/A | `daily assistant` |
+| [Generate Skills](development/427-git_config_sources_02e77e70/) | [Unknown](#) | N/A | `development` |
+| [Filters and Preprocessing](development/381-filters_preprocessing_c58c2649/) | [Unknown](#) | N/A | `data analysis` |
+| [Dask DataFrames](development/262-dataframes_e80128e5/) | [Unknown](#) | N/A | `development` |
+| [ADR 018: Storage Architecture](development/1027-storage-architecture_aeb498ee/) | [Unknown](#) | N/A | `data analysis` |
+| [Docker Patterns](development/315-docker-patterns_b6ccc98c/) | [Unknown](#) | N/A | `data analysis` |
+| [Backend Technologies](development/093-backend-technologies_5f208251/) | [Unknown](#) | N/A | `data analysis` |
+| [Quick Reference - Skill Seekers Cheat Sheet](development/757-quick_reference_3a8993cb/) | [Unknown](#) | N/A | `development` |
+| [Paper2Video: Presentation Video Generation](development/665-paper2video_02a6782e/) | [Unknown](#) | N/A | `data analysis` |
+| [Python API Reference](development/740-python-api_262007a6/) | [Unknown](#) | N/A | `content creation` |
+| [Signal Processing](development/977-signal_processing_5feeef75/) | [Unknown](#) | N/A | `data analysis` |
+| [Getting Started with PennyLane](development/423-getting_started_0d7c06f8/) | [Unknown](#) | N/A | `development` |
+| [str =](development/919-retrieval-optimization_caca467d/) | [Unknown](#) | N/A | `content creation` |
+| [python-security-expert](development/745-python-security-expert_02b4c520/) | [Unknown](#) | N/A | `development` |
+| [Spike Sorting Reference](development/1014-spike_sorting_a1d975f3/) | [Unknown](#) | N/A | `data analysis` |
+| [Mental Models Reference](development/571-mental-models_c47d90e5/) | [Unknown](#) | N/A | `data analysis` |
+| [Data Preprocessing and Feature Engineering Reference](development/707-preprocessing_b40925db/) | [Unknown](#) | N/A | `data analysis` |
+| [LangGraphJS Development Guide](development/140-claude_6c19d749/) | [Unknown](#) | N/A | `development` |
+| [Repository Guidelines](development/028-agents_ed94fc76/) | [Unknown](#) | N/A | `development` |
+| [add-component](development/979-skill_50ba9a6c/) | [Unknown](#) | N/A | `development` |
+| [my-skill-name](development/984-skill_anatomy_2d2d0e20/) | [Unknown](#) | N/A | `react` `typescript` |
+| [ui-design-system](development/979-skill_0ce37ac6/) | [Unknown](#) | N/A | `development` |
+| [add-global](development/979-skill_df666a28/) | [Unknown](#) | N/A | `data analysis` |
+| [Three.js Materials](development/551-materials_940fda0f/) | [Unknown](#) | N/A | `development` |
+| [microsim-add-icons](development/979-skill_73554a85/) | [Unknown](#) | N/A | `development` |
+| [Salesforce Files Data Model Template](development/377-files-erd_8f5a9412/) | [Unknown](#) | N/A | `content creation` |
+| [Security Headers](development/949-security-headers_59333cf6/) | [Unknown](#) | N/A | `development` |
+| [Testing Framework Guide](development/392-framework-guide_1a437067/) | [Unknown](#) | N/A | `development` |
+| [$customer.name](development/602-mongodb-aggregation_b7cca207/) | [Unknown](#) | N/A | `data analysis` |
+| [web-frontend](development/979-skill_ceb395f1/) | [Unknown](#) | N/A | `development` |
+| [add-section](development/979-skill_cbd7e6a7/) | [Unknown](#) | N/A | `development` |
+| [abaqus-bc](development/979-skill_22885c37/) | [Unknown](#) | N/A | `development` |
+| [developer-growth-analysis](development/979-skill_8117a9dc/) | [Unknown](#) | N/A | `development` |
+| [webapp-testing](development/979-skill_6d87d1c8/) | [Unknown](#) | N/A | `development` |
+| [Suggest Timeline Placement](development/1037-suggest-timeline-placement_4c885549/) | [Unknown](#) | N/A | `development` |
+| [Opentrons Python Protocol API v2 Reference](development/051-api_reference_b4162502/) | [Unknown](#) | N/A | `development` |
+| [add-resource-events](development/979-skill_75d24c6c/) | [Unknown](#) | N/A | `data analysis` |
+| [nextjs-developer](development/979-skill_4403a9e8/) | [Unknown](#) | N/A | `development` |
+| [Distance Metrics](development/311-distances_1b9a0371/) | [Unknown](#) | N/A | `content creation` |
+| [abaqus-thermal-analysis](development/979-skill_e094afa6/) | [Unknown](#) | N/A | `development` |
+| [naming-analyzer](development/979-skill_6c4ce79f/) | [Unknown](#) | N/A | `development` |
+| [Hooks](development/140-claude_a7982489/) | [Unknown](#) | N/A | `development` |
+| [Meeting Structures for Developers](development/570-meeting-structures_6946adf5/) | [Unknown](#) | N/A | `daily assistant` |
+| [light](development/283-developer-handoff_14087541/) | [Unknown](#) | N/A | `development` |
+| [prompt-engineer](development/979-skill_5c5234bc/) | [Unknown](#) | N/A | `development` |
+| [angular-directives](development/979-skill_57ee173a/) | [Unknown](#) | N/A | `development` |
+| [Fix & Debugging](development/289-devkitfix-debugging_e5ef935b/) | [Unknown](#) | N/A | `development` |
+| [Whitepaper: The Case for Prompt-Driven Development](development/1147-whitepaper_w_benchmarks_810ba971/) | [Unknown](#) | N/A | `development` |
+| [analyze-performance](development/979-skill_bc3636d9/) | [Unknown](#) | N/A | `development` |
+| [safe-file-deletion](development/001-01-17-safe-file-deletion-impl_e8f98666/) | [Unknown](#) | N/A | `development` |
+| [agent-handoffs](development/979-skill_74057d68/) | [Unknown](#) | N/A | `content creation` |
+| [adaptive-ux-scheduling](development/979-skill_ce56e90f/) | [Unknown](#) | N/A | `daily assistant` |
+| [frontend-dev-guidelines](development/979-skill_646f2fb6/) | [Unknown](#) | N/A | `development` |
+| [Performance Optimization](development/682-performance_49cc1262/) | [Unknown](#) | N/A | `development` |
+| [MCP（模型上下文协议）全面指南与操作手册](development/563-mcp_opera_6558028c/) | [Unknown](#) | N/A | `development` |
+| [PyHealth Medical Code Translation](development/567-medical_coding_64510b53/) | [Unknown](#) | N/A | `development` |
+| [Design Pattern Detection Guide](development/671-pattern_detection_3784af51/) | [Unknown](#) | N/A | `development` |
+| [wordpress-sage-theme](development/979-skill_756c788f/) | [Unknown](#) | N/A | `content creation` |
+| [1k-coding-patterns](development/979-skill_9ede29ea/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-fe-gen](development/979-skill_ca2ee949/) | [Unknown](#) | N/A | `daily assistant` |
+| [3d-bin-packing](development/979-skill_1803fb55/) | [Unknown](#) | N/A | `development` |
+| [string, email: string): User {](development/191-configuration_4ba4a376/) | [Unknown](#) | N/A | `development` |
+| [abaqus-static-analysis](development/979-skill_b42b3e09/) | [Unknown](#) | N/A | `development` |
+| [agent-code-reviewer](development/979-skill_55a01d20/) | [Unknown](#) | N/A | `development` |
+| [Common SMARTS Patterns for RDKit](development/998-smarts_patterns_03760a7b/) | [Unknown](#) | N/A | `content creation` |
+| [admin-panel-builder](development/979-skill_c253cca8/) | [Unknown](#) | N/A | `development` |
+| [agent-ui-designer](development/979-skill_b7ae4fd1/) | [Unknown](#) | N/A | `data analysis` |
+| [Architecture Patterns & Best Practices](development/058-architecture-patterns_c9e7d0c0/) | [Unknown](#) | N/A | `development` |
+| [card;](development/914-responsive-calculations_f15fcf79/) | [Unknown](#) | N/A | `content creation` |
+| [SEO Optimizer](development/979-skill_af636bb8/) | [Unknown](#) | N/A | `content creation` |
+| [Eloquent ORM](development/330-eloquent_2b38872c/) | [Unknown](#) | N/A | `content creation` |
+| [SymPy Advanced Topics](development/021-advanced-topics_212b3d0c/) | [Unknown](#) | N/A | `data analysis` |
+| [Course Description Quality Assessment](development/220-course-description-assessment_2635754b/) | [Unknown](#) | N/A | `development` |
+| [string,](development/732-protocol_967f215e/) | [Unknown](#) | N/A | `development` |
+| [SimPy Monitoring and Data Collection](development/604-monitoring_11523091/) | [Unknown](#) | N/A | `development` |
+| [Marp Slide Creation Best Practices](development/102-best-practices_651662ce/) | [Unknown](#) | N/A | `content creation` |
+| [chromium](development/1132-visual-regression_22cdd889/) | [Unknown](#) | N/A | `development` |
+| [Debugging Strategies](development/1030-strategies_2a28d131/) | [Unknown](#) | N/A | `development` |
+| [1k-date-formatting](development/979-skill_bd1dffca/) | [Unknown](#) | N/A | `development` |
+| [formData.get(](development/348-event-handlers_a118e551/) | [Unknown](#) | N/A | `development` |
+| [analytics-events](development/979-skill_bbe4f16e/) | [Unknown](#) | N/A | `development` |
+| [Math Utilities](development/554-math_a870178b/) | [Unknown](#) | N/A | `development` |
+| [typescript-pro](development/979-skill_1b7d4082/) | [Unknown](#) | N/A | `development` |
+| [String { get }](development/733-protocol-oriented_f8be1afd/) | [Unknown](#) | N/A | `development` |
+| [str):](development/1029-strangler-fig-pattern_a802264c/) | [Unknown](#) | N/A | `development` |
+| [angular-signals](development/979-skill_41f57f82/) | [Unknown](#) | N/A | `data analysis` |
+| [writing-skills](development/979-skill_652e5612/) | [Unknown](#) | N/A | `development` |
+| [add-social-media-header](development/979-skill_dfeeefdd/) | [Unknown](#) | N/A | `content creation` |
+| [your_index](development/320-documentation-systems_b12392c0/) | [Unknown](#) | N/A | `development` |
+| [ablic](development/979-skill_b19fd41f/) | [Unknown](#) | N/A | `development` |
+| [Add Tests: $ARGUMENTS](development/979-skill_c8810f4f/) | [Unknown](#) | N/A | `development` |
+| [mui](development/979-skill_d1a9a067/) | [Unknown](#) | N/A | `development` |
+| [agent-error-detective](development/979-skill_a4af8d54/) | [Unknown](#) | N/A | `daily assistant` |
+| [agent-creator](development/979-skill_8304715e/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-code-adapter](development/979-skill_dc3a1ce5/) | [Unknown](#) | N/A | `development` |
+| [add-atom](development/979-skill_91aa10eb/) | [Unknown](#) | N/A | `data analysis` |
+| [CLAUDE.md](development/140-claude_d2eda093/) | [Unknown](#) | N/A | `development` |
+| [When Stuck - Problem-Solving Dispatch](development/979-skill_3f5dd9d0/) | [Unknown](#) | N/A | `development` |
+| [Submit](development/268-debugging-flaky_e559423d/) | [Unknown](#) | N/A | `development` |
+| [Verify Skill: $1](development/303-devkitverify-skill_4eaa78fc/) | [Unknown](#) | N/A | `development` |
+| [Unity Development Patterns](development/1110-unity-patterns_0f8b0ffa/) | [Unknown](#) | N/A | `data analysis` |
+| [/submit/i }));](development/393-frontend-patterns_fc4b8676/) | [Unknown](#) | N/A | `development` |
+| [refactor-for-determinism](development/979-skill_e9d4f694/) | [Unknown](#) | N/A | `development` |
+| [Quiz: Interactive Elements and MicroSims](development/761-quiz_9da01f5e/) | [Unknown](#) | N/A | `development` |
+| [RxJS Patterns](development/927-rxjs_b1306089/) | [Unknown](#) | N/A | `data analysis` |
+| [react-useeffect](development/979-skill_f31e9925/) | [Unknown](#) | N/A | `data analysis` |
+| [add-card](development/979-skill_f038fbcb/) | [Unknown](#) | N/A | `development` |
+| [Adaptive Bitrate Streaming](development/979-skill_44a14e7d/) | [Unknown](#) | N/A | `development` |
+| [agentstack-server-debugging](development/979-skill_d3b200fe/) | [Unknown](#) | N/A | `development` |
+| [` field from frontmatter:**](development/014-add-skill_d31c0705/) | [Unknown](#) | N/A | `content creation` |
+| [perplexity](development/979-skill_e7c8c405/) | [Unknown](#) | N/A | `development` |
+| [Cleanup and Rollback Guide](development/145-cleanup-rollback-guide_bca14308/) | [Unknown](#) | N/A | `data analysis` |
+| [return None](development/703-pr_160_review_86c6a066/) | [Unknown](#) | N/A | `development` |
+| [Chart Customization Instructions](development/251-customization_46fc8143/) | [Unknown](#) | N/A | `development` |
+| [Anime.js v4 Reference Guide for AI Assistants](development/040-animejs_d9087e59/) | [Unknown](#) | N/A | `development` |
+| [MicroSim Add Icons](development/577-microsim-add-icons_a110cd10/) | [Unknown](#) | N/A | `development` |
+| [admin-interface-rules](development/979-skill_2cc11647/) | [Unknown](#) | N/A | `development` |
+| [agent-cost-optimizer](development/979-skill_a141d78d/) | [Unknown](#) | N/A | `development` |
+| [embedded-systems](development/979-skill_18ae2699/) | [Unknown](#) | N/A | `development` |
+| [skill-name-with-hyphens](development/140-claude_8949196f/) | [Unknown](#) | N/A | `content creation` |
+| [algo-sensei](development/979-skill_c4174b2e/) | [Unknown](#) | N/A | `development` |
+| [javascript-pro](development/979-skill_6e9ea4be/) | [Unknown](#) | N/A | `development` |
+| [Concurrency and Parallel Programming](development/189-concurrency_cb772cec/) | [Unknown](#) | N/A | `daily assistant` |
+| [ag-grid-patterns](development/979-skill_d985f073/) | [Unknown](#) | N/A | `development` |
+| [tech-stack-evaluator](development/979-skill_e87d3b2b/) | [Unknown](#) | N/A | `development` |
+| [Medical Terminology and Coding Standards](development/569-medical_terminology_1e74a3c7/) | [Unknown](#) | N/A | `content creation` |
+| [ai-generation-client](development/979-skill_2e338124/) | [Unknown](#) | N/A | `development` |
+| [Campaigns Data Model Template](development/121-campaigns-erd_9da1c770/) | [Unknown](#) | N/A | `data analysis` |
+| [react-expert](development/979-skill_96a5556b/) | [Unknown](#) | N/A | `development` |
+| [Plugin Development Workflows](development/1156-workflows_23851bc5/) | [Unknown](#) | N/A | `development` |
+| [moving-rainbow](development/979-skill_a197d854/) | [Unknown](#) | N/A | `development` |
+| [TDD Iron Laws](development/1062-tdd-iron-laws_1f719ea7/) | [Unknown](#) | N/A | `development` |
+| [Use the NestJS Expert to help me...](development/760-quickstart_572d1f64/) | [Unknown](#) | N/A | `development` |
+| [agent-cpp-pro](development/979-skill_2812c7fd/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-spec-governor](development/979-skill_d2950832/) | [Unknown](#) | N/A | `development` |
+| [code-analyzer](development/102-best-practices_15e8dec6/) | [Unknown](#) | N/A | `development` |
+| [PyTorch Geometric Neural Network Layers Reference](development/518-layers_reference_f8a26298/) | [Unknown](#) | N/A | `development` |
+| [agent-data-scientist](development/979-skill_11df5801/) | [Unknown](#) | N/A | `daily assistant` |
+| [str](development/1024-state-tree-progress_f26fd6cd/) | [Unknown](#) | N/A | `development` |
+| [2d-cutting-stock](development/979-skill_32a7c705/) | [Unknown](#) | N/A | `data analysis` |
+| [Add InputData.type_metadata Field Feature](development/015-add_inputdata_type_metadata_field_feature_9e830d3eplan_2bc986a5/) | [Unknown](#) | N/A | `daily assistant` |
+| [general-refactor-expert](development/407-general-refactor-expert_d9ad5ed0/) | [Unknown](#) | N/A | `development` |
+| [Callbacks - Comprehensive Guide](development/119-callbacks_aa2140e7/) | [Unknown](#) | N/A | `development` |
+| [code-reviewer](development/979-skill_428a98e3/) | [Unknown](#) | N/A | `development` |
+| [Add Hook: $ARGUMENTS](development/979-skill_ed8fea7b/) | [Unknown](#) | N/A | `data analysis` |
+| [book-installer`](development/013-add-help-to-book-installer_fdfc606b/) | [Unknown](#) | N/A | `development` |
+| [Defense-in-Depth Validation](development/979-skill_26b67533/) | [Unknown](#) | N/A | `development` |
+| [Tool Design](development/1086-tool-design_91d38658/) | [Unknown](#) | N/A | `development` |
+| [aceternity-ui-configuration](development/979-skill_c137fa9f/) | [Unknown](#) | N/A | `development` |
+| [cs-product-manager](development/245-cs-product-manager_aa599ef3/) | [Unknown](#) | N/A | `data analysis` |
+| [Simplification Cascades](development/979-skill_57417c2d/) | [Unknown](#) | N/A | `development` |
+| [QuTiP Advanced Features](development/018-advanced_afd329f6/) | [Unknown](#) | N/A | `data analysis` |
+| [string;](development/416-generic-components_6d2f3bc5/) | [Unknown](#) | N/A | `development` |
+| [Comm Project Development Guide](development/140-claude_10e9cf61/) | [Unknown](#) | N/A | `development` |
+| [Spec Compliance Review](development/1006-spec-compliance-review_a5fcb93e/) | [Unknown](#) | N/A | `development` |
+| [Astronomical Coordinates (astropy.coordinates)](development/217-coordinates_1fa1b5a1/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-code-assembler](development/979-skill_38946a02/) | [Unknown](#) | N/A | `development` |
+| [admin-crud](development/979-skill_c947395f/) | [Unknown](#) | N/A | `content creation` |
+| [add-dependency](development/979-skill_73263c50/) | [Unknown](#) | N/A | `development` |
+| [Create Pull Request Command](development/232-create-pr_69575000/) | [Unknown](#) | N/A | `development` |
+| [Annotated[](development/715-progressive_disclosure_deb86226/) | [Unknown](#) | N/A | `development` |
+| [Go CLI Development](development/431-go-cli_19f1ca6e/) | [Unknown](#) | N/A | `development` |
+| [z.string().min(1,](development/176-common-patterns_94103005/) | [Unknown](#) | N/A | `development` |
+| [discover-codebase-enhancements](development/979-skill_d68db1ee/) | [Unknown](#) | N/A | `development` |
+| [My App](development/590-mobile-hybrid_086f4685/) | [Unknown](#) | N/A | `development` |
+| [Quiz: Course Design and Educational Theory](development/761-quiz_eeb7108e/) | [Unknown](#) | N/A | `data analysis` |
+| [Model ID Lookup Guide](development/596-models-lookup_6b62e9b5/) | [Unknown](#) | N/A | `content creation` |
+| [advanced-typescript-patterns](development/979-skill_59572c87/) | [Unknown](#) | N/A | `development` |
+| [{{SKILL_NAME}}](development/587-minimal-starter_ee5444fb/) | [Unknown](#) | N/A | `development` |
+| [abaqus-load](development/979-skill_05d64d69/) | [Unknown](#) | N/A | `development` |
+| [dbt Job Failure Debugging](development/934-scenario_58b295d2/) | [Unknown](#) | N/A | `development` |
+| [agent-mcp-developer](development/979-skill_bd795662/) | [Unknown](#) | N/A | `development` |
+| [mapping-codebases](development/979-skill_4cfbb3b0/) | [Unknown](#) | N/A | `development` |
+| [typescript-documentation-expert](development/1102-typescript-documentation-expert_34e891ae/) | [Unknown](#) | N/A | `development` |
+| [agent-embedded-systems](development/979-skill_148b5b84/) | [Unknown](#) | N/A | `development` |
+| [akm](development/979-skill_e914029f/) | [Unknown](#) | N/A | `development` |
+| [vue-expert](development/979-skill_79fde63b/) | [Unknown](#) | N/A | `development` |
+| [code-roaster](development/979-skill_46b09322/) | [Unknown](#) | N/A | `development` |
+| [next-js-developer](development/979-skill_1d4cf93d/) | [Unknown](#) | N/A | `development` |
+| [Camera Controls (Addons)](development/216-controls_3616fb63/) | [Unknown](#) | N/A | `development` |
+| [Certificate of Completion Generator](development/468-index_fb664ce0/) | [Unknown](#) | N/A | `development` |
+| [web-testing](development/979-skill_a8f6e915/) | [Unknown](#) | N/A | `development` |
+| [agentic-patterns](development/979-skill_4f7d98de/) | [Unknown](#) | N/A | `development` |
+| [Course Builder Development Guide](development/140-claude_e6a7cf13/) | [Unknown](#) | N/A | `development` |
+| [postgres-database](development/693-platform-engineering_1256d7f0/) | [Unknown](#) | N/A | `development` |
+| [Technology Evaluation Workflows](development/1156-workflows_308bcee3/) | [Unknown](#) | N/A | `development` |
+| [Updates to Learning Graph Viewer Installer Skill](development/1112-updates-to-learing-graph-installer_90a2f2f8/) | [Unknown](#) | N/A | `development` |
+| [Interview Protocol](development/487-interview-protocol_6c906a7d/) | [Unknown](#) | N/A | `development` |
+| [allegro](development/979-skill_cfed156a/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/780-readme_flat_claude-md_updated_33258bb6/) | [Unknown](#) | N/A | `development` |
+| [angular-testing](development/979-skill_0a38c4d5/) | [Unknown](#) | N/A | `development` |
+| [Advanced Typescript Type Level](development/979-skill_b894f26a/) | [Unknown](#) | N/A | `development` |
+| [angular-expert](development/979-skill_e84521c2/) | [Unknown](#) | N/A | `development` |
+| [Bug Report](development/111-bug-report_4cb0860f/) | [Unknown](#) | N/A | `development` |
+| [ai-prompt-manager](development/979-skill_6c59628e/) | [Unknown](#) | N/A | `development` |
+| [add-event-type](development/979-skill_5e47a63c/) | [Unknown](#) | N/A | `development` |
+| [Regions of Interest (ROIs)](development/923-rois_79e1033d/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-skill-creator](development/979-skill_eb57119c/) | [Unknown](#) | N/A | `development` |
+| [plugin-forge](development/979-skill_8179b934/) | [Unknown](#) | N/A | `development` |
+| [agent-legacy-modernizer](development/979-skill_e4892db9/) | [Unknown](#) | N/A | `development` |
+| [/search](development/764-react-router_b554c7f6/) | [Unknown](#) | N/A | `development` |
+| [concept-classifier](development/979-skill_7341ca1e/) | [Unknown](#) | N/A | `content creation` |
+| [agent-php-pro](development/979-skill_5a5c929c/) | [Unknown](#) | N/A | `development` |
+| [ai-testcase-generator-mcp](development/979-skill_5b052d0c/) | [Unknown](#) | N/A | `development` |
+| [string;](development/477-integration-patterns_68e8ed71/) | [Unknown](#) | N/A | `development` |
+| [add-nodebridge-handler](development/979-skill_344bb308/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/778-readme_flat_claude-md_created_dd418d33/) | [Unknown](#) | N/A | `development` |
+| [agent-java-architect](development/979-skill_7dff1d3a/) | [Unknown](#) | N/A | `development` |
+| [Microcontroller Programming](development/576-microcontroller-programming_d35352d4/) | [Unknown](#) | N/A | `development` |
+| [Generate Implementation Plan](development/228-create-implementation-plan_3cbdf833/) | [Unknown](#) | N/A | `development` |
+| [agent-product-manager](development/979-skill_c7e0109d/) | [Unknown](#) | N/A | `daily assistant` |
+| [Vulnerability Patterns](development/1139-vulnerability-patterns_cfa6dc7e/) | [Unknown](#) | N/A | `data analysis` |
+| [Badge Reference Guide](development/096-badges_e885b78e/) | [Unknown](#) | N/A | `development` |
+| [Units and Quantities (astropy.units)](development/1109-units_ec3d1087/) | [Unknown](#) | N/A | `data analysis` |
+| [vue-expert-js](development/979-skill_7740babb/) | [Unknown](#) | N/A | `development` |
+| [2d-bin-packing](development/979-skill_3652bb6d/) | [Unknown](#) | N/A | `development` |
+| [categorizing-bsky-accounts](development/979-skill_1e4cae7e/) | [Unknown](#) | N/A | `development` |
+| [agile](development/979-skill_c8b1dea3/) | [Unknown](#) | N/A | `development` |
+| [maven-to-gradle](development/979-skill_919c30d2/) | [Unknown](#) | N/A | `daily assistant` |
+| [Logical Fallacies in Scientific Discourse](development/536-logical_fallacies_7911abe8/) | [Unknown](#) | N/A | `daily assistant` |
+| [agent-electron-pro](development/979-skill_0f031f11/) | [Unknown](#) | N/A | `development` |
+| [Marp Theme Selection Guide](development/1072-theme-selection_ca4a6704/) | [Unknown](#) | N/A | `development` |
+| [t[name] for name in t.colnames}](development/1053-tables_5ac8009a/) | [Unknown](#) | N/A | `content creation` |
+| [str](development/169-coding_standards_702010dd/) | [Unknown](#) | N/A | `data analysis` |
+| [ERD Template: Custom Objects](development/247-custom-objects_4196ea67/) | [Unknown](#) | N/A | `content creation` |
+| [PyMC Distributions Reference](development/313-distributions_982ba255/) | [Unknown](#) | N/A | `development` |
+| [adding-animations](development/979-skill_cd9caf86/) | [Unknown](#) | N/A | `development` |
+| [string;](development/857-reference-set-05-csrf-prevention_083b418d/) | [Unknown](#) | N/A | `development` |
+| [Msa](development/979-skill_11e117db/) | [Unknown](#) | N/A | `data analysis` |
+| [Configuration Reference](development/191-configuration_a40386b0/) | [Unknown](#) | N/A | `development` |
+| [string;](development/1103-typescript-jsdoc_a100430b/) | [Unknown](#) | N/A | `development` |
+| [name](development/624-node-cli_2a3d45cd/) | [Unknown](#) | N/A | `development` |
+| [agent-nextjs-developer](development/979-skill_0816d1ab/) | [Unknown](#) | N/A | `development` |
+| [agent-vue-expert](development/979-skill_46ac8b4d/) | [Unknown](#) | N/A | `development` |
+| [celebration-animation-generator](development/979-skill_a2e12ac8/) | [Unknown](#) | N/A | `development` |
+| [skill-seekers](development/989-skill_intelligence_system_bc55f4a5/) | [Unknown](#) | N/A | `development` |
+| [Agent Creating](development/979-skill_56610d3b/) | [Unknown](#) | N/A | `development` |
+| [Animation Patterns in React](development/979-skill_c570a00f/) | [Unknown](#) | N/A | `development` |
+| [Chapter 9 Content Generation Log](development/411-generate-chapter-9-content_031356c0/) | [Unknown](#) | N/A | `data analysis` |
+| [add-query-filter](development/979-skill_01e47563/) | [Unknown](#) | N/A | `development` |
+| [Skill Quality Fix Plan](development/990-skill_quality_fix_plan_7786b9d7/) | [Unknown](#) | N/A | `development` |
+| [COBRApy Comprehensive Workflows](development/1156-workflows_1a1f99bf/) | [Unknown](#) | N/A | `data analysis` |
+| [str](development/347-evaluation-metrics_a6d93ca9/) | [Unknown](#) | N/A | `data analysis` |
+| [Flow-LWC-Apex Triangle: LWC Perspective](development/1095-triangle-pattern_acc40d97/) | [Unknown](#) | N/A | `development` |
+| [Controlplan](development/979-skill_e586bfff/) | [Unknown](#) | N/A | `data analysis` |
+| [Document Generation Command](development/291-devkitgenerate-document_ce0f786f/) | [Unknown](#) | N/A | `development` |
+| [Three-Stream GitHub Architecture - Implementation Summary](development/464-implementation_summary_three_stream_98cb21bb/) | [Unknown](#) | N/A | `development` |
+| [advanced-debugging](development/979-skill_dc3a7b83/) | [Unknown](#) | N/A | `development` |
+| [Skill Seeker](development/822-readmezh-cn_6e1f9a09/) | [Unknown](#) | N/A | `development` |
+| [agent-typescript-pro](development/979-skill_ad144c44/) | [Unknown](#) | N/A | `development` |
+| [angular-di](development/979-skill_4d1172d4/) | [Unknown](#) | N/A | `development` |
+| [str, module_config: dict) -> List[Path]:](development/479-intelligence_system_architecture_22d7ebb5/) | [Unknown](#) | N/A | `development` |
+| [Debugging Tools](development/269-debugging-tools_406df18f/) | [Unknown](#) | N/A | `development` |
+| [Advanced Clean Hexagonal Architecture](development/979-skill_d8f87749/) | [Unknown](#) | N/A | `development` |
+| [Anthropic Quickstarts Development Guide](development/140-claude_05941f6f/) | [Unknown](#) | N/A | `data analysis` |
+| [comparison-table-generator](development/979-skill_c48407da/) | [Unknown](#) | N/A | `development` |
+| [Chapter 3: Core Concepts](development/468-index_51da68ee/) | [Unknown](#) | N/A | `development` |
+| [How-To Guide Generation (C3.3)](development/450-how_to_guides_844431f6/) | [Unknown](#) | N/A | `data analysis` |
+| [Pymatgen Analysis Modules Reference](development/038-analysis_modules_5029f48a/) | [Unknown](#) | N/A | `data analysis` |
+| [general-purpose](development/406-general-purpose_53298ff1/) | [Unknown](#) | N/A | `daily assistant` |
+| [Tissue Masks](development/1080-tissue_masks_b454bf69/) | [Unknown](#) | N/A | `data analysis` |
+| [Advanced React Clean Integration](development/979-skill_0fde0e9b/) | [Unknown](#) | N/A | `development` |
+| [add-inject](development/979-skill_6bf15b72/) | [Unknown](#) | N/A | `development` |
+| [ams](development/979-skill_a8095396/) | [Unknown](#) | N/A | `development` |
+| [skill-name](development/394-frontmatter-reference_6a2b49a6/) | [Unknown](#) | N/A | `python` `testing` `automation` |
+| [Specialized Loaders](development/1009-specialized-loaders_550c5014/) | [Unknown](#) | N/A | `development` |
+| [afferent-reactive-universe-levels](development/979-skill_ae4e1de0/) | [Unknown](#) | N/A | `development` |
+| [```python](development/672-patterns_cfbc333b/) | [Unknown](#) | N/A | `development` |
+| [angular-architect](development/979-skill_08fed647/) | [Unknown](#) | N/A | `development` |
+| [Three.js - Advanced Materials](development/552-materials-advanced_58ed014c/) | [Unknown](#) | N/A | `development` |
+| [ADR 001: MVP Scope](development/613-mvp-scope_6e34a36b/) | [Unknown](#) | N/A | `development` |
+| [agent-angular-architect](development/979-skill_314ca27e/) | [Unknown](#) | N/A | `development` |
+| [ant-design-react](development/979-skill_82a2fdf1/) | [Unknown](#) | N/A | `data analysis` |
+| [SymPy Code Generation and Printing](development/160-code-generation-printing_b6f5e8b8/) | [Unknown](#) | N/A | `content creation` |
+| [Error Handling Patterns](development/342-error-handling_41b94066/) | [Unknown](#) | N/A | `development` |
+| [Advanced Testability Ai Ergonomic](development/979-skill_5cfa9b92/) | [Unknown](#) | N/A | `development` |
+| [Advanced Effect Di Environment](development/979-skill_bc9c6660/) | [Unknown](#) | N/A | `development` |
+| [making-waffles](development/979-skill_8d5ac709/) | [Unknown](#) | N/A | `content creation` |
+| [z.string().min(2,](development/959-server-components_971117f2/) | [Unknown](#) | N/A | `development` |
+| [FAQ Quality Report](development/362-faq-quality-report_3dd082ec/) | [Unknown](#) | N/A | `data analysis` |
+| [Advanced Deterministic Runtime Container](development/979-skill_24b0b6fa/) | [Unknown](#) | N/A | `development` |
+| [senior-architect](development/979-skill_469ef270/) | [Unknown](#) | N/A | `development` |
+| [Modern JavaScript Syntax (ES2023+)](development/599-modern-syntax_88c6cb7b/) | [Unknown](#) | N/A | `data analysis` |
+| [agentic-quality-engineering](development/979-skill_07e328b5/) | [Unknown](#) | N/A | `pact` `agents` `fleet` |
+| [playwright-expert](development/979-skill_d098eeec/) | [Unknown](#) | N/A | `development` |
+| [Three.js Shaders](development/976-shader_f17101c3/) | [Unknown](#) | N/A | `content creation` |
+| [Advanced Features in PennyLane](development/023-advanced_features_88ff34b9/) | [Unknown](#) | N/A | `development` |
+| [MUI Theme Customization](development/1070-theme-customization_1185e91a/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/777-readme_flat_claude-md_az_fe071c24/) | [Unknown](#) | N/A | `development` |
+| [Seaborn Function Reference](development/395-function_reference_a0e312a6/) | [Unknown](#) | N/A | `development` |
+| [add-authorization-methods](development/979-skill_66ed8c6c/) | [Unknown](#) | N/A | `development` |
+| [analyze-frame](development/979-skill_577f3537/) | [Unknown](#) | N/A | `development` |
+| [Animation Techniques](development/979-skill_0facb5bc/) | [Unknown](#) | N/A | `content creation` |
+| [shadcn/ui Theming & Customization](development/975-shadcn-theming_d17d6414/) | [Unknown](#) | N/A | `development` |
+| [Emotional Regulation for Difficult Conversations](development/334-emotional-regulation_ecac2f9c/) | [Unknown](#) | N/A | `daily assistant` |
+| [Claude Skills](development/1113-upgrade-the-book-installer-help_86a6eca0/) | [Unknown](#) | N/A | `development` |
+| [# ← Add this check](development/704-pr_160_review_updated_c4a9e761/) | [Unknown](#) | N/A | `development` |
+| [Apex Code Review Template](development/044-apex-review_556495a4/) | [Unknown](#) | N/A | `development` |
+| [Skills in the Default Context Window](development/993-skills-in-context-window_f5753618/) | [Unknown](#) | N/A | `development` |
+| [Context Compression](development/197-context-compression_17a27c30/) | [Unknown](#) | N/A | `daily assistant` |
+| [antfu](development/979-skill_d759c939/) | [Unknown](#) | N/A | `development` |
+| [Skill Seekers Intelligence System - Research Topics](development/480-intelligence_system_research_7dde3bec/) | [Unknown](#) | N/A | `development` |
+| [typescript-security-expert](development/1105-typescript-security-expert_2214bc88/) | [Unknown](#) | N/A | `development` |
+| [Documentation Improvement](development/317-documentation_25c9cc8a/) | [Unknown](#) | N/A | `development` |
+| [` present](development/365-feature-checklist-generator_aacfd4d4/) | [Unknown](#) | N/A | `development` |
+| [Guitar Development Guide](development/140-claude_956697f1/) | [Unknown](#) | N/A | `development` |
+| [agent-ops-reality-audit](development/979-skill_3f692a86/) | [Unknown](#) | N/A | `development` |
+| [analysis-swarm](development/979-skill_3aa2a778/) | [Unknown](#) | N/A | `development` |
+| [abaqus-amplitude](development/979-skill_a84ee809/) | [Unknown](#) | N/A | `development` |
+| [debug-validator-checkpoint-inconsistency](development/979-skill_6dfb44dc/) | [Unknown](#) | N/A | `development` |
+| [Design Token Generation Guide](development/1083-token-generation_4a96787e/) | [Unknown](#) | N/A | `data analysis` |
+| [Context](development/979-skill_6d400333/) | [Unknown](#) | N/A |  |
+| [行为控制攻击方法](development/724-prompt-eval_methpd_behavioralcontrol_dfe5142a/) | [Unknown](#) | N/A | `development` |
+| [admin-dashboard](development/979-skill_e65eeca1/) | [Unknown](#) | N/A | `development` |
+| [repomix](development/979-skill_0e3dafc0/) | [Unknown](#) | N/A | `development` |
+| [Skills Quick Reference Guide](development/994-skills_guide_79acc134/) | [Unknown](#) | N/A | `development` |
+| [Sequence Handling with Bio.Seq and Bio.SeqIO](development/958-sequence_io_eb20a075/) | [Unknown](#) | N/A | `content creation` |
+| [PyHealth Clinical Prediction Tasks](development/1060-tasks_b776d483/) | [Unknown](#) | N/A | `development` |
+| [str, language: str) -> bool:](development/1045-sync_determination_analysis_59e52a9f/) | [Unknown](#) | N/A | `data analysis` |
+| [Claude Course Description Skill Execution](development/221-course-description-skill_9a17d356/) | [Unknown](#) | N/A | `development` |
+| [Profiles vs Permission Sets Guide](development/711-profile-permission-guide_17cdeef9/) | [Unknown](#) | N/A | `daily assistant` |
+| [Skill-First Learning](development/979-skill_c006d990/) | [Unknown](#) | N/A | `development` |
+| [1k-architecture](development/979-skill_5aadaa25/) | [Unknown](#) | N/A | `development` |
+| [PyHealth Data Preprocessing and Processors](development/707-preprocessing_2ebb8e06/) | [Unknown](#) | N/A | `data analysis` |
+| [Documentation Update Command: Update Implementation Documentation](development/1111-update-docs_dd20fde3/) | [Unknown](#) | N/A | `development` |
+| [Pre-Release Testing Checklist](development/705-pre-release-checklist_3b733d03/) | [Unknown](#) | N/A | `development` |
+| [Validating Skill Portability](development/979-skill_b60d9db0/) | [Unknown](#) | N/A | `development` |
+| [Name](development/468-index_c17fc34e/) | [Unknown](#) | N/A | `data analysis` |
+| [PyHealth Models](development/594-models_d646b2e5/) | [Unknown](#) | N/A | `data analysis` |
+| [Image Generation Reference](development/458-image-generation_1880b9e9/) | [Unknown](#) | N/A | `content creation` |
+| [Generalized Linear Models (GLM) Reference](development/428-glm_3dc2690c/) | [Unknown](#) | N/A | `data analysis` |
+| [Project Structure](development/718-project-structure_0f6f2f60/) | [Unknown](#) | N/A | `development` |
+| [cs-ceo-advisor](development/244-cs-ceo-advisor_4c7b7aa7/) | [Unknown](#) | N/A | `daily assistant` |
+| [1k-dev-commands](development/979-skill_30d15363/) | [Unknown](#) | N/A | `development` |
+| [PyHealth Datasets and Data Structures](development/263-datasets_bc62c85c/) | [Unknown](#) | N/A | `data analysis` |
+| [Authorization Code + PKCE Flow Template](development/079-authorization-code-pkce_7286062e/) | [Unknown](#) | N/A | `development` |
+| [Content Creation Frameworks & Templates](development/195-content_frameworks_a6696080/) | [Unknown](#) | N/A | `content creation` |
+| [flutter-expert](development/979-skill_4d0dc351/) | [Unknown](#) | N/A | `development` |
+| [🎬 REAL-WORLD USAGE SCENARIO](development/825-real_world_scenario_c4c829d4/) | [Unknown](#) | N/A | `development` |
+| [DroidconKotlin Development Guide](development/140-claude_47925f9e/) | [Unknown](#) | N/A | `development` |
+| [Modal Volumes](development/1135-volumes_41af79fc/) | [Unknown](#) | N/A | `development` |
+| [Specialty-Specific Treatment Plan Guidelines](development/1010-specialty_specific_guidelines_e4243be9/) | [Unknown](#) | N/A | `daily assistant` |
+| [Cox Proportional Hazards Models](development/223-cox-models_d962d9d3/) | [Unknown](#) | N/A | `data analysis` |
+| [System Prompt Design](development/1048-system-prompt-design_e24eb3f3/) | [Unknown](#) | N/A | `development` |
+| [Feature request](development/368-feature_request_63f63851/) | [Unknown](#) | N/A | `development` |
+| [Skill Creation](development/979-skill_48cc3e00/) | [Unknown](#) | N/A | `development` |
+| [Workflow Creation and Registration](development/1154-workflow-creation_c80050b9/) | [Unknown](#) | N/A | `development` |
+| [skill-judge](development/979-skill_737ef362/) | [Unknown](#) | N/A | `development` |
+| [FFmpeg Video & Audio Encoding](development/371-ffmpeg-encoding_903682c3/) | [Unknown](#) | N/A | `content creation` |
+| [Database Design](development/261-database-design_b8d0676a/) | [Unknown](#) | N/A | `development` |
+| [android-screen-capture](development/979-skill_03fb5474/) | [Unknown](#) | N/A | `development` |
+| [model.aic for name, model in models.items()},](development/309-discrete_choice_2509d706/) | [Unknown](#) | N/A | `data analysis` |
+| [Medical Journal Structured Abstract Examples](development/568-medical_structured_abstract_a2528599/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-coordination](development/979-skill_b9225f00/) | [Unknown](#) | N/A | `development` |
+| [ai-governance](development/979-skill_cd968403/) | [Unknown](#) | N/A | `development` |
+| [agent-spec-architect](development/979-skill_2d18ecd5/) | [Unknown](#) | N/A | `development` |
+| [ad-review](development/979-skill_a6a9fc0a/) | [Unknown](#) | N/A | `content creation` |
+| [PyHealth Training, Evaluation, and Interpretability](development/1089-training_evaluation_c049d5af/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-evals](development/979-skill_dda5013d/) | [Unknown](#) | N/A | `development` |
+| [Code CLI Environment](development/167-codecli-environment_2e1788d1/) | [Unknown](#) | N/A | `content creation` |
+| [Control Set 15: Mobile Security (MOBILE)](development/212-control-set-ext-14-mobile_e06bc984/) | [Unknown](#) | N/A | `development` |
+| [agentmd-creator](development/979-skill_67250ef9/) | [Unknown](#) | N/A | `development` |
+| [Phase 4: Security Design Review](development/655-p4-security-design-review_2af0dc53/) | [Unknown](#) | N/A | `development` |
+| [react-native-expert](development/979-skill_20feffd1/) | [Unknown](#) | N/A | `development` |
+| [adversarial-spec](development/979-skill_60c5efd4/) | [Unknown](#) | N/A | `development` |
+| [requirements-clarity](development/979-skill_c554f777/) | [Unknown](#) | N/A | `development` |
+| [agent-mobile-developer](development/979-skill_b3ce355b/) | [Unknown](#) | N/A | `development` |
+| [Bug report](development/112-bug_report_5782fb58/) | [Unknown](#) | N/A | `development` |
+| [Persona Methodology Guide](development/687-persona-methodology_a31e7a35/) | [Unknown](#) | N/A | `daily assistant` |
+| [Format Compatibility & Conversion Guide](development/389-format-compatibility_900ac721/) | [Unknown](#) | N/A | `content creation` |
+| [Salesforce Scheduler Data Model Template](development/936-scheduler-erd_48b61186/) | [Unknown](#) | N/A | `daily assistant` |
+| [Phase 4: Security Design Review](development/655-p4-security-design-review_22ebe2ae/) | [Unknown](#) | N/A | `development` |
+| [agent-compliance-auditor](development/979-skill_1ca6adf1/) | [Unknown](#) | N/A | `development` |
+| [Glossary Quality Report](development/430-glossary-quality-report_33cd2919/) | [Unknown](#) | N/A | `data analysis` |
+| [pattern-emergence-detector](development/979-skill_c1c0553c/) | [Unknown](#) | N/A | `development` |
+| [meeting-insights-analyzer](development/979-skill_c639c0fc/) | [Unknown](#) | N/A | `daily assistant` |
+| [Bloc State Management](development/109-bloc-state_f31710e7/) | [Unknown](#) | N/A | `development` |
+| [agent-flutter-expert](development/979-skill_6ccbb043/) | [Unknown](#) | N/A | `development` |
+| [trinity-auto-boot-validator](development/979-skill_5c0f5b3d/) | [Unknown](#) | N/A | `development` |
+| [String](development/612-multiplatform-kmp_e5e08ba6/) | [Unknown](#) | N/A | `development` |
+| [android-watch-logs](development/979-skill_627f5ccd/) | [Unknown](#) | N/A | `development` |
+| [android-deploy-usb](development/979-skill_a7f49536/) | [Unknown](#) | N/A | `development` |
+| [1k-cross-platform](development/979-skill_f3955be9/) | [Unknown](#) | N/A | `content creation` |
+| [MSOffice](development/979-skill_82b88d5d/) | [Unknown](#) | N/A | `development` |
+| [Pdd](development/181-comparison_81d8168a/) | [Unknown](#) | N/A | `development` |
+| [draw-io](development/979-skill_fb23a8ba/) | [Unknown](#) | N/A | `data analysis` |
+| [Intelligence Design](development/979-skill_14d1645a/) | [Unknown](#) | N/A | `development` |
+| [Agent Deployment Guide](development/274-deployment-guide_5ec8ba99/) | [Unknown](#) | N/A | `development` |
+| [cli-developer](development/979-skill_87b2abba/) | [Unknown](#) | N/A | `development` |
+| [api-deployment](development/089-backend-devops_1fbb7010/) | [Unknown](#) | N/A | `development` |
+| [PR Review](development/702-pr-review_24c85733/) | [Unknown](#) | N/A | `development` |
+| [kubernetes-specialist](development/979-skill_96a9c700/) | [Unknown](#) | N/A | `development` |
+| [Chapter Metrics](development/135-chapter-metrics_99683654/) | [Unknown](#) | N/A | `data analysis` |
+| [str,](development/275-deployment-optimization_c06c07f8/) | [Unknown](#) | N/A | `development` |
+| [myapp](development/512-kubernetes-workflows_dafc947f/) | [Unknown](#) | N/A | `development` |
+| [Control Set 12: Infrastructure Security (INFRA)](development/209-control-set-ext-11-infrastructure_d9fab907/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_7d50ac3d/) | [Unknown](#) | N/A | `development` |
+| [Google Cloud Services](development/400-gcloud-services_2581140e/) | [Unknown](#) | N/A | `development` |
+| [ado-windows-git-bash-compatibility](development/979-skill_4e705728/) | [Unknown](#) | N/A | `development` |
+| [devops-engineer](development/979-skill_666ec867/) | [Unknown](#) | N/A | `development` |
+| [backend-development](development/979-skill_68e7dbc0/) | [Unknown](#) | N/A | `development` |
+| [agent-context-generator](development/979-skill_e67ec0f9/) | [Unknown](#) | N/A | `development` |
+| [🎯 **START HERE: World-Class Team Skills**](development/1022-start_here_8cf0507c/) | [Unknown](#) | N/A | `development` |
+| [I was wrong about Agent Skills and how I refactor them](development/827-refactor_718d2864/) | [Unknown](#) | N/A | `development` |
+| [Config Reference](development/1163-config-reference_3c5c1195/) | [Unknown](#) | N/A | `development` |
+| [str, attacks: list[dict]):](development/133-chaos-tools_701f68e6/) | [Unknown](#) | N/A | `development` |
+| [kubectl Essential Commands](development/507-kubernetes-kubectl_43fe156b/) | [Unknown](#) | N/A | `development` |
+| [laravel-specialist](development/979-skill_5e85c1de/) | [Unknown](#) | N/A | `development` |
+| [ai-prompt-engineer](development/979-skill_c64ae3c1/) | [Unknown](#) | N/A | `development` |
+| [devops](development/979-skill_2456b40d/) | [Unknown](#) | N/A | `development` |
+| [ado-pipeline-best-practices](development/979-skill_b0a7361a/) | [Unknown](#) | N/A | `development` |
+| [MCP源码部署Agent提示词](development/114-build_preview_1b0f2ee0/) | [Unknown](#) | N/A | `development` |
+| [spark-engineer](development/979-skill_dceecd44/) | [Unknown](#) | N/A | `development` |
+| [Build and Deploy](development/513-kubernetes-workflows-advanced_b18c3169/) | [Unknown](#) | N/A | `development` |
+| [Engineering Metrics & KPIs Guide](development/336-engineering_metrics_f91562f6/) | [Unknown](#) | N/A | `development` |
+| [aks-deployment-troubleshooter](development/979-skill_c2936174/) | [Unknown](#) | N/A | `development` |
+| [Expectation Alignment Guide](development/351-expectation-alignment_7132a9f0/) | [Unknown](#) | N/A | `development` |
+| [Agentforce Agent Deployment Guide](development/025-agent-deployment-guide_289641ff/) | [Unknown](#) | N/A | `development` |
+| [ai-ml-engineer](development/979-skill_219c24fc/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-game-developer](development/979-skill_71912e95/) | [Unknown](#) | N/A | `development` |
+| [spec-miner](development/979-skill_e19333bb/) | [Unknown](#) | N/A | `development` |
+| [A.I.G Case Studies](development/124-case-studies_opensource_en_28e49edb/) | [Unknown](#) | N/A | `development` |
+| [skill-creator](development/979-skill_a1208de1/) | [Unknown](#) | N/A | `content creation` |
+| [fda-database](development/979-skill_953adcd5/) | [Unknown](#) | N/A | `development` |
+| [ai-code-quality-assistant](development/979-skill_1a46357c/) | [Unknown](#) | N/A | `development` |
+| [FRED Releases Endpoints](development/903-releases_43d88cf2/) | [Unknown](#) | N/A | `daily assistant` |
+| [entry.name,](development/684-performance-guide_e9391eda/) | [Unknown](#) | N/A | `development` |
+| [WebGPU Rendering](development/1143-webgpu_7a56835d/) | [Unknown](#) | N/A | `content creation` |
+| [Datamol Core API Reference](development/218-core_api_e86a137b/) | [Unknown](#) | N/A | `data analysis` |
+| [Receiving Feedback](development/826-receiving-feedback_62f3958b/) | [Unknown](#) | N/A | `development` |
+| [Installation and Configuration](development/474-installation_6cfdc232/) | [Unknown](#) | N/A | `development` |
+| [Sage Framework Reference](development/929-sage_780b649e/) | [Unknown](#) | N/A | `development` |
+| [Managing dbt Packages](development/543-managing-packages_3837176a/) | [Unknown](#) | N/A | `development` |
+| [Deserialization Cheat Sheet](development/843-reference-set-03-deserialization_7d97d844/) | [Unknown](#) | N/A | `development` |
+| [Matplotlib API Reference](development/051-api_reference_988c2aff/) | [Unknown](#) | N/A | `data analysis` |
+| [Claude Skills Library by nginity - Complete AI Augmentation Ecosystem](development/424-gist_content_2dba8cee/) | [Unknown](#) | N/A | `development` |
+| [Complete Guide to Developer Kit Commands](development/438-guide-commands_96c019d8/) | [Unknown](#) | N/A | `development` |
+| [spring-ai-mcp-server-patterns](development/979-skill_2987c271/) | [Unknown](#) | N/A | `spring-ai` `mcp` `model-context-protocol` |
+| [Context](development/979-skill_2e704597/) | [Unknown](#) | N/A | `development` |
+| [CI/CD Security Cheat Sheet](development/889-reference-set-ext-12-cicd-security_5ad60e44/) | [Unknown](#) | N/A | `development` |
+| [Chapter Content Generation Workflow Timeline](development/468-index_7ff085e3/) | [Unknown](#) | N/A | `data analysis` |
+| [MCPB Bundling Guide](development/566-mcpb_bundling_8eef45ed/) | [Unknown](#) | N/A | `development` |
+| [Permission SOQL Reference](development/1001-soql-reference_b4961d76/) | [Unknown](#) | N/A | `development` |
+| [vis-network](development/979-skill_55a9072c/) | [Unknown](#) | N/A | `development` |
+| [Session Management Cheat Sheet](development/838-reference-set-01-session-management_1200fc73/) | [Unknown](#) | N/A | `development` |
+| [helloagents](development/979-skill_04238803/) | [Unknown](#) | N/A | `development` |
+| [检索](development/918-retrieval_5ddede77/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_d7674c62/) | [Unknown](#) | N/A | `development` |
+| [Mermaid Hover Tooltip Fix](development/572-mermaid-hover_9e490542/) | [Unknown](#) | N/A | `development` |
+| [markitdown](development/979-skill_671133ff/) | [Unknown](#) | N/A | `data analysis` |
+| [Turborepo Task Pipelines](development/1098-turborepo-pipelines_64279184/) | [Unknown](#) | N/A | `development` |
+| [Setup Quick Reference Card](development/969-setup_quick_reference_cc6aff09/) | [Unknown](#) | N/A | `development` |
+| [Spring Framework Official Guidance: Dependency Injection (Clean Excerpt)](development/1017-spring-official-dependency-injection_93e4e851/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning Application](development/979-skill_b71b2d07/) | [Unknown](#) | N/A | `development` |
+| [Transaction Authorization Cheat Sheet](development/841-reference-set-02-transaction-authorization_0461d44f/) | [Unknown](#) | N/A | `development` |
+| [Protocols API](development/734-protocols_api_ba32892b/) | [Unknown](#) | N/A | `content creation` |
+| [datadog-cli](development/979-skill_d65cdb00/) | [Unknown](#) | N/A | `development` |
+| [Effective Genome Sizes](development/327-effective_genome_sizes_2cbdbb62/) | [Unknown](#) | N/A | `content creation` |
+| [Scientific Color Palettes and Guidelines](development/172-color_palettes_4d9ec644/) | [Unknown](#) | N/A | `data analysis` |
+| [Error Handling Cheat Sheet](development/875-reference-set-08-error-handling_9e413dc1/) | [Unknown](#) | N/A | `development` |
+| [add-feature](development/979-skill_0d7bbd15/) | [Unknown](#) | N/A | `development` |
+| [Skills Installation Guide](development/474-installation_9ccdcbb9/) | [Unknown](#) | N/A | `development` |
+| [Claude Code Skills Tips and Tricks](development/1079-tips-and-tricks_2c77e507/) | [Unknown](#) | N/A | `development` |
+| [using-dbt-for-analytics-engineering](development/979-skill_87055311/) | [Unknown](#) | N/A | `development` |
+| [How Awesome Claude Code Works](development/449-how_it_works_f8f8acce/) | [Unknown](#) | N/A | `development` |
+| [rails-expert](development/979-skill_eb3cebfa/) | [Unknown](#) | N/A | `development` |
+| [Threat Modeling](development/207-control-set-09-api-security_96cdfdf8/) | [Unknown](#) | N/A | `development` |
+| [sf-connected-apps](development/979-skill_c0f8567c/) | [Unknown](#) | N/A | `development` |
+| [SePay Overview](development/650-overview_4db01d56/) | [Unknown](#) | N/A | `development` |
+| [threat-modeling](development/979-skill_403942b4/) | [Unknown](#) | N/A | `development` |
+| [Pdd](development/1065-tech_stack_a5d44d5c/) | [Unknown](#) | N/A | `development` |
+| [Blade Templates Reference](development/107-blade_a71698f4/) | [Unknown](#) | N/A | `development` |
+| [Supervertaler - Frequently Asked Questions](development/360-faq_4841c13a/) | [Unknown](#) | N/A | `development` |
+| [mcp-translate](development/468-index_6512220c/) | [Unknown](#) | N/A | `development` |
+| [[Name]](development/435-governance-checklist_f0c9263e/) | [Unknown](#) | N/A | `development` |
+| [Chrome DevTools Protocol (CDP) Domains Reference](development/131-cdp-domains_fa81fa0f/) | [Unknown](#) | N/A | `development` |
+| [Agent Configuration Spec](development/190-config_e334a85b/) | [Unknown](#) | N/A | `development` |
+| [Multi-Agent Coordination Workflows](development/1156-workflows_f59d63a3/) | [Unknown](#) | N/A | `development` |
+| [PDF Parsing Libraries Research (Task B1.1)](development/678-pdf_parsing_research_cfcd7467/) | [Unknown](#) | N/A | `development` |
+| [Architecture Diagrams Reference](development/057-architecture-diagrams_117bc722/) | [Unknown](#) | N/A | `development` |
+| [Async Programming in Rust](development/068-async_c573ca7d/) | [Unknown](#) | N/A | `development` |
+| [modal](development/979-skill_3b63eb52/) | [Unknown](#) | N/A | `development` |
+| [Clickjacking Defense Cheat Sheet](development/855-reference-set-05-clickjacking-defense_da5507cf/) | [Unknown](#) | N/A | `development` |
+| [Evidence-Based Intervention Guidelines](development/486-intervention_guidelines_5a8dffd2/) | [Unknown](#) | N/A | `daily assistant` |
+| [John](development/876-reference-set-08-xs-leaks_739b2c1b/) | [Unknown](#) | N/A | `development` |
+| [🚀 World-Class Engineering & AI/ML/Data Team Skills](development/1063-team_structure_guide_aed28d81/) | [Unknown](#) | N/A | `development` |
+| [string;](development/580-migration-class-to-modern_dc3c5777/) | [Unknown](#) | N/A | `development` |
+| [大模型安全体检](development/726-prompt-eval_opensource_245b829a/) | [Unknown](#) | N/A | `development` |
+| [Credential Stuffing Prevention Cheat Sheet](development/831-reference-set-01-credential-stuffing-prevention_87fbf665/) | [Unknown](#) | N/A | `content creation` |
+| [Office Open XML Technical Reference](development/638-ooxml_2e23d974/) | [Unknown](#) | N/A | `content creation` |
+| [agent-csharp-developer](development/979-skill_317f8178/) | [Unknown](#) | N/A | `development` |
+| [lamindb](development/979-skill_e32b270a/) | [Unknown](#) | N/A | `data analysis` |
+| [📹 YouTube 视频下载器](development/770-readme_cn_888846bf/) | [Unknown](#) | N/A | `content creation` |
+| [str, profile: PromptProfile =](development/668-path_resolution_resolver_dd92c11d/) | [Unknown](#) | N/A | `development` |
+| [.name, description: .description, gateway: .gatewaySlug}](development/047-api-usage_46ce9720/) | [Unknown](#) | N/A | `development` |
+| [**Skill Seekers Development Roadmap**](development/719-project_board_setup_fd8a6573/) | [Unknown](#) | N/A | `development` |
+| [Advanced Features](development/020-advanced-features_2fb92f67/) | [Unknown](#) | N/A | `development` |
+| [VS Code Setup for Claude Code](development/1137-vscode-setup_575accf4/) | [Unknown](#) | N/A | `development` |
+| [init-deep](development/979-skill_66548cb4/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/786-readme_flat_commands_created_83059858/) | [Unknown](#) | N/A | `development` |
+| [agent-design](development/979-skill_cb09dc61/) | [Unknown](#) | N/A | `development` |
+| [📊 Real Anthropic Billing Data Analysis](development/105-billing-data-analysis_57458d6f/) | [Unknown](#) | N/A | `content creation` |
+| [cdn.example.com](development/272-deployment_ff554f01/) | [Unknown](#) | N/A | `content creation` |
+| [Ai Infra Guard](development/469-index_opensource_68a5afa0/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/816-readme_flat_workflows_updated_610f2a01/) | [Unknown](#) | N/A | `development` |
+| [aws-cloudformation-iam](development/979-skill_4da0279d/) | [Unknown](#) | N/A | `aws` `cloudformation` `iam` |
+| [Claude Skills for Intelligent Textbooks](development/468-index_9f527dfc/) | [Unknown](#) | N/A | `data analysis` |
+| [SOQL Anti-Patterns: What to Avoid](development/042-anti-patterns_7bdaeb7e/) | [Unknown](#) | N/A | `development` |
+| [Claudekit Skills](development/225-create_36ee7505/) | [Unknown](#) | N/A | `development` |
+| [material-you-slides](development/979-skill_f1efea2a/) | [Unknown](#) | N/A | `data analysis` |
+| [Forgot Password Cheat Sheet](development/832-reference-set-01-forgot-password_589d86aa/) | [Unknown](#) | N/A | `development` |
+| [venn.js Reference Guide](development/1126-venn-js-reference_0183027b/) | [Unknown](#) | N/A | `data analysis` |
+| [pyhealth](development/979-skill_181fb093/) | [Unknown](#) | N/A | `data analysis` |
+| [String,](development/503-ktor-server_249d740a/) | [Unknown](#) | N/A | `development` |
+| [Quiz: Getting Started with Claude and Skills](development/761-quiz_06cbd11f/) | [Unknown](#) | N/A | `development` |
+| [Add API Route: $ARGUMENTS](development/979-skill_6f58c4bc/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill-First Learning](development/979-skill_febd47a2/) | [Unknown](#) | N/A | `development` |
+| [IDE Integration](development/457-ide-integration_1e599fd5/) | [Unknown](#) | N/A | `development` |
+| [shap](development/979-skill_7edfcbc1/) | [Unknown](#) | N/A | `data analysis` |
+| [`github.com/vercel/next.js`](development/318-documentation-sources_ad6a52d7/) | [Unknown](#) | N/A | `development` |
+| [abaqus-mesh](development/979-skill_c8f48a85/) | [Unknown](#) | N/A | `development` |
+| [Agent Management](development/024-agent_f890d36d/) | [Unknown](#) | N/A | `content creation` |
+| [Terraform Best Practices](development/102-best-practices_4d62edf9/) | [Unknown](#) | N/A | `development` |
+| [Top 10 Automotive Security Vulnerabilities](development/894-reference-set-ext-14-automotive-security_ae84f18e/) | [Unknown](#) | N/A | `development` |
+| [str) -> str:](development/954-security_standards_09ace406/) | [Unknown](#) | N/A | `development` |
+| [oh-my-claude](development/140-claude_ca42be35/) | [Unknown](#) | N/A | `development` |
+| [Embedding Models Guide](development/332-embedding-models_d9e563a4/) | [Unknown](#) | N/A | `development` |
+| [Data Cloud Query Patterns](development/752-query-patterns_c604ec16/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_a8c69db7/) | [Unknown](#) | N/A | `development` |
+| [PheroPath](development/979-skill_99c1758e/) | [Unknown](#) | N/A | `daily assistant` |
+| [Credits](development/239-credits_0b0eb730/) | [Unknown](#) | N/A | `development` |
+| [aws-solution-architect](development/979-skill_bae0f87a/) | [Unknown](#) | N/A | `development` |
+| [Scientific Schematics - Quick Reference](development/757-quick_reference_41a1f230/) | [Unknown](#) | N/A | `development` |
+| [Adding Reference Mindsets](development/016-adding-reference-mindsets_76be7d9d/) | [Unknown](#) | N/A | `development` |
+| [HMAC](development/157-cloudflare-workers-apis_d36537cf/) | [Unknown](#) | N/A | `development` |
+| [ChEMBL Web Services API Reference](development/051-api_reference_f64146d1/) | [Unknown](#) | N/A | `development` |
+| [📊 Case Study: Big vs Small Batch Comparison](development/099-batch-294-videos-case-study_e2995caa/) | [Unknown](#) | N/A | `content creation` |
+| [Marp Theme CSS Creation Guide](development/1069-theme-css-guide_e0c14377/) | [Unknown](#) | N/A | `development` |
+| [Llama Stack Local Server for development purposes](development/527-llamastack_dev_d7e9e8ea/) | [Unknown](#) | N/A | `development` |
+| [YouTube 转 Blog Post - SEO 优化总结](development/957-seo_optimization_ef37fa6b/) | [Unknown](#) | N/A | `development` |
+| [LaminDB Integrations](development/478-integrations_5c3db0b2/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-communication-protocol](development/979-skill_044a774d/) | [Unknown](#) | N/A | `acp` `agents` `interoperability` |
+| [Scientific Skills](development/938-scientific-skills_4c1f22e7/) | [Unknown](#) | N/A | `development` |
+| [HTML5 Security Cheat Sheet](development/862-reference-set-05-html5-security_51836b19/) | [Unknown](#) | N/A | `development` |
+| [MCP Reference](development/555-mcp_670339d3/) | [Unknown](#) | N/A | `development` |
+| [pennylane](development/979-skill_77a393bb/) | [Unknown](#) | N/A | `development` |
+| [Openviking](development/462-impl_340b4dd7/) | [Unknown](#) | N/A | `content creation` |
+| [react-frontend-development-expert](development/763-react-frontend-development-expert_e2ac63b5/) | [Unknown](#) | N/A | `development` |
+| [file-organizer](development/979-skill_a8b91952/) | [Unknown](#) | N/A | `content creation` |
+| [myapp](development/442-helm-charts_a5725dd6/) | [Unknown](#) | N/A | `development` |
+| [infographic-creation](development/979-skill_e6e80cef/) | [Unknown](#) | N/A | `data analysis` |
+| [MicroSim Generator Matching Criteria](development/550-matching-criteria_1100056c/) | [Unknown](#) | N/A | `data analysis` |
+| [abaqus-interaction](development/979-skill_59ff7591/) | [Unknown](#) | N/A | `development` |
+| [4pl-director](development/979-skill_6665eca1/) | [Unknown](#) | N/A | `development` |
+| [agent-expert-creation](development/979-skill_7a0ad59a/) | [Unknown](#) | N/A | `development` |
+| [pacemaker](development/288-devices_952c5096/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/810-readme_flat_tooling_created_65147dbd/) | [Unknown](#) | N/A | `development` |
+| [{PROJECT}-RISK-ASSESSMENT-REPORT.md](development/660-p8-report-generation_9d0d3f98/) | [Unknown](#) | N/A | `daily assistant` |
+| [Cryptographic Security Guidelines](development/205-control-set-06-cryptography_a7a24278/) | [Unknown](#) | N/A | `development` |
+| [Matchms Importing and Exporting Reference](development/466-importing_exporting_25bc6d6e/) | [Unknown](#) | N/A | `data analysis` |
+| [Code Review Checklist](development/165-code_review_checklist_846dbd15/) | [Unknown](#) | N/A | `development` |
+| [Apex Anti-Patterns](development/042-anti-patterns_1ab3f936/) | [Unknown](#) | N/A | `development` |
+| [Online Documentation Resources](development/637-online-resources_caef9186/) | [Unknown](#) | N/A | `data analysis` |
+| [Query Parameterization Cheat Sheet](development/851-reference-set-03-query-parameterization_699875f9/) | [Unknown](#) | N/A | `development` |
+| [socket.io-stream](development/933-scaling_9e6e1ff0/) | [Unknown](#) | N/A | `development` |
+| [Encoding Attack Methods](development/723-prompt-eval_method_encoding_en_02bd3879/) | [Unknown](#) | N/A | `development` |
+| [Credits & Acknowledgments](development/239-credits_aaf4c121/) | [Unknown](#) | N/A | `data analysis` |
+| [Creative Thinking Audit Rubric](development/074-audit-rubric_89ce3a0e/) | [Unknown](#) | N/A | `development` |
+| [langchain4j-ai-services-patterns](development/979-skill_2f951ab9/) | [Unknown](#) | N/A | `langchain4j` `ai-services` `annotations` |
+| [会话管理](development/963-sessions_bffcc505/) | [Unknown](#) | N/A | `development` |
+| [linkedin-announcement-generator](development/979-skill_d2fd2b8f/) | [Unknown](#) | N/A | `content creation` |
+| [Critic](development/240-critic_16d88c63/) | [Unknown](#) | N/A | `development` |
+| [Common Workflows](development/1156-workflows_22acfb7b/) | [Unknown](#) | N/A | `development` |
+| [Common Query Patterns and Best Practices](development/179-common_patterns_83f7475e/) | [Unknown](#) | N/A | `data analysis` |
+| [Filtered Extraction Examples](development/379-filtered-extraction_b282267c/) | [Unknown](#) | N/A | `daily assistant` |
+| [sf-permissions](development/979-skill_5f213f47/) | [Unknown](#) | N/A | `development` |
+| [removeViewBox](development/113-build-tooling_2ed1ea8b/) | [Unknown](#) | N/A | `development` |
+| [MyPlugin](development/468-index_84b8a94e/) | [Unknown](#) | N/A | `custom` `filter` |
+| [userName }];](development/071-async-notification-patterns_f64d0cb0/) | [Unknown](#) | N/A | `development` |
+| [using-webctl](development/979-skill_34a2b83f/) | [Unknown](#) | N/A | `development` |
+| [XSS Filter Evasion Cheat Sheet](development/865-reference-set-05-xss-filter-evasion_d061cfe8/) | [Unknown](#) | N/A | `content creation` |
+| [Cryptographic Storage Cheat Sheet](development/868-reference-set-06-cryptographic-storage_fbd85742/) | [Unknown](#) | N/A | `development` |
+| [Dependency Audit](development/294-devkitjavadependency-audit_d36d1edd/) | [Unknown](#) | N/A | `development` |
+| [str](development/893-reference-set-ext-13-ai-agent-security_9b1a91eb/) | [Unknown](#) | N/A | `content creation` |
+| [Project Instructions Guide](development/717-project-instructions_d85c7481/) | [Unknown](#) | N/A | `development` |
+| [my-tool](development/556-mcp-integration_29e711f3/) | [Unknown](#) | N/A | `development` |
+| [SePay API Reference](development/045-api_c894057d/) | [Unknown](#) | N/A | `development` |
+| [LLM Evaluation Frameworks](development/531-llm_evaluation_frameworks_b87239c5/) | [Unknown](#) | N/A | `daily assistant` |
+| [abaqus-shape-optimization](development/979-skill_ca6aceb3/) | [Unknown](#) | N/A | `development` |
+| [Internet/DMZ](development/502-knowledge-architecture-v52-cn_756f0d96/) | [Unknown](#) | N/A | `development` |
+| [string,](development/102-best-practices_fb36b6cc/) | [Unknown](#) | N/A | `data analysis` |
+| [Atlassian MCP Server Setup Guide](development/073-atlassian_mcp_setup_3ec3280f/) | [Unknown](#) | N/A | `development` |
+| [Changelog](development/441-headertpl_9fe38384/) | [Unknown](#) | N/A | `development` |
+| [LinkedIn Post: Moving Rainbow MicroPython Skill Announcement](development/524-linkedin-post_39b5b4c7/) | [Unknown](#) | N/A | `development` |
+| [building-github-index](development/979-skill_f57dd098/) | [Unknown](#) | N/A | `content creation` |
+| [building-react-applications  # kebab-case, gerund form](development/031-ai_skill_standards_d1b232ed/) | [Unknown](#) | N/A | `development` |
+| [MCP Server Installation Guide](development/473-install_90e16707/) | [Unknown](#) | N/A | `development` |
+| [AgentDB Vector Search](development/979-skill_beecdac7/) | [Unknown](#) | N/A | `development` |
+| [Make a README](development/542-make-a-readme_81b1d33b/) | [Unknown](#) | N/A | `development` |
+| [CI](development/164-code_quality_1cbfd2eb/) | [Unknown](#) | N/A | `development` |
+| [API Design Patterns](development/048-api_design_patterns_b474416e/) | [Unknown](#) | N/A | `data analysis` |
+| [DOM based XSS Prevention Cheat Sheet](development/860-reference-set-05-dom-xss-prevention_982d1e93/) | [Unknown](#) | N/A | `development` |
+| [Terminal Workflow for Textbook Development](development/468-index_c88140ef/) | [Unknown](#) | N/A | `data analysis` |
+| [Dask Futures](development/397-futures_6f4382ec/) | [Unknown](#) | N/A | `daily assistant` |
+| [add-env-variable](development/979-skill_072333f0/) | [Unknown](#) | N/A | `development` |
+| [带参数的 Metric](development/820-readmecli_run_7f24dfb1/) | [Unknown](#) | N/A | `development` |
+| [JSON Web Token Cheat Sheet for Java](development/834-reference-set-01-jwt-java_fb435c58/) | [Unknown](#) | N/A | `development` |
+| [matplotlib](development/979-skill_0c20cceb/) | [Unknown](#) | N/A | `development` |
+| [MCP Gateway Manual Acceptance Testing](development/006-acceptance_f2c7e694/) | [Unknown](#) | N/A | `development` |
+| [Spring Boot Integration with AWS RDS](development/1016-spring-boot-integration_094ebd6a/) | [Unknown](#) | N/A | `development` |
+| [unit-test-json-serialization](development/979-skill_b58db1a5/) | [Unknown](#) | N/A | `junit-5` `json-test` `jackson` |
+| [Kubernetes Troubleshooting](development/510-kubernetes-troubleshooting_5f5d9509/) | [Unknown](#) | N/A | `development` |
+| [php-pro](development/979-skill_e12a68a7/) | [Unknown](#) | N/A | `development` |
+| [demo](development/765-reactive-webflux_0c5f3cda/) | [Unknown](#) | N/A | `development` |
+| [常见问题](development/360-faq_29c9408d/) | [Unknown](#) | N/A | `development` |
+| [scikit-learn](development/979-skill_b7de6b8d/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-client-protocol](development/979-skill_f3323be4/) | [Unknown](#) | N/A | `development` |
+| [Drug Targets and Pathways](development/1059-targets-pathways_1317f6ce/) | [Unknown](#) | N/A | `development` |
+| [str = Field(min_length=3, max_length=50)](development/739-pydantic-v2_c0ab3870/) | [Unknown](#) | N/A | `development` |
+| [Skill Name Here](development/979-skill_fd870930/) | [Unknown](#) | N/A | `development` |
+| [aws-sdk-java-v2-core](development/979-skill_ee294854/) | [Unknown](#) | N/A | `aws` `java` `sdk` |
+| [file](development/625-node-essentials_d8863b37/) | [Unknown](#) | N/A | `data analysis` |
+| [Injection Prevention Cheat Sheet](development/845-reference-set-03-injection-prevention_27be7e31/) | [Unknown](#) | N/A | `development` |
+| [aws-sdk-java-v2-rds](development/979-skill_f50374a6/) | [Unknown](#) | N/A | `aws` `rds` `database` |
+| [XSS & CSRF Prevention](development/1161-xss-csrf_4d9976fa/) | [Unknown](#) | N/A | `data analysis` |
+| [readme-generator](development/979-skill_79990e5c/) | [Unknown](#) | N/A | `data analysis` |
+| [Analysis Cookbook](development/036-analysis-cookbook_570d6343/) | [Unknown](#) | N/A | `data analysis` |
+| [Run all test commands from plan.md or infer from project type](development/1012-speckitverify_9d90ceab/) | [Unknown](#) | N/A | `development` |
+| [Intelligence Refinement](development/979-skill_4e48173d/) | [Unknown](#) | N/A | `development` |
+| [scikit-bio API Reference](development/051-api_reference_b7a3c128/) | [Unknown](#) | N/A | `data analysis` |
+| [Claude API Reference](development/046-api-reference_3f90e289/) | [Unknown](#) | N/A | `development` |
+| [str, arguments: dict) -> list[TextContent]:](development/1087-tools_f261f11d/) | [Unknown](#) | N/A | `development` |
+| [agile-sprint-planning](development/979-skill_a04ab486/) | [Unknown](#) | N/A | `daily assistant` |
+| [Official Salesforce Architect ERD Aesthetic Guide](development/054-architect-aesthetic-guide_405d14d5/) | [Unknown](#) | N/A | `data analysis` |
+| [tile_image})](development/541-machine_learning_e55735f0/) | [Unknown](#) | N/A | `development` |
+| [** `scrape_url` is being called but doesn](development/050-api_failure_analysis_e730497c/) | [Unknown](#) | N/A | `development` |
+| [Writing Hookify Rules](development/979-skill_cf7a6a0b/) | [Unknown](#) | N/A | `content creation` |
+| [adding-new-ai-format](development/979-skill_e455b7a2/) | [Unknown](#) | N/A | `development` |
+| [threejs](development/979-skill_d7a80b29/) | [Unknown](#) | N/A | `data analysis` |
+| [str](development/897-reference-set-ext-16-agentic-security_d10ae89e/) | [Unknown](#) | N/A | `development` |
+| [ADR 016: Addressable and Structured Addresses](development/017-addressable-and-structured-addresses_e23654ec/) | [Unknown](#) | N/A | `data analysis` |
+| [llms.txt Support](development/532-llms_txt_support_c10322a9/) | [Unknown](#) | N/A | `development` |
+| [Stable Baselines3 Algorithm Reference](development/032-algorithms_5068ea8e/) | [Unknown](#) | N/A | `daily assistant` |
+| [编码攻击方法](development/722-prompt-eval_method_encoding_d0527875/) | [Unknown](#) | N/A | `development` |
+| [Credits & Acknowledgments](development/239-credits_5dc3604b/) | [Unknown](#) | N/A | `development` |
+| [`--client-app Agentforce_Preview_App`](development/192-connected-app-setup_9ffc1f76/) | [Unknown](#) | N/A | `development` |
+| [odoo-18](development/979-skill_c70bdaec/) | [Unknown](#) | N/A | `development` |
+| [gget](development/979-skill_1f013de9/) | [Unknown](#) | N/A | `data analysis` |
+| [Interview Questions Reference](development/488-interview-questions_caebd524/) | [Unknown](#) | N/A | `development` |
+| [1. Ensure that the domains that are part of your organization are resolved by your internal DNS server first in the chains of DNS resolvers.](development/853-reference-set-03-ssrf-prevention_48a812bf/) | [Unknown](#) | N/A | `development` |
+| [Cloudflare Platform Overview](development/154-cloudflare-platform_d009a10f/) | [Unknown](#) | N/A | `development` |
+| [agent-api-designer](development/979-skill_04f6cb9b/) | [Unknown](#) | N/A | `development` |
+| [[_____] │ │ Type: [Dropdown ▼] │ │                   │       │](development/246-custom-lightning-types_1f81a5de/) | [Unknown](#) | N/A | `development` |
+| [Visualization & Simulation in PyLabRobot](development/1133-visualization_bda04059/) | [Unknown](#) | N/A | `development` |
+| [prd-doc-writer](development/979-skill_cd4685f3/) | [Unknown](#) | N/A | `development` |
+| [Troubleshooting Guide](development/1097-troubleshooting_59629171/) | [Unknown](#) | N/A | `content creation` |
+| [install-mkdocs-template](development/979-skill_c40c4d84/) | [Unknown](#) | N/A | `content creation` |
+| [Liquid Handling with PyLabRobot](development/525-liquid-handling_71a6f02e/) | [Unknown](#) | N/A | `development` |
+| [Key Management Cheat Sheet](development/869-reference-set-06-key-management_8d29220d/) | [Unknown](#) | N/A | `development` |
+| [Turborepo Setup & Configuration](development/1099-turborepo-setup_429c0ed6/) | [Unknown](#) | N/A | `data analysis` |
+| [Motion/Drift Correction Reference](development/606-motion_correction_c9e2d070/) | [Unknown](#) | N/A | `data analysis` |
+| [Prompt Patterns](development/729-prompt-patterns_de74e547/) | [Unknown](#) | N/A | `development` |
+| [str,      # Parser name](development/359-extraction_0e50569b/) | [Unknown](#) | N/A | `content creation` |
+| [Prototype Pollution Prevention Cheat Sheet](development/864-reference-set-05-prototype-pollution-prevention_89e61234/) | [Unknown](#) | N/A | `development` |
+| [voice-changer](development/979-skill_53aafa83/) | [Unknown](#) | N/A | `development` |
+| [p5.js Architecture and Execution Model](development/468-index_ca90c619/) | [Unknown](#) | N/A | `data analysis` |
+| [Claude Skill Registry](development/979-skill_74369df0/) | [Unknown](#) | N/A | `content creation` |
+| [ADR 017: The Resource and Ref Architecture](development/912-resource-and-ref-architecture_51aed8c5/) | [Unknown](#) | N/A | `development` |
+| [websocket-engineer](development/979-skill_77328743/) | [Unknown](#) | N/A | `development` |
+| [agent-prompt-design](development/979-skill_3fb4b12c/) | [Unknown](#) | N/A | `daily assistant` |
+| [accessing-github-repos](development/979-skill_ac537461/) | [Unknown](#) | N/A | `development` |
+| [acceptance-test-writing](development/979-skill_2805fd9b/) | [Unknown](#) | N/A | `development` |
+| [`json`](development/1092-transformation_1ec235a5/) | [Unknown](#) | N/A | `data analysis` |
+| [Orphaned Nodes Identification Chart](development/468-index_b281807b/) | [Unknown](#) | N/A | `data analysis` |
+| [Systematic Debugging](development/1051-systematic-debugging_1e4a89c6/) | [Unknown](#) | N/A | `development` |
+| [agentic-jumpstart-security](development/979-skill_e7612f80/) | [Unknown](#) | N/A | `development` |
+| [agent-technical-writer](development/979-skill_c3248212/) | [Unknown](#) | N/A | `development` |
+| [sims/[diagram-name]/index.md](development/1124-venn-diagram-generator_36d72f9e/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-browser](development/979-skill_02aee2e8/) | [Unknown](#) | N/A | `development` |
+| [abaqus-optimization](development/979-skill_03a0f6fc/) | [Unknown](#) | N/A | `development` |
+| [Python JSON](development/979-skill_52489389/) | [Unknown](#) | N/A | `development` |
+| [MicroSim Generator Matching Criteria](development/924-routing-criteria_be185537/) | [Unknown](#) | N/A | `data analysis` |
+| [MCP漏洞报告专业审查专家](development/1138-vuln_review_0884fa25/) | [Unknown](#) | N/A | `development` |
+| [Supervertaler - Frequently Asked Questions](development/360-faq_e70039e4/) | [Unknown](#) | N/A | `development` |
+| [Simplicity vs Easy](development/978-simplicity-vs-easy_b7755a28/) | [Unknown](#) | N/A | `development` |
+| [Intelligent Textbook Creation Workshop](development/481-intelligent-textbook-workshop-outline_3e2eeaa4/) | [Unknown](#) | N/A | `data analysis` |
+| [Credits & Acknowledgments](development/239-credits_0b6bcabb/) | [Unknown](#) | N/A | `development` |
+| [Vectorized Environments in Stable Baselines3](development/1123-vectorized_envs_0b2efb8b/) | [Unknown](#) | N/A | `development` |
+| [PDD Onboarding Guide](development/635-onboarding_1faf7378/) | [Unknown](#) | N/A | `development` |
+| [Documentation Improvement](development/317-documentation_c1ecfe17/) | [Unknown](#) | N/A | `development` |
+| [Mobile Application Security Cheat Sheet](development/895-reference-set-ext-14-mobile-security_a404bc73/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/813-readme_flat_workflows_az_45d3ff70/) | [Unknown](#) | N/A | `development` |
+| [Backend Development Mindset](development/090-backend-mindset_078b6f8a/) | [Unknown](#) | N/A | `development` |
+| [Vulnerability Test Payloads](development/1140-vulnerability-payloads_c878e61d/) | [Unknown](#) | N/A | `development` |
+| [skill-seekers](development/988-skill_header_f8b9006e/) | [Unknown](#) | N/A | `development` |
+| [chromium](development/241-cross-browser-checklist_3e5ef057/) | [Unknown](#) | N/A | `development` |
+| [Research Report: Converting claudekit-skills to Claude Code Marketplace](development/909-research-251229-1149-marketplace-conversion_9b99dd4b/) | [Unknown](#) | N/A | `content creation` |
+| [aesthetic](development/979-skill_c332f5bb/) | [Unknown](#) | N/A | `content creation` |
+| [backend-to-frontend-handoff-docs](development/979-skill_b77b4b7d/) | [Unknown](#) | N/A | `development` |
+| [Denial of Service Cheat Sheet](development/878-reference-set-09-dos-prevention_14f79d8d/) | [Unknown](#) | N/A | `development` |
+| [second-brain](development/979-skill_ed52008b/) | [Unknown](#) | N/A | `development` |
+| [senior-fullstack](development/979-skill_49626b21/) | [Unknown](#) | N/A | `development` |
+| [Concept Enumeration and Dependencies](development/468-index_81067d0d/) | [Unknown](#) | N/A | `data analysis` |
+| [acgme-compliance](development/979-skill_cd16859e/) | [Unknown](#) | N/A | `content creation` |
+| [accessibility-checklist](development/979-skill_87dbafc6/) | [Unknown](#) | N/A | `accessibility` `a11y` `frontend` |
+| [z.string().min(2).max(50),](development/974-shadcn-components_79c4f91c/) | [Unknown](#) | N/A | `daily assistant` |
+| [Credits & Acknowledgments](development/239-credits_d4e6cdaa/) | [Unknown](#) | N/A | `development` |
+| [Educational Resources and Assessment](development/468-index_106c1a44/) | [Unknown](#) | N/A | `data analysis` |
+| [Celebration Animation Generator](development/132-celebration-generator_7e303116/) | [Unknown](#) | N/A | `development` |
+| [map-generator](development/979-skill_7db19ec0/) | [Unknown](#) | N/A | `data analysis` |
+| [Colin CLI Guide](development/170-colin-cli_5dd62c2e/) | [Unknown](#) | N/A | `data analysis` |
+| [design-system-starter](development/979-skill_f5efbd84/) | [Unknown](#) | N/A | `design-system` `ui` `components` |
+| [Introduction](development/489-introduction_3fcd78ed/) | [Unknown](#) | N/A | `development` |
+| [abaqus-step](development/979-skill_d87dfad9/) | [Unknown](#) | N/A | `content creation` |
+| [MicroSim Utils - TODO](development/1082-todo_5046cda6/) | [Unknown](#) | N/A | `daily assistant` |
+| [!Ref LogBucket](development/828-reference_60a8fce9/) | [Unknown](#) | N/A | `development` |
+| [Scripts & Batch Operations](development/940-scripts_5cace328/) | [Unknown](#) | N/A | `data analysis` |
+| [Web Service Security Cheat Sheet](development/882-reference-set-09-web-service-security_2fe88091/) | [Unknown](#) | N/A | `development` |
+| [BigQuery Guide for IDC](development/104-bigquery_guide_bea3f426/) | [Unknown](#) | N/A | `development` |
+| [inspecting-skills](development/979-skill_0ef90724/) | [Unknown](#) | N/A | `development` |
+| [nestjs-expert](development/979-skill_047400fe/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_c83a7090/) | [Unknown](#) | N/A | `development` |
+| [add-module](development/979-skill_4be2acdc/) | [Unknown](#) | N/A | `development` |
+| [spring-boot-crud-patterns](development/979-skill_047e4588/) | [Unknown](#) | N/A | `spring-boot` `java` `ddd` |
+| [Skill-First Learning Setup](development/979-skill_35b02883/) | [Unknown](#) | N/A | `data analysis` |
+| [Paddle Webhooks](development/1144-webhooks_df944739/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/926-run-glossary-generator-skill_f72b0807/) | [Unknown](#) | N/A | `development` |
+| [ADR 008: Universal File Types and URI Schemes](development/376-file-types-and-uri-schemes_d517325d/) | [Unknown](#) | N/A | `development` |
+| [.eventOccurred,](development/069-async-concurrency_7555824c/) | [Unknown](#) | N/A | `development` |
+| [zarr-python](development/979-skill_9a229bc1/) | [Unknown](#) | N/A | `development` |
+| [Cloudflare R2 Storage](development/155-cloudflare-r2-storage_03c90dd2/) | [Unknown](#) | N/A | `content creation` |
+| [anomaly-detector](development/979-skill_dd4b1e54/) | [Unknown](#) | N/A | `data analysis` |
+| [datamol](development/979-skill_12c3a1d1/) | [Unknown](#) | N/A | `data analysis` |
+| [image-generator](development/979-skill_d20abb30/) | [Unknown](#) | N/A | `content creation` |
+| [sf-diagram Color Palette](development/171-color-palette_152a4da8/) | [Unknown](#) | N/A | `data analysis` |
+| [apex-video-generator](development/979-skill_e62290f0/) | [Unknown](#) | N/A | `content creation` |
+| [add-api-endpoint](development/979-skill_16ae5d44/) | [Unknown](#) | N/A | `development` |
+| [latchbio-integration](development/979-skill_4190ca35/) | [Unknown](#) | N/A | `development` |
+| [Architecture Patterns Reference](development/062-architecture_patterns_29f2f854/) | [Unknown](#) | N/A | `development` |
+| [简介](development/489-introduction_c1a29b59/) | [Unknown](#) | N/A | `development` |
+| [`quickmenu_quickmenu` → `sv_quickmenu`**](development/028-agents_fe395c40/) | [Unknown](#) | N/A | `development` |
+| [FAQ](development/360-faq_80fb1d50/) | [Unknown](#) | N/A | `development` |
+| [Spring Boot Test API Reference](development/046-api-reference_88fea54c/) | [Unknown](#) | N/A | `development` |
+| [STRIDE 威胁建模系统架构分析](development/981-skill-architecture-design-cn_c5aa74e8/) | [Unknown](#) | N/A | `development` |
+| [快速开始](development/760-quickstart_e9fc2977/) | [Unknown](#) | N/A | `development` |
+| [Authentication Bypass Detection](development/560-mcp-scan_en_eb30169e/) | [Unknown](#) | N/A | `development` |
+| [Clinical Case Report Guidelines](development/125-case_report_guidelines_19e101fa/) | [Unknown](#) | N/A | `content creation` |
+| [_____________________](development/443-hipaa_compliance_framework_307b4ac3/) | [Unknown](#) | N/A | `development` |
+| [reset](development/979-skill_883382a8/) | [Unknown](#) | N/A | `development` |
+| [LLM-Specific Anti-Patterns in Apex](development/529-llm-anti-patterns_a95c91d8/) | [Unknown](#) | N/A | `development` |
+| [Implementing Server-Side UI Renderer](development/465-implementing_serverside_f997473a/) | [Unknown](#) | N/A | `development` |
+| [unit-test-security-authorization](development/979-skill_a448f85f/) | [Unknown](#) | N/A | `junit-5` `spring-security` `authorization` |
+| [affordances](development/979-skill_835ec70c/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/800-readme_flat_skills_updated_1c001e50/) | [Unknown](#) | N/A | `development` |
+| [chembl-database](development/979-skill_2171fdbf/) | [Unknown](#) | N/A | `development` |
+| [Prompt‑Driven Development Prompting Guide](development/730-prompting_guide_86c21f98/) | [Unknown](#) | N/A | `development` |
+| [Art of README](development/065-art-of-readme_8ca299e4/) | [Unknown](#) | N/A | `development` |
+| [clinicaltrials-database](development/979-skill_4ec0470f/) | [Unknown](#) | N/A | `development` |
+| [abaqus-docs](development/979-skill_74b5b9f2/) | [Unknown](#) | N/A | `development` |
+| [OPEN-WEBUI](development/1153-workflow_bb5eab28/) | [Unknown](#) | N/A | `daily assistant` |
+| [airtable](development/979-skill_ef98e30e/) | [Unknown](#) | N/A | `development` |
+| [{ts_uid.name}](development/1090-transfer_syntaxes_a9b00477/) | [Unknown](#) | N/A | `content creation` |
+| [amplitude](development/979-skill_e6346cc0/) | [Unknown](#) | N/A | `data analysis` |
+| [Introduction to AI and Intelligent Textbooks](development/468-index_845227ee/) | [Unknown](#) | N/A | `development` |
+| [FRED GeoFRED Endpoints](development/418-geofred_0b5745ff/) | [Unknown](#) | N/A | `data analysis` |
+| [Major World Cities](development/468-index_c16186a0/) | [Unknown](#) | N/A | `development` |
+| [Chapter Content Generator](development/134-chapter-content-generator_2208f1dd/) | [Unknown](#) | N/A | `data analysis` |
+| [Standalone Prompts Guide](development/1020-standalone-prompts_466b6dee/) | [Unknown](#) | N/A | `content creation` |
+| [In GitLab CI/CD Variables, set:](development/771-readme_dashboard_1d8b16e0/) | [Unknown](#) | N/A | `development` |
+| [Claude Code T-Shirt Design](development/468-index_d9ef1b56/) | [Unknown](#) | N/A | `development` |
+| [Data-Oriented Design](development/255-data-over-abstractions_fdfa218c/) | [Unknown](#) | N/A | `development` |
+| [airoha](development/979-skill_f79f10fb/) | [Unknown](#) | N/A | `daily assistant` |
+| [add-custom-mob](development/979-skill_4ec11a4d/) | [Unknown](#) | N/A | `development` |
+| [timeline-generator](development/979-skill_bb3bbfab/) | [Unknown](#) | N/A | `content creation` |
+| [Skill-First Learning Application](development/979-skill_f18e7275/) | [Unknown](#) | N/A | `daily assistant` |
+| [agent-ops-docker-review](development/979-skill_b1a5b353/) | [Unknown](#) | N/A | `data analysis` |
+| [pydeseq2](development/979-skill_62c9c5da/) | [Unknown](#) | N/A | `data analysis` |
+| [creating-bookmarklets](development/979-skill_9a23b601/) | [Unknown](#) | N/A | `development` |
+| [Multi-Platform Upload Guide](development/1114-upload_guide_2f3f096b/) | [Unknown](#) | N/A | `development` |
+| [NPM Security best practices](development/891-reference-set-ext-12-npm-security_caca2829/) | [Unknown](#) | N/A | `development` |
+| [/aws/lambda/my-function](development/103-best_practices_075aeade/) | [Unknown](#) | N/A | `development` |
+| [access-control-rbac](development/979-skill_414bbe22/) | [Unknown](#) | N/A | `content creation` |
+| [Data Management & Storage](development/256-data_management_5d2448b0/) | [Unknown](#) | N/A | `data analysis` |
+| [glossary-generator` and `description: Generate ISO 11179-compliant glossaries from concept lists`.](development/429-glossary_c0b58995/) | [Unknown](#) | N/A | `development` |
+| [火山引擎模型购买指南](development/1134-volcengine-purchase-guide_64d93921/) | [Unknown](#) | N/A | `development` |
+| [Session Log: Create ChartJS Generator Skill](development/226-create-chartjs-generator-skill_a352f920/) | [Unknown](#) | N/A | `data analysis` |
+| [Security Zones Diagram](development/468-index_aa7246bb/) | [Unknown](#) | N/A | `data analysis` |
+| [Jailbreak Evaluation](development/727-prompt-eval_opensource_en_dc5023d6/) | [Unknown](#) | N/A | `development` |
+| [** `scrape_pdf`](development/677-pdf_mcp_tool_48095ee6/) | [Unknown](#) | N/A | `development` |
+| [Course Design and Educational Theory](development/468-index_e21ba027/) | [Unknown](#) | N/A | `development` |
+| [senior-secops](development/979-skill_4003717f/) | [Unknown](#) | N/A | `development` |
+| [Salesforce CLI Commands Reference](development/972-sf-cli-commands_058742e5/) | [Unknown](#) | N/A | `development` |
+| [Materials Project API Reference](development/553-materials_project_api_9af1daa4/) | [Unknown](#) | N/A | `development` |
+| [alerting](development/979-skill_9ae04fb0/) | [Unknown](#) | N/A | `development` |
+| [Threat Modeling Skill v3.0.0](development/766-readme-cn_6c987ebf/) | [Unknown](#) | N/A | `development` |
+| [SHAP Visualization Reference](development/695-plots_cb1a7392/) | [Unknown](#) | N/A | `data analysis` |
+| [Authentication Module](development/653-p2-dfd-analysis_8d43ee44/) | [Unknown](#) | N/A | `data analysis` |
+| [Prompt安全评测-说明文档（for A.I.G）](development/819-readme_zh_9d01b994/) | [Unknown](#) | N/A | `data analysis` |
+| [abaqus-coupled-analysis](development/979-skill_caede42c/) | [Unknown](#) | N/A | `development` |
+| [Patient Documentation Standards](development/670-patient_documentation_bfff1db2/) | [Unknown](#) | N/A | `development` |
+| [agent-sdk](development/979-skill_02bf3f4d/) | [Unknown](#) | N/A | `development` |
+| [Internet Boundary](development/654-p3-trust-boundary_58c1d804/) | [Unknown](#) | N/A | `daily assistant` |
+| [Electromyography (EMG) Analysis](development/333-emg_87dce7c7/) | [Unknown](#) | N/A | `data analysis` |
+| [Salesforce Field Types Guide](development/375-field-types-guide_f45e3727/) | [Unknown](#) | N/A | `development` |
+| [amplifier-modulebuilder-skill](development/979-skill_006b5d12/) | [Unknown](#) | N/A | `development` |
+| [agent-md-refactor](development/979-skill_f20e68b5/) | [Unknown](#) | N/A | `development` |
+| [Lipitor](development/321-drugs_6e3e73f4/) | [Unknown](#) | N/A | `development` |
+| [Architecture Verification Report](development/063-architecture_verification_report_2a5c4268/) | [Unknown](#) | N/A | `development` |
+| [Apex Security Guide](development/948-security-guide_4c891e97/) | [Unknown](#) | N/A | `development` |
+| [dev-browser](development/979-skill_3f04e810/) | [Unknown](#) | N/A | `content creation` |
+| [Run npm audit](development/302-devkittssecurity-review_e0604892/) | [Unknown](#) | N/A | `development` |
+| [Scheduled Jobs and Cron](development/935-scheduled-jobs_9be2c4e1/) | [Unknown](#) | N/A | `daily assistant` |
+| [accountName,](development/533-lms-guide_edc1ae8b/) | [Unknown](#) | N/A | `development` |
+| [Gemini CLI Integration Guide](development/402-gemini-cli-integration_4e8123a3/) | [Unknown](#) | N/A | `development` |
+| [ai-tools](development/979-skill_88e22657/) | [Unknown](#) | N/A | `content creation` |
+| [Backend Security](development/092-backend-security_ba5e857e/) | [Unknown](#) | N/A | `development` |
+| [Architecture Decision Guide](development/056-architecture-decisions_9cc7722d/) | [Unknown](#) | N/A | `development` |
+| [FFmpeg Streaming & Live Video](development/372-ffmpeg-streaming_087eab32/) | [Unknown](#) | N/A | `content creation` |
+| [Instructions](development/140-claude_cd9aa359/) | [Unknown](#) | N/A | `development` |
+| [bioservices](development/979-skill_d267eb1c/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill Catalog](development/126-catalog_cd516dcc/) | [Unknown](#) | N/A | `development` |
+| [`align-${alignment}${showBorder ?](development/439-gutenberg-blocks_ac5ce4b7/) | [Unknown](#) | N/A | `content creation` |
+| [fecfile](development/979-skill_75b30f98/) | [Unknown](#) | N/A | `content creation` |
+| [Asset Loading](development/534-loaders_5975da9f/) | [Unknown](#) | N/A | `development` |
+| [sf-ai-agentscript](development/979-skill_7d7f7858/) | [Unknown](#) | N/A | `development` |
+| [my-key-pair](development/828-reference_22846987/) | [Unknown](#) | N/A | `development` |
+| [LLM 配置](development/528-llm_ea8ba5e0/) | [Unknown](#) | N/A | `data analysis` |
+| [Bug Report](development/112-bug_report_4606131c/) | [Unknown](#) | N/A | `development` |
+| [Integration Security Best Practices](development/947-security-best-practices_2897adac/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills Architecture and Development](development/468-index_73b59050/) | [Unknown](#) | N/A | `data analysis` |
+| [Regression Checklist (Chrome Extension / promptV2.0)](development/900-regression-checklist_592434be/) | [Unknown](#) | N/A | `development` |
+| [Best Practices](development/102-best-practices_36f68db5/) | [Unknown](#) | N/A | `development` |
+| [fastapi-expert](development/979-skill_628163bf/) | [Unknown](#) | N/A | `development` |
+| [+ opp.Name +](development/595-models-api_74c3e976/) | [Unknown](#) | N/A | `development` |
+| [Control Set 14: AI/LLM Security (AI)](development/211-control-set-ext-13-ai-llm_de2f5c66/) | [Unknown](#) | N/A | `data analysis` |
+| [OAuth2 Integration with JWT](development/630-oauth2-integration_0f28ba05/) | [Unknown](#) | N/A | `content creation` |
+| [learning-graph-generator](development/360-faq_1defb95f/) | [Unknown](#) | N/A | `data analysis` |
+| [WSDL to Apex Generation Guide](development/1158-wsdl2apex-guide_6195e9f6/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_06d77b74/) | [Unknown](#) | N/A | `development` |
+| [DOM Clobbering Prevention Cheat Sheet](development/859-reference-set-05-dom-clobbering-prevention_075c527b/) | [Unknown](#) | N/A | `development` |
+| [Credits & Acknowledgments](development/239-credits_332e7f3a/) | [Unknown](#) | N/A | `development` |
+| [Internet Boundary](development/654-p3-trust-boundary_622da854/) | [Unknown](#) | N/A | `daily assistant` |
+| [Content Element Types for Textbook Chapters](development/194-content-element-types_01a50857/) | [Unknown](#) | N/A | `data analysis` |
+| [Pagination Patterns](development/663-pagination_6f12180b/) | [Unknown](#) | N/A | `development` |
+| [ClinVar Clinical Significance Interpretation Guide](development/150-clinical_significance_5e678ed0/) | [Unknown](#) | N/A | `development` |
+| [test-client](development/561-mcp-server-setup_4dca7d9a/) | [Unknown](#) | N/A | `development` |
+| [Authentication Cheat Sheet](development/829-reference-set-01-authentication_7f047941/) | [Unknown](#) | N/A | `development` |
+| [Code Smells & Refactoring Guide](development/162-code-smells-guide_85c389a3/) | [Unknown](#) | N/A | `development` |
+| [Paddle Overview](development/650-overview_d7a8f666/) | [Unknown](#) | N/A | `development` |
+| [KEGG Database Reference](development/501-kegg_reference_6aa638ec/) | [Unknown](#) | N/A | `data analysis` |
+| [Tailwind CSS Utility Reference](development/1056-tailwind-utilities_aba1c40e/) | [Unknown](#) | N/A | `development` |
+| [spring-boot-engineer](development/979-skill_f8dfdcee/) | [Unknown](#) | N/A | `development` |
+| [ESM C API Reference](development/343-esm-c-api_4560fc04/) | [Unknown](#) | N/A | `development` |
+| [AgentObservability](development/979-skill_40b47c54/) | [Unknown](#) | N/A | `data analysis` |
+| [Cloudflare Workers Basics](development/158-cloudflare-workers-basics_a975a4f0/) | [Unknown](#) | N/A | `development` |
+| [app](development/504-kubernetes_7da17b4e/) | [Unknown](#) | N/A | `development` |
+| [BioServices: Complete Services Reference](development/961-services_reference_a39c40ef/) | [Unknown](#) | N/A | `development` |
+| [Performance Optimization Guide for LWC](development/684-performance-guide_e9100d1d/) | [Unknown](#) | N/A | `development` |
+| [feishu-docx](development/140-claude_bc48c203/) | [Unknown](#) | N/A | `development` |
+| [unit-test-exception-handler](development/979-skill_523e0d56/) | [Unknown](#) | N/A | `junit-5` `exception-handler` `controller-advice` |
+| [Event-Driven Integration Patterns](development/349-event-patterns_cc494593/) | [Unknown](#) | N/A | `development` |
+| [```bash](development/1157-workshop-prework_70c8d189/) | [Unknown](#) | N/A | `development` |
+| [Application Logging Vocabulary Cheat Sheet](development/874-reference-set-07-logging-vocabulary_9d4943cd/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-code-selector](development/979-skill_451cd78f/) | [Unknown](#) | N/A | `development` |
+| [Complexity and Entropy Analysis](development/184-complexity_03613cf0/) | [Unknown](#) | N/A | `development` |
+| [pylabrobot](development/979-skill_8ac2e3b5/) | [Unknown](#) | N/A | `development` |
+| [add-agent-templates](development/979-skill_3d4a3250/) | [Unknown](#) | N/A | `development` |
+| [string; size?: number }) {](development/904-remix-icon-integration_5f2d77e5/) | [Unknown](#) | N/A | `content creation` |
+| [Discussions API](development/310-discussions_67885f9d/) | [Unknown](#) | N/A | `content creation` |
+| [Technical Jargon Simplification Guide](development/495-jargon-simplification_dea1a1a5/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-code-factory](development/979-skill_29143075/) | [Unknown](#) | N/A | `development` |
+| [My Project](development/1101-typedoc-configuration_693f8a81/) | [Unknown](#) | N/A | `development` |
+| [Interactive Elements and MicroSims](development/468-index_8c25e370/) | [Unknown](#) | N/A | `development` |
+| [agent-memory](development/979-skill_7ffad38e/) | [Unknown](#) | N/A | `tag1` `tag2` |
+| [sf-metadata](development/979-skill_8e5d9516/) | [Unknown](#) | N/A | `development` |
+| [Threat Modeling](development/203-control-set-03-input-validation_9ce76238/) | [Unknown](#) | N/A | `development` |
+| [TOC Anchor Generation](development/1081-toc-anchor-generation_40a9269d/) | [Unknown](#) | N/A | `development` |
+| [Software Supply Chain Security](development/892-reference-set-ext-12-supply-chain-security_1e87a85c/) | [Unknown](#) | N/A | `development` |
+| [German BDSG Requirements](development/420-german_bdsg_requirements_c61e760a/) | [Unknown](#) | N/A | `content creation` |
+| [Hooks Patterns](development/447-hooks-patterns_1b812584/) | [Unknown](#) | N/A | `data analysis` |
+| [Payment_Agent](development/010-actions-reference_3fc449fe/) | [Unknown](#) | N/A | `development` |
+| [MicroSim File Relationship Diagram](development/578-microsim-file-relationship-diagram_15be6122/) | [Unknown](#) | N/A | `development` |
+| [alibaba-cloud](development/979-skill_9404660d/) | [Unknown](#) | N/A | `development` |
+| [gpt-4o-mini](development/898-references_94bb3f5b/) | [Unknown](#) | N/A | `development` |
+| [`{framework-name}.json`](development/360-faq_7093d392/) | [Unknown](#) | N/A | `development` |
+| [IBM Instana MCP Server](development/475-instana_ec5ecaf6/) | [Unknown](#) | N/A | `development` |
+| [REST Assessment Cheat Sheet](development/881-reference-set-09-rest-assessment_86c7b535/) | [Unknown](#) | N/A | `development` |
+| [Spring AI MCP Server API Reference](development/046-api-reference_6d3e6efb/) | [Unknown](#) | N/A | `development` |
+| [FAQ Question Pattern Analysis Workflow](development/363-faq-question-pattern-analysis-workflow_decf2934/) | [Unknown](#) | N/A | `data analysis` |
+| [Quality Metrics Reference](development/750-quality_metrics_4a7d35eb/) | [Unknown](#) | N/A | `data analysis` |
+| [MCP漏洞动态验证Agent](development/324-dynamic_verification_a9320993/) | [Unknown](#) | N/A | `development` |
+| [aeon](development/979-skill_c45c5d51/) | [Unknown](#) | N/A | `development` |
+| [myapp](development/511-kubernetes-troubleshooting-advanced_9922fd41/) | [Unknown](#) | N/A | `development` |
+| [MCP Server Quick Start Guide](development/756-quick-start_666694e5/) | [Unknown](#) | N/A | `development` |
+| [fred-economic-data](development/979-skill_8b0d1e8a/) | [Unknown](#) | N/A | `daily assistant` |
+| [MicroSim File Relationship Diagram](development/468-index_ca975781/) | [Unknown](#) | N/A | `data analysis` |
+| [human](development/754-query_syntax_80f48f9f/) | [Unknown](#) | N/A | `development` |
+| [Installing the Glossary Generator Skill](development/473-install_ee290988/) | [Unknown](#) | N/A | `development` |
+| [Actix-web Framework](development/979-skill_18f110d9/) | [Unknown](#) | N/A | `development` |
+| [pufferlib](development/979-skill_7eea50bc/) | [Unknown](#) | N/A | `development` |
+| [alexa-cli](development/979-skill_336f2efd/) | [Unknown](#) | N/A | `development` |
+| [Getting Started Guide for Installing Textbook Generation Skills in Claude Code](development/421-getting-started_8a3b59d7/) | [Unknown](#) | N/A | `content creation` |
+| [Maintenancepm](development/979-skill_2b999d7d/) | [Unknown](#) | N/A | `daily assistant` |
+| [ffuf-web-fuzzing](development/979-skill_6765af5f/) | [Unknown](#) | N/A | `development` |
+| [Skill Context Window](development/468-index_82c57dc1/) | [Unknown](#) | N/A | `development` |
+| [Spring Security](development/1018-spring-security_e7cd092f/) | [Unknown](#) | N/A | `development` |
+| [Quiz: Introduction to AI and Intelligent Textbooks](development/761-quiz_c2beeaab/) | [Unknown](#) | N/A | `development` |
+| [Configuration](development/191-configuration_c66e5233/) | [Unknown](#) | N/A | `development` |
+| [skill-name-in-kebab-case](development/414-generate-content-for-chapters-1-5_3a694be6/) | [Unknown](#) | N/A | `development` |
+| [anthropic-expert](development/979-skill_e92dde02/) | [Unknown](#) | N/A | `development` |
+| [Installation Guide](development/474-installation_3a41b0dd/) | [Unknown](#) | N/A | `data analysis` |
+| [BLAST Operations with Bio.Blast](development/108-blast_a1a4caa1/) | [Unknown](#) | N/A | `development` |
+| [cobrapy](development/979-skill_aa5b1d1a/) | [Unknown](#) | N/A | `data analysis` |
+| [chartjs-generator](development/979-skill_95d00efc/) | [Unknown](#) | N/A | `data analysis` |
+| [Project Structure and Module Management](development/718-project-structure_dcc0e9e4/) | [Unknown](#) | N/A | `development` |
+| [configuring](development/979-skill_c3cdf8b3/) | [Unknown](#) | N/A | `development` |
+| [app-hpa](development/122-capacity-planning_8f9cdd49/) | [Unknown](#) | N/A | `development` |
+| [Behavioral Control Attack Methods](development/725-prompt-eval_methpd_behavioralcontrol_en_21bbbdc7/) | [Unknown](#) | N/A | `development` |
+| [add-project](development/979-skill_a2bbe0b9/) | [Unknown](#) | N/A | `daily assistant` |
+| [Course Title](development/410-generate-chapter-8-content_0715b0ad/) | [Unknown](#) | N/A | `data analysis` |
+| [controlling-spotify](development/979-skill_54a59026/) | [Unknown](#) | N/A | `development` |
+| [[Auto_Lead_Assignment]](development/386-flow-best-practices_f75e90bc/) | [Unknown](#) | N/A | `development` |
+| [esm](development/979-skill_8946e236/) | [Unknown](#) | N/A | `development` |
+| [LLM inference](development/528-llm_fb9a81ed/) | [Unknown](#) | N/A | `development` |
+| [C-Level Advisory Skills - Claude Code Guidance](development/140-claude_b2ed1633/) | [Unknown](#) | N/A | `development` |
+| [DNAnexus App Configuration and Dependencies](development/191-configuration_98624a29/) | [Unknown](#) | N/A | `development` |
+| [salesforce-developer](development/979-skill_0e20b1b7/) | [Unknown](#) | N/A | `development` |
+| [Cross Site Scripting Prevention Cheat Sheet](development/866-reference-set-05-xss-prevention_eef068a5/) | [Unknown](#) | N/A | `development` |
+| [Device Authorization Flow Template](development/286-device-authorization_4aec3895/) | [Unknown](#) | N/A | `development` |
+| [add-language](development/979-skill_e8a4b2a1/) | [Unknown](#) | N/A | `development` |
+| [memU](development/817-readme_ja_d7a98404/) | [Unknown](#) | N/A | `content creation` |
+| [agentuity-cli-cloud-sandbox-run](development/979-skill_d9713fb9/) | [Unknown](#) | N/A | `development` |
+| [sf-flow](development/979-skill_f2f0da23/) | [Unknown](#) | N/A | `daily assistant` |
+| [Coordinate Reference Systems (CRS)](development/242-crs-management_3e78919e/) | [Unknown](#) | N/A | `development` |
+| [pymoo](development/979-skill_385cde37/) | [Unknown](#) | N/A | `data analysis` |
+| [Installer Skill TODO](development/1082-todo_3dc30912/) | [Unknown](#) | N/A | `content creation` |
+| [AI Collaboration Standards](development/979-skill_6109ca43/) | [Unknown](#) | N/A | `development` |
+| [Openviking](development/1052-table_format_16f96b65/) | [Unknown](#) | N/A | `development` |
+| [Web Layer - Controllers & REST APIs](development/1141-web_670edd1b/) | [Unknown](#) | N/A | `development` |
+| [Map Generator](development/545-map-generator_6bc160f4/) | [Unknown](#) | N/A | `data analysis` |
+| [Internet/DMZ](development/502-knowledge-architecture-v52-cn_7a1fa993/) | [Unknown](#) | N/A | `development` |
+| [Course Title](development/468-index_fd7ea9ac/) | [Unknown](#) | N/A | `development` |
+| [Metrics Reference](development/575-metrics_e9a56f75/) | [Unknown](#) | N/A | `development` |
+| [Grok (xAI) Provider](development/437-grok_9ae29dc9/) | [Unknown](#) | N/A | `development` |
+| [Modern PHP 8.3+ Features](development/598-modern-php-features_7bc26e32/) | [Unknown](#) | N/A | `development` |
+| [Dashboards Reference](development/252-dashboards_6f4a2505/) | [Unknown](#) | N/A | `development` |
+| [Introduction to Learning Graphs](development/468-index_22bc54ff/) | [Unknown](#) | N/A | `development` |
+| [frontend-design](development/979-skill_44bac5b9/) | [Unknown](#) | N/A | `development` |
+| [Log Commands Reference](development/537-logs-commands_cda2f010/) | [Unknown](#) | N/A | `development` |
+| [3d-cv-labeling-2026](development/979-skill_8e8c8ad0/) | [Unknown](#) | N/A | `development` |
+| [Best Practices for Scientific Diagrams](development/103-best_practices_bbf13ced/) | [Unknown](#) | N/A | `data analysis` |
+| [Spec Builder Patterns: Build Charts Programmatically](development/1005-spec-builder-patterns_2282ecac/) | [Unknown](#) | N/A | `data analysis` |
+| [string;](development/609-multi-provider-order-management-patterns_bcc64ec4/) | [Unknown](#) | N/A | `development` |
+| [Misspelled config keys](development/588-misspelled_config_keys_de32778b/) | [Unknown](#) | N/A | `data analysis` |
+| [feishu-docx](development/819-readme_zh_55596d15/) | [Unknown](#) | N/A | `development` |
+| [this.accountName },](development/520-lightning-web-components_180edf8d/) | [Unknown](#) | N/A | `development` |
+| [ensembl-database](development/979-skill_990881bf/) | [Unknown](#) | N/A | `development` |
+| [Tokenizers](development/1084-tokenizers_cb33dfe1/) | [Unknown](#) | N/A | `data analysis` |
+| [tool_name`](development/116-bundled-resources_dd2fda86/) | [Unknown](#) | N/A | `data analysis` |
+| [常见问题](development/360-faq_c92b63db/) | [Unknown](#) | N/A | `development` |
+| [pubchem-database](development/979-skill_5821c685/) | [Unknown](#) | N/A | `development` |
+| [Complete MCP Setup Guide - MCP 2025 (v2.7.0)](development/564-mcp_setup_5d512cbf/) | [Unknown](#) | N/A | `development` |
+| [Next.js Data Fetching](development/620-nextjs-data-fetching_5175463a/) | [Unknown](#) | N/A | `posts` |
+| [statsmodels](development/979-skill_da2754e0/) | [Unknown](#) | N/A | `data analysis` |
+| [Next Gen UI MCP Server Container](development/767-readme-containers_d7d88296/) | [Unknown](#) | N/A | `development` |
+| [sims/[timeline-name]/index.md](development/1078-timeline-generator_97eee6d4/) | [Unknown](#) | N/A | `data analysis` |
+| [Unified Multi-Source Scraping](development/1108-unified_scraping_64b669d1/) | [Unknown](#) | N/A | `development` |
+| [unit-test-parameterized](development/979-skill_bf067179/) | [Unknown](#) | N/A | `junit-5` `parameterized-test` `value-source` |
+| [Cloudflare Workers Advanced Patterns](development/156-cloudflare-workers-advanced_fc4b2c5b/) | [Unknown](#) | N/A | `development` |
+| [agent-governance](development/979-skill_d7116a4d/) | [Unknown](#) | N/A | `development` |
+| [Input Validation Cheat Sheet](development/847-reference-set-03-input-validation_2ffe1f28/) | [Unknown](#) | N/A | `development` |
+| [STRIDE Threat Modeling System Architecture Analysis](development/980-skill-architecture-design_07e057a3/) | [Unknown](#) | N/A | `development` |
+| [FAQ](development/364-faq_en_9cdc8951/) | [Unknown](#) | N/A | `development` |
+| [unit-test-utility-methods](development/979-skill_48345214/) | [Unknown](#) | N/A | `junit-5` `unit-testing` `utility` |
+| [📊 Real Batch API Results](development/823-real-batch-results_1a6d339b/) | [Unknown](#) | N/A | `content creation` |
+| [Vintage Manual Animation Style Guide](development/1130-vintage-manual-animation-style-guide_2d45a7a1/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_8c42ec9a/) | [Unknown](#) | N/A | `development` |
+| [neurokit2](development/979-skill_94ad2b4c/) | [Unknown](#) | N/A | `data analysis` |
+| [Matchms Filtering Functions Reference](development/380-filtering_82271431/) | [Unknown](#) | N/A | `data analysis` |
+| [Advanced Modular Library Design](development/979-skill_8d3a4e4a/) | [Unknown](#) | N/A | `development` |
+| [test](development/544-mandatory_patterns_dc9289f1/) | [Unknown](#) | N/A | `development` |
+| [agent-messaging](development/979-skill_aa12cbdf/) | [Unknown](#) | N/A | `development` |
+| [ab-test-setup](development/979-skill_51b1895d/) | [Unknown](#) | N/A | `development` |
+| [Supported foundation models in Amazon Bedrock](development/100-bedrock_models_supported_a688842e/) | [Unknown](#) | N/A | `content creation` |
+| [installing-skills](development/979-skill_1e010545/) | [Unknown](#) | N/A | `development` |
+| [HTTP Strict Transport Security Cheat Sheet](development/861-reference-set-05-hsts_34ac8601/) | [Unknown](#) | N/A | `development` |
+| [GitHub Automation Setup Guide](development/080-automation_setup_5c0d8a04/) | [Unknown](#) | N/A | `development` |
+| [sympy](development/979-skill_abe14a6d/) | [Unknown](#) | N/A | `development` |
+| [mermaid-generator](development/231-create-mermaid-generator-skill_e4f3aba1/) | [Unknown](#) | N/A | `data analysis` |
+| [Storytelling Design: Peak Experience](development/1028-storytelling-design_121d0577/) | [Unknown](#) | N/A | `data analysis` |
+| [Skill Development](development/979-skill_d40080c4/) | [Unknown](#) | N/A | `development` |
+| [User Guides & Tutorials](development/1117-user-guides-tutorials_18c05418/) | [Unknown](#) | N/A | `development` |
+| [Security Zones Diagram](development/952-security-zones-diagram_28796109/) | [Unknown](#) | N/A | `content creation` |
+| [ado-manager](development/979-skill_4104fb6c/) | [Unknown](#) | N/A | `daily assistant` |
+| [Manufacturingdemo](development/979-skill_2dc3ed38/) | [Unknown](#) | N/A | `development` |
+| [External Services Guide](development/358-external-services-guide_ff319631/) | [Unknown](#) | N/A | `development` |
+| [unit-test-controller-layer](development/979-skill_9cce1565/) | [Unknown](#) | N/A | `junit-5` `mockito` `unit-testing` |
+| [{description.filename}](development/259-data_structures_fd2d6d75/) | [Unknown](#) | N/A | `development` |
+| [microsim-p5](development/979-skill_fea2bf7a/) | [Unknown](#) | N/A | `development` |
+| [GNU Octave Compatibility Reference](development/633-octave-compatibility_851a9061/) | [Unknown](#) | N/A | `development` |
+| [skill-name                    # 1-64 chars, lowercase alphanumeric + hyphens](development/1007-spec-reference_5865c4eb/) | [Unknown](#) | N/A | `daily assistant` |
+| [Advanced Mermaid Features](development/020-advanced-features_5b816a15/) | [Unknown](#) | N/A | `data analysis` |
+| [ETE Toolkit Common Workflows](development/1156-workflows_8b1a9bf4/) | [Unknown](#) | N/A | `development` |
+| [UMAP API Reference](development/051-api_reference_9b5bc62a/) | [Unknown](#) | N/A | `data analysis` |
+| [Chapter 11 Content Generation Log](development/409-generate-chapter-11-content-log_2e02c8b0/) | [Unknown](#) | N/A | `data analysis` |
+| [Linear Regression Models Reference](development/523-linear_models_b260fcc1/) | [Unknown](#) | N/A | `data analysis` |
+| [Authentication & Authorization](development/076-authentication_f4b9b9cc/) | [Unknown](#) | N/A | `data analysis` |
+| [developing-preact](development/979-skill_17ba0596/) | [Unknown](#) | N/A | `data analysis` |
+| [AnnData Object Structure](development/258-data_structure_41d00139/) | [Unknown](#) | N/A | `data analysis` |
+| [function}](development/027-agentic_system_design_91d1aae4/) | [Unknown](#) | N/A | `development` |
+| [Development Philosophy](development/140-claude_0e101976/) | [Unknown](#) | N/A | `development` |
+| [Photoplethysmography (PPG) Analysis](development/700-ppg_7e92b138/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code (Flat)](development/809-readme_flat_tooling_az_a56ad364/) | [Unknown](#) | N/A | `development` |
+| [obsidian-markdown](development/979-skill_0af2f127/) | [Unknown](#) | N/A | `one` `two` |
+| [User-Agent with Social Sign-On Flow Template](development/1116-user-agent-social-sign-on_ed635180/) | [Unknown](#) | N/A | `development` |
+| [Tailwind CSS Customization](development/1054-tailwind-customization_4c5adeed/) | [Unknown](#) | N/A | `development` |
+| [auth-comprehensive](development/979-skill_0f394de2/) | [Unknown](#) | N/A | `development` |
+| [String,](development/1066-tech_stack_guide_883e6f19/) | [Unknown](#) | N/A | `development` |
+| [material](development/589-mkdocs-features_670e2346/) | [Unknown](#) | N/A | `development` |
+| [time_spine_daily](development/1076-time-spine_095b4f5e/) | [Unknown](#) | N/A | `daily assistant` |
+| [Skill-First Learning](development/979-skill_00a8afe2/) | [Unknown](#) | N/A | `development` |
+| [Developer Kit](development/083-aws-sdk-java-bedrock-api_5715c6f1/) | [Unknown](#) | N/A | `development` |
+| [Multifactor Authentication Cheat Sheet](development/835-reference-set-01-multifactor-authentication_1f1ea8bd/) | [Unknown](#) | N/A | `development` |
+| [wordpress-pro](development/979-skill_01b6c8d0/) | [Unknown](#) | N/A | `development` |
+| [Welcome to your VS Code Extension](development/1136-vsc-extension-quickstart_78262dc3/) | [Unknown](#) | N/A | `development` |
+| [OWASP Top 10 Prevention](development/651-owasp-prevention_4baed17e/) | [Unknown](#) | N/A | `data analysis` |
+| [Migration Gotchas & Common Pitfalls](development/434-gotchas_66e17050/) | [Unknown](#) | N/A | `development` |
+| [java-refactor-expert](development/496-java-refactor-expert_8517f96b/) | [Unknown](#) | N/A | `development` |
+| [A.I.G 实践案例](development/123-case-studies_opensource_17db2c7e/) | [Unknown](#) | N/A | `development` |
+| [${GIT_USERNAME}](development/152-cloud_d2ae703c/) | [Unknown](#) | N/A | `development` |
+| [Creating Custom Environments for Stable Baselines3](development/250-custom_environments_bfc69c72/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md Template for Users](development/593-modelclaude_5406954f/) | [Unknown](#) | N/A | `development` |
+| [Apex Bulkification Guide](development/115-bulkification-guide_baa5e24f/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-flow-orchestrator](development/979-skill_861f4bae/) | [Unknown](#) | N/A | `daily assistant` |
+| [Multi-Skill Orchestration: sf-ai-agentforce Perspective](development/645-orchestration_a93ce4cc/) | [Unknown](#) | N/A | `development` |
+| [Apex Best Practices Reference](development/102-best-practices_12b25a83/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_5971b875/) | [Unknown](#) | N/A | `development` |
+| [Tailwind CSS Responsive Design](development/1055-tailwind-responsive_8d00ae62/) | [Unknown](#) | N/A | `development` |
+| [Hardware Backends in PyLabRobot](development/440-hardware-backends_ae007727/) | [Unknown](#) | N/A | `development` |
+| [Field-Level Security (FLS) Best Practices](development/387-fls-best-practices_f0e7117b/) | [Unknown](#) | N/A | `development` |
+| [Custom configurations](development/249-custom_configuration_ed176a65/) | [Unknown](#) | N/A | `data analysis` |
+| [Getting Started with PDD using a Free Gemini API Key](development/970-setup_with_gemini_dd4744e5/) | [Unknown](#) | N/A | `development` |
+| [Apex Patterns Deep Dive](development/673-patterns-deep-dive_8fdb4f74/) | [Unknown](#) | N/A | `development` |
+| [Remove revealing headers](development/206-control-set-08-error-handling_d0cf867e/) | [Unknown](#) | N/A | `development` |
+| [sf-ai-agentforce-observability Validation Tracking](development/1120-validation_41443aed/) | [Unknown](#) | N/A | `development` |
+| [Authorization Cheat Sheet](development/840-reference-set-02-authorization_ffce59c1/) | [Unknown](#) | N/A | `development` |
+| [httpx](development/454-httpx_skill_grading_1efcff1c/) | [Unknown](#) | N/A | `httpx` `python` `http-client` |
+| [str) -> None: ...](development/662-packaging_483d0a25/) | [Unknown](#) | N/A | `development` |
+| [Add Events to a Timeline](development/012-add-events-to-timeline_5a14f407/) | [Unknown](#) | N/A | `development` |
+| [_____________________](development/287-device_cybersecurity_guidance_bdd5de91/) | [Unknown](#) | N/A | `development` |
+| [Binding into UI - UI Renderes](development/468-index_93612f5d/) | [Unknown](#) | N/A | `data analysis` |
+| [上下文类型](development/199-context-types_9bfba89c/) | [Unknown](#) | N/A | `development` |
+| [opentrons-integration](development/979-skill_ca841604/) | [Unknown](#) | N/A | `development` |
+| [`ar.get(](development/373-field-coverage-rules_8710cb56/) | [Unknown](#) | N/A | `development` |
+| [html-table-generator](development/452-html-table_a0c08eab/) | [Unknown](#) | N/A | `development` |
+| [enhance-docs](development/979-skill_f8f1b6a7/) | [Unknown](#) | N/A | `development` |
+| [SQL Injection](development/059-architecture-workflow-guide_fa53aa9f/) | [Unknown](#) | N/A | `development` |
+| [Colin CLI Commands](development/146-cli-commands_5c55de92/) | [Unknown](#) | N/A | `data analysis` |
+| [Dask Arrays](development/064-arrays_341f9a2d/) | [Unknown](#) | N/A | `development` |
+| [快速开始](development/421-getting-started_773b1b31/) | [Unknown](#) | N/A | `development` |
+| [Quiz: Development Tools, Version Control, and Deployment](development/761-quiz_79780405/) | [Unknown](#) | N/A | `development` |
+| [Theme Name](development/1071-theme-development_540a9669/) | [Unknown](#) | N/A | `development` |
+| [Salesforce Flow XML Metadata Gotchas](development/1160-xml-gotchas_925ac817/) | [Unknown](#) | N/A | `development` |
+| [Development guide](development/281-develop_73d2f482/) | [Unknown](#) | N/A | `development` |
+| [skill-name](development/982-skill-structure_7352899e/) | [Unknown](#) | N/A | `tag1` `tag2` `tag3` |
+| [travel_planner](development/986-skill_architecture_7155fc98/) | [Unknown](#) | N/A | `development` |
+| [qiskit](development/979-skill_98d27059/) | [Unknown](#) | N/A | `data analysis` |
+| [histolab](development/979-skill_e923c148/) | [Unknown](#) | N/A | `data analysis` |
+| [Chapter Index File Structure](development/468-index_f8ad9e19/) | [Unknown](#) | N/A | `data analysis` |
+| [Getting Started](development/422-getting-started_en_d52729ce/) | [Unknown](#) | N/A | `development` |
+| [secret-reader](development/509-kubernetes-security-advanced_26e8cbd5/) | [Unknown](#) | N/A | `daily assistant` |
+| [Datamol Fragments and Scaffolds Reference](development/391-fragments_scaffolds_9e9c9e2d/) | [Unknown](#) | N/A | `data analysis` |
+| [Threat Modeling](development/204-control-set-05-client-side_8c4df881/) | [Unknown](#) | N/A | `development` |
+| [{{ include](development/506-kubernetes-helm-advanced_3fbb5982/) | [Unknown](#) | N/A | `data analysis` |
+| [Pymoo Genetic Operators Reference](development/643-operators_aefd3a19/) | [Unknown](#) | N/A | `development` |
+| [Architecture Decision Records (ADR)](development/979-skill_03c1f18b/) | [Unknown](#) | N/A | `development` |
+| [SQL Injection](development/059-architecture-workflow-guide_08bed62a/) | [Unknown](#) | N/A | `development` |
+| [SQL Injection](development/060-architecture-workflow-guide-cn_aa3de0ab/) | [Unknown](#) | N/A | `development` |
+| [my-awesome-app](development/1119-ux-patterns_5c57db08/) | [Unknown](#) | N/A | `development` |
+| [Hooks & Filters](development/445-hooks-filters_8aa512bb/) | [Unknown](#) | N/A | `development` |
+| [abaqus-contact-analysis](development/979-skill_99f91dd1/) | [Unknown](#) | N/A | `development` |
+| [Performance & Security](development/686-performance-security_991fc8fa/) | [Unknown](#) | N/A | `content creation` |
+| [1k-adding-socket-events](development/979-skill_8d6bb582/) | [Unknown](#) | N/A | `development` |
+| [Migration Guide: Connected App → External Client App](development/584-migration-guide_5051b953/) | [Unknown](#) | N/A | `development` |
+| [geo-database](development/979-skill_45dd249d/) | [Unknown](#) | N/A | `data analysis` |
+| [LabArchives Authentication Guide](development/078-authentication_guide_9736d356/) | [Unknown](#) | N/A | `development` |
+| [Statistical Assumptions and Diagnostic Procedures](development/067-assumptions_and_diagnostics_c15cb5ff/) | [Unknown](#) | N/A | `data analysis` |
+| [Slash Commands Reference](development/997-slash-commands_e7542139/) | [Unknown](#) | N/A | `development` |
+| [Async PHP Patterns](development/072-async-patterns_3d75c066/) | [Unknown](#) | N/A | `development` |
+| [** Skill-Agent Integration Foundation](development/196-context_7c60b594/) | [Unknown](#) | N/A | `development` |
+| [MUI Styling Guide](development/1034-styling-guide_ae6bcb6a/) | [Unknown](#) | N/A | `development` |
+| [OpenTelemetry Tracing](development/642-opentelemetry_2f2cf89c/) | [Unknown](#) | N/A | `development` |
+| [aesthetic](development/979-skill_5669c535/) | [Unknown](#) | N/A | `content creation` |
+| [DuckDB-Extensions](development/979-skill_2357d6d0/) | [Unknown](#) | N/A | `development` |
+| [Extra                    # Display name for badge alt text](development/768-readme-generation_fa5528c0/) | [Unknown](#) | N/A | `content creation` |
+| [Application Profiling](development/053-application-profiling_db873957/) | [Unknown](#) | N/A | `data analysis` |
+| [Theoretical Foundations of scvi-tools](development/1073-theoretical-foundations_d0de6e6e/) | [Unknown](#) | N/A | `development` |
+| [Migration Guide](development/586-migration_guide_2ef4334d/) | [Unknown](#) | N/A | `development` |
+| [Wishlist for IntentKit](development/1148-wishlist_c50928ab/) | [Unknown](#) | N/A | `development` |
+| [PufferLib Integration Guide](development/476-integration_1ec4dbbf/) | [Unknown](#) | N/A | `data analysis` |
+| [GraphQL Cheat Sheet](development/879-reference-set-09-graphql_ac8cf001/) | [Unknown](#) | N/A | `development` |
+| [abaqus-modal-analysis](development/979-skill_3def5b4a/) | [Unknown](#) | N/A | `development` |
+| [dask](development/979-skill_9f403085/) | [Unknown](#) | N/A | `data analysis` |
+| [SAML Security Cheat Sheet](development/837-reference-set-01-saml-security_c85cf750/) | [Unknown](#) | N/A | `content creation` |
+| [Moving Rainbow MicroPython Generator](development/607-moving-rainbow_75e9da3f/) | [Unknown](#) | N/A | `development` |
+| [Credits & Acknowledgments](development/239-credits_f6393e10/) | [Unknown](#) | N/A | `content creation` |
+| [Scikit-learn Quick Reference](development/757-quick_reference_cfa5cc09/) | [Unknown](#) | N/A | `data analysis` |
+| [ai-dev-tools-sync](development/979-skill_4fcb543f/) | [Unknown](#) | N/A | `development` |
+| [add-ws-action](development/979-skill_ec42c21d/) | [Unknown](#) | N/A | `development` |
+| [install-skill-tracker](development/979-skill_12197bc3/) | [Unknown](#) | N/A | `data analysis` |
+| [skill-name](development/992-skills_964f1d8b/) | [Unknown](#) | N/A | `development` |
+| [Asynchronous Patterns](development/072-async-patterns_0a4e9a19/) | [Unknown](#) | N/A | `development` |
+| [Goat SDK Integration](development/433-goat_008ff77c/) | [Unknown](#) | N/A | `development` |
+| [Lightning Web Components Best Practices](development/538-lwc-best-practices_060d5383/) | [Unknown](#) | N/A | `development` |
+| [agent-trend-analyst](development/979-skill_e1304e87/) | [Unknown](#) | N/A | `data analysis` |
+| [{description.filename}](development/366-feature_detection_24ce0862/) | [Unknown](#) | N/A | `data analysis` |
+| [plotly](development/979-skill_12069a99/) | [Unknown](#) | N/A | `data analysis` |
+| [microsim-p5](development/656-p5-guide_4590685e/) | [Unknown](#) | N/A | `content creation` |
+| [Release](development/290-devkitgenerate-changelog_617e19ed/) | [Unknown](#) | N/A | `development` |
+| [aws-cloudformation-task-ecs-deploy-gh](development/979-skill_8ff35ea2/) | [Unknown](#) | N/A | `aws` `cloudformation` `github-actions` |
+| [senior-prompt-engineer](development/979-skill_ce3f1ef8/) | [Unknown](#) | N/A | `data analysis` |
+| [OS Command Injection Defense Cheat Sheet](development/850-reference-set-03-os-command-injection-defense_5e8bbce4/) | [Unknown](#) | N/A | `development` |
+| [agent-doc-writer](development/979-skill_c0aa8551/) | [Unknown](#) | N/A | `development` |
+| [invoking-github](development/979-skill_9dacfe38/) | [Unknown](#) | N/A | `development` |
+| [skill-name-with-hyphens](development/1040-superpowers_5437b18f/) | [Unknown](#) | N/A | `content creation` |
+| [wordpress-development-expert](development/1149-wordpress-development-expert_cfb30fb7/) | [Unknown](#) | N/A | `development` |
+| [LWC Code Review Template](development/540-lwc-review_e9315e14/) | [Unknown](#) | N/A | `development` |
+| [str) -> None:](development/072-async-patterns_b7986eb1/) | [Unknown](#) | N/A | `development` |
+| [Angular Frontend Skill](development/979-skill_bde7f5b8/) | [Unknown](#) | N/A | `development` |
+| [Getting Started with Data Commons](development/423-getting_started_c71d2255/) | [Unknown](#) | N/A | `data analysis` |
+| [skill-name](development/992-skills_306151d7/) | [Unknown](#) | N/A | `development` |
+| [accessibility-compliance](development/979-skill_cd224892/) | [Unknown](#) | N/A | `content creation` |
+| [PubMed E-utilities API Reference](development/051-api_reference_a7103190/) | [Unknown](#) | N/A | `development` |
+| [Benchling Authentication Reference](development/076-authentication_48bafd2e/) | [Unknown](#) | N/A | `development` |
+| [fnd.r-segmenting-customers](development/979-skill_5d4f62fc/) | [Unknown](#) | N/A | `content creation` |
+| [路线图](development/922-roadmap_a3d8c4c3/) | [Unknown](#) | N/A | `development` |
+| [{normalized-name}](development/374-field-mappings_ffaacb89/) | [Unknown](#) | N/A | `content creation` |
+| [302ai-api-integration](development/979-skill_ad0d547e/) | [Unknown](#) | N/A | `content creation` |
+| [Vector Databases](development/1122-vector-databases_2782da94/) | [Unknown](#) | N/A | `data analysis` |
+| [Chart Generator Using ChartJS](development/136-chartjs-generator_7791ec3f/) | [Unknown](#) | N/A | `data analysis` |
+| [ai](development/979-skill_72c38a65/) | [Unknown](#) | N/A | `development` |
+| [Deploy to GCP](development/399-gcloud-platform_195c09f6/) | [Unknown](#) | N/A | `development` |
+| [adding-a-new-app-route](development/979-skill_0da94036/) | [Unknown](#) | N/A | `development` |
+| [Troubleshooting](development/1097-troubleshooting_39c73df6/) | [Unknown](#) | N/A | `development` |
+| [Vram-GPU-OOM](development/979-skill_ae9addf1/) | [Unknown](#) | N/A | `development` |
+| [brenda-database](development/979-skill_65bce5d9/) | [Unknown](#) | N/A | `development` |
+| [Dask Schedulers](development/937-schedulers_b75d59e9/) | [Unknown](#) | N/A | `development` |
+| [creating-skill](development/979-skill_60cc7abe/) | [Unknown](#) | N/A | `development` |
+| [php-refactor-expert](development/688-php-refactor-expert_adf67a60/) | [Unknown](#) | N/A | `development` |
+| [react](development/640-openai_integration_a5706bab/) | [Unknown](#) | N/A | `development` |
+| [组件名称](development/029-ai-infra-scan_693bc225/) | [Unknown](#) | N/A | `development` |
+| [Next.js Server Components](development/621-nextjs-server-components_afce90a0/) | [Unknown](#) | N/A | `development` |
+| [Frontend Architecture Guide for IntentKit](development/028-agents_a365bad2/) | [Unknown](#) | N/A | `development` |
+| [Statistical Reporting Standards](development/907-reporting_standards_d08c185d/) | [Unknown](#) | N/A | `data analysis` |
+| [ansible-expert](development/979-skill_005bfc7c/) | [Unknown](#) | N/A | `ansible` `automation` `configuration-management` |
+| [MemU LangGraph Integration](development/515-langgraph_integration_80fefc13/) | [Unknown](#) | N/A | `development` |
+| [Spring Boot Cache Abstraction - References](development/118-cache-core-reference_1b795999/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_7a861e0a/) | [Unknown](#) | N/A | `development` |
+| [accessibility-wcag](development/979-skill_a1fba406/) | [Unknown](#) | N/A | `development` |
+| [`GSExxxxx_family.soft.gz`](development/417-geo_reference_63c1dca7/) | [Unknown](#) | N/A | `development` |
+| [Grok (xAI) Integration](development/437-grok_17ee5312/) | [Unknown](#) | N/A | `development` |
+| [agent-invocation](development/979-skill_7fe07412/) | [Unknown](#) | N/A | `daily assistant` |
+| [Internal/Work Project README Template](development/485-internal_6d2d0ac2/) | [Unknown](#) | N/A | `development` |
+| [MCP安全代码审计专家系统](development/163-code_audit_a9936fc5/) | [Unknown](#) | N/A | `development` |
+| [boofuzz](development/979-skill_9e41af13/) | [Unknown](#) | N/A | `development` |
+| [Research Pipeline API Reference](development/911-research_pipeline_5e0d02be/) | [Unknown](#) | N/A | `data analysis` |
+| [Vulnerable Dependency Management Cheat Sheet](development/890-reference-set-ext-12-dependency-management_a8958ef1/) | [Unknown](#) | N/A | `development` |
+| [Session Log: Create README Generator Skill](development/234-create-readme-generator-skill_aba7ea50/) | [Unknown](#) | N/A | `data analysis` |
+| [Debugger Skill](development/979-skill_fd8214e1/) | [Unknown](#) | N/A | `development` |
+| [mermaid-diagrams](development/979-skill_79bca3c7/) | [Unknown](#) | N/A | `development` |
+| [dnanexus-integration](development/979-skill_d84f7895/) | [Unknown](#) | N/A | `development` |
+| [Discord Integration](development/306-discord_63c5175f/) | [Unknown](#) | N/A | `development` |
+| [Error Handling Guide](development/342-error-handling_0ba635c6/) | [Unknown](#) | N/A | `content creation` |
+| [animejs-v4](development/979-skill_d1e1ff2d/) | [Unknown](#) | N/A | `development` |
+| [unit-test-boundary-conditions](development/979-skill_d75dfda4/) | [Unknown](#) | N/A | `junit-5` `boundary-testing` `edge-cases` |
+| [Mass Assignment Cheat Sheet](development/849-reference-set-03-mass-assignment_39f74888/) | [Unknown](#) | N/A | `development` |
+| [analyzing-projects](development/979-skill_2a150b24/) | [Unknown](#) | N/A | `development` |
+| [Detailed Workflows & Examples](development/1156-workflows_7ce5df19/) | [Unknown](#) | N/A | `content creation` |
+| [Getting Started with Antigravity Awesome Skills (V4)](development/423-getting_started_83e9b0d7/) | [Unknown](#) | N/A | `development` |
+| [Ai Infra Guard](development/470-index_opensource_en_a464ab01/) | [Unknown](#) | N/A | `development` |
+| [Mermaid Quick Reference](development/573-mermaid-reference_5928b468/) | [Unknown](#) | N/A | `development` |
+| [Account](development/1096-trigger-actions-framework_29326c44/) | [Unknown](#) | N/A | `development` |
+| [Embedding 配置](development/331-embedding_25a54713/) | [Unknown](#) | N/A | `development` |
+| [airbyte-connection-setup](development/979-skill_2ef136a1/) | [Unknown](#) | N/A | `development` |
+| [**](development/968-setup_instructions_51af6034/) | [Unknown](#) | N/A | `development` |
+| [Genomic Tokenizers](development/1084-tokenizers_59857435/) | [Unknown](#) | N/A | `data analysis` |
+| [my-project](development/979-skill_7ac37c2c/) | [Unknown](#) | N/A | `development` |
+| [aeon](development/979-skill_c7f48dde/) | [Unknown](#) | N/A | `development` |
+| [LDAP Injection Prevention Cheat Sheet](development/848-reference-set-03-ldap-injection-prevention_403c288a/) | [Unknown](#) | N/A | `development` |
+| [abaqus-field](development/979-skill_47b5304c/) | [Unknown](#) | N/A | `development` |
+| [Credits](development/239-credits_a56cfb80/) | [Unknown](#) | N/A | `development` |
+| [logos](development/191-configuration_ec71b889/) | [Unknown](#) | N/A | `data analysis` |
+| [memU](development/819-readme_zh_aa1c1798/) | [Unknown](#) | N/A | `content creation` |
+| [YourApp](development/020-advanced-features_cf67bd65/) | [Unknown](#) | N/A | `development` |
+| [agent-eyes](development/979-skill_2794260f/) | [Unknown](#) | N/A | `development` |
+| [abaqus-material](development/979-skill_376ab5be/) | [Unknown](#) | N/A | `development` |
+| [deepchem](development/979-skill_1d94d874/) | [Unknown](#) | N/A | `data analysis` |
+| [page](development/483-interactive-api-docs_c1b57eac/) | [Unknown](#) | N/A | `development` |
+| [Pinning Cheat Sheet](development/867-reference-set-06-certificate-pinning_5702a893/) | [Unknown](#) | N/A | `development` |
+| [Retrieval](development/918-retrieval_147bf724/) | [Unknown](#) | N/A | `development` |
+| [Gemini Models Reference](development/594-models_1ae90ed9/) | [Unknown](#) | N/A | `content creation` |
+| [claude-ecosystem](development/979-skill_1f754cbf/) | [Unknown](#) | N/A | `development` |
+| [myapp-api](development/153-cloud-native_7df046fd/) | [Unknown](#) | N/A | `development` |
+| [SQL Injection](development/060-architecture-workflow-guide-cn_b6a84e50/) | [Unknown](#) | N/A | `development` |
+| [ai-image-tools](development/979-skill_9e1d2824/) | [Unknown](#) | N/A | `development` |
+| [Regulatory Compliance for Treatment Plans](development/901-regulatory_compliance_6fc30ac7/) | [Unknown](#) | N/A | `development` |
+| [bubble-chart-generator](development/979-skill_31fe850e/) | [Unknown](#) | N/A | `development` |
+| [agentic-layer-assessment](development/979-skill_36efa534/) | [Unknown](#) | N/A | `development` |
+| [Quick Start](development/760-quickstart_1dd25fd3/) | [Unknown](#) | N/A | `development` |
+| [Sequence Alignments with Bio.Align and Bio.AlignIO](development/033-alignment_9fbdfde5/) | [Unknown](#) | N/A | `content creation` |
+| [Skill-First Learning Pattern](development/979-skill_73e7cd37/) | [Unknown](#) | N/A | `development` |
+| [Average Dependencies Distribution Bar Chart](development/468-index_87750b6f/) | [Unknown](#) | N/A | `data analysis` |
+| [Agent Toolkit](development/1150-words-and-expressions-commonly-misused_60db286f/) | [Unknown](#) | N/A | `content creation` |
+| [map-generator](development/546-map-guide_23c646a8/) | [Unknown](#) | N/A | `data analysis` |
+| [Respiratory Signal Processing](development/925-rsp_4d5d42d9/) | [Unknown](#) | N/A | `data analysis` |
+| [AI-Assisted Curation Reference](development/030-ai_curation_6b8cb84e/) | [Unknown](#) | N/A | `data analysis` |
+| [AWS SDK for Java 2.x API Reference](development/046-api-reference_6b39bd3f/) | [Unknown](#) | N/A | `development` |
+| [LLMs](development/528-llm_a7fe3187/) | [Unknown](#) | N/A | `daily assistant` |
+| [Accessibility Guide for LWC](development/007-accessibility-guide_7e852b1a/) | [Unknown](#) | N/A | `development` |
+| [Jelly 294 影片 GAIA 標註批次處理案例](development/497-jelly-294-gaia-tagging-batch_1b403a04/) | [Unknown](#) | N/A | `content creation` |
+| [ai-content-quality-checker](development/979-skill_61be7963/) | [Unknown](#) | N/A | `content creation` |
+| [Mock User](development/738-puppeteer-reference_dcec4af0/) | [Unknown](#) | N/A | `development` |
+| [Cookie Theft Mitigation Cheat Sheet](development/830-reference-set-01-cookie-theft-mitigation_a6ef7d7a/) | [Unknown](#) | N/A | `development` |
+| [John Doe](development/270-deliverables-checklist_c5ccd280/) | [Unknown](#) | N/A | `development` |
+| [agent-tui](development/979-skill_ff4a6600/) | [Unknown](#) | N/A | `development` |
+| [Matplotlib Common Issues and Solutions](development/178-common_issues_16fecf7b/) | [Unknown](#) | N/A | `daily assistant` |
+| [TDC Datasets Comprehensive Catalog](development/263-datasets_f0891a00/) | [Unknown](#) | N/A | `data analysis` |
+| [add-malli-schemas](development/979-skill_0e534bcf/) | [Unknown](#) | N/A | `development` |
+| [ai-apis-like-chatgpt](development/979-skill_083c207e/) | [Unknown](#) | N/A | `content creation` |
+| [Skill-First Learning](development/979-skill_5253a459/) | [Unknown](#) | N/A | `content creation` |
+| [Pymatgen Transformations and Common Workflows](development/1093-transformations_workflows_7c7e4cc3/) | [Unknown](#) | N/A | `data analysis` |
+| [Claude API Cost Optimization](development/141-claude-api-cost-optimizationskill_4bdeb26a/) | [Unknown](#) | N/A | `content creation` |
+| [AgentDB Advanced Features](development/979-skill_e5524686/) | [Unknown](#) | N/A | `development` |
+| [Getting Started with Modal](development/421-getting-started_5def9767/) | [Unknown](#) | N/A | `development` |
+| [Skill Directory Structure](development/468-index_b94157ea/) | [Unknown](#) | N/A | `data analysis` |
+| [api-designer](development/979-skill_865d1e32/) | [Unknown](#) | N/A | `development` |
+| [Movies assistant (LangGraph)](development/516-langgraph_movies_3cfd61c3/) | [Unknown](#) | N/A | `development` |
+| [prompt-architect](development/979-skill_a0b16888/) | [Unknown](#) | N/A | `development` |
+| [your.user@vivint.com.devint](development/075-auth-setup_017cb681/) | [Unknown](#) | N/A | `development` |
+| [design-principles](development/979-skill_57fa00a8/) | [Unknown](#) | N/A | `development` |
+| [Extended Thinking Quick Reference](development/356-extended-thinking_c8f877f8/) | [Unknown](#) | N/A | `development` |
+| [uniprot-database](development/979-skill_4992d5c2/) | [Unknown](#) | N/A | `development` |
+| [Troubleshooting SpringDoc OpenAPI](development/1097-troubleshooting_959faa99/) | [Unknown](#) | N/A | `development` |
+| [Use single electrode as reference](development/326-eeg_7a3a715a/) | [Unknown](#) | N/A | `data analysis` |
+| [BrowserBridge](development/979-skill_a2a5fc2e/) | [Unknown](#) | N/A | `development` |
+| [Installation Guide - Claude Skills Library](development/474-installation_97cd3800/) | [Unknown](#) | N/A | `content creation` |
+| [Market Research Report Structure Guide](development/906-report_structure_guide_9c676e4b/) | [Unknown](#) | N/A | `data analysis` |
+| [Using Claude Skills to Create Intelligent Textbooks](development/219-course-description_a7f61559/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-spec-kit](development/979-skill_dba9d6bb/) | [Unknown](#) | N/A | `daily assistant` |
+| [AJAX Security Cheat Sheet](development/877-reference-set-09-ajax-security_db4a8661/) | [Unknown](#) | N/A | `development` |
+| [The Complete Practical Guide to Memes in Markdown Blog Posts](development/547-markdown-memes-guide_6dd8e5fc/) | [Unknown](#) | N/A | `devops` `humor` `deployments` |
+| [ansible-automation](development/979-skill_96489810/) | [Unknown](#) | N/A | `always` |
+| [Generate CRUD Implementation](development/295-devkitjavagenerate-crud_d7d7b643/) | [Unknown](#) | N/A | `development` |
+| [reactome-database](development/979-skill_bd28e634/) | [Unknown](#) | N/A | `development` |
+| [agent-mail](development/979-skill_2bed8b98/) | [Unknown](#) | N/A | `development` |
+| [{PROJECT}-RISK-ASSESSMENT-REPORT.md](development/660-p8-report-generation_97737da4/) | [Unknown](#) | N/A | `development` |
+| [PDF Extractor - Proof of Concept (Task B1.2)](development/676-pdf_extractor_poc_e5a0f9ee/) | [Unknown](#) | N/A | `development` |
+| [Apex Development](development/043-apex-development_b948446a/) | [Unknown](#) | N/A | `development` |
+| [Three-Stream GitHub Architecture - Final Status Report](development/1075-three_stream_status_report_4e1217ac/) | [Unknown](#) | N/A | `development` |
+| [str](development/585-migration-strategies_a1387efa/) | [Unknown](#) | N/A | `development` |
+| [Limitations & Success Criteria](development/522-limitations_89593bcf/) | [Unknown](#) | N/A | `content creation` |
+| [app-blue](development/276-deployment-strategies_d09fd909/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/798-readme_flat_skills_created_2eebac64/) | [Unknown](#) | N/A | `development` |
+| [SDK Module](development/140-claude_4b8f81ba/) | [Unknown](#) | N/A | `content creation` |
+| [Salesforce Data Model Template](development/930-salesforce-erd_2849753a/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-django-developer](development/979-skill_b17a38d1/) | [Unknown](#) | N/A | `development` |
+| [value -->` format:](development/549-marp-syntax_6fff73be/) | [Unknown](#) | N/A | `development` |
+| [admin](development/828-reference_8f26d276/) | [Unknown](#) | N/A | `development` |
+| [Multi-Module Migration Patterns](development/608-multi-module_b2df1027/) | [Unknown](#) | N/A | `daily assistant` |
+| [sf-soql](development/979-skill_997c6568/) | [Unknown](#) | N/A | `development` |
+| [GraphQL Subscriptions](development/1036-subscriptions_83f6f57a/) | [Unknown](#) | N/A | `data analysis` |
+| [Programming Reference](development/713-programming_8ee4bc66/) | [Unknown](#) | N/A | `development` |
+| [Terraform Module Patterns](development/600-module-patterns_8bbad929/) | [Unknown](#) | N/A | `development` |
+| [Security Assessment Document](development/292-devkitgenerate-security-assessment_68d94e23/) | [Unknown](#) | N/A | `development` |
+| [ship-learn-next](development/979-skill_503b2265/) | [Unknown](#) | N/A | `content creation` |
+| [Quickstart: Adding Long-Term Memory to Python Agents](development/423-getting_started_18e80574/) | [Unknown](#) | N/A | `development` |
+| [Create a README.md Generator Skill](development/769-readme-generator-skill_e4bde057/) | [Unknown](#) | N/A | `development` |
+| [agent-graphql-architect](development/979-skill_3b5151a3/) | [Unknown](#) | N/A | `development` |
+| [Colin CLI Commands](development/146-cli-commands_b1aede6e/) | [Unknown](#) | N/A | `data analysis` |
+| [sims/sim-name/index.md](development/468-index_5dbba585/) | [Unknown](#) | N/A | `data analysis` |
+| [Database Security Cheat Sheet](development/883-reference-set-10-database-security_142977ec/) | [Unknown](#) | N/A | `development` |
+| [Threat Modeling](development/995-skillset-threat-modeling-tour-cn-v5_e9af870f/) | [Unknown](#) | N/A | `development` |
+| [Bouncing Ball](development/468-index_2920f5bc/) | [Unknown](#) | N/A | `content creation` |
+| [abaqus-dynamic-analysis](development/979-skill_c3e4d512/) | [Unknown](#) | N/A | `development` |
+| [adf-master](development/979-skill_b02398bb/) | [Unknown](#) | N/A | `content creation` |
+| [Engineering Status](development/736-provider-namespace-design_0145b8fe/) | [Unknown](#) | N/A | `development` |
+| [Callout Patterns Reference](development/120-callout-patterns_dab5177a/) | [Unknown](#) | N/A | `development` |
+| [Consensus Peaks: Universe Building](development/193-consensus_peaks_f30a172c/) | [Unknown](#) | N/A | `development` |
+| [Google ADK Python Skill](development/979-skill_edf5cc1d/) | [Unknown](#) | N/A | `development` |
+| [page](development/215-controllers-routing_6a26d34c/) | [Unknown](#) | N/A | `development` |
+| [Viking URI](development/1129-viking-uri_6b97d5e4/) | [Unknown](#) | N/A | `development` |
+| [No Hardcoded Credentials](development/208-control-set-ext-10-hardcoded-credentials_e5efa34d/) | [Unknown](#) | N/A | `development` |
+| [User Privacy Protection Cheat Sheet](development/885-reference-set-10-user-privacy_3854b05a/) | [Unknown](#) | N/A | `development` |
+| [Credits & Attribution](development/239-credits_d9fd4d8c/) | [Unknown](#) | N/A | `development` |
+| [code-documenter](development/979-skill_56934da7/) | [Unknown](#) | N/A | `development` |
+| [agent-permissions](development/979-skill_5d852de4/) | [Unknown](#) | N/A | `development` |
+| [str = Field(description=](development/992-skills_1ff09103/) | [Unknown](#) | N/A | `development` |
+| [Terminal Workflow for Textbook Development](development/1068-terminal-workflow-for-textbook-development_b3b17163/) | [Unknown](#) | N/A | `data analysis` |
+| [venn-diagram-generator](development/1125-venn-diagram-skill-generator_97a42cf6/) | [Unknown](#) | N/A | `data analysis` |
+| [Q1 2025 Goals](development/432-goals_afc36dda/) | [Unknown](#) | N/A | `development` |
+| [humanizer](development/979-skill_6688e4e2/) | [Unknown](#) | N/A | `content creation` |
+| [asking-questions](development/979-skill_6be138ee/) | [Unknown](#) | N/A | `development` |
+| [USPTO Trademark APIs Reference](development/1088-trademark_api_1777b678/) | [Unknown](#) | N/A | `development` |
+| [Credits & Acknowledgments](development/239-credits_b0c7586c/) | [Unknown](#) | N/A | `development` |
+| [aws-secrets-manager-app](development/1016-spring-boot-integration_15933877/) | [Unknown](#) | N/A | `development` |
+| [```bash](development/360-faq_3e5f63fb/) | [Unknown](#) | N/A | `development` |
+| [abaqus-topology-optimization](development/979-skill_546a92ee/) | [Unknown](#) | N/A | `development` |
+| [supports fuzzy matching](development/305-dicomweb_guide_92005c8f/) | [Unknown](#) | N/A | `development` |
+| [sf-ai-agentforce-observability](development/979-skill_9f3e1a36/) | [Unknown](#) | N/A | `content creation` |
+| [Standard README Specification](development/1021-standard-readme-spec_e1b5584f/) | [Unknown](#) | N/A | `development` |
+| [ImageMagick Image Editing](development/460-imagemagick-editing_61f9e9f4/) | [Unknown](#) | N/A | `data analysis` |
+| [MkDocs GitHub Pages Deployment Workflow](development/468-index_fdf283f8/) | [Unknown](#) | N/A | `development` |
+| [uspto-database](development/979-skill_9321bc0a/) | [Unknown](#) | N/A | `development` |
+| [IntentKit Architecture](development/055-architecture_21d69ae2/) | [Unknown](#) | N/A | `data analysis` |
+| [Password Storage Cheat Sheet](development/836-reference-set-01-password-storage_9f76c93f/) | [Unknown](#) | N/A | `development` |
+| [Content Security Policy Cheat Sheet](development/856-reference-set-05-csp_bd57201b/) | [Unknown](#) | N/A | `content creation` |
+| [HTTP Transport for FastMCP Server](development/453-http_transport_5ee7de2b/) | [Unknown](#) | N/A | `development` |
+| [diff-analysis](development/979-skill_944c5360/) | [Unknown](#) | N/A | `changes` `semantic-analysis` `risk-assessment` |
+| [Agent Toolkit](development/328-elementary-principles-of-composition_3867f335/) | [Unknown](#) | N/A | `content creation` |
+| [aws-cloudformation-ecs](development/979-skill_a49d8760/) | [Unknown](#) | N/A | `aws` `cloudformation` `ecs` |
+| [资源管理](development/913-resources_51cbaf7e/) | [Unknown](#) | N/A | `data analysis` |
+| [frontend-design](development/979-skill_b81e2ff8/) | [Unknown](#) | N/A | `development` |
+| [Bean Validation Cheat Sheet](development/842-reference-set-03-bean-validation_0c10cfac/) | [Unknown](#) | N/A | `content creation` |
+| [Next Gen UI Agent A2A Server Container](development/767-readme-containers_285c3bfa/) | [Unknown](#) | N/A | `development` |
+| [Sessions](development/963-sessions_53181cff/) | [Unknown](#) | N/A | `development` |
+| [Skill Seekers Roadmap](development/922-roadmap_5c83fb57/) | [Unknown](#) | N/A | `development` |
+| [A](development/601-modules_d6fc9198/) | [Unknown](#) | N/A | `development` |
+| [Evolution of AI: From Neural Networks to Claude Code](development/468-index_44b01098/) | [Unknown](#) | N/A | `development` |
+| [Meta-Pattern Recognition](development/979-skill_2a579c47/) | [Unknown](#) | N/A | `daily assistant` |
+| [agent-customization](development/979-skill_2c0c9040/) | [Unknown](#) | N/A | `development` |
+| [Clean Architecture with CQRS](development/144-clean-architecture_4fb2c4ac/) | [Unknown](#) | N/A | `daily assistant` |
+| [accountant-expert](development/979-skill_2a4b45ee/) | [Unknown](#) | N/A | `accounting` `tax` `financial-reporting` |
+| [Securing Cascading Style Sheets Cheat Sheet](development/858-reference-set-05-css-security_2a2123f4/) | [Unknown](#) | N/A | `development` |
+| [accessibility-planning](development/979-skill_97a223da/) | [Unknown](#) | N/A | `content creation` |
+| [chrome-devtools](development/979-skill_893563ea/) | [Unknown](#) | N/A | `development` |
+| [Codex Plan Command](development/168-codex-plan_0b3c3fc5/) | [Unknown](#) | N/A | `development` |
+| [Marp Build](development/020-advanced-features_ca2e1cfd/) | [Unknown](#) | N/A | `development` |
+| [Troubleshooting Guide](development/1097-troubleshooting_a54548ee/) | [Unknown](#) | N/A | `development` |
+| [Three-Stream GitHub Architecture - Completion Summary](development/1074-three_stream_completion_summary_61187af5/) | [Unknown](#) | N/A | `development` |
+| [ESM Workflows and Examples](development/1156-workflows_4633ece8/) | [Unknown](#) | N/A | `data analysis` |
+| [Credits & Acknowledgments](development/239-credits_2ff08065/) | [Unknown](#) | N/A | `content creation` |
+| [Qiskit Setup and Installation](development/964-setup_deeed000/) | [Unknown](#) | N/A | `data analysis` |
+| [Transport Layer Security Cheat Sheet](development/870-reference-set-06-tls_412e2255/) | [Unknown](#) | N/A | `development` |
+| [Multi-LLM Platform Support Guide](development/611-multi_llm_support_ea2cf3f6/) | [Unknown](#) | N/A | `development` |
+| [string; }](development/022-advanced-types_273042ee/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/812-readme_flat_tooling_updated_b919b304/) | [Unknown](#) | N/A | `development` |
+| [fastmcp](development/117-c3_x_router_architecture_76f12f0a/) | [Unknown](#) | N/A | `development` |
+| [Active Skills Phase 1: Foundation Implementation Plan](development/002-10-24-active-skills-phase1_9525e3a8/) | [Unknown](#) | N/A | `development` |
+| [Causal Loop MicroSim Generator](development/127-causal-loop-microsim-generator_0f2a3045/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code - "Repo Ticker"](development/905-repo_ticker_0ba067ad/) | [Unknown](#) | N/A | `development` |
+| [ClaudeKit Skills Marketplace](development/548-marketplace_8635279d/) | [Unknown](#) | N/A | `data analysis` |
+| [Acme Corp](development/186-component-patterns_1c9a889b/) | [Unknown](#) | N/A | `development` |
+| [GitHub Issues to Create](development/493-issues_to_create_a9299a52/) | [Unknown](#) | N/A | `development` |
+| [File Upload Cheat Sheet](development/844-reference-set-03-file-upload_de5158e2/) | [Unknown](#) | N/A | `development` |
+| [SHELL](development/971-setup_with_windows_8a130031/) | [Unknown](#) | N/A | `development` |
+| [Learning Graph Color Test](development/468-index_dc3b1c8d/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code (Flat)](development/797-readme_flat_skills_az_2ceddfce/) | [Unknown](#) | N/A | `development` |
+| [Image Processing & Rendering](development/459-image_processing_a48cfd15/) | [Unknown](#) | N/A | `development` |
+| [pydicom](development/979-skill_742fa0a2/) | [Unknown](#) | N/A | `development` |
+| [spring-boot-code-review-expert](development/1015-spring-boot-code-review-expert_8d763c22/) | [Unknown](#) | N/A | `development` |
+| [Performance & Core Web Vitals Testing](development/683-performance-core-web-vitals_e470e51b/) | [Unknown](#) | N/A | `daily assistant` |
+| [Spark SQL and DataFrame API](development/1004-spark-sql-dataframes_f7212290/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-orchestration](development/979-skill_16c91428/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/788-readme_flat_commands_updated_efff2005/) | [Unknown](#) | N/A | `development` |
+| [adhd-design-expert](development/979-skill_cda8d9eb/) | [Unknown](#) | N/A | `development` |
+| [Install Book Environment Dependencies](development/468-index_101d5b40/) | [Unknown](#) | N/A | `development` |
+| [langchain4j-mcp-server-patterns](development/979-skill_ccd6dba7/) | [Unknown](#) | N/A | `langchain4j` `mcp` `model-context-protocol` |
+| [API Support](development/641-openapi_cef05ac1/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/814-readme_flat_workflows_created_640f5672/) | [Unknown](#) | N/A | `development` |
+| [Generate a Timeline for Claude Code](development/413-generate-claude-skill-timeline_f15cfa70/) | [Unknown](#) | N/A | `development` |
+| [example](development/886-reference-set-ext-11-docker-security_72260019/) | [Unknown](#) | N/A | `content creation` |
+| [Skill-First Learning](development/979-skill_fc520d35/) | [Unknown](#) | N/A | `development` |
+| [jwt-token](development/500-jwt-quick-reference_cc609dbf/) | [Unknown](#) | N/A | `development` |
+| [databases](development/979-skill_0567d189/) | [Unknown](#) | N/A | `content creation` |
+| [LLM Configuration](development/528-llm_422c2c40/) | [Unknown](#) | N/A | `data analysis` |
+| [PDD Tutorials](development/1100-tutorials_1fbe7a1f/) | [Unknown](#) | N/A | `development` |
+| [Session Tracing Data Model (STDM) Reference](development/254-data-model-reference_4847c672/) | [Unknown](#) | N/A | `development` |
+| [Before making secondary changes, always check:](development/140-claude_52c34259/) | [Unknown](#) | N/A | `development` |
+| [LangGraph & Web Components quickstart](development/517-langgraph_web_components_b3a323cf/) | [Unknown](#) | N/A | `development` |
+| [Product Team Skills Suite Architecture](development/710-product-skills-architecture_c8e12284/) | [Unknown](#) | N/A | `data analysis` |
+| [Advanced Biopython Features](development/018-advanced_e6de6ab0/) | [Unknown](#) | N/A | `content creation` |
+| [Skill-First Learning](development/979-skill_c8e4fb6b/) | [Unknown](#) | N/A | `development` |
+| [Specification-Driven Skill Composition](development/979-skill_2f153756/) | [Unknown](#) | N/A | `content creation` |
+| [agent-dx-optimizer](development/979-skill_91a710bf/) | [Unknown](#) | N/A | `development` |
+| [Flow + LWC Integration Guide](development/539-lwc-integration-guide_c6e21df9/) | [Unknown](#) | N/A | `development` |
+| [sf-lwc](development/979-skill_2db1cba5/) | [Unknown](#) | N/A | `development` |
+| [配置](development/191-configuration_9a414d74/) | [Unknown](#) | N/A | `data analysis` |
+| [Physics & VR/XR](development/689-physics-vr_3fd89d46/) | [Unknown](#) | N/A | `development` |
+| [gtars](development/979-skill_2c0efee6/) | [Unknown](#) | N/A | `development` |
+| [Plugin Name](development/696-plugin-architecture_ef663e0c/) | [Unknown](#) | N/A | `content creation` |
+| [add-backend-tool](development/979-skill_a9eec235/) | [Unknown](#) | N/A | `development` |
+| [Unvalidated Redirects and Forwards Cheat Sheet](development/854-reference-set-03-unvalidated-redirects_7f15fe2a/) | [Unknown](#) | N/A | `development` |
+| [检索机制](development/918-retrieval_c28be003/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code](development/1039-summary-rendering-cheatsheet_87e7ccbd/) | [Unknown](#) | N/A | `development` |
+| [3d-graphics](development/979-skill_e78bda2d/) | [Unknown](#) | N/A | `data analysis` |
+| [fecfile](development/979-skill_5318b95d/) | [Unknown](#) | N/A | `development` |
+| [🛡️ Context-Aware Support Agent (Sealos Edition)](development/943-sealos_use_case_c8ba4170/) | [Unknown](#) | N/A | `development` |
+| [`node`. However, it’s not enough to just run the process as `node`. For example, the following might not be ideal for an application to function well:](development/888-reference-set-ext-11-nodejs-docker_e78ad704/) | [Unknown](#) | N/A | `development` |
+| [django-expert](development/979-skill_e42e702d/) | [Unknown](#) | N/A | `development` |
+| [Plugin Structure](development/979-skill_ee28fd41/) | [Unknown](#) | N/A | `development` |
+| [SQL Injection Prevention Cheat Sheet](development/852-reference-set-03-sql-injection-prevention_8c8ad5d9/) | [Unknown](#) | N/A | `development` |
+| [SBOM Summary](development/932-sbom_60983dee/) | [Unknown](#) | N/A | `development` |
+| [sequence}](development/731-protein_optimization_9e3be81e/) | [Unknown](#) | N/A | `data analysis` |
+| [Dask Best Practices](development/102-best-practices_8a7ed9cd/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md](development/140-claude_8d01c8e6/) | [Unknown](#) | N/A | `development` |
+| [`, `description:`, `license:`, and optional `allowed-tools:`](development/140-claude_bb0377ee/) | [Unknown](#) | N/A | `data analysis` |
+| [threat-modeling](development/979-skill_3e763f00/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/785-readme_flat_commands_az_8d81be14/) | [Unknown](#) | N/A | `development` |
+| [PDF Scraper CLI Tool (Tasks B1.6 + B1.8)](development/679-pdf_scraper_a12c2739/) | [Unknown](#) | N/A | `development` |
+| [Spotify MCP Setup Guide](development/966-setup-guide_47d53a88/) | [Unknown](#) | N/A | `development` |
+| [Agent Toolkit](development/329-elementary-rules-of-usage_b1c9bd88/) | [Unknown](#) | N/A | `content creation` |
+| [Skill Catalog](development/126-catalog_5a26e9b5/) | [Unknown](#) | N/A | `development` |
+| [Color Wheel with Named Colors](development/468-index_aa75ed81/) | [Unknown](#) | N/A | `development` |
+| [str,      # 解析器名称](development/359-extraction_878e5958/) | [Unknown](#) | N/A | `content creation` |
+| [General Signal Processing](development/977-signal_processing_be7baaa9/) | [Unknown](#) | N/A | `data analysis` |
+| [cirq](development/979-skill_072b6147/) | [Unknown](#) | N/A | `data analysis` |
+| [MobileApp](development/979-skill_c569e444/) | [Unknown](#) | N/A | `development` |
+| [OPEN-WEBUI](development/1153-workflow_b3114032/) | [Unknown](#) | N/A | `daily assistant` |
+| [Skills Environment Reference](development/339-environment-reference_196c1aec/) | [Unknown](#) | N/A | `data analysis` |
+| [marp-slide](development/979-skill_4244be1f/) | [Unknown](#) | N/A | `development` |
+| [Salesforce CLI Commands for LWC Development](development/146-cli-commands_e5d91cdf/) | [Unknown](#) | N/A | `development` |
+| [string;      // Site name](development/077-authentication-patterns_ba05ea71/) | [Unknown](#) | N/A | `development` |
+| [skill-name-in-kebab-case](development/468-index_a4efa1a1/) | [Unknown](#) | N/A | `data analysis` |
+| [str](development/735-provider-architecture_2a5ff347/) | [Unknown](#) | N/A | `development` |
+| [MicroSim Standardization Skill](development/579-microsim-standardization_f980c6f4/) | [Unknown](#) | N/A | `data analysis` |
+| [String!](development/369-federation_1e6d69c8/) | [Unknown](#) | N/A | `development` |
+| [sf-data](development/979-skill_3bf41b0b/) | [Unknown](#) | N/A | `development` |
+| [Viking URI](development/1129-viking-uri_9a414708/) | [Unknown](#) | N/A | `development` |
+| [AI-Powered SKILL.md Enhancement](development/337-enhancement_5f720243/) | [Unknown](#) | N/A | `development` |
+| [PDD Prompt Linter — Technical Stack](development/1065-tech_stack_acb0c4f4/) | [Unknown](#) | N/A | `development` |
+| [agentskb](development/979-skill_b601608a/) | [Unknown](#) | N/A | `development` |
+| [Apex Troubleshooting Guide](development/1097-troubleshooting_b915c796/) | [Unknown](#) | N/A | `development` |
+| [string](development/626-nuxt_abdf4574/) | [Unknown](#) | N/A | `development` |
+| [youtube-clipper](development/979-skill_1039e3c3/) | [Unknown](#) | N/A | `development` |
+| [accessibility](development/979-skill_857ad8ac/) | [Unknown](#) | N/A | `content creation` |
+| [HTTP Security Response Headers Cheat Sheet](development/863-reference-set-05-http-headers_502cd929/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md](development/143-claude_integration_01dfac0f/) | [Unknown](#) | N/A | `data analysis` |
+| [vis-network](development/1131-vis-network-guide_7af37f76/) | [Unknown](#) | N/A | `development` |
+| [Semantic Layer Best Practices](development/102-best-practices_b0c77b10/) | [Unknown](#) | N/A | `development` |
+| [Data Scraping Guide](development/939-scraping_44031cea/) | [Unknown](#) | N/A | `content creation` |
+| [obsidian-bases](development/979-skill_9d274859/) | [Unknown](#) | N/A | `content creation` |
+| [Salesforce CI/CD](development/273-deployment-devops_eb26d4ca/) | [Unknown](#) | N/A | `development` |
+| [Logging Cheat Sheet](development/873-reference-set-07-logging_9f223e0d/) | [Unknown](#) | N/A | `content creation` |
+| [accessibility-checker](development/979-skill_3c360537/) | [Unknown](#) | N/A | `content creation` |
+| [Authentication Module](development/653-p2-dfd-analysis_6baf7f0c/) | [Unknown](#) | N/A | `data analysis` |
+| [sf-apex](development/979-skill_c33dbe5e/) | [Unknown](#) | N/A | `development` |
+| [Java Dependency Upgrade Strategy](development/298-devkitjavaupgrade-dependencies_1e0187e6/) | [Unknown](#) | N/A | `development` |
+| [X](development/1159-x_d3e0d9ad/) | [Unknown](#) | N/A | `development` |
+| [WebSocket Protocol Reference](development/732-protocol_877c9cf4/) | [Unknown](#) | N/A | `development` |
+| [Datadog Query Syntax](development/753-query-syntax_fa60d601/) | [Unknown](#) | N/A | `development` |
+| [experiences](development/352-experiences_c918aec4/) | [Unknown](#) | N/A | `daily assistant` |
+| [Fix Report: MCP Management CLI Errors](development/383-fix-251230-1954-mcp-management-cli_b3e1e804/) | [Unknown](#) | N/A | `development` |
+| [Engineering Team Skills - Claude Code Guidance](development/140-claude_4aeb029c/) | [Unknown](#) | N/A | `development` |
+| [Open Source Project README Template](development/648-oss_4e92c249/) | [Unknown](#) | N/A | `development` |
+| [senior-security](development/979-skill_d7e26f15/) | [Unknown](#) | N/A | `development` |
+| [CLI Design Patterns](development/278-design-patterns_5bc272f8/) | [Unknown](#) | N/A | `development` |
+| [docx](development/979-skill_80180632/) | [Unknown](#) | N/A | `content creation` |
+| [Stripe SDKs Reference](development/1032-stripe-sdks_2e929ac8/) | [Unknown](#) | N/A | `development` |
+| [my-skill-name](development/985-skill_anatomyvi_43764224/) | [Unknown](#) | N/A | `react` `typescript` |
+| [Advanced Chart Patterns](development/019-advanced-charts_d14158a9/) | [Unknown](#) | N/A | `data analysis` |
+| [string;](development/1057-tanstack-router_2982b9fd/) | [Unknown](#) | N/A | `development` |
+| [senior-qa](development/979-skill_186539ec/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md](development/140-claude_c04497f8/) | [Unknown](#) | N/A | `development` |
+| [Run Semgrep](development/931-sast-tools_37b32c0d/) | [Unknown](#) | N/A | `development` |
+| [infograph-generator-p5](development/229-create-infographic-generator-pi-skill_02430fd4/) | [Unknown](#) | N/A | `data analysis` |
+| [Quick Fixes](development/755-quick-fixes_5cb8d18d/) | [Unknown](#) | N/A | `development` |
+| [Creem.io SDKs](development/941-sdk_f4376e5c/) | [Unknown](#) | N/A | `development` |
+| [Mermaid.js Integration Patterns](development/476-integration_4682677f/) | [Unknown](#) | N/A | `development` |
+| [Development Tool Categories Reference](development/1085-tool-categories_0ed16dcf/) | [Unknown](#) | N/A | `development` |
+| [ai-sdk](development/979-skill_af48f91f/) | [Unknown](#) | N/A | `development` |
+| [Getting Started with Claude Code](development/421-getting-started_14e1b685/) | [Unknown](#) | N/A | `development` |
+| [apc-code-samples](development/979-skill_552be0b0/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/773-readme_flat_all_az_11c29d0f/) | [Unknown](#) | N/A | `development` |
+| [2000s-visualization-expert](development/979-skill_c88dc883/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code (Flat)](development/776-readme_flat_all_updated_19465007/) | [Unknown](#) | N/A | `development` |
+| [analysis-diagnose](development/979-skill_7f156967/) | [Unknown](#) | N/A | `development` |
+| [CI](development/285-development_workflows_fbe5eb0f/) | [Unknown](#) | N/A | `development` |
+| [Session Log: Creating Skill Context Window MicroSim](development/235-create-skill-context-window-microsim_47f66d4f/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-javascript-pro](development/979-skill_974058a1/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code](development/455-husky_cc9f1cae/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/774-readme_flat_all_created_96d32e4d/) | [Unknown](#) | N/A | `development` |
+| [Root Cause Tracing](development/979-skill_476830e1/) | [Unknown](#) | N/A | `development` |
+| [worktree](development/979-skill_291ee1b5/) | [Unknown](#) | N/A | `development` |
+| [Pro Plan](development/941-sdk_45646b16/) | [Unknown](#) | N/A | `development` |
+| [agents-md-creator](development/979-skill_4dc8fc69/) | [Unknown](#) | N/A | `development` |
+| [ai-output-validator](development/979-skill_2346afb6/) | [Unknown](#) | N/A | `development` |
+| [JSharpener](development/979-skill_6c58e06c/) | [Unknown](#) | N/A | `development` |
+| [database-optimizer](development/979-skill_d764a954/) | [Unknown](#) | N/A | `development` |
+| [adapter-expert](development/979-skill_056a70c4/) | [Unknown](#) | N/A | `project` `persistence` `adapter` |
+| [Configuration](development/191-configuration_c382e075/) | [Unknown](#) | N/A | `development` |
+| [Limitations of Dynamic SQL](development/323-dynamic_sql_94831248/) | [Unknown](#) | N/A | `development` |
+| [Monitoring and Analysis](development/605-monitoring-analysis_95fb6e97/) | [Unknown](#) | N/A | `data analysis` |
+| [sql-pro](development/979-skill_e4b1c5ed/) | [Unknown](#) | N/A | `development` |
+| [SOQL and SOSL](development/1002-soql-sosl_3f357e9a/) | [Unknown](#) | N/A | `development` |
+| [add-domain-entity](development/979-skill_124d0798/) | [Unknown](#) | N/A | `development` |
+| [Analyzing Problems Deeply](development/979-skill_471c7a30/) | [Unknown](#) | N/A | `development` |
+| [agent-sql-pro](development/979-skill_fff3150d/) | [Unknown](#) | N/A | `development` |
+| [Parquet Files](development/979-skill_8055085a/) | [Unknown](#) | N/A | `content creation` |
+| [Alice](development/342-error-handling_1425a501/) | [Unknown](#) | N/A | `data analysis` |
+| [alembic](development/979-skill_f224fcca/) | [Unknown](#) | N/A | `content creation` |
+| [databases.mycompany.io](development/248-custom-operators_381e5cdc/) | [Unknown](#) | N/A | `development` |
+| [agent-rust-engineer](development/979-skill_593844a8/) | [Unknown](#) | N/A | `development` |
+| [agentic-jumpstart-performance](development/979-skill_17f1db9c/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-snapshot-tag](development/979-skill_59b30f14/) | [Unknown](#) | N/A | `development` |
+| [geniml](development/979-skill_26add5a2/) | [Unknown](#) | N/A | `development` |
+| [Support the Open Source Projects We Depend On](development/639-open-source-sponsors_c4e43224/) | [Unknown](#) | N/A | `development` |
+| [animating-advanced](development/979-skill_c71c968e/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-get](development/979-skill_e76a4175/) | [Unknown](#) | N/A | `development` |
+| [1password](development/979-skill_66c7e402/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-project-list](development/979-skill_7e0e44aa/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-profile-use](development/979-skill_e2082ebe/) | [Unknown](#) | N/A | `development` |
+| [sf CLI Data Commands Reference](development/973-sf-cli-data-commands_aad285d8/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-get](development/979-skill_453e0fe0/) | [Unknown](#) | N/A | `development` |
+| [remembering](development/979-skill_08bd4418/) | [Unknown](#) | N/A | `development` |
+| [mcp-manager](development/557-mcp-manager_db82af1f/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-deployment-show](development/979-skill_52b873bf/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-search](development/979-skill_5a3c00fb/) | [Unknown](#) | N/A | `development` |
+| [agent-run](development/979-skill_ebb60a0e/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-profile-create](development/979-skill_405f284f/) | [Unknown](#) | N/A | `development` |
+| [MCP Tool Request](development/565-mcp_tool_ea52f24b/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-ssh-delete](development/979-skill_7c131e2a/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-project-delete](development/979-skill_47afc408/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-get](development/979-skill_5c3105b8/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-git-link](development/979-skill_7eab57d1/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-thread-list](development/979-skill_18018804/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/807-readme_flat_styles_releases_bbebbbe1/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-snapshot-list](development/979-skill_5098d499/) | [Unknown](#) | N/A | `development` |
+| [Agent Development](development/979-skill_ff332407/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-dev](development/979-skill_e355bff5/) | [Unknown](#) | N/A | `development` |
+| [通用任务执行指南](development/1050-system_prompt_0ec11ccb/) | [Unknown](#) | N/A | `development` |
+| [telegram](development/979-skill_4c6ae4b8/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-logout](development/979-skill_aec28456/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-stream-delete](development/979-skill_c368f4dd/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-deployment-list](development/979-skill_cf28d59a/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-git-unlink](development/979-skill_d6152867/) | [Unknown](#) | N/A | `development` |
+| [Session Management](development/962-session_7a1b9f93/) | [Unknown](#) | N/A | `development` |
+| [PDD Prompt Linter — Tool Specification](development/1013-specs_13b3aae8/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-search](development/979-skill_8eace2d3/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-env-get](development/979-skill_13073d35/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-storage-get](development/979-skill_8b3edd76/) | [Unknown](#) | N/A | `development` |
+| [Muninn Memory System - Claude Code Context](development/140-claude_6662c2f1/) | [Unknown](#) | N/A | `development` |
+| [jira](development/979-skill_80cd136d/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-profile-list](development/979-skill_937b995e/) | [Unknown](#) | N/A | `development` |
+| [abaqus-fatigue-analysis](development/979-skill_9a02717f/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-push](development/979-skill_6d67aa1f/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-profile-current](development/979-skill_56f0c38f/) | [Unknown](#) | N/A | `development` |
+| [str =](development/821-readmeplugin_c50598b6/) | [Unknown](#) | N/A | `development` |
+| [FITS File Handling (astropy.io.fits)](development/382-fits_f1a50bc9/) | [Unknown](#) | N/A | `content creation` |
+| [agentuity-cli-cloud-sandbox-mkdir](development/979-skill_fb40888a/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-thread-delete](development/979-skill_6894e685/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-session-logs](development/979-skill_4fc8746c/) | [Unknown](#) | N/A | `development` |
+| [Interaction & Picking](development/482-interaction_6298b812/) | [Unknown](#) | N/A | `development` |
+| [adb-skill-generator](development/979-skill_f990c394/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-git-list](development/979-skill_438cac00/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-deployment-remove](development/979-skill_44a410c0/) | [Unknown](#) | N/A | `development` |
+| [Regulatory Affairs & Quality Management Skills - Claude Code Guidance](development/140-claude_1f7230f2/) | [Unknown](#) | N/A | `development` |
+| [activities](development/011-activities_2e897ec2/) | [Unknown](#) | N/A | `development` |
+| [Patent Examination Data System (PEDS) API Reference](development/680-peds_api_ee9b7d95/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-stats](development/979-skill_4a143792/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-delete](development/979-skill_dae7309e/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-env-delete](development/979-skill_d2df9219/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-list-namespaces](development/979-skill_dca60635/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-get](development/979-skill_d8d70ceb/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-redis-show](development/979-skill_64e84ca5/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-delete](development/979-skill_d570e6f4/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-deployment-rollback](development/979-skill_404aa1b0/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-stats](development/979-skill_4be0548f/) | [Unknown](#) | N/A | `development` |
+| [会话管理](development/962-session_23eb3547/) | [Unknown](#) | N/A | `development` |
+| [` field (skill identifier)](development/1043-sync-skills-readme_154b4277/) | [Unknown](#) | N/A | `development` |
+| [ai-orchestration-feedback-loop](development/979-skill_f768e5f9/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-pull](development/979-skill_0afd0909/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/815-readme_flat_workflows_releases_f03d3f19/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-ssh-list](development/979-skill_c35d0ed9/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-storage-download](development/979-skill_6e5620e5/) | [Unknown](#) | N/A | `development` |
+| [Prompt‑Driven Development Prompting Guide](development/730-prompting_guide_9d6d1c0d/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-storage-delete](development/979-skill_131a8568/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-session-get](development/979-skill_24c6d297/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-snapshot-delete](development/979-skill_ee46e15f/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-rmdir](development/979-skill_52cf68e0/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-env-push](development/979-skill_9a00d8ef/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-rm](development/979-skill_ff1f0ad9/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-env-list](development/979-skill_f72ae097/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-db-list](development/979-skill_4c22d29a/) | [Unknown](#) | N/A | `development` |
+| [Synth Ai](development/028-agents_1c1a4b0a/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/791-readme_flat_docs_releases_1b91b5a0/) | [Unknown](#) | N/A | `development` |
+| [No more context bloat with "mcp-manager" subagent + "mcp-management" skills!](development/562-mcp_management_f64a973a/) | [Unknown](#) | N/A | `development` |
+| [ai-product-strategy](development/979-skill_cbc31258/) | [Unknown](#) | N/A | `content creation` |
+| [agentuity-cli-cloud-agent-list](development/979-skill_ea6c4e14/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-apikey](development/979-skill_db8345c2/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-storage-list](development/979-skill_9ed05061/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/783-readme_flat_clients_releases_b9ac7083/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-create-namespace](development/979-skill_03ebd358/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-apikey-get](development/979-skill_249e1818/) | [Unknown](#) | N/A | `development` |
+| [adk](development/979-skill_1bc448ff/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-delete](development/979-skill_e4d893f8/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-keys](development/979-skill_0b753bb7/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-upload](development/979-skill_2936e38a/) | [Unknown](#) | N/A | `development` |
+| [mcp-management](development/979-skill_e163d352/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code](development/280-design-review-slash-command_ff955918/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-list-namespaces](development/979-skill_9e256649/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-exec](development/979-skill_e93c2a62/) | [Unknown](#) | N/A | `development` |
+| [NetworkX Graph Algorithms](development/032-algorithms_8e30d5c3/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-keyvalue-delete](development/979-skill_7d75527b/) | [Unknown](#) | N/A | `development` |
+| [agenthero-ai](development/979-skill_f086a9be/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-deployment-logs](development/979-skill_b53ee6d9/) | [Unknown](#) | N/A | `development` |
+| [sf-diagram-nanobananapro](development/979-skill_6fc1b813/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-ssh-add](development/979-skill_eadfd24d/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-snapshot-get](development/979-skill_991d40c7/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-apikey-delete](development/979-skill_718e031a/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-set](development/979-skill_0049f759/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-list](development/979-skill_bfca0a7d/) | [Unknown](#) | N/A | `development` |
+| [acli](development/979-skill_b5d954d8/) | [Unknown](#) | N/A | `development` |
+| [Skills Development Guide](development/987-skill_development_001299e6/) | [Unknown](#) | N/A | `development` |
+| [Salesforce CLI Debug Commands Reference](development/146-cli-commands_1a4f18f7/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-db-get](development/979-skill_8b4508ea/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-git-status](development/979-skill_89e88b0c/) | [Unknown](#) | N/A | `development` |
+| [aerospace-expert](development/979-skill_81626167/) | [Unknown](#) | N/A | `aerospace` `aviation` `flight` |
+| [agentuity-cli-git-account-list](development/979-skill_51747b36/) | [Unknown](#) | N/A | `development` |
+| [Animations](development/039-animations_4012cad0/) | [Unknown](#) | N/A | `development` |
+| [sf-testing](development/979-skill_9a2e3162/) | [Unknown](#) | N/A | `development` |
+| [anubis-windows-commands](development/979-skill_eb282269/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-ssh](development/979-skill_0ba7eae1/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-env-set](development/979-skill_56b6de9b/) | [Unknown](#) | N/A | `development` |
+| [CLI Reference](development/147-cli-reference_e9866eb7/) | [Unknown](#) | N/A | `development` |
+| [Colin](development/003-_script-generator_ea285188/) | [Unknown](#) | N/A | `development` |
+| [agent-skills](development/979-skill_7ca93f5a/) | [Unknown](#) | N/A | `development` |
+| [Treatment Plan Quality Assurance Checklist](development/749-quality_checklist_1b2d5ee6/) | [Unknown](#) | N/A | `daily assistant` |
+| [agentuity-cli-cloud-apikey-list](development/979-skill_7eb6f662/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-secret-import](development/979-skill_559f71bd/) | [Unknown](#) | N/A | `development` |
+| [Target Annotations and Features](development/1058-target_annotations_21f1e0b9/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-files](development/979-skill_2a77fabc/) | [Unknown](#) | N/A | `development` |
+| [Epic Consulting](development/979-skill_6d71451b/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-profile-delete](development/979-skill_3bb99671/) | [Unknown](#) | N/A | `development` |
+| [diagram-reports-generator](development/979-skill_67c8b175/) | [Unknown](#) | N/A | `data analysis` |
+| [agentuity-cli-cloud-sandbox-execution-list](development/979-skill_6cf92411/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-project-auth-init](development/979-skill_c7685751/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-whoami](development/979-skill_5cfd1d48/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-deploy](development/979-skill_c31af1d7/) | [Unknown](#) | N/A | `development` |
+| [PufferLib Policies Guide](development/699-policies_fb898cbc/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-apikey-create](development/979-skill_7b5cd69a/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-cp](development/979-skill_c1023cbc/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-thread-get](development/979-skill_0acc3071/) | [Unknown](#) | N/A | `development` |
+| [add-mouse-profile](development/979-skill_39780c43/) | [Unknown](#) | N/A | `development` |
+| [sf-debug](development/979-skill_03847c9d/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-sandbox-env](development/979-skill_bbc780ee/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-build](development/979-skill_92ca1591/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-stream-get](development/979-skill_83513897/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-env-import](development/979-skill_bd8514bf/) | [Unknown](#) | N/A | `development` |
+| [External Review Protocol](development/357-external-review_ec9e2f47/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-auth-login](development/979-skill_17ecde68/) | [Unknown](#) | N/A | `development` |
+| [ads-optimizer](development/979-skill_532f0585/) | [Unknown](#) | N/A | `development` |
+| [alphafold](development/979-skill_2a1f11ad/) | [Unknown](#) | N/A | `structure-prediction` `validation` `reference` |
+| [SOQL Quick Reference](development/1001-soql-reference_58d87515/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-git-account-add](development/979-skill_adc0b12b/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-delete-namespace](development/979-skill_1f9866c3/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-db-logs](development/979-skill_3bae733c/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-db-sql](development/979-skill_e5e8a2cf/) | [Unknown](#) | N/A | `development` |
+| [Salesforce CLI Test Commands Reference](development/146-cli-commands_2b2ae862/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-agent-get](development/979-skill_6bf42d1f/) | [Unknown](#) | N/A | `development` |
+| [agent-prompt-behavior](development/979-skill_43538b68/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-db-delete](development/979-skill_da9106f2/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-cloud-vector-upsert](development/979-skill_134df71c/) | [Unknown](#) | N/A | `development` |
+| [MUI Component Library](development/185-component-library_76a0145b/) | [Unknown](#) | N/A | `development` |
+| [agent-wordpress-master](development/979-skill_add775ee/) | [Unknown](#) | N/A | `content creation` |
+| [codex](development/979-skill_78b3fcf4/) | [Unknown](#) | N/A | `development` |
+| [agentuity-cli-profile-show](development/979-skill_86ead0cc/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/793-readme_flat_hooks_az_43a9ab83/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/802-readme_flat_statusline_created_d9bcc451/) | [Unknown](#) | N/A | `development` |
+| [CCotw Environment (Claude Code on the Web)](development/129-ccotw-environment_348cf02c/) | [Unknown](#) | N/A | `development` |
+| [Dual-Build: Maven + Gradle Side by Side](development/322-dual-build_222c1017/) | [Unknown](#) | N/A | `development` |
+| [agent-init](development/979-skill_060ff7c8/) | [Unknown](#) | N/A | `content creation` |
+| [7. 贡献指南](development/200-contributing_opensource_dd9b7d70/) | [Unknown](#) | N/A | `data analysis` |
+| [Claudekit Skills](development/159-cm_3124e364/) | [Unknown](#) | N/A | `development` |
+| [FAQ Coverage Gaps](development/361-faq-coverage-gaps_bd2f7ed5/) | [Unknown](#) | N/A | `data analysis` |
+| [Claudekit Skills](development/224-cp_66e9510b/) | [Unknown](#) | N/A | `development` |
+| [Credits](development/239-credits_0c3702ea/) | [Unknown](#) | N/A | `content creation` |
+| [GitHub Project Setup Guide](development/967-setup_guide_33eb1f0c/) | [Unknown](#) | N/A | `daily assistant` |
+| [Iterating Skill Integration](development/494-iterating-integration_bab835f8/) | [Unknown](#) | N/A | `development` |
+| [my-skill](development/237-creating_2e676d59/) | [Unknown](#) | N/A | `development` |
+| [Sprint Progress Tracker](development/714-progress_3c5cb6be/) | [Unknown](#) | N/A | `daily assistant` |
+| [Awesome Claude Code (Flat)](development/792-readme_flat_docs_updated_31e376b4/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/781-readme_flat_clients_az_1d42f17b/) | [Unknown](#) | N/A | `development` |
+| [Command Patterns](development/672-patterns_b5fd82de/) | [Unknown](#) | N/A | `content creation` |
+| [api-credentials](development/979-skill_7f7817e2/) | [Unknown](#) | N/A | `development` |
+| [daily-meeting-update](development/979-skill_153c2d8d/) | [Unknown](#) | N/A | `development` |
+| [Gitleaks](development/944-secret-scanning_57c12434/) | [Unknown](#) | N/A | `development` |
+| [Hooks and Plugins](development/444-hooks-and-plugins_22231fac/) | [Unknown](#) | N/A | `development` |
+| [Concept List for Learning Graph](development/187-concept-list_7cf0fae3/) | [Unknown](#) | N/A | `data analysis` |
+| [/prime - Context Priming for Fresh Sessions](development/708-prime_dc29822f/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code (Flat)](development/782-readme_flat_clients_created_4f3c5a69/) | [Unknown](#) | N/A | `development` |
+| [Templates - Claude Code Guidance](development/140-claude_12c5851b/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/224-cp_64b77112/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/779-readme_flat_claude-md_releases_62663ee6/) | [Unknown](#) | N/A | `development` |
+| [iterating](development/979-skill_0bef8f9e/) | [Unknown](#) | N/A | `development` |
+| [** All-in-One CS- Agent Orchestration Framework](development/196-context_554137a3/) | [Unknown](#) | N/A | `development` |
+| [Initialize OpenViking client with data directory](development/770-readme_cn_7d9cb3fe/) | [Unknown](#) | N/A | `data analysis` |
+| [brainstorm-solutions](development/979-skill_332897fb/) | [Unknown](#) | N/A | `development` |
+| [Chapter 1: Introduction](development/468-index_09ec8405/) | [Unknown](#) | N/A | `daily assistant` |
+| [skill-name-in-lowercase](development/140-claude_b94e3e5d/) | [Unknown](#) | N/A | `development` |
+| [Amplifier](development/005-about_5ac236d4/) | [Unknown](#) | N/A | `development` |
+| [add-repository](development/979-skill_d36a19f5/) | [Unknown](#) | N/A | `development` |
+| [Llama Stack Server for development purposes](development/526-llama_stack_6f8cec51/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/789-readme_flat_docs_az_e1500649/) | [Unknown](#) | N/A | `development` |
+| [analyze-ci](development/979-skill_9a5e1011/) | [Unknown](#) | N/A | `development` |
+| [```bash](development/468-index_65e4feb9/) | [Unknown](#) | N/A | `development` |
+| [Concept Taxonomy](development/188-concept-taxonomy_5dd5a716/) | [Unknown](#) | N/A | `development` |
+| [Resume Checklist](development/917-resume-checklist_bd64d36b/) | [Unknown](#) | N/A | `development` |
+| [research-codebase](development/979-skill_c92d84f2/) | [Unknown](#) | N/A | `development` |
+| [code-review](development/979-skill_ce36d208/) | [Unknown](#) | N/A | `development` |
+| [Maven Plugin → Gradle Mappings](development/697-plugin-mappings_16f316f8/) | [Unknown](#) | N/A | `development` |
+| [Git Workflow for Skill Development](development/425-git-workflow-for-skill-development_a394737e/) | [Unknown](#) | N/A | `development` |
+| [Reference](development/828-reference_18171dc0/) | [Unknown](#) | N/A | `development` |
+| [`AWESOME_CC_PAT_PUBLIC_REPO`](development/095-badge_automation_setup_b68ed68e/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_30bd9af8/) | [Unknown](#) | N/A | `development` |
+| [Development Workflow](development/1153-workflow_ad0085b3/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/811-readme_flat_tooling_releases_fc4eb5bc/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/790-readme_flat_docs_created_4538c891/) | [Unknown](#) | N/A | `development` |
+| [adr](development/979-skill_5ccdc217/) | [Unknown](#) | N/A | `content creation` |
+| [🚀 Contribution Guide](development/201-contributing_opensource_en_46d3fda1/) | [Unknown](#) | N/A | `development` |
+| [generating-patches](development/979-skill_eacbb275/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/412-generate-chapter-structure_0c530a4f/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code (Flat)](development/796-readme_flat_hooks_updated_53808350/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/795-readme_flat_hooks_releases_2cb1f64d/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/159-cm_8de04e63/) | [Unknown](#) | N/A | `development` |
+| [code-review](development/979-skill_d7ae241e/) | [Unknown](#) | N/A | `development` |
+| [About](development/005-about_4cbac0b4/) | [Unknown](#) | N/A | `development` |
+| [advise](development/979-skill_b50e2ed9/) | [Unknown](#) | N/A | `development` |
+| [cs-content-creator](development/691-plan_193e5734/) | [Unknown](#) | N/A | `content creation` |
+| [Long-Running Agent - Start Coding Session](development/300-devkitlrastart-session_030fd5d4/) | [Unknown](#) | N/A | `development` |
+| [Git Workflow Standards](development/426-git-workflow-standards_b6de9c41/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/805-readme_flat_styles_az_e2c91213/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code](development/233-create-prp_069ce58b/) | [Unknown](#) | N/A | `development` |
+| [Common DICOM Tags Reference](development/180-common_tags_47e0fc04/) | [Unknown](#) | N/A | `content creation` |
+| [Agent Inbox](development/979-skill_0accb7db/) | [Unknown](#) | N/A | `data analysis` |
+| [Awesome Claude Code (Flat)](development/787-readme_flat_commands_releases_6d493a2e/) | [Unknown](#) | N/A | `development` |
+| [Next Gen UI ACP Server](development/008-acp_d333c352/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/799-readme_flat_skills_releases_2aaabfc7/) | [Unknown](#) | N/A | `development` |
+| [Package incompatibility](development/661-package_incompatibility_db637f1a/) | [Unknown](#) | N/A | `development` |
+| [adr-review](development/979-skill_32bef153/) | [Unknown](#) | N/A | `daily assistant` |
+| [session-handoff](development/979-skill_8964e1b8/) | [Unknown](#) | N/A | `daily assistant` |
+| [branch_name](development/236-create-worktrees_e0d1617a/) | [Unknown](#) | N/A | `data analysis` |
+| [Strategy: Generated, Location-Correct Relative Asset Paths](development/667-path-resolution-strategyfinal_8dcf78b4/) | [Unknown](#) | N/A | `content creation` |
+| [Agent Skill: fecfile](development/028-agents_59c40ecb/) | [Unknown](#) | N/A | `development` |
+| [Claude Code Plugin: fecfile](development/028-agents_bef716af/) | [Unknown](#) | N/A | `development` |
+| [Model Loading and Management](development/594-models_5ef9e576/) | [Unknown](#) | N/A | `content creation` |
+| [Gemini CLI Setup for sf-diagram-nanobananapro](development/403-gemini-cli-setup_c06c7ff0/) | [Unknown](#) | N/A | `development` |
+| [accept-pr](development/979-skill_4f406071/) | [Unknown](#) | N/A | `content creation` |
+| [Awesome Claude Code (Flat)](development/804-readme_flat_statusline_updated_7af35098/) | [Unknown](#) | N/A | `development` |
+| [str) -> str:](development/951-security-standards_03991052/) | [Unknown](#) | N/A | `development` |
+| [1k-git-workflow](development/979-skill_ce11d626/) | [Unknown](#) | N/A | `development` |
+| [MCP Prefix Issue in Claude Code](development/558-mcp-prefix-issue_c2310353/) | [Unknown](#) | N/A | `development` |
+| [Control Set 13: Supply Chain Security (SUPPLY)](development/210-control-set-ext-12-supply-chain_df2188d4/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/803-readme_flat_statusline_releases_c40b9a28/) | [Unknown](#) | N/A | `development` |
+| [Prompt Used to Generate the MicroSim Index Feature of the MicroSim-Util Skill](development/415-generate-microsim-index-skill_6ec52ab9/) | [Unknown](#) | N/A | `daily assistant` |
+| [book-metrics-generator](development/979-skill_00e9fce1/) | [Unknown](#) | N/A | `data analysis` |
+| [How It Looks (WIP)](development/448-how_it_looks_32482173/) | [Unknown](#) | N/A | `development` |
+| [design-solution](development/979-skill_6b4bfdc1/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/784-readme_flat_clients_updated_6b3cf4fe/) | [Unknown](#) | N/A | `development` |
+| [Path Resolution Migration Plan](development/666-path-resolution-migration-plan_a129f414/) | [Unknown](#) | N/A | `content creation` |
+| [Injection Prevention Cheat Sheet in Java](development/846-reference-set-03-injection-prevention-java_ea412631/) | [Unknown](#) | N/A | `development` |
+| [Coinbase Developer Platform](development/130-cdp_6ac10aff/) | [Unknown](#) | N/A | `development` |
+| [JAAS Cheat Sheet](development/833-reference-set-01-jaas_c3f57b6f/) | [Unknown](#) | N/A | `development` |
+| [ADR 020: Strict Static Compilation Model](development/1031-strict-compilation-model_71729204/) | [Unknown](#) | N/A | `development` |
+| [requesting-code-review](development/908-requesting-code-review_a3703cac/) | [Unknown](#) | N/A | `development` |
+| [Claude Code Expert](development/979-skill_196133ca/) | [Unknown](#) | N/A | `development` |
+| [Operations Guide](development/644-ops_guide_3ad9992b/) | [Unknown](#) | N/A | `development` |
+| [DEPRECATED: TLS Cipher String Cheat Sheet](development/871-reference-set-06-tls-cipher-string_40f872d8/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/808-readme_flat_styles_updated_8efe49e3/) | [Unknown](#) | N/A | `development` |
+| [allow-agent-commands](development/979-skill_3c8e8182/) | [Unknown](#) | N/A | `development` |
+| [githubbing](development/979-skill_7a568fa7/) | [Unknown](#) | N/A | `development` |
+| [Sprint Progress Tracker](development/714-progress_fb139d1d/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/801-readme_flat_statusline_az_c220ec0f/) | [Unknown](#) | N/A | `development` |
+| [cs-agent-name](development/140-claude_da5102b2/) | [Unknown](#) | N/A | `content creation` |
+| [agentic-jujutsu](development/979-skill_6620d4de/) | [Unknown](#) | N/A | `development` |
+| [agent-hierarchy-diagram](development/979-skill_40ead33f/) | [Unknown](#) | N/A | `data analysis` |
+| [cs-content-creator](development/319-documentation-standards_742eb0b0/) | [Unknown](#) | N/A | `development` |
+| [DEPRECATED: Access Control Cheatsheet](development/839-reference-set-02-access-control_9ced2093/) | [Unknown](#) | N/A | `development` |
+| [List of Workshops and Resources](development/468-index_14a2fbce/) | [Unknown](#) | N/A | `development` |
+| [agent-command-authoring](development/979-skill_ddb43a81/) | [Unknown](#) | N/A | `development` |
+| [Context Layers (L0/L1/L2)](development/198-context-layers_3c910df8/) | [Unknown](#) | N/A | `development` |
+| [Claude Skills](development/920-review_8a2a8cf9/) | [Unknown](#) | N/A | `development` |
+| [US-003: Convert Tech-Lead Agent to Skill](development/979-skill_bccf983c/) | [Unknown](#) | N/A | `daily assistant` |
+| [Awesome Claude Code (Flat)](development/794-readme_flat_hooks_created_4e9bba6f/) | [Unknown](#) | N/A | `development` |
+| [cs-content-creator](development/463-implementation-plan-november-2025_1b9121b2/) | [Unknown](#) | N/A | `content creation` |
+| [上下文层级 (L0/L1/L2)](development/198-context-layers_18af828a/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code](development/385-fix-github-issue_d75f2b91/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/806-readme_flat_styles_created_5a10c32c/) | [Unknown](#) | N/A | `development` |
+| [DEPRECATED: Transport Layer Protection Cheat Sheet](development/872-reference-set-06-transport-layer-protection_c977400c/) | [Unknown](#) | N/A | `development` |
+| [YouTube to Blog Post Skill - 版本提交总结](development/706-pre_commit_summary_383192d6/) | [Unknown](#) | N/A | `content creation` |
+| [mermaidjs-v11](development/265-debugger-251230-1932-marketplace-visibility_a3e31cf9/) | [Unknown](#) | N/A | `development` |
+| [acm-handoff](development/979-skill_668a980f/) | [Unknown](#) | N/A | `content creation` |
+| [add-review-comment](development/979-skill_65bb6fc2/) | [Unknown](#) | N/A | `development` |
+| [agent-resources-vision](development/979-skill_3c02a946/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_c5bdbab2/) | [Unknown](#) | N/A | `development` |
+| [Long-Running Agent - Create Checkpoint](development/299-devkitlracheckpoint_5c59fbc8/) | [Unknown](#) | N/A | `development` |
+| [Sprint Plan: CS- Orchestrator Framework Implementation](development/691-plan_31b53a68/) | [Unknown](#) | N/A | `content creation` |
+| [API Versioning Strategies](development/1128-versioning_7abc6550/) | [Unknown](#) | N/A | `development` |
+| [agent-fullstack-developer](development/979-skill_c85994b4/) | [Unknown](#) | N/A | `development` |
+| [Security Pipeline](development/471-infrastructure-security_a4f27721/) | [Unknown](#) | N/A | `development` |
+| [csharp-developer](development/979-skill_81ee00af/) | [Unknown](#) | N/A | `development` |
+| [Azure Architecture Reference](development/084-azure_46bc118a/) | [Unknown](#) | N/A | `development` |
+| [API Reference](development/046-api-reference_e6c62e7d/) | [Unknown](#) | N/A | `development` |
+| [ai-data-engineering](development/979-skill_3d7278a6/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md](development/140-claude_ded4da2c/) | [Unknown](#) | N/A | `development` |
+| [Node Endpoint - Knowledge Graph Exploration](development/623-node_85ca9a7d/) | [Unknown](#) | N/A | `development` |
+| [GCP Architecture Reference](development/401-gcp_963b2cc4/) | [Unknown](#) | N/A | `development` |
+| [agentica-server](development/979-skill_c99ab347/) | [Unknown](#) | N/A | `development` |
+| [Section Index Creation](development/946-section-index_63a29894/) | [Unknown](#) | N/A | `data analysis` |
+| [OAuth Flows Reference for Connected Apps](development/628-oauth-flows-reference_4c2f0c5d/) | [Unknown](#) | N/A | `development` |
+| [Generate Snapshot](development/1115-usage-patterns_6e28825b/) | [Unknown](#) | N/A | `development` |
+| [spring-boot-rest-api-standards](development/979-skill_68fcd3bd/) | [Unknown](#) | N/A | `spring-boot` `rest-api` `dto` |
+| [Threat Modeling](development/996-skillset-threat-modeling-tour-v5_901086b9/) | [Unknown](#) | N/A | `development` |
+| [str](development/456-hyperparameter-tuning_38f93198/) | [Unknown](#) | N/A | `daily assistant` |
+| [skill-name](development/238-creating-skills_c7f40f8c/) | [Unknown](#) | N/A | `data analysis` |
+| [slime-user](development/979-skill_8395d2fc/) | [Unknown](#) | N/A | `development` |
+| [Terraform State Management](development/1023-state-management_9a904926/) | [Unknown](#) | N/A | `development` |
+| [My_Agent](development/026-agent-script-reference_619469b2/) | [Unknown](#) | N/A | `development` |
+| [客户端](development/148-client_ba778cc6/) | [Unknown](#) | N/A | `development` |
+| [LLM API Configuration](development/530-llm_configuration_cced6d61/) | [Unknown](#) | N/A | `development` |
+| [game-developer](development/979-skill_49bc6910/) | [Unknown](#) | N/A | `development` |
+| [Add Admin API Endpoint](development/979-skill_594336e7/) | [Unknown](#) | N/A | `development` |
+| [agent-golang-pro](development/979-skill_76ee2c3e/) | [Unknown](#) | N/A | `development` |
+| [Plugin Settings](development/979-skill_03edd6f2/) | [Unknown](#) | N/A | `content creation` |
+| [GWAS Catalog API Reference](development/051-api_reference_3651d220/) | [Unknown](#) | N/A | `content creation` |
+| [Authentication Module](development/652-p1-project-understanding_c46b32d0/) | [Unknown](#) | N/A | `development` |
+| [Agents](development/140-claude_b90e4fc9/) | [Unknown](#) | N/A | `content creation` |
+| [File Organizer 2000 - Developer Guide](development/140-claude_2e792916/) | [Unknown](#) | N/A | `development` |
+| [JWT Bearer Flow Template](development/499-jwt-bearer_6c737eb1/) | [Unknown](#) | N/A | `development` |
+| [Technology Evaluation Metrics](development/575-metrics_d9cb65a4/) | [Unknown](#) | N/A | `development` |
+| [SBI Feedback Model - Complete Guide](development/370-feedback-sbi-model_d61d4f65/) | [Unknown](#) | N/A | `development` |
+| [netshoot](development/1097-troubleshooting_916a2892/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-code-verifier](development/979-skill_83c8e944/) | [Unknown](#) | N/A | `development` |
+| [abaqus-job](development/979-skill_2f48e5b4/) | [Unknown](#) | N/A | `development` |
+| [Clinical Trial Reporting Standards](development/151-clinical_trial_reporting_2ecad92a/) | [Unknown](#) | N/A | `data analysis` |
+| [Java Architectural Review](development/293-devkitjavaarchitect-review_6a58600c/) | [Unknown](#) | N/A | `development` |
+| [NCBI Gene API Reference](development/051-api_reference_4b228fcf/) | [Unknown](#) | N/A | `development` |
+| [dotnet-core-expert](development/979-skill_e3f6073e/) | [Unknown](#) | N/A | `development` |
+| [agents-md](development/979-skill_b9444b55/) | [Unknown](#) | N/A | `development` |
+| [SLIME Documentation Navigation Guide](development/314-doc_navigation_331ccade/) | [Unknown](#) | N/A | `development` |
+| [Ai Infra Guard](development/720-project_summary_5b159beb/) | [Unknown](#) | N/A | `development` |
+| [Best Practices](development/102-best-practices_efabe665/) | [Unknown](#) | N/A | `development` |
+| [Mental Model Builder](development/354-explain-changes-mental-model_edb34aa6/) | [Unknown](#) | N/A | `data analysis` |
+| [agent-api-documenter](development/979-skill_9c8c32d5/) | [Unknown](#) | N/A | `development` |
+| [Observation Endpoint - Statistical Data Queries](development/632-observation_949747c0/) | [Unknown](#) | N/A | `data analysis` |
+| [memU](development/818-readme_ko_ca704477/) | [Unknown](#) | N/A | `content creation` |
+| [AGFS Server API Reference](development/045-api_f6a4b221/) | [Unknown](#) | N/A | `content creation` |
+| [Architecture Decision Records (ADR) Framework](development/061-architecture_decision_records_9cbc68b3/) | [Unknown](#) | N/A | `development` |
+| [kotlin-specialist](development/979-skill_91f5d556/) | [Unknown](#) | N/A | `development` |
+| [Development Setup](development/284-development_d3c847fc/) | [Unknown](#) | N/A | `development` |
+| [LightningModule - Comprehensive Guide](development/521-lightning_module_c247b19a/) | [Unknown](#) | N/A | `development` |
+| [hello-world](development/887-reference-set-ext-11-kubernetes-security_d1defcee/) | [Unknown](#) | N/A | `development` |
+| [CLAUDE.md - Basic Memory Project Guide](development/140-claude_657f3127/) | [Unknown](#) | N/A | `development` |
+| [Qwen-Ollama](development/979-skill_a40b1ecd/) | [Unknown](#) | N/A | `development` |
+| [${SECURITY_USER_NAME}](development/297-devkitjavasecurity-review_630fb571/) | [Unknown](#) | N/A | `development` |
+| [senior-backend](development/979-skill_b1171953/) | [Unknown](#) | N/A | `development` |
+| [research](development/979-skill_00967560/) | [Unknown](#) | N/A | `development` |
+| [String!](development/085-backend-api-design_9bdf6bf1/) | [Unknown](#) | N/A | `development` |
+| [Outcome Analysis and Statistical Methods Guide](development/649-outcome_analysis_d3d3f56c/) | [Unknown](#) | N/A | `data analysis` |
+| [memU](development/772-readme_es_69de1345/) | [Unknown](#) | N/A | `content creation` |
+| [Transform vs Loop: A Decision Guide](development/1091-transform-vs-loop-guide_3a961646/) | [Unknown](#) | N/A | `content creation` |
+| [Ensembl REST API Endpoints Reference](development/049-api_endpoints_e62bb680/) | [Unknown](#) | N/A | `development` |
+| [spring-boot-event-driven-patterns](development/979-skill_0100ef79/) | [Unknown](#) | N/A | `spring-boot` `java` `event-driven` |
+| [AI SDK Documentation](development/979-skill_79fbb4ac/) | [Unknown](#) | N/A | `development` |
+| [Librarian](development/519-librarian_b1b4898d/) | [Unknown](#) | N/A | `development` |
+| [work_life](development/1151-work_life_9ad46769/) | [Unknown](#) | N/A | `development` |
+| [Epic Planning Document Generator](development/227-create-epic-plan_1688f667/) | [Unknown](#) | N/A | `development` |
+| [PIIFilterPlugin](development/698-plugins_70dd8ea3/) | [Unknown](#) | N/A | `openai` `moderation` `content-safety` |
+| [SQLite Database Integration](development/1019-sqlite_db8b4450/) | [Unknown](#) | N/A | `content creation` |
+| [Reference Documentation for Risk Management Specialist](development/051-api_reference_29a73415/) | [Unknown](#) | N/A | `development` |
+| [Admin Console Concepts](development/1107-ui-concepts_cb84ceae/) | [Unknown](#) | N/A | `development` |
+| [ai-code-factory-workflow](development/979-skill_256c48f5/) | [Unknown](#) | N/A | `development` |
+| [agent-repair](development/979-skill_cf042e18/) | [Unknown](#) | N/A | `development` |
+| [fullstack-guardian](development/979-skill_3884a9cf/) | [Unknown](#) | N/A | `development` |
+| [spring-boot-cache](development/979-skill_62ae3a54/) | [Unknown](#) | N/A | `spring-boot` `caching` `performance` |
+| [java-architect](development/979-skill_1f4bb899/) | [Unknown](#) | N/A | `development` |
+| [graphql-architect](development/979-skill_d59bd954/) | [Unknown](#) | N/A | `development` |
+| [http_request_duration_seconds](development/091-backend-patterns_82264065/) | [Unknown](#) | N/A | `development` |
+| [API Error Handling](development/342-error-handling_f4f53b35/) | [Unknown](#) | N/A | `development` |
+| [Concurrency Patterns](development/189-concurrency_3617f128/) | [Unknown](#) | N/A | `daily assistant` |
+| [REST Callout Patterns](development/915-rest-callout-patterns_a1826e80/) | [Unknown](#) | N/A | `development` |
+| [my-doc                  # Document metadata](development/055-architecture_df636787/) | [Unknown](#) | N/A | `development` |
+| [agent-factory](development/979-skill_5954fec2/) | [Unknown](#) | N/A | `development` |
+| [Reference Documentation for Modal](development/051-api_reference_cfde6313/) | [Unknown](#) | N/A | `development` |
+| [Common C4 Model Mistakes to Avoid](development/175-common-mistakes_608b39dd/) | [Unknown](#) | N/A | `development` |
+| [nestjs-backend-development-expert](development/615-nestjs-backend-development-expert_9111672c/) | [Unknown](#) | N/A | `development` |
+| [Storage Architecture](development/1026-storage_4e19fc06/) | [Unknown](#) | N/A | `development` |
+| [ado-resource-validator](development/979-skill_a66f459e/) | [Unknown](#) | N/A | `development` |
+| [aws-cloudformation-lambda](development/979-skill_e9c886ba/) | [Unknown](#) | N/A | `aws` `cloudformation` `lambda` |
+| [adguard-home](development/979-skill_efd17194/) | [Unknown](#) | N/A | `content creation` |
+| [user-service](development/086-backend-architecture_8ae6a40c/) | [Unknown](#) | N/A | `development` |
+| [Creating a New Colin Project](development/618-new-project_74688a39/) | [Unknown](#) | N/A | `development` |
+| [advanced-features-2025](development/979-skill_766203d7/) | [Unknown](#) | N/A | `development` |
+| [🚀 Quick Start](development/758-quick_start_e5ce3cbd/) | [Unknown](#) | N/A | `development` |
+| [myapp](development/960-service-mesh_cbacae82/) | [Unknown](#) | N/A | `development` |
+| [Clinical Decision Algorithms Guide](development/149-clinical_decision_algorithms_cba5880b/) | [Unknown](#) | N/A | `development` |
+| [Skills Lister MCP - Quick Reference](development/759-quickref_9d640a9f/) | [Unknown](#) | N/A | `development` |
+| [Reactome API Reference](development/051-api_reference_1c5616b2/) | [Unknown](#) | N/A | `development` |
+| [5432/dbname \](development/965-setup-deployment_cc8c7fb8/) | [Unknown](#) | N/A | `development` |
+| [ai-architect-expert](development/979-skill_fcd7c973/) | [Unknown](#) | N/A | `ai-architecture` `mlops` `system-design` |
+| [profile.name,](development/629-oauth-providers_5201dc27/) | [Unknown](#) | N/A | `development` |
+| [Microservices Security Cheat Sheet](development/880-reference-set-09-microservices-security_3114af10/) | [Unknown](#) | N/A | `development` |
+| [Client](development/148-client_89374855/) | [Unknown](#) | N/A | `development` |
+| [golang-pro](development/979-skill_3ef1f54c/) | [Unknown](#) | N/A | `development` |
+| [receiving-code-review](development/161-code-review-reception_2f611402/) | [Unknown](#) | N/A | `development` |
+| [legacy-modernizer](development/979-skill_be7630fc/) | [Unknown](#) | N/A | `development` |
+| [typescript-software-architect-review](development/1106-typescript-software-architect-review_fa8474f3/) | [Unknown](#) | N/A | `development` |
+| [Server Architecture](development/055-architecture_b2b747bc/) | [Unknown](#) | N/A | `data analysis` |
+| [API Gateway](development/657-p5-stride-analysis_a350036c/) | [Unknown](#) | N/A | `daily assistant` |
+| [AWS RDS API Reference](development/046-api-reference_8bb4f5fd/) | [Unknown](#) | N/A | `development` |
+| [string;            // Full gene name](development/051-api_reference_efa00fab/) | [Unknown](#) | N/A | `development` |
+| [Architecture Patterns](development/058-architecture-patterns_954bde74/) | [Unknown](#) | N/A | `development` |
+| [frontend-to-backend-requirements](development/979-skill_d29acfea/) | [Unknown](#) | N/A | `development` |
+| [android-stop-app](development/979-skill_ea93e1e3/) | [Unknown](#) | N/A | `development` |
+| [Geniml Utilities and Additional Tools](development/1118-utilities_e64f7b02/) | [Unknown](#) | N/A | `development` |
+| [Whisper-Transcription](development/979-skill_0dcfdc2f/) | [Unknown](#) | N/A | `daily assistant` |
+| [Synth AI Agent Instructions](development/028-agents_f6c62914/) | [Unknown](#) | N/A | `development` |
+| [information-security-manager-iso27001](development/979-skill_effb1650/) | [Unknown](#) | N/A | `development` |
+| [ai-sdk-best-practices](development/979-skill_d432d4f7/) | [Unknown](#) | N/A | `development` |
+| [string;](development/583-migration-from-rest_9945f1c6/) | [Unknown](#) | N/A | `development` |
+| [Verifier Fusion Plan: PTCG Gameplay Eval + Rubrics Consolidation Refactor](development/1127-verifier_fusion_plan_b9054e2b/) | [Unknown](#) | N/A | `development` |
+| [Annotated[str, Field(min_length=3, max_length=50)]](development/581-migration-from-django_0e528304/) | [Unknown](#) | N/A | `development` |
+| [ORCHESTRATION_DEBUGGING](development/979-skill_624587b4/) | [Unknown](#) | N/A | `development` |
+| [agc-tuner](development/979-skill_1213a1e0/) | [Unknown](#) | N/A | `development` |
+| [Enable MCP for Zero-Token `/skills` Command](development/335-enable-mcp_dd81c81c/) | [Unknown](#) | N/A | `data analysis` |
+| [Spring Security JWT Skill Structure](development/1033-structure_3760740c/) | [Unknown](#) | N/A | `development` |
+| [Apex Design Patterns](development/278-design-patterns_264658f3/) | [Unknown](#) | N/A | `development` |
+| [str) -> Path](development/398-gateway_patterns_364acdf2/) | [Unknown](#) | N/A | `development` |
+| [PaymentGateway](development/477-integration-patterns_7c4a711b/) | [Unknown](#) | N/A | `development` |
+| [\*\*Prompt-Driven Development (PDD)](development/1146-whitepaper_before_45_1c13ffbc/) | [Unknown](#) | N/A | `development` |
+| [System Prompts](development/1049-system-prompts_18a3054c/) | [Unknown](#) | N/A | `development` |
+| [Your_Deployment_API_Name](development/574-messaging-api-v2_07644af9/) | [Unknown](#) | N/A | `development` |
+| [Scaling Out on Modal](development/933-scaling_e756d757/) | [Unknown](#) | N/A | `development` |
+| [PK](development/062-architecture_patterns_fceffe13/) | [Unknown](#) | N/A | `development` |
+| [Prompt‑Driven Development Doctrine](development/721-prompt-driven-development-doctrine_9b47b496/) | [Unknown](#) | N/A | `development` |
+| [SLIME Source Code Quick Reference](development/1003-source_code_reference_8c1839ec/) | [Unknown](#) | N/A | `development` |
+| [Deploy & Harbor: Cloud-Hosted LocalAPI](development/271-deploy_and_harbor_3ef2c303/) | [Unknown](#) | N/A | `development` |
+| [langchain4j-testing-strategies](development/979-skill_2cdb776f/) | [Unknown](#) | N/A | `langchain4j` `testing` `unit-tests` |
+| [sf-integration](development/979-skill_994d1b03/) | [Unknown](#) | N/A | `development` |
+| [Threat Modeling](development/202-control-set-02-authorization_91b176eb/) | [Unknown](#) | N/A | `development` |
+| [tilelang-developer](development/979-skill_d1b915cc/) | [Unknown](#) | N/A | `development` |
+| [Agent Orchestrator](development/979-skill_dc69c196/) | [Unknown](#) | N/A | `content creation` |
+| [Multi-Agent Auto-Configuration Guide](development/610-multi_agent_setup_9f6ee563/) | [Unknown](#) | N/A | `development` |
+| [pr-creation](development/979-skill_521952e3/) | [Unknown](#) | N/A | `development` |
+| [Seaborn Objects Interface](development/631-objects_interface_1e858870/) | [Unknown](#) | N/A | `data analysis` |
+| [PR workflow](development/355-explain-pr-changes_af639240/) | [Unknown](#) | N/A | `development` |
+| [User Profile](development/913-resources_c32f64a7/) | [Unknown](#) | N/A | `development` |
+| [MyApp](development/087-backend-authentication_396f0d1a/) | [Unknown](#) | N/A | `content creation` |
+| [android-notification-builder](development/979-skill_df274d31/) | [Unknown](#) | N/A | `development` |
+| [str, mode: str =](development/257-data_pipeline_architecture_a538d2b4/) | [Unknown](#) | N/A | `data analysis` |
+| [git-commit-validator](development/979-skill_f0845841/) | [Unknown](#) | N/A | `development` |
+| [swift-expert](development/979-skill_faa6e79a/) | [Unknown](#) | N/A | `development` |
+| [Choose your framework](development/474-installation_8bf298f1/) | [Unknown](#) | N/A | `development` |
+| [wolf-scripts-agents](development/979-skill_7a553183/) | [Unknown](#) | N/A | `development` |
+| [Skill-First Learning](development/979-skill_27106c0b/) | [Unknown](#) | N/A | `development` |
+| [[](development/088-backend-debugging_9468a89f/) | [Unknown](#) | N/A | `development` |
+| [Ai Infra Guard](development/720-project_summary_0b133bfa/) | [Unknown](#) | N/A | `development` |
+| [app-config](development/191-configuration_0677fa7f/) | [Unknown](#) | N/A | `development` |
+| [Forge API Reference](development/388-forge-api_f5faad59/) | [Unknown](#) | N/A | `development` |
+| [Awesome Claude Code (Flat)](development/775-readme_flat_all_releases_7bcc0bdf/) | [Unknown](#) | N/A | `development` |
+| [myapp-pod](development/505-kubernetes-basics_7232b88a/) | [Unknown](#) | N/A | `development` |
+| [custom-roles](development/762-rbac_fcd7e762/) | [Unknown](#) | N/A | `development` |
+| [atlassian-mcp](development/979-skill_0a0f8633/) | [Unknown](#) | N/A | `development` |
+| [pod-reader](development/508-kubernetes-security_83c817d3/) | [Unknown](#) | N/A | `daily assistant` |
+| [Qiskit Primitives](development/709-primitives_6fea9e6a/) | [Unknown](#) | N/A | `data analysis` |
+| [Benchling Python SDK Reference](development/942-sdk_reference_f788b5bb/) | [Unknown](#) | N/A | `development` |
+| [Patient Cohort Analysis Guide](development/669-patient_cohort_analysis_989f1534/) | [Unknown](#) | N/A | `data analysis` |
+| [How ContextForge Fits the Criteria for Selecting an Enterprise MCP Gateway](development/955-selecting-an-mcp-gateway_ebaef390/) | [Unknown](#) | N/A | `development` |
+| [ENA API Reference](development/051-api_reference_e3c86ba6/) | [Unknown](#) | N/A | `development` |
+| [API Gateway](development/657-p5-stride-analysis_fca7c595/) | [Unknown](#) | N/A | `development` |
+| [Generate Implementation Plan](development/228-create-implementation-plan_5e5babb9/) | [Unknown](#) | N/A | `development` |
+| [Skills vs Projects: Detailed Comparison](development/983-skill-vs-project_8d98ff7a/) | [Unknown](#) | N/A | `daily assistant` |
+| [Research Protocol](development/910-research-protocol_d219729c/) | [Unknown](#) | N/A | `development` |
+| [web-app-service](development/617-networking_12ff07c3/) | [Unknown](#) | N/A | `development` |
+| [Authentication Module](development/652-p1-project-understanding_6cc9a583/) | [Unknown](#) | N/A | `development` |
+| [AWS Lambda Official Documentation Reference](development/634-official-documentation_71d540f2/) | [Unknown](#) | N/A | `development` |
+| [Skills Lister MCP Server - Summary](development/1038-summary_f68a6c94/) | [Unknown](#) | N/A | `development` |
+| [Your existing Next.js project structure remains the same](development/360-faq_10409959/) | [Unknown](#) | N/A | `development` |
+| [String](development/828-reference_b3e51496/) | [Unknown](#) | N/A | `development` |
+| [Perplexity MCP Server Guide](development/140-claude_ae41e6ed/) | [Unknown](#) | N/A | `development` |
+| [jira_search](development/498-jira-queries_9d687ca7/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-api-automation-test](development/979-skill_e26cf610/) | [Unknown](#) | N/A | `development` |
+| [Developer Kit](development/1011-speckitcheck-integration_ec2db6c1/) | [Unknown](#) | N/A | `development` |
+| [agentic-orchestration](development/979-skill_0c3d4ab3/) | [Unknown](#) | N/A | `content creation` |
+| [MCP_ORCHESTRATION](development/979-skill_0dc6919e/) | [Unknown](#) | N/A | `development` |
+| [Refresh Token Flow Template](development/899-refresh-token_e8379576/) | [Unknown](#) | N/A | `development` |
+| [ai-ad-prompt-structurer](development/979-skill_5bb115fb/) | [Unknown](#) | N/A | `development` |
+| [commit-work](development/979-skill_888588ea/) | [Unknown](#) | N/A | `content creation` |
+| [android-restart-app](development/979-skill_e53b7597/) | [Unknown](#) | N/A | `development` |
+| [Performance Optimization](development/682-performance_185b571d/) | [Unknown](#) | N/A | `development` |
+| [MCP Server Status Check](development/137-check-status_0ce01362/) | [Unknown](#) | N/A | `development` |
+| [string      # ← MUST match Flow variable name!](development/009-actions-guide_69fe0742/) | [Unknown](#) | N/A | `development` |
+| [Zero-Token Skills Listing - Setup Guide](development/966-setup-guide_a7f1576b/) | [Unknown](#) | N/A | `development` |
+| [Authentication Bypass Detection](development/559-mcp-scan_0048e307/) | [Unknown](#) | N/A | `development` |
+| [SHAP Workflows and Best Practices](development/1156-workflows_649baa27/) | [Unknown](#) | N/A | `data analysis` |
+| [Colin](development/992-skills_696f7cf6/) | [Unknown](#) | N/A | `development` |
+| [OAuth 2.0 Integration Design for MCP Gateway](development/627-oauth-design_9123887c/) | [Unknown](#) | N/A | `development` |
+| [general-software-architect](development/408-general-software-architect_92467643/) | [Unknown](#) | N/A | `development` |
+| [troubleshooting-dbt-job-errors](development/979-skill_065bdb6c/) | [Unknown](#) | N/A | `development` |
+| [synth-api](development/979-skill_b9e49017/) | [Unknown](#) | N/A | `development` |
+| [**Software Development Costs and Maintenance: 2022–2025 Trends and AI Impact**](development/999-software-development-costs-and-maintenance_-20222025-trends-and-ai-impact_352d3000/) | [Unknown](#) | N/A | `development` |
+| [Creating a New Colin Project](development/618-new-project_6520356b/) | [Unknown](#) | N/A | `development` |
+| [agent-swift-expert](development/979-skill_d1555846/) | [Unknown](#) | N/A | `development` |
+| [Named Credentials Guide](development/614-named-credentials-guide_fe6a8172/) | [Unknown](#) | N/A | `development` |
+| [{backend.name}](development/094-backends_e1336784/) | [Unknown](#) | N/A | `development` |
+| [string;](development/582-migration-from-express_8ef8ec40/) | [Unknown](#) | N/A | `development` |
+| [claude-code](development/338-enterprise-features_8f885147/) | [Unknown](#) | N/A | `development` |
+| [configuring-dbt-mcp-server](development/979-skill_fe9394f6/) | [Unknown](#) | N/A | `development` |
+| [Epic Planning Document Generator](development/227-create-epic-plan_8b7ab236/) | [Unknown](#) | N/A | `development` |
 
 ### Investment (30 skills)
 
@@ -1522,7 +3773,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Synthesizing](investment/017-integrate_24cc2bf4/) | [Unknown](#) | N/A | `investment` |
 | [Skill](investment/014-agentkit_e1178a49/) | [Unknown](#) | N/A | `investment` |
 
-### Other (43 skills)
+### Other (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1567,8 +3818,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
-| [Skill](other/other-skill_17e1e593/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/docx-contracts/SKILL.md) | ⭐ 21 | `other` |
-| [Skill](other/other-skill_d588a26c/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/genome-analizer/SKILL.md) | ⭐ 21 | `other` |
 
 ### Productivity (151 skills)
 
@@ -1726,7 +3975,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/077-ai-doc-system-auditor_4a5edfcf/) | [Unknown](#) | N/A | `productivity` |
 | [Skill](productivity/077-agent-react-specialist_df3c8fcb/) | [Unknown](#) | N/A | `productivity` |
 
-### Research (210 skills)
+### Research (207 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1937,9 +4186,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api Reference](research/007-clinicaltrials_50a3a66c/) | [Unknown](#) | N/A | `research` |
 | [Design Principles](research/037-analyze_e7ba630a/) | [Unknown](#) | N/A | `data analysis` |
 | [Similarity](research/114-document_1d37dd43/) | [Unknown](#) | N/A | `research` |
-| [Skill](research/research-skill_63421d8b/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/scrapedo-web-scraper/SKILL.md) | ⭐ 21 | `research` |
-| [Skill](research/name-skill_21b525cc/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/agent-deck/skills/agent-deck/SKILL.md) | ⭐ 21 | `research` |
-| [Skill](research/name-skill_ad629645/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/scrapedo-web-scraper/skills/scrapedo-web-scraper/SKILL.md) | ⭐ 21 | `research` |
 
 ## Repository Structure
 
