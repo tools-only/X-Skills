@@ -1,8 +1,8 @@
-# {read.name}
+# Sequence Files
 
 | Property | Value |
 |----------|-------|
-| **Name** | {read.name} |
+| **Name** | Sequence Files |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pysam/references/sequence_files.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pysam/references/sequence_files.md` |
 | **Category** | automation |

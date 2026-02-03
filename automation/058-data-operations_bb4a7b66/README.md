@@ -1,8 +1,8 @@
-# {describe[
+# Data Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | {describe[ |
+| **Name** | Data Operations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/dnanexus-integration/references/data-operations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/dnanexus-integration/references/data-operations.md` |
 | **Category** | content-creation |

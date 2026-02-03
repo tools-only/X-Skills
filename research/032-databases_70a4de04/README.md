@@ -1,8 +1,8 @@
-# {record[
+# Databases
 
 | Property | Value |
 |----------|-------|
-| **Name** | {record[ |
+| **Name** | Databases |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/biopython/references/databases.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/biopython/references/databases.md` |
 | **Category** | research |

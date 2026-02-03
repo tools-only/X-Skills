@@ -1,8 +1,8 @@
-# {{ skill_name }}
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | {{ skill_name }} |
+| **Name** | Skill |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/src/colin/blueprints/mcp-guide/models/SKILL.md) (⭐ 93) |
 | **Original Path** | `src/colin/blueprints/mcp-guide/models/SKILL.md` |
 | **Category** | content-creation |

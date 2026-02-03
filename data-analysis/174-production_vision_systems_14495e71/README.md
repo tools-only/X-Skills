@@ -1,8 +1,8 @@
-# input_data.astype(np.float32)}
+# Production Vision Systems
 
 | Property | Value |
 |----------|-------|
-| **Name** | input_data.astype(np.float32)} |
+| **Name** | Production Vision Systems |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-computer-vision/references/production_vision_systems.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-computer-vision/references/production_vision_systems.md` |
 | **Category** | data-analysis |

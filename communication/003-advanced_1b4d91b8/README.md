@@ -1,8 +1,8 @@
-# {admin.getOmeName()}
+# Advanced
 
 | Property | Value |
 |----------|-------|
-| **Name** | {admin.getOmeName()} |
+| **Name** | Advanced |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/omero-integration/references/advanced.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/omero-integration/references/advanced.md` |
 | **Category** | communication |

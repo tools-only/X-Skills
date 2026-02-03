@@ -1,8 +1,8 @@
-# {details.getOwner().getOmeName()}
+# Data Access
 
 | Property | Value |
 |----------|-------|
-| **Name** | {details.getOwner().getOmeName()} |
+| **Name** | Data Access |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/omero-integration/references/data_access.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/omero-integration/references/data_access.md` |
 | **Category** | communication |

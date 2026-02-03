@@ -1,8 +1,8 @@
-# {!@variables.name}  # empty!
+# Patterns Quick Ref
 
 | Property | Value |
 |----------|-------|
-| **Name** | {!@variables.name}  # empty! |
+| **Name** | Patterns Quick Ref |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/docs/patterns-quick-ref.md` |
 | **Category** | commercial |

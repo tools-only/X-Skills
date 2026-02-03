@@ -1,8 +1,8 @@
-# {!@variables.name}  # name is empty!
+# Instruction Resolution
 
 | Property | Value |
 |----------|-------|
-| **Name** | {!@variables.name}  # name is empty! |
+| **Name** | Instruction Resolution |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/instruction-resolution.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/resources/instruction-resolution.md` |
 | **Category** | commercial |

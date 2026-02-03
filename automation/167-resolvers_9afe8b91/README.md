@@ -1,8 +1,8 @@
-# (user: User): string => {
+# Resolvers
 
 | Property | Value |
 |----------|-------|
-| **Name** | (user: User): string => { |
+| **Name** | Resolvers |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/graphql-architect/references/resolvers.md) (⭐ 216) |
 | **Original Path** | `skills/graphql-architect/references/resolvers.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# {protein.name}
+# Proteins And Organization
 
 | Property | Value |
 |----------|-------|
-| **Name** | {protein.name} |
+| **Name** | Proteins And Organization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rowan/references/proteins_and_organization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rowan/references/proteins_and_organization.md` |
 | **Category** | content-creation |

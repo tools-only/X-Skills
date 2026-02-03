@@ -1,8 +1,8 @@
-# string) {}
+# Backend Code Quality
 
 | Property | Value |
 |----------|-------|
-| **Name** | string) {} |
+| **Name** | Backend Code Quality |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-code-quality.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/backend-development/references/backend-code-quality.md` |
 | **Category** | commercial |

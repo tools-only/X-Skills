@@ -1,8 +1,8 @@
-# {sample.getName()}
+# File Io
 
 | Property | Value |
 |----------|-------|
-| **Name** | {sample.getName()} |
+| **Name** | File Io |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pyopenms/references/file_io.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pyopenms/references/file_io.md` |
 | **Category** | commercial |

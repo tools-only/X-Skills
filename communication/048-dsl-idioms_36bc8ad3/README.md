@@ -1,8 +1,8 @@
-# String) {
+# Dsl Idioms
 
 | Property | Value |
 |----------|-------|
-| **Name** | String) { |
+| **Name** | Dsl Idioms |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kotlin-specialist/references/dsl-idioms.md) (⭐ 216) |
 | **Original Path** | `skills/kotlin-specialist/references/dsl-idioms.md` |
 | **Category** | data-analysis |

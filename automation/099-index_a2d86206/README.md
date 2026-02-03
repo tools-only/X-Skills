@@ -1,8 +1,8 @@
-# {{TITLE}}
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | {{TITLE}} |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/causal-loop-microsim-generator/assets/templates/index.md) (⭐ 14) |
 | **Original Path** | `skills/archived/causal-loop-microsim-generator/assets/templates/index.md` |
 | **Category** | automation |

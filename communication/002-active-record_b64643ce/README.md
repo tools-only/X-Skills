@@ -1,8 +1,8 @@
-# tag }) }
+# Active Record
 
 | Property | Value |
 |----------|-------|
-| **Name** | tag }) } |
+| **Name** | Active Record |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rails-expert/references/active-record.md) (⭐ 216) |
 | **Original Path** | `skills/rails-expert/references/active-record.md` |
 | **Category** | communication |

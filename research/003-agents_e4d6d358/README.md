@@ -1,8 +1,8 @@
-# {skill-name}
+# Agents
 
 | Property | Value |
 |----------|-------|
-| **Name** | {skill-name} |
+| **Name** | Agents |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/AGENTS.md) (⭐ 383) |
 | **Original Path** | `AGENTS.md` |
 | **Category** | research |

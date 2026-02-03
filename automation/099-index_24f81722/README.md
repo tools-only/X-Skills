@@ -1,8 +1,8 @@
-# {{TITLE}}
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | {{TITLE}} |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/mermaid-generator/assets/template/index.md) (⭐ 14) |
 | **Original Path** | `skills/archived/mermaid-generator/assets/template/index.md` |
 | **Category** | automation |

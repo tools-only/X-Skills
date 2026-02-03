@@ -1,8 +1,8 @@
-# string; age: number; active: boolean }
+# Prompt Engineering Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; age: number; active: boolean } |
+| **Name** | Prompt Engineering Patterns |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-prompt-engineer/references/prompt_engineering_patterns.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-prompt-engineer/references/prompt_engineering_patterns.md` |
 | **Category** | commercial |

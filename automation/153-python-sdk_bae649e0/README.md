@@ -1,8 +1,8 @@
-# {desc[
+# Python Sdk
 
 | Property | Value |
 |----------|-------|
-| **Name** | {desc[ |
+| **Name** | Python Sdk |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/dnanexus-integration/references/python-sdk.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/dnanexus-integration/references/python-sdk.md` |
 | **Category** | automation |

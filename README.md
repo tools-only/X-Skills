@@ -66,19 +66,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [security-reviewer](automation/180-skill_77254b4b/) | [Unknown](#) |  | `automation` |
 | [FDA CAPA Requirements](automation/078-fda_capa_requirements_69fa23af/) | [Unknown](#) |  | `daily assistant` |
 | [claude-api-cost-optimization](automation/180-skill_3cb1abb8/) | [Unknown](#) |  | `automation` |
-| [{describe[](automation/058-data-operations_bb4a7b66/) | [Unknown](#) |  | `content creation` |
+| [Data Operations](automation/058-data-operations_bb4a7b66/) | [Unknown](#) |  | `content creation` |
 | [DiffDock Configuration Parameters Reference](automation/142-parameters_reference_b987627f/) | [Unknown](#) |  | `automation` |
 | [microservices-architect](automation/180-skill_62d13909/) | [Unknown](#) |  | `automation` |
 | [gdpr-dsgvo-expert](automation/180-skill_0217d307/) | [Unknown](#) |  | `automation` |
 | [agent-generator](automation/180-skill_20ed5c7b/) | [Unknown](#) |  | `content creation` |
 | [Alice](automation/131-mongodb-crud_4c931cea/) | [Unknown](#) |  | `content creation` |
 | [cover-image-generator](automation/052-cover-image-generator_59c29784/) | [Unknown](#) |  | `automation` |
-| [(user: User): string => {](automation/167-resolvers_9afe8b91/) | [Unknown](#) |  | `content creation` |
+| [Resolvers](automation/167-resolvers_9afe8b91/) | [Unknown](#) |  | `content creation` |
 | [Spectroscopy and Analytical Chemistry File Formats Reference](automation/185-spectroscopy_analytical_formats_05e519f0/) | [Unknown](#) |  | `automation` |
 | [langchain4j-vector-stores-configuration](automation/180-skill_31eff50e/) | [Unknown](#) |  | `langchain4j` `vector-stores` `embeddings` |
 | [Topic_Planning](automation/180-skill_26c6809f/) | [Unknown](#) |  | `topic` `planning` `router` |
 | [Dietary+Supplements](automation/084-foods_8590681f/) | [Unknown](#) |  | `automation` |
-| [{{ skill_name }}](automation/180-skill_6fc9c9f5/) | [Unknown](#) |  | `content creation` |
+| [Skill](automation/180-skill_6fc9c9f5/) | [Unknown](#) |  | `content creation` |
 | [Textures](automation/193-textures_499a16db/) | [Unknown](#) |  | `content creation` |
 | [project-status](automation/086-frontmatter-namespacing_8585a1fa/) | [Unknown](#) |  | `data analysis` |
 | [Quality Standards](automation/155-quality-standards_0a870ee6/) | [Unknown](#) |  | `automation` |
@@ -105,7 +105,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [benchling-integration](automation/180-skill_f75d2fc4/) | [Unknown](#) |  | `automation` |
 | [Multi-Signal Integration (Bio Module)](automation/019-bio_module_26c87b28/) | [Unknown](#) |  | `data analysis` |
 | [AOC Orchestrator](automation/180-skill_406e45dd/) | [Unknown](#) |  | `automation` |
-| [{protein.name}](automation/152-proteins_and_organization_fe62d6b7/) | [Unknown](#) |  | `content creation` |
+| [Proteins And Organization](automation/152-proteins_and_organization_fe62d6b7/) | [Unknown](#) |  | `content creation` |
 | [spring-boot-actuator](automation/180-skill_0e06814a/) | [Unknown](#) |  | `spring-boot` `actuator` `monitoring` |
 | [Slide Management](automation/183-slide_management_d883d0f8/) | [Unknown](#) |  | `data analysis` |
 | [ai4pkm-helper](automation/180-skill_28a56622/) | [Unknown](#) |  | `content creation` |
@@ -161,7 +161,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [pymatgen](automation/180-skill_bd866be0/) | [Unknown](#) |  | `data analysis` |
 | [<test-name>  # this is the unique name of the test](automation/184-spec_8d3a4f98/) | [Unknown](#) |  | `automation` |
 | [Experimental Design Patterns](automation/074-experimental_design_patterns_c625281a/) | [Unknown](#) |  | `automation` |
-| [{desc[](automation/153-python-sdk_bae649e0/) | [Unknown](#) |  | `automation` |
+| [Python Sdk](automation/153-python-sdk_bae649e0/) | [Unknown](#) |  | `automation` |
 | [offer-k-dense-web](automation/180-skill_30ba256a/) | [Unknown](#) |  | `automation` |
 | [Easy Diagram Generation Execution Plan](automation/072-execution-plan_4afa8f5b/) | [Unknown](#) |  | `automation` |
 | [account-tiering](automation/180-skill_421cea4e/) | [Unknown](#) |  | `data analysis` |
@@ -272,7 +272,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [OMERO Tables](automation/192-tables_408a4f24/) | [Unknown](#) |  | `automation` |
 | [transformers](automation/180-skill_feeff723/) | [Unknown](#) |  | `automation` |
 | [Chemical Properties and Similarity Analysis](automation/026-chemical-analysis_08006fee/) | [Unknown](#) |  | `automation` |
-| [{read.name}](automation/176-sequence_files_ddab0b16/) | [Unknown](#) |  | `automation` |
+| [Sequence Files](automation/176-sequence_files_ddab0b16/) | [Unknown](#) |  | `automation` |
 | [`Partner Source`](automation/095-hubspot-workflows_9aeee64e/) | [Unknown](#) |  | `automation` |
 | [MkDocs Build Process Workflow Diagram](automation/121-mkdocs-build-process-workflow-diagram_f0e9c943/) | [Unknown](#) |  | `data analysis` |
 | [analyze-friction](automation/180-skill_c7d4a81d/) | [Unknown](#) |  | `automation` |
@@ -344,7 +344,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [ai-marketing-engineering](automation/180-skill_27fd1785/) | [Unknown](#) |  | `content creation` |
 | [Sprint Retrospective Generator](automation/039-complete-sprint_e444cb98/) | [Unknown](#) |  | `automation` |
 | [ml-pipeline](automation/180-skill_ec17b01a/) | [Unknown](#) |  | `automation` |
-| [{{TITLE}}](automation/099-index_a2d86206/) | [Unknown](#) |  | `automation` |
+| [Index](automation/099-index_a2d86206/) | [Unknown](#) |  | `automation` |
 | [ClinVar API and Data Access Reference](automation/011-api_reference_6bf32841/) | [Unknown](#) |  | `automation` |
 | [Knowledge Graph Reasoning](automation/110-knowledge_graphs_2162d849/) | [Unknown](#) |  | `automation` |
 | [**Prompt-Driven Development (PDD)**](automation/136-o3_whitepaper_acfe5085/) | [Unknown](#) |  | `automation` |
@@ -408,7 +408,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [skill-seekers](automation/020-bootstrap_skill_c83aa219/) | [Unknown](#) |  | `documentation` `scraping` `ai-skills` |
 | [Advanced Workflow Patterns](automation/003-advanced-patterns_848a5e79/) | [Unknown](#) |  | `data analysis` |
 | [discover-assumptions](automation/180-skill_0f315e8b/) | [Unknown](#) |  | `daily assistant` |
-| [{{TITLE}}](automation/099-index_07cddcf4/) | [Unknown](#) |  | `automation` |
+| [Index](automation/099-index_07cddcf4/) | [Unknown](#) |  | `automation` |
 | [anndata](automation/180-skill_70f40b01/) | [Unknown](#) |  | `data analysis` |
 | [Spatial Transcriptomics Models](automation/127-models-spatial_fa369a84/) | [Unknown](#) |  | `automation` |
 | [DeepChem Workflows](automation/212-workflows_15c1f96e/) | [Unknown](#) |  | `automation` |
@@ -447,13 +447,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [biopython](automation/180-skill_9079af86/) | [Unknown](#) |  | `automation` |
 | [Graph Construction & Spatial Analysis](automation/092-graphs_dfeaecea/) | [Unknown](#) |  | `data analysis` |
 | [Resources](automation/168-resources_c4a86f34/) | [Unknown](#) |  | `content creation` |
-| [{orig_file.getName()}](automation/119-metadata_36fdafcb/) | [Unknown](#) |  | `automation` |
+| [Metadata](automation/119-metadata_36fdafcb/) | [Unknown](#) |  | `automation` |
 | [labarchive-integration](automation/180-skill_436572f5/) | [Unknown](#) |  | `automation` |
 | [aictxt-manager](automation/180-skill_0836e564/) | [Unknown](#) |  | `automation` |
 | [Transformations](automation/200-transformations_e7807df1/) | [Unknown](#) |  | `automation` |
 | [str](automation/124-model-validation_1b0d2355/) | [Unknown](#) |  | `automation` |
 | [analytics-pipeline](automation/180-skill_ed891e77/) | [Unknown](#) |  | `automation` |
-| [{{TITLE}}](automation/099-index_24f81722/) | [Unknown](#) |  | `automation` |
+| [Index](automation/099-index_24f81722/) | [Unknown](#) |  | `automation` |
 | [util-youtube-analyzer](automation/180-skill_44dde68b/) | [Unknown](#) |  | `data analysis` |
 | [adaptive-temporal-analysis-integration](automation/180-skill_25eb3da0/) | [Unknown](#) |  | `automation` |
 | [command-creator](automation/180-skill_250a46eb/) | [Unknown](#) |  | `automation` |
@@ -575,7 +575,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [accessibility-testing](commercial/181-skill_fcb17473/) | [Unknown](#) |  | `accessibility` `wcag` `a11y` |
 | [ai-engineer](commercial/181-skill_cc201053/) | [Unknown](#) |  | `commercial` |
 | [ViewSets & Views](commercial/206-viewsets-views_48ce90f1/) | [Unknown](#) |  | `commercial` |
-| [{!@variables.name}  # empty!](commercial/144-patterns-quick-ref_96533aca/) | [Unknown](#) |  | `commercial` |
+| [Patterns Quick Ref](commercial/144-patterns-quick-ref_96533aca/) | [Unknown](#) |  | `commercial` |
 | [QuTiP Core Concepts](commercial/050-core_concepts_313e2781/) | [Unknown](#) |  | `commercial` |
 | [Advanced C4 Architecture Patterns](commercial/004-advanced-patterns_d7cfb170/) | [Unknown](#) |  | `commercial` |
 | [user-authentication](commercial/181-skill_bc6fe448/) | [Unknown](#) |  | `commercial` |
@@ -610,7 +610,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [alerting-and-monitoring](commercial/181-skill_32fff6e0/) | [Unknown](#) |  | `commercial` |
 | [Open Targets Platform API Reference](commercial/016-api_reference_fb859450/) | [Unknown](#) |  | `commercial` |
 | [AWS RDS Aurora Troubleshooting Guide](commercial/201-troubleshooting_05dbdb3f/) | [Unknown](#) |  | `commercial` |
-| [string; age: number; active: boolean }](commercial/156-prompt_engineering_patterns_d9c0cc32/) | [Unknown](#) |  | `commercial` |
+| [Prompt Engineering Patterns](commercial/156-prompt_engineering_patterns_d9c0cc32/) | [Unknown](#) |  | `commercial` |
 | [🐛 Bug-fix PR](commercial/028-bug_fix_ea523944/) | [Unknown](#) |  | `commercial` |
 | [string,](commercial/039-common_antipatterns_4370210a/) | [Unknown](#) |  | `commercial` |
 | [gpt-4o-mini](commercial/043-configuration_84779004/) | [Unknown](#) |  | `commercial` |
@@ -623,7 +623,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [fda-consultant-specialist](commercial/181-skill_de9df132/) | [Unknown](#) |  | `commercial` |
 | [invoice-scanner](commercial/181-skill_a1797342/) | [Unknown](#) |  | `commercial` |
 | [Merging and Joining](commercial/123-merging-joining_f51f0637/) | [Unknown](#) |  | `commercial` |
-| [{!@variables.name}  # name is empty!](commercial/106-instruction-resolution_c28a512a/) | [Unknown](#) |  | `commercial` |
+| [Instruction Resolution](commercial/106-instruction-resolution_c28a512a/) | [Unknown](#) |  | `commercial` |
 | [sf-diagram-mermaid](commercial/181-skill_a56bda2c/) | [Unknown](#) |  | `commercial` |
 | [COBRApy API Quick Reference](commercial/015-api_quick_reference_6fcbf805/) | [Unknown](#) |  | `commercial` |
 | [Apex Flow Integration Guide](commercial/083-flow-integration_e25a240e/) | [Unknown](#) |  | `commercial` |
@@ -673,7 +673,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Instructions Example](commercial/107-instructions_fc7c9897/) | [Unknown](#) |  | `commercial` |
 | [admin](commercial/128-monitoring_2d0647c2/) | [Unknown](#) |  | `commercial` |
 | [datacommons-client](commercial/181-skill_17139a60/) | [Unknown](#) |  | `commercial` |
-| [{user.getName()}](commercial/044-connection_452f1648/) | [Unknown](#) |  | `commercial` |
+| [Connection](commercial/044-connection_452f1648/) | [Unknown](#) |  | `commercial` |
 | [Pdd](commercial/195-sync_solution_o3pro_e8612d61/) | [Unknown](#) |  | `commercial` |
 | [REST Design Patterns](commercial/172-rest-patterns_d1d49306/) | [Unknown](#) |  | `commercial` |
 | [Service Cloud Data Model Template](commercial/180-service-cloud-erd_f6fe6217/) | [Unknown](#) |  | `commercial` |
@@ -753,7 +753,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Stripe CLI Reference](commercial/190-stripe-cli_e441bb79/) | [Unknown](#) |  | `commercial` |
 | [Executive Brief: Q1 2025 Planning](commercial/074-executive_brief_8b4f12d7/) | [Unknown](#) |  | `commercial` |
 | [ADR 021: Output Configuration](commercial/138-output-config_0391aa80/) | [Unknown](#) |  | `commercial` |
-| [string) {}](commercial/023-backend-code-quality_3d08a02a/) | [Unknown](#) |  | `commercial` |
+| [Backend Code Quality](commercial/023-backend-code-quality_3d08a02a/) | [Unknown](#) |  | `commercial` |
 | [LangChain4j Vector Stores - API References](commercial/014-api-reference_f0515c8f/) | [Unknown](#) |  | `commercial` |
 | [adk-frontend](commercial/181-skill_6ec16bfc/) | [Unknown](#) |  | `commercial` |
 | [FluidSim Installation](commercial/105-installation_a2f971b5/) | [Unknown](#) |  | `commercial` |
@@ -773,7 +773,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Polars Data Transformations](commercial/199-transformations_c3f6758f/) | [Unknown](#) |  | `commercial` |
 | [International GTM Playbooks](commercial/109-international-gtm_1933d2f1/) | [Unknown](#) |  | `commercial` |
 | [Enabling Actuator](commercial/068-enabling_793fb6cb/) | [Unknown](#) |  | `commercial` |
-| [{sample.getName()}](commercial/080-file_io_bafed49c/) | [Unknown](#) |  | `commercial` |
+| [File Io](commercial/080-file_io_bafed49c/) | [Unknown](#) |  | `commercial` |
 | [Resilience and Reliability Patterns](commercial/142-patterns_7ff849bd/) | [Unknown](#) |  | `commercial` |
 | [Third Party JavaScript Management Cheat Sheet](commercial/168-reference-set-05-third-party-javascript_879e69e1/) | [Unknown](#) |  | `commercial` |
 | [/blog/[slug]](commercial/132-nextjs-app-router_bca2cc4b/) | [Unknown](#) |  | `commercial` |
@@ -835,7 +835,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Summary Example](communication/111-summary_a6a67871/) | [Unknown](#) |  | `communication` |
 | [Rendering Equations in Mkdocs](communication/073-math-equations_b94322bb/) | [Unknown](#) |  | `communication` |
 | [meme-factory](communication/107-skill_93244397/) | [Unknown](#) |  | `communication` |
-| [string): this {](communication/084-patterns_1a3cec40/) | [Unknown](#) |  | `communication` |
+| [Patterns](communication/084-patterns_1a3cec40/) | [Unknown](#) |  | `communication` |
 | [string;](communication/120-utility-types_10e11832/) | [Unknown](#) |  | `communication` |
 | [verification-before-completion](communication/121-verification-before-completion_963f6b63/) | [Unknown](#) |  | `daily assistant` |
 | [Services & Dependency Injection](communication/105-services-di_9e55a6b1/) | [Unknown](#) |  | `communication` |
@@ -857,7 +857,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [ai-sdk-ui](communication/107-skill_a45f13f8/) | [Unknown](#) |  | `content creation` |
 | [goals](communication/057-goals_f8742acf/) | [Unknown](#) |  | `communication` |
 | [Pdd](communication/109-standup_notes_afc86e1b/) | [Unknown](#) |  | `communication` |
-| [String) {](communication/048-dsl-idioms_36bc8ad3/) | [Unknown](#) |  | `data analysis` |
+| [Dsl Idioms](communication/048-dsl-idioms_36bc8ad3/) | [Unknown](#) |  | `data analysis` |
 | [test_is_valid_email_address](communication/122-versioned_model_1a88625d/) | [Unknown](#) |  | `communication` |
 | [skill-share](communication/107-skill_490d49b6/) | [Unknown](#) |  | `communication` |
 | [communication-excellence-coach](communication/028-communication-excellence-coach_37ddb040/) | [Unknown](#) |  | `communication` |
@@ -869,7 +869,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Consent Data Model Template](communication/036-consent-erd_05297006/) | [Unknown](#) |  | `communication` |
 | [Orchestration Pattern: Parent-Child](communication/081-orchestration-parent-child_bca22915/) | [Unknown](#) |  | `communication` |
 | [Text Generation](communication/055-generation_b7a47679/) | [Unknown](#) |  | `communication` |
-| [tag }) }](communication/002-active-record_b64643ce/) | [Unknown](#) |  | `communication` |
+| [Active Record](communication/002-active-record_b64643ce/) | [Unknown](#) |  | `communication` |
 | [agent-tool](communication/107-skill_b9acb501/) | [Unknown](#) |  | `communication` |
 | [my-application](communication/115-tracing_8e70bed2/) | [Unknown](#) |  | `communication` |
 | [Flow Orchestration Guide](communication/080-orchestration-guide_2ed5ef34/) | [Unknown](#) |  | `communication` |
@@ -889,7 +889,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [SOLID Principles in Apex](communication/108-solid-principles_c7d79519/) | [Unknown](#) |  | `communication` |
 | [Threat Modeling](communication/037-control-set-01-authentication_24fba8e0/) | [Unknown](#) |  | `communication` |
 | [z.string().min(1).max(100),](communication/101-security-checklist_5d943e6a/) | [Unknown](#) |  | `communication` |
-| [{details.getOwner().getOmeName()}](communication/041-data_access_4fa0d4ae/) | [Unknown](#) |  | `communication` |
+| [Data Access](communication/041-data_access_4fa0d4ae/) | [Unknown](#) |  | `communication` |
 | [Orchestration Pattern: Conditional](communication/079-orchestration-conditional_bbec71f3/) | [Unknown](#) |  | `communication` |
 | [ERD Template: Core Salesforce Objects (Architect.salesforce.com Style)](communication/039-core-objects_dbf51b77/) | [Unknown](#) |  | `communication` |
 | [Composables Patterns](communication/032-composables-patterns_7d9dcf0e/) | [Unknown](#) |  | `communication` |
@@ -950,7 +950,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Difficult Conversation Framework](communication/038-conversation-framework_7bde1cef/) | [Unknown](#) |  | `daily assistant` |
 | [api_users_](communication/112-symfony-patterns_cec67201/) | [Unknown](#) |  | `kernel.event_subscriber` |
 | [Mapped[str] = mapped_column(String(50), unique=True)](communication/015-async-sqlalchemy_0369ed1d/) | [Unknown](#) |  | `communication` |
-| [{admin.getOmeName()}](communication/003-advanced_1b4d91b8/) | [Unknown](#) |  | `communication` |
+| [Advanced](communication/003-advanced_1b4d91b8/) | [Unknown](#) |  | `communication` |
 | [International Market Playbooks](communication/063-international-playbooks_dc929706/) | [Unknown](#) |  | `communication` |
 | [Order Management MVP - Product Requirements Document](communication/082-order_management_prd_2d2076f9/) | [Unknown](#) |  | `communication` |
 | [JSONB Operations](communication/066-jsonb_8ad7086e/) | [Unknown](#) |  | `communication` |
@@ -1157,14 +1157,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [test_my_data_types](data-analysis/066-data_types_7c605113/) | [Unknown](#) |  | `data analysis` |
 | [MySQL Tuning](data-analysis/153-mysql-tuning_65f5e0fb/) | [Unknown](#) |  | `data analysis` |
 | [Scanpy API Quick Reference](data-analysis/008-api_reference_179525ac/) | [Unknown](#) |  | `data analysis` |
-| [{{ tool.name }}](data-analysis/001-_tool-generator_6037bcbd/) | [Unknown](#) |  | `content creation` |
+| [Tool Generator](data-analysis/001-_tool-generator_6037bcbd/) | [Unknown](#) |  | `content creation` |
 | [Visualization and Evaluation Tools](data-analysis/220-visualization-tools_3cbd984b/) | [Unknown](#) |  | `data analysis` |
 | [DeepChem API Reference](data-analysis/008-api_reference_5591b8ab/) | [Unknown](#) |  | `data analysis` |
 | [Getting Started with Three.js](data-analysis/105-getting-started_bd572f13/) | [Unknown](#) |  | `data analysis` |
 | [ADR 011: Multi-File Output](data-analysis/151-multi-file-output_779cd6f2/) | [Unknown](#) |  | `content creation` |
 | [Book Levels MicroSim](data-analysis/113-index_807856bb/) | [Unknown](#) |  | `content creation` |
 | [Name](data-analysis/046-configuration_85fea2c5/) | [Unknown](#) |  | `data analysis` |
-| [input_data.astype(np.float32)}](data-analysis/174-production_vision_systems_14495e71/) | [Unknown](#) |  | `data analysis` |
+| [Production Vision Systems](data-analysis/174-production_vision_systems_14495e71/) | [Unknown](#) |  | `data analysis` |
 | [](data-analysis/022-book-installer_f086aacc/) | [Unknown](#) |  | `data analysis` |
 | [imaging-data-commons](data-analysis/195-skill_ce4e7699/) | [Unknown](#) |  | `data analysis` |
 | [QuTiP Analysis and Measurement](data-analysis/006-analysis_87172f2a/) | [Unknown](#) |  | `data analysis` |
@@ -1262,7 +1262,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Learning Graph Generator](data-analysis/127-learning-graph-generator_395c7088/) | [Unknown](#) |  | `data analysis` |
 | [Vis-Network MicroSim Generator](data-analysis/215-vis-network_e588cf9c/) | [Unknown](#) |  | `data analysis` |
 | [Electrooculography (EOG) Analysis](data-analysis/080-eog_3d577244/) | [Unknown](#) |  | `data analysis` |
-| [{query.name}](data-analysis/201-streaming-patterns_4d0dbe86/) | [Unknown](#) |  | `data analysis` |
+| [Streaming Patterns](data-analysis/201-streaming-patterns_4d0dbe86/) | [Unknown](#) |  | `data analysis` |
 | [Data Processing and Manipulation](data-analysis/065-data_processing_0bfb4645/) | [Unknown](#) |  | `data analysis` |
 | [NetworkX Input/Output](data-analysis/119-io_9047312d/) | [Unknown](#) |  | `data analysis` |
 | [Data Manipulation](data-analysis/134-manipulation_e68cfa0c/) | [Unknown](#) |  | `data analysis` |
@@ -1342,7 +1342,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Evaluating Impact of a dbt Model Change](data-analysis/083-evaluating-impact-of-a-dbt-model-change_7f4c4542/) | [Unknown](#) |  | `data analysis` |
 | [Reading Level Guidelines for Textbook Content](data-analysis/185-reading-levels_de620390/) | [Unknown](#) |  | `data analysis` |
 | [Timeline Template](data-analysis/113-index_24c290f6/) | [Unknown](#) |  | `data analysis` |
-| [{{SITE_NAME}}](data-analysis/113-index_25216252/) | [Unknown](#) |  | `data analysis` |
+| [Index](data-analysis/113-index_25216252/) | [Unknown](#) |  | `data analysis` |
 | [ADR 004: Two-Pass Discovery](data-analysis/209-two-pass-discovery_fb70cce0/) | [Unknown](#) |  | `data analysis` |
 | [exploring-data](data-analysis/195-skill_bacf1f82/) | [Unknown](#) |  | `data analysis` |
 | [ai-ad-code-searcher](data-analysis/195-skill_e6944ee0/) | [Unknown](#) |  | `data analysis` |
@@ -4013,7 +4013,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Input/Output Operations](productivity/046-io_operations_20885ec8/) | [Unknown](#) |  | `content creation` |
 | [Power Optimization](productivity/063-power-optimization_935d9bb0/) | [Unknown](#) |  | `productivity` |
 | [FFmpeg Filters & Effects](productivity/035-ffmpeg-filters_347447ae/) | [Unknown](#) |  | `productivity` |
-| [{name}](productivity/001-10-24-active-skills-design_1d904975/) | [Unknown](#) |  | `data analysis` |
+| [2025 10 24 Active Skills Design](productivity/001-10-24-active-skills-design_1d904975/) | [Unknown](#) |  | `data analysis` |
 | [agent-postgres-pro](productivity/077-skill_d096438a/) | [Unknown](#) |  | `productivity` |
 | [Focusing Mode](productivity/038-focusing_cc09554b/) | [Unknown](#) |  | `productivity` |
 | [agent-data-engineer](productivity/077-skill_82829e03/) | [Unknown](#) |  | `productivity` |
@@ -4168,7 +4168,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [reference-generator](research/104-references-generator-skill_823350ee/) | [Unknown](#) |  | `research` |
 | [biorxiv-database](research/115-skill_75441ec0/) | [Unknown](#) |  | `research` |
 | [anthropologist-analyst](research/115-skill_45fc3f9d/) | [Unknown](#) |  | `research` |
-| [{skill-name}](research/003-agents_e4d6d358/) | [Unknown](#) |  | `research` |
+| [Agents](research/003-agents_e4d6d358/) | [Unknown](#) |  | `research` |
 | [pubmed-database](research/115-skill_720c1c54/) | [Unknown](#) |  | `research` |
 | [openalex-database](research/115-skill_2e727022/) | [Unknown](#) |  | `research` |
 | [Scientific Talk Types Guide](research/123-talk_types_guide_60f374e4/) | [Unknown](#) |  | `research` |
@@ -4234,7 +4234,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Marp Official Themes Reference](research/076-official-themes_ada37757/) | [Unknown](#) |  | `research` |
 | [extracting-keywords](research/115-skill_c6b3166c/) | [Unknown](#) |  | `research` |
 | [scientific-slides](research/115-skill_3f1b1fd3/) | [Unknown](#) |  | `research` |
-| [{record[](research/032-databases_70a4de04/) | [Unknown](#) |  | `research` |
+| [Databases](research/032-databases_70a4de04/) | [Unknown](#) |  | `research` |
 | [Models and Architectures](research/069-models_architectures_04cbeaf7/) | [Unknown](#) |  | `research` |
 | [Chain-of-Thought Reasoning Patterns](research/026-cot-patterns_37c9e74c/) | [Unknown](#) |  | `research` |
 | [PatentSearch API Reference](research/082-patentsearch_api_a2237320/) | [Unknown](#) |  | `research` |
@@ -4328,5 +4328,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-03 09:32:41 UTC*
+*Last updated: 2026-02-03 10:13:47 UTC*
 *Automatically maintained by SkillFlow*

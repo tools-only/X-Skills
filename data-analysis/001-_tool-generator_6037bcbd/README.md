@@ -1,8 +1,8 @@
-# {{ tool.name }}
+# Tool Generator
 
 | Property | Value |
 |----------|-------|
-| **Name** | {{ tool.name }} |
+| **Name** | Tool Generator |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/src/colin/blueprints/mcp-guide/models/_tool-generator.md) (⭐ 93) |
 | **Original Path** | `src/colin/blueprints/mcp-guide/models/_tool-generator.md` |
 | **Category** | content-creation |

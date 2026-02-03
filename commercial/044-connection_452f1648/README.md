@@ -1,8 +1,8 @@
-# {user.getName()}
+# Connection
 
 | Property | Value |
 |----------|-------|
-| **Name** | {user.getName()} |
+| **Name** | Connection |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/omero-integration/references/connection.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/omero-integration/references/connection.md` |
 | **Category** | commercial |

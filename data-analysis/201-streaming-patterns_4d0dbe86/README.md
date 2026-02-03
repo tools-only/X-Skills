@@ -1,8 +1,8 @@
-# {query.name}
+# Streaming Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | {query.name} |
+| **Name** | Streaming Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/references/streaming-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/spark-engineer/references/streaming-patterns.md` |
 | **Category** | data-analysis |

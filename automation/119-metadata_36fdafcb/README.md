@@ -1,8 +1,8 @@
-# {orig_file.getName()}
+# Metadata
 
 | Property | Value |
 |----------|-------|
-| **Name** | {orig_file.getName()} |
+| **Name** | Metadata |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/omero-integration/references/metadata.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/omero-integration/references/metadata.md` |
 | **Category** | automation |

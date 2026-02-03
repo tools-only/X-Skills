@@ -1,8 +1,8 @@
-# {name}
+# 2025 10 24 Active Skills Design
 
 | Property | Value |
 |----------|-------|
-| **Name** | {name} |
+| **Name** | 2025 10 24 Active Skills Design |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/plans/2025-10-24-active-skills-design.md) (🔥 8.7k) |
 | **Original Path** | `docs/archive/plans/2025-10-24-active-skills-design.md` |
 | **Category** | data-analysis |

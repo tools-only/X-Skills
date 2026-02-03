@@ -1,8 +1,8 @@
-# string): this {
+# Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | string): this { |
+| **Name** | Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/typescript-pro/references/patterns.md) (⭐ 216) |
 | **Original Path** | `skills/typescript-pro/references/patterns.md` |
 | **Category** | communication |
