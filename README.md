@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **331 AI-powered skills** organized into 11 categories.
+A curated collection of **333 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -14,7 +14,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (7 skills)
 - **Daily Assistant** (4 skills)
 - **Data Analysis** (29 skills)
-- **Development** (141 skills)
+- **Development** (143 skills)
 - **Investment** (1 skill)
 - **Other** (42 skills)
 - **Productivity** (7 skills)
@@ -189,7 +189,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Yunshu Skillshub](data-analysis/apimart-requests-jsonl_dedc3594/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/apimart-requests-jsonl.md) | ⭐ 80 | `content creation` |
 | [Yunshu Skillshub](data-analysis/ui-wireframe-examples_0dbf4bbc/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/ui-wireframe-examples.md) | ⭐ 80 | `data analysis` |
 
-### Development (141 skills)
+### Development (143 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -334,6 +334,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mermaid 图示例（需求侧）](development/mermaid-examples_57022fa5/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/mermaid-examples.md) | ⭐ 80 | `development` |
 | [Regression Checklist (Chrome Extension / promptV2.0)](development/regression-checklist_592434be/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/req-change-workflow/references/regression-checklist.md) | ⭐ 80 | `development` |
 | [案例：Claude Skills 文章写作过程](development/claude-skills-case_b79a0cdf/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/examples/claude-skills-case.md) | ⭐ 80 | `development` |
+| [Supervertaler - Frequently Asked Questions](development/faq_4841c13a/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/FAQ.md) | ⭐ 20 | `development` |
+| [Supervertaler - Frequently Asked Questions](development/faq_e70039e4/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md) | ⭐ 20 | `development` |
 
 ### Investment (1 skills)
 

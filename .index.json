@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T01:13:42.399600",
+  "updated_at": "2026-02-03T03:13:19.089198",
   "skills": [
     {
       "file_hash": "3e5f63fb469b811dc5708eef7b5d8de4213f2926d46d6a27b28c7743b5c1087b",
@@ -4635,6 +4635,34 @@
       "source_url": "https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/example-us01.md",
       "display_name": "Yunshu Skillshub",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "4841c13a0f02c59fc29dc75b17779b00d156c3fa7c7afab1d8b7fed67a188915",
+      "source_path": "FAQ.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/faq_4841c13a",
+      "category": "development",
+      "name": "faq_4841c13a",
+      "indexed_at": "2026-02-03T03:13:19.061432",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-02T14:38:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/FAQ.md",
+      "display_name": "Supervertaler - Frequently Asked Questions",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e70039e481b501729fe9c9a7a21db3082a9284e9041f44983fc5c3610d9e12fb",
+      "source_path": "docs/superdocs/reference/faq.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/faq_e70039e4",
+      "category": "development",
+      "name": "faq_e70039e4",
+      "indexed_at": "2026-02-03T03:13:19.089135",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-02T14:38:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md",
+      "display_name": "Supervertaler - Frequently Asked Questions",
+      "tags": "[\"development\"]"
     }
   ]
 }
