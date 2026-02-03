@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **5021 AI-powered skills** organized into 16 categories.
+A curated collection of **5032 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,13 +13,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (42 skills)
 - **Commercial** (364 skills)
 - **Communication** (187 skills)
-- **Content Creation** (153 skills)
-- **Daily Assistant** (147 skills)
-- **Data Analysis** (413 skills)
-- **Development** (2580 skills)
+- **Content Creation** (155 skills)
+- **Daily Assistant** (148 skills)
+- **Data Analysis** (414 skills)
+- **Development** (2583 skills)
 - **Development/Devops** (98 skills)
 - **Development/Testing** (15 skills)
-- **Development/Tools** (68 skills)
+- **Development/Tools** (72 skills)
 - **Investment** (37 skills)
 - **Other** (43 skills)
 - **Productivity** (173 skills)
@@ -1128,7 +1128,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Helpfulness Evaluator](communication/135-helpfulness_evaluator_20922343/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/helpfulness_evaluator.md) | ⭐ 160 | `communication` |
 | [Skill](communication/127-name-skill_feb38eb0/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/SKILL.md) | ⭐ 44 | `communication` |
 
-### Content Creation (153 skills)
+### Content Creation (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1285,8 +1285,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Xss Vectors](content-creation/088-xss_vectors_5cdac381/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/filter-js-from-html/references/xss_vectors.md) | ⭐ 44 | `content creation` |
 | [Hierarchical Structure Patterns](content-creation/089-hierarchical_structure_patterns_dfd06074/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/reshard-c4-data/references/hierarchical_structure_patterns.md) | ⭐ 44 | `content creation` |
 | [Discovery Approve](content-creation/090-discovery-approve_2254ad9b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/discovery-approve.md) | ⭐ 235 | `content creation` |
+| [Skill](content-creation/name-skill_53a78d1b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 11 | `content creation` |
+| [Sources](content-creation/sources_d7bbc253/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/sources.md) | ⭐ 62 | `content creation` |
 
-### Daily Assistant (147 skills)
+### Daily Assistant (148 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1437,8 +1439,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_559a2776/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
 | [P8 Report Generation](daily-assistant/088-p8-report-generation_aa2eb4e2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_58a29a19/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/mcp/instructions.md) | ⭐ 311 | `daily assistant` |
+| [Ranking](daily-assistant/ranking_98ada39e/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/ranking.md) | ⭐ 62 | `daily assistant` |
 
-### Data Analysis (413 skills)
+### Data Analysis (414 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1855,8 +1858,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Workflow Commands](data-analysis/269-workflow_commands_6e18d348/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/WORKFLOW_COMMANDS.md) | ⭐ 235 | `data analysis` |
 | [V050 Roadmap Consolidation.Spec](data-analysis/270-v050-roadmap-consolidationspec_5af15c01/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/specs/v050-roadmap-consolidation.spec.md) | ⭐ 235 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ec0f09e9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/pandas-pro/SKILL.md) | ⭐ 235 | `data analysis` |
+| [Skills](data-analysis/community-skill_01e36357/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/registry/SKILLS.md) | ⭐ 62 | `data analysis` |
 
-### Development (2580 skills)
+### Development (2583 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4174,7 +4178,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Consistency Rules](development/1180-consistency-rules_b401e77c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/consistency-rules.md) | ⭐ 27 | `development` |
 | [Terminology Standards](development/1181-terminology-standards_60510cfe/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/terminology-standards.md) | ⭐ 27 | `development` |
 | [Security Patterns](development/1182-security_patterns_9077d7c0/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/references/security_patterns.md) | ⭐ 27 | `development` |
-| [Catalog](development/catalog_79c7fd6a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.8k | `development` |
+| [Catalog](development/126-catalog_9af5f746/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.6k | `development` |
 | [Webapp Skill Analysis](development/1183-webapp-skill-analysis_81e73cb2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/webapp-skill-analysis.md) | ⭐ 171 | `development` |
 | [Pdf Viewer](development/1184-pdf-viewer_10e61761/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/pdf-viewer.md) | ⭐ 171 | `development` |
 | [Skill System](development/1185-skill-system_58039e90/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skill-system.md) | ⭐ 171 | `development` |
@@ -4440,6 +4444,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_1e6b2a4b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/SKILL.md) | ⭐ 235 | `development` |
 | [Skill](development/1178-name-skill_161e8ea7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/wordpress-pro/SKILL.md) | ⭐ 235 | `development` |
 | [Catalog](development/126-catalog_79c7fd6a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.8k | `development` |
+| [Skill](development/name-skill_03445166/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 11 | `development` |
+| [References](development/references_b2d524ed/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/references.md) | ⭐ 62 | `development` |
+| [Skill](development/name-skill_cd04d3c6/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/adding-dbt-unit-test/SKILL.md) | ⭐ 11 | `development` |
 
 ### Development/Devops (98 skills)
 
@@ -4607,7 +4614,7 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/013-threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 
-### Development/Tools (68 skills)
+### Development/Tools (72 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4678,7 +4685,11 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_46b9b2a8/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/crack-7z-hash/SKILL.md) | ⭐ 44 | `development` |
 | [Skill](development/tools/002-name-skill_b649021a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/qemu-startup/SKILL.md) | ⭐ 44 | `development` |
 | [Workflow Definition Schema](development/tools/049-workflow-definition-schema_7edbfcf9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/workflow-definition-schema.md) | ⭐ 235 | `development` |
-| [Claude](development/tools/claude_a34e4a78/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 8.8k | `development` |
+| [Claude](development/tools/017-claude_a34e4a78/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 8.8k | `development` |
+| [Skill](development/tools/name-skill_4ca7aa31/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 11 | `development` |
+| [Api](development/tools/api_af2df17b/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/api.md) | ⭐ 62 | `development` |
+| [Architecture](development/tools/architecture_334bcfa6/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/architecture.md) | ⭐ 62 | `development` |
+| [Skill](development/tools/name-skill_5dce8bcd/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/skills/skyll/SKILL.md) | ⭐ 62 | `development` |
 
 ### Investment (37 skills)
 
