@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **648 AI-powered skills** organized into 11 categories.
+A curated collection of **656 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,13 +8,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (84 skills)
+- **Automation** (86 skills)
 - **Commercial** (32 skills)
 - **Communication** (64 skills)
 - **Content Creation** (11 skills)
 - **Daily Assistant** (10 skills)
-- **Data Analysis** (30 skills)
-- **Development** (351 skills)
+- **Data Analysis** (34 skills)
+- **Development** (353 skills)
 - **Investment** (6 skills)
 - **Other** (17 skills)
 - **Productivity** (15 skills)
@@ -23,7 +23,7 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Skills Directory
 
 
-### Automation (84 skills)
+### Automation (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -111,6 +111,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [String](automation/memory-performance_1b7c985a/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/swift-expert/references/memory-performance.md) | ⭐ 216 | `automation` |
 | [Login](automation/automation-frameworks_407d5778/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/test-master/references/automation-frameworks.md) | ⭐ 216 | `automation` |
 | [QA Methodology](automation/qa-methodology_92775883/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/test-master/references/qa-methodology.md) | ⭐ 216 | `automation` |
+| [ost](automation/skill_24136360/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/SKILL.md) | ⭐ 372 | `content creation` |
+| [OST Entry Flow](automation/entry_5fcf1206/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/entry.md) | ⭐ 372 | `automation` |
 
 ### Commercial (32 skills)
 
@@ -249,7 +251,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Actions](daily-assistant/server-actions_c708b825/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nextjs-developer/references/server-actions.md) | ⭐ 216 | `content creation` |
 | [Partitioning and Caching](daily-assistant/partitioning-caching_55a57098/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/references/partitioning-caching.md) | ⭐ 216 | `data analysis` |
 
-### Data Analysis (30 skills)
+### Data Analysis (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -283,8 +285,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Performance Optimization](data-analysis/performance_61f5b3c5/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/references/performance.md) | ⭐ 216 | `content creation` |
 | [string) => storage.getString(name) ?? null,](data-analysis/storage-hooks_65b969a6/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-native-expert/references/storage-hooks.md) | ⭐ 216 | `data analysis` |
 | [{query.name}](data-analysis/streaming-patterns_4d0dbe86/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/references/streaming-patterns.md) | ⭐ 216 | `data analysis` |
+| [Assumptions and Experiments Phase](data-analysis/assumptions_5e8b034d/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/assumptions.md) | ⭐ 372 | `data analysis` |
+| [Opportunities Phase](data-analysis/opportunities_b15f9e3e/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/opportunities.md) | ⭐ 372 | `data analysis` |
+| [Outcomes Phase](data-analysis/outcomes_9d0024f5/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/outcomes.md) | ⭐ 372 | `data analysis` |
+| [Solutions Phase](data-analysis/solutions_adcb742e/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/solutions.md) | ⭐ 372 | `data analysis` |
 
-### Development (351 skills)
+### Development (353 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -639,6 +645,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [🏆 Quality Bar & Validation Standards](development/quality_bar_6e74e4d9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/QUALITY_BAR.md) | 🔥 6.0k | `development` |
 | [my-skill-name](development/skill_anatomy_2d2d0e20/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SKILL_ANATOMY.md) | 🔥 6.0k | `react` `typescript` |
 | [my-skill-name](development/skill_anatomyvi_43764224/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/vietnamese/SKILL_ANATOMY.vi.md) | 🔥 6.0k | `react` `typescript` |
+| [Claude Code Plugin: fecfile](development/agents_bef716af/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 19 | `development` |
+| [fecfile](development/skill_5318b95d/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 19 | `development` |
 
 ### Investment (6 skills)
 

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T06:12:32.823975",
+  "updated_at": "2026-02-03T07:12:43.106079",
   "skills": [
     {
       "file_hash": "a2ad7703cc259c9965525ae0db32254bf2a592ef6a6e006bad692f2f398a8e13",
@@ -9073,6 +9073,118 @@
       "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/vietnamese/SKILL_ANATOMY.vi.md",
       "display_name": "my-skill-name",
       "tags": "[\"react\", \"typescript\"]"
+    },
+    {
+      "file_hash": "bef716af8a5a8c4af07825e3dea28de2c074f6da0fe1f91240656611d69ab4a1",
+      "source_path": "AGENTS.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "development/agents_bef716af",
+      "category": "development",
+      "name": "agents_bef716af",
+      "indexed_at": "2026-02-03T07:12:42.670114",
+      "repo_stars": 19,
+      "repo_updated_at": "2026-02-03T02:45:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md",
+      "display_name": "Claude Code Plugin: fecfile",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5318b95d881a14433cf385aec9796bcb6f459ef9794adc48e80f698bd96f7396",
+      "source_path": "skills/fecfile/SKILL.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "development/skill_5318b95d",
+      "category": "development",
+      "name": "skill_5318b95d",
+      "indexed_at": "2026-02-03T07:12:42.730382",
+      "repo_stars": 19,
+      "repo_updated_at": "2026-02-03T02:45:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md",
+      "display_name": "fecfile",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "241363605a1726f447dfe9b6ab87b9749fab6a770894ed5ac3d962733be4910c",
+      "source_path": "skills/product-development/ost/SKILL.md",
+      "source_repo": "kasperjunge/agent-resources",
+      "local_path": "automation/skill_24136360",
+      "category": "automation",
+      "name": "skill_24136360",
+      "indexed_at": "2026-02-03T07:12:42.787171",
+      "repo_stars": 372,
+      "repo_updated_at": "2026-02-02T20:34:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/SKILL.md",
+      "display_name": "ost",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "5fcf120608391a299c745c3dd27b1991b55bdabc8ef6efd027f429f92dc5d380",
+      "source_path": "skills/product-development/ost/references/entry.md",
+      "source_repo": "kasperjunge/agent-resources",
+      "local_path": "automation/entry_5fcf1206",
+      "category": "automation",
+      "name": "entry_5fcf1206",
+      "indexed_at": "2026-02-03T07:12:42.843312",
+      "repo_stars": 372,
+      "repo_updated_at": "2026-02-02T20:34:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/entry.md",
+      "display_name": "OST Entry Flow",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "5e8b034d7add3553ec83d2cb99dab3fce509eaa62b9a7114ebca845a9d172600",
+      "source_path": "skills/product-development/ost/references/assumptions.md",
+      "source_repo": "kasperjunge/agent-resources",
+      "local_path": "data-analysis/assumptions_5e8b034d",
+      "category": "data-analysis",
+      "name": "assumptions_5e8b034d",
+      "indexed_at": "2026-02-03T07:12:42.890120",
+      "repo_stars": 372,
+      "repo_updated_at": "2026-02-02T20:34:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/assumptions.md",
+      "display_name": "Assumptions and Experiments Phase",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "b15f9e3ee82eb1255e295b0e14faaf664a63882f55e98b28efa5684854a8399a",
+      "source_path": "skills/product-development/ost/references/opportunities.md",
+      "source_repo": "kasperjunge/agent-resources",
+      "local_path": "data-analysis/opportunities_b15f9e3e",
+      "category": "data-analysis",
+      "name": "opportunities_b15f9e3e",
+      "indexed_at": "2026-02-03T07:12:42.932718",
+      "repo_stars": 372,
+      "repo_updated_at": "2026-02-02T20:34:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/opportunities.md",
+      "display_name": "Opportunities Phase",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "9d0024f577426861699eb2fbdaa16241caf2d921b04f0af69fdf2b114056d8ad",
+      "source_path": "skills/product-development/ost/references/outcomes.md",
+      "source_repo": "kasperjunge/agent-resources",
+      "local_path": "data-analysis/outcomes_9d0024f5",
+      "category": "data-analysis",
+      "name": "outcomes_9d0024f5",
+      "indexed_at": "2026-02-03T07:12:42.988656",
+      "repo_stars": 372,
+      "repo_updated_at": "2026-02-02T20:34:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/outcomes.md",
+      "display_name": "Outcomes Phase",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "adcb742eefd08067a36c80d9685f0ebd83dc56f85f8aa62bf2190cbf7dd317ff",
+      "source_path": "skills/product-development/ost/references/solutions.md",
+      "source_repo": "kasperjunge/agent-resources",
+      "local_path": "data-analysis/solutions_adcb742e",
+      "category": "data-analysis",
+      "name": "solutions_adcb742e",
+      "indexed_at": "2026-02-03T07:12:43.106047",
+      "repo_stars": 372,
+      "repo_updated_at": "2026-02-02T20:34:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/solutions.md",
+      "display_name": "Solutions Phase",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
