@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **216 AI-powered skills** organized into 11 categories.
+A curated collection of **286 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,22 +8,22 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (20 skills)
-- **Commercial** (46 skills)
-- **Communication** (13 skills)
-- **Content Creation** (2 skills)
+- **Automation** (23 skills)
+- **Commercial** (48 skills)
+- **Communication** (17 skills)
+- **Content Creation** (3 skills)
 - **Daily Assistant** (4 skills)
-- **Data Analysis** (26 skills)
-- **Development** (79 skills)
+- **Data Analysis** (27 skills)
+- **Development** (134 skills)
 - **Investment** (1 skill)
-- **Other** (16 skills)
+- **Other** (18 skills)
 - **Productivity** (7 skills)
-- **Research** (2 skills)
+- **Research** (4 skills)
 
 ## Skills Directory
 
 
-### Automation (20 skills)
+### Automation (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -47,8 +47,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Textures](automation/03-textures_499a16db/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/03-textures.md) | ⭐ 1.5k | `content creation` |
 | [Lights](automation/05-lights_a3582828/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/05-lights.md) | ⭐ 1.5k | `automation` |
 | [pants-format-check](automation/skill_ceae4811/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/skills/pants-format-check/SKILL.md) | ⭐ 12 | `automation` |
+| [Resources](automation/02-resources_c4a86f34/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 440 | `content creation` |
+| [Retrieval Mechanism](automation/06-retrieval_857bd995/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-retrieval.md) | ⭐ 440 | `automation` |
+| [Embedding Configuration](automation/embedding_5ca2e2f6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/embedding.md) | ⭐ 440 | `automation` |
 
-### Commercial (46 skills)
+### Commercial (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -98,8 +101,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Stripe CLI Reference](commercial/stripe-cli_e441bb79/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-cli.md) | ⭐ 1.5k | `commercial` |
 | [Stripe.js Reference](commercial/stripe-js_ea89bd96/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-js.md) | ⭐ 1.5k | `commercial` |
 | [upgrade-stripe](commercial/stripe-upgrade_1f3280b1/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-upgrade.md) | ⭐ 1.5k | `commercial` |
+| [Architecture Overview](commercial/01-architecture_65de7150/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 440 | `commercial` |
+| [Openviking](commercial/log_format_1796ccc9/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/log_format.md) | ⭐ 440 | `content creation` |
 
-### Communication (13 skills)
+### Communication (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -116,13 +121,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Unit & Integration Testing](communication/unit-integration-testing_f91ba9b3/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-testing/references/unit-integration-testing.md) | ⭐ 1.5k | `communication` |
 | [private-repo](communication/benefits_29f4049d/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/benefits.md) | ⭐ 1.5k | `communication` |
 | [FEC Form Types](communication/forms_1ef2ba0b/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/FORMS.md) | ⭐ 22 | `communication` |
+| [Volcengine Model Purchase Guide](communication/volcengine-purchase-guide_b4cd03ce/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/volcengine-purchase-guide.md) | ⭐ 440 | `communication` |
+| [OpenViking 团队与组织](communication/about-us_a2f048f3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/about-us.md) | ⭐ 440 | `communication` |
+| [Agent API Intro](communication/agent_api_abad4d20/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/agent_api.md) | 🔥 6.5k | `communication` |
+| [OpenAI Compatible API](communication/openai_compatible_b07ae156/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/openai_compatible.md) | 🔥 6.5k | `communication` |
 
-### Content Creation (2 skills)
+### Content Creation (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Input data](content-creation/index_d0c8fc8b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/index.md) | ⭐ 12 | `data analysis` |
 | [1. First check `contributor_organization_name`](content-creation/schedules_1775c612/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/SCHEDULES.md) | ⭐ 22 | `daily assistant` |
+| [Openviking](content-creation/index_cce5ab1e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/index.md) | ⭐ 440 | `content creation` |
 
 ### Daily Assistant (4 skills)
 
@@ -133,7 +143,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Context Optimization](daily-assistant/context-optimization_61c3a7eb/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/context-optimization.md) | ⭐ 1.5k | `daily assistant` |
 | [Multi-Agent Patterns](daily-assistant/multi-agent-patterns_2b4106a5/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/multi-agent-patterns.md) | ⭐ 1.5k | `daily assistant` |
 
-### Data Analysis (26 skills)
+### Data Analysis (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -163,8 +173,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Hand Build Components](data-analysis/hand_build_components_fec9c86b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/data_ui_blocks/hand_build_components.md) | ⭐ 12 | `data analysis` |
 | [Input Data Structures for Charts](data-analysis/charts_f918116f/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/charts.md) | ⭐ 12 | `data analysis` |
 | [Input Data Structures](data-analysis/structure_19c926e7/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/structure.md) | ⭐ 12 | `data analysis` |
+| [Agent's Memory Cleanup](data-analysis/clean_memory_c5ff808f/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/how_to/clean_memory.md) | 🔥 6.5k | `data analysis` |
 
-### Development (79 skills)
+### Development (134 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -247,6 +258,61 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Architecture](development/architecture_b2b747bc/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/tests/ngui-e2e/server/ARCHITECTURE.md) | ⭐ 12 | `data analysis` |
 | [Agent Skill: fecfile](development/agents_59c40ecb/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 22 | `development` |
 | [fecfile](development/skill_75b30f98/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 22 | `content creation` |
+| [Initialize OpenViking client with data directory](development/readme_cn_7d9cb3fe/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 440 | `data analysis` |
+| [Client](development/01-client_89374855/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-client.md) | ⭐ 440 | `development` |
+| [skill-name](development/03-skills_964f1d8b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/03-skills.md) | ⭐ 440 | `development` |
+| [Sessions](development/04-sessions_53181cff/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/04-sessions.md) | ⭐ 440 | `development` |
+| [Retrieval](development/05-retrieval_147bf724/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-retrieval.md) | ⭐ 440 | `development` |
+| [File System](development/06-filesystem_d862cc00/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/06-filesystem.md) | ⭐ 440 | `development` |
+| [Viking URI](development/03-viking-uri_9a414708/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/03-viking-uri.md) | ⭐ 440 | `development` |
+| [Context Layers (L0/L1/L2)](development/04-context-layers_3c910df8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/04-context-layers.md) | ⭐ 440 | `development` |
+| [Storage Architecture](development/05-storage_4e19fc06/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/05-storage.md) | ⭐ 440 | `development` |
+| [str,      # Parser name](development/07-extraction_0e50569b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/07-extraction.md) | ⭐ 440 | `content creation` |
+| [Session Management](development/08-session_7a1b9f93/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/08-session.md) | ⭐ 440 | `development` |
+| [Configuration](development/configuration_c66e5233/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/configuration.md) | ⭐ 440 | `development` |
+| [LLM Configuration](development/llm_422c2c40/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/llm.md) | ⭐ 440 | `data analysis` |
+| [FAQ](development/faq_80fb1d50/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 440 | `development` |
+| [Introduction](development/introduction_3fcd78ed/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/getting-started/introduction.md) | ⭐ 440 | `development` |
+| [Quick Start](development/quickstart_1dd25fd3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/getting-started/quickstart.md) | ⭐ 440 | `development` |
+| [路线图](development/roadmap_a3d8c4c3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/roadmap.md) | ⭐ 440 | `development` |
+| [客户端](development/01-client_ba778cc6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-client.md) | ⭐ 440 | `development` |
+| [资源管理](development/02-resources_51cbaf7e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/02-resources.md) | ⭐ 440 | `data analysis` |
+| [skill-name](development/03-skills_306151d7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/03-skills.md) | ⭐ 440 | `development` |
+| [会话管理](development/04-sessions_bffcc505/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-sessions.md) | ⭐ 440 | `development` |
+| [检索](development/05-retrieval_5ddede77/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-retrieval.md) | ⭐ 440 | `development` |
+| [文件系统](development/06-filesystem_5eb9a720/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-filesystem.md) | ⭐ 440 | `development` |
+| [上下文类型](development/02-context-types_9bfba89c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/02-context-types.md) | ⭐ 440 | `development` |
+| [Viking URI](development/03-viking-uri_6b97d5e4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/03-viking-uri.md) | ⭐ 440 | `development` |
+| [上下文层级 (L0/L1/L2)](development/04-context-layers_18af828a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/04-context-layers.md) | ⭐ 440 | `development` |
+| [存储架构](development/05-storage_00f11502/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/05-storage.md) | ⭐ 440 | `data analysis` |
+| [检索机制](development/06-retrieval_c28be003/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-retrieval.md) | ⭐ 440 | `development` |
+| [str,      # 解析器名称](development/07-extraction_878e5958/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/07-extraction.md) | ⭐ 440 | `content creation` |
+| [会话管理](development/08-session_23eb3547/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/08-session.md) | ⭐ 440 | `development` |
+| [配置](development/configuration_9a414d74/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/configuration/configuration.md) | ⭐ 440 | `data analysis` |
+| [Embedding 配置](development/embedding_25a54713/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/configuration/embedding.md) | ⭐ 440 | `development` |
+| [LLM 配置](development/llm_ea8ba5e0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/configuration/llm.md) | ⭐ 440 | `data analysis` |
+| [火山引擎模型购买指南](development/volcengine-purchase-guide_64d93921/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/configuration/volcengine-purchase-guide.md) | ⭐ 440 | `development` |
+| [常见问题](development/faq_29c9408d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 440 | `development` |
+| [简介](development/introduction_c1a29b59/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/getting-started/introduction.md) | ⭐ 440 | `development` |
+| [快速开始](development/quickstart_e9fc2977/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/getting-started/quickstart.md) | ⭐ 440 | `development` |
+| [AGFS Server API Reference](development/api_f6a4b221/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/agfs/agfs-server/api.md) | ⭐ 440 | `content creation` |
+| [Openviking](development/impl_340b4dd7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/impl.md) | ⭐ 440 | `content creation` |
+| [Openviking](development/table_format_16f96b65/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/table_format.md) | ⭐ 440 | `development` |
+| [LLM Integration Guide for IntentKit](development/llm_a94e1db9/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
+| [Intentkit](development/latest_changelog_59746c99/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md) | 🔥 6.5k | `development` |
+| [Operations Guide](development/ops_guide_3ad9992b/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
+| [Skills Development Guide](development/skill_development_001299e6/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/skill_development.md) | 🔥 6.5k | `development` |
+| [Agent Management](development/agent_f890d36d/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/agent.md) | 🔥 6.5k | `content creation` |
+| [IntentKit Architecture](development/architecture_21d69ae2/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/architecture.md) | 🔥 6.5k | `data analysis` |
+| [Configuration](development/configuration_c382e075/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/configuration.md) | 🔥 6.5k | `development` |
+| [Discord Integration](development/discord_63c5175f/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/discord.md) | 🔥 6.5k | `development` |
+| [LLMs](development/llm_a7fe3187/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/llm.md) | 🔥 6.5k | `daily assistant` |
+| [Frontend Architecture Guide for IntentKit](development/agents_a365bad2/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/frontend/AGENTS.md) | 🔥 6.5k | `development` |
+| [str = Field(description=](development/skills_1ff09103/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/contributing/skills.md) | 🔥 6.5k | `development` |
+| [Wishlist for IntentKit](development/wishlist_c50928ab/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/contributing/wishlist.md) | 🔥 6.5k | `development` |
+| [Coinbase Developer Platform](development/cdp_6ac10aff/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/skills/cdp.md) | 🔥 6.5k | `development` |
+| [Goat SDK Integration](development/goat_008ff77c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/skills/goat.md) | 🔥 6.5k | `development` |
+| [X](development/x_d3e0d9ad/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/skills/x.md) | 🔥 6.5k | `development` |
 
 ### Investment (1 skills)
 
@@ -254,7 +320,7 @@ This repository contains automatically aggregated skills from various open-sourc
 |-------|--------|------------|------|
 | [Design Resources & Tools](investment/design-resources_f8d48c7f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/design-resources.md) | ⭐ 1.5k | `investment` |
 
-### Other (16 skills)
+### Other (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -274,6 +340,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Next Gen Ui Agent](other/mcp-library_20b70b05/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/ai_apps_binding/mcp-library.md) | ⭐ 12 | `other` |
 | [Next Gen Ui Agent](other/pythonlib_bf44b8f9/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/ai_apps_binding/pythonlib.md) | ⭐ 12 | `other` |
 | [Next Gen Ui Agent](other/rhds_21b015ea/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/rhds.md) | ⭐ 12 | `other` |
+| [架构概述](other/01-architecture_0b6f9832/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 440 | `data analysis` |
+| [Intentkit](other/copilot-instructions_9aeed0da/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/.github/copilot-instructions.md) | 🔥 6.5k | `other` |
 
 ### Productivity (7 skills)
 
@@ -287,12 +355,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Post-Processing](productivity/09-postprocessing_be4898fc/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/09-postprocessing.md) | ⭐ 1.5k | `productivity` |
 | [Performance Optimization](productivity/12-performance_22c1ff72/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/12-performance.md) | ⭐ 1.5k | `productivity` |
 
-### Research (2 skills)
+### Research (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Design Principles: Beautiful & Right](research/design-principles_e7ba630a/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/design-principles.md) | ⭐ 1.5k | `data analysis` |
 | [Inversion Exercise](research/skill_01786f5f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/problem-solving/inversion-exercise/SKILL.md) | ⭐ 1.5k | `research` |
+| [Context Types](research/02-context-types_eb50d65e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/02-context-types.md) | ⭐ 440 | `research` |
+| [VikingDB FastAPI Server](research/readme_fastapi_9f9e0da6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/openviking/storage/vectordb/service/README_FASTAPI.md) | ⭐ 440 | `research` |
 
 ## Repository Structure
 
