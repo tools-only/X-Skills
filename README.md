@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **5179 AI-powered skills** organized into 16 categories.
+A curated collection of **5361 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (42 skills)
-- **Automation/Workflow** (45 skills)
-- **Commercial** (371 skills)
-- **Communication** (192 skills)
-- **Content Creation** (168 skills)
-- **Daily Assistant** (160 skills)
-- **Data Analysis** (418 skills)
-- **Development** (2660 skills)
-- **Development/Devops** (110 skills)
-- **Development/Testing** (17 skills)
-- **Development/Tools** (83 skills)
+- **Automation/Scripting** (43 skills)
+- **Automation/Workflow** (46 skills)
+- **Commercial** (375 skills)
+- **Communication** (197 skills)
+- **Content Creation** (172 skills)
+- **Daily Assistant** (203 skills)
+- **Data Analysis** (423 skills)
+- **Development** (2760 skills)
+- **Development/Devops** (109 skills)
+- **Development/Testing** (21 skills)
+- **Development/Tools** (99 skills)
 - **Investment** (37 skills)
 - **Other** (43 skills)
 - **Productivity** (173 skills)
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (42 skills)
+### Automation/Scripting (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -496,7 +496,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 17 Wti.1](automation/scripting/016-fn-17-wti1_b841b151/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.1.md) | ⭐ 490 | `automation` |
 | [Fn 9.1](automation/scripting/017-fn-91_552ba43b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.1.md) | ⭐ 490 | `automation` |
 | [Fn 9.12](automation/scripting/018-fn-912_0799db18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.12.md) | ⭐ 490 | `automation` |
-| [Github Scout](automation/scripting/github-scout_7bcb6fbe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/github-scout.md) | ⭐ 491 | `automation` |
+| [Github Scout](automation/scripting/019-github-scout_3fe7c3c3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/github-scout.md) | ⭐ 490 | `automation` |
 | [Phases](automation/scripting/020-phases_e8560d75/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/phases.md) | ⭐ 490 | `automation` |
 | [Skill](automation/scripting/003-name-skill_99266d26/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/task-orchestrator/SKILL.md) | ⭐ 163 | `automation` |
 | [Agent Guide](automation/scripting/021-agent-guide_00619144/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/auto-updater/references/agent-guide.md) | ⭐ 163 | `automation` |
@@ -520,8 +520,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_725a0722/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/graphql-architect/SKILL.md) | ⭐ 235 | `automation` |
 | [Cost](automation/scripting/027-cost_bafaaa1e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cloud-architect/references/cost.md) | ⭐ 235 | `automation` |
 | [Github Scout](automation/scripting/019-github-scout_7bcb6fbe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/github-scout.md) | ⭐ 491 | `automation` |
+| [2026 02 02 Token Estimation Overhead](automation/scripting/2026-02-02_token_estimation_overhead_adb63d03/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-02_token_estimation_overhead.md) | ⭐ 112 | `automation` |
 
-### Automation/Workflow (45 skills)
+### Automation/Workflow (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -542,7 +543,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 2.3](automation/workflow/011-fn-23_095198bd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.3.md) | ⭐ 490 | `automation` |
 | [Fn 2.4](automation/workflow/012-fn-24_69aefe81/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.4.md) | ⭐ 490 | `automation` |
 | [Fn 23 Zgk.4](automation/workflow/013-fn-23-zgk4_1a30e731/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.4.md) | ⭐ 490 | `automation` |
-| [Workflow Scout](automation/workflow/workflow-scout_6eae8a3b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/workflow-scout.md) | ⭐ 491 | `automation` |
+| [Workflow Scout](automation/workflow/014-workflow-scout_b25220e4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/workflow-scout.md) | ⭐ 490 | `automation` |
 | [Pillars](automation/workflow/015-pillars_ecc3f1eb/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/pillars.md) | ⭐ 490 | `automation` |
 | [Skill](automation/workflow/002-name-skill_cd30473b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/SKILL.md) | ⭐ 490 | `automation` |
 | [Overview](automation/workflow/016-overview_05fedc64/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 16 | `automation` |
@@ -570,8 +571,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Knowledge Architecture V5.2](automation/workflow/028-knowledge-architecture-v52_f3795e84/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2.md) | ⭐ 133 | `automation` |
 | [Control Set 07 Logging](automation/workflow/029-control-set-07-logging_77c8558e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-07-logging.md) | ⭐ 133 | `automation` |
 | [Workflow Scout](automation/workflow/014-workflow-scout_6eae8a3b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/workflow-scout.md) | ⭐ 491 | `automation` |
+| [Tun 05F8](automation/workflow/tun-05f8_cefbdf68/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-05f8.md) | ⭐ 112 | `build` `intermediate` |
 
-### Commercial (371 skills)
+### Commercial (375 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -915,8 +917,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 1.3](commercial/230-fn-13_1aae2644/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.3.md) | ⭐ 490 | `commercial` |
 | [Fn 9.17](commercial/231-fn-917_d5a6abcf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.17.md) | ⭐ 490 | `commercial` |
 | [Ralph](commercial/232-ralph_2554e337/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/ralph.md) | ⭐ 490 | `commercial` |
-| [Skill](commercial/name-skill_1a558d5e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 491 | `commercial` |
-| [Workflow](commercial/workflow_a7e7194f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 491 | `commercial` |
+| [Skill](commercial/210-name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
+| [Workflow](commercial/233-workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
 | [Salesforce Structure](commercial/234-salesforce_structure_308821c1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/salesforce/SALESFORCE_STRUCTURE.md) | ⭐ 163 | `commercial` |
 | [Skill](commercial/210-name-skill_0374a115/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/docs/SKILL.md) | ⭐ 311 | `commercial` |
 | [Agentcore Memory](commercial/235-agentcore-memory_d970ebf9/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/session-managers/agentcore-memory.md) | ⭐ 160 | `commercial` |
@@ -946,8 +948,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference Set 09 Rest Security](commercial/169-reference-set-09-rest-security_47087c10/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-security.md) | ⭐ 133 | `commercial` |
 | [Skill](commercial/210-name-skill_1a558d5e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 491 | `commercial` |
 | [Workflow](commercial/233-workflow_a7e7194f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 491 | `commercial` |
+| [2026 02 01 Token Counting Logic](commercial/2026-02-01-token-counting-logic_44b0e408/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-01-token-counting-logic.md) | ⭐ 112 | `commercial` |
+| [Exceptions](commercial/exceptions_bf96f8b9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/exceptions.md) | ⭐ 112 | `commercial` |
+| [Task 06 React State Alignment](commercial/task_06_react_state_alignment_ea544a25/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_06_react_state_alignment.md) | ⭐ 112 | `commercial` |
+| [Task 08 Usage Metrics Consolidation](commercial/task_08_usage_metrics_consolidation_8905b912/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_08_usage_metrics_consolidation.md) | ⭐ 112 | `commercial` |
 
-### Communication (192 skills)
+### Communication (197 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1119,9 +1125,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_928c4b4d/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 15 | `communication` |
 | [Skill](communication/127-name-skill_a40ef0cd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/whatsapp-evo/SKILL.md) | ⭐ 15 | `communication` |
 | [Fn 21 Rqz](communication/128-fn-21-rqz_dd4a0126/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-21-rqz.md) | ⭐ 490 | `communication` |
-| [Skill](communication/name-skill_6ec2bf56/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/SKILL.md) | ⭐ 491 | `communication` |
-| [Skill](communication/name-skill_8b804fc7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-export-context/SKILL.md) | ⭐ 491 | `communication` |
-| [Skill](communication/name-skill_44a29dd9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/SKILL.md) | ⭐ 491 | `communication` |
+| [Skill](communication/127-name-skill_17e1be5e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/SKILL.md) | ⭐ 490 | `communication` |
+| [Skill](communication/127-name-skill_c2be3d96/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-export-context/SKILL.md) | ⭐ 490 | `communication` |
+| [Skill](communication/127-name-skill_07c008b4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/SKILL.md) | ⭐ 490 | `communication` |
 | [Workflow](communication/129-workflow_2d196487/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan-review/workflow.md) | ⭐ 490 | `communication` |
 | [Skill](communication/127-name-skill_114fb540/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawddocs/SKILL.md) | ⭐ 163 | `communication` |
 | [Skill](communication/127-name-skill_6c08e87b/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/context-recovery/SKILL.md) | ⭐ 163 | `communication` |
@@ -1143,8 +1149,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_6ec2bf56/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/SKILL.md) | ⭐ 491 | `communication` |
 | [Skill](communication/127-name-skill_8b804fc7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-export-context/SKILL.md) | ⭐ 491 | `communication` |
 | [Skill](communication/127-name-skill_44a29dd9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/SKILL.md) | ⭐ 491 | `communication` |
+| [2026 02 01 Openai Chat Invalid Response](communication/2026-02-01_openai-chat-invalid-response_ee3d2678/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-02-01_openai-chat-invalid-response.md) | ⭐ 112 | `communication` |
+| [Pydantic Runtime Removal Attempt](communication/pydantic_runtime_removal_attempt_86f3c30e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/metadata/pydantic_runtime_removal_attempt.md) | ⭐ 112 | `communication` |
+| [Raw](communication/raw_def2b24e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/qa/raw.md) | ⭐ 112 | `communication` |
+| [Reserch](communication/reserch_4fb53593/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/reserch.md) | ⭐ 112 | `communication` |
+| [2026 01 27 Insert Before Stream Investigation](communication/2026-01-27_insert-before-stream-investigation_591f4e34/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_insert-before-stream-investigation.md) | ⭐ 112 | `communication` |
 
-### Content Creation (168 skills)
+### Content Creation (172 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1312,12 +1323,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference Set 07 Logging](content-creation/098-reference-set-07-logging_2983d415/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-07-logging.md) | ⭐ 133 | `content creation` |
 | [Reference Set Ext 11 Docker Security](content-creation/099-reference-set-ext-11-docker-security_98665e8e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-docker-security.md) | ⭐ 133 | `content creation` |
 | [Reference Set Ext 13 Ai Agent Security](content-creation/100-reference-set-ext-13-ai-agent-security_e5c91b36/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-13-ai-agent-security.md) | ⭐ 133 | `content creation` |
-| [Env Scout](content-creation/env-scout_08e558e1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/env-scout.md) | ⭐ 491 | `content creation` |
-| [Memory Scout](content-creation/memory-scout_99df3c10/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/memory-scout.md) | ⭐ 491 | `content creation` |
-| [Practice Scout](content-creation/practice-scout_68f7191e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/practice-scout.md) | ⭐ 491 | `content creation` |
-| [Skill](content-creation/name-skill_3b5290b2/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-worktree-kit/SKILL.md) | ⭐ 491 | `content creation` |
+| [Env Scout](content-creation/101-env-scout_08e558e1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/env-scout.md) | ⭐ 491 | `content creation` |
+| [Memory Scout](content-creation/102-memory-scout_99df3c10/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/memory-scout.md) | ⭐ 491 | `content creation` |
+| [Practice Scout](content-creation/103-practice-scout_68f7191e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/practice-scout.md) | ⭐ 491 | `content creation` |
+| [Agent Response Panel](content-creation/agent_response_panel_89a51af1/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/ui/agent_response_panel.md) | ⭐ 112 | `content creation` |
+| [2026 01 27 17 52 14 Insert Before Stream Fix](content-creation/2026-01-27_17-52-14_insert-before-stream-fix_f3d11f8a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/execute/2026-01-27_17-52-14_insert-before-stream-fix.md) | ⭐ 112 | `content creation` |
+| [2026 01 27 16 11 11 Streaming And Panels](content-creation/2026-01-27_16-11-11_streaming_and_panels_cdf8769b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_16-11-11_streaming_and_panels.md) | ⭐ 112 | `content creation` |
+| [Conversation Turns](content-creation/conversation-turns_a595feab/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/architecture/conversation-turns.md) | ⭐ 112 | `content creation` |
+| [Prompts](content-creation/prompts_77ab3ab0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/prompts.md) | ⭐ 112 | `content creation` |
 
-### Daily Assistant (160 skills)
+### Daily Assistant (203 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1449,12 +1464,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 9.9](daily-assistant/078-fn-99_dd2fa8c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.9.md) | ⭐ 490 | `daily assistant` |
 | [Memory Scout](daily-assistant/079-memory-scout_8c79d7ca/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/memory-scout.md) | ⭐ 490 | `daily assistant` |
 | [Sync](daily-assistant/080-sync_21d3a64b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/sync.md) | ⭐ 490 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_d71d4527/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-interview/SKILL.md) | ⭐ 491 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_edf35ec7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/SKILL.md) | ⭐ 491 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_83578fb7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-sync/SKILL.md) | ⭐ 491 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_02513438/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/SKILL.md) | ⭐ 491 | `daily assistant` |
-| [Phases](daily-assistant/phases_6e983abd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/phases.md) | ⭐ 491 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_793ee015/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next/SKILL.md) | ⭐ 491 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b15c9de3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-interview/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_4f24cd3e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_1f3a1a7f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-sync/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_74d3ee99/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Phases](daily-assistant/081-phases_07ad75c2/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/phases.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b1018138/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next/SKILL.md) | ⭐ 490 | `daily assistant` |
 | [System](daily-assistant/082-system_52cce97a/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/falco/system.md) | ⭐ 1.8k | `daily assistant` |
 | [System](daily-assistant/082-system_6d66eb4d/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/gufo/system.md) | ⭐ 1.8k | `daily assistant` |
 | [Compatibility](daily-assistant/083-compatibility_7db1ae18/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/COMPATIBILITY.md) | ⭐ 163 | `daily assistant` |
@@ -1473,16 +1488,59 @@ This repository contains automatically aggregated skills from various open-sourc
 | [P3 Trust Boundary](daily-assistant/086-p3-trust-boundary_b8b08640/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 133 | `daily assistant` |
 | [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_06600e0e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
 | [P8 Report Generation](daily-assistant/088-p8-report-generation_89464869/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
-| [Quality Auditor](daily-assistant/quality-auditor_ae510f32/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/quality-auditor.md) | ⭐ 491 | `daily assistant` |
+| [Quality Auditor](daily-assistant/091-quality-auditor_ae510f32/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/quality-auditor.md) | ⭐ 491 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_d71d4527/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-interview/SKILL.md) | ⭐ 491 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_edf35ec7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/SKILL.md) | ⭐ 491 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_83578fb7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-sync/SKILL.md) | ⭐ 491 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_02513438/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/SKILL.md) | ⭐ 491 | `daily assistant` |
 | [Phases](daily-assistant/081-phases_6e983abd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/phases.md) | ⭐ 491 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_793ee015/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next/SKILL.md) | ⭐ 491 | `daily assistant` |
-| [Epic Scout](daily-assistant/epic-scout_dc7b9307/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/epic-scout.md) | ⭐ 491 | `daily assistant` |
+| [Tun 0154](daily-assistant/tun-0154_f51d29ed/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-0154.md) | ⭐ 112 | `perf` `phase1` |
+| [Tun 2E7E](daily-assistant/tun-2e7e_0639ea14/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-2e7e.md) | ⭐ 112 | `performance` `state` `token-counter` |
+| [Tun 4Adc](daily-assistant/tun-4adc_7e526bc8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-4adc.md) | ⭐ 112 | `discovery` `advanced` |
+| [Tun 6868](daily-assistant/tun-6868_20ae4664/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-6868.md) | ⭐ 112 | `concurrency` `tools` `dispatcher` |
+| [Tun 8168](daily-assistant/tun-8168_86b877b3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-8168.md) | ⭐ 112 | `perf` `core` `state` |
+| [Tun 9A98](daily-assistant/tun-9a98_8c3e7b6b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-9a98.md) | ⭐ 112 | `security` `intermediate` |
+| [Tun Cfa7](daily-assistant/tun-cfa7_ec08d38e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-cfa7.md) | ⭐ 112 | `docs` `basic` |
+| [2026 01 25 Tool Registry Todo Alignment](daily-assistant/2026-01-25_tool-registry-todo-alignment_77ea7dea/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-01-25_tool-registry-todo-alignment.md) | ⭐ 112 | `daily assistant` |
+| [2026 02 02 Token Pruning Efficiency Plan](daily-assistant/2026-02-02-token-pruning-efficiency-plan_937a4bfb/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-token-pruning-efficiency-plan.md) | ⭐ 112 | `daily assistant` |
+| [Task 02 Session State Decomposition](daily-assistant/task_02_session_state_decomposition_585c2b8a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_02_session_state_decomposition.md) | ⭐ 112 | `daily assistant` |
+| [Task 03 Message Parity Harness](daily-assistant/task_03_message_parity_harness_04c7e266/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_03_message_parity_harness.md) | ⭐ 112 | `daily assistant` |
+| [Issue Standards](daily-assistant/issue-standards_df4b7b7b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/contributing/issue-standards.md) | ⭐ 112 | `daily assistant` |
+| [Architecture](daily-assistant/architecture_822ab23d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/tools/architecture.md) | ⭐ 112 | `daily assistant` |
+| [2026 01 26 16 41 59 Research Subagent Deletion](daily-assistant/2026-01-26_16-41-59_research-subagent-deletion_1dc75373/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-26_16-41-59_research-subagent-deletion.md) | ⭐ 112 | `daily assistant` |
+| [Core State](daily-assistant/core-state_26c2c684/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-state.md) | ⭐ 112 | `daily assistant` |
+| [Types](daily-assistant/types_a0accb3d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/types.md) | ⭐ 112 | `daily assistant` |
+| [Tun 00De](daily-assistant/tun-00de_09f72ef6/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-00de.md) | ⭐ 112 | `docs` `intermediate` |
+| [Tun 1C18](daily-assistant/tun-1c18_48202eab/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-1c18.md) | ⭐ 112 | `security` `basic` |
+| [Tun 1C2C](daily-assistant/tun-1c2c_d6ab790d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-1c2c.md) | ⭐ 112 | `security` `intermediate` |
+| [Tun 3677](daily-assistant/tun-3677_1183c54b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-3677.md) | ⭐ 112 | `testing` `advanced` |
+| [Tun 3B54](daily-assistant/tun-3b54_8a90db9e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-3b54.md) | ⭐ 112 | `product` `intermediate` |
+| [Tun 454B](daily-assistant/tun-454b_bfdfa98f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-454b.md) | ⭐ 112 | `security` `basic` |
+| [Tun 4A70](daily-assistant/tun-4a70_8eddec83/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-4a70.md) | ⭐ 112 | `devenv` `basic` |
+| [Tun 4De0](daily-assistant/tun-4de0_50eeb9f4/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-4de0.md) | ⭐ 112 | `observability` `advanced` |
+| [Tun 61Be](daily-assistant/tun-61be_0ac79d1f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-61be.md) | ⭐ 112 | `observability` `intermediate` |
+| [Tun 65C6](daily-assistant/tun-65c6_72463b34/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-65c6.md) | ⭐ 112 | `observability` `advanced` |
+| [Tun 6927](daily-assistant/tun-6927_11ed600a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-6927.md) | ⭐ 112 | `observability` `basic` |
+| [Tun 7A3B](daily-assistant/tun-7a3b_e95d76d4/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-7a3b.md) | ⭐ 112 | `product` `advanced` |
+| [Tun 7F83](daily-assistant/tun-7f83_9c745e42/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-7f83.md) | ⭐ 112 | `performance` `phase2` |
+| [Tun 85A9](daily-assistant/tun-85a9_402295d4/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-85a9.md) | ⭐ 112 | `observability` `intermediate` |
+| [Tun A07E](daily-assistant/tun-a07e_db9bc13d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-a07e.md) | ⭐ 112 | `perf` `core` `streaming` |
+| [Tun A2Eb](daily-assistant/tun-a2eb_99f6ce5b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-a2eb.md) | ⭐ 112 | `testing` `basic` |
+| [Tun A377](daily-assistant/tun-a377_d066cff9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-a377.md) | ⭐ 112 | `observability` `basic` |
+| [Tun A5F7](daily-assistant/tun-a5f7_ba6f649b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-a5f7.md) | ⭐ 112 | `observability` `intermediate` |
+| [Tun Bc8C](daily-assistant/tun-bc8c_ebfb6f5a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-bc8c.md) | ⭐ 112 | `devenv` `basic` |
+| [Tun Bcea](daily-assistant/tun-bcea_874bf21f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-bcea.md) | ⭐ 112 | `build` `intermediate` |
+| [Tun D931](daily-assistant/tun-d931_4ebcacf7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-d931.md) | ⭐ 112 | `docs` `advanced` |
+| [Tun D9Bc](daily-assistant/tun-d9bc_70f535be/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-d9bc.md) | ⭐ 112 | `build` `advanced` |
+| [Tun Da19](daily-assistant/tun-da19_4b402a40/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-da19.md) | ⭐ 112 | `concurrency` `tools` `registry` |
+| [Tun De63](daily-assistant/tun-de63_17f573f4/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-de63.md) | ⭐ 112 | `style` `validation` `intermediate` |
+| [Tun E902](daily-assistant/tun-e902_8f1e657f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-e902.md) | ⭐ 112 | `observability` `basic` |
+| [Tun F090](daily-assistant/tun-f090_dee6f28a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-f090.md) | ⭐ 112 | `build` `intermediate` |
+| [Tun Fb61](daily-assistant/tun-fb61_b5982b86/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-fb61.md) | ⭐ 112 | `perf` `core` `streaming` |
+| [Task 07 Todo State Alignment](daily-assistant/task_07_todo_state_alignment_1527d9b3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_07_todo_state_alignment.md) | ⭐ 112 | `daily assistant` |
 
-### Data Analysis (418 skills)
+### Data Analysis (423 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1854,7 +1912,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 22 53K.1](data-analysis/243-fn-22-53k1_256099f8/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.1.md) | ⭐ 490 | `data analysis` |
 | [Fn 22 53K.7](data-analysis/244-fn-22-53k7_65e2bac5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.7.md) | ⭐ 490 | `data analysis` |
 | [Fn 9.5](data-analysis/245-fn-95_3f41cb2c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.5.md) | ⭐ 490 | `data analysis` |
-| [Workflow](data-analysis/workflow_e6006d03/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/workflow.md) | ⭐ 491 | `data analysis` |
+| [Workflow](data-analysis/246-workflow_62eb8169/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/workflow.md) | ⭐ 490 | `data analysis` |
 | [Debugging](data-analysis/247-debugging_9ede2b56/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/debugging.md) | ⭐ 490 | `data analysis` |
 | [User](data-analysis/248-user_896aa7f5/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing-incr/user.md) | ⭐ 1.8k | `data analysis` |
 | [User](data-analysis/248-user_b6b63b2e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/optim/user.md) | ⭐ 1.8k | `data analysis` |
@@ -1903,9 +1961,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [P2 Dfd Analysis](data-analysis/251-p2-dfd-analysis_5ce9c5e7/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
 | [Control Set Ext 13 Ai Llm](data-analysis/272-control-set-ext-13-ai-llm_337328a3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-13-ai-llm.md) | ⭐ 133 | `data analysis` |
 | [Workflow](data-analysis/246-workflow_e6006d03/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/workflow.md) | ⭐ 491 | `data analysis` |
-| [Skill](data-analysis/name-skill_17c9f829/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-deps/SKILL.md) | ⭐ 491 | `data analysis` |
+| [Card Format](data-analysis/card-format_367008fe/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/agent-docs/card-format.md) | ⭐ 112 | `data analysis` |
+| [Pydantic Removal Contract](data-analysis/pydantic-removal-contract_be7a38c8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/refactoring/pydantic-removal-contract.md) | ⭐ 112 | `data analysis` |
+| [2026 01 27 Alchemy Rs Migration](data-analysis/2026-01-27_alchemy-rs-migration_6c4b60b2/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_alchemy-rs-migration.md) | ⭐ 112 | `data analysis` |
+| [2026 01 28 11 38 38 Tools Cross Layer Imports](data-analysis/2026-01-28_11-38-38_tools-cross-layer-imports_e3783917/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-28_11-38-38_tools-cross-layer-imports.md) | ⭐ 112 | `data analysis` |
+| [2026 01 28 Recent Changes Summary](data-analysis/2026-01-28_recent-changes-summary_5b3b8287/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-28_recent-changes-summary.md) | ⭐ 112 | `data analysis` |
+| [Analysis Summary](data-analysis/analysis_summary_4e328cdd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/ANALYSIS_SUMMARY.md) | ⭐ 112 | `data analysis` |
 
-### Development (2660 skills)
+### Development (2760 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4264,19 +4327,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 9.6](development/1273-fn-96_455fdb37/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.6.md) | ⭐ 490 | `development` |
 | [Fn 9.7](development/1274-fn-97_316cfc69/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.7.md) | ⭐ 490 | `development` |
 | [Claude](development/140-claude_74df01d0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/flow-next-tui/.claude/CLAUDE.md) | ⭐ 490 | `development` |
-| [Context Scout](development/context-scout_ce6cf3f3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/context-scout.md) | ⭐ 491 | `development` |
-| [Docs Scout](development/docs-scout_8a2d9b15/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-scout.md) | ⭐ 491 | `development` |
+| [Context Scout](development/1275-context-scout_7dceaa7a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/context-scout.md) | ⭐ 490 | `development` |
+| [Docs Scout](development/1276-docs-scout_88534893/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-scout.md) | ⭐ 490 | `development` |
 | [Env Scout](development/1277-env-scout_0c5eb03f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/env-scout.md) | ⭐ 490 | `development` |
-| [Flow Gap Analyst](development/flow-gap-analyst_8f19b7c1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/flow-gap-analyst.md) | ⭐ 491 | `development` |
-| [Plan Sync](development/plan-sync_9f1ffb8e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/plan-sync.md) | ⭐ 491 | `development` |
+| [Flow Gap Analyst](development/1278-flow-gap-analyst_97ebc8d3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/flow-gap-analyst.md) | ⭐ 490 | `development` |
+| [Plan Sync](development/1279-plan-sync_145ac34c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/plan-sync.md) | ⭐ 490 | `development` |
 | [Practice Scout](development/1280-practice-scout_c6ccbaf7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/practice-scout.md) | ⭐ 490 | `development` |
 | [Quality Auditor](development/1281-quality-auditor_e2706a32/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/quality-auditor.md) | ⭐ 490 | `development` |
 | [Flowctl](development/1282-flowctl_a3270174/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/flowctl.md) | ⭐ 490 | `development` |
 | [Context Scout](development/1275-context-scout_91d28b17/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/context-scout.md) | ⭐ 490 | `development` |
 | [Flow Gap Analyst](development/1278-flow-gap-analyst_f3f07454/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/flow-gap-analyst.md) | ⭐ 490 | `development` |
 | [Quality Auditor](development/1281-quality-auditor_a80a230e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/quality-auditor.md) | ⭐ 490 | `development` |
-| [Workflow](development/workflow_025f8dd6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/workflow.md) | ⭐ 491 | `development` |
-| [Steps](development/steps_2836484a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/steps.md) | ⭐ 491 | `development` |
+| [Workflow](development/1153-workflow_6529c122/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/workflow.md) | ⭐ 490 | `development` |
+| [Steps](development/1283-steps_92565f21/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/steps.md) | ⭐ 490 | `development` |
 | [Skill](development/1178-name-skill_e037b811/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/SKILL.md) | ⭐ 490 | `development` |
 | [Skill](development/1178-name-skill_fa56e90d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-rp-explorer/SKILL.md) | ⭐ 490 | `development` |
 | [Cli Reference](development/147-cli-reference_eeba2573/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-rp-explorer/cli-reference.md) | ⭐ 490 | `development` |
@@ -4337,7 +4400,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tenets](development/1344-tenets_eeb398e8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/TENETS.md) | ⭐ 160 | `development` |
 | [Community Packages](development/1345-community-packages_da3d831e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/community-packages.md) | ⭐ 160 | `development` |
 | [Get Featured](development/1346-get-featured_e400eaf1/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/get-featured.md) | ⭐ 160 | `development` |
-| [Quickstart](development/760-quickstart_666d3de7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart.md) | ⭐ 160 | `development` |
+| [Quickstart](development/quickstart_f05add62/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart.md) | ⭐ 160 | `development` |
 | [Versioning And Support](development/1347-versioning-and-support_90003015/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/versioning-and-support.md) | ⭐ 160 | `development` |
 | [Strands Valkey Session Manager](development/1348-strands-valkey-session-manager_4e9aaabb/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/session-managers/strands-valkey-session-manager.md) | ⭐ 160 | `development` |
 | [Strands Hubspot](development/1349-strands-hubspot_c72e8dc6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/strands-hubspot.md) | ⭐ 160 | `development` |
@@ -4360,7 +4423,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agent To Agent](development/1361-agent-to-agent_c7203f32/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/agent-to-agent.md) | ⭐ 160 | `development` |
 | [Swarm](development/1362-swarm_aaca37a6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/swarm.md) | ⭐ 160 | `development` |
 | [Custom Tools](development/1363-custom-tools_e60888a9/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/custom-tools.md) | ⭐ 160 | `development` |
-| [Index](development/468-index_b9320cd0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/index.md) | ⭐ 160 | `development` |
+| [Index](development/index_0c60dfc8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/index.md) | ⭐ 160 | `development` |
 | [Index](development/468-index_18b093f3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/simulators/index.md) | ⭐ 160 | `development` |
 | [Gemini Live](development/1364-gemini_live_aba57867/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/gemini_live.md) | ⭐ 160 | `development` |
 | [Mongodb Memory Tool](development/1365-mongodb_memory_tool_310781e0/) | [strands-agents/tools](https://raw.githubusercontent.com/strands-agents/tools/main/docs/mongodb_memory_tool.md) | ⭐ 925 | `development` |
@@ -4567,10 +4630,110 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Plan Sync](development/1279-plan-sync_9f1ffb8e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/plan-sync.md) | ⭐ 491 | `development` |
 | [Workflow](development/1153-workflow_025f8dd6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/workflow.md) | ⭐ 491 | `development` |
 | [Steps](development/1283-steps_2836484a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/steps.md) | ⭐ 491 | `development` |
-| [Claude Md Scout](development/claude-md-scout_e13ea5e7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/claude-md-scout.md) | ⭐ 491 | `development` |
-| [Repo Scout](development/repo-scout_a52d07d7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/repo-scout.md) | ⭐ 491 | `development` |
+| [Agents](development/agents_c8965d40/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AGENTS.md) | ⭐ 112 | `development` |
+| [Tun 386A](development/tun-386a_78b501d1/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-386a.md) | ⭐ 112 | `docs` `core` |
+| [2026 01 12 Missing Cached Tokens](development/2026-01-12_missing-cached-tokens_58855d81/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-01-12_missing-cached-tokens.md) | ⭐ 112 | `development` |
+| [2026 01 21 Abort Hang Investigation](development/2026-01-21_abort-hang-investigation_fdf5a7ed/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-01-21_abort-hang-investigation.md) | ⭐ 112 | `development` |
+| [2026 01 21 Resume Hang Investigation Updated](development/2026-01-21_resume-hang-investigation-updated_c508743f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-01-21_resume-hang-investigation-updated.md) | ⭐ 112 | `development` |
+| [2026 01 21 Resume Hang Investigation](development/2026-01-21_resume-hang-investigation_5103785c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-01-21_resume-hang-investigation.md) | ⭐ 112 | `development` |
+| [Context Loss Bug](development/context-loss-bug_5e2e50c1/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/context-loss-bug.md) | ⭐ 112 | `development` |
+| [Continuous Learning](development/continuous-learning_50376dc2/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/continuous-learning.md) | ⭐ 112 | `development` |
+| [List Dir Tool Execution Error](development/list-dir-tool-execution-error_d1befeab/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/list-dir-tool-execution-error.md) | ⭐ 112 | `development` |
+| [2026 01 16 Panel Width Refactoring](development/2026-01-16-panel-width-refactoring_86eace4c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-01-16-panel-width-refactoring.md) | ⭐ 112 | `development` |
+| [2026 01 17 Dangling Tool Calls](development/2026-01-17-dangling-tool-calls_e44184fc/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-01-17-dangling-tool-calls.md) | ⭐ 112 | `development` |
+| [2026 01 25 Orphaned Retry Prompt On Dangling Cleanup](development/2026-01-25_orphaned_retry_prompt_on_dangling_cleanup_76d49004/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-01-25_orphaned_retry_prompt_on_dangling_cleanup.md) | ⭐ 112 | `development` |
+| [2026 01 26 Boundary Contracts Not Enforced](development/2026-01-26_boundary-contracts-not-enforced_3ce89fbf/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-01-26_boundary-contracts-not-enforced.md) | ⭐ 112 | `development` |
+| [2026 02 02 Esc Handler Extraction](development/2026-02-02-esc-handler-extraction_fe702a4e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-esc-handler-extraction.md) | ⭐ 112 | `development` |
+| [2026 02 02 Pruning Token Estimation Optimization](development/2026-02-02-pruning-token-estimation-optimization_767dd52d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-pruning-token-estimation-optimization.md) | ⭐ 112 | `development` |
+| [2026 02 02 Remove Cli Shim](development/2026-02-02-remove-cli-shim_ed299acd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-remove-cli-shim.md) | ⭐ 112 | `development` |
+| [2026 02 02 Remove Heuristic Token Counting](development/2026-02-02-remove-heuristic-token-counting_9c1ea9ff/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-remove-heuristic-token-counting.md) | ⭐ 112 | `development` |
+| [2026 02 02 Remove Toolbuffer Shim](development/2026-02-02-remove-toolbuffer-shim_9fd2e01c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-remove-toolbuffer-shim.md) | ⭐ 112 | `development` |
+| [2026 02 02 Resource Bar Usage Totals](development/2026-02-02-resource-bar-usage-totals_9dc2c823/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-resource-bar-usage-totals.md) | ⭐ 112 | `development` |
+| [2026 02 02 Tool Name Normalization](development/2026-02-02-tool-name-normalization_be6723f0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-tool-name-normalization.md) | ⭐ 112 | `development` |
+| [Remove All Exports Use Direct Imports](development/remove-all-exports-use-direct-imports_84d1e4d7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/remove-all-exports-use-direct-imports.md) | ⭐ 112 | `development` |
+| [Remove Global Cache User Config](development/remove-global-cache-user-config_0914dfe7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/remove-global-cache-user-config.md) | ⭐ 112 | `development` |
+| [Usage Total Token Source](development/usage-total-token-source_a59178db/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/patterns/usage-total-token-source.md) | ⭐ 112 | `development` |
+| [No Cargo Cult Fixes](development/no-cargo-cult-fixes_70e178dd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/qa/no-cargo-cult-fixes.md) | ⭐ 112 | `development` |
+| [Semantically Dead Code](development/semantically-dead-code_824ee2a7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/qa/semantically-dead-code.md) | ⭐ 112 | `development` |
+| [Task 01 Canonical Messaging Adoption](development/task_01_canonical_messaging_adoption_3352bc6c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_01_canonical_messaging_adoption.md) | ⭐ 112 | `development` |
+| [Quality Gates](development/quality-gates_2a64c6ea/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/agent-docs/quality-gates.md) | ⭐ 112 | `development` |
+| [Agent Loop](development/agent-loop_3dceda65/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/architecture/agent-loop.md) | ⭐ 112 | `development` |
+| [Map](development/map_65421a7e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/MAP.md) | ⭐ 112 | `development` |
+| [Architecture Refactor Plan](development/architecture-refactor-plan_03853015/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/refactoring/architecture-refactor-plan.md) | ⭐ 112 | `development` |
+| [Message Flow Map](development/message-flow-map_308463fa/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/refactoring/message-flow-map.md) | ⭐ 112 | `development` |
+| [Design Philosophy](development/design_philosophy_e6d2bd4a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/ui/design_philosophy.md) | ⭐ 112 | `development` |
+| [Nextstep Panels](development/nextstep_panels_dd31ca7e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/ui/nextstep_panels.md) | ⭐ 112 | `development` |
+| [Tool Renderers](development/tool_renderers_334d2bcb/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/ui/tool_renderers.md) | ⭐ 112 | `development` |
+| [2026 01 28 Decoupled Tools](development/2026-01-28_decoupled-tools_e6c92b6e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/delta/2026-01-28_decoupled-tools.md) | ⭐ 112 | `development` |
+| [2026 01 27 21 50 00 Tickets](development/2026-01-27_21-50-00_tickets_3737d872/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/execute/2026-01-27_21-50-00_tickets.md) | ⭐ 112 | `development` |
+| [2026 01 26 14 30 00 Planning Feature Deletion](development/2026-01-26_14-30-00_planning-feature-deletion_d3530f3c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-26_14-30-00_planning-feature-deletion.md) | ⭐ 112 | `plan` `deletion` `cleanup` |
+| [2026 01 26 17 11 28 Single Md Prompt Migration](development/2026-01-26_17-11-28_single-md-prompt-migration_ad0c46be/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-26_17-11-28_single-md-prompt-migration.md) | ⭐ 112 | `plan` `prompt-migration` `coding` |
+| [2026 01 26 17 15 00 Research Subagent Deletion](development/2026-01-26_17-15-00_research-subagent-deletion_19281463/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-26_17-15-00_research-subagent-deletion.md) | ⭐ 112 | `plan` `deletion` `cleanup` |
+| [2026 01 27 17 41 42 Insert Before Stream Fix](development/2026-01-27_17-41-42_insert-before-stream-fix_52612d98/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-27_17-41-42_insert-before-stream-fix.md) | ⭐ 112 | `plan` `ui` `streaming` |
+| [2026 01 27 17 59 28 Issue 313 Core Utils Layer Violation](development/2026-01-27_17-59-28_issue-313-core-utils-layer-violation_85f32bc2/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-27_17-59-28_issue-313-core-utils-layer-violation.md) | ⭐ 112 | `plan` `architecture` `layer-violation` |
+| [2026 01 27 21 30 00 Issue 314 Lateral Coupling](development/2026-01-27_21-30-00_issue-314-lateral-coupling_1a381dfe/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-27_21-30-00_issue-314-lateral-coupling.md) | ⭐ 112 | `plan` `architecture` `layer-2` |
+| [2026 01 27 21 45 00 Delete Indexing System](development/2026-01-27_21-45-00_delete-indexing-system_0cf944c0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-27_21-45-00_delete-indexing-system.md) | ⭐ 112 | `plan` `architecture` `indexing` |
+| [2026 01 27 Chat Container Refactor](development/2026-01-27_chat-container-refactor_26dcdbd2/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-27_chat-container-refactor.md) | ⭐ 112 | `plan` `ui` `streaming` |
+| [2026 01 28 Pydantic Ai Adapter Layer](development/2026-01-28_pydantic-ai-adapter-layer_39a80dd5/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-28_pydantic-ai-adapter-layer.md) | ⭐ 112 | `architecture` `decoupling` `pydantic-ai` |
+| [2026 02 01 Complexity Refactoring](development/2026-02-01_complexity-refactoring_fcf7f653/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-01_complexity-refactoring.md) | ⭐ 112 | `plan` `refactoring` `complexity` |
+| [2026 02 02 13 29 36 Esc Logic Module Extraction](development/2026-02-02_13-29-36_esc-logic-module-extraction_c750cf35/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-02_13-29-36_esc-logic-module-extraction.md) | ⭐ 112 | `plan` `refactor` `ui` |
+| [2026 02 02 Sanitize Loop Canonicalization Bottleneck](development/2026-02-02_sanitize-loop-canonicalization-bottleneck_85c933a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-02_sanitize-loop-canonicalization-bottleneck.md) | ⭐ 112 | `plan` `performance` `canonicalization` |
+| [2026 02 02 Token Pruning Efficiency Plan](development/2026-02-02_token-pruning-efficiency-plan_1aa242a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-02_token-pruning-efficiency-plan.md) | ⭐ 112 | `plan` `performance` `pruning` |
+| [2026 01 26 17 08 03 Single Md Prompt Migration](development/2026-01-26_17-08-03_single-md-prompt-migration_e938b89c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-26_17-08-03_single-md-prompt-migration.md) | ⭐ 112 | `development` |
+| [2026 01 26 17 22 59 Local Mode Removal Research](development/2026-01-26_17-22-59_local-mode-removal-research_1ec0dcbf/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-26_17-22-59_local-mode-removal-research.md) | ⭐ 112 | `development` |
+| [2026 01 26 17 34 12 Permission System Removal Map](development/2026-01-26_17-34-12_permission-system-removal-map_88a90d81/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-26_17-34-12_permission-system-removal-map.md) | ⭐ 112 | `development` |
+| [2026 01 26 18 26 16 Yolo System Removal Verification](development/2026-01-26_18-26-16_yolo-system-removal-verification_59b2e1a0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-26_18-26-16_yolo-system-removal-verification.md) | ⭐ 112 | `development` |
+| [2026 01 26 Planning Feature Deletion](development/2026-01-26_planning-feature-deletion_edfb622f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-26_planning-feature-deletion.md) | ⭐ 112 | `development` |
+| [2026 01 27 00 10 38 Issue 311 Core Types Layer Violation](development/2026-01-27_00-10-38_issue-311-core-types-layer-violation_11872dd0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_00-10-38_issue-311-core-types-layer-violation.md) | ⭐ 112 | `development` |
+| [2026 01 27 11 53 37 Issue 313 Core Utils Layer Violation](development/2026-01-27_11-53-37_issue-313-core-utils-layer-violation_08c040c0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_11-53-37_issue-313-core-utils-layer-violation.md) | ⭐ 112 | `development` |
+| [2026 01 27 13 11 55 Issue 314 Lateral Coupling Tools Indexing Lsp](development/2026-01-27_13-11-55_issue-314-lateral-coupling-tools-indexing-lsp_b4e5ee7e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_13-11-55_issue-314-lateral-coupling-tools-indexing-lsp.md) | ⭐ 112 | `development` |
+| [2026 01 27 17 28 01 Lsp Panel Integration](development/2026-01-27_17-28-01_lsp-panel-integration_3b5673c8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_17-28-01_lsp-panel-integration.md) | ⭐ 112 | `development` |
+| [2026 01 27 17 45 00 Chatcontainer Refactor](development/2026-01-27_17-45-00_chatcontainer_refactor_820ac339/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_17-45-00_chatcontainer_refactor.md) | ⭐ 112 | `development` |
+| [2026 01 27 Streaming Abort Context Loss](development/2026-01-27_streaming-abort-context-loss_0be46487/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_streaming-abort-context-loss.md) | ⭐ 112 | `development` |
+| [2026 01 28 00 25 00 Api Error Logging Gaps](development/2026-01-28_00-25-00_api-error-logging-gaps_06bc84f9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-28_00-25-00_api-error-logging-gaps.md) | ⭐ 112 | `development` |
+| [2026 01 28 01 15 00 File Autocomplete Fuzzy Matching](development/2026-01-28_01-15-00_file-autocomplete-fuzzy-matching_4d852316/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-28_01-15-00_file-autocomplete-fuzzy-matching.md) | ⭐ 112 | `development` |
+| [2026 01 28 11 33 05 Utils Cross Layer Imports](development/2026-01-28_11-33-05_utils-cross-layer-imports_3fc0439c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-28_11-33-05_utils-cross-layer-imports.md) | ⭐ 112 | `development` |
+| [2026 02 01 19 43 34 Prompt Engineer Remnants](development/2026-02-01_19-43-34_prompt-engineer-remnants_d5f4364e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-01_19-43-34_prompt-engineer-remnants.md) | ⭐ 112 | `development` |
+| [2026 02 01 Complexity Hotspots](development/2026-02-01_complexity-hotspots_1b7d44a6/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-01_complexity-hotspots.md) | ⭐ 112 | `development` |
+| [2026 02 02 12 56 40 Esc Key Flow](development/2026-02-02_12-56-40_esc-key-flow_a822b2d2/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-02_12-56-40_esc-key-flow.md) | ⭐ 112 | `development` |
+| [2026 02 02 20 47 34 Agent Bottlenecks](development/2026-02-02_20-47-34_agent_bottlenecks_ac027c57/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-02_20-47-34_agent_bottlenecks.md) | ⭐ 112 | `development` |
+| [2026 02 02 Sanitize Loop Canonicalization Bottleneck](development/2026-02-02_sanitize_loop_canonicalization_bottleneck_60c282ab/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-02_sanitize_loop_canonicalization_bottleneck.md) | ⭐ 112 | `development` |
+| [Bottleneck Analysis](development/bottleneck-analysis_3d722154/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/bottleneck-analysis.md) | ⭐ 112 | `development` |
+| [2026 02 01 Glob Text Match Research](development/2026-02-01-glob-text-match-research_3c0f8445/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/metadata/research/2026-02-01-glob-text-match-research.md) | ⭐ 112 | `development` |
+| [Architecture](development/architecture_37005839/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/architecture/architecture.md) | ⭐ 112 | `development` |
+| [Compaction Ontology](development/compaction-ontology_3fa52597/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/architecture/compaction-ontology.md) | ⭐ 112 | `development` |
+| [Configuration](development/configuration_0458e934/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/configuration.md) | ⭐ 112 | `development` |
+| [Constants](development/constants_7730ebd8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/constants.md) | ⭐ 112 | `development` |
+| [Core Compaction](development/core-compaction_76ab60bd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-compaction.md) | ⭐ 112 | `development` |
+| [Core Sanitize](development/core-sanitize_e138fd34/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-sanitize.md) | ⭐ 112 | `development` |
+| [Core System Paths](development/core-system-paths_3289b147/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-system-paths.md) | ⭐ 112 | `development` |
+| [Lsp](development/lsp_29382149/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/lsp.md) | ⭐ 112 | `development` |
+| [Ui Overview](development/ui-overview_3939d9b7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/ui-overview.md) | ⭐ 112 | `development` |
+| [Utils Limits](development/utils-limits_2e798909/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/utils-limits.md) | ⭐ 112 | `development` |
+| [00 Root Overview](development/00-root-overview_ad983781/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/00-root-overview.md) | ⭐ 112 | `development` |
+| [02 Core Directory](development/02-core-directory_3b15c9d0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/02-core-directory.md) | ⭐ 112 | `development` |
+| [03 Tools Directory](development/03-tools-directory_3f902c2c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/03-tools-directory.md) | ⭐ 112 | `development` |
+| [System Prompt](development/system_prompt_318b41d8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/src/tunacode/prompts/system_prompt.md) | ⭐ 112 | `development` |
+| [Quickstart](development/760-quickstart_f05add62/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart.md) | ⭐ 160 | `development` |
+| [Index](development/468-index_0c60dfc8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/index.md) | ⭐ 160 | `development` |
+| [Tun D28A](development/tun-d28a_5acd5230/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-d28a.md) | ⭐ 112 | `style` `validation` `advanced` |
+| [Task 04 Canonical Sanitization](development/task_04_canonical_sanitization_54ae00f8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_04_canonical_sanitization.md) | ⭐ 112 | `development` |
+| [Task 05 Tool Call Registry Ownership](development/task_05_tool_call_registry_ownership_d8b8d3cf/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_05_tool_call_registry_ownership.md) | ⭐ 112 | `development` |
+| [Task 09 Architecture Enforcement Tests](development/task_09_architecture_enforcement_tests_75821b50/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_09_architecture_enforcement_tests.md) | ⭐ 112 | `development` |
+| [Task 10 Legacy Path Decommission](development/task_10_legacy_path_decommission_ffb55b72/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/task/task_10_legacy_path_decommission.md) | ⭐ 112 | `development` |
+| [Layout](development/layout_32de9440/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/ui/layout.md) | ⭐ 112 | `development` |
+| [Core Configuration](development/core-configuration_b33b9271/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-configuration.md) | ⭐ 112 | `development` |
+| [Core Constants](development/core-constants_cb91f8db/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-constants.md) | ⭐ 112 | `development` |
+| [Core File Filter](development/core-file-filter_3ded85d4/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-file-filter.md) | ⭐ 112 | `development` |
+| [Core Formatting](development/core-formatting_95d57959/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-formatting.md) | ⭐ 112 | `development` |
+| [Core Logging](development/core-logging_95688bc8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-logging.md) | ⭐ 112 | `development` |
+| [Core Lsp Status](development/core-lsp-status_77942411/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-lsp-status.md) | ⭐ 112 | `development` |
+| [Core Messaging](development/core-messaging_ddb2425a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-messaging.md) | ⭐ 112 | `development` |
+| [Core Prompting](development/core-prompting_0a84dff0/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-prompting.md) | ⭐ 112 | `development` |
+| [Core Types](development/core-types_5d1a329b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-types.md) | ⭐ 112 | `development` |
+| [Core User Configuration](development/core-user-configuration_e0b1d5b5/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-user-configuration.md) | ⭐ 112 | `development` |
 
-### Development/Devops (110 skills)
+### Development/Devops (109 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4726,9 +4889,8 @@ Read more about the new architecture [here` |
 | [Reference Set Ext 12 Cicd Security](development/devops/076-reference-set-ext-12-cicd-security_b48dfec4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 133 | `development` |
 | [Reference Set Ext 12 Npm Security](development/devops/077-reference-set-ext-12-npm-security_a9a31878/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 133 | `development` |
 | [Reference Set Ext 12 Supply Chain Security](development/devops/078-reference-set-ext-12-supply-chain-security_20eb3497/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 133 | `development` |
-| [Build Scout](development/devops/build-scout_7cdff6a1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/build-scout.md) | ⭐ 491 | `development` |
 
-### Development/Testing (17 skills)
+### Development/Testing (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4748,9 +4910,13 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/013-threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 | [Skill](development/testing/013-threat-skill_fff042e8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
-| [Testing Scout](development/testing/testing-scout_82ef07bc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/testing-scout.md) | ⭐ 491 | `development` |
+| [2026 01 21 Stream Hang Timeout](development/testing/2026-01-21_stream-hang-timeout_8c4bc78d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-01-21_stream-hang-timeout.md) | ⭐ 112 | `development` |
+| [2026 01 27 18 00 00 Insert Before Stream Fix](development/testing/2026-01-27_18-00-00_insert-before-stream-fix_2805f998/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/execute/2026-01-27_18-00-00_insert-before-stream-fix.md) | ⭐ 112 | `development` |
+| [05 Cli Directory](development/testing/05-cli-directory_be5ab6fe/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/05-cli-directory.md) | ⭐ 112 | `development` |
+| [Tun C89A](development/testing/tun-c89a_dd04dcaa/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.tickets/tun-c89a.md) | ⭐ 112 | `testing` `advanced` |
+| [Shell Runner](development/testing/shell_runner_4aa77cca/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/ui/shell_runner.md) | ⭐ 112 | `development` |
 
-### Development/Tools (83 skills)
+### Development/Tools (99 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4772,7 +4938,7 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_dc522969/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-mcporter/SKILL.md) | ⭐ 15 | `development` |
 | [Skill](development/tools/002-name-skill_02df8ae5/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/SKILL.md) | ⭐ 15 | `development` |
 | [Cli Guidelines](development/tools/016-cli-guidelines_93e6d7af/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-create-cli/references/cli-guidelines.md) | ⭐ 15 | `development` |
-| [Claude](development/tools/claude_574dc7fd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/CLAUDE.md) | ⭐ 491 | `development` |
+| [Claude](development/tools/017-claude_05585432/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/CLAUDE.md) | ⭐ 490 | `development` |
 | [Fn 17 Wti](development/tools/018-fn-17-wti_22c2a778/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-17-wti.md) | ⭐ 490 | `development` |
 | [Fn 3](development/tools/019-fn-3_b3ef31fa/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-3.md) | ⭐ 490 | `development` |
 | [Fn 9](development/tools/020-fn-9_00d43c02/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-9.md) | ⭐ 490 | `development` |
@@ -4781,12 +4947,12 @@ Read more about the new architecture [here` |
 | [Fn 17 Wti.5](development/tools/023-fn-17-wti5_88277acc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.5.md) | ⭐ 490 | `development` |
 | [Fn 17 Wti.6](development/tools/024-fn-17-wti6_72f08ff0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.6.md) | ⭐ 490 | `development` |
 | [Fn 9.15](development/tools/025-fn-915_14c3cb9f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.15.md) | ⭐ 490 | `development` |
-| [Docs Gap Scout](development/tools/docs-gap-scout_bbfe5b3b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-gap-scout.md) | ⭐ 491 | `development` |
-| [Security Scout](development/tools/security-scout_8e05418a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/security-scout.md) | ⭐ 491 | `development` |
-| [Tooling Scout](development/tools/tooling-scout_bc300949/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 491 | `development` |
+| [Docs Gap Scout](development/tools/026-docs-gap-scout_8afccc18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-gap-scout.md) | ⭐ 490 | `development` |
+| [Security Scout](development/tools/027-security-scout_9ee62bd7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/security-scout.md) | ⭐ 490 | `development` |
+| [Tooling Scout](development/tools/028-tooling-scout_064d000d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 490 | `development` |
 | [Worker](development/tools/029-worker_8c5ccf48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/worker.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_9e8a53f7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 491 | `development` |
-| [Workflow](development/tools/workflow_058cd28e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 491 | `development` |
+| [Skill](development/tools/002-name-skill_78cd41fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 490 | `development` |
+| [Workflow](development/tools/030-workflow_30cfd097/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 490 | `development` |
 | [Skill](development/tools/002-name-skill_ffb90911/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/SKILL.md) | ⭐ 490 | `development` |
 | [Workflow](development/tools/030-workflow_b234b1d1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/workflow.md) | ⭐ 490 | `development` |
 | [Skill](development/tools/002-name-skill_2e09fadf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/SKILL.md) | ⭐ 490 | `development` |
@@ -4836,7 +5002,23 @@ Read more about the new architecture [here` |
 | [Tooling Scout](development/tools/028-tooling-scout_bc300949/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 491 | `development` |
 | [Skill](development/tools/002-name-skill_9e8a53f7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 491 | `development` |
 | [Workflow](development/tools/030-workflow_058cd28e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 491 | `development` |
-| [Observability Scout](development/tools/observability-scout_1b569060/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/observability-scout.md) | ⭐ 491 | `development` |
+| [Journal](development/tools/journal_82358c80/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/JOURNAL.md) | ⭐ 112 | `development` |
+| [Lsp Diagnostics](development/tools/lsp-diagnostics_d41b49a4/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/lsp-diagnostics.md) | ⭐ 112 | `development` |
+| [2026 02 02 Cli Main Compatibility](development/tools/2026-02-02-cli-main-compatibility_9278552b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-cli-main-compatibility.md) | ⭐ 112 | `development` |
+| [2026 02 02 Sanitize Canonical Cache](development/tools/2026-02-02-sanitize-canonical-cache_7ac05060/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-02-sanitize-canonical-cache.md) | ⭐ 112 | `development` |
+| [2026 01 27 00 19 58 Issue 311 Core Types Layer](development/tools/2026-01-27_00-19-58_issue-311-core-types-layer_d09ca0f5/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-01-27_00-19-58_issue-311-core-types-layer.md) | ⭐ 112 | `plan` `architecture` `types` |
+| [2026 02 02 16 46 20 Pydantic Usage Token Counting](development/tools/2026-02-02_16-46-20_pydantic-usage-token-counting_1a56cb00/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-02_16-46-20_pydantic-usage-token-counting.md) | ⭐ 112 | `plan` `tokens` `usage` |
+| [Index](development/tools/index_4d89266f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/INDEX.md) | ⭐ 112 | `development` |
+| [Core Agents](development/tools/core-agents_4e8afd92/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-agents.md) | ⭐ 112 | `development` |
+| [Tools Overview](development/tools/tools-overview_b52daa99/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/tools-overview.md) | ⭐ 112 | `development` |
+| [State](development/tools/state_d827257b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/state/state.md) | ⭐ 112 | `development` |
+| [01 Ui Directory](development/tools/01-ui-directory_af3309fc/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/01-ui-directory.md) | ⭐ 112 | `development` |
+| [04 Configuration Directory](development/tools/04-configuration-directory_990487d5/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/04-configuration-directory.md) | ⭐ 112 | `development` |
+| [06 Supporting Modules](development/tools/06-supporting-modules_33138115/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/structure/06-supporting-modules.md) | ⭐ 112 | `development` |
+| [Dependency Layers](development/tools/dependency_layers_20352ca8/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/architecture/dependencies/DEPENDENCY_LAYERS.md) | ⭐ 112 | `development` |
+| [Layer Dependency Tests](development/tools/layer_dependency_tests_8e975430/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/architecture/dependencies/layer_dependency_tests.md) | ⭐ 112 | `development` |
+| [00 Overview](development/tools/00-overview_0a6de00f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/00-overview.md) | ⭐ 112 | `development` |
+| [Utils](development/tools/utils_9beea45e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/utils.md) | ⭐ 112 | `development` |
 
 ### Investment (37 skills)
 
