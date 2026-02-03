@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4788 AI-powered skills** organized into 16 categories.
+A curated collection of **5021 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (23 skills)
-- **Automation/Workflow** (29 skills)
-- **Commercial** (349 skills)
-- **Communication** (186 skills)
-- **Content Creation** (121 skills)
-- **Daily Assistant** (148 skills)
-- **Data Analysis** (388 skills)
-- **Development** (2459 skills)
+- **Automation/Scripting** (41 skills)
+- **Automation/Workflow** (42 skills)
+- **Commercial** (364 skills)
+- **Communication** (187 skills)
+- **Content Creation** (153 skills)
+- **Daily Assistant** (147 skills)
+- **Data Analysis** (413 skills)
+- **Development** (2580 skills)
 - **Development/Devops** (98 skills)
 - **Development/Testing** (15 skills)
-- **Development/Tools** (59 skills)
+- **Development/Tools** (68 skills)
 - **Investment** (37 skills)
 - **Other** (43 skills)
 - **Productivity** (173 skills)
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (23 skills)
+### Automation/Scripting (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -501,8 +501,26 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_99266d26/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/task-orchestrator/SKILL.md) | ⭐ 163 | `automation` |
 | [Agent Guide](automation/scripting/021-agent-guide_00619144/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/auto-updater/references/agent-guide.md) | ⭐ 163 | `automation` |
 | [Index](automation/scripting/022-index_ec22f6c2/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/streaming/index.md) | ⭐ 160 | `automation` |
+| [Sleeptime](automation/scripting/023-sleeptime_bcb0c8c4/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/sleeptime.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_a2ee0bb8/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/linear/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_9a2313c5/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/count-dataset-tokens/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_b8d249f4/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/large-scale-text-editing/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_6de50b44/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/llm-inference-batching-scheduler/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_87c9cd98/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/nginx-request-logging/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_3ec8dbb3/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/financial-document-processor/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_332f9260/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/large-scale-text-editing/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_d385e5bf/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/llm-inference-batching-scheduler/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_f95ddf47/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/mteb-retrieve/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_63355f3f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/overfull-hbox/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/scripting/003-name-skill_c6c72f47/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/pytorch-model-recovery/SKILL.md) | ⭐ 44 | `automation` |
+| [Vim Editing Guide](automation/scripting/024-vim_editing_guide_155c85cc/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/large-scale-text-editing/references/vim_editing_guide.md) | ⭐ 44 | `automation` |
+| [Execution Complete Ticket](automation/scripting/025-execution-complete-ticket_8e1cdf78/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/execution-complete-ticket.md) | ⭐ 235 | `automation` |
+| [Retrospective Phase](automation/scripting/026-retrospective-phase_18c4d86d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/retrospective-phase.md) | ⭐ 235 | `automation` |
+| [Skill](automation/scripting/003-name-skill_ec33184e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fine-tuning-expert/SKILL.md) | ⭐ 235 | `automation` |
+| [Skill](automation/scripting/003-name-skill_725a0722/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/graphql-architect/SKILL.md) | ⭐ 235 | `automation` |
+| [Cost](automation/scripting/027-cost_bafaaa1e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cloud-architect/references/cost.md) | ⭐ 235 | `automation` |
 
-### Automation/Workflow (29 skills)
+### Automation/Workflow (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -534,9 +552,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/workflow/020-multi-agent-patterns_349c3d38/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/multi-agent-patterns.md) | ⭐ 160 | `automation` |
 | [Index](automation/workflow/021-index_cbcc7e3f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/index.md) | ⭐ 160 | `automation` |
 | [Interactions Evaluator](automation/workflow/022-interactions_evaluator_8818a70e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/interactions_evaluator.md) | ⭐ 160 | `automation` |
-| [Lamdba Layers Sop](automation/workflow/lamdba_layers_sop_2256ec7f/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/.github/workflows/LAMDBA_LAYERS_SOP.md) | 🔥 5.0k | `automation` |
+| [Lamdba Layers Sop](automation/workflow/023-lamdba_layers_sop_2256ec7f/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/.github/workflows/LAMDBA_LAYERS_SOP.md) | 🔥 5.0k | `automation` |
+| [Tool Rules](automation/workflow/024-tool-rules_db07eccf/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/tool-rules.md) | ⭐ 44 | `automation` |
+| [Skill](automation/workflow/002-name-skill_f54f3252/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/compile-compcert/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/workflow/002-name-skill_6618f66b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/configure-git-webserver/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/workflow/002-name-skill_689a8002/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/git-multibranch/SKILL.md) | ⭐ 44 | `automation` |
+| [Skill](automation/workflow/002-name-skill_907fe334/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/tune-mjcf/SKILL.md) | ⭐ 44 | `automation` |
+| [Secret Patterns](automation/workflow/025-secret_patterns_d16fd451/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/sanitize-git-repo/references/secret_patterns.md) | ⭐ 44 | `automation` |
+| [Audit Skill Consistency](automation/workflow/026-audit-skill-consistency_af37218f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/ideas/audit-skill-consistency.md) | ⭐ 235 | `automation` |
+| [Audit Workflow Docs](automation/workflow/027-audit-workflow-docs_221e9451/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/ideas/audit-workflow-docs.md) | ⭐ 235 | `automation` |
+| [Skill](automation/workflow/002-name-skill_17ddce95/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/SKILL.md) | ⭐ 235 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ed188120/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/ml-pipeline/SKILL.md) | ⭐ 235 | `automation` |
+| [Skill](automation/workflow/002-name-skill_22ecfdc3/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/security-reviewer/SKILL.md) | ⭐ 235 | `automation` |
+| [Skill](automation/workflow/002-name-skill_86595b8b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/SKILL.md) | ⭐ 235 | `automation` |
+| [Skill](automation/workflow/002-name-skill_35d2debb/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/terraform-engineer/SKILL.md) | ⭐ 235 | `automation` |
 
-### Commercial (349 skills)
+### Commercial (364 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -889,8 +920,23 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Session Management](commercial/236-session-management_c88b5c28/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/session-management.md) | ⭐ 160 | `commercial` |
 | [Agents As Tools](commercial/237-agents-as-tools_5fc7bbdc/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/agents-as-tools.md) | ⭐ 160 | `commercial` |
 | [User Simulation](commercial/238-user_simulation_a8695296/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/simulators/user_simulation.md) | ⭐ 160 | `commercial` |
+| [Agent Files](commercial/239-agent-files_19041c61/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/agent-files.md) | ⭐ 44 | `commercial` |
+| [Custom Tools](commercial/240-custom-tools_05b9cdf8/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/custom-tools.md) | ⭐ 44 | `commercial` |
+| [Multi User](commercial/241-multi-user_2dd88364/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/multi-user.md) | ⭐ 44 | ``user:${userId}`` |
+| [Size Management](commercial/242-size-management_8217da62/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/agent-development/references/size-management.md) | ⭐ 44 | `commercial` |
+| [Skill](commercial/210-name-skill_354c4150/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/fix-git/SKILL.md) | ⭐ 44 | `commercial` |
+| [Skill](commercial/210-name-skill_a034e09a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/git-leak-recovery/SKILL.md) | ⭐ 44 | `commercial` |
+| [Skill](commercial/210-name-skill_637319d1/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/nginx-request-logging/SKILL.md) | ⭐ 44 | `commercial` |
+| [Git Recovery Guide](commercial/243-git_recovery_guide_2da889cc/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/fix-git/references/git_recovery_guide.md) | ⭐ 44 | `commercial` |
+| [Verification Commands](commercial/244-verification_commands_ea44044c/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/git-leak-recovery/references/verification_commands.md) | ⭐ 44 | `commercial` |
+| [Forensic Tools](commercial/245-forensic_tools_b1f0f31c/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/password-recovery/references/forensic_tools.md) | ⭐ 44 | `commercial` |
+| [Roadmap](commercial/174-roadmap_f2c79a96/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 235 | `commercial` |
+| [Local Skill Development](commercial/246-local_skill_development_75f3cc8c/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/local_skill_development.md) | ⭐ 235 | `commercial` |
+| [Discovery Create](commercial/247-discovery-create_a9934998/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/discovery-create.md) | ⭐ 235 | `commercial` |
+| [Skill](commercial/210-name-skill_5ec3b297/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/SKILL.md) | ⭐ 235 | `commercial` |
+| [Skill](commercial/210-name-skill_a861a621/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/shopify-expert/SKILL.md) | ⭐ 235 | `commercial` |
 
-### Communication (186 skills)
+### Communication (187 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1080,8 +1126,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pii Redaction](communication/133-pii-redaction_c0700d6f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/safety-security/pii-redaction.md) | ⭐ 160 | `communication` |
 | [Quickstart](communication/134-quickstart_925f7c3e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/quickstart.md) | ⭐ 160 | `communication` |
 | [Helpfulness Evaluator](communication/135-helpfulness_evaluator_20922343/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/helpfulness_evaluator.md) | ⭐ 160 | `communication` |
+| [Skill](communication/127-name-skill_feb38eb0/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/SKILL.md) | ⭐ 44 | `communication` |
 
-### Content Creation (121 skills)
+### Content Creation (153 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1206,8 +1253,40 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Graph](content-creation/078-graph_ac7a5a0a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 160 | `content creation` |
 | [Workflow](content-creation/079-workflow_db0dc887/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/workflow.md) | ⭐ 160 | `content creation` |
 | [Stability Ai Tool](content-creation/080-stability_ai_tool_26bef3fe/) | [strands-agents/tools](https://raw.githubusercontent.com/strands-agents/tools/main/docs/stability_ai_tool.md) | ⭐ 925 | `content creation` |
+| [Memory Architecture](content-creation/081-memory-architecture_7b2cb7eb/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/memory-architecture.md) | ⭐ 44 | `content creation` |
+| [Concurrency](content-creation/082-concurrency_b20ddd62/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/agent-development/references/concurrency.md) | ⭐ 44 | `content creation` |
+| [Pr Workflow](content-creation/083-pr-workflow_c6049698/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-learning/references/pr-workflow.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_333a6c7b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/cobol-modernization/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_5221af6e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/fix-git/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_c8c0460d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/git-leak-recovery/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_7c628b2c/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/modernize-scientific-stack/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_8ada3d89/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/mteb-leaderboard/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_2d6f96e4/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/overfull-hbox/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_24953af2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/path-tracing/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_e416d1ab/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/prove-plus-comm/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_e474128b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/train-fasttext/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_a555746c/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/video-processing/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_e4ffc8d4/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/count-dataset-tokens/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_f845717a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/distribution-search/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_8dedbe1b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/dna-insert/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_aabdae94/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/extract-moves-from-video/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_35d2aabf/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/git-multibranch/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_371d4ea2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/gpt2-codegolf/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_aebf86e2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/hf-model-inference/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_7d5e7d75/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/path-tracing/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_c50e1307/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/query-optimize/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_898563f0/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/rstan-to-pystan/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_33574151/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/sparql-university/SKILL.md) | ⭐ 44 | `content creation` |
+| [Skill](content-creation/049-name-skill_8e4abcb3/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/tune-mjcf/SKILL.md) | ⭐ 44 | `content creation` |
+| [Chess Image Analysis](content-creation/084-chess_image_analysis_6950af47/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/chess-best-move/references/chess_image_analysis.md) | ⭐ 44 | `content creation` |
+| [Cobol Data Types](content-creation/085-cobol_data_types_e76e0e0f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/cobol-modernization/references/cobol_data_types.md) | ⭐ 44 | `content creation` |
+| [Wal Format](content-creation/086-wal_format_cc16c616/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/db-wal-recovery/references/wal_format.md) | ⭐ 44 | `content creation` |
+| [Ocr Video Processing](content-creation/087-ocr_video_processing_78cb6b79/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/extract-moves-from-video/references/ocr_video_processing.md) | ⭐ 44 | `content creation` |
+| [Xss Vectors](content-creation/088-xss_vectors_5cdac381/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/filter-js-from-html/references/xss_vectors.md) | ⭐ 44 | `content creation` |
+| [Hierarchical Structure Patterns](content-creation/089-hierarchical_structure_patterns_dfd06074/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/reshard-c4-data/references/hierarchical_structure_patterns.md) | ⭐ 44 | `content creation` |
+| [Discovery Approve](content-creation/090-discovery-approve_2254ad9b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/discovery-approve.md) | ⭐ 235 | `content creation` |
 
-### Daily Assistant (148 skills)
+### Daily Assistant (147 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1358,9 +1437,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_559a2776/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
 | [P8 Report Generation](daily-assistant/088-p8-report-generation_aa2eb4e2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_58a29a19/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/mcp/instructions.md) | ⭐ 311 | `daily assistant` |
-| [Hooks](daily-assistant/hooks_7346a9c2/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/HOOKS.md) | 🔥 5.0k | `daily assistant` |
 
-### Data Analysis (388 skills)
+### Data Analysis (413 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1752,8 +1830,33 @@ This repository contains automatically aggregated skills from various open-sourc
 | [I/O Channels [Experimental]](data-analysis/119-io_22341a29/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/io.md) | ⭐ 160 | `data analysis` |
 | [Steering](data-analysis/257-steering_2ff7e06a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/experimental/steering.md) | ⭐ 160 | `data analysis` |
 | [Experiment Management](data-analysis/258-experiment_management_d718a816/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/how-to/experiment_management.md) | ⭐ 160 | `data analysis` |
+| [Skills](data-analysis/259-searchable-skill_f3d75da5/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/SKILLS.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_dfbf66de/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/extracting-pdf-text/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Api Services](data-analysis/260-api-services_bbc76bc5/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/extracting-pdf-text/references/api-services.md) | ⭐ 44 | `data analysis` |
+| [Local Tools](data-analysis/261-local-tools_35383463/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/extracting-pdf-text/references/local-tools.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bc6f715d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/financial-document-processor/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_2b4928fa/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/mteb-retrieve/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d695a2ca/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/pytorch-model-cli/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_efc64b21/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/pytorch-model-recovery/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9bc6f6f4/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/query-optimize/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b96fd882/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/raman-fitting/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f1c7d224/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/filter-js-from-html/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_965a4c18/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/log-summary-date-ranges/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_fcb78411/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/multi-source-data-merger/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b1d4bc54/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/raman-fitting/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c57ca59f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/video-processing/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Ocr Best Practices](data-analysis/262-ocr_best_practices_ada796a2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/code-from-image/references/ocr_best_practices.md) | ⭐ 44 | `data analysis` |
+| [Data Merge Patterns](data-analysis/263-data_merge_patterns_686c542e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/multi-source-data-merger/references/data_merge_patterns.md) | ⭐ 44 | `data analysis` |
+| [Latex Typography](data-analysis/264-latex_typography_46c89dfd/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/overfull-hbox/references/latex_typography.md) | ⭐ 44 | `data analysis` |
+| [Float Extraction](data-analysis/265-float_extraction_27b026ef/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/path-tracing-reverse/references/float_extraction.md) | ⭐ 44 | `data analysis` |
+| [Process Management](data-analysis/266-process_management_2a183406/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/qemu-startup/references/process_management.md) | ⭐ 44 | `data analysis` |
+| [Raman Fitting Guide](data-analysis/267-raman_fitting_guide_14bc1052/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/raman-fitting/references/raman_fitting_guide.md) | ⭐ 44 | `data analysis` |
+| [Common Ground](data-analysis/268-common_ground_e11610ff/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/COMMON_GROUND.md) | ⭐ 235 | `data analysis` |
+| [Workflow Commands](data-analysis/269-workflow_commands_6e18d348/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/WORKFLOW_COMMANDS.md) | ⭐ 235 | `data analysis` |
+| [V050 Roadmap Consolidation.Spec](data-analysis/270-v050-roadmap-consolidationspec_5af15c01/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/specs/v050-roadmap-consolidation.spec.md) | ⭐ 235 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ec0f09e9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/pandas-pro/SKILL.md) | ⭐ 235 | `data analysis` |
 
-### Development (2459 skills)
+### Development (2580 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4071,7 +4174,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Consistency Rules](development/1180-consistency-rules_b401e77c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/consistency-rules.md) | ⭐ 27 | `development` |
 | [Terminology Standards](development/1181-terminology-standards_60510cfe/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/terminology-standards.md) | ⭐ 27 | `development` |
 | [Security Patterns](development/1182-security_patterns_9077d7c0/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/references/security_patterns.md) | ⭐ 27 | `development` |
-| [Catalog](development/126-catalog_9af5f746/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.6k | `development` |
+| [Catalog](development/catalog_79c7fd6a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.8k | `development` |
 | [Webapp Skill Analysis](development/1183-webapp-skill-analysis_81e73cb2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/webapp-skill-analysis.md) | ⭐ 171 | `development` |
 | [Pdf Viewer](development/1184-pdf-viewer_10e61761/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/pdf-viewer.md) | ⭐ 171 | `development` |
 | [Skill System](development/1185-skill-system_58039e90/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skill-system.md) | ⭐ 171 | `development` |
@@ -4213,9 +4316,130 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gemini Live](development/1364-gemini_live_aba57867/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/gemini_live.md) | ⭐ 160 | `development` |
 | [Mongodb Memory Tool](development/1365-mongodb_memory_tool_310781e0/) | [strands-agents/tools](https://raw.githubusercontent.com/strands-agents/tools/main/docs/mongodb_memory_tool.md) | ⭐ 925 | `development` |
 | [Agents](development/028-agents_e64df6d8/) | [langchain-ai/langchain](https://raw.githubusercontent.com/langchain-ai/langchain/master/AGENTS.md) | 🔥 125.8k | `development` |
-| [Agents](development/agents_78ffa164/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.0k | `development` |
-| [Pull Request Description Guidelines](development/pr_60788cb2/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/PR.md) | 🔥 5.0k | `development` |
-| [Style Guide](development/style_guide_13435178/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md) | 🔥 5.0k | `development` |
+| [Agents](development/028-agents_78ffa164/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.0k | `development` |
+| [Pull Request Description Guidelines](development/701-pr_60788cb2/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/PR.md) | 🔥 5.0k | `development` |
+| [Style Guide](development/1377-style_guide_13435178/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md) | 🔥 5.0k | `development` |
+| [Client Injection](development/1379-client-injection_e2d87047/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/client-injection.md) | ⭐ 44 | `development` |
+| [Streaming](development/1380-streaming_1dc15444/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/app-development/streaming.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_e0f0ab71/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-learning/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_a5a168c9/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/development/tools/github-cli/SKILL.md) | ⭐ 44 | `development` |
+| [Memory Patterns](development/1381-memory-patterns_7f1a4ba0/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/agent-development/references/memory-patterns.md) | ⭐ 44 | `development` |
+| [Tool Patterns](development/1382-tool-patterns_fe45517c/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/agent-development/references/tool-patterns.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_67d7523a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/bn-fit-modify/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_8b815324/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/build-cython-ext/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_5cf58d0c/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/build-pmars/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_0195b76b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/cancel-async-tasks/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_e3480704/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/circuit-fibsqrt/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_dac44adc/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/custom-memory-heap-crash/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_11432077/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/distribution-search/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_6bc3f7aa/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/filter-js-from-html/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_d980a00f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/fix-ocaml-gc/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_34f64f11/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/gpt2-codegolf/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_080eb229/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/hf-model-inference/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_fa53ac7e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/make-doom-for-mips/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_232d89cd/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/merge-diff-arc-agi-task/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_01d43223/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/model-extraction-relu-logits/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_3c0ff5bd/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/path-tracing-reverse/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_d29f7170/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/polyglot-rust-c/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_bc2615c4/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/regex-chess/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_097d9329/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/sam-cell-seg/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_d7cb395f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/schemelike-metacircular-eval/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_980d1d4a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/sparql-university/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_29c48220/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/winning-avg-corewars/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_62075fad/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/build-pmars/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_495c878d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/cancel-async-tasks/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_857d4266/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/cobol-modernization/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_aa54f9a7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/code-from-image/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_8b0e94ee/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/fix-code-vulnerability/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_8eebb0f5/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/fix-ocaml-gc/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_bd196056/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/headless-terminal/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_09efc5b1/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/mailman/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_4f189ce5/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/make-mips-interpreter/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_b237d269/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/mcmc-sampling-stan/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_4fd6a25b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/merge-diff-arc-agi-task/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_282e5d0e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/model-extraction-relu-logits/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_2e4141a5/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/path-tracing-reverse/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_fff66950/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/polyglot-c-py/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_6c31e7a7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/polyglot-rust-c/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_e02ddf16/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/regex-chess/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_19edc7e1/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/reshard-c4-data/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_711147f0/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/schemelike-metacircular-eval/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_749a6461/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/sqlite-with-gcov/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/1178-name-skill_4e53af2f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/write-compressor/SKILL.md) | ⭐ 44 | `development` |
+| [Debugging Guide](development/1383-debugging_guide_4d0924a9/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/circuit-fibsqrt/references/debugging_guide.md) | ⭐ 44 | `development` |
+| [Verification Guide](development/1384-verification_guide_a39aa0c7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/filter-js-from-html/references/verification_guide.md) | ⭐ 44 | `development` |
+| [Qemu Legacy Os](development/1385-qemu_legacy_os_0c1456fb/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/install-windows-3.11/references/qemu_legacy_os.md) | ⭐ 44 | `development` |
+| [Cross Compilation Checklist](development/1386-cross-compilation-checklist_e7edbb77/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/make-doom-for-mips/references/cross-compilation-checklist.md) | ⭐ 44 | `development` |
+| [Stan Diagnostics](development/1387-stan_diagnostics_9868f808/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/mcmc-sampling-stan/references/stan_diagnostics.md) | ⭐ 44 | `development` |
+| [Relu Extraction Theory](development/1388-relu_extraction_theory_c4ba2be9/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/model-extraction-relu-logits/references/relu_extraction_theory.md) | ⭐ 44 | `development` |
+| [Nginx Configuration](development/1389-nginx_configuration_2f2f611d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/nginx-request-logging/references/nginx_configuration.md) | ⭐ 44 | `development` |
+| [Polyglot Patterns](development/1390-polyglot_patterns_ec922d5e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/polyglot-c-py/references/polyglot_patterns.md) | ⭐ 44 | `development` |
+| [Polyglot Patterns](development/1390-polyglot_patterns_5ea67419/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/polyglot-rust-c/references/polyglot_patterns.md) | ⭐ 44 | `development` |
+| [Model Architecture Patterns](development/1391-model_architecture_patterns_ff0bea0f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/pytorch-model-recovery/references/model_architecture_patterns.md) | ⭐ 44 | `development` |
+| [Compile To Constraints](development/1392-compile_to_constraints_5acb828e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/regex-chess/references/compile_to_constraints.md) | ⭐ 44 | `development` |
+| [Debugging Guide](development/1383-debugging_guide_32e3feed/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/schemelike-metacircular-eval/references/debugging_guide.md) | ⭐ 44 | `development` |
+| [Incremental Implementation](development/1393-incremental_implementation_0897e0a6/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/schemelike-metacircular-eval/references/incremental_implementation.md) | ⭐ 44 | `development` |
+| [Binary Analysis Guide](development/1394-binary_analysis_guide_21642dc7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/vulnerable-secret/references/binary_analysis_guide.md) | ⭐ 44 | `development` |
+| [Arithmetic Coding Analysis](development/1395-arithmetic_coding_analysis_1f8d268b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/write-compressor/references/arithmetic_coding_analysis.md) | ⭐ 44 | `development` |
+| [Claude](development/140-claude_fc48a463/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/CLAUDE.md) | ⭐ 235 | `development` |
+| [Quickstart](development/760-quickstart_50e756a8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md) | ⭐ 235 | `development` |
+| [Skills Guide](development/994-skills_guide_e3ea5e8e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/SKILLS_GUIDE.md) | ⭐ 235 | `development` |
+| [Supported Agents](development/1396-supported_agents_03117728/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/SUPPORTED_AGENTS.md) | ⭐ 235 | `development` |
+| [V0.5.0 Narrative](development/1397-v050-narrative_9a8550f2/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/v0.5.0-narrative.md) | ⭐ 235 | `development` |
+| [V0.5.0 Plan](development/1398-v050-plan_772b9c3e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/v0.5.0-plan.md) | ⭐ 235 | `development` |
+| [Audit Primary Docs](development/1399-audit-primary-docs_260af68e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/ideas/audit-primary-docs.md) | ⭐ 235 | `development` |
+| [Documentation Site](development/1400-documentation-site_4ac8101e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/ideas/documentation-site.md) | ⭐ 235 | `development` |
+| [Tarot](development/1401-tarot_ee09dff8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/skill-ideas/tarot.md) | ⭐ 235 | `development` |
+| [Execution Execute Ticket](development/1402-execution-execute-ticket_89111d7f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/execution-execute-ticket.md) | ⭐ 235 | `development` |
+| [Execution Phase](development/1403-execution-phase_4ecfbc72/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/execution-phase.md) | ⭐ 235 | `development` |
+| [Intake Capture Behavior](development/1404-intake-capture-behavior_817ce72d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/intake-capture-behavior.md) | ⭐ 235 | `development` |
+| [Intake Create System Description](development/1405-intake-create-system-description_b3e7e8c9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/intake-create-system-description.md) | ⭐ 235 | `development` |
+| [Intake Phase](development/1406-intake-phase_940f042e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/intake-phase.md) | ⭐ 235 | `development` |
+| [Planning Epic Plan](development/1407-planning-epic-plan_f833f71f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/planning-epic-plan.md) | ⭐ 235 | `development` |
+| [Planning Impl Plan](development/1408-planning-impl-plan_c7aacc47/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/planning-impl-plan.md) | ⭐ 235 | `development` |
+| [Planning Phase](development/1409-planning-phase_a08d28a6/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/planning-phase.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_34ebee91/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/angular-architect/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_4e381465/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/api-designer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_035c8618/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/architecture-designer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_be84f93a/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/atlassian-mcp/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_715e6ae8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cli-developer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_a39c3e8e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/code-documenter/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_52bc2b3b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/code-reviewer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_1a9181ef/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cpp-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_ce9c58fc/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_42201002/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/debugging-wizard/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_16c65b63/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/dotnet-core-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_f7c3d9a6/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/embedded-systems/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_9081341e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/flutter-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_74a01600/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/game-developer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_de11ad4e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/golang-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_5721e2dc/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/java-architect/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_579cffe2/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/javascript-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_e351d9ba/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kotlin-specialist/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_15f37567/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_bcf4f257/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/legacy-modernizer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_1f4a202d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/mcp-developer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_230d0141/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/monitoring-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_6009adc8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/php-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_4725e9bc/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/prompt-engineer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_1c966b68/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/python-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_455fe3e2/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rag-architect/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_e4901c71/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rails-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_b3cd6ede/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_bd764ff8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-native-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_d8559d19/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rust-engineer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_c293337b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/salesforce-developer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_30babb24/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/secure-code-guardian/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_645d01e8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_c1cc2e8a/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spec-miner/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_cef67b5f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spring-boot-engineer/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_7016e6ac/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sql-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_a162a310/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/swift-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_1f90052f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/typescript-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_2d50d570/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert-js/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_1e6b2a4b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/SKILL.md) | ⭐ 235 | `development` |
+| [Skill](development/1178-name-skill_161e8ea7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/wordpress-pro/SKILL.md) | ⭐ 235 | `development` |
+| [Catalog](development/126-catalog_79c7fd6a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.8k | `development` |
 
 ### Development/Devops (98 skills)
 
@@ -4383,7 +4607,7 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/013-threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 
-### Development/Tools (59 skills)
+### Development/Tools (68 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4445,7 +4669,16 @@ Read more about the new architecture [here` |
 | [Trajectory Evaluator](development/tools/044-trajectory_evaluator_57ac3af7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/trajectory_evaluator.md) | ⭐ 160 | `development` |
 | [Nova Sonic](development/tools/045-nova_sonic_6a60ec2e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/nova_sonic.md) | ⭐ 160 | `development` |
 | [Openai Realtime](development/tools/046-openai_realtime_f4bffb27/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/openai_realtime.md) | ⭐ 160 | `development` |
-| [Mcp Client Architecture](development/tools/mcp_client_architecture_67caabbb/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/MCP_CLIENT_ARCHITECTURE.md) | 🔥 5.0k | `development` |
+| [Mcp Client Architecture](development/tools/047-mcp_client_architecture_67caabbb/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/MCP_CLIENT_ARCHITECTURE.md) | 🔥 5.0k | `development` |
+| [Skill](development/tools/002-name-skill_1f47b385/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/conversations/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/002-name-skill_70ddf0ae/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/model-configuration/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/002-name-skill_89c67d60/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/imessage/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/002-name-skill_02c84258/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/yelp-search/SKILL.md) | ⭐ 44 | `development` |
+| [Recognizing Learnings](development/tools/048-recognizing-learnings_19745db3/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-learning/references/recognizing-learnings.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/002-name-skill_46b9b2a8/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/crack-7z-hash/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/002-name-skill_b649021a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/qemu-startup/SKILL.md) | ⭐ 44 | `development` |
+| [Workflow Definition Schema](development/tools/049-workflow-definition-schema_7edbfcf9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/workflow-definition-schema.md) | ⭐ 235 | `development` |
+| [Claude](development/tools/claude_a34e4a78/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 8.8k | `development` |
 
 ### Investment (37 skills)
 

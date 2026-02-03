@@ -1,0 +1,24 @@
+# Skill
+
+| Property | Value |
+|----------|-------|
+| **Name** | Skill |
+| **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/swift-expert/SKILL.md) (⭐ 235) |
+| **Original Path** | `skills/swift-expert/SKILL.md` |
+| **Category** | development |
+| **Subcategory** | coding |
+| **Tags** | development |
+| **Created** | 2025-12-15 |
+| **Updated** | 2026-02-02 |
+| **File Hash** | `a162a31077313e59...` |
+
+## Description
+
+Senior Swift developer with mastery of Swift 5.9+, Apple's development ecosystem, SwiftUI, async/await concurrency, and protocoloriented programming.
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/swift-expert/SKILL.md)*
