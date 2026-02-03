@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **286 AI-powered skills** organized into 11 categories.
+A curated collection of **331 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,22 +8,22 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation** (23 skills)
-- **Commercial** (48 skills)
+- **Automation** (30 skills)
+- **Commercial** (49 skills)
 - **Communication** (17 skills)
-- **Content Creation** (3 skills)
+- **Content Creation** (7 skills)
 - **Daily Assistant** (4 skills)
-- **Data Analysis** (27 skills)
-- **Development** (134 skills)
+- **Data Analysis** (29 skills)
+- **Development** (141 skills)
 - **Investment** (1 skill)
-- **Other** (18 skills)
+- **Other** (42 skills)
 - **Productivity** (7 skills)
 - **Research** (4 skills)
 
 ## Skills Directory
 
 
-### Automation (23 skills)
+### Automation (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -50,8 +50,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Resources](automation/02-resources_c4a86f34/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 440 | `content creation` |
 | [Retrieval Mechanism](automation/06-retrieval_857bd995/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-retrieval.md) | ⭐ 440 | `automation` |
 | [Embedding Configuration](automation/embedding_5ca2e2f6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/embedding.md) | ⭐ 440 | `automation` |
+| [image-assistant](automation/skill_9eb9fdb3/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/SKILL.md) | ⭐ 80 | `automation` |
+| [lesson-builder](automation/skill_fbb38d0e/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/lesson-builder/skill.md) | ⭐ 80 | `automation` |
+| [project-map-builder](automation/skill_d3097b0e/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/project-map-builder/SKILL.md) | ⭐ 80 | `automation` |
+| [version-planner](automation/skill_edcfbc55/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/version-planner/SKILL.md) | ⭐ 80 | `automation` |
+| [阶段4：提示词封装（Prompt Pack：可执行生成包）](automation/04-prompts_e139d00c/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/04-prompts.md) | ⭐ 80 | `automation` |
+| [16:9 五格漫画模板（小故事讲差异）](automation/16x9-5panel-comic_ffe16784/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-5panel-comic.md) | ⭐ 80 | `automation` |
+| [Yunshu Skillshub](automation/api-config_5a46d2cd/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/api-config.md) | ⭐ 80 | `automation` |
 
-### Commercial (48 skills)
+### Commercial (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -103,6 +110,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [upgrade-stripe](commercial/stripe-upgrade_1f3280b1/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-upgrade.md) | ⭐ 1.5k | `commercial` |
 | [Architecture Overview](commercial/01-architecture_65de7150/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 440 | `commercial` |
 | [Openviking](commercial/log_format_1796ccc9/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/log_format.md) | ⭐ 440 | `content creation` |
+| [Yunshu Skillshub](commercial/example-us01_c6d5aac5/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/example-us01.md) | ⭐ 80 | `commercial` |
 
 ### Communication (17 skills)
 
@@ -126,13 +134,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agent API Intro](communication/agent_api_abad4d20/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/agent_api.md) | 🔥 6.5k | `communication` |
 | [OpenAI Compatible API](communication/openai_compatible_b07ae156/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/openai_compatible.md) | 🔥 6.5k | `communication` |
 
-### Content Creation (3 skills)
+### Content Creation (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Input data](content-creation/index_d0c8fc8b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/index.md) | ⭐ 12 | `data analysis` |
 | [1. First check `contributor_organization_name`](content-creation/schedules_1775c612/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/SCHEDULES.md) | ⭐ 22 | `daily assistant` |
 | [Openviking](content-creation/index_cce5ab1e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/index.md) | ⭐ 440 | `content creation` |
+| [thought-mining](content-creation/skill_929dc0e9/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/SKILL.md) | ⭐ 80 | `content creation` |
+| [writing-assistant](content-creation/skill_3036e002/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/SKILL.md) | ⭐ 80 | `content creation` |
+| [第二阶段：选题确定](content-creation/02-topic_993510c5/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/02-topic.md) | ⭐ 80 | `content creation` |
+| [第三阶段：观点验证](content-creation/03-validation_35c7deab/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/03-validation.md) | ⭐ 80 | `content creation` |
 
 ### Daily Assistant (4 skills)
 
@@ -143,7 +155,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Context Optimization](daily-assistant/context-optimization_61c3a7eb/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/context-optimization.md) | ⭐ 1.5k | `daily assistant` |
 | [Multi-Agent Patterns](daily-assistant/multi-agent-patterns_2b4106a5/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/multi-agent-patterns.md) | ⭐ 1.5k | `daily assistant` |
 
-### Data Analysis (27 skills)
+### Data Analysis (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -174,8 +186,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Input Data Structures for Charts](data-analysis/charts_f918116f/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/charts.md) | ⭐ 12 | `data analysis` |
 | [Input Data Structures](data-analysis/structure_19c926e7/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/structure.md) | ⭐ 12 | `data analysis` |
 | [Agent's Memory Cleanup](data-analysis/clean_memory_c5ff808f/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/how_to/clean_memory.md) | 🔥 6.5k | `data analysis` |
+| [Yunshu Skillshub](data-analysis/apimart-requests-jsonl_dedc3594/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/apimart-requests-jsonl.md) | ⭐ 80 | `content creation` |
+| [Yunshu Skillshub](data-analysis/ui-wireframe-examples_0dbf4bbc/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/ui-wireframe-examples.md) | ⭐ 80 | `data analysis` |
 
-### Development (134 skills)
+### Development (141 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -313,6 +327,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Coinbase Developer Platform](development/cdp_6ac10aff/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/skills/cdp.md) | 🔥 6.5k | `development` |
 | [Goat SDK Integration](development/goat_008ff77c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/skills/goat.md) | 🔥 6.5k | `development` |
 | [X](development/x_d3e0d9ad/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/skills/x.md) | 🔥 6.5k | `development` |
+| [使用示例 / Usage Examples](development/examples_75149d46/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/EXAMPLES.md) | ⭐ 80 | `content creation` |
+| [prd-doc-writer](development/skill_cd4685f3/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/SKILL.md) | ⭐ 80 | `development` |
+| [req-change-workflow](development/skill_a36a7cbe/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/req-change-workflow/SKILL.md) | ⭐ 80 | `development` |
+| [产品需求文档：[项目/功能名称] - V[版本号]](development/prd-template_089510cf/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/assets/prd-template.md) | ⭐ 80 | `development` |
+| [Mermaid 图示例（需求侧）](development/mermaid-examples_57022fa5/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/mermaid-examples.md) | ⭐ 80 | `development` |
+| [Regression Checklist (Chrome Extension / promptV2.0)](development/regression-checklist_592434be/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/req-change-workflow/references/regression-checklist.md) | ⭐ 80 | `development` |
+| [案例：Claude Skills 文章写作过程](development/claude-skills-case_b79a0cdf/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/examples/claude-skills-case.md) | ⭐ 80 | `development` |
 
 ### Investment (1 skills)
 
@@ -320,7 +341,7 @@ This repository contains automatically aggregated skills from various open-sourc
 |-------|--------|------------|------|
 | [Design Resources & Tools](investment/design-resources_f8d48c7f/) | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/design-resources.md) | ⭐ 1.5k | `investment` |
 
-### Other (18 skills)
+### Other (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -342,6 +363,30 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Next Gen Ui Agent](other/rhds_21b015ea/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/rhds.md) | ⭐ 12 | `other` |
 | [架构概述](other/01-architecture_0b6f9832/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 440 | `data analysis` |
 | [Intentkit](other/copilot-instructions_9aeed0da/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/.github/copilot-instructions.md) | 🔥 6.5k | `other` |
+| [示例：AI 工具选择文章配图（16:9）](other/ai-tools-selection_9d5428b2/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/examples/ai-tools-selection.md) | ⭐ 80 | `other` |
+| [阶段1：需求澄清](other/01-brief_8e07641a/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/01-brief.md) | ⭐ 80 | `other` |
+| [阶段2：配图规划（要几张图？每张讲什么？）](other/02-plan_e1d8179c/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/02-plan.md) | ⭐ 80 | `other` |
+| [阶段3：文案定稿（Copy Spec：唯一真值）](other/03-copy_ba59e321/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/03-copy.md) | ⭐ 80 | `other` |
+| [阶段5：迭代润色（让图更好看）](other/05-iterate_b9f76726/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/05-iterate.md) | ⭐ 80 | `daily assistant` |
+| [16:9 三卡洞察模板（趣味少字版）](other/16x9-3cards-insights_75cbd01a/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-3cards-insights.md) | ⭐ 80 | `other` |
+| [16:9 两卡对比模板（少字好读）](other/16x9-contrast-2cards_10cd1ae3/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-contrast-2cards.md) | ⭐ 80 | `other` |
+| [16:9 封面路线图模板（目录/课程结构）](other/16x9-cover-roadmap_9b39f674/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-cover-roadmap.md) | ⭐ 80 | `other` |
+| [16:9 通用信息图模板（骨架）](other/16x9-infographic_d6e6f279/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-infographic.md) | ⭐ 80 | `other` |
+| [出图提示词回归检查（交付前 30 秒过一遍）](other/checklist_3fcdadad/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/checklist.md) | ⭐ 80 | `other` |
+| [通用风格块（风格基准：必须以此为唯一基础）](other/style-block_3987ee35/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/style-block.md) | ⭐ 80 | `other` |
+| [PRD 总集（示例）](other/prd-registry-demo_3a9aff19/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/prd-doc-writer/references/prd-registry-demo.md) | ⭐ 80 | `other` |
+| [Change Brief (需求变更简报模板)](other/change-brief-template_f18816b0/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/req-change-workflow/references/change-brief-template.md) | ⭐ 80 | `other` |
+| [Decision Log (轻量决策记录模板)](other/decision-log-template_81510352/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/req-change-workflow/references/decision-log-template.md) | ⭐ 80 | `other` |
+| [第一阶段：思维挖掘](other/01-mining_2730e28c/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/01-mining.md) | ⭐ 80 | `other` |
+| [第四阶段：写作辅助](other/04-writing_df3f827d/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/04-writing.md) | ⭐ 80 | `other` |
+| [第五阶段：最终审核](other/05-review_f6a2316b/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/05-review.md) | ⭐ 80 | `other` |
+| [{主题} 洞察记录](other/insights-template_37a05948/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/templates/insights-template.md) | ⭐ 80 | `other` |
+| [{主题} 写作记录](other/writing-record-template_adc9e598/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/templates/writing-record-template.md) | ⭐ 80 | `other` |
+| [阶段00：诊断](other/00-diagnosis_e6872c1d/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/00-diagnosis.md) | ⭐ 80 | `other` |
+| [阶段01：思维挖掘](other/01-mining_9c2ea528/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/01-mining.md) | ⭐ 80 | `other` |
+| [阶段02：选题确定](other/02-topic_155d5271/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/02-topic.md) | ⭐ 80 | `other` |
+| [阶段03：框架讨论](other/03-framework_5f0dd05e/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/03-framework.md) | ⭐ 80 | `other` |
+| [阶段04：内容产出](other/04-writing_6b30064d/) | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/04-writing.md) | ⭐ 80 | `other` |
 
 ### Productivity (7 skills)
 
