@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1524 AI-powered skills** organized into 11 categories.
+A curated collection of **1547 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -11,10 +11,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (200 skills)
 - **Commercial** (86 skills)
 - **Communication** (87 skills)
-- **Content Creation** (25 skills)
+- **Content Creation** (26 skills)
 - **Daily Assistant** (35 skills)
 - **Data Analysis** (55 skills)
-- **Development** (894 skills)
+- **Development** (916 skills)
 - **Investment** (14 skills)
 - **Other** (24 skills)
 - **Productivity** (55 skills)
@@ -411,7 +411,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [anomaly-detection](communication/skill_a543a2b0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/anomaly-detection/SKILL.md) | ⭐ 58 | `communication` |
 | [apex](communication/skill_e0e6aa44/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/apex/SKILL.md) | ⭐ 58 | `content creation` |
 
-### Content Creation (25 skills)
+### Content Creation (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -440,6 +440,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [ai-tool-creation](content-creation/skill_9bfe38f1/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-tool-creation/SKILL.md) | ⭐ 58 | `content creation` |
 | [aio-geo-optimizer](content-creation/skill_3e8bd3ef/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/aio-geo-optimizer/SKILL.md) | ⭐ 58 | `content creation` |
 | [angular-routing](content-creation/skill_8b98d530/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/angular-routing/SKILL.md) | ⭐ 58 | `data analysis` |
+| [Advisor](content-creation/advisor_87d35c92/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/advisor.md) | ⭐ 61 | `content creation` |
 
 ### Daily Assistant (35 skills)
 
@@ -554,7 +555,7 @@ Add concise rules in SKILL.md describing when to open Epic` `Feature` `UserStory
 | [alphafold-database](data-analysis/skill_9c9f9820/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alphafold-database/SKILL.md) | ⭐ 58 | `data analysis` |
 | [analysis](data-analysis/skill_0ed12efd/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis/SKILL.md) | ⭐ 58 | `data analysis` |
 
-### Development (894 skills)
+### Development (916 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1460,6 +1461,28 @@ links:
 | [diff-analysis](development/skill_944c5360/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis-methods/diff-analysis/SKILL.md) | ⭐ 58 | `changes` `semantic-analysis` `risk-assessment` |
 | [agent-ops-docker-review](development/skill_497318e2/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis/agent-ops-docker-review/SKILL.md) | ⭐ 58 | `data analysis` |
 | [agent-ops-reality-audit](development/skill_07518b70/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis/agent-ops-reality-audit-majiayu000-claude-skill-regist/SKILL.md) | ⭐ 58 | `development` |
+| [maven-to-gradle](development/skill_919c30d2/) | [adityamparikh/maven-to-gradle](https://raw.githubusercontent.com/adityamparikh/maven-to-gradle/main/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Dual-Build: Maven + Gradle Side by Side](development/dual-build_222c1017/) | [adityamparikh/maven-to-gradle](https://raw.githubusercontent.com/adityamparikh/maven-to-gradle/main/references/dual-build.md) | ⭐ 10 | `development` |
+| [Migration Gotchas & Common Pitfalls](development/gotchas_66e17050/) | [adityamparikh/maven-to-gradle](https://raw.githubusercontent.com/adityamparikh/maven-to-gradle/main/references/gotchas.md) | ⭐ 10 | `development` |
+| [Multi-Module Migration Patterns](development/multi-module_b2df1027/) | [adityamparikh/maven-to-gradle](https://raw.githubusercontent.com/adityamparikh/maven-to-gradle/main/references/multi-module.md) | ⭐ 10 | `daily assistant` |
+| [Maven Plugin → Gradle Mappings](development/plugin-mappings_16f316f8/) | [adityamparikh/maven-to-gradle](https://raw.githubusercontent.com/adityamparikh/maven-to-gradle/main/references/plugin-mappings.md) | ⭐ 10 | `development` |
+| [Maven Profiles → Gradle Equivalents](development/profiles_27b204f9/) | [adityamparikh/maven-to-gradle](https://raw.githubusercontent.com/adityamparikh/maven-to-gradle/main/references/profiles.md) | ⭐ 10 | `daily assistant` |
+| [oh-my-claude](development/claude_ca42be35/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 61 | `development` |
+| [Agents](development/claude_b90e4fc9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 61 | `content creation` |
+| [Critic](development/critic_16d88c63/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 61 | `development` |
+| [Librarian](development/librarian_b1b4898d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 61 | `development` |
+| [Validator](development/validator_4e005d7d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 61 | `development` |
+| [Worker](development/worker_2d020372/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/worker.md) | ⭐ 61 | `content creation` |
+| [/prime - Context Priming for Fresh Sessions](development/prime_dc29822f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/commands/prime.md) | ⭐ 61 | `data analysis` |
+| [Hooks](development/claude_a7982489/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/hooks/CLAUDE.md) | ⭐ 61 | `development` |
+| [](development/claude_f32703df/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/tests/oh-my-claude/hooks/CLAUDE.md) | ⭐ 61 | `development` |
+| [Debugger Skill](development/skill_fd8214e1/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/debugger/SKILL.md) | ⭐ 61 | `development` |
+| [git-commit-validator](development/skill_f0845841/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/git-commit-validator/SKILL.md) | ⭐ 61 | `development` |
+| [init-deep](development/skill_66548cb4/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/init-deep/SKILL.md) | ⭐ 61 | `development` |
+| [pr-creation](development/skill_521952e3/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/pr-creation/SKILL.md) | ⭐ 61 | `development` |
+| [ralph-loop-init](development/skill_571041e8/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/ralph-loop-init/SKILL.md) | ⭐ 61 | `development` |
+| [ralph-plan](development/skill_f7b53c81/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/ralph-plan/SKILL.md) | ⭐ 61 | `development` |
+| [worktree](development/skill_291ee1b5/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/worktree/SKILL.md) | ⭐ 61 | `development` |
 
 ### Investment (14 skills)
 
