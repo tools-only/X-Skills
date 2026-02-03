@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T13:01:39.921874",
+  "updated_at": "2026-02-03T13:04:00.891941",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -59431,6 +59431,104 @@
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md",
       "display_name": "Rbac",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5c82f620537185ebc895092c1e96c5620b811935f19b82bdb19dabf137f982ac",
+      "source_path": "Agents.md",
+      "source_repo": "EmbeddedLLM/JamAIBase",
+      "local_path": "development/028-agents_5c82f620",
+      "category": "development",
+      "name": "agents_5c82f620",
+      "indexed_at": "2026-02-03T13:03:59.796080",
+      "repo_stars": 1079,
+      "repo_updated_at": "2025-11-24T16:59:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/Agents.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1958577b7c88e84bde1bba23514bf410fb18345bca631fd4e9523bc0fdd88eea",
+      "source_path": "MIGRATION_GUIDE.md",
+      "source_repo": "EmbeddedLLM/JamAIBase",
+      "local_path": "development/devops/011-migration_guide_1958577b",
+      "category": "development/devops",
+      "name": "migration_guide_1958577b",
+      "indexed_at": "2026-02-03T13:04:00.015269",
+      "repo_stars": 1079,
+      "repo_updated_at": "2025-11-21T00:44:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/MIGRATION_GUIDE.md",
+      "display_name": "Migration Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a13ded21f0e2e7a2f981c1195df0f8ea4e8eedcdb517d95767e9baef5e1479e1",
+      "source_path": "docs/migration_v1_to_v2.md",
+      "source_repo": "EmbeddedLLM/JamAIBase",
+      "local_path": "development/devops/012-migration_v1_to_v2_a13ded21",
+      "category": "development/devops",
+      "name": "migration_v1_to_v2_a13ded21",
+      "indexed_at": "2026-02-03T13:04:00.191070",
+      "repo_stars": 1079,
+      "repo_updated_at": "2025-11-14T15:25:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/migration_v1_to_v2.md",
+      "display_name": "Migration V1 To V2",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8b713058f67e59a3ad542f72a3ff1d37d1f50c457a314bf936fe0c4865fac383",
+      "source_path": "docs/pgaudit_guide.md",
+      "source_repo": "EmbeddedLLM/JamAIBase",
+      "local_path": "development/devops/013-pgaudit_guide_8b713058",
+      "category": "development/devops",
+      "name": "pgaudit_guide_8b713058",
+      "indexed_at": "2026-02-03T13:04:00.365384",
+      "repo_stars": 1079,
+      "repo_updated_at": "2026-02-03T08:02:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/pgaudit_guide.md",
+      "display_name": "Pgaudit Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "cd81ae77fb2e083035161f1759a29f591c9b314d9b6b294e2c469b751c3499ff",
+      "source_path": "VERSIONING.md",
+      "source_repo": "EmbeddedLLM/JamAIBase",
+      "local_path": "development/tools/013-versioning_cd81ae77",
+      "category": "development/tools",
+      "name": "versioning_cd81ae77",
+      "indexed_at": "2026-02-03T13:04:00.541442",
+      "repo_stars": 1079,
+      "repo_updated_at": "2024-06-02T16:52:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/VERSIONING.md",
+      "display_name": "Versioning",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b41af46a7591648a42e77ff215b1af1ebcc4cf1b468bc4f8476c271567753fec",
+      "source_path": "docs/alert_guide.md",
+      "source_repo": "EmbeddedLLM/JamAIBase",
+      "local_path": "development/tools/014-alert_guide_b41af46a",
+      "category": "development/tools",
+      "name": "alert_guide_b41af46a",
+      "indexed_at": "2026-02-03T13:04:00.719859",
+      "repo_stars": 1079,
+      "repo_updated_at": "2025-11-14T04:56:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/alert_guide.md",
+      "display_name": "Alert Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2cf72d426450989e6b50821d5791c7c13df138bcd4f5ff59e28ca4478353fc85",
+      "source_path": "src/services/skills/pdf-processing/SKILL.md",
+      "source_repo": "TW-NLP/DeepAgentForce",
+      "local_path": "automation/scripting/003-name-skill_2cf72d42",
+      "category": "automation/scripting",
+      "name": "name-skill_2cf72d42",
+      "indexed_at": "2026-02-03T13:04:00.891906",
+      "repo_stars": 14,
+      "repo_updated_at": "2026-02-03T02:23:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
