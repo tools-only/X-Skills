@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T16:39:43.660374",
+  "updated_at": "2026-02-03T16:44:31.413217",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -65339,6 +65339,104 @@
       "source_url": "https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md",
       "display_name": "Kimi Agents Explained",
       "tags": "[\"productivity\"]"
+    },
+    {
+      "file_hash": "4435668fb3521e3ef71db54ef2c9cb87fd52c67bd95e48518932caab7f22887e",
+      "source_path": "skills/alphaear-signal-tracker/references/PROMPTS.md",
+      "source_repo": "RKiding/Awesome-finance-skills",
+      "local_path": "data-analysis/250-prompts_4435668f",
+      "category": "data-analysis",
+      "name": "prompts_4435668f",
+      "indexed_at": "2026-02-03T16:44:29.373639",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-03T14:57:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/references/PROMPTS.md",
+      "display_name": "Prompts",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "692716ecabc30205ab5f53b3bf53891b50493628686363ba53c94628b73ff3e7",
+      "source_path": "skills/alphaear-news/SKILL.md",
+      "source_repo": "RKiding/Awesome-finance-skills",
+      "local_path": "investment/021-name-skill_692716ec",
+      "category": "investment",
+      "name": "name-skill_692716ec",
+      "indexed_at": "2026-02-03T16:44:29.830065",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-03T14:57:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "81147eefc1e47d560de2b35a5127f75052cee5270792db918dc24991c2178924",
+      "source_path": "skills/alphaear-sentiment/SKILL.md",
+      "source_repo": "RKiding/Awesome-finance-skills",
+      "local_path": "investment/021-name-skill_81147eef",
+      "category": "investment",
+      "name": "name-skill_81147eef",
+      "indexed_at": "2026-02-03T16:44:30.338262",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-03T14:57:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-sentiment/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "f049b077fd8e2efa515edb40e9ae50cf9807964800699f4d98a69e952f2b4561",
+      "source_path": "skills/alphaear-signal-tracker/SKILL.md",
+      "source_repo": "RKiding/Awesome-finance-skills",
+      "local_path": "investment/021-name-skill_f049b077",
+      "category": "investment",
+      "name": "name-skill_f049b077",
+      "indexed_at": "2026-02-03T16:44:30.733990",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-03T14:57:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "3381ae19dace584da120d4ea491524fd140f8d9ad37ef1df1a083b244ab268d1",
+      "source_path": "skills/alphaear-news/references/sources.md",
+      "source_repo": "RKiding/Awesome-finance-skills",
+      "local_path": "investment/015-sources_3381ae19",
+      "category": "investment",
+      "name": "sources_3381ae19",
+      "indexed_at": "2026-02-03T16:44:30.952834",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-03T14:57:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md",
+      "display_name": "Sources",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "d47aa9802350aca8529929ef7b57f03e76c97a83b333a40280a441293abf26c9",
+      "source_path": "skills/youtube-publish/SKILL.md",
+      "source_repo": "antoniolg/agent-kit",
+      "local_path": "content-creation/049-name-skill_d47aa980",
+      "category": "content-creation",
+      "name": "name-skill_d47aa980",
+      "indexed_at": "2026-02-03T16:44:31.170032",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-03T14:45:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "4afbad1d930d98a0610f09bbf810f8a49de7b3187a7050d7974c3b600ae83c90",
+      "source_path": "skills/skill-creator/SKILL.md",
+      "source_repo": "RKiding/Awesome-finance-skills",
+      "local_path": "development/1178-name-skill_4afbad1d",
+      "category": "development",
+      "name": "name-skill_4afbad1d",
+      "indexed_at": "2026-02-03T16:44:31.413143",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-31T06:09:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/skill-creator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
