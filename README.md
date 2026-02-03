@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4276 AI-powered skills** organized into 16 categories.
+A curated collection of **4290 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (9 skills)
-- **Automation/Workflow** (8 skills)
-- **Commercial** (318 skills)
-- **Communication** (163 skills)
-- **Content Creation** (99 skills)
-- **Daily Assistant** (65 skills)
-- **Data Analysis** (364 skills)
+- **Automation/Scripting** (7 skills)
+- **Automation/Workflow** (9 skills)
+- **Commercial** (319 skills)
+- **Communication** (173 skills)
+- **Content Creation** (96 skills)
+- **Daily Assistant** (67 skills)
+- **Data Analysis** (363 skills)
 - **Development** (2334 skills)
-- **Development/Devops** (12 skills)
+- **Development/Devops** (13 skills)
 - **Development/Testing** (2 skills)
-- **Development/Tools** (16 skills)
+- **Development/Tools** (22 skills)
 - **Investment** (31 skills)
-- **Other** (44 skills)
+- **Other** (43 skills)
 - **Productivity** (153 skills)
 - **Research** (217 skills)
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (9 skills)
+### Automation/Scripting (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -483,12 +483,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Main](automation/scripting/004-main_26fd5988/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/radix-ui-components/main.md) | ⭐ 27 | `automation` |
 | [Mshtools Browser Scroll Up](automation/scripting/005-mshtools-browser_scroll_up_ea9bd4c7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_up.md) | ⭐ 171 | `automation` |
 | [Mshtools Todo Write](automation/scripting/006-mshtools-todo_write_6f37caf2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_write.md) | ⭐ 171 | `automation` |
-| [Skill](automation/scripting/name-skill_2cf72d42/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 14 | `automation` |
-| [02 🚀 Feature Request](automation/scripting/02-feature-request_e31711cf/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/.github/ISSUE_TEMPLATE/02-🚀-feature-request.md) | ⭐ 1.1k | `automation` |
-| [Skill](automation/scripting/name-skill_e0c30392/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 14 | `automation` |
-| [Available Assets](automation/scripting/available_assets_f0589582/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/references/AVAILABLE_ASSETS.md) | ⭐ 157 | `automation` |
+| [Skill](automation/scripting/003-name-skill_2cf72d42/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 14 | `automation` |
+| [Sheet Schema](automation/scripting/sheet-schema_29c9641f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/devexpert-testimonials/references/sheet-schema.md) | ⭐ 15 | `automation` |
 
-### Automation/Workflow (8 skills)
+### Automation/Workflow (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -499,9 +497,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_3c8f8b22/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/SKILL.md) | ⭐ 27 | `automation` |
 | [Xlsx Skill Analysis](automation/workflow/003-xlsx-skill-analysis_99a207da/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-sheets/xlsx-skill-analysis.md) | ⭐ 171 | `automation` |
 | [Webapp Skill Analysis](automation/workflow/004-webapp-skill-analysis_e4d409e1/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/webapp/webapp-skill-analysis.md) | ⭐ 171 | `automation` |
-| [Core](automation/workflow/core_baf21cfd/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/core.md) | ⭐ 157 | `automation` |
+| [Skill](automation/workflow/name-skill_d1af996f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-agent-browser/SKILL.md) | ⭐ 15 | `automation` |
+| [Skill](automation/workflow/name-skill_2ca87fde/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/grok-research/SKILL.md) | ⭐ 15 | `automation` |
 
-### Commercial (318 skills)
+### Commercial (319 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -823,8 +822,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_ebc0c8be/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/ui-freeze/SKILL.md) | ⭐ 27 | `commercial` |
 | [Web Search](commercial/214-web_search_55dd9d56/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/web_search.md) | ⭐ 171 | `commercial` |
 | [Mshtools Browser Click](commercial/215-mshtools-browser_click_9cdc2ac0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_click.md) | ⭐ 171 | `commercial` |
+| [Troubleshooting](commercial/troubleshooting_bfc2a3f0/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/worktree-helper/references/troubleshooting.md) | ⭐ 15 | `commercial` |
 
-### Communication (163 skills)
+### Communication (173 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -990,9 +990,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Board Governance Investor Relations](communication/020-size_fe407f1f/) | [Unknown](#) | N/A | `daily assistant` |
 | [Mshtools Browser Find](communication/125-mshtools-browser_find_55de2e0c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_find.md) | ⭐ 171 | `communication` |
 | [Mshtools Browser Input](communication/126-mshtools-browser_input_d8cb8ec4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_input.md) | ⭐ 171 | `communication` |
-| [Chat](communication/chat_96958d80/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/services/api/Chat.md) | ⭐ 1.1k | `communication` |
+| [Skill](communication/name-skill_e141287a/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/google-chat/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_9f6e9d65/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/holded-invoices/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_f53da66e/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_928c4b4d/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_a40ef0cd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/whatsapp-evo/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_a51ff76e/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-nano-banana-pro/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_23ac8762/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/academy-enrollments/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_af2372cd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/email/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_d84bd2cb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slack/SKILL.md) | ⭐ 15 | `communication` |
+| [Setup](communication/setup_ed468d60/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/google-chat/references/setup.md) | ⭐ 15 | `communication` |
+| [Api Reference](communication/api_reference_4f23b159/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/grok-research/references/api_reference.md) | ⭐ 15 | `communication` |
 
-### Content Creation (99 skills)
+### Content Creation (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1087,16 +1097,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mshtools Browser Scroll Down](content-creation/057-mshtools-browser_scroll_down_3b4d231d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_down.md) | ⭐ 171 | `content creation` |
 | [Mshtools Screenshot Web Full Page](content-creation/058-mshtools-screenshot_web_full_page_74b74a15/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-screenshot_web_full_page.md) | ⭐ 171 | `content creation` |
 | [Mshtools Write File](content-creation/059-mshtools-write_file_2649fa2c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-write_file.md) | ⭐ 171 | `content creation` |
-| [Image](content-creation/image_ab3fe5e3/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/services/app/src/lib/components/tables/(sub)/guides/image.md) | ⭐ 1.1k | `content creation` |
-| [Skill](content-creation/name-skill_d90a3bb8/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/SKILL.md) | ⭐ 157 | `content creation` |
-| [Cli](content-creation/cli_e9042774/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/cli.md) | ⭐ 157 | `content creation` |
-| [Effects](content-creation/effects_507fb43a/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/effects.md) | ⭐ 157 | `content creation` |
-| [Generative](content-creation/generative_8a6dba09/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/generative.md) | ⭐ 157 | `content creation` |
-| [Keyframes](content-creation/keyframes_e7ea81a9/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/keyframes.md) | ⭐ 157 | `content creation` |
-| [Media](content-creation/media_08d0ea18/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/media.md) | ⭐ 157 | `content creation` |
-| [Setup](content-creation/setup_bea6b7ec/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/setup.md) | ⭐ 157 | `content creation` |
+| [Skill](content-creation/name-skill_8460821f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 15 | `content creation` |
+| [Workflows](content-creation/workflows_ba49e91f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/references/workflows.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_ac137904/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/devexpert-testimonials/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_f5bee901/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_2de47fc7/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/short-publish/SKILL.md) | ⭐ 15 | `content creation` |
 
-### Daily Assistant (65 skills)
+### Daily Assistant (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1165,8 +1172,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prd](daily-assistant/034-prd_5a55645d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/prd.md) | ⭐ 27 | `daily assistant` |
 | [State Analysis](daily-assistant/035-state-analysis_a88fc229/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/state-analysis.md) | ⭐ 27 | `daily assistant` |
 | [Mshtools Todo Read](daily-assistant/036-mshtools-todo_read_2a710993/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_read.md) | ⭐ 171 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_7ba01f84/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 15 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_41cd828d/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/justdoit/SKILL.md) | ⭐ 15 | `daily assistant` |
 
-### Data Analysis (364 skills)
+### Data Analysis (363 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1530,10 +1539,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Process](data-analysis/238-process_7ca32cc7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/process.md) | ⭐ 171 | `data analysis` |
 | [Configurable System Prompts Dfb3B45A.Plan](data-analysis/239-configurable_system_prompts_dfb3b45aplan_6cf6cd45/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/configurable_system_prompts_dfb3b45a.plan.md) | ⭐ 12 | `data analysis` |
 | [Configuration](data-analysis/046-configuration_6c751820/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md) | ⭐ 12 | `data analysis` |
-| [Python](data-analysis/python_bcab1128/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/services/app/src/lib/components/tables/(sub)/guides/python.md) | ⭐ 1.1k | `data analysis` |
-| [Movie Commentary](data-analysis/movie_commentary_84cfd233/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/prompts/movie_commentary.md) | ⭐ 157 | `data analysis` |
-| [Audio Voice](data-analysis/audio-voice_7edad103/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/audio-voice.md) | ⭐ 157 | `data analysis` |
-| [Web Vfx](data-analysis/web-vfx_7cec82fd/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/web-vfx.md) | ⭐ 157 | `data analysis` |
+| [Skill](data-analysis/name-skill_ec6f1d42/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-create-cli/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/name-skill_94c893d9/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/remotion-best-practices/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Output Patterns](data-analysis/output-patterns_6fa1f3dd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/references/output-patterns.md) | ⭐ 15 | `data analysis` |
 
 ### Development (2334 skills)
 
@@ -3869,12 +3877,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api](development/045-api_2eb7a607/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/api.md) | ⭐ 3.2k | `development` |
 | [Audit Db Transaction Management](development/1202-audit-db-transaction-management_504ffdd3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/audit-db-transaction-management.md) | ⭐ 3.2k | `development` |
 | [Multitenancy](development/1203-multitenancy_5e4b2475/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/multitenancy.md) | ⭐ 3.2k | `development` |
-| [Agents](development/agents_5c82f620/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/Agents.md) | ⭐ 1.1k | `development` |
-| [01 🐛 Bug Report](development/01-bug-report_27924e4a/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/.github/ISSUE_TEMPLATE/01-🐛-bug-report.md) | ⭐ 1.1k | `development` |
-| [Creative Story](development/creative-story_efd7bc61/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/services/api/tests/files/md/creative-story.md) | ⭐ 1.1k | `development` |
-| [Readme To Tutorial](development/readme_to_tutorial_d2274f45/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/prompts/readme_to_tutorial.md) | ⭐ 157 | `development` |
+| [Agents](development/028-agents_5c82f620/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/Agents.md) | ⭐ 1.1k | `development` |
+| [Skill](development/name-skill_54b44dc9/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/find-skills/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/name-skill_33ef9164/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/.system/skill-creator/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/name-skill_ea0be3fd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/.system/skill-installer/SKILL.md) | ⭐ 15 | `development` |
 
-### Development/Devops (12 skills)
+### Development/Devops (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3887,9 +3895,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mshtools Deploy Website](development/devops/008-mshtools-deploy_website_8ab26e7b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-deploy_website.md) | ⭐ 171 | `development` |
 | [Configuration](development/devops/009-configuration_e8deec07/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
 | [Rbac](development/devops/010-rbac_e5ff8ca1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.2k | `development` |
-| [Migration Guide](development/devops/migration_guide_1958577b/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/MIGRATION_GUIDE.md) | ⭐ 1.1k | `development` |
-| [Migration V1 To V2](development/devops/migration_v1_to_v2_a13ded21/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/migration_v1_to_v2.md) | ⭐ 1.1k | `development` |
-| [Pgaudit Guide](development/devops/pgaudit_guide_8b713058/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/pgaudit_guide.md) | ⭐ 1.1k | `development` |
+| [Migration Guide](development/devops/011-migration_guide_1958577b/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/MIGRATION_GUIDE.md) | ⭐ 1.1k | `development` |
+| [Migration V1 To V2](development/devops/012-migration_v1_to_v2_a13ded21/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/migration_v1_to_v2.md) | ⭐ 1.1k | `development` |
+| [Pgaudit Guide](development/devops/013-pgaudit_guide_8b713058/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/pgaudit_guide.md) | ⭐ 1.1k | `development` |
+| [Skill](development/devops/name-skill_0bd44572/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/zoom-recordings-manager/SKILL.md) | ⭐ 15 | `development` |
 
 ### Development/Testing (2 skills)
 
@@ -3898,7 +3907,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Think](development/testing/001-think_71078b19/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/think.md) | ⭐ 27 | `development` |
 | [Skill](development/testing/002-name-skill_e0a2cd42/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/tdd-strict/SKILL.md) | ⭐ 27 | `development` |
 
-### Development/Tools (16 skills)
+### Development/Tools (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3914,10 +3923,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mcpgateway](development/tools/010-mcpgateway_0508f28f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md) | ⭐ 3.2k | `development` |
 | [Oauth Authorization Code Ui Design](development/tools/011-oauth-authorization-code-ui-design_b577fbd3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-authorization-code-ui-design.md) | ⭐ 3.2k | `development` |
 | [Oauth Design](development/tools/012-oauth-design_e2085c1b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.2k | `development` |
-| [Versioning](development/tools/versioning_cd81ae77/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/VERSIONING.md) | ⭐ 1.1k | `development` |
-| [Alert Guide](development/tools/alert_guide_b41af46a/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/alert_guide.md) | ⭐ 1.1k | `development` |
-| [Recording](development/tools/recording_2c9da652/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/recording.md) | ⭐ 157 | `development` |
-| [Text](development/tools/text_8c18dbfe/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/text.md) | ⭐ 157 | `development` |
+| [Versioning](development/tools/013-versioning_cd81ae77/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/VERSIONING.md) | ⭐ 1.1k | `development` |
+| [Alert Guide](development/tools/014-alert_guide_b41af46a/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/docs/alert_guide.md) | ⭐ 1.1k | `development` |
+| [Agents](development/tools/agents_e0e4693d/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 15 | `development` |
+| [Skill](development/tools/name-skill_dc522969/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-mcporter/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/tools/name-skill_02df8ae5/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/SKILL.md) | ⭐ 15 | `development` |
+| [Cli Guidelines](development/tools/cli-guidelines_93e6d7af/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-create-cli/references/cli-guidelines.md) | ⭐ 15 | `development` |
+| [Skill](development/tools/name-skill_176c91d0/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/browser-tools/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/tools/name-skill_070aba43/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/worktree-helper/SKILL.md) | ⭐ 15 | `development` |
+| [Hosting](development/tools/hosting_1cd2762f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/worktree-helper/references/hosting.md) | ⭐ 15 | `development` |
+| [Workflow](development/tools/workflow_02837d43/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/worktree-helper/references/workflow.md) | ⭐ 15 | `development` |
 
 ### Investment (31 skills)
 
@@ -3955,7 +3970,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](investment/014-agentkit_e1178a49/) | [Unknown](#) | N/A | `investment` |
 | [Browser Guard](investment/018-browser-guard_039e96c9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/browser-guard.md) | ⭐ 171 | `investment` |
 
-### Other (44 skills)
+### Other (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4002,7 +4017,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
-| [03 📚 Documentation](other/03-documentation_0c1b3e1c/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/.github/ISSUE_TEMPLATE/03-📚-documentation.md) | ⭐ 1.1k | `other` |
 
 ### Productivity (153 skills)
 
@@ -4382,7 +4396,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](research/139-name-skill_a5ac53f4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/SKILL.md) | ⭐ 171 | `research` |
 | [Html](research/140-html_d5afc778/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/html.md) | ⭐ 171 | `research` |
 | [Latex](research/141-latex_cafb1f00/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/latex.md) | ⭐ 171 | `research` |
-| [Llm](research/llm_d64d3e5e/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/services/app/src/lib/components/tables/(sub)/guides/llm.md) | ⭐ 1.1k | `research` |
+| [Skill](research/name-skill_3745d49f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/total-recall/SKILL.md) | ⭐ 15 | `research` |
 
 ## Repository Structure
 
