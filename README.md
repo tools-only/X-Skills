@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4702 AI-powered skills** organized into 16 categories.
+A curated collection of **4836 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (23 skills)
-- **Automation/Workflow** (25 skills)
-- **Commercial** (344 skills)
-- **Communication** (183 skills)
-- **Content Creation** (120 skills)
-- **Daily Assistant** (147 skills)
-- **Data Analysis** (380 skills)
-- **Development** (2422 skills)
-- **Development/Devops** (85 skills)
-- **Development/Testing** (15 skills)
-- **Development/Tools** (46 skills)
+- **Automation/Scripting** (24 skills)
+- **Automation/Workflow** (31 skills)
+- **Commercial** (350 skills)
+- **Communication** (190 skills)
+- **Content Creation** (125 skills)
+- **Daily Assistant** (150 skills)
+- **Data Analysis** (392 skills)
+- **Development** (2471 skills)
+- **Development/Devops** (102 skills)
+- **Development/Testing** (16 skills)
+- **Development/Tools** (67 skills)
 - **Investment** (37 skills)
-- **Other** (43 skills)
-- **Productivity** (172 skills)
+- **Other** (48 skills)
+- **Productivity** (173 skills)
 - **Research** (219 skills)
 
 ## Skills Directory
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (23 skills)
+### Automation/Scripting (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -500,9 +500,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Phases](automation/scripting/020-phases_e8560d75/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/phases.md) | ⭐ 490 | `automation` |
 | [Skill](automation/scripting/003-name-skill_99266d26/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/task-orchestrator/SKILL.md) | ⭐ 163 | `automation` |
 | [Agent Guide](automation/scripting/021-agent-guide_00619144/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/auto-updater/references/agent-guide.md) | ⭐ 163 | `automation` |
-| [Release](automation/scripting/release_11da2dd9/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/PULL_REQUEST_TEMPLATE/release.md) | ⭐ 311 | `automation` |
+| [Index](automation/scripting/index_ec22f6c2/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/streaming/index.md) | ⭐ 160 | `automation` |
+| [Traces](automation/scripting/traces_1d853786/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/traces.md) | ⭐ 160 | `automation` |
 
-### Automation/Workflow (25 skills)
+### Automation/Workflow (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -531,8 +532,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Setup](automation/workflow/018-setup_d81e98a9/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/setup.md) | ⭐ 1.8k | `automation` |
 | [Security Reviewer Prompt](automation/workflow/019-security-reviewer-prompt_6cf255f9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/security-reviewer-prompt.md) | ⭐ 810 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a2dff638/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/gallery-scraper/SKILL.md) | ⭐ 163 | `automation` |
+| [Multi Agent Patterns](automation/workflow/multi-agent-patterns_349c3d38/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/multi-agent-patterns.md) | ⭐ 160 | `automation` |
+| [Index](automation/workflow/index_cbcc7e3f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/index.md) | ⭐ 160 | `automation` |
+| [Interactions Evaluator](automation/workflow/interactions_evaluator_8818a70e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/interactions_evaluator.md) | ⭐ 160 | `automation` |
+| [Mlx](automation/workflow/mlx_5c42defc/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/mlx.md) | ⭐ 160 | `automation` |
+| [Community Tools Package](automation/workflow/community-tools-package_37d44bfa/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/community-tools-package.md) | ⭐ 160 | `automation` |
+| [Goal Success Rate Evaluator](automation/workflow/goal_success_rate_evaluator_d7a7a0c8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/goal_success_rate_evaluator.md) | ⭐ 160 | `automation` |
 
-### Commercial (344 skills)
+### Commercial (350 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -879,9 +886,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
 | [Workflow](commercial/233-workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
 | [Salesforce Structure](commercial/234-salesforce_structure_308821c1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/salesforce/SALESFORCE_STRUCTURE.md) | ⭐ 163 | `commercial` |
-| [Skill](commercial/name-skill_0374a115/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/docs/SKILL.md) | ⭐ 311 | `commercial` |
+| [Skill](commercial/210-name-skill_0374a115/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/docs/SKILL.md) | ⭐ 311 | `commercial` |
+| [Agentcore Memory](commercial/agentcore-memory_d970ebf9/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/session-managers/agentcore-memory.md) | ⭐ 160 | `commercial` |
+| [Session Management](commercial/session-management_fb0a35f6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/session-management.md) | ⭐ 160 | `commercial` |
+| [Session Management](commercial/session-management_c88b5c28/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/session-management.md) | ⭐ 160 | `commercial` |
+| [Agents As Tools](commercial/agents-as-tools_5fc7bbdc/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/agents-as-tools.md) | ⭐ 160 | `commercial` |
+| [User Simulation](commercial/user_simulation_a8695296/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/simulators/user_simulation.md) | ⭐ 160 | `commercial` |
+| [Clova Studio](commercial/clova-studio_e9be78ba/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/clova-studio.md) | ⭐ 160 | `commercial` |
 
-### Communication (183 skills)
+### Communication (190 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1062,14 +1075,21 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_dd370b86/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/jira/SKILL.md) | ⭐ 163 | `communication` |
 | [Skill](communication/127-name-skill_4a1731fa/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/zendesk/SKILL.md) | ⭐ 163 | `communication` |
 | [Browser Workflows](communication/130-browser-workflows_80860042/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/google-ads/references/browser-workflows.md) | ⭐ 163 | `communication` |
-| [Detailed Changes](communication/detailed-changes_8c75b5b9/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/DETAILED-CHANGES.md) | ⭐ 311 | `communication` |
-| [Migration Checklist](communication/migration-checklist_2f4b8456/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/MIGRATION-CHECKLIST.md) | ⭐ 311 | `communication` |
-| [Skill](communication/name-skill_80d4700e/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 311 | `communication` |
-| [Detailed Changes](communication/detailed-changes_2f21b8ff/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/DETAILED-CHANGES.md) | ⭐ 311 | `communication` |
-| [Migration Checklist](communication/migration-checklist_f5be94d5/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/MIGRATION-CHECKLIST.md) | ⭐ 311 | `communication` |
-| [Skill](communication/name-skill_bb2c66e5/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 311 | `communication` |
+| [Detailed Changes](communication/131-detailed-changes_8c75b5b9/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/DETAILED-CHANGES.md) | ⭐ 311 | `communication` |
+| [Migration Checklist](communication/132-migration-checklist_2f4b8456/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/MIGRATION-CHECKLIST.md) | ⭐ 311 | `communication` |
+| [Skill](communication/127-name-skill_80d4700e/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 311 | `communication` |
+| [Detailed Changes](communication/131-detailed-changes_2f21b8ff/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/DETAILED-CHANGES.md) | ⭐ 311 | `communication` |
+| [Migration Checklist](communication/132-migration-checklist_f5be94d5/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/MIGRATION-CHECKLIST.md) | ⭐ 311 | `communication` |
+| [Skill](communication/127-name-skill_bb2c66e5/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 311 | `communication` |
+| [Pii Redaction](communication/pii-redaction_c0700d6f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/safety-security/pii-redaction.md) | ⭐ 160 | `communication` |
+| [Quickstart](communication/quickstart_925f7c3e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/quickstart.md) | ⭐ 160 | `communication` |
+| [Helpfulness Evaluator](communication/helpfulness_evaluator_20922343/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/helpfulness_evaluator.md) | ⭐ 160 | `communication` |
+| [Strands Telegram](communication/strands-telegram_65fc2d2a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/strands-telegram.md) | ⭐ 160 | `communication` |
+| [Callback Handlers](communication/callback-handlers_135f569f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/streaming/callback-handlers.md) | ⭐ 160 | `communication` |
+| [Executors](communication/executors_50cc17e8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/executors.md) | ⭐ 160 | `communication` |
+| [Custom Evaluator](communication/custom_evaluator_8c3cd2e3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/custom_evaluator.md) | ⭐ 160 | `communication` |
 
-### Content Creation (120 skills)
+### Content Creation (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1186,15 +1206,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api](content-creation/072-api_3d2f8b33/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/API.md) | ⭐ 1.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_7e509a00/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/design-postgres-tables/SKILL.md) | ⭐ 1.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_d47aa980/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 15 | `content creation` |
-| [1 Bug Report](content-creation/1-bug-report_4979a309/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/1-bug-report.md) | ⭐ 311 | `content creation` |
-| [2 Failing Test](content-creation/2-failing-test_424b0ba0/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/2-failing-test.md) | ⭐ 311 | `content creation` |
-| [3 Docs Bug](content-creation/3-docs-bug_b42da5e2/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/3-docs-bug.md) | ⭐ 311 | `content creation` |
-| [4 Feature Request](content-creation/4-feature-request_1fe790c4/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/4-feature-request.md) | ⭐ 311 | `content creation` |
-| [5 Enhancement Request](content-creation/5-enhancement-request_40bb79df/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/5-enhancement-request.md) | ⭐ 311 | `content creation` |
-| [6 Security Report](content-creation/6-security-report_24914e17/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/6-security-report.md) | ⭐ 311 | `content creation` |
-| [7 Question Support](content-creation/7-question-support_c47fd72e/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.github/ISSUE_TEMPLATE/7-question-support.md) | ⭐ 311 | `content creation` |
+| [Strands Teams](content-creation/strands-teams_d0e30a6e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/strands-teams.md) | ⭐ 160 | `content creation` |
+| [Agent Loop](content-creation/agent-loop_cc60c295/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/agent-loop.md) | ⭐ 160 | `content creation` |
+| [Events](content-creation/events_20197ad2/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/events.md) | ⭐ 160 | `content creation` |
+| [Interruption](content-creation/interruption_0577a29e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/interruption.md) | ⭐ 160 | `content creation` |
+| [Amazon Bedrock](content-creation/amazon-bedrock_a56d08e3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/amazon-bedrock.md) | ⭐ 160 | `content creation` |
+| [Graph](content-creation/graph_ac7a5a0a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 160 | `content creation` |
+| [Workflow](content-creation/workflow_db0dc887/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/workflow.md) | ⭐ 160 | `content creation` |
+| [Stability Ai Tool](content-creation/stability_ai_tool_26bef3fe/) | [strands-agents/tools](https://raw.githubusercontent.com/strands-agents/tools/main/docs/stability_ai_tool.md) | ⭐ 925 | `content creation` |
+| [File Operations](content-creation/file_operations_8337b688/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/file_operations.md) | ⭐ 160 | `content creation` |
+| [Multimodal](content-creation/multimodal_d322f625/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/multimodal.md) | ⭐ 160 | `content creation` |
+| [Writer](content-creation/writer_a8365aa2/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/writer.md) | ⭐ 160 | `content creation` |
+| [Output Evaluator](content-creation/output_evaluator_10a151de/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/output_evaluator.md) | ⭐ 160 | `content creation` |
 
-### Daily Assistant (147 skills)
+### Daily Assistant (150 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1344,9 +1369,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [P3 Trust Boundary](daily-assistant/086-p3-trust-boundary_ad38af2c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 133 | `daily assistant` |
 | [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_559a2776/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
 | [P8 Report Generation](daily-assistant/088-p8-report-generation_aa2eb4e2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
-| [Instructions](daily-assistant/instructions_58a29a19/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/mcp/instructions.md) | ⭐ 311 | `daily assistant` |
+| [Instructions](daily-assistant/089-instructions_58a29a19/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/mcp/instructions.md) | ⭐ 311 | `daily assistant` |
+| [Index](daily-assistant/index_b704262f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/multi_agent_example/index.md) | ⭐ 160 | `daily assistant` |
+| [Serialization](daily-assistant/serialization_ad9d997f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/how-to/serialization.md) | ⭐ 160 | `daily assistant` |
+| [Elasticsearch Memory Tool](daily-assistant/elasticsearch_memory_tool_bcaf71df/) | [strands-agents/tools](https://raw.githubusercontent.com/strands-agents/tools/main/docs/elasticsearch_memory_tool.md) | ⭐ 925 | `daily assistant` |
 
-### Data Analysis (380 skills)
+### Data Analysis (392 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1730,8 +1758,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_f06ad761/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/setup-timescaledb-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
 | [Prompts](data-analysis/250-prompts_4435668f/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/references/PROMPTS.md) | ⭐ 10 | `data analysis` |
 | [P2 Dfd Analysis](data-analysis/251-p2-dfd-analysis_0ffa7a58/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
+| [Interrupts](data-analysis/interrupts_75cec7a3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/interrupts.md) | ⭐ 160 | `data analysis` |
+| [Quickstart](data-analysis/quickstart_4298d0a0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 160 | `data analysis` |
+| [Evaluation](data-analysis/evaluation_a449804f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/evaluation.md) | ⭐ 160 | `data analysis` |
+| [Structured Output](data-analysis/structured-output_ca28f9a4/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/structured-output.md) | ⭐ 160 | `data analysis` |
+| [Hooks](data-analysis/hooks_569f7b8b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/hooks.md) | ⭐ 160 | `data analysis` |
+| [I/O Channels [Experimental]](data-analysis/io_22341a29/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/io.md) | ⭐ 160 | `data analysis` |
+| [Steering](data-analysis/steering_2ff7e06a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/experimental/steering.md) | ⭐ 160 | `data analysis` |
+| [Experiment Management](data-analysis/experiment_management_d718a816/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/how-to/experiment_management.md) | ⭐ 160 | `data analysis` |
+| [Vllm](data-analysis/vllm_3b15ae44/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/vllm.md) | ⭐ 160 | `data analysis` |
+| [Agents Workflows](data-analysis/agents_workflows_6c3f93b3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/agents_workflows.md) | ⭐ 160 | `data analysis` |
+| [Memory Agent](data-analysis/memory_agent_3911bd48/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/memory_agent.md) | ⭐ 160 | `data analysis` |
+| [Structured Output](data-analysis/structured_output_37337e22/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/structured_output.md) | ⭐ 160 | `data analysis` |
 
-### Development (2422 skills)
+### Development (2471 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4156,9 +4196,58 @@ This repository contains automatically aggregated skills from various open-sourc
 | [P1 Project Understanding](development/652-p1-project-understanding_0e57440a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P1-PROJECT-UNDERSTANDING.md) | ⭐ 133 | `development` |
 | [P6 Risk Validation](development/658-p6-risk-validation_4e7c1437/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P6-RISK-VALIDATION.md) | ⭐ 133 | `development` |
 | [P7 Mitigation Planning](development/659-p7-mitigation-planning_32615020/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P7-MITIGATION-PLANNING.md) | ⭐ 133 | `development` |
-| [Claude](development/claude_60f4b872/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/CLAUDE.md) | ⭐ 311 | `development` |
+| [Claude](development/140-claude_60f4b872/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/CLAUDE.md) | ⭐ 311 | `development` |
+| [Api Bar Raising](development/api_bar_raising_43df333a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/API_BAR_RAISING.md) | ⭐ 160 | `development` |
+| [Decisions](development/decisions_c2b26e4c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 160 | `development` |
+| [Feature Lifecycle](development/feature_lifecycle_aba87841/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/FEATURE_LIFECYCLE.md) | ⭐ 160 | `development` |
+| [Tenets](development/tenets_eeb398e8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/TENETS.md) | ⭐ 160 | `development` |
+| [Community Packages](development/community-packages_da3d831e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/community-packages.md) | ⭐ 160 | `development` |
+| [Get Featured](development/get-featured_e400eaf1/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/get-featured.md) | ⭐ 160 | `development` |
+| [Quickstart](development/quickstart_666d3de7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart.md) | ⭐ 160 | `development` |
+| [Versioning And Support](development/versioning-and-support_90003015/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/versioning-and-support.md) | ⭐ 160 | `development` |
+| [Strands Valkey Session Manager](development/strands-valkey-session-manager_4e9aaabb/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/session-managers/strands-valkey-session-manager.md) | ⭐ 160 | `development` |
+| [Strands Hubspot](development/strands-hubspot_c72e8dc6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/strands-hubspot.md) | ⭐ 160 | `development` |
+| [Deploy To Aws Lambda](development/deploy_to_aws_lambda_fec60649/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_aws_lambda.md) | ⭐ 160 | `development` |
+| [Eval Sop](development/eval-sop_cda96efb/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/eval-sop.md) | ⭐ 160 | `development` |
+| [Logs](development/logs_ebc56f7f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/logs.md) | ⭐ 160 | `development` |
+| [Metrics](development/metrics_d079497f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/metrics.md) | ⭐ 160 | `development` |
+| [Observability](development/observability_e1bf7bc0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/observability.md) | ⭐ 160 | `development` |
+| [Overview](development/overview_89325286/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart/overview.md) | ⭐ 160 | `development` |
+| [Python](development/python_105c1d10/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart/python.md) | ⭐ 160 | `development` |
+| [Typescript](development/typescript_e2be99d8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/quickstart/typescript.md) | ⭐ 160 | `development` |
+| [Prompt Engineering](development/prompt-engineering_de8fbaa1/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/safety-security/prompt-engineering.md) | ⭐ 160 | `development` |
+| [Conversation Management](development/conversation-management_2d7edb45/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/conversation-management.md) | ⭐ 160 | `development` |
+| [Hooks](development/hooks_1e35a28d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/hooks.md) | ⭐ 160 | `development` |
+| [Retry Strategies](development/retry-strategies_c90df465/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/retry-strategies.md) | ⭐ 160 | `development` |
+| [State](development/state_6969f13d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/state.md) | ⭐ 160 | `development` |
+| [Agent](development/agent_6246197a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/agent.md) | ⭐ 160 | `development` |
+| [Agent Config](development/agent-config_ee9b6cf0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/experimental/agent-config.md) | ⭐ 160 | `development` |
+| [Openai](development/openai_75ee5c2a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/openai.md) | ⭐ 160 | `development` |
+| [Agent To Agent](development/agent-to-agent_c7203f32/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/agent-to-agent.md) | ⭐ 160 | `development` |
+| [Swarm](development/swarm_aaca37a6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/swarm.md) | ⭐ 160 | `development` |
+| [Custom Tools](development/custom-tools_e60888a9/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/custom-tools.md) | ⭐ 160 | `development` |
+| [Index](development/index_b9320cd0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/index.md) | ⭐ 160 | `development` |
+| [Index](development/index_18b093f3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/simulators/index.md) | ⭐ 160 | `development` |
+| [Gemini Live](development/gemini_live_aba57867/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/gemini_live.md) | ⭐ 160 | `development` |
+| [Mongodb Memory Tool](development/mongodb_memory_tool_310781e0/) | [strands-agents/tools](https://raw.githubusercontent.com/strands-agents/tools/main/docs/mongodb_memory_tool.md) | ⭐ 925 | `development` |
+| [Agents](development/agents_e64df6d8/) | [langchain-ai/langchain](https://raw.githubusercontent.com/langchain-ai/langchain/master/AGENTS.md) | 🔥 125.8k | `development` |
+| [Graph Loops Example](development/graph_loops_example_7e82f7c6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/graph_loops_example.md) | ⭐ 160 | `development` |
+| [Knowledge Base Agent](development/knowledge_base_agent_fd1b054d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/knowledge_base_agent.md) | ⭐ 160 | `development` |
+| [Mcp Calculator](development/mcp_calculator_f889c3a8/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/mcp_calculator.md) | ⭐ 160 | `development` |
+| [Meta Tooling](development/meta_tooling_569137d9/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/meta_tooling.md) | ⭐ 160 | `development` |
+| [Weather Forecaster](development/weather_forecaster_8ec07058/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/weather_forecaster.md) | ⭐ 160 | `development` |
+| [Guardrails](development/guardrails_d639ab8d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/safety-security/guardrails.md) | ⭐ 160 | `development` |
+| [Multi Agent Example](development/multi_agent_example_81db1b78/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/multi_agent_example/multi_agent_example.md) | ⭐ 160 | `development` |
+| [Prompts](development/prompts_c8e31d69/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/prompts.md) | ⭐ 160 | `development` |
+| [Amazon Nova](development/amazon-nova_f2c53a0f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/amazon-nova.md) | ⭐ 160 | `development` |
+| [Mistral](development/mistral_0af4b3cd/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/mistral.md) | ⭐ 160 | `development` |
+| [Sagemaker](development/sagemaker_211712b2/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/sagemaker.md) | ⭐ 160 | `development` |
+| [Faithfulness Evaluator](development/faithfulness_evaluator_fedcde6a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/faithfulness_evaluator.md) | ⭐ 160 | `development` |
+| [Tool Parameter Evaluator](development/tool_parameter_evaluator_6f0f1d0b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/tool_parameter_evaluator.md) | ⭐ 160 | `development` |
+| [Tool Selection Evaluator](development/tool_selection_evaluator_e46c122e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/tool_selection_evaluator.md) | ⭐ 160 | `development` |
+| [Agentcore Evaluation Dashboard](development/agentcore_evaluation_dashboard_1973117e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/how-to/agentcore_evaluation_dashboard.md) | ⭐ 160 | `development` |
 
-### Development/Devops (85 skills)
+### Development/Devops (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4290,8 +4379,25 @@ Read more about the new architecture [here` |
 | [Skill](development/devops/014-name-skill_f6d56c10/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/self-improving-agent/SKILL.md) | ⭐ 163 | `development` |
 | [Security Tools](development/devops/056-security-tools_c4696d7a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/security-tools.md) | ⭐ 163 | `development` |
 | [P4 Security Design Review](development/devops/057-p4-security-design-review_f192546b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P4-SECURITY-DESIGN-REVIEW.md) | ⭐ 133 | `development` |
+| [Agents](development/devops/agents_5421ee8e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/AGENTS.md) | ⭐ 160 | `development` |
+| [Utcp](development/devops/utcp_fd306c31/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/utcp.md) | ⭐ 160 | `development` |
+| [Deploy To Amazon Ec2](development/devops/deploy_to_amazon_ec2_c0c4cc76/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_amazon_ec2.md) | ⭐ 160 | `development` |
+| [Deploy To Amazon Eks](development/devops/deploy_to_amazon_eks_f89e747d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_amazon_eks.md) | ⭐ 160 | `development` |
+| [Deploy To Aws Apprunner](development/devops/deploy_to_aws_apprunner_8255a57c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_aws_apprunner.md) | ⭐ 160 | `development` |
+| [Deploy To Aws Fargate](development/devops/deploy_to_aws_fargate_6160e170/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_aws_fargate.md) | ⭐ 160 | `development` |
+| [Deploy To Kubernetes](development/devops/deploy_to_kubernetes_f7a21cae/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_kubernetes.md) | ⭐ 160 | `development` |
+| [Deploy To Terraform](development/devops/deploy_to_terraform_d9197487/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_terraform.md) | ⭐ 160 | `development` |
+| [Responsible Ai](development/devops/responsible-ai_a962eda5/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/safety-security/responsible-ai.md) | ⭐ 160 | `development` |
+| [Ollama](development/devops/ollama_31e3ee87/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/ollama.md) | ⭐ 160 | `development` |
+| [Python](development/devops/python_d053b1cf/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_bedrock_agentcore/python.md) | ⭐ 160 | `development` |
+| [Typescript](development/devops/typescript_005d2815/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_bedrock_agentcore/typescript.md) | ⭐ 160 | `development` |
+| [Typescript](development/devops/typescript_3e3e7bd7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_docker/typescript.md) | ⭐ 160 | `development` |
+| [Cli Reference Agent](development/devops/cli-reference-agent_291b595f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/examples/python/cli-reference-agent.md) | ⭐ 160 | `development` |
+| [Index](development/devops/index_fa431b65/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_bedrock_agentcore/index.md) | ⭐ 160 | `development` |
+| [Index](development/devops/index_d0654bec/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_docker/index.md) | ⭐ 160 | `development` |
+| [Python](development/devops/python_5388fbb7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_docker/python.md) | ⭐ 160 | `development` |
 
-### Development/Testing (15 skills)
+### Development/Testing (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4310,8 +4416,9 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/002-name-skill_b51a34c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/013-threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
+| [Nvidia Nim](development/testing/nvidia-nim_7fc65867/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/nvidia-nim.md) | ⭐ 160 | `development` |
 
-### Development/Tools (46 skills)
+### Development/Tools (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4361,6 +4468,27 @@ Read more about the new architecture [here` |
 | [Cli Tools](development/tools/032-cli-tools_98c733b6/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/cli-tools.md) | ⭐ 163 | `development` |
 | [Shell Oneliners](development/tools/033-shell-oneliners_2c30b852/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/shell-oneliners.md) | ⭐ 163 | `development` |
 | [Devkit.Refactor](development/tools/034-devkitrefactor_67b5be44/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.refactor.md) | ⭐ 83 | `development` |
+| [Ag Ui](development/tools/ag-ui_01c1b1f0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/integrations/ag-ui.md) | ⭐ 160 | `development` |
+| [Sglang](development/tools/sglang_b91e1d69/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/sglang.md) | ⭐ 160 | `development` |
+| [Xai](development/tools/xai_4e4e8ffc/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/xai.md) | ⭐ 160 | `development` |
+| [Experiment Generator](development/tools/experiment_generator_e6980fea/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/experiment_generator.md) | ⭐ 160 | `development` |
+| [Custom Model Provider](development/tools/custom_model_provider_22aec3c4/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/custom_model_provider.md) | ⭐ 160 | `development` |
+| [Gemini](development/tools/gemini_65952b3a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/gemini.md) | ⭐ 160 | `development` |
+| [Litellm](development/tools/litellm_3033b91f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/litellm.md) | ⭐ 160 | `development` |
+| [Llamacpp](development/tools/llamacpp_97b11646/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/llamacpp.md) | ⭐ 160 | `development` |
+| [Mcp Tools](development/tools/mcp-tools_86b6280f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/tools/mcp-tools.md) | ⭐ 160 | `development` |
+| [Trajectory Evaluator](development/tools/trajectory_evaluator_57ac3af7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/trajectory_evaluator.md) | ⭐ 160 | `development` |
+| [Nova Sonic](development/tools/nova_sonic_6a60ec2e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/nova_sonic.md) | ⭐ 160 | `development` |
+| [Openai Realtime](development/tools/openai_realtime_f4bffb27/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/models/openai_realtime.md) | ⭐ 160 | `development` |
+| [Cohere](development/tools/cohere_607dc128/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/cohere.md) | ⭐ 160 | `development` |
+| [Fireworksai](development/tools/fireworksai_1e9aa11c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/fireworksai.md) | ⭐ 160 | `development` |
+| [Nebius Token Factory](development/tools/nebius-token-factory_88347f1e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/model-providers/nebius-token-factory.md) | ⭐ 160 | `development` |
+| [Strands Deepgram](development/tools/strands-deepgram_01b8fca5/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/strands-deepgram.md) | ⭐ 160 | `development` |
+| [Strands Telegram Listener](development/tools/strands-telegram-listener_1d1aa899/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/strands-telegram-listener.md) | ⭐ 160 | `development` |
+| [Anthropic](development/tools/anthropic_5271e9df/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/anthropic.md) | ⭐ 160 | `development` |
+| [Index](development/tools/index_c189e02b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/index.md) | ⭐ 160 | `development` |
+| [Llamaapi](development/tools/llamaapi_6931bc80/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/llamaapi.md) | ⭐ 160 | `development` |
+| [Async Iterators](development/tools/async-iterators_4cefa1a1/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/streaming/async-iterators.md) | ⭐ 160 | `development` |
 
 ### Investment (37 skills)
 
@@ -4404,7 +4532,7 @@ Read more about the new architecture [here` |
 | [Skill](investment/021-name-skill_f049b077/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/SKILL.md) | ⭐ 10 | `investment` |
 | [Sources](investment/015-sources_3381ae19/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md) | ⭐ 10 | `investment` |
 
-### Other (43 skills)
+### Other (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4451,8 +4579,13 @@ Read more about the new architecture [here` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
+| [Otel](other/otel_460e5e38/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/otel.md) | ⭐ 160 | `other` |
+| [Clova Studio](other/clova-studio_99c224b2/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/clova-studio.md) | ⭐ 160 | `other` |
+| [Cohere](other/cohere_a449432c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/cohere.md) | ⭐ 160 | `other` |
+| [Fireworksai](other/fireworksai_9dcce79c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/fireworksai.md) | ⭐ 160 | `other` |
+| [Nebius Token Factory](other/nebius-token-factory_84eccf5b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/nebius-token-factory.md) | ⭐ 160 | `other` |
 
-### Productivity (172 skills)
+### Productivity (173 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4628,6 +4761,7 @@ Read more about the new architecture [here` |
 | [Frontend Engineer Description](productivity/102-frontend-engineer-description_0e3674a2/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/frontend-engineer-description.md) | ⭐ 810 | `productivity` |
 | [Project Manager Prompt](productivity/103-project-manager-prompt_dbe79daa/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/project-manager-prompt.md) | ⭐ 810 | `productivity` |
 | [Kimi Agents Explained](productivity/094-kimi_agents_explained_d5f141b6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 174 | `productivity` |
+| [Operating Agents In Production](productivity/operating-agents-in-production_86f16581/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/operating-agents-in-production.md) | ⭐ 160 | `productivity` |
 
 ### Research (219 skills)
 
