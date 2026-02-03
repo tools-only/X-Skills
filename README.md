@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4622 AI-powered skills** organized into 16 categories.
+A curated collection of **4657 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (20 skills)
-- **Automation/Workflow** (24 skills)
-- **Commercial** (342 skills)
-- **Communication** (172 skills)
-- **Content Creation** (106 skills)
-- **Daily Assistant** (137 skills)
-- **Data Analysis** (373 skills)
-- **Development** (2408 skills)
-- **Development/Devops** (82 skills)
-- **Development/Testing** (12 skills)
-- **Development/Tools** (38 skills)
+- **Automation/Scripting** (22 skills)
+- **Automation/Workflow** (25 skills)
+- **Commercial** (343 skills)
+- **Communication** (177 skills)
+- **Content Creation** (111 skills)
+- **Daily Assistant** (142 skills)
+- **Data Analysis** (374 skills)
+- **Development** (2410 skills)
+- **Development/Devops** (84 skills)
+- **Development/Testing** (14 skills)
+- **Development/Tools** (46 skills)
 - **Investment** (33 skills)
 - **Other** (43 skills)
 - **Productivity** (173 skills)
-- **Research** (218 skills)
+- **Research** (219 skills)
 
 ## Skills Directory
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (20 skills)
+### Automation/Scripting (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -498,8 +498,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fn 9.12](automation/scripting/018-fn-912_0799db18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.12.md) | ⭐ 490 | `automation` |
 | [Github Scout](automation/scripting/019-github-scout_3fe7c3c3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/github-scout.md) | ⭐ 490 | `automation` |
 | [Phases](automation/scripting/020-phases_e8560d75/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/phases.md) | ⭐ 490 | `automation` |
+| [Skill](automation/scripting/name-skill_99266d26/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/task-orchestrator/SKILL.md) | ⭐ 163 | `automation` |
+| [Agent Guide](automation/scripting/agent-guide_00619144/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/auto-updater/references/agent-guide.md) | ⭐ 163 | `automation` |
 
-### Automation/Workflow (24 skills)
+### Automation/Workflow (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -526,9 +528,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Overview](automation/workflow/016-overview_05fedc64/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 16 | `automation` |
 | [Slash Commands](automation/workflow/017-slash-commands_5430d42e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/slash-commands.md) | ⭐ 16 | `automation` |
 | [Setup](automation/workflow/018-setup_d81e98a9/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/setup.md) | ⭐ 1.8k | `automation` |
-| [Security Reviewer Prompt](automation/workflow/security-reviewer-prompt_6cf255f9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/security-reviewer-prompt.md) | ⭐ 810 | `automation` |
+| [Security Reviewer Prompt](automation/workflow/019-security-reviewer-prompt_6cf255f9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/security-reviewer-prompt.md) | ⭐ 810 | `automation` |
+| [Skill](automation/workflow/name-skill_a2dff638/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/gallery-scraper/SKILL.md) | ⭐ 163 | `automation` |
 
-### Commercial (342 skills)
+### Commercial (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -874,8 +877,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ralph](commercial/232-ralph_2554e337/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/ralph.md) | ⭐ 490 | `commercial` |
 | [Skill](commercial/210-name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
 | [Workflow](commercial/233-workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
+| [Salesforce Structure](commercial/salesforce_structure_308821c1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/salesforce/SALESFORCE_STRUCTURE.md) | ⭐ 163 | `commercial` |
 
-### Communication (172 skills)
+### Communication (177 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1051,8 +1055,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_c2be3d96/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-export-context/SKILL.md) | ⭐ 490 | `communication` |
 | [Skill](communication/127-name-skill_07c008b4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/SKILL.md) | ⭐ 490 | `communication` |
 | [Workflow](communication/129-workflow_2d196487/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan-review/workflow.md) | ⭐ 490 | `communication` |
+| [Skill](communication/name-skill_114fb540/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawddocs/SKILL.md) | ⭐ 163 | `communication` |
+| [Skill](communication/name-skill_6c08e87b/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/context-recovery/SKILL.md) | ⭐ 163 | `communication` |
+| [Skill](communication/name-skill_dd370b86/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/jira/SKILL.md) | ⭐ 163 | `communication` |
+| [Skill](communication/name-skill_4a1731fa/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/zendesk/SKILL.md) | ⭐ 163 | `communication` |
+| [Browser Workflows](communication/browser-workflows_80860042/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/google-ads/references/browser-workflows.md) | ⭐ 163 | `communication` |
 
-### Content Creation (106 skills)
+### Content Creation (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1162,8 +1171,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Rule](content-creation/069-rule_2c558249/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.cursor/rules/mintlify-technical-writing/RULE.md) | ⭐ 1.8k | `content creation` |
 | [User](content-creation/070-user_61fe4d7c/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/all_data/user.md) | ⭐ 1.8k | `content creation` |
 | [User](content-creation/070-user_71ed5008/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/only_main_content/user.md) | ⭐ 1.8k | `content creation` |
+| [Skill](content-creation/name-skill_f79ee889/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/prompts/humanizer/SKILL.md) | ⭐ 163 | `content creation` |
+| [Skill](content-creation/name-skill_1aa7086a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/prompts/senior-engineering/SKILL.md) | ⭐ 163 | `content creation` |
+| [Skill](content-creation/name-skill_6412a3ae/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nudocs/SKILL.md) | ⭐ 163 | `content creation` |
+| [Document Design](content-creation/document-design_83925ed7/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nudocs/references/document-design.md) | ⭐ 163 | `content creation` |
+| [Skill](content-creation/name-skill_12cbb694/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/prompts/frontend-design/SKILL.md) | ⭐ 163 | `content creation` |
 
-### Daily Assistant (137 skills)
+### Daily Assistant (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1303,9 +1317,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_b1018138/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next/SKILL.md) | ⭐ 490 | `daily assistant` |
 | [System](daily-assistant/082-system_52cce97a/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/falco/system.md) | ⭐ 1.8k | `daily assistant` |
 | [System](daily-assistant/082-system_6d66eb4d/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/gufo/system.md) | ⭐ 1.8k | `daily assistant` |
-| [Todo](daily-assistant/todo_4cffa3ef/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/todo.md) | ⭐ 810 | `daily assistant` |
+| [Compatibility](daily-assistant/compatibility_7db1ae18/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/COMPATIBILITY.md) | ⭐ 163 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_90d2c71a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/knowledge-graph/SKILL.md) | ⭐ 163 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_a8f163d2/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/todo-tracker/SKILL.md) | ⭐ 163 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_7324dfe1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/gong/SKILL.md) | ⭐ 163 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_f4e67beb/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/planner/SKILL.md) | ⭐ 163 | `daily assistant` |
+| [Common Configs](daily-assistant/common-configs_4140e9c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawddocs/snippets/common-configs.md) | ⭐ 163 | `daily assistant` |
 
-### Data Analysis (373 skills)
+### Data Analysis (374 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1681,9 +1700,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Debugging](data-analysis/247-debugging_9ede2b56/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/debugging.md) | ⭐ 490 | `data analysis` |
 | [User](data-analysis/248-user_896aa7f5/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing-incr/user.md) | ⭐ 1.8k | `data analysis` |
 | [User](data-analysis/248-user_b6b63b2e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/optim/user.md) | ⭐ 1.8k | `data analysis` |
-| [Business Analyst Description](data-analysis/business-analyst-description_b34a31ce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/business-analyst-description.md) | ⭐ 810 | `data analysis` |
+| [Business Analyst Description](data-analysis/249-business-analyst-description_b34a31ce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/business-analyst-description.md) | ⭐ 810 | `data analysis` |
+| [Skill](data-analysis/name-skill_6806bd2a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/elegant-reports/SKILL.md) | ⭐ 163 | `data analysis` |
 
-### Development (2408 skills)
+### Development (2410 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4073,30 +4093,32 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_3d820a11/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md) | ⭐ 16 | `development` |
 | [Claude](development/140-claude_e221a3ad/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/CLAUDE.md) | ⭐ 1.8k | `development` |
 | [Icons](development/1291-icons_bca73b6e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/icons.md) | ⭐ 1.8k | `development` |
-| [Coder Reviewer](development/coder-reviewer_5b3a1e02/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/coder-reviewer.md) | ⭐ 810 | `development` |
-| [Frontend Engineer](development/frontend-engineer_939385fc/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/frontend-engineer.md) | ⭐ 810 | `development` |
-| [Project Manager](development/project-manager_714e5cb9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/project-manager.md) | ⭐ 810 | `development` |
-| [Ux Designer](development/ux-designer_108bc720/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/ux-designer.md) | ⭐ 810 | `development` |
-| [Tdd](development/tdd_8d336add/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/tdd.md) | ⭐ 810 | `development` |
-| [Backend Engineer Description](development/backend-engineer-description_e12794f5/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/backend-engineer-description.md) | ⭐ 810 | `development` |
-| [Database Engineer Description](development/database-engineer-description_64a51ff5/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/database-engineer-description.md) | ⭐ 810 | `development` |
-| [Project Manager Description](development/project-manager-description_8e0d9d54/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/project-manager-description.md) | ⭐ 810 | `development` |
-| [Security Reviewer Description](development/security-reviewer-description_32174e2c/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/security-reviewer-description.md) | ⭐ 810 | `development` |
-| [Tech Lead Description](development/tech-lead-description_a77e7b35/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/tech-lead-description.md) | ⭐ 810 | `development` |
-| [Ux Engineer Description](development/ux-engineer-description_fcffc01d/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/ux-engineer-description.md) | ⭐ 810 | `development` |
-| [Backend Engineer Prompt](development/backend-engineer-prompt_bffa8b7c/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/backend-engineer-prompt.md) | ⭐ 810 | `development` |
-| [Code Reviewer Prompt](development/code-reviewer-prompt_ae8ddce7/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/code-reviewer-prompt.md) | ⭐ 810 | `development` |
-| [Database Engineer Prompt](development/database-engineer-prompt_08df61f4/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/database-engineer-prompt.md) | ⭐ 810 | `development` |
-| [Frontend Engineer Prompt](development/frontend-engineer-prompt_138288b4/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/frontend-engineer-prompt.md) | ⭐ 810 | `development` |
-| [Tech Lead Prompt](development/tech-lead-prompt_6e454bce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/tech-lead-prompt.md) | ⭐ 810 | `development` |
-| [Ux Engineer Prompt](development/ux-engineer-prompt_e1d613b3/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/ux-engineer-prompt.md) | ⭐ 810 | `development` |
-| [Serena](development/serena_94100417/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/mcp-servers/serena.md) | ⭐ 810 | `development` |
-| [Tech Lead Architect](development/tech-lead-architect_08e5ebc0/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/tech-lead-architect.md) | ⭐ 810 | `development` |
-| [Mermaid](development/mermaid_5053105f/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/mermaid.md) | ⭐ 810 | `development` |
-| [Test](development/test_7011cd9e/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/test.md) | ⭐ 810 | `development` |
-| [Code Reviewer Description](development/code-reviewer-description_2778b4ea/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/code-reviewer-description.md) | ⭐ 810 | `development` |
+| [Coder Reviewer](development/1300-coder-reviewer_5b3a1e02/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/coder-reviewer.md) | ⭐ 810 | `development` |
+| [Frontend Engineer](development/1301-frontend-engineer_939385fc/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/frontend-engineer.md) | ⭐ 810 | `development` |
+| [Project Manager](development/1302-project-manager_714e5cb9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/project-manager.md) | ⭐ 810 | `development` |
+| [Ux Designer](development/1303-ux-designer_108bc720/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/ux-designer.md) | ⭐ 810 | `development` |
+| [Tdd](development/1304-tdd_8d336add/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/tdd.md) | ⭐ 810 | `development` |
+| [Backend Engineer Description](development/1305-backend-engineer-description_e12794f5/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/backend-engineer-description.md) | ⭐ 810 | `development` |
+| [Database Engineer Description](development/1306-database-engineer-description_64a51ff5/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/database-engineer-description.md) | ⭐ 810 | `development` |
+| [Project Manager Description](development/1307-project-manager-description_8e0d9d54/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/project-manager-description.md) | ⭐ 810 | `development` |
+| [Security Reviewer Description](development/1308-security-reviewer-description_32174e2c/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/security-reviewer-description.md) | ⭐ 810 | `development` |
+| [Tech Lead Description](development/1309-tech-lead-description_a77e7b35/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/tech-lead-description.md) | ⭐ 810 | `development` |
+| [Ux Engineer Description](development/1310-ux-engineer-description_fcffc01d/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/ux-engineer-description.md) | ⭐ 810 | `development` |
+| [Backend Engineer Prompt](development/1311-backend-engineer-prompt_bffa8b7c/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/backend-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Code Reviewer Prompt](development/1312-code-reviewer-prompt_ae8ddce7/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/code-reviewer-prompt.md) | ⭐ 810 | `development` |
+| [Database Engineer Prompt](development/1313-database-engineer-prompt_08df61f4/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/database-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Frontend Engineer Prompt](development/1314-frontend-engineer-prompt_138288b4/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/frontend-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Tech Lead Prompt](development/1315-tech-lead-prompt_6e454bce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/tech-lead-prompt.md) | ⭐ 810 | `development` |
+| [Ux Engineer Prompt](development/1316-ux-engineer-prompt_e1d613b3/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/ux-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Skill](development/name-skill_47851ef1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/skill-sync/SKILL.md) | ⭐ 163 | `development` |
+| [Nordic Design Research](development/nordic_design_research_a6623f25/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/elegant-reports/NORDIC_DESIGN_RESEARCH.md) | ⭐ 163 | `development` |
+| [Skill](development/name-skill_0d7b4b41/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/parallel-task/SKILL.md) | ⭐ 163 | `development` |
+| [Api Setup](development/api-setup_25282acf/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/google-ads/references/api-setup.md) | ⭐ 163 | `development` |
+| [Web Tools](development/web-tools_b9094be1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/web-tools.md) | ⭐ 163 | `development` |
+| [Skill](development/name-skill_f4647ca8/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/prompts/web-design-guidelines/SKILL.md) | ⭐ 163 | `development` |
+| [Shell Tricks](development/shell-tricks_e636fbd7/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/shell-tricks.md) | ⭐ 163 | `development` |
 
-### Development/Devops (82 skills)
+### Development/Devops (84 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4225,8 +4247,10 @@ Read more about the new architecture [here` |
 | [Agents](development/devops/053-agents_99e909ba/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/AGENTS.md) | ⭐ 16 | `development` |
 | [Monitoring](development/devops/054-monitoring_0106f8b9/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/monitoring.md) | ⭐ 16 | `development` |
 | [Up And Running](development/devops/055-up-and-running_62eff66d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/up-and-running.md) | ⭐ 16 | `development` |
+| [Skill](development/devops/name-skill_f6d56c10/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/self-improving-agent/SKILL.md) | ⭐ 163 | `development` |
+| [Security Tools](development/devops/security-tools_c4696d7a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/security-tools.md) | ⭐ 163 | `development` |
 
-### Development/Testing (12 skills)
+### Development/Testing (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4242,8 +4266,10 @@ Read more about the new architecture [here` |
 | [Advanced](development/testing/009-advanced_1ee076b9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/advanced.md) | ⭐ 490 | `development` |
 | [005 Agents](development/testing/010-005-agents_72fb7c4d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/005-AGENTS.md) | ⭐ 16 | `development` |
 | [006 Agents](development/testing/011-006-agents_84b8c53a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/006-AGENTS.md) | ⭐ 16 | `development` |
+| [Skill](development/testing/name-skill_b51a34c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 163 | `development` |
+| [Skill](development/testing/research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
 
-### Development/Tools (38 skills)
+### Development/Tools (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4284,7 +4310,15 @@ Read more about the new architecture [here` |
 | [Workflow](development/tools/030-workflow_b234b1d1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/workflow.md) | ⭐ 490 | `development` |
 | [Skill](development/tools/002-name-skill_2e09fadf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/SKILL.md) | ⭐ 490 | `development` |
 | [Code Snippets](development/tools/031-code-snippets_01afc87e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md) | ⭐ 1.8k | `development` |
-| [Design Reviewer](development/tools/design-reviewer_8be8a61f/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/design-reviewer.md) | ⭐ 810 | `development` |
+| [Agents](development/tools/agents_f125b6a4/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/AGENTS.md) | ⭐ 163 | `development` |
+| [Skill](development/tools/name-skill_4142916e/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/auto-updater/SKILL.md) | ⭐ 163 | `development` |
+| [Skill](development/tools/name-skill_69f1a424/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/ga4/SKILL.md) | ⭐ 163 | `development` |
+| [Skill](development/tools/name-skill_74f33fcd/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/google-ads/SKILL.md) | ⭐ 163 | `development` |
+| [Skill](development/tools/name-skill_3d65019a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/salesforce/SKILL.md) | ⭐ 163 | `development` |
+| [Skill](development/tools/name-skill_a17e4a41/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/SKILL.md) | ⭐ 163 | `development` |
+| [Cli Tools](development/tools/cli-tools_98c733b6/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/cli-tools.md) | ⭐ 163 | `development` |
+| [Shell Oneliners](development/tools/shell-oneliners_2c30b852/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/shell-oneliners.md) | ⭐ 163 | `development` |
+| [Summary Examples](development/tools/summary-examples_9f0c386e/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/auto-updater/references/summary-examples.md) | ⭐ 163 | `development` |
 
 ### Investment (33 skills)
 
@@ -4545,12 +4579,12 @@ Read more about the new architecture [here` |
 | [Fn 5](productivity/099-fn-5_8f62b480/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-5.md) | ⭐ 490 | `productivity` |
 | [Fn 9.11](productivity/100-fn-911_b1fa84c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.11.md) | ⭐ 490 | `productivity` |
 | [Fn 9.14](productivity/101-fn-914_00d9afcd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.14.md) | ⭐ 490 | `productivity` |
-| [Frontend Engineer Description](productivity/frontend-engineer-description_0e3674a2/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/frontend-engineer-description.md) | ⭐ 810 | `productivity` |
-| [Project Manager Prompt](productivity/project-manager-prompt_dbe79daa/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/project-manager-prompt.md) | ⭐ 810 | `productivity` |
-| [User Experience Designer & UI Specialist Persona](productivity/ux_34f94501/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/ux.md) | ⭐ 810 | `productivity` |
-| [Business Analyst Prompt](productivity/business-analyst-prompt_2f9eab4a/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/business-analyst-prompt.md) | ⭐ 810 | `productivity` |
+| [Frontend Engineer Description](productivity/102-frontend-engineer-description_0e3674a2/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/frontend-engineer-description.md) | ⭐ 810 | `productivity` |
+| [Project Manager Prompt](productivity/103-project-manager-prompt_dbe79daa/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/project-manager-prompt.md) | ⭐ 810 | `productivity` |
+| [Skill](productivity/name-skill_748819dc/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/prompts/munger-observer/SKILL.md) | ⭐ 163 | `productivity` |
+| [Sample Executive](productivity/sample-executive_19b0b036/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/elegant-reports/examples/sample-executive.md) | ⭐ 163 | `productivity` |
 
-### Research (218 skills)
+### Research (219 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4771,7 +4805,8 @@ Read more about the new architecture [here` |
 | [Html](research/140-html_d5afc778/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/html.md) | ⭐ 171 | `research` |
 | [Latex](research/141-latex_cafb1f00/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/latex.md) | ⭐ 171 | `research` |
 | [Skill](research/139-name-skill_3745d49f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/total-recall/SKILL.md) | ⭐ 15 | `research` |
-| [Five](research/five_8f6bc454/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/five.md) | ⭐ 810 | `research` |
+| [Skill](research/name-skill_5f6e450a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/gsc/SKILL.md) | ⭐ 163 | `research` |
+| [Formats](research/formats_0560b3b0/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nudocs/references/formats.md) | ⭐ 163 | `research` |
 
 ## Repository Structure
 
