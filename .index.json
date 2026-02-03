@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T05:12:54.845412",
+  "updated_at": "2026-02-03T06:12:32.823975",
   "skills": [
     {
       "file_hash": "a2ad7703cc259c9965525ae0db32254bf2a592ef6a6e006bad692f2f398a8e13",
@@ -9017,6 +9017,62 @@
       "source_url": "https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/references/partitioning-caching.md",
       "display_name": "Partitioning and Caching",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "cd516dcc0abed3d2d48a4b175e61917999ebff502cbc72fc4facc35fc79bb9bf",
+      "source_path": "CATALOG.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/catalog_cd516dcc",
+      "category": "development",
+      "name": "catalog_cd516dcc",
+      "indexed_at": "2026-02-03T06:12:32.553005",
+      "repo_stars": 6048,
+      "repo_updated_at": "2026-02-02T07:24:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md",
+      "display_name": "Skill Catalog",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6e74e4d9c64995703574d5e79b72e35743aeb3957aa703491c7c456f1383b683",
+      "source_path": "docs/QUALITY_BAR.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/quality_bar_6e74e4d9",
+      "category": "development",
+      "name": "quality_bar_6e74e4d9",
+      "indexed_at": "2026-02-03T06:12:32.622098",
+      "repo_stars": 6048,
+      "repo_updated_at": "2026-01-29T12:08:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/QUALITY_BAR.md",
+      "display_name": "\ud83c\udfc6 Quality Bar & Validation Standards",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2d2d0e20f979f8e000efd5ba3239539a25a78a7e2e184c16fca1c3bb93aae761",
+      "source_path": "docs/SKILL_ANATOMY.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/skill_anatomy_2d2d0e20",
+      "category": "development",
+      "name": "skill_anatomy_2d2d0e20",
+      "indexed_at": "2026-02-03T06:12:32.727369",
+      "repo_stars": 6048,
+      "repo_updated_at": "2026-01-25T19:25:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SKILL_ANATOMY.md",
+      "display_name": "my-skill-name",
+      "tags": "[\"react\", \"typescript\"]"
+    },
+    {
+      "file_hash": "4376422438f7f4b7284a373c7bb5688ff8488d7b5ee1f36cb5581be2123070fd",
+      "source_path": "docs/vietnamese/SKILL_ANATOMY.vi.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/skill_anatomyvi_43764224",
+      "category": "development",
+      "name": "skill_anatomyvi_43764224",
+      "indexed_at": "2026-02-03T06:12:32.823943",
+      "repo_stars": 6048,
+      "repo_updated_at": "2026-01-29T11:17:31+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/vietnamese/SKILL_ANATOMY.vi.md",
+      "display_name": "my-skill-name",
+      "tags": "[\"react\", \"typescript\"]"
     }
   ]
 }

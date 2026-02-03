@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **696 AI-powered skills** organized into 11 categories.
+A curated collection of **648 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -9,12 +9,12 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (84 skills)
-- **Commercial** (84 skills)
+- **Commercial** (32 skills)
 - **Communication** (64 skills)
 - **Content Creation** (11 skills)
 - **Daily Assistant** (10 skills)
 - **Data Analysis** (30 skills)
-- **Development** (347 skills)
+- **Development** (351 skills)
 - **Investment** (6 skills)
 - **Other** (17 skills)
 - **Productivity** (15 skills)
@@ -112,7 +112,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Login](automation/automation-frameworks_407d5778/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/test-master/references/automation-frameworks.md) | ⭐ 216 | `automation` |
 | [QA Methodology](automation/qa-methodology_92775883/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/test-master/references/qa-methodology.md) | ⭐ 216 | `automation` |
 
-### Commercial (84 skills)
+### Commercial (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -148,58 +148,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Counter](commercial/state-management_55882ac7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert-js/references/state-management.md) | ⭐ 216 | `commercial` |
 | [Alice](commercial/testing-patterns_e27d4c59/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert-js/references/testing-patterns.md) | ⭐ 216 | `commercial` |
 | [string](commercial/state-management_2995dde3/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/references/state-management.md) | ⭐ 216 | `commercial` |
-| [skill-name](commercial/agents_c511d246/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/AGENTS.md) | ⭐ 78 | `commercial` |
-| [cloning-project](commercial/skill_df198ad9/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/cloning-project/SKILL.md) | ⭐ 78 | `commercial` |
-| [references/](commercial/_map_feb63def/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/convening-experts/references/_MAP.md) | ⭐ 78 | `commercial` |
-| [Consulting Framework Experts](commercial/consulting-frameworks_4b6edc30/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/convening-experts/references/consulting-frameworks.md) | ⭐ 78 | `commercial` |
-| [str](commercial/advanced_67ea0b5a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/invoking-gemini/references/advanced.md) | ⭐ 78 | `commercial` |
-| [Credential Setup Guide](commercial/credential-setup_60e8fdd4/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/invoking-github/references/credential-setup.md) | ⭐ 78 | `commercial` |
-| [Advanced Patterns for Iterative Work](commercial/advanced-patterns_858e4c93/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/iterating/references/advanced-patterns.md) | ⭐ 78 | `commercial` |
-| [ADR 019: Variables as a Provider](commercial/019-variables-as-provider_875874db/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/019-variables-as-provider.md) | ⭐ 93 | `commercial` |
-| [ADR 021: Output Configuration](commercial/021-output-config_0391aa80/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/021-output-config.md) | ⭐ 93 | `commercial` |
-| [User Generator](commercial/generator_0036b105/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/dynamic_files/models/generator.md) | ⭐ 93 | `commercial` |
-| [Data Analysis](commercial/analysis_29f2fb3c/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/models/analysis.md) | ⭐ 93 | `commercial` |
-| [Product Data](commercial/data_05bf7d5b/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/models/data.md) | ⭐ 93 | `commercial` |
-| [Metrics API](commercial/metrics_api_bf34d689/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/models/metrics_api.md) | ⭐ 93 | `commercial` |
-| [Instructions Example](commercial/instructions_fc7c9897/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/instructions.md) | ⭐ 93 | `commercial` |
-| [Source Content](commercial/source_2d0189e7/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/source.md) | ⭐ 93 | `commercial` |
-| [Product Analysis](commercial/analysis_4d466e2c/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/analysis.md) | ⭐ 93 | `commercial` |
-| [Product Metrics](commercial/data_b996311f/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/data.md) | ⭐ 93 | `commercial` |
-| [Executive Brief: Q1 2025 Planning](commercial/executive_brief_8b4f12d7/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/executive_brief.md) | ⭐ 93 | `commercial` |
-| [Strategic Recommendations](commercial/recommendations_8e8f036f/) | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/recommendations.md) | ⭐ 93 | `commercial` |
-| [Claude Skills Roadmap](commercial/roadmap_942ec54e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 216 | `commercial` |
-| [Epic](commercial/github_issue_tree_7c342742/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/research/GITHUB_ISSUE_TREE.md) | ⭐ 216 | `commercial` |
-| [postgres-pro](commercial/skill_b958af7d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/SKILL.md) | ⭐ 216 | `commercial` |
-| [rag-architect](commercial/skill_4e2171c4/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rag-architect/SKILL.md) | ⭐ 216 | `commercial` |
-| [shopify-expert](commercial/skill_ce496a25/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/shopify-expert/SKILL.md) | ⭐ 216 | `commercial` |
-| [Standalone Components & Signals](commercial/components_94b5955f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/angular-architect/references/components.md) | ⭐ 216 | `commercial` |
-| [NgRx State Management](commercial/ngrx_34d318d7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/angular-architect/references/ngrx.md) | ⭐ 216 | `commercial` |
-| [REST Design Patterns](commercial/rest-patterns_d1d49306/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/api-designer/references/rest-patterns.md) | ⭐ 216 | `commercial` |
-| [ADR Template](commercial/adr-template_cada2aa2/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/architecture-designer/references/adr-template.md) | ⭐ 216 | `commercial` |
-| [Database Connection Pool Exhaustion](commercial/experiment-design_308bead2/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/experiment-design.md) | ⭐ 216 | `commercial` |
-| [Database Failover Drill](commercial/game-days_7a19400b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/game-days.md) | ⭐ 216 | `commercial` |
-| [str, listen: str, upstream: str):](commercial/infrastructure-chaos_26580545/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/infrastructure-chaos.md) | ⭐ 216 | `commercial` |
-| [nginx-chaos](commercial/kubernetes-chaos_2b8ae481/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/kubernetes-chaos.md) | ⭐ 216 | `commercial` |
-| [AWS Architecture Reference](commercial/aws_9287e5ab/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cloud-architect/references/aws.md) | ⭐ 216 | `commercial` |
-| [Memory Management & Performance](commercial/memory-performance_9bf81363/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cpp-pro/references/memory-performance.md) | ⭐ 216 | `commercial` |
-| [</label>](commercial/blazor_ad157f9d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/references/blazor.md) | ⭐ 216 | `commercial` |
-| [Entity Framework Core Patterns](commercial/entity-framework_4968dc8f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/references/entity-framework.md) | ⭐ 216 | `commercial` |
-| [Index Strategies](commercial/index-strategies_05f5e3f4/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/database-optimizer/references/index-strategies.md) | ⭐ 216 | `commercial` |
-| [Query Optimization](commercial/query-optimization_dce3acf3/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/database-optimizer/references/query-optimization.md) | ⭐ 216 | `commercial` |
-| [Common Bug Patterns](commercial/common-patterns_34e8957f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/debugging-wizard/references/common-patterns.md) | ⭐ 216 | `commercial` |
-| [CI/CD Pipeline](commercial/github-actions_04d2d1c3/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/devops-engineer/references/github-actions.md) | ⭐ 216 | `commercial` |
-| [Primary On-Call](commercial/incident-response_8410ae3e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/devops-engineer/references/incident-response.md) | ⭐ 216 | `commercial` |
-| [DRF Serializers](commercial/drf-serializers_0642b28b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/django-expert/references/drf-serializers.md) | ⭐ 216 | `commercial` |
-| [ViewSets & Views](commercial/viewsets-views_48ce90f1/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/django-expert/references/viewsets-views.md) | ⭐ 216 | `commercial` |
-| [Categories](commercial/entity-framework_e8b874bb/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/dotnet-core-expert/references/entity-framework.md) | ⭐ 216 | `commercial` |
-| [Acceptance Criteria](commercial/acceptance-criteria_4b014242/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/feature-forge/references/acceptance-criteria.md) | ⭐ 216 | `commercial` |
-| [EARS Syntax](commercial/ears-syntax_a85e1f25/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/feature-forge/references/ears-syntax.md) | ⭐ 216 | `commercial` |
-| [z.string().min(1).max(100),](commercial/api-design-standards_7c2cb846/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fullstack-guardian/references/api-design-standards.md) | ⭐ 216 | `commercial` |
-| [ECS Architecture and Game Patterns](commercial/ecs-patterns_5ef2de27/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/game-developer/references/ecs-patterns.md) | ⭐ 216 | `commercial` |
-| [myapp](commercial/gitops_a84ee600/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/references/gitops.md) | ⭐ 216 | `commercial` |
-| [production-cluster](commercial/multi-cluster_430cbaca/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/references/multi-cluster.md) | ⭐ 216 | `commercial` |
-| [fast-ssd](commercial/storage_6d93a1f6/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/references/storage.md) | ⭐ 216 | `commercial` |
-| [Service Decomposition and Boundaries](commercial/decomposition_176e233a/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/microservices-architect/references/decomposition.md) | ⭐ 216 | `commercial` |
 
 ### Communication (64 skills)
 
@@ -336,7 +284,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [string) => storage.getString(name) ?? null,](data-analysis/storage-hooks_65b969a6/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-native-expert/references/storage-hooks.md) | ⭐ 216 | `data analysis` |
 | [{query.name}](data-analysis/streaming-patterns_4d0dbe86/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/references/streaming-patterns.md) | ⭐ 216 | `data analysis` |
 
-### Development (347 skills)
+### Development (351 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -687,6 +635,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Performance & Security](development/performance-security_991fc8fa/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/wordpress-pro/references/performance-security.md) | ⭐ 216 | `content creation` |
 | [Plugin Name](development/plugin-architecture_ef663e0c/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/wordpress-pro/references/plugin-architecture.md) | ⭐ 216 | `content creation` |
 | [Theme Name](development/theme-development_540a9669/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/wordpress-pro/references/theme-development.md) | ⭐ 216 | `development` |
+| [Skill Catalog](development/catalog_cd516dcc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.0k | `development` |
+| [🏆 Quality Bar & Validation Standards](development/quality_bar_6e74e4d9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/QUALITY_BAR.md) | 🔥 6.0k | `development` |
+| [my-skill-name](development/skill_anatomy_2d2d0e20/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/SKILL_ANATOMY.md) | 🔥 6.0k | `react` `typescript` |
+| [my-skill-name](development/skill_anatomyvi_43764224/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/vietnamese/SKILL_ANATOMY.vi.md) | 🔥 6.0k | `react` `typescript` |
 
 ### Investment (6 skills)
 
