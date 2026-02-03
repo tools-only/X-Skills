@@ -1,8 +1,8 @@
-# Video Analysis Reference
+# Video Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Video Analysis Reference |
+| **Name** | Video Analysis |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ai-multimodal/references/video-analysis.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/ai-multimodal/references/video-analysis.md` |
 | **Category** | automation |

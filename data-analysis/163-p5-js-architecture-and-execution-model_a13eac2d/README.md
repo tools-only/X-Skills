@@ -1,8 +1,8 @@
-# p5.js Architecture and Execution Model
+# 12 P5 Js Architecture And Execution Model
 
 | Property | Value |
 |----------|-------|
-| **Name** | p5.js Architecture and Execution Model |
+| **Name** | 12 P5 Js Architecture And Execution Model |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/12-p5-js-architecture-and-execution-model.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/12-p5-js-architecture-and-execution-model.md` |
 | **Category** | data-analysis |

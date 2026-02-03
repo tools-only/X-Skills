@@ -1,8 +1,8 @@
-# Research Poster Content Guide
+# Poster Content Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Research Poster Content Guide |
+| **Name** | Poster Content Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/references/poster_content_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/latex-posters/references/poster_content_guide.md` |
 | **Category** | data-analysis |

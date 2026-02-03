@@ -1,8 +1,8 @@
-# ai-feedback-loop-optimizer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-feedback-loop-optimizer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-feedback-loop-optimizer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-feedback-loop-optimizer/SKILL.md` |
 | **Category** | data-analysis |

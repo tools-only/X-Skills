@@ -1,8 +1,8 @@
-# Proteomics and Metabolomics File Formats Reference
+# Proteomics Metabolomics Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | Proteomics and Metabolomics File Formats Reference |
+| **Name** | Proteomics Metabolomics Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/exploratory-data-analysis/references/proteomics_metabolomics_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/exploratory-data-analysis/references/proteomics_metabolomics_formats.md` |
 | **Category** | data-analysis |

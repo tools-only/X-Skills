@@ -1,8 +1,8 @@
-# System Design Template
+# System Design
 
 | Property | Value |
 |----------|-------|
-| **Name** | System Design Template |
+| **Name** | System Design |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/architecture-designer/references/system-design.md) (⭐ 216) |
 | **Original Path** | `skills/architecture-designer/references/system-design.md` |
 | **Category** | communication |

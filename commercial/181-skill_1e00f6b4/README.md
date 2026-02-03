@@ -1,8 +1,8 @@
-# payment-integration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | payment-integration |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/SKILL.md` |
 | **Category** | commercial |

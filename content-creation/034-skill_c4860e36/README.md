@@ -1,8 +1,8 @@
-# building-dbt-semantic-layer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | building-dbt-semantic-layer |
+| **Name** | Skill |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) (⭐ 10) |
 | **Original Path** | `skills/building-dbt-semantic-layer/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# ui-ux-designer
+# Ui Ux Designer
 
 | Property | Value |
 |----------|-------|
-| **Name** | ui-ux-designer |
+| **Name** | Ui Ux Designer |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/ui-ux-designer.md) (⭐ 383) |
 | **Original Path** | `agents/ui-ux-designer.md` |
 | **Category** | research |

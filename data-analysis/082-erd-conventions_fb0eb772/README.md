@@ -1,8 +1,8 @@
-# ERD Conventions for sf-diagram
+# Erd Conventions
 
 | Property | Value |
 |----------|-------|
-| **Name** | ERD Conventions for sf-diagram |
+| **Name** | Erd Conventions |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/docs/erd-conventions.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/docs/erd-conventions.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# notion-knowledge-capture
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | notion-knowledge-capture |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/06f65bbf-3f3a-4a19-a3c2-46ec20d03f26/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/06f65bbf-3f3a-4a19-a3c2-46ec20d03f26/SKILL.md` |
 | **Category** | content-creation |

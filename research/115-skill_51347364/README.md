@@ -1,8 +1,8 @@
-# statistical-analysis
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | statistical-analysis |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/statistical-analysis/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/statistical-analysis/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# alphafold-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alphafold-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alphafold-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/alphafold-database/SKILL.md` |
 | **Category** | data-analysis |

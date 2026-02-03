@@ -1,8 +1,8 @@
-# openapi-to-typescript
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | openapi-to-typescript |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/openapi-to-typescript/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/openapi-to-typescript/SKILL.md` |
 | **Category** | content-creation |

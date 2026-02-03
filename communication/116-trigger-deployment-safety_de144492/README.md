@@ -1,8 +1,8 @@
-# Trigger Deployment Safety Guide
+# Trigger Deployment Safety
 
 | Property | Value |
 |----------|-------|
-| **Name** | Trigger Deployment Safety Guide |
+| **Name** | Trigger Deployment Safety |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/trigger-deployment-safety.md) (⭐ 47) |
 | **Original Path** | `sf-deploy/docs/trigger-deployment-safety.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# gdpr-dsgvo-expert
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | gdpr-dsgvo-expert |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/gdpr-dsgvo-expert/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/gdpr-dsgvo-expert/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# ai-doc-writing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-doc-writing |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-doc-writing/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-doc-writing/SKILL.md` |
 | **Category** | content-creation |

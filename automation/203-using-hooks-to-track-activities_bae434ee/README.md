@@ -1,8 +1,8 @@
-# Create log directory
+# Using Hooks To Track Activities
 
 | Property | Value |
 |----------|-------|
-| **Name** | Create log directory |
+| **Name** | Using Hooks To Track Activities |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/using-hooks-to-track-activities.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/using-hooks-to-track-activities.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# test_my_data_types
+# Data Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | test_my_data_types |
+| **Name** | Data Types |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/adding-dbt-unit-test/warehouses/bigquery/data_types.md) (⭐ 10) |
 | **Original Path** | `skills/adding-dbt-unit-test/warehouses/bigquery/data_types.md` |
 | **Category** | data-analysis |

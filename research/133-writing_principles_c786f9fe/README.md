@@ -1,8 +1,8 @@
-# Scientific Writing Principles
+# Writing Principles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scientific Writing Principles |
+| **Name** | Writing Principles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/references/writing_principles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/references/writing_principles.md` |
 | **Category** | research |

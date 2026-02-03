@@ -1,8 +1,8 @@
-# prompting
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | prompting |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Prompting/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Prompting/SKILL.md` |
 | **Category** | productivity |

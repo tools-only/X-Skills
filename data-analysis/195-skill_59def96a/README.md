@@ -1,8 +1,8 @@
-# faq-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | faq-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/faq-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/faq-generator/SKILL.md` |
 | **Category** | data-analysis |

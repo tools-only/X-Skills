@@ -1,8 +1,8 @@
-# Preact v10 - Comprehensive Reference Guide
+# Preact V10 Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Preact v10 - Comprehensive Reference Guide |
+| **Name** | Preact V10 Guide |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/developing-preact/references/preact-v10-guide.md) (⭐ 78) |
 | **Original Path** | `developing-preact/references/preact-v10-guide.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Salesforce Permission Model
+# Permission Model
 
 | Property | Value |
 |----------|-------|
-| **Name** | Salesforce Permission Model |
+| **Name** | Permission Model |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-permissions/docs/permission-model.md) (⭐ 47) |
 | **Original Path** | `sf-permissions/docs/permission-model.md` |
 | **Category** | content-creation |

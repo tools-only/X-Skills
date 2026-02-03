@@ -1,8 +1,8 @@
-# 阶段00：诊断
+# 00 Diagnosis
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段00：诊断 |
+| **Name** | 00 Diagnosis |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/00-diagnosis.md) (⭐ 80) |
 | **Original Path** | `writing-assistant/stages/00-diagnosis.md` |
 | **Category** | other |

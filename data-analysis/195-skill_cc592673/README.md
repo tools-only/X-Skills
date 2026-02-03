@@ -1,8 +1,8 @@
-# quiz-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | quiz-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/quiz-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/quiz-generator/SKILL.md` |
 | **Category** | data-analysis |

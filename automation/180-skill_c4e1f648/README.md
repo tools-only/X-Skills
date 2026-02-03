@@ -1,8 +1,8 @@
-# text-to-speech
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | text-to-speech |
+| **Name** | Skill |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/text-to-speech/SKILL.md) (⭐ 108) |
 | **Original Path** | `text-to-speech/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# ai-ad-sot-doc-pipeline
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-ad-sot-doc-pipeline |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-ad-sot-doc-pipeline/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-ad-sot-doc-pipeline/SKILL.md` |
 | **Category** | automation |

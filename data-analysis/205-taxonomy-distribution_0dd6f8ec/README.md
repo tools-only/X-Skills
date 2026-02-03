@@ -1,8 +1,8 @@
-# Taxonomy Distribution Report
+# Taxonomy Distribution
 
 | Property | Value |
 |----------|-------|
-| **Name** | Taxonomy Distribution Report |
+| **Name** | Taxonomy Distribution |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/taxonomy-distribution.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/taxonomy-distribution.md` |
 | **Category** | data-analysis |

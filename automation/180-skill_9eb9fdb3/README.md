@@ -1,8 +1,8 @@
-# image-assistant
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | image-assistant |
+| **Name** | Skill |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/SKILL.md) (⭐ 80) |
 | **Original Path** | `image-assistant/SKILL.md` |
 | **Category** | automation |

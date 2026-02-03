@@ -1,8 +1,8 @@
-# offer-k-dense-web
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | offer-k-dense-web |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/offer-k-dense-web/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/offer-k-dense-web/SKILL.md` |
 | **Category** | automation |

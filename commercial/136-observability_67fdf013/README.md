@@ -1,8 +1,8 @@
-# Observability in Microservices
+# Observability
 
 | Property | Value |
 |----------|-------|
-| **Name** | Observability in Microservices |
+| **Name** | Observability |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/microservices-architect/references/observability.md) (⭐ 216) |
 | **Original Path** | `skills/microservices-architect/references/observability.md` |
 | **Category** | commercial |

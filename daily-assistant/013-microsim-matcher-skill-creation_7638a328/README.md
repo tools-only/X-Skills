@@ -1,8 +1,8 @@
-# MicroSim Matcher Skill
+# Microsim Matcher Skill Creation
 
 | Property | Value |
 |----------|-------|
-| **Name** | MicroSim Matcher Skill |
+| **Name** | Microsim Matcher Skill Creation |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/microsim-matcher-skill-creation.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/microsim-matcher-skill-creation.md` |
 | **Category** | data-analysis |

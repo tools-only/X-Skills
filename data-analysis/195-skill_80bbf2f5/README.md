@@ -1,8 +1,8 @@
-# ai-multimodal
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-multimodal |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-multimodal/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-multimodal/SKILL.md` |
 | **Category** | content-creation |

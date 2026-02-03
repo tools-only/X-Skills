@@ -1,8 +1,8 @@
-# Chapter Organization Workflow Diagram
+# 10 Chapter Organization Workflow Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chapter Organization Workflow Diagram |
+| **Name** | 10 Chapter Organization Workflow Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/10-chapter-organization-workflow-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/10-chapter-organization-workflow-diagram.md` |
 | **Category** | data-analysis |

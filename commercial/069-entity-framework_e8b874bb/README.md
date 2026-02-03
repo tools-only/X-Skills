@@ -1,8 +1,8 @@
-# Categories
+# Entity Framework
 
 | Property | Value |
 |----------|-------|
-| **Name** | Categories |
+| **Name** | Entity Framework |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/dotnet-core-expert/references/entity-framework.md) (⭐ 216) |
 | **Original Path** | `skills/dotnet-core-expert/references/entity-framework.md` |
 | **Category** | commercial |

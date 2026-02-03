@@ -1,8 +1,8 @@
-# adk-frontend
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adk-frontend |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adk-frontend/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adk-frontend/SKILL.md` |
 | **Category** | commercial |

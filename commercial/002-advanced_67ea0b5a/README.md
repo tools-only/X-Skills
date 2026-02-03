@@ -1,8 +1,8 @@
-# str
+# Advanced
 
 | Property | Value |
 |----------|-------|
-| **Name** | str |
+| **Name** | Advanced |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/invoking-gemini/references/advanced.md) (⭐ 78) |
 | **Original Path** | `invoking-gemini/references/advanced.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Enabling Actuator
+# Enabling
 
 | Property | Value |
 |----------|-------|
-| **Name** | Enabling Actuator |
+| **Name** | Enabling |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/enabling.md) (⭐ 80) |
 | **Original Path** | `skills/spring-boot/spring-boot-actuator/references/enabling.md` |
 | **Category** | commercial |

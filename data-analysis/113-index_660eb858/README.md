@@ -1,8 +1,8 @@
-# Adding Taxonomy to CSV Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Adding Taxonomy to CSV Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/adding-taxonomy-workflow/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/adding-taxonomy-workflow/index.md` |
 | **Category** | data-analysis |

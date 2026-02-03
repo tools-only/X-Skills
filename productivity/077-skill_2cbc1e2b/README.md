@@ -1,8 +1,8 @@
-# qms-audit-expert
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | qms-audit-expert |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/qms-audit-expert/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/qms-audit-expert/SKILL.md` |
 | **Category** | productivity |

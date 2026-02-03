@@ -1,8 +1,8 @@
-# adding-markdown-highlighted-comments
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adding-markdown-highlighted-comments |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adding-markdown-highlighted-comments/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adding-markdown-highlighted-comments/SKILL.md` |
 | **Category** | content-creation |

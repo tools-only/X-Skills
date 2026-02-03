@@ -1,8 +1,8 @@
-# Visualization and Evaluation Tools
+# Visualization Tools
 
 | Property | Value |
 |----------|-------|
-| **Name** | Visualization and Evaluation Tools |
+| **Name** | Visualization Tools |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/visualization-tools.md) (⭐ 80) |
 | **Original Path** | `skills/ai/chunking-strategy/references/visualization-tools.md` |
 | **Category** | data-analysis |

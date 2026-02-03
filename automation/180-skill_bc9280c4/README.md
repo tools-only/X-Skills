@@ -1,8 +1,8 @@
-# ai-model-reference
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-model-reference |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-model-reference/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-model-reference/SKILL.md` |
 | **Category** | automation |

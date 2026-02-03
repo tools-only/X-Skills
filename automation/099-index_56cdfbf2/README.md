@@ -1,8 +1,8 @@
-# Chapter 2: Getting Started
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chapter 2: Getting Started |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/assets/templates/docs/chapters/02-getting-started/index.md) (⭐ 14) |
 | **Original Path** | `skills/book-installer/references/assets/templates/docs/chapters/02-getting-started/index.md` |
 | **Category** | automation |

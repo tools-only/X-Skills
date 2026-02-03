@@ -1,8 +1,8 @@
-# LaTeX Beamer Guide for Scientific Presentations
+# Beamer Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | LaTeX Beamer Guide for Scientific Presentations |
+| **Name** | Beamer Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/references/beamer_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/references/beamer_guide.md` |
 | **Category** | research |

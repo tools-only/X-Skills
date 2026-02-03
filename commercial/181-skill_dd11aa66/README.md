@@ -1,8 +1,8 @@
-# PhotoRealisticArt
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | PhotoRealisticArt |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/PhotoRealisticArt/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/PhotoRealisticArt/SKILL.md` |
 | **Category** | commercial |

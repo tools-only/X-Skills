@@ -1,8 +1,8 @@
-# MicroSim P5.js
+# Microsim P5
 
 | Property | Value |
 |----------|-------|
-| **Name** | MicroSim P5.js |
+| **Name** | Microsim P5 |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/microsims/microsim-p5.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/microsims/microsim-p5.md` |
 | **Category** | commercial |

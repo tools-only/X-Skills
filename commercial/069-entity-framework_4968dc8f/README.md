@@ -1,8 +1,8 @@
-# Entity Framework Core Patterns
+# Entity Framework
 
 | Property | Value |
 |----------|-------|
-| **Name** | Entity Framework Core Patterns |
+| **Name** | Entity Framework |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/references/entity-framework.md) (⭐ 216) |
 | **Original Path** | `skills/csharp-developer/references/entity-framework.md` |
 | **Category** | commercial |

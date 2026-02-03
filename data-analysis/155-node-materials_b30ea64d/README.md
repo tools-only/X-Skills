@@ -1,8 +1,8 @@
-# Node Materials (TSL - Three Shading Language)
+# 13 Node Materials
 
 | Property | Value |
 |----------|-------|
-| **Name** | Node Materials (TSL - Three Shading Language) |
+| **Name** | 13 Node Materials |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/13-node-materials.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/13-node-materials.md` |
 | **Category** | data-analysis |

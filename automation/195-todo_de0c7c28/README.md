@@ -1,8 +1,8 @@
-# MicroSim Screenshot TODO
+# Todo
 
 | Property | Value |
 |----------|-------|
-| **Name** | MicroSim Screenshot TODO |
+| **Name** | Todo |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/TODO.md) (⭐ 14) |
 | **Original Path** | `docs/sims/TODO.md` |
 | **Category** | automation |

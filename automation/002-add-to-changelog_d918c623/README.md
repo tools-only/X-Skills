@@ -1,8 +1,8 @@
-# Update Changelog
+# Add To Changelog
 
 | Property | Value |
 |----------|-------|
-| **Name** | Update Changelog |
+| **Name** | Add To Changelog |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/add-to-changelog/add-to-changelog.md) (🔥 22.5k) |
 | **Original Path** | `resources/slash-commands/add-to-changelog/add-to-changelog.md` |
 | **Category** | content-creation |

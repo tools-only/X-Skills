@@ -1,8 +1,8 @@
-# Data Visualization for Slides
+# Data Visualization Slides
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Visualization for Slides |
+| **Name** | Data Visualization Slides |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/references/data_visualization_slides.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/references/data_visualization_slides.md` |
 | **Category** | data-analysis |

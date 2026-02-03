@@ -1,8 +1,8 @@
-# Next Gen UI Agent – open-source engine for AI-generated UI
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Next Gen UI Agent – open-source engine for AI-generated UI |
+| **Name** | Index |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/index.md) (⭐ 12) |
 | **Original Path** | `docs/index.md` |
 | **Category** | data-analysis |

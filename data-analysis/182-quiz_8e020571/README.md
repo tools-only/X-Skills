@@ -1,8 +1,8 @@
-# Quiz: Learning Graph Quality and Validation
+# Quiz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz: Learning Graph Quality and Validation |
+| **Name** | Quiz |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/06-learning-graph-quality-validation/quiz.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/06-learning-graph-quality-validation/quiz.md` |
 | **Category** | data-analysis |

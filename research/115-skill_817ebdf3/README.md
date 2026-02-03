@@ -1,8 +1,8 @@
-# agent-business-analyst
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-business-analyst |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-business-analyst/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-business-analyst/SKILL.md` |
 | **Category** | research |

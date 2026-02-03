@@ -1,8 +1,8 @@
-# Polar Checkouts
+# Checkouts
 
 | Property | Value |
 |----------|-------|
-| **Name** | Polar Checkouts |
+| **Name** | Checkouts |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/checkouts.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/polar/checkouts.md` |
 | **Category** | commercial |

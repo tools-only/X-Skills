@@ -1,8 +1,8 @@
-# Market Research Report Formatting Guide
+# Formatting Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Market Research Report Formatting Guide |
+| **Name** | Formatting Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/market-research-reports/assets/FORMATTING_GUIDE.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/market-research-reports/assets/FORMATTING_GUIDE.md` |
 | **Category** | data-analysis |

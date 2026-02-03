@@ -1,8 +1,8 @@
-# shopify-expert
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | shopify-expert |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/shopify-expert/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/shopify-expert/SKILL.md` |
 | **Category** | commercial |

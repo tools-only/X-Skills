@@ -1,8 +1,8 @@
-# content-creator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | content-creator |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/content-creator/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/content-creator/SKILL.md` |
 | **Category** | content-creation |

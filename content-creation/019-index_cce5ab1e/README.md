@@ -1,8 +1,8 @@
-# Openviking
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Openviking |
+| **Name** | Index |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/index.md) (⭐ 440) |
 | **Original Path** | `third_party/leveldb-1.23/doc/index.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# ai-image-asset-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-image-asset-generator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-image-asset-generator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-image-asset-generator/SKILL.md` |
 | **Category** | data-analysis |

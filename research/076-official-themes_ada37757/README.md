@@ -1,8 +1,8 @@
-# Marp Official Themes Reference
+# Official Themes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Marp Official Themes Reference |
+| **Name** | Official Themes |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/official-themes.md) (⭐ 383) |
 | **Original Path** | `skills/marp-slide/references/official-themes.md` |
 | **Category** | research |

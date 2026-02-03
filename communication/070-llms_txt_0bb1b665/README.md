@@ -1,8 +1,8 @@
-# FastMCP Documentation Index (llms.txt)
+# Llms Txt
 
 | Property | Value |
 |----------|-------|
-| **Name** | FastMCP Documentation Index (llms.txt) |
+| **Name** | Llms Txt |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/creating-mcp-servers/references/LLMS_TXT.md) (⭐ 78) |
 | **Original Path** | `creating-mcp-servers/references/LLMS_TXT.md` |
 | **Category** | communication |

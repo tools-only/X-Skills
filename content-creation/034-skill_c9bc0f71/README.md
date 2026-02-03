@@ -1,8 +1,8 @@
-# competitive-ads-extractor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | competitive-ads-extractor |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e/SKILL.md` |
 | **Category** | content-creation |

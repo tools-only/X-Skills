@@ -1,8 +1,8 @@
-# deepTools Normalization Methods
+# Normalization Methods
 
 | Property | Value |
 |----------|-------|
-| **Name** | deepTools Normalization Methods |
+| **Name** | Normalization Methods |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deeptools/references/normalization_methods.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/deeptools/references/normalization_methods.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Iteration Workflow: Draft → Final
+# Iteration Workflow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Iteration Workflow: Draft → Final |
+| **Name** | Iteration Workflow |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/docs/iteration-workflow.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-nanobananapro/docs/iteration-workflow.md` |
 | **Category** | automation |

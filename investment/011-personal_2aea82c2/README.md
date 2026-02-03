@@ -1,8 +1,8 @@
-# Personal Project README Template
+# Personal
 
 | Property | Value |
 |----------|-------|
-| **Name** | Personal Project README Template |
+| **Name** | Personal |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/personal.md) (⭐ 383) |
 | **Original Path** | `skills/crafting-effective-readmes/templates/personal.md` |
 | **Category** | investment |

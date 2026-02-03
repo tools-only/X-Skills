@@ -1,8 +1,8 @@
-# Difficult Conversation Framework
+# Conversation Framework
 
 | Property | Value |
 |----------|-------|
-| **Name** | Difficult Conversation Framework |
+| **Name** | Conversation Framework |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/conversation-framework.md) (⭐ 383) |
 | **Original Path** | `skills/difficult-workplace-conversations/references/conversation-framework.md` |
 | **Category** | daily-assistant |

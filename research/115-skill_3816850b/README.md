@@ -1,8 +1,8 @@
-# ai-daily-news
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-daily-news |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-daily/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-daily/SKILL.md` |
 | **Category** | research |

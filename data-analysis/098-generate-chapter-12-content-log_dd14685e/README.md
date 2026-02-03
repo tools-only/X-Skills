@@ -1,8 +1,8 @@
-# Chapter 12 Content Generation Log
+# Generate Chapter 12 Content Log
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chapter 12 Content Generation Log |
+| **Name** | Generate Chapter 12 Content Log |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/generate-chapter-12-content-log.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/generate-chapter-12-content-log.md` |
 | **Category** | data-analysis |

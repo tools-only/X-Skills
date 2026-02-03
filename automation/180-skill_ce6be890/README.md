@@ -1,8 +1,8 @@
-# address-parser
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | address-parser |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/address-parser/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/address-parser/SKILL.md` |
 | **Category** | automation |

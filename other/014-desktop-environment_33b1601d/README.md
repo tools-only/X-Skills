@@ -1,8 +1,8 @@
-# Desktop Environment (Claude Desktop)
+# Desktop Environment
 
 | Property | Value |
 |----------|-------|
-| **Name** | Desktop Environment (Claude Desktop) |
+| **Name** | Desktop Environment |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/iterating/references/desktop-environment.md) (⭐ 78) |
 | **Original Path** | `iterating/references/desktop-environment.md` |
 | **Category** | content-creation |

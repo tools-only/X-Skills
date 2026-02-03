@@ -1,8 +1,8 @@
-# Multi-Label Classify Example
+# Classify Multi Label
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multi-Label Classify Example |
+| **Name** | Classify Multi Label |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/classify_multi_label.md) (⭐ 93) |
 | **Original Path** | `examples/llm/models/classify_multi_label.md` |
 | **Category** | automation |

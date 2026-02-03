@@ -1,8 +1,8 @@
-# datacommons-client
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | datacommons-client |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/datacommons-client/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/datacommons-client/SKILL.md` |
 | **Category** | commercial |

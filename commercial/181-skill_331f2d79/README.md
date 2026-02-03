@@ -1,8 +1,8 @@
-# alpine-js
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alpine-js |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alpine-js/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alpine-js/SKILL.md` |
 | **Category** | commercial |

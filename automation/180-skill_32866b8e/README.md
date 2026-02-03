@@ -1,8 +1,8 @@
-# youtube-downloader
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | youtube-downloader |
+| **Name** | Skill |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/video-downloader/SKILL.md) (⭐ 108) |
 | **Original Path** | `video-downloader/SKILL.md` |
 | **Category** | content-creation |

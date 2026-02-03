@@ -1,8 +1,8 @@
-# discover-opportunities
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | discover-opportunities |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-strategy/discover-opportunities/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/product-strategy/discover-opportunities/SKILL.md` |
 | **Category** | commercial |

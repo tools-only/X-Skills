@@ -1,8 +1,8 @@
-# util-youtube-analyzer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | util-youtube-analyzer |
+| **Name** | Skill |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/util-youtube-analyzer/SKILL.md) (⭐ 47) |
 | **Original Path** | `util-youtube-analyzer/SKILL.md` |
 | **Category** | data-analysis |

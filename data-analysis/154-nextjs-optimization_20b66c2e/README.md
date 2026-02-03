@@ -1,8 +1,8 @@
-# example.com
+# Nextjs Optimization
 
 | Property | Value |
 |----------|-------|
-| **Name** | example.com |
+| **Name** | Nextjs Optimization |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-frameworks/references/nextjs-optimization.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/web-frameworks/references/nextjs-optimization.md` |
 | **Category** | data-analysis |

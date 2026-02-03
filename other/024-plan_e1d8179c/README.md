@@ -1,8 +1,8 @@
-# 阶段2：配图规划（要几张图？每张讲什么？）
+# 02 Plan
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段2：配图规划（要几张图？每张讲什么？） |
+| **Name** | 02 Plan |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/02-plan.md) (⭐ 80) |
 | **Original Path** | `image-assistant/stages/02-plan.md` |
 | **Category** | other |

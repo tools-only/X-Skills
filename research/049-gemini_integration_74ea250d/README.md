@@ -1,8 +1,8 @@
-# react
+# Gemini Integration
 
 | Property | Value |
 |----------|-------|
-| **Name** | react |
+| **Name** | Gemini Integration |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/GEMINI_INTEGRATION.md) (🔥 8.7k) |
 | **Original Path** | `docs/integrations/GEMINI_INTEGRATION.md` |
 | **Category** | research |

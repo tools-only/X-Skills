@@ -1,8 +1,8 @@
-# rsn-creating-ideas
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rsn-creating-ideas |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-creating-ideas/SKILL.md` |
 | **Category** | investment |

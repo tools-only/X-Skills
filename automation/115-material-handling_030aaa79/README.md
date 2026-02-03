@@ -1,8 +1,8 @@
-# Material Handling Equipment in PyLabRobot
+# Material Handling
 
 | Property | Value |
 |----------|-------|
-| **Name** | Material Handling Equipment in PyLabRobot |
+| **Name** | Material Handling |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pylabrobot/references/material-handling.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pylabrobot/references/material-handling.md` |
 | **Category** | automation |

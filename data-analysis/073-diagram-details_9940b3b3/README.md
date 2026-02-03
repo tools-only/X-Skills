@@ -1,8 +1,8 @@
-# Diagram and MicroSim Details
+# Diagram Details
 
 | Property | Value |
 |----------|-------|
-| **Name** | Diagram and MicroSim Details |
+| **Name** | Diagram Details |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/diagram-details.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/diagram-details.md` |
 | **Category** | data-analysis |

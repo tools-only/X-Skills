@@ -1,8 +1,8 @@
-# LaminDB Core Concepts
+# Core Concepts
 
 | Property | Value |
 |----------|-------|
-| **Name** | LaminDB Core Concepts |
+| **Name** | Core Concepts |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/lamindb/references/core-concepts.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/lamindb/references/core-concepts.md` |
 | **Category** | data-analysis |

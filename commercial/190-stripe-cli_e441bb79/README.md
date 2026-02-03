@@ -1,8 +1,8 @@
-# Stripe CLI Reference
+# Stripe Cli
 
 | Property | Value |
 |----------|-------|
-| **Name** | Stripe CLI Reference |
+| **Name** | Stripe Cli |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-cli.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/stripe/stripe-cli.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# 阶段4：提示词封装（Prompt Pack：可执行生成包）
+# 04 Prompts
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段4：提示词封装（Prompt Pack：可执行生成包） |
+| **Name** | 04 Prompts |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/04-prompts.md) (⭐ 80) |
 | **Original Path** | `image-assistant/stages/04-prompts.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# agent-agent-organizer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-agent-organizer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-agent-organizer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-agent-organizer/SKILL.md` |
 | **Category** | automation |

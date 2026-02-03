@@ -1,8 +1,8 @@
-# 阶段04：内容产出
+# 04 Writing
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段04：内容产出 |
+| **Name** | 04 Writing |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/04-writing.md) (⭐ 80) |
 | **Original Path** | `writing-assistant/stages/04-writing.md` |
 | **Category** | other |

@@ -1,8 +1,8 @@
-# active_customers
+# Writing Documentation
 
 | Property | Value |
 |----------|-------|
-| **Name** | active_customers |
+| **Name** | Writing Documentation |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/using-dbt-for-analytics-engineering/writing-documentation.md) (⭐ 10) |
 | **Original Path** | `skills/using-dbt-for-analytics-engineering/writing-documentation.md` |
 | **Category** | content-creation |

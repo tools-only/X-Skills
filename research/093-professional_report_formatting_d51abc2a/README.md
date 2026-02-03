@@ -1,8 +1,8 @@
-# Professional Report Formatting for Scientific Documents
+# Professional Report Formatting
 
 | Property | Value |
 |----------|-------|
-| **Name** | Professional Report Formatting for Scientific Documents |
+| **Name** | Professional Report Formatting |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/references/professional_report_formatting.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/references/professional_report_formatting.md` |
 | **Category** | research |

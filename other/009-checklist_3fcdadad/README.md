@@ -1,8 +1,8 @@
-# 出图提示词回归检查（交付前 30 秒过一遍）
+# Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | 出图提示词回归检查（交付前 30 秒过一遍） |
+| **Name** | Checklist |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/checklist.md) (⭐ 80) |
 | **Original Path** | `image-assistant/templates/checklist.md` |
 | **Category** | other |

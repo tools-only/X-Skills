@@ -1,8 +1,8 @@
-# LWC Template: Data Table Mockup
+# Data Table
 
 | Property | Value |
 |----------|-------|
-| **Name** | LWC Template: Data Table Mockup |
+| **Name** | Data Table |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/templates/lwc/data-table.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-nanobananapro/templates/lwc/data-table.md` |
 | **Category** | data-analysis |

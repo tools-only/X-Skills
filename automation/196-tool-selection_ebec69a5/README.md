@@ -1,8 +1,8 @@
-# Tool Selection Guide
+# Tool Selection
 
 | Property | Value |
 |----------|-------|
-| **Name** | Tool Selection Guide |
+| **Name** | Tool Selection |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/references/tool-selection.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/docs-seeker/references/tool-selection.md` |
 | **Category** | automation |

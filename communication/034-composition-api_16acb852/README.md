@@ -1,8 +1,8 @@
-# John
+# Composition Api
 
 | Property | Value |
 |----------|-------|
-| **Name** | John |
+| **Name** | Composition Api |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/references/composition-api.md) (⭐ 216) |
 | **Original Path** | `skills/vue-expert/references/composition-api.md` |
 | **Category** | communication |

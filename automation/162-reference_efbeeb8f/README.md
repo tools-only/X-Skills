@@ -1,8 +1,8 @@
-# !Sub
+# Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | !Sub |
+| **Name** | Reference |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-ecs/reference.md) (⭐ 80) |
 | **Original Path** | `skills/aws-cloudformation/aws-cloudformation-ecs/reference.md` |
 | **Category** | automation |

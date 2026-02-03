@@ -1,8 +1,8 @@
-# communication-excellence-coach
+# Communication Excellence Coach
 
 | Property | Value |
 |----------|-------|
-| **Name** | communication-excellence-coach |
+| **Name** | Communication Excellence Coach |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/communication-excellence-coach.md) (⭐ 383) |
 | **Original Path** | `agents/communication-excellence-coach.md` |
 | **Category** | communication |

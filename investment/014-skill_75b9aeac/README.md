@@ -1,8 +1,8 @@
-# analyzing-financial-statements
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analyzing-financial-statements |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analyzing-financial-statements/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analyzing-financial-statements/SKILL.md` |
 | **Category** | investment |

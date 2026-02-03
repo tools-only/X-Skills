@@ -1,8 +1,8 @@
-# ai4pkm-helper
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai4pkm-helper |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai4pkm-helper/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai4pkm-helper/SKILL.md` |
 | **Category** | content-creation |

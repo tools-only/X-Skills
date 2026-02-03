@@ -1,8 +1,8 @@
-# Pro Plan
+# Sdk
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pro Plan |
+| **Name** | Sdk |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/sdk.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/polar/sdk.md` |
 | **Category** | commercial |

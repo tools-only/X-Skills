@@ -1,8 +1,8 @@
-# Learning Graph JSON Schema
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph JSON Schema |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/learning-graph-json-schema/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/learning-graph-json-schema/index.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Venue Writing Styles: Master Guide
+# Venue Writing Styles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Venue Writing Styles: Master Guide |
+| **Name** | Venue Writing Styles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/venue_writing_styles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/venue_writing_styles.md` |
 | **Category** | research |

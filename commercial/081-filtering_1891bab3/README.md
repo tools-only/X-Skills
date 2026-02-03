@@ -1,8 +1,8 @@
-# Filtering Mode
+# Filtering
 
 | Property | Value |
 |----------|-------|
-| **Name** | Filtering Mode |
+| **Name** | Filtering |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/filtering.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/references/filtering.md` |
 | **Category** | commercial |

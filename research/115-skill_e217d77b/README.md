@@ -1,8 +1,8 @@
-# ai-sdk-core
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-sdk-core |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-sdk-core/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-sdk-core/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# QuTiP Time Evolution and Dynamics Solvers
+# Time Evolution
 
 | Property | Value |
 |----------|-------|
-| **Name** | QuTiP Time Evolution and Dynamics Solvers |
+| **Name** | Time Evolution |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qutip/references/time_evolution.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/qutip/references/time_evolution.md` |
 | **Category** | commercial |

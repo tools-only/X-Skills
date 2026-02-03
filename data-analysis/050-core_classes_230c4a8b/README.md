@@ -1,8 +1,8 @@
-# Pymatgen Core Classes Reference
+# Core Classes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pymatgen Core Classes Reference |
+| **Name** | Core Classes |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymatgen/references/core_classes.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymatgen/references/core_classes.md` |
 | **Category** | data-analysis |

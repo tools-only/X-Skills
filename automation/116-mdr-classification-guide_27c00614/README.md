@@ -1,8 +1,8 @@
-# MDR Device Classification Guide
+# Mdr Classification Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | MDR Device Classification Guide |
+| **Name** | Mdr Classification Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/mdr-745-specialist/references/mdr-classification-guide.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/mdr-745-specialist/references/mdr-classification-guide.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# OpenViking 团队与组织
+# About Us
 
 | Property | Value |
 |----------|-------|
-| **Name** | OpenViking 团队与组织 |
+| **Name** | About Us |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/about-us.md) (⭐ 440) |
 | **Original Path** | `docs/zh/about/about-us.md` |
 | **Category** | communication |

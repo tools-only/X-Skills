@@ -1,8 +1,8 @@
-# Graph Viewer Sidebar Updates
+# Fix Graph Viewer Sidebar
 
 | Property | Value |
 |----------|-------|
-| **Name** | Graph Viewer Sidebar Updates |
+| **Name** | Fix Graph Viewer Sidebar |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/fix-graph-viewer-sidebar.md) (⭐ 14) |
 | **Original Path** | `logs/fix-graph-viewer-sidebar.md` |
 | **Category** | data-analysis |

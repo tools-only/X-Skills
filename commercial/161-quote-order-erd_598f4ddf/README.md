@@ -1,8 +1,8 @@
-# Quote & Order Data Model Template
+# Quote Order Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quote & Order Data Model Template |
+| **Name** | Quote Order Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/quote-order-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/quote-order-erd.md` |
 | **Category** | commercial |

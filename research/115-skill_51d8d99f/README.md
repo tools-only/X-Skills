@@ -1,8 +1,8 @@
-# venue-templates
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | venue-templates |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/SKILL.md` |
 | **Category** | research |

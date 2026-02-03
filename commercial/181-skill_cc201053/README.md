@@ -1,8 +1,8 @@
-# ai-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-engineer-skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-engineer-skill/SKILL.md` |
 | **Category** | commercial |

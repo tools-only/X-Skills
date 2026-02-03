@@ -1,8 +1,8 @@
-# :page, in: :query, type: :integer, required: false
+# Api Development
 
 | Property | Value |
 |----------|-------|
-| **Name** | :page, in: :query, type: :integer, required: false |
+| **Name** | Api Development |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rails-expert/references/api-development.md) (⭐ 216) |
 | **Original Path** | `skills/rails-expert/references/api-development.md` |
 | **Category** | communication |

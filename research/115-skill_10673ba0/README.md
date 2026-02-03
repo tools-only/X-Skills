@@ -1,8 +1,8 @@
-# json-canvas
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | json-canvas |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/72714e33-102d-4c0a-8f9d-4790c1145f5f/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/72714e33-102d-4c0a-8f9d-4790c1145f5f/SKILL.md` |
 | **Category** | research |

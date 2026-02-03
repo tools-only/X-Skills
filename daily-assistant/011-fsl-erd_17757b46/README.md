@@ -1,8 +1,8 @@
-# Field Service Lightning (FSL) Data Model Template
+# Fsl Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Field Service Lightning (FSL) Data Model Template |
+| **Name** | Fsl Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/fsl-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/fsl-erd.md` |
 | **Category** | daily-assistant |

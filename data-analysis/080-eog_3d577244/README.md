@@ -1,8 +1,8 @@
-# Electrooculography (EOG) Analysis
+# Eog
 
 | Property | Value |
 |----------|-------|
-| **Name** | Electrooculography (EOG) Analysis |
+| **Name** | Eog |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neurokit2/references/eog.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neurokit2/references/eog.md` |
 | **Category** | data-analysis |

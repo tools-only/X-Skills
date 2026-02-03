@@ -1,8 +1,8 @@
-# README Style Guide
+# Style Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | README Style Guide |
+| **Name** | Style Guide |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/style-guide.md) (⭐ 383) |
 | **Original Path** | `skills/crafting-effective-readmes/style-guide.md` |
 | **Category** | content-creation |

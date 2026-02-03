@@ -1,8 +1,8 @@
-# using-colin
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | using-colin |
+| **Name** | Skill |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/src/colin/blueprints/quickstart/models/SKILL.md) (⭐ 93) |
 | **Original Path** | `src/colin/blueprints/quickstart/models/SKILL.md` |
 | **Category** | automation |

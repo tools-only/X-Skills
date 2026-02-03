@@ -1,8 +1,8 @@
-# OKR Cascade Framework
+# Okr Framework
 
 | Property | Value |
 |----------|-------|
-| **Name** | OKR Cascade Framework |
+| **Name** | Okr Framework |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/product-strategist/references/okr_framework.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/product-strategist/references/okr_framework.md` |
 | **Category** | productivity |

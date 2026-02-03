@@ -1,8 +1,8 @@
-# Project Management Skills - Claude Code Guidance
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | Project Management Skills - Claude Code Guidance |
+| **Name** | Claude |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/CLAUDE.md) (⭐ 1.5k) |
 | **Original Path** | `project-management/CLAUDE.md` |
 | **Category** | automation |

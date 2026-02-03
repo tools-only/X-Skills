@@ -1,8 +1,8 @@
-# math-function-plotter-plotly
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | math-function-plotter-plotly |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/math-function-plotter-plotly/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/math-function-plotter-plotly/SKILL.md` |
 | **Category** | data-analysis |

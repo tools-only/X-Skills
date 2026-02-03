@@ -1,8 +1,8 @@
-# PDD Prompt Report: `prompts/customer_service_agent.txt`
+# Report Output
 
 | Property | Value |
 |----------|-------|
-| **Name** | PDD Prompt Report: `prompts/customer_service_agent.txt` |
+| **Name** | Report Output |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/examples/prompts_linter/examples/report_output.md) (⭐ 407) |
 | **Original Path** | `examples/prompts_linter/examples/report_output.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# MCP Configuration Guide
+# Configuration
 
 | Property | Value |
 |----------|-------|
-| **Name** | MCP Configuration Guide |
+| **Name** | Configuration |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mcp-management/references/configuration.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/mcp-management/references/configuration.md` |
 | **Category** | automation |

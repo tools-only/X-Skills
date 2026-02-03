@@ -1,8 +1,8 @@
-# Name
+# Configuration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Name |
+| **Name** | Configuration |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md) (⭐ 12) |
 | **Original Path** | `docs/guide/configuration.md` |
 | **Category** | data-analysis |

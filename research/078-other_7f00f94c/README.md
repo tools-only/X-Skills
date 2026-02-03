@@ -1,8 +1,8 @@
-# acetaminophen
+# Other
 
 | Property | Value |
 |----------|-------|
-| **Name** | acetaminophen |
+| **Name** | Other |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fda-database/references/other.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fda-database/references/other.md` |
 | **Category** | research |

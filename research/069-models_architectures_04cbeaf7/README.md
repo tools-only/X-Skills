@@ -1,8 +1,8 @@
-# Models and Architectures
+# Models Architectures
 
 | Property | Value |
 |----------|-------|
-| **Name** | Models and Architectures |
+| **Name** | Models Architectures |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/torchdrug/references/models_architectures.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/torchdrug/references/models_architectures.md` |
 | **Category** | research |

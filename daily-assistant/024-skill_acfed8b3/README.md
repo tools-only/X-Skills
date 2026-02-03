@@ -1,8 +1,8 @@
-# agent-registry
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-registry |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-registry/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-registry/SKILL.md` |
 | **Category** | daily-assistant |

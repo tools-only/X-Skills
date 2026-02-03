@@ -1,8 +1,8 @@
-# unit-test-bean-validation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | unit-test-bean-validation |
+| **Name** | Skill |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-bean-validation/SKILL.md) (⭐ 80) |
 | **Original Path** | `skills/junit-test/unit-test-bean-validation/SKILL.md` |
 | **Category** | communication |

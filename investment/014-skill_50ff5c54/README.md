@@ -1,8 +1,8 @@
-# a-share-screener
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | a-share-screener |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/a-share-screener/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/a-share-screener/SKILL.md` |
 | **Category** | investment |

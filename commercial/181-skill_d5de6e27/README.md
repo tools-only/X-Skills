@@ -1,8 +1,8 @@
-# fnd.r-sizing-markets
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fnd.r-sizing-markets |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-sizing-markets/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/fnd.r-sizing-markets/SKILL.md` |
 | **Category** | commercial |

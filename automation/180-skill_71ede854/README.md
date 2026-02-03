@@ -1,8 +1,8 @@
-# Building Agent Skills
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Building Agent Skills |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-skill-builder/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-skill-builder/SKILL.md` |
 | **Category** | automation |

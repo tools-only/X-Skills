@@ -1,8 +1,8 @@
-# Prompt Caching Quick Reference
+# Prompt Caching
 
 | Property | Value |
 |----------|-------|
-| **Name** | Prompt Caching Quick Reference |
+| **Name** | Prompt Caching |
 | **Repository** | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/prompt-caching.md) (⭐ 17) |
 | **Original Path** | `references/prompt-caching.md` |
 | **Category** | content-creation |

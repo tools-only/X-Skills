@@ -1,8 +1,8 @@
-# Book Generation Skills
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Book Generation Skills |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/book/index.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/book/index.md` |
 | **Category** | data-analysis |

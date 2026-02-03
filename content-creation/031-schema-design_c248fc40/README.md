@@ -1,8 +1,8 @@
-# String
+# Schema Design
 
 | Property | Value |
 |----------|-------|
-| **Name** | String |
+| **Name** | Schema Design |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/graphql-architect/references/schema-design.md) (⭐ 216) |
 | **Original Path** | `skills/graphql-architect/references/schema-design.md` |
 | **Category** | content-creation |

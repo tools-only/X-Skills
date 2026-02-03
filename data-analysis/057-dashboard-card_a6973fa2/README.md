@@ -1,8 +1,8 @@
-# LWC Template: Dashboard Card Mockup
+# Dashboard Card
 
 | Property | Value |
 |----------|-------|
-| **Name** | LWC Template: Dashboard Card Mockup |
+| **Name** | Dashboard Card |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/templates/lwc/dashboard-card.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-nanobananapro/templates/lwc/dashboard-card.md` |
 | **Category** | data-analysis |

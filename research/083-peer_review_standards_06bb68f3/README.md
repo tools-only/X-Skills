@@ -1,8 +1,8 @@
-# Peer Review Standards for Clinical Manuscripts
+# Peer Review Standards
 
 | Property | Value |
 |----------|-------|
-| **Name** | Peer Review Standards for Clinical Manuscripts |
+| **Name** | Peer Review Standards |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/references/peer_review_standards.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-reports/references/peer_review_standards.md` |
 | **Category** | research |

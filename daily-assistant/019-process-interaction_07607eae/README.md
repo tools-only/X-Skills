@@ -1,8 +1,8 @@
-# SimPy Process Interaction
+# Process Interaction
 
 | Property | Value |
 |----------|-------|
-| **Name** | SimPy Process Interaction |
+| **Name** | Process Interaction |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/simpy/references/process-interaction.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/simpy/references/process-interaction.md` |
 | **Category** | daily-assistant |

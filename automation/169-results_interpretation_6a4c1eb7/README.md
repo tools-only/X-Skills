@@ -1,8 +1,8 @@
-# Rowan Results Interpretation Reference
+# Results Interpretation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Rowan Results Interpretation Reference |
+| **Name** | Results Interpretation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rowan/references/results_interpretation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rowan/references/results_interpretation.md` |
 | **Category** | automation |

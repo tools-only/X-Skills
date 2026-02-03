@@ -1,8 +1,8 @@
-# FAQ Question Pattern Analysis Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | FAQ Question Pattern Analysis Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/faq-pattern-analysis/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/faq-pattern-analysis/index.md` |
 | **Category** | automation |

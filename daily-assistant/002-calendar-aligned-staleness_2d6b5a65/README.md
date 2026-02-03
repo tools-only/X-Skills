@@ -1,8 +1,8 @@
-# ADR 014: Calendar-Aligned Staleness
+# 014 Calendar Aligned Staleness
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR 014: Calendar-Aligned Staleness |
+| **Name** | 014 Calendar Aligned Staleness |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/014-calendar-aligned-staleness.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/014-calendar-aligned-staleness.md` |
 | **Category** | daily-assistant |

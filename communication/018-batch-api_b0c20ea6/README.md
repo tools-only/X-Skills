@@ -1,8 +1,8 @@
-# Batch API Quick Reference
+# Batch Api
 
 | Property | Value |
 |----------|-------|
-| **Name** | Batch API Quick Reference |
+| **Name** | Batch Api |
 | **Repository** | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/references/batch-api.md) (⭐ 17) |
 | **Original Path** | `references/batch-api.md` |
 | **Category** | communication |

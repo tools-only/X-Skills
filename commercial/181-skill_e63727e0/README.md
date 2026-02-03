@@ -1,8 +1,8 @@
-# agile-product-owner
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agile-product-owner |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agile-product-owner/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agile-product-owner/SKILL.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Chain-of-Thought Reasoning Patterns
+# Cot Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chain-of-Thought Reasoning Patterns |
+| **Name** | Cot Patterns |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/cot-patterns.md) (⭐ 80) |
 | **Original Path** | `skills/ai/prompt-engineering/references/cot-patterns.md` |
 | **Category** | research |

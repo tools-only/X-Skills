@@ -1,8 +1,8 @@
-# Rowan Molecule Handling Reference
+# Molecule Handling
 
 | Property | Value |
 |----------|-------|
-| **Name** | Rowan Molecule Handling Reference |
+| **Name** | Molecule Handling |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rowan/references/molecule_handling.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rowan/references/molecule_handling.md` |
 | **Category** | automation |

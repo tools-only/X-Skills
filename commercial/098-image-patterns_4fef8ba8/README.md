@@ -1,8 +1,8 @@
-# Marp Image Syntax Reference
+# Image Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Marp Image Syntax Reference |
+| **Name** | Image Patterns |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/marp-slide/references/image-patterns.md) (⭐ 383) |
 | **Original Path** | `skills/marp-slide/references/image-patterns.md` |
 | **Category** | commercial |

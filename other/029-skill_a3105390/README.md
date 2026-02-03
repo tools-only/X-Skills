@@ -1,8 +1,8 @@
-# Claude Skill Registry
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claude Skill Registry |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/09-strategizing/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/09-strategizing/SKILL.md` |
 | **Category** | other |

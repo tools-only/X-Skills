@@ -1,8 +1,8 @@
-# Database Connection Pool Exhaustion
+# Experiment Design
 
 | Property | Value |
 |----------|-------|
-| **Name** | Database Connection Pool Exhaustion |
+| **Name** | Experiment Design |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/experiment-design.md) (⭐ 216) |
 | **Original Path** | `skills/chaos-engineer/references/experiment-design.md` |
 | **Category** | commercial |

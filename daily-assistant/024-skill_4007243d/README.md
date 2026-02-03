@@ -1,8 +1,8 @@
-# 8bit-docs-patterns
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | 8bit-docs-patterns |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/8bit-docs-patterns/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/8bit-docs-patterns/SKILL.md` |
 | **Category** | daily-assistant |

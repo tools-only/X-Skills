@@ -1,8 +1,8 @@
-# json-render-ui
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | json-render-ui |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/json-render-ui/SKILL.md) (⭐ 78) |
 | **Original Path** | `json-render-ui/SKILL.md` |
 | **Category** | data-analysis |

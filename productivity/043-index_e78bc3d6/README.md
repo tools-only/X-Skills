@@ -1,8 +1,8 @@
-# Skill Installation Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Installation Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/skill-installation-workflow/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/skill-installation-workflow/index.md` |
 | **Category** | productivity |

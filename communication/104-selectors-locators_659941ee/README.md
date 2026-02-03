@@ -1,8 +1,8 @@
-# Submit
+# Selectors Locators
 
 | Property | Value |
 |----------|-------|
-| **Name** | Submit |
+| **Name** | Selectors Locators |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/playwright-expert/references/selectors-locators.md) (⭐ 216) |
 | **Original Path** | `skills/playwright-expert/references/selectors-locators.md` |
 | **Category** | communication |

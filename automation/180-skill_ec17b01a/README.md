@@ -1,8 +1,8 @@
-# ml-pipeline
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ml-pipeline |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/ml-pipeline/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/ml-pipeline/SKILL.md` |
 | **Category** | automation |

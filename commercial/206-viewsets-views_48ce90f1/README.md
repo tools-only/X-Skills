@@ -1,8 +1,8 @@
-# ViewSets & Views
+# Viewsets Views
 
 | Property | Value |
 |----------|-------|
-| **Name** | ViewSets & Views |
+| **Name** | Viewsets Views |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/django-expert/references/viewsets-views.md) (⭐ 216) |
 | **Original Path** | `skills/django-expert/references/viewsets-views.md` |
 | **Category** | commercial |

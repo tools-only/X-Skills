@@ -1,8 +1,8 @@
-# adaptyv
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adaptyv |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adaptyv/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adaptyv/SKILL.md` |
 | **Category** | automation |

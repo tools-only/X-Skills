@@ -1,8 +1,8 @@
-# 📚 文档更新总结 - YouTube 转 Blog Post Skill (SEO 优化版)
+# Documentation Update Summary
 
 | Property | Value |
 |----------|-------|
-| **Name** | 📚 文档更新总结 - YouTube 转 Blog Post Skill (SEO 优化版) |
+| **Name** | Documentation Update Summary |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/DOCUMENTATION_UPDATE_SUMMARY.md) (⭐ 108) |
 | **Original Path** | `youtube-to-blog-post/DOCUMENTATION_UPDATE_SUMMARY.md` |
 | **Category** | content-creation |

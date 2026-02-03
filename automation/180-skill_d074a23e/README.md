@@ -1,8 +1,8 @@
-# account-delete
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | account-delete |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/account-delete/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/account-delete/SKILL.md` |
 | **Category** | automation |

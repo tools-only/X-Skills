@@ -1,8 +1,8 @@
-# Alice
+# Mongodb Crud
 
 | Property | Value |
 |----------|-------|
-| **Name** | Alice |
+| **Name** | Mongodb Crud |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/mongodb-crud.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/databases/references/mongodb-crud.md` |
 | **Category** | content-creation |

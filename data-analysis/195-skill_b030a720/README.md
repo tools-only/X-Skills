@@ -1,8 +1,8 @@
-# adjective-entry
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adjective-entry |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adjective-entry/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adjective-entry/SKILL.md` |
 | **Category** | content-creation |

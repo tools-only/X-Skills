@@ -1,8 +1,8 @@
-# Time Series Regression
+# Regression
 
 | Property | Value |
 |----------|-------|
-| **Name** | Time Series Regression |
+| **Name** | Regression |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/aeon/references/regression.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/aeon/references/regression.md` |
 | **Category** | automation |

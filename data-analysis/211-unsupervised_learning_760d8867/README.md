@@ -1,8 +1,8 @@
-# Unsupervised Learning Reference
+# Unsupervised Learning
 
 | Property | Value |
 |----------|-------|
-| **Name** | Unsupervised Learning Reference |
+| **Name** | Unsupervised Learning |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scikit-learn/references/unsupervised_learning.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scikit-learn/references/unsupervised_learning.md` |
 | **Category** | data-analysis |

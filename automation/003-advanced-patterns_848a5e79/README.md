@@ -1,8 +1,8 @@
-# Advanced Workflow Patterns
+# Advanced Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced Workflow Patterns |
+| **Name** | Advanced Patterns |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/creating-skill/references/advanced-patterns.md) (⭐ 78) |
 | **Original Path** | `creating-skill/references/advanced-patterns.md` |
 | **Category** | data-analysis |

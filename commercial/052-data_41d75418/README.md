@@ -1,8 +1,8 @@
-# John
+# Data
 
 | Property | Value |
 |----------|-------|
-| **Name** | John |
+| **Name** | Data |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/microservices-architect/references/data.md) (⭐ 216) |
 | **Original Path** | `skills/microservices-architect/references/data.md` |
 | **Category** | commercial |

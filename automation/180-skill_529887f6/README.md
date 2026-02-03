@@ -1,8 +1,8 @@
-# abaqus-geometry
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | abaqus-geometry |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/abaqus-geometry/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/abaqus-geometry/SKILL.md` |
 | **Category** | daily-assistant |

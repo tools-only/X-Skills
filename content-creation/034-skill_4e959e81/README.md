@@ -1,8 +1,8 @@
-# sys-executing-threads
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sys-executing-threads |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-executing-threads/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/sys-executing-threads/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# ai-multimodal
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-multimodal |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ai-multimodal/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/ai-multimodal/SKILL.md` |
 | **Category** | content-creation |

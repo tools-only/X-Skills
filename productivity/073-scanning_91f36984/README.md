@@ -1,8 +1,8 @@
-# Scanning Mode
+# Scanning
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scanning Mode |
+| **Name** | Scanning |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/scanning.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/references/scanning.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# unit-test-caching
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | unit-test-caching |
+| **Name** | Skill |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-caching/SKILL.md) (⭐ 80) |
 | **Original Path** | `skills/junit-test/unit-test-caching/SKILL.md` |
 | **Category** | commercial |

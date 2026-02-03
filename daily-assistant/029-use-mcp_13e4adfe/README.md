@@ -1,8 +1,8 @@
-# Claudekit Skills
+# Use Mcp
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claudekit Skills |
+| **Name** | Use Mcp |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/commands/use-mcp.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/commands/use-mcp.md` |
 | **Category** | daily-assistant |

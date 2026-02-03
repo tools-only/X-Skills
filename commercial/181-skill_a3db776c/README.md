@@ -1,8 +1,8 @@
-# adk-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adk-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adk-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adk-engineer/SKILL.md` |
 | **Category** | commercial |

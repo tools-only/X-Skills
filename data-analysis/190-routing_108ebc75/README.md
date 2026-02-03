@@ -1,8 +1,8 @@
-# Routing & API Resources
+# Routing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Routing & API Resources |
+| **Name** | Routing |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/laravel-specialist/references/routing.md) (⭐ 216) |
 | **Original Path** | `skills/laravel-specialist/references/routing.md` |
 | **Category** | content-creation |

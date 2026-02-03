@@ -1,8 +1,8 @@
-# charting-vega-lite
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | charting-vega-lite |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/charting-vega-lite/SKILL.md) (⭐ 78) |
 | **Original Path** | `charting-vega-lite/SKILL.md` |
 | **Category** | data-analysis |

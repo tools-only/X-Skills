@@ -1,8 +1,8 @@
-# string; email: string }): void
+# Components
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; email: string }): void |
+| **Name** | Components |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/references/components.md) (⭐ 216) |
 | **Original Path** | `skills/vue-expert/references/components.md` |
 | **Category** | communication |

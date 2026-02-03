@@ -1,8 +1,8 @@
-# Blog Management
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Blog Management |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Blog%20Management/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Blog Management/SKILL.md` |
 | **Category** | content-creation |

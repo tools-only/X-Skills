@@ -1,8 +1,8 @@
-# Vis-Network MicroSim Generator
+# Vis Network
 
 | Property | Value |
 |----------|-------|
-| **Name** | Vis-Network MicroSim Generator |
+| **Name** | Vis Network |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/microsims/vis-network.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/microsims/vis-network.md` |
 | **Category** | data-analysis |

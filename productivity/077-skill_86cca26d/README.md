@@ -1,8 +1,8 @@
-# A3criticalthinking
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | A3criticalthinking |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/A3CriticalThinking/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/A3CriticalThinking/SKILL.md` |
 | **Category** | productivity |

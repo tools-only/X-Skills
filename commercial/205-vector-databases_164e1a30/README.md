@@ -1,8 +1,8 @@
-# Vector Database Comparison and Configuration
+# Vector Databases
 
 | Property | Value |
 |----------|-------|
-| **Name** | Vector Database Comparison and Configuration |
+| **Name** | Vector Databases |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/vector-databases.md) (⭐ 80) |
 | **Original Path** | `skills/ai/rag/references/vector-databases.md` |
 | **Category** | commercial |

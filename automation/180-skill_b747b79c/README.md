@@ -1,8 +1,8 @@
-# pytorch-lightning
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pytorch-lightning |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytorch-lightning/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytorch-lightning/SKILL.md` |
 | **Category** | automation |

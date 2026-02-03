@@ -1,8 +1,8 @@
-# Medium Diagram Generation - Final Session Summary
+# Session Final Summary
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medium Diagram Generation - Final Session Summary |
+| **Name** | Session Final Summary |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/session-final-summary.md) (⭐ 14) |
 | **Original Path** | `logs/session-final-summary.md` |
 | **Category** | data-analysis |

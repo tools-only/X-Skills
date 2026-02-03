@@ -1,8 +1,8 @@
-# mermaid-generator
+# Mermaid Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | mermaid-generator |
+| **Name** | Mermaid Guide |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) (⭐ 14) |
 | **Original Path** | `skills/microsim-generator/references/mermaid-guide.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Book Levels MicroSim
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Book Levels MicroSim |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/book-levels/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/book-levels/index.md` |
 | **Category** | content-creation |

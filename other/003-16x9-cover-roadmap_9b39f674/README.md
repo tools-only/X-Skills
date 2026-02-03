@@ -1,8 +1,8 @@
-# 16:9 封面路线图模板（目录/课程结构）
+# 16X9 Cover Roadmap
 
 | Property | Value |
 |----------|-------|
-| **Name** | 16:9 封面路线图模板（目录/课程结构） |
+| **Name** | 16X9 Cover Roadmap |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-cover-roadmap.md) (⭐ 80) |
 | **Original Path** | `image-assistant/templates/16x9-cover-roadmap.md` |
 | **Category** | other |

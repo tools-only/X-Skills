@@ -1,8 +1,8 @@
-# angular-http
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | angular-http |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/angular-http/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/angular-http/SKILL.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# Audio Processing Reference
+# Audio Processing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Audio Processing Reference |
+| **Name** | Audio Processing |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ai-multimodal/references/audio-processing.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/ai-multimodal/references/audio-processing.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Change Data Capture (CDC) Guide
+# Cdc Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Change Data Capture (CDC) Guide |
+| **Name** | Cdc Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/docs/cdc-guide.md) (⭐ 47) |
 | **Original Path** | `sf-integration/docs/cdc-guide.md` |
 | **Category** | automation |

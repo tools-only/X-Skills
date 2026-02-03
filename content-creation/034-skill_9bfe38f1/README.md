@@ -1,8 +1,8 @@
-# ai-tool-creation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-tool-creation |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-tool-creation/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-tool-creation/SKILL.md` |
 | **Category** | content-creation |

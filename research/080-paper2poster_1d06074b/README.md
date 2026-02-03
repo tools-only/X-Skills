@@ -1,8 +1,8 @@
-# Paper2Poster: Academic Poster Generation
+# Paper2Poster
 
 | Property | Value |
 |----------|-------|
-| **Name** | Paper2Poster: Academic Poster Generation |
+| **Name** | Paper2Poster |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/paper-2-web/references/paper2poster.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/paper-2-web/references/paper2poster.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# NgRx State Management
+# Ngrx
 
 | Property | Value |
 |----------|-------|
-| **Name** | NgRx State Management |
+| **Name** | Ngrx |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/angular-architect/references/ngrx.md) (⭐ 216) |
 | **Original Path** | `skills/angular-architect/references/ngrx.md` |
 | **Category** | commercial |

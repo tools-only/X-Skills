@@ -1,8 +1,8 @@
-# Endpoints & Routing
+# Endpoints Routing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Endpoints & Routing |
+| **Name** | Endpoints Routing |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fastapi-expert/references/endpoints-routing.md) (⭐ 216) |
 | **Original Path** | `skills/fastapi-expert/references/endpoints-routing.md` |
 | **Category** | communication |

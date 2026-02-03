@@ -1,8 +1,8 @@
-# pymatgen
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pymatgen |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymatgen/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymatgen/SKILL.md` |
 | **Category** | data-analysis |

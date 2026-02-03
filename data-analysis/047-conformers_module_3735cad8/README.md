@@ -1,8 +1,8 @@
-# Datamol Conformers Module Reference
+# Conformers Module
 
 | Property | Value |
 |----------|-------|
-| **Name** | Datamol Conformers Module Reference |
+| **Name** | Conformers Module |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/datamol/references/conformers_module.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/datamol/references/conformers_module.md` |
 | **Category** | data-analysis |

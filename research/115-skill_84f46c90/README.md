@@ -1,8 +1,8 @@
-# scholar-evaluation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | scholar-evaluation |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scholar-evaluation/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scholar-evaluation/SKILL.md` |
 | **Category** | research |

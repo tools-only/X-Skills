@@ -1,8 +1,8 @@
-# advanced-evaluation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | advanced-evaluation |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/advanced-evaluation/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/advanced-evaluation/SKILL.md` |
 | **Category** | research |

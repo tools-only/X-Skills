@@ -1,8 +1,8 @@
-# SymPy Core Capabilities
+# Core Capabilities
 
 | Property | Value |
 |----------|-------|
-| **Name** | SymPy Core Capabilities |
+| **Name** | Core Capabilities |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/sympy/references/core-capabilities.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/sympy/references/core-capabilities.md` |
 | **Category** | commercial |

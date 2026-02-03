@@ -1,8 +1,8 @@
-# Quantum Circuits in PennyLane
+# Quantum Circuits
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quantum Circuits in PennyLane |
+| **Name** | Quantum Circuits |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pennylane/references/quantum_circuits.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pennylane/references/quantum_circuits.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Causal Loop Diagram Generation Rules
+# Rules
 
 | Property | Value |
 |----------|-------|
-| **Name** | Causal Loop Diagram Generation Rules |
+| **Name** | Rules |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/causal-loop-microsim-generator/assets/rules.md) (⭐ 14) |
 | **Original Path** | `skills/archived/causal-loop-microsim-generator/assets/rules.md` |
 | **Category** | content-creation |

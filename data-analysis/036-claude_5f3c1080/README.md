@@ -1,8 +1,8 @@
-# CLI 模块
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | CLI 模块 |
+| **Name** | Claude |
 | **Repository** | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/feishu_docx/cli/CLAUDE.md) (⭐ 41) |
 | **Original Path** | `feishu_docx/cli/CLAUDE.md` |
 | **Category** | content-creation |

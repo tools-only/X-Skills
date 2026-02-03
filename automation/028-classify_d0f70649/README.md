@@ -1,8 +1,8 @@
-# Classify Example
+# Classify
 
 | Property | Value |
 |----------|-------|
-| **Name** | Classify Example |
+| **Name** | Classify |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/classify.md) (⭐ 93) |
 | **Original Path** | `examples/llm/models/classify.md` |
 | **Category** | automation |

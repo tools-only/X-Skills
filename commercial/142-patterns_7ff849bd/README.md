@@ -1,8 +1,8 @@
-# Resilience and Reliability Patterns
+# Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Resilience and Reliability Patterns |
+| **Name** | Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/microservices-architect/references/patterns.md) (⭐ 216) |
 | **Original Path** | `skills/microservices-architect/references/patterns.md` |
 | **Category** | commercial |

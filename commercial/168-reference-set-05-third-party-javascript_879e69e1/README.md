@@ -1,8 +1,8 @@
-# Third Party JavaScript Management Cheat Sheet
+# Reference Set 05 Third Party Javascript
 
 | Property | Value |
 |----------|-------|
-| **Name** | Third Party JavaScript Management Cheat Sheet |
+| **Name** | Reference Set 05 Third Party Javascript |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-third-party-javascript.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/references/reference-set-05-third-party-javascript.md` |
 | **Category** | commercial |

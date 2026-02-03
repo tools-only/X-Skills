@@ -1,8 +1,8 @@
-# pandas-pro
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pandas-pro |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/pandas-pro/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/pandas-pro/SKILL.md` |
 | **Category** | data-analysis |

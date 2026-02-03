@@ -1,8 +1,8 @@
-# microservices-architect
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | microservices-architect |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/microservices-architect/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/microservices-architect/SKILL.md` |
 | **Category** | automation |

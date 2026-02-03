@@ -1,8 +1,8 @@
-# ISO 13485:2016 Requirements Breakdown
+# Iso 13485 Requirements
 
 | Property | Value |
 |----------|-------|
-| **Name** | ISO 13485:2016 Requirements Breakdown |
+| **Name** | Iso 13485 Requirements |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/iso-13485-certification/references/iso-13485-requirements.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/iso-13485-certification/references/iso-13485-requirements.md` |
 | **Category** | commercial |

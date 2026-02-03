@@ -1,8 +1,8 @@
-# GRN Inference Algorithms
+# Algorithms
 
 | Property | Value |
 |----------|-------|
-| **Name** | GRN Inference Algorithms |
+| **Name** | Algorithms |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/arboreto/references/algorithms.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/arboreto/references/algorithms.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# Average Dependencies Distribution Bar Chart
+# 06 Average Dependencies Distribution Bar Chart
 
 | Property | Value |
 |----------|-------|
-| **Name** | Average Dependencies Distribution Bar Chart |
+| **Name** | 06 Average Dependencies Distribution Bar Chart |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/06-average-dependencies-distribution-bar-chart.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/06-average-dependencies-distribution-bar-chart.md` |
 | **Category** | data-analysis |

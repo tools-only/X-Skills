@@ -1,8 +1,8 @@
-# huggingface-accelerate
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | huggingface-accelerate |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accelerate/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accelerate/SKILL.md` |
 | **Category** | automation |

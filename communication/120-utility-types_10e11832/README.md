@@ -1,8 +1,8 @@
-# string;
+# Utility Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; |
+| **Name** | Utility Types |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/typescript-pro/references/utility-types.md) (⭐ 216) |
 | **Original Path** | `skills/typescript-pro/references/utility-types.md` |
 | **Category** | communication |

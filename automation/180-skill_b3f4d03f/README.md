@@ -1,8 +1,8 @@
-# ads-reporter
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ads-reporter |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ads-reporter/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ads-reporter/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# ab-testing-analyzer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ab-testing-analyzer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ab-testing-analyzer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ab-testing-analyzer/SKILL.md` |
 | **Category** | data-analysis |

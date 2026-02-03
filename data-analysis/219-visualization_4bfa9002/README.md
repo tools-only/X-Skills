@@ -1,8 +1,8 @@
-# ETE Toolkit Visualization Guide
+# Visualization
 
 | Property | Value |
 |----------|-------|
-| **Name** | ETE Toolkit Visualization Guide |
+| **Name** | Visualization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/etetoolkit/references/visualization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/etetoolkit/references/visualization.md` |
 | **Category** | data-analysis |

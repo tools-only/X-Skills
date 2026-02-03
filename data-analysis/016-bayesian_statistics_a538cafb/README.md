@@ -1,8 +1,8 @@
-# Bayesian Statistical Analysis
+# Bayesian Statistics
 
 | Property | Value |
 |----------|-------|
-| **Name** | Bayesian Statistical Analysis |
+| **Name** | Bayesian Statistics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/statistical-analysis/references/bayesian_statistics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/statistical-analysis/references/bayesian_statistics.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# fetching-blocked-urls
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fetching-blocked-urls |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/fetching-blocked-urls/SKILL.md) (⭐ 78) |
 | **Original Path** | `fetching-blocked-urls/SKILL.md` |
 | **Category** | research |

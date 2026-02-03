@@ -1,8 +1,8 @@
-# spring-data-jpa
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | spring-data-jpa |
+| **Name** | Skill |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/SKILL.md) (⭐ 80) |
 | **Original Path** | `skills/spring-boot/spring-data-jpa/SKILL.md` |
 | **Category** | content-creation |

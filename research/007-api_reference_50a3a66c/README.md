@@ -1,8 +1,8 @@
-# ClinicalTrials.gov API v2 Reference Documentation
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | ClinicalTrials.gov API v2 Reference Documentation |
+| **Name** | Api Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinicaltrials-database/references/api_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinicaltrials-database/references/api_reference.md` |
 | **Category** | research |

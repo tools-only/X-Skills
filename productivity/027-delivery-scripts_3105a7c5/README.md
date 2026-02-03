@@ -1,8 +1,8 @@
-# Delivery Scripts for Difficult Conversations
+# Delivery Scripts
 
 | Property | Value |
 |----------|-------|
-| **Name** | Delivery Scripts for Difficult Conversations |
+| **Name** | Delivery Scripts |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/references/delivery-scripts.md) (⭐ 383) |
 | **Original Path** | `skills/difficult-workplace-conversations/references/delivery-scripts.md` |
 | **Category** | productivity |

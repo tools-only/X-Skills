@@ -1,8 +1,8 @@
-# Performance Optimization
+# 12 Performance
 
 | Property | Value |
 |----------|-------|
-| **Name** | Performance Optimization |
+| **Name** | 12 Performance |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/12-performance.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/12-performance.md` |
 | **Category** | productivity |

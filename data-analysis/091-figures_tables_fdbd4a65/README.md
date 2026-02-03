@@ -1,8 +1,8 @@
-# Figures and Tables Best Practices
+# Figures Tables
 
 | Property | Value |
 |----------|-------|
-| **Name** | Figures and Tables Best Practices |
+| **Name** | Figures Tables |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/references/figures_tables.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/references/figures_tables.md` |
 | **Category** | content-creation |

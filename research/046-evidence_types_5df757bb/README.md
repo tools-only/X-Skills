@@ -1,8 +1,8 @@
-# Evidence Types and Data Sources
+# Evidence Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Evidence Types and Data Sources |
+| **Name** | Evidence Types |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/opentargets-database/references/evidence_types.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/opentargets-database/references/evidence_types.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# agent-scrum-master
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-scrum-master |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-scrum-master/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-scrum-master/SKILL.md` |
 | **Category** | content-creation |

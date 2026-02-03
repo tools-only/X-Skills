@@ -1,8 +1,8 @@
-# NIH (National Institutes of Health) Grant Writing Guidelines
+# Nih Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | NIH (National Institutes of Health) Grant Writing Guidelines |
+| **Name** | Nih Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/nih_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/nih_guidelines.md` |
 | **Category** | research |

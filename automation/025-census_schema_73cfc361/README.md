@@ -1,8 +1,8 @@
-# CZ CELLxGENE Census Data Schema Reference
+# Census Schema
 
 | Property | Value |
 |----------|-------|
-| **Name** | CZ CELLxGENE Census Data Schema Reference |
+| **Name** | Census Schema |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/cellxgene-census/references/census_schema.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/cellxgene-census/references/census_schema.md` |
 | **Category** | automation |

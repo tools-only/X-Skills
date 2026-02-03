@@ -1,8 +1,8 @@
-# microsims-index-generator
+# Index Generator
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsims-index-generator |
+| **Name** | Index Generator |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-utils/references/index-generator.md) (⭐ 14) |
 | **Original Path** | `skills/microsim-utils/references/index-generator.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# DrugBank Data Access
+# Data Access
 
 | Property | Value |
 |----------|-------|
-| **Name** | DrugBank Data Access |
+| **Name** | Data Access |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/drugbank-database/references/data-access.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/drugbank-database/references/data-access.md` |
 | **Category** | commercial |

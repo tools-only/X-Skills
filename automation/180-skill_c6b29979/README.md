@@ -1,8 +1,8 @@
-# hello-demo
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | hello-demo |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/hello-demo/SKILL.md) (⭐ 78) |
 | **Original Path** | `hello-demo/SKILL.md` |
 | **Category** | automation |

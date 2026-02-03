@@ -1,8 +1,8 @@
-# Session Log: Create Map Generator Skill
+# Create Map Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Session Log: Create Map Generator Skill |
+| **Name** | Create Map Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/create-map-skill.md) (⭐ 14) |
 | **Original Path** | `logs/create-map-skill.md` |
 | **Category** | data-analysis |

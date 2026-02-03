@@ -1,8 +1,8 @@
-# DAG Validation Algorithm Visualization
+# 06 Dag Validation Algorithm Visualization
 
 | Property | Value |
 |----------|-------|
-| **Name** | DAG Validation Algorithm Visualization |
+| **Name** | 06 Dag Validation Algorithm Visualization |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/06-dag-validation-algorithm-visualization.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/06-dag-validation-algorithm-visualization.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# postgresql
+# Kubernetes Helm
 
 | Property | Value |
 |----------|-------|
-| **Name** | postgresql |
+| **Name** | Kubernetes Helm |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/kubernetes-helm.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/devops/references/kubernetes-helm.md` |
 | **Category** | data-analysis |

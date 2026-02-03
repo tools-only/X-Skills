@@ -1,8 +1,8 @@
-# Multimodal and Multi-omics Integration Models
+# Models Multimodal
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multimodal and Multi-omics Integration Models |
+| **Name** | Models Multimodal |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/references/models-multimodal.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/references/models-multimodal.md` |
 | **Category** | productivity |

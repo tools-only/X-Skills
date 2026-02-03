@@ -1,8 +1,8 @@
-# SF-Skills Hook Architecture Diagram
+# Hook Lifecycle Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | SF-Skills Hook Architecture Diagram |
+| **Name** | Hook Lifecycle Diagram |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hook-lifecycle-diagram.md) (⭐ 47) |
 | **Original Path** | `shared/hooks/docs/hook-lifecycle-diagram.md` |
 | **Category** | data-analysis |

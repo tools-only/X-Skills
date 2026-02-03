@@ -1,8 +1,8 @@
-# add-footer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-footer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-footer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-footer/SKILL.md` |
 | **Category** | automation |

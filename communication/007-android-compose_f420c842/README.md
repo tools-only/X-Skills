@@ -1,8 +1,8 @@
-# String)
+# Android Compose
 
 | Property | Value |
 |----------|-------|
-| **Name** | String) |
+| **Name** | Android Compose |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kotlin-specialist/references/android-compose.md) (⭐ 216) |
 | **Original Path** | `skills/kotlin-specialist/references/android-compose.md` |
 | **Category** | communication |

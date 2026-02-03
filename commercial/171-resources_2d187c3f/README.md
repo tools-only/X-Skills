@@ -1,8 +1,8 @@
-# str):
+# Resources
 
 | Property | Value |
 |----------|-------|
-| **Name** | str): |
+| **Name** | Resources |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pylabrobot/references/resources.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pylabrobot/references/resources.md` |
 | **Category** | commercial |

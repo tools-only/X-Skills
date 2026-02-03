@@ -1,8 +1,8 @@
-# sf-ai-agentforce-testing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sf-ai-agentforce-testing |
+| **Name** | Skill |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentforce-testing/SKILL.md` |
 | **Category** | automation |

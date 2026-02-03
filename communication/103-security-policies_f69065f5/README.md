@@ -1,8 +1,8 @@
-# Security Policies Reference
+# Security Policies
 
 | Property | Value |
 |----------|-------|
-| **Name** | Security Policies Reference |
+| **Name** | Security Policies |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/ms365-tenant-manager/references/security-policies.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/ms365-tenant-manager/references/security-policies.md` |
 | **Category** | communication |

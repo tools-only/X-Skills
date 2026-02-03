@@ -1,8 +1,8 @@
-# PostgreSQL SQL Queries
+# Postgresql Queries
 
 | Property | Value |
 |----------|-------|
-| **Name** | PostgreSQL SQL Queries |
+| **Name** | Postgresql Queries |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/postgresql-queries.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/databases/references/postgresql-queries.md` |
 | **Category** | commercial |

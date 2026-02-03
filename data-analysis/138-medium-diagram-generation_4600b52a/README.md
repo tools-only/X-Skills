@@ -1,8 +1,8 @@
-# Medium Diagram Generation Log
+# Medium Diagram Generation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medium Diagram Generation Log |
+| **Name** | Medium Diagram Generation |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/medium-diagram-generation.md) (⭐ 14) |
 | **Original Path** | `logs/medium-diagram-generation.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# pdb-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pdb-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pdb-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pdb-database/SKILL.md` |
 | **Category** | automation |

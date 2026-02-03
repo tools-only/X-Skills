@@ -1,8 +1,8 @@
-# ai-sdk-agents
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-sdk-agents |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-sdk-agents/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-sdk-agents/SKILL.md` |
 | **Category** | daily-assistant |

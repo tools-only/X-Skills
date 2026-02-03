@@ -1,8 +1,8 @@
-# reducing-entropy
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | reducing-entropy |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/reducing-entropy/SKILL.md` |
 | **Category** | content-creation |

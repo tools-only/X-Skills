@@ -1,8 +1,8 @@
-# Data-Driven Workflow: Edge Cases and Advanced Patterns
+# Data Driven Workflow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data-Driven Workflow: Edge Cases and Advanced Patterns |
+| **Name** | Data Driven Workflow |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/charting-vega-lite/references/data-driven-workflow.md) (⭐ 78) |
 | **Original Path** | `charting-vega-lite/references/data-driven-workflow.md` |
 | **Category** | data-analysis |

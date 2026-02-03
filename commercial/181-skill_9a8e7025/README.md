@@ -1,8 +1,8 @@
-# Shippinglogistics
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Shippinglogistics |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ShippingLogistics/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ShippingLogistics/SKILL.md` |
 | **Category** | commercial |

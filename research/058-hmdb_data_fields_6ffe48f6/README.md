@@ -1,8 +1,8 @@
-# HMDB Data Fields Reference
+# Hmdb Data Fields
 
 | Property | Value |
 |----------|-------|
-| **Name** | HMDB Data Fields Reference |
+| **Name** | Hmdb Data Fields |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hmdb-database/references/hmdb_data_fields.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/hmdb-database/references/hmdb_data_fields.md` |
 | **Category** | research |

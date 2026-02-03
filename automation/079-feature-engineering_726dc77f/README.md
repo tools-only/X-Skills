@@ -1,8 +1,8 @@
-# str,
+# Feature Engineering
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, |
+| **Name** | Feature Engineering |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/ml-pipeline/references/feature-engineering.md) (⭐ 216) |
 | **Original Path** | `skills/ml-pipeline/references/feature-engineering.md` |
 | **Category** | data-analysis |

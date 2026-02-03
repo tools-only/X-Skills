@@ -1,8 +1,8 @@
-# apex
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | apex |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/apex/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/apex/SKILL.md` |
 | **Category** | content-creation |

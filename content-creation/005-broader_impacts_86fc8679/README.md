@@ -1,8 +1,8 @@
-# Broader Impacts: Strategies and Best Practices
+# Broader Impacts
 
 | Property | Value |
 |----------|-------|
-| **Name** | Broader Impacts: Strategies and Best Practices |
+| **Name** | Broader Impacts |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/broader_impacts.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/broader_impacts.md` |
 | **Category** | content-creation |

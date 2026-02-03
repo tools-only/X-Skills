@@ -1,8 +1,8 @@
-# Pymoo Constraints and Decision Making Reference
+# Constraints Mcdm
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pymoo Constraints and Decision Making Reference |
+| **Name** | Constraints Mcdm |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymoo/references/constraints_mcdm.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymoo/references/constraints_mcdm.md` |
 | **Category** | productivity |

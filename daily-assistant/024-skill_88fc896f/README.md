@@ -1,8 +1,8 @@
-# ansible-role-creator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ansible-role-creator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ansible-role-creator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ansible-role-creator/SKILL.md` |
 | **Category** | content-creation |

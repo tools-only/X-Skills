@@ -1,8 +1,8 @@
-# ads-agent
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ads-agent |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ads-agent/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ads-agent/SKILL.md` |
 | **Category** | content-creation |

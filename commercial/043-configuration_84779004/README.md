@@ -1,8 +1,8 @@
-# gpt-4o-mini
+# Configuration
 
 | Property | Value |
 |----------|-------|
-| **Name** | gpt-4o-mini |
+| **Name** | Configuration |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-spring-boot-integration/references/configuration.md) (⭐ 80) |
 | **Original Path** | `skills/langchain4j/langchain4j-spring-boot-integration/references/configuration.md` |
 | **Category** | commercial |

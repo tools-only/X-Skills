@@ -1,8 +1,8 @@
-# Monitoring Mode
+# Monitoring
 
 | Property | Value |
 |----------|-------|
-| **Name** | Monitoring Mode |
+| **Name** | Monitoring |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/monitoring.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/references/monitoring.md` |
 | **Category** | daily-assistant |

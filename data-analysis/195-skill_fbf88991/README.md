@@ -1,8 +1,8 @@
-# microsim-matcher
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsim-matcher |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/microsim-matcher/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/microsim-matcher/SKILL.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Quantum Circuit Building
+# Circuits
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quantum Circuit Building |
+| **Name** | Circuits |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qiskit/references/circuits.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/qiskit/references/circuits.md` |
 | **Category** | data-analysis |

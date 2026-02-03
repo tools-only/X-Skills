@@ -1,8 +1,8 @@
-# animation-motion
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | animation-motion |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/animation-motion/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/animation-motion/SKILL.md` |
 | **Category** | content-creation |

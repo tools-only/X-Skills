@@ -1,8 +1,8 @@
-# Ai Infra Guard
+# Compact
 
 | Property | Value |
 |----------|-------|
-| **Name** | Ai Infra Guard |
+| **Name** | Compact |
 | **Repository** | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/mcp-scan/prompt/compact.md) (⭐ 2.9k) |
 | **Original Path** | `mcp-scan/prompt/compact.md` |
 | **Category** | daily-assistant |

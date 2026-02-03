@@ -1,8 +1,8 @@
-# thought-mining
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | thought-mining |
+| **Name** | Skill |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/SKILL.md) (⭐ 80) |
 | **Original Path** | `thought-mining/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# adaptyv
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adaptyv |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/adaptyv/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/adaptyv/SKILL.md` |
 | **Category** | automation |

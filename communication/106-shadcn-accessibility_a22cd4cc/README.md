@@ -1,8 +1,8 @@
-# shadcn/ui Accessibility Patterns
+# Shadcn Accessibility
 
 | Property | Value |
 |----------|-------|
-| **Name** | shadcn/ui Accessibility Patterns |
+| **Name** | Shadcn Accessibility |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ui-styling/references/shadcn-accessibility.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/ui-styling/references/shadcn-accessibility.md` |
 | **Category** | communication |

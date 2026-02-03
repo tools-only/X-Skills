@@ -1,8 +1,8 @@
-# OMERO Tables
+# Tables
 
 | Property | Value |
 |----------|-------|
-| **Name** | OMERO Tables |
+| **Name** | Tables |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/omero-integration/references/tables.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/omero-integration/references/tables.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# adoption-playbook
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adoption-playbook |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adoption-playbook/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adoption-playbook/SKILL.md` |
 | **Category** | commercial |

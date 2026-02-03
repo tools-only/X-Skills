@@ -1,8 +1,8 @@
-# ImageMagick Batch Processing
+# Imagemagick Batch
 
 | Property | Value |
 |----------|-------|
-| **Name** | ImageMagick Batch Processing |
+| **Name** | Imagemagick Batch |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/references/imagemagick-batch.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/media-processing/references/imagemagick-batch.md` |
 | **Category** | automation |

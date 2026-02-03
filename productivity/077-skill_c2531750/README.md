@@ -1,8 +1,8 @@
-# agent-context-manager
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-context-manager |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-context-manager/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-context-manager/SKILL.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# Coffee Shop
+# Mongodb Indexing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Coffee Shop |
+| **Name** | Mongodb Indexing |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/mongodb-indexing.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/databases/references/mongodb-indexing.md` |
 | **Category** | commercial |

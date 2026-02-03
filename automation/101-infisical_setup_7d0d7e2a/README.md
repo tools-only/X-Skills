@@ -1,8 +1,8 @@
-# Infisical Setup for PDD
+# Infisical Setup
 
 | Property | Value |
 |----------|-------|
-| **Name** | Infisical Setup for PDD |
+| **Name** | Infisical Setup |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/examples/template_example/INFISICAL_SETUP.md) (⭐ 407) |
 | **Original Path** | `examples/template_example/INFISICAL_SETUP.md` |
 | **Category** | automation |

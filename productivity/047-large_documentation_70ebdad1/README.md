@@ -1,8 +1,8 @@
-# godot
+# Large Documentation
 
 | Property | Value |
 |----------|-------|
-| **Name** | godot |
+| **Name** | Large Documentation |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/LARGE_DOCUMENTATION.md) (🔥 8.7k) |
 | **Original Path** | `docs/reference/LARGE_DOCUMENTATION.md` |
 | **Category** | productivity |

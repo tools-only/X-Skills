@@ -1,8 +1,8 @@
-# get-available-resources
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | get-available-resources |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/get-available-resources/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/get-available-resources/SKILL.md` |
 | **Category** | productivity |

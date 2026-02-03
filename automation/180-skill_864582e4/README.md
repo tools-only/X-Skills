@@ -1,8 +1,8 @@
-# marketing-demand-acquisition
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | marketing-demand-acquisition |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing-demand-acquisition/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/marketing-demand-acquisition/SKILL.md` |
 | **Category** | automation |

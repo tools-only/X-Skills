@@ -1,8 +1,8 @@
-# Authentication & Authorization Implementation Patterns
+# Control Set Ext 01 02 Auth Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Authentication & Authorization Implementation Patterns |
+| **Name** | Control Set Ext 01 02 Auth Patterns |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-01_02-auth-patterns.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/control-set-ext-01_02-auth-patterns.md` |
 | **Category** | commercial |

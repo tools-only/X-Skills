@@ -1,8 +1,8 @@
-# Session Log: Auto-Generate Easy MicroSims
+# Autogenerate Microsims
 
 | Property | Value |
 |----------|-------|
-| **Name** | Session Log: Auto-Generate Easy MicroSims |
+| **Name** | Autogenerate Microsims |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/autogenerate-microsims.md) (⭐ 14) |
 | **Original Path** | `logs/autogenerate-microsims.md` |
 | **Category** | data-analysis |

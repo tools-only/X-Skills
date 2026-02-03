@@ -1,8 +1,8 @@
-# web-frameworks
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | web-frameworks |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-frameworks/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/web-frameworks/SKILL.md` |
 | **Category** | commercial |

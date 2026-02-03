@@ -1,8 +1,8 @@
-# Agent API Intro
+# Agent Api
 
 | Property | Value |
 |----------|-------|
-| **Name** | Agent API Intro |
+| **Name** | Agent Api |
 | **Repository** | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/agent_api.md) (🔥 6.5k) |
 | **Original Path** | `docs/agent_api.md` |
 | **Category** | communication |

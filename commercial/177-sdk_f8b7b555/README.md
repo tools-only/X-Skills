@@ -1,8 +1,8 @@
-# SePay SDK Integration
+# Sdk
 
 | Property | Value |
 |----------|-------|
-| **Name** | SePay SDK Integration |
+| **Name** | Sdk |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/sepay/sdk.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/sepay/sdk.md` |
 | **Category** | commercial |

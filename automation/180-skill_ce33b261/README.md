@@ -1,8 +1,8 @@
-# prompt-engineering
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | prompt-engineering |
+| **Name** | Skill |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/SKILL.md) (⭐ 80) |
 | **Original Path** | `skills/ai/prompt-engineering/SKILL.md` |
 | **Category** | automation |

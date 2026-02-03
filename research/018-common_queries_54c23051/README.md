@@ -1,8 +1,8 @@
-# Common PubMed Query Patterns
+# Common Queries
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common PubMed Query Patterns |
+| **Name** | Common Queries |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pubmed-database/references/common_queries.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pubmed-database/references/common_queries.md` |
 | **Category** | research |

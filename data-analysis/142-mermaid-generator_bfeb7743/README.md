@@ -1,8 +1,8 @@
-# Mermaid Diagram Generator
+# Mermaid Generator
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mermaid Diagram Generator |
+| **Name** | Mermaid Generator |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/microsims/mermaid-generator.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/microsims/mermaid-generator.md` |
 | **Category** | data-analysis |

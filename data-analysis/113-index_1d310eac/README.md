@@ -1,8 +1,8 @@
-# skill-name
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-name |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/consolidation-plan/index.md) (⭐ 14) |
 | **Original Path** | `docs/consolidation-plan/index.md` |
 | **Category** | data-analysis |

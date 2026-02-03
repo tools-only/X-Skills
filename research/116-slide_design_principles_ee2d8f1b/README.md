@@ -1,8 +1,8 @@
-# Slide Design Principles for Scientific Presentations
+# Slide Design Principles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Slide Design Principles for Scientific Presentations |
+| **Name** | Slide Design Principles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/references/slide_design_principles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/references/slide_design_principles.md` |
 | **Category** | data-analysis |

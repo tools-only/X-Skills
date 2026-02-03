@@ -1,8 +1,8 @@
-# add-exercises
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-exercises |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-exercises/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-exercises/SKILL.md` |
 | **Category** | automation |

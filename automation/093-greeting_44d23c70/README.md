@@ -1,8 +1,8 @@
-# MCP Greeting
+# Greeting
 
 | Property | Value |
 |----------|-------|
-| **Name** | MCP Greeting |
+| **Name** | Greeting |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/mcp/models/greeting.md) (⭐ 93) |
 | **Original Path** | `examples/mcp/models/greeting.md` |
 | **Category** | automation |

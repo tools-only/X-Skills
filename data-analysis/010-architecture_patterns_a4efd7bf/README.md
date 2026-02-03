@@ -1,8 +1,8 @@
-# row.name,
+# Architecture Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | row.name, |
+| **Name** | Architecture Patterns |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-fullstack/references/architecture_patterns.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-fullstack/references/architecture_patterns.md` |
 | **Category** | data-analysis |

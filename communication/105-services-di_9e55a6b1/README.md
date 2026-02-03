@@ -1,8 +1,8 @@
-# Services & Dependency Injection
+# Services Di
 
 | Property | Value |
 |----------|-------|
-| **Name** | Services & Dependency Injection |
+| **Name** | Services Di |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nestjs-expert/references/services-di.md) (⭐ 216) |
 | **Original Path** | `skills/nestjs-expert/references/services-di.md` |
 | **Category** | communication |

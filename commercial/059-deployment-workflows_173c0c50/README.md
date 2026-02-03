@@ -1,8 +1,8 @@
-# Salesforce Deployment Workflow Examples
+# Deployment Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | Salesforce Deployment Workflow Examples |
+| **Name** | Deployment Workflows |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/examples/deployment-workflows.md) (⭐ 47) |
 | **Original Path** | `sf-deploy/examples/deployment-workflows.md` |
 | **Category** | commercial |

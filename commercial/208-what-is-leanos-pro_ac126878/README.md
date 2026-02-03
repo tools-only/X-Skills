@@ -1,8 +1,8 @@
-# What is LeanOS Pro?
+# What Is Leanos Pro
 
 | Property | Value |
 |----------|-------|
-| **Name** | What is LeanOS Pro? |
+| **Name** | What Is Leanos Pro |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/references/what-is-leanos-pro.md) (⭐ 14) |
 | **Original Path** | `docs/references/what-is-leanos-pro.md` |
 | **Category** | commercial |

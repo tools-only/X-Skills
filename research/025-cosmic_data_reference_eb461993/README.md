@@ -1,8 +1,8 @@
-# COSMIC Database Reference
+# Cosmic Data Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | COSMIC Database Reference |
+| **Name** | Cosmic Data Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/cosmic-database/references/cosmic_data_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/cosmic-database/references/cosmic_data_reference.md` |
 | **Category** | research |

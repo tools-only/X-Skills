@@ -1,8 +1,8 @@
-# ddmemo
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ddmemo |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/DDMemo/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/DDMemo/SKILL.md` |
 | **Category** | content-creation |

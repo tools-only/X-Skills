@@ -1,8 +1,8 @@
-# Circuit Transpilation and Optimization
+# Transpilation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Circuit Transpilation and Optimization |
+| **Name** | Transpilation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qiskit/references/transpilation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/qiskit/references/transpilation.md` |
 | **Category** | productivity |

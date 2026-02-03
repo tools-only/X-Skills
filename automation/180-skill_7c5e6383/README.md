@@ -1,8 +1,8 @@
-# sys-indexing-directories
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sys-indexing-directories |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-indexing-directories/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/sys-indexing-directories/SKILL.md` |
 | **Category** | content-creation |

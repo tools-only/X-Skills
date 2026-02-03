@@ -1,8 +1,8 @@
-# Data Analysis
+# Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Analysis |
+| **Name** | Analysis |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/models/analysis.md) (⭐ 93) |
 | **Original Path** | `examples/everything/models/analysis.md` |
 | **Category** | commercial |

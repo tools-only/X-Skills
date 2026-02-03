@@ -1,8 +1,8 @@
-# reference-generator
+# References Generator Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | reference-generator |
+| **Name** | References Generator Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/references-generator-skill.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/references-generator-skill.md` |
 | **Category** | research |

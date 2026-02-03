@@ -1,8 +1,8 @@
-# Hypothesis Generation Report - Formatting Quick Reference
+# Formatting Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Hypothesis Generation Report - Formatting Quick Reference |
+| **Name** | Formatting Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hypothesis-generation/assets/FORMATTING_GUIDE.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/hypothesis-generation/assets/FORMATTING_GUIDE.md` |
 | **Category** | research |

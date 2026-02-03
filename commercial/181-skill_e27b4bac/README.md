@@ -1,8 +1,8 @@
-# c4-architecture
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | c4-architecture |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/c4-architecture/SKILL.md` |
 | **Category** | commercial |

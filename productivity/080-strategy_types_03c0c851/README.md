@@ -1,8 +1,8 @@
-# Strategy Types for OKR Generation
+# Strategy Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Strategy Types for OKR Generation |
+| **Name** | Strategy Types |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/product-strategist/references/strategy_types.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/product-strategist/references/strategy_types.md` |
 | **Category** | productivity |

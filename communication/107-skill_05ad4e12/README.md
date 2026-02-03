@@ -1,8 +1,8 @@
-# professional-communication
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | professional-communication |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/professional-communication/SKILL.md` |
 | **Category** | communication |

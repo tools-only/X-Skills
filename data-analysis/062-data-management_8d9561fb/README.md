@@ -1,8 +1,8 @@
-# LaminDB Data Management
+# Data Management
 
 | Property | Value |
 |----------|-------|
-| **Name** | LaminDB Data Management |
+| **Name** | Data Management |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/lamindb/references/data-management.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/lamindb/references/data-management.md` |
 | **Category** | data-analysis |

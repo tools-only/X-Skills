@@ -1,8 +1,8 @@
-# Adaptyv API Reference
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Adaptyv API Reference |
+| **Name** | Api Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/adaptyv/reference/api_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/adaptyv/reference/api_reference.md` |
 | **Category** | communication |

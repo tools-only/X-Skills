@@ -1,8 +1,8 @@
-# demo-service
+# Spring Boot Setup
 
 | Property | Value |
 |----------|-------|
-| **Name** | demo-service |
+| **Name** | Spring Boot Setup |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/java-architect/references/spring-boot-setup.md) (⭐ 216) |
 | **Original Path** | `skills/java-architect/references/spring-boot-setup.md` |
 | **Category** | automation |

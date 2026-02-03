@@ -1,8 +1,8 @@
-# Incident Response Procedures
+# Incident Response
 
 | Property | Value |
 |----------|-------|
-| **Name** | Incident Response Procedures |
+| **Name** | Incident Response |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/information-security-manager-iso27001/references/incident-response.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/information-security-manager-iso27001/references/incident-response.md` |
 | **Category** | communication |

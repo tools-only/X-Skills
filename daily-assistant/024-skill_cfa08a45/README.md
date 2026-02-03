@@ -1,8 +1,8 @@
-# analysis-process
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analysis-process |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis-process/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analysis-process/SKILL.md` |
 | **Category** | daily-assistant |

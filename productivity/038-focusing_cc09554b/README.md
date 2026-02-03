@@ -1,8 +1,8 @@
-# Focusing Mode
+# Focusing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Focusing Mode |
+| **Name** | Focusing |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/focusing.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/references/focusing.md` |
 | **Category** | productivity |

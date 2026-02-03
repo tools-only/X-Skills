@@ -1,8 +1,8 @@
-# CI
+# Turborepo Caching
 
 | Property | Value |
 |----------|-------|
-| **Name** | CI |
+| **Name** | Turborepo Caching |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-frameworks/references/turborepo-caching.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/web-frameworks/references/turborepo-caching.md` |
 | **Category** | commercial |

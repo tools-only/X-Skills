@@ -1,8 +1,8 @@
-# Taxonomy Distribution Pie Chart
+# 06 Taxonomy Distribution Pie Chart
 
 | Property | Value |
 |----------|-------|
-| **Name** | Taxonomy Distribution Pie Chart |
+| **Name** | 06 Taxonomy Distribution Pie Chart |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/06-taxonomy-distribution-pie-chart.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/06-taxonomy-distribution-pie-chart.md` |
 | **Category** | data-analysis |

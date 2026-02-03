@@ -1,8 +1,8 @@
-# Concept Label Length Histogram
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Concept Label Length Histogram |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/concept-length-histogram/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/concept-length-histogram/index.md` |
 | **Category** | data-analysis |

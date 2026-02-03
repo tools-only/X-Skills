@@ -1,8 +1,8 @@
-# LangChain4j RAG Implementation Guide
+# Langchain4J Rag Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | LangChain4j RAG Implementation Guide |
+| **Name** | Langchain4J Rag Guide |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/langchain4j-rag-guide.md) (⭐ 80) |
 | **Original Path** | `skills/ai/rag/references/langchain4j-rag-guide.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# megatron-memory-estimator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | megatron-memory-estimator |
+| **Name** | Skill |
 | **Repository** | [yzlnew/infra-skills](https://raw.githubusercontent.com/yzlnew/infra-skills/main/megatron-memory-estimator/SKILL.md) (⭐ 53) |
 | **Original Path** | `megatron-memory-estimator/SKILL.md` |
 | **Category** | automation |

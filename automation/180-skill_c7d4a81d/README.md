@@ -1,8 +1,8 @@
-# analyze-friction
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analyze-friction |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analyze-friction/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analyze-friction/SKILL.md` |
 | **Category** | automation |

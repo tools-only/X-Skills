@@ -1,8 +1,8 @@
-# Text Generation
+# Generation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Text Generation |
+| **Name** | Generation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/transformers/references/generation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/transformers/references/generation.md` |
 | **Category** | communication |

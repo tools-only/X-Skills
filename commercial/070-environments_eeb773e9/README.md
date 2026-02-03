@@ -1,8 +1,8 @@
-# PufferLib Environments Guide
+# Environments
 
 | Property | Value |
 |----------|-------|
-| **Name** | PufferLib Environments Guide |
+| **Name** | Environments |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pufferlib/references/environments.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pufferlib/references/environments.md` |
 | **Category** | commercial |

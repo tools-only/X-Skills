@@ -1,8 +1,8 @@
-# 1k-adding-chains
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | 1k-adding-chains |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/1k-adding-chains/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/1k-adding-chains/SKILL.md` |
 | **Category** | investment |

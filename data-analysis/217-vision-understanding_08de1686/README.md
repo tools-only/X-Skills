@@ -1,8 +1,8 @@
-# str
+# Vision Understanding
 
 | Property | Value |
 |----------|-------|
-| **Name** | str |
+| **Name** | Vision Understanding |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ai-multimodal/references/vision-understanding.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/ai-multimodal/references/vision-understanding.md` |
 | **Category** | data-analysis |

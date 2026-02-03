@@ -1,8 +1,8 @@
-# adobesign
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adobesign |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adobesign/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adobesign/SKILL.md` |
 | **Category** | automation |

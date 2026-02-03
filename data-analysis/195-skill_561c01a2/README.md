@@ -1,8 +1,8 @@
-# excalidraw
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | excalidraw |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/excalidraw/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/excalidraw/SKILL.md` |
 | **Category** | data-analysis |

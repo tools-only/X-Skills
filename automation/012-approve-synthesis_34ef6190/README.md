@@ -1,8 +1,8 @@
-# Approve Discovery Synthesis
+# Approve Synthesis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Approve Discovery Synthesis |
+| **Name** | Approve Synthesis |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/discovery/approve-synthesis.md) (⭐ 216) |
 | **Original Path** | `commands/project/discovery/approve-synthesis.md` |
 | **Category** | data-analysis |

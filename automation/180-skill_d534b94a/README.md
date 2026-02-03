@@ -1,8 +1,8 @@
-# agile-methodology
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agile-methodology |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agile-methodology/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agile-methodology/SKILL.md` |
 | **Category** | daily-assistant |

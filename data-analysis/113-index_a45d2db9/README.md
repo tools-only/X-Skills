@@ -1,8 +1,8 @@
-# Taxonomy Distribution Pie Chart
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Taxonomy Distribution Pie Chart |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/taxonomy-distribution-pie/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/taxonomy-distribution-pie/index.md` |
 | **Category** | data-analysis |

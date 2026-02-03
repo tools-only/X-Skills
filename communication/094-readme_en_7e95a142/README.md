@@ -1,8 +1,8 @@
-# memU
+# Readme En
 
 | Property | Value |
 |----------|-------|
-| **Name** | memU |
+| **Name** | Readme En |
 | **Repository** | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/readme/README_en.md) (🔥 6.9k) |
 | **Original Path** | `readme/README_en.md` |
 | **Category** | content-creation |

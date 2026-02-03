@@ -1,8 +1,8 @@
-# Image Loading & Formats
+# Image Loading
 
 | Property | Value |
 |----------|-------|
-| **Name** | Image Loading & Formats |
+| **Name** | Image Loading |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pathml/references/image_loading.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pathml/references/image_loading.md` |
 | **Category** | automation |

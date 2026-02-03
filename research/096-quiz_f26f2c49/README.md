@@ -1,8 +1,8 @@
-# Quiz: Content Creation Workflows
+# Quiz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz: Content Creation Workflows |
+| **Name** | Quiz |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/10-content-creation-workflows/quiz.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/10-content-creation-workflows/quiz.md` |
 | **Category** | research |

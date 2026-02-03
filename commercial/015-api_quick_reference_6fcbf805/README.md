@@ -1,8 +1,8 @@
-# COBRApy API Quick Reference
+# Api Quick Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | COBRApy API Quick Reference |
+| **Name** | Api Quick Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/cobrapy/references/api_quick_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/cobrapy/references/api_quick_reference.md` |
 | **Category** | commercial |

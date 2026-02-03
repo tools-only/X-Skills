@@ -1,8 +1,8 @@
-# Setting up Claude on a Raspberry Pi
+# Raspberry Pi Setup
 
 | Property | Value |
 |----------|-------|
-| **Name** | Setting up Claude on a Raspberry Pi |
+| **Name** | Raspberry Pi Setup |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/00-getting-started/raspberry-pi-setup.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/00-getting-started/raspberry-pi-setup.md` |
 | **Category** | communication |

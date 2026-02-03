@@ -1,8 +1,8 @@
-# etetoolkit
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | etetoolkit |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/etetoolkit/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/etetoolkit/SKILL.md` |
 | **Category** | data-analysis |

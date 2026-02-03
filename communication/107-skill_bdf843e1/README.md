@@ -1,8 +1,8 @@
-# better-auth
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | better-auth |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/better-auth/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/better-auth/SKILL.md` |
 | **Category** | communication |

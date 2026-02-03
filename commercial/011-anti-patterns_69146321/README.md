@@ -1,8 +1,8 @@
-# useEffect Anti-Patterns
+# Anti Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | useEffect Anti-Patterns |
+| **Name** | Anti Patterns |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/anti-patterns.md) (⭐ 383) |
 | **Original Path** | `skills/react-useeffect/anti-patterns.md` |
 | **Category** | commercial |

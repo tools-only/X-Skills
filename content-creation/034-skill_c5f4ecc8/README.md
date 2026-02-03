@@ -1,8 +1,8 @@
-# writing-clearly-and-concisely
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | writing-clearly-and-concisely |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/writing-clearly-and-concisely/SKILL.md` |
 | **Category** | content-creation |

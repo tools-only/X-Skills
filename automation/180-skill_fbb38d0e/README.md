@@ -1,8 +1,8 @@
-# lesson-builder
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | lesson-builder |
+| **Name** | Skill |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/lesson-builder/skill.md) (⭐ 80) |
 | **Original Path** | `lesson-builder/skill.md` |
 | **Category** | automation |

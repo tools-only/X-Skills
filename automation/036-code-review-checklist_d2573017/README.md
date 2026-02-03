@@ -1,8 +1,8 @@
-# Apex Code Review Checklist
+# Code Review Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | Apex Code Review Checklist |
+| **Name** | Code Review Checklist |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-apex/docs/code-review-checklist.md) (⭐ 47) |
 | **Original Path** | `sf-apex/docs/code-review-checklist.md` |
 | **Category** | automation |

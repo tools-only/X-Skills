@@ -1,8 +1,8 @@
-# System Landscape Diagram Template
+# System Landscape
 
 | Property | Value |
 |----------|-------|
-| **Name** | System Landscape Diagram Template |
+| **Name** | System Landscape |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/architecture/system-landscape.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/architecture/system-landscape.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# product-strategist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | product-strategist |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/product-strategist/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/product-strategist/SKILL.md` |
 | **Category** | commercial |

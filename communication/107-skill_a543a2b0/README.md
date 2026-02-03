@@ -1,8 +1,8 @@
-# anomaly-detection
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | anomaly-detection |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/anomaly-detection/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/anomaly-detection/SKILL.md` |
 | **Category** | communication |

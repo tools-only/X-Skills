@@ -1,8 +1,8 @@
-# skill-builder
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-builder |
+| **Name** | Skill |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/SKILL.md) (⭐ 47) |
 | **Original Path** | `skill-builder/SKILL.md` |
 | **Category** | daily-assistant |

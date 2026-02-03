@@ -1,8 +1,8 @@
-# ClinVar Data Formats and FTP Access
+# Data Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | ClinVar Data Formats and FTP Access |
+| **Name** | Data Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinvar-database/references/data_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinvar-database/references/data_formats.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Medium Difficulty Diagram Generation Session Log
+# Generate Diagrams
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medium Difficulty Diagram Generation Session Log |
+| **Name** | Generate Diagrams |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/generate-diagrams.md) (⭐ 14) |
 | **Original Path** | `logs/generate-diagrams.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# biorxiv-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | biorxiv-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/biorxiv-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/biorxiv-database/SKILL.md` |
 | **Category** | research |

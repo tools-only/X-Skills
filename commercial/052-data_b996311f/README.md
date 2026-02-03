@@ -1,8 +1,8 @@
-# Product Metrics
+# Data
 
 | Property | Value |
 |----------|-------|
-| **Name** | Product Metrics |
+| **Name** | Data |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/data.md) (⭐ 93) |
 | **Original Path** | `examples/everything/target/compiled/data.md` |
 | **Category** | commercial |

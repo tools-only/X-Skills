@@ -1,8 +1,8 @@
-# Chapter Index File Structure Diagram
+# 10 Chapter Index File Structure Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chapter Index File Structure Diagram |
+| **Name** | 10 Chapter Index File Structure Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/10-chapter-index-file-structure-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/10-chapter-index-file-structure-diagram.md` |
 | **Category** | data-analysis |

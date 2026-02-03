@@ -1,8 +1,8 @@
-# Query Optimization
+# Optimization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Query Optimization |
+| **Name** | Optimization |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sql-pro/references/optimization.md) (⭐ 216) |
 | **Original Path** | `skills/sql-pro/references/optimization.md` |
 | **Category** | communication |

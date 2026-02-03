@@ -1,8 +1,8 @@
-# Credits & Acknowledgments
+# Credits
 
 | Property | Value |
 |----------|-------|
-| **Name** | Credits & Acknowledgments |
+| **Name** | Credits |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/CREDITS.md) (⭐ 47) |
 | **Original Path** | `sf-soql/CREDITS.md` |
 | **Category** | content-creation |

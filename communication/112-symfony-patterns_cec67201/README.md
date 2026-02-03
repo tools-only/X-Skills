@@ -1,8 +1,8 @@
-# api_users_
+# Symfony Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | api_users_ |
+| **Name** | Symfony Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/php-pro/references/symfony-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/php-pro/references/symfony-patterns.md` |
 | **Category** | communication |

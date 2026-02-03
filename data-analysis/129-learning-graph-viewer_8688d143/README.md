@@ -1,8 +1,8 @@
-# install-learning-graph-viewer
+# Learning Graph Viewer
 
 | Property | Value |
 |----------|-------|
-| **Name** | install-learning-graph-viewer |
+| **Name** | Learning Graph Viewer |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-graph-viewer.md) (⭐ 14) |
 | **Original Path** | `skills/book-installer/references/learning-graph-viewer.md` |
 | **Category** | data-analysis |

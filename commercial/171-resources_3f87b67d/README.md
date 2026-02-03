@@ -1,8 +1,8 @@
-# SimPy Shared Resources
+# Resources
 
 | Property | Value |
 |----------|-------|
-| **Name** | SimPy Shared Resources |
+| **Name** | Resources |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/simpy/references/resources.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/simpy/references/resources.md` |
 | **Category** | commercial |

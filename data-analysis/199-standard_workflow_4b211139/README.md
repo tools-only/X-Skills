@@ -1,8 +1,8 @@
-# Standard Scanpy Workflow for Single-Cell Analysis
+# Standard Workflow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Standard Scanpy Workflow for Single-Cell Analysis |
+| **Name** | Standard Workflow |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scanpy/references/standard_workflow.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scanpy/references/standard_workflow.md` |
 | **Category** | data-analysis |

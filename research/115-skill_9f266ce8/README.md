@@ -1,8 +1,8 @@
-# Creating Reusable LLMOps Skills
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Creating Reusable LLMOps Skills |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/65-identity-persona-tuning/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/65-identity-persona-tuning/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# %s
+# Implementation Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | %s |
+| **Name** | Implementation Patterns |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-tool-function-calling-patterns/references/implementation-patterns.md) (⭐ 80) |
 | **Original Path** | `skills/langchain4j/langchain4j-tool-function-calling-patterns/references/implementation-patterns.md` |
 | **Category** | communication |

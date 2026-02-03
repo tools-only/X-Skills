@@ -1,8 +1,8 @@
-# ADR Assistant
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR Assistant |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adr-assistant/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adr-assistant/SKILL.md` |
 | **Category** | automation |

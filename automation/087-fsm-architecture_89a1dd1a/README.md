@@ -1,8 +1,8 @@
-# FSM Architecture Guide
+# Fsm Architecture
 
 | Property | Value |
 |----------|-------|
-| **Name** | FSM Architecture Guide |
+| **Name** | Fsm Architecture |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/fsm-architecture.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/resources/fsm-architecture.md` |
 | **Category** | automation |

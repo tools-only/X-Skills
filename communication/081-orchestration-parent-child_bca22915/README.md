@@ -1,8 +1,8 @@
-# Orchestration Pattern: Parent-Child
+# Orchestration Parent Child
 
 | Property | Value |
 |----------|-------|
-| **Name** | Orchestration Pattern: Parent-Child |
+| **Name** | Orchestration Parent Child |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/examples/orchestration-parent-child.md) (⭐ 47) |
 | **Original Path** | `sf-flow/examples/orchestration-parent-child.md` |
 | **Category** | communication |

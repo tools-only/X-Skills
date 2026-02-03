@@ -1,8 +1,8 @@
-# Cloudflare D1 & KV
+# Cloudflare D1 Kv
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cloudflare D1 & KV |
+| **Name** | Cloudflare D1 Kv |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/cloudflare-d1-kv.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/devops/references/cloudflare-d1-kv.md` |
 | **Category** | automation |

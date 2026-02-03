@@ -1,8 +1,8 @@
-# gget Module Reference
+# Module Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | gget Module Reference |
+| **Name** | Module Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gget/references/module_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gget/references/module_reference.md` |
 | **Category** | data-analysis |

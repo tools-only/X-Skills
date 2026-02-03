@@ -1,8 +1,8 @@
-# Goal Setting Frameworks for Treatment Plans
+# Goal Setting Frameworks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Goal Setting Frameworks for Treatment Plans |
+| **Name** | Goal Setting Frameworks |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/treatment-plans/references/goal_setting_frameworks.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/treatment-plans/references/goal_setting_frameworks.md` |
 | **Category** | commercial |

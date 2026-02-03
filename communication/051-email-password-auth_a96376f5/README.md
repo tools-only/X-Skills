@@ -1,8 +1,8 @@
-# John Doe
+# Email Password Auth
 
 | Property | Value |
 |----------|-------|
-| **Name** | John Doe |
+| **Name** | Email Password Auth |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/better-auth/references/email-password-auth.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/better-auth/references/email-password-auth.md` |
 | **Category** | communication |

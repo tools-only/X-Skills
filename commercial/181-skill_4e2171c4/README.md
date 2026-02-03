@@ -1,8 +1,8 @@
-# rag-architect
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rag-architect |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rag-architect/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/rag-architect/SKILL.md` |
 | **Category** | commercial |

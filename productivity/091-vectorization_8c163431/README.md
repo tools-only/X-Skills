@@ -1,8 +1,8 @@
-# PufferLib Vectorization Guide
+# Vectorization
 
 | Property | Value |
 |----------|-------|
-| **Name** | PufferLib Vectorization Guide |
+| **Name** | Vectorization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pufferlib/references/vectorization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pufferlib/references/vectorization.md` |
 | **Category** | productivity |

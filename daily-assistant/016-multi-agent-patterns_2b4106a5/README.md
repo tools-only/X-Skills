@@ -1,8 +1,8 @@
-# Multi-Agent Patterns
+# Multi Agent Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multi-Agent Patterns |
+| **Name** | Multi Agent Patterns |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/multi-agent-patterns.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/context-engineering/references/multi-agent-patterns.md` |
 | **Category** | daily-assistant |

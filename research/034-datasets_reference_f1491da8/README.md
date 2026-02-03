@@ -1,8 +1,8 @@
-# PyTorch Geometric Datasets Reference
+# Datasets Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | PyTorch Geometric Datasets Reference |
+| **Name** | Datasets Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/torch_geometric/references/datasets_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/torch_geometric/references/datasets_reference.md` |
 | **Category** | research |

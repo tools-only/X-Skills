@@ -1,8 +1,8 @@
-# Poster Layout and Design Guide
+# Poster Layout Design
 
 | Property | Value |
 |----------|-------|
-| **Name** | Poster Layout and Design Guide |
+| **Name** | Poster Layout Design |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/references/poster_layout_design.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/latex-posters/references/poster_layout_design.md` |
 | **Category** | research |

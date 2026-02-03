@@ -1,8 +1,8 @@
-# ai-data-analyst
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-data-analyst |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-data-analyst/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-data-analyst/SKILL.md` |
 | **Category** | data-analysis |

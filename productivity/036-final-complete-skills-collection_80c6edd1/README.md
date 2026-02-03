@@ -1,8 +1,8 @@
-# 🎉 COMPLETE: Regulatory Affairs & Quality Management Skills Collection
+# Final Complete Skills Collection
 
 | Property | Value |
 |----------|-------|
-| **Name** | 🎉 COMPLETE: Regulatory Affairs & Quality Management Skills Collection |
+| **Name** | Final Complete Skills Collection |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/final-complete-skills-collection.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/final-complete-skills-collection.md` |
 | **Category** | productivity |

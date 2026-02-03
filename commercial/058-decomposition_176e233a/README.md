@@ -1,8 +1,8 @@
-# Service Decomposition and Boundaries
+# Decomposition
 
 | Property | Value |
 |----------|-------|
-| **Name** | Service Decomposition and Boundaries |
+| **Name** | Decomposition |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/microservices-architect/references/decomposition.md) (⭐ 216) |
 | **Original Path** | `skills/microservices-architect/references/decomposition.md` |
 | **Category** | commercial |

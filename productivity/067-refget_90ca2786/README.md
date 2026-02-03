@@ -1,8 +1,8 @@
-# Reference Sequence Management
+# Refget
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reference Sequence Management |
+| **Name** | Refget |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gtars/references/refget.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gtars/references/refget.md` |
 | **Category** | daily-assistant |

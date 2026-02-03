@@ -1,8 +1,8 @@
-# ansible
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ansible |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ansible/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ansible/SKILL.md` |
 | **Category** | automation |

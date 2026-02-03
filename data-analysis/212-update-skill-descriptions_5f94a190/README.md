@@ -1,8 +1,8 @@
-# Update Skill Documentation
+# Update Skill Descriptions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Update Skill Documentation |
+| **Name** | Update Skill Descriptions |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/update-skill-descriptions.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/update-skill-descriptions.md` |
 | **Category** | data-analysis |

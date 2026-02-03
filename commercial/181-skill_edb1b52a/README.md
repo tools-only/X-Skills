@@ -1,8 +1,8 @@
-# problem-solving
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | problem-solving |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/problem-solving/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/problem-solving/SKILL.md` |
 | **Category** | commercial |

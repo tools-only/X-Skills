@@ -1,8 +1,8 @@
-# Embedding Configuration
+# Embedding
 
 | Property | Value |
 |----------|-------|
-| **Name** | Embedding Configuration |
+| **Name** | Embedding |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/embedding.md) (⭐ 440) |
 | **Original Path** | `docs/en/configuration/embedding.md` |
 | **Category** | automation |

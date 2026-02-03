@@ -1,8 +1,8 @@
-# 💰 GAIA v4.8.2 Cost Savings Report
+# Gaia Savings Report
 
 | Property | Value |
 |----------|-------|
-| **Name** | 💰 GAIA v4.8.2 Cost Savings Report |
+| **Name** | Gaia Savings Report |
 | **Repository** | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/examples/GAIA-savings-report.md) (⭐ 17) |
 | **Original Path** | `examples/GAIA-savings-report.md` |
 | **Category** | automation |

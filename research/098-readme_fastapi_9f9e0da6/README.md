@@ -1,8 +1,8 @@
-# VikingDB FastAPI Server
+# Readme Fastapi
 
 | Property | Value |
 |----------|-------|
-| **Name** | VikingDB FastAPI Server |
+| **Name** | Readme Fastapi |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/openviking/storage/vectordb/service/README_FASTAPI.md) (⭐ 440) |
 | **Original Path** | `openviking/storage/vectordb/service/README_FASTAPI.md` |
 | **Category** | research |

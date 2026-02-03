@@ -1,8 +1,8 @@
-# Causal Mode
+# Causal
 
 | Property | Value |
 |----------|-------|
-| **Name** | Causal Mode |
+| **Name** | Causal |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/causal.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-reasoning-problems/references/causal.md` |
 | **Category** | automation |

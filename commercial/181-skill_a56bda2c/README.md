@@ -1,8 +1,8 @@
-# sf-diagram-mermaid
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sf-diagram-mermaid |
+| **Name** | Skill |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/SKILL.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/SKILL.md` |
 | **Category** | commercial |

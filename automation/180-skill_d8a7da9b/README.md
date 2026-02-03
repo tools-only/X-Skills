@@ -1,8 +1,8 @@
-# feishu-docx
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | feishu-docx |
+| **Name** | Skill |
 | **Repository** | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/.skills/feishu-docx/SKILL.md) (⭐ 41) |
 | **Original Path** | `.skills/feishu-docx/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Skill Directory Structure Diagram
+# 09 Skill Directory Structure Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Directory Structure Diagram |
+| **Name** | 09 Skill Directory Structure Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/09-skill-directory-structure-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/09-skill-directory-structure-diagram.md` |
 | **Category** | data-analysis |

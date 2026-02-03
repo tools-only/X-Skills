@@ -1,8 +1,8 @@
-# Input Data Structures for Charts
+# Charts
 
 | Property | Value |
 |----------|-------|
-| **Name** | Input Data Structures for Charts |
+| **Name** | Charts |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/charts.md) (⭐ 12) |
 | **Original Path** | `docs/guide/input_data/charts.md` |
 | **Category** | data-analysis |

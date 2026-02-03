@@ -1,8 +1,8 @@
-# deepTools Common Workflows
+# Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | deepTools Common Workflows |
+| **Name** | Workflows |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deeptools/references/workflows.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/deeptools/references/workflows.md` |
 | **Category** | data-analysis |

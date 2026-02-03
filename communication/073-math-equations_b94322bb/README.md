@@ -1,8 +1,8 @@
-# Rendering Equations in Mkdocs
+# Math Equations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Rendering Equations in Mkdocs |
+| **Name** | Math Equations |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/math-equations.md) (⭐ 14) |
 | **Original Path** | `skills/chapter-content-generator/references/math-equations.md` |
 | **Category** | communication |

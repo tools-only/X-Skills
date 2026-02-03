@@ -1,8 +1,8 @@
-# Sprint Retrospective Generator
+# Complete Sprint
 
 | Property | Value |
 |----------|-------|
-| **Name** | Sprint Retrospective Generator |
+| **Name** | Complete Sprint |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/.claude/old-commands/legacy/complete-sprint.md) (⭐ 216) |
 | **Original Path** | `.claude/old-commands/legacy/complete-sprint.md` |
 | **Category** | automation |

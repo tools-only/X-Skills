@@ -1,8 +1,8 @@
-# mermaid-diagram-specialist
+# Mermaid Diagram Specialist
 
 | Property | Value |
 |----------|-------|
-| **Name** | mermaid-diagram-specialist |
+| **Name** | Mermaid Diagram Specialist |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/agents/mermaid-diagram-specialist.md) (⭐ 383) |
 | **Original Path** | `agents/mermaid-diagram-specialist.md` |
 | **Category** | data-analysis |

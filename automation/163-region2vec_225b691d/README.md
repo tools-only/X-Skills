@@ -1,8 +1,8 @@
-# Region2Vec: Genomic Region Embeddings
+# Region2Vec
 
 | Property | Value |
 |----------|-------|
-| **Name** | Region2Vec: Genomic Region Embeddings |
+| **Name** | Region2Vec |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/geniml/references/region2vec.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/geniml/references/region2vec.md` |
 | **Category** | data-analysis |

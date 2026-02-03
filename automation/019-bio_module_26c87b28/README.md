@@ -1,8 +1,8 @@
-# Multi-Signal Integration (Bio Module)
+# Bio Module
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multi-Signal Integration (Bio Module) |
+| **Name** | Bio Module |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neurokit2/references/bio_module.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neurokit2/references/bio_module.md` |
 | **Category** | data-analysis |

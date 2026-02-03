@@ -1,8 +1,8 @@
-# model-serving
+# Mlops Production Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | model-serving |
+| **Name** | Mlops Production Patterns |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-ml-engineer/references/mlops_production_patterns.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-ml-engineer/references/mlops_production_patterns.md` |
 | **Category** | automation |

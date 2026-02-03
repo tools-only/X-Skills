@@ -1,8 +1,8 @@
-# test_is_valid_email_address
+# Versioned Model
 
 | Property | Value |
 |----------|-------|
-| **Name** | test_is_valid_email_address |
+| **Name** | Versioned Model |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/adding-dbt-unit-test/special_cases/versioned_model.md) (⭐ 10) |
 | **Original Path** | `skills/adding-dbt-unit-test/special_cases/versioned_model.md` |
 | **Category** | communication |

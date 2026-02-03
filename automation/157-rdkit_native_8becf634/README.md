@@ -1,8 +1,8 @@
-# Rowan RDKit-Native API Reference
+# Rdkit Native
 
 | Property | Value |
 |----------|-------|
-| **Name** | Rowan RDKit-Native API Reference |
+| **Name** | Rdkit Native |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rowan/references/rdkit_native.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rowan/references/rdkit_native.md` |
 | **Category** | automation |

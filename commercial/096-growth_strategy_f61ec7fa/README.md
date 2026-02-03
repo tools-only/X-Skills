@@ -1,8 +1,8 @@
-# cs-skill-name
+# Growth Strategy
 
 | Property | Value |
 |----------|-------|
-| **Name** | cs-skill-name |
+| **Name** | Growth Strategy |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) (⭐ 1.5k) |
 | **Original Path** | `documentation/GROWTH_STRATEGY.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# microsim-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsim-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/microsim-generator/SKILL.md` |
 | **Category** | data-analysis |

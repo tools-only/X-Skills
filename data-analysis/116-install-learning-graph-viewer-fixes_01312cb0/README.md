@@ -1,8 +1,8 @@
-# Learning Graph Viewer Installer Fixes
+# Install Learning Graph Viewer Fixes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph Viewer Installer Fixes |
+| **Name** | Install Learning Graph Viewer Fixes |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/install-learning-graph-viewer-fixes.md) (⭐ 14) |
 | **Original Path** | `logs/install-learning-graph-viewer-fixes.md` |
 | **Category** | data-analysis |

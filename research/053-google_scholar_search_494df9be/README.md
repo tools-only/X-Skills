@@ -1,8 +1,8 @@
-# `author:Smith`
+# Google Scholar Search
 
 | Property | Value |
 |----------|-------|
-| **Name** | `author:Smith` |
+| **Name** | Google Scholar Search |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/references/google_scholar_search.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/citation-management/references/google_scholar_search.md` |
 | **Category** | research |

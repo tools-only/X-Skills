@@ -1,8 +1,8 @@
-# jira_get_issue
+# Common Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | jira_get_issue |
+| **Name** | Common Workflows |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/atlassian-mcp/references/common-workflows.md) (⭐ 216) |
 | **Original Path** | `skills/atlassian-mcp/references/common-workflows.md` |
 | **Category** | automation |

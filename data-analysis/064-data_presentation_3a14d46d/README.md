@@ -1,8 +1,8 @@
-# Data Presentation in Clinical Reports
+# Data Presentation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Presentation in Clinical Reports |
+| **Name** | Data Presentation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/references/data_presentation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-reports/references/data_presentation.md` |
 | **Category** | data-analysis |

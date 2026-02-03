@@ -1,8 +1,8 @@
-# Run of the Quiz Generation Skill
+# Quiz Generation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Run of the Quiz Generation Skill |
+| **Name** | Quiz Generation |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/quiz-generation.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/quiz-generation.md` |
 | **Category** | content-creation |

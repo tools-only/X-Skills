@@ -1,8 +1,8 @@
-# book-installer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | book-installer |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/book-installer/SKILL.md` |
 | **Category** | data-analysis |

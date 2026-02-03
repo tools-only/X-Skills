@@ -1,8 +1,8 @@
-# analyzing-requirements
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analyzing-requirements |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analyzing-requirements/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analyzing-requirements/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Evidence Hierarchy and Quality Assessment
+# Evidence Hierarchy
 
 | Property | Value |
 |----------|-------|
-| **Name** | Evidence Hierarchy and Quality Assessment |
+| **Name** | Evidence Hierarchy |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/references/evidence_hierarchy.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-critical-thinking/references/evidence_hierarchy.md` |
 | **Category** | research |

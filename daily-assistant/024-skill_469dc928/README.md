@@ -1,8 +1,8 @@
-# planning-with-files
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | planning-with-files |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ab1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ab1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e/SKILL.md` |
 | **Category** | daily-assistant |

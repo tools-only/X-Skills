@@ -1,8 +1,8 @@
-# SOQL Relationship Query Guide
+# Soql Relationship Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | SOQL Relationship Query Guide |
+| **Name** | Soql Relationship Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-data/docs/soql-relationship-guide.md) (⭐ 47) |
 | **Original Path** | `sf-data/docs/soql-relationship-guide.md` |
 | **Category** | daily-assistant |

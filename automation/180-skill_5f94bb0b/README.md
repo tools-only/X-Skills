@@ -1,8 +1,8 @@
-# docs-seeker
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | docs-seeker |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/docs-seeker/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/docs-seeker/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Quiz: Introduction to Learning Graphs
+# Quiz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz: Introduction to Learning Graphs |
+| **Name** | Quiz |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/04-intro-learning-graphs/quiz.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/04-intro-learning-graphs/quiz.md` |
 | **Category** | data-analysis |

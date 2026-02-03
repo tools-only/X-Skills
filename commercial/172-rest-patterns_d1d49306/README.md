@@ -1,8 +1,8 @@
-# REST Design Patterns
+# Rest Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | REST Design Patterns |
+| **Name** | Rest Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/api-designer/references/rest-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/api-designer/references/rest-patterns.md` |
 | **Category** | commercial |

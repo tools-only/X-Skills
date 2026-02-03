@@ -1,8 +1,8 @@
-# MicroSim Type Matcher Skill
+# Create Microsim Type Selector Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | MicroSim Type Matcher Skill |
+| **Name** | Create Microsim Type Selector Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/create-microsim-type-selector-skill.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/create-microsim-type-selector-skill.md` |
 | **Category** | data-analysis |

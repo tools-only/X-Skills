@@ -1,8 +1,8 @@
-# Stripe.js Reference
+# Stripe Js
 
 | Property | Value |
 |----------|-------|
-| **Name** | Stripe.js Reference |
+| **Name** | Stripe Js |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-js.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/stripe/stripe-js.md` |
 | **Category** | commercial |

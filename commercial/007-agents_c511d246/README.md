@@ -1,8 +1,8 @@
-# skill-name
+# Agents
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-name |
+| **Name** | Agents |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/AGENTS.md) (⭐ 78) |
 | **Original Path** | `AGENTS.md` |
 | **Category** | commercial |

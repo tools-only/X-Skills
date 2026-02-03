@@ -1,8 +1,8 @@
-# ai-doc-system-auditor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-doc-system-auditor |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-doc-system-auditor/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-doc-system-auditor/SKILL.md` |
 | **Category** | productivity |

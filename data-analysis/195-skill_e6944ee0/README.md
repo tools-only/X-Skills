@@ -1,8 +1,8 @@
-# ai-ad-code-searcher
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-ad-code-searcher |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-ad-code-searcher/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-ad-code-searcher/SKILL.md` |
 | **Category** | data-analysis |

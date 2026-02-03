@@ -1,8 +1,8 @@
-# analysis
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analysis |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analysis/SKILL.md` |
 | **Category** | data-analysis |

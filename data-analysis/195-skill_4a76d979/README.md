@@ -1,8 +1,8 @@
-# causal-loop-microsim-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | causal-loop-microsim-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/causal-loop-microsim-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/causal-loop-microsim-generator/SKILL.md` |
 | **Category** | data-analysis |

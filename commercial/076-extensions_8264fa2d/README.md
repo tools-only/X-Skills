@@ -1,8 +1,8 @@
-# Extensions Reference
+# Extensions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Extensions Reference |
+| **Name** | Extensions |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/shopify/references/extensions.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/shopify/references/extensions.md` |
 | **Category** | commercial |

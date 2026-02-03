@@ -1,8 +1,8 @@
-# Revenue Cloud Data Model Template
+# Revenue Cloud Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Revenue Cloud Data Model Template |
+| **Name** | Revenue Cloud Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/revenue-cloud-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/revenue-cloud-erd.md` |
 | **Category** | productivity |

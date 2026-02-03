@@ -1,8 +1,8 @@
-# Reading and Writing Spatial Data
+# Data Io
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reading and Writing Spatial Data |
+| **Name** | Data Io |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/geopandas/references/data-io.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/geopandas/references/data-io.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# str
+# Training Pipelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | str |
+| **Name** | Training Pipelines |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/ml-pipeline/references/training-pipelines.md) (⭐ 216) |
 | **Original Path** | `skills/ml-pipeline/references/training-pipelines.md` |
 | **Category** | data-analysis |

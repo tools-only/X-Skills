@@ -1,8 +1,8 @@
-# skill-share
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-share |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d/SKILL.md` |
 | **Category** | communication |

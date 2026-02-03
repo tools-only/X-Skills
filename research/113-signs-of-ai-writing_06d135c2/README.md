@@ -1,8 +1,8 @@
-# Trikoṇamiti
+# Signs Of Ai Writing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Trikoṇamiti |
+| **Name** | Signs Of Ai Writing |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/signs-of-ai-writing.md) (⭐ 383) |
 | **Original Path** | `skills/writing-clearly-and-concisely/signs-of-ai-writing.md` |
 | **Category** | content-creation |

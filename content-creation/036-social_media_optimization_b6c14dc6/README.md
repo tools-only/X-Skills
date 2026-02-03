@@ -1,8 +1,8 @@
-# Social Media Optimization Guide
+# Social Media Optimization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Social Media Optimization Guide |
+| **Name** | Social Media Optimization |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/content-creator/references/social_media_optimization.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/content-creator/references/social_media_optimization.md` |
 | **Category** | content-creation |

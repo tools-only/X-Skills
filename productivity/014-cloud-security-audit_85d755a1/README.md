@@ -1,8 +1,8 @@
-# Cloud Security Audit Guide
+# Cloud Security Audit
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cloud Security Audit Guide |
+| **Name** | Cloud Security Audit |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/isms-audit-expert/references/cloud-security-audit.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/isms-audit-expert/references/cloud-security-audit.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# nginx-chaos
+# Kubernetes Chaos
 
 | Property | Value |
 |----------|-------|
-| **Name** | nginx-chaos |
+| **Name** | Kubernetes Chaos |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/kubernetes-chaos.md) (⭐ 216) |
 | **Original Path** | `skills/chaos-engineer/references/kubernetes-chaos.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# How to Create a Pull Request Using GitHub CLI
+# Create Pull Request
 
 | Property | Value |
 |----------|-------|
-| **Name** | How to Create a Pull Request Using GitHub CLI |
+| **Name** | Create Pull Request |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-pull-request/create-pull-request.md) (🔥 22.5k) |
 | **Original Path** | `resources/slash-commands/create-pull-request/create-pull-request.md` |
 | **Category** | content-creation |

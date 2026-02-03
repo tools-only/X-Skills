@@ -1,8 +1,8 @@
-# Detailed SNS Operations Reference
+# Detailed Sns Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Detailed SNS Operations Reference |
+| **Name** | Detailed Sns Operations |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sns-operations.md) (⭐ 80) |
 | **Original Path** | `skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sns-operations.md` |
 | **Category** | communication |

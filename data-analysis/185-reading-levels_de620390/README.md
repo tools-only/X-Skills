@@ -1,8 +1,8 @@
-# Reading Level Guidelines for Textbook Content
+# Reading Levels
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reading Level Guidelines for Textbook Content |
+| **Name** | Reading Levels |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/reading-levels.md) (⭐ 14) |
 | **Original Path** | `skills/chapter-content-generator/references/reading-levels.md` |
 | **Category** | data-analysis |

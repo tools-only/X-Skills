@@ -1,8 +1,8 @@
-# angle-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | angle-generator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/angle-generator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/angle-generator/SKILL.md` |
 | **Category** | commercial |

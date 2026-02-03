@@ -1,8 +1,8 @@
-# JSDoc Typing for Vue
+# Jsdoc Typing
 
 | Property | Value |
 |----------|-------|
-| **Name** | JSDoc Typing for Vue |
+| **Name** | Jsdoc Typing |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert-js/references/jsdoc-typing.md) (⭐ 216) |
 | **Original Path** | `skills/vue-expert-js/references/jsdoc-typing.md` |
 | **Category** | communication |

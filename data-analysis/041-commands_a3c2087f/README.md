@@ -1,8 +1,8 @@
-# Commands Reference
+# Commands
 
 | Property | Value |
 |----------|-------|
-| **Name** | Commands Reference |
+| **Name** | Commands |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/jira/references/commands.md) (⭐ 383) |
 | **Original Path** | `skills/jira/references/commands.md` |
 | **Category** | content-creation |

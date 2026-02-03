@@ -1,8 +1,8 @@
-# system-createcli
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | system-createcli |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/CreateCLI/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/CreateCLI/SKILL.md` |
 | **Category** | automation |

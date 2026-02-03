@@ -1,8 +1,8 @@
-# chaos-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | chaos-engineer |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/chaos-engineer/SKILL.md` |
 | **Category** | automation |

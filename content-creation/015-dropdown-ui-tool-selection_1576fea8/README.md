@@ -1,8 +1,8 @@
-# ADR-0012: Display available tools in a dropdown and allow selection from there for creating a server
+# 012 Dropdown Ui Tool Selection
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR-0012: Display available tools in a dropdown and allow selection from there for creating a server |
+| **Name** | 012 Dropdown Ui Tool Selection |
 | **Repository** | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/012-dropdown-ui-tool-selection.md) (⭐ 3.2k) |
 | **Original Path** | `docs/docs/architecture/adr/012-dropdown-ui-tool-selection.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# ZAP70
+# Workflow Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | ZAP70 |
+| **Name** | Workflow Patterns |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/bioservices/references/workflow_patterns.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/bioservices/references/workflow_patterns.md` |
 | **Category** | data-analysis |

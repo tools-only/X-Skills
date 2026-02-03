@@ -1,8 +1,8 @@
-# Apex Naming Conventions
+# Naming Conventions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Apex Naming Conventions |
+| **Name** | Naming Conventions |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-apex/docs/naming-conventions.md) (⭐ 47) |
 | **Original Path** | `sf-apex/docs/naming-conventions.md` |
 | **Category** | automation |

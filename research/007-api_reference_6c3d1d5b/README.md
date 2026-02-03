@@ -1,8 +1,8 @@
-# bioRxiv API Reference
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | bioRxiv API Reference |
+| **Name** | Api Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/biorxiv-database/references/api_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/biorxiv-database/references/api_reference.md` |
 | **Category** | research |

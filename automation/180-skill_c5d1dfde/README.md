@@ -1,8 +1,8 @@
-# _old-earnings-orchestrator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | _old-earnings-orchestrator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/_old-earnings-orchestrator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/_old-earnings-orchestrator/SKILL.md` |
 | **Category** | automation |

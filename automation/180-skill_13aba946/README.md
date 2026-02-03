@@ -1,8 +1,8 @@
-# PowerPlatform
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | PowerPlatform |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/PowerPlatform/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/PowerPlatform/SKILL.md` |
 | **Category** | automation |

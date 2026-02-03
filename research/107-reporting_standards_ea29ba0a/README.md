@@ -1,8 +1,8 @@
-# Scientific Reporting Standards and Guidelines
+# Reporting Standards
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scientific Reporting Standards and Guidelines |
+| **Name** | Reporting Standards |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/peer-review/references/reporting_standards.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/peer-review/references/reporting_standards.md` |
 | **Category** | research |

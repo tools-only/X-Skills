@@ -1,8 +1,8 @@
-# str
+# Standard Library
 
 | Property | Value |
 |----------|-------|
-| **Name** | str |
+| **Name** | Standard Library |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/python-pro/references/standard-library.md) (⭐ 216) |
 | **Original Path** | `skills/python-pro/references/standard-library.md` |
 | **Category** | commercial |

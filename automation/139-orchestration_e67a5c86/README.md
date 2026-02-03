@@ -1,8 +1,8 @@
-# Multi-Skill Orchestration: sf-deploy Perspective
+# Orchestration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multi-Skill Orchestration: sf-deploy Perspective |
+| **Name** | Orchestration |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/orchestration.md) (⭐ 47) |
 | **Original Path** | `sf-deploy/docs/orchestration.md` |
 | **Category** | automation |

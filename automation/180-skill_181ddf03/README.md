@@ -1,8 +1,8 @@
-# microsims-index-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsims-index-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/microsims-index-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/microsims-index-generator/SKILL.md` |
 | **Category** | automation |

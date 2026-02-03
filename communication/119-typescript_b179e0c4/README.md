@@ -1,8 +1,8 @@
-# string
+# Typescript
 
 | Property | Value |
 |----------|-------|
-| **Name** | string |
+| **Name** | Typescript |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/references/typescript.md) (⭐ 216) |
 | **Original Path** | `skills/vue-expert/references/typescript.md` |
 | **Category** | communication |

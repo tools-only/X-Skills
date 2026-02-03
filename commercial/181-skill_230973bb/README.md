@@ -1,8 +1,8 @@
-# access-control-matrix
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | access-control-matrix |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/access-control-matrix/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/access-control-matrix/SKILL.md` |
 | **Category** | commercial |

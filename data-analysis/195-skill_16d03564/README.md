@@ -1,8 +1,8 @@
-# market-research-reports
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | market-research-reports |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/market-research-reports/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/market-research-reports/SKILL.md` |
 | **Category** | data-analysis |

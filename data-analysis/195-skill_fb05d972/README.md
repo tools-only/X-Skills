@@ -1,8 +1,8 @@
-# advanced-memoization-strategies
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | advanced-memoization-strategies |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/advanced-memoization-strategies/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/advanced-memoization-strategies/SKILL.md` |
 | **Category** | data-analysis |

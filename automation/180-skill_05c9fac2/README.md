@@ -1,8 +1,8 @@
-# code-feeder
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | code-feeder |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Code_Feeder_Skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Code_Feeder_Skill/SKILL.md` |
 | **Category** | automation |

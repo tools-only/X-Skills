@@ -1,8 +1,8 @@
-# adaptive-temporal-analysis-integration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adaptive-temporal-analysis-integration |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adaptive-temporal-analysis-integration/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adaptive-temporal-analysis-integration/SKILL.md` |
 | **Category** | automation |

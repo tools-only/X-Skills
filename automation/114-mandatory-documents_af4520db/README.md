@@ -1,8 +1,8 @@
-# ISO 13485:2016 Mandatory Documents and Records
+# Mandatory Documents
 
 | Property | Value |
 |----------|-------|
-| **Name** | ISO 13485:2016 Mandatory Documents and Records |
+| **Name** | Mandatory Documents |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/iso-13485-certification/references/mandatory-documents.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/iso-13485-certification/references/mandatory-documents.md` |
 | **Category** | automation |

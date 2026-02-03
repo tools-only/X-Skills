@@ -1,8 +1,8 @@
-# senior-frontend
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | senior-frontend |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-frontend/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-frontend/SKILL.md` |
 | **Category** | productivity |

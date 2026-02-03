@@ -1,8 +1,8 @@
-# Standard Neuropixels Analysis Workflow
+# Standard Workflow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Standard Neuropixels Analysis Workflow |
+| **Name** | Standard Workflow |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neuropixels-analysis/references/standard_workflow.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neuropixels-analysis/references/standard_workflow.md` |
 | **Category** | automation |

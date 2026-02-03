@@ -1,8 +1,8 @@
-# Data Fetching & Caching
+# Data Fetching
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Fetching & Caching |
+| **Name** | Data Fetching |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nextjs-developer/references/data-fetching.md) (⭐ 216) |
 | **Original Path** | `skills/nextjs-developer/references/data-fetching.md` |
 | **Category** | commercial |

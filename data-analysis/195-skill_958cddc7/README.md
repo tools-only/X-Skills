@@ -1,8 +1,8 @@
-# exploratory-data-analysis
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | exploratory-data-analysis |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/exploratory-data-analysis/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/exploratory-data-analysis/SKILL.md` |
 | **Category** | data-analysis |

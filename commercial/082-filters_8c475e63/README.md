@@ -1,8 +1,8 @@
-# Observable Filters Guide
+# Filters
 
 | Property | Value |
 |----------|-------|
-| **Name** | Observable Filters Guide |
+| **Name** | Filters |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-segmenting-customers/references/filters.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/fnd.r-segmenting-customers/references/filters.md` |
 | **Category** | commercial |

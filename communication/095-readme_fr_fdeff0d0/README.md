@@ -1,8 +1,8 @@
-# memU
+# Readme Fr
 
 | Property | Value |
 |----------|-------|
-| **Name** | memU |
+| **Name** | Readme Fr |
 | **Repository** | [NevaMind-AI/memU](https://raw.githubusercontent.com/NevaMind-AI/memU/main/readme/README_fr.md) (🔥 6.9k) |
 | **Original Path** | `readme/README_fr.md` |
 | **Category** | communication |

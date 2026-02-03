@@ -1,8 +1,8 @@
-# gget Database Information
+# Database Info
 
 | Property | Value |
 |----------|-------|
-| **Name** | gget Database Information |
+| **Name** | Database Info |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gget/references/database_info.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gget/references/database_info.md` |
 | **Category** | research |

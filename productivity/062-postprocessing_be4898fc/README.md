@@ -1,8 +1,8 @@
-# Post-Processing
+# 09 Postprocessing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Post-Processing |
+| **Name** | 09 Postprocessing |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/09-postprocessing.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/09-postprocessing.md` |
 | **Category** | productivity |

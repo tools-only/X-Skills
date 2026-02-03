@@ -1,8 +1,8 @@
-# agent-error-coordinator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-error-coordinator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-error-coordinator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-error-coordinator/SKILL.md` |
 | **Category** | productivity |

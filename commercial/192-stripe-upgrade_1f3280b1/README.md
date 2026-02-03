@@ -1,8 +1,8 @@
-# upgrade-stripe
+# Stripe Upgrade
 
 | Property | Value |
 |----------|-------|
-| **Name** | upgrade-stripe |
+| **Name** | Stripe Upgrade |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/stripe/stripe-upgrade.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/stripe/stripe-upgrade.md` |
 | **Category** | commercial |

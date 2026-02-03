@@ -1,8 +1,8 @@
-# Dietary+Supplements
+# Foods
 
 | Property | Value |
 |----------|-------|
-| **Name** | Dietary+Supplements |
+| **Name** | Foods |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fda-database/references/foods.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fda-database/references/foods.md` |
 | **Category** | automation |

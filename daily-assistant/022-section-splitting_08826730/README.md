@@ -1,8 +1,8 @@
-# Section File Writing
+# Section Splitting
 
 | Property | Value |
 |----------|-------|
-| **Name** | Section File Writing |
+| **Name** | Section Splitting |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gepetto/references/section-splitting.md) (⭐ 383) |
 | **Original Path** | `skills/gepetto/references/section-splitting.md` |
 | **Category** | daily-assistant |

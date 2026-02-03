@@ -1,8 +1,8 @@
-# External Service Operations Guide
+# External Service Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | External Service Operations Guide |
+| **Name** | External Service Operations |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/templates/external-services/external-service-operations.md) (⭐ 47) |
 | **Original Path** | `sf-integration/templates/external-services/external-service-operations.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Marketing Team Skills Suite - Implementation Roadmap
+# Marketing Skills Roadmap
 
 | Property | Value |
 |----------|-------|
-| **Name** | Marketing Team Skills Suite - Implementation Roadmap |
+| **Name** | Marketing Skills Roadmap |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing_skills_roadmap.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/marketing_skills_roadmap.md` |
 | **Category** | commercial |

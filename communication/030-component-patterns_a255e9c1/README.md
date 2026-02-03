@@ -1,8 +1,8 @@
-# Common Component Patterns
+# Component Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Component Patterns |
+| **Name** | Component Patterns |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/developing-preact/assets/component-patterns.md) (⭐ 78) |
 | **Original Path** | `developing-preact/assets/component-patterns.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# cloning-project
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | cloning-project |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/cloning-project/SKILL.md) (⭐ 78) |
 | **Original Path** | `cloning-project/SKILL.md` |
 | **Category** | commercial |

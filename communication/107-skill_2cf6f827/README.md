@@ -1,8 +1,8 @@
-# langchain4j-tool-function-calling-patterns
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | langchain4j-tool-function-calling-patterns |
+| **Name** | Skill |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-tool-function-calling-patterns/SKILL.md) (⭐ 80) |
 | **Original Path** | `skills/langchain4j/langchain4j-tool-function-calling-patterns/SKILL.md` |
 | **Category** | communication |

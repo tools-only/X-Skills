@@ -1,8 +1,8 @@
-# Session Log: Create comparison-table-generator Skill
+# Create Table Comparison Generator Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Session Log: Create comparison-table-generator Skill |
+| **Name** | Create Table Comparison Generator Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/create-table-comparison-generator-skill.md) (⭐ 14) |
 | **Original Path** | `logs/create-table-comparison-generator-skill.md` |
 | **Category** | daily-assistant |

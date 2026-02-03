@@ -1,8 +1,8 @@
-# Common Pitfalls and Solutions
+# 09 Pitfalls Solutions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Pitfalls and Solutions |
+| **Name** | 09 Pitfalls Solutions |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-saga-pattern/references/09-pitfalls-solutions.md) (⭐ 80) |
 | **Original Path** | `skills/spring-boot/spring-boot-saga-pattern/references/09-pitfalls-solutions.md` |
 | **Category** | productivity |

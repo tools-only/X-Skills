@@ -1,8 +1,8 @@
-# Logging - Comprehensive Guide
+# Logging
 
 | Property | Value |
 |----------|-------|
-| **Name** | Logging - Comprehensive Guide |
+| **Name** | Logging |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytorch-lightning/references/logging.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytorch-lightning/references/logging.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Running MATLAB and GNU Octave Scripts from Bash
+# Executing Scripts
 
 | Property | Value |
 |----------|-------|
-| **Name** | Running MATLAB and GNU Octave Scripts from Bash |
+| **Name** | Executing Scripts |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matlab/references/executing-scripts.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matlab/references/executing-scripts.md` |
 | **Category** | automation |

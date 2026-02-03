@@ -1,8 +1,8 @@
-# rowan
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rowan |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rowan/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rowan/SKILL.md` |
 | **Category** | automation |

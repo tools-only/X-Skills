@@ -1,8 +1,8 @@
-# 🐛 Bug-fix PR
+# Bug Fix
 
 | Property | Value |
 |----------|-------|
-| **Name** | 🐛 Bug-fix PR |
+| **Name** | Bug Fix |
 | **Repository** | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/.github/PULL_REQUEST_TEMPLATE/bug_fix.md) (⭐ 3.2k) |
 | **Original Path** | `.github/PULL_REQUEST_TEMPLATE/bug_fix.md` |
 | **Category** | commercial |

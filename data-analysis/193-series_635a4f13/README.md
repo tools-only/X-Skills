@@ -1,8 +1,8 @@
-# FRED Series Endpoints
+# Series
 
 | Property | Value |
 |----------|-------|
-| **Name** | FRED Series Endpoints |
+| **Name** | Series |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fred-economic-data/references/series.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fred-economic-data/references/series.md` |
 | **Category** | data-analysis |

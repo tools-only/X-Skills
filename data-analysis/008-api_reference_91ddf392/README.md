@@ -1,8 +1,8 @@
-# AlphaFold Database API Reference
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | AlphaFold Database API Reference |
+| **Name** | Api Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alphafold-database/references/api_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/alphafold-database/references/api_reference.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Python Integration Reference
+# Python Integration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Python Integration Reference |
+| **Name** | Python Integration |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matlab/references/python-integration.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matlab/references/python-integration.md` |
 | **Category** | data-analysis |

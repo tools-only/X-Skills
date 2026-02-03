@@ -1,8 +1,8 @@
-# ac-parallel-coordinator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ac-parallel-coordinator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ac-parallel-coordinator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ac-parallel-coordinator/SKILL.md` |
 | **Category** | automation |

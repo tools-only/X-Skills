@@ -1,8 +1,8 @@
-# Rowan Workflow Types Reference
+# Workflow Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Rowan Workflow Types Reference |
+| **Name** | Workflow Types |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rowan/references/workflow_types.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rowan/references/workflow_types.md` |
 | **Category** | automation |

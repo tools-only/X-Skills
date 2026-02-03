@@ -1,8 +1,8 @@
-# List of MicroSims for Claude Skills
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | List of MicroSims for Claude Skills |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/index.md` |
 | **Category** | data-analysis |

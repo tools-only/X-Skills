@@ -1,8 +1,8 @@
-# ably
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ably |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ably/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ably/SKILL.md` |
 | **Category** | communication |

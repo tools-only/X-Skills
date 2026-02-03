@@ -1,8 +1,8 @@
-# LaminDB Annotation & Validation
+# Annotation Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | LaminDB Annotation & Validation |
+| **Name** | Annotation Validation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/lamindb/references/annotation-validation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/lamindb/references/annotation-validation.md` |
 | **Category** | data-analysis |

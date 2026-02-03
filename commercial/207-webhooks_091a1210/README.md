@@ -1,8 +1,8 @@
-# Polar Webhooks
+# Webhooks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Polar Webhooks |
+| **Name** | Webhooks |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/webhooks.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/polar/webhooks.md` |
 | **Category** | commercial |

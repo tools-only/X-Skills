@@ -1,8 +1,8 @@
-# agent-research-analyst
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-research-analyst |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-research-analyst/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-research-analyst/SKILL.md` |
 | **Category** | research |

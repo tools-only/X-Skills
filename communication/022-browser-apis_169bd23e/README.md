@@ -1,8 +1,8 @@
-# John
+# Browser Apis
 
 | Property | Value |
 |----------|-------|
-| **Name** | John |
+| **Name** | Browser Apis |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/javascript-pro/references/browser-apis.md) (⭐ 216) |
 | **Original Path** | `skills/javascript-pro/references/browser-apis.md` |
 | **Category** | communication |

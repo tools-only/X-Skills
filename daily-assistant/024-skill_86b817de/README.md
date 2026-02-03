@@ -1,8 +1,8 @@
-# agent-security-auditor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-security-auditor |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-security-auditor/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-security-auditor/SKILL.md` |
 | **Category** | daily-assistant |

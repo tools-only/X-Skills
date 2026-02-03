@@ -1,8 +1,8 @@
-# sys-defining-goals
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sys-defining-goals |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-defining-goals/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/sys-defining-goals/SKILL.md` |
 | **Category** | productivity |

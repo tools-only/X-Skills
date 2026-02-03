@@ -1,8 +1,8 @@
-# pptx-posters
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pptx-posters |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pptx-posters/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pptx-posters/SKILL.md` |
 | **Category** | research |

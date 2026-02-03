@@ -1,8 +1,8 @@
-# string
+# State Management
 
 | Property | Value |
 |----------|-------|
-| **Name** | string |
+| **Name** | State Management |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/references/state-management.md) (⭐ 216) |
 | **Original Path** | `skills/vue-expert/references/state-management.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Design Principles: Beautiful & Right
+# Design Principles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Design Principles: Beautiful & Right |
+| **Name** | Design Principles |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/design-principles.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/aesthetic/references/design-principles.md` |
 | **Category** | data-analysis |

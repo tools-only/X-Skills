@@ -1,8 +1,8 @@
-# Claude Code CI
+# Cicd Integration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claude Code CI |
+| **Name** | Cicd Integration |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/cicd-integration.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/claude-code/references/cicd-integration.md` |
 | **Category** | automation |

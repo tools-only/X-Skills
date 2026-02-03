@@ -1,8 +1,8 @@
-# CS Conference Writing Style Guide
+# Cs Conference Style
 
 | Property | Value |
 |----------|-------|
-| **Name** | CS Conference Writing Style Guide |
+| **Name** | Cs Conference Style |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/cs_conference_style.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/cs_conference_style.md` |
 | **Category** | research |

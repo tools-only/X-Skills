@@ -1,8 +1,8 @@
-# ui-styling
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ui-styling |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/ui-styling/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/ui-styling/SKILL.md` |
 | **Category** | data-analysis |

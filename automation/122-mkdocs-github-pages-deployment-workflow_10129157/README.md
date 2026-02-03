@@ -1,8 +1,8 @@
-# MkDocs GitHub Pages Deployment Workflow
+# 08 Mkdocs Github Pages Deployment Workflow
 
 | Property | Value |
 |----------|-------|
-| **Name** | MkDocs GitHub Pages Deployment Workflow |
+| **Name** | 08 Mkdocs Github Pages Deployment Workflow |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/08-mkdocs-github-pages-deployment-workflow.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/08-mkdocs-github-pages-deployment-workflow.md` |
 | **Category** | automation |

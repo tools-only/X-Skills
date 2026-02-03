@@ -1,8 +1,8 @@
-# hypogenic
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | hypogenic |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hypogenic/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/hypogenic/SKILL.md` |
 | **Category** | automation |

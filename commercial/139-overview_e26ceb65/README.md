@@ -1,8 +1,8 @@
-# Creem.io Overview
+# Overview
 
 | Property | Value |
 |----------|-------|
-| **Name** | Creem.io Overview |
+| **Name** | Overview |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/creem/overview.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/creem/overview.md` |
 | **Category** | commercial |

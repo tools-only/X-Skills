@@ -1,8 +1,8 @@
-# Input/Output Operations
+# Io Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Input/Output Operations |
+| **Name** | Io Operations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/anndata/references/io_operations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/anndata/references/io_operations.md` |
 | **Category** | content-creation |

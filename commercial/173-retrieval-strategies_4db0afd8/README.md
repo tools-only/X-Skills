@@ -1,8 +1,8 @@
-# Advanced Retrieval Strategies
+# Retrieval Strategies
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced Retrieval Strategies |
+| **Name** | Retrieval Strategies |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/rag/references/retrieval-strategies.md) (⭐ 80) |
 | **Original Path** | `skills/ai/rag/references/retrieval-strategies.md` |
 | **Category** | data-analysis |

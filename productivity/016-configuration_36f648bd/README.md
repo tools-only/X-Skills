@@ -1,8 +1,8 @@
-# Configuration and Settings
+# Configuration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Configuration and Settings |
+| **Name** | Configuration |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/configuration.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/claude-code/references/configuration.md` |
 | **Category** | productivity |

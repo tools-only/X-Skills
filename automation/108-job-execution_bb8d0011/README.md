@@ -1,8 +1,8 @@
-# DNAnexus Job Execution and Workflows
+# Job Execution
 
 | Property | Value |
 |----------|-------|
-| **Name** | DNAnexus Job Execution and Workflows |
+| **Name** | Job Execution |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/dnanexus-integration/references/job-execution.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/dnanexus-integration/references/job-execution.md` |
 | **Category** | automation |

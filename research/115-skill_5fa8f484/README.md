@@ -1,8 +1,8 @@
-# paper-2-web
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | paper-2-web |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/paper-2-web/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/paper-2-web/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# acceptance-criteria
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | acceptance-criteria |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/acceptance-criteria/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/acceptance-criteria/SKILL.md` |
 | **Category** | daily-assistant |

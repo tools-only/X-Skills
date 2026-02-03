@@ -1,8 +1,8 @@
-# Medium Diagram Generation Execution Plan
+# Execution Plan
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medium Diagram Generation Execution Plan |
+| **Name** | Execution Plan |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/execution-plan.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/execution-plan.md` |
 | **Category** | data-analysis |

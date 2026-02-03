@@ -1,8 +1,8 @@
-# my-application
+# Tracing
 
 | Property | Value |
 |----------|-------|
-| **Name** | my-application |
+| **Name** | Tracing |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-actuator/references/tracing.md) (⭐ 80) |
 | **Original Path** | `skills/spring-boot/spring-boot-actuator/references/tracing.md` |
 | **Category** | communication |

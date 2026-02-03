@@ -1,8 +1,8 @@
-# ideate-solutions
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ideate-solutions |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-strategy/ideate-solutions/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/product-strategy/ideate-solutions/SKILL.md` |
 | **Category** | investment |

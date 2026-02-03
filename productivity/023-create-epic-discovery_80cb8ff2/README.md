@@ -1,8 +1,8 @@
-# Epic Discovery Document Generator
+# Create Epic Discovery
 
 | Property | Value |
 |----------|-------|
-| **Name** | Epic Discovery Document Generator |
+| **Name** | Create Epic Discovery |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/discovery/create-epic-discovery.md) (⭐ 216) |
 | **Original Path** | `commands/project/discovery/create-epic-discovery.md` |
 | **Category** | productivity |

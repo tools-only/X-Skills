@@ -1,8 +1,8 @@
-# Authentication & Guards
+# Authentication
 
 | Property | Value |
 |----------|-------|
-| **Name** | Authentication & Guards |
+| **Name** | Authentication |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nestjs-expert/references/authentication.md) (⭐ 216) |
 | **Original Path** | `skills/nestjs-expert/references/authentication.md` |
 | **Category** | communication |

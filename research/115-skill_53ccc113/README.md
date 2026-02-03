@@ -1,8 +1,8 @@
-# scientific-writing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | scientific-writing |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/SKILL.md` |
 | **Category** | research |

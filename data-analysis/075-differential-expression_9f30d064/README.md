@@ -1,8 +1,8 @@
-# Differential Expression Analysis in scvi-tools
+# Differential Expression
 
 | Property | Value |
 |----------|-------|
-| **Name** | Differential Expression Analysis in scvi-tools |
+| **Name** | Differential Expression |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/references/differential-expression.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/references/differential-expression.md` |
 | **Category** | data-analysis |

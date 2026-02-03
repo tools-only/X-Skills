@@ -1,8 +1,8 @@
-# langchain4j-vector-stores-configuration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | langchain4j-vector-stores-configuration |
+| **Name** | Skill |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/SKILL.md) (⭐ 80) |
 | **Original Path** | `skills/langchain4j/langchain4j-vector-stores-configuration/SKILL.md` |
 | **Category** | automation |

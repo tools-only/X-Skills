@@ -1,8 +1,8 @@
-# MicroSim Index Generation Run Log
+# Microsim Index Generation Run
 
 | Property | Value |
 |----------|-------|
-| **Name** | MicroSim Index Generation Run Log |
+| **Name** | Microsim Index Generation Run |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/microsim-index-generation-run.md) (⭐ 14) |
 | **Original Path** | `logs/microsim-index-generation-run.md` |
 | **Category** | data-analysis |

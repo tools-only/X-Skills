@@ -1,8 +1,8 @@
-# agents
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agents |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agents/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agents/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Salesforce Metadata Naming Conventions
+# Naming Conventions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Salesforce Metadata Naming Conventions |
+| **Name** | Naming Conventions |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/docs/naming-conventions.md) (⭐ 47) |
 | **Original Path** | `sf-metadata/docs/naming-conventions.md` |
 | **Category** | commercial |

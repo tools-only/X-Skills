@@ -1,8 +1,8 @@
-# SymPy Physics and Mechanics
+# Physics Mechanics
 
 | Property | Value |
 |----------|-------|
-| **Name** | SymPy Physics and Mechanics |
+| **Name** | Physics Mechanics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/sympy/references/physics-mechanics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/sympy/references/physics-mechanics.md` |
 | **Category** | productivity |

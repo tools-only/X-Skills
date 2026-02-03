@@ -1,8 +1,8 @@
-# Models & ORM
+# Models Orm
 
 | Property | Value |
 |----------|-------|
-| **Name** | Models & ORM |
+| **Name** | Models Orm |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/django-expert/references/models-orm.md) (⭐ 216) |
 | **Original Path** | `skills/django-expert/references/models-orm.md` |
 | **Category** | automation |

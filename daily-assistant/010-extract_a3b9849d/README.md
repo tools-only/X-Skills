@@ -1,8 +1,8 @@
-# Colin
+# Extract
 
 | Property | Value |
 |----------|-------|
-| **Name** | Colin |
+| **Name** | Extract |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/src/colin/llm/prompts/extract.md) (⭐ 93) |
 | **Original Path** | `src/colin/llm/prompts/extract.md` |
 | **Category** | daily-assistant |

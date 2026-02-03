@@ -1,8 +1,8 @@
-# ADR 004: Two-Pass Discovery
+# 004 Two Pass Discovery
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR 004: Two-Pass Discovery |
+| **Name** | 004 Two Pass Discovery |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/004-two-pass-discovery.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/004-two-pass-discovery.md` |
 | **Category** | data-analysis |

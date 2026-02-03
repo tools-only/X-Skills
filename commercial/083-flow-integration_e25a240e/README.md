@@ -1,8 +1,8 @@
-# Apex Flow Integration Guide
+# Flow Integration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Apex Flow Integration Guide |
+| **Name** | Flow Integration |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-apex/docs/flow-integration.md) (⭐ 47) |
 | **Original Path** | `sf-apex/docs/flow-integration.md` |
 | **Category** | commercial |

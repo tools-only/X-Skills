@@ -1,8 +1,8 @@
-# 第二阶段：选题确定
+# 02 Topic
 
 | Property | Value |
 |----------|-------|
-| **Name** | 第二阶段：选题确定 |
+| **Name** | 02 Topic |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/02-topic.md) (⭐ 80) |
 | **Original Path** | `thought-mining/stages/02-topic.md` |
 | **Category** | content-creation |

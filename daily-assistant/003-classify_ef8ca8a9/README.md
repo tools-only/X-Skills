@@ -1,8 +1,8 @@
-# Colin
+# Classify
 
 | Property | Value |
 |----------|-------|
-| **Name** | Colin |
+| **Name** | Classify |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/src/colin/llm/prompts/classify.md) (⭐ 93) |
 | **Original Path** | `src/colin/llm/prompts/classify.md` |
 | **Category** | daily-assistant |

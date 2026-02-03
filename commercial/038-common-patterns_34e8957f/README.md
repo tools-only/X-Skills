@@ -1,8 +1,8 @@
-# Common Bug Patterns
+# Common Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Bug Patterns |
+| **Name** | Common Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/debugging-wizard/references/common-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/debugging-wizard/references/common-patterns.md` |
 | **Category** | commercial |

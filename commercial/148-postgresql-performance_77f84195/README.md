@@ -1,8 +1,8 @@
-# PostgreSQL Performance Optimization
+# Postgresql Performance
 
 | Property | Value |
 |----------|-------|
-| **Name** | PostgreSQL Performance Optimization |
+| **Name** | Postgresql Performance |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/postgresql-performance.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/databases/references/postgresql-performance.md` |
 | **Category** | commercial |

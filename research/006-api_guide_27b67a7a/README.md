@@ -1,8 +1,8 @@
-# Einstein` - Names are ambiguous!
+# Api Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Einstein` - Names are ambiguous! |
+| **Name** | Api Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/openalex-database/references/api_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/openalex-database/references/api_guide.md` |
 | **Category** | research |

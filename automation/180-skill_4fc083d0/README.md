@@ -1,8 +1,8 @@
-# ios-simulator-skill
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ios-simulator-skill |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f/SKILL.md` |
 | **Category** | automation |

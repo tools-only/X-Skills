@@ -1,8 +1,8 @@
-# Generate Diagrams
+# Cli Usage
 
 | Property | Value |
 |----------|-------|
-| **Name** | Generate Diagrams |
+| **Name** | Cli Usage |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mermaidjs-v11/references/cli-usage.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/mermaidjs-v11/references/cli-usage.md` |
 | **Category** | data-analysis |

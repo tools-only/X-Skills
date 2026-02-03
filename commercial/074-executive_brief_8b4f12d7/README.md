@@ -1,8 +1,8 @@
-# Executive Brief: Q1 2025 Planning
+# Executive Brief
 
 | Property | Value |
 |----------|-------|
-| **Name** | Executive Brief: Q1 2025 Planning |
+| **Name** | Executive Brief |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/executive_brief.md) (⭐ 93) |
 | **Original Path** | `examples/everything/target/compiled/executive_brief.md` |
 | **Category** | commercial |

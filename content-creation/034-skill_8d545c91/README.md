@@ -1,8 +1,8 @@
-# add-database-table
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-database-table |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-database-table/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-database-table/SKILL.md` |
 | **Category** | content-creation |

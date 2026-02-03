@@ -1,8 +1,8 @@
-# Cncsetup
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cncsetup |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/CNCSetup/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/CNCSetup/SKILL.md` |
 | **Category** | commercial |

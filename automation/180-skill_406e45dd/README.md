@@ -1,8 +1,8 @@
-# AOC Orchestrator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | AOC Orchestrator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/aoc-orchestrator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/aoc-orchestrator/SKILL.md` |
 | **Category** | automation |

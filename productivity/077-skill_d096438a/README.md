@@ -1,8 +1,8 @@
-# agent-postgres-pro
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-postgres-pro |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-postgres-pro/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-postgres-pro/SKILL.md` |
 | **Category** | productivity |

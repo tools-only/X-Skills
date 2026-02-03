@@ -1,8 +1,8 @@
-# User Generator
+# Generator
 
 | Property | Value |
 |----------|-------|
-| **Name** | User Generator |
+| **Name** | Generator |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/dynamic_files/models/generator.md) (⭐ 93) |
 | **Original Path** | `examples/dynamic_files/models/generator.md` |
 | **Category** | commercial |

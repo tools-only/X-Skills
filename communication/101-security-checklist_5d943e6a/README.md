@@ -1,8 +1,8 @@
-# z.string().min(1).max(100),
+# Security Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | z.string().min(1).max(100), |
+| **Name** | Security Checklist |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fullstack-guardian/references/security-checklist.md) (⭐ 216) |
 | **Original Path** | `skills/fullstack-guardian/references/security-checklist.md` |
 | **Category** | communication |

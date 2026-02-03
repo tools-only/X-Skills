@@ -1,8 +1,8 @@
-# Family Management
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Family Management |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Family/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Family/SKILL.md` |
 | **Category** | daily-assistant |

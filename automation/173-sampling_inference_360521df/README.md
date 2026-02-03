@@ -1,8 +1,8 @@
-# PyMC Sampling and Inference Methods
+# Sampling Inference
 
 | Property | Value |
 |----------|-------|
-| **Name** | PyMC Sampling and Inference Methods |
+| **Name** | Sampling Inference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymc/references/sampling_inference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymc/references/sampling_inference.md` |
 | **Category** | data-analysis |

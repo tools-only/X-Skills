@@ -1,8 +1,8 @@
-# CSharpener
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | CSharpener |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/CSharpener/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/CSharpener/SKILL.md` |
 | **Category** | data-analysis |

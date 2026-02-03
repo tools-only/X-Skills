@@ -1,8 +1,8 @@
-# auditing-accessibility-wcag
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | auditing-accessibility-wcag |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accessibility-auditor/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accessibility-auditor/SKILL.md` |
 | **Category** | automation |

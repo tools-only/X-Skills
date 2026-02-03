@@ -1,8 +1,8 @@
-# Post-Processing & Analysis Reference
+# Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Post-Processing & Analysis Reference |
+| **Name** | Analysis |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neuropixels-analysis/references/ANALYSIS.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neuropixels-analysis/references/ANALYSIS.md` |
 | **Category** | data-analysis |

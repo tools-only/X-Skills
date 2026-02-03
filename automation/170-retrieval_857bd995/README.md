@@ -1,8 +1,8 @@
-# Retrieval Mechanism
+# 06 Retrieval
 
 | Property | Value |
 |----------|-------|
-| **Name** | Retrieval Mechanism |
+| **Name** | 06 Retrieval |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-retrieval.md) (⭐ 440) |
 | **Original Path** | `docs/en/concepts/06-retrieval.md` |
 | **Category** | automation |

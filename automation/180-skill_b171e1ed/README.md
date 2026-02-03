@@ -1,8 +1,8 @@
-# add-agent-property
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-agent-property |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-agent-property/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-agent-property/SKILL.md` |
 | **Category** | data-analysis |

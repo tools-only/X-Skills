@@ -1,8 +1,8 @@
-# Description for tooltip
+# Comparison Table Generator
 
 | Property | Value |
 |----------|-------|
-| **Name** | Description for tooltip |
+| **Name** | Comparison Table Generator |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/microsims/comparison-table-generator.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/microsims/comparison-table-generator.md` |
 | **Category** | data-analysis |

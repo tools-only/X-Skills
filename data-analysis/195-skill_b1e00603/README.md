@@ -1,8 +1,8 @@
-# capa-officer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | capa-officer |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/capa-officer/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/capa-officer/SKILL.md` |
 | **Category** | data-analysis |

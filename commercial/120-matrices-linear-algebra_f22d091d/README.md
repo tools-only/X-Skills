@@ -1,8 +1,8 @@
-# SymPy Matrices and Linear Algebra
+# Matrices Linear Algebra
 
 | Property | Value |
 |----------|-------|
-| **Name** | SymPy Matrices and Linear Algebra |
+| **Name** | Matrices Linear Algebra |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/sympy/references/matrices-linear-algebra.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/sympy/references/matrices-linear-algebra.md` |
 | **Category** | commercial |

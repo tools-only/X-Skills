@@ -1,8 +1,8 @@
-# Bloom's Taxonomy Guide for FAQ Questions
+# Blooms Taxonomy Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Bloom's Taxonomy Guide for FAQ Questions |
+| **Name** | Blooms Taxonomy Guide |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/faq-generator/references/blooms-taxonomy-guide.md) (⭐ 14) |
 | **Original Path** | `skills/faq-generator/references/blooms-taxonomy-guide.md` |
 | **Category** | data-analysis |

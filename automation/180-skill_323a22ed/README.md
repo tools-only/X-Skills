@@ -1,8 +1,8 @@
-# 8-bit-pixel-art-patterns
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | 8-bit-pixel-art-patterns |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/8-bit-pixel-art-patterns/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/8-bit-pixel-art-patterns/SKILL.md` |
 | **Category** | automation |

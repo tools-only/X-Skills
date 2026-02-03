@@ -1,8 +1,8 @@
-# sys-tracking-goals
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sys-tracking-goals |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-tracking-goals/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/sys-tracking-goals/SKILL.md` |
 | **Category** | daily-assistant |

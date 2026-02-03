@@ -1,8 +1,8 @@
-# Yunshu Skillshub
+# Api Config
 
 | Property | Value |
 |----------|-------|
-| **Name** | Yunshu Skillshub |
+| **Name** | Api Config |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/api-config.md) (⭐ 80) |
 | **Original Path** | `image-assistant/templates/api-config.md` |
 | **Category** | automation |

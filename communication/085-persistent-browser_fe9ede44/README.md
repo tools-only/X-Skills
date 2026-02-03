@@ -1,8 +1,8 @@
-# Persistent Browser Mode
+# Persistent Browser
 
 | Property | Value |
 |----------|-------|
-| **Name** | Persistent Browser Mode |
+| **Name** | Persistent Browser |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/chrome-devtools/scripts/PERSISTENT-BROWSER.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/chrome-devtools/scripts/PERSISTENT-BROWSER.md` |
 | **Category** | communication |

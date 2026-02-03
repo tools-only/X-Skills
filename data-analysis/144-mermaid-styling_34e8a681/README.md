@@ -1,8 +1,8 @@
-# Mermaid Styling Guide (sf-skills Standard)
+# Mermaid Styling
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mermaid Styling Guide (sf-skills Standard) |
+| **Name** | Mermaid Styling |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/references/mermaid-styling.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/references/mermaid-styling.md` |
 | **Category** | data-analysis |

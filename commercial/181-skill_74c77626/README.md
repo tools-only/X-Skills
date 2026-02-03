@@ -1,8 +1,8 @@
-# aesthetic-usability-effect
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | aesthetic-usability-effect |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/aesthetic-usability-effect/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/aesthetic-usability-effect/SKILL.md` |
 | **Category** | commercial |

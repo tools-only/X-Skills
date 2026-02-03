@@ -1,8 +1,8 @@
-# Validation History: sf-ai-agentscript
+# Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Validation History: sf-ai-agentscript |
+| **Name** | Validation |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/VALIDATION.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/VALIDATION.md` |
 | **Category** | commercial |

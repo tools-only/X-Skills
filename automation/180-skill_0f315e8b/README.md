@@ -1,8 +1,8 @@
-# discover-assumptions
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | discover-assumptions |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-strategy/discover-assumptions/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/product-strategy/discover-assumptions/SKILL.md` |
 | **Category** | daily-assistant |

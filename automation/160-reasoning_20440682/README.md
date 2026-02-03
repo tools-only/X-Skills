@@ -1,8 +1,8 @@
-# Reasoning Workflow
+# Reasoning
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reasoning Workflow |
+| **Name** | Reasoning |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/workflows/reasoning.md) (⭐ 14) |
 | **Original Path** | `docs/workflows/reasoning.md` |
 | **Category** | automation |

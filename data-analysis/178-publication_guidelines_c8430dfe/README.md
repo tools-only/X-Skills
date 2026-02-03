@@ -1,8 +1,8 @@
-# Publication-Ready Figure Guidelines
+# Publication Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | Publication-Ready Figure Guidelines |
+| **Name** | Publication Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-visualization/references/publication_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-visualization/references/publication_guidelines.md` |
 | **Category** | data-analysis |

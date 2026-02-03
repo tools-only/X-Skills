@@ -1,8 +1,8 @@
-# agent-canvas
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-canvas |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-canvas/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-canvas/SKILL.md` |
 | **Category** | data-analysis |

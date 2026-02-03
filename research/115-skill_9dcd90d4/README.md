@@ -1,8 +1,8 @@
-# anki-card-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | anki-card-generator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/anki-card-generator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/anki-card-generator/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# NetworkX Graph Visualization
+# Visualization
 
 | Property | Value |
 |----------|-------|
-| **Name** | NetworkX Graph Visualization |
+| **Name** | Visualization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/networkx/references/visualization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/networkx/references/visualization.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Graph Objects - Low-Level API
+# Graph Objects
 
 | Property | Value |
 |----------|-------|
-| **Name** | Graph Objects - Low-Level API |
+| **Name** | Graph Objects |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/plotly/references/graph-objects.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/plotly/references/graph-objects.md` |
 | **Category** | data-analysis |

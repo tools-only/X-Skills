@@ -1,8 +1,8 @@
-# angular-ssr
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | angular-ssr |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/angular-ssr/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/angular-ssr/SKILL.md` |
 | **Category** | productivity |

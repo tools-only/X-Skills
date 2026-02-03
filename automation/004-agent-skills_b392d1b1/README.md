@@ -1,8 +1,8 @@
-# document-creator
+# Agent Skills
 
 | Property | Value |
 |----------|-------|
-| **Name** | document-creator |
+| **Name** | Agent Skills |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/claude-code/references/agent-skills.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/claude-code/references/agent-skills.md` |
 | **Category** | automation |

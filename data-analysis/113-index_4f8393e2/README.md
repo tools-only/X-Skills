@@ -1,8 +1,8 @@
-# Linear Chain vs Network Structure Comparison
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Linear Chain vs Network Structure Comparison |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/linear-chain-vs-network/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/linear-chain-vs-network/index.md` |
 | **Category** | data-analysis |

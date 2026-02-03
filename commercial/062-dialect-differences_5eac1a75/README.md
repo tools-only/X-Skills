@@ -1,8 +1,8 @@
-# Database Dialect Differences
+# Dialect Differences
 
 | Property | Value |
 |----------|-------|
-| **Name** | Database Dialect Differences |
+| **Name** | Dialect Differences |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sql-pro/references/dialect-differences.md) (⭐ 216) |
 | **Original Path** | `skills/sql-pro/references/dialect-differences.md` |
 | **Category** | commercial |

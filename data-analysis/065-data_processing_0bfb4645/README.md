@@ -1,8 +1,8 @@
-# Data Processing and Manipulation
+# Data Processing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Processing and Manipulation |
+| **Name** | Data Processing |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/vaex/references/data_processing.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/vaex/references/data_processing.md` |
 | **Category** | data-analysis |

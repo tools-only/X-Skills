@@ -1,8 +1,8 @@
-# Data Analysis Patterns for Market Research
+# Data Analysis Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Analysis Patterns for Market Research |
+| **Name** | Data Analysis Patterns |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/market-research-reports/references/data_analysis_patterns.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/market-research-reports/references/data_analysis_patterns.md` |
 | **Category** | investment |

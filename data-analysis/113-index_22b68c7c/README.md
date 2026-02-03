@@ -1,8 +1,8 @@
-# Claude Code Memory Layers
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claude Code Memory Layers |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/claude-code-memory-layers/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/claude-code-memory-layers/index.md` |
 | **Category** | data-analysis |

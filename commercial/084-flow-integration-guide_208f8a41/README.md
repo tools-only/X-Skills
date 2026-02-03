@@ -1,8 +1,8 @@
-# LWC Flow Integration Guide
+# Flow Integration Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | LWC Flow Integration Guide |
+| **Name** | Flow Integration Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/flow-integration-guide.md) (⭐ 47) |
 | **Original Path** | `sf-lwc/docs/flow-integration-guide.md` |
 | **Category** | commercial |

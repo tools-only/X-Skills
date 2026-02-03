@@ -1,8 +1,8 @@
-# MkDocs Build Process Workflow Diagram
+# 08 Mkdocs Build Process Workflow Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | MkDocs Build Process Workflow Diagram |
+| **Name** | 08 Mkdocs Build Process Workflow Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/08-mkdocs-build-process-workflow-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/08-mkdocs-build-process-workflow-diagram.md` |
 | **Category** | data-analysis |

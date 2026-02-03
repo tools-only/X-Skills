@@ -1,8 +1,8 @@
-# OpenAI Memory on LoCoMo - Evaluation Guide
+# Openai Memory Locomo Eval Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | OpenAI Memory on LoCoMo - Evaluation Guide |
+| **Name** | Openai Memory Locomo Eval Guide |
 | **Repository** | [MemTensor/MemOS](https://raw.githubusercontent.com/MemTensor/MemOS/main/evaluation/scripts/locomo/openai_memory_locomo_eval_guide.md) (⭐ 4.9k) |
 | **Original Path** | `evaluation/scripts/locomo/openai_memory_locomo_eval_guide.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Common Methodological and Statistical Issues in Scientific Manuscripts
+# Common Issues
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Methodological and Statistical Issues in Scientific Manuscripts |
+| **Name** | Common Issues |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/peer-review/references/common_issues.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/peer-review/references/common_issues.md` |
 | **Category** | data-analysis |

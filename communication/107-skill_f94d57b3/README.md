@@ -1,8 +1,8 @@
-# ai-coaching
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-coaching |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-coaching/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-coaching/SKILL.md` |
 | **Category** | communication |

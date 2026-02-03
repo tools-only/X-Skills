@@ -1,8 +1,8 @@
-# Assumptions and Experiments Phase
+# Assumptions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Assumptions and Experiments Phase |
+| **Name** | Assumptions |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/assumptions.md) (⭐ 372) |
 | **Original Path** | `skills/product-development/ost/references/assumptions.md` |
 | **Category** | data-analysis |

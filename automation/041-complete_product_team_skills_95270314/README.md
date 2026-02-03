@@ -1,8 +1,8 @@
-# 🎯 Complete Product Team Skills Suite - All 5 Roles
+# Complete Product Team Skills
 
 | Property | Value |
 |----------|-------|
-| **Name** | 🎯 Complete Product Team Skills Suite - All 5 Roles |
+| **Name** | Complete Product Team Skills |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/complete_product_team_skills.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/complete_product_team_skills.md` |
 | **Category** | automation |

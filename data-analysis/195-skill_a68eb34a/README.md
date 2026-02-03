@@ -1,8 +1,8 @@
-# learning-graph-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | learning-graph-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/learning-graph-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/learning-graph-generator/SKILL.md` |
 | **Category** | data-analysis |

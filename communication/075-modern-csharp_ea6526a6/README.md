@@ -1,8 +1,8 @@
-# VIP
+# Modern Csharp
 
 | Property | Value |
 |----------|-------|
-| **Name** | VIP |
+| **Name** | Modern Csharp |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/references/modern-csharp.md) (⭐ 216) |
 | **Original Path** | `skills/csharp-developer/references/modern-csharp.md` |
 | **Category** | communication |

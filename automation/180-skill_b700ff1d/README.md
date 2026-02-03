@@ -1,8 +1,8 @@
-# game-changing-features
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | game-changing-features |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/game-changing-features/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/game-changing-features/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# agent-seo-specialist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-seo-specialist |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-seo-specialist/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-seo-specialist/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# string,
+# Common Antipatterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | string, |
+| **Name** | Common Antipatterns |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/code-reviewer/references/common_antipatterns.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/code-reviewer/references/common_antipatterns.md` |
 | **Category** | commercial |

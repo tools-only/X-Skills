@@ -1,8 +1,8 @@
-# scEmbed: Single-Cell Embedding Generation
+# Scembed
 
 | Property | Value |
 |----------|-------|
-| **Name** | scEmbed: Single-Cell Embedding Generation |
+| **Name** | Scembed |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/geniml/references/scembed.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/geniml/references/scembed.md` |
 | **Category** | data-analysis |

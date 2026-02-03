@@ -1,8 +1,8 @@
-# add-new-skills-to-workflow
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-new-skills-to-workflow |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-new-skills-to-workflow/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-new-skills-to-workflow/SKILL.md` |
 | **Category** | automation |

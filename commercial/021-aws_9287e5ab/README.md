@@ -1,8 +1,8 @@
-# AWS Architecture Reference
+# Aws
 
 | Property | Value |
 |----------|-------|
-| **Name** | AWS Architecture Reference |
+| **Name** | Aws |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cloud-architect/references/aws.md) (⭐ 216) |
 | **Original Path** | `skills/cloud-architect/references/aws.md` |
 | **Category** | commercial |

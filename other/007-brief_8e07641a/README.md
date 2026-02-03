@@ -1,8 +1,8 @@
-# 阶段1：需求澄清
+# 01 Brief
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段1：需求澄清 |
+| **Name** | 01 Brief |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/01-brief.md) (⭐ 80) |
 | **Original Path** | `image-assistant/stages/01-brief.md` |
 | **Category** | other |

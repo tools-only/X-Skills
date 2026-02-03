@@ -1,8 +1,8 @@
-# Exploring Data - Usage Documentation
+# Usage
 
 | Property | Value |
 |----------|-------|
-| **Name** | Exploring Data - Usage Documentation |
+| **Name** | Usage |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-data/references/USAGE.md) (⭐ 78) |
 | **Original Path** | `exploring-data/references/USAGE.md` |
 | **Category** | data-analysis |

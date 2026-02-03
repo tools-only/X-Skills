@@ -1,8 +1,8 @@
-# str
+# Incident Chaos
 
 | Property | Value |
 |----------|-------|
-| **Name** | str |
+| **Name** | Incident Chaos |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/incident-chaos.md) (⭐ 216) |
 | **Original Path** | `skills/sre-engineer/references/incident-chaos.md` |
 | **Category** | commercial |

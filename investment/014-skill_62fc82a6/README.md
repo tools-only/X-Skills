@@ -1,8 +1,8 @@
-# plaid-accounts-expert
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | plaid-accounts-expert |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accounts/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accounts/SKILL.md` |
 | **Category** | investment |

@@ -1,8 +1,8 @@
-# Deep Learning Networks
+# Networks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Deep Learning Networks |
+| **Name** | Networks |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/aeon/references/networks.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/aeon/references/networks.md` |
 | **Category** | productivity |

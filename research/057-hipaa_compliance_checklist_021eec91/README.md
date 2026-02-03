@@ -1,8 +1,8 @@
-# HIPAA Compliance Checklist for Clinical Reports
+# Hipaa Compliance Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | HIPAA Compliance Checklist for Clinical Reports |
+| **Name** | Hipaa Compliance Checklist |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/assets/hipaa_compliance_checklist.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-reports/assets/hipaa_compliance_checklist.md` |
 | **Category** | content-creation |

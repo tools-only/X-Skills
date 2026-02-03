@@ -1,8 +1,8 @@
-# ai-ad-be-gen
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-ad-be-gen |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-ad-be-gen/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-ad-be-gen/SKILL.md` |
 | **Category** | daily-assistant |

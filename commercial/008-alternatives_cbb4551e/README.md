@@ -1,8 +1,8 @@
-# Better Alternatives to useEffect
+# Alternatives
 
 | Property | Value |
 |----------|-------|
-| **Name** | Better Alternatives to useEffect |
+| **Name** | Alternatives |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-useeffect/alternatives.md) (⭐ 383) |
 | **Original Path** | `skills/react-useeffect/alternatives.md` |
 | **Category** | commercial |

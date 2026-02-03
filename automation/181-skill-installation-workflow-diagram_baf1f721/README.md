@@ -1,8 +1,8 @@
-# Skill Installation Workflow Diagram
+# 13 Skill Installation Workflow Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Installation Workflow Diagram |
+| **Name** | 13 Skill Installation Workflow Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/13-skill-installation-workflow-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/13-skill-installation-workflow-diagram.md` |
 | **Category** | data-analysis |

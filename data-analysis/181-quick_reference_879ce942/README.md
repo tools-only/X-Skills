@@ -1,8 +1,8 @@
-# deepTools Quick Reference
+# Quick Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | deepTools Quick Reference |
+| **Name** | Quick Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deeptools/assets/quick_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/deeptools/assets/quick_reference.md` |
 | **Category** | data-analysis |

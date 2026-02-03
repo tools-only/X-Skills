@@ -1,8 +1,8 @@
-# agent-risk-manager
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-risk-manager |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-risk-manager/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-risk-manager/SKILL.md` |
 | **Category** | productivity |

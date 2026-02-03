@@ -1,8 +1,8 @@
-# Goal Progress Assessment
+# Goal Status
 
 | Property | Value |
 |----------|-------|
-| **Name** | Goal Progress Assessment |
+| **Name** | Goal Status |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/goal_status.md) (⭐ 93) |
 | **Original Path** | `examples/everything/target/compiled/goal_status.md` |
 | **Category** | communication |

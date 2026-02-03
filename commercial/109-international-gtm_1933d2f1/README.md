@@ -1,8 +1,8 @@
-# International GTM Playbooks
+# International Gtm
 
 | Property | Value |
 |----------|-------|
-| **Name** | International GTM Playbooks |
+| **Name** | International Gtm |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing-strategy-pmm/references/international-gtm.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/marketing-strategy-pmm/references/international-gtm.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# ceo-advisor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ceo-advisor |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/c-level-advisor/ceo-advisor/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `c-level-advisor/ceo-advisor/SKILL.md` |
 | **Category** | daily-assistant |

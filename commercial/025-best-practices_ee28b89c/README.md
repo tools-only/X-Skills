@@ -1,8 +1,8 @@
-# z.string().optional(),
+# Best Practices
 
 | Property | Value |
 |----------|-------|
-| **Name** | z.string().optional(), |
+| **Name** | Best Practices |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/best-practices.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/polar/best-practices.md` |
 | **Category** | commercial |

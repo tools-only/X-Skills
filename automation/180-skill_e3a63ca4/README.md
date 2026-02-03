@@ -1,8 +1,8 @@
-# dependency-updater
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | dependency-updater |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/dependency-updater/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/dependency-updater/SKILL.md` |
 | **Category** | automation |

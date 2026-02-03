@@ -1,8 +1,8 @@
-# accessibility-object-model-integration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | accessibility-object-model-integration |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accessibility-object-model-integration/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accessibility-object-model-integration/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Insecure Direct Object Reference Prevention Cheat Sheet
+# Reference Set 02 Idor Prevention
 
 | Property | Value |
 |----------|-------|
-| **Name** | Insecure Direct Object Reference Prevention Cheat Sheet |
+| **Name** | Reference Set 02 Idor Prevention |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/references/reference-set-02-idor-prevention.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# Matrices and Arrays Reference
+# Matrices Arrays
 
 | Property | Value |
 |----------|-------|
-| **Name** | Matrices and Arrays Reference |
+| **Name** | Matrices Arrays |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matlab/references/matrices-arrays.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matlab/references/matrices-arrays.md` |
 | **Category** | commercial |

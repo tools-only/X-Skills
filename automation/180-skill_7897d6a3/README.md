@@ -1,8 +1,8 @@
-# agent-code-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-code-generator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-code-generator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-code-generator/SKILL.md` |
 | **Category** | automation |

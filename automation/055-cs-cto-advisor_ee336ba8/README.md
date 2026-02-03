@@ -1,8 +1,8 @@
-# cs-cto-advisor
+# Cs Cto Advisor
 
 | Property | Value |
 |----------|-------|
-| **Name** | cs-cto-advisor |
+| **Name** | Cs Cto Advisor |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/agents/c-level/cs-cto-advisor.md) (⭐ 1.5k) |
 | **Original Path** | `agents/c-level/cs-cto-advisor.md` |
 | **Category** | automation |

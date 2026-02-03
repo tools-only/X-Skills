@@ -1,8 +1,8 @@
-# Product Team Skills - Claude Code Guidance
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | Product Team Skills - Claude Code Guidance |
+| **Name** | Claude |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/CLAUDE.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/CLAUDE.md` |
 | **Category** | data-analysis |

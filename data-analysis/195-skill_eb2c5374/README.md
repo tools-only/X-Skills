@@ -1,8 +1,8 @@
-# media-processing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | media-processing |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/media-processing/SKILL.md` |
 | **Category** | content-creation |

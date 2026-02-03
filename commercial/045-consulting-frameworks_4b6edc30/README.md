@@ -1,8 +1,8 @@
-# Consulting Framework Experts
+# Consulting Frameworks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Consulting Framework Experts |
+| **Name** | Consulting Frameworks |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/convening-experts/references/consulting-frameworks.md) (⭐ 78) |
 | **Original Path** | `convening-experts/references/consulting-frameworks.md` |
 | **Category** | commercial |

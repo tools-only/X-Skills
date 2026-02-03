@@ -1,8 +1,8 @@
-# 架构概述
+# 01 Architecture
 
 | Property | Value |
 |----------|-------|
-| **Name** | 架构概述 |
+| **Name** | 01 Architecture |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) (⭐ 440) |
 | **Original Path** | `docs/zh/concepts/01-architecture.md` |
 | **Category** | data-analysis |

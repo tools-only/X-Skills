@@ -1,8 +1,8 @@
-# Quoteestimator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quoteestimator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/QuoteEstimator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/QuoteEstimator/SKILL.md` |
 | **Category** | automation |

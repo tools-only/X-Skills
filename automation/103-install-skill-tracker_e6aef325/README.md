@@ -1,8 +1,8 @@
-# Install Skill Tracker (Global)
+# Install Skill Tracker
 
 | Property | Value |
 |----------|-------|
-| **Name** | Install Skill Tracker (Global) |
+| **Name** | Install Skill Tracker |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/specialized-skills/install-skill-tracker.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/specialized-skills/install-skill-tracker.md` |
 | **Category** | automation |

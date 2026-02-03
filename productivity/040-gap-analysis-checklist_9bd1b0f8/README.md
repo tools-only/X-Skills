@@ -1,8 +1,8 @@
-# ISO 13485:2016 Gap Analysis Checklist
+# Gap Analysis Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | ISO 13485:2016 Gap Analysis Checklist |
+| **Name** | Gap Analysis Checklist |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/iso-13485-certification/references/gap-analysis-checklist.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/iso-13485-certification/references/gap-analysis-checklist.md` |
 | **Category** | productivity |

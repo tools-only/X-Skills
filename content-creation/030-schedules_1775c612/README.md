@@ -1,8 +1,8 @@
-# 1. First check `contributor_organization_name`
+# Schedules
 
 | Property | Value |
 |----------|-------|
-| **Name** | 1. First check `contributor_organization_name` |
+| **Name** | Schedules |
 | **Repository** | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/SCHEDULES.md) (⭐ 22) |
 | **Original Path** | `skills/fecfile/references/SCHEDULES.md` |
 | **Category** | daily-assistant |

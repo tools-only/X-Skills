@@ -1,8 +1,8 @@
-# Paddle Subscriptions
+# Subscriptions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Paddle Subscriptions |
+| **Name** | Subscriptions |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/paddle/subscriptions.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/paddle/subscriptions.md` |
 | **Category** | commercial |

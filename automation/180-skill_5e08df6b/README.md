@@ -1,8 +1,8 @@
-# chaos-spawn-1767390340
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | chaos-spawn-1767390340 |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/20260102_214539_chaos-spawn-1767390340/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/20260102_214539_chaos-spawn-1767390340/SKILL.md` |
 | **Category** | automation |

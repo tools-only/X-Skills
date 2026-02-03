@@ -1,8 +1,8 @@
-# Detailed Chunking Strategies
+# Strategies
 
 | Property | Value |
 |----------|-------|
-| **Name** | Detailed Chunking Strategies |
+| **Name** | Strategies |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/strategies.md) (⭐ 80) |
 | **Original Path** | `skills/ai/chunking-strategy/references/strategies.md` |
 | **Category** | research |

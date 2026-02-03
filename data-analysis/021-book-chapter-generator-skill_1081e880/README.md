@@ -1,8 +1,8 @@
-# Prompt to Create a Chapter Generator
+# Book Chapter Generator Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Prompt to Create a Chapter Generator |
+| **Name** | Book Chapter Generator Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/book-chapter-generator-skill.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/book-chapter-generator-skill.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Epochs and Event-Related Analysis
+# Epochs Events
 
 | Property | Value |
 |----------|-------|
-| **Name** | Epochs and Event-Related Analysis |
+| **Name** | Epochs Events |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neurokit2/references/epochs_events.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neurokit2/references/epochs_events.md` |
 | **Category** | data-analysis |

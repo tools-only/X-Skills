@@ -1,8 +1,8 @@
-# invoking-gemini
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | invoking-gemini |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/invoking-gemini/SKILL.md) (⭐ 78) |
 | **Original Path** | `invoking-gemini/SKILL.md` |
 | **Category** | content-creation |

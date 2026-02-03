@@ -1,8 +1,8 @@
-# agent-mlops-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-mlops-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-mlops-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-mlops-engineer/SKILL.md` |
 | **Category** | productivity |

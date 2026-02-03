@@ -1,8 +1,8 @@
-# agent-data-researcher
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-data-researcher |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-data-researcher/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-data-researcher/SKILL.md` |
 | **Category** | research |

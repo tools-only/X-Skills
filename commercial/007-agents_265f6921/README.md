@@ -1,8 +1,8 @@
-# AGENTS.md - Skill Seekers
+# Agents
 
 | Property | Value |
 |----------|-------|
-| **Name** | AGENTS.md - Skill Seekers |
+| **Name** | Agents |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) (🔥 8.7k) |
 | **Original Path** | `AGENTS.md` |
 | **Category** | commercial |

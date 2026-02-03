@@ -1,8 +1,8 @@
-# New Skill Request
+# Feature Request
 
 | Property | Value |
 |----------|-------|
-| **Name** | New Skill Request |
+| **Name** | Feature Request |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/.github/ISSUE_TEMPLATE/feature_request.md) (⭐ 1.5k) |
 | **Original Path** | `.github/ISSUE_TEMPLATE/feature_request.md` |
 | **Category** | automation |

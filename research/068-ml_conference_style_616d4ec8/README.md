@@ -1,8 +1,8 @@
-# ML Conference Writing Style Guide
+# Ml Conference Style
 
 | Property | Value |
 |----------|-------|
-| **Name** | ML Conference Writing Style Guide |
+| **Name** | Ml Conference Style |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/ml_conference_style.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/ml_conference_style.md` |
 | **Category** | research |

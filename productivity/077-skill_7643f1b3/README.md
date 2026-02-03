@@ -1,8 +1,8 @@
-# agent-llm-architect
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-llm-architect |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-llm-architect/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-llm-architect/SKILL.md` |
 | **Category** | productivity |

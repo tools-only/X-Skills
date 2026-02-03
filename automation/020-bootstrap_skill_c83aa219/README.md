@@ -1,8 +1,8 @@
-# skill-seekers
+# Bootstrap Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-seekers |
+| **Name** | Bootstrap Skill |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/BOOTSTRAP_SKILL.md) (🔥 8.7k) |
 | **Original Path** | `docs/features/BOOTSTRAP_SKILL.md` |
 | **Category** | automation |

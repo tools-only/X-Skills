@@ -1,8 +1,8 @@
-# Quality Manual Development Guide
+# Quality Manual Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quality Manual Development Guide |
+| **Name** | Quality Manual Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/iso-13485-certification/references/quality-manual-guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/iso-13485-certification/references/quality-manual-guide.md` |
 | **Category** | content-creation |

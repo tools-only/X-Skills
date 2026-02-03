@@ -1,8 +1,8 @@
-# Medchem API Reference
+# Api Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medchem API Reference |
+| **Name** | Api Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/medchem/references/api_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/medchem/references/api_guide.md` |
 | **Category** | research |

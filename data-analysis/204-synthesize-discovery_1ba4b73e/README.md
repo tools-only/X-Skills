@@ -1,8 +1,8 @@
-# Synthesize Discovery Findings
+# Synthesize Discovery
 
 | Property | Value |
 |----------|-------|
-| **Name** | Synthesize Discovery Findings |
+| **Name** | Synthesize Discovery |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/discovery/synthesize-discovery.md) (⭐ 216) |
 | **Original Path** | `commands/project/discovery/synthesize-discovery.md` |
 | **Category** | data-analysis |

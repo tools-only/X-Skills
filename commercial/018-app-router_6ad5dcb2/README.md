@@ -1,8 +1,8 @@
-# App Router Architecture
+# App Router
 
 | Property | Value |
 |----------|-------|
-| **Name** | App Router Architecture |
+| **Name** | App Router |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nextjs-developer/references/app-router.md) (⭐ 216) |
 | **Original Path** | `skills/nextjs-developer/references/app-router.md` |
 | **Category** | commercial |

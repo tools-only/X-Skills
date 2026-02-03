@@ -1,8 +1,8 @@
-# Coroutines & Flow API
+# Coroutines Flow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Coroutines & Flow API |
+| **Name** | Coroutines Flow |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kotlin-specialist/references/coroutines-flow.md) (⭐ 216) |
 | **Original Path** | `skills/kotlin-specialist/references/coroutines-flow.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Easy Diagram Generation Execution Plan
+# Execution Plan
 
 | Property | Value |
 |----------|-------|
-| **Name** | Easy Diagram Generation Execution Plan |
+| **Name** | Execution Plan |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/easy-diagrams/execution-plan.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/easy-diagrams/execution-plan.md` |
 | **Category** | automation |

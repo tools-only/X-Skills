@@ -1,8 +1,8 @@
-# umap-learn
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | umap-learn |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/umap-learn/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/umap-learn/SKILL.md` |
 | **Category** | automation |

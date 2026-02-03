@@ -1,8 +1,8 @@
-# analysis-phase
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analysis-phase |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis-phase/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analysis-phase/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# Noise Modeling and Mitigation
+# Noise
 
 | Property | Value |
 |----------|-------|
-| **Name** | Noise Modeling and Mitigation |
+| **Name** | Noise |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/cirq/references/noise.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/cirq/references/noise.md` |
 | **Category** | data-analysis |

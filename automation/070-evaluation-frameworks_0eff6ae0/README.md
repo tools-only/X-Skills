@@ -1,8 +1,8 @@
-# Prompt Evaluation
+# Evaluation Frameworks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Prompt Evaluation |
+| **Name** | Evaluation Frameworks |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/prompt-engineer/references/evaluation-frameworks.md) (⭐ 216) |
 | **Original Path** | `skills/prompt-engineer/references/evaluation-frameworks.md` |
 | **Category** | automation |

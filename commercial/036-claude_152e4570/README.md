@@ -1,8 +1,8 @@
-# Operating Instructions
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | Operating Instructions |
+| **Name** | Claude |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/CLAUDE.md) (⭐ 14) |
 | **Original Path** | `CLAUDE.md` |
 | **Category** | commercial |

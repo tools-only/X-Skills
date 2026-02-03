@@ -1,8 +1,8 @@
-# Overlap Detection and IGD
+# Overlap
 
 | Property | Value |
 |----------|-------|
-| **Name** | Overlap Detection and IGD |
+| **Name** | Overlap |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gtars/references/overlap.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gtars/references/overlap.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Learning Graph JSON Schema Diagram
+# 07 Learning Graph Json Schema Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph JSON Schema Diagram |
+| **Name** | 07 Learning Graph Json Schema Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/07-learning-graph-json-schema-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/07-learning-graph-json-schema-diagram.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Paper2Web: Academic Homepage Generation
+# Paper2Web
 
 | Property | Value |
 |----------|-------|
-| **Name** | Paper2Web: Academic Homepage Generation |
+| **Name** | Paper2Web |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/paper-2-web/references/paper2web.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/paper-2-web/references/paper2web.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Counterfactual Mode
+# Counterfactual
 
 | Property | Value |
 |----------|-------|
-| **Name** | Counterfactual Mode |
+| **Name** | Counterfactual |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/counterfactual.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-reasoning-problems/references/counterfactual.md` |
 | **Category** | productivity |

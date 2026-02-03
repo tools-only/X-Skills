@@ -1,8 +1,8 @@
-# Heart Rate Variability (HRV) Analysis
+# Hrv
 
 | Property | Value |
 |----------|-------|
-| **Name** | Heart Rate Variability (HRV) Analysis |
+| **Name** | Hrv |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neurokit2/references/hrv.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neurokit2/references/hrv.md` |
 | **Category** | data-analysis |

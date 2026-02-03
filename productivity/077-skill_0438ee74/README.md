@@ -1,8 +1,8 @@
-# AgentDB Performance Optimization
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | AgentDB Performance Optimization |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agentdb-optimization/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agentdb-optimization/SKILL.md` |
 | **Category** | productivity |

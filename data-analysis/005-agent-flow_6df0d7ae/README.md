@@ -1,8 +1,8 @@
-# Agentforce Flow Diagram Template
+# Agent Flow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Agentforce Flow Diagram Template |
+| **Name** | Agent Flow |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/agentforce/agent-flow.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/agentforce/agent-flow.md` |
 | **Category** | data-analysis |

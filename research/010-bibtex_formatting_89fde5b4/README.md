@@ -1,8 +1,8 @@
-# BibTeX Formatting Guide
+# Bibtex Formatting
 
 | Property | Value |
 |----------|-------|
-| **Name** | BibTeX Formatting Guide |
+| **Name** | Bibtex Formatting |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/references/bibtex_formatting.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/citation-management/references/bibtex_formatting.md` |
 | **Category** | research |

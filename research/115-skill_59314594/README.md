@@ -1,8 +1,8 @@
-# protocolsio-integration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | protocolsio-integration |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/protocolsio-integration/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/protocolsio-integration/SKILL.md` |
 | **Category** | research |

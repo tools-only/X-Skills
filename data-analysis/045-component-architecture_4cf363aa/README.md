@@ -1,8 +1,8 @@
-# Component Architecture Guide
+# Component Architecture
 
 | Property | Value |
 |----------|-------|
-| **Name** | Component Architecture Guide |
+| **Name** | Component Architecture |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/ui-design-system/references/component-architecture.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/ui-design-system/references/component-architecture.md` |
 | **Category** | data-analysis |

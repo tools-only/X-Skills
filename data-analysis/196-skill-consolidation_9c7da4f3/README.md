@@ -1,8 +1,8 @@
-# Skill Consolidation Session Log
+# Skill Consolidation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Consolidation Session Log |
+| **Name** | Skill Consolidation |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/skill-consolidation.md) (⭐ 14) |
 | **Original Path** | `logs/skill-consolidation.md` |
 | **Category** | data-analysis |

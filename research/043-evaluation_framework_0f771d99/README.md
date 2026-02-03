@@ -1,8 +1,8 @@
-# ScholarEval Evaluation Framework
+# Evaluation Framework
 
 | Property | Value |
 |----------|-------|
-| **Name** | ScholarEval Evaluation Framework |
+| **Name** | Evaluation Framework |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scholar-evaluation/references/evaluation_framework.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scholar-evaluation/references/evaluation_framework.md` |
 | **Category** | research |

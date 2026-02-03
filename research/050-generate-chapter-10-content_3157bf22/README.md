@@ -1,8 +1,8 @@
-# Chapter 10 Content Generation Log
+# Generate Chapter 10 Content
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chapter 10 Content Generation Log |
+| **Name** | Generate Chapter 10 Content |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/generate-chapter-10-content.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/generate-chapter-10-content.md` |
 | **Category** | research |

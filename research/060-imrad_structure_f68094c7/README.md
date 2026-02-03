@@ -1,8 +1,8 @@
-# IMRAD Structure Guide
+# Imrad Structure
 
 | Property | Value |
 |----------|-------|
-| **Name** | IMRAD Structure Guide |
+| **Name** | Imrad Structure |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/references/imrad_structure.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/references/imrad_structure.md` |
 | **Category** | research |

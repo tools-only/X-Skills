@@ -1,8 +1,8 @@
-# RefundAgent
+# Syntax Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | RefundAgent |
+| **Name** | Syntax Reference |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/resources/syntax-reference.md` |
 | **Category** | communication |

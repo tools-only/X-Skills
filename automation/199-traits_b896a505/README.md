@@ -1,8 +1,8 @@
-# String,
+# Traits
 
 | Property | Value |
 |----------|-------|
-| **Name** | String, |
+| **Name** | Traits |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rust-engineer/references/traits.md) (⭐ 216) |
 | **Original Path** | `skills/rust-engineer/references/traits.md` |
 | **Category** | automation |

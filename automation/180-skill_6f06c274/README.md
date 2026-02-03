@@ -1,8 +1,8 @@
-# agent-security-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-security-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-security-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-security-engineer/SKILL.md` |
 | **Category** | automation |

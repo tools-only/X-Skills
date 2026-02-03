@@ -1,8 +1,8 @@
-# agents-md-improver
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agents-md-improver |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agents-md-improver/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agents-md-improver/SKILL.md` |
 | **Category** | content-creation |

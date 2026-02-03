@@ -1,8 +1,8 @@
-# ui-ux-pro-max
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ui-ux-pro-max |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/0-ui-ux-pro-max/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/0-ui-ux-pro-max/SKILL.md` |
 | **Category** | data-analysis |

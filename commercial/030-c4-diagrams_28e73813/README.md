@@ -1,8 +1,8 @@
-# C4 Model Diagrams
+# C4 Diagrams
 
 | Property | Value |
 |----------|-------|
-| **Name** | C4 Model Diagrams |
+| **Name** | C4 Diagrams |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/c4-diagrams.md) (⭐ 383) |
 | **Original Path** | `skills/mermaid-diagrams/references/c4-diagrams.md` |
 | **Category** | commercial |

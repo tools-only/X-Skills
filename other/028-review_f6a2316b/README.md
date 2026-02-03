@@ -1,8 +1,8 @@
-# 第五阶段：最终审核
+# 05 Review
 
 | Property | Value |
 |----------|-------|
-| **Name** | 第五阶段：最终审核 |
+| **Name** | 05 Review |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/05-review.md) (⭐ 80) |
 | **Original Path** | `thought-mining/stages/05-review.md` |
 | **Category** | other |

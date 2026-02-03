@@ -1,8 +1,8 @@
-# advocacy-programs
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | advocacy-programs |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/advocacy-programs/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/advocacy-programs/SKILL.md` |
 | **Category** | commercial |

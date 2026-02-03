@@ -1,8 +1,8 @@
-# Graphics and Visualization Reference
+# Graphics Visualization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Graphics and Visualization Reference |
+| **Name** | Graphics Visualization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matlab/references/graphics-visualization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matlab/references/graphics-visualization.md` |
 | **Category** | data-analysis |

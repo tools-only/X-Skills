@@ -1,8 +1,8 @@
-# Reverse Proxy Deployment
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reverse Proxy Deployment |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Reverse%20Proxy%20Deployment/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Reverse Proxy Deployment/SKILL.md` |
 | **Category** | commercial |

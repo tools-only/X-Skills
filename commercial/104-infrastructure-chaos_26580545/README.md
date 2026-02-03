@@ -1,8 +1,8 @@
-# str, listen: str, upstream: str):
+# Infrastructure Chaos
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, listen: str, upstream: str): |
+| **Name** | Infrastructure Chaos |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/infrastructure-chaos.md) (⭐ 216) |
 | **Original Path** | `skills/chaos-engineer/references/infrastructure-chaos.md` |
 | **Category** | commercial |

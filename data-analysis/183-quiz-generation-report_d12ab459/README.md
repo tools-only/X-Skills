@@ -1,8 +1,8 @@
-# Quiz Generation Quality Report
+# Quiz Generation Report
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz Generation Quality Report |
+| **Name** | Quiz Generation Report |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/quiz-generation-report.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/quiz-generation-report.md` |
 | **Category** | data-analysis |

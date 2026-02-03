@@ -1,8 +1,8 @@
-# Three.js Geometry
+# 18 Geometry
 
 | Property | Value |
 |----------|-------|
-| **Name** | Three.js Geometry |
+| **Name** | 18 Geometry |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/18-geometry.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/18-geometry.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# MacBook Pro
+# Licensing
 
 | Property | Value |
 |----------|-------|
-| **Name** | MacBook Pro |
+| **Name** | Licensing |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/creem/licensing.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/creem/licensing.md` |
 | **Category** | commercial |

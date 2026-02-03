@@ -1,8 +1,8 @@
-# adw-design
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adw-design |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adw-design/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adw-design/SKILL.md` |
 | **Category** | automation |

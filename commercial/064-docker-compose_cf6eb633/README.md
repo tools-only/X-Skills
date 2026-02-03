@@ -1,8 +1,8 @@
-# ```yaml
+# Docker Compose
 
 | Property | Value |
 |----------|-------|
-| **Name** | ```yaml |
+| **Name** | Docker Compose |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/docker-compose.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/devops/references/docker-compose.md` |
 | **Category** | commercial |

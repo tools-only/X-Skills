@@ -1,8 +1,8 @@
-# cart-storage
+# State Management
 
 | Property | Value |
 |----------|-------|
-| **Name** | cart-storage |
+| **Name** | State Management |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-expert/references/state-management.md) (⭐ 216) |
 | **Original Path** | `skills/react-expert/references/state-management.md` |
 | **Category** | commercial |

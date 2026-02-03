@@ -1,8 +1,8 @@
-# web-app
+# Workloads
 
 | Property | Value |
 |----------|-------|
-| **Name** | web-app |
+| **Name** | Workloads |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/references/workloads.md) (⭐ 216) |
 | **Original Path** | `skills/kubernetes-specialist/references/workloads.md` |
 | **Category** | research |

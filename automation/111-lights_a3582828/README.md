@@ -1,8 +1,8 @@
-# Lights
+# 05 Lights
 
 | Property | Value |
 |----------|-------|
-| **Name** | Lights |
+| **Name** | 05 Lights |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/05-lights.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/05-lights.md` |
 | **Category** | automation |

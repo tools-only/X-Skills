@@ -1,8 +1,8 @@
-# Troubleshooting Guide
+# Troubleshooting
 
 | Property | Value |
 |----------|-------|
-| **Name** | Troubleshooting Guide |
+| **Name** | Troubleshooting |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/ms365-tenant-manager/references/troubleshooting.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/ms365-tenant-manager/references/troubleshooting.md` |
 | **Category** | automation |

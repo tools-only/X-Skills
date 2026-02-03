@@ -1,8 +1,8 @@
-# String, lastName: String })
+# Component Architecture
 
 | Property | Value |
 |----------|-------|
-| **Name** | String, lastName: String }) |
+| **Name** | Component Architecture |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert-js/references/component-architecture.md) (⭐ 216) |
 | **Original Path** | `skills/vue-expert-js/references/component-architecture.md` |
 | **Category** | research |

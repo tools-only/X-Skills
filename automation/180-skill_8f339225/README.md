@@ -1,8 +1,8 @@
-# iso-13485-certification
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | iso-13485-certification |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/iso-13485-certification/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/iso-13485-certification/SKILL.md` |
 | **Category** | automation |

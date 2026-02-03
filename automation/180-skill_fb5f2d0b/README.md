@@ -1,8 +1,8 @@
-# Skill Consolidation Architecture
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Consolidation Architecture |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/72-capstone-end-to-end-llmops/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/72-capstone-end-to-end-llmops/SKILL.md` |
 | **Category** | automation |

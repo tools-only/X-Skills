@@ -1,8 +1,8 @@
-# Drug-Drug Interactions
+# Interactions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Drug-Drug Interactions |
+| **Name** | Interactions |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/drugbank-database/references/interactions.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/drugbank-database/references/interactions.md` |
 | **Category** | data-analysis |

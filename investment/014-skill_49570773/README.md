@@ -1,8 +1,8 @@
-# domain-name-brainstormer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | domain-name-brainstormer |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/domain-name-brainstormer/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/domain-name-brainstormer/SKILL.md` |
 | **Category** | investment |

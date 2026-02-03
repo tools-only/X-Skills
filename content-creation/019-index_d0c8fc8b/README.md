@@ -1,8 +1,8 @@
-# Input data
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Input data |
+| **Name** | Index |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/index.md) (⭐ 12) |
 | **Original Path** | `docs/guide/input_data/index.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# z.string().min(1).max(100).regex(/^[\w\s-]+$/),
+# Input Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | z.string().min(1).max(100).regex(/^[\w\s-]+$/), |
+| **Name** | Input Validation |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/secure-code-guardian/references/input-validation.md) (⭐ 216) |
 | **Original Path** | `skills/secure-code-guardian/references/input-validation.md` |
 | **Category** | data-analysis |

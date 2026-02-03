@@ -1,8 +1,8 @@
-# Data Grounding & Multi-Agent Guide
+# Grounding Multiagent
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Grounding & Multi-Agent Guide |
+| **Name** | Grounding Multiagent |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/grounding-multiagent.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/resources/grounding-multiagent.md` |
 | **Category** | communication |

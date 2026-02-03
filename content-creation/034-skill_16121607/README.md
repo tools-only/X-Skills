@@ -1,8 +1,8 @@
-# adr-log
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adr-log |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adr-log/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adr-log/SKILL.md` |
 | **Category** | content-creation |

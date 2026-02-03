@@ -1,8 +1,8 @@
-# my-api
+# Service Selection
 
 | Property | Value |
 |----------|-------|
-| **Name** | my-api |
+| **Name** | Service Selection |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/aws-solution-architect/references/service_selection.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/aws-solution-architect/references/service_selection.md` |
 | **Category** | automation |

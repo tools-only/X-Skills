@@ -1,8 +1,8 @@
-# Design Resources & Tools
+# Design Resources
 
 | Property | Value |
 |----------|-------|
-| **Name** | Design Resources & Tools |
+| **Name** | Design Resources |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/design-resources.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/aesthetic/references/design-resources.md` |
 | **Category** | investment |

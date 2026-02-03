@@ -1,8 +1,8 @@
-# Customer_Service_Agent
+# Topics Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Customer_Service_Agent |
+| **Name** | Topics Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-legacy/resources/topics-guide.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentforce-legacy/resources/topics-guide.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# agricultural-easement-negotiation-frameworks
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agricultural-easement-negotiation-frameworks |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agricultural-easement-negotiation-frameworks/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agricultural-easement-negotiation-frameworks/SKILL.md` |
 | **Category** | investment |

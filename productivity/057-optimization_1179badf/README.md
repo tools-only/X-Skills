@@ -1,8 +1,8 @@
-# Optimization in PennyLane
+# Optimization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Optimization in PennyLane |
+| **Name** | Optimization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pennylane/references/optimization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pennylane/references/optimization.md` |
 | **Category** | productivity |

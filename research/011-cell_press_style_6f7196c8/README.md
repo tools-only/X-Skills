@@ -1,8 +1,8 @@
-# Cell Press Writing Style Guide
+# Cell Press Style
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cell Press Writing Style Guide |
+| **Name** | Cell Press Style |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/cell_press_style.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/cell_press_style.md` |
 | **Category** | research |

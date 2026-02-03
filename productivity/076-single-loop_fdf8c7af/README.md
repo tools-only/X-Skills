@@ -1,8 +1,8 @@
-# Single-Loop Learning
+# Single Loop
 
 | Property | Value |
 |----------|-------|
-| **Name** | Single-Loop Learning |
+| **Name** | Single Loop |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/single-loop.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-learning-outcomes/references/single-loop.md` |
 | **Category** | productivity |

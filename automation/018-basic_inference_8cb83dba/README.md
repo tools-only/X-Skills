@@ -1,8 +1,8 @@
-# Basic GRN Inference with Arboreto
+# Basic Inference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Basic GRN Inference with Arboreto |
+| **Name** | Basic Inference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/arboreto/references/basic_inference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/arboreto/references/basic_inference.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# advanced-ssr-cache-design
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | advanced-ssr-cache-design |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/advanced-ssr-cache-design/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/advanced-ssr-cache-design/SKILL.md` |
 | **Category** | automation |

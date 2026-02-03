@@ -1,8 +1,8 @@
-# marketing-strategy-pmm
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | marketing-strategy-pmm |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing-strategy-pmm/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/marketing-strategy-pmm/SKILL.md` |
 | **Category** | automation |

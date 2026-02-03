@@ -1,8 +1,8 @@
-# ac-to-examples
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ac-to-examples |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ac-to-examples/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ac-to-examples/SKILL.md` |
 | **Category** | automation |

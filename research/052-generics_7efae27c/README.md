@@ -1,8 +1,8 @@
-# Generics and Type Parameters
+# Generics
 
 | Property | Value |
 |----------|-------|
-| **Name** | Generics and Type Parameters |
+| **Name** | Generics |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/golang-pro/references/generics.md) (⭐ 216) |
 | **Original Path** | `skills/golang-pro/references/generics.md` |
 | **Category** | research |

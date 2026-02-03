@@ -1,8 +1,8 @@
-# Orphaned Nodes Identification Chart
+# 06 Orphaned Nodes Identification Chart
 
 | Property | Value |
 |----------|-------|
-| **Name** | Orphaned Nodes Identification Chart |
+| **Name** | 06 Orphaned Nodes Identification Chart |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/06-orphaned-nodes-identification-chart.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/06-orphaned-nodes-identification-chart.md` |
 | **Category** | data-analysis |

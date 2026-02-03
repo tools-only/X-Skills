@@ -1,8 +1,8 @@
-# koan-ai-integration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | koan-ai-integration |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-integration/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-integration/SKILL.md` |
 | **Category** | commercial |

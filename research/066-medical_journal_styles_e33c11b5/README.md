@@ -1,8 +1,8 @@
-# Medical Journal Writing Style Guide
+# Medical Journal Styles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medical Journal Writing Style Guide |
+| **Name** | Medical Journal Styles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/medical_journal_styles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/medical_journal_styles.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# | # | Feature | Description |
+# Book Installer
 
 | Property | Value |
 |----------|-------|
-| **Name** | | # | Feature | Description | |
+| **Name** | Book Installer | # | Feature | Description | |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/book/book-installer.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/book/book-installer.md` |
 | **Category** | data-analysis |

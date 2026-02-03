@@ -1,8 +1,8 @@
-# Context Degradation Patterns
+# Context Degradation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Context Degradation Patterns |
+| **Name** | Context Degradation |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/references/context-degradation.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/context-engineering/references/context-degradation.md` |
 | **Category** | daily-assistant |

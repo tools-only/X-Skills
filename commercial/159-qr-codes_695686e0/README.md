@@ -1,8 +1,8 @@
-# SePay VietQR Generation
+# Qr Codes
 
 | Property | Value |
 |----------|-------|
-| **Name** | SePay VietQR Generation |
+| **Name** | Qr Codes |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/sepay/qr-codes.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/sepay/qr-codes.md` |
 | **Category** | commercial |

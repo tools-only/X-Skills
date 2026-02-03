@@ -1,8 +1,8 @@
-# str, include_mlp: bool = True) -> list[str]:
+# Lora Peft
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, include_mlp: bool = True) -> list[str]: |
+| **Name** | Lora Peft |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fine-tuning-expert/references/lora-peft.md) (⭐ 216) |
 | **Original Path** | `skills/fine-tuning-expert/references/lora-peft.md` |
 | **Category** | productivity |

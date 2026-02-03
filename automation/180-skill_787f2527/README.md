@@ -1,8 +1,8 @@
-# ai-response-refiner
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-response-refiner |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-response-refiner/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-response-refiner/SKILL.md` |
 | **Category** | automation |

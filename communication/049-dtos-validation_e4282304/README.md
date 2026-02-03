@@ -1,8 +1,8 @@
-# string;
+# Dtos Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; |
+| **Name** | Dtos Validation |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nestjs-expert/references/dtos-validation.md) (⭐ 216) |
 | **Original Path** | `skills/nestjs-expert/references/dtos-validation.md` |
 | **Category** | communication |

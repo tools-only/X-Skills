@@ -1,8 +1,8 @@
-# Component Name
+# Ai Infra Scan En
 
 | Property | Value |
 |----------|-------|
-| **Name** | Component Name |
+| **Name** | Ai Infra Scan En |
 | **Repository** | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/common/websocket/static/aigdocs/docs/ai-infra-scan_en.md) (⭐ 2.9k) |
 | **Original Path** | `common/websocket/static/aigdocs/docs/ai-infra-scan_en.md` |
 | **Category** | automation |

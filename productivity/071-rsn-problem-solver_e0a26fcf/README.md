@@ -1,8 +1,8 @@
-# rsn-problem-solver
+# Rsn Problem Solver
 
 | Property | Value |
 |----------|-------|
-| **Name** | rsn-problem-solver |
+| **Name** | Rsn Problem Solver |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/agents/rsn-problem-solver.md) (⭐ 14) |
 | **Original Path** | `.claude/agents/rsn-problem-solver.md` |
 | **Category** | productivity |

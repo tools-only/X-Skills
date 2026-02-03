@@ -1,8 +1,8 @@
-# agent-devops-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-devops-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-devops-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-devops-engineer/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# str                # From frontmatter or derived from path
+# 005 Ref Returns Object
 
 | Property | Value |
 |----------|-------|
-| **Name** | str                # From frontmatter or derived from path |
+| **Name** | 005 Ref Returns Object |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/005-ref-returns-object.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/005-ref-returns-object.md` |
 | **Category** | research |

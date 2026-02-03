@@ -1,8 +1,8 @@
-# Intelligent Textbook Workshop - Quick Reference
+# Intelligent Textbook Cheat Sheet
 
 | Property | Value |
 |----------|-------|
-| **Name** | Intelligent Textbook Workshop - Quick Reference |
+| **Name** | Intelligent Textbook Cheat Sheet |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/workshops/intelligent-textbook-cheat-sheet.md) (⭐ 14) |
 | **Original Path** | `docs/workshops/intelligent-textbook-cheat-sheet.md` |
 | **Category** | data-analysis |

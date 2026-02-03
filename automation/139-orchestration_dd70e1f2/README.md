@@ -1,8 +1,8 @@
-# GetAccountDetails
+# Orchestration
 
 | Property | Value |
 |----------|-------|
-| **Name** | GetAccountDetails |
+| **Name** | Orchestration |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/docs/orchestration.md) (⭐ 47) |
 | **Original Path** | `sf-flow/docs/orchestration.md` |
 | **Category** | automation |

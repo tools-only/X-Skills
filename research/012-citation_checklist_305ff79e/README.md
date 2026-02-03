@@ -1,8 +1,8 @@
-# Citation Quality Checklist
+# Citation Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | Citation Quality Checklist |
+| **Name** | Citation Checklist |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/assets/citation_checklist.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/citation-management/assets/citation_checklist.md` |
 | **Category** | research |

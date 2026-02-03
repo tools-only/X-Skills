@@ -1,8 +1,8 @@
-# CI/CD Pipeline
+# Github Actions
 
 | Property | Value |
 |----------|-------|
-| **Name** | CI/CD Pipeline |
+| **Name** | Github Actions |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/devops-engineer/references/github-actions.md) (⭐ 216) |
 | **Original Path** | `skills/devops-engineer/references/github-actions.md` |
 | **Category** | commercial |

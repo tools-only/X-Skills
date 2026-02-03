@@ -1,8 +1,8 @@
-# Entity Relationship Diagrams (ERD)
+# Erd Diagrams
 
 | Property | Value |
 |----------|-------|
-| **Name** | Entity Relationship Diagrams (ERD) |
+| **Name** | Erd Diagrams |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/mermaid-diagrams/references/erd-diagrams.md) (⭐ 383) |
 | **Original Path** | `skills/mermaid-diagrams/references/erd-diagrams.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# Welcome Message
+# Welcome
 
 | Property | Value |
 |----------|-------|
-| **Name** | Welcome Message |
+| **Name** | Welcome |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/hello_world/models/welcome.md) (⭐ 93) |
 | **Original Path** | `examples/hello_world/models/welcome.md` |
 | **Category** | automation |

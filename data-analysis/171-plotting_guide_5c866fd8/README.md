@@ -1,8 +1,8 @@
-# Scanpy Plotting Guide
+# Plotting Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scanpy Plotting Guide |
+| **Name** | Plotting Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scanpy/references/plotting_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scanpy/references/plotting_guide.md` |
 | **Category** | data-analysis |

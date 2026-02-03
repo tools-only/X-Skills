@@ -1,8 +1,8 @@
-# Pdd
+# Standup Notes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pdd |
+| **Name** | Standup Notes |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/standup_notes.md) (⭐ 407) |
 | **Original Path** | `docs/standup_notes.md` |
 | **Category** | communication |

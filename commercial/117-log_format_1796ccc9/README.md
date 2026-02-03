@@ -1,8 +1,8 @@
-# Openviking
+# Log Format
 
 | Property | Value |
 |----------|-------|
-| **Name** | Openviking |
+| **Name** | Log Format |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/third_party/leveldb-1.23/doc/log_format.md) (⭐ 440) |
 | **Original Path** | `third_party/leveldb-1.23/doc/log_format.md` |
 | **Category** | content-creation |

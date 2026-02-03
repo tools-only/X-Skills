@@ -1,8 +1,8 @@
-# <your-skill-name>
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | <your-skill-name> |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/.template/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/.template/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# scientific-slides
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | scientific-slides |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/SKILL.md` |
 | **Category** | research |

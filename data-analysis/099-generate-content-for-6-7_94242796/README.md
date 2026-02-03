@@ -1,8 +1,8 @@
-# Claude Skills
+# Generate Content For 6 7
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claude Skills |
+| **Name** | Generate Content For 6 7 |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/generate-content-for-6-7.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/generate-content-for-6-7.md` |
 | **Category** | data-analysis |

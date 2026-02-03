@@ -1,8 +1,8 @@
-# Current Sprint
+# Sprint Status
 
 | Property | Value |
 |----------|-------|
-| **Name** | Current Sprint |
+| **Name** | Sprint Status |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/linear/models/sprint-status.md) (⭐ 93) |
 | **Original Path** | `examples/linear/models/sprint-status.md` |
 | **Category** | daily-assistant |

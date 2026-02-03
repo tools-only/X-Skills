@@ -1,8 +1,8 @@
-# 飞书资源模型
+# Feishu Resources
 
 | Property | Value |
 |----------|-------|
-| **Name** | 飞书资源模型 |
+| **Name** | Feishu Resources |
 | **Repository** | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/docs/feishu-resources.md) (⭐ 41) |
 | **Original Path** | `docs/feishu-resources.md` |
 | **Category** | other |

@@ -1,8 +1,8 @@
-# Educational MicroSim Skills
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Educational MicroSim Skills |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/microsims/index.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/microsims/index.md` |
 | **Category** | data-analysis |

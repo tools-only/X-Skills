@@ -1,8 +1,8 @@
-# Outcomes Phase
+# Outcomes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Outcomes Phase |
+| **Name** | Outcomes |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/outcomes.md) (⭐ 372) |
 | **Original Path** | `skills/product-development/ost/references/outcomes.md` |
 | **Category** | data-analysis |

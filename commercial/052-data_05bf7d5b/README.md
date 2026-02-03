@@ -1,8 +1,8 @@
-# Product Data
+# Data
 
 | Property | Value |
 |----------|-------|
-| **Name** | Product Data |
+| **Name** | Data |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/models/data.md) (⭐ 93) |
 | **Original Path** | `examples/everything/models/data.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Instructions Example
+# Instructions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Instructions Example |
+| **Name** | Instructions |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/instructions.md) (⭐ 93) |
 | **Original Path** | `examples/llm/models/instructions.md` |
 | **Category** | commercial |

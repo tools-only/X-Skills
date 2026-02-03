@@ -1,8 +1,8 @@
-# Python Tools Audit Report
+# Python Tools Audit
 
 | Property | Value |
 |----------|-------|
-| **Name** | Python Tools Audit Report |
+| **Name** | Python Tools Audit |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/PYTHON_TOOLS_AUDIT.md) (⭐ 1.5k) |
 | **Original Path** | `documentation/PYTHON_TOOLS_AUDIT.md` |
 | **Category** | commercial |

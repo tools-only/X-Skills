@@ -1,8 +1,8 @@
-# Pymoo Algorithms Reference
+# Algorithms
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pymoo Algorithms Reference |
+| **Name** | Algorithms |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymoo/references/algorithms.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymoo/references/algorithms.md` |
 | **Category** | productivity |

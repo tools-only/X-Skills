@@ -1,8 +1,8 @@
-# ai-feature-template
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-feature-template |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-feature-template/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-feature-template/SKILL.md` |
 | **Category** | communication |

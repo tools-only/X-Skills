@@ -1,8 +1,8 @@
-# user-authentication
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | user-authentication |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Coupling-Analysis/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Coupling-Analysis/SKILL.md` |
 | **Category** | commercial |

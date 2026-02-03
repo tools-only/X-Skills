@@ -1,8 +1,8 @@
-# Journal-Specific Figure Requirements
+# Journal Requirements
 
 | Property | Value |
 |----------|-------|
-| **Name** | Journal-Specific Figure Requirements |
+| **Name** | Journal Requirements |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-visualization/references/journal_requirements.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-visualization/references/journal_requirements.md` |
 | **Category** | data-analysis |

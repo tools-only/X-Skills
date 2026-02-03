@@ -1,8 +1,8 @@
-# Inter
+# Checkout Customization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Inter |
+| **Name** | Checkout Customization |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/shopify-expert/references/checkout-customization.md) (⭐ 216) |
 | **Original Path** | `skills/shopify-expert/references/checkout-customization.md` |
 | **Category** | commercial |

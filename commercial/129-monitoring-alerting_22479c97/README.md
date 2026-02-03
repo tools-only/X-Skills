@@ -1,8 +1,8 @@
-# golden_signals
+# Monitoring Alerting
 
 | Property | Value |
 |----------|-------|
-| **Name** | golden_signals |
+| **Name** | Monitoring Alerting |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/monitoring-alerting.md) (⭐ 216) |
 | **Original Path** | `skills/sre-engineer/references/monitoring-alerting.md` |
 | **Category** | commercial |

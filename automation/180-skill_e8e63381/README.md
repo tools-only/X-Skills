@@ -1,8 +1,8 @@
-# rdkit
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rdkit |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rdkit/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rdkit/SKILL.md` |
 | **Category** | automation |

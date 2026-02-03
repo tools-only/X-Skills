@@ -1,8 +1,8 @@
-# Viral Tweet Optimizer
+# Viral Tweet
 
 | Property | Value |
 |----------|-------|
-| **Name** | Viral Tweet Optimizer |
+| **Name** | Viral Tweet |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/viral-tweet.md) (⭐ 383) |
 | **Original Path** | `commands/viral-tweet.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# http_requests_total
+# Prometheus Metrics
 
 | Property | Value |
 |----------|-------|
-| **Name** | http_requests_total |
+| **Name** | Prometheus Metrics |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/monitoring-expert/references/prometheus-metrics.md) (⭐ 216) |
 | **Original Path** | `skills/monitoring-expert/references/prometheus-metrics.md` |
 | **Category** | commercial |

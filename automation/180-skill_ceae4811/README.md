@@ -1,8 +1,8 @@
-# pants-format-check
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pants-format-check |
+| **Name** | Skill |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/skills/pants-format-check/SKILL.md) (⭐ 12) |
 | **Original Path** | `.cursor/skills/pants-format-check/SKILL.md` |
 | **Category** | automation |

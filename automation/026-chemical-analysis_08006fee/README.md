@@ -1,8 +1,8 @@
-# Chemical Properties and Similarity Analysis
+# Chemical Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chemical Properties and Similarity Analysis |
+| **Name** | Chemical Analysis |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/drugbank-database/references/chemical-analysis.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/drugbank-database/references/chemical-analysis.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# accessibility-testing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | accessibility-testing |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accessibility-testing/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accessibility-testing/SKILL.md` |
 | **Category** | commercial |

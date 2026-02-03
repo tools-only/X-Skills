@@ -1,8 +1,8 @@
-# Double-Loop Learning
+# Double Loop
 
 | Property | Value |
 |----------|-------|
-| **Name** | Double-Loop Learning |
+| **Name** | Double Loop |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/references/double-loop.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-learning-outcomes/references/double-loop.md` |
 | **Category** | productivity |

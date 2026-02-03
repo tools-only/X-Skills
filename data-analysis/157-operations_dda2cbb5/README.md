@@ -1,8 +1,8 @@
-# Polars Operations Reference
+# Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Polars Operations Reference |
+| **Name** | Operations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/polars/references/operations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/polars/references/operations.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Micro-Interactions: Satisfying Experience
+# Micro Interactions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Micro-Interactions: Satisfying Experience |
+| **Name** | Micro Interactions |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/aesthetic/references/micro-interactions.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/aesthetic/references/micro-interactions.md` |
 | **Category** | productivity |

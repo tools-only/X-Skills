@@ -1,8 +1,8 @@
-# string (filter by name)
+# Api Endpoints
 
 | Property | Value |
 |----------|-------|
-| **Name** | string (filter by name) |
+| **Name** | Api Endpoints |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/benchling-integration/references/api_endpoints.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/benchling-integration/references/api_endpoints.md` |
 | **Category** | automation |

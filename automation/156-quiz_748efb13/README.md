@@ -1,8 +1,8 @@
-# Quiz: MkDocs Platform and Documentation
+# Quiz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz: MkDocs Platform and Documentation |
+| **Name** | Quiz |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/08-mkdocs-platform-documentation/quiz.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/08-mkdocs-platform-documentation/quiz.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Chat Environment (Claude.ai)
+# Chat Environment
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chat Environment (Claude.ai) |
+| **Name** | Chat Environment |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/iterating/references/chat-environment.md) (⭐ 78) |
 | **Original Path** | `iterating/references/chat-environment.md` |
 | **Category** | data-analysis |

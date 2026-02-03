@@ -1,8 +1,8 @@
-# JSONB Operations
+# Jsonb
 
 | Property | Value |
 |----------|-------|
-| **Name** | JSONB Operations |
+| **Name** | Jsonb |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/references/jsonb.md) (⭐ 216) |
 | **Original Path** | `skills/postgres-pro/references/jsonb.md` |
 | **Category** | communication |

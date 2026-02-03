@@ -1,8 +1,8 @@
-# ably-realtime
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ably-realtime |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ably-realtime/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ably-realtime/SKILL.md` |
 | **Category** | automation |

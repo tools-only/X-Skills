@@ -1,8 +1,8 @@
-# WCS and Other Astropy Modules
+# Wcs And Other Modules
 
 | Property | Value |
 |----------|-------|
-| **Name** | WCS and Other Astropy Modules |
+| **Name** | Wcs And Other Modules |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/astropy/references/wcs_and_other_modules.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/astropy/references/wcs_and_other_modules.md` |
 | **Category** | data-analysis |

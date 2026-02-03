@@ -1,8 +1,8 @@
-# Datamol I/O Module Reference
+# Io Module
 
 | Property | Value |
 |----------|-------|
-| **Name** | Datamol I/O Module Reference |
+| **Name** | Io Module |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/datamol/references/io_module.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/datamol/references/io_module.md` |
 | **Category** | data-analysis |

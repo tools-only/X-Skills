@@ -1,8 +1,8 @@
-# Mermaid.js Diagram Types
+# Diagram Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mermaid.js Diagram Types |
+| **Name** | Diagram Types |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mermaidjs-v11/references/diagram-types.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/mermaidjs-v11/references/diagram-types.md` |
 | **Category** | commercial |

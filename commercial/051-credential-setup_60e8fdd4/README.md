@@ -1,8 +1,8 @@
-# Credential Setup Guide
+# Credential Setup
 
 | Property | Value |
 |----------|-------|
-| **Name** | Credential Setup Guide |
+| **Name** | Credential Setup |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/invoking-github/references/credential-setup.md) (⭐ 78) |
 | **Original Path** | `invoking-github/references/credential-setup.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Common Statistical Pitfalls
+# Statistical Pitfalls
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Statistical Pitfalls |
+| **Name** | Statistical Pitfalls |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/references/statistical_pitfalls.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-critical-thinking/references/statistical_pitfalls.md` |
 | **Category** | productivity |

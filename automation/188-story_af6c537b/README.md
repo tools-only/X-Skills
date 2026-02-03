@@ -1,8 +1,8 @@
-# 🐾 從「無限貓報恩」到「省錢大絕招」的故事
+# Story
 
 | Property | Value |
 |----------|-------|
-| **Name** | 🐾 從「無限貓報恩」到「省錢大絕招」的故事 |
+| **Name** | Story |
 | **Repository** | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/STORY.md) (⭐ 17) |
 | **Original Path** | `STORY.md` |
 | **Category** | automation |

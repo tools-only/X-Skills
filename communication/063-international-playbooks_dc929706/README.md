@@ -1,8 +1,8 @@
-# International Market Playbooks
+# International Playbooks
 
 | Property | Value |
 |----------|-------|
-| **Name** | International Market Playbooks |
+| **Name** | International Playbooks |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing-demand-acquisition/references/international-playbooks.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/marketing-demand-acquisition/references/international-playbooks.md` |
 | **Category** | communication |

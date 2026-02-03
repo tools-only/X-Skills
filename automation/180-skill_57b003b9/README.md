@@ -1,8 +1,8 @@
-# image-enhancer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | image-enhancer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e/SKILL.md` |
 | **Category** | content-creation |

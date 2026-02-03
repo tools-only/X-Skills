@@ -1,8 +1,8 @@
-# ai-phill
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-phill |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-phill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-phill/SKILL.md` |
 | **Category** | commercial |

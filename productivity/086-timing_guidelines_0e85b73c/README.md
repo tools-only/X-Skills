@@ -1,8 +1,8 @@
-# Presentation Timing Guidelines
+# Timing Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | Presentation Timing Guidelines |
+| **Name** | Timing Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/assets/timing_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/assets/timing_guidelines.md` |
 | **Category** | productivity |

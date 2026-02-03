@@ -1,8 +1,8 @@
-# safe-file-deletion
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | safe-file-deletion |
+| **Name** | Skill |
 | **Repository** | [MemTensor/MemOS](https://raw.githubusercontent.com/MemTensor/MemOS/main/openwork-memos-integration/apps/desktop/skills/safe-file-deletion/SKILL.md) (⭐ 4.9k) |
 | **Original Path** | `openwork-memos-integration/apps/desktop/skills/safe-file-deletion/SKILL.md` |
 | **Category** | automation |

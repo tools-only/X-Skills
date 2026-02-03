@@ -1,8 +1,8 @@
-# Click me
+# Frontend Best Practices
 
 | Property | Value |
 |----------|-------|
-| **Name** | Click me |
+| **Name** | Frontend Best Practices |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-frontend/references/frontend_best_practices.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-frontend/references/frontend_best_practices.md` |
 | **Category** | commercial |

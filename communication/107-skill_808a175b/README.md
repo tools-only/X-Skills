@@ -1,8 +1,8 @@
-# ai-output-validation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-output-validation |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-output-validation/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-output-validation/SKILL.md` |
 | **Category** | communication |

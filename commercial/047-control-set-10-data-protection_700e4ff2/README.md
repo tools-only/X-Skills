@@ -1,8 +1,8 @@
-# Threat Modeling
+# Control Set 10 Data Protection
 
 | Property | Value |
 |----------|-------|
-| **Name** | Threat Modeling |
+| **Name** | Control Set 10 Data Protection |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-10-data-protection.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/control-set-10-data-protection.md` |
 | **Category** | commercial |

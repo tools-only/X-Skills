@@ -1,8 +1,8 @@
-# web-asset-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | web-asset-generator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a/SKILL.md` |
 | **Category** | commercial |

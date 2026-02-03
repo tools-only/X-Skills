@@ -1,8 +1,8 @@
-# Skill-First Learning
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill-First Learning |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/53-dapr-core/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/53-dapr-core/SKILL.md` |
 | **Category** | commercial |

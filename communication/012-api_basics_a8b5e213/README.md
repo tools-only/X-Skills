@@ -1,8 +1,8 @@
-# aspirin)
+# Api Basics
 
 | Property | Value |
 |----------|-------|
-| **Name** | aspirin) |
+| **Name** | Api Basics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fda-database/references/api_basics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fda-database/references/api_basics.md` |
 | **Category** | communication |

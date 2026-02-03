@@ -1,8 +1,8 @@
-# angular-tooling
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | angular-tooling |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/angular-tooling/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/angular-tooling/SKILL.md` |
 | **Category** | commercial |

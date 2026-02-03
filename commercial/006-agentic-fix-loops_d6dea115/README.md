@@ -1,8 +1,8 @@
-# get_order_status
+# Agentic Fix Loops
 
 | Property | Value |
 |----------|-------|
-| **Name** | get_order_status |
+| **Name** | Agentic Fix Loops |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/agentic-fix-loops.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentforce-testing/resources/agentic-fix-loops.md` |
 | **Category** | commercial |

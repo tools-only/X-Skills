@@ -1,8 +1,8 @@
-# Orchestration Pattern: Sequential
+# Orchestration Sequential
 
 | Property | Value |
 |----------|-------|
-| **Name** | Orchestration Pattern: Sequential |
+| **Name** | Orchestration Sequential |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/examples/orchestration-sequential.md) (⭐ 47) |
 | **Original Path** | `sf-flow/examples/orchestration-sequential.md` |
 | **Category** | commercial |

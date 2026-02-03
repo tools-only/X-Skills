@@ -1,8 +1,8 @@
-# Adding Taxonomy to CSV Workflow Diagram
+# 07 Adding Taxonomy To Csv Workflow Diagram
 
 | Property | Value |
 |----------|-------|
-| **Name** | Adding Taxonomy to CSV Workflow Diagram |
+| **Name** | 07 Adding Taxonomy To Csv Workflow Diagram |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/07-adding-taxonomy-to-csv-workflow-diagram.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/07-adding-taxonomy-to-csv-workflow-diagram.md` |
 | **Category** | data-analysis |

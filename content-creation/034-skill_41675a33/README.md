@@ -1,8 +1,8 @@
-# skriv-som-kasper
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | skriv-som-kasper |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/writing/skriv-som-kasper/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/writing/skriv-som-kasper/SKILL.md` |
 | **Category** | content-creation |

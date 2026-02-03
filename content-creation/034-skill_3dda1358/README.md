@@ -1,8 +1,8 @@
-# Image Files
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Image Files |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Image%20Files/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Image Files/SKILL.md` |
 | **Category** | content-creation |

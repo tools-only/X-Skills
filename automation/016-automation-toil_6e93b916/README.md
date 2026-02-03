@@ -1,8 +1,8 @@
-# str
+# Automation Toil
 
 | Property | Value |
 |----------|-------|
-| **Name** | str |
+| **Name** | Automation Toil |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/automation-toil.md) (⭐ 216) |
 | **Original Path** | `skills/sre-engineer/references/automation-toil.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Mapped[str] = mapped_column(String(50), unique=True)
+# Async Sqlalchemy
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mapped[str] = mapped_column(String(50), unique=True) |
+| **Name** | Async Sqlalchemy |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fastapi-expert/references/async-sqlalchemy.md) (⭐ 216) |
 | **Original Path** | `skills/fastapi-expert/references/async-sqlalchemy.md` |
 | **Category** | communication |

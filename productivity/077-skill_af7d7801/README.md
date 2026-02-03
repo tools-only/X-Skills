@@ -1,8 +1,8 @@
-# rsn-perceiving-information
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rsn-perceiving-information |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/SKILL.md` |
 | **Category** | productivity |

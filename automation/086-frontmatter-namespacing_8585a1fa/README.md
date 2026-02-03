@@ -1,8 +1,8 @@
-# project-status
+# 002 Frontmatter Namespacing
 
 | Property | Value |
 |----------|-------|
-| **Name** | project-status |
+| **Name** | 002 Frontmatter Namespacing |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/002-frontmatter-namespacing.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/002-frontmatter-namespacing.md` |
 | **Category** | data-analysis |

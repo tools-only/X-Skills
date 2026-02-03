@@ -1,8 +1,8 @@
-# 16:9 三卡洞察模板（趣味少字版）
+# 16X9 3Cards Insights
 
 | Property | Value |
 |----------|-------|
-| **Name** | 16:9 三卡洞察模板（趣味少字版） |
+| **Name** | 16X9 3Cards Insights |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-3cards-insights.md) (⭐ 80) |
 | **Original Path** | `image-assistant/templates/16x9-3cards-insights.md` |
 | **Category** | other |

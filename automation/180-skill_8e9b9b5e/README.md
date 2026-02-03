@@ -1,8 +1,8 @@
-# ac-stop-hook-analyzer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ac-stop-hook-analyzer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ac-stop-hook-analyzer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ac-stop-hook-analyzer/SKILL.md` |
 | **Category** | automation |

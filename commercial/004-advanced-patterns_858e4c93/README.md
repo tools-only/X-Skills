@@ -1,8 +1,8 @@
-# Advanced Patterns for Iterative Work
+# Advanced Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced Patterns for Iterative Work |
+| **Name** | Advanced Patterns |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/iterating/references/advanced-patterns.md) (⭐ 78) |
 | **Original Path** | `iterating/references/advanced-patterns.md` |
 | **Category** | commercial |

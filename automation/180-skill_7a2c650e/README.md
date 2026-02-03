@@ -1,8 +1,8 @@
-# sys-activating-goals
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sys-activating-goals |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-activating-goals/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/sys-activating-goals/SKILL.md` |
 | **Category** | automation |

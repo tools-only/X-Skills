@@ -1,8 +1,8 @@
-# Plugin Structure Reference
+# Plugin Structure
 
 | Property | Value |
 |----------|-------|
-| **Name** | Plugin Structure Reference |
+| **Name** | Plugin Structure |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/plugin-structure.md) (⭐ 383) |
 | **Original Path** | `skills/plugin-forge/references/plugin-structure.md` |
 | **Category** | communication |

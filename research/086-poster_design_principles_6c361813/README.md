@@ -1,8 +1,8 @@
-# Research Poster Design Principles
+# Poster Design Principles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Research Poster Design Principles |
+| **Name** | Poster Design Principles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/references/poster_design_principles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/latex-posters/references/poster_design_principles.md` |
 | **Category** | research |

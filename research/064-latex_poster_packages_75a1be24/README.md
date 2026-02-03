@@ -1,8 +1,8 @@
-# LaTeX Poster Packages: Comprehensive Comparison
+# Latex Poster Packages
 
 | Property | Value |
 |----------|-------|
-| **Name** | LaTeX Poster Packages: Comprehensive Comparison |
+| **Name** | Latex Poster Packages |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/references/latex_poster_packages.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/latex-posters/references/latex_poster_packages.md` |
 | **Category** | research |

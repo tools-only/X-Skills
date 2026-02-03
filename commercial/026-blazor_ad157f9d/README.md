@@ -1,8 +1,8 @@
-# </label>
+# Blazor
 
 | Property | Value |
 |----------|-------|
-| **Name** | </label> |
+| **Name** | Blazor |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/references/blazor.md) (⭐ 216) |
 | **Original Path** | `skills/csharp-developer/references/blazor.md` |
 | **Category** | commercial |

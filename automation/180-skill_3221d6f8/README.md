@@ -1,8 +1,8 @@
-# agentic-jumpstart-dependency-management
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agentic-jumpstart-dependency-management |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agentic-jumpstart-dependency-management/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agentic-jumpstart-dependency-management/SKILL.md` |
 | **Category** | automation |

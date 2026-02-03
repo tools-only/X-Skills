@@ -1,8 +1,8 @@
-# Draft Professional Email
+# Compose Email
 
 | Property | Value |
 |----------|-------|
-| **Name** | Draft Professional Email |
+| **Name** | Compose Email |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/commands/compose-email.md) (⭐ 383) |
 | **Original Path** | `commands/compose-email.md` |
 | **Category** | communication |

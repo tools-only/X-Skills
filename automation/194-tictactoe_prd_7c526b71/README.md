@@ -1,8 +1,8 @@
-# Tic-Tac-Toe Game PRD
+# Tictactoe Prd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Tic-Tac-Toe Game PRD |
+| **Name** | Tictactoe Prd |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/examples/tictactoe/tictactoe_prd.md) (⭐ 407) |
 | **Original Path** | `examples/tictactoe/tictactoe_prd.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Summary Example
+# Summary
 
 | Property | Value |
 |----------|-------|
-| **Name** | Summary Example |
+| **Name** | Summary |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/hello_world/target/compiled/summary.md) (⭐ 93) |
 | **Original Path** | `examples/hello_world/target/compiled/summary.md` |
 | **Category** | communication |

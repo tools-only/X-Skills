@@ -1,8 +1,8 @@
-# Citation Styles Reference
+# Citation Styles
 
 | Property | Value |
 |----------|-------|
-| **Name** | Citation Styles Reference |
+| **Name** | Citation Styles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/literature-review/references/citation_styles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/literature-review/references/citation_styles.md` |
 | **Category** | research |

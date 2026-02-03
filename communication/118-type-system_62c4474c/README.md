@@ -1,8 +1,8 @@
-# str, age: int, active: bool = True) -> dict[str, Any]:
+# Type System
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, age: int, active: bool = True) -> dict[str, Any]: |
+| **Name** | Type System |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/python-pro/references/type-system.md) (⭐ 216) |
 | **Original Path** | `skills/python-pro/references/type-system.md` |
 | **Category** | content-creation |

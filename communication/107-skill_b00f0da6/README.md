@@ -1,8 +1,8 @@
-# add-error-type
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-error-type |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-error-type/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-error-type/SKILL.md` |
 | **Category** | communication |

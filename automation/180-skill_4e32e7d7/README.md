@@ -1,8 +1,8 @@
-# AI Workflow Orchestrator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | AI Workflow Orchestrator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-workflow-orchestrator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-workflow-orchestrator/SKILL.md` |
 | **Category** | content-creation |

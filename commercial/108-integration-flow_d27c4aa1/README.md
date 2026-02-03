@@ -1,8 +1,8 @@
-# Architecture Template: Integration Flow
+# Integration Flow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Architecture Template: Integration Flow |
+| **Name** | Integration Flow |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/templates/architecture/integration-flow.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-nanobananapro/templates/architecture/integration-flow.md` |
 | **Category** | commercial |

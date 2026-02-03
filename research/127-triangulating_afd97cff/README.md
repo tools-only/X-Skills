@@ -1,8 +1,8 @@
-# Triangulating Mode
+# Triangulating
 
 | Property | Value |
 |----------|-------|
-| **Name** | Triangulating Mode |
+| **Name** | Triangulating |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/triangulating.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/references/triangulating.md` |
 | **Category** | research |

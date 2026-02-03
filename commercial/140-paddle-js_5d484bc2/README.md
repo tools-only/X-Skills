@@ -1,8 +1,8 @@
-# Paddle.js v2
+# Paddle Js
 
 | Property | Value |
 |----------|-------|
-| **Name** | Paddle.js v2 |
+| **Name** | Paddle Js |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/paddle/paddle-js.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/paddle/paddle-js.md` |
 | **Category** | commercial |

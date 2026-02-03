@@ -1,8 +1,8 @@
-# agent-kubernetes-specialist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-kubernetes-specialist |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-kubernetes-specialist/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-kubernetes-specialist/SKILL.md` |
 | **Category** | productivity |

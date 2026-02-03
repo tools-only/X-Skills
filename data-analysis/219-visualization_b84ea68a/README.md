@@ -1,8 +1,8 @@
-# Mapping and Visualization
+# Visualization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mapping and Visualization |
+| **Name** | Visualization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/geopandas/references/visualization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/geopandas/references/visualization.md` |
 | **Category** | data-analysis |

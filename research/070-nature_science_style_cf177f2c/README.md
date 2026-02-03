@@ -1,8 +1,8 @@
-# Nature and Science Writing Style Guide
+# Nature Science Style
 
 | Property | Value |
 |----------|-------|
-| **Name** | Nature and Science Writing Style Guide |
+| **Name** | Nature Science Style |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/nature_science_style.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/nature_science_style.md` |
 | **Category** | research |

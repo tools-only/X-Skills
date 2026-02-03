@@ -1,8 +1,8 @@
-# `LastName_Conference_Poster.pdf`
+# Poster Quality Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | `LastName_Conference_Poster.pdf` |
+| **Name** | Poster Quality Checklist |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/assets/poster_quality_checklist.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/latex-posters/assets/poster_quality_checklist.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Aggregation and GroupBy
+# Aggregation Groupby
 
 | Property | Value |
 |----------|-------|
-| **Name** | Aggregation and GroupBy |
+| **Name** | Aggregation Groupby |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/pandas-pro/references/aggregation-groupby.md) (⭐ 216) |
 | **Original Path** | `skills/pandas-pro/references/aggregation-groupby.md` |
 | **Category** | data-analysis |

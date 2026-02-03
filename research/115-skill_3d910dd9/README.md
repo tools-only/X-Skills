@@ -1,8 +1,8 @@
-# clinical-reports
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | clinical-reports |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-reports/SKILL.md` |
 | **Category** | data-analysis |

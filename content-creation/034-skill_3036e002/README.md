@@ -1,8 +1,8 @@
-# writing-assistant
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | writing-assistant |
+| **Name** | Skill |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/SKILL.md) (⭐ 80) |
 | **Original Path** | `writing-assistant/SKILL.md` |
 | **Category** | content-creation |

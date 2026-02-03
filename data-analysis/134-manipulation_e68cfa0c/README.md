@@ -1,8 +1,8 @@
-# Data Manipulation
+# Manipulation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Manipulation |
+| **Name** | Manipulation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/anndata/references/manipulation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/anndata/references/manipulation.md` |
 | **Category** | data-analysis |

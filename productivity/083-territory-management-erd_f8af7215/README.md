@@ -1,8 +1,8 @@
-# Territory Management Data Model Template
+# Territory Management Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Territory Management Data Model Template |
+| **Name** | Territory Management Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/territory-management-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/territory-management-erd.md` |
 | **Category** | productivity |

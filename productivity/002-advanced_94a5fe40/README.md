@@ -1,8 +1,8 @@
-# Advanced Usage: Revision and Branching
+# Advanced
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced Usage: Revision and Branching |
+| **Name** | Advanced |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/sequential-thinking/references/advanced.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/sequential-thinking/references/advanced.md` |
 | **Category** | productivity |

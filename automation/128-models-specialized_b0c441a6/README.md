@@ -1,8 +1,8 @@
-# Specialized Modality Models
+# Models Specialized
 
 | Property | Value |
 |----------|-------|
-| **Name** | Specialized Modality Models |
+| **Name** | Models Specialized |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/references/models-specialized.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/references/models-specialized.md` |
 | **Category** | data-analysis |

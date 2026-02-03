@@ -1,8 +1,8 @@
-# presentation.pptx
+# Powerpoint Design Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | presentation.pptx |
+| **Name** | Powerpoint Design Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/assets/powerpoint_design_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/assets/powerpoint_design_guide.md` |
 | **Category** | research |

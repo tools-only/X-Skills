@@ -1,8 +1,8 @@
-# agentica-sdk
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agentica-sdk |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agentica-sdk/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agentica-sdk/SKILL.md` |
 | **Category** | communication |

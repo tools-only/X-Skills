@@ -1,8 +1,8 @@
-# Salesforce Flow Wait Element Patterns
+# Wait Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Salesforce Flow Wait Element Patterns |
+| **Name** | Wait Patterns |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/docs/wait-patterns.md) (⭐ 47) |
 | **Original Path** | `sf-flow/docs/wait-patterns.md` |
 | **Category** | daily-assistant |

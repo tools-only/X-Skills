@@ -1,8 +1,8 @@
-# YouTube 转博客文章 Skill - 创建完成
+# Install
 
 | Property | Value |
 |----------|-------|
-| **Name** | YouTube 转博客文章 Skill - 创建完成 |
+| **Name** | Install |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/INSTALL.md) (⭐ 108) |
 | **Original Path** | `youtube-to-blog-post/INSTALL.md` |
 | **Category** | content-creation |

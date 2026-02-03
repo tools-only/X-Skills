@@ -1,8 +1,8 @@
-# ** ____________________
+# Quality Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | ** ____________________ |
+| **Name** | Quality Checklist |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/assets/quality_checklist.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-reports/assets/quality_checklist.md` |
 | **Category** | research |

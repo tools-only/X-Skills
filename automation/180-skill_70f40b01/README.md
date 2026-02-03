@@ -1,8 +1,8 @@
-# anndata
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | anndata |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/anndata/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/anndata/SKILL.md` |
 | **Category** | data-analysis |

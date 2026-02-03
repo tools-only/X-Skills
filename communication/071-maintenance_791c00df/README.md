@@ -1,8 +1,8 @@
-# Database Maintenance
+# Maintenance
 
 | Property | Value |
 |----------|-------|
-| **Name** | Database Maintenance |
+| **Name** | Maintenance |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/references/maintenance.md) (⭐ 216) |
 | **Original Path** | `skills/postgres-pro/references/maintenance.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# invoice-scanner
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | invoice-scanner |
+| **Name** | Skill |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/invoice-scanner/SKILL.md) (⭐ 108) |
 | **Original Path** | `invoice-scanner/SKILL.md` |
 | **Category** | commercial |

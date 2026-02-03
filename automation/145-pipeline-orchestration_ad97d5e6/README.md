@@ -1,8 +1,8 @@
-# str,
+# Pipeline Orchestration
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, |
+| **Name** | Pipeline Orchestration |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/ml-pipeline/references/pipeline-orchestration.md) (⭐ 216) |
 | **Original Path** | `skills/ml-pipeline/references/pipeline-orchestration.md` |
 | **Category** | automation |

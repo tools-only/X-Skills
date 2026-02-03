@@ -1,8 +1,8 @@
-# account-tiering
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | account-tiering |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/account-tiering/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/account-tiering/SKILL.md` |
 | **Category** | data-analysis |

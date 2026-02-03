@@ -1,8 +1,8 @@
-# Research Poster Guidelines
+# Posters Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | Research Poster Guidelines |
+| **Name** | Posters Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/posters_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/posters_guidelines.md` |
 | **Category** | research |

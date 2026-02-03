@@ -1,8 +1,8 @@
-# PDF Image Extraction (Task B1.5)
+# Pdf Image Extraction
 
 | Property | Value |
 |----------|-------|
-| **Name** | PDF Image Extraction (Task B1.5) |
+| **Name** | Pdf Image Extraction |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_IMAGE_EXTRACTION.md) (🔥 8.7k) |
 | **Original Path** | `docs/archive/research/PDF_IMAGE_EXTRACTION.md` |
 | **Category** | data-analysis |

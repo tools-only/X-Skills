@@ -1,8 +1,8 @@
-# Raspberry Pi 5 Docker Benchmarking
+# Pi5 Docker Benchmarking
 
 | Property | Value |
 |----------|-------|
-| **Name** | Raspberry Pi 5 Docker Benchmarking |
+| **Name** | Pi5 Docker Benchmarking |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/pi5-docker-benchmarking.md) (⭐ 14) |
 | **Original Path** | `logs/pi5-docker-benchmarking.md` |
 | **Category** | daily-assistant |

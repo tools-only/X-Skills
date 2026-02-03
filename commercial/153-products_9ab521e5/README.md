@@ -1,8 +1,8 @@
-# Team Plan
+# Products
 
 | Property | Value |
 |----------|-------|
-| **Name** | Team Plan |
+| **Name** | Products |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/polar/products.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/polar/products.md` |
 | **Category** | commercial |

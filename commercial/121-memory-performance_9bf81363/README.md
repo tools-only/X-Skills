@@ -1,8 +1,8 @@
-# Memory Management & Performance
+# Memory Performance
 
 | Property | Value |
 |----------|-------|
-| **Name** | Memory Management & Performance |
+| **Name** | Memory Performance |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cpp-pro/references/memory-performance.md) (⭐ 216) |
 | **Original Path** | `skills/cpp-pro/references/memory-performance.md` |
 | **Category** | commercial |

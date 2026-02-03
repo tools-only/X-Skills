@@ -1,8 +1,8 @@
-# OST Entry Flow
+# Entry
 
 | Property | Value |
 |----------|-------|
-| **Name** | OST Entry Flow |
+| **Name** | Entry |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/entry.md) (⭐ 372) |
 | **Original Path** | `skills/product-development/ost/references/entry.md` |
 | **Category** | automation |

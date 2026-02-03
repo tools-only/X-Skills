@@ -1,8 +1,8 @@
-# <test-name>  # this is the unique name of the test
+# Spec
 
 | Property | Value |
 |----------|-------|
-| **Name** | <test-name>  # this is the unique name of the test |
+| **Name** | Spec |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/adding-dbt-unit-test/spec.md) (⭐ 10) |
 | **Original Path** | `skills/adding-dbt-unit-test/spec.md` |
 | **Category** | automation |

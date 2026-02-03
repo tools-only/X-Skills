@@ -1,8 +1,8 @@
-# course-description-analyzer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | course-description-analyzer |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/course-description-analyzer/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/course-description-analyzer/SKILL.md` |
 | **Category** | data-analysis |

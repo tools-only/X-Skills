@@ -1,8 +1,8 @@
-# command-creator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | command-creator |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/command-creator/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/command-creator/SKILL.md` |
 | **Category** | automation |

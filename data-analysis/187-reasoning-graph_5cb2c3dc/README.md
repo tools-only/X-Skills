@@ -1,8 +1,8 @@
-# Reasoning Graph Generation
+# Reasoning Graph
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reasoning Graph Generation |
+| **Name** | Reasoning Graph |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/common-ground/references/reasoning-graph.md) (⭐ 216) |
 | **Original Path** | `commands/common-ground/references/reasoning-graph.md` |
 | **Category** | data-analysis |

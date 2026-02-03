@@ -1,8 +1,8 @@
-# Conference Formatting Requirements
+# Conferences Formatting
 
 | Property | Value |
 |----------|-------|
-| **Name** | Conference Formatting Requirements |
+| **Name** | Conferences Formatting |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/conferences_formatting.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/conferences_formatting.md` |
 | **Category** | research |

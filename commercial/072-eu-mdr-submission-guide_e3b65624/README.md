@@ -1,8 +1,8 @@
-# EU MDR 2017/745 Submission Guide
+# Eu Mdr Submission Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | EU MDR 2017/745 Submission Guide |
+| **Name** | Eu Mdr Submission Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/eu-mdr-submission-guide.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/regulatory-affairs-head/references/eu-mdr-submission-guide.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# new-name    # 改为新名称
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | new-name    # 改为新名称 |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/_docs_authoring_skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/_docs_authoring_skill/SKILL.md` |
 | **Category** | automation |

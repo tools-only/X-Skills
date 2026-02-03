@@ -1,8 +1,8 @@
-# ac-master-controller
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ac-master-controller |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ac-master-controller/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ac-master-controller/SKILL.md` |
 | **Category** | automation |

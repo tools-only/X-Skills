@@ -1,8 +1,8 @@
-# Muninn
+# Claude Ai Project Instructions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Muninn |
+| **Name** | Claude Ai Project Instructions |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/claude-ai-project-instructions.md) (⭐ 78) |
 | **Original Path** | `remembering/claude-ai-project-instructions.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# Installing Claude on Windows Systems for Linux
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Installing Claude on Windows Systems for Linux |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/15-claude-on-wsl/index.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/15-claude-on-wsl/index.md` |
 | **Category** | other |

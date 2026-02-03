@@ -1,8 +1,8 @@
-# creating-mcp-servers
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | creating-mcp-servers |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/creating-mcp-servers/SKILL.md) (⭐ 78) |
 | **Original Path** | `creating-mcp-servers/SKILL.md` |
 | **Category** | productivity |

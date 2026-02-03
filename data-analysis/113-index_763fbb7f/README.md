@@ -1,8 +1,8 @@
-# Binding into AI application
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Binding into AI application |
+| **Name** | Index |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/ai_apps_binding/index.md) (⭐ 12) |
 | **Original Path** | `docs/guide/ai_apps_binding/index.md` |
 | **Category** | data-analysis |

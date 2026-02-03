@@ -1,8 +1,8 @@
-# Graph Construction & Spatial Analysis
+# Graphs
 
 | Property | Value |
 |----------|-------|
-| **Name** | Graph Construction & Spatial Analysis |
+| **Name** | Graphs |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pathml/references/graphs.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pathml/references/graphs.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Dialectical Mode
+# Dialectical
 
 | Property | Value |
 |----------|-------|
-| **Name** | Dialectical Mode |
+| **Name** | Dialectical |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/dialectical.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-reasoning-problems/references/dialectical.md` |
 | **Category** | investment |

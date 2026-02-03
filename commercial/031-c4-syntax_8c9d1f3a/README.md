@@ -1,8 +1,8 @@
-# C4 Mermaid Diagram Syntax Reference
+# C4 Syntax
 
 | Property | Value |
 |----------|-------|
-| **Name** | C4 Mermaid Diagram Syntax Reference |
+| **Name** | C4 Syntax |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/c4-syntax.md) (⭐ 383) |
 | **Original Path** | `skills/c4-architecture/references/c4-syntax.md` |
 | **Category** | commercial |

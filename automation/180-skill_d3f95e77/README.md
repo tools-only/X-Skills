@@ -1,8 +1,8 @@
-# gene-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | gene-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gene-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gene-database/SKILL.md` |
 | **Category** | automation |

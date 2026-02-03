@@ -1,8 +1,8 @@
-# name);
+# Riverpod State
 
 | Property | Value |
 |----------|-------|
-| **Name** | name); |
+| **Name** | Riverpod State |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/flutter-expert/references/riverpod-state.md) (⭐ 216) |
 | **Original Path** | `skills/flutter-expert/references/riverpod-state.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# Feature Documentation
+# 022 Output Function
 
 | Property | Value |
 |----------|-------|
-| **Name** | Feature Documentation |
+| **Name** | 022 Output Function |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/022-output-function.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/022-output-function.md` |
 | **Category** | content-creation |

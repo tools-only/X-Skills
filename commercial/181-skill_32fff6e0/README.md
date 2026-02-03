@@ -1,8 +1,8 @@
-# alerting-and-monitoring
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alerting-and-monitoring |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alerting-and-monitoring/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alerting-and-monitoring/SKILL.md` |
 | **Category** | commercial |

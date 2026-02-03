@@ -1,8 +1,8 @@
-# Livewire Components
+# Livewire
 
 | Property | Value |
 |----------|-------|
-| **Name** | Livewire Components |
+| **Name** | Livewire |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/laravel-specialist/references/livewire.md) (⭐ 216) |
 | **Original Path** | `skills/laravel-specialist/references/livewire.md` |
 | **Category** | automation |

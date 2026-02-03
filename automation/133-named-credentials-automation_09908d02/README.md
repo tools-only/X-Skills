@@ -1,8 +1,8 @@
-# Named Credentials Automation Guide
+# Named Credentials Automation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Named Credentials Automation Guide |
+| **Name** | Named Credentials Automation |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/docs/named-credentials-automation.md) (⭐ 47) |
 | **Original Path** | `sf-integration/docs/named-credentials-automation.md` |
 | **Category** | automation |

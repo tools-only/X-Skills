@@ -1,8 +1,8 @@
-# CLAUDE.md
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | CLAUDE.md |
+| **Name** | Claude |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/claude.md-files/AVS-Vibe-Developer-Guide/CLAUDE.md) (🔥 22.5k) |
 | **Original Path** | `resources/claude.md-files/AVS-Vibe-Developer-Guide/CLAUDE.md` |
 | **Category** | productivity |

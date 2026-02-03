@@ -1,8 +1,8 @@
-# sf-deploy
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sf-deploy |
+| **Name** | Skill |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) (⭐ 47) |
 | **Original Path** | `sf-deploy/SKILL.md` |
 | **Category** | automation |

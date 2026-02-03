@@ -1,8 +1,8 @@
-# Widget
+# Qa Best Practices
 
 | Property | Value |
 |----------|-------|
-| **Name** | Widget |
+| **Name** | Qa Best Practices |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-qa/references/qa_best_practices.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-qa/references/qa_best_practices.md` |
 | **Category** | commercial |

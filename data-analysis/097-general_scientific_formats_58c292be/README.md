@@ -1,8 +1,8 @@
-# General Scientific Data Formats Reference
+# General Scientific Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | General Scientific Data Formats Reference |
+| **Name** | General Scientific Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/exploratory-data-analysis/references/general_scientific_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/exploratory-data-analysis/references/general_scientific_formats.md` |
 | **Category** | data-analysis |

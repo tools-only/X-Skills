@@ -1,8 +1,8 @@
-# Mermaid Flowchart Syntax Reference
+# Mermaid Flowchart Syntax
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mermaid Flowchart Syntax Reference |
+| **Name** | Mermaid Flowchart Syntax |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/mermaid-generator/references/mermaid-flowchart-syntax.md) (⭐ 14) |
 | **Original Path** | `skills/archived/mermaid-generator/references/mermaid-flowchart-syntax.md` |
 | **Category** | data-analysis |

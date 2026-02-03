@@ -1,8 +1,8 @@
-# Merging and Joining
+# Merging Joining
 
 | Property | Value |
 |----------|-------|
-| **Name** | Merging and Joining |
+| **Name** | Merging Joining |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/pandas-pro/references/merging-joining.md) (⭐ 216) |
 | **Original Path** | `skills/pandas-pro/references/merging-joining.md` |
 | **Category** | commercial |

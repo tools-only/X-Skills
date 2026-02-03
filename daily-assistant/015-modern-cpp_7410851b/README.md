@@ -1,8 +1,8 @@
-# Modern C++20/23 Features
+# Modern Cpp
 
 | Property | Value |
 |----------|-------|
-| **Name** | Modern C++20/23 Features |
+| **Name** | Modern Cpp |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cpp-pro/references/modern-cpp.md) (⭐ 216) |
 | **Original Path** | `skills/cpp-pro/references/modern-cpp.md` |
 | **Category** | data-analysis |

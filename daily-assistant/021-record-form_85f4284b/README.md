@@ -1,8 +1,8 @@
-# LWC Template: Record Form Mockup
+# Record Form
 
 | Property | Value |
 |----------|-------|
-| **Name** | LWC Template: Record Form Mockup |
+| **Name** | Record Form |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/templates/lwc/record-form.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-nanobananapro/templates/lwc/record-form.md` |
 | **Category** | daily-assistant |

@@ -1,8 +1,8 @@
-# Working with Alignment Files (SAM/BAM/CRAM)
+# Alignment Files
 
 | Property | Value |
 |----------|-------|
-| **Name** | Working with Alignment Files (SAM/BAM/CRAM) |
+| **Name** | Alignment Files |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pysam/references/alignment_files.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pysam/references/alignment_files.md` |
 | **Category** | content-creation |

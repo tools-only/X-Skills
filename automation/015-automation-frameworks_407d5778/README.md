@@ -1,8 +1,8 @@
-# Login
+# Automation Frameworks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Login |
+| **Name** | Automation Frameworks |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/test-master/references/automation-frameworks.md) (⭐ 216) |
 | **Original Path** | `skills/test-master/references/automation-frameworks.md` |
 | **Category** | automation |

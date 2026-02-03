@@ -1,8 +1,8 @@
-# Brand Voice & Style Guidelines
+# Brand Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | Brand Voice & Style Guidelines |
+| **Name** | Brand Guidelines |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/content-creator/references/brand_guidelines.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/content-creator/references/brand_guidelines.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# terraform-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | terraform-engineer |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/terraform-engineer/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/terraform-engineer/SKILL.md` |
 | **Category** | automation |

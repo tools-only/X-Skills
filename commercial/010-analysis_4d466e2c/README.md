@@ -1,8 +1,8 @@
-# Product Analysis
+# Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Product Analysis |
+| **Name** | Analysis |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/analysis.md) (⭐ 93) |
 | **Original Path** | `examples/everything/target/compiled/analysis.md` |
 | **Category** | commercial |

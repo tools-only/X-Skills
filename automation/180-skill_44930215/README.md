@@ -1,8 +1,8 @@
-# ads-management
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ads-management |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ads-management/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ads-management/SKILL.md` |
 | **Category** | content-creation |

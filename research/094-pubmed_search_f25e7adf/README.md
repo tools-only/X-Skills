@@ -1,8 +1,8 @@
-# PubMed Search Guide
+# Pubmed Search
 
 | Property | Value |
 |----------|-------|
-| **Name** | PubMed Search Guide |
+| **Name** | Pubmed Search |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/references/pubmed_search.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/citation-management/references/pubmed_search.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# fnd-validating-gates
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fnd-validating-gates |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd-validating-gates/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/fnd-validating-gates/SKILL.md` |
 | **Category** | commercial |

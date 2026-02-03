@@ -1,8 +1,8 @@
-# Details Tag Content Analysis
+# Details Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Details Tag Content Analysis |
+| **Name** | Details Analysis |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/details-analysis.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/details-analysis.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Product Management Frameworks
+# Frameworks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Product Management Frameworks |
+| **Name** | Frameworks |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/product-manager-toolkit/references/frameworks.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/product-manager-toolkit/references/frameworks.md` |
 | **Category** | commercial |

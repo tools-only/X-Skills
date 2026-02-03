@@ -1,8 +1,8 @@
-# confluence_search
+# Confluence Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | confluence_search |
+| **Name** | Confluence Operations |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/atlassian-mcp/references/confluence-operations.md) (⭐ 216) |
 | **Original Path** | `skills/atlassian-mcp/references/confluence-operations.md` |
 | **Category** | content-creation |

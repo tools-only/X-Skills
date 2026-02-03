@@ -1,8 +1,8 @@
-# Claude Skills
+# Generate References
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claude Skills |
+| **Name** | Generate References |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/generate-references.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/generate-references.md` |
 | **Category** | research |

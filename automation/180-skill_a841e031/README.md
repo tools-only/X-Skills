@@ -1,8 +1,8 @@
-# sys-decomposing-goals
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sys-decomposing-goals |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/sys-decomposing-goals/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/sys-decomposing-goals/SKILL.md` |
 | **Category** | content-creation |

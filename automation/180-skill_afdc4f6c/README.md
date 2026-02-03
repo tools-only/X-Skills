@@ -1,8 +1,8 @@
-# migrate-to-skills
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | migrate-to-skills |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/agr/migrate-to-skills/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/agr/migrate-to-skills/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# Performance and Optimization
+# Performance
 
 | Property | Value |
 |----------|-------|
-| **Name** | Performance and Optimization |
+| **Name** | Performance |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/vaex/references/performance.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/vaex/references/performance.md` |
 | **Category** | data-analysis |

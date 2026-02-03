@@ -1,8 +1,8 @@
-# Matplotlib Plot Types Guide
+# Plot Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Matplotlib Plot Types Guide |
+| **Name** | Plot Types |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matplotlib/references/plot_types.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matplotlib/references/plot_types.md` |
 | **Category** | data-analysis |

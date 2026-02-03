@@ -1,8 +1,8 @@
-# Source Content
+# Source
 
 | Property | Value |
 |----------|-------|
-| **Name** | Source Content |
+| **Name** | Source |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/source.md) (⭐ 93) |
 | **Original Path** | `examples/llm/models/source.md` |
 | **Category** | commercial |

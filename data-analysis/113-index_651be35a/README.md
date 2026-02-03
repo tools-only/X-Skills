@@ -1,8 +1,8 @@
-# Course Description Quality Impact on Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Course Description Quality Impact on Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/course-description-quality-workflow/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/course-description-quality-workflow/index.md` |
 | **Category** | data-analysis |

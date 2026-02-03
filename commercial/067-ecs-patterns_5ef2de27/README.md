@@ -1,8 +1,8 @@
-# ECS Architecture and Game Patterns
+# Ecs Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | ECS Architecture and Game Patterns |
+| **Name** | Ecs Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/game-developer/references/ecs-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/game-developer/references/ecs-patterns.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# str,
+# Experiment Tracking
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, |
+| **Name** | Experiment Tracking |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/ml-pipeline/references/experiment-tracking.md) (⭐ 216) |
 | **Original Path** | `skills/ml-pipeline/references/experiment-tracking.md` |
 | **Category** | automation |

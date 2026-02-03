@@ -1,8 +1,8 @@
-# security-reviewer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | security-reviewer |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/security-reviewer/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/security-reviewer/SKILL.md` |
 | **Category** | automation |

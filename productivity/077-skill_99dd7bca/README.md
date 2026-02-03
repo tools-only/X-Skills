@@ -1,8 +1,8 @@
-# difficult-workplace-conversations
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | difficult-workplace-conversations |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/difficult-workplace-conversations/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/difficult-workplace-conversations/SKILL.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# Mermaid Preview Server Guide
+# Preview Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mermaid Preview Server Guide |
+| **Name** | Preview Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/references/preview-guide.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/references/preview-guide.md` |
 | **Category** | content-creation |

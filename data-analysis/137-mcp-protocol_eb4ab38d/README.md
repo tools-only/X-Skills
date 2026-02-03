@@ -1,8 +1,8 @@
-# Model Context Protocol (MCP) Reference
+# Mcp Protocol
 
 | Property | Value |
 |----------|-------|
-| **Name** | Model Context Protocol (MCP) Reference |
+| **Name** | Mcp Protocol |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mcp-management/references/mcp-protocol.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/mcp-management/references/mcp-protocol.md` |
 | **Category** | data-analysis |

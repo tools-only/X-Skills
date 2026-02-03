@@ -1,8 +1,8 @@
-# networkx
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | networkx |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/networkx/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/networkx/SKILL.md` |
 | **Category** | data-analysis |

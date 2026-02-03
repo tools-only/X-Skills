@@ -1,8 +1,8 @@
-# Polars Data Transformations
+# Transformations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Polars Data Transformations |
+| **Name** | Transformations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/polars/references/transformations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/polars/references/transformations.md` |
 | **Category** | commercial |

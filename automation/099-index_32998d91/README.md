@@ -1,8 +1,8 @@
-# MkDocs Build Process Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | MkDocs Build Process Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/mkdocs-build-process/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/mkdocs-build-process/index.md` |
 | **Category** | automation |

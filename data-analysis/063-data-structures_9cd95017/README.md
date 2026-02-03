@@ -1,8 +1,8 @@
-# GeoPandas Data Structures
+# Data Structures
 
 | Property | Value |
 |----------|-------|
-| **Name** | GeoPandas Data Structures |
+| **Name** | Data Structures |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/geopandas/references/data-structures.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/geopandas/references/data-structures.md` |
 | **Category** | data-analysis |

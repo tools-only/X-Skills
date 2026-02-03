@@ -1,8 +1,8 @@
-# Trainer - Comprehensive Guide
+# Trainer
 
 | Property | Value |
 |----------|-------|
-| **Name** | Trainer - Comprehensive Guide |
+| **Name** | Trainer |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytorch-lightning/references/trainer.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytorch-lightning/references/trainer.md` |
 | **Category** | automation |

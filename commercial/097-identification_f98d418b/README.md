@@ -1,8 +1,8 @@
-# Peptide and Protein Identification
+# Identification
 
 | Property | Value |
 |----------|-------|
-| **Name** | Peptide and Protein Identification |
+| **Name** | Identification |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pyopenms/references/identification.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pyopenms/references/identification.md` |
 | **Category** | data-analysis |

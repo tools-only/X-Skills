@@ -1,8 +1,8 @@
-# FRED API Basics
+# Api Basics
 
 | Property | Value |
 |----------|-------|
-| **Name** | FRED API Basics |
+| **Name** | Api Basics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fred-economic-data/references/api_basics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fred-economic-data/references/api_basics.md` |
 | **Category** | data-analysis |

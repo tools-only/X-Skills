@@ -1,8 +1,8 @@
-# adk-rag-agent
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adk-rag-agent |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adk-rag-agent/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adk-rag-agent/SKILL.md` |
 | **Category** | research |

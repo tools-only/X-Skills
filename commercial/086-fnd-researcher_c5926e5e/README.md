@@ -1,8 +1,8 @@
-# fnd-researcher
+# Fnd Researcher
 
 | Property | Value |
 |----------|-------|
-| **Name** | fnd-researcher |
+| **Name** | Fnd Researcher |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/agents/fnd-researcher.md) (⭐ 14) |
 | **Original Path** | `.claude/agents/fnd-researcher.md` |
 | **Category** | commercial |

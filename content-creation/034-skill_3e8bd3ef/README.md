@@ -1,8 +1,8 @@
-# aio-geo-optimizer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | aio-geo-optimizer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/aio-geo-optimizer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/aio-geo-optimizer/SKILL.md` |
 | **Category** | content-creation |

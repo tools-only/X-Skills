@@ -1,8 +1,8 @@
-# airflow-dag-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | airflow-dag-generator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/airflow-dag-generator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/airflow-dag-generator/SKILL.md` |
 | **Category** | automation |

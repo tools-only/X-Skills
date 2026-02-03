@@ -1,8 +1,8 @@
-# str = Field(..., min_length=1, max_length=100, example=
+# Api Docs Fastapi Django
 
 | Property | Value |
 |----------|-------|
-| **Name** | str = Field(..., min_length=1, max_length=100, example= |
+| **Name** | Api Docs Fastapi Django |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/code-documenter/references/api-docs-fastapi-django.md) (⭐ 216) |
 | **Original Path** | `skills/code-documenter/references/api-docs-fastapi-django.md` |
 | **Category** | communication |

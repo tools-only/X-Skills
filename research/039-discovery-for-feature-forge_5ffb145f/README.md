@@ -1,8 +1,8 @@
-# Multi-Agent Discovery Prompt for Feature Forge
+# Discovery For Feature Forge
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multi-Agent Discovery Prompt for Feature Forge |
+| **Name** | Discovery For Feature Forge |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/prompts/discovery-for-feature-forge.md) (⭐ 216) |
 | **Original Path** | `docs/prompts/discovery-for-feature-forge.md` |
 | **Category** | research |

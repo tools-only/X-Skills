@@ -1,8 +1,8 @@
-# updating-knowledge
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | updating-knowledge |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/updating-knowledge/SKILL.md) (⭐ 78) |
 | **Original Path** | `updating-knowledge/SKILL.md` |
 | **Category** | research |

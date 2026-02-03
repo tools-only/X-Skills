@@ -1,8 +1,8 @@
-# Order Management MVP - Product Requirements Document
+# Order Management Prd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Order Management MVP - Product Requirements Document |
+| **Name** | Order Management Prd |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/examples/arch/ORDER_MANAGEMENT_PRD.md) (⭐ 407) |
 | **Original Path** | `examples/arch/ORDER_MANAGEMENT_PRD.md` |
 | **Category** | communication |

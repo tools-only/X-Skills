@@ -1,8 +1,8 @@
-# Credits & Acknowledgments
+# Credits
 
 | Property | Value |
 |----------|-------|
-| **Name** | Credits & Acknowledgments |
+| **Name** | Credits |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/CREDITS.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/CREDITS.md` |
 | **Category** | data-analysis |

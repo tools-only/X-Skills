@@ -1,8 +1,8 @@
-# sampling-bluesky-zeitgeist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sampling-bluesky-zeitgeist |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/sampling-bluesky-zeitgeist/SKILL.md) (⭐ 78) |
 | **Original Path** | `sampling-bluesky-zeitgeist/SKILL.md` |
 | **Category** | data-analysis |

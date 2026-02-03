@@ -1,8 +1,8 @@
-# Learning Graph Quality Metrics Report
+# Quality Metrics
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph Quality Metrics Report |
+| **Name** | Quality Metrics |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/quality-metrics.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/quality-metrics.md` |
 | **Category** | data-analysis |

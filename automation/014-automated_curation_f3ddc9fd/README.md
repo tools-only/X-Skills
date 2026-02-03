@@ -1,8 +1,8 @@
-# Automated Curation Reference
+# Automated Curation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Automated Curation Reference |
+| **Name** | Automated Curation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neuropixels-analysis/references/AUTOMATED_CURATION.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neuropixels-analysis/references/AUTOMATED_CURATION.md` |
 | **Category** | automation |

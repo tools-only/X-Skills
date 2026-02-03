@@ -1,8 +1,8 @@
-# *flea+collar*
+# Animal Veterinary
 
 | Property | Value |
 |----------|-------|
-| **Name** | *flea+collar* |
+| **Name** | Animal Veterinary |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fda-database/references/animal_veterinary.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fda-database/references/animal_veterinary.md` |
 | **Category** | investment |

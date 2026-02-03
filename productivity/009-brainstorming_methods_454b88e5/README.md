@@ -1,8 +1,8 @@
-# Advanced Brainstorming Methodologies
+# Brainstorming Methods
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced Brainstorming Methodologies |
+| **Name** | Brainstorming Methods |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-brainstorming/references/brainstorming_methods.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-brainstorming/references/brainstorming_methods.md` |
 | **Category** | productivity |

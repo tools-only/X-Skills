@@ -1,8 +1,8 @@
-# Core DataFrames and Data Loading
+# Core Dataframes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Core DataFrames and Data Loading |
+| **Name** | Core Dataframes |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/vaex/references/core_dataframes.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/vaex/references/core_dataframes.md` |
 | **Category** | productivity |

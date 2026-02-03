@@ -1,8 +1,8 @@
-# str =
+# Chunking Strategies
 
 | Property | Value |
 |----------|-------|
-| **Name** | str = |
+| **Name** | Chunking Strategies |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rag-architect/references/chunking-strategies.md) (⭐ 216) |
 | **Original Path** | `skills/rag-architect/references/chunking-strategies.md` |
 | **Category** | content-creation |

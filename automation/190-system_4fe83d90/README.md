@@ -1,8 +1,8 @@
-# System Workflow
+# System
 
 | Property | Value |
 |----------|-------|
-| **Name** | System Workflow |
+| **Name** | System |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/workflows/system.md) (⭐ 14) |
 | **Original Path** | `docs/workflows/system.md` |
 | **Category** | automation |

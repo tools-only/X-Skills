@@ -1,8 +1,8 @@
-# My_Agent
+# Agent Script Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | My_Agent |
+| **Name** | Agent Script Reference |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-legacy/docs/agent-script-reference.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentforce-legacy/docs/agent-script-reference.md` |
 | **Category** | commercial |

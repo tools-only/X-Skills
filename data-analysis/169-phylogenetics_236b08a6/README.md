@@ -1,8 +1,8 @@
-# print(f
+# Phylogenetics
 
 | Property | Value |
 |----------|-------|
-| **Name** | print(f |
+| **Name** | Phylogenetics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/biopython/references/phylogenetics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/biopython/references/phylogenetics.md` |
 | **Category** | data-analysis |

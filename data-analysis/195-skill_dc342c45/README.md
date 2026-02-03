@@ -1,8 +1,8 @@
-# mdr-745-specialist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | mdr-745-specialist |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/mdr-745-specialist/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/mdr-745-specialist/SKILL.md` |
 | **Category** | data-analysis |

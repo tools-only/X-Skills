@@ -1,8 +1,8 @@
-# NetworkX Input/Output
+# Io
 
 | Property | Value |
 |----------|-------|
-| **Name** | NetworkX Input/Output |
+| **Name** | Io |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/networkx/references/io.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/networkx/references/io.md` |
 | **Category** | data-analysis |

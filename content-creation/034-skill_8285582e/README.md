@@ -1,8 +1,8 @@
-# ai-ad-doc-orchestrator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-ad-doc-orchestrator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-ad-doc-orchestrator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-ad-doc-orchestrator/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# todo-signin-ui
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | todo-signin-ui |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/SignIn-skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/SignIn-skill/SKILL.md` |
 | **Category** | daily-assistant |

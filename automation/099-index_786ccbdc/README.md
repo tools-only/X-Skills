@@ -1,8 +1,8 @@
-# Git Workflow for Skill Development
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Git Workflow for Skill Development |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/git-workflow-skill-development/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/git-workflow-skill-development/index.md` |
 | **Category** | automation |

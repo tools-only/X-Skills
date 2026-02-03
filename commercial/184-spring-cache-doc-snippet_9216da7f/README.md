@@ -1,8 +1,8 @@
-# Supported Cache Providers
+# Spring Cache Doc Snippet
 
 | Property | Value |
 |----------|-------|
-| **Name** | Supported Cache Providers |
+| **Name** | Spring Cache Doc Snippet |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-cache/references/spring-cache-doc-snippet.md) (⭐ 80) |
 | **Original Path** | `skills/spring-boot/spring-boot-cache/references/spring-cache-doc-snippet.md` |
 | **Category** | commercial |

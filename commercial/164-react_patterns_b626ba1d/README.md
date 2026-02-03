@@ -1,8 +1,8 @@
-# string;
+# React Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; |
+| **Name** | React Patterns |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-frontend/references/react_patterns.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-frontend/references/react_patterns.md` |
 | **Category** | commercial |

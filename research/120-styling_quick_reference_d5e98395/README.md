@@ -1,8 +1,8 @@
-# Professional Treatment Plan Styling - Quick Reference
+# Styling Quick Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Professional Treatment Plan Styling - Quick Reference |
+| **Name** | Styling Quick Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/treatment-plans/assets/STYLING_QUICK_REFERENCE.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/treatment-plans/assets/STYLING_QUICK_REFERENCE.md` |
 | **Category** | research |

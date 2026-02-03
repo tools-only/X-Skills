@@ -1,8 +1,8 @@
-# Content Analytics & Performance Metrics
+# Analytics Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Content Analytics & Performance Metrics |
+| **Name** | Analytics Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/content-creator/references/analytics_guide.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/content-creator/references/analytics_guide.md` |
 | **Category** | content-creation |

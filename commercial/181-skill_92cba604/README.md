@@ -1,8 +1,8 @@
-# anchoring-effect
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | anchoring-effect |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/anchoring-effect/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/anchoring-effect/SKILL.md` |
 | **Category** | commercial |

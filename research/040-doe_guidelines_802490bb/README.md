@@ -1,8 +1,8 @@
-# DOE (Department of Energy) Grant Writing Guidelines
+# Doe Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | DOE (Department of Energy) Grant Writing Guidelines |
+| **Name** | Doe Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/doe_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/doe_guidelines.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Common Workflows and Best Practices
+# Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Workflows and Best Practices |
+| **Name** | Workflows |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/references/workflows.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/references/workflows.md` |
 | **Category** | data-analysis |

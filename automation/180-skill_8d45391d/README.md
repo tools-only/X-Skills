@@ -1,8 +1,8 @@
-# 1k-i18n
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | 1k-i18n |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/1k-i18n/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/1k-i18n/SKILL.md` |
 | **Category** | automation |

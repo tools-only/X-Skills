@@ -1,8 +1,8 @@
-# agent-prompt-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-prompt-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-prompt-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-prompt-engineer/SKILL.md` |
 | **Category** | productivity |

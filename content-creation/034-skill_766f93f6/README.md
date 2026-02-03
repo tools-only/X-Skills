@@ -1,8 +1,8 @@
-# story-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | story-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/story-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/story-generator/SKILL.md` |
 | **Category** | content-creation |

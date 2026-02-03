@@ -1,8 +1,8 @@
-# Visual Review Workflow for Presentations
+# Visual Review Workflow
 
 | Property | Value |
 |----------|-------|
-| **Name** | Visual Review Workflow for Presentations |
+| **Name** | Visual Review Workflow |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/references/visual_review_workflow.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/references/visual_review_workflow.md` |
 | **Category** | data-analysis |

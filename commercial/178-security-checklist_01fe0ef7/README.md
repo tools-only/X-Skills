@@ -1,8 +1,8 @@
-# Security Checklist for Connected Apps & ECAs
+# Security Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | Security Checklist for Connected Apps & ECAs |
+| **Name** | Security Checklist |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/docs/security-checklist.md) (⭐ 47) |
 | **Original Path** | `sf-connected-apps/docs/security-checklist.md` |
 | **Category** | commercial |

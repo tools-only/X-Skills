@@ -1,8 +1,8 @@
-# Threat Modeling
+# Control Set 07 Logging
 
 | Property | Value |
 |----------|-------|
-| **Name** | Threat Modeling |
+| **Name** | Control Set 07 Logging |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-07-logging.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/control-set-07-logging.md` |
 | **Category** | automation |

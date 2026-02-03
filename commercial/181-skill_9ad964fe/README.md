@@ -1,8 +1,8 @@
-# agile-product-owner
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agile-product-owner |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/agile-product-owner/SKILL.md` |
 | **Category** | commercial |

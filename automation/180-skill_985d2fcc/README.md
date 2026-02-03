@@ -1,8 +1,8 @@
-# writing-ad-copy
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | writing-ad-copy |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ad-copy-generator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ad-copy-generator/SKILL.md` |
 | **Category** | automation |

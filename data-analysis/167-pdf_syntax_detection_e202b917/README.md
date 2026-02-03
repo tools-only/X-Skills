@@ -1,8 +1,8 @@
-# PDF Code Block Syntax Detection (Task B1.4)
+# Pdf Syntax Detection
 
 | Property | Value |
 |----------|-------|
-| **Name** | PDF Code Block Syntax Detection (Task B1.4) |
+| **Name** | Pdf Syntax Detection |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/research/PDF_SYNTAX_DETECTION.md) (🔥 8.7k) |
 | **Original Path** | `docs/archive/research/PDF_SYNTAX_DETECTION.md` |
 | **Category** | data-analysis |

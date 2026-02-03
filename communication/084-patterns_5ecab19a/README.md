@@ -1,8 +1,8 @@
-# WebSocket Patterns Reference
+# Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | WebSocket Patterns Reference |
+| **Name** | Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/websocket-engineer/references/patterns.md) (⭐ 216) |
 | **Original Path** | `skills/websocket-engineer/references/patterns.md` |
 | **Category** | data-analysis |

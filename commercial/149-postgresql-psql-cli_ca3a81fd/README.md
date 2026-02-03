@@ -1,8 +1,8 @@
-# password@hostname:5432/database
+# Postgresql Psql Cli
 
 | Property | Value |
 |----------|-------|
-| **Name** | password@hostname:5432/database |
+| **Name** | Postgresql Psql Cli |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/databases/references/postgresql-psql-cli.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/databases/references/postgresql-psql-cli.md` |
 | **Category** | commercial |

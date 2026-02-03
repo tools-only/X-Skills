@@ -1,8 +1,8 @@
-# Eightd
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Eightd |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Eightd/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Eightd/SKILL.md` |
 | **Category** | commercial |

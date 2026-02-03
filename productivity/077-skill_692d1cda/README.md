@@ -1,8 +1,8 @@
-# agent-project-manager
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-project-manager |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-project-manager/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-project-manager/SKILL.md` |
 | **Category** | productivity |

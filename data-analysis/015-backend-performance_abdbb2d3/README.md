@@ -1,8 +1,8 @@
-# Backend Performance & Scalability
+# Backend Performance
 
 | Property | Value |
 |----------|-------|
-| **Name** | Backend Performance & Scalability |
+| **Name** | Backend Performance |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/backend-development/references/backend-performance.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/backend-development/references/backend-performance.md` |
 | **Category** | content-creation |

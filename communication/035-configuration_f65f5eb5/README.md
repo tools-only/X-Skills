@@ -1,8 +1,8 @@
-# chromium
+# Configuration
 
 | Property | Value |
 |----------|-------|
-| **Name** | chromium |
+| **Name** | Configuration |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/playwright-expert/references/configuration.md) (⭐ 216) |
 | **Original Path** | `skills/playwright-expert/references/configuration.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# SimPy Events System
+# Events
 
 | Property | Value |
 |----------|-------|
-| **Name** | SimPy Events System |
+| **Name** | Events |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/simpy/references/events.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/simpy/references/events.md` |
 | **Category** | daily-assistant |

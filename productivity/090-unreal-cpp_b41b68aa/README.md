@@ -1,8 +1,8 @@
-# Unreal Engine C++ Development
+# Unreal Cpp
 
 | Property | Value |
 |----------|-------|
-| **Name** | Unreal Engine C++ Development |
+| **Name** | Unreal Cpp |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/game-developer/references/unreal-cpp.md) (⭐ 216) |
 | **Original Path** | `skills/game-developer/references/unreal-cpp.md` |
 | **Category** | productivity |

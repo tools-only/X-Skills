@@ -1,8 +1,8 @@
-# discover-outcomes
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | discover-outcomes |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-strategy/discover-outcomes/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/product-strategy/discover-outcomes/SKILL.md` |
 | **Category** | content-creation |

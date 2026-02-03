@@ -1,8 +1,8 @@
-# senior-devops
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | senior-devops |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-devops/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-devops/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# ms365-tenant-manager
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ms365-tenant-manager |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/ms365-tenant-manager/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/ms365-tenant-manager/SKILL.md` |
 | **Category** | automation |

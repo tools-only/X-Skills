@@ -1,8 +1,8 @@
-# AgentDB Memory Patterns
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | AgentDB Memory Patterns |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agentdb-memory-patterns/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agentdb-memory-patterns/SKILL.md` |
 | **Category** | commercial |

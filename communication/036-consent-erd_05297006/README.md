@@ -1,8 +1,8 @@
-# Consent Data Model Template
+# Consent Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Consent Data Model Template |
+| **Name** | Consent Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/consent-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/consent-erd.md` |
 | **Category** | communication |

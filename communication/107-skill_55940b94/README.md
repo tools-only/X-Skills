@@ -1,8 +1,8 @@
-# product-manager-toolkit
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | product-manager-toolkit |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/product-manager-toolkit/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/product-manager-toolkit/SKILL.md` |
 | **Category** | communication |

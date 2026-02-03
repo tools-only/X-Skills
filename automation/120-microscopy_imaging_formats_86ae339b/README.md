@@ -1,8 +1,8 @@
-# Microscopy and Imaging File Formats Reference
+# Microscopy Imaging Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | Microscopy and Imaging File Formats Reference |
+| **Name** | Microscopy Imaging Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/exploratory-data-analysis/references/microscopy_imaging_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/exploratory-data-analysis/references/microscopy_imaging_formats.md` |
 | **Category** | data-analysis |

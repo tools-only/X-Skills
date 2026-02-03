@@ -1,8 +1,8 @@
-# stable-baselines3
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | stable-baselines3 |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/stable-baselines3/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/stable-baselines3/SKILL.md` |
 | **Category** | productivity |

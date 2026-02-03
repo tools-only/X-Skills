@@ -1,8 +1,8 @@
-# shopify
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | shopify |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/shopify/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/shopify/SKILL.md` |
 | **Category** | commercial |

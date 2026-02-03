@@ -1,8 +1,8 @@
-# str,
+# Refactoring Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | str, |
+| **Name** | Refactoring Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/legacy-modernizer/references/refactoring-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/legacy-modernizer/references/refactoring-patterns.md` |
 | **Category** | commercial |

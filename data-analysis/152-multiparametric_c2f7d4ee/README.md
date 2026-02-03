@@ -1,8 +1,8 @@
-# Multiparametric Imaging
+# Multiparametric
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multiparametric Imaging |
+| **Name** | Multiparametric |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pathml/references/multiparametric.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pathml/references/multiparametric.md` |
 | **Category** | data-analysis |

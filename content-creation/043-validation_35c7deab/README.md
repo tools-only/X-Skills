@@ -1,8 +1,8 @@
-# 第三阶段：观点验证
+# 03 Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | 第三阶段：观点验证 |
+| **Name** | 03 Validation |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/03-validation.md) (⭐ 80) |
 | **Original Path** | `thought-mining/stages/03-validation.md` |
 | **Category** | content-creation |

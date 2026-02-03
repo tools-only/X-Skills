@@ -1,8 +1,8 @@
-# alert-management
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alert-management |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alert-management/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alert-management/SKILL.md` |
 | **Category** | communication |

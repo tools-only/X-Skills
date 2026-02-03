@@ -1,8 +1,8 @@
-# Synthesizing Mode
+# Synthesizing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Synthesizing Mode |
+| **Name** | Synthesizing |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-perceiving-information/references/synthesizing.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-perceiving-information/references/synthesizing.md` |
 | **Category** | investment |

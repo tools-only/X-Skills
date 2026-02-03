@@ -1,8 +1,8 @@
-# literature-review
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | literature-review |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/literature-review/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/literature-review/SKILL.md` |
 | **Category** | research |

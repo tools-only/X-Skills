@@ -1,8 +1,8 @@
-# Awesome Claude Code
+# View Commands
 
 | Property | Value |
 |----------|-------|
-| **Name** | Awesome Claude Code |
+| **Name** | View Commands |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Blogging-Platform-Instructions/view_commands.md) (🔥 22.5k) |
 | **Original Path** | `resources/workflows-knowledge-guides/Blogging-Platform-Instructions/view_commands.md` |
 | **Category** | content-creation |

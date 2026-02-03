@@ -1,8 +1,8 @@
-# QuTiP Core Concepts
+# Core Concepts
 
 | Property | Value |
 |----------|-------|
-| **Name** | QuTiP Core Concepts |
+| **Name** | Core Concepts |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qutip/references/core_concepts.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/qutip/references/core_concepts.md` |
 | **Category** | commercial |

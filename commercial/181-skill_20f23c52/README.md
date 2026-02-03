@@ -1,8 +1,8 @@
-# add-subtitles
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-subtitles |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-subtitles/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-subtitles/SKILL.md` |
 | **Category** | commercial |

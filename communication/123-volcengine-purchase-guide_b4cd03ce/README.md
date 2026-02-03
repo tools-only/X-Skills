@@ -1,8 +1,8 @@
-# Volcengine Model Purchase Guide
+# Volcengine Purchase Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Volcengine Model Purchase Guide |
+| **Name** | Volcengine Purchase Guide |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/volcengine-purchase-guide.md) (⭐ 440) |
 | **Original Path** | `docs/en/configuration/volcengine-purchase-guide.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# Creem.io Webhooks
+# Webhooks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Creem.io Webhooks |
+| **Name** | Webhooks |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/creem/webhooks.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/creem/webhooks.md` |
 | **Category** | commercial |

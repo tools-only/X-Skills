@@ -1,8 +1,8 @@
-# Composition Over Construction
+# Design Is Taking Apart
 
 | Property | Value |
 |----------|-------|
-| **Name** | Composition Over Construction |
+| **Name** | Design Is Taking Apart |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/design-is-taking-apart.md) (⭐ 383) |
 | **Original Path** | `skills/reducing-entropy/references/design-is-taking-apart.md` |
 | **Category** | research |

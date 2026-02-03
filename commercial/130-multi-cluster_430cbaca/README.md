@@ -1,8 +1,8 @@
-# production-cluster
+# Multi Cluster
 
 | Property | Value |
 |----------|-------|
-| **Name** | production-cluster |
+| **Name** | Multi Cluster |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/references/multi-cluster.md) (⭐ 216) |
 | **Original Path** | `skills/kubernetes-specialist/references/multi-cluster.md` |
 | **Category** | commercial |

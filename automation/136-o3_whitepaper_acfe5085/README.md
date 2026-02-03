@@ -1,8 +1,8 @@
-# **Prompt-Driven Development (PDD)**
+# O3 Whitepaper
 
 | Property | Value |
 |----------|-------|
-| **Name** | **Prompt-Driven Development (PDD)** |
+| **Name** | O3 Whitepaper |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/o3_whitepaper.md) (⭐ 407) |
 | **Original Path** | `docs/o3_whitepaper.md` |
 | **Category** | automation |

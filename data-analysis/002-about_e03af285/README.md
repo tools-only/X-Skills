@@ -1,8 +1,8 @@
-# About the Claude Skills for Intelligent Textbooks Project
+# About
 
 | Property | Value |
 |----------|-------|
-| **Name** | About the Claude Skills for Intelligent Textbooks Project |
+| **Name** | About |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/about.md) (⭐ 14) |
 | **Original Path** | `docs/about.md` |
 | **Category** | data-analysis |

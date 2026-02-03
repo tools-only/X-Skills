@@ -1,8 +1,8 @@
-# Ground File Management
+# File Management
 
 | Property | Value |
 |----------|-------|
-| **Name** | Ground File Management |
+| **Name** | File Management |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/common-ground/references/file-management.md) (⭐ 216) |
 | **Original Path** | `commands/common-ground/references/file-management.md` |
 | **Category** | content-creation |

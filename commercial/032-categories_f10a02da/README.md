@@ -1,8 +1,8 @@
-# FRED Categories Endpoints
+# Categories
 
 | Property | Value |
 |----------|-------|
-| **Name** | FRED Categories Endpoints |
+| **Name** | Categories |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fred-economic-data/references/categories.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fred-economic-data/references/categories.md` |
 | **Category** | commercial |

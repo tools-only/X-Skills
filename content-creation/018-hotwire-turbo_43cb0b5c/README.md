@@ -1,8 +1,8 @@
-# Hotwire & Turbo
+# Hotwire Turbo
 
 | Property | Value |
 |----------|-------|
-| **Name** | Hotwire & Turbo |
+| **Name** | Hotwire Turbo |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rails-expert/references/hotwire-turbo.md) (⭐ 216) |
 | **Original Path** | `skills/rails-expert/references/hotwire-turbo.md` |
 | **Category** | content-creation |

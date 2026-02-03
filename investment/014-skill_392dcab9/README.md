@@ -1,8 +1,8 @@
-# convening-experts
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | convening-experts |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/convening-experts/SKILL.md) (⭐ 78) |
 | **Original Path** | `convening-experts/SKILL.md` |
 | **Category** | investment |

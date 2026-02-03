@@ -1,8 +1,8 @@
-# Scientific Report Formatting Guide
+# Report Formatting Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scientific Report Formatting Guide |
+| **Name** | Report Formatting Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/assets/REPORT_FORMATTING_GUIDE.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/assets/REPORT_FORMATTING_GUIDE.md` |
 | **Category** | data-analysis |

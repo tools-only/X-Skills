@@ -1,8 +1,8 @@
-# Chapter Organization Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chapter Organization Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/chapter-organization-workflow/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/chapter-organization-workflow/index.md` |
 | **Category** | automation |

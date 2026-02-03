@@ -1,8 +1,8 @@
-# Wait for specific standby
+# Replication
 
 | Property | Value |
 |----------|-------|
-| **Name** | Wait for specific standby |
+| **Name** | Replication |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/references/replication.md) (⭐ 216) |
 | **Original Path** | `skills/postgres-pro/references/replication.md` |
 | **Category** | commercial |

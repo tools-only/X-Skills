@@ -1,8 +1,8 @@
-# Pymatgen I/O and File Format Reference
+# Io Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pymatgen I/O and File Format Reference |
+| **Name** | Io Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymatgen/references/io_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymatgen/references/io_formats.md` |
 | **Category** | data-analysis |

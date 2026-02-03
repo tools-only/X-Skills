@@ -1,8 +1,8 @@
-# database-schema-designer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | database-schema-designer |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/database-schema-designer/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/database-schema-designer/SKILL.md` |
 | **Category** | content-creation |

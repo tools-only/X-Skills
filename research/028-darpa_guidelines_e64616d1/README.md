@@ -1,8 +1,8 @@
-# DARPA (Defense Advanced Research Projects Agency) Grant Writing Guidelines
+# Darpa Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | DARPA (Defense Advanced Research Projects Agency) Grant Writing Guidelines |
+| **Name** | Darpa Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/darpa_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/darpa_guidelines.md` |
 | **Category** | research |

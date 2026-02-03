@@ -1,8 +1,8 @@
-# airflow-dag-patterns
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | airflow-dag-patterns |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/airflow-dag-patterns/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/airflow-dag-patterns/SKILL.md` |
 | **Category** | automation |

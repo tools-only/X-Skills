@@ -1,8 +1,8 @@
-# Math Function Plotter with Plotly.js
+# Math Function Plotter Plotly
 
 | Property | Value |
 |----------|-------|
-| **Name** | Math Function Plotter with Plotly.js |
+| **Name** | Math Function Plotter Plotly |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/skill-descriptions/microsims/math-function-plotter-plotly.md) (⭐ 14) |
 | **Original Path** | `docs/skill-descriptions/microsims/math-function-plotter-plotly.md` |
 | **Category** | data-analysis |

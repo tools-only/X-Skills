@@ -1,8 +1,8 @@
-# Inversion Exercise
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Inversion Exercise |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/problem-solving/inversion-exercise/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/problem-solving/inversion-exercise/SKILL.md` |
 | **Category** | research |

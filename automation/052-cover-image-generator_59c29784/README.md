@@ -1,8 +1,8 @@
-# cover-image-generator
+# Cover Image Generator
 
 | Property | Value |
 |----------|-------|
-| **Name** | cover-image-generator |
+| **Name** | Cover Image Generator |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/cover-image-generator.md) (⭐ 14) |
 | **Original Path** | `skills/book-installer/references/cover-image-generator.md` |
 | **Category** | automation |

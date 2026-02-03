@@ -1,8 +1,8 @@
-# venn-diagram-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | venn-diagram-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/venn-diagram-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/venn-diagram-generator/SKILL.md` |
 | **Category** | data-analysis |

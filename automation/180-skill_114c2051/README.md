@@ -1,8 +1,8 @@
-# ac-handoff-creator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ac-handoff-creator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ac-handoff-creator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ac-handoff-creator/SKILL.md` |
 | **Category** | automation |

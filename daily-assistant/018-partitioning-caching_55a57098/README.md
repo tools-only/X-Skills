@@ -1,8 +1,8 @@
-# Partitioning and Caching
+# Partitioning Caching
 
 | Property | Value |
 |----------|-------|
-| **Name** | Partitioning and Caching |
+| **Name** | Partitioning Caching |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spark-engineer/references/partitioning-caching.md) (⭐ 216) |
 | **Original Path** | `skills/spark-engineer/references/partitioning-caching.md` |
 | **Category** | data-analysis |

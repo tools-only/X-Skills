@@ -1,8 +1,8 @@
-# Data Handling and Preprocessing
+# Data Handling
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Handling and Preprocessing |
+| **Name** | Data Handling |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scikit-survival/references/data-handling.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scikit-survival/references/data-handling.md` |
 | **Category** | data-analysis |

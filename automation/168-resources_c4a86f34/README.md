@@ -1,8 +1,8 @@
-# Resources
+# 02 Resources
 
 | Property | Value |
 |----------|-------|
-| **Name** | Resources |
+| **Name** | 02 Resources |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) (⭐ 440) |
 | **Original Path** | `docs/en/api/02-resources.md` |
 | **Category** | content-creation |

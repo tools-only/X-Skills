@@ -1,8 +1,8 @@
-# chapter-content-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | chapter-content-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/chapter-content-generator/SKILL.md` |
 | **Category** | data-analysis |

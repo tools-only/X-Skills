@@ -1,8 +1,8 @@
-# deepTools Complete Tool Reference
+# Tools Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | deepTools Complete Tool Reference |
+| **Name** | Tools Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deeptools/references/tools_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/deeptools/references/tools_reference.md` |
 | **Category** | data-analysis |

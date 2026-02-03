@@ -1,8 +1,8 @@
-# quality-manager-qmr
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | quality-manager-qmr |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qmr/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/quality-manager-qmr/SKILL.md` |
 | **Category** | daily-assistant |

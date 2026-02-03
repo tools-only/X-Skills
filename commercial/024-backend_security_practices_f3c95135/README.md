@@ -1,8 +1,8 @@
-# z.string().min(1).max(100).trim(),
+# Backend Security Practices
 
 | Property | Value |
 |----------|-------|
-| **Name** | z.string().min(1).max(100).trim(), |
+| **Name** | Backend Security Practices |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-backend/references/backend_security_practices.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-backend/references/backend_security_practices.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Flow Orchestration Guide
+# Orchestration Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Flow Orchestration Guide |
+| **Name** | Orchestration Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/docs/orchestration-guide.md) (⭐ 47) |
 | **Original Path** | `sf-flow/docs/orchestration-guide.md` |
 | **Category** | communication |

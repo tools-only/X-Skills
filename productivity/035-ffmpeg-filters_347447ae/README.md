@@ -1,8 +1,8 @@
-# FFmpeg Filters & Effects
+# Ffmpeg Filters
 
 | Property | Value |
 |----------|-------|
-| **Name** | FFmpeg Filters & Effects |
+| **Name** | Ffmpeg Filters |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/media-processing/references/ffmpeg-filters.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/media-processing/references/ffmpeg-filters.md` |
 | **Category** | productivity |

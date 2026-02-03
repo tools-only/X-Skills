@@ -1,8 +1,8 @@
-# Epic
+# Github Issue Tree
 
 | Property | Value |
 |----------|-------|
-| **Name** | Epic |
+| **Name** | Github Issue Tree |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/research/GITHUB_ISSUE_TREE.md) (⭐ 216) |
 | **Original Path** | `research/GITHUB_ISSUE_TREE.md` |
 | **Category** | commercial |

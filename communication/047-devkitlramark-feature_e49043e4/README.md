@@ -1,8 +1,8 @@
-# Long-Running Agent - Mark Feature Status
+# Devkit.Lra.Mark Feature
 
 | Property | Value |
 |----------|-------|
-| **Name** | Long-Running Agent - Mark Feature Status |
+| **Name** | Devkit.Lra.Mark Feature |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.lra.mark-feature.md) (⭐ 80) |
 | **Original Path** | `commands/devkit.lra.mark-feature.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# Artifacts
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Artifacts |
+| **Name** | Index |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/artifacts/index.md) (⭐ 14) |
 | **Original Path** | `artifacts/index.md` |
 | **Category** | commercial |

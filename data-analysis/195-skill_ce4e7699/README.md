@@ -1,8 +1,8 @@
-# imaging-data-commons
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | imaging-data-commons |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/imaging-data-commons/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/imaging-data-commons/SKILL.md` |
 | **Category** | data-analysis |

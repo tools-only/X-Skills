@@ -1,8 +1,8 @@
-# Easy Diagram Generation Report
+# Generation Report
 
 | Property | Value |
 |----------|-------|
-| **Name** | Easy Diagram Generation Report |
+| **Name** | Generation Report |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/easy-diagrams/generation-report.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/easy-diagrams/generation-report.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Learning Graph for Using Claude Skills to Create Intelligent Textbooks
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph for Using Claude Skills to Create Intelligent Textbooks |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/index.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/index.md` |
 | **Category** | data-analysis |

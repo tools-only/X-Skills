@@ -1,8 +1,8 @@
-# youtube-to-blog-post
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | youtube-to-blog-post |
+| **Name** | Skill |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) (⭐ 108) |
 | **Original Path** | `youtube-to-blog-post/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# OpenAI Compatible API
+# Openai Compatible
 
 | Property | Value |
 |----------|-------|
-| **Name** | OpenAI Compatible API |
+| **Name** | Openai Compatible |
 | **Repository** | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/openai_compatible.md) (🔥 6.5k) |
 | **Original Path** | `docs/openai_compatible.md` |
 | **Category** | communication |

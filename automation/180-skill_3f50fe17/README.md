@@ -1,8 +1,8 @@
-# project-map-builder
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | project-map-builder |
+| **Name** | Skill |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/project-map-builder/SKILL.md) (⭐ 80) |
 | **Original Path** | `project-map-builder/SKILL.md` |
 | **Category** | automation |

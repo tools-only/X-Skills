@@ -1,8 +1,8 @@
-# ClinVar API and Data Access Reference
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | ClinVar API and Data Access Reference |
+| **Name** | Api Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinvar-database/references/api_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinvar-database/references/api_reference.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Matchms Similarity Functions Reference
+# Similarity
 
 | Property | Value |
 |----------|-------|
-| **Name** | Matchms Similarity Functions Reference |
+| **Name** | Similarity |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matchms/references/similarity.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matchms/references/similarity.md` |
 | **Category** | research |

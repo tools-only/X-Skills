@@ -1,8 +1,8 @@
-# microsim-screen-capture
+# Screen Capture
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsim-screen-capture |
+| **Name** | Screen Capture |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-utils/references/screen-capture.md) (⭐ 14) |
 | **Original Path** | `skills/microsim-utils/references/screen-capture.md` |
 | **Category** | data-analysis |

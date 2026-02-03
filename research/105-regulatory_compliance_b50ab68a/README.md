@@ -1,8 +1,8 @@
-# Regulatory Compliance for Clinical Reports
+# Regulatory Compliance
 
 | Property | Value |
 |----------|-------|
-| **Name** | Regulatory Compliance for Clinical Reports |
+| **Name** | Regulatory Compliance |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/references/regulatory_compliance.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-reports/references/regulatory_compliance.md` |
 | **Category** | research |

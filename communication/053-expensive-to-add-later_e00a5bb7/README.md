@@ -1,8 +1,8 @@
-# PAGNI: Probably Are Gonna Need It
+# Expensive To Add Later
 
 | Property | Value |
 |----------|-------|
-| **Name** | PAGNI: Probably Are Gonna Need It |
+| **Name** | Expensive To Add Later |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/reducing-entropy/references/expensive-to-add-later.md) (⭐ 383) |
 | **Original Path** | `skills/reducing-entropy/references/expensive-to-add-later.md` |
 | **Category** | communication |

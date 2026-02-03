@@ -1,8 +1,8 @@
-# Agent Toolkit
+# 01 Introductory
 
 | Property | Value |
 |----------|-------|
-| **Name** | Agent Toolkit |
+| **Name** | 01 Introductory |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/01-introductory.md) (⭐ 383) |
 | **Original Path** | `skills/writing-clearly-and-concisely/elements-of-style/01-introductory.md` |
 | **Category** | productivity |

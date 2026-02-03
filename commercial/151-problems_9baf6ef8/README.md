@@ -1,8 +1,8 @@
-# Pymoo Test Problems Reference
+# Problems
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pymoo Test Problems Reference |
+| **Name** | Problems |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymoo/references/problems.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymoo/references/problems.md` |
 | **Category** | commercial |

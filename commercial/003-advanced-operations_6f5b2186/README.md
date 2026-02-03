@@ -1,8 +1,8 @@
-# Advanced Operations Reference
+# Advanced Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced Operations Reference |
+| **Name** | Advanced Operations |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-dynamodb/references/advanced-operations.md) (⭐ 80) |
 | **Original Path** | `skills/aws-java/aws-sdk-java-v2-dynamodb/references/advanced-operations.md` |
 | **Category** | commercial |

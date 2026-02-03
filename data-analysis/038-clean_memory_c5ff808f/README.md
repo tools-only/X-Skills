@@ -1,8 +1,8 @@
-# Agent's Memory Cleanup
+# Clean Memory
 
 | Property | Value |
 |----------|-------|
-| **Name** | Agent's Memory Cleanup |
+| **Name** | Clean Memory |
 | **Repository** | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/how_to/clean_memory.md) (🔥 6.5k) |
 | **Original Path** | `docs/how_to/clean_memory.md` |
 | **Category** | data-analysis |

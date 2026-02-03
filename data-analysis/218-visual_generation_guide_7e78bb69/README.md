@@ -1,8 +1,8 @@
-# Visual Generation Guide for Market Research Reports
+# Visual Generation Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Visual Generation Guide for Market Research Reports |
+| **Name** | Visual Generation Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/market-research-reports/references/visual_generation_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/market-research-reports/references/visual_generation_guide.md` |
 | **Category** | data-analysis |

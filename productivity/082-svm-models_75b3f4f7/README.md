@@ -1,8 +1,8 @@
-# Survival Support Vector Machines
+# Svm Models
 
 | Property | Value |
 |----------|-------|
-| **Name** | Survival Support Vector Machines |
+| **Name** | Svm Models |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scikit-survival/references/svm-models.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scikit-survival/references/svm-models.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# Internet/DMZ
+# Knowledge Architecture V5.2
 
 | Property | Value |
 |----------|-------|
-| **Name** | Internet/DMZ |
+| **Name** | Knowledge Architecture V5.2 |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2.md) (⭐ 130) |
 | **Original Path** | `docs/KNOWLEDGE-ARCHITECTURE-v5.2.md` |
 | **Category** | automation |

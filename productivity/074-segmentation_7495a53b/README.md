@@ -1,8 +1,8 @@
-# Time Series Segmentation
+# Segmentation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Time Series Segmentation |
+| **Name** | Segmentation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/aeon/references/segmentation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/aeon/references/segmentation.md` |
 | **Category** | productivity |

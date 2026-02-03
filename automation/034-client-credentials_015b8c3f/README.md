@@ -1,8 +1,8 @@
-# Client Credentials Flow Template
+# Client Credentials
 
 | Property | Value |
 |----------|-------|
-| **Name** | Client Credentials Flow Template |
+| **Name** | Client Credentials |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/oauth/client-credentials.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/oauth/client-credentials.md` |
 | **Category** | automation |

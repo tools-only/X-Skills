@@ -1,8 +1,8 @@
-# /blog/[slug]
+# Nextjs App Router
 
 | Property | Value |
 |----------|-------|
-| **Name** | /blog/[slug] |
+| **Name** | Nextjs App Router |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/web-frameworks/references/nextjs-app-router.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/web-frameworks/references/nextjs-app-router.md` |
 | **Category** | commercial |

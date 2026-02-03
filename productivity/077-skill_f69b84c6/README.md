@@ -1,8 +1,8 @@
-# agent-network-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-network-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-network-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-network-engineer/SKILL.md` |
 | **Category** | productivity |

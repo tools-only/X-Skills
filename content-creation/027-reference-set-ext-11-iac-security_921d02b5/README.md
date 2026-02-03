@@ -1,8 +1,8 @@
-# Infrastructure as Code Security Cheatsheet
+# Reference Set Ext 11 Iac Security
 
 | Property | Value |
 |----------|-------|
-| **Name** | Infrastructure as Code Security Cheatsheet |
+| **Name** | Reference Set Ext 11 Iac Security |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-iac-security.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/references/reference-set-ext-11-iac-security.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# reference-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | reference-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/reference-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/reference-generator/SKILL.md` |
 | **Category** | content-creation |

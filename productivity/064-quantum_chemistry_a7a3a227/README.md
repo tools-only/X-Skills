@@ -1,8 +1,8 @@
-# Quantum Chemistry with PennyLane
+# Quantum Chemistry
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quantum Chemistry with PennyLane |
+| **Name** | Quantum Chemistry |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pennylane/references/quantum_chemistry.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pennylane/references/quantum_chemistry.md` |
 | **Category** | productivity |

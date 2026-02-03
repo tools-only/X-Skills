@@ -1,8 +1,8 @@
-# crafting-effective-readmes
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | crafting-effective-readmes |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/crafting-effective-readmes/SKILL.md` |
 | **Category** | content-creation |

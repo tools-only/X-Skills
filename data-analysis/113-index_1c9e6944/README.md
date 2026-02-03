@@ -1,8 +1,8 @@
-# Content Creation Workflows
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Content Creation Workflows |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/10-content-creation-workflows/index.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/10-content-creation-workflows/index.md` |
 | **Category** | data-analysis |

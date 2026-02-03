@@ -1,8 +1,8 @@
-# agent-fintech-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-fintech-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-fintech-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-fintech-engineer/SKILL.md` |
 | **Category** | productivity |

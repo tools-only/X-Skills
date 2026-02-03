@@ -1,8 +1,8 @@
-# Service Cloud Data Model Template
+# Service Cloud Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Service Cloud Data Model Template |
+| **Name** | Service Cloud Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/service-cloud-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/service-cloud-erd.md` |
 | **Category** | commercial |

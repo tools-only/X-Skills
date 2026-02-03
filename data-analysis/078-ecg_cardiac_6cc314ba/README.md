@@ -1,8 +1,8 @@
-# ECG and Cardiac Signal Processing
+# Ecg Cardiac
 
 | Property | Value |
 |----------|-------|
-| **Name** | ECG and Cardiac Signal Processing |
+| **Name** | Ecg Cardiac |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neurokit2/references/ecg_cardiac.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neurokit2/references/ecg_cardiac.md` |
 | **Category** | data-analysis |

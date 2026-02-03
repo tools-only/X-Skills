@@ -1,8 +1,8 @@
-# Social Media Platform Benchmarks
+# Platform Benchmarks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Social Media Platform Benchmarks |
+| **Name** | Platform Benchmarks |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/social-media-analyzer/references/platform-benchmarks.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/social-media-analyzer/references/platform-benchmarks.md` |
 | **Category** | content-creation |

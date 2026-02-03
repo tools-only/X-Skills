@@ -1,8 +1,8 @@
-# PatentSearch API Reference
+# Patentsearch Api
 
 | Property | Value |
 |----------|-------|
-| **Name** | PatentSearch API Reference |
+| **Name** | Patentsearch Api |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/uspto-database/references/patentsearch_api.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/uspto-database/references/patentsearch_api.md` |
 | **Category** | research |

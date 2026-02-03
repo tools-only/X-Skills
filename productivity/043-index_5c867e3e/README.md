@@ -1,8 +1,8 @@
-# Learning Graph Viewer
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph Viewer |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/assets/index.md) (⭐ 14) |
 | **Original Path** | `skills/book-installer/references/assets/index.md` |
 | **Category** | productivity |

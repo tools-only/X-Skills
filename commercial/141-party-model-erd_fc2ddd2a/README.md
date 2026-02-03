@@ -1,8 +1,8 @@
-# Party Model (Industry Cloud) Data Model Template
+# Party Model Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Party Model (Industry Cloud) Data Model Template |
+| **Name** | Party Model Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/party-model-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/party-model-erd.md` |
 | **Category** | commercial |

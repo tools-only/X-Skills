@@ -1,8 +1,8 @@
-# File Manager API
+# File Manager
 
 | Property | Value |
 |----------|-------|
-| **Name** | File Manager API |
+| **Name** | File Manager |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/protocolsio-integration/references/file_manager.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/protocolsio-integration/references/file_manager.md` |
 | **Category** | content-creation |

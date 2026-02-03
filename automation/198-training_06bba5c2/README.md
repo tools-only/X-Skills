@@ -1,8 +1,8 @@
-# PufferLib Training Guide
+# Training
 
 | Property | Value |
 |----------|-------|
-| **Name** | PufferLib Training Guide |
+| **Name** | Training |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pufferlib/references/training.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pufferlib/references/training.md` |
 | **Category** | automation |

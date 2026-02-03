@@ -1,8 +1,8 @@
-# /details/[id]
+# Expo Router
 
 | Property | Value |
 |----------|-------|
-| **Name** | /details/[id] |
+| **Name** | Expo Router |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-native-expert/references/expo-router.md) (⭐ 216) |
 | **Original Path** | `skills/react-native-expert/references/expo-router.md` |
 | **Category** | automation |

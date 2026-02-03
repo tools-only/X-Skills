@@ -1,8 +1,8 @@
-# skill-name
+# Validation Errors
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-name |
+| **Name** | Validation Errors |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/docs/validation-errors.md) (⭐ 47) |
 | **Original Path** | `skill-builder/docs/validation-errors.md` |
 | **Category** | content-creation |

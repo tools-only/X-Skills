@@ -1,8 +1,8 @@
-# Datamol Reactions and Data Modules Reference
+# Reactions Data
 
 | Property | Value |
 |----------|-------|
-| **Name** | Datamol Reactions and Data Modules Reference |
+| **Name** | Reactions Data |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/datamol/references/reactions_data.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/datamol/references/reactions_data.md` |
 | **Category** | automation |

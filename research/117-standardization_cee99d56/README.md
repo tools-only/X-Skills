@@ -1,8 +1,8 @@
-# microsim-standardization
+# Standardization
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsim-standardization |
+| **Name** | Standardization |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-utils/references/standardization.md) (⭐ 14) |
 | **Original Path** | `skills/microsim-utils/references/standardization.md` |
 | **Category** | research |

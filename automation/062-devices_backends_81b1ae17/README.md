@@ -1,8 +1,8 @@
-# , dev.name)
+# Devices Backends
 
 | Property | Value |
 |----------|-------|
-| **Name** | , dev.name) |
+| **Name** | Devices Backends |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pennylane/references/devices_backends.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pennylane/references/devices_backends.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Review dbt Run Results
+# Review Run Results
 
 | Property | Value |
 |----------|-------|
-| **Name** | Review dbt Run Results |
+| **Name** | Review Run Results |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/using-dbt-for-analytics-engineering/scripts/review_run_results.md) (⭐ 10) |
 | **Original Path** | `skills/using-dbt-for-analytics-engineering/scripts/review_run_results.md` |
 | **Category** | data-analysis |

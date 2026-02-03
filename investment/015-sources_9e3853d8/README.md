@@ -1,8 +1,8 @@
-# FRED Sources Endpoints
+# Sources
 
 | Property | Value |
 |----------|-------|
-| **Name** | FRED Sources Endpoints |
+| **Name** | Sources |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fred-economic-data/references/sources.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fred-economic-data/references/sources.md` |
 | **Category** | investment |

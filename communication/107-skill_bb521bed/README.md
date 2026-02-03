@@ -1,8 +1,8 @@
-# ai-sdk-5
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-sdk-5 |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-sdk-5/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-sdk-5/SKILL.md` |
 | **Category** | content-creation |

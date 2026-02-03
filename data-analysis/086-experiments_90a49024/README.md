@@ -1,8 +1,8 @@
-# Running Quantum Experiments
+# Experiments
 
 | Property | Value |
 |----------|-------|
-| **Name** | Running Quantum Experiments |
+| **Name** | Experiments |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/cirq/references/experiments.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/cirq/references/experiments.md` |
 | **Category** | data-analysis |

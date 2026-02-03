@@ -1,8 +1,8 @@
-# senior-computer-vision
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | senior-computer-vision |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-computer-vision/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-computer-vision/SKILL.md` |
 | **Category** | data-analysis |

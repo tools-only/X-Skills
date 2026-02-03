@@ -1,8 +1,8 @@
-# reviewing-ai-papers
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | reviewing-ai-papers |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/reviewing-ai-papers/SKILL.md) (⭐ 78) |
 | **Original Path** | `reviewing-ai-papers/SKILL.md` |
 | **Category** | content-creation |

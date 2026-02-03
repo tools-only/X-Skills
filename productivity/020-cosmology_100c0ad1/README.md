@@ -1,8 +1,8 @@
-# Cosmological Calculations (astropy.cosmology)
+# Cosmology
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cosmological Calculations (astropy.cosmology) |
+| **Name** | Cosmology |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/astropy/references/cosmology.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/astropy/references/cosmology.md` |
 | **Category** | productivity |

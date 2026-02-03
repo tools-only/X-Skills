@@ -1,8 +1,8 @@
-# sources defined in YAML without tables defined
+# Sources Without Tables
 
 | Property | Value |
 |----------|-------|
-| **Name** | sources defined in YAML without tables defined |
+| **Name** | Sources Without Tables |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/manual_fixes/sources_without_tables.md) (⭐ 10) |
 | **Original Path** | `skills/migrating-dbt-core-to-fusion/manual_fixes/sources_without_tables.md` |
 | **Category** | other |

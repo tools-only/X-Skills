@@ -1,8 +1,8 @@
-# Mathematics Reference
+# Mathematics
 
 | Property | Value |
 |----------|-------|
-| **Name** | Mathematics Reference |
+| **Name** | Mathematics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matlab/references/mathematics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matlab/references/mathematics.md` |
 | **Category** | data-analysis |

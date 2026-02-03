@@ -1,8 +1,8 @@
-# Extract Example
+# Extract
 
 | Property | Value |
 |----------|-------|
-| **Name** | Extract Example |
+| **Name** | Extract |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/llm/models/extract.md) (⭐ 93) |
 | **Original Path** | `examples/llm/models/extract.md` |
 | **Category** | automation |

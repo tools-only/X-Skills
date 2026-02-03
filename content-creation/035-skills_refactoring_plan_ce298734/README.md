@@ -1,8 +1,8 @@
-# skill-name
+# Skills Refactoring Plan
 
 | Property | Value |
 |----------|-------|
-| **Name** | skill-name |
+| **Name** | Skills Refactoring Plan |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/implementation/SKILLS_REFACTORING_PLAN.md) (⭐ 1.5k) |
 | **Original Path** | `documentation/implementation/SKILLS_REFACTORING_PLAN.md` |
 | **Category** | content-creation |

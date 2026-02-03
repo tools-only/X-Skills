@@ -1,8 +1,8 @@
-# adhd-daily-planner
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | adhd-daily-planner |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/adhd-daily-planner/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/adhd-daily-planner/SKILL.md` |
 | **Category** | daily-assistant |

@@ -1,8 +1,8 @@
-# algorithmic-art
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | algorithmic-art |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/algorithmic-art-skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/algorithmic-art-skill/SKILL.md` |
 | **Category** | data-analysis |

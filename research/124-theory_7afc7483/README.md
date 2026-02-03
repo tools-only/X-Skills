@@ -1,8 +1,8 @@
-# SHAP Theoretical Foundation
+# Theory
 
 | Property | Value |
 |----------|-------|
-| **Name** | SHAP Theoretical Foundation |
+| **Name** | Theory |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/shap/references/theory.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/shap/references/theory.md` |
 | **Category** | research |

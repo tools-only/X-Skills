@@ -1,8 +1,8 @@
-# Available Featurizers in Molfeat
+# Available Featurizers
 
 | Property | Value |
 |----------|-------|
-| **Name** | Available Featurizers in Molfeat |
+| **Name** | Available Featurizers |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/molfeat/references/available_featurizers.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/molfeat/references/available_featurizers.md` |
 | **Category** | productivity |

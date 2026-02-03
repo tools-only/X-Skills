@@ -1,8 +1,8 @@
-# Company Goals
+# Goals
 
 | Property | Value |
 |----------|-------|
-| **Name** | Company Goals |
+| **Name** | Goals |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/models/goals.md) (⭐ 93) |
 | **Original Path** | `examples/everything/models/goals.md` |
 | **Category** | automation |

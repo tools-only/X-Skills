@@ -1,8 +1,8 @@
-# agent-ai-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-ai-engineer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-ai-engineer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-ai-engineer/SKILL.md` |
 | **Category** | productivity |

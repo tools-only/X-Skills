@@ -1,8 +1,8 @@
-# cto-advisor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | cto-advisor |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/c-level-advisor/cto-advisor/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `c-level-advisor/cto-advisor/SKILL.md` |
 | **Category** | investment |

@@ -1,8 +1,8 @@
-# fct_orders
+# Data Modeling Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | fct_orders |
+| **Name** | Data Modeling Patterns |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-data-engineer/references/data_modeling_patterns.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-data-engineer/references/data_modeling_patterns.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# zinc-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | zinc-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/zinc-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/zinc-database/SKILL.md` |
 | **Category** | research |

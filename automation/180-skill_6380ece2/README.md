@@ -1,8 +1,8 @@
-# audiocut-keyword
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | audiocut-keyword |
+| **Name** | Skill |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/audiocut-keyword/SKILL.md) (⭐ 108) |
 | **Original Path** | `audiocut-keyword/SKILL.md` |
 | **Category** | automation |

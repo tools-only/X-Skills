@@ -1,8 +1,8 @@
-# Skill Development Priority Matrix Visualization
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Development Priority Matrix Visualization |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/skill-impact-chart/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/skill-impact-chart/index.md` |
 | **Category** | data-analysis |

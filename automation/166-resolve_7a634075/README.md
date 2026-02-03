@@ -1,8 +1,8 @@
-# Resolve Endpoint - Entity Identification
+# Resolve
 
 | Property | Value |
 |----------|-------|
-| **Name** | Resolve Endpoint - Entity Identification |
+| **Name** | Resolve |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/datacommons-client/references/resolve.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/datacommons-client/references/resolve.md` |
 | **Category** | automation |

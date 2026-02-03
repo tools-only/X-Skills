@@ -1,8 +1,8 @@
-# treatment-plans
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | treatment-plans |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/treatment-plans/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/treatment-plans/SKILL.md` |
 | **Category** | research |

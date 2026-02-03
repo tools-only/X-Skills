@@ -1,8 +1,8 @@
-# Workflow Name                    # Human-readable name
+# Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Workflow Name                    # Human-readable name |
+| **Name** | Reference |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/reference.md) (⭐ 80) |
 | **Original Path** | `skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/reference.md` |
 | **Category** | commercial |

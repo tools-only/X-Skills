@@ -1,8 +1,8 @@
-# Stable Baselines3 Callback System
+# Callbacks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Stable Baselines3 Callback System |
+| **Name** | Callbacks |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/stable-baselines3/references/callbacks.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/stable-baselines3/references/callbacks.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# Agent Toolkit
+# 04 A Few Matters Of Form
 
 | Property | Value |
 |----------|-------|
-| **Name** | Agent Toolkit |
+| **Name** | 04 A Few Matters Of Form |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/04-a-few-matters-of-form.md) (⭐ 383) |
 | **Original Path** | `skills/writing-clearly-and-concisely/elements-of-style/04-a-few-matters-of-form.md` |
 | **Category** | content-creation |

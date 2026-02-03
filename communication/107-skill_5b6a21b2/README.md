@@ -1,8 +1,8 @@
-# lead-research-assistant
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | lead-research-assistant |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a/SKILL.md` |
 | **Category** | communication |

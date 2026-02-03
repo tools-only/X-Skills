@@ -1,8 +1,8 @@
-# Core Concepts and Technical Details
+# Core Concepts
 
 | Property | Value |
 |----------|-------|
-| **Name** | Core Concepts and Technical Details |
+| **Name** | Core Concepts |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/torchdrug/references/core_concepts.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/torchdrug/references/core_concepts.md` |
 | **Category** | automation |

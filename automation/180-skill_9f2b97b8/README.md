@@ -1,8 +1,8 @@
-# make-release
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | make-release |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/development/workflow/make-release/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/development/workflow/make-release/SKILL.md` |
 | **Category** | automation |

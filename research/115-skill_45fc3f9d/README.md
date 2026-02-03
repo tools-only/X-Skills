@@ -1,8 +1,8 @@
-# anthropologist-analyst
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | anthropologist-analyst |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/anthropologist-analyst/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/anthropologist-analyst/SKILL.md` |
 | **Category** | research |

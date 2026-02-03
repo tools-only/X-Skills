@@ -1,8 +1,8 @@
-# Book Build Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Book Build Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/book-build-workflow/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/book-build-workflow/index.md` |
 | **Category** | data-analysis |

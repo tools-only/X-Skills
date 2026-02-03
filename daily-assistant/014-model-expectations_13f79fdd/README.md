@@ -1,8 +1,8 @@
-# Model-Specific Expectations
+# Model Expectations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Model-Specific Expectations |
+| **Name** | Model Expectations |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/session-handoff/evals/model-expectations.md) (⭐ 383) |
 | **Original Path** | `skills/session-handoff/evals/model-expectations.md` |
 | **Category** | daily-assistant |

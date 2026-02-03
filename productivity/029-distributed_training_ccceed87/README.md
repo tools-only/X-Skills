@@ -1,8 +1,8 @@
-# Distributed Training - Comprehensive Guide
+# Distributed Training
 
 | Property | Value |
 |----------|-------|
-| **Name** | Distributed Training - Comprehensive Guide |
+| **Name** | Distributed Training |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytorch-lightning/references/distributed_training.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytorch-lightning/references/distributed_training.md` |
 | **Category** | productivity |

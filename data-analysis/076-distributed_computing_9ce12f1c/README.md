@@ -1,8 +1,8 @@
-# Distributed Computing with Arboreto
+# Distributed Computing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Distributed Computing with Arboreto |
+| **Name** | Distributed Computing |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/arboreto/references/distributed_computing.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/arboreto/references/distributed_computing.md` |
 | **Category** | data-analysis |

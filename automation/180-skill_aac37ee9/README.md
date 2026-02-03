@@ -1,8 +1,8 @@
-# active-learning-system
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | active-learning-system |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/active-learning-system/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/active-learning-system/SKILL.md` |
 | **Category** | automation |

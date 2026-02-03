@@ -1,8 +1,8 @@
-# activation-map
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | activation-map |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/activation-map/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/activation-map/SKILL.md` |
 | **Category** | commercial |

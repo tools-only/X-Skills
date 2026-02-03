@@ -1,8 +1,8 @@
-# rsn-reasoning-problems
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rsn-reasoning-problems |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-reasoning-problems/SKILL.md` |
 | **Category** | investment |

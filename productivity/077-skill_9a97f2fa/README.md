@@ -1,8 +1,8 @@
-# agent-data-analyst
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-data-analyst |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-data-analyst/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-data-analyst/SKILL.md` |
 | **Category** | content-creation |

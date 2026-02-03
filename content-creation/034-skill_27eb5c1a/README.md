@@ -1,8 +1,8 @@
-# content-research-writer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | content-research-writer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# UniProt API Fields Reference
+# Api Fields
 
 | Property | Value |
 |----------|-------|
-| **Name** | UniProt API Fields Reference |
+| **Name** | Api Fields |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/uniprot-database/references/api_fields.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/uniprot-database/references/api_fields.md` |
 | **Category** | research |

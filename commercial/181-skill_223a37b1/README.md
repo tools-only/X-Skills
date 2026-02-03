@@ -1,8 +1,8 @@
-# Skillsmatrix
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skillsmatrix |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/SkillsMatrix/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/SkillsMatrix/SKILL.md` |
 | **Category** | commercial |

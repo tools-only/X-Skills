@@ -1,8 +1,8 @@
-# agent-skill-bridge
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-skill-bridge |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-skill-bridge/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-skill-bridge/SKILL.md` |
 | **Category** | automation |

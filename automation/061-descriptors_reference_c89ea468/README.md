@@ -1,8 +1,8 @@
-# RDKit Molecular Descriptors Reference
+# Descriptors Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | RDKit Molecular Descriptors Reference |
+| **Name** | Descriptors Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/rdkit/references/descriptors_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/rdkit/references/descriptors_reference.md` |
 | **Category** | automation |

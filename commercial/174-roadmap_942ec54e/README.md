@@ -1,8 +1,8 @@
-# Claude Skills Roadmap
+# Roadmap
 
 | Property | Value |
 |----------|-------|
-| **Name** | Claude Skills Roadmap |
+| **Name** | Roadmap |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) (⭐ 216) |
 | **Original Path** | `ROADMAP.md` |
 | **Category** | commercial |

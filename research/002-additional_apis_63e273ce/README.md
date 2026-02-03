@@ -1,8 +1,8 @@
-# Additional USPTO APIs Reference
+# Additional Apis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Additional USPTO APIs Reference |
+| **Name** | Additional Apis |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/uspto-database/references/additional_apis.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/uspto-database/references/additional_apis.md` |
 | **Category** | research |

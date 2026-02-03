@@ -1,8 +1,8 @@
-# abaqus
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | abaqus |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/abaqus/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/abaqus/SKILL.md` |
 | **Category** | automation |

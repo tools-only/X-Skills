@@ -1,8 +1,8 @@
-# 1. Check differences between current branch and main branch HEAD using `git diff main...HEAD`
+# Update Branch Name
 
 | Property | Value |
 |----------|-------|
-| **Name** | 1. Check differences between current branch and main branch HEAD using `git diff main...HEAD` |
+| **Name** | Update Branch Name |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/update-branch-name/update-branch-name.md) (🔥 22.5k) |
 | **Original Path** | `resources/slash-commands/update-branch-name/update-branch-name.md` |
 | **Category** | automation |

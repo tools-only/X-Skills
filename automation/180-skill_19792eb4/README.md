@@ -1,8 +1,8 @@
-# hello-world-skill
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | hello-world-skill |
+| **Name** | Skill |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/examples/simple-skill/SKILL.md) (⭐ 47) |
 | **Original Path** | `skill-builder/examples/simple-skill/SKILL.md` |
 | **Category** | automation |

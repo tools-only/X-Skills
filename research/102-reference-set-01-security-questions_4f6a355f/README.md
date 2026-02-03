@@ -1,8 +1,8 @@
-# Choosing and Using Security Questions Cheat Sheet
+# Reference Set 01 Security Questions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Choosing and Using Security Questions Cheat Sheet |
+| **Name** | Reference Set 01 Security Questions |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-security-questions.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/references/reference-set-01-security-questions.md` |
 | **Category** | content-creation |

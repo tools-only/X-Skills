@@ -1,8 +1,8 @@
-# $this->validated(
+# Laravel Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | $this->validated( |
+| **Name** | Laravel Patterns |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/php-pro/references/laravel-patterns.md) (⭐ 216) |
 | **Original Path** | `skills/php-pro/references/laravel-patterns.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# C-Level Leadership Skills Suite
+# C Level Leadership Skills Overview
 
 | Property | Value |
 |----------|-------|
-| **Name** | C-Level Leadership Skills Suite |
+| **Name** | C Level Leadership Skills Overview |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/c-level-advisor/c_level_leadership_skills_overview.md) (⭐ 1.5k) |
 | **Original Path** | `c-level-advisor/c_level_leadership_skills_overview.md` |
 | **Category** | productivity |

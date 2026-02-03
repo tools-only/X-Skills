@@ -1,8 +1,8 @@
-# analyze
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analyze |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analyze/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analyze/SKILL.md` |
 | **Category** | automation |

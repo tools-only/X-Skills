@@ -1,8 +1,8 @@
-# peer-review
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | peer-review |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/peer-review/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/peer-review/SKILL.md` |
 | **Category** | research |

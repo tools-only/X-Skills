@@ -1,8 +1,8 @@
-# Detailed SQS Operations Reference
+# Detailed Sqs Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Detailed SQS Operations Reference |
+| **Name** | Detailed Sqs Operations |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sqs-operations.md) (⭐ 80) |
 | **Original Path** | `skills/aws-java/aws-sdk-java-v2-messaging/references/detailed-sqs-operations.md` |
 | **Category** | research |

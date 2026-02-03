@@ -1,8 +1,8 @@
-# Skill Optimization Techniques
+# Optimization Techniques
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Optimization Techniques |
+| **Name** | Optimization Techniques |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/creating-skill/references/optimization-techniques.md) (⭐ 78) |
 | **Original Path** | `creating-skill/references/optimization-techniques.md` |
 | **Category** | investment |

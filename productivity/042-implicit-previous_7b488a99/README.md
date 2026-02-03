@@ -1,8 +1,8 @@
-# ADR 007: Implicit Previous Output (No Explicit Variable)
+# 007 Implicit Previous
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR 007: Implicit Previous Output (No Explicit Variable) |
+| **Name** | 007 Implicit Previous |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/007-implicit-previous.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/007-implicit-previous.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# Molfeat API Reference
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Molfeat API Reference |
+| **Name** | Api Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/molfeat/references/api_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/molfeat/references/api_reference.md` |
 | **Category** | data-analysis |

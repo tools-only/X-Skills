@@ -1,8 +1,8 @@
-# senior-data-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | senior-data-engineer |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-data-engineer/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-data-engineer/SKILL.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Pro Plan
+# Api
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pro Plan |
+| **Name** | Api |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/payment-integration/references/creem/api.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/payment-integration/references/creem/api.md` |
 | **Category** | commercial |

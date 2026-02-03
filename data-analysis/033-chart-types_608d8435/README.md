@@ -1,8 +1,8 @@
-# Plotly Chart Types
+# Chart Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Plotly Chart Types |
+| **Name** | Chart Types |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/plotly/references/chart-types.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/plotly/references/chart-types.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Infographic Candidate List
+# Infographic Candidates List
 
 | Property | Value |
 |----------|-------|
-| **Name** | Infographic Candidate List |
+| **Name** | Infographic Candidates List |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/infographic-candidates-list.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/infographic-candidates-list.md` |
 | **Category** | data-analysis |

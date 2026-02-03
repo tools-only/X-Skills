@@ -1,8 +1,8 @@
-# Building Quantum Circuits
+# Building
 
 | Property | Value |
 |----------|-------|
-| **Name** | Building Quantum Circuits |
+| **Name** | Building |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/cirq/references/building.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/cirq/references/building.md` |
 | **Category** | data-analysis |

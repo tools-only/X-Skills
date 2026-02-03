@@ -1,8 +1,8 @@
-# Supervised Learning Reference
+# Supervised Learning
 
 | Property | Value |
 |----------|-------|
-| **Name** | Supervised Learning Reference |
+| **Name** | Supervised Learning |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scikit-learn/references/supervised_learning.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scikit-learn/references/supervised_learning.md` |
 | **Category** | productivity |

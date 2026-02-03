@@ -1,8 +1,8 @@
-# Opportunities Phase
+# Opportunities
 
 | Property | Value |
 |----------|-------|
-| **Name** | Opportunities Phase |
+| **Name** | Opportunities |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/opportunities.md) (⭐ 372) |
 | **Original Path** | `skills/product-development/ost/references/opportunities.md` |
 | **Category** | data-analysis |

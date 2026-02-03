@@ -1,8 +1,8 @@
-# Queue System
+# Queues
 
 | Property | Value |
 |----------|-------|
-| **Name** | Queue System |
+| **Name** | Queues |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/laravel-specialist/references/queues.md) (⭐ 216) |
 | **Original Path** | `skills/laravel-specialist/references/queues.md` |
 | **Category** | productivity |

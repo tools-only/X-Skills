@@ -1,8 +1,8 @@
-# Config Directory README Template
+# Xdg Config
 
 | Property | Value |
 |----------|-------|
-| **Name** | Config Directory README Template |
+| **Name** | Xdg Config |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/templates/xdg-config.md) (⭐ 383) |
 | **Original Path** | `skills/crafting-effective-readmes/templates/xdg-config.md` |
 | **Category** | automation |

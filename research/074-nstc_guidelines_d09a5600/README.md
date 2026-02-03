@@ -1,8 +1,8 @@
-# Taiwan NSTC (National Science and Technology Council) Proposal Guidelines
+# Nstc Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | Taiwan NSTC (National Science and Technology Council) Proposal Guidelines |
+| **Name** | Nstc Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/nstc_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/nstc_guidelines.md` |
 | **Category** | research |

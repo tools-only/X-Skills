@@ -1,8 +1,8 @@
-# 9000/data
+# Io Operations
 
 | Property | Value |
 |----------|-------|
-| **Name** | 9000/data |
+| **Name** | Io Operations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/vaex/references/io_operations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/vaex/references/io_operations.md` |
 | **Category** | data-analysis |

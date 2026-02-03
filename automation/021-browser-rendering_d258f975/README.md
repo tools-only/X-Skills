@@ -1,8 +1,8 @@
-# Cloudflare Browser Rendering
+# Browser Rendering
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cloudflare Browser Rendering |
+| **Name** | Browser Rendering |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/devops/references/browser-rendering.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/devops/references/browser-rendering.md` |
 | **Category** | automation |

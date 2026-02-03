@@ -1,8 +1,8 @@
-# CPU, Memory, and Disk Resources
+# Resources
 
 | Property | Value |
 |----------|-------|
-| **Name** | CPU, Memory, and Disk Resources |
+| **Name** | Resources |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/modal/references/resources.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/modal/references/resources.md` |
 | **Category** | content-creation |

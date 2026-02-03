@@ -1,8 +1,8 @@
-# Cover Image Generation Workflow
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cover Image Generation Workflow |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/cover-image-workflow/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/cover-image-workflow/index.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# gemini
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | gemini |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/gemini/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/gemini/SKILL.md` |
 | **Category** | productivity |

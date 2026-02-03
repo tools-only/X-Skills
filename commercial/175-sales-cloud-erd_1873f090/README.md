@@ -1,8 +1,8 @@
-# Sales Cloud Data Model Template
+# Sales Cloud Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Sales Cloud Data Model Template |
+| **Name** | Sales Cloud Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/sales-cloud-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/sales-cloud-erd.md` |
 | **Category** | commercial |

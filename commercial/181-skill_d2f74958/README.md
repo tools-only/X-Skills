@@ -1,8 +1,8 @@
-# simpy
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | simpy |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/simpy/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/simpy/SKILL.md` |
 | **Category** | commercial |

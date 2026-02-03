@@ -1,8 +1,8 @@
-# Spring Data JPA - Reference Documentation
+# Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Spring Data JPA - Reference Documentation |
+| **Name** | Reference |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/references/reference.md) (⭐ 80) |
 | **Original Path** | `skills/spring-boot/spring-data-jpa/references/reference.md` |
 | **Category** | content-creation |

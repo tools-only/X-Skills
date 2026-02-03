@@ -1,8 +1,8 @@
-# youtube-downloader
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | youtube-downloader |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f/SKILL.md` |
 | **Category** | content-creation |

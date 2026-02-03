@@ -1,8 +1,8 @@
-# Authorization Code Flow Template
+# Authorization Code
 
 | Property | Value |
 |----------|-------|
-| **Name** | Authorization Code Flow Template |
+| **Name** | Authorization Code |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/oauth/authorization-code.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/oauth/authorization-code.md` |
 | **Category** | commercial |

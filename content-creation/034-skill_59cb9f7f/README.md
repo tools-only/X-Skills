@@ -1,8 +1,8 @@
-# acm-config
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | acm-config |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/acm-config/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/acm-config/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# 21 CFR Part 11 Compliance Guide
+# 21Cfr11 Compliance Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | 21 CFR Part 11 Compliance Guide |
+| **Name** | 21Cfr11 Compliance Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-documentation-manager/references/21cfr11-compliance-guide.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/quality-documentation-manager/references/21cfr11-compliance-guide.md` |
 | **Category** | research |

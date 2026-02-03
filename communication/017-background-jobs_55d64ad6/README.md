@@ -1,8 +1,8 @@
-# Background Jobs with Sidekiq
+# Background Jobs
 
 | Property | Value |
 |----------|-------|
-| **Name** | Background Jobs with Sidekiq |
+| **Name** | Background Jobs |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/rails-expert/references/background-jobs.md) (⭐ 216) |
 | **Original Path** | `skills/rails-expert/references/background-jobs.md` |
 | **Category** | communication |

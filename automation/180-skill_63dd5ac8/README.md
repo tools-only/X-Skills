@@ -1,8 +1,8 @@
-# ab-testing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ab-testing |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ab-testing/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ab-testing/SKILL.md` |
 | **Category** | automation |

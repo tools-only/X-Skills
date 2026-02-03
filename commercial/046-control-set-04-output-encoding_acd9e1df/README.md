@@ -1,8 +1,8 @@
-# Output Encoding Security Controls
+# Control Set 04 Output Encoding
 
 | Property | Value |
 |----------|-------|
-| **Name** | Output Encoding Security Controls |
+| **Name** | Control Set 04 Output Encoding |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-04-output-encoding.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/control-set-04-output-encoding.md` |
 | **Category** | commercial |

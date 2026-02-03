@@ -1,8 +1,8 @@
-# Context Types
+# 02 Context Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Context Types |
+| **Name** | 02 Context Types |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/02-context-types.md) (⭐ 440) |
 | **Original Path** | `docs/en/concepts/02-context-types.md` |
 | **Category** | research |

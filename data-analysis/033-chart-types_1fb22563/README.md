@@ -1,8 +1,8 @@
-# Chart Type Selection Reference
+# Chart Types
 
 | Property | Value |
 |----------|-------|
-| **Name** | Chart Type Selection Reference |
+| **Name** | Chart Types |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/charting-vega-lite/references/chart-types.md) (⭐ 78) |
 | **Original Path** | `charting-vega-lite/references/chart-types.md` |
 | **Category** | data-analysis |

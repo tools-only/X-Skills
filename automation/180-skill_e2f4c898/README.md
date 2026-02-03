@@ -1,8 +1,8 @@
-# aggregates
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | aggregates |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/aggregates/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/aggregates/SKILL.md` |
 | **Category** | automation |

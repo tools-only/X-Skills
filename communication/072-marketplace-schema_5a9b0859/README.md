@@ -1,8 +1,8 @@
-# Marketplace Schema Reference
+# Marketplace Schema
 
 | Property | Value |
 |----------|-------|
-| **Name** | Marketplace Schema Reference |
+| **Name** | Marketplace Schema |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/plugin-forge/references/marketplace-schema.md) (⭐ 383) |
 | **Original Path** | `skills/plugin-forge/references/marketplace-schema.md` |
 | **Category** | communication |

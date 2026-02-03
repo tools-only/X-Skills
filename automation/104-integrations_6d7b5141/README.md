@@ -1,8 +1,8 @@
-# LabArchives Third-Party Integrations
+# Integrations
 
 | Property | Value |
 |----------|-------|
-| **Name** | LabArchives Third-Party Integrations |
+| **Name** | Integrations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/labarchive-integration/references/integrations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/labarchive-integration/references/integrations.md` |
 | **Category** | automation |

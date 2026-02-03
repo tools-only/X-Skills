@@ -1,8 +1,8 @@
-# availability
+# Slo Sli Management
 
 | Property | Value |
 |----------|-------|
-| **Name** | availability |
+| **Name** | Slo Sli Management |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/slo-sli-management.md) (⭐ 216) |
 | **Original Path** | `skills/sre-engineer/references/slo-sli-management.md` |
 | **Category** | commercial |

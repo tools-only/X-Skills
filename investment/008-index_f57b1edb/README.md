@@ -1,8 +1,8 @@
-# Threads
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Threads |
+| **Name** | Index |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/threads/index.md) (⭐ 14) |
 | **Original Path** | `threads/index.md` |
 | **Category** | investment |

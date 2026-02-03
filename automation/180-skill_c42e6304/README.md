@@ -1,8 +1,8 @@
-# omero-integration
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | omero-integration |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/omero-integration/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/omero-integration/SKILL.md` |
 | **Category** | automation |

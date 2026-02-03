@@ -1,8 +1,8 @@
-# agent-task-delegator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-task-delegator |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-task-delegator/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-task-delegator/SKILL.md` |
 | **Category** | daily-assistant |

@@ -1,8 +1,8 @@
-# agent-ops-article-verification
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-ops-article-verification |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analysis/agent-ops-article-verification/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analysis/agent-ops-article-verification/SKILL.md` |
 | **Category** | research |

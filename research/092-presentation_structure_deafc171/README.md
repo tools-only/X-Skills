@@ -1,8 +1,8 @@
-# Presentation Structure Guide
+# Presentation Structure
 
 | Property | Value |
 |----------|-------|
-| **Name** | Presentation Structure Guide |
+| **Name** | Presentation Structure |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/references/presentation_structure.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/references/presentation_structure.md` |
 | **Category** | content-creation |

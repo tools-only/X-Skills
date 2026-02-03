@@ -1,8 +1,8 @@
-# Cameras
+# 04 Cameras
 
 | Property | Value |
 |----------|-------|
-| **Name** | Cameras |
+| **Name** | 04 Cameras |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/04-cameras.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/04-cameras.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# AWS RDS Aurora Troubleshooting Guide
+# Troubleshooting
 
 | Property | Value |
 |----------|-------|
-| **Name** | AWS RDS Aurora Troubleshooting Guide |
+| **Name** | Troubleshooting |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-rds-spring-boot-integration/references/troubleshooting.md) (⭐ 80) |
 | **Original Path** | `skills/aws-java/aws-rds-spring-boot-integration/references/troubleshooting.md` |
 | **Category** | commercial |

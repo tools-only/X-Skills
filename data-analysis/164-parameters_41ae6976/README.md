@@ -1,8 +1,8 @@
-# Parameter Configuration
+# Parameters
 
 | Property | Value |
 |----------|-------|
-| **Name** | Parameter Configuration |
+| **Name** | Parameters |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fluidsim/references/parameters.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/fluidsim/references/parameters.md` |
 | **Category** | data-analysis |

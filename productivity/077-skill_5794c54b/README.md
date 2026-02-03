@@ -1,8 +1,8 @@
-# ai-psychology
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-psychology |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-psychology/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-psychology/SKILL.md` |
 | **Category** | productivity |

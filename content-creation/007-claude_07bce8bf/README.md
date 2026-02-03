@@ -1,8 +1,8 @@
-# Marketing Skills - Claude Code Guidance
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | Marketing Skills - Claude Code Guidance |
+| **Name** | Claude |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/CLAUDE.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/CLAUDE.md` |
 | **Category** | content-creation |

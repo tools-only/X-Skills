@@ -1,8 +1,8 @@
-# MicroSim Standardization  Skill
+# Create Microsim Standardization Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | MicroSim Standardization  Skill |
+| **Name** | Create Microsim Standardization Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/create-microsim-standardization-skill.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/create-microsim-standardization-skill.md` |
 | **Category** | daily-assistant |

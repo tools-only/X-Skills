@@ -1,8 +1,8 @@
-# Common Biases in Scientific Research
+# Common Biases
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Biases in Scientific Research |
+| **Name** | Common Biases |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/references/common_biases.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-critical-thinking/references/common_biases.md` |
 | **Category** | research |

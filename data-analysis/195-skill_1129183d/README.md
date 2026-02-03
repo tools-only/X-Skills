@@ -1,8 +1,8 @@
-# microsim-screen-capture
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsim-screen-capture |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/microsim-screen-capture/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/microsim-screen-capture/SKILL.md` |
 | **Category** | data-analysis |

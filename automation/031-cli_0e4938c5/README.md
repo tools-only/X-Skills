@@ -1,8 +1,8 @@
-# Command-Line Interface
+# Cli
 
 | Property | Value |
 |----------|-------|
-| **Name** | Command-Line Interface |
+| **Name** | Cli |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gtars/references/cli.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gtars/references/cli.md` |
 | **Category** | automation |

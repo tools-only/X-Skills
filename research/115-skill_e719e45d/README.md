@@ -1,8 +1,8 @@
-# animation-performance-retro
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | animation-performance-retro |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/animation-performance-retro/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/animation-performance-retro/SKILL.md` |
 | **Category** | research |

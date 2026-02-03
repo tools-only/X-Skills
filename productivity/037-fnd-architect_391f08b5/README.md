@@ -1,8 +1,8 @@
-# fnd-architect
+# Fnd Architect
 
 | Property | Value |
 |----------|-------|
-| **Name** | fnd-architect |
+| **Name** | Fnd Architect |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/agents/fnd-architect.md) (⭐ 14) |
 | **Original Path** | `.claude/agents/fnd-architect.md` |
 | **Category** | productivity |

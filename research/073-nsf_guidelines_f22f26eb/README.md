@@ -1,8 +1,8 @@
-# NSF (National Science Foundation) Grant Writing Guidelines
+# Nsf Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | NSF (National Science Foundation) Grant Writing Guidelines |
+| **Name** | Nsf Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/nsf_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/nsf_guidelines.md` |
 | **Category** | research |

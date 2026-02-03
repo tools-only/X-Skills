@@ -1,8 +1,8 @@
-# cs-content-creator
+# Cs Content Creator
 
 | Property | Value |
 |----------|-------|
-| **Name** | cs-content-creator |
+| **Name** | Cs Content Creator |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/agents/marketing/cs-content-creator.md) (⭐ 1.5k) |
 | **Original Path** | `agents/marketing/cs-content-creator.md` |
 | **Category** | content-creation |

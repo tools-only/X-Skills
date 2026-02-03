@@ -1,8 +1,8 @@
-# Evidence Synthesis and Guideline Integration Guide
+# Evidence Synthesis
 
 | Property | Value |
 |----------|-------|
-| **Name** | Evidence Synthesis and Guideline Integration Guide |
+| **Name** | Evidence Synthesis |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-decision-support/references/evidence_synthesis.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-decision-support/references/evidence_synthesis.md` |
 | **Category** | research |

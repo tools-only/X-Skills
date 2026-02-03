@@ -1,8 +1,8 @@
-# ERD Template: Core Salesforce Objects (Architect.salesforce.com Style)
+# Core Objects
 
 | Property | Value |
 |----------|-------|
-| **Name** | ERD Template: Core Salesforce Objects (Architect.salesforce.com Style) |
+| **Name** | Core Objects |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/templates/erd/core-objects.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-nanobananapro/templates/erd/core-objects.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# exploring-data
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | exploring-data |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-data/SKILL.md) (⭐ 78) |
 | **Original Path** | `exploring-data/SKILL.md` |
 | **Category** | data-analysis |

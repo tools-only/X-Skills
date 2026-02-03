@@ -1,8 +1,8 @@
-# Product Team Skills Implementation Guide
+# Product Team Implementation Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Product Team Skills Implementation Guide |
+| **Name** | Product Team Implementation Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/product_team_implementation_guide.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/product_team_implementation_guide.md` |
 | **Category** | commercial |

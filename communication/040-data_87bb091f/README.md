@@ -1,8 +1,8 @@
-# Data Access - Spring Data JPA
+# Data
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Access - Spring Data JPA |
+| **Name** | Data |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/spring-boot-engineer/references/data.md) (⭐ 216) |
 | **Original Path** | `skills/spring-boot-engineer/references/data.md` |
 | **Category** | communication |

@@ -1,8 +1,8 @@
-# cde-isolation
+# Compliance Requirements
 
 | Property | Value |
 |----------|-------|
-| **Name** | cde-isolation |
+| **Name** | Compliance Requirements |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-secops/references/compliance_requirements.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-secops/references/compliance_requirements.md` |
 | **Category** | automation |

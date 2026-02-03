@@ -1,8 +1,8 @@
-# ai-ad-doc-architect
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-ad-doc-architect |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-ad-doc-architect/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-ad-doc-architect/SKILL.md` |
 | **Category** | data-analysis |

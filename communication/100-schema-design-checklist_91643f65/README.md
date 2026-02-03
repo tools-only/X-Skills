@@ -1,8 +1,8 @@
-# Database Schema Design Checklist
+# Schema Design Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | Database Schema Design Checklist |
+| **Name** | Schema Design Checklist |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/database-schema-designer/references/schema-design-checklist.md) (⭐ 383) |
 | **Original Path** | `skills/database-schema-designer/references/schema-design-checklist.md` |
 | **Category** | communication |

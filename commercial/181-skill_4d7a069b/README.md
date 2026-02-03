@@ -1,8 +1,8 @@
-# account-executive
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | account-executive |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/account-executive/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/account-executive/SKILL.md` |
 | **Category** | commercial |

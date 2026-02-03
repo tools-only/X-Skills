@@ -1,8 +1,8 @@
-# Complete Ticket Workflow
+# Complete Ticket
 
 | Property | Value |
 |----------|-------|
-| **Name** | Complete Ticket Workflow |
+| **Name** | Complete Ticket |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/execution/complete-ticket.md) (⭐ 216) |
 | **Original Path** | `commands/project/execution/complete-ticket.md` |
 | **Category** | automation |

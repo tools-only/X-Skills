@@ -1,8 +1,8 @@
-# string; quantity: number };
+# React 19 Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; quantity: number }; |
+| **Name** | React 19 Patterns |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/react-19-patterns.md) (⭐ 383) |
 | **Original Path** | `skills/react-dev/references/react-19-patterns.md` |
 | **Category** | commercial |

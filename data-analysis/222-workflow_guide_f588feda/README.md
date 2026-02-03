@@ -1,8 +1,8 @@
-# PyDESeq2 Workflow Guide
+# Workflow Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | PyDESeq2 Workflow Guide |
+| **Name** | Workflow Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pydeseq2/references/workflow_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pydeseq2/references/workflow_guide.md` |
 | **Category** | data-analysis |

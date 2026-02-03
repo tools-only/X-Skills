@@ -1,8 +1,8 @@
-# design-review
+# Design Review Agent
 
 | Property | Value |
 |----------|-------|
-| **Name** | design-review |
+| **Name** | Design Review Agent |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/workflows-knowledge-guides/Design-Review-Workflow/design-review-agent.md) (🔥 22.5k) |
 | **Original Path** | `resources/workflows-knowledge-guides/Design-Review-Workflow/design-review-agent.md` |
 | **Category** | content-creation |

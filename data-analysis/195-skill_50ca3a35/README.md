@@ -1,8 +1,8 @@
-# alfred-clipboard
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alfred-clipboard |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alfred-clipboard/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alfred-clipboard/SKILL.md` |
 | **Category** | content-creation |

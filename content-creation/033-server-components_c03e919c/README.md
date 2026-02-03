@@ -1,8 +1,8 @@
-# React Server Components
+# Server Components
 
 | Property | Value |
 |----------|-------|
-| **Name** | React Server Components |
+| **Name** | Server Components |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/nextjs-developer/references/server-components.md) (⭐ 216) |
 | **Original Path** | `skills/nextjs-developer/references/server-components.md` |
 | **Category** | content-creation |

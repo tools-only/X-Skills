@@ -1,8 +1,8 @@
-# [skill-name]
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | [skill-name] |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/advanced-skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/advanced-skill/SKILL.md` |
 | **Category** | daily-assistant |

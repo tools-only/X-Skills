@@ -1,8 +1,8 @@
-# Details Skills Impact Analysis
+# Generate Diagram Skill Priorities
 
 | Property | Value |
 |----------|-------|
-| **Name** | Details Skills Impact Analysis |
+| **Name** | Generate Diagram Skill Priorities |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/generate-diagram-skill-priorities.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/generate-diagram-skill-priorities.md` |
 | **Category** | data-analysis |

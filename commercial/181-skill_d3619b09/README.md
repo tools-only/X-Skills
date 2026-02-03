@@ -1,8 +1,8 @@
-# analytics-tracking
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analytics-tracking |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analytics-tracking/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analytics-tracking/SKILL.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# tikz-flowchart
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | tikz-flowchart |
+| **Name** | Skill |
 | **Repository** | [yzlnew/infra-skills](https://raw.githubusercontent.com/yzlnew/infra-skills/main/tikz-flowchart/SKILL.md) (⭐ 53) |
 | **Original Path** | `tikz-flowchart/SKILL.md` |
 | **Category** | daily-assistant |

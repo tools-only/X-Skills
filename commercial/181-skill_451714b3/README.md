@@ -1,8 +1,8 @@
-# Supplychain
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Supplychain |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/SupplyChain/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/SupplyChain/SKILL.md` |
 | **Category** | commercial |

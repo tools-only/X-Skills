@@ -1,8 +1,8 @@
-# Standalone Components & Signals
+# Components
 
 | Property | Value |
 |----------|-------|
-| **Name** | Standalone Components & Signals |
+| **Name** | Components |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/angular-architect/references/components.md) (⭐ 216) |
 | **Original Path** | `skills/angular-architect/references/components.md` |
 | **Category** | commercial |

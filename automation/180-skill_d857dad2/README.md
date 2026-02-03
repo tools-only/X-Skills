@@ -1,8 +1,8 @@
-# analyzing-aorc-precipitation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analyzing-aorc-precipitation |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analyzing-aorc-precipitation/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analyzing-aorc-precipitation/SKILL.md` |
 | **Category** | automation |

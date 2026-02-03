@@ -1,8 +1,8 @@
-# sre-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | sre-engineer |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/sre-engineer/SKILL.md` |
 | **Category** | automation |

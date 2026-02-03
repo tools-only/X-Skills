@@ -1,8 +1,8 @@
-# ISO 13485 Audit Guide
+# Iso13485 Audit Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | ISO 13485 Audit Guide |
+| **Name** | Iso13485 Audit Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/qms-audit-expert/references/iso13485-audit-guide.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/qms-audit-expert/references/iso13485-audit-guide.md` |
 | **Category** | automation |

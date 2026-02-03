@@ -1,8 +1,8 @@
-# SOLID Principles in Apex
+# Solid Principles
 
 | Property | Value |
 |----------|-------|
-| **Name** | SOLID Principles in Apex |
+| **Name** | Solid Principles |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-apex/docs/solid-principles.md) (⭐ 47) |
 | **Original Path** | `sf-apex/docs/solid-principles.md` |
 | **Category** | communication |

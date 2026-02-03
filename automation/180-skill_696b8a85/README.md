@@ -1,8 +1,8 @@
-# ai-annotation-workflow
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-annotation-workflow |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-annotation-workflow/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-annotation-workflow/SKILL.md` |
 | **Category** | automation |

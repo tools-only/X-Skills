@@ -1,8 +1,8 @@
-# scientific-schematics
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | scientific-schematics |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-schematics/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-schematics/SKILL.md` |
 | **Category** | research |

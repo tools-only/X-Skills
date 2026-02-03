@@ -1,8 +1,8 @@
-# qa-test-planner
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | qa-test-planner |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/qa-test-planner/SKILL.md` |
 | **Category** | commercial |

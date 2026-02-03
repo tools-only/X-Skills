@@ -1,8 +1,8 @@
-# scientific-critical-thinking
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | scientific-critical-thinking |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-critical-thinking/SKILL.md` |
 | **Category** | research |

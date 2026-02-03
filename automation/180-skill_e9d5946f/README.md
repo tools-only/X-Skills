@@ -1,8 +1,8 @@
-# flow-nexus-neural
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | flow-nexus-neural |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-ml/flow-nexus-neural/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-ml/flow-nexus-neural/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# model-selection
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | model-selection |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-llm/model-selection/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-llm/model-selection/SKILL.md` |
 | **Category** | automation |

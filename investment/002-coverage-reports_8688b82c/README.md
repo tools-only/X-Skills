@@ -1,8 +1,8 @@
-# Check documentation
+# Coverage Reports
 
 | Property | Value |
 |----------|-------|
-| **Name** | Check documentation |
+| **Name** | Coverage Reports |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/code-documenter/references/coverage-reports.md) (⭐ 216) |
 | **Original Path** | `skills/code-documenter/references/coverage-reports.md` |
 | **Category** | investment |

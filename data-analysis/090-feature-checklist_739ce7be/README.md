@@ -1,8 +1,8 @@
-# shortcodes like :rocket: |
+# Feature Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | shortcodes like :rocket: | |
+| **Name** | Feature Checklist | |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/assets/templates/docs/feature-checklist.md) (⭐ 14) |
 | **Original Path** | `skills/book-installer/references/assets/templates/docs/feature-checklist.md` |
 | **Category** | data-analysis |

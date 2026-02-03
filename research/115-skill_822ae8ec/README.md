@@ -1,8 +1,8 @@
-# crafting-instructions
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | crafting-instructions |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/crafting-instructions/SKILL.md) (⭐ 78) |
 | **Original Path** | `crafting-instructions/SKILL.md` |
 | **Category** | research |

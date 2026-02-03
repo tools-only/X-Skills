@@ -1,8 +1,8 @@
-# Linear Chain vs Network Structure Comparison
+# 06 Linear Chain Vs Network Structure Comparison
 
 | Property | Value |
 |----------|-------|
-| **Name** | Linear Chain vs Network Structure Comparison |
+| **Name** | 06 Linear Chain Vs Network Structure Comparison |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/learning-graph/medium-diagrams/specs/06-linear-chain-vs-network-structure-comparison.md) (⭐ 14) |
 | **Original Path** | `docs/learning-graph/medium-diagrams/specs/06-linear-chain-vs-network-structure-comparison.md` |
 | **Category** | data-analysis |

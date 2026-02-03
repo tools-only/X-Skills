@@ -1,8 +1,8 @@
-# my-framework
+# Usage
 
 | Property | Value |
 |----------|-------|
-| **Name** | my-framework |
+| **Name** | Usage |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/USAGE.md) (🔥 8.7k) |
 | **Original Path** | `docs/guides/USAGE.md` |
 | **Category** | content-creation |

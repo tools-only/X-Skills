@@ -1,8 +1,8 @@
-# mermaid-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | mermaid-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/mermaid-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/archived/mermaid-generator/SKILL.md` |
 | **Category** | data-analysis |

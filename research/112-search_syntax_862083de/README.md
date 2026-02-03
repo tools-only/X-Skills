@@ -1,8 +1,8 @@
-# PubMed Search Syntax and Field Tags
+# Search Syntax
 
 | Property | Value |
 |----------|-------|
-| **Name** | PubMed Search Syntax and Field Tags |
+| **Name** | Search Syntax |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pubmed-database/references/search_syntax.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pubmed-database/references/search_syntax.md` |
 | **Category** | research |

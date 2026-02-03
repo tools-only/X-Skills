@@ -1,8 +1,8 @@
-# Threat Modeling
+# Control Set 01 Authentication
 
 | Property | Value |
 |----------|-------|
-| **Name** | Threat Modeling |
+| **Name** | Control Set 01 Authentication |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/control-set-01-authentication.md` |
 | **Category** | communication |

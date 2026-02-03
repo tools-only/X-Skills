@@ -1,8 +1,8 @@
-# Salesforce Debug Log Reference
+# Debug Log Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Salesforce Debug Log Reference |
+| **Name** | Debug Log Reference |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/docs/debug-log-reference.md) (⭐ 47) |
 | **Original Path** | `sf-debug/docs/debug-log-reference.md` |
 | **Category** | automation |

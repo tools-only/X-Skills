@@ -1,8 +1,8 @@
-# Pfmea
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pfmea |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Pfmea/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Pfmea/SKILL.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Getting Started with Three.js
+# 01 Getting Started
 
 | Property | Value |
 |----------|-------|
-| **Name** | Getting Started with Three.js |
+| **Name** | 01 Getting Started |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/threejs/references/01-getting-started.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/threejs/references/01-getting-started.md` |
 | **Category** | data-analysis |

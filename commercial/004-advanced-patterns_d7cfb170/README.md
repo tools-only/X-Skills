@@ -1,8 +1,8 @@
-# Advanced C4 Architecture Patterns
+# Advanced Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Advanced C4 Architecture Patterns |
+| **Name** | Advanced Patterns |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/c4-architecture/references/advanced-patterns.md) (⭐ 383) |
 | **Original Path** | `skills/c4-architecture/references/advanced-patterns.md` |
 | **Category** | commercial |

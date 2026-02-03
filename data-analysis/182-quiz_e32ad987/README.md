@@ -1,8 +1,8 @@
-# Quiz: Taxonomy and Data Formats
+# Quiz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz: Taxonomy and Data Formats |
+| **Name** | Quiz |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/07-taxonomy-data-formats/quiz.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/07-taxonomy-data-formats/quiz.md` |
 | **Category** | data-analysis |

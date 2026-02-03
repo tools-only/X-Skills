@@ -1,8 +1,8 @@
-# alphafold-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alphafold-database |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alphafold-database/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alphafold-database/SKILL.md` |
 | **Category** | data-analysis |

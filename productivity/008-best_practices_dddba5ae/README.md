@@ -1,8 +1,8 @@
-# Best Practices - PyTorch Lightning
+# Best Practices
 
 | Property | Value |
 |----------|-------|
-| **Name** | Best Practices - PyTorch Lightning |
+| **Name** | Best Practices |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytorch-lightning/references/best_practices.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytorch-lightning/references/best_practices.md` |
 | **Category** | productivity |

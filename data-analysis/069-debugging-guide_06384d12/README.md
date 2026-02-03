@@ -1,8 +1,8 @@
-# Debugging & Observability Guide
+# Debugging Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Debugging & Observability Guide |
+| **Name** | Debugging Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/debugging-guide.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/resources/debugging-guide.md` |
 | **Category** | data-analysis |

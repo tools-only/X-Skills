@@ -1,8 +1,8 @@
-# Strategic Recommendations
+# Recommendations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Strategic Recommendations |
+| **Name** | Recommendations |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/examples/everything/target/compiled/recommendations.md) (⭐ 93) |
 | **Original Path** | `examples/everything/target/compiled/recommendations.md` |
 | **Category** | commercial |

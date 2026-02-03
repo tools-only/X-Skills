@@ -1,8 +1,8 @@
-# clinical-decision-support
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | clinical-decision-support |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-decision-support/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinical-decision-support/SKILL.md` |
 | **Category** | data-analysis |

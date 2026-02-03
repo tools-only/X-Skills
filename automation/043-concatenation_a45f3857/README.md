@@ -1,8 +1,8 @@
-# Concatenating AnnData Objects
+# Concatenation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Concatenating AnnData Objects |
+| **Name** | Concatenation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/anndata/references/concatenation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/anndata/references/concatenation.md` |
 | **Category** | automation |

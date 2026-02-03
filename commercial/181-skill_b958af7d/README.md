@@ -1,8 +1,8 @@
-# postgres-pro
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | postgres-pro |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/postgres-pro/SKILL.md` |
 | **Category** | commercial |

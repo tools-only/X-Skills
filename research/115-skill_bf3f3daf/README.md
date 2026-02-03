@@ -1,8 +1,8 @@
-# alma-scraper
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alma-scraper |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alma-scraper/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alma-scraper/SKILL.md` |
 | **Category** | research |

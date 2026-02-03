@@ -1,8 +1,8 @@
-# Create Hook Command
+# Create Hook
 
 | Property | Value |
 |----------|-------|
-| **Name** | Create Hook Command |
+| **Name** | Create Hook |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/create-hook/create-hook.md) (🔥 22.5k) |
 | **Original Path** | `resources/slash-commands/create-hook/create-hook.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Creative Thinking Anti-Patterns
+# Anti Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Creative Thinking Anti-Patterns |
+| **Name** | Anti Patterns |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-creating-ideas/references/anti-patterns.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-creating-ideas/references/anti-patterns.md` |
 | **Category** | commercial |

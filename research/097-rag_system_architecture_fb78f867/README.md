@@ -1,8 +1,8 @@
-# str):
+# Rag System Architecture
 
 | Property | Value |
 |----------|-------|
-| **Name** | str): |
+| **Name** | Rag System Architecture |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-ml-engineer/references/rag_system_architecture.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-ml-engineer/references/rag_system_architecture.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Experimental Design Checklist
+# Experimental Design
 
 | Property | Value |
 |----------|-------|
-| **Name** | Experimental Design Checklist |
+| **Name** | Experimental Design |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/references/experimental_design.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-critical-thinking/references/experimental_design.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# gtd
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | gtd |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/GTD/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/GTD/SKILL.md` |
 | **Category** | communication |

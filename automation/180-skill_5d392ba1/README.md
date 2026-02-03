@@ -1,8 +1,8 @@
-# notion-meeting-intelligence
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | notion-meeting-intelligence |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/27d8604b-4c55-42c9-8438-ea6009900003/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/27d8604b-4c55-42c9-8438-ea6009900003/SKILL.md` |
 | **Category** | daily-assistant |

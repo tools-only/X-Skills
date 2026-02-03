@@ -1,8 +1,8 @@
-# latex-posters
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | latex-posters |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/latex-posters/SKILL.md` |
 | **Category** | research |

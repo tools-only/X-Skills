@@ -1,8 +1,8 @@
-# AgentDB Learning Plugins
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | AgentDB Learning Plugins |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agentdb-learning/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agentdb-learning/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Layouts, Styling, and Customization
+# Layouts Styling
 
 | Property | Value |
 |----------|-------|
-| **Name** | Layouts, Styling, and Customization |
+| **Name** | Layouts Styling |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/plotly/references/layouts-styling.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/plotly/references/layouts-styling.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Complete Implementation Guidelines
+# Implementation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Complete Implementation Guidelines |
+| **Name** | Implementation |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/chunking-strategy/references/implementation.md) (⭐ 80) |
 | **Original Path** | `skills/ai/chunking-strategy/references/implementation.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# FEC Form Types
+# Forms
 
 | Property | Value |
 |----------|-------|
-| **Name** | FEC Form Types |
+| **Name** | Forms |
 | **Repository** | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/references/FORMS.md) (⭐ 22) |
 | **Original Path** | `skills/fecfile/references/FORMS.md` |
 | **Category** | communication |

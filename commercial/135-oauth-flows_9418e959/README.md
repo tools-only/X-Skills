@@ -1,8 +1,8 @@
-# OAuth 2.0 Flows Reference
+# Oauth Flows
 
 | Property | Value |
 |----------|-------|
-| **Name** | OAuth 2.0 Flows Reference |
+| **Name** | Oauth Flows |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/docs/oauth-flows.md) (⭐ 47) |
 | **Original Path** | `sf-connected-apps/docs/oauth-flows.md` |
 | **Category** | commercial |

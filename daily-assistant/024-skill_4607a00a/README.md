@@ -1,8 +1,8 @@
-# add-lesson
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-lesson |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-lesson/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-lesson/SKILL.md` |
 | **Category** | daily-assistant |

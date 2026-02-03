@@ -1,8 +1,8 @@
-# Multi-Skill Orchestration: sf-metadata Perspective
+# Orchestration
 
 | Property | Value |
 |----------|-------|
-| **Name** | Multi-Skill Orchestration: sf-metadata Perspective |
+| **Name** | Orchestration |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/docs/orchestration.md) (⭐ 47) |
 | **Original Path** | `sf-metadata/docs/orchestration.md` |
 | **Category** | automation |

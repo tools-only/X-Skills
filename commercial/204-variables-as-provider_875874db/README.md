@@ -1,8 +1,8 @@
-# ADR 019: Variables as a Provider
+# 019 Variables As Provider
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR 019: Variables as a Provider |
+| **Name** | 019 Variables As Provider |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/019-variables-as-provider.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/019-variables-as-provider.md` |
 | **Category** | commercial |

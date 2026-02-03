@@ -1,8 +1,8 @@
-# name_index[name.lower()] = drug
+# Drug Queries
 
 | Property | Value |
 |----------|-------|
-| **Name** | name_index[name.lower()] = drug |
+| **Name** | Drug Queries |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/drugbank-database/references/drug-queries.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/drugbank-database/references/drug-queries.md` |
 | **Category** | research |

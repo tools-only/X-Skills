@@ -1,8 +1,8 @@
-# .metadata.name,\
+# Cost Optimization
 
 | Property | Value |
 |----------|-------|
-| **Name** | .metadata.name,\ |
+| **Name** | Cost Optimization |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/kubernetes-specialist/references/cost-optimization.md) (⭐ 216) |
 | **Original Path** | `skills/kubernetes-specialist/references/cost-optimization.md` |
 | **Category** | automation |

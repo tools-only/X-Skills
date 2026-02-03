@@ -1,8 +1,8 @@
-# Reviewer Expectations by Venue
+# Reviewer Expectations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Reviewer Expectations by Venue |
+| **Name** | Reviewer Expectations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/reviewer_expectations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/reviewer_expectations.md` |
 | **Category** | research |

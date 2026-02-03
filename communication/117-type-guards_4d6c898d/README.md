@@ -1,8 +1,8 @@
-# string;
+# Type Guards
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; |
+| **Name** | Type Guards |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/typescript-pro/references/type-guards.md) (⭐ 216) |
 | **Original Path** | `skills/typescript-pro/references/type-guards.md` |
 | **Category** | communication |

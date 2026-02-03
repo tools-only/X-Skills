@@ -1,8 +1,8 @@
-# alex-hormozi-pitch
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alex-hormozi-pitch |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/AlexHormoziPitch/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/AlexHormoziPitch/SKILL.md` |
 | **Category** | automation |

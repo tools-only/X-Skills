@@ -1,8 +1,8 @@
-# ` field in YAML |
+# Naming Conventions
 
 | Property | Value |
 |----------|-------|
-| **Name** | ` field in YAML | |
+| **Name** | Naming Conventions | |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/docs/references/naming-conventions.md) (⭐ 14) |
 | **Original Path** | `docs/references/naming-conventions.md` |
 | **Category** | commercial |

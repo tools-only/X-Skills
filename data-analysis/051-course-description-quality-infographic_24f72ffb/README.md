@@ -1,8 +1,8 @@
-# Generate Course Description Quality Workflow Infographic
+# Course Description Quality Infographic
 
 | Property | Value |
 |----------|-------|
-| **Name** | Generate Course Description Quality Workflow Infographic |
+| **Name** | Course Description Quality Infographic |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/course-description-quality-infographic.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/course-description-quality-infographic.md` |
 | **Category** | data-analysis |

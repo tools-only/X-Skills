@@ -1,8 +1,8 @@
-# Learning Graph Quality and Validation
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph Quality and Validation |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/06-learning-graph-quality-validation/index.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/06-learning-graph-quality-validation/index.md` |
 | **Category** | data-analysis |

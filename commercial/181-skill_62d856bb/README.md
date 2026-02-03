@@ -1,8 +1,8 @@
-# RecordsManager
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | RecordsManager |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/RecordsManager/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/RecordsManager/SKILL.md` |
 | **Category** | commercial |

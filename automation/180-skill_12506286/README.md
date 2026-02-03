@@ -1,8 +1,8 @@
-# mixcut
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | mixcut |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/MixCut-Skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/MixCut-Skill/SKILL.md` |
 | **Category** | automation |

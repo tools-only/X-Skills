@@ -1,8 +1,8 @@
-# Log in
+# Page Object Model
 
 | Property | Value |
 |----------|-------|
-| **Name** | Log in |
+| **Name** | Page Object Model |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/playwright-expert/references/page-object-model.md) (⭐ 216) |
 | **Original Path** | `skills/playwright-expert/references/page-object-model.md` |
 | **Category** | communication |

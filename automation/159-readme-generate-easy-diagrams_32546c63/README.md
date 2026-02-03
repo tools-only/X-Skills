@@ -1,8 +1,8 @@
-# Easy Diagram Generation Tool
+# Readme Generate Easy Diagrams
 
 | Property | Value |
 |----------|-------|
-| **Name** | Easy Diagram Generation Tool |
+| **Name** | Readme Generate Easy Diagrams |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/src/diagram-reports/README-generate-easy-diagrams.md) (⭐ 14) |
 | **Original Path** | `src/diagram-reports/README-generate-easy-diagrams.md` |
 | **Category** | automation |

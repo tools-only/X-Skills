@@ -1,8 +1,8 @@
-# B2B Commerce Data Model Template
+# B2B Commerce Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | B2B Commerce Data Model Template |
+| **Name** | B2B Commerce Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/b2b-commerce-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/b2b-commerce-erd.md` |
 | **Category** | commercial |

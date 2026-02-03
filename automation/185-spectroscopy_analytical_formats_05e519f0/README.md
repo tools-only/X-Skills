@@ -1,8 +1,8 @@
-# Spectroscopy and Analytical Chemistry File Formats Reference
+# Spectroscopy Analytical Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | Spectroscopy and Analytical Chemistry File Formats Reference |
+| **Name** | Spectroscopy Analytical Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/exploratory-data-analysis/references/spectroscopy_analytical_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/exploratory-data-analysis/references/spectroscopy_analytical_formats.md` |
 | **Category** | automation |

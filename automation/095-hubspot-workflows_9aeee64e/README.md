@@ -1,8 +1,8 @@
-# `Partner Source`
+# Hubspot Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | `Partner Source` |
+| **Name** | Hubspot Workflows |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing-demand-acquisition/references/hubspot-workflows.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/marketing-demand-acquisition/references/hubspot-workflows.md` |
 | **Category** | automation |

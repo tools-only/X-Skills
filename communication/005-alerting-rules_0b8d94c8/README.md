@@ -1,8 +1,8 @@
-# application
+# Alerting Rules
 
 | Property | Value |
 |----------|-------|
-| **Name** | application |
+| **Name** | Alerting Rules |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/monitoring-expert/references/alerting-rules.md) (⭐ 216) |
 | **Original Path** | `skills/monitoring-expert/references/alerting-rules.md` |
 | **Category** | communication |

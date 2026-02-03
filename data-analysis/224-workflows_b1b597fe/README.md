@@ -1,8 +1,8 @@
-# gget Workflow Examples
+# Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | gget Workflow Examples |
+| **Name** | Workflows |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gget/references/workflows.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gget/references/workflows.md` |
 | **Category** | data-analysis |

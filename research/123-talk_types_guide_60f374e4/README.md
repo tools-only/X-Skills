@@ -1,8 +1,8 @@
-# Scientific Talk Types Guide
+# Talk Types Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scientific Talk Types Guide |
+| **Name** | Talk Types Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/references/talk_types_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-slides/references/talk_types_guide.md` |
 | **Category** | research |

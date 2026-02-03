@@ -1,8 +1,8 @@
-# Skill Eval CLI
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Eval CLI |
+| **Name** | Claude |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) (⭐ 10) |
 | **Original Path** | `evals/CLAUDE.md` |
 | **Category** | research |

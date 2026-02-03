@@ -1,8 +1,8 @@
-# レイアウトガイドライン
+# Layout Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | レイアウトガイドライン |
+| **Name** | Layout Guidelines |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/draw-io/references/layout-guidelines.md) (⭐ 383) |
 | **Original Path** | `skills/draw-io/references/layout-guidelines.md` |
 | **Category** | other |

@@ -1,8 +1,8 @@
-# Pdd
+# Sync Solution O3Pro
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pdd |
+| **Name** | Sync Solution O3Pro |
 | **Repository** | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/sync_solution_o3pro.md) (⭐ 407) |
 | **Original Path** | `docs/sync_solution_o3pro.md` |
 | **Category** | commercial |

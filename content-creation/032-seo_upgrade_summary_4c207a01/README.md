@@ -1,8 +1,8 @@
-# SEO 优化完成总结
+# Seo Upgrade Summary
 
 | Property | Value |
 |----------|-------|
-| **Name** | SEO 优化完成总结 |
+| **Name** | Seo Upgrade Summary |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SEO_UPGRADE_SUMMARY.md) (⭐ 108) |
 | **Original Path** | `youtube-to-blog-post/SEO_UPGRADE_SUMMARY.md` |
 | **Category** | content-creation |

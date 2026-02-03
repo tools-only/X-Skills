@@ -1,8 +1,8 @@
-# ATAC-seq and Chromatin Accessibility Models
+# Models Atac Seq
 
 | Property | Value |
 |----------|-------|
-| **Name** | ATAC-seq and Chromatin Accessibility Models |
+| **Name** | Models Atac Seq |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/references/models-atac-seq.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/references/models-atac-seq.md` |
 | **Category** | automation |

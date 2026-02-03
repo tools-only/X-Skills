@@ -1,8 +1,8 @@
-# gwas-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | gwas-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gwas-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gwas-database/SKILL.md` |
 | **Category** | commercial |

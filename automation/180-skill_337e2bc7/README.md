@@ -1,8 +1,8 @@
-# fnd.r-scoring-problems
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fnd.r-scoring-problems |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-scoring-problems/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/fnd.r-scoring-problems/SKILL.md` |
 | **Category** | data-analysis |

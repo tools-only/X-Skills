@@ -1,8 +1,8 @@
-# timeline-generator
+# Generate Timeline Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | timeline-generator |
+| **Name** | Generate Timeline Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/generate-timeline-skill.md) (⭐ 14) |
 | **Original Path** | `docs/prompts/generate-timeline-skill.md` |
 | **Category** | data-analysis |

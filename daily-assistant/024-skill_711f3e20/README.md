@@ -1,8 +1,8 @@
-# feature-forge
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | feature-forge |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/feature-forge/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/feature-forge/SKILL.md` |
 | **Category** | daily-assistant |

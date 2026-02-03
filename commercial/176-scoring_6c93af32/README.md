@@ -1,8 +1,8 @@
-# Pain Intensity & Prioritization Rubric
+# Scoring
 
 | Property | Value |
 |----------|-------|
-| **Name** | Pain Intensity & Prioritization Rubric |
+| **Name** | Scoring |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-segmenting-customers/references/scoring.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/fnd.r-segmenting-customers/references/scoring.md` |
 | **Category** | commercial |

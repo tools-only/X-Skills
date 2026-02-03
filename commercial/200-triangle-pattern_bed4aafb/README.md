@@ -1,8 +1,8 @@
-# Flow-LWC-Apex Triangle: Flow Perspective
+# Triangle Pattern
 
 | Property | Value |
 |----------|-------|
-| **Name** | Flow-LWC-Apex Triangle: Flow Perspective |
+| **Name** | Triangle Pattern |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/docs/triangle-pattern.md) (⭐ 47) |
 | **Original Path** | `sf-flow/docs/triangle-pattern.md` |
 | **Category** | commercial |

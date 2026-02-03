@@ -1,8 +1,8 @@
-# senior-ml-engineer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | senior-ml-engineer |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-ml-engineer/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-ml-engineer/SKILL.md` |
 | **Category** | automation |

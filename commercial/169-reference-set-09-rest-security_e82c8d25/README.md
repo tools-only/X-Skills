@@ -1,8 +1,8 @@
-# REST Security Cheat Sheet
+# Reference Set 09 Rest Security
 
 | Property | Value |
 |----------|-------|
-| **Name** | REST Security Cheat Sheet |
+| **Name** | Reference Set 09 Rest Security |
 | **Repository** | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-security.md) (⭐ 130) |
 | **Original Path** | `knowledge/security-controls/references/reference-set-09-rest-security.md` |
 | **Category** | commercial |

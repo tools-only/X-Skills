@@ -1,8 +1,8 @@
-# Leadership & Organizational Culture Guide
+# Leadership Organizational Culture
 
 | Property | Value |
 |----------|-------|
-| **Name** | Leadership & Organizational Culture Guide |
+| **Name** | Leadership Organizational Culture |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/c-level-advisor/ceo-advisor/references/leadership_organizational_culture.md) (⭐ 1.5k) |
 | **Original Path** | `c-level-advisor/ceo-advisor/references/leadership_organizational_culture.md` |
 | **Category** | commercial |

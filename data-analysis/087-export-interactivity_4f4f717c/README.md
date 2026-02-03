@@ -1,8 +1,8 @@
-# Export and Interactivity
+# Export Interactivity
 
 | Property | Value |
 |----------|-------|
-| **Name** | Export and Interactivity |
+| **Name** | Export Interactivity |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/plotly/references/export-interactivity.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/plotly/references/export-interactivity.md` |
 | **Category** | data-analysis |

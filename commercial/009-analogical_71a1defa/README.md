@@ -1,8 +1,8 @@
-# Analogical Mode
+# Analogical
 
 | Property | Value |
 |----------|-------|
-| **Name** | Analogical Mode |
+| **Name** | Analogical |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/analogical.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-reasoning-problems/references/analogical.md` |
 | **Category** | commercial |

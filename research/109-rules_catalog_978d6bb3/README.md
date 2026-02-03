@@ -1,8 +1,8 @@
-# Medchem Rules and Filters Catalog
+# Rules Catalog
 
 | Property | Value |
 |----------|-------|
-| **Name** | Medchem Rules and Filters Catalog |
+| **Name** | Rules Catalog |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/medchem/references/rules_catalog.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/medchem/references/rules_catalog.md` |
 | **Category** | research |

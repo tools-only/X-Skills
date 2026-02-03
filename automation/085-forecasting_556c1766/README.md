@@ -1,8 +1,8 @@
-# Time Series Forecasting
+# Forecasting
 
 | Property | Value |
 |----------|-------|
-| **Name** | Time Series Forecasting |
+| **Name** | Forecasting |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/aeon/references/forecasting.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/aeon/references/forecasting.md` |
 | **Category** | automation |

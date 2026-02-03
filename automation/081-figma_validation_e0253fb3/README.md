@@ -1,8 +1,8 @@
-# Figma Design Validation with MCP
+# Figma Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Figma Design Validation with MCP |
+| **Name** | Figma Validation |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/qa-test-planner/references/figma_validation.md) (⭐ 383) |
 | **Original Path** | `skills/qa-test-planner/references/figma_validation.md` |
 | **Category** | automation |

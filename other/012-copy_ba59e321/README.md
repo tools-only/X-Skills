@@ -1,8 +1,8 @@
-# 阶段3：文案定稿（Copy Spec：唯一真值）
+# 03 Copy
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段3：文案定稿（Copy Spec：唯一真值） |
+| **Name** | 03 Copy |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/03-copy.md) (⭐ 80) |
 | **Original Path** | `image-assistant/stages/03-copy.md` |
 | **Category** | other |

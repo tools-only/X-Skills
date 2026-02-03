@@ -1,8 +1,8 @@
-# ADR 021: Output Configuration
+# 021 Output Config
 
 | Property | Value |
 |----------|-------|
-| **Name** | ADR 021: Output Configuration |
+| **Name** | 021 Output Config |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/dev-docs/ADRs/021-output-config.md) (⭐ 93) |
 | **Original Path** | `dev-docs/ADRs/021-output-config.md` |
 | **Category** | commercial |

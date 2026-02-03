@@ -1,8 +1,8 @@
-# mermaidjs-v11
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | mermaidjs-v11 |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/mermaidjs-v11/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/mermaidjs-v11/SKILL.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# ml-paper-writing
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ml-paper-writing |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/20-ml-paper-writing/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/20-ml-paper-writing/SKILL.md` |
 | **Category** | research |

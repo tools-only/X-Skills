@@ -1,8 +1,8 @@
-# 1d-cutting-stock
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | 1d-cutting-stock |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/1d-cutting-stock/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/1d-cutting-stock/SKILL.md` |
 | **Category** | data-analysis |

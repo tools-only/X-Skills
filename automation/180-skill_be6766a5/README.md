@@ -1,8 +1,8 @@
-# fine-tuning-expert
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fine-tuning-expert |
+| **Name** | Skill |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fine-tuning-expert/SKILL.md) (⭐ 216) |
 | **Original Path** | `skills/fine-tuning-expert/SKILL.md` |
 | **Category** | automation |

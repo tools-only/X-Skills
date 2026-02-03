@@ -1,8 +1,8 @@
-# Section Checklist by Project Type
+# Section Checklist
 
 | Property | Value |
 |----------|-------|
-| **Name** | Section Checklist by Project Type |
+| **Name** | Section Checklist |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/crafting-effective-readmes/section-checklist.md) (⭐ 383) |
 | **Original Path** | `skills/crafting-effective-readmes/section-checklist.md` |
 | **Category** | automation |

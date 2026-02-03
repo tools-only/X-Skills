@@ -1,8 +1,8 @@
-# Tribalknowledge
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Tribalknowledge |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/TribalKnowledge/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/TribalKnowledge/SKILL.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Three-Color DFS Cycle Detection
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Three-Color DFS Cycle Detection |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/three-color-dfs/index.md) (⭐ 14) |
 | **Original Path** | `docs/sims/three-color-dfs/index.md` |
 | **Category** | data-analysis |

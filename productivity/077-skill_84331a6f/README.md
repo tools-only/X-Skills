@@ -1,8 +1,8 @@
-# rsn-learning-outcomes
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | rsn-learning-outcomes |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-learning-outcomes/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-learning-outcomes/SKILL.md` |
 | **Category** | productivity |

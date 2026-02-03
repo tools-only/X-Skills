@@ -1,8 +1,8 @@
-# ASP.NET Core Patterns
+# Aspnet Core
 
 | Property | Value |
 |----------|-------|
-| **Name** | ASP.NET Core Patterns |
+| **Name** | Aspnet Core |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/csharp-developer/references/aspnet-core.md) (⭐ 216) |
 | **Original Path** | `skills/csharp-developer/references/aspnet-core.md` |
 | **Category** | communication |

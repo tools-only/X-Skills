@@ -1,8 +1,8 @@
-# biopython
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | biopython |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/biopython/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/biopython/SKILL.md` |
 | **Category** | automation |

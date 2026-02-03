@@ -1,8 +1,8 @@
-# 第一阶段：思维挖掘
+# 01 Mining
 
 | Property | Value |
 |----------|-------|
-| **Name** | 第一阶段：思维挖掘 |
+| **Name** | 01 Mining |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/01-mining.md) (⭐ 80) |
 | **Original Path** | `thought-mining/stages/01-mining.md` |
 | **Category** | other |

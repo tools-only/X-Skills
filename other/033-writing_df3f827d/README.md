@@ -1,8 +1,8 @@
-# 第四阶段：写作辅助
+# 04 Writing
 
 | Property | Value |
 |----------|-------|
-| **Name** | 第四阶段：写作辅助 |
+| **Name** | 04 Writing |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/stages/04-writing.md) (⭐ 80) |
 | **Original Path** | `thought-mining/stages/04-writing.md` |
 | **Category** | other |

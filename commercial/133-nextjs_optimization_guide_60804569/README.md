@@ -1,8 +1,8 @@
-# cdn.example.com
+# Nextjs Optimization Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | cdn.example.com |
+| **Name** | Nextjs Optimization Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-frontend/references/nextjs_optimization_guide.md) (⭐ 1.5k) |
 | **Original Path** | `engineering-team/senior-frontend/references/nextjs_optimization_guide.md` |
 | **Category** | commercial |

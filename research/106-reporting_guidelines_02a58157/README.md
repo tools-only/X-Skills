@@ -1,8 +1,8 @@
-# ** Consolidated Standards of Reporting Trials
+# Reporting Guidelines
 
 | Property | Value |
 |----------|-------|
-| **Name** | ** Consolidated Standards of Reporting Trials |
+| **Name** | Reporting Guidelines |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/references/reporting_guidelines.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-writing/references/reporting_guidelines.md` |
 | **Category** | research |

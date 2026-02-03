@@ -1,8 +1,8 @@
-# Neuropixels Preprocessing Reference
+# Preprocessing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Neuropixels Preprocessing Reference |
+| **Name** | Preprocessing |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neuropixels-analysis/references/PREPROCESSING.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neuropixels-analysis/references/PREPROCESSING.md` |
 | **Category** | data-analysis |

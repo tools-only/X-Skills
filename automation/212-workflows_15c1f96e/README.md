@@ -1,8 +1,8 @@
-# DeepChem Workflows
+# Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | DeepChem Workflows |
+| **Name** | Workflows |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/deepchem/references/workflows.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/deepchem/references/workflows.md` |
 | **Category** | automation |

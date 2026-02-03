@@ -1,8 +1,8 @@
-# Prompt Optimization Frameworks
+# Optimization Frameworks
 
 | Property | Value |
 |----------|-------|
-| **Name** | Prompt Optimization Frameworks |
+| **Name** | Optimization Frameworks |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/ai/prompt-engineering/references/optimization-frameworks.md) (⭐ 80) |
 | **Original Path** | `skills/ai/prompt-engineering/references/optimization-frameworks.md` |
 | **Category** | data-analysis |

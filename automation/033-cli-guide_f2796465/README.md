@@ -1,8 +1,8 @@
-# Agent Testing
+# Cli Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Agent Testing |
+| **Name** | Cli Guide |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/cli-guide.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentscript/docs/cli-guide.md` |
 | **Category** | automation |

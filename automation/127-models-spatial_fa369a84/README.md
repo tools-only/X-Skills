@@ -1,8 +1,8 @@
-# Spatial Transcriptomics Models
+# Models Spatial
 
 | Property | Value |
 |----------|-------|
-| **Name** | Spatial Transcriptomics Models |
+| **Name** | Models Spatial |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/references/models-spatial.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/references/models-spatial.md` |
 | **Category** | automation |

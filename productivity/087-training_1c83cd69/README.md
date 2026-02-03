@@ -1,8 +1,8 @@
-# Training and Fine-Tuning
+# Training
 
 | Property | Value |
 |----------|-------|
-| **Name** | Training and Fine-Tuning |
+| **Name** | Training |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/transformers/references/training.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/transformers/references/training.md` |
 | **Category** | productivity |

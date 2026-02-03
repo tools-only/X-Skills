@@ -1,8 +1,8 @@
-# Scientific Method Core Principles
+# Scientific Method
 
 | Property | Value |
 |----------|-------|
-| **Name** | Scientific Method Core Principles |
+| **Name** | Scientific Method |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/references/scientific_method.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scientific-critical-thinking/references/scientific_method.md` |
 | **Category** | research |

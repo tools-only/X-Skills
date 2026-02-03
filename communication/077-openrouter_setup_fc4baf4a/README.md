@@ -1,8 +1,8 @@
-# OpenRouter Setup Guide
+# Openrouter Setup
 
 | Property | Value |
 |----------|-------|
-| **Name** | OpenRouter Setup Guide |
+| **Name** | Openrouter Setup |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/perplexity-search/references/openrouter_setup.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/perplexity-search/references/openrouter_setup.md` |
 | **Category** | communication |

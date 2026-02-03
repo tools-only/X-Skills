@@ -1,8 +1,8 @@
-# Datasets Reference
+# Datasets
 
 | Property | Value |
 |----------|-------|
-| **Name** | Datasets Reference |
+| **Name** | Datasets |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/torchdrug/references/datasets.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/torchdrug/references/datasets.md` |
 | **Category** | research |

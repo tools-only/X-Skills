@@ -1,8 +1,8 @@
-# claude-api-cost-optimization
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | claude-api-cost-optimization |
+| **Name** | Skill |
 | **Repository** | [sstklen/claude-api-cost-optimization](https://raw.githubusercontent.com/sstklen/claude-api-cost-optimization/main/SKILL.md) (⭐ 17) |
 | **Original Path** | `SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# Remote and Async Communication
+# Remote Async Communication
 
 | Property | Value |
 |----------|-------|
-| **Name** | Remote and Async Communication |
+| **Name** | Remote Async Communication |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/professional-communication/references/remote-async-communication.md) (⭐ 383) |
 | **Original Path** | `skills/professional-communication/references/remote-async-communication.md` |
 | **Category** | content-creation |

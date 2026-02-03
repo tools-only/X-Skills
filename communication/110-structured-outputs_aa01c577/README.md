@@ -1,8 +1,8 @@
-# string
+# Structured Outputs
 
 | Property | Value |
 |----------|-------|
-| **Name** | string |
+| **Name** | Structured Outputs |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/prompt-engineer/references/structured-outputs.md) (⭐ 216) |
 | **Original Path** | `skills/prompt-engineer/references/structured-outputs.md` |
 | **Category** | communication |

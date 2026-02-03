@@ -1,8 +1,8 @@
-# Matplotlib Styling Guide
+# Styling Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Matplotlib Styling Guide |
+| **Name** | Styling Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matplotlib/references/styling_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matplotlib/references/styling_guide.md` |
 | **Category** | data-analysis |

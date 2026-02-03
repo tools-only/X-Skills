@@ -1,8 +1,8 @@
-# TDC Molecule Generation Oracles
+# Oracles
 
 | Property | Value |
 |----------|-------|
-| **Name** | TDC Molecule Generation Oracles |
+| **Name** | Oracles |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytdc/references/oracles.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytdc/references/oracles.md` |
 | **Category** | research |

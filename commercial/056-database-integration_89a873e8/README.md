@@ -1,8 +1,8 @@
-# myapp
+# Database Integration
 
 | Property | Value |
 |----------|-------|
-| **Name** | myapp |
+| **Name** | Database Integration |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/better-auth/references/database-integration.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/better-auth/references/database-integration.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# Metadata Extraction Guide
+# Metadata Extraction
 
 | Property | Value |
 |----------|-------|
-| **Name** | Metadata Extraction Guide |
+| **Name** | Metadata Extraction |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/references/metadata_extraction.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/citation-management/references/metadata_extraction.md` |
 | **Category** | research |

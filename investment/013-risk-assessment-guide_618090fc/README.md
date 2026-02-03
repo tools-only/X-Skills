@@ -1,8 +1,8 @@
-# Risk Assessment Methodology Guide
+# Risk Assessment Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | Risk Assessment Methodology Guide |
+| **Name** | Risk Assessment Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/information-security-manager-iso27001/references/risk-assessment-guide.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/information-security-manager-iso27001/references/risk-assessment-guide.md` |
 | **Category** | investment |

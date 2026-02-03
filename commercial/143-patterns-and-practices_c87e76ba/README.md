@@ -1,8 +1,8 @@
-# mutable string =
+# Patterns And Practices
 
 | Property | Value |
 |----------|-------|
-| **Name** | mutable string = |
+| **Name** | Patterns And Practices |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-legacy/docs/patterns-and-practices.md) (⭐ 47) |
 | **Original Path** | `sf-ai-agentforce-legacy/docs/patterns-and-practices.md` |
 | **Category** | commercial |

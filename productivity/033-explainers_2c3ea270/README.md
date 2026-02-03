@@ -1,8 +1,8 @@
-# SHAP Explainers Reference
+# Explainers
 
 | Property | Value |
 |----------|-------|
-| **Name** | SHAP Explainers Reference |
+| **Name** | Explainers |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/shap/references/explainers.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/shap/references/explainers.md` |
 | **Category** | productivity |

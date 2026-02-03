@@ -1,8 +1,8 @@
-# Datamol Descriptors and Visualization Reference
+# Descriptors Viz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Datamol Descriptors and Visualization Reference |
+| **Name** | Descriptors Viz |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/datamol/references/descriptors_viz.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/datamol/references/descriptors_viz.md` |
 | **Category** | data-analysis |

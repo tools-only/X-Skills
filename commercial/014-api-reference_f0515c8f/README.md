@@ -1,8 +1,8 @@
-# LangChain4j Vector Stores - API References
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | LangChain4j Vector Stores - API References |
+| **Name** | Api Reference |
 | **Repository** | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/references/api-reference.md) (⭐ 80) |
 | **Original Path** | `skills/langchain4j/langchain4j-vector-stores-configuration/references/api-reference.md` |
 | **Category** | commercial |

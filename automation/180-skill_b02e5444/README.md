@@ -1,8 +1,8 @@
-# context-engineering
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | context-engineering |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/context-engineering/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/context-engineering/SKILL.md` |
 | **Category** | automation |

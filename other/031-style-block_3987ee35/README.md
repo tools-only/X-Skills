@@ -1,8 +1,8 @@
-# 通用风格块（风格基准：必须以此为唯一基础）
+# Style Block
 
 | Property | Value |
 |----------|-------|
-| **Name** | 通用风格块（风格基准：必须以此为唯一基础） |
+| **Name** | Style Block |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/style-block.md) (⭐ 80) |
 | **Original Path** | `image-assistant/templates/style-block.md` |
 | **Category** | other |

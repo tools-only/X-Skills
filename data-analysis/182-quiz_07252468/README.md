@@ -1,8 +1,8 @@
-# Quiz: Educational Resources and Assessment
+# Quiz
 
 | Property | Value |
 |----------|-------|
-| **Name** | Quiz: Educational Resources and Assessment |
+| **Name** | Quiz |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/11-educational-resources-assessment/quiz.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/11-educational-resources-assessment/quiz.md` |
 | **Category** | data-analysis |

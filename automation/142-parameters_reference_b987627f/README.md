@@ -1,8 +1,8 @@
-# DiffDock Configuration Parameters Reference
+# Parameters Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | DiffDock Configuration Parameters Reference |
+| **Name** | Parameters Reference |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/diffdock/references/parameters_reference.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/diffdock/references/parameters_reference.md` |
 | **Category** | automation |

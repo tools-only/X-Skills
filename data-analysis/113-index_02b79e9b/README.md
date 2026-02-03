@@ -1,8 +1,8 @@
-# Taxonomy and Data Formats
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Taxonomy and Data Formats |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/07-taxonomy-data-formats/index.md) (⭐ 14) |
 | **Original Path** | `docs/chapters/07-taxonomy-data-formats/index.md` |
 | **Category** | data-analysis |

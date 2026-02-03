@@ -1,8 +1,8 @@
-# agent-cli-developer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-cli-developer |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-cli-developer/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-cli-developer/SKILL.md` |
 | **Category** | productivity |

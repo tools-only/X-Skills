@@ -1,8 +1,8 @@
-# Electrodermal Activity (EDA) Analysis
+# Eda
 
 | Property | Value |
 |----------|-------|
-| **Name** | Electrodermal Activity (EDA) Analysis |
+| **Name** | Eda |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/neurokit2/references/eda.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/neurokit2/references/eda.md` |
 | **Category** | data-analysis |

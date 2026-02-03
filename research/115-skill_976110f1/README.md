@@ -1,8 +1,8 @@
-# clinvar-database
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | clinvar-database |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinvar-database/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/clinvar-database/SKILL.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# Awesome Claude Code
+# Act
 
 | Property | Value |
 |----------|-------|
-| **Name** | Awesome Claude Code |
+| **Name** | Act |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/resources/slash-commands/act/act.md) (🔥 22.5k) |
 | **Original Path** | `resources/slash-commands/act/act.md` |
 | **Category** | daily-assistant |

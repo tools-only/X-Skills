@@ -1,8 +1,8 @@
-# 阶段03：框架讨论
+# 03 Framework
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段03：框架讨论 |
+| **Name** | 03 Framework |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/writing-assistant/stages/03-framework.md) (⭐ 80) |
 | **Original Path** | `writing-assistant/stages/03-framework.md` |
 | **Category** | other |

@@ -1,8 +1,8 @@
-# Accounts Reconciler
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Accounts Reconciler |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accounts-reconciler/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accounts-reconciler/SKILL.md` |
 | **Category** | commercial |

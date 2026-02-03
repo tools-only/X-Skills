@@ -1,8 +1,8 @@
-# vis.js Network Format Reference for Learning Graph Generator
+# Vis Network Json Format
 
 | Property | Value |
 |----------|-------|
-| **Name** | vis.js Network Format Reference for Learning Graph Generator |
+| **Name** | Vis Network Json Format |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/learning-graph-generator/vis-network-json-format.md) (⭐ 14) |
 | **Original Path** | `skills/learning-graph-generator/vis-network-json-format.md` |
 | **Category** | data-analysis |

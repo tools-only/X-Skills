@@ -1,8 +1,8 @@
-# Grant Proposal Requirements
+# Grants Requirements
 
 | Property | Value |
 |----------|-------|
-| **Name** | Grant Proposal Requirements |
+| **Name** | Grants Requirements |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/references/grants_requirements.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/venue-templates/references/grants_requirements.md` |
 | **Category** | research |

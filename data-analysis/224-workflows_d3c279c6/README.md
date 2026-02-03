@@ -1,8 +1,8 @@
-# Matchms Common Workflows
+# Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | Matchms Common Workflows |
+| **Name** | Workflows |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matchms/references/workflows.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matchms/references/workflows.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# pysam
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pysam |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pysam/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pysam/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# Structural Bioinformatics with Bio.PDB
+# Structure
 
 | Property | Value |
 |----------|-------|
-| **Name** | Structural Bioinformatics with Bio.PDB |
+| **Name** | Structure |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/biopython/references/structure.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/biopython/references/structure.md` |
 | **Category** | content-creation |

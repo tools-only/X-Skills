@@ -1,8 +1,8 @@
-# Spc
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Spc |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Spc/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Spc/SKILL.md` |
 | **Category** | data-analysis |

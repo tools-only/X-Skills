@@ -1,8 +1,8 @@
-# RVC 模型下载与使用指南
+# Rvc Model Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | RVC 模型下载与使用指南 |
+| **Name** | Rvc Model Guide |
 | **Repository** | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/voice-changer/models/RVC_MODEL_GUIDE.md) (⭐ 108) |
 | **Original Path** | `voice-changer/models/RVC_MODEL_GUIDE.md` |
 | **Category** | automation |

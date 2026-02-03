@@ -1,8 +1,8 @@
-# alignfirst
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alignfirst |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alignfirst/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alignfirst/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# meme-factory
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | meme-factory |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/meme-factory/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/meme-factory/SKILL.md` |
 | **Category** | communication |

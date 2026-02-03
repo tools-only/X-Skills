@@ -1,8 +1,8 @@
-# Terraform Infrastructure as Code
+# Terraform Iac
 
 | Property | Value |
 |----------|-------|
-| **Name** | Terraform Infrastructure as Code |
+| **Name** | Terraform Iac |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/devops-engineer/references/terraform-iac.md) (⭐ 216) |
 | **Original Path** | `skills/devops-engineer/references/terraform-iac.md` |
 | **Category** | daily-assistant |

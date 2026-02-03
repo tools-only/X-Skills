@@ -1,8 +1,8 @@
-# Health Optimization
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Health Optimization |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Health/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Health/SKILL.md` |
 | **Category** | productivity |

@@ -1,8 +1,8 @@
-# Data Visualization
+# Visualization
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Visualization |
+| **Name** | Visualization |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/vaex/references/visualization.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/vaex/references/visualization.md` |
 | **Category** | data-analysis |

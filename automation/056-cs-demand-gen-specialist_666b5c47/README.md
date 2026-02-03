@@ -1,8 +1,8 @@
-# cs-demand-gen-specialist
+# Cs Demand Gen Specialist
 
 | Property | Value |
 |----------|-------|
-| **Name** | cs-demand-gen-specialist |
+| **Name** | Cs Demand Gen Specialist |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/agents/marketing/cs-demand-gen-specialist.md) (⭐ 1.5k) |
 | **Original Path** | `agents/marketing/cs-demand-gen-specialist.md` |
 | **Category** | automation |

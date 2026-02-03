@@ -1,8 +1,8 @@
-# accessibility-basic-check
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | accessibility-basic-check |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accessibility-basic-check/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accessibility-basic-check/SKILL.md` |
 | **Category** | automation |

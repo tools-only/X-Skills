@@ -1,8 +1,8 @@
-# Enhance skill
+# Enhancement Modes
 
 | Property | Value |
 |----------|-------|
-| **Name** | Enhance skill |
+| **Name** | Enhancement Modes |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) (🔥 8.7k) |
 | **Original Path** | `docs/features/ENHANCEMENT_MODES.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# agent-task-distributor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-task-distributor |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-task-distributor/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-task-distributor/SKILL.md` |
 | **Category** | productivity |

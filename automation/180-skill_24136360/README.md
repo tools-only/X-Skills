@@ -1,8 +1,8 @@
-# ost
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ost |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/product-development/ost/SKILL.md` |
 | **Category** | content-creation |

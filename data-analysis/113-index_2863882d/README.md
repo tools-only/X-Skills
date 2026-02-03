@@ -1,8 +1,8 @@
-# Learning Graph Viewer
+# Index
 
 | Property | Value |
 |----------|-------|
-| **Name** | Learning Graph Viewer |
+| **Name** | Index |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/archived/install-learning-graph-viewer/assets/index.md) (⭐ 14) |
 | **Original Path** | `skills/archived/install-learning-graph-viewer/assets/index.md` |
 | **Category** | data-analysis |

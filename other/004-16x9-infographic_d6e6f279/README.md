@@ -1,8 +1,8 @@
-# 16:9 通用信息图模板（骨架）
+# 16X9 Infographic
 
 | Property | Value |
 |----------|-------|
-| **Name** | 16:9 通用信息图模板（骨架） |
+| **Name** | 16X9 Infographic |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/templates/16x9-infographic.md) (⭐ 80) |
 | **Original Path** | `image-assistant/templates/16x9-infographic.md` |
 | **Category** | other |

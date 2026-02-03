@@ -1,8 +1,8 @@
-# Common Gene Database Workflows
+# Common Workflows
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common Gene Database Workflows |
+| **Name** | Common Workflows |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gene-database/references/common_workflows.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gene-database/references/common_workflows.md` |
 | **Category** | research |

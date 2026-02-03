@@ -1,8 +1,8 @@
-# microsim-utils
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | microsim-utils |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-utils/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/microsim-utils/SKILL.md` |
 | **Category** | automation |

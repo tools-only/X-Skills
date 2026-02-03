@@ -1,8 +1,8 @@
-# ai-marketing-engineering
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ai-marketing-engineering |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ai-marketing-engineering/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ai-marketing-engineering/SKILL.md` |
 | **Category** | content-creation |

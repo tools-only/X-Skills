@@ -1,8 +1,8 @@
-# todo-dashboard-ui
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | todo-dashboard-ui |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/Dashbaord-skill/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/Dashbaord-skill/SKILL.md` |
 | **Category** | daily-assistant |

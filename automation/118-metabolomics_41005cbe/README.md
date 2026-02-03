@@ -1,8 +1,8 @@
-# Metabolomics Workflows
+# Metabolomics
 
 | Property | Value |
 |----------|-------|
-| **Name** | Metabolomics Workflows |
+| **Name** | Metabolomics |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pyopenms/references/metabolomics.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pyopenms/references/metabolomics.md` |
 | **Category** | automation |

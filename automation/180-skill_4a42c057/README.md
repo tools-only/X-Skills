@@ -1,8 +1,8 @@
-# risk-management-specialist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | risk-management-specialist |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/risk-management-specialist/SKILL.md` |
 | **Category** | automation |

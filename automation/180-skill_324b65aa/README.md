@@ -1,8 +1,8 @@
-# scvi-tools
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | scvi-tools |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scvi-tools/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/scvi-tools/SKILL.md` |
 | **Category** | automation |

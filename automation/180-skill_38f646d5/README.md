@@ -1,8 +1,8 @@
-# commit-work
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | commit-work |
+| **Name** | Skill |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/development/workflow/commit-work/SKILL.md) (⭐ 372) |
 | **Original Path** | `skills/development/workflow/commit-work/SKILL.md` |
 | **Category** | automation |

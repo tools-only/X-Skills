@@ -1,8 +1,8 @@
-# accounts-payable-workflow
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | accounts-payable-workflow |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/accounts-payable-workflow/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/accounts-payable-workflow/SKILL.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# string) => storage.getString(name) ?? null,
+# Storage Hooks
 
 | Property | Value |
 |----------|-------|
-| **Name** | string) => storage.getString(name) ?? null, |
+| **Name** | Storage Hooks |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/react-native-expert/references/storage-hooks.md) (⭐ 216) |
 | **Original Path** | `skills/react-native-expert/references/storage-hooks.md` |
 | **Category** | data-analysis |

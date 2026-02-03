@@ -1,8 +1,8 @@
-# Parallelism Strategies Guide
+# Parallelism Strategies
 
 | Property | Value |
 |----------|-------|
-| **Name** | Parallelism Strategies Guide |
+| **Name** | Parallelism Strategies |
 | **Repository** | [yzlnew/infra-skills](https://raw.githubusercontent.com/yzlnew/infra-skills/main/megatron-memory-estimator/references/parallelism_strategies.md) (⭐ 53) |
 | **Original Path** | `megatron-memory-estimator/references/parallelism_strategies.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# agentic-layer-audit
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agentic-layer-audit |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agentic-layer-audit/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agentic-layer-audit/SKILL.md` |
 | **Category** | daily-assistant |

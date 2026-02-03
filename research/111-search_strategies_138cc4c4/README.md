@@ -1,8 +1,8 @@
-# Search Strategies for Perplexity
+# Search Strategies
 
 | Property | Value |
 |----------|-------|
-| **Name** | Search Strategies for Perplexity |
+| **Name** | Search Strategies |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/perplexity-search/references/search_strategies.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/perplexity-search/references/search_strategies.md` |
 | **Category** | research |

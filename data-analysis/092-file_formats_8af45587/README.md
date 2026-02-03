@@ -1,8 +1,8 @@
-# File Format Support
+# File Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | File Format Support |
+| **Name** | File Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markitdown/references/file_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/markitdown/references/file_formats.md` |
 | **Category** | data-analysis |

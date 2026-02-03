@@ -1,8 +1,8 @@
-# Preprocessing Pipelines & Transforms
+# Preprocessing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Preprocessing Pipelines & Transforms |
+| **Name** | Preprocessing |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pathml/references/preprocessing.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pathml/references/preprocessing.md` |
 | **Category** | data-analysis |

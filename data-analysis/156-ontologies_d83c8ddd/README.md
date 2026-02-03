@@ -1,8 +1,8 @@
-# LaminDB Ontology Management
+# Ontologies
 
 | Property | Value |
 |----------|-------|
-| **Name** | LaminDB Ontology Management |
+| **Name** | Ontologies |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/lamindb/references/ontologies.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/lamindb/references/ontologies.md` |
 | **Category** | data-analysis |

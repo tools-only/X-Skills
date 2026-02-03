@@ -1,8 +1,8 @@
-# NetworkX Graph Generators
+# Generators
 
 | Property | Value |
 |----------|-------|
-| **Name** | NetworkX Graph Generators |
+| **Name** | Generators |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/networkx/references/generators.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/networkx/references/generators.md` |
 | **Category** | commercial |

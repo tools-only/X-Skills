@@ -1,8 +1,8 @@
-# Don't Forget
+# Do Not Forget
 
 | Property | Value |
 |----------|-------|
-| **Name** | Don't Forget |
+| **Name** | Do Not Forget |
 | **Repository** | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/do-not-forget.md) (🔥 22.5k) |
 | **Original Path** | `docs/development/do-not-forget.md` |
 | **Category** | data-analysis |

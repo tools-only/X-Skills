@@ -1,8 +1,8 @@
-# Salesforce CLI SOQL Commands
+# Cli Commands
 
 | Property | Value |
 |----------|-------|
-| **Name** | Salesforce CLI SOQL Commands |
+| **Name** | Cli Commands |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/cli-commands.md) (⭐ 47) |
 | **Original Path** | `sf-soql/docs/cli-commands.md` |
 | **Category** | commercial |

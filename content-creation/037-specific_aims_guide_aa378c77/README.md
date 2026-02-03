@@ -1,8 +1,8 @@
-# NIH Specific Aims Page: The Complete Guide
+# Specific Aims Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | NIH Specific Aims Page: The Complete Guide |
+| **Name** | Specific Aims Guide |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/references/specific_aims_guide.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/research-grants/references/specific_aims_guide.md` |
 | **Category** | content-creation |

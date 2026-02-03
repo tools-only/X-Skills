@@ -1,8 +1,8 @@
-# Bloom Taxonomy Action Verbs by Level
+# Bloom Taxonomy Verbs
 
 | Property | Value |
 |----------|-------|
-| **Name** | Bloom Taxonomy Action Verbs by Level |
+| **Name** | Bloom Taxonomy Verbs |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/bloom-taxonomy-verbs.md) (⭐ 14) |
 | **Original Path** | `skills/chapter-content-generator/references/bloom-taxonomy-verbs.md` |
 | **Category** | data-analysis |

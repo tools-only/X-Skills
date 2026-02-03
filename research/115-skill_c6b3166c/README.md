@@ -1,8 +1,8 @@
-# extracting-keywords
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | extracting-keywords |
+| **Name** | Skill |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/extracting-keywords/SKILL.md) (⭐ 78) |
 | **Original Path** | `extracting-keywords/SKILL.md` |
 | **Category** | research |

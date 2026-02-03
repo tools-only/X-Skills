@@ -1,8 +1,8 @@
-# Angular Routing
+# Routing
 
 | Property | Value |
 |----------|-------|
-| **Name** | Angular Routing |
+| **Name** | Routing |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/angular-architect/references/routing.md) (⭐ 216) |
 | **Original Path** | `skills/angular-architect/references/routing.md` |
 | **Category** | data-analysis |

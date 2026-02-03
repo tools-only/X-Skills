@@ -1,8 +1,8 @@
-# agent-assistant
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-assistant |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-assistant/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-assistant/SKILL.md` |
 | **Category** | commercial |

@@ -1,8 +1,8 @@
-# book-chapter-generator
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | book-chapter-generator |
+| **Name** | Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-chapter-generator/SKILL.md) (⭐ 14) |
 | **Original Path** | `skills/book-chapter-generator/SKILL.md` |
 | **Category** | content-creation |

@@ -1,8 +1,8 @@
-# Time Series Clustering
+# Clustering
 
 | Property | Value |
 |----------|-------|
-| **Name** | Time Series Clustering |
+| **Name** | Clustering |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/aeon/references/clustering.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/aeon/references/clustering.md` |
 | **Category** | data-analysis |

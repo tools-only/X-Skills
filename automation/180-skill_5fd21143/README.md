@@ -1,8 +1,8 @@
-# ac-workspace-manager
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ac-workspace-manager |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/ac-workspace-manager/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/ac-workspace-manager/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# LightningDataModule - Comprehensive Guide
+# Data Module
 
 | Property | Value |
 |----------|-------|
-| **Name** | LightningDataModule - Comprehensive Guide |
+| **Name** | Data Module |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pytorch-lightning/references/data_module.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pytorch-lightning/references/data_module.md` |
 | **Category** | data-analysis |

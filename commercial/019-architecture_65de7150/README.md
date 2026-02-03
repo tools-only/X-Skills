@@ -1,8 +1,8 @@
-# Architecture Overview
+# 01 Architecture
 
 | Property | Value |
 |----------|-------|
-| **Name** | Architecture Overview |
+| **Name** | 01 Architecture |
 | **Repository** | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) (⭐ 440) |
 | **Original Path** | `docs/en/concepts/01-architecture.md` |
 | **Category** | commercial |

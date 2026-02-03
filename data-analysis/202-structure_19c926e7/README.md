@@ -1,8 +1,8 @@
-# Input Data Structures
+# Structure
 
 | Property | Value |
 |----------|-------|
-| **Name** | Input Data Structures |
+| **Name** | Structure |
 | **Repository** | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/structure.md) (⭐ 12) |
 | **Original Path** | `docs/guide/input_data/structure.md` |
 | **Category** | data-analysis |

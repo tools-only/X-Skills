@@ -1,8 +1,8 @@
-# agent-legal-advisor
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-legal-advisor |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-legal-advisor/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-legal-advisor/SKILL.md` |
 | **Category** | daily-assistant |

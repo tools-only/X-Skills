@@ -1,8 +1,8 @@
-# string; email: string };
+# Hooks
 
 | Property | Value |
 |----------|-------|
-| **Name** | string; email: string }; |
+| **Name** | Hooks |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/references/hooks.md) (⭐ 383) |
 | **Original Path** | `skills/react-dev/references/hooks.md` |
 | **Category** | communication |

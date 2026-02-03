@@ -1,8 +1,8 @@
-# Generate Skills
+# Api Reference
 
 | Property | Value |
 |----------|-------|
-| **Name** | Generate Skills |
+| **Name** | Api Reference |
 | **Repository** | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/API_REFERENCE.md) (🔥 8.7k) |
 | **Original Path** | `docs/reference/API_REFERENCE.md` |
 | **Category** | automation |

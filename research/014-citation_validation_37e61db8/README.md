@@ -1,8 +1,8 @@
-# Citation Validation Guide
+# Citation Validation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Citation Validation Guide |
+| **Name** | Citation Validation |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/references/citation_validation.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/citation-management/references/citation_validation.md` |
 | **Category** | research |

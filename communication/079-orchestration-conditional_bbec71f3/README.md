@@ -1,8 +1,8 @@
-# Orchestration Pattern: Conditional
+# Orchestration Conditional
 
 | Property | Value |
 |----------|-------|
-| **Name** | Orchestration Pattern: Conditional |
+| **Name** | Orchestration Conditional |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/examples/orchestration-conditional.md) (⭐ 47) |
 | **Original Path** | `sf-flow/examples/orchestration-conditional.md` |
 | **Category** | communication |

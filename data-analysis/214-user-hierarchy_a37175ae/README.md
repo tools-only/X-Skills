@@ -1,8 +1,8 @@
-# Role Hierarchy Diagram Template
+# User Hierarchy
 
 | Property | Value |
 |----------|-------|
-| **Name** | Role Hierarchy Diagram Template |
+| **Name** | User Hierarchy |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/role-hierarchy/user-hierarchy.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/role-hierarchy/user-hierarchy.md` |
 | **Category** | data-analysis |

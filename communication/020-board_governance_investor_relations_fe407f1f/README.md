@@ -1,8 +1,8 @@
-# Board Governance & Investor Relations Guide
+# Board Governance Investor Relations
 
 | Property | Value |
 |----------|-------|
-| **Name** | Board Governance & Investor Relations Guide |
+| **Name** | Board Governance Investor Relations |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/c-level-advisor/ceo-advisor/references/board_governance_investor_relations.md) (⭐ 1.5k) |
 | **Original Path** | `c-level-advisor/ceo-advisor/references/board_governance_investor_relations.md` |
 | **Category** | daily-assistant |

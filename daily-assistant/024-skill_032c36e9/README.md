@@ -1,8 +1,8 @@
-# ask-user-question
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ask-user-question |
+| **Name** | Skill |
 | **Repository** | [MemTensor/MemOS](https://raw.githubusercontent.com/MemTensor/MemOS/main/openwork-memos-integration/apps/desktop/skills/ask-user-question/SKILL.md) (⭐ 4.9k) |
 | **Original Path** | `openwork-memos-integration/apps/desktop/skills/ask-user-question/SKILL.md` |
 | **Category** | content-creation |

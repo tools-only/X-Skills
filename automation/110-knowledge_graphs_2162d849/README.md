@@ -1,8 +1,8 @@
-# Knowledge Graph Reasoning
+# Knowledge Graphs
 
 | Property | Value |
 |----------|-------|
-| **Name** | Knowledge Graph Reasoning |
+| **Name** | Knowledge Graphs |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/torchdrug/references/knowledge_graphs.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/torchdrug/references/knowledge_graphs.md` |
 | **Category** | automation |

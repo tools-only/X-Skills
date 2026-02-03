@@ -1,8 +1,8 @@
-# Data Import and Export Reference
+# Data Import Export
 
 | Property | Value |
 |----------|-------|
-| **Name** | Data Import and Export Reference |
+| **Name** | Data Import Export |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/matlab/references/data-import-export.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/matlab/references/data-import-export.md` |
 | **Category** | content-creation |

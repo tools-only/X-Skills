@@ -1,8 +1,8 @@
-# ux-researcher-designer
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | ux-researcher-designer |
+| **Name** | Skill |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/ux-researcher-designer/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `product-team/ux-researcher-designer/SKILL.md` |
 | **Category** | data-analysis |

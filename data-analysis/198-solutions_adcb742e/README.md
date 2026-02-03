@@ -1,8 +1,8 @@
-# Solutions Phase
+# Solutions
 
 | Property | Value |
 |----------|-------|
-| **Name** | Solutions Phase |
+| **Name** | Solutions |
 | **Repository** | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/solutions.md) (⭐ 372) |
 | **Original Path** | `skills/product-development/ost/references/solutions.md` |
 | **Category** | data-analysis |

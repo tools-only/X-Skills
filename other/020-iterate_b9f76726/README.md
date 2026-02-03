@@ -1,8 +1,8 @@
-# 阶段5：迭代润色（让图更好看）
+# 05 Iterate
 
 | Property | Value |
 |----------|-------|
-| **Name** | 阶段5：迭代润色（让图更好看） |
+| **Name** | 05 Iterate |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/image-assistant/stages/05-iterate.md) (⭐ 80) |
 | **Original Path** | `image-assistant/stages/05-iterate.md` |
 | **Category** | daily-assistant |

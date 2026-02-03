@@ -1,8 +1,8 @@
-# 案例：Claude Skills 文章写作过程
+# Claude Skills Case
 
 | Property | Value |
 |----------|-------|
-| **Name** | 案例：Claude Skills 文章写作过程 |
+| **Name** | Claude Skills Case |
 | **Repository** | [yunshu0909/yunshu_skillshub](https://raw.githubusercontent.com/yunshu0909/yunshu_skillshub/master/thought-mining/examples/claude-skills-case.md) (⭐ 80) |
 | **Original Path** | `thought-mining/examples/claude-skills-case.md` |
 | **Category** | development |

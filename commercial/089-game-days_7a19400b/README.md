@@ -1,8 +1,8 @@
-# Database Failover Drill
+# Game Days
 
 | Property | Value |
 |----------|-------|
-| **Name** | Database Failover Drill |
+| **Name** | Game Days |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/chaos-engineer/references/game-days.md) (⭐ 216) |
 | **Original Path** | `skills/chaos-engineer/references/game-days.md` |
 | **Category** | commercial |

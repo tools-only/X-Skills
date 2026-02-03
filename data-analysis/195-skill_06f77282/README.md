@@ -1,8 +1,8 @@
-# pymc-bayesian-modeling
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | pymc-bayesian-modeling |
+| **Name** | Skill |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pymc/SKILL.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/pymc/SKILL.md` |
 | **Category** | data-analysis |

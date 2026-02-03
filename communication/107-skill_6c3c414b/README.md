@@ -1,8 +1,8 @@
-# Verification Before Completion
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Verification Before Completion |
+| **Name** | Skill |
 | **Repository** | [mrgoonie/claudekit-skills](https://raw.githubusercontent.com/mrgoonie/claudekit-skills/main/.claude/skills/debugging/verification-before-completion/SKILL.md) (⭐ 1.5k) |
 | **Original Path** | `.claude/skills/debugging/verification-before-completion/SKILL.md` |
 | **Category** | daily-assistant |

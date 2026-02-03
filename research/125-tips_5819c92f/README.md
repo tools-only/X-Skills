@@ -1,8 +1,8 @@
-# Colin
+# Tips
 
 | Property | Value |
 |----------|-------|
-| **Name** | Colin |
+| **Name** | Tips |
 | **Repository** | [PrefectHQ/colin](https://raw.githubusercontent.com/PrefectHQ/colin/main/src/colin/blueprints/quickstart/models/tips.md) (⭐ 93) |
 | **Original Path** | `src/colin/blueprints/quickstart/models/tips.md` |
 | **Category** | research |

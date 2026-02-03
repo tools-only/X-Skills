@@ -1,8 +1,8 @@
-# Common OpenAlex Query Examples
+# Common Queries
 
 | Property | Value |
 |----------|-------|
-| **Name** | Common OpenAlex Query Examples |
+| **Name** | Common Queries |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/openalex-database/references/common_queries.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/openalex-database/references/common_queries.md` |
 | **Category** | research |

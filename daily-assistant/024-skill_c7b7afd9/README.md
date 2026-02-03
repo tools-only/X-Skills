@@ -1,8 +1,8 @@
-# alphavantage-earnings
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | alphavantage-earnings |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/alphavantage-earnings/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/alphavantage-earnings/SKILL.md` |
 | **Category** | daily-assistant |

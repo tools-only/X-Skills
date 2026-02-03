@@ -1,8 +1,8 @@
-# react-dev
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | react-dev |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/react-dev/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/react-dev/SKILL.md` |
 | **Category** | productivity |

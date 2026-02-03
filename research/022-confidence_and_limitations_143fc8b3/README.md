@@ -1,8 +1,8 @@
-# DiffDock Confidence Scores and Limitations
+# Confidence And Limitations
 
 | Property | Value |
 |----------|-------|
-| **Name** | DiffDock Confidence Scores and Limitations |
+| **Name** | Confidence And Limitations |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/diffdock/references/confidence_and_limitations.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/diffdock/references/confidence_and_limitations.md` |
 | **Category** | research |

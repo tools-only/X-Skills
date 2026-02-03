@@ -1,8 +1,8 @@
-# John
+# State Management
 
 | Property | Value |
 |----------|-------|
-| **Name** | John |
+| **Name** | State Management |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/state-management.md) (⭐ 47) |
 | **Original Path** | `sf-lwc/docs/state-management.md` |
 | **Category** | commercial |

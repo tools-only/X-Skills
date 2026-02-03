@@ -1,8 +1,8 @@
-# String
+# Memory Performance
 
 | Property | Value |
 |----------|-------|
-| **Name** | String |
+| **Name** | Memory Performance |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/swift-expert/references/memory-performance.md) (⭐ 216) |
 | **Original Path** | `skills/swift-expert/references/memory-performance.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# fetching-dbt-docs
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fetching-dbt-docs |
+| **Name** | Skill |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/fetching-dbt-docs/SKILL.md) (⭐ 10) |
 | **Original Path** | `skills/fetching-dbt-docs/SKILL.md` |
 | **Category** | research |

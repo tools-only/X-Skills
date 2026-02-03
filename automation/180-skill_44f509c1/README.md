@@ -1,8 +1,8 @@
-# add-uint-support
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | add-uint-support |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/add-uint-support/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/add-uint-support/SKILL.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Qiskit Patterns: The Four-Step Workflow
+# Patterns
 
 | Property | Value |
 |----------|-------|
-| **Name** | Qiskit Patterns: The Four-Step Workflow |
+| **Name** | Patterns |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qiskit/references/patterns.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/qiskit/references/patterns.md` |
 | **Category** | data-analysis |

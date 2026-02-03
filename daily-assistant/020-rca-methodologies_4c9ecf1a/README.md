@@ -1,8 +1,8 @@
-# Root Cause Analysis Methodologies
+# Rca Methodologies
 
 | Property | Value |
 |----------|-------|
-| **Name** | Root Cause Analysis Methodologies |
+| **Name** | Rca Methodologies |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/capa-officer/references/rca-methodologies.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/capa-officer/references/rca-methodologies.md` |
 | **Category** | daily-assistant |

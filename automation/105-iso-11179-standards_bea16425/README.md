@@ -1,8 +1,8 @@
-# ISO 11179 Metadata Registry Standards for Definitions
+# Iso 11179 Standards
 
 | Property | Value |
 |----------|-------|
-| **Name** | ISO 11179 Metadata Registry Standards for Definitions |
+| **Name** | Iso 11179 Standards |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/glossary-generator/references/iso-11179-standards.md) (⭐ 14) |
 | **Original Path** | `skills/glossary-generator/references/iso-11179-standards.md` |
 | **Category** | data-analysis |

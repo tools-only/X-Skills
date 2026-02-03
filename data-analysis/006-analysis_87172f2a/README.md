@@ -1,8 +1,8 @@
-# QuTiP Analysis and Measurement
+# Analysis
 
 | Property | Value |
 |----------|-------|
-| **Name** | QuTiP Analysis and Measurement |
+| **Name** | Analysis |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qutip/references/analysis.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/qutip/references/analysis.md` |
 | **Category** | data-analysis |

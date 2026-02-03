@@ -1,8 +1,8 @@
-# Experiment Types and Workflows
+# Experiments
 
 | Property | Value |
 |----------|-------|
-| **Name** | Experiment Types and Workflows |
+| **Name** | Experiments |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/adaptyv/reference/experiments.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/adaptyv/reference/experiments.md` |
 | **Category** | automation |

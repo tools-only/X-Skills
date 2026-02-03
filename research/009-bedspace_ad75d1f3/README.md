@@ -1,8 +1,8 @@
-# BEDspace: Joint Region and Metadata Embeddings
+# Bedspace
 
 | Property | Value |
 |----------|-------|
-| **Name** | BEDspace: Joint Region and Metadata Embeddings |
+| **Name** | Bedspace |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/geniml/references/bedspace.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/geniml/references/bedspace.md` |
 | **Category** | research |

@@ -1,8 +1,8 @@
-# fnd.r-analyzing-competition
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | fnd.r-analyzing-competition |
+| **Name** | Skill |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/fnd.r-analyzing-competition/SKILL.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/fnd.r-analyzing-competition/SKILL.md` |
 | **Category** | productivity |

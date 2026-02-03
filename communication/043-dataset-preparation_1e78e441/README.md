@@ -1,8 +1,8 @@
-# Dataset Preparation for Fine-Tuning
+# Dataset Preparation
 
 | Property | Value |
 |----------|-------|
-| **Name** | Dataset Preparation for Fine-Tuning |
+| **Name** | Dataset Preparation |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/fine-tuning-expert/references/dataset-preparation.md) (⭐ 216) |
 | **Original Path** | `skills/fine-tuning-expert/references/dataset-preparation.md` |
 | **Category** | data-analysis |

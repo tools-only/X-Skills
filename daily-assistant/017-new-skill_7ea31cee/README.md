@@ -1,8 +1,8 @@
-# New Skill Request
+# New Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | New Skill Request |
+| **Name** | New Skill |
 | **Repository** | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/.github/ISSUE_TEMPLATE/new-skill.md) (⭐ 10) |
 | **Original Path** | `.github/ISSUE_TEMPLATE/new-skill.md` |
 | **Category** | daily-assistant |

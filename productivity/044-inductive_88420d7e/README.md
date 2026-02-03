@@ -1,8 +1,8 @@
-# Inductive Mode
+# Inductive
 
 | Property | Value |
 |----------|-------|
-| **Name** | Inductive Mode |
+| **Name** | Inductive |
 | **Repository** | [BellaBe/lean-os](https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/rsn-reasoning-problems/references/inductive.md) (⭐ 14) |
 | **Original Path** | `.claude/skills/rsn-reasoning-problems/references/inductive.md` |
 | **Category** | productivity |

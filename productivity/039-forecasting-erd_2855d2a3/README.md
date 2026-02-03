@@ -1,8 +1,8 @@
-# Forecasting Data Model Template
+# Forecasting Erd
 
 | Property | Value |
 |----------|-------|
-| **Name** | Forecasting Data Model Template |
+| **Name** | Forecasting Erd |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/datamodel/forecasting-erd.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/datamodel/forecasting-erd.md` |
 | **Category** | productivity |

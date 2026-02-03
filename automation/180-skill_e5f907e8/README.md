@@ -1,8 +1,8 @@
-# android-kotlin
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | android-kotlin |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/android-kotlin/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/android-kotlin/SKILL.md` |
 | **Category** | automation |

@@ -1,8 +1,8 @@
-# [Name]
+# Effectiveness Verification Guide
 
 | Property | Value |
 |----------|-------|
-| **Name** | [Name] |
+| **Name** | Effectiveness Verification Guide |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/capa-officer/references/effectiveness-verification-guide.md) (⭐ 1.5k) |
 | **Original Path** | `ra-qm-team/capa-officer/references/effectiveness-verification-guide.md` |
 | **Category** | content-creation |

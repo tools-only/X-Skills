@@ -1,8 +1,8 @@
-# agent-react-specialist
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | agent-react-specialist |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/agent-react-specialist/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/agent-react-specialist/SKILL.md` |
 | **Category** | productivity |

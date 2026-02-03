@@ -1,8 +1,8 @@
-# Coverage Analysis with Uniwig
+# Coverage
 
 | Property | Value |
 |----------|-------|
-| **Name** | Coverage Analysis with Uniwig |
+| **Name** | Coverage |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/gtars/references/coverage.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/gtars/references/coverage.md` |
 | **Category** | data-analysis |

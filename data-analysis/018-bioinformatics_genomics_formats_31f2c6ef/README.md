@@ -1,8 +1,8 @@
-# Bioinformatics and Genomics File Formats Reference
+# Bioinformatics Genomics Formats
 
 | Property | Value |
 |----------|-------|
-| **Name** | Bioinformatics and Genomics File Formats Reference |
+| **Name** | Bioinformatics Genomics Formats |
 | **Repository** | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/exploratory-data-analysis/references/bioinformatics_genomics_formats.md) (🔥 7.7k) |
 | **Original Path** | `scientific-skills/exploratory-data-analysis/references/bioinformatics_genomics_formats.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# CLAUDE.md
+# Claude
 
 | Property | Value |
 |----------|-------|
-| **Name** | CLAUDE.md |
+| **Name** | Claude |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) (⭐ 1.5k) |
 | **Original Path** | `CLAUDE.md` |
 | **Category** | commercial |

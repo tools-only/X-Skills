@@ -1,8 +1,8 @@
-# Session Log: Create MicroSim Matcher Skill
+# Create Microsim Matcher Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Session Log: Create MicroSim Matcher Skill |
+| **Name** | Create Microsim Matcher Skill |
 | **Repository** | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/create-microsim-matcher-skill.md) (⭐ 14) |
 | **Original Path** | `logs/create-microsim-matcher-skill.md` |
 | **Category** | data-analysis |

@@ -1,8 +1,8 @@
-# Real-Time Communication Alternatives
+# Alternatives
 
 | Property | Value |
 |----------|-------|
-| **Name** | Real-Time Communication Alternatives |
+| **Name** | Alternatives |
 | **Repository** | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/websocket-engineer/references/alternatives.md) (⭐ 216) |
 | **Original Path** | `skills/websocket-engineer/references/alternatives.md` |
 | **Category** | content-creation |

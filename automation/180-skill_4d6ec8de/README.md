@@ -1,8 +1,8 @@
-# Skill Creation from Documentation
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | Skill Creation from Documentation |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/69-evaluation-quality-gates/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/69-evaluation-quality-gates/SKILL.md` |
 | **Category** | automation |

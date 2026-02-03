@@ -1,8 +1,8 @@
-# web-to-markdown
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | web-to-markdown |
+| **Name** | Skill |
 | **Repository** | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/web-to-markdown/SKILL.md) (⭐ 383) |
 | **Original Path** | `skills/web-to-markdown/SKILL.md` |
 | **Category** | automation |

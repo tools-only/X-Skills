@@ -1,8 +1,8 @@
-# Integration Sequence Diagram Template
+# Api Sequence
 
 | Property | Value |
 |----------|-------|
-| **Name** | Integration Sequence Diagram Template |
+| **Name** | Api Sequence |
 | **Repository** | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/templates/integration/api-sequence.md) (⭐ 47) |
 | **Original Path** | `sf-diagram-mermaid/templates/integration/api-sequence.md` |
 | **Category** | daily-assistant |

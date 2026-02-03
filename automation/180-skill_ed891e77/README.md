@@ -1,8 +1,8 @@
-# analytics-pipeline
+# Skill
 
 | Property | Value |
 |----------|-------|
-| **Name** | analytics-pipeline |
+| **Name** | Skill |
 | **Repository** | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/analytics-pipeline/SKILL.md) (⭐ 58) |
 | **Original Path** | `skills/analytics-pipeline/SKILL.md` |
 | **Category** | automation |

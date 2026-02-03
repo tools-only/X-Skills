@@ -1,8 +1,8 @@
-# UITree Format Specification
+# Uitree Format
 
 | Property | Value |
 |----------|-------|
-| **Name** | UITree Format Specification |
+| **Name** | Uitree Format |
 | **Repository** | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/json-render-ui/references/uitree-format.md) (⭐ 78) |
 | **Original Path** | `json-render-ui/references/uitree-format.md` |
 | **Category** | data-analysis |

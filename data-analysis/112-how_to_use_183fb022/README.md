@@ -1,8 +1,8 @@
-# How to Use This Skill
+# How To Use
 
 | Property | Value |
 |----------|-------|
-| **Name** | How to Use This Skill |
+| **Name** | How To Use |
 | **Repository** | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/social-media-analyzer/HOW_TO_USE.md) (⭐ 1.5k) |
 | **Original Path** | `marketing-skill/social-media-analyzer/HOW_TO_USE.md` |
 | **Category** | data-analysis |
