@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **5032 AI-powered skills** organized into 16 categories.
+A curated collection of **5142 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,16 +10,16 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (441 skills)
 - **Automation/Scripting** (41 skills)
-- **Automation/Workflow** (42 skills)
-- **Commercial** (364 skills)
-- **Communication** (187 skills)
-- **Content Creation** (155 skills)
-- **Daily Assistant** (148 skills)
-- **Data Analysis** (414 skills)
-- **Development** (2583 skills)
-- **Development/Devops** (98 skills)
-- **Development/Testing** (15 skills)
-- **Development/Tools** (72 skills)
+- **Automation/Workflow** (44 skills)
+- **Commercial** (369 skills)
+- **Communication** (189 skills)
+- **Content Creation** (165 skills)
+- **Daily Assistant** (152 skills)
+- **Data Analysis** (416 skills)
+- **Development** (2652 skills)
+- **Development/Devops** (109 skills)
+- **Development/Testing** (16 skills)
+- **Development/Tools** (76 skills)
 - **Investment** (37 skills)
 - **Other** (43 skills)
 - **Productivity** (173 skills)
@@ -520,7 +520,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_725a0722/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/graphql-architect/SKILL.md) | ⭐ 235 | `automation` |
 | [Cost](automation/scripting/027-cost_bafaaa1e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/cloud-architect/references/cost.md) | ⭐ 235 | `automation` |
 
-### Automation/Workflow (42 skills)
+### Automation/Workflow (44 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -566,8 +566,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_22ecfdc3/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/security-reviewer/SKILL.md) | ⭐ 235 | `automation` |
 | [Skill](automation/workflow/002-name-skill_86595b8b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/SKILL.md) | ⭐ 235 | `automation` |
 | [Skill](automation/workflow/002-name-skill_35d2debb/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/terraform-engineer/SKILL.md) | ⭐ 235 | `automation` |
+| [Knowledge Architecture V5.2](automation/workflow/knowledge-architecture-v52_f3795e84/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2.md) | ⭐ 133 | `automation` |
+| [Control Set 07 Logging](automation/workflow/control-set-07-logging_77c8558e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-07-logging.md) | ⭐ 133 | `automation` |
 
-### Commercial (364 skills)
+### Commercial (369 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -935,8 +937,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Discovery Create](commercial/247-discovery-create_a9934998/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/discovery-create.md) | ⭐ 235 | `commercial` |
 | [Skill](commercial/210-name-skill_5ec3b297/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/postgres-pro/SKILL.md) | ⭐ 235 | `commercial` |
 | [Skill](commercial/210-name-skill_a861a621/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/shopify-expert/SKILL.md) | ⭐ 235 | `commercial` |
+| [Control Set 04 Output Encoding](commercial/control-set-04-output-encoding_2b21175f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-04-output-encoding.md) | ⭐ 133 | `commercial` |
+| [Control Set 10 Data Protection](commercial/control-set-10-data-protection_69e07461/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-10-data-protection.md) | ⭐ 133 | `commercial` |
+| [Control Set Ext 01 02 Auth Patterns](commercial/control-set-ext-01_02-auth-patterns_9e7bf281/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-01_02-auth-patterns.md) | ⭐ 133 | `commercial` |
+| [Reference Set 05 Third Party Javascript](commercial/reference-set-05-third-party-javascript_75558a40/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-third-party-javascript.md) | ⭐ 133 | `commercial` |
+| [Reference Set 09 Rest Security](commercial/reference-set-09-rest-security_47087c10/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-security.md) | ⭐ 133 | `commercial` |
 
-### Communication (187 skills)
+### Communication (189 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1127,8 +1134,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Quickstart](communication/134-quickstart_925f7c3e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/quickstart.md) | ⭐ 160 | `communication` |
 | [Helpfulness Evaluator](communication/135-helpfulness_evaluator_20922343/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/evaluators/helpfulness_evaluator.md) | ⭐ 160 | `communication` |
 | [Skill](communication/127-name-skill_feb38eb0/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/SKILL.md) | ⭐ 44 | `communication` |
+| [Control Set 01 Authentication](communication/control-set-01-authentication_0f24120f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 133 | `communication` |
+| [Reference Set 02 Idor Prevention](communication/reference-set-02-idor-prevention_802750c5/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 133 | `communication` |
 
-### Content Creation (155 skills)
+### Content Creation (165 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1285,10 +1294,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Xss Vectors](content-creation/088-xss_vectors_5cdac381/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/filter-js-from-html/references/xss_vectors.md) | ⭐ 44 | `content creation` |
 | [Hierarchical Structure Patterns](content-creation/089-hierarchical_structure_patterns_dfd06074/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-only/reshard-c4-data/references/hierarchical_structure_patterns.md) | ⭐ 44 | `content creation` |
 | [Discovery Approve](content-creation/090-discovery-approve_2254ad9b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/discovery-approve.md) | ⭐ 235 | `content creation` |
-| [Skill](content-creation/name-skill_53a78d1b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 11 | `content creation` |
-| [Sources](content-creation/sources_d7bbc253/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/sources.md) | ⭐ 62 | `content creation` |
+| [Skill](content-creation/049-name-skill_53a78d1b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 11 | `content creation` |
+| [Sources](content-creation/091-sources_d7bbc253/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/sources.md) | ⭐ 62 | `content creation` |
+| [Reference Set 01 Credential Stuffing Prevention](content-creation/reference-set-01-credential-stuffing-prevention_3eb734c3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-credential-stuffing-prevention.md) | ⭐ 133 | `content creation` |
+| [Reference Set 01 Saml Security](content-creation/reference-set-01-saml-security_ead3e514/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-saml-security.md) | ⭐ 133 | `content creation` |
+| [Reference Set 01 Security Questions](content-creation/reference-set-01-security-questions_d59dec3e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-security-questions.md) | ⭐ 133 | `content creation` |
+| [Reference Set 03 Bean Validation](content-creation/reference-set-03-bean-validation_c3f39c78/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-bean-validation.md) | ⭐ 133 | `content creation` |
+| [Reference Set 05 Csp](content-creation/reference-set-05-csp_ed69838b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-csp.md) | ⭐ 133 | `content creation` |
+| [Reference Set 05 Xss Filter Evasion](content-creation/reference-set-05-xss-filter-evasion_4fb88c13/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-xss-filter-evasion.md) | ⭐ 133 | `content creation` |
+| [Reference Set 07 Logging](content-creation/reference-set-07-logging_2983d415/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-07-logging.md) | ⭐ 133 | `content creation` |
+| [Reference Set Ext 11 Docker Security](content-creation/reference-set-ext-11-docker-security_98665e8e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-docker-security.md) | ⭐ 133 | `content creation` |
+| [Reference Set Ext 13 Ai Agent Security](content-creation/reference-set-ext-13-ai-agent-security_e5c91b36/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-13-ai-agent-security.md) | ⭐ 133 | `content creation` |
+| [Reference Set Ext 11 Iac Security](content-creation/reference-set-ext-11-iac-security_6b544a45/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-iac-security.md) | ⭐ 133 | `content creation` |
 
-### Daily Assistant (148 skills)
+### Daily Assistant (152 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1434,14 +1453,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_7324dfe1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/gong/SKILL.md) | ⭐ 163 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f4e67beb/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/planner/SKILL.md) | ⭐ 163 | `daily assistant` |
 | [Common Configs](daily-assistant/084-common-configs_4140e9c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawddocs/snippets/common-configs.md) | ⭐ 163 | `daily assistant` |
-| [Workflow](daily-assistant/085-workflow_54447418/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/WORKFLOW.md) | ⭐ 133 | `daily assistant` |
-| [P3 Trust Boundary](daily-assistant/086-p3-trust-boundary_ad38af2c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 133 | `daily assistant` |
-| [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_559a2776/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
-| [P8 Report Generation](daily-assistant/088-p8-report-generation_aa2eb4e2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
+| [Workflow](daily-assistant/workflow_5b2e6cef/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/WORKFLOW.md) | ⭐ 133 | `daily assistant` |
+| [P3 Trust Boundary](daily-assistant/p3-trust-boundary_b8b08640/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 133 | `daily assistant` |
+| [P5 Stride Analysis](daily-assistant/p5-stride-analysis_06600e0e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
+| [P8 Report Generation](daily-assistant/p8-report-generation_89464869/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_58a29a19/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/mcp/instructions.md) | ⭐ 311 | `daily assistant` |
-| [Ranking](daily-assistant/ranking_98ada39e/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/ranking.md) | ⭐ 62 | `daily assistant` |
+| [Ranking](daily-assistant/090-ranking_98ada39e/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/ranking.md) | ⭐ 62 | `daily assistant` |
+| [Workflow](daily-assistant/085-workflow_5b2e6cef/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/WORKFLOW.md) | ⭐ 133 | `daily assistant` |
+| [P3 Trust Boundary](daily-assistant/086-p3-trust-boundary_b8b08640/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 133 | `daily assistant` |
+| [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_06600e0e/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 133 | `daily assistant` |
+| [P8 Report Generation](daily-assistant/088-p8-report-generation_89464869/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 133 | `daily assistant` |
 
-### Data Analysis (414 skills)
+### Data Analysis (416 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1824,7 +1847,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_bf145a06/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/pgvector-semantic-search/SKILL.md) | ⭐ 1.5k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_f06ad761/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/setup-timescaledb-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
 | [Prompts](data-analysis/250-prompts_4435668f/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/references/PROMPTS.md) | ⭐ 10 | `data analysis` |
-| [P2 Dfd Analysis](data-analysis/251-p2-dfd-analysis_0ffa7a58/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
+| [P2 Dfd Analysis](data-analysis/p2-dfd-analysis_5ce9c5e7/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
 | [Interrupts](data-analysis/252-interrupts_75cec7a3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/interrupts.md) | ⭐ 160 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_4298d0a0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 160 | `data analysis` |
 | [Evaluation](data-analysis/254-evaluation_a449804f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/evaluation.md) | ⭐ 160 | `data analysis` |
@@ -1858,9 +1881,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Workflow Commands](data-analysis/269-workflow_commands_6e18d348/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/WORKFLOW_COMMANDS.md) | ⭐ 235 | `data analysis` |
 | [V050 Roadmap Consolidation.Spec](data-analysis/270-v050-roadmap-consolidationspec_5af15c01/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/specs/v050-roadmap-consolidation.spec.md) | ⭐ 235 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ec0f09e9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/pandas-pro/SKILL.md) | ⭐ 235 | `data analysis` |
-| [Skills](data-analysis/community-skill_01e36357/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/registry/SKILLS.md) | ⭐ 62 | `data analysis` |
+| [Skills](data-analysis/271-community-skill_01e36357/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/registry/SKILLS.md) | ⭐ 62 | `data analysis` |
+| [P2 Dfd Analysis](data-analysis/251-p2-dfd-analysis_5ce9c5e7/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
+| [Control Set Ext 13 Ai Llm](data-analysis/control-set-ext-13-ai-llm_337328a3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-13-ai-llm.md) | ⭐ 133 | `data analysis` |
 
-### Development (2583 skills)
+### Development (2652 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4281,10 +4306,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Guide Agents](development/1327-guide-agents_34934333/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-agents.md) | ⭐ 83 | `development` |
 | [Guide Commands](development/438-guide-commands_28e4f26c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-commands.md) | ⭐ 83 | `development` |
 | [Skill](development/1178-name-skill_4afbad1d/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/skill-creator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill Architecture Design](development/980-skill-architecture-design_e881dcaa/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN.md) | ⭐ 133 | `development` |
-| [P1 Project Understanding](development/652-p1-project-understanding_0e57440a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P1-PROJECT-UNDERSTANDING.md) | ⭐ 133 | `development` |
-| [P6 Risk Validation](development/658-p6-risk-validation_4e7c1437/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P6-RISK-VALIDATION.md) | ⭐ 133 | `development` |
-| [P7 Mitigation Planning](development/659-p7-mitigation-planning_32615020/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P7-MITIGATION-PLANNING.md) | ⭐ 133 | `development` |
+| [Skill Architecture Design](development/skill-architecture-design_be550fb4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN.md) | ⭐ 133 | `development` |
+| [P1 Project Understanding](development/p1-project-understanding_055b75af/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P1-PROJECT-UNDERSTANDING.md) | ⭐ 133 | `development` |
+| [P6 Risk Validation](development/p6-risk-validation_524022c8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P6-RISK-VALIDATION.md) | ⭐ 133 | `development` |
+| [P7 Mitigation Planning](development/p7-mitigation-planning_15557127/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P7-MITIGATION-PLANNING.md) | ⭐ 133 | `development` |
 | [Claude](development/140-claude_60f4b872/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/CLAUDE.md) | ⭐ 311 | `development` |
 | [Api Bar Raising](development/1341-api_bar_raising_43df333a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/API_BAR_RAISING.md) | ⭐ 160 | `development` |
 | [Decisions](development/1342-decisions_c2b26e4c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 160 | `development` |
@@ -4444,11 +4469,80 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_1e6b2a4b/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/vue-expert/SKILL.md) | ⭐ 235 | `development` |
 | [Skill](development/1178-name-skill_161e8ea7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/wordpress-pro/SKILL.md) | ⭐ 235 | `development` |
 | [Catalog](development/126-catalog_79c7fd6a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.8k | `development` |
-| [Skill](development/name-skill_03445166/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 11 | `development` |
-| [References](development/references_b2d524ed/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/references.md) | ⭐ 62 | `development` |
-| [Skill](development/name-skill_cd04d3c6/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/adding-dbt-unit-test/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_03445166/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 11 | `development` |
+| [References](development/898-references_b2d524ed/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/references.md) | ⭐ 62 | `development` |
+| [Skill Architecture Design Cn](development/skill-architecture-design-cn_aeba3d8c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN-cn.md) | ⭐ 133 | `development` |
+| [Skill Architecture Design](development/980-skill-architecture-design_be550fb4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/SKILL-ARCHITECTURE-DESIGN.md) | ⭐ 133 | `development` |
+| [Skillset Threat Modeling Tour Cn V5](development/skillset-threat-modeling-tour-cn-v5_7b193854/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/Skillset-threat-modeling-tour-cn-v5.md) | ⭐ 133 | `development` |
+| [Skillset Threat Modeling Tour V5](development/skillset-threat-modeling-tour-v5_16999d09/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/Skillset-threat-modeling-tour-v5.md) | ⭐ 133 | `development` |
+| [P1 Project Understanding](development/652-p1-project-understanding_055b75af/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P1-PROJECT-UNDERSTANDING.md) | ⭐ 133 | `development` |
+| [P6 Risk Validation](development/658-p6-risk-validation_524022c8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P6-RISK-VALIDATION.md) | ⭐ 133 | `development` |
+| [P7 Mitigation Planning](development/659-p7-mitigation-planning_15557127/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P7-MITIGATION-PLANNING.md) | ⭐ 133 | `development` |
+| [Control Set 02 Authorization](development/control-set-02-authorization_9e91bc66/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-02-authorization.md) | ⭐ 133 | `development` |
+| [Control Set 03 Input Validation](development/control-set-03-input-validation_9f75827d/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-03-input-validation.md) | ⭐ 133 | `development` |
+| [Control Set 05 Client Side](development/control-set-05-client-side_4839d42b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-05-client-side.md) | ⭐ 133 | `development` |
+| [Control Set 06 Cryptography](development/control-set-06-cryptography_17a8011b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-06-cryptography.md) | ⭐ 133 | `development` |
+| [Control Set 08 Error Handling](development/control-set-08-error-handling_91539108/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-08-error-handling.md) | ⭐ 133 | `development` |
+| [Control Set Ext 10 Hardcoded Credentials](development/control-set-ext-10-hardcoded-credentials_663456b9/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-10-hardcoded-credentials.md) | ⭐ 133 | `development` |
+| [Control Set Ext 14 Mobile](development/control-set-ext-14-mobile_53f24941/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-14-mobile.md) | ⭐ 133 | `development` |
+| [Control Set Ext 16 Agentic](development/control-set-ext-16-agentic_88d91113/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-16-agentic.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Authentication](development/reference-set-01-authentication_36b87bff/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-authentication.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Cookie Theft Mitigation](development/reference-set-01-cookie-theft-mitigation_6848b8fd/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-cookie-theft-mitigation.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Forgot Password](development/reference-set-01-forgot-password_4edeccfa/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-forgot-password.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Jaas](development/reference-set-01-jaas_0a0d16c0/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-jaas.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Jwt Java](development/reference-set-01-jwt-java_c192bdc3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-jwt-java.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Multifactor Authentication](development/reference-set-01-multifactor-authentication_5363bcda/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-multifactor-authentication.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Password Storage](development/reference-set-01-password-storage_15486362/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-password-storage.md) | ⭐ 133 | `development` |
+| [Reference Set 01 Session Management](development/reference-set-01-session-management_3bc5d120/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-session-management.md) | ⭐ 133 | `development` |
+| [Reference Set 02 Access Control](development/reference-set-02-access-control_a00cc97c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-access-control.md) | ⭐ 133 | `development` |
+| [Reference Set 02 Authorization](development/reference-set-02-authorization_fb6ec3cb/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-authorization.md) | ⭐ 133 | `development` |
+| [Reference Set 02 Transaction Authorization](development/reference-set-02-transaction-authorization_a160e4ea/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-transaction-authorization.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Deserialization](development/reference-set-03-deserialization_f924eaa2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-deserialization.md) | ⭐ 133 | `development` |
+| [Reference Set 03 File Upload](development/reference-set-03-file-upload_aa45fd96/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-file-upload.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Injection Prevention Java](development/reference-set-03-injection-prevention-java_7f56a12a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-injection-prevention-java.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Injection Prevention](development/reference-set-03-injection-prevention_0468c47a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-injection-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Input Validation](development/reference-set-03-input-validation_bcaa1d79/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-input-validation.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Ldap Injection Prevention](development/reference-set-03-ldap-injection-prevention_ebc1c964/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-ldap-injection-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Mass Assignment](development/reference-set-03-mass-assignment_7390d4b4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-mass-assignment.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Os Command Injection Defense](development/reference-set-03-os-command-injection-defense_ddc32b62/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-os-command-injection-defense.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Query Parameterization](development/reference-set-03-query-parameterization_c5ab37da/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-query-parameterization.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Sql Injection Prevention](development/reference-set-03-sql-injection-prevention_c4ebb4b2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-sql-injection-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Ssrf Prevention](development/reference-set-03-ssrf-prevention_efc1f5d1/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-ssrf-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 03 Unvalidated Redirects](development/reference-set-03-unvalidated-redirects_c6fa2cad/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-03-unvalidated-redirects.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Clickjacking Defense](development/reference-set-05-clickjacking-defense_94d6cae8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-clickjacking-defense.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Csrf Prevention](development/reference-set-05-csrf-prevention_80425bd7/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-csrf-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Css Security](development/reference-set-05-css-security_09299216/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-css-security.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Dom Clobbering Prevention](development/reference-set-05-dom-clobbering-prevention_6764d82f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-dom-clobbering-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Dom Xss Prevention](development/reference-set-05-dom-xss-prevention_e1a779d8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-dom-xss-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Html5 Security](development/reference-set-05-html5-security_20eb74c5/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-html5-security.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Http Headers](development/reference-set-05-http-headers_98579a47/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-http-headers.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Prototype Pollution Prevention](development/reference-set-05-prototype-pollution-prevention_b6fcf885/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-prototype-pollution-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Xss Prevention](development/reference-set-05-xss-prevention_fe716eed/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-xss-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 06 Certificate Pinning](development/reference-set-06-certificate-pinning_70422982/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-certificate-pinning.md) | ⭐ 133 | `development` |
+| [Reference Set 06 Cryptographic Storage](development/reference-set-06-cryptographic-storage_42c47e7f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-cryptographic-storage.md) | ⭐ 133 | `development` |
+| [Reference Set 06 Key Management](development/reference-set-06-key-management_fe9033c6/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-key-management.md) | ⭐ 133 | `development` |
+| [Reference Set 06 Tls Cipher String](development/reference-set-06-tls-cipher-string_98e8ce57/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-tls-cipher-string.md) | ⭐ 133 | `development` |
+| [Reference Set 06 Tls](development/reference-set-06-tls_4206794c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-tls.md) | ⭐ 133 | `development` |
+| [Reference Set 06 Transport Layer Protection](development/reference-set-06-transport-layer-protection_dc62c810/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-06-transport-layer-protection.md) | ⭐ 133 | `development` |
+| [Reference Set 07 Logging Vocabulary](development/reference-set-07-logging-vocabulary_0db6788a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-07-logging-vocabulary.md) | ⭐ 133 | `development` |
+| [Reference Set 08 Error Handling](development/reference-set-08-error-handling_071814fa/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-08-error-handling.md) | ⭐ 133 | `development` |
+| [Reference Set 08 Xs Leaks](development/reference-set-08-xs-leaks_e0ec4496/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-08-xs-leaks.md) | ⭐ 133 | `development` |
+| [Reference Set 09 Ajax Security](development/reference-set-09-ajax-security_a5ba355d/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-ajax-security.md) | ⭐ 133 | `development` |
+| [Reference Set 09 Dos Prevention](development/reference-set-09-dos-prevention_7d52bca8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-dos-prevention.md) | ⭐ 133 | `development` |
+| [Reference Set 09 Graphql](development/reference-set-09-graphql_d68a61e9/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-graphql.md) | ⭐ 133 | `development` |
+| [Reference Set 09 Microservices Security](development/reference-set-09-microservices-security_e0843c95/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-microservices-security.md) | ⭐ 133 | `development` |
+| [Reference Set 09 Rest Assessment](development/reference-set-09-rest-assessment_6435f09c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-assessment.md) | ⭐ 133 | `development` |
+| [Reference Set 09 Web Service Security](development/reference-set-09-web-service-security_414c50f4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-web-service-security.md) | ⭐ 133 | `development` |
+| [Reference Set 10 Database Security](development/reference-set-10-database-security_30a73f0b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-database-security.md) | ⭐ 133 | `development` |
+| [Reference Set 10 Secrets Management](development/reference-set-10-secrets-management_0642979f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-secrets-management.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 11 Nodejs Docker](development/reference-set-ext-11-nodejs-docker_efa33170/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-nodejs-docker.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 12 Dependency Management](development/reference-set-ext-12-dependency-management_e344d41b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-dependency-management.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 14 Automotive Security](development/reference-set-ext-14-automotive-security_d7e44ca1/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-14-automotive-security.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 14 Mobile Security](development/reference-set-ext-14-mobile-security_50745c6d/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-14-mobile-security.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 15 Cloud Architecture](development/reference-set-ext-15-cloud-architecture_40fd7aea/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-15-cloud-architecture.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 16 Agentic Security](development/reference-set-ext-16-agentic-security_446c6df3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-16-agentic-security.md) | ⭐ 133 | `development` |
 
-### Development/Devops (98 skills)
+### Development/Devops (109 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4579,7 +4673,7 @@ Read more about the new architecture [here` |
 | [Up And Running](development/devops/055-up-and-running_62eff66d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/up-and-running.md) | ⭐ 16 | `development` |
 | [Skill](development/devops/014-name-skill_f6d56c10/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/self-improving-agent/SKILL.md) | ⭐ 163 | `development` |
 | [Security Tools](development/devops/056-security-tools_c4696d7a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/security-tools.md) | ⭐ 163 | `development` |
-| [P4 Security Design Review](development/devops/057-p4-security-design-review_f192546b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P4-SECURITY-DESIGN-REVIEW.md) | ⭐ 133 | `development` |
+| [P4 Security Design Review](development/devops/p4-security-design-review_5b6514a6/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P4-SECURITY-DESIGN-REVIEW.md) | ⭐ 133 | `development` |
 | [Agents](development/devops/053-agents_5421ee8e/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/AGENTS.md) | ⭐ 160 | `development` |
 | [Utcp](development/devops/058-utcp_fd306c31/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/community/tools/utcp.md) | ⭐ 160 | `development` |
 | [Deploy To Amazon Ec2](development/devops/059-deploy_to_amazon_ec2_c0c4cc76/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_amazon_ec2.md) | ⭐ 160 | `development` |
@@ -4593,8 +4687,19 @@ Read more about the new architecture [here` |
 | [Python](development/devops/067-python_d053b1cf/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_bedrock_agentcore/python.md) | ⭐ 160 | `development` |
 | [Typescript](development/devops/068-typescript_005d2815/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_bedrock_agentcore/typescript.md) | ⭐ 160 | `development` |
 | [Typescript](development/devops/068-typescript_3e3e7bd7/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/deploy/deploy_to_docker/typescript.md) | ⭐ 160 | `development` |
+| [Readme Cn](development/devops/readme-cn_e081e5e4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/README-cn.md) | ⭐ 133 | `development` |
+| [Architecture Workflow Guide Cn](development/devops/architecture-workflow-guide-cn_3b209f99/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/ARCHITECTURE-WORKFLOW-GUIDE-cn.md) | ⭐ 133 | `development` |
+| [Architecture Workflow Guide](development/devops/architecture-workflow-guide_7548c205/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/ARCHITECTURE-WORKFLOW-GUIDE.md) | ⭐ 133 | `development` |
+| [P4 Security Design Review](development/devops/057-p4-security-design-review_5b6514a6/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P4-SECURITY-DESIGN-REVIEW.md) | ⭐ 133 | `development` |
+| [Control Set Ext 11 Infrastructure](development/devops/control-set-ext-11-infrastructure_1b42a44d/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-11-infrastructure.md) | ⭐ 133 | `development` |
+| [Control Set Ext 12 Supply Chain](development/devops/control-set-ext-12-supply-chain_56c43285/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-12-supply-chain.md) | ⭐ 133 | `development` |
+| [Control Set Ext 15 Cloud](development/devops/control-set-ext-15-cloud_29cb4d5f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-15-cloud.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 11 Kubernetes Security](development/devops/reference-set-ext-11-kubernetes-security_02318abf/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-kubernetes-security.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 12 Cicd Security](development/devops/reference-set-ext-12-cicd-security_b48dfec4/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 12 Npm Security](development/devops/reference-set-ext-12-npm-security_a9a31878/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 133 | `development` |
+| [Reference Set Ext 12 Supply Chain Security](development/devops/reference-set-ext-12-supply-chain-security_20eb3497/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 133 | `development` |
 
-### Development/Testing (15 skills)
+### Development/Testing (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4612,9 +4717,10 @@ Read more about the new architecture [here` |
 | [006 Agents](development/testing/011-006-agents_84b8c53a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/006-AGENTS.md) | ⭐ 16 | `development` |
 | [Skill](development/testing/002-name-skill_b51a34c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
-| [Skill](development/testing/013-threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
+| [Skill](development/testing/threat-skill_fff042e8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
+| [Skill](development/testing/013-threat-skill_fff042e8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 
-### Development/Tools (72 skills)
+### Development/Tools (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4686,10 +4792,14 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_b649021a/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/benchmarks/trajectory-feedback/qemu-startup/SKILL.md) | ⭐ 44 | `development` |
 | [Workflow Definition Schema](development/tools/049-workflow-definition-schema_7edbfcf9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/workflow/workflow-definition-schema.md) | ⭐ 235 | `development` |
 | [Claude](development/tools/017-claude_a34e4a78/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 8.8k | `development` |
-| [Skill](development/tools/name-skill_4ca7aa31/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 11 | `development` |
-| [Api](development/tools/api_af2df17b/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/api.md) | ⭐ 62 | `development` |
-| [Architecture](development/tools/architecture_334bcfa6/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/architecture.md) | ⭐ 62 | `development` |
-| [Skill](development/tools/name-skill_5dce8bcd/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/skills/skyll/SKILL.md) | ⭐ 62 | `development` |
+| [Skill](development/tools/002-name-skill_4ca7aa31/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 11 | `development` |
+| [Api](development/tools/050-api_af2df17b/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/api.md) | ⭐ 62 | `development` |
+| [Architecture](development/tools/051-architecture_334bcfa6/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/docs/architecture.md) | ⭐ 62 | `development` |
+| [Skill](development/tools/002-name-skill_5dce8bcd/) | [assafelovic/skyll](https://raw.githubusercontent.com/assafelovic/skyll/main/skills/skyll/SKILL.md) | ⭐ 62 | `development` |
+| [Knowledge Architecture V5.2 Cn](development/tools/knowledge-architecture-v52-cn_444185b1/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2-cn.md) | ⭐ 133 | `development` |
+| [Control Set 09 Api Security](development/tools/control-set-09-api-security_551a5be2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-09-api-security.md) | ⭐ 133 | `development` |
+| [Reference Set 05 Hsts](development/tools/reference-set-05-hsts_0f6bc8e7/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-hsts.md) | ⭐ 133 | `development` |
+| [Reference Set 10 User Privacy](development/tools/reference-set-10-user-privacy_7dccb419/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-user-privacy.md) | ⭐ 133 | `development` |
 
 ### Investment (37 skills)
 
