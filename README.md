@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4275 AI-powered skills** organized into 16 categories.
+A curated collection of **4249 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (9 skills)
-- **Automation/Workflow** (9 skills)
-- **Commercial** (322 skills)
-- **Communication** (163 skills)
-- **Content Creation** (93 skills)
-- **Daily Assistant** (66 skills)
-- **Data Analysis** (365 skills)
+- **Automation/Scripting** (5 skills)
+- **Automation/Workflow** (7 skills)
+- **Commercial** (318 skills)
+- **Communication** (162 skills)
+- **Content Creation** (91 skills)
+- **Daily Assistant** (65 skills)
+- **Data Analysis** (363 skills)
 - **Development** (2330 skills)
 - **Development/Devops** (9 skills)
-- **Development/Testing** (3 skills)
-- **Development/Tools** (14 skills)
-- **Investment** (34 skills)
+- **Development/Testing** (2 skills)
+- **Development/Tools** (12 skills)
+- **Investment** (31 skills)
 - **Other** (44 skills)
 - **Productivity** (153 skills)
-- **Research** (220 skills)
+- **Research** (216 skills)
 
 ## Skills Directory
 
@@ -474,35 +474,29 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (9 skills)
+### Automation/Scripting (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Quality Gates](automation/scripting/qa_07c93ac8/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/qa.md) | ⭐ 27 | `automation` |
-| [Skill](automation/scripting/name-skill_99450dd3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 27 | `automation` |
-| [Main](automation/scripting/main_26fd5988/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/radix-ui-components/main.md) | ⭐ 27 | `automation` |
-| [Mshtools Browser Scroll Up](automation/scripting/mshtools-browser_scroll_up_ea9bd4c7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_up.md) | ⭐ 171 | `automation` |
-| [Mshtools Todo Write](automation/scripting/mshtools-todo_write_6f37caf2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_write.md) | ⭐ 171 | `automation` |
-| [Search Image By Image](automation/scripting/search_image_by_image_17cc7c0d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/search_image_by_image.md) | ⭐ 171 | `automation` |
-| [Search Image By Text](automation/scripting/search_image_by_text_4fff11a4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/search_image_by_text.md) | ⭐ 171 | `automation` |
-| [Mshtools Get Available Voices](automation/scripting/mshtools-get_available_voices_e514e35d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-get_available_voices.md) | ⭐ 171 | `automation` |
-| [Docx Scripts Analysis](automation/scripting/docx-scripts-analysis_2a40b156/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/docx-scripts-analysis.md) | ⭐ 171 | `automation` |
+| [Quality Gates](automation/scripting/002-qa_07c93ac8/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/qa.md) | ⭐ 27 | `automation` |
+| [Skill](automation/scripting/003-name-skill_99450dd3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 27 | `automation` |
+| [Main](automation/scripting/004-main_26fd5988/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/radix-ui-components/main.md) | ⭐ 27 | `automation` |
+| [Mshtools Browser Scroll Up](automation/scripting/005-mshtools-browser_scroll_up_ea9bd4c7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_up.md) | ⭐ 171 | `automation` |
+| [Mshtools Todo Write](automation/scripting/006-mshtools-todo_write_6f37caf2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_write.md) | ⭐ 171 | `automation` |
 
-### Automation/Workflow (9 skills)
+### Automation/Workflow (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Daily Reddit Workflow](automation/workflow/daily-reddit-workflow_19a64ea2/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/daily-reddit-workflow.md) | ⭐ 27 | `automation` |
-| [Skill](automation/workflow/name-skill_043de4d9/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/code-quality-gate/SKILL.md) | ⭐ 27 | `automation` |
-| [Skill](automation/workflow/name-skill_3662175c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/project-development/SKILL.md) | ⭐ 27 | `automation` |
-| [Skill](automation/workflow/name-skill_e26b87bb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/qa-checklist/SKILL.md) | ⭐ 27 | `automation` |
-| [Skill](automation/workflow/name-skill_3c8f8b22/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/SKILL.md) | ⭐ 27 | `automation` |
-| [Xlsx Skill Analysis](automation/workflow/xlsx-skill-analysis_99a207da/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-sheets/xlsx-skill-analysis.md) | ⭐ 171 | `automation` |
-| [Webapp Skill Analysis](automation/workflow/webapp-skill-analysis_e4d409e1/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/webapp/webapp-skill-analysis.md) | ⭐ 171 | `automation` |
-| [Skill Templates](automation/workflow/skill-templates_ebdbba97/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/learning-capture/references/skill-templates.md) | ⭐ 27 | `automation` |
-| [Mshtools Slides Generator](automation/workflow/mshtools-slides_generator_ebc2d82f/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-slides_generator.md) | ⭐ 171 | `automation` |
+| [Daily Reddit Workflow](automation/workflow/001-daily-reddit-workflow_19a64ea2/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/daily-reddit-workflow.md) | ⭐ 27 | `automation` |
+| [Skill](automation/workflow/002-name-skill_043de4d9/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/code-quality-gate/SKILL.md) | ⭐ 27 | `automation` |
+| [Skill](automation/workflow/002-name-skill_3662175c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/project-development/SKILL.md) | ⭐ 27 | `automation` |
+| [Skill](automation/workflow/002-name-skill_e26b87bb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/qa-checklist/SKILL.md) | ⭐ 27 | `automation` |
+| [Skill](automation/workflow/002-name-skill_3c8f8b22/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/SKILL.md) | ⭐ 27 | `automation` |
+| [Xlsx Skill Analysis](automation/workflow/003-xlsx-skill-analysis_99a207da/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-sheets/xlsx-skill-analysis.md) | ⭐ 171 | `automation` |
+| [Webapp Skill Analysis](automation/workflow/004-webapp-skill-analysis_e4d409e1/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/webapp/webapp-skill-analysis.md) | ⭐ 171 | `automation` |
 
-### Commercial (322 skills)
+### Commercial (318 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -816,20 +810,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Performance Optimization](commercial/145-improving_79fb15b0/) | [Unknown](#) | N/A | `commercial` |
 | [Nextjs Optimization Guide](commercial/133-performance_60804569/) | [Unknown](#) | N/A | `products` |
 | [Skill](commercial/181-sf-diagram-mermaid_a56bda2c/) | [Unknown](#) | N/A | `commercial` |
-| [External Memory](commercial/external-memory_3af59bdd/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/external-memory.md) | ⭐ 27 | `commercial` |
-| [Postmortem](commercial/postmortem_40d39945/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/postmortem.md) | ⭐ 27 | `commercial` |
-| [Main](commercial/main_6e6d1018/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/database-orm/main.md) | ⭐ 27 | `commercial` |
-| [Main](commercial/main_b36446cb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/dsgvo-compliance/main.md) | ⭐ 27 | `commercial` |
-| [Skill](commercial/name-skill_c8874b8d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/safe-git-guard/SKILL.md) | ⭐ 27 | `commercial` |
-| [Skill](commercial/name-skill_ebc0c8be/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/ui-freeze/SKILL.md) | ⭐ 27 | `commercial` |
-| [Web Search](commercial/web_search_55dd9d56/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/web_search.md) | ⭐ 171 | `commercial` |
-| [Mshtools Browser Click](commercial/mshtools-browser_click_9cdc2ac0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_click.md) | ⭐ 171 | `commercial` |
-| [Deploy Check](commercial/deploy-check_679f0a2a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/deploy-check.md) | ⭐ 27 | `commercial` |
-| [Mshtools Generate Image](commercial/mshtools-generate_image_6edcd025/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-generate_image.md) | ⭐ 171 | `commercial` |
-| [Mshtools Search Image By Image](commercial/mshtools-search_image_by_image_7370ceff/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-search_image_by_image.md) | ⭐ 171 | `commercial` |
-| [Mshtools Search Image By Text](commercial/mshtools-search_image_by_text_1fdd047d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-search_image_by_text.md) | ⭐ 171 | `commercial` |
+| [External Memory](commercial/211-external-memory_3af59bdd/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/external-memory.md) | ⭐ 27 | `commercial` |
+| [Postmortem](commercial/212-postmortem_40d39945/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/postmortem.md) | ⭐ 27 | `commercial` |
+| [Main](commercial/213-main_6e6d1018/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/database-orm/main.md) | ⭐ 27 | `commercial` |
+| [Main](commercial/213-main_b36446cb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/dsgvo-compliance/main.md) | ⭐ 27 | `commercial` |
+| [Skill](commercial/210-name-skill_c8874b8d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/safe-git-guard/SKILL.md) | ⭐ 27 | `commercial` |
+| [Skill](commercial/210-name-skill_ebc0c8be/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/ui-freeze/SKILL.md) | ⭐ 27 | `commercial` |
+| [Web Search](commercial/214-web_search_55dd9d56/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/web_search.md) | ⭐ 171 | `commercial` |
+| [Mshtools Browser Click](commercial/215-mshtools-browser_click_9cdc2ac0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_click.md) | ⭐ 171 | `commercial` |
 
-### Communication (163 skills)
+### Communication (162 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -993,11 +983,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Grounding Multiagent](communication/058-high_fba1b366/) | [Unknown](#) | N/A | `communication` |
 | [International Playbooks](communication/063-market_dc929706/) | [Unknown](#) | N/A | `communication` |
 | [Board Governance Investor Relations](communication/020-size_fe407f1f/) | [Unknown](#) | N/A | `daily assistant` |
-| [Mshtools Browser Find](communication/mshtools-browser_find_55de2e0c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_find.md) | ⭐ 171 | `communication` |
-| [Mshtools Browser Input](communication/mshtools-browser_input_d8cb8ec4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_input.md) | ⭐ 171 | `communication` |
-| [Main](communication/main_5850f6bb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/post-deploy-test/main.md) | ⭐ 27 | `communication` |
+| [Mshtools Browser Find](communication/125-mshtools-browser_find_55de2e0c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_find.md) | ⭐ 171 | `communication` |
+| [Mshtools Browser Input](communication/126-mshtools-browser_input_d8cb8ec4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_input.md) | ⭐ 171 | `communication` |
 
-### Content Creation (93 skills)
+### Content Creation (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1079,23 +1068,21 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/034-skriv-som-kasper_41675a33/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-1k-state-management_f7c35b12/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](content-creation/034-content-research-writer_27eb5c1a/) | [Unknown](#) | N/A | `content creation` |
-| [Adapt](content-creation/adapt_4d542152/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/adapt.md) | ⭐ 27 | `content creation` |
-| [Skill](content-creation/name-skill_88020cca/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/social-media-content/SKILL.md) | ⭐ 27 | `content creation` |
-| [Frameworks](content-creation/frameworks_9bdfc219/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/multi-agent-patterns/references/frameworks.md) | ⭐ 27 | `content creation` |
-| [Case Studies](content-creation/case-studies_243ee1ad/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/project-development/references/case-studies.md) | ⭐ 27 | `content creation` |
-| [Skill](content-creation/name-skill_1e03b07d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/token-budget-advisor/token-budget-advisor/SKILL.md) | ⭐ 27 | `content creation` |
-| [Docs Prompt](content-creation/docs-prompt_f3dff536/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-docs/docs-prompt.md) | ⭐ 171 | `content creation` |
-| [Ok Computer Prompt](content-creation/ok-computer-prompt_8957a62e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/ok-computer-prompt.md) | ⭐ 171 | `content creation` |
-| [Sheets Prompt](content-creation/sheets-prompt_dcef14e6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-sheets/sheets-prompt.md) | ⭐ 171 | `content creation` |
-| [Websites Prompts](content-creation/websites-prompts_454ca098/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/websites-prompts.md) | ⭐ 171 | `content creation` |
-| [Memory Space Edits](content-creation/memory_space_edits_729e16d3/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/memory_space_edits.md) | ⭐ 171 | `content creation` |
-| [Mshtools Browser Scroll Down](content-creation/mshtools-browser_scroll_down_3b4d231d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_down.md) | ⭐ 171 | `content creation` |
-| [Mshtools Screenshot Web Full Page](content-creation/mshtools-screenshot_web_full_page_74b74a15/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-screenshot_web_full_page.md) | ⭐ 171 | `content creation` |
-| [Mshtools Write File](content-creation/mshtools-write_file_2649fa2c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-write_file.md) | ⭐ 171 | `content creation` |
-| [Harsh Review](content-creation/harsh-review_0d460bec/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/harsh-review.md) | ⭐ 27 | `content creation` |
-| [Decision Examples](content-creation/decision-examples_a17b0d20/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/learning-capture/references/decision-examples.md) | ⭐ 27 | `content creation` |
+| [Adapt](content-creation/048-adapt_4d542152/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/adapt.md) | ⭐ 27 | `content creation` |
+| [Skill](content-creation/049-name-skill_88020cca/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/social-media-content/SKILL.md) | ⭐ 27 | `content creation` |
+| [Frameworks](content-creation/050-frameworks_9bdfc219/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/multi-agent-patterns/references/frameworks.md) | ⭐ 27 | `content creation` |
+| [Case Studies](content-creation/051-case-studies_243ee1ad/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/project-development/references/case-studies.md) | ⭐ 27 | `content creation` |
+| [Skill](content-creation/049-name-skill_1e03b07d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/token-budget-advisor/token-budget-advisor/SKILL.md) | ⭐ 27 | `content creation` |
+| [Docs Prompt](content-creation/052-docs-prompt_f3dff536/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-docs/docs-prompt.md) | ⭐ 171 | `content creation` |
+| [Ok Computer Prompt](content-creation/053-ok-computer-prompt_8957a62e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/ok-computer-prompt.md) | ⭐ 171 | `content creation` |
+| [Sheets Prompt](content-creation/054-sheets-prompt_dcef14e6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-sheets/sheets-prompt.md) | ⭐ 171 | `content creation` |
+| [Websites Prompts](content-creation/055-websites-prompts_454ca098/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/websites-prompts.md) | ⭐ 171 | `content creation` |
+| [Memory Space Edits](content-creation/056-memory_space_edits_729e16d3/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/memory_space_edits.md) | ⭐ 171 | `content creation` |
+| [Mshtools Browser Scroll Down](content-creation/057-mshtools-browser_scroll_down_3b4d231d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_down.md) | ⭐ 171 | `content creation` |
+| [Mshtools Screenshot Web Full Page](content-creation/058-mshtools-screenshot_web_full_page_74b74a15/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-screenshot_web_full_page.md) | ⭐ 171 | `content creation` |
+| [Mshtools Write File](content-creation/059-mshtools-write_file_2649fa2c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-write_file.md) | ⭐ 171 | `content creation` |
 
-### Daily Assistant (66 skills)
+### Daily Assistant (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1159,14 +1146,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/024-planning-with-files_469dc928/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/024-agent-legal-advisor_66630c24/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/024-agent-market-researcher_8973a70b/) | [Unknown](#) | N/A | `daily assistant` |
-| [Skill](daily-assistant/name-skill_3a6d66b6/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/clarify-spec/SKILL.md) | ⭐ 27 | `daily assistant` |
-| [Dev Docs](daily-assistant/dev-docs_07c3fad4/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/dev-docs.md) | ⭐ 27 | `daily assistant` |
-| [Prd](daily-assistant/prd_5a55645d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/prd.md) | ⭐ 27 | `daily assistant` |
-| [State Analysis](daily-assistant/state-analysis_a88fc229/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/state-analysis.md) | ⭐ 27 | `daily assistant` |
-| [Mshtools Todo Read](daily-assistant/mshtools-todo_read_2a710993/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_read.md) | ⭐ 171 | `daily assistant` |
-| [Mnt Okcomputer Analysis](daily-assistant/mnt-okcomputer-analysis_2f0d7905/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/mnt/okcomputer/mnt-okcomputer-analysis.md) | ⭐ 171 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_3a6d66b6/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/clarify-spec/SKILL.md) | ⭐ 27 | `daily assistant` |
+| [Dev Docs](daily-assistant/033-dev-docs_07c3fad4/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/dev-docs.md) | ⭐ 27 | `daily assistant` |
+| [Prd](daily-assistant/034-prd_5a55645d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/prd.md) | ⭐ 27 | `daily assistant` |
+| [State Analysis](daily-assistant/035-state-analysis_a88fc229/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/state-analysis.md) | ⭐ 27 | `daily assistant` |
+| [Mshtools Todo Read](daily-assistant/036-mshtools-todo_read_2a710993/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_read.md) | ⭐ 171 | `daily assistant` |
 
-### Data Analysis (365 skills)
+### Data Analysis (363 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1513,28 +1499,26 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Graph Objects](data-analysis/108-plotly_3cb5cbe5/) | [Unknown](#) | N/A | `data analysis` |
 | [Io](data-analysis/119-python_9047312d/) | [Unknown](#) | N/A | `data analysis` |
 | [Interactions](data-analysis/118-drugbank_5f2a2974/) | [Unknown](#) | N/A | `data analysis` |
-| [Robust Spec](data-analysis/robust-spec_9c61a5c9/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/robust-spec.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_3eb9ad89/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/gemini-image-gen/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Pipeline Patterns](data-analysis/pipeline-patterns_d27c755a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/project-development/references/pipeline-patterns.md) | ⭐ 27 | `data analysis` |
-| [Methodology](data-analysis/methodology_c0fffc51/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/METHODOLOGY.md) | ⭐ 171 | `data analysis` |
-| [Chat Tools Prompt](data-analysis/chat-tools-prompt_a8b25c1e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/chat-tools-prompt.md) | ⭐ 171 | `data analysis` |
-| [Slides Prompt](data-analysis/slides-prompt_90a8fabe/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-slides/slides-prompt.md) | ⭐ 171 | `data analysis` |
-| [Chrome Data](data-analysis/chrome-data_3bb097c4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/chrome-data.md) | ⭐ 171 | `data analysis` |
-| [Jupyter Kernel](data-analysis/jupyter-kernel_f4f2e5a8/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/jupyter-kernel.md) | ⭐ 171 | `data analysis` |
-| [Tectonic](data-analysis/tectonic_bfd6c48b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/tectonic.md) | ⭐ 171 | `data analysis` |
-| [Mshtools Ipython](data-analysis/mshtools-ipython_8e0c9de2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-ipython.md) | ⭐ 171 | `data analysis` |
-| [Mshtools Read File](data-analysis/mshtools-read_file_ef6ecb03/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-read_file.md) | ⭐ 171 | `data analysis` |
-| [Pdf Skill Analysis](data-analysis/pdf-skill-analysis_34e0f909/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/pdf-skill-analysis.md) | ⭐ 171 | `data analysis` |
-| [Skill](data-analysis/name-skill_5ab3b8d9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/xlsx/SKILL.md) | ⭐ 171 | `data analysis` |
-| [Pivot Table](data-analysis/pivot-table_48991988/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/xlsx/pivot-table.md) | ⭐ 171 | `data analysis` |
-| [Process](data-analysis/process_7ca32cc7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/process.md) | ⭐ 171 | `data analysis` |
-| [Chunking Patterns](data-analysis/chunking_patterns_68dfe747/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/token-budget-advisor/token-budget-advisor/references/chunking_patterns.md) | ⭐ 27 | `data analysis` |
-| [Docx Skill Analysis](data-analysis/docx-skill-analysis_7c8474a2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-docs/docx-skill-analysis.md) | ⭐ 171 | `data analysis` |
-| [Kernel Server](data-analysis/kernel-server_85964ba8/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/kernel-server.md) | ⭐ 171 | `data analysis` |
-| [Dependency Maps](data-analysis/dependency_maps_82535e92/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/dependency_maps.md) | ⭐ 171 | `data analysis` |
-| [Mshtools Crop And Replicate Assets In Image](data-analysis/mshtools-crop_and_replicate_assets_in_image_f1875ce0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-crop_and_replicate_assets_in_image.md) | ⭐ 171 | `data analysis` |
-| [Mshtools Find Asset Bbox](data-analysis/mshtools-find_asset_bbox_adfde2b9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-find_asset_bbox.md) | ⭐ 171 | `data analysis` |
-| [Docx Templates Analysis](data-analysis/docx-templates-analysis_5928b9c5/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/docx-templates-analysis.md) | ⭐ 171 | `data analysis` |
+| [Robust Spec](data-analysis/225-robust-spec_9c61a5c9/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/robust-spec.md) | ⭐ 27 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3eb9ad89/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/gemini-image-gen/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Pipeline Patterns](data-analysis/227-pipeline-patterns_d27c755a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/project-development/references/pipeline-patterns.md) | ⭐ 27 | `data analysis` |
+| [Methodology](data-analysis/228-methodology_c0fffc51/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/METHODOLOGY.md) | ⭐ 171 | `data analysis` |
+| [Chat Tools Prompt](data-analysis/229-chat-tools-prompt_a8b25c1e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/chat-tools-prompt.md) | ⭐ 171 | `data analysis` |
+| [Slides Prompt](data-analysis/230-slides-prompt_90a8fabe/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-slides/slides-prompt.md) | ⭐ 171 | `data analysis` |
+| [Chrome Data](data-analysis/231-chrome-data_3bb097c4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/chrome-data.md) | ⭐ 171 | `data analysis` |
+| [Jupyter Kernel](data-analysis/232-jupyter-kernel_f4f2e5a8/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/jupyter-kernel.md) | ⭐ 171 | `data analysis` |
+| [Tectonic](data-analysis/233-tectonic_bfd6c48b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/tectonic.md) | ⭐ 171 | `data analysis` |
+| [Mshtools Ipython](data-analysis/234-mshtools-ipython_8e0c9de2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-ipython.md) | ⭐ 171 | `data analysis` |
+| [Mshtools Read File](data-analysis/235-mshtools-read_file_ef6ecb03/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-read_file.md) | ⭐ 171 | `data analysis` |
+| [Pdf Skill Analysis](data-analysis/236-pdf-skill-analysis_34e0f909/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/pdf-skill-analysis.md) | ⭐ 171 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5ab3b8d9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/xlsx/SKILL.md) | ⭐ 171 | `data analysis` |
+| [Pivot Table](data-analysis/237-pivot-table_48991988/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/xlsx/pivot-table.md) | ⭐ 171 | `data analysis` |
+| [Process](data-analysis/238-process_7ca32cc7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/process.md) | ⭐ 171 | `data analysis` |
+| [Configurable System Prompts Dfb3B45A.Plan](data-analysis/configurable_system_prompts_dfb3b45aplan_6cf6cd45/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/configurable_system_prompts_dfb3b45a.plan.md) | ⭐ 12 | `data analysis` |
+| [Configuration](data-analysis/configuration_6c751820/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md) | ⭐ 12 | `data analysis` |
+| [Configurable Examples Templates C4B4Eb77.Plan](data-analysis/configurable_examples_templates_c4b4eb77plan_7411db2c/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/configurable_examples_templates_c4b4eb77.plan.md) | ⭐ 12 | `data analysis` |
+| [Llm](data-analysis/llm_4e35c567/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/llm.md) | ⭐ 12 | `data analysis` |
+| [Index](data-analysis/index_6294efe5/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/data_ui_blocks/index.md) | ⭐ 12 | `data analysis` |
 
 ### Development (2330 skills)
 
@@ -3828,91 +3812,88 @@ This repository contains automatically aggregated skills from various open-sourc
 | [claude-code](development/338-enterprise-features_8f885147/) | [Unknown](#) | N/A | `development` |
 | [configuring-dbt-mcp-server](development/979-skill_fe9394f6/) | [Unknown](#) | N/A | `development` |
 | [Epic Planning Document Generator](development/227-create-epic-plan_8b7ab236/) | [Unknown](#) | N/A | `development` |
-| [Code Architecture Reviewer](development/code-architecture-reviewer_db4f1176/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/code-architecture-reviewer.md) | ⭐ 27 | `development` |
-| [Documentation Architect](development/documentation-architect_37744a7a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/documentation-architect.md) | ⭐ 27 | `development` |
-| [React Project Validator](development/react-project-validator_f1594df5/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/react-project-validator.md) | ⭐ 27 | `development` |
-| [Attention Budget](development/attention-budget_3741f8bb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/attention-budget.md) | ⭐ 27 | `development` |
-| [Dev Docs Update](development/dev-docs-update_feca622e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/dev-docs-update.md) | ⭐ 27 | `development` |
-| [Impact](development/impact_d317ec36/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/impact.md) | ⭐ 27 | `development` |
-| [Supervisor](development/supervisor_73b7ed80/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/supervisor.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_1ee6ecc8/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/prompt-architect/SKILL.md) | ⭐ 27 | `development` |
-| [Main](development/main_99844de3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/ai-integration/main.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_4a3e8304/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/changelog-generator/SKILL.md) | ⭐ 27 | `development` |
-| [Main](development/main_6cd35a3c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/computer-vision-pose/main.md) | ⭐ 27 | `development` |
-| [Main](development/main_1829596d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/incident-response/main.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_b29920e4/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/kaizen/SKILL.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_80c18157/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/linkedin-engagement/SKILL.md) | ⭐ 27 | `Top 3` |
-| [Skill](development/name-skill_d4831f79/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/multi-llm-advisor/SKILL.md) | ⭐ 27 | `development` |
-| [Main](development/main_a67eb62b/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/oauth-cookie-patterns/main.md) | ⭐ 27 | `development` |
-| [Main](development/main_eba1cd79/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/performance-optimization/main.md) | ⭐ 27 | `development` |
-| [Main](development/main_2b91c8ed/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/react-vite-development/main.md) | ⭐ 27 | `development` |
-| [Main](development/main_92fce8ef/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-validation/main.md) | ⭐ 27 | `development` |
-| [Main](development/main_6f8c37fd/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/statistical-sampling/main.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_ca749822/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/strict-typescript-mode/SKILL.md) | ⭐ 27 | `development` |
-| [Claude Desktop Troubleshooting](development/claude-desktop-troubleshooting_88f14084/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/patterns/claude-desktop-troubleshooting.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_ae1c7df9/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/SKILL.md) | ⭐ 27 | `development` |
-| [Consistency Rules](development/consistency-rules_b401e77c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/consistency-rules.md) | ⭐ 27 | `development` |
-| [Terminology Standards](development/terminology-standards_60510cfe/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/terminology-standards.md) | ⭐ 27 | `development` |
-| [Security Patterns](development/security_patterns_9077d7c0/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/references/security_patterns.md) | ⭐ 27 | `development` |
-| [Catalog](development/catalog_9af5f746/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.6k | `development` |
-| [Webapp Skill Analysis](development/webapp-skill-analysis_81e73cb2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/webapp-skill-analysis.md) | ⭐ 171 | `development` |
-| [Pdf Viewer](development/pdf-viewer_10e61761/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/pdf-viewer.md) | ⭐ 171 | `development` |
-| [Skill System](development/skill-system_58039e90/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skill-system.md) | ⭐ 171 | `development` |
-| [Skills Analysis](development/skills-analysis_e2d612db/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skills-analysis.md) | ⭐ 171 | `development` |
-| [Infra](development/infra_2d2cc381/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/infra.md) | ⭐ 171 | `development` |
-| [Supporting Directories](development/supporting_directories_7a106583/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/supporting_directories.md) | ⭐ 171 | `development` |
-| [Ipython](development/ipython_bfc5a8ca/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/ipython.md) | ⭐ 171 | `development` |
-| [Shell](development/shell_88bed91c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/shell.md) | ⭐ 171 | `development` |
-| [Docx Validator Analysis](development/docx-validator-analysis_f0a7f47a/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/docx-validator-analysis.md) | ⭐ 171 | `development` |
-| [Skills Readme](development/skills-readme_0f56830d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills-README.md) | ⭐ 27 | `development` |
-| [Bloat Detective](development/bloat-detective_3f9abeb1/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/bloat-detective.md) | ⭐ 27 | `development` |
-| [Main](development/main_bbe620ec/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/testing-quality/main.md) | ⭐ 27 | `development` |
-| [Readme Template](development/readme-template_a1d9de1c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/readme-template.md) | ⭐ 27 | `development` |
-| [Mshtools Edit File](development/mshtools-edit_file_121d1ec1/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-edit_file.md) | ⭐ 171 | `development` |
-| [Skill](development/name-skill_8dd2b805/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/webapp/SKILL.md) | ⭐ 171 | `development` |
+| [Code Architecture Reviewer](development/1171-code-architecture-reviewer_db4f1176/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/code-architecture-reviewer.md) | ⭐ 27 | `development` |
+| [Documentation Architect](development/1172-documentation-architect_37744a7a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/documentation-architect.md) | ⭐ 27 | `development` |
+| [React Project Validator](development/1173-react-project-validator_f1594df5/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/react-project-validator.md) | ⭐ 27 | `development` |
+| [Attention Budget](development/1174-attention-budget_3741f8bb/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/attention-budget.md) | ⭐ 27 | `development` |
+| [Dev Docs Update](development/1175-dev-docs-update_feca622e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/dev-docs-update.md) | ⭐ 27 | `development` |
+| [Impact](development/1176-impact_d317ec36/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/impact.md) | ⭐ 27 | `development` |
+| [Supervisor](development/1177-supervisor_73b7ed80/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/supervisor.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_1ee6ecc8/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/prompt-architect/SKILL.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_99844de3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/ai-integration/main.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_4a3e8304/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/changelog-generator/SKILL.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_6cd35a3c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/computer-vision-pose/main.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_1829596d/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/incident-response/main.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_b29920e4/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/kaizen/SKILL.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_80c18157/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/linkedin-engagement/SKILL.md) | ⭐ 27 | `Top 3` |
+| [Skill](development/1178-name-skill_d4831f79/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/multi-llm-advisor/SKILL.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_a67eb62b/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/oauth-cookie-patterns/main.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_eba1cd79/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/performance-optimization/main.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_2b91c8ed/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/react-vite-development/main.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_92fce8ef/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-validation/main.md) | ⭐ 27 | `development` |
+| [Main](development/1169-main_6f8c37fd/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/statistical-sampling/main.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_ca749822/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/strict-typescript-mode/SKILL.md) | ⭐ 27 | `development` |
+| [Claude Desktop Troubleshooting](development/1179-claude-desktop-troubleshooting_88f14084/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/patterns/claude-desktop-troubleshooting.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_ae1c7df9/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/SKILL.md) | ⭐ 27 | `development` |
+| [Consistency Rules](development/1180-consistency-rules_b401e77c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/consistency-rules.md) | ⭐ 27 | `development` |
+| [Terminology Standards](development/1181-terminology-standards_60510cfe/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/terminology-standards.md) | ⭐ 27 | `development` |
+| [Security Patterns](development/1182-security_patterns_9077d7c0/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/references/security_patterns.md) | ⭐ 27 | `development` |
+| [Catalog](development/126-catalog_9af5f746/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.6k | `development` |
+| [Webapp Skill Analysis](development/1183-webapp-skill-analysis_81e73cb2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/webapp-skill-analysis.md) | ⭐ 171 | `development` |
+| [Pdf Viewer](development/1184-pdf-viewer_10e61761/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/pdf-viewer.md) | ⭐ 171 | `development` |
+| [Skill System](development/1185-skill-system_58039e90/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skill-system.md) | ⭐ 171 | `development` |
+| [Skills Analysis](development/1186-skills-analysis_e2d612db/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skills-analysis.md) | ⭐ 171 | `development` |
+| [Infra](development/1187-infra_2d2cc381/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/infra.md) | ⭐ 171 | `development` |
+| [Supporting Directories](development/1188-supporting_directories_7a106583/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/supporting_directories.md) | ⭐ 171 | `development` |
+| [Ipython](development/1189-ipython_bfc5a8ca/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/ipython.md) | ⭐ 171 | `development` |
+| [Shell](development/1190-shell_88bed91c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/shell.md) | ⭐ 171 | `development` |
+| [Docx Validator Analysis](development/1191-docx-validator-analysis_f0a7f47a/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/docx-validator-analysis.md) | ⭐ 171 | `development` |
+| [Rename Twostep Strategy Steps 3845B964.Plan](development/rename_twostep_strategy_steps_3845b964plan_72d4abfa/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/rename_twostep_strategy_steps_3845b964.plan.md) | ⭐ 12 | `development` |
+| [Readme.Ja](development/readmeja_975c8d74/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `development` |
+| [Agents](development/agents_e67b958e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.2k | `development` |
+| [Api](development/api_2eb7a607/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/api.md) | ⭐ 3.2k | `development` |
+| [Audit Db Transaction Management](development/audit-db-transaction-management_504ffdd3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/audit-db-transaction-management.md) | ⭐ 3.2k | `development` |
+| [Multitenancy](development/multitenancy_5e4b2475/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/multitenancy.md) | ⭐ 3.2k | `development` |
 
 ### Development/Devops (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Social Posts](development/devops/social_posts_1d00af93/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/SOCIAL_POSTS.md) | ⭐ 27 | `development` |
-| [Fullstack Monorepo Validator](development/devops/fullstack-monorepo-validator_08db7d74/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/fullstack-monorepo-validator.md) | ⭐ 27 | `development` |
-| [Security Scanner](development/devops/security-scanner_e661055b/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/security-scanner.md) | ⭐ 27 | `development` |
-| [Clarify Spec](development/devops/clarify-spec_ee8b3d91/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/clarify-spec.md) | ⭐ 27 | `development` |
-| [Pattern Index](development/devops/pattern_index_5e1290ff/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/PATTERN_INDEX.md) | ⭐ 27 | `development` |
-| [Main](development/devops/main_089b8b93/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/environment-validation/main.md) | ⭐ 27 | `development` |
-| [Mshtools Deploy Website](development/devops/mshtools-deploy_website_8ab26e7b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-deploy_website.md) | ⭐ 171 | `development` |
-| [Skill](development/devops/keywords-skill_37afaff6/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/e2e-testing/SKILL.md) | ⭐ 27 | `development` |
-| [Skill](development/devops/name-skill_8ded820a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/preview-testing/SKILL.md) | ⭐ 27 | `development` |
+| [Social Posts](development/devops/002-social_posts_1d00af93/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/SOCIAL_POSTS.md) | ⭐ 27 | `development` |
+| [Fullstack Monorepo Validator](development/devops/003-fullstack-monorepo-validator_08db7d74/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/fullstack-monorepo-validator.md) | ⭐ 27 | `development` |
+| [Security Scanner](development/devops/004-security-scanner_e661055b/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/agents/security-scanner.md) | ⭐ 27 | `development` |
+| [Clarify Spec](development/devops/005-clarify-spec_ee8b3d91/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/clarify-spec.md) | ⭐ 27 | `development` |
+| [Pattern Index](development/devops/006-pattern_index_5e1290ff/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/PATTERN_INDEX.md) | ⭐ 27 | `development` |
+| [Main](development/devops/007-main_089b8b93/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/environment-validation/main.md) | ⭐ 27 | `development` |
+| [Mshtools Deploy Website](development/devops/008-mshtools-deploy_website_8ab26e7b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-deploy_website.md) | ⭐ 171 | `development` |
+| [Configuration](development/devops/configuration_e8deec07/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
+| [Rbac](development/devops/rbac_e5ff8ca1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.2k | `development` |
 
-### Development/Testing (3 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Think](development/testing/think_71078b19/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/think.md) | ⭐ 27 | `development` |
-| [Skill](development/testing/name-skill_e0a2cd42/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/tdd-strict/SKILL.md) | ⭐ 27 | `development` |
-| [Mshtools Generate Speech](development/testing/mshtools-generate_speech_38cbc835/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-generate_speech.md) | ⭐ 171 | `development` |
-
-### Development/Tools (14 skills)
+### Development/Testing (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Main](development/tools/main_eb458d72/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/accessibility-wcag/main.md) | ⭐ 27 | `development` |
-| [Skill](development/tools/name-skill_80308fc2/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/reddit-research/SKILL.md) | ⭐ 27 | `development` |
-| [Tool Evaluation Framework](development/tools/tool-evaluation-framework_d76cd809/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/patterns/tool-evaluation-framework.md) | ⭐ 27 | `development` |
-| [2025 11 01 Claude Desktop Troubleshooting](development/tools/2025-11-01-claude-desktop-troubleshooting_0ff9062b/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/sessions/2025-11-01-claude-desktop-troubleshooting.md) | ⭐ 27 | `development` |
-| [Kimi Filesystem](development/tools/kimi_filesystem_301ee0b6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_FILESYSTEM.md) | ⭐ 171 | `development` |
-| [Root Overview](development/tools/root-overview_31dea93b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/root-overview.md) | ⭐ 171 | `development` |
-| [Mshtools Browser Screenshot](development/tools/mshtools-browser_screenshot_f42e5e0e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_screenshot.md) | ⭐ 171 | `development` |
-| [Mshtools Shell](development/tools/mshtools-shell_2d46ab67/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-shell.md) | ⭐ 171 | `development` |
-| [Scripts Analysis](development/tools/scripts-analysis_6932623d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/scripts-analysis.md) | ⭐ 171 | `development` |
-| [Utils](development/tools/utils_bbd94529/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/utils.md) | ⭐ 171 | `development` |
-| [Mshtools Browser State](development/tools/mshtools-browser_state_d2a550df/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_state.md) | ⭐ 171 | `development` |
-| [Mshtools Generate Sound Effects](development/tools/mshtools-generate_sound_effects_432b5bb1/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-generate_sound_effects.md) | ⭐ 171 | `development` |
-| [Webapp Templates Analysis](development/tools/webapp-templates-analysis_3e6bab7c/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/webapp/webapp-templates-analysis.md) | ⭐ 171 | `development` |
-| [Xlsx Skill Analysis](development/tools/xlsx-skill-analysis_3698c88e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/xlsx/xlsx-skill-analysis.md) | ⭐ 171 | `development` |
+| [Think](development/testing/001-think_71078b19/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/think.md) | ⭐ 27 | `development` |
+| [Skill](development/testing/002-name-skill_e0a2cd42/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/tdd-strict/SKILL.md) | ⭐ 27 | `development` |
 
-### Investment (34 skills)
+### Development/Tools (12 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Main](development/tools/001-main_eb458d72/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/accessibility-wcag/main.md) | ⭐ 27 | `development` |
+| [Skill](development/tools/002-name-skill_80308fc2/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/reddit-research/SKILL.md) | ⭐ 27 | `development` |
+| [Tool Evaluation Framework](development/tools/003-tool-evaluation-framework_d76cd809/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/patterns/tool-evaluation-framework.md) | ⭐ 27 | `development` |
+| [2025 11 01 Claude Desktop Troubleshooting](development/tools/004-2025-11-01-claude-desktop-troubleshooting_0ff9062b/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/sessions/2025-11-01-claude-desktop-troubleshooting.md) | ⭐ 27 | `development` |
+| [Kimi Filesystem](development/tools/005-kimi_filesystem_301ee0b6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_FILESYSTEM.md) | ⭐ 171 | `development` |
+| [Root Overview](development/tools/006-root-overview_31dea93b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/root-overview.md) | ⭐ 171 | `development` |
+| [Mshtools Browser Screenshot](development/tools/007-mshtools-browser_screenshot_f42e5e0e/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_screenshot.md) | ⭐ 171 | `development` |
+| [Mshtools Shell](development/tools/008-mshtools-shell_2d46ab67/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-shell.md) | ⭐ 171 | `development` |
+| [Scripts Analysis](development/tools/009-scripts-analysis_6932623d/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/scripts-analysis.md) | ⭐ 171 | `development` |
+| [Mcpgateway](development/tools/mcpgateway_0508f28f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md) | ⭐ 3.2k | `development` |
+| [Oauth Authorization Code Ui Design](development/tools/oauth-authorization-code-ui-design_b577fbd3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-authorization-code-ui-design.md) | ⭐ 3.2k | `development` |
+| [Oauth Design](development/tools/oauth-design_e2085c1b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.2k | `development` |
+
+### Investment (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3946,10 +3927,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Analysis Patterns](investment/003-templates_ed19d12f/) | [Unknown](#) | N/A | `investment` |
 | [Synthesizing](investment/017-integrate_24cc2bf4/) | [Unknown](#) | N/A | `investment` |
 | [Skill](investment/014-agentkit_e1178a49/) | [Unknown](#) | N/A | `investment` |
-| [Browser Guard](investment/browser-guard_039e96c9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/browser-guard.md) | ⭐ 171 | `investment` |
-| [Get Data Source](investment/get_data_source_faf0ae58/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/get_data_source.md) | ⭐ 171 | `investment` |
-| [Get Data Source Desc](investment/get_data_source_desc_65de6afb/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/get_data_source_desc.md) | ⭐ 171 | `investment` |
-| [Mshtools Get Data Source](investment/mshtools-get_data_source_aaa948d0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-get_data_source.md) | ⭐ 171 | `investment` |
+| [Browser Guard](investment/018-browser-guard_039e96c9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/browser-guard.md) | ⭐ 171 | `investment` |
 
 ### Other (44 skills)
 
@@ -3996,9 +3974,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
-| [Chain Verify](other/chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
-| [Premortem](other/premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
-| [Strategy Fan](other/strategy-fan_ea6d0bfe/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/strategy-fan.md) | ⭐ 27 | `other` |
+| [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
+| [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
+| [Agents.Yaml](other/agentsyaml_01ba4719/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/agents.yaml.md) | ⭐ 26 | `other` |
 
 ### Productivity (153 skills)
 
@@ -4155,10 +4133,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/077-agent-seo-specialist_fcf4ba13/) | [Unknown](#) | N/A | `content creation` |
 | [Skill](productivity/077-ai-doc-system-auditor_4a5edfcf/) | [Unknown](#) | N/A | `productivity` |
 | [Skill](productivity/077-agent-react-specialist_df3c8fcb/) | [Unknown](#) | N/A | `productivity` |
-| [Skill](productivity/name-skill_ebda8f86/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/learning-capture/SKILL.md) | ⭐ 27 | `productivity` |
-| [Kimi Agents Explained](productivity/kimi_agents_explained_29614980/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 171 | `productivity` |
+| [Skill](productivity/093-name-skill_ebda8f86/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/learning-capture/SKILL.md) | ⭐ 27 | `productivity` |
+| [Kimi Agents Explained](productivity/094-kimi_agents_explained_29614980/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 171 | `productivity` |
 
-### Research (220 skills)
+### Research (216 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4369,19 +4347,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api Reference](research/007-clinicaltrials_50a3a66c/) | [Unknown](#) | N/A | `research` |
 | [Design Principles](research/037-analyze_e7ba630a/) | [Unknown](#) | N/A | `data analysis` |
 | [Similarity](research/114-document_1d37dd43/) | [Unknown](#) | N/A | `research` |
-| [Advanced Patterns](research/advanced-patterns_cd133dd1/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/token-budget-advisor/token-budget-advisor/references/advanced-patterns.md) | ⭐ 27 | `research` |
-| [Architecture](research/architecture_8564e9a5/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/architecture.md) | ⭐ 171 | `research` |
-| [Mshtools Browser Visit](research/mshtools-browser_visit_4b897d47/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_visit.md) | ⭐ 171 | `research` |
-| [Mshtools Get Data Source Desc](research/mshtools-get_data_source_desc_d0578f76/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-get_data_source_desc.md) | ⭐ 171 | `research` |
-| [Mshtools Web Search](research/mshtools-web_search_9ec779fc/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-web_search.md) | ⭐ 171 | `research` |
-| [Skill](research/name-skill_55d74dc0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/SKILL.md) | ⭐ 171 | `research` |
-| [Skill](research/name-skill_a5ac53f4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/SKILL.md) | ⭐ 171 | `research` |
-| [Html](research/html_d5afc778/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/html.md) | ⭐ 171 | `research` |
-| [Latex](research/latex_cafb1f00/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/latex.md) | ⭐ 171 | `research` |
-| [Secom Test](research/secom-test_5a762aa8/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/secom-test.md) | ⭐ 27 | `research` |
-| [Web Open Url](research/web_open_url_60b45398/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/tools/web_open_url.md) | ⭐ 171 | `research` |
-| [Docx Skill Analysis](research/docx-skill-analysis_4f32db6b/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/docx-skill-analysis.md) | ⭐ 171 | `research` |
-| [Mnt Kimi Analysis](research/mnt-kimi-analysis_ba013a51/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-chat/mnt/kimi/mnt-kimi-analysis.md) | ⭐ 171 | `research` |
+| [Advanced Patterns](research/134-advanced-patterns_cd133dd1/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/token-budget-advisor/token-budget-advisor/references/advanced-patterns.md) | ⭐ 27 | `research` |
+| [Architecture](research/135-architecture_8564e9a5/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/system/architecture.md) | ⭐ 171 | `research` |
+| [Mshtools Browser Visit](research/136-mshtools-browser_visit_4b897d47/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_visit.md) | ⭐ 171 | `research` |
+| [Mshtools Get Data Source Desc](research/137-mshtools-get_data_source_desc_d0578f76/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-get_data_source_desc.md) | ⭐ 171 | `research` |
+| [Mshtools Web Search](research/138-mshtools-web_search_9ec779fc/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-web_search.md) | ⭐ 171 | `research` |
+| [Skill](research/139-name-skill_55d74dc0/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/docx/SKILL.md) | ⭐ 171 | `research` |
+| [Skill](research/139-name-skill_a5ac53f4/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/SKILL.md) | ⭐ 171 | `research` |
+| [Html](research/140-html_d5afc778/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/html.md) | ⭐ 171 | `research` |
+| [Latex](research/141-latex_cafb1f00/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/latex.md) | ⭐ 171 | `research` |
 
 ## Repository Structure
 
