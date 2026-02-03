@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4668 AI-powered skills** organized into 16 categories.
+A curated collection of **4622 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (38 skills)
-- **Automation/Workflow** (23 skills)
-- **Commercial** (345 skills)
-- **Communication** (175 skills)
-- **Content Creation** (111 skills)
-- **Daily Assistant** (151 skills)
-- **Data Analysis** (377 skills)
-- **Development** (2400 skills)
-- **Development/Devops** (84 skills)
-- **Development/Testing** (17 skills)
-- **Development/Tools** (41 skills)
+- **Automation/Scripting** (20 skills)
+- **Automation/Workflow** (24 skills)
+- **Commercial** (342 skills)
+- **Communication** (172 skills)
+- **Content Creation** (106 skills)
+- **Daily Assistant** (137 skills)
+- **Data Analysis** (373 skills)
+- **Development** (2408 skills)
+- **Development/Devops** (82 skills)
+- **Development/Testing** (12 skills)
+- **Development/Tools** (38 skills)
 - **Investment** (33 skills)
-- **Other** (45 skills)
-- **Productivity** (170 skills)
-- **Research** (217 skills)
+- **Other** (43 skills)
+- **Productivity** (173 skills)
+- **Research** (218 skills)
 
 ## Skills Directory
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (38 skills)
+### Automation/Scripting (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -484,40 +484,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mshtools Browser Scroll Up](automation/scripting/005-mshtools-browser_scroll_up_ea9bd4c7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_up.md) | ⭐ 171 | `automation` |
 | [Mshtools Todo Write](automation/scripting/006-mshtools-todo_write_6f37caf2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_write.md) | ⭐ 171 | `automation` |
 | [Skill](automation/scripting/003-name-skill_2cf72d42/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 14 | `automation` |
-| [Fn 18 Kwn](automation/scripting/fn-18-kwn_ba3eaf1c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-18-kwn.md) | ⭐ 490 | `automation` |
-| [Fn 12.1](automation/scripting/fn-121_067b9545/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.1.md) | ⭐ 490 | `automation` |
-| [Fn 12.3](automation/scripting/fn-123_bce851cc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.3.md) | ⭐ 490 | `automation` |
-| [Fn 12.4](automation/scripting/fn-124_78a36642/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.4.md) | ⭐ 490 | `automation` |
-| [Fn 12.5](automation/scripting/fn-125_d4b20604/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.5.md) | ⭐ 490 | `automation` |
-| [Fn 15 96T.1](automation/scripting/fn-15-96t1_eaf0b3e3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.1.md) | ⭐ 490 | `automation` |
-| [Fn 15 96T.4](automation/scripting/fn-15-96t4_02c8b0f6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.4.md) | ⭐ 490 | `automation` |
-| [Fn 15 96T.5](automation/scripting/fn-15-96t5_6dca4db3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.5.md) | ⭐ 490 | `automation` |
-| [Fn 15 96T.6](automation/scripting/fn-15-96t6_74d95edc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.6.md) | ⭐ 490 | `automation` |
-| [Fn 17 Wti.1](automation/scripting/fn-17-wti1_b841b151/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.1.md) | ⭐ 490 | `automation` |
-| [Fn 9.1](automation/scripting/fn-91_552ba43b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.1.md) | ⭐ 490 | `automation` |
-| [Fn 9.12](automation/scripting/fn-912_0799db18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.12.md) | ⭐ 490 | `automation` |
-| [Github Scout](automation/scripting/github-scout_3fe7c3c3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/github-scout.md) | ⭐ 490 | `automation` |
-| [Phases](automation/scripting/phases_e8560d75/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/phases.md) | ⭐ 490 | `automation` |
-| [Fn 7](automation/scripting/fn-7_db01ebf3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-7.md) | ⭐ 490 | `automation` |
-| [Fn 14 Wv3.1](automation/scripting/fn-14-wv31_b7ef0901/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-14-wv3.1.md) | ⭐ 490 | `automation` |
-| [Fn 14 Wv3.2](automation/scripting/fn-14-wv32_d32db1b1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-14-wv3.2.md) | ⭐ 490 | `automation` |
-| [Fn 14 Wv3.3](automation/scripting/fn-14-wv33_02456866/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-14-wv3.3.md) | ⭐ 490 | `automation` |
-| [Fn 14 Wv3.4](automation/scripting/fn-14-wv34_a8f4c99f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-14-wv3.4.md) | ⭐ 490 | `automation` |
-| [Fn 21 Rqz.1](automation/scripting/fn-21-rqz1_c8be63f6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-21-rqz.1.md) | ⭐ 490 | `automation` |
-| [Plan](automation/scripting/plan_d11218c9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/plan.md) | ⭐ 490 | `automation` |
-| [Ralph Init](automation/scripting/ralph-init_d34b080c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/ralph-init.md) | ⭐ 490 | `automation` |
-| [Setup](automation/scripting/setup_1b10b498/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/setup.md) | ⭐ 490 | `automation` |
-| [Work](automation/scripting/work_a8c51018/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/work.md) | ⭐ 490 | `automation` |
-| [Impl Review](automation/scripting/impl-review_b580ed52/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/commands/flow/impl-review.md) | ⭐ 490 | `automation` |
-| [Interview](automation/scripting/interview_29072c51/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/commands/flow/interview.md) | ⭐ 490 | `automation` |
-| [Plan Review](automation/scripting/plan-review_8f28b04b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/commands/flow/plan-review.md) | ⭐ 490 | `automation` |
-| [Plan](automation/scripting/plan_50a099ea/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/commands/flow/plan.md) | ⭐ 490 | `automation` |
-| [Work](automation/scripting/work_7e2eb52d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/commands/flow/work.md) | ⭐ 490 | `automation` |
-| [System](automation/scripting/system_9d8d6cf6/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-selection/system.md) | ⭐ 1.8k | `automation` |
-| [System](automation/scripting/system_ddd7c7bf/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/generate-json-schema/system.md) | ⭐ 1.8k | `automation` |
-| [User](automation/scripting/user_25a37f7c/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/simple/user.md) | ⭐ 1.8k | `automation` |
+| [Fn 18 Kwn](automation/scripting/007-fn-18-kwn_ba3eaf1c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-18-kwn.md) | ⭐ 490 | `automation` |
+| [Fn 12.1](automation/scripting/008-fn-121_067b9545/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.1.md) | ⭐ 490 | `automation` |
+| [Fn 12.3](automation/scripting/009-fn-123_bce851cc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.3.md) | ⭐ 490 | `automation` |
+| [Fn 12.4](automation/scripting/010-fn-124_78a36642/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.4.md) | ⭐ 490 | `automation` |
+| [Fn 12.5](automation/scripting/011-fn-125_d4b20604/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.5.md) | ⭐ 490 | `automation` |
+| [Fn 15 96T.1](automation/scripting/012-fn-15-96t1_eaf0b3e3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.1.md) | ⭐ 490 | `automation` |
+| [Fn 15 96T.4](automation/scripting/013-fn-15-96t4_02c8b0f6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.4.md) | ⭐ 490 | `automation` |
+| [Fn 15 96T.5](automation/scripting/014-fn-15-96t5_6dca4db3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.5.md) | ⭐ 490 | `automation` |
+| [Fn 15 96T.6](automation/scripting/015-fn-15-96t6_74d95edc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.6.md) | ⭐ 490 | `automation` |
+| [Fn 17 Wti.1](automation/scripting/016-fn-17-wti1_b841b151/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.1.md) | ⭐ 490 | `automation` |
+| [Fn 9.1](automation/scripting/017-fn-91_552ba43b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.1.md) | ⭐ 490 | `automation` |
+| [Fn 9.12](automation/scripting/018-fn-912_0799db18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.12.md) | ⭐ 490 | `automation` |
+| [Github Scout](automation/scripting/019-github-scout_3fe7c3c3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/github-scout.md) | ⭐ 490 | `automation` |
+| [Phases](automation/scripting/020-phases_e8560d75/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/phases.md) | ⭐ 490 | `automation` |
 
-### Automation/Workflow (23 skills)
+### Automation/Workflow (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -529,23 +511,24 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Xlsx Skill Analysis](automation/workflow/003-xlsx-skill-analysis_99a207da/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-sheets/xlsx-skill-analysis.md) | ⭐ 171 | `automation` |
 | [Webapp Skill Analysis](automation/workflow/004-webapp-skill-analysis_e4d409e1/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/webapp/webapp-skill-analysis.md) | ⭐ 171 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d1af996f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-agent-browser/SKILL.md) | ⭐ 15 | `automation` |
-| [Fn 1](automation/workflow/fn-1_69a60456/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-1.md) | ⭐ 490 | `automation` |
-| [Fn 1.1](automation/workflow/fn-11_d0f00fb0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.1.md) | ⭐ 490 | `automation` |
-| [Fn 13 Pxj.6](automation/workflow/fn-13-pxj6_667f61b7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.6.md) | ⭐ 490 | `automation` |
-| [Fn 13 Pxj.7](automation/workflow/fn-13-pxj7_c2b9400a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.7.md) | ⭐ 490 | `automation` |
-| [Fn 17 Wti.3](automation/workflow/fn-17-wti3_df651a9a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.3.md) | ⭐ 490 | `automation` |
-| [Fn 17 Wti.4](automation/workflow/fn-17-wti4_9ff0a5b3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.4.md) | ⭐ 490 | `automation` |
-| [Fn 2.3](automation/workflow/fn-23_095198bd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.3.md) | ⭐ 490 | `automation` |
-| [Fn 2.4](automation/workflow/fn-24_69aefe81/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.4.md) | ⭐ 490 | `automation` |
-| [Fn 23 Zgk.4](automation/workflow/fn-23-zgk4_1a30e731/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.4.md) | ⭐ 490 | `automation` |
-| [Workflow Scout](automation/workflow/workflow-scout_b25220e4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/workflow-scout.md) | ⭐ 490 | `automation` |
-| [Pillars](automation/workflow/pillars_ecc3f1eb/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/pillars.md) | ⭐ 490 | `automation` |
-| [Skill](automation/workflow/name-skill_cd30473b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/SKILL.md) | ⭐ 490 | `automation` |
-| [Overview](automation/workflow/overview_05fedc64/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 16 | `automation` |
-| [Slash Commands](automation/workflow/slash-commands_5430d42e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/slash-commands.md) | ⭐ 16 | `automation` |
-| [Setup](automation/workflow/setup_d81e98a9/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/setup.md) | ⭐ 1.8k | `automation` |
+| [Fn 1](automation/workflow/005-fn-1_69a60456/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-1.md) | ⭐ 490 | `automation` |
+| [Fn 1.1](automation/workflow/006-fn-11_d0f00fb0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.1.md) | ⭐ 490 | `automation` |
+| [Fn 13 Pxj.6](automation/workflow/007-fn-13-pxj6_667f61b7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.6.md) | ⭐ 490 | `automation` |
+| [Fn 13 Pxj.7](automation/workflow/008-fn-13-pxj7_c2b9400a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.7.md) | ⭐ 490 | `automation` |
+| [Fn 17 Wti.3](automation/workflow/009-fn-17-wti3_df651a9a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.3.md) | ⭐ 490 | `automation` |
+| [Fn 17 Wti.4](automation/workflow/010-fn-17-wti4_9ff0a5b3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.4.md) | ⭐ 490 | `automation` |
+| [Fn 2.3](automation/workflow/011-fn-23_095198bd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.3.md) | ⭐ 490 | `automation` |
+| [Fn 2.4](automation/workflow/012-fn-24_69aefe81/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.4.md) | ⭐ 490 | `automation` |
+| [Fn 23 Zgk.4](automation/workflow/013-fn-23-zgk4_1a30e731/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.4.md) | ⭐ 490 | `automation` |
+| [Workflow Scout](automation/workflow/014-workflow-scout_b25220e4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/workflow-scout.md) | ⭐ 490 | `automation` |
+| [Pillars](automation/workflow/015-pillars_ecc3f1eb/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/pillars.md) | ⭐ 490 | `automation` |
+| [Skill](automation/workflow/002-name-skill_cd30473b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/SKILL.md) | ⭐ 490 | `automation` |
+| [Overview](automation/workflow/016-overview_05fedc64/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 16 | `automation` |
+| [Slash Commands](automation/workflow/017-slash-commands_5430d42e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/slash-commands.md) | ⭐ 16 | `automation` |
+| [Setup](automation/workflow/018-setup_d81e98a9/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/setup.md) | ⭐ 1.8k | `automation` |
+| [Security Reviewer Prompt](automation/workflow/security-reviewer-prompt_6cf255f9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/security-reviewer-prompt.md) | ⭐ 810 | `automation` |
 
-### Commercial (345 skills)
+### Commercial (342 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -886,16 +869,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ui Credentials](commercial/227-ui_credentials_efbaa719/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_credentials.md) | 🔥 35.1k | `commercial` |
 | [Hashicorp Vault](commercial/228-hashicorp_vault_543d6fee/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/secret_managers/hashicorp_vault.md) | 🔥 35.1k | `commercial` |
 | [Spend Queue Warnings](commercial/229-spend_queue_warnings_4281305f/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/spend_queue_warnings.md) | 🔥 35.1k | `commercial` |
-| [Fn 1.3](commercial/fn-13_1aae2644/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.3.md) | ⭐ 490 | `commercial` |
-| [Fn 9.17](commercial/fn-917_d5a6abcf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.17.md) | ⭐ 490 | `commercial` |
-| [Ralph](commercial/ralph_2554e337/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/ralph.md) | ⭐ 490 | `commercial` |
-| [Skill](commercial/name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
-| [Workflow](commercial/workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
-| [Auth](commercial/auth_e97d046a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/auth.md) | ⭐ 490 | `commercial` |
-| [Scraped Data](commercial/scraped_data_d989fb4f/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/tests/pipe/scraping/scraped_data.md) | ⭐ 1.8k | `commercial` |
-| [Naming Conventions](commercial/naming-conventions_f8d38e7f/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/naming-conventions.md) | ⭐ 1.8k | `commercial` |
+| [Fn 1.3](commercial/230-fn-13_1aae2644/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.3.md) | ⭐ 490 | `commercial` |
+| [Fn 9.17](commercial/231-fn-917_d5a6abcf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.17.md) | ⭐ 490 | `commercial` |
+| [Ralph](commercial/232-ralph_2554e337/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/ralph.md) | ⭐ 490 | `commercial` |
+| [Skill](commercial/210-name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
+| [Workflow](commercial/233-workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
 
-### Communication (175 skills)
+### Communication (172 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1066,16 +1046,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_f53da66e/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 15 | `communication` |
 | [Skill](communication/127-name-skill_928c4b4d/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 15 | `communication` |
 | [Skill](communication/127-name-skill_a40ef0cd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/whatsapp-evo/SKILL.md) | ⭐ 15 | `communication` |
-| [Fn 21 Rqz](communication/fn-21-rqz_dd4a0126/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-21-rqz.md) | ⭐ 490 | `communication` |
-| [Skill](communication/name-skill_17e1be5e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/SKILL.md) | ⭐ 490 | `communication` |
-| [Skill](communication/name-skill_c2be3d96/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-export-context/SKILL.md) | ⭐ 490 | `communication` |
-| [Skill](communication/name-skill_07c008b4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/SKILL.md) | ⭐ 490 | `communication` |
-| [Workflow](communication/workflow_2d196487/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan-review/workflow.md) | ⭐ 490 | `communication` |
-| [Flowctl Reference](communication/flowctl-reference_8a275d44/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/flowctl-reference.md) | ⭐ 490 | `communication` |
-| [Rp Cli Reference](communication/rp-cli-reference_48f1ad01/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/rp-cli-reference.md) | ⭐ 490 | `communication` |
-| [User](communication/user_145bf01b/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/anthropic/user.md) | ⭐ 1.8k | `communication` |
+| [Fn 21 Rqz](communication/128-fn-21-rqz_dd4a0126/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-21-rqz.md) | ⭐ 490 | `communication` |
+| [Skill](communication/127-name-skill_17e1be5e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/SKILL.md) | ⭐ 490 | `communication` |
+| [Skill](communication/127-name-skill_c2be3d96/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-export-context/SKILL.md) | ⭐ 490 | `communication` |
+| [Skill](communication/127-name-skill_07c008b4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/SKILL.md) | ⭐ 490 | `communication` |
+| [Workflow](communication/129-workflow_2d196487/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan-review/workflow.md) | ⭐ 490 | `communication` |
 
-### Content Creation (111 skills)
+### Content Creation (106 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1173,25 +1150,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_8460821f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 15 | `content creation` |
 | [Workflows](content-creation/060-workflows_ba49e91f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/references/workflows.md) | ⭐ 15 | `content creation` |
 | [Onboarding](content-creation/061-onboarding_360f416d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 58 | `content creation` |
-| [Fn 13 Pxj](content-creation/fn-13-pxj_07b69ef7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-13-pxj.md) | ⭐ 490 | `content creation` |
-| [Fn 16 Ugn](content-creation/fn-16-ugn_3c09bec1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-16-ugn.md) | ⭐ 490 | `content creation` |
-| [Fn 1.5](content-creation/fn-15_3e52ac73/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.5.md) | ⭐ 490 | `content creation` |
-| [Fn 13 Pxj.2](content-creation/fn-13-pxj2_f2f73773/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.2.md) | ⭐ 490 | `content creation` |
-| [Fn 15 96T.2](content-creation/fn-15-96t2_174bf0eb/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.2.md) | ⭐ 490 | `content creation` |
-| [Fn 22 53K.4](content-creation/fn-22-53k4_47a8cd1b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.4.md) | ⭐ 490 | `content creation` |
-| [Remediation](content-creation/remediation_22a6e796/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/remediation.md) | ⭐ 490 | `content creation` |
-| [Skill](content-creation/name-skill_2131cce5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-interview/SKILL.md) | ⭐ 490 | `content creation` |
-| [Skill](content-creation/name-skill_5a384d78/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 16 | `content creation` |
-| [Rule](content-creation/rule_2c558249/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.cursor/rules/mintlify-technical-writing/RULE.md) | ⭐ 1.8k | `content creation` |
-| [User](content-creation/user_61fe4d7c/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/all_data/user.md) | ⭐ 1.8k | `content creation` |
-| [User](content-creation/user_71ed5008/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/only_main_content/user.md) | ⭐ 1.8k | `content creation` |
-| [Practice Scout](content-creation/practice-scout_cc14f495/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/practice-scout.md) | ⭐ 490 | `content creation` |
-| [Skill](content-creation/name-skill_31df3be5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-worktree-kit/SKILL.md) | ⭐ 490 | `content creation` |
-| [Skill](content-creation/name-skill_13a2312c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/worktree-kit/SKILL.md) | ⭐ 490 | `content creation` |
-| [User](content-creation/user_beac4df4/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/document-category/base/user.md) | ⭐ 1.8k | `content creation` |
-| [User](content-creation/user_3d7057bf/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/document-category/optim/user.md) | ⭐ 1.8k | `content creation` |
+| [Fn 13 Pxj](content-creation/062-fn-13-pxj_07b69ef7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-13-pxj.md) | ⭐ 490 | `content creation` |
+| [Fn 16 Ugn](content-creation/063-fn-16-ugn_3c09bec1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-16-ugn.md) | ⭐ 490 | `content creation` |
+| [Fn 1.5](content-creation/064-fn-15_3e52ac73/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.5.md) | ⭐ 490 | `content creation` |
+| [Fn 13 Pxj.2](content-creation/065-fn-13-pxj2_f2f73773/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.2.md) | ⭐ 490 | `content creation` |
+| [Fn 15 96T.2](content-creation/066-fn-15-96t2_174bf0eb/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.2.md) | ⭐ 490 | `content creation` |
+| [Fn 22 53K.4](content-creation/067-fn-22-53k4_47a8cd1b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.4.md) | ⭐ 490 | `content creation` |
+| [Remediation](content-creation/068-remediation_22a6e796/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/remediation.md) | ⭐ 490 | `content creation` |
+| [Skill](content-creation/049-name-skill_2131cce5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-interview/SKILL.md) | ⭐ 490 | `content creation` |
+| [Skill](content-creation/049-name-skill_5a384d78/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 16 | `content creation` |
+| [Rule](content-creation/069-rule_2c558249/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.cursor/rules/mintlify-technical-writing/RULE.md) | ⭐ 1.8k | `content creation` |
+| [User](content-creation/070-user_61fe4d7c/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/all_data/user.md) | ⭐ 1.8k | `content creation` |
+| [User](content-creation/070-user_71ed5008/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/only_main_content/user.md) | ⭐ 1.8k | `content creation` |
 
-### Daily Assistant (151 skills)
+### Daily Assistant (137 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1297,57 +1269,43 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](daily-assistant/052-index_dd69da06/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/anthropic_opus_4_5_and_advanced_features/index.md) | 🔥 35.1k | `anthropic` `claude` `tool search` |
 | [Cost Tracking](daily-assistant/053-cost_tracking_34479305/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cost_tracking.md) | 🔥 35.1k | `model-anthropic-claude-v2.1` `app-ishaan-prod` |
 | [Image Handling](daily-assistant/054-image_handling_c334cba0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/image_handling.md) | 🔥 35.1k | `daily assistant` |
-| [Fn 14 Wv3](daily-assistant/fn-14-wv3_65519d48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-14-wv3.md) | ⭐ 490 | `daily assistant` |
-| [Fn 2](daily-assistant/fn-2_e09629bf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-2.md) | ⭐ 490 | `daily assistant` |
-| [Fn 6](daily-assistant/fn-6_351d2017/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-6.md) | ⭐ 490 | `daily assistant` |
-| [Fn 8](daily-assistant/fn-8_3820daa3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-8.md) | ⭐ 490 | `daily assistant` |
-| [Fn 1.4](daily-assistant/fn-14_034d320f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.4.md) | ⭐ 490 | `daily assistant` |
-| [Fn 1.6](daily-assistant/fn-16_92d920b6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.6.md) | ⭐ 490 | `daily assistant` |
-| [Fn 12.2](daily-assistant/fn-122_28a513f2/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.2.md) | ⭐ 490 | `daily assistant` |
-| [Fn 12.6](daily-assistant/fn-126_4ff57662/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.6.md) | ⭐ 490 | `daily assistant` |
-| [Fn 13 Pxj.1](daily-assistant/fn-13-pxj1_821ee332/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.1.md) | ⭐ 490 | `daily assistant` |
-| [Fn 13 Pxj.4](daily-assistant/fn-13-pxj4_12741c65/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.4.md) | ⭐ 490 | `daily assistant` |
-| [Fn 13 Pxj.5](daily-assistant/fn-13-pxj5_c5176a57/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.5.md) | ⭐ 490 | `daily assistant` |
-| [Fn 15 96T.3](daily-assistant/fn-15-96t3_6e037984/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.3.md) | ⭐ 490 | `daily assistant` |
-| [Fn 16 Ugn.1](daily-assistant/fn-16-ugn1_a575f6b7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-16-ugn.1.md) | ⭐ 490 | `daily assistant` |
-| [Fn 16 Ugn.2](daily-assistant/fn-16-ugn2_4e70678d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-16-ugn.2.md) | ⭐ 490 | `daily assistant` |
-| [Fn 2.5](daily-assistant/fn-25_b6a29aac/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.5.md) | ⭐ 490 | `daily assistant` |
-| [Fn 22 53K.6](daily-assistant/fn-22-53k6_b797f472/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.6.md) | ⭐ 490 | `daily assistant` |
-| [Fn 22 53K.8](daily-assistant/fn-22-53k8_10158614/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.8.md) | ⭐ 490 | `daily assistant` |
-| [Fn 23 Zgk.2](daily-assistant/fn-23-zgk2_b6d89b9c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.2.md) | ⭐ 490 | `daily assistant` |
-| [Fn 23 Zgk.3](daily-assistant/fn-23-zgk3_d30d0b65/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.3.md) | ⭐ 490 | `daily assistant` |
-| [Fn 9.13](daily-assistant/fn-913_03610e66/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.13.md) | ⭐ 490 | `daily assistant` |
-| [Fn 9.2](daily-assistant/fn-92_3ec7bee7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.2.md) | ⭐ 490 | `daily assistant` |
-| [Fn 9.3](daily-assistant/fn-93_9a9959c1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.3.md) | ⭐ 490 | `daily assistant` |
-| [Fn 9.8](daily-assistant/fn-98_c12090b3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.8.md) | ⭐ 490 | `daily assistant` |
-| [Fn 9.9](daily-assistant/fn-99_dd2fa8c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.9.md) | ⭐ 490 | `daily assistant` |
-| [Memory Scout](daily-assistant/memory-scout_8c79d7ca/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/memory-scout.md) | ⭐ 490 | `daily assistant` |
-| [Sync](daily-assistant/sync_21d3a64b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/sync.md) | ⭐ 490 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_b15c9de3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-interview/SKILL.md) | ⭐ 490 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_4f24cd3e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/SKILL.md) | ⭐ 490 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_1f3a1a7f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-sync/SKILL.md) | ⭐ 490 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_74d3ee99/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/SKILL.md) | ⭐ 490 | `daily assistant` |
-| [Phases](daily-assistant/phases_07ad75c2/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/phases.md) | ⭐ 490 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_b1018138/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next/SKILL.md) | ⭐ 490 | `daily assistant` |
-| [System](daily-assistant/system_52cce97a/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/falco/system.md) | ⭐ 1.8k | `daily assistant` |
-| [System](daily-assistant/system_6d66eb4d/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/gufo/system.md) | ⭐ 1.8k | `daily assistant` |
-| [Fn 12.10](daily-assistant/fn-1210_46d2da39/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.10.md) | ⭐ 490 | `daily assistant` |
-| [Fn 12.11](daily-assistant/fn-1211_4d9ef1f0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.11.md) | ⭐ 490 | `daily assistant` |
-| [Fn 12.12](daily-assistant/fn-1212_4c8b07d8/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.12.md) | ⭐ 490 | `daily assistant` |
-| [Fn 12.9](daily-assistant/fn-129_a35cfced/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.9.md) | ⭐ 490 | `daily assistant` |
-| [Epic Scout](daily-assistant/epic-scout_f02daf8d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/epic-scout.md) | ⭐ 490 | `daily assistant` |
-| [Interview](daily-assistant/interview_979d71e1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/interview.md) | ⭐ 490 | `daily assistant` |
-| [Uninstall](daily-assistant/uninstall_7efdc857/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/uninstall.md) | ⭐ 490 | `daily assistant` |
-| [Prompt Work](daily-assistant/prompt_work_a5eeb448/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/templates/prompt_work.md) | ⭐ 490 | `daily assistant` |
-| [Claude Md Snippet](daily-assistant/claude-md-snippet_c82e6b3f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/templates/claude-md-snippet.md) | ⭐ 490 | `daily assistant` |
-| [Change Local Config](daily-assistant/change_local_config_a1bc414f/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/change_local_config.md) | ⭐ 1.8k | `daily assistant` |
-| [Run Notte With External Browsers](daily-assistant/run_notte_with_external_browsers_ec014791/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/run_notte_with_external_browsers.md) | ⭐ 1.8k | `daily assistant` |
-| [Sdk Tutorial](daily-assistant/sdk_tutorial_aaf730c5/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/sdk_tutorial.md) | ⭐ 1.8k | `daily assistant` |
-| [User](daily-assistant/user_ca1f0aec/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/user.md) | ⭐ 1.8k | `daily assistant` |
-| [User](daily-assistant/user_b040f9f4/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/debug-failing-action-exec/user.md) | ⭐ 1.8k | `daily assistant` |
-| [User](daily-assistant/user_c00b4a36/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/data-extraction/two_sections/user.md) | ⭐ 1.8k | `daily assistant` |
+| [Fn 14 Wv3](daily-assistant/055-fn-14-wv3_65519d48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-14-wv3.md) | ⭐ 490 | `daily assistant` |
+| [Fn 2](daily-assistant/056-fn-2_e09629bf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-2.md) | ⭐ 490 | `daily assistant` |
+| [Fn 6](daily-assistant/057-fn-6_351d2017/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-6.md) | ⭐ 490 | `daily assistant` |
+| [Fn 8](daily-assistant/058-fn-8_3820daa3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-8.md) | ⭐ 490 | `daily assistant` |
+| [Fn 1.4](daily-assistant/059-fn-14_034d320f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.4.md) | ⭐ 490 | `daily assistant` |
+| [Fn 1.6](daily-assistant/060-fn-16_92d920b6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.6.md) | ⭐ 490 | `daily assistant` |
+| [Fn 12.2](daily-assistant/061-fn-122_28a513f2/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.2.md) | ⭐ 490 | `daily assistant` |
+| [Fn 12.6](daily-assistant/062-fn-126_4ff57662/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.6.md) | ⭐ 490 | `daily assistant` |
+| [Fn 13 Pxj.1](daily-assistant/063-fn-13-pxj1_821ee332/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.1.md) | ⭐ 490 | `daily assistant` |
+| [Fn 13 Pxj.4](daily-assistant/064-fn-13-pxj4_12741c65/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.4.md) | ⭐ 490 | `daily assistant` |
+| [Fn 13 Pxj.5](daily-assistant/065-fn-13-pxj5_c5176a57/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.5.md) | ⭐ 490 | `daily assistant` |
+| [Fn 15 96T.3](daily-assistant/066-fn-15-96t3_6e037984/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-15-96t.3.md) | ⭐ 490 | `daily assistant` |
+| [Fn 16 Ugn.1](daily-assistant/067-fn-16-ugn1_a575f6b7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-16-ugn.1.md) | ⭐ 490 | `daily assistant` |
+| [Fn 16 Ugn.2](daily-assistant/068-fn-16-ugn2_4e70678d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-16-ugn.2.md) | ⭐ 490 | `daily assistant` |
+| [Fn 2.5](daily-assistant/069-fn-25_b6a29aac/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.5.md) | ⭐ 490 | `daily assistant` |
+| [Fn 22 53K.6](daily-assistant/070-fn-22-53k6_b797f472/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.6.md) | ⭐ 490 | `daily assistant` |
+| [Fn 22 53K.8](daily-assistant/071-fn-22-53k8_10158614/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.8.md) | ⭐ 490 | `daily assistant` |
+| [Fn 23 Zgk.2](daily-assistant/072-fn-23-zgk2_b6d89b9c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.2.md) | ⭐ 490 | `daily assistant` |
+| [Fn 23 Zgk.3](daily-assistant/073-fn-23-zgk3_d30d0b65/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.3.md) | ⭐ 490 | `daily assistant` |
+| [Fn 9.13](daily-assistant/074-fn-913_03610e66/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.13.md) | ⭐ 490 | `daily assistant` |
+| [Fn 9.2](daily-assistant/075-fn-92_3ec7bee7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.2.md) | ⭐ 490 | `daily assistant` |
+| [Fn 9.3](daily-assistant/076-fn-93_9a9959c1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.3.md) | ⭐ 490 | `daily assistant` |
+| [Fn 9.8](daily-assistant/077-fn-98_c12090b3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.8.md) | ⭐ 490 | `daily assistant` |
+| [Fn 9.9](daily-assistant/078-fn-99_dd2fa8c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.9.md) | ⭐ 490 | `daily assistant` |
+| [Memory Scout](daily-assistant/079-memory-scout_8c79d7ca/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/memory-scout.md) | ⭐ 490 | `daily assistant` |
+| [Sync](daily-assistant/080-sync_21d3a64b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/sync.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b15c9de3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-interview/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_4f24cd3e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_1f3a1a7f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-sync/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_74d3ee99/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [Phases](daily-assistant/081-phases_07ad75c2/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-work/phases.md) | ⭐ 490 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b1018138/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next/SKILL.md) | ⭐ 490 | `daily assistant` |
+| [System](daily-assistant/082-system_52cce97a/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/falco/system.md) | ⭐ 1.8k | `daily assistant` |
+| [System](daily-assistant/082-system_6d66eb4d/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-agent/src/notte_agent/gufo/system.md) | ⭐ 1.8k | `daily assistant` |
+| [Todo](daily-assistant/todo_4cffa3ef/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/todo.md) | ⭐ 810 | `daily assistant` |
 
-### Data Analysis (377 skills)
+### Data Analysis (373 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1714,22 +1672,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_ec6f1d42/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-create-cli/SKILL.md) | ⭐ 15 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_94c893d9/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/remotion-best-practices/SKILL.md) | ⭐ 15 | `data analysis` |
 | [Output Patterns](data-analysis/240-output-patterns_6fa1f3dd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/references/output-patterns.md) | ⭐ 15 | `data analysis` |
-| [Fn 18 Kwn.1](data-analysis/fn-18-kwn1_fa3543b6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-18-kwn.1.md) | ⭐ 490 | `data analysis` |
-| [Fn 13 Pxj.8](data-analysis/fn-13-pxj8_8e6c7a67/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.8.md) | ⭐ 490 | `data analysis` |
-| [Fn 22 53K.1](data-analysis/fn-22-53k1_256099f8/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.1.md) | ⭐ 490 | `data analysis` |
-| [Fn 22 53K.7](data-analysis/fn-22-53k7_65e2bac5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.7.md) | ⭐ 490 | `data analysis` |
-| [Fn 9.5](data-analysis/fn-95_3f41cb2c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.5.md) | ⭐ 490 | `data analysis` |
-| [Workflow](data-analysis/workflow_62eb8169/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/workflow.md) | ⭐ 490 | `data analysis` |
-| [Debugging](data-analysis/debugging_9ede2b56/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/debugging.md) | ⭐ 490 | `data analysis` |
-| [User](data-analysis/user_896aa7f5/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing-incr/user.md) | ⭐ 1.8k | `data analysis` |
-| [User](data-analysis/user_b6b63b2e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/optim/user.md) | ⭐ 1.8k | `data analysis` |
-| [Skill](data-analysis/name-skill_41236ccc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-deps/SKILL.md) | ⭐ 490 | `data analysis` |
-| [System](data-analysis/system_d9b1b766/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/extract-without-json-schema/system.md) | ⭐ 1.8k | `data analysis` |
-| [User](data-analysis/user_9c15a581/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/extract-without-json-schema/user.md) | ⭐ 1.8k | `data analysis` |
-| [User](data-analysis/user_8ef6fd7a/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/generate-json-schema/user.md) | ⭐ 1.8k | `data analysis` |
-| [System](data-analysis/system_fce536b8/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/extract-json-schema/multi-entity/system.md) | ⭐ 1.8k | `data analysis` |
+| [Fn 18 Kwn.1](data-analysis/241-fn-18-kwn1_fa3543b6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-18-kwn.1.md) | ⭐ 490 | `data analysis` |
+| [Fn 13 Pxj.8](data-analysis/242-fn-13-pxj8_8e6c7a67/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.8.md) | ⭐ 490 | `data analysis` |
+| [Fn 22 53K.1](data-analysis/243-fn-22-53k1_256099f8/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.1.md) | ⭐ 490 | `data analysis` |
+| [Fn 22 53K.7](data-analysis/244-fn-22-53k7_65e2bac5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.7.md) | ⭐ 490 | `data analysis` |
+| [Fn 9.5](data-analysis/245-fn-95_3f41cb2c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.5.md) | ⭐ 490 | `data analysis` |
+| [Workflow](data-analysis/246-workflow_62eb8169/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-impl-review/workflow.md) | ⭐ 490 | `data analysis` |
+| [Debugging](data-analysis/247-debugging_9ede2b56/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/debugging.md) | ⭐ 490 | `data analysis` |
+| [User](data-analysis/248-user_896aa7f5/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing-incr/user.md) | ⭐ 1.8k | `data analysis` |
+| [User](data-analysis/248-user_b6b63b2e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/optim/user.md) | ⭐ 1.8k | `data analysis` |
+| [Business Analyst Description](data-analysis/business-analyst-description_b34a31ce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/business-analyst-description.md) | ⭐ 810 | `data analysis` |
 
-### Development (2400 skills)
+### Development (2408 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4066,75 +4020,83 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/028-agents_5c82f620/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/Agents.md) | ⭐ 1.1k | `development` |
 | [Skill](development/1178-name-skill_54b44dc9/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/find-skills/SKILL.md) | ⭐ 15 | `development` |
 | [Skill](development/1178-name-skill_33ef9164/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/.system/skill-creator/SKILL.md) | ⭐ 15 | `development` |
-| [Claude](development/claude_c2613c0f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/flow-next-tui/CLAUDE.md) | ⭐ 490 | `development` |
-| [Fn 15 96T](development/fn-15-96t_35b676a9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-15-96t.md) | ⭐ 490 | `development` |
-| [Fn 20 Svm](development/fn-20-svm_49143ca3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-20-svm.md) | ⭐ 490 | `development` |
-| [Fn 22 53K](development/fn-22-53k_32bdd55f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-22-53k.md) | ⭐ 490 | `development` |
-| [Fn 23 Zgk](development/fn-23-zgk_251b8387/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-23-zgk.md) | ⭐ 490 | `development` |
-| [Fn 1.2](development/fn-12_9d5e2075/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.2.md) | ⭐ 490 | `development` |
-| [Fn 12.7](development/fn-127_26857672/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.7.md) | ⭐ 490 | `development` |
-| [Fn 18 Kwn.1](development/fn-18-kwn1_4b27e5e6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-18-kwn.1.md) | ⭐ 490 | `development` |
-| [Fn 2.1](development/fn-21_3f5c6520/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.1.md) | ⭐ 490 | `development` |
-| [Fn 2.2](development/fn-22_09c40e13/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.2.md) | ⭐ 490 | `development` |
-| [Fn 2.6](development/fn-26_5a526af5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.6.md) | ⭐ 490 | `development` |
-| [Fn 2.8](development/fn-28_56fe39fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.8.md) | ⭐ 490 | `development` |
-| [Fn 22 53K.2](development/fn-22-53k2_9798f602/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.2.md) | ⭐ 490 | `development` |
-| [Fn 22 53K.3](development/fn-22-53k3_cb05095a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.3.md) | ⭐ 490 | `development` |
-| [Fn 22 53K.5](development/fn-22-53k5_f14e2717/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.5.md) | ⭐ 490 | `development` |
-| [Fn 23 Zgk.1](development/fn-23-zgk1_e547a33a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.1.md) | ⭐ 490 | `development` |
-| [Fn 9.10](development/fn-910_25982163/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.10.md) | ⭐ 490 | `development` |
-| [Fn 9.18](development/fn-918_c973e915/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.18.md) | ⭐ 490 | `development` |
-| [Fn 9.4](development/fn-94_2b528cba/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.4.md) | ⭐ 490 | `development` |
-| [Fn 9.6](development/fn-96_455fdb37/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.6.md) | ⭐ 490 | `development` |
-| [Fn 9.7](development/fn-97_316cfc69/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.7.md) | ⭐ 490 | `development` |
-| [Claude](development/claude_74df01d0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/flow-next-tui/.claude/CLAUDE.md) | ⭐ 490 | `development` |
-| [Context Scout](development/context-scout_7dceaa7a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/context-scout.md) | ⭐ 490 | `development` |
-| [Docs Scout](development/docs-scout_88534893/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-scout.md) | ⭐ 490 | `development` |
-| [Env Scout](development/env-scout_0c5eb03f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/env-scout.md) | ⭐ 490 | `development` |
-| [Flow Gap Analyst](development/flow-gap-analyst_97ebc8d3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/flow-gap-analyst.md) | ⭐ 490 | `development` |
-| [Plan Sync](development/plan-sync_145ac34c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/plan-sync.md) | ⭐ 490 | `development` |
-| [Practice Scout](development/practice-scout_c6ccbaf7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/practice-scout.md) | ⭐ 490 | `development` |
-| [Quality Auditor](development/quality-auditor_e2706a32/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/quality-auditor.md) | ⭐ 490 | `development` |
-| [Flowctl](development/flowctl_a3270174/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/flowctl.md) | ⭐ 490 | `development` |
-| [Context Scout](development/context-scout_91d28b17/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/context-scout.md) | ⭐ 490 | `development` |
-| [Flow Gap Analyst](development/flow-gap-analyst_f3f07454/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/flow-gap-analyst.md) | ⭐ 490 | `development` |
-| [Quality Auditor](development/quality-auditor_a80a230e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/quality-auditor.md) | ⭐ 490 | `development` |
-| [Workflow](development/workflow_6529c122/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/workflow.md) | ⭐ 490 | `development` |
-| [Steps](development/steps_92565f21/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/steps.md) | ⭐ 490 | `development` |
-| [Skill](development/name-skill_e037b811/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/SKILL.md) | ⭐ 490 | `development` |
-| [Skill](development/name-skill_fa56e90d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-rp-explorer/SKILL.md) | ⭐ 490 | `development` |
-| [Cli Reference](development/cli-reference_eeba2573/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-rp-explorer/cli-reference.md) | ⭐ 490 | `development` |
-| [Steps](development/steps_99086c01/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan/steps.md) | ⭐ 490 | `development` |
-| [Skill](development/name-skill_cf4dc86e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/rp-explorer/SKILL.md) | ⭐ 490 | `development` |
-| [Cli Reference](development/cli-reference_f434e01f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/rp-explorer/cli-reference.md) | ⭐ 490 | `development` |
-| [Mcp Tools](development/mcp-tools_972ad63e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/mcp-tools.md) | ⭐ 16 | `development` |
-| [Skills](development/agent-skill_790209a6/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 16 | `development` |
-| [Env Config](development/env-config_c943de0e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/env-config.md) | ⭐ 16 | `development` |
-| [Yaml Config](development/yaml-config_16d8a9be/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/yaml-config.md) | ⭐ 16 | `development` |
-| [Issue Addressor](development/issue-addressor_b905b926/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/issue-addressor.md) | ⭐ 16 | `development` |
-| [Review Addressor](development/review-addressor_46776f6b/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/review-addressor.md) | ⭐ 16 | `development` |
-| [Configuration](development/configuration_8459e93b/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/configuration.md) | ⭐ 16 | `development` |
-| [Supported Providers](development/supported-providers_e2addfb6/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/supported-providers.md) | ⭐ 16 | `development` |
-| [Skill](development/name-skill_2cb1ac0e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/agentsmd-creation/SKILL.md) | ⭐ 16 | `development` |
-| [Skill](development/name-skill_3d820a11/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md) | ⭐ 16 | `development` |
-| [Claude](development/claude_e221a3ad/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/CLAUDE.md) | ⭐ 1.8k | `development` |
-| [Icons](development/icons_bca73b6e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/icons.md) | ⭐ 1.8k | `development` |
-| [Fn 4](development/fn-4_ad8f1cff/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-4.md) | ⭐ 490 | `development` |
-| [Claude Md Scout](development/claude-md-scout_620eb009/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/claude-md-scout.md) | ⭐ 490 | `development` |
-| [Repo Scout](development/repo-scout_5ba4a7b7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/repo-scout.md) | ⭐ 490 | `development` |
-| [Docs Scout](development/docs-scout_d2c3e29f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/docs-scout.md) | ⭐ 490 | `development` |
-| [Repo Scout](development/repo-scout_c4284bdd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/repo-scout.md) | ⭐ 490 | `development` |
-| [Epic Review](development/epic-review_4320e1c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/epic-review.md) | ⭐ 490 | `development` |
-| [Impl Review](development/impl-review_d39e5bf3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/impl-review.md) | ⭐ 490 | `development` |
-| [Plan Review](development/plan-review_fecb0df5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/plan-review.md) | ⭐ 490 | `development` |
-| [Prime](development/prime_a6cb9163/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/commands/flow-next/prime.md) | ⭐ 490 | `development` |
-| [Examples](development/examples_150e72a9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/examples.md) | ⭐ 490 | `development` |
-| [Prompt Completion](development/prompt_completion_ba046b0c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/templates/prompt_completion.md) | ⭐ 490 | `development` |
-| [Prompt Plan](development/prompt_plan_e0ef3191/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/templates/prompt_plan.md) | ⭐ 490 | `development` |
-| [Skill](development/name-skill_14e15fae/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/code-review/SKILL.md) | ⭐ 16 | `development` |
-| [Run Ollama Local Models](development/run_ollama_local_models_0130e39d/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/run_ollama_local_models.md) | ⭐ 1.8k | `development` |
+| [Claude](development/140-claude_c2613c0f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/flow-next-tui/CLAUDE.md) | ⭐ 490 | `development` |
+| [Fn 15 96T](development/1255-fn-15-96t_35b676a9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-15-96t.md) | ⭐ 490 | `development` |
+| [Fn 20 Svm](development/1256-fn-20-svm_49143ca3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-20-svm.md) | ⭐ 490 | `development` |
+| [Fn 22 53K](development/1257-fn-22-53k_32bdd55f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-22-53k.md) | ⭐ 490 | `development` |
+| [Fn 23 Zgk](development/1258-fn-23-zgk_251b8387/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-23-zgk.md) | ⭐ 490 | `development` |
+| [Fn 1.2](development/1259-fn-12_9d5e2075/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-1.2.md) | ⭐ 490 | `development` |
+| [Fn 12.7](development/1260-fn-127_26857672/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.7.md) | ⭐ 490 | `development` |
+| [Fn 18 Kwn.1](development/1261-fn-18-kwn1_4b27e5e6/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-18-kwn.1.md) | ⭐ 490 | `development` |
+| [Fn 2.1](development/1262-fn-21_3f5c6520/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.1.md) | ⭐ 490 | `development` |
+| [Fn 2.2](development/1263-fn-22_09c40e13/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.2.md) | ⭐ 490 | `development` |
+| [Fn 2.6](development/1264-fn-26_5a526af5/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.6.md) | ⭐ 490 | `development` |
+| [Fn 2.8](development/1265-fn-28_56fe39fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.8.md) | ⭐ 490 | `development` |
+| [Fn 22 53K.2](development/1266-fn-22-53k2_9798f602/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.2.md) | ⭐ 490 | `development` |
+| [Fn 22 53K.3](development/1267-fn-22-53k3_cb05095a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.3.md) | ⭐ 490 | `development` |
+| [Fn 22 53K.5](development/1268-fn-22-53k5_f14e2717/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-22-53k.5.md) | ⭐ 490 | `development` |
+| [Fn 23 Zgk.1](development/1269-fn-23-zgk1_e547a33a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-23-zgk.1.md) | ⭐ 490 | `development` |
+| [Fn 9.10](development/1270-fn-910_25982163/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.10.md) | ⭐ 490 | `development` |
+| [Fn 9.18](development/1271-fn-918_c973e915/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.18.md) | ⭐ 490 | `development` |
+| [Fn 9.4](development/1272-fn-94_2b528cba/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.4.md) | ⭐ 490 | `development` |
+| [Fn 9.6](development/1273-fn-96_455fdb37/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.6.md) | ⭐ 490 | `development` |
+| [Fn 9.7](development/1274-fn-97_316cfc69/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.7.md) | ⭐ 490 | `development` |
+| [Claude](development/140-claude_74df01d0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/flow-next-tui/.claude/CLAUDE.md) | ⭐ 490 | `development` |
+| [Context Scout](development/1275-context-scout_7dceaa7a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/context-scout.md) | ⭐ 490 | `development` |
+| [Docs Scout](development/1276-docs-scout_88534893/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-scout.md) | ⭐ 490 | `development` |
+| [Env Scout](development/1277-env-scout_0c5eb03f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/env-scout.md) | ⭐ 490 | `development` |
+| [Flow Gap Analyst](development/1278-flow-gap-analyst_97ebc8d3/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/flow-gap-analyst.md) | ⭐ 490 | `development` |
+| [Plan Sync](development/1279-plan-sync_145ac34c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/plan-sync.md) | ⭐ 490 | `development` |
+| [Practice Scout](development/1280-practice-scout_c6ccbaf7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/practice-scout.md) | ⭐ 490 | `development` |
+| [Quality Auditor](development/1281-quality-auditor_e2706a32/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/quality-auditor.md) | ⭐ 490 | `development` |
+| [Flowctl](development/1282-flowctl_a3270174/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/docs/flowctl.md) | ⭐ 490 | `development` |
+| [Context Scout](development/1275-context-scout_91d28b17/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/context-scout.md) | ⭐ 490 | `development` |
+| [Flow Gap Analyst](development/1278-flow-gap-analyst_f3f07454/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/flow-gap-analyst.md) | ⭐ 490 | `development` |
+| [Quality Auditor](development/1281-quality-auditor_a80a230e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/agents/quality-auditor.md) | ⭐ 490 | `development` |
+| [Workflow](development/1153-workflow_6529c122/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-epic-review/workflow.md) | ⭐ 490 | `development` |
+| [Steps](development/1283-steps_92565f21/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan/steps.md) | ⭐ 490 | `development` |
+| [Skill](development/1178-name-skill_e037b811/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/SKILL.md) | ⭐ 490 | `development` |
+| [Skill](development/1178-name-skill_fa56e90d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-rp-explorer/SKILL.md) | ⭐ 490 | `development` |
+| [Cli Reference](development/147-cli-reference_eeba2573/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-rp-explorer/cli-reference.md) | ⭐ 490 | `development` |
+| [Steps](development/1283-steps_99086c01/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan/steps.md) | ⭐ 490 | `development` |
+| [Skill](development/1178-name-skill_cf4dc86e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/rp-explorer/SKILL.md) | ⭐ 490 | `development` |
+| [Cli Reference](development/147-cli-reference_f434e01f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/rp-explorer/cli-reference.md) | ⭐ 490 | `development` |
+| [Mcp Tools](development/1284-mcp-tools_972ad63e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/mcp-tools.md) | ⭐ 16 | `development` |
+| [Skills](development/1285-agent-skill_790209a6/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 16 | `development` |
+| [Env Config](development/1286-env-config_c943de0e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/env-config.md) | ⭐ 16 | `development` |
+| [Yaml Config](development/1287-yaml-config_16d8a9be/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/yaml-config.md) | ⭐ 16 | `development` |
+| [Issue Addressor](development/1288-issue-addressor_b905b926/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/issue-addressor.md) | ⭐ 16 | `development` |
+| [Review Addressor](development/1289-review-addressor_46776f6b/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/review-addressor.md) | ⭐ 16 | `development` |
+| [Configuration](development/191-configuration_8459e93b/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/configuration.md) | ⭐ 16 | `development` |
+| [Supported Providers](development/1290-supported-providers_e2addfb6/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/supported-providers.md) | ⭐ 16 | `development` |
+| [Skill](development/1178-name-skill_2cb1ac0e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/agentsmd-creation/SKILL.md) | ⭐ 16 | `development` |
+| [Skill](development/1178-name-skill_3d820a11/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md) | ⭐ 16 | `development` |
+| [Claude](development/140-claude_e221a3ad/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/CLAUDE.md) | ⭐ 1.8k | `development` |
+| [Icons](development/1291-icons_bca73b6e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/icons.md) | ⭐ 1.8k | `development` |
+| [Coder Reviewer](development/coder-reviewer_5b3a1e02/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/coder-reviewer.md) | ⭐ 810 | `development` |
+| [Frontend Engineer](development/frontend-engineer_939385fc/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/frontend-engineer.md) | ⭐ 810 | `development` |
+| [Project Manager](development/project-manager_714e5cb9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/project-manager.md) | ⭐ 810 | `development` |
+| [Ux Designer](development/ux-designer_108bc720/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/ux-designer.md) | ⭐ 810 | `development` |
+| [Tdd](development/tdd_8d336add/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/tdd.md) | ⭐ 810 | `development` |
+| [Backend Engineer Description](development/backend-engineer-description_e12794f5/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/backend-engineer-description.md) | ⭐ 810 | `development` |
+| [Database Engineer Description](development/database-engineer-description_64a51ff5/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/database-engineer-description.md) | ⭐ 810 | `development` |
+| [Project Manager Description](development/project-manager-description_8e0d9d54/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/project-manager-description.md) | ⭐ 810 | `development` |
+| [Security Reviewer Description](development/security-reviewer-description_32174e2c/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/security-reviewer-description.md) | ⭐ 810 | `development` |
+| [Tech Lead Description](development/tech-lead-description_a77e7b35/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/tech-lead-description.md) | ⭐ 810 | `development` |
+| [Ux Engineer Description](development/ux-engineer-description_fcffc01d/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/ux-engineer-description.md) | ⭐ 810 | `development` |
+| [Backend Engineer Prompt](development/backend-engineer-prompt_bffa8b7c/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/backend-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Code Reviewer Prompt](development/code-reviewer-prompt_ae8ddce7/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/code-reviewer-prompt.md) | ⭐ 810 | `development` |
+| [Database Engineer Prompt](development/database-engineer-prompt_08df61f4/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/database-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Frontend Engineer Prompt](development/frontend-engineer-prompt_138288b4/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/frontend-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Tech Lead Prompt](development/tech-lead-prompt_6e454bce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/tech-lead-prompt.md) | ⭐ 810 | `development` |
+| [Ux Engineer Prompt](development/ux-engineer-prompt_e1d613b3/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/ux-engineer-prompt.md) | ⭐ 810 | `development` |
+| [Serena](development/serena_94100417/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/mcp-servers/serena.md) | ⭐ 810 | `development` |
+| [Tech Lead Architect](development/tech-lead-architect_08e5ebc0/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/agents/tech-lead-architect.md) | ⭐ 810 | `development` |
+| [Mermaid](development/mermaid_5053105f/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/mermaid.md) | ⭐ 810 | `development` |
+| [Test](development/test_7011cd9e/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/test.md) | ⭐ 810 | `development` |
+| [Code Reviewer Description](development/code-reviewer-description_2778b4ea/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/code-reviewer-description.md) | ⭐ 810 | `development` |
 
-### Development/Devops (84 skills)
+### Development/Devops (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4259,36 +4221,29 @@ Read more about the new architecture [here` |
 | [Index](development/devops/050-index_be1a9471/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.0/index.md) | 🔥 35.1k | `development` |
 | [Index](development/devops/050-index_276a2b97/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.3-stable/index.md) | 🔥 35.1k | `development` |
 | [Quick Start](development/devops/051-quick_start_18c22f02/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/quick_start.md) | 🔥 35.1k | `development` |
-| [Workflow](development/devops/workflow_46785334/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/workflow.md) | ⭐ 490 | `development` |
-| [Agents](development/devops/agents_99e909ba/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/AGENTS.md) | ⭐ 16 | `development` |
-| [Monitoring](development/devops/monitoring_0106f8b9/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/monitoring.md) | ⭐ 16 | `development` |
-| [Up And Running](development/devops/up-and-running_62eff66d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/up-and-running.md) | ⭐ 16 | `development` |
-| [Build Scout](development/devops/build-scout_e4701c4b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/build-scout.md) | ⭐ 490 | `development` |
-| [Copyright](development/devops/copyright_35cfc4fd/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/COPYRIGHT.md) | ⭐ 1.8k | `development` |
+| [Workflow](development/devops/052-workflow_46785334/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-prime/workflow.md) | ⭐ 490 | `development` |
+| [Agents](development/devops/053-agents_99e909ba/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/AGENTS.md) | ⭐ 16 | `development` |
+| [Monitoring](development/devops/054-monitoring_0106f8b9/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/monitoring.md) | ⭐ 16 | `development` |
+| [Up And Running](development/devops/055-up-and-running_62eff66d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/up-and-running.md) | ⭐ 16 | `development` |
 
-### Development/Testing (17 skills)
+### Development/Testing (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Think](development/testing/001-think_71078b19/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/think.md) | ⭐ 27 | `development` |
 | [Skill](development/testing/002-name-skill_e0a2cd42/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/tdd-strict/SKILL.md) | ⭐ 27 | `development` |
-| [Fn 12](development/testing/fn-12_a8ade8f7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-12.md) | ⭐ 490 | `development` |
-| [Fn 19 Vby](development/testing/fn-19-vby_4e52c046/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-19-vby.md) | ⭐ 490 | `development` |
-| [Fn 12.8](development/testing/fn-128_18ba7765/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.8.md) | ⭐ 490 | `development` |
-| [Fn 16 Ugn.3](development/testing/fn-16-ugn3_8b891d61/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-16-ugn.3.md) | ⭐ 490 | `development` |
-| [Fn 2.7](development/testing/fn-27_dcd044d8/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.7.md) | ⭐ 490 | `development` |
-| [Fn 9.19](development/testing/fn-919_bc65281b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.19.md) | ⭐ 490 | `development` |
-| [Skill](development/testing/name-skill_23cccc9d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/SKILL.md) | ⭐ 490 | `development` |
-| [Advanced](development/testing/advanced_1ee076b9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/advanced.md) | ⭐ 490 | `development` |
-| [005 Agents](development/testing/005-agents_72fb7c4d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/005-AGENTS.md) | ⭐ 16 | `development` |
-| [006 Agents](development/testing/006-agents_84b8c53a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/006-AGENTS.md) | ⭐ 16 | `development` |
-| [Fn 10](development/testing/fn-10_35b928bc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-10.md) | ⭐ 490 | `development` |
-| [Testing Scout](development/testing/testing-scout_4b4d6d69/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/testing-scout.md) | ⭐ 490 | `development` |
-| [Questions](development/testing/questions_84203fb0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-interview/questions.md) | ⭐ 490 | `development` |
-| [Questions](development/testing/questions_b4007728/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-interview/questions.md) | ⭐ 490 | `development` |
-| [Examples](development/testing/examples_8bb936aa/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan/examples.md) | ⭐ 490 | `development` |
+| [Fn 12](development/testing/003-fn-12_a8ade8f7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-12.md) | ⭐ 490 | `development` |
+| [Fn 19 Vby](development/testing/004-fn-19-vby_4e52c046/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-19-vby.md) | ⭐ 490 | `development` |
+| [Fn 12.8](development/testing/005-fn-128_18ba7765/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.8.md) | ⭐ 490 | `development` |
+| [Fn 16 Ugn.3](development/testing/006-fn-16-ugn3_8b891d61/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-16-ugn.3.md) | ⭐ 490 | `development` |
+| [Fn 2.7](development/testing/007-fn-27_dcd044d8/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-2.7.md) | ⭐ 490 | `development` |
+| [Fn 9.19](development/testing/008-fn-919_bc65281b/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.19.md) | ⭐ 490 | `development` |
+| [Skill](development/testing/002-name-skill_23cccc9d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/SKILL.md) | ⭐ 490 | `development` |
+| [Advanced](development/testing/009-advanced_1ee076b9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/browser/references/advanced.md) | ⭐ 490 | `development` |
+| [005 Agents](development/testing/010-005-agents_72fb7c4d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/005-AGENTS.md) | ⭐ 16 | `development` |
+| [006 Agents](development/testing/011-006-agents_84b8c53a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/006-AGENTS.md) | ⭐ 16 | `development` |
 
-### Development/Tools (41 skills)
+### Development/Tools (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4310,29 +4265,26 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_dc522969/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-mcporter/SKILL.md) | ⭐ 15 | `development` |
 | [Skill](development/tools/002-name-skill_02df8ae5/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/skill-creator/SKILL.md) | ⭐ 15 | `development` |
 | [Cli Guidelines](development/tools/016-cli-guidelines_93e6d7af/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/3rd-create-cli/references/cli-guidelines.md) | ⭐ 15 | `development` |
-| [Claude](development/tools/claude_05585432/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/CLAUDE.md) | ⭐ 490 | `development` |
-| [Fn 17 Wti](development/tools/fn-17-wti_22c2a778/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-17-wti.md) | ⭐ 490 | `development` |
-| [Fn 3](development/tools/fn-3_b3ef31fa/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-3.md) | ⭐ 490 | `development` |
-| [Fn 9](development/tools/fn-9_00d43c02/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-9.md) | ⭐ 490 | `development` |
-| [Fn 13 Pxj.3](development/tools/fn-13-pxj3_55897873/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.3.md) | ⭐ 490 | `development` |
-| [Fn 17 Wti.2](development/tools/fn-17-wti2_1ca8690f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.2.md) | ⭐ 490 | `development` |
-| [Fn 17 Wti.5](development/tools/fn-17-wti5_88277acc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.5.md) | ⭐ 490 | `development` |
-| [Fn 17 Wti.6](development/tools/fn-17-wti6_72f08ff0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.6.md) | ⭐ 490 | `development` |
-| [Fn 9.15](development/tools/fn-915_14c3cb9f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.15.md) | ⭐ 490 | `development` |
-| [Docs Gap Scout](development/tools/docs-gap-scout_8afccc18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-gap-scout.md) | ⭐ 490 | `development` |
-| [Security Scout](development/tools/security-scout_9ee62bd7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/security-scout.md) | ⭐ 490 | `development` |
-| [Tooling Scout](development/tools/tooling-scout_064d000d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 490 | `development` |
-| [Worker](development/tools/worker_8c5ccf48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/worker.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_78cd41fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 490 | `development` |
-| [Workflow](development/tools/workflow_30cfd097/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_ffb90911/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/SKILL.md) | ⭐ 490 | `development` |
-| [Workflow](development/tools/workflow_b234b1d1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/workflow.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_2e09fadf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/SKILL.md) | ⭐ 490 | `development` |
-| [Code Snippets](development/tools/code-snippets_01afc87e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md) | ⭐ 1.8k | `development` |
-| [Observability Scout](development/tools/observability-scout_da71e031/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/observability-scout.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_f6e6e835/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan-review/SKILL.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_8d29c7b0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-plan/SKILL.md) | ⭐ 490 | `development` |
-| [Scraping Tutorial](development/tools/scraping_tutorial_a2d5260a/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/scraping_tutorial.md) | ⭐ 1.8k | `development` |
+| [Claude](development/tools/017-claude_05585432/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/CLAUDE.md) | ⭐ 490 | `development` |
+| [Fn 17 Wti](development/tools/018-fn-17-wti_22c2a778/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-17-wti.md) | ⭐ 490 | `development` |
+| [Fn 3](development/tools/019-fn-3_b3ef31fa/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-3.md) | ⭐ 490 | `development` |
+| [Fn 9](development/tools/020-fn-9_00d43c02/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-9.md) | ⭐ 490 | `development` |
+| [Fn 13 Pxj.3](development/tools/021-fn-13-pxj3_55897873/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-13-pxj.3.md) | ⭐ 490 | `development` |
+| [Fn 17 Wti.2](development/tools/022-fn-17-wti2_1ca8690f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.2.md) | ⭐ 490 | `development` |
+| [Fn 17 Wti.5](development/tools/023-fn-17-wti5_88277acc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.5.md) | ⭐ 490 | `development` |
+| [Fn 17 Wti.6](development/tools/024-fn-17-wti6_72f08ff0/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.6.md) | ⭐ 490 | `development` |
+| [Fn 9.15](development/tools/025-fn-915_14c3cb9f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.15.md) | ⭐ 490 | `development` |
+| [Docs Gap Scout](development/tools/026-docs-gap-scout_8afccc18/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/docs-gap-scout.md) | ⭐ 490 | `development` |
+| [Security Scout](development/tools/027-security-scout_9ee62bd7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/security-scout.md) | ⭐ 490 | `development` |
+| [Tooling Scout](development/tools/028-tooling-scout_064d000d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 490 | `development` |
+| [Worker](development/tools/029-worker_8c5ccf48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/worker.md) | ⭐ 490 | `development` |
+| [Skill](development/tools/002-name-skill_78cd41fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 490 | `development` |
+| [Workflow](development/tools/030-workflow_30cfd097/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 490 | `development` |
+| [Skill](development/tools/002-name-skill_ffb90911/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/SKILL.md) | ⭐ 490 | `development` |
+| [Workflow](development/tools/030-workflow_b234b1d1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/workflow.md) | ⭐ 490 | `development` |
+| [Skill](development/tools/002-name-skill_2e09fadf/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-work/SKILL.md) | ⭐ 490 | `development` |
+| [Code Snippets](development/tools/031-code-snippets_01afc87e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md) | ⭐ 1.8k | `development` |
+| [Design Reviewer](development/tools/design-reviewer_8be8a61f/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/design-reviewer.md) | ⭐ 810 | `development` |
 
 ### Investment (33 skills)
 
@@ -4369,10 +4321,10 @@ Read more about the new architecture [here` |
 | [Synthesizing](investment/017-integrate_24cc2bf4/) | [Unknown](#) | N/A | `investment` |
 | [Skill](investment/014-agentkit_e1178a49/) | [Unknown](#) | N/A | `investment` |
 | [Browser Guard](investment/018-browser-guard_039e96c9/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/browser-guard.md) | ⭐ 171 | `investment` |
-| [Fn 17 Wti.7](investment/fn-17-wti7_e256ca97/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.7.md) | ⭐ 490 | `investment` |
-| [Fn 9.16](investment/fn-916_82f6f3c9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.16.md) | ⭐ 490 | `investment` |
+| [Fn 17 Wti.7](investment/019-fn-17-wti7_e256ca97/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-17-wti.7.md) | ⭐ 490 | `investment` |
+| [Fn 9.16](investment/020-fn-916_82f6f3c9/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.16.md) | ⭐ 490 | `investment` |
 
-### Other (45 skills)
+### Other (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4419,10 +4371,8 @@ Read more about the new architecture [here` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
-| [005 Context](other/005-context_88480f4f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/extras/005-context.md) | ⭐ 16 | `other` |
-| [User](other/user_984022bd/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-selection/user.md) | ⭐ 1.8k | `other` |
 
-### Productivity (170 skills)
+### Productivity (173 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4592,12 +4542,15 @@ Read more about the new architecture [here` |
 | [Index](productivity/043-index_69f5e45f/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/sub_millisecond_proxy_overhead/index.md) | 🔥 35.1k | `performance` `architecture` |
 | [Anthropic Effort](productivity/097-anthropic_effort_b04b7159/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/anthropic_effort.md) | 🔥 35.1k | `productivity` |
 | [Hyperbolic](productivity/098-hyperbolic_95dcff4a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/hyperbolic.md) | 🔥 35.1k | `productivity` |
-| [Fn 5](productivity/fn-5_8f62b480/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-5.md) | ⭐ 490 | `productivity` |
-| [Fn 9.11](productivity/fn-911_b1fa84c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.11.md) | ⭐ 490 | `productivity` |
-| [Fn 9.14](productivity/fn-914_00d9afcd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.14.md) | ⭐ 490 | `productivity` |
-| [006 Context](productivity/006-context_f5380895/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/extras/006-context.md) | ⭐ 16 | `productivity` |
+| [Fn 5](productivity/099-fn-5_8f62b480/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-5.md) | ⭐ 490 | `productivity` |
+| [Fn 9.11](productivity/100-fn-911_b1fa84c4/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.11.md) | ⭐ 490 | `productivity` |
+| [Fn 9.14](productivity/101-fn-914_00d9afcd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.14.md) | ⭐ 490 | `productivity` |
+| [Frontend Engineer Description](productivity/frontend-engineer-description_0e3674a2/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/frontend-engineer-description.md) | ⭐ 810 | `productivity` |
+| [Project Manager Prompt](productivity/project-manager-prompt_dbe79daa/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/project-manager-prompt.md) | ⭐ 810 | `productivity` |
+| [User Experience Designer & UI Specialist Persona](productivity/ux_34f94501/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/ux.md) | ⭐ 810 | `productivity` |
+| [Business Analyst Prompt](productivity/business-analyst-prompt_2f9eab4a/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/business-analyst-prompt.md) | ⭐ 810 | `productivity` |
 
-### Research (217 skills)
+### Research (218 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4818,6 +4771,7 @@ Read more about the new architecture [here` |
 | [Html](research/140-html_d5afc778/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/html.md) | ⭐ 171 | `research` |
 | [Latex](research/141-latex_cafb1f00/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/pdf/routes/latex.md) | ⭐ 171 | `research` |
 | [Skill](research/139-name-skill_3745d49f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/total-recall/SKILL.md) | ⭐ 15 | `research` |
+| [Five](research/five_8f6bc454/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/.claude/commands/five.md) | ⭐ 810 | `research` |
 
 ## Repository Structure
 
