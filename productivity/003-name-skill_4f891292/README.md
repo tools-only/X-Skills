@@ -1,0 +1,24 @@
+# Skill
+
+| Property | Value |
+|----------|-------|
+| **Name** | Skill |
+| **Repository** | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) (⭐ 58) |
+| **Original Path** | `.claude/skills/dex-obsidian-setup/SKILL.md` |
+| **Category** | productivity |
+| **Subcategory** | time-management |
+| **Tags** | productivity |
+| **Created** | 2026-01-30 |
+| **Updated** | 2026-01-30 |
+| **File Hash** | `4f89129270643a62...` |
+
+## Description
+
+Convert Dex vault to Obsidian wiki link format for graphbased navigation.
+
+**Tags:** `productivity`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md)*
