@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T16:27:09.722760",
+  "updated_at": "2026-02-03T16:39:43.660374",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -65325,6 +65325,20 @@
       "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.refactor.md",
       "display_name": "Devkit.Refactor",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d5f141b60c79c11a0b998f42e3aefa61fac925f3f4c08667b7d3897bc842b157",
+      "source_path": "KIMI_AGENTS_EXPLAINED.md",
+      "source_repo": "dnnyngyen/kimi-k2.5-leaked-analysis",
+      "local_path": "productivity/094-kimi_agents_explained_d5f141b6",
+      "category": "productivity",
+      "name": "kimi_agents_explained_d5f141b6",
+      "indexed_at": "2026-02-03T16:39:43.660344",
+      "repo_stars": 174,
+      "repo_updated_at": "2026-02-03T12:48:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md",
+      "display_name": "Kimi Agents Explained",
+      "tags": "[\"productivity\"]"
     }
   ]
 }

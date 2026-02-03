@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **4668 AI-powered skills** organized into 16 categories.
+A curated collection of **4669 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,18 +11,18 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (441 skills)
 - **Automation/Scripting** (22 skills)
 - **Automation/Workflow** (25 skills)
-- **Commercial** (343 skills)
+- **Commercial** (344 skills)
 - **Communication** (177 skills)
 - **Content Creation** (112 skills)
-- **Daily Assistant** (142 skills)
+- **Daily Assistant** (143 skills)
 - **Data Analysis** (378 skills)
-- **Development** (2417 skills)
-- **Development/Devops** (85 skills)
+- **Development** (2416 skills)
+- **Development/Devops** (84 skills)
 - **Development/Testing** (14 skills)
 - **Development/Tools** (46 skills)
 - **Investment** (33 skills)
 - **Other** (43 skills)
-- **Productivity** (171 skills)
+- **Productivity** (172 skills)
 - **Research** (219 skills)
 
 ## Skills Directory
@@ -531,7 +531,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Security Reviewer Prompt](automation/workflow/019-security-reviewer-prompt_6cf255f9/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/security-reviewer-prompt.md) | ⭐ 810 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a2dff638/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/gallery-scraper/SKILL.md) | ⭐ 163 | `automation` |
 
-### Commercial (343 skills)
+### Commercial (344 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -878,6 +878,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_b2de69db/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/SKILL.md) | ⭐ 490 | `commercial` |
 | [Workflow](commercial/233-workflow_279b684a/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-plan-review/workflow.md) | ⭐ 490 | `commercial` |
 | [Salesforce Structure](commercial/234-salesforce_structure_308821c1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/salesforce/SALESFORCE_STRUCTURE.md) | ⭐ 163 | `commercial` |
+| [Mshtools Generate Image](commercial/mshtools-generate_image_72a04222/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-generate_image.md) | ⭐ 174 | `commercial` |
 
 ### Communication (177 skills)
 
@@ -1175,10 +1176,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_1aa7086a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/prompts/senior-engineering/SKILL.md) | ⭐ 163 | `content creation` |
 | [Skill](content-creation/049-name-skill_6412a3ae/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nudocs/SKILL.md) | ⭐ 163 | `content creation` |
 | [Document Design](content-creation/071-document-design_83925ed7/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nudocs/references/document-design.md) | ⭐ 163 | `content creation` |
-| [Api](content-creation/api_3d2f8b33/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/API.md) | ⭐ 1.5k | `content creation` |
-| [Skill](content-creation/name-skill_7e509a00/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/design-postgres-tables/SKILL.md) | ⭐ 1.5k | `content creation` |
+| [Api](content-creation/072-api_3d2f8b33/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/API.md) | ⭐ 1.5k | `content creation` |
+| [Skill](content-creation/049-name-skill_7e509a00/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/design-postgres-tables/SKILL.md) | ⭐ 1.5k | `content creation` |
 
-### Daily Assistant (142 skills)
+### Daily Assistant (143 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1324,6 +1325,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_7324dfe1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/gong/SKILL.md) | ⭐ 163 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f4e67beb/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/planner/SKILL.md) | ⭐ 163 | `daily assistant` |
 | [Common Configs](daily-assistant/084-common-configs_4140e9c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawddocs/snippets/common-configs.md) | ⭐ 163 | `daily assistant` |
+| [Mnt Okcomputer Analysis](daily-assistant/mnt-okcomputer-analysis_fd390249/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/mnt/okcomputer/mnt-okcomputer-analysis.md) | ⭐ 174 | `daily assistant` |
 
 ### Data Analysis (378 skills)
 
@@ -1703,12 +1705,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [User](data-analysis/248-user_b6b63b2e/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/packages/notte-llm/src/notte_llm/prompts/action-listing/optim/user.md) | ⭐ 1.8k | `data analysis` |
 | [Business Analyst Description](data-analysis/249-business-analyst-description_b34a31ce/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/business-analyst-description.md) | ⭐ 810 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_6806bd2a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/elegant-reports/SKILL.md) | ⭐ 163 | `data analysis` |
-| [Skill](data-analysis/name-skill_f838b87d/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/find-hypertable-candidates/SKILL.md) | ⭐ 1.5k | `data analysis` |
-| [Skill](data-analysis/name-skill_f434ca9d/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/migrate-postgres-tables-to-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
-| [Skill](data-analysis/name-skill_bf145a06/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/pgvector-semantic-search/SKILL.md) | ⭐ 1.5k | `data analysis` |
-| [Skill](data-analysis/name-skill_f06ad761/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/setup-timescaledb-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f838b87d/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/find-hypertable-candidates/SKILL.md) | ⭐ 1.5k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f434ca9d/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/migrate-postgres-tables-to-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bf145a06/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/pgvector-semantic-search/SKILL.md) | ⭐ 1.5k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f06ad761/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/setup-timescaledb-hypertables/SKILL.md) | ⭐ 1.5k | `data analysis` |
 
-### Development (2417 skills)
+### Development (2416 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4120,17 +4122,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_0d7b4b41/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/parallel-task/SKILL.md) | ⭐ 163 | `development` |
 | [Api Setup](development/1322-api-setup_25282acf/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/google-ads/references/api-setup.md) | ⭐ 163 | `development` |
 | [Web Tools](development/1323-web-tools_b9094be1/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/web-tools.md) | ⭐ 163 | `development` |
-| [Skill](development/name-skill_3a56f229/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/postgres-hybrid-text-search/SKILL.md) | ⭐ 1.5k | `development` |
-| [Devkit.Brainstorm](development/devkitbrainstorm_ecb3a14d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.brainstorm.md) | ⭐ 83 | `development` |
-| [Devkit.Feature Development](development/devkitfeature-development_c19df624/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.feature-development.md) | ⭐ 83 | `development` |
-| [Devkit.Fix Debugging](development/devkitfix-debugging_26c6d34e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.fix-debugging.md) | ⭐ 83 | `development` |
-| [Devkit.Generate Document](development/devkitgenerate-document_d920d7b6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-document.md) | ⭐ 83 | `development` |
-| [Devkit.Typescript.Code Review](development/devkittypescriptcode-review_80c70356/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.typescript.code-review.md) | ⭐ 83 | `development` |
-| [Guide Agents](development/guide-agents_34934333/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-agents.md) | ⭐ 83 | `development` |
-| [Guide Commands](development/guide-commands_28e4f26c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-commands.md) | ⭐ 83 | `development` |
-| [Claude](development/claude_cb872025/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/CLAUDE.md) | ⭐ 1.5k | `development` |
+| [Skill](development/1178-name-skill_3a56f229/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/postgres-hybrid-text-search/SKILL.md) | ⭐ 1.5k | `development` |
+| [Devkit.Brainstorm](development/1324-devkitbrainstorm_ecb3a14d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.brainstorm.md) | ⭐ 83 | `development` |
+| [Devkit.Feature Development](development/1325-devkitfeature-development_c19df624/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.feature-development.md) | ⭐ 83 | `development` |
+| [Devkit.Fix Debugging](development/289-devkitfix-debugging_26c6d34e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.fix-debugging.md) | ⭐ 83 | `development` |
+| [Devkit.Generate Document](development/291-devkitgenerate-document_d920d7b6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.generate-document.md) | ⭐ 83 | `development` |
+| [Devkit.Typescript.Code Review](development/1326-devkittypescriptcode-review_80c70356/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.typescript.code-review.md) | ⭐ 83 | `development` |
+| [Guide Agents](development/1327-guide-agents_34934333/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-agents.md) | ⭐ 83 | `development` |
+| [Guide Commands](development/438-guide-commands_28e4f26c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/docs/guide-commands.md) | ⭐ 83 | `development` |
 
-### Development/Devops (85 skills)
+### Development/Devops (84 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4261,7 +4262,6 @@ Read more about the new architecture [here` |
 | [Up And Running](development/devops/055-up-and-running_62eff66d/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/getting-started/up-and-running.md) | ⭐ 16 | `development` |
 | [Skill](development/devops/014-name-skill_f6d56c10/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/self-improving-agent/SKILL.md) | ⭐ 163 | `development` |
 | [Security Tools](development/devops/056-security-tools_c4696d7a/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/security-tools.md) | ⭐ 163 | `development` |
-| [Development](development/devops/development_1234390d/) | [timescale/pg-aiguide](https://raw.githubusercontent.com/timescale/pg-aiguide/main/DEVELOPMENT.md) | ⭐ 1.5k | `development` |
 
 ### Development/Testing (14 skills)
 
@@ -4331,7 +4331,7 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_a17e4a41/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/SKILL.md) | ⭐ 163 | `development` |
 | [Cli Tools](development/tools/032-cli-tools_98c733b6/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/cli-tools.md) | ⭐ 163 | `development` |
 | [Shell Oneliners](development/tools/033-shell-oneliners_2c30b852/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/sysadmin-toolbox/references/shell-oneliners.md) | ⭐ 163 | `development` |
-| [Devkit.Refactor](development/tools/devkitrefactor_67b5be44/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.refactor.md) | ⭐ 83 | `development` |
+| [Devkit.Refactor](development/tools/034-devkitrefactor_67b5be44/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/commands/devkit.refactor.md) | ⭐ 83 | `development` |
 
 ### Investment (33 skills)
 
@@ -4419,7 +4419,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (171 skills)
+### Productivity (172 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4575,7 +4575,7 @@ Read more about the new architecture [here` |
 | [Skill](productivity/077-ai-doc-system-auditor_4a5edfcf/) | [Unknown](#) | N/A | `productivity` |
 | [Skill](productivity/077-agent-react-specialist_df3c8fcb/) | [Unknown](#) | N/A | `productivity` |
 | [Skill](productivity/093-name-skill_ebda8f86/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/continual-learning/learning-capture/SKILL.md) | ⭐ 27 | `productivity` |
-| [Kimi Agents Explained](productivity/094-kimi_agents_explained_29614980/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 171 | `productivity` |
+| [Kimi Agents Explained](productivity/kimi_agents_explained_d5f141b6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 174 | `productivity` |
 | [Week Priorities](productivity/095-week_priorities_0ef78844/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/02-Week_Priorities/Week_Priorities.md) | ⭐ 58 | `productivity` |
 | [Working Preferences](productivity/096-working_preferences_71947f51/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Learnings/Working_Preferences.md) | ⭐ 58 | `productivity` |
 | [Skill](productivity/093-name-skill_d04d7445/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-coach/SKILL.md) | ⭐ 58 | `productivity` |
@@ -4594,6 +4594,7 @@ Read more about the new architecture [here` |
 | [Fn 9.14](productivity/101-fn-914_00d9afcd/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-9.14.md) | ⭐ 490 | `productivity` |
 | [Frontend Engineer Description](productivity/102-frontend-engineer-description_0e3674a2/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/Descriptions/frontend-engineer-description.md) | ⭐ 810 | `productivity` |
 | [Project Manager Prompt](productivity/103-project-manager-prompt_dbe79daa/) | [wesammustafa/Claude-Code-Everything-You-Need-to-Know](https://raw.githubusercontent.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know/main/specialized-agents/system-prompts/project-manager-prompt.md) | ⭐ 810 | `productivity` |
+| [Kimi Agents Explained](productivity/094-kimi_agents_explained_d5f141b6/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 174 | `productivity` |
 
 ### Research (219 skills)
 
