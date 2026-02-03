@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-03T07:12:43.106079",
+  "updated_at": "2026-02-03T07:13:59.730927",
   "skills": [
     {
       "file_hash": "a2ad7703cc259c9965525ae0db32254bf2a592ef6a6e006bad692f2f398a8e13",
@@ -9185,6 +9185,20 @@
       "source_url": "https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/solutions.md",
       "display_name": "Solutions Phase",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "c3ca9fd707b13d2c8dcbb0604c2053a2c29bab5b1623fdd41d7ec3d51747be6b",
+      "source_path": "latest_changelog.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/latest_changelog_c3ca9fd7",
+      "category": "development",
+      "name": "latest_changelog_c3ca9fd7",
+      "indexed_at": "2026-02-03T07:13:59.730812",
+      "repo_stars": 6487,
+      "repo_updated_at": "2026-02-03T05:41:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md",
+      "display_name": "Intentkit",
+      "tags": "[\"development\"]"
     }
   ]
 }

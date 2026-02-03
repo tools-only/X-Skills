@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **656 AI-powered skills** organized into 11 categories.
+A curated collection of **657 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -14,7 +14,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (11 skills)
 - **Daily Assistant** (10 skills)
 - **Data Analysis** (34 skills)
-- **Development** (353 skills)
+- **Development** (354 skills)
 - **Investment** (6 skills)
 - **Other** (17 skills)
 - **Productivity** (15 skills)
@@ -290,7 +290,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Outcomes Phase](data-analysis/outcomes_9d0024f5/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/outcomes.md) | ⭐ 372 | `data analysis` |
 | [Solutions Phase](data-analysis/solutions_adcb742e/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/product-development/ost/references/solutions.md) | ⭐ 372 | `data analysis` |
 
-### Development (353 skills)
+### Development (354 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -647,6 +647,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [my-skill-name](development/skill_anatomyvi_43764224/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/vietnamese/SKILL_ANATOMY.vi.md) | 🔥 6.0k | `react` `typescript` |
 | [Claude Code Plugin: fecfile](development/agents_bef716af/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 19 | `development` |
 | [fecfile](development/skill_5318b95d/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 19 | `development` |
+| [Intentkit](development/latest_changelog_c3ca9fd7/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md) | 🔥 6.5k | `development` |
 
 ### Investment (6 skills)
 
