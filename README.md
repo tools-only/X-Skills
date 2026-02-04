@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6418 AI-powered skills** organized into 16 categories.
+A curated collection of **6450 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,14 +11,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (441 skills)
 - **Automation/Scripting** (81 skills)
 - **Automation/Workflow** (92 skills)
-- **Commercial** (430 skills)
-- **Communication** (212 skills)
-- **Content Creation** (220 skills)
+- **Commercial** (428 skills)
+- **Communication** (211 skills)
+- **Content Creation** (257 skills)
 - **Daily Assistant** (216 skills)
-- **Data Analysis** (683 skills)
-- **Development** (2899 skills)
-- **Development/Devops** (277 skills)
-- **Development/Testing** (31 skills)
+- **Data Analysis** (682 skills)
+- **Development** (2898 skills)
+- **Development/Devops** (276 skills)
+- **Development/Testing** (32 skills)
 - **Development/Tools** (283 skills)
 - **Investment** (39 skills)
 - **Other** (43 skills)
@@ -657,7 +657,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pr Requirements](automation/workflow/038-pr-requirements_03e587e4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-requirements.md) | ⭐ 4.8k | `automation` |
 | [Human In The Loop Ai Agents](automation/workflow/039-human-in-the-loop-ai-agents_5225d5b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/human-in-the-loop-ai-agents.md) | ⭐ 4.8k | `automation` |
 
-### Commercial (430 skills)
+### Commercial (428 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1089,10 +1089,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Terraform](commercial/280-terraform_68501fa7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/devops-iac-engineer/reference/terraform.md) | 🔥 19.4k | `commercial` |
 | [Backup Recovery](commercial/281-backup-recovery_577f1644/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/it-operations/reference/backup-recovery.md) | 🔥 19.4k | `commercial` |
 | [Security Operations](commercial/282-security-operations_3a718152/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/security-compliance/reference/security-operations.md) | 🔥 19.4k | `commercial` |
-| [Skill](commercial/name-skill_dc2fc4df/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/angular-best-practices/SKILL.md) | 🔥 7.0k | `commercial` |
-| [Skill](commercial/name-skill_898649fa/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/angular-state-management/SKILL.md) | 🔥 7.0k | `commercial` |
 
-### Communication (212 skills)
+### Communication (211 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1307,9 +1305,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [A2A](communication/148-a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
-| [Skill](communication/name-skill_767c4f74/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/angular-ui-patterns/SKILL.md) | 🔥 7.0k | `communication` |
 
-### Content Creation (220 skills)
+### Content Creation (257 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1533,6 +1530,43 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Review Agent](content-creation/140-review-agent_53414075/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/obsidian-ops-team/review-agent.md) | 🔥 19.4k | `content creation` |
 | [Vault Optimizer](content-creation/141-vault-optimizer_36353251/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/obsidian-ops-team/vault-optimizer.md) | 🔥 19.4k | `content creation` |
 | [Text Comparison Validator](content-creation/142-text-comparison-validator_4ac61b43/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/ocr-extraction-team/text-comparison-validator.md) | 🔥 19.4k | `content creation` |
+| [Social Media Copywriter](content-creation/143-social-media-copywriter_751700a9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/podcast-creator-team/social-media-copywriter.md) | 🔥 19.4k | `content creation` |
+| [Twitter Ai Influencer Manager](content-creation/144-twitter-ai-influencer-manager_0e4be7ca/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/podcast-creator-team/twitter-ai-influencer-manager.md) | 🔥 19.4k | `content creation` |
+| [Rust Gpt 4.1 Beast Mode](content-creation/145-rust-gpt-41-beast-mode_73b6c538/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/rust-gpt-4.1-beast-mode.md) | 🔥 19.4k | `content creation` |
+| [Compliance Specialist](content-creation/146-compliance-specialist_55496b90/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/compliance-specialist.md) | 🔥 19.4k | `content creation` |
+| [Screenshot Business Analyzer](content-creation/147-screenshot-business-analyzer_23c2fca7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/ui-analysis/screenshot-business-analyzer.md) | 🔥 19.4k | `content creation` |
+| [Expert Nextjs Developer](content-creation/148-expert-nextjs-developer_e39a69d6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/web-tools/expert-nextjs-developer.md) | 🔥 19.4k | ``product-${productId}`` `products` |
+| [Expert React Frontend Engineer](content-creation/149-expert-react-frontend-engineer_286588c9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/web-tools/expert-react-frontend-engineer.md) | 🔥 19.4k | `content creation` |
+| [Search Ai Optimization Expert](content-creation/150-search-ai-optimization-expert_587dd0b6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/web-tools/search-ai-optimization-expert.md) | 🔥 19.4k | `content creation` |
+| [Url Context Validator](content-creation/151-url-context-validator_ef5fdd68/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/web-tools/url-context-validator.md) | 🔥 19.4k | `content creation` |
+| [Publisher Linkedin](content-creation/152-publisher-linkedin_6ffc9398/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/marketing/publisher-linkedin.md) | 🔥 19.4k | `content creation` |
+| [Publisher Medium](content-creation/153-publisher-medium_f350e821/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/marketing/publisher-medium.md) | 🔥 19.4k | `content creation` |
+| [Publisher X](content-creation/154-publisher-x_e392ce27/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/marketing/publisher-x.md) | 🔥 19.4k | `content creation` |
+| [Vercel Env Sync](content-creation/155-vercel-env-sync_d46a86d3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/nextjs-vercel/vercel-env-sync.md) | 🔥 19.4k | `content creation` |
+| [Add To Changelog](content-creation/156-add-to-changelog_96d5fa64/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/project-management/add-to-changelog.md) | 🔥 19.4k | `content creation` |
+| [Pac Configure](content-creation/157-pac-configure_f1f0fe48/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/project-management/pac-configure.md) | 🔥 19.4k | `content creation` |
+| [Release](content-creation/158-release_c45fb995/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/project-management/release.md) | 🔥 19.4k | `content creation` |
+| [Add Authentication System](content-creation/159-add-authentication-system_4f8a4f05/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/security/add-authentication-system.md) | 🔥 19.4k | `content creation` |
+| [Update Dependencies](content-creation/160-update-dependencies_4462f8b8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/setup/update-dependencies.md) | 🔥 19.4k | `content creation` |
+| [Simulation Calibrator](content-creation/161-simulation-calibrator_96a92312/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/simulation/simulation-calibrator.md) | 🔥 19.4k | `content creation` |
+| [Bulk Import Issues](content-creation/162-bulk-import-issues_1e2a2acd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/sync/bulk-import-issues.md) | 🔥 19.4k | `content creation` |
+| [Sync Linear To Issues](content-creation/163-sync-linear-to-issues_41e6e8bc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/sync/sync-linear-to-issues.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_8760f968/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-research/agents-crewai/SKILL.md) | 🔥 19.4k | `Agents` `CrewAI` `Multi-Agent` |
+| [Skill](content-creation/049-name-skill_d8586e21/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-research/data-processing-nemo-curator/SKILL.md) | 🔥 19.4k | `Data Processing` `NeMo Curator` `Data Curation` |
+| [Skill](content-creation/049-name-skill_d818b841/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-research/emerging-techniques-speculative-decoding/SKILL.md) | 🔥 19.4k | `Emerging Techniques` `Speculative Decoding` `Medusa` |
+| [Skill](content-creation/049-name-skill_36d2581f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-research/mlops-mlflow/SKILL.md) | 🔥 19.4k | `MLOps` `MLflow` `Experiment Tracking` |
+| [Skill](content-creation/049-name-skill_5b3ea769/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/copywriting/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_27528960/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/marketing-ideas/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_793332c9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/marketing-psychology/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_607560e1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/marketing-strategy-pmm/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_ea4ac2ac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/page-cro/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_b43f80e2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/schema-markup/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_eb5f2f9f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/business-marketing/seo-fundamentals/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Delivery Summary](content-creation/164-delivery_summary_a85a1fe0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/executing-marketing-campaigns/DELIVERY_SUMMARY.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_df14b3a2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/accessibility/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_b03396c9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/core-web-vitals/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_bcccc37b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/create-plan/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_2d4374da/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/heygen-best-practices/SKILL.md) | 🔥 19.4k | `content creation` |
 
 ### Daily Assistant (216 skills)
 
@@ -1755,7 +1789,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Build Environment Configuration](daily-assistant/136-build-environment-configuration_227cc6ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/build-environment/build-environment-configuration.md) | ⭐ 16 | `daily assistant` |
 | [Version Scheme Plugins](daily-assistant/137-version-scheme-plugins_d0e9a611/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/plugins/version-scheme-plugins.md) | ⭐ 16 | `daily assistant` |
 
-### Data Analysis (683 skills)
+### Data Analysis (682 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2441,9 +2475,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Hexrays](data-analysis/303-ida_hexrays_dba9732e/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/08_decompiler/ida_hexrays.md) | ⭐ 17 | `data analysis` |
 | [Ida Gdl](data-analysis/304-ida_gdl_0e984bbe/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_gdl.md) | ⭐ 17 | `data analysis` |
 | [Idc](data-analysis/305-idc_00dc2b80/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idc.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_5cedf3e3/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/computer-vision-expert/SKILL.md) | 🔥 7.0k | `data analysis` |
 
-### Development (2899 skills)
+### Development (2898 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4761,7 +4794,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Consistency Rules](development/1180-consistency-rules_b401e77c/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/consistency-rules.md) | ⭐ 27 | `development` |
 | [Terminology Standards](development/1181-terminology-standards_60510cfe/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/doc-generator/skill-doc-generator/references/terminology-standards.md) | ⭐ 27 | `development` |
 | [Security Patterns](development/1182-security_patterns_9077d7c0/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/security-analyzer/skill-security-analyzer/references/security_patterns.md) | ⭐ 27 | `development` |
-| [Catalog](development/catalog_cab1a13e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.0k | `development` |
+| [Catalog](development/126-catalog_9af5f746/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 6.6k | `development` |
 | [Webapp Skill Analysis](development/1183-webapp-skill-analysis_81e73cb2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-websites/webapp-skill-analysis.md) | ⭐ 171 | `development` |
 | [Pdf Viewer](development/1184-pdf-viewer_10e61761/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/root/pdf-viewer.md) | ⭐ 171 | `development` |
 | [Skill System](development/1185-skill-system_58039e90/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/skills/skill-system.md) | ⭐ 171 | `development` |
@@ -5345,9 +5378,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Idautils](development/1726-idautils_c6b6fb62/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idautils.md) | ⭐ 17 | `development` |
 | [Agents](development/028-agents_c1e37c39/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 24 | `development` |
 | [Catalog](development/126-catalog_cab1a13e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.0k | `development` |
-| [Skill](development/name-skill_f331a9a4/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/vercel-deploy-claimable/SKILL.md) | 🔥 7.0k | `development` |
 
-### Development/Devops (277 skills)
+### Development/Devops (276 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5670,9 +5702,8 @@ Read more about the new architecture [here` |
 | [Variables](development/devops/204-variables_c3203c6f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/railway/new/references/variables.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_533297ee/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert/SKILL.md) | 🔥 19.4k | `development` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
-| [Skill](development/devops/name-skill_505ce723/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/readme/SKILL.md) | 🔥 7.0k | `development` |
 
-### Development/Testing (31 skills)
+### Development/Testing (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5706,7 +5737,8 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/002-name-skill_f50bfca9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 4.8k | `development` |
 | [Ida Allins](development/testing/023-ida_allins_90413859/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_allins.md) | ⭐ 17 | `development` |
 | [Skill](development/testing/013-threat-skill_00a76f51/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
-| [Skill](development/testing/name-skill_bce47902/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/angular/SKILL.md) | 🔥 7.0k | `development` |
+| [Agents](development/testing/agents_7ee98168/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/agents.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
 
 ### Development/Tools (283 skills)
 
