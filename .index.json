@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-04T05:30:55.192641",
+  "updated_at": "2026-02-04T06:21:28.418356",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -86702,6 +86702,34 @@
       "repo_updated_at": "2026-02-04T02:39:32+00:00",
       "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "00a76f518c9f1a52f2f5dd3f49f674dd5270fe7ba0e55f36a26fd34d38a4c4f4",
+      "source_path": "SKILL.md",
+      "source_repo": "fr33d3m0n/threat-modeling",
+      "local_path": "development/testing/013-threat-skill_00a76f51",
+      "category": "development/testing",
+      "name": "threat-skill_00a76f51",
+      "indexed_at": "2026-02-04T06:21:27.863490",
+      "repo_stars": 133,
+      "repo_updated_at": "2026-02-04T05:13:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "99a0b27d0792e4d867264772410f26bda9bfd6ce73cf12a05c8a5573922f6c09",
+      "source_path": "docs/my-website/docs/tutorials/livekit_xai_realtime.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/tools/140-livekit_xai_realtime_99a0b27d",
+      "category": "development/tools",
+      "name": "livekit_xai_realtime_99a0b27d",
+      "indexed_at": "2026-02-04T06:21:28.418318",
+      "repo_stars": 35145,
+      "repo_updated_at": "2026-02-04T04:11:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/livekit_xai_realtime.md",
+      "display_name": "Livekit Xai Realtime",
       "tags": "[\"development\"]"
     }
   ]

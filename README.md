@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6193 AI-powered skills** organized into 16 categories.
+A curated collection of **6205 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -12,14 +12,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (81 skills)
 - **Automation/Workflow** (92 skills)
 - **Commercial** (386 skills)
-- **Communication** (211 skills)
+- **Communication** (215 skills)
 - **Content Creation** (198 skills)
 - **Daily Assistant** (216 skills)
 - **Data Analysis** (682 skills)
-- **Development** (2897 skills)
-- **Development/Devops** (185 skills)
-- **Development/Testing** (29 skills)
-- **Development/Tools** (222 skills)
+- **Development** (2902 skills)
+- **Development/Devops** (186 skills)
+- **Development/Testing** (30 skills)
+- **Development/Tools** (223 skills)
 - **Investment** (39 skills)
 - **Other** (43 skills)
 - **Productivity** (180 skills)
@@ -1048,7 +1048,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Diskio](commercial/255-ida_diskio_9e56e262/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/11_loader/ida_diskio.md) | ⭐ 17 | `commercial` |
 | [Ida Strlist](commercial/256-ida_strlist_5c3bfa20/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_strlist.md) | ⭐ 17 | `commercial` |
 
-### Communication (211 skills)
+### Communication (215 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1263,6 +1263,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [A2A](communication/148-a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
+| [2026 02 02 Chat Examples Design](communication/2026-02-02-chat-examples-design_0176cbe2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chat/docs/2026-02-02-chat-examples-design.md) | ⭐ 766 | `communication` |
+| [2026 02 02 Chat Implementation](communication/2026-02-02-chat-implementation_cf0032ee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chat/docs/2026-02-02-chat-implementation.md) | ⭐ 766 | `communication` |
+| [Phase2 Complete](communication/phase2_complete_612ad4ff/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/PHASE2_COMPLETE.md) | ⭐ 766 | `communication` |
+| [Testing](communication/testing_b0f4000b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/TESTING.md) | ⭐ 766 | `communication` |
 
 ### Content Creation (198 skills)
 
@@ -2375,7 +2379,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Gdl](data-analysis/304-ida_gdl_0e984bbe/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_gdl.md) | ⭐ 17 | `data analysis` |
 | [Idc](data-analysis/305-idc_00dc2b80/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idc.md) | ⭐ 17 | `data analysis` |
 
-### Development (2897 skills)
+### Development (2902 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5275,9 +5279,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Search](development/1724-ida_search_8ba577b6/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_search.md) | ⭐ 17 | `development` |
 | [Ida Expr](development/1725-ida_expr_a092b3e0/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_expr.md) | ⭐ 17 | `development` |
 | [Idautils](development/1726-idautils_c6b6fb62/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idautils.md) | ⭐ 17 | `development` |
-| [Agents](development/agents_c1e37c39/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 24 | `development` |
+| [Agents](development/028-agents_c1e37c39/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 24 | `development` |
+| [2026 02 01 Openviking Chat App Design](development/2026-02-01-openviking-chat-app-design_404c2d92/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chat/docs/2026-02-01-openviking-chat-app-design.md) | ⭐ 766 | `development` |
+| [Multi Turn Chat Phase 1](development/multi_turn_chat_phase_1_47e7c183/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chat/docs/multi_turn_chat_phase_1.md) | ⭐ 766 | `development` |
+| [2026 02 03 Chatmem Implementation](development/2026-02-03-chatmem-implementation_51988d63/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/2026-02-03-chatmem-implementation.md) | ⭐ 766 | `development` |
+| [Comparison](development/comparison_fdb449e1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/COMPARISON.md) | ⭐ 766 | `development` |
+| [Xai Realtime](development/xai_realtime_9563c82d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/xai_realtime.md) | 🔥 35.1k | `development` |
 
-### Development/Devops (185 skills)
+### Development/Devops (186 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5509,8 +5518,9 @@ Read more about the new architecture [here` |
 | [Fabric](development/devops/140-fabric_2e5cf182/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/fabric.md) | ⭐ 16 | `development` |
 | [Python Dotenv](development/devops/141-python-dotenv_f826e158/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/python-dotenv.md) | ⭐ 16 | `development` |
 | [Shiv](development/devops/142-shiv_a8c8e431/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/shiv.md) | ⭐ 16 | `development` |
+| [Realtime](development/devops/realtime_bd42539e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/realtime.md) | 🔥 35.1k | `development` |
 
-### Development/Testing (29 skills)
+### Development/Testing (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5528,7 +5538,7 @@ Read more about the new architecture [here` |
 | [006 Agents](development/testing/011-006-agents_84b8c53a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/evals/data/pr_describer/context_files/006-AGENTS.md) | ⭐ 16 | `development` |
 | [Skill](development/testing/002-name-skill_b51a34c3/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 163 | `development` |
 | [Skill](development/testing/012-research-skill_bce271ad/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/last30days/SKILL.md) | ⭐ 163 | `development` |
-| [Skill](development/testing/013-threat-skill_9c076503/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
+| [Skill](development/testing/threat-skill_00a76f51/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 | [Skill](development/testing/013-threat-skill_fff042e8/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 | [2026 01 21 Stream Hang Timeout](development/testing/014-2026-01-21_stream-hang-timeout_8c4bc78d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-01-21_stream-hang-timeout.md) | ⭐ 112 | `development` |
 | [2026 01 27 18 00 00 Insert Before Stream Fix](development/testing/015-2026-01-27_18-00-00_insert-before-stream-fix_2805f998/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/execute/2026-01-27_18-00-00_insert-before-stream-fix.md) | ⭐ 112 | `development` |
@@ -5543,8 +5553,9 @@ Read more about the new architecture [here` |
 | [Building Production Ai Agents](development/testing/022-building-production-ai-agents_038a84a7/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/building-production-ai-agents.md) | ⭐ 4.8k | `development` |
 | [Skill](development/testing/002-name-skill_f50bfca9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 4.8k | `development` |
 | [Ida Allins](development/testing/023-ida_allins_90413859/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_allins.md) | ⭐ 17 | `development` |
+| [Skill](development/testing/013-threat-skill_00a76f51/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 
-### Development/Tools (222 skills)
+### Development/Tools (223 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5769,7 +5780,8 @@ Read more about the new architecture [here` |
 | [Filesystem Full](development/tools/137-filesystem-full_e31d3b99/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/reference/infrastructure/filesystem-full.md) | ⭐ 177 | `development` |
 | [Ida Idaapi](development/tools/138-ida_idaapi_38667d6f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_idaapi.md) | ⭐ 17 | `development` |
 | [Ida Kernwin](development/tools/139-ida_kernwin_8f55aae5/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_kernwin.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/name-skill_b780be4d/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 24 | `development` |
+| [Skill](development/tools/002-name-skill_b780be4d/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 24 | `development` |
+| [Livekit Xai Realtime](development/tools/livekit_xai_realtime_99a0b27d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/livekit_xai_realtime.md) | 🔥 35.1k | `development` |
 
 ### Investment (39 skills)
 
