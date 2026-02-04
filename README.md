@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6466 AI-powered skills** organized into 16 categories.
+A curated collection of **6571 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (83 skills)
-- **Automation/Workflow** (92 skills)
-- **Commercial** (428 skills)
-- **Communication** (211 skills)
-- **Content Creation** (257 skills)
-- **Daily Assistant** (217 skills)
-- **Data Analysis** (688 skills)
-- **Development** (2901 skills)
-- **Development/Devops** (277 skills)
+- **Automation/Scripting** (84 skills)
+- **Automation/Workflow** (93 skills)
+- **Commercial** (429 skills)
+- **Communication** (212 skills)
+- **Content Creation** (343 skills)
+- **Daily Assistant** (222 skills)
+- **Data Analysis** (689 skills)
+- **Development** (2903 skills)
+- **Development/Devops** (278 skills)
 - **Development/Testing** (33 skills)
-- **Development/Tools** (284 skills)
+- **Development/Tools** (287 skills)
 - **Investment** (39 skills)
 - **Other** (43 skills)
-- **Productivity** (181 skills)
-- **Research** (291 skills)
+- **Productivity** (182 skills)
+- **Research** (293 skills)
 
 ## Skills Directory
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (83 skills)
+### Automation/Scripting (84 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -561,8 +561,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Fixup](automation/scripting/032-ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_feab4ee5/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 15 | `automation` |
 | [Skill](automation/scripting/003-name-skill_0f4b99aa/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 15 | `automation` |
+| [Qms Process Templates](automation/scripting/qms-process-templates_a8133506/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/qms-process-templates.md) | ⭐ 1.6k | `automation` |
 
-### Automation/Workflow (92 skills)
+### Automation/Workflow (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -658,8 +659,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Release Guide](automation/workflow/037-release_guide_99495a39/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/RELEASE_GUIDE.md) | ⭐ 3.9k | `automation` |
 | [Pr Requirements](automation/workflow/038-pr-requirements_03e587e4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-requirements.md) | ⭐ 4.8k | `automation` |
 | [Human In The Loop Ai Agents](automation/workflow/039-human-in-the-loop-ai-agents_5225d5b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/human-in-the-loop-ai-agents.md) | ⭐ 4.8k | `automation` |
+| [World Weaver](automation/workflow/world_weaver_3099856f/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/World_weaver.md) | ⭐ 25 | `automation` |
 
-### Commercial (428 skills)
+### Commercial (429 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1091,8 +1093,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Terraform](commercial/280-terraform_68501fa7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/devops-iac-engineer/reference/terraform.md) | 🔥 19.4k | `commercial` |
 | [Backup Recovery](commercial/281-backup-recovery_577f1644/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/it-operations/reference/backup-recovery.md) | 🔥 19.4k | `commercial` |
 | [Security Operations](commercial/282-security-operations_3a718152/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/security-compliance/reference/security-operations.md) | 🔥 19.4k | `commercial` |
+| [Character Vault](commercial/character_vault_b2ce1ce9/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/Character_Vault.md) | ⭐ 25 | `commercial` |
 
-### Communication (211 skills)
+### Communication (212 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1307,8 +1310,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [A2A](communication/148-a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
+| [User Story Templates](communication/user-story-templates_2c5cc362/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/user-story-templates.md) | ⭐ 1.6k | `communication` |
 
-### Content Creation (257 skills)
+### Content Creation (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1569,8 +1573,94 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_b03396c9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/core-web-vitals/SKILL.md) | 🔥 19.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_bcccc37b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/create-plan/SKILL.md) | 🔥 19.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_2d4374da/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/heygen-best-practices/SKILL.md) | 🔥 19.4k | `content creation` |
+| [Claude](content-creation/007-claude_14137e06/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/CLAUDE.md) | ⭐ 186 | `content creation` |
+| [Readme.Ar](content-creation/120-readmear_365d462a/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.ar.md) | ⭐ 186 | `content creation` |
+| [Readme.De](content-creation/121-readmede_362b1b82/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.de.md) | ⭐ 186 | `content creation` |
+| [Readme.Es](content-creation/122-readmees_9ba7ed05/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.es.md) | ⭐ 186 | `content creation` |
+| [Readme.Fr](content-creation/123-readmefr_aa554c6d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.fr.md) | ⭐ 186 | `content creation` |
+| [Readme.Ja](content-creation/124-readmeja_3650f030/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.ja.md) | ⭐ 186 | `content creation` |
+| [Readme.Ko](content-creation/125-readmeko_b383bbe5/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.ko.md) | ⭐ 186 | `content creation` |
+| [Readme.Pt Br](content-creation/126-readmept-br_4d0ba6ac/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.pt-br.md) | ⭐ 186 | `content creation` |
+| [Readme.Ru](content-creation/127-readmeru_f51c1098/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.ru.md) | ⭐ 186 | `content creation` |
+| [Readme.Vi](content-creation/128-readmevi_d21c5666/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.vi.md) | ⭐ 186 | `content creation` |
+| [Readme.Zh](content-creation/129-readmezh_0fff52b0/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/README.zh.md) | ⭐ 186 | `content creation` |
+| [Analytics Setup](content-creation/130-analytics-setup_25eceb54/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/docs/analytics-setup.md) | ⭐ 186 | `content creation` |
+| [Brand Guidelines](content-creation/131-brand-guidelines_3d29c02f/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/docs/brand-guidelines.md) | ⭐ 186 | `content creation` |
+| [Campaign Playbooks](content-creation/132-campaign-playbooks_8451cf10/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/docs/campaign-playbooks.md) | ⭐ 186 | `content creation` |
+| [Content Style Guide](content-creation/133-content-style-guide_67548be4/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/docs/content-style-guide.md) | ⭐ 186 | `content creation` |
+| [Usage Guide](content-creation/108-usage-guide_a799ef08/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/docs/usage-guide.md) | ⭐ 186 | `content creation` |
+| [Attraction Specialist](content-creation/134-attraction-specialist_9996fe0b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/attraction-specialist.md) | ⭐ 186 | `content creation` |
+| [Command Helper](content-creation/135-command-helper_61cdeb1b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/command-helper.md) | ⭐ 186 | `content creation` |
+| [Copywriter](content-creation/136-copywriter_dffa186f/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/copywriter.md) | ⭐ 186 | `content creation` |
+| [Docs Manager](content-creation/137-docs-manager_673d03bd/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/docs-manager.md) | ⭐ 186 | `content creation` |
+| [Planner](content-creation/138-planner_bdfa1435/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/planner.md) | ⭐ 186 | `content creation` |
+| [Sales Enabler](content-creation/139-sales-enabler_bf231104/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/sales-enabler.md) | ⭐ 186 | `content creation` |
+| [Seo Specialist](content-creation/140-seo-specialist_2d6a75fb/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/seo-specialist.md) | ⭐ 186 | `content creation` |
+| [Solopreneur](content-creation/141-solopreneur_1abd998e/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/agents/solopreneur.md) | ⭐ 186 | `content creation` |
+| [Brainstorm](content-creation/142-brainstorm_2a357212/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/brainstorm.md) | ⭐ 186 | `content creation` |
+| [Use Mcp](content-creation/143-use-mcp_8a53a613/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/use-mcp.md) | ⭐ 186 | `content creation` |
+| [Interactive Questions](content-creation/144-interactive-questions_c5e8874d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/components/interactive-questions.md) | ⭐ 186 | `content creation` |
+| [Documentation Management](content-creation/145-documentation-management_dc70ca38/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/workflows/documentation-management.md) | ⭐ 186 | `content creation` |
+| [Marketing Rules](content-creation/146-marketing-rules_79dacf98/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/workflows/marketing-rules.md) | ⭐ 186 | `content creation` |
+| [Plugin](content-creation/147-plugin_995b4056/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/campaign-manager/PLUGIN.md) | ⭐ 186 | `content creation` |
+| [Plugin](content-creation/147-plugin_927aac4b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/content-factory/PLUGIN.md) | ⭐ 186 | `content creation` |
+| [Full](content-creation/148-full_09326e81/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/audit/full.md) | ⭐ 186 | `content creation` |
+| [Book](content-creation/149-book_8d45fae8/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/brand/book.md) | ⭐ 186 | `content creation` |
+| [Calendar](content-creation/150-calendar_713882b6/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/campaign/calendar.md) | ⭐ 186 | `content creation` |
+| [Content Approval](content-creation/151-content-approval_4ac93698/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/checklist/content-approval.md) | ⭐ 186 | `content creation` |
+| [Ads](content-creation/152-ads_1c5599e1/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/content/ads.md) | ⭐ 186 | `content creation` |
+| [Blog](content-creation/153-blog_745533e6/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/content/blog.md) | ⭐ 186 | `content creation` |
+| [Email](content-creation/154-email_01a8c813/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/content/email.md) | ⭐ 186 | `content creation` |
+| [Page](content-creation/155-page_cb81c6ff/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/cro/page.md) | ⭐ 186 | `content creation` |
+| [Popup](content-creation/156-popup_a9d893a6/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/cro/popup.md) | ⭐ 186 | `content creation` |
+| [Launch](content-creation/157-launch_7664f19c/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/growth/launch.md) | ⭐ 186 | `content creation` |
+| [Referral](content-creation/158-referral_4bde288a/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/growth/referral.md) | ⭐ 186 | `content creation` |
+| [Monthly](content-creation/159-monthly_e5ead559/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/report/monthly.md) | ⭐ 186 | `content creation` |
+| [Schema](content-creation/160-schema_83f3b604/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/seo/schema.md) | ⭐ 186 | `content creation` |
+| [Re Engage](content-creation/161-re-engage_a00e9ac6/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/sequence/re-engage.md) | ⭐ 186 | `content creation` |
+| [Preferences](content-creation/162-preferences_b1ede1d4/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/settings/preferences.md) | ⭐ 186 | `content creation` |
+| [Bonus Secret](content-creation/163-bonus-secret_7edf794b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-ar/bonus-secret.md) | ⭐ 186 | `content creation` |
+| [Bonus Patterns](content-creation/164-bonus-patterns_af0575ce/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/bonus-patterns.md) | ⭐ 186 | `content creation` |
+| [Bonus Secret](content-creation/163-bonus-secret_630e5273/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/bonus-secret.md) | ⭐ 186 | `content creation` |
+| [Help](content-creation/165-help_65e49ca3/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/help.md) | ⭐ 186 | `content creation` |
+| [Start 0 0](content-creation/166-start-0-0_5ef95c6b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/start-0-0.md) | ⭐ 186 | `content creation` |
+| [Start 1 2](content-creation/167-start-1-2_fea45f6b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/start-1-2.md) | ⭐ 186 | `content creation` |
+| [Start 1 5](content-creation/168-start-1-5_ce9425c3/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/start-1-5.md) | ⭐ 186 | `content creation` |
+| [Start 1 6](content-creation/169-start-1-6_9783db66/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/start-1-6.md) | ⭐ 186 | `content creation` |
+| [Start 2 4](content-creation/170-start-2-4_d188bcb3/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/start-2-4.md) | ⭐ 186 | `content creation` |
+| [Start 3 3](content-creation/171-start-3-3_18bbf290/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-de/start-3-3.md) | ⭐ 186 | `content creation` |
+| [Help](content-creation/165-help_95c54562/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/help.md) | ⭐ 186 | `content creation` |
+| [Persona Builder](content-creation/172-persona-builder_59995857/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/persona-builder.md) | ⭐ 186 | `content creation` |
+| [Start 0 0](content-creation/166-start-0-0_dbca8553/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/start-0-0.md) | ⭐ 186 | `content creation` |
+| [Start 1 2](content-creation/167-start-1-2_0f7ba108/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/start-1-2.md) | ⭐ 186 | `content creation` |
+| [Start 1 5](content-creation/168-start-1-5_ac9cbb58/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/start-1-5.md) | ⭐ 186 | `content creation` |
+| [Start 1 6](content-creation/169-start-1-6_eddcca81/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/start-1-6.md) | ⭐ 186 | `content creation` |
+| [Start 2 4](content-creation/170-start-2-4_902eaf20/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-es/start-2-4.md) | ⭐ 186 | `content creation` |
+| [Start 1 5](content-creation/168-start-1-5_80d7ba5b/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-fr/start-1-5.md) | ⭐ 186 | `content creation` |
+| [Start 1 6](content-creation/169-start-1-6_c092e29d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-fr/start-1-6.md) | ⭐ 186 | `content creation` |
+| [Help](content-creation/165-help_8b96a574/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-pt-br/help.md) | ⭐ 186 | `content creation` |
+| [Persona Builder](content-creation/172-persona-builder_367043b2/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-pt-br/persona-builder.md) | ⭐ 186 | `content creation` |
+| [Start 0 0](content-creation/166-start-0-0_a9aad9a2/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-pt-br/start-0-0.md) | ⭐ 186 | `content creation` |
+| [Start 1 2](content-creation/167-start-1-2_b93b1b88/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-pt-br/start-1-2.md) | ⭐ 186 | `content creation` |
+| [Start 1 6](content-creation/169-start-1-6_59082a4a/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-pt-br/start-1-6.md) | ⭐ 186 | `content creation` |
+| [Start 2 4](content-creation/170-start-2-4_e709e50a/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-pt-br/start-2-4.md) | ⭐ 186 | `content creation` |
+| [Bonus Patterns](content-creation/164-bonus-patterns_f0d07373/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training-vi/bonus-patterns.md) | ⭐ 186 | `content creation` |
+| [Bonus Patterns](content-creation/164-bonus-patterns_abd49279/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training/bonus-patterns.md) | ⭐ 186 | `content creation` |
+| [Start 1 6](content-creation/169-start-1-6_79b1e356/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/commands/training/start-1-6.md) | ⭐ 186 | `content creation` |
+| [Skill](content-creation/049-name-skill_18ca8fb5/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/content-strategy/SKILL.md) | ⭐ 186 | `content creation` |
+| [Skill](content-creation/049-name-skill_7bc2ffc3/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/marketing-fundamentals/SKILL.md) | ⭐ 186 | `content creation` |
+| [Skill](content-creation/049-name-skill_ae456594/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/seo-mastery/SKILL.md) | ⭐ 186 | `content creation` |
+| [Skill](content-creation/049-name-skill_3f217332/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/social-media/SKILL.md) | ⭐ 186 | `content creation` |
+| [Seo Specialist](content-creation/140-seo-specialist_8192b071/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/campaign-manager/agents/seo-specialist.md) | ⭐ 186 | `content creation` |
+| [Generate](content-creation/173-generate_77ba5818/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/content-factory/commands/generate.md) | ⭐ 186 | `content creation` |
+| [Repurpose](content-creation/174-repurpose_ad4130c9/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/content-factory/commands/repurpose.md) | ⭐ 186 | `content creation` |
+| [Schedule](content-creation/175-schedule_48e1de2d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/content-factory/commands/schedule.md) | ⭐ 186 | `content creation` |
+| [Voice Tone](content-creation/176-voice-tone_e7c3eb9d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/brand-building/references/voice-tone.md) | ⭐ 186 | `content creation` |
+| [Repurposing](content-creation/177-repurposing_50688c6e/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/content-strategy/references/repurposing.md) | ⭐ 186 | `content creation` |
+| [Iso13485 Clause Requirements](content-creation/iso13485-clause-requirements_8fdb7e76/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/iso13485-clause-requirements.md) | ⭐ 1.6k | `content creation` |
+| [Iso Regulatory Requirements](content-creation/iso-regulatory-requirements_62c831f2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/iso-regulatory-requirements.md) | ⭐ 1.6k | `content creation` |
 
-### Daily Assistant (217 skills)
+### Daily Assistant (222 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1791,8 +1881,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Build Environment Configuration](daily-assistant/136-build-environment-configuration_227cc6ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/build-environment/build-environment-configuration.md) | ⭐ 16 | `daily assistant` |
 | [Version Scheme Plugins](daily-assistant/137-version-scheme-plugins_d0e9a611/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/plugins/version-scheme-plugins.md) | ⭐ 16 | `daily assistant` |
 | [Workspaces](daily-assistant/138-workspaces_c4bbba84/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/architecture/workspaces.md) | ⭐ 177 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_ed379bdd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/SKILL.md) | ⭐ 1.6k | `daily assistant` |
+| [Aso Best Practices](daily-assistant/aso-best-practices_e86e9710/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/aso-best-practices.md) | ⭐ 1.6k | `daily assistant` |
+| [Keyword Research Guide](daily-assistant/keyword-research-guide_631a6206/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/keyword-research-guide.md) | ⭐ 1.6k | `daily assistant` |
+| [Platform Requirements](daily-assistant/platform-requirements_686604da/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/platform-requirements.md) | ⭐ 1.6k | `daily assistant` |
+| [Sprint Planning Guide](daily-assistant/sprint-planning-guide_2ae5bb3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/sprint-planning-guide.md) | ⭐ 1.6k | `daily assistant` |
 
-### Data Analysis (688 skills)
+### Data Analysis (689 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2484,8 +2579,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Chrome Profile](data-analysis/308-chrome-profile_903c62d6/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/chrome-profile.md) | ⭐ 177 | `data analysis` |
 | [Analysis](data-analysis/006-analysis_54a4a61c/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/pdf/analysis.md) | ⭐ 177 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2113a183/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/name-skill_eb839304/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/SKILL.md) | ⭐ 1.6k | `data analysis` |
 
-### Development (2901 skills)
+### Development (2903 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5390,8 +5486,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Glossary](development/429-glossary_2233010a/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/GLOSSARY.md) | ⭐ 177 | `development` |
 | [Pdf Viewer](development/1184-pdf-viewer_8fca7da2/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/pdf-viewer.md) | ⭐ 177 | `development` |
 | [Analysis](development/034-analysis_776e3c68/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/webapp/analysis.md) | ⭐ 177 | `development` |
+| [Cryptography Implementation](development/cryptography-implementation_f9389c5d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/cryptography-implementation.md) | ⭐ 1.6k | `development` |
+| [Risk Analysis Methods](development/risk-analysis-methods_46b56d11/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/risk-analysis-methods.md) | ⭐ 1.6k | `development` |
 
-### Development/Devops (277 skills)
+### Development/Devops (278 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5714,7 +5812,8 @@ Read more about the new architecture [here` |
 | [Variables](development/devops/204-variables_c3203c6f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/railway/new/references/variables.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_533297ee/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert/SKILL.md) | 🔥 19.4k | `development` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
-| [Copilotkit Sdk](development/devops/copilotkit_sdk_b4dd86ca/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/copilotkit_sdk.md) | 🔥 35.2k | `development` |
+| [Skill](development/devops/name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
+| [Threat Modeling Guide](development/devops/threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
 
 ### Development/Testing (33 skills)
 
@@ -5754,7 +5853,7 @@ Read more about the new architecture [here` |
 | [Agents](development/testing/024-agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_5785ddec/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/AGENTS.md) | ⭐ 44 | `development` |
 
-### Development/Tools (284 skills)
+### Development/Tools (287 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6042,6 +6141,9 @@ Read more about the new architecture [here` |
 | [Text Overlays](development/tools/175-text-overlays_86fb200e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/heygen-best-practices/rules/text-overlays.md) | 🔥 19.4k | `development` |
 | [Authentication](development/tools/176-authentication_9f3ca61a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/mcp-integration/references/authentication.md) | 🔥 19.4k | `development` |
 | [Analysis](development/tools/141-analysis_5fbbd882/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/xlsx/analysis.md) | ⭐ 177 | `development` |
+| [Security Architecture Patterns](development/tools/security-architecture-patterns_58afe308/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/security-architecture-patterns.md) | ⭐ 1.6k | `development` |
+| [Genesis](development/tools/genesis_93c5e226/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/Genesis.md) | ⭐ 25 | `development` |
+| [Prompt Helper](development/tools/prompt_helper_fde1e4b8/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/Prompt_Helper.md) | ⭐ 25 | `development` |
 
 ### Investment (39 skills)
 
@@ -6135,7 +6237,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (181 skills)
+### Productivity (182 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6320,8 +6422,9 @@ Read more about the new architecture [here` |
 | [Benchmarking](productivity/107-benchmarking_a5ba5a13/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/BENCHMARKING.md) | ⭐ 3.9k | `productivity` |
 | [Multi Agent Vs Single Agent Systems](productivity/108-multi-agent-vs-single-agent-systems_088f46ed/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/multi-agent-vs-single-agent-systems.md) | ⭐ 4.8k | `productivity` |
 | [How Kimi Works](productivity/109-how-kimi-works_77669abd/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/analysis/how-kimi-works.md) | ⭐ 177 | `productivity` |
+| [Aso Audit Template](productivity/aso-audit-template_3a96bbc3/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/assets/aso-audit-template.md) | ⭐ 1.6k | `productivity` |
 
-### Research (291 skills)
+### Research (293 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6616,6 +6719,8 @@ Read more about the new architecture [here` |
 | [Research Foundations](research/174-research-foundations_7c58d656/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/verification-gate/skills/verification-gate/references/research-foundations.md) | ⭐ 16 | `research` |
 | [Licenses](research/175-licenses_ec047788/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/project-metadata/licenses.md) | ⭐ 16 | `research` |
 | [Package Discovery](research/176-package-discovery_0f5d181f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/wheel-target/package-discovery.md) | ⭐ 16 | `research` |
+| [Global Regulatory Pathways](research/global-regulatory-pathways_a271cb0e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/global-regulatory-pathways.md) | ⭐ 1.6k | `research` |
+| [Iso14971 Implementation Guide](research/iso14971-implementation-guide_5fc9a147/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/iso14971-implementation-guide.md) | ⭐ 1.6k | `research` |
 
 ## Repository Structure
 
