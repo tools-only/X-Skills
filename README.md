@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7028 AI-powered skills** organized into 16 categories.
+A curated collection of **7029 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (389 skills)
 - **Daily Assistant** (240 skills)
 - **Data Analysis** (727 skills)
-- **Development** (3066 skills)
+- **Development** (3067 skills)
 - **Development/Devops** (305 skills)
 - **Development/Testing** (43 skills)
 - **Development/Tools** (327 skills)
@@ -2408,7 +2408,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prompts](data-analysis/250-prompts_4435668f/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/references/PROMPTS.md) | ⭐ 10 | `data analysis` |
 | [P2 Dfd Analysis](data-analysis/251-p2-dfd-analysis_0ffa7a58/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 133 | `data analysis` |
 | [Interrupts](data-analysis/252-interrupts_75cec7a3/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/interrupts.md) | ⭐ 160 | `data analysis` |
-| [Quickstart](data-analysis/quickstart_1dcfdd87/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 162 | `data analysis` |
+| [Quickstart](data-analysis/253-quickstart_4298d0a0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 160 | `data analysis` |
 | [Evaluation](data-analysis/254-evaluation_a449804f/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/observability-evaluation/evaluation.md) | ⭐ 160 | `data analysis` |
 | [Structured Output](data-analysis/255-structured-output_ca28f9a4/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/structured-output.md) | ⭐ 160 | `data analysis` |
 | [Hooks](data-analysis/256-hooks_569f7b8b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/hooks.md) | ⭐ 160 | `data analysis` |
@@ -2755,7 +2755,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](data-analysis/335-01-architecture_fb012b1b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 861 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_1dcfdd87/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 162 | `data analysis` |
 
-### Development (3066 skills)
+### Development (3067 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5202,7 +5202,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prompt Engineering](development/1354-prompt-engineering_de8fbaa1/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/safety-security/prompt-engineering.md) | ⭐ 160 | `development` |
 | [Conversation Management](development/1355-conversation-management_2d7edb45/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/conversation-management.md) | ⭐ 160 | `development` |
 | [Hooks](development/1356-hooks_1e35a28d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/hooks.md) | ⭐ 160 | `development` |
-| [Retry Strategies](development/retry-strategies_d0f56e64/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/retry-strategies.md) | ⭐ 162 | `development` |
+| [Retry Strategies](development/1357-retry-strategies_c90df465/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/retry-strategies.md) | ⭐ 160 | `development` |
 | [State](development/1358-state_6969f13d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/state.md) | ⭐ 160 | `development` |
 | [Agent](development/024-agent_6246197a/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/bidirectional-streaming/agent.md) | ⭐ 160 | `development` |
 | [Agent Config](development/1359-agent-config_ee9b6cf0/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/experimental/agent-config.md) | ⭐ 160 | `development` |
@@ -5825,6 +5825,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Skills Created](development/798-readme_flat_skills_created_644ee733/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_9df5b749/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 22.8k | `development` |
 | [Retry Strategies](development/1357-retry-strategies_d0f56e64/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/retry-strategies.md) | ⭐ 162 | `development` |
+| [Test Summary](development/test_summary_86ce78a0/) | [mensfeld/code-on-incus](https://raw.githubusercontent.com/mensfeld/code-on-incus/master/tests/limits/TEST_SUMMARY.md) | ⭐ 86 | `development` |
 
 ### Development/Devops (305 skills)
 
