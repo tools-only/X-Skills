@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6225 AI-powered skills** organized into 16 categories.
+A curated collection of **6193 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (83 skills)
+- **Automation/Scripting** (81 skills)
 - **Automation/Workflow** (92 skills)
-- **Commercial** (389 skills)
+- **Commercial** (386 skills)
 - **Communication** (211 skills)
-- **Content Creation** (199 skills)
-- **Daily Assistant** (218 skills)
-- **Data Analysis** (684 skills)
-- **Development** (2916 skills)
-- **Development/Devops** (186 skills)
+- **Content Creation** (198 skills)
+- **Daily Assistant** (216 skills)
+- **Data Analysis** (682 skills)
+- **Development** (2897 skills)
+- **Development/Devops** (185 skills)
 - **Development/Testing** (29 skills)
-- **Development/Tools** (223 skills)
+- **Development/Tools** (222 skills)
 - **Investment** (39 skills)
-- **Other** (44 skills)
+- **Other** (43 skills)
 - **Productivity** (180 skills)
 - **Research** (291 skills)
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (83 skills)
+### Automation/Scripting (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -558,9 +558,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Usage Guide](automation/scripting/029-usage-guide_d284af77/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/admet-prediction/usage-guide.md) | ⭐ 191 | `automation` |
 | [Skill](automation/scripting/003-name-skill_2f912ac3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-descriptors/SKILL.md) | ⭐ 191 | `automation` |
 | [Usage Guide](automation/scripting/029-usage-guide_9e9c73fe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-descriptors/usage-guide.md) | ⭐ 191 | `automation` |
-| [Ida Fixup](automation/scripting/ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
-| [Ida Mergemod](automation/scripting/ida_mergemod_5e22058b/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_mergemod.md) | ⭐ 17 | `automation` |
-| [Init](automation/scripting/init_5530d2fa/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/init.md) | ⭐ 17 | `automation` |
+| [Ida Fixup](automation/scripting/032-ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
 
 ### Automation/Workflow (92 skills)
 
@@ -659,7 +657,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pr Requirements](automation/workflow/038-pr-requirements_03e587e4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-requirements.md) | ⭐ 4.8k | `automation` |
 | [Human In The Loop Ai Agents](automation/workflow/039-human-in-the-loop-ai-agents_5225d5b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/human-in-the-loop-ai-agents.md) | ⭐ 4.8k | `automation` |
 
-### Commercial (389 skills)
+### Commercial (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1045,13 +1043,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](commercial/167-reference_a9c6ff9a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/REFERENCE.md) | ⭐ 102 | `commercial` |
 | [Reference](commercial/167-reference_820dcaa7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/REFERENCE.md) | ⭐ 102 | `commercial` |
 | [Reference](commercial/167-reference_03a43eea/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/REFERENCE.md) | ⭐ 102 | `commercial` |
-| [Ida Netnode](commercial/ida_netnode_d62655c1/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_netnode.md) | ⭐ 17 | `commercial` |
-| [Ida Registry](commercial/ida_registry_f6469d05/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_registry.md) | ⭐ 17 | `commercial` |
-| [Ida Diskio](commercial/ida_diskio_9e56e262/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/11_loader/ida_diskio.md) | ⭐ 17 | `commercial` |
-| [Ida Strlist](commercial/ida_strlist_5c3bfa20/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_strlist.md) | ⭐ 17 | `commercial` |
-| [Ida Undo](commercial/ida_undo_8a1c67b7/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_undo.md) | ⭐ 17 | `commercial` |
-| [Ida Ieee](commercial/ida_ieee_4599b520/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_ieee.md) | ⭐ 17 | `commercial` |
-| [Ida Range](commercial/ida_range_0ea89ba8/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/06_segments/ida_range.md) | ⭐ 17 | `commercial` |
+| [Ida Netnode](commercial/253-ida_netnode_d62655c1/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_netnode.md) | ⭐ 17 | `commercial` |
+| [Ida Registry](commercial/254-ida_registry_f6469d05/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_registry.md) | ⭐ 17 | `commercial` |
+| [Ida Diskio](commercial/255-ida_diskio_9e56e262/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/11_loader/ida_diskio.md) | ⭐ 17 | `commercial` |
+| [Ida Strlist](commercial/256-ida_strlist_5c3bfa20/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_strlist.md) | ⭐ 17 | `commercial` |
 
 ### Communication (211 skills)
 
@@ -1269,7 +1264,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
 
-### Content Creation (199 skills)
+### Content Creation (198 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1470,10 +1465,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Aden Vs Crewai](content-creation/117-aden-vs-crewai_85043ac6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/aden-vs-crewai.md) | ⭐ 4.8k | `content creation` |
 | [03 Build Your First Agent](content-creation/118-03-build-your-first-agent_9a0db523/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/03-build-your-first-agent.md) | ⭐ 4.8k | `content creation` |
 | [Skill](content-creation/049-name-skill_b4e2adc3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-core/SKILL.md) | ⭐ 4.8k | `content creation` |
-| [Ida Dbg](content-creation/ida_dbg_6b189fb1/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_dbg.md) | ⭐ 17 | `content creation` |
-| [Malware Analysis](content-creation/malware-analysis_5c7f5dfa/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/malware-analysis.md) | ⭐ 17 | `content creation` |
+| [Ida Dbg](content-creation/119-ida_dbg_6b189fb1/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_dbg.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (218 skills)
+### Daily Assistant (216 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1693,10 +1687,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/135-argument-skill_1ddab9e3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/add-new-feature/SKILL.md) | ⭐ 16 | `daily assistant` |
 | [Build Environment Configuration](daily-assistant/136-build-environment-configuration_227cc6ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/build-environment/build-environment-configuration.md) | ⭐ 16 | `daily assistant` |
 | [Version Scheme Plugins](daily-assistant/137-version-scheme-plugins_d0e9a611/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/plugins/version-scheme-plugins.md) | ⭐ 16 | `daily assistant` |
-| [Game Reverse](daily-assistant/game-reverse_0251ed72/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/game-reverse.md) | ⭐ 17 | `daily assistant` |
-| [Ida Dirtree](daily-assistant/ida_dirtree_eb99aee9/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_dirtree.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (684 skills)
+### Data Analysis (682 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2379,13 +2371,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Datasette](data-analysis/300-datasette_c5ba95a7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/datasette.md) | ⭐ 16 | `data analysis` |
 | [Module Imports](data-analysis/301-module-imports_e70fde27/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/references/rules/bandit/module-imports.md) | ⭐ 16 | `data analysis` |
 | [Prompt](data-analysis/302-prompt_daa7553d/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/agents/slides/prompt.md) | ⭐ 177 | `data analysis` |
-| [Ida Hexrays](data-analysis/ida_hexrays_dba9732e/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/08_decompiler/ida_hexrays.md) | ⭐ 17 | `data analysis` |
-| [Ida Gdl](data-analysis/ida_gdl_0e984bbe/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_gdl.md) | ⭐ 17 | `data analysis` |
-| [Idc](data-analysis/idc_00dc2b80/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idc.md) | ⭐ 17 | `data analysis` |
-| [Ida Libfuncs](data-analysis/ida_libfuncs_9de41c33/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/05_functions/ida_libfuncs.md) | ⭐ 17 | `data analysis` |
-| [Ida Moves](data-analysis/ida_moves_ed8ff55b/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_moves.md) | ⭐ 17 | `data analysis` |
+| [Ida Hexrays](data-analysis/303-ida_hexrays_dba9732e/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/08_decompiler/ida_hexrays.md) | ⭐ 17 | `data analysis` |
+| [Ida Gdl](data-analysis/304-ida_gdl_0e984bbe/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_gdl.md) | ⭐ 17 | `data analysis` |
+| [Idc](data-analysis/305-idc_00dc2b80/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idc.md) | ⭐ 17 | `data analysis` |
 
-### Development (2916 skills)
+### Development (2897 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5263,50 +5253,31 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1530-description-skill_0a0bb338/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/litellm/skills/litellm/SKILL.md) | ⭐ 16 | `development` |
 | [Skill](development/1530-description-skill_4ad79fd7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/llamafile/skills/llamafile/SKILL.md) | ⭐ 16 | `development` |
 | [Skill](development/1530-description-skill_a46211ee/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-creator/SKILL.md) | ⭐ 16 | `development` |
-| [Api](development/api_84eb335f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/API.md) | ⭐ 17 | `development` |
-| [Readme En](development/readme_en_95b83a64/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/README_EN.md) | ⭐ 17 | `development` |
-| [Ida Ida](development/ida_ida_986049e5/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_ida.md) | ⭐ 17 | `development` |
-| [Ida Idp](development/ida_idp_75b5b8a7/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_idp.md) | ⭐ 17 | `development` |
-| [Ida Ua](development/ida_ua_875bc50c/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_ua.md) | ⭐ 17 | `development` |
-| [Ida Bytes](development/ida_bytes_23d8a072/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_bytes.md) | ⭐ 17 | `development` |
-| [Ida Nalt](development/ida_nalt_2afe41bf/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_nalt.md) | ⭐ 17 | `development` |
-| [Ida Name](development/ida_name_0cde92cf/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/04_names_xrefs/ida_name.md) | ⭐ 17 | `development` |
-| [Ida Frame](development/ida_frame_956ebfff/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/05_functions/ida_frame.md) | ⭐ 17 | `development` |
-| [Ida Funcs](development/ida_funcs_bf8e0c1a/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/05_functions/ida_funcs.md) | ⭐ 17 | `development` |
-| [Ida Segment](development/ida_segment_bf386093/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/06_segments/ida_segment.md) | ⭐ 17 | `development` |
-| [Ida Typeinf](development/ida_typeinf_d056a9d3/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/07_types/ida_typeinf.md) | ⭐ 17 | `development` |
-| [Ida Idd](development/ida_idd_19908607/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_idd.md) | ⭐ 17 | `development` |
-| [Ida Regfinder](development/ida_regfinder_2ef80dda/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_regfinder.md) | ⭐ 17 | `development` |
-| [Ida Graph](development/ida_graph_1f37ea32/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_graph.md) | ⭐ 17 | `development` |
-| [Ida Lines](development/ida_lines_43c5abb9/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_lines.md) | ⭐ 17 | `development` |
-| [Ida Loader](development/ida_loader_9f307d60/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/11_loader/ida_loader.md) | ⭐ 17 | `development` |
-| [Ida Auto](development/ida_auto_b87c840a/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_auto.md) | ⭐ 17 | `development` |
-| [Ida Problems](development/ida_problems_edac355b/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_problems.md) | ⭐ 17 | `development` |
-| [Ida Search](development/ida_search_8ba577b6/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_search.md) | ⭐ 17 | `development` |
-| [Ida Expr](development/ida_expr_a092b3e0/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_expr.md) | ⭐ 17 | `development` |
-| [Idautils](development/idautils_c6b6fb62/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idautils.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_1ae85603/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/SKILL.md) | ⭐ 17 | `development` |
-| [Algorithm Recovery](development/algorithm-recovery_9104fa51/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/algorithm-recovery.md) | ⭐ 17 | `development` |
-| [Common Techniques](development/common-techniques_1a35c66f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/common-techniques.md) | ⭐ 17 | `development` |
-| [Deobfuscation](development/deobfuscation_658a07ff/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/deobfuscation.md) | ⭐ 17 | `development` |
-| [Driver Analysis](development/driver-analysis_a794e0a0/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/driver-analysis.md) | ⭐ 17 | `development` |
-| [Firmware Analysis](development/firmware-analysis_41858f3b/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/firmware-analysis.md) | ⭐ 17 | `development` |
-| [Library Analysis](development/library-analysis_2a6fb7e5/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/library-analysis.md) | ⭐ 17 | `development` |
-| [Mobile Analysis](development/mobile-analysis_2884d568/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/mobile-analysis.md) | ⭐ 17 | `development` |
-| [Vulnerability Analysis](development/vulnerability-analysis_cb31ca06/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/vulnerability-analysis.md) | ⭐ 17 | `development` |
-| [Ida Pro](development/ida_pro_9a569ff4/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_pro.md) | ⭐ 17 | `development` |
-| [Idaapi](development/idaapi_66877b9f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/idaapi.md) | ⭐ 17 | `development` |
-| [Ida Offset](development/ida_offset_6cf2bb05/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_offset.md) | ⭐ 17 | `development` |
-| [Ida Entry](development/ida_entry_ff1b2a95/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/04_names_xrefs/ida_entry.md) | ⭐ 17 | `development` |
-| [Ida Xref](development/ida_xref_49be5843/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/04_names_xrefs/ida_xref.md) | ⭐ 17 | `development` |
-| [Ida Segregs](development/ida_segregs_7704755e/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/06_segments/ida_segregs.md) | ⭐ 17 | `development` |
-| [Ida Srclang](development/ida_srclang_4677bccf/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/07_types/ida_srclang.md) | ⭐ 17 | `development` |
-| [Ida Merge](development/ida_merge_b0715841/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_merge.md) | ⭐ 17 | `development` |
-| [Ida Tryblks](development/ida_tryblks_401d3d3f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_tryblks.md) | ⭐ 17 | `development` |
-| [Ida Idc](development/ida_idc_e48b88b0/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/ida_idc.md) | ⭐ 17 | `development` |
-| [Idadex](development/idadex_55cb7c11/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idadex.md) | ⭐ 17 | `development` |
+| [Api](development/045-api_84eb335f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/API.md) | ⭐ 17 | `development` |
+| [Readme En](development/1706-readme_en_95b83a64/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/README_EN.md) | ⭐ 17 | `development` |
+| [Ida Ida](development/1707-ida_ida_986049e5/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_ida.md) | ⭐ 17 | `development` |
+| [Ida Idp](development/1708-ida_idp_75b5b8a7/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_idp.md) | ⭐ 17 | `development` |
+| [Ida Ua](development/1709-ida_ua_875bc50c/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_ua.md) | ⭐ 17 | `development` |
+| [Ida Bytes](development/1710-ida_bytes_23d8a072/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_bytes.md) | ⭐ 17 | `development` |
+| [Ida Nalt](development/1711-ida_nalt_2afe41bf/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_nalt.md) | ⭐ 17 | `development` |
+| [Ida Name](development/1712-ida_name_0cde92cf/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/04_names_xrefs/ida_name.md) | ⭐ 17 | `development` |
+| [Ida Frame](development/1713-ida_frame_956ebfff/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/05_functions/ida_frame.md) | ⭐ 17 | `development` |
+| [Ida Funcs](development/1714-ida_funcs_bf8e0c1a/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/05_functions/ida_funcs.md) | ⭐ 17 | `development` |
+| [Ida Segment](development/1715-ida_segment_bf386093/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/06_segments/ida_segment.md) | ⭐ 17 | `development` |
+| [Ida Typeinf](development/1716-ida_typeinf_d056a9d3/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/07_types/ida_typeinf.md) | ⭐ 17 | `development` |
+| [Ida Idd](development/1717-ida_idd_19908607/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_idd.md) | ⭐ 17 | `development` |
+| [Ida Regfinder](development/1718-ida_regfinder_2ef80dda/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_regfinder.md) | ⭐ 17 | `development` |
+| [Ida Graph](development/1719-ida_graph_1f37ea32/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_graph.md) | ⭐ 17 | `development` |
+| [Ida Lines](development/1720-ida_lines_43c5abb9/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_lines.md) | ⭐ 17 | `development` |
+| [Ida Loader](development/1721-ida_loader_9f307d60/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/11_loader/ida_loader.md) | ⭐ 17 | `development` |
+| [Ida Auto](development/1722-ida_auto_b87c840a/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_auto.md) | ⭐ 17 | `development` |
+| [Ida Problems](development/1723-ida_problems_edac355b/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_problems.md) | ⭐ 17 | `development` |
+| [Ida Search](development/1724-ida_search_8ba577b6/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/12_analysis/ida_search.md) | ⭐ 17 | `development` |
+| [Ida Expr](development/1725-ida_expr_a092b3e0/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/13_misc/ida_expr.md) | ⭐ 17 | `development` |
+| [Idautils](development/1726-idautils_c6b6fb62/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idautils.md) | ⭐ 17 | `development` |
+| [Agents](development/agents_c1e37c39/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 24 | `development` |
 
-### Development/Devops (186 skills)
+### Development/Devops (185 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5538,7 +5509,6 @@ Read more about the new architecture [here` |
 | [Fabric](development/devops/140-fabric_2e5cf182/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/fabric.md) | ⭐ 16 | `development` |
 | [Python Dotenv](development/devops/141-python-dotenv_f826e158/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/python-dotenv.md) | ⭐ 16 | `development` |
 | [Shiv](development/devops/142-shiv_a8c8e431/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/shiv.md) | ⭐ 16 | `development` |
-| [Protocol Reverse](development/devops/protocol-reverse_a31567c3/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/analysis/protocol-reverse.md) | ⭐ 17 | `development` |
 
 ### Development/Testing (29 skills)
 
@@ -5572,9 +5542,9 @@ Read more about the new architecture [here` |
 | [Multi Entry Point Agents](development/testing/021-multi-entry-point-agents_c1f1f27c/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/architecture/multi-entry-point-agents.md) | ⭐ 4.8k | `development` |
 | [Building Production Ai Agents](development/testing/022-building-production-ai-agents_038a84a7/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/building-production-ai-agents.md) | ⭐ 4.8k | `development` |
 | [Skill](development/testing/002-name-skill_f50bfca9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 4.8k | `development` |
-| [Ida Allins](development/testing/ida_allins_90413859/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_allins.md) | ⭐ 17 | `development` |
+| [Ida Allins](development/testing/023-ida_allins_90413859/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_allins.md) | ⭐ 17 | `development` |
 
-### Development/Tools (223 skills)
+### Development/Tools (222 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5797,10 +5767,9 @@ Read more about the new architecture [here` |
 | [Type Checking](development/tools/135-type-checking_7cfcfc71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/references/rules/ruff/type-checking.md) | ⭐ 16 | `development` |
 | [Version Checks](development/tools/136-version-checks_9d2e5103/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/references/rules/ruff/version-checks.md) | ⭐ 16 | `development` |
 | [Filesystem Full](development/tools/137-filesystem-full_e31d3b99/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/reference/infrastructure/filesystem-full.md) | ⭐ 177 | `development` |
-| [Ida Idaapi](development/tools/ida_idaapi_38667d6f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_idaapi.md) | ⭐ 17 | `development` |
-| [Ida Kernwin](development/tools/ida_kernwin_8f55aae5/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_kernwin.md) | ⭐ 17 | `development` |
-| [Tools](development/tools/tools_78bc1616/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/TOOLS.md) | ⭐ 17 | `development` |
-| [Ida Fpro](development/tools/ida_fpro_671088ca/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/11_loader/ida_fpro.md) | ⭐ 17 | `development` |
+| [Ida Idaapi](development/tools/138-ida_idaapi_38667d6f/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/01_core/ida_idaapi.md) | ⭐ 17 | `development` |
+| [Ida Kernwin](development/tools/139-ida_kernwin_8f55aae5/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_kernwin.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/name-skill_b780be4d/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md) | ⭐ 24 | `development` |
 
 ### Investment (39 skills)
 
@@ -5846,7 +5815,7 @@ Read more about the new architecture [here` |
 | [Usage Guide](investment/022-usage-guide_88e17021/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-stalling/usage-guide.md) | ⭐ 191 | `investment` |
 | [Reference](investment/023-reference_6826bad6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
 
-### Other (44 skills)
+### Other (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5893,7 +5862,6 @@ Read more about the new architecture [here` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
-| [Ida Bitrange](other/ida_bitrange_6a7a4490/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_bitrange.md) | ⭐ 17 | `other` |
 
 ### Productivity (180 skills)
 

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-04T05:23:22.725681",
+  "updated_at": "2026-02-04T05:30:55.192641",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -86675,6 +86675,34 @@
       "source_url": "https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idc.md",
       "display_name": "Idc",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "c1e37c39b5e24b43e86deecde536b4b6b0c13df9a4f6015b61dfc6210d34e95d",
+      "source_path": "AGENTS.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "development/028-agents_c1e37c39",
+      "category": "development",
+      "name": "agents_c1e37c39",
+      "indexed_at": "2026-02-04T05:30:54.577421",
+      "repo_stars": 24,
+      "repo_updated_at": "2026-02-03T16:15:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b780be4daa9c632bd01e81bc25d1f01a87fbe416c9ed29f1c1c4494f95c3e75b",
+      "source_path": "skills/fecfile/SKILL.md",
+      "source_repo": "hodgesmr/agent-fecfile",
+      "local_path": "development/tools/002-name-skill_b780be4d",
+      "category": "development/tools",
+      "name": "name-skill_b780be4d",
+      "indexed_at": "2026-02-04T05:30:55.192533",
+      "repo_stars": 24,
+      "repo_updated_at": "2026-02-04T02:39:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/skills/fecfile/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
