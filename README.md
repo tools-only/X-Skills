@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **5739 AI-powered skills** organized into 16 categories.
+A curated collection of **5782 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (73 skills)
-- **Automation/Workflow** (84 skills)
+- **Automation/Scripting** (76 skills)
+- **Automation/Workflow** (87 skills)
 - **Commercial** (377 skills)
-- **Communication** (199 skills)
-- **Content Creation** (181 skills)
+- **Communication** (200 skills)
+- **Content Creation** (185 skills)
 - **Daily Assistant** (176 skills)
-- **Data Analysis** (637 skills)
-- **Development** (2771 skills)
-- **Development/Devops** (118 skills)
+- **Data Analysis** (640 skills)
+- **Development** (2790 skills)
+- **Development/Devops** (122 skills)
 - **Development/Testing** (23 skills)
-- **Development/Tools** (135 skills)
+- **Development/Tools** (141 skills)
 - **Investment** (38 skills)
 - **Other** (43 skills)
 - **Productivity** (178 skills)
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (73 skills)
+### Automation/Scripting (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -551,8 +551,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_f7a1a9d1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/batch-integration/SKILL.md) | ⭐ 191 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7477be00/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/alphafold-predictions/SKILL.md) | ⭐ 191 | `automation` |
 | [Skill](automation/scripting/003-name-skill_2c9c39ae/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-io/SKILL.md) | ⭐ 191 | `automation` |
+| [Skill](automation/scripting/003-name-skill_6cd52c13/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/checking-freshness/SKILL.md) | ⭐ 167 | `automation` |
+| [Plan](automation/scripting/030-plan_7d85ffe9/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/plan.md) | ⭐ 10 | `automation` |
+| [Contract Errors](automation/scripting/031-contract-errors_38b4aa30/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/troubleshoot-errors/references/contract-errors.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (84 skills)
+### Automation/Workflow (87 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -640,6 +643,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Usage Guide](automation/workflow/031-usage-guide_816944c8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/scrnaseq-pipeline/usage-guide.md) | ⭐ 191 | `automation` |
 | [Automation](automation/workflow/032-automation_4db36136/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-best-practices/references/automation.md) | ⭐ 34 | `automation` |
 | [Prototype](automation/workflow/033-prototype_8a3b2a13/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dg/references/prototype.md) | ⭐ 34 | `finance` `daily` |
+| [Skill](automation/workflow/002-name-skill_b49167d6/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/tracing-downstream-lineage/SKILL.md) | ⭐ 167 | `automation` |
+| [Progress](automation/workflow/034-progress_75fde552/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/progress.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_29de7ef1/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/implement-arc-standards/SKILL.md) | ⭐ 10 | `automation` |
 
 ### Commercial (377 skills)
 
@@ -1023,7 +1029,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_9c002ecc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/qpcr-primers/SKILL.md) | ⭐ 191 | `commercial` |
 | [Skill](commercial/210-name-skill_c5f9834f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/flux-balance-analysis/SKILL.md) | ⭐ 191 | `commercial` |
 
-### Communication (199 skills)
+### Communication (200 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1226,8 +1232,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [2026 01 27 Insert Before Stream Investigation](communication/140-2026-01-27_insert-before-stream-investigation_591f4e34/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-01-27_insert-before-stream-investigation.md) | ⭐ 112 | `communication` |
 | [Usage Guide](communication/141-usage-guide_39e3593d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-search/usage-guide.md) | ⭐ 191 | `communication` |
 | [Alerting](communication/142-alerting_96a9dd04/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/alerting.md) | ⭐ 34 | `communication` |
+| [Skill](communication/127-name-skill_4a0e5739/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/profiling-tables/SKILL.md) | ⭐ 167 | `communication` |
 
-### Content Creation (181 skills)
+### Content Creation (185 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1412,6 +1419,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Troubleshooting](content-creation/110-troubleshooting_b9bfd1a1/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/TROUBLESHOOTING.md) | ⭐ 637 | `content creation` |
 | [Installation Guide](content-creation/111-installation_guide_e36c7291/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/markitdown/INSTALLATION_GUIDE.md) | ⭐ 637 | `content creation` |
 | [Skill](content-creation/049-name-skill_06d6bb4e/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/.claude/skills/scientific-writing/SKILL.md) | ⭐ 637 | `content creation` |
+| [Common Patterns](content-creation/112-common-patterns_00359c55/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/common-patterns.md) | ⭐ 167 | `content creation` |
+| [Discovery Warehouse](content-creation/113-discovery-warehouse_6a7eea8e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/discovery-warehouse.md) | ⭐ 167 | `content creation` |
+| [Prompt](content-creation/114-prompt_9cd2215f/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/prompt.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_e25e6d7d/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/SKILL.md) | ⭐ 10 | `content creation` |
 
 ### Daily Assistant (176 skills)
 
@@ -1594,7 +1605,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Types](daily-assistant/107-types_a0accb3d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/types.md) | ⭐ 112 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_74b16e72/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-manipulation/SKILL.md) | ⭐ 191 | `daily assistant` |
 
-### Data Analysis (637 skills)
+### Data Analysis (640 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2235,8 +2246,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_f1f184cb/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/spatial-pipeline/SKILL.md) | ⭐ 191 | `data analysis` |
 | [Logs](data-analysis/280-logs_5ef4fccc/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dg/references/logs.md) | ⭐ 34 | `data analysis` |
 | [Python 3.12](data-analysis/281-python-312_560b9cd0/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/versions/python-3.12.md) | ⭐ 34 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0ca22e8d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/annotating-task-lineage/SKILL.md) | ⭐ 167 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a98d99ae/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/init/SKILL.md) | ⭐ 167 | `data analysis` |
+| [Best Practices](data-analysis/282-best-practices_47bcc05b/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/reference/best-practices.md) | ⭐ 167 | `data analysis` |
 
-### Development (2771 skills)
+### Development (2790 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5011,8 +5025,27 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Python 3.11](development/1514-python-311_17e140a4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/versions/python-3.11.md) | ⭐ 34 | `development` |
 | [Python 3.13](development/1515-python-313_75fa5ef2/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/versions/python-3.13.md) | ⭐ 34 | `development` |
 | [Api Design](development/1516-api-design_18e5c85c/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/references/advanced/api-design.md) | ⭐ 34 | `development` |
+| [Skill](development/1178-name-skill_fc87016d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 167 | `development` |
+| [Skill](development/1178-name-skill_8a30649c/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/SKILL.md) | ⭐ 167 | `development` |
+| [Skill](development/1178-name-skill_ae968aa5/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 167 | `development` |
+| [Migration Patterns](development/1521-migration-patterns_ca3b9094/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 167 | `development` |
+| [Agents](development/028-agents_50de0d30/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/AGENTS.md) | ⭐ 10 | `development` |
+| [Agents](development/028-agents_9c79d7bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/setups/AGENTS.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_523c8960/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-ts-migration/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_17d2e3de/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/deploy-react-frontend/SKILL.md) | ⭐ 10 | `development` |
+| [From Beta](development/1522-from-beta_c759d5c9/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-ts-migration/references/from-beta.md) | ⭐ 10 | `development` |
+| [From Tealscript](development/1523-from-tealscript_f8824314/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-ts-migration/references/from-tealscript.md) | ⭐ 10 | `development` |
+| [Reference](development/828-reference_feb4f276/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/references/REFERENCE.md) | ⭐ 10 | `development` |
+| [Storage](development/1026-storage_1bfad015/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/references/storage.md) | ⭐ 10 | `development` |
+| [Transactions](development/1524-transactions_adc85b14/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/references/transactions.md) | ⭐ 10 | `development` |
+| [Types And Values](development/1525-types-and-values_473dd950/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/references/types-and-values.md) | ⭐ 10 | `development` |
+| [Arc32 Arc56](development/1526-arc32-arc56_e443fa78/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/implement-arc-standards/references/arc32-arc56.md) | ⭐ 10 | `development` |
+| [Arc4 Abi](development/1527-arc4-abi_6f6aa87d/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/implement-arc-standards/references/arc4-abi.md) | ⭐ 10 | `development` |
+| [Decorators](development/1528-decorators_ffe5303f/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/python/decorators.md) | ⭐ 10 | `development` |
+| [Transactions](development/1524-transactions_c6ba27a1/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/python/transactions.md) | ⭐ 10 | `development` |
+| [Types](development/1529-types_94cefa1b/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/python/types.md) | ⭐ 10 | `development` |
 
-### Development/Devops (118 skills)
+### Development/Devops (122 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5176,7 +5209,11 @@ Read more about the new architecture [here` |
 | [Storage](development/devops/082-storage_4351e28a/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/storage.md) | ⭐ 34 | `development` |
 | [Launch](development/devops/083-launch_6bf2e019/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dg/references/launch.md) | ⭐ 34 | `development` |
 | [List](development/devops/084-list_5c0f3e94/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dg/references/list.md) | ⭐ 34 | `development` |
-| [Skill](development/devops/name-skill_f2fa883c/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/configuring-dbt-mcp-server/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/devops/014-name-skill_f2fa883c/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/configuring-dbt-mcp-server/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/devops/085-description-skill_9aa9f0cd/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/.claude/skills/airflow-adapter/SKILL.md) | ⭐ 167 | `development` |
+| [Reference](development/devops/086-reference_a1923a4e/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/call-smart-contracts/references/REFERENCE.md) | ⭐ 10 | `development` |
+| [Reference](development/devops/086-reference_84e8cdad/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/deploy-react-frontend/references/REFERENCE.md) | ⭐ 10 | `development` |
+| [Transaction Errors](development/devops/087-transaction-errors_f08f2c5a/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/troubleshoot-errors/references/transaction-errors.md) | ⭐ 10 | `development` |
 
 ### Development/Testing (23 skills)
 
@@ -5206,7 +5243,7 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/002-name-skill_cf5c9f49/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-best-practices/SKILL.md) | ⭐ 34 | `development` |
 | [Resources](development/testing/018-resources_aadab61b/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-best-practices/references/resources.md) | ⭐ 34 | `development` |
 
-### Development/Tools (135 skills)
+### Development/Tools (141 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5241,7 +5278,7 @@ Read more about the new architecture [here` |
 | [Security Scout](development/tools/027-security-scout_9ee62bd7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/security-scout.md) | ⭐ 490 | `development` |
 | [Tooling Scout](development/tools/028-tooling-scout_064d000d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 490 | `development` |
 | [Worker](development/tools/029-worker_8c5ccf48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/worker.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/002-name-skill_78cd41fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 490 | `development` |
+| [Skill](development/tools/name-skill_b4462054/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 492 | `development` |
 | [Workflow](development/tools/030-workflow_30cfd097/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 490 | `development` |
 | [Skill](development/tools/002-name-skill_ffb90911/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/SKILL.md) | ⭐ 490 | `development` |
 | [Workflow](development/tools/030-workflow_b234b1d1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/workflow.md) | ⭐ 490 | `development` |
@@ -5345,6 +5382,12 @@ Read more about the new architecture [here` |
 | [Etl Patterns](development/tools/070-etl-patterns_c0d97b2d/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-best-practices/references/etl-patterns.md) | ⭐ 34 | `development` |
 | [Etl](development/tools/071-etl_73dc0088/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/etl.md) | ⭐ 34 | `development` |
 | [Other](development/tools/072-other_5ab278a2/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/other.md) | ⭐ 34 | `development` |
+| [Api Reference](development/tools/073-api-reference_cf781376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 167 | `development` |
+| [Skill](development/tools/002-name-skill_282df387/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/SKILL.md) | ⭐ 167 | `development` |
+| [Skill](development/tools/002-name-skill_b7dd3526/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 167 | `development` |
+| [Skill](development/tools/002-name-skill_ae497a6e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/setting-up-astro-project/SKILL.md) | ⭐ 167 | `development` |
+| [Reference](development/tools/074-reference_7222b3bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/REFERENCE.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_b4462054/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 492 | `development` |
 
 ### Investment (38 skills)
 
