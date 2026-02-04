@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7012 AI-powered skills** organized into 16 categories.
+A curated collection of **6981 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (90 skills)
-- **Automation/Workflow** (103 skills)
-- **Commercial** (459 skills)
+- **Automation/Scripting** (89 skills)
+- **Automation/Workflow** (102 skills)
+- **Commercial** (456 skills)
 - **Communication** (243 skills)
-- **Content Creation** (396 skills)
+- **Content Creation** (389 skills)
 - **Daily Assistant** (240 skills)
-- **Data Analysis** (735 skills)
-- **Development** (3060 skills)
-- **Development/Devops** (292 skills)
+- **Data Analysis** (726 skills)
+- **Development** (3056 skills)
+- **Development/Devops** (295 skills)
 - **Development/Testing** (43 skills)
-- **Development/Tools** (300 skills)
-- **Investment** (47 skills)
+- **Development/Tools** (301 skills)
+- **Investment** (43 skills)
 - **Other** (43 skills)
-- **Productivity** (203 skills)
-- **Research** (317 skills)
+- **Productivity** (200 skills)
+- **Research** (314 skills)
 
 ## Skills Directory
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (90 skills)
+### Automation/Scripting (89 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -566,10 +566,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Classifying Documents](automation/scripting/035-classifying_documents_a6895a47/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/tutorials/classifying_documents.md) | ⭐ 110 | `automation` |
 | [Approval Workflow System](automation/scripting/036-approval_workflow_system_f272c98a/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/APPROVAL_WORKFLOW_SYSTEM.md) | ⭐ 110 | `automation` |
 | [Logging Tab Ui Improvement](automation/scripting/037-logging_tab_ui_improvement_eefe5793/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LOGGING_TAB_UI_IMPROVEMENT.md) | ⭐ 110 | `automation` |
-| [Evaluation](automation/scripting/evaluation_209cc339/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/evaluation.md) | ⭐ 14 | `automation` |
-| [Element Catalog](automation/scripting/element-catalog_84db2139/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/geometric-elements/references/element-catalog.md) | ⭐ 14 | `automation` |
+| [Evaluation](automation/scripting/038-evaluation_209cc339/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/evaluation.md) | ⭐ 14 | `automation` |
 
-### Automation/Workflow (103 skills)
+### Automation/Workflow (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -672,12 +671,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pii Analysis Workflow](automation/workflow/044-pii_analysis_workflow_45d66f35/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/PII_ANALYSIS_WORKFLOW.md) | ⭐ 110 | `automation` |
 | [Control Center Application Roles](automation/workflow/045-control_center_application_roles_a4032d54/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.237.001/CONTROL_CENTER_APPLICATION_ROLES.md) | ⭐ 110 | `automation` |
 | [Workflow Pdf Viewer Height Fix](automation/workflow/046-workflow_pdf_viewer_height_fix_0128d69a/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/WORKFLOW_PDF_VIEWER_HEIGHT_FIX.md) | ⭐ 110 | `automation` |
-| [Extraction Patterns](automation/workflow/extraction-patterns_600795b3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/references/extraction-patterns.md) | ⭐ 14 | `automation` |
-| [Best Practices](automation/workflow/best-practices_f98e5931/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/best-practices.md) | ⭐ 14 | `automation` |
-| [Methodology](automation/workflow/methodology_cf22d359/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/methodology.md) | ⭐ 14 | `automation` |
-| [Sources](automation/workflow/sources_69764b17/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/SOURCES.md) | ⭐ 14 | `automation` |
+| [Extraction Patterns](automation/workflow/047-extraction-patterns_600795b3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/references/extraction-patterns.md) | ⭐ 14 | `automation` |
+| [Best Practices](automation/workflow/048-best-practices_f98e5931/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/best-practices.md) | ⭐ 14 | `automation` |
+| [Methodology](automation/workflow/049-methodology_cf22d359/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/methodology.md) | ⭐ 14 | `automation` |
 
-### Commercial (459 skills)
+### Commercial (456 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1127,19 +1125,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Network Security Incident Response](commercial/271-network_security_incident_response_fe1dd1e0/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/IT/Network_Security_Incident_Response.md) | ⭐ 110 | `commercial` |
 | [System Backup Recovery Procedures](commercial/272-system_backup_recovery_procedures_e5745225/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/IT/System_Backup_Recovery_Procedures.md) | ⭐ 110 | `commercial` |
 | [Hardware Software Support Procedures](commercial/273-hardware_software_support_procedures_24d9d96f/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/Service_Desk/Hardware_Software_Support_Procedures.md) | ⭐ 110 | `commercial` |
-| [Master Mental Models](commercial/master-mental-models_f5a5624d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/master-mental-models.md) | ⭐ 14 | `commercial` |
-| [Business Model Canvas](commercial/business-model-canvas_dedaa429/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/references/business-model-canvas.md) | ⭐ 14 | `commercial` |
-| [Idea Pipeline](commercial/idea-pipeline_05adb805/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/idea-pipeline.md) | ⭐ 14 | `commercial` |
-| [Techniques](commercial/techniques_1b8b80c5/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/techniques.md) | ⭐ 14 | `commercial` |
-| [Gestalt](commercial/gestalt_d9df8f3f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/gestalt.md) | ⭐ 14 | `commercial` |
-| [Customer](commercial/customer_8333b7a1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/customer.md) | ⭐ 14 | `commercial` |
-| [Risk Stakeholder](commercial/risk-stakeholder_342381a4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/risk-stakeholder.md) | ⭐ 14 | `commercial` |
-| [Common Pitfalls](commercial/common-pitfalls_9be6a90d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/common-pitfalls.md) | ⭐ 14 | `commercial` |
-| [40 Principles](commercial/40-principles_d16f9835/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/40-principles.md) | ⭐ 14 | `commercial` |
-| [Sources](commercial/sources_61b77c2e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SOURCES.md) | ⭐ 14 | `commercial` |
-| [Sources](commercial/sources_37586618/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SOURCES.md) | ⭐ 14 | `commercial` |
-| [Lean Canvas](commercial/lean-canvas_dbdadfdf/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/references/lean-canvas.md) | ⭐ 14 | `commercial` |
-| [Diagnosis Guide](commercial/diagnosis-guide_b48806e9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/diagnosis-guide.md) | ⭐ 14 | `commercial` |
+| [Master Mental Models](commercial/274-master-mental-models_f5a5624d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/master-mental-models.md) | ⭐ 14 | `commercial` |
+| [Business Model Canvas](commercial/275-business-model-canvas_dedaa429/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/references/business-model-canvas.md) | ⭐ 14 | `commercial` |
+| [Idea Pipeline](commercial/276-idea-pipeline_05adb805/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/idea-pipeline.md) | ⭐ 14 | `commercial` |
+| [Techniques](commercial/277-techniques_1b8b80c5/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/techniques.md) | ⭐ 14 | `commercial` |
+| [Gestalt](commercial/278-gestalt_d9df8f3f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/gestalt.md) | ⭐ 14 | `commercial` |
+| [Customer](commercial/279-customer_8333b7a1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/customer.md) | ⭐ 14 | `commercial` |
+| [Risk Stakeholder](commercial/280-risk-stakeholder_342381a4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/risk-stakeholder.md) | ⭐ 14 | `commercial` |
+| [Common Pitfalls](commercial/281-common-pitfalls_9be6a90d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/common-pitfalls.md) | ⭐ 14 | `commercial` |
+| [40 Principles](commercial/282-40-principles_d16f9835/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/40-principles.md) | ⭐ 14 | `commercial` |
+| [01 Architecture](commercial/01-architecture_cf6896ca/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 861 | `commercial` |
 
 ### Communication (243 skills)
 
@@ -1386,10 +1381,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Employee Onboarding Offboarding Process](communication/174-employee_onboarding_offboarding_process_b697ed21/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/HR/Employee_Onboarding_Offboarding_Process.md) | ⭐ 110 | `communication` |
 | [Ticket Management Resolution Process](communication/175-ticket_management_resolution_process_c2d1d4ff/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/Service_Desk/Ticket_Management_Resolution_Process.md) | ⭐ 110 | `communication` |
 | [User Access Password Management](communication/176-user_access_password_management_21473288/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/Service_Desk/User_Access_Password_Management.md) | ⭐ 110 | `communication` |
-| [Skill](communication/name-skill_4b2e95f0/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
-| [Checklist](communication/checklist_7165eb4b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/checklist.md) | ⭐ 14 | `communication` |
+| [Skill](communication/127-name-skill_4b2e95f0/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
+| [Checklist](communication/177-checklist_7165eb4b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/checklist.md) | ⭐ 14 | `communication` |
 
-### Content Creation (396 skills)
+### Content Creation (389 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1765,30 +1760,23 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pdf Embedding Token Tracking Fix](content-creation/198-pdf_embedding_token_tracking_fix_ab2e8d78/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PDF_EMBEDDING_TOKEN_TRACKING_FIX.md) | ⭐ 110 | `content creation` |
 | [Revenue Variance Analysis (Rva) Agent Instructions](content-creation/199-revenue-variance-analysis-rva-agent-instructions_0394d0ae/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/agents/Revenue%20Variance%20Analysis/Revenue%20Variance%20Analysis%20(RVA)%20Agent%20Instructions.md) | ⭐ 110 | `content creation` |
 | [Knowledge Base Management Documentation](content-creation/200-knowledge_base_management_documentation_3e0cc73e/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/Service_Desk/Knowledge_Base_Management_Documentation.md) | ⭐ 110 | `content creation` |
-| [Sources](content-creation/sources_cb8448cf/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/SOURCES.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_101c2564/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_9ab51ecc/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/SKILL.md) | ⭐ 14 | `content creation` |
-| [Sources](content-creation/sources_fd189bf6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SOURCES.md) | ⭐ 14 | `content creation` |
-| [Graphic Design](content-creation/graphic-design_5f895ac4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/graphic-design.md) | ⭐ 14 | `content creation` |
-| [Prompt Formats](content-creation/prompt-formats_496ff34b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/prompt-formats.md) | ⭐ 14 | `content creation` |
-| [Sexy Photography Cultures](content-creation/sexy-photography-cultures_c2065b0d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/sexy-photography-cultures.md) | ⭐ 14 | `content creation` |
-| [Sora2](content-creation/sora2_e4541223/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/sora2.md) | ⭐ 14 | `content creation` |
-| [Wan 2 2](content-creation/wan-2-2_6fb679ff/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/wan-2-2.md) | ⭐ 14 | `content creation` |
-| [Content Ideation](content-creation/content-ideation_b63dbfb2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/content-ideation.md) | ⭐ 14 | `content creation` |
-| [Methodology](content-creation/methodology_73913aab/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/methodology.md) | ⭐ 14 | `content creation` |
-| [Research 2 Combinations](content-creation/research-2-combinations_826ff615/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-2-combinations.md) | ⭐ 14 | `content creation` |
-| [Research 3 Content Creators](content-creation/research-3-content-creators_8bff93b2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-3-content-creators.md) | ⭐ 14 | `content creation` |
-| [Research 4 Ai Creativity](content-creation/research-4-ai-creativity_0cc8375e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-4-ai-creativity.md) | ⭐ 14 | `content creation` |
-| [Layouts](content-creation/layouts_c6c2ed4d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/layouts.md) | ⭐ 14 | `content creation` |
-| [Platforms](content-creation/platforms_2af3d28b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/platforms.md) | ⭐ 14 | `content creation` |
-| [Evaluation](content-creation/evaluation_ba498384/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/evaluation.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_d78c9d23/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_a158e791/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/geometric-elements/SKILL.md) | ⭐ 14 | `content creation` |
-| [Cinematography](content-creation/cinematography_1b00fd1b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/cinematography.md) | ⭐ 14 | `content creation` |
-| [Slide Backgrounds](content-creation/slide-backgrounds_54db013f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/slide-backgrounds.md) | ⭐ 14 | `content creation` |
-| [Styles Glossary](content-creation/styles-glossary_db5eec20/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/styles-glossary.md) | ⭐ 14 | `content creation` |
-| [Report Template](content-creation/report_template_bf4adeea/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/assets/report_template.md) | ⭐ 14 | `content creation` |
-| [Creative Mode](content-creation/creative-mode_5adc473e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/creative-mode.md) | ⭐ 14 | `content creation` |
+| [Sources](content-creation/091-sources_cb8448cf/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/SOURCES.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_101c2564/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_9ab51ecc/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/SKILL.md) | ⭐ 14 | `content creation` |
+| [Sources](content-creation/091-sources_fd189bf6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SOURCES.md) | ⭐ 14 | `content creation` |
+| [Graphic Design](content-creation/201-graphic-design_5f895ac4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/graphic-design.md) | ⭐ 14 | `content creation` |
+| [Prompt Formats](content-creation/202-prompt-formats_496ff34b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/prompt-formats.md) | ⭐ 14 | `content creation` |
+| [Sexy Photography Cultures](content-creation/203-sexy-photography-cultures_c2065b0d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/sexy-photography-cultures.md) | ⭐ 14 | `content creation` |
+| [Sora2](content-creation/204-sora2_e4541223/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/sora2.md) | ⭐ 14 | `content creation` |
+| [Wan 2 2](content-creation/205-wan-2-2_6fb679ff/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/wan-2-2.md) | ⭐ 14 | `content creation` |
+| [Content Ideation](content-creation/206-content-ideation_b63dbfb2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/content-ideation.md) | ⭐ 14 | `content creation` |
+| [Methodology](content-creation/207-methodology_73913aab/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/methodology.md) | ⭐ 14 | `content creation` |
+| [Research 2 Combinations](content-creation/208-research-2-combinations_826ff615/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-2-combinations.md) | ⭐ 14 | `content creation` |
+| [Research 3 Content Creators](content-creation/209-research-3-content-creators_8bff93b2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-3-content-creators.md) | ⭐ 14 | `content creation` |
+| [Research 4 Ai Creativity](content-creation/210-research-4-ai-creativity_0cc8375e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-4-ai-creativity.md) | ⭐ 14 | `content creation` |
+| [Layouts](content-creation/211-layouts_c6c2ed4d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/layouts.md) | ⭐ 14 | `content creation` |
+| [Platforms](content-creation/212-platforms_2af3d28b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/platforms.md) | ⭐ 14 | `content creation` |
+| [Evaluation](content-creation/213-evaluation_ba498384/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/evaluation.md) | ⭐ 14 | `content creation` |
 
 ### Daily Assistant (240 skills)
 
@@ -2031,11 +2019,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Planner](daily-assistant/154-planner_4a8dfd3e/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/mp-cover-generator/node_modules/playwright/lib/agents/planner.md) | ⭐ 71 | `daily assistant` |
 | [Retention Policy Scheduler Fix](daily-assistant/155-retention_policy_scheduler_fix_b9654dce/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.025/RETENTION_POLICY_SCHEDULER_FIX.md) | ⭐ 110 | `daily assistant` |
 | [Performance Management Review Process](daily-assistant/156-performance_management_review_process_2d4cbbea/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/HR/Performance_Management_Review_Process.md) | ⭐ 110 | `daily assistant` |
-| [Sources](daily-assistant/sources_129a2862/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SOURCES.md) | ⭐ 14 | `daily assistant` |
-| [Progress Recovery](daily-assistant/progress-recovery_3b4f55ec/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/progress-recovery.md) | ⭐ 14 | `daily assistant` |
-| [Techniques](daily-assistant/techniques_54be0c3d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/techniques.md) | ⭐ 14 | `daily assistant` |
+| [Sources](daily-assistant/157-sources_129a2862/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SOURCES.md) | ⭐ 14 | `daily assistant` |
+| [Progress Recovery](daily-assistant/158-progress-recovery_3b4f55ec/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/progress-recovery.md) | ⭐ 14 | `daily assistant` |
+| [Techniques](daily-assistant/159-techniques_54be0c3d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/techniques.md) | ⭐ 14 | `daily assistant` |
 
-### Data Analysis (735 skills)
+### Data Analysis (726 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2751,31 +2739,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Sidebar Group Badge Fix](data-analysis/322-sidebar_group_badge_fix_775027fe/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/SIDEBAR_GROUP_BADGE_FIX.md) | ⭐ 110 | `data analysis` |
 | [Vision Analysis Debug Logging](data-analysis/323-vision_analysis_debug_logging_76e447a8/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/VISION_ANALYSIS_DEBUG_LOGGING.md) | ⭐ 110 | `data analysis` |
 | [Annual Report  Management Report](data-analysis/324-annual-report-management-report_ed1a9bcc/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/agents/Fraud%20Analysis/Markdown/Annual%20Report%20%20Management%20Report.md) | ⭐ 110 | `data analysis` |
-| [Security Audit](data-analysis/security-audit_40f90ca4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/SECURITY-AUDIT.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_c385b5ef/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/create-visualization/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_aa108e49/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_48e3ed97/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Enhancement Log](data-analysis/enhancement-log_ee41afdd/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/enhancement-log.md) | ⭐ 14 | `data analysis` |
-| [Z Image Turbo](data-analysis/z-image-turbo_261dff90/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/z-image-turbo.md) | ⭐ 14 | `data analysis` |
-| [Skill Structure Guide](data-analysis/skill-structure-guide_b4996cbf/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/references/skill-structure-guide.md) | ⭐ 14 | `data analysis` |
-| [Pixie Api](data-analysis/pixie-api_8720bc2b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/geometric-elements/references/pixie-api.md) | ⭐ 14 | `data analysis` |
-| [Presentation Design](data-analysis/presentation-design_33da5791/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/presentation-design.md) | ⭐ 14 | `data analysis` |
-| [Strategic Analysis](data-analysis/strategic-analysis_f1a108e5/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/strategic-analysis.md) | ⭐ 14 | `data analysis` |
-| [Multi Row Headers](data-analysis/multi-row-headers_5eb7537a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/multi-row-headers.md) | ⭐ 14 | `data analysis` |
-| [Transformation Patterns](data-analysis/transformation-patterns_e383b8f7/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/transformation-patterns.md) | ⭐ 14 | `data analysis` |
-| [Advanced](data-analysis/advanced_e1d3d7a9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/advanced.md) | ⭐ 14 | `data analysis` |
-| [Sources](data-analysis/sources_8b7e5201/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/create-visualization/SOURCES.md) | ⭐ 14 | `data analysis` |
-| [Nano Banana Pro](data-analysis/nano-banana-pro_4a7c96b9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/nano-banana-pro.md) | ⭐ 14 | `data analysis` |
-| [Style Bourdin Newton Orange](data-analysis/style-bourdin-newton-orange_43ff5c37/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/style-bourdin-newton-orange.md) | ⭐ 14 | `data analysis` |
-| [Style Library](data-analysis/style-library_e7334833/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/style-library.md) | ⭐ 14 | `data analysis` |
-| [Visual Fundamentals](data-analysis/visual-fundamentals_42d6628e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/visual-fundamentals.md) | ⭐ 14 | `data analysis` |
-| [Manim Guide](data-analysis/manim-guide_8e50c15e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/create-visualization/references/manim-guide.md) | ⭐ 14 | `data analysis` |
-| [Research 5 Templates](data-analysis/research-5-templates_4000abde/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-5-templates.md) | ⭐ 14 | `data analysis` |
-| [Color Theory](data-analysis/color-theory_8e8779ed/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/color-theory.md) | ⭐ 14 | `data analysis` |
-| [Competitive](data-analysis/competitive_14507672/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/competitive.md) | ⭐ 14 | `data analysis` |
-| [Examples](data-analysis/examples_599e056f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/examples.md) | ⭐ 14 | `data analysis` |
+| [Security Audit](data-analysis/325-security-audit_40f90ca4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/SECURITY-AUDIT.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c385b5ef/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/create-visualization/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_aa108e49/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_48e3ed97/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Enhancement Log](data-analysis/326-enhancement-log_ee41afdd/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/enhancement-log.md) | ⭐ 14 | `data analysis` |
+| [Z Image Turbo](data-analysis/327-z-image-turbo_261dff90/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/z-image-turbo.md) | ⭐ 14 | `data analysis` |
+| [Skill Structure Guide](data-analysis/328-skill-structure-guide_b4996cbf/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/references/skill-structure-guide.md) | ⭐ 14 | `data analysis` |
+| [Pixie Api](data-analysis/329-pixie-api_8720bc2b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/geometric-elements/references/pixie-api.md) | ⭐ 14 | `data analysis` |
+| [Presentation Design](data-analysis/330-presentation-design_33da5791/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/presentation-design.md) | ⭐ 14 | `data analysis` |
+| [Strategic Analysis](data-analysis/331-strategic-analysis_f1a108e5/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/strategic-analysis.md) | ⭐ 14 | `data analysis` |
+| [Multi Row Headers](data-analysis/332-multi-row-headers_5eb7537a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/multi-row-headers.md) | ⭐ 14 | `data analysis` |
+| [Transformation Patterns](data-analysis/333-transformation-patterns_e383b8f7/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/transformation-patterns.md) | ⭐ 14 | `data analysis` |
+| [Advanced](data-analysis/334-advanced_e1d3d7a9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/advanced.md) | ⭐ 14 | `data analysis` |
+| [01 Architecture](data-analysis/01-architecture_fb012b1b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 861 | `data analysis` |
 
-### Development (3060 skills)
+### Development (3056 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5832,15 +5811,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Retention Policy Field Name Fix](development/1878-retention_policy_field_name_fix_a02a44b9/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.005/RETENTION_POLICY_FIELD_NAME_FIX.md) | ⭐ 110 | `development` |
 | [Sidebar Conversations Race Condition Fix](development/1879-sidebar_conversations_race_condition_fix_6ea1068d/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.007/SIDEBAR_CONVERSATIONS_RACE_CONDITION_FIX.md) | ⭐ 110 | `development` |
 | [Expense Reports](development/1880-expense-reports_f4c7bdbf/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/agents/Fraud%20Analysis/Markdown/Expense%20Reports.md) | ⭐ 110 | `development` |
-| [Researcher Thinking](development/researcher-thinking_9a94edb8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/researcher-thinking.md) | ⭐ 14 | `development` |
-| [Methodology](development/methodology_c21596f4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/references/methodology.md) | ⭐ 14 | `development` |
-| [Sources](development/sources_4c86fc24/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/SOURCES.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_96453d8a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/SKILL.md) | ⭐ 14 | `development` |
-| [Typography](development/typography_212b9c35/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/typography.md) | ⭐ 14 | `development` |
-| [System Vs User](development/system-vs-user_37d8a80a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/system-vs-user.md) | ⭐ 14 | `development` |
-| [Examples](development/examples_0e193059/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/examples.md) | ⭐ 14 | `development` |
+| [Researcher Thinking](development/1890-researcher-thinking_9a94edb8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/researcher-thinking.md) | ⭐ 14 | `development` |
+| [Methodology](development/1891-methodology_c21596f4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/references/methodology.md) | ⭐ 14 | `development` |
+| [Agents](development/agents_e01569b4/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/AGENTS.md) | ⭐ 14 | `development` |
 
-### Development/Devops (292 skills)
+### Development/Devops (295 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6165,8 +6140,8 @@ Read more about the new architecture [here` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
 | [Threat Modeling Guide](development/devops/143-threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
-| [Prompt](development/devops/144-prompt_2b302963/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 851 | `development` |
-| [Server Cli Design](development/devops/145-server-cli-design_fb4d1528/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 851 | `development` |
+| [Prompt](development/devops/prompt_dedec6a1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 861 | `development` |
+| [Server Cli Design](development/devops/server-cli-design_9d39c64e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 861 | `development` |
 | [Skill](development/devops/014-name-skill_c8365450/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/mp-cover-generator/SKILL.md) | ⭐ 71 | `development` |
 | [Skill](development/devops/014-name-skill_db178249/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/xiaohuihui-tech-article/Skill.md) | ⭐ 71 | `development` |
 | [Setup Guide](development/devops/146-setup_guide_4c65658b/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/jimeng_mcp_skill/references/setup_guide.md) | ⭐ 71 | `development` |
@@ -6177,8 +6152,11 @@ Read more about the new architecture [here` |
 | [Public Workspace Goto Button Enhancement](development/devops/150-public_workspace_goto_button_enhancement_5295999a/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/PUBLIC_WORKSPACE_GOTO_BUTTON_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Image Generation Model Compatibility Fix](development/devops/151-image_generation_model_compatibility_fix_951565cd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/IMAGE_GENERATION_MODEL_COMPATIBILITY_FIX.md) | ⭐ 110 | `development` |
 | [Software Deployment Process](development/devops/152-software_deployment_process_7ef32a29/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/IT/Software_Deployment_Process.md) | ⭐ 110 | `development` |
-| [Skill](development/devops/name-skill_5c4a4c6d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
-| [Frameworks](development/devops/frameworks_21ee1db1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/frameworks.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/014-name-skill_5c4a4c6d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
+| [Frameworks](development/devops/153-frameworks_21ee1db1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/frameworks.md) | ⭐ 14 | `development` |
+| [Prompt](development/devops/144-prompt_dedec6a1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 861 | `development` |
+| [Server Cli Design](development/devops/145-server-cli-design_9d39c64e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 861 | `development` |
+| [01 Client](development/devops/01-client_e6bb1d78/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-client.md) | ⭐ 861 | `development` |
 
 ### Development/Testing (43 skills)
 
@@ -6228,7 +6206,7 @@ Read more about the new architecture [here` |
 | [Large Api Response Enhancement](development/testing/033-large_api_response_enhancement_510140bd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_API_RESPONSE_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Public Workspace Storage Calculation Fix](development/testing/034-public_workspace_storage_calculation_fix_20807ba7/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PUBLIC_WORKSPACE_STORAGE_CALCULATION_FIX.md) | ⭐ 110 | `development` |
 
-### Development/Tools (300 skills)
+### Development/Tools (301 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6529,11 +6507,12 @@ Read more about the new architecture [here` |
 | [Microphone Permission Management](development/tools/150-microphone_permission_management_7237c21b/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/MICROPHONE_PERMISSION_MANAGEMENT.md) | ⭐ 110 | `development` |
 | [Retention Policy Defaults](development/tools/151-retention_policy_defaults_ec544134/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.237.001/RETENTION_POLICY_DEFAULTS.md) | ⭐ 110 | `development` |
 | [Ai Search Index Management And Agent Settings Fix](development/tools/152-ai_search_index_management_and_agent_settings_fix_d48d3b85/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/AI_SEARCH_INDEX_MANAGEMENT_AND_AGENT_SETTINGS_FIX.md) | ⭐ 110 | `development` |
-| [Skill](development/tools/name-skill_0f882c65/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `development` |
-| [Anti Patterns](development/tools/anti-patterns_8de1c92f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/anti-patterns.md) | ⭐ 14 | `development` |
-| [Advanced](development/tools/advanced_23c9f38e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/advanced.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/002-name-skill_0f882c65/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `development` |
+| [Anti Patterns](development/tools/153-anti-patterns_8de1c92f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/anti-patterns.md) | ⭐ 14 | `development` |
+| [Advanced](development/tools/154-advanced_23c9f38e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/advanced.md) | ⭐ 14 | `development` |
+| [01 Client](development/tools/01-client_452a784a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-client.md) | ⭐ 861 | `development` |
 
-### Investment (47 skills)
+### Investment (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6578,12 +6557,8 @@ Read more about the new architecture [here` |
 | [Reference](investment/023-reference_6826bad6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
 | [Skill](investment/021-name-skill_edc06c22/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/tavily/SKILL.md) | ⭐ 173 | `investment` |
 | [Income Statement (Profit & Loss Statement) For Contoso](investment/024-income-statement-profit-loss-statement-for-contoso_cc984d25/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/agents/Fraud%20Analysis/Markdown/Income%20Statement%20(Profit%20%26%20Loss%20Statement)%20for%20Contoso.md) | ⭐ 110 | `investment` |
-| [Financial](investment/financial_b85f57f8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/financial.md) | ⭐ 14 | `investment` |
-| [Progressive Disclosure](investment/progressive-disclosure_4d6a524e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/progressive-disclosure.md) | ⭐ 14 | `investment` |
-| [Skill](investment/name-skill_7af3743b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/SKILL.md) | ⭐ 14 | `investment` |
-| [Sources](investment/sources_134a920a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/SOURCES.md) | ⭐ 14 | `investment` |
-| [Random Words](investment/random-words_80333895/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/random-words.md) | ⭐ 14 | `investment` |
-| [Growth Strategy](investment/growth-strategy_73a6fd3b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/growth-strategy.md) | ⭐ 14 | `investment` |
+| [Financial](investment/025-financial_b85f57f8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/financial.md) | ⭐ 14 | `investment` |
+| [Progressive Disclosure](investment/026-progressive-disclosure_4d6a524e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/progressive-disclosure.md) | ⭐ 14 | `investment` |
 
 ### Other (43 skills)
 
@@ -6633,7 +6608,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (203 skills)
+### Productivity (200 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6827,21 +6802,18 @@ Read more about the new architecture [here` |
 | [Full Width Chat Support](productivity/115-full_width_chat_support_ed95b413/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/FULL_WIDTH_CHAT_SUPPORT.md) | ⭐ 110 | `productivity` |
 | [Speech To Text Chat Input](productivity/116-speech_to_text_chat_input_03c77a0f/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/SPEECH_TO_TEXT_CHAT_INPUT.md) | ⭐ 110 | `productivity` |
 | [Enhanced Document Metrics Implementation](productivity/117-enhanced_document_metrics_implementation_9c8855c3/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/ENHANCED_DOCUMENT_METRICS_IMPLEMENTATION.md) | ⭐ 110 | `productivity` |
-| [Skill](productivity/name-skill_befa11c8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
-| [Qwen Image](productivity/qwen-image_0566c3c8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/qwen-image.md) | ⭐ 14 | `productivity` |
-| [Value Proposition Canvas](productivity/value-proposition-canvas_d961aa18/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/references/value-proposition-canvas.md) | ⭐ 14 | `productivity` |
-| [Decision Making](productivity/decision-making_16083268/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/decision-making.md) | ⭐ 14 | `productivity` |
-| [Goal Setting](productivity/goal-setting_ccd78305/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/goal-setting.md) | ⭐ 14 | `productivity` |
-| [Model Comparison](productivity/model-comparison_2eb72e14/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/model-comparison.md) | ⭐ 14 | `productivity` |
-| [Coaching](productivity/coaching_1880e062/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/coaching.md) | ⭐ 14 | `productivity` |
-| [Questions](productivity/questions_b3a203e3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/questions.md) | ⭐ 14 | `productivity` |
-| [Techniques](productivity/techniques_a12ac0fe/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/techniques.md) | ⭐ 14 | `productivity` |
-| [39 Parameters](productivity/39-parameters_02ca2cc9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/39-parameters.md) | ⭐ 14 | `productivity` |
-| [Face Styles](productivity/face-styles_1c5f637f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/face-styles.md) | ⭐ 14 | `productivity` |
-| [Prompt Templates](productivity/prompt-templates_e2052cab/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/prompt-templates.md) | ⭐ 14 | `productivity` |
-| [Organizational](productivity/organizational_0117c8ca/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/organizational.md) | ⭐ 14 | `productivity` |
+| [Skill](productivity/093-name-skill_befa11c8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
+| [Qwen Image](productivity/118-qwen-image_0566c3c8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/qwen-image.md) | ⭐ 14 | `productivity` |
+| [Value Proposition Canvas](productivity/119-value-proposition-canvas_d961aa18/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/references/value-proposition-canvas.md) | ⭐ 14 | `productivity` |
+| [Decision Making](productivity/120-decision-making_16083268/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/decision-making.md) | ⭐ 14 | `productivity` |
+| [Goal Setting](productivity/121-goal-setting_ccd78305/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/goal-setting.md) | ⭐ 14 | `productivity` |
+| [Model Comparison](productivity/122-model-comparison_2eb72e14/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/model-comparison.md) | ⭐ 14 | `productivity` |
+| [Coaching](productivity/123-coaching_1880e062/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/coaching.md) | ⭐ 14 | `productivity` |
+| [Questions](productivity/124-questions_b3a203e3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/questions.md) | ⭐ 14 | `productivity` |
+| [Techniques](productivity/125-techniques_a12ac0fe/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/techniques.md) | ⭐ 14 | `productivity` |
+| [39 Parameters](productivity/126-39-parameters_02ca2cc9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/39-parameters.md) | ⭐ 14 | `productivity` |
 
-### Research (317 skills)
+### Research (314 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7147,21 +7119,18 @@ Read more about the new architecture [here` |
 | [Large Pdf Summarization Support](research/184-large_pdf_summarization_support_3d099a69/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_PDF_SUMMARIZATION_SUPPORT.md) | ⭐ 110 | `research` |
 | [Pdf Processing Limits Analysis](research/185-pdf_processing_limits_analysis_2f948f56/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/PDF_PROCESSING_LIMITS_ANALYSIS.md) | ⭐ 110 | `research` |
 | [Group Notification Context Enhancement](research/186-group_notification_context_enhancement_e7291cea/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/GROUP_NOTIFICATION_CONTEXT_ENHANCEMENT.md) | ⭐ 110 | `research` |
-| [Skill](research/name-skill_98daed14/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/SKILL.md) | ⭐ 14 | `research` |
-| [Skill](research/name-skill_2dd5e6f9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/SKILL.md) | ⭐ 14 | `research` |
-| [Sources](research/sources_81a56c60/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/SOURCES.md) | ⭐ 14 | `research` |
-| [Sources](research/sources_117b03b1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/SOURCES.md) | ⭐ 14 | `research` |
-| [Perspective Checklist](research/perspective-checklist_ec77527e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/perspective-checklist.md) | ⭐ 14 | `research` |
-| [Query Framework](research/query-framework_99cbd4d4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/query-framework.md) | ⭐ 14 | `research` |
-| [Standard Mode](research/standard-mode_96976947/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/standard-mode.md) | ⭐ 14 | `research` |
-| [Research 1 Evaluation](research/research-1-evaluation_44dae600/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-1-evaluation.md) | ⭐ 14 | `research` |
-| [Enhancement Log](research/enhancement-log_8eee7ac2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/enhancement-log.md) | ⭐ 14 | `research` |
-| [Workflows](research/workflows_ccf18e8a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/workflows.md) | ⭐ 14 | `research` |
-| [Ai Prompts](research/ai-prompts_4e52c0c6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/ai-prompts.md) | ⭐ 14 | `research` |
-| [Sources](research/sources_3848c84f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/SOURCES.md) | ⭐ 14 | `research` |
-| [Sources](research/sources_14d3e894/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/SOURCES.md) | ⭐ 14 | `research` |
-| [Color Theory](research/color-theory_9e83cf83/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/references/color-theory.md) | ⭐ 14 | `research` |
-| [Agent Templates](research/agent-templates_623279f8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/agent-templates.md) | ⭐ 14 | `research` |
+| [Skill](research/139-name-skill_98daed14/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/SKILL.md) | ⭐ 14 | `research` |
+| [Skill](research/139-name-skill_2dd5e6f9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/SKILL.md) | ⭐ 14 | `research` |
+| [Sources](research/187-sources_81a56c60/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/SOURCES.md) | ⭐ 14 | `research` |
+| [Sources](research/187-sources_117b03b1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/SOURCES.md) | ⭐ 14 | `research` |
+| [Perspective Checklist](research/188-perspective-checklist_ec77527e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/perspective-checklist.md) | ⭐ 14 | `research` |
+| [Query Framework](research/189-query-framework_99cbd4d4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/query-framework.md) | ⭐ 14 | `research` |
+| [Standard Mode](research/190-standard-mode_96976947/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/standard-mode.md) | ⭐ 14 | `research` |
+| [Research 1 Evaluation](research/191-research-1-evaluation_44dae600/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/research/research-1-evaluation.md) | ⭐ 14 | `research` |
+| [Enhancement Log](research/192-enhancement-log_8eee7ac2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/enhancement-log.md) | ⭐ 14 | `research` |
+| [Workflows](research/193-workflows_ccf18e8a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/workflows.md) | ⭐ 14 | `research` |
+| [Ai Prompts](research/194-ai-prompts_4e52c0c6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/ai-prompts.md) | ⭐ 14 | `research` |
+| [Claude](research/claude_cbdef8aa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) | ⭐ 14 | `research` |
 
 ## Repository Structure
 
