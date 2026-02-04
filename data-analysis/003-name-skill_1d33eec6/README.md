@@ -1,0 +1,27 @@
+# Skill
+
+| Property | Value |
+|----------|-------|
+| **Name** | Skill |
+| **Repository** | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/quality-metrics/SKILL.md) (⭐ 191) |
+| **Original Path** | `imaging-mass-cytometry/quality-metrics/SKILL.md` |
+| **Category** | data-analysis |
+| **Subcategory** | visualization |
+| **Tags** | data analysis |
+| **Created** | 2026-01-20 |
+| **Updated** | 2026-01-24 |
+| **File Hash** | `1d33eec662c1a3e6...` |
+
+## Description
+
+python
+import numpy as np
+from scipy import ndimage
+from skimage import io
+
+**Tags:** `data analysis`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/quality-metrics/SKILL.md)*
