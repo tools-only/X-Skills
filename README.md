@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7058 AI-powered skills** organized into 16 categories.
+A curated collection of **7089 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (92 skills)
-- **Automation/Workflow** (106 skills)
+- **Automation/Scripting** (91 skills)
+- **Automation/Workflow** (107 skills)
 - **Commercial** (457 skills)
-- **Communication** (244 skills)
-- **Content Creation** (389 skills)
-- **Daily Assistant** (247 skills)
-- **Data Analysis** (730 skills)
-- **Development** (3073 skills)
-- **Development/Devops** (307 skills)
+- **Communication** (243 skills)
+- **Content Creation** (401 skills)
+- **Daily Assistant** (254 skills)
+- **Data Analysis** (729 skills)
+- **Development** (3081 skills)
+- **Development/Devops** (306 skills)
 - **Development/Testing** (43 skills)
-- **Development/Tools** (327 skills)
-- **Investment** (44 skills)
+- **Development/Tools** (335 skills)
+- **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (200 skills)
 - **Research** (315 skills)
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (92 skills)
+### Automation/Scripting (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -567,11 +567,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Approval Workflow System](automation/scripting/036-approval_workflow_system_f272c98a/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/features/v0.235.001/APPROVAL_WORKFLOW_SYSTEM.md) | ⭐ 110 | `automation` |
 | [Logging Tab Ui Improvement](automation/scripting/037-logging_tab_ui_improvement_eefe5793/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LOGGING_TAB_UI_IMPROVEMENT.md) | ⭐ 110 | `automation` |
 | [Evaluation](automation/scripting/038-evaluation_209cc339/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/generate-creative-ideas/references/evaluation.md) | ⭐ 14 | `automation` |
-| [List](automation/scripting/list_5b76e0fb/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/list.md) | ⭐ 34 | `automation` |
-| [Operands](automation/scripting/operands_100d76d7/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operands.md) | ⭐ 34 | `automation` |
-| [Schedules](automation/scripting/schedules_d93a09e6/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/schedules.md) | ⭐ 34 | `automation` |
+| [List](automation/scripting/039-list_5b76e0fb/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/list.md) | ⭐ 34 | `automation` |
+| [Operands](automation/scripting/040-operands_100d76d7/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operands.md) | ⭐ 34 | `automation` |
 
-### Automation/Workflow (106 skills)
+### Automation/Workflow (107 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -677,10 +676,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Extraction Patterns](automation/workflow/047-extraction-patterns_600795b3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/references/extraction-patterns.md) | ⭐ 14 | `automation` |
 | [Best Practices](automation/workflow/048-best-practices_f98e5931/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/best-practices.md) | ⭐ 14 | `automation` |
 | [Methodology](automation/workflow/049-methodology_cf22d359/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/methodology.md) | ⭐ 14 | `automation` |
-| [Skill](automation/workflow/name-skill_f72d9044/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
-| [Implementation Workflow](automation/workflow/implementation-workflow_16d71200/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/implementation-workflow.md) | ⭐ 34 | `automation` |
-| [Check](automation/workflow/check_7fabdd75/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/check.md) | ⭐ 34 | `automation` |
-| [Pythonic Integration](automation/workflow/pythonic-integration_99811656/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/pythonic-integration.md) | ⭐ 34 | `automation` |
+| [Skill](automation/workflow/002-name-skill_f72d9044/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
+| [Implementation Workflow](automation/workflow/050-implementation-workflow_16d71200/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/implementation-workflow.md) | ⭐ 34 | `automation` |
+| [Discussion 2 Content](automation/workflow/discussion_2_content_97252ffd/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/DISCUSSION_2_CONTENT.md) | 🔥 13.0k | `automation` |
+| [Migration](automation/workflow/migration_2b56cf16/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/MIGRATION.md) | 🔥 13.0k | `automation` |
+| [Plan](automation/workflow/plan_9cf192d7/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/commands/plan.md) | 🔥 13.0k | `automation` |
 
 ### Commercial (457 skills)
 
@@ -1142,9 +1142,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Common Pitfalls](commercial/281-common-pitfalls_9be6a90d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/common-pitfalls.md) | ⭐ 14 | `commercial` |
 | [40 Principles](commercial/282-40-principles_d16f9835/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/40-principles.md) | ⭐ 14 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_cf6896ca/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 861 | `commercial` |
-| [Basic Sensors](commercial/basic-sensors_478ae8d4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/sensors/basic-sensors.md) | ⭐ 34 | `commercial` |
+| [Basic Sensors](commercial/284-basic-sensors_478ae8d4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/sensors/basic-sensors.md) | ⭐ 34 | `commercial` |
 
-### Communication (244 skills)
+### Communication (243 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1391,9 +1391,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [User Access Password Management](communication/176-user_access_password_management_21473288/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/Service_Desk/User_Access_Password_Management.md) | ⭐ 110 | `communication` |
 | [Skill](communication/127-name-skill_4b2e95f0/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
 | [Checklist](communication/177-checklist_7165eb4b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/checklist.md) | ⭐ 14 | `communication` |
-| [Run Status Sensors](communication/run-status-sensors_207e3dab/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/sensors/run-status-sensors.md) | ⭐ 34 | `communication` |
 
-### Content Creation (389 skills)
+### Content Creation (401 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1786,8 +1785,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Layouts](content-creation/211-layouts_c6c2ed4d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/layouts.md) | ⭐ 14 | `content creation` |
 | [Platforms](content-creation/212-platforms_2af3d28b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/platforms.md) | ⭐ 14 | `content creation` |
 | [Evaluation](content-creation/213-evaluation_ba498384/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/evaluation.md) | ⭐ 14 | `content creation` |
+| [Workflow](content-creation/workflow_0fdaa1ed/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/workflow.md) | 🔥 13.0k | `content creation` |
+| [Planning Rules](content-creation/planning-rules_b2025a36/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-rules.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_94e5791a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_f45f3ed6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.adal/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_b20d4af6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codebuddy/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_51a9ec8f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codex/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_0e8cc7f8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.cursor/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_5a473ce1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.factory/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_d7531288/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.gemini/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_12b32071/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_4d3bfb4c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.moltbot/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_185b4a6b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
 
-### Daily Assistant (247 skills)
+### Daily Assistant (254 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2031,15 +2042,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Sources](daily-assistant/157-sources_129a2862/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SOURCES.md) | ⭐ 14 | `daily assistant` |
 | [Progress Recovery](daily-assistant/158-progress-recovery_3b4f55ec/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/progress-recovery.md) | ⭐ 14 | `daily assistant` |
 | [Techniques](daily-assistant/159-techniques_54be0c3d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/techniques.md) | ⭐ 14 | `daily assistant` |
-| [Launch](daily-assistant/launch_ab940180/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/launch.md) | ⭐ 34 | `daily assistant` |
-| [Scaffold](daily-assistant/scaffold_6bc369dd/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/scaffold.md) | ⭐ 34 | `daily assistant` |
-| [Advanced](daily-assistant/advanced_6c8579a9/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/advanced.md) | ⭐ 34 | `daily assistant` |
-| [Core Concepts](daily-assistant/core-concepts_6f6e7a9f/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/core-concepts.md) | ⭐ 34 | `daily assistant` |
-| [Customization](daily-assistant/customization_41c75217/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/customization.md) | ⭐ 34 | `daily assistant` |
-| [Resolvable Components](daily-assistant/resolvable-components_1b2af3ea/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/resolvable-components.md) | ⭐ 34 | `finance` `daily` |
-| [State Backed Components](daily-assistant/state-backed-components_19f16c09/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/integrations-index/references/state-backed-components.md) | ⭐ 34 | `daily assistant` |
+| [Launch](daily-assistant/160-launch_ab940180/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/launch.md) | ⭐ 34 | `daily assistant` |
+| [Scaffold](daily-assistant/161-scaffold_6bc369dd/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/scaffold.md) | ⭐ 34 | `daily assistant` |
+| [Advanced](daily-assistant/162-advanced_6c8579a9/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/advanced.md) | ⭐ 34 | `daily assistant` |
+| [Core Concepts](daily-assistant/163-core-concepts_6f6e7a9f/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/core-concepts.md) | ⭐ 34 | `daily assistant` |
+| [Customization](daily-assistant/164-customization_41c75217/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/customization.md) | ⭐ 34 | `daily assistant` |
+| [Cursor](daily-assistant/cursor_ba407723/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
+| [Factory](daily-assistant/factory_2a3fc948/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/factory.md) | 🔥 13.0k | `daily assistant` |
+| [Quickstart](daily-assistant/quickstart_539b79ee/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
+| [Troubleshooting](daily-assistant/troubleshooting_1b7daf9e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/troubleshooting.md) | 🔥 13.0k | `daily assistant` |
+| [Planning Workflow](daily-assistant/planning-workflow_75d6eb6c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-workflow.md) | 🔥 13.0k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_83d15ed8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.agent/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `daily assistant` |
+| [Reference](daily-assistant/reference_2d1f1134/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/reference.md) | 🔥 13.0k | `daily assistant` |
+| [Start](daily-assistant/start_599ccc72/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/commands/start.md) | 🔥 13.0k | `daily assistant` |
+| [Planning Templates](daily-assistant/planning-templates_48bd4ee5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-templates.md) | 🔥 13.0k | `daily assistant` |
 
-### Data Analysis (730 skills)
+### Data Analysis (729 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2770,11 +2788,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Advanced](data-analysis/334-advanced_e1d3d7a9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/advanced.md) | ⭐ 14 | `data analysis` |
 | [01 Architecture](data-analysis/335-01-architecture_fb012b1b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 861 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_1dcfdd87/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 162 | `data analysis` |
-| [Skill](data-analysis/name-skill_cb5888c8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/SKILL.md) | ⭐ 34 | `data analysis` |
-| [Operators](data-analysis/operators_ef7aded4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operators.md) | ⭐ 34 | `data analysis` |
-| [Asset Key Design](data-analysis/asset-key-design_a0ebd8ba/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/asset-key-design.md) | ⭐ 34 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cb5888c8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/SKILL.md) | ⭐ 34 | `data analysis` |
+| [Operators](data-analysis/336-operators_ef7aded4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operators.md) | ⭐ 34 | `data analysis` |
 
-### Development (3073 skills)
+### Development (3081 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5549,7 +5566,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Python 3.11](development/1514-python-311_17e140a4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/versions/python-3.11.md) | ⭐ 34 | `development` |
 | [Python 3.13](development/1515-python-313_75fa5ef2/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/versions/python-3.13.md) | ⭐ 34 | `development` |
 | [Api Design](development/1516-api-design_18e5c85c/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/references/advanced/api-design.md) | ⭐ 34 | `development` |
-| [Skill](development/name-skill_9ced36e2/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 172 | `development` |
+| [Skill](development/1178-name-skill_fc87016d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/1178-name-skill_8a30649c/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/1178-name-skill_ae968aa5/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 167 | `development` |
 | [Migration Patterns](development/1521-migration-patterns_ca3b9094/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 167 | `development` |
@@ -5845,14 +5862,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_9df5b749/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 22.8k | `development` |
 | [Retry Strategies](development/1357-retry-strategies_d0f56e64/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/agents/retry-strategies.md) | ⭐ 162 | `development` |
 | [Skill](development/1178-name-skill_9ced36e2/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 172 | `development` |
-| [Assets](development/assets_03c0fb18/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/assets.md) | ⭐ 34 | `development` |
-| [Env Vars](development/env-vars_b329efbf/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/env-vars.md) | ⭐ 34 | `development` |
-| [Project Structure](development/project-structure_a6d861a8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/project-structure.md) | ⭐ 34 | `development` |
-| [Dbt Cloud](development/dbt-cloud_0e1b2729/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/dbt-cloud.md) | ⭐ 34 | `development` |
-| [Dependencies](development/dependencies_1abd44a2/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/dependencies.md) | ⭐ 34 | `development` |
-| [Asset Sensors](development/asset-sensors_b180ceab/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/sensors/asset-sensors.md) | ⭐ 34 | `development` |
+| [Assets](development/1511-assets_03c0fb18/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/assets.md) | ⭐ 34 | `development` |
+| [Env Vars](development/1896-env-vars_b329efbf/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/env-vars.md) | ⭐ 34 | `development` |
+| [Project Structure](development/718-project-structure_a6d861a8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/project-structure.md) | ⭐ 34 | `development` |
+| [Contributors](development/contributors_3d6bad46/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/CONTRIBUTORS.md) | 🔥 13.0k | `development` |
+| [Wiki Home Page](development/wiki_home_page_bfb9e112/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/WIKI_HOME_PAGE.md) | 🔥 13.0k | `development` |
+| [Antigravity](development/antigravity_a764ce3d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/antigravity.md) | 🔥 13.0k | `development` |
+| [Codebuddy](development/codebuddy_030cf33e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codebuddy.md) | 🔥 13.0k | `development` |
+| [Gemini](development/gemini_e57e6f09/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/gemini.md) | 🔥 13.0k | `development` |
+| [Installation](development/installation_d8c21bf4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/installation.md) | 🔥 13.0k | `development` |
+| [Skill](development/name-skill_a642741b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
+| [Codex](development/codex_886a69c6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codex.md) | 🔥 13.0k | `development` |
+| [Kilocode](development/kilocode_94a433f9/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kilocode.md) | 🔥 13.0k | `development` |
+| [Opencode](development/opencode_36d3806f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/opencode.md) | 🔥 13.0k | `development` |
+| [Examples](development/examples_2b08cd4d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/examples.md) | 🔥 13.0k | `development` |
 
-### Development/Devops (307 skills)
+### Development/Devops (306 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6204,8 +6229,7 @@ Read more about the new architecture [here` |
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_abee7b25/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_03cd8bd5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_110bbfa5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
-| [Api](development/devops/api_c5f3b477/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/api.md) | ⭐ 34 | `development` |
-| [Component Based Integration](development/devops/component-based-integration_30f0fd6f/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/component-based-integration.md) | ⭐ 34 | `development` |
+| [Api](development/devops/165-api_c5f3b477/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/api.md) | ⭐ 34 | `development` |
 
 ### Development/Testing (43 skills)
 
@@ -6255,7 +6279,7 @@ Read more about the new architecture [here` |
 | [Large Api Response Enhancement](development/testing/033-large_api_response_enhancement_510140bd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_API_RESPONSE_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Public Workspace Storage Calculation Fix](development/testing/034-public_workspace_storage_calculation_fix_20807ba7/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PUBLIC_WORKSPACE_STORAGE_CALCULATION_FIX.md) | ⭐ 110 | `development` |
 
-### Development/Tools (327 skills)
+### Development/Tools (335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6586,8 +6610,16 @@ Read more about the new architecture [here` |
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_746336fe/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_784918c0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_e4b1c2f9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Continue](development/tools/continue_24658b6a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/continue.md) | 🔥 13.0k | `development` |
+| [Kiro](development/tools/kiro_ca762c38/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kiro.md) | 🔥 13.0k | `development` |
+| [Openclaw](development/tools/openclaw_7579bdf3/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/openclaw.md) | 🔥 13.0k | `development` |
+| [Pi Agent](development/tools/pi-agent_b47b0a52/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/pi-agent.md) | 🔥 13.0k | `development` |
+| [Skill](development/tools/name-skill_a1d57a3b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.pi/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
+| [Enhancement Modes](development/tools/enhancement_modes_38c78ea3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) | 🔥 8.9k | `development` |
+| [Adal](development/tools/adal_b7261a5d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/adal.md) | 🔥 13.0k | `development` |
+| [Windows](development/tools/windows_f285eed1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/windows.md) | 🔥 13.0k | `development` |
 
-### Investment (44 skills)
+### Investment (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6634,7 +6666,6 @@ Read more about the new architecture [here` |
 | [Income Statement (Profit & Loss Statement) For Contoso](investment/024-income-statement-profit-loss-statement-for-contoso_cc984d25/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/agents/Fraud%20Analysis/Markdown/Income%20Statement%20(Profit%20%26%20Loss%20Statement)%20for%20Contoso.md) | ⭐ 110 | `investment` |
 | [Financial](investment/025-financial_b85f57f8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/financial.md) | ⭐ 14 | `investment` |
 | [Progressive Disclosure](investment/026-progressive-disclosure_4d6a524e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/progressive-disclosure.md) | ⭐ 14 | `investment` |
-| [Asset Selection](investment/asset-selection_8301ba75/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/asset-selection.md) | ⭐ 34 | `investment` |
 
 ### Other (43 skills)
 
@@ -7207,7 +7238,7 @@ Read more about the new architecture [here` |
 | [Workflows](research/193-workflows_ccf18e8a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/workflows.md) | ⭐ 14 | `research` |
 | [Ai Prompts](research/194-ai-prompts_4e52c0c6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/ai-prompts.md) | ⭐ 14 | `research` |
 | [Claude](research/015-claude_cbdef8aa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) | ⭐ 14 | `research` |
-| [Asset Checks](research/asset-checks_dba80fcc/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/asset-checks.md) | ⭐ 34 | `research` |
+| [Asset Checks](research/195-asset-checks_dba80fcc/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/asset-checks.md) | ⭐ 34 | `research` |
 
 ## Repository Structure
 
