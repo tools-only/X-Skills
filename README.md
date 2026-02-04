@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7089 AI-powered skills** organized into 16 categories.
+A curated collection of **7091 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -14,12 +14,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (457 skills)
 - **Communication** (243 skills)
 - **Content Creation** (401 skills)
-- **Daily Assistant** (254 skills)
+- **Daily Assistant** (258 skills)
 - **Data Analysis** (729 skills)
-- **Development** (3081 skills)
+- **Development** (3080 skills)
 - **Development/Devops** (306 skills)
 - **Development/Testing** (43 skills)
-- **Development/Tools** (335 skills)
+- **Development/Tools** (334 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (200 skills)
@@ -678,9 +678,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Methodology](automation/workflow/049-methodology_cf22d359/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/methodology.md) | ⭐ 14 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f72d9044/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
 | [Implementation Workflow](automation/workflow/050-implementation-workflow_16d71200/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/implementation-workflow.md) | ⭐ 34 | `automation` |
-| [Discussion 2 Content](automation/workflow/discussion_2_content_97252ffd/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/DISCUSSION_2_CONTENT.md) | 🔥 13.0k | `automation` |
-| [Migration](automation/workflow/migration_2b56cf16/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/MIGRATION.md) | 🔥 13.0k | `automation` |
-| [Plan](automation/workflow/plan_9cf192d7/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/commands/plan.md) | 🔥 13.0k | `automation` |
+| [Discussion 2 Content](automation/workflow/051-discussion_2_content_97252ffd/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/DISCUSSION_2_CONTENT.md) | 🔥 13.0k | `automation` |
+| [Migration](automation/workflow/052-migration_2b56cf16/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/MIGRATION.md) | 🔥 13.0k | `automation` |
+| [Plan](automation/workflow/053-plan_9cf192d7/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/commands/plan.md) | 🔥 13.0k | `automation` |
 
 ### Commercial (457 skills)
 
@@ -1785,20 +1785,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Layouts](content-creation/211-layouts_c6c2ed4d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/graphic-designer/references/layouts.md) | ⭐ 14 | `content creation` |
 | [Platforms](content-creation/212-platforms_2af3d28b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/platforms.md) | ⭐ 14 | `content creation` |
 | [Evaluation](content-creation/213-evaluation_ba498384/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/evaluation.md) | ⭐ 14 | `content creation` |
-| [Workflow](content-creation/workflow_0fdaa1ed/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/workflow.md) | 🔥 13.0k | `content creation` |
-| [Planning Rules](content-creation/planning-rules_b2025a36/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-rules.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_94e5791a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_f45f3ed6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.adal/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_b20d4af6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codebuddy/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_51a9ec8f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codex/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_0e8cc7f8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.cursor/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_5a473ce1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.factory/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_d7531288/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.gemini/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_12b32071/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_4d3bfb4c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.moltbot/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_185b4a6b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Workflow](content-creation/079-workflow_0fdaa1ed/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/workflow.md) | 🔥 13.0k | `content creation` |
+| [Planning Rules](content-creation/214-planning-rules_b2025a36/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-rules.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_94e5791a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_f45f3ed6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.adal/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_b20d4af6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codebuddy/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_51a9ec8f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codex/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_0e8cc7f8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.cursor/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_5a473ce1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.factory/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_d7531288/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.gemini/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_12b32071/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_4d3bfb4c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.moltbot/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_185b4a6b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
 
-### Daily Assistant (254 skills)
+### Daily Assistant (258 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2047,15 +2047,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Advanced](daily-assistant/162-advanced_6c8579a9/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/advanced.md) | ⭐ 34 | `daily assistant` |
 | [Core Concepts](daily-assistant/163-core-concepts_6f6e7a9f/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/core-concepts.md) | ⭐ 34 | `daily assistant` |
 | [Customization](daily-assistant/164-customization_41c75217/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/customization.md) | ⭐ 34 | `daily assistant` |
-| [Cursor](daily-assistant/cursor_ba407723/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
-| [Factory](daily-assistant/factory_2a3fc948/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/factory.md) | 🔥 13.0k | `daily assistant` |
-| [Quickstart](daily-assistant/quickstart_539b79ee/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
-| [Troubleshooting](daily-assistant/troubleshooting_1b7daf9e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/troubleshooting.md) | 🔥 13.0k | `daily assistant` |
-| [Planning Workflow](daily-assistant/planning-workflow_75d6eb6c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-workflow.md) | 🔥 13.0k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_83d15ed8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.agent/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `daily assistant` |
-| [Reference](daily-assistant/reference_2d1f1134/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/reference.md) | 🔥 13.0k | `daily assistant` |
-| [Start](daily-assistant/start_599ccc72/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/commands/start.md) | 🔥 13.0k | `daily assistant` |
-| [Planning Templates](daily-assistant/planning-templates_48bd4ee5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-templates.md) | 🔥 13.0k | `daily assistant` |
+| [Cursor](daily-assistant/165-cursor_ba407723/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
+| [Factory](daily-assistant/166-factory_2a3fc948/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/factory.md) | 🔥 13.0k | `daily assistant` |
+| [Quickstart](daily-assistant/quickstart_9444f4f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
+| [Troubleshooting](daily-assistant/168-troubleshooting_1b7daf9e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/troubleshooting.md) | 🔥 13.0k | `daily assistant` |
+| [Planning Workflow](daily-assistant/169-planning-workflow_75d6eb6c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-workflow.md) | 🔥 13.0k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_83d15ed8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.agent/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `daily assistant` |
+| [Reference](daily-assistant/109-reference_2d1f1134/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/reference.md) | 🔥 13.0k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c6d69c80/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow-hitl/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_28f14451/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c8fd7348/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Cosmos Config](daily-assistant/cosmos-config_976a881e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/reference/cosmos-config.md) | ⭐ 172 | `daily assistant` |
+| [Migration Checklist](daily-assistant/migration-checklist_2e25a345/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-checklist.md) | ⭐ 172 | `daily assistant` |
+| [Quickstart](daily-assistant/167-quickstart_9444f4f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
 
 ### Data Analysis (729 skills)
 
@@ -2791,7 +2795,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_cb5888c8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Operators](data-analysis/336-operators_ef7aded4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operators.md) | ⭐ 34 | `data analysis` |
 
-### Development (3081 skills)
+### Development (3080 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5569,7 +5573,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_fc87016d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/1178-name-skill_8a30649c/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/1178-name-skill_ae968aa5/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 167 | `development` |
-| [Migration Patterns](development/1521-migration-patterns_ca3b9094/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 167 | `development` |
+| [Migration Patterns](development/migration-patterns_b7fd5455/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 172 | `development` |
 | [Agents](development/028-agents_50de0d30/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/AGENTS.md) | ⭐ 10 | `development` |
 | [Agents](development/028-agents_9c79d7bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/setups/AGENTS.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_523c8960/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-ts-migration/SKILL.md) | ⭐ 10 | `development` |
@@ -5865,17 +5869,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Assets](development/1511-assets_03c0fb18/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/assets.md) | ⭐ 34 | `development` |
 | [Env Vars](development/1896-env-vars_b329efbf/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/env-vars.md) | ⭐ 34 | `development` |
 | [Project Structure](development/718-project-structure_a6d861a8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/project-structure.md) | ⭐ 34 | `development` |
-| [Contributors](development/contributors_3d6bad46/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/CONTRIBUTORS.md) | 🔥 13.0k | `development` |
-| [Wiki Home Page](development/wiki_home_page_bfb9e112/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/WIKI_HOME_PAGE.md) | 🔥 13.0k | `development` |
-| [Antigravity](development/antigravity_a764ce3d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/antigravity.md) | 🔥 13.0k | `development` |
-| [Codebuddy](development/codebuddy_030cf33e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codebuddy.md) | 🔥 13.0k | `development` |
-| [Gemini](development/gemini_e57e6f09/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/gemini.md) | 🔥 13.0k | `development` |
-| [Installation](development/installation_d8c21bf4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/installation.md) | 🔥 13.0k | `development` |
-| [Skill](development/name-skill_a642741b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
-| [Codex](development/codex_886a69c6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codex.md) | 🔥 13.0k | `development` |
-| [Kilocode](development/kilocode_94a433f9/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kilocode.md) | 🔥 13.0k | `development` |
-| [Opencode](development/opencode_36d3806f/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/opencode.md) | 🔥 13.0k | `development` |
-| [Examples](development/examples_2b08cd4d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/examples.md) | 🔥 13.0k | `development` |
+| [Contributors](development/1897-contributors_3d6bad46/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/CONTRIBUTORS.md) | 🔥 13.0k | `development` |
+| [Wiki Home Page](development/1898-wiki_home_page_bfb9e112/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/WIKI_HOME_PAGE.md) | 🔥 13.0k | `development` |
+| [Antigravity](development/1899-antigravity_a764ce3d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/antigravity.md) | 🔥 13.0k | `development` |
+| [Codebuddy](development/1900-codebuddy_030cf33e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codebuddy.md) | 🔥 13.0k | `development` |
+| [Gemini](development/1371-gemini_e57e6f09/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/gemini.md) | 🔥 13.0k | `development` |
+| [Installation](development/474-installation_d8c21bf4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/installation.md) | 🔥 13.0k | `development` |
+| [Skill](development/1178-name-skill_a642741b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
+| [Cosmos Config](development/cosmos-config_97dfb376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/reference/cosmos-config.md) | ⭐ 172 | `development` |
+| [Migration Patterns](development/1521-migration-patterns_b7fd5455/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 172 | `development` |
+| [Kilocode](development/kilocode_cbecd60a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kilocode.md) | 🔥 13.0k | `development` |
 
 ### Development/Devops (306 skills)
 
@@ -6279,7 +6282,7 @@ Read more about the new architecture [here` |
 | [Large Api Response Enhancement](development/testing/033-large_api_response_enhancement_510140bd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_API_RESPONSE_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Public Workspace Storage Calculation Fix](development/testing/034-public_workspace_storage_calculation_fix_20807ba7/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PUBLIC_WORKSPACE_STORAGE_CALCULATION_FIX.md) | ⭐ 110 | `development` |
 
-### Development/Tools (335 skills)
+### Development/Tools (334 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6420,7 +6423,7 @@ Read more about the new architecture [here` |
 | [Other](development/tools/072-other_5ab278a2/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/other.md) | ⭐ 34 | `development` |
 | [Api Reference](development/tools/073-api-reference_cf781376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 167 | `development` |
 | [Skill](development/tools/002-name-skill_282df387/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/SKILL.md) | ⭐ 167 | `development` |
-| [Skill](development/tools/002-name-skill_b7dd3526/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 167 | `development` |
+| [Skill](development/tools/name-skill_2efc87d1/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 172 | `development` |
 | [Skill](development/tools/002-name-skill_ae497a6e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/setting-up-astro-project/SKILL.md) | ⭐ 167 | `development` |
 | [Reference](development/tools/074-reference_7222b3bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/REFERENCE.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_b4462054/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 492 | `development` |
@@ -6610,14 +6613,13 @@ Read more about the new architecture [here` |
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_746336fe/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_784918c0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_e4b1c2f9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 22.8k | `development` |
-| [Continue](development/tools/continue_24658b6a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/continue.md) | 🔥 13.0k | `development` |
-| [Kiro](development/tools/kiro_ca762c38/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kiro.md) | 🔥 13.0k | `development` |
-| [Openclaw](development/tools/openclaw_7579bdf3/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/openclaw.md) | 🔥 13.0k | `development` |
-| [Pi Agent](development/tools/pi-agent_b47b0a52/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/pi-agent.md) | 🔥 13.0k | `development` |
-| [Skill](development/tools/name-skill_a1d57a3b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.pi/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
-| [Enhancement Modes](development/tools/enhancement_modes_38c78ea3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) | 🔥 8.9k | `development` |
-| [Adal](development/tools/adal_b7261a5d/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/adal.md) | 🔥 13.0k | `development` |
-| [Windows](development/tools/windows_f285eed1/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/windows.md) | 🔥 13.0k | `development` |
+| [Continue](development/tools/182-continue_24658b6a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/continue.md) | 🔥 13.0k | `development` |
+| [Kiro](development/tools/183-kiro_ca762c38/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kiro.md) | 🔥 13.0k | `development` |
+| [Openclaw](development/tools/184-openclaw_7579bdf3/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/openclaw.md) | 🔥 13.0k | `development` |
+| [Pi Agent](development/tools/185-pi-agent_b47b0a52/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/pi-agent.md) | 🔥 13.0k | `development` |
+| [Skill](development/tools/002-name-skill_a1d57a3b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.pi/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
+| [Enhancement Modes](development/tools/186-enhancement_modes_38c78ea3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) | 🔥 8.9k | `development` |
+| [Skill](development/tools/002-name-skill_2efc87d1/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 172 | `development` |
 
 ### Investment (43 skills)
 
