@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6567 AI-powered skills** organized into 16 categories.
+A curated collection of **6635 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (83 skills)
+- **Automation/Scripting** (85 skills)
 - **Automation/Workflow** (93 skills)
-- **Commercial** (428 skills)
-- **Communication** (211 skills)
-- **Content Creation** (344 skills)
-- **Daily Assistant** (222 skills)
-- **Data Analysis** (689 skills)
-- **Development** (2903 skills)
-- **Development/Devops** (278 skills)
+- **Commercial** (429 skills)
+- **Communication** (217 skills)
+- **Content Creation** (356 skills)
+- **Daily Assistant** (228 skills)
+- **Data Analysis** (693 skills)
+- **Development** (2932 skills)
+- **Development/Devops** (280 skills)
 - **Development/Testing** (33 skills)
-- **Development/Tools** (286 skills)
-- **Investment** (39 skills)
+- **Development/Tools** (291 skills)
+- **Investment** (40 skills)
 - **Other** (43 skills)
 - **Productivity** (181 skills)
 - **Research** (293 skills)
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (83 skills)
+### Automation/Scripting (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -561,6 +561,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Fixup](automation/scripting/032-ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_feab4ee5/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 15 | `automation` |
 | [Skill](automation/scripting/003-name-skill_0f4b99aa/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 15 | `automation` |
+| [Configuration](automation/scripting/configuration_fd79c6f8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/configuration.md) | ⭐ 173 | `automation` |
+| [Skill](automation/scripting/name-skill_e0fecea2/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/ultrathink/SKILL.md) | ⭐ 173 | `automation` |
 
 ### Automation/Workflow (93 skills)
 
@@ -658,9 +660,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Release Guide](automation/workflow/037-release_guide_99495a39/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/RELEASE_GUIDE.md) | ⭐ 3.9k | `automation` |
 | [Pr Requirements](automation/workflow/038-pr-requirements_03e587e4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-requirements.md) | ⭐ 4.8k | `automation` |
 | [Human In The Loop Ai Agents](automation/workflow/039-human-in-the-loop-ai-agents_5225d5b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/human-in-the-loop-ai-agents.md) | ⭐ 4.8k | `automation` |
-| [Readme.Ja](automation/workflow/readmeja_a25c8ae6/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_a25c8ae6/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
-### Commercial (428 skills)
+### Commercial (429 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1092,8 +1094,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Terraform](commercial/280-terraform_68501fa7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/devops-iac-engineer/reference/terraform.md) | 🔥 19.4k | `commercial` |
 | [Backup Recovery](commercial/281-backup-recovery_577f1644/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/it-operations/reference/backup-recovery.md) | 🔥 19.4k | `commercial` |
 | [Security Operations](commercial/282-security-operations_3a718152/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/security-compliance/reference/security-operations.md) | 🔥 19.4k | `commercial` |
+| [Skill](commercial/name-skill_5c31ad5b/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/upstash-redis-kv/SKILL.md) | ⭐ 173 | `commercial` |
 
-### Communication (211 skills)
+### Communication (217 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1308,8 +1311,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [A2A](communication/148-a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
+| [Skill](communication/name-skill_e8b1d18b/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/SKILL.md) | ⭐ 173 | `communication` |
+| [Skill](communication/name-skill_2ecac669/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gpt-image-1-5/SKILL.md) | ⭐ 173 | `communication` |
+| [Skill](communication/name-skill_ab46e025/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/nano-banana-pro/SKILL.md) | ⭐ 173 | `communication` |
+| [Gmail](communication/gmail_8e6e27a8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/gmail.md) | ⭐ 173 | `communication` |
+| [Property Types](communication/property-types_fe487365/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/property-types.md) | ⭐ 173 | `communication` |
+| [Authentication](communication/authentication_c3bbb872/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/authentication.md) | ⭐ 173 | `communication` |
 
-### Content Creation (344 skills)
+### Content Creation (356 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1656,9 +1665,21 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Repurposing](content-creation/177-repurposing_50688c6e/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/content-strategy/references/repurposing.md) | ⭐ 186 | `content creation` |
 | [Iso13485 Clause Requirements](content-creation/178-iso13485-clause-requirements_8fdb7e76/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/iso13485-clause-requirements.md) | ⭐ 1.6k | `content creation` |
 | [Iso Regulatory Requirements](content-creation/179-iso-regulatory-requirements_62c831f2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/iso-regulatory-requirements.md) | ⭐ 1.6k | `content creation` |
-| [Architecture](content-creation/architecture_58224601/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 55 | `content creation` |
+| [Architecture](content-creation/180-architecture_58224601/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 55 | `content creation` |
+| [Skill](content-creation/name-skill_54851201/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/anki-connect/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/name-skill_354b8335/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/markdown-converter/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/name-skill_cad2c5f9/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/name-skill_a88f8e66/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/SKILL.md) | ⭐ 173 | `content creation` |
+| [Drive Docs](content-creation/drive-docs_6a217ff3/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/drive-docs.md) | ⭐ 173 | `content creation` |
+| [Block Types](content-creation/block-types_c1b601ec/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/block-types.md) | ⭐ 173 | `content creation` |
+| [Filters And Sorts](content-creation/filters-and-sorts_8355c4eb/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/filters-and-sorts.md) | ⭐ 173 | `content creation` |
+| [Search Operators](content-creation/search-operators_3764173d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/search-operators.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/name-skill_7ca220c8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/lorem-ipsum/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/name-skill_a83c9e6c/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/promptify/SKILL.md) | ⭐ 173 | `content creation` |
+| [Troubleshooting](content-creation/troubleshooting_7833185d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/troubleshooting.md) | ⭐ 173 | `content creation` |
+| [Collections Sharing](content-creation/collections-sharing_47b0cebd/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/collections-sharing.md) | ⭐ 173 | `content creation` |
 
-### Daily Assistant (222 skills)
+### Daily Assistant (228 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1884,8 +1905,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Keyword Research Guide](daily-assistant/140-keyword-research-guide_631a6206/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/keyword-research-guide.md) | ⭐ 1.6k | `daily assistant` |
 | [Platform Requirements](daily-assistant/141-platform-requirements_686604da/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/platform-requirements.md) | ⭐ 1.6k | `daily assistant` |
 | [Sprint Planning Guide](daily-assistant/142-sprint-planning-guide_2ae5bb3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/sprint-planning-guide.md) | ⭐ 1.6k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_61a3d2bb/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/SKILL.md) | ⭐ 173 | `daily assistant` |
+| [Calendar](daily-assistant/calendar_abef4156/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/calendar.md) | ⭐ 173 | `daily assistant` |
+| [Command Reference](daily-assistant/command-reference_fee11083/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/command-reference.md) | ⭐ 173 | `daily assistant` |
+| [Other Services](daily-assistant/other-services_213f1169/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/other-services.md) | ⭐ 173 | `daily assistant` |
+| [Completed Tasks](daily-assistant/completed-tasks_d9f35a42/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/references/completed-tasks.md) | ⭐ 173 | `daily assistant` |
+| [Filters](daily-assistant/filters_635b2f5d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/references/filters.md) | ⭐ 173 | `daily assistant` |
 
-### Data Analysis (689 skills)
+### Data Analysis (693 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2578,8 +2605,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Analysis](data-analysis/006-analysis_54a4a61c/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/pdf/analysis.md) | ⭐ 177 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2113a183/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md) | ⭐ 15 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_eb839304/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/SKILL.md) | ⭐ 1.6k | `data analysis` |
+| [Skill](data-analysis/name-skill_2ea48882/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/beautiful-mermaid/SKILL.md) | ⭐ 173 | `data analysis` |
+| [Skill](data-analysis/name-skill_af150871/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/ray-so-code-snippet/SKILL.md) | ⭐ 173 | `data analysis` |
+| [Skill](data-analysis/name-skill_4d4a96b1/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/youtube-transcript/SKILL.md) | ⭐ 173 | `data analysis` |
+| [Mermaid Syntax](data-analysis/mermaid-syntax_3da67ed3/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/beautiful-mermaid/references/mermaid-syntax.md) | ⭐ 173 | `data analysis` |
 
-### Development (2903 skills)
+### Development (2932 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5486,8 +5517,37 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Analysis](development/034-analysis_776e3c68/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/webapp/analysis.md) | ⭐ 177 | `development` |
 | [Cryptography Implementation](development/1732-cryptography-implementation_f9389c5d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/cryptography-implementation.md) | ⭐ 1.6k | `development` |
 | [Risk Analysis Methods](development/1733-risk-analysis-methods_46b56d11/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/risk-analysis-methods.md) | ⭐ 1.6k | `development` |
+| [Claude](development/140-claude_f0d1753e/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/CLAUDE.md) | ⭐ 1.1k | `development` |
+| [Architecture](development/055-architecture_f540191d/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/docs/ARCHITECTURE.md) | ⭐ 1.1k | `development` |
+| [Extending Launcher](development/1735-extending_launcher_59be369d/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/docs/EXTENDING_LAUNCHER.md) | ⭐ 1.1k | `development` |
+| [Fuzzing Quickstart](development/1736-fuzzing_quickstart_8cf21d84/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/docs/FUZZING_QUICKSTART.md) | ⭐ 1.1k | `development` |
+| [Exploitability Validation Integration](development/1737-exploitability-validation-integration_877bd67c/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/docs/exploitability-validation-integration.md) | ⭐ 1.1k | `development` |
+| [Exploit Guidance](development/1738-exploit-guidance_ac8d69a7/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/tiers/exploit-guidance.md) | ⭐ 1.1k | `development` |
+| [Recovery](development/1739-recovery_b83b9c3d/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/tiers/recovery.md) | ⭐ 1.1k | `development` |
+| [Validation Recovery](development/1740-validation-recovery_969a6c89/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/tiers/validation-recovery.md) | ⭐ 1.1k | `development` |
+| [Crash Analyzer Checker Agent](development/1741-crash-analyzer-checker-agent_91b2b528/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/agents/crash-analyzer-checker-agent.md) | ⭐ 1.1k | `development` |
+| [Offsec Specialist](development/1742-offsec-specialist_955b1d0d/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/agents/offsec-specialist.md) | ⭐ 1.1k | `development` |
+| [Oss Hypothesis Former Agent](development/1743-oss-hypothesis-former-agent_4651c71f/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/agents/oss-hypothesis-former-agent.md) | ⭐ 1.1k | `development` |
+| [Oss Investigator Github Agent](development/1744-oss-investigator-github-agent_abdcee2d/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/agents/oss-investigator-github-agent.md) | ⭐ 1.1k | `development` |
+| [Create Skill](development/1745-create-skill_7fb19bc4/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/commands/create-skill.md) | ⭐ 1.1k | `development` |
+| [Exploit](development/1746-exploit_7ba88d2e/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/commands/exploit.md) | ⭐ 1.1k | `development` |
+| [Validate](development/1747-validate_8d70cbfc/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/commands/validate.md) | ⭐ 1.1k | `development` |
+| [Dataflow Visualization](development/1748-dataflow_visualization_ece57754/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/packages/codeql/DATAFLOW_VISUALIZATION.md) | ⭐ 1.1k | `development` |
+| [Phase2 Overview](development/1749-phase2_overview_a828cf5e/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/packages/codeql/PHASE2_OVERVIEW.md) | ⭐ 1.1k | `development` |
+| [Crash Analyst](development/1750-crash_analyst_1125b4cd/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/tiers/personas/crash_analyst.md) | ⭐ 1.1k | `development` |
+| [Exploit Developer](development/1751-exploit_developer_9fc6827b/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/tiers/personas/exploit_developer.md) | ⭐ 1.1k | `development` |
+| [Patch Engineer](development/1752-patch_engineer_55d42474/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/tiers/personas/patch_engineer.md) | ⭐ 1.1k | `development` |
+| [Instructions](development/1753-instructions_a95f86ee/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/exploit-dev/instructions.md) | ⭐ 1.1k | `development` |
+| [Skill](development/1754-multi-skill_5f458d34/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/exploitability-validation/SKILL.md) | ⭐ 1.1k | `development` |
+| [Skill](development/1178-name-skill_93845cfe/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/github-archive/SKILL.md) | ⭐ 1.1k | `development` |
+| [Skill](development/1178-name-skill_ea8d8ff8/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/github-wayback-recovery/SKILL.md) | ⭐ 1.1k | `development` |
+| [Skill](development/1755-you-skill_8328016a/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/orchestration/SKILL.md) | ⭐ 1.1k | `development` |
+| [Skill](development/name-skill_e1c404ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/context7/SKILL.md) | ⭐ 173 | `development` |
+| [Skill](development/name-skill_19722d60/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/mgrep-code-search/SKILL.md) | ⭐ 173 | `development` |
+| [Rich Text](development/rich-text_dc6c6644/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/rich-text.md) | ⭐ 173 | `development` |
+| [Highlights](development/highlights_02ff9038/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/highlights.md) | ⭐ 173 | `development` |
 
-### Development/Devops (278 skills)
+### Development/Devops (280 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5812,6 +5872,8 @@ Read more about the new architecture [here` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
 | [Threat Modeling Guide](development/devops/143-threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
+| [Prompt](development/devops/prompt_2b302963/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 851 | `development` |
+| [Server Cli Design](development/devops/server-cli-design_fb4d1528/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 851 | `development` |
 
 ### Development/Testing (33 skills)
 
@@ -5851,7 +5913,7 @@ Read more about the new architecture [here` |
 | [Agents](development/testing/024-agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_5785ddec/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/AGENTS.md) | ⭐ 44 | `development` |
 
-### Development/Tools (286 skills)
+### Development/Tools (291 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6140,9 +6202,14 @@ Read more about the new architecture [here` |
 | [Authentication](development/tools/176-authentication_9f3ca61a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/mcp-integration/references/authentication.md) | 🔥 19.4k | `development` |
 | [Analysis](development/tools/141-analysis_5fbbd882/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/xlsx/analysis.md) | ⭐ 177 | `development` |
 | [Security Architecture Patterns](development/tools/142-security-architecture-patterns_58afe308/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/security-architecture-patterns.md) | ⭐ 1.6k | `development` |
-| [Skill](development/tools/name-skill_ee83351c/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 55 | `development` |
+| [Skill](development/tools/002-name-skill_ee83351c/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 55 | `development` |
+| [Skill](development/tools/name-skill_fcf2729e/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 173 | `development` |
+| [Cli Agents Mcp](development/tools/cli-agents-mcp_ce14a3de/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/cli-agents-mcp.md) | ⭐ 173 | `development` |
+| [Skill](development/tools/name-skill_f7bb74a5/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/SKILL.md) | ⭐ 173 | `development` |
+| [Event System](development/tools/event-system_76a8e9b2/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/event-system.md) | ⭐ 173 | `development` |
+| [Working Examples](development/tools/working-examples_d5c20c03/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/working-examples.md) | ⭐ 173 | `development` |
 
-### Investment (39 skills)
+### Investment (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6185,6 +6252,7 @@ Read more about the new architecture [here` |
 | [Sources](investment/015-sources_3381ae19/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md) | ⭐ 10 | `investment` |
 | [Usage Guide](investment/022-usage-guide_88e17021/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-stalling/usage-guide.md) | ⭐ 191 | `investment` |
 | [Reference](investment/023-reference_6826bad6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
+| [Skill](investment/name-skill_edc06c22/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/tavily/SKILL.md) | ⭐ 173 | `investment` |
 
 ### Other (43 skills)
 
