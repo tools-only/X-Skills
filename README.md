@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **5782 AI-powered skills** organized into 16 categories.
+A curated collection of **5886 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (76 skills)
-- **Automation/Workflow** (87 skills)
-- **Commercial** (377 skills)
-- **Communication** (200 skills)
-- **Content Creation** (185 skills)
-- **Daily Assistant** (176 skills)
-- **Data Analysis** (640 skills)
-- **Development** (2790 skills)
-- **Development/Devops** (122 skills)
-- **Development/Testing** (23 skills)
-- **Development/Tools** (141 skills)
-- **Investment** (38 skills)
+- **Automation/Scripting** (80 skills)
+- **Automation/Workflow** (91 skills)
+- **Commercial** (383 skills)
+- **Communication** (210 skills)
+- **Content Creation** (193 skills)
+- **Daily Assistant** (180 skills)
+- **Data Analysis** (647 skills)
+- **Development** (2805 skills)
+- **Development/Devops** (129 skills)
+- **Development/Testing** (28 skills)
+- **Development/Tools** (164 skills)
+- **Investment** (41 skills)
 - **Other** (43 skills)
-- **Productivity** (178 skills)
-- **Research** (265 skills)
+- **Productivity** (179 skills)
+- **Research** (272 skills)
 
 ## Skills Directory
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (76 skills)
+### Automation/Scripting (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -554,8 +554,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_6cd52c13/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/checking-freshness/SKILL.md) | ⭐ 167 | `automation` |
 | [Plan](automation/scripting/030-plan_7d85ffe9/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/plan.md) | ⭐ 10 | `automation` |
 | [Contract Errors](automation/scripting/031-contract-errors_38b4aa30/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/troubleshoot-errors/references/contract-errors.md) | ⭐ 10 | `automation` |
+| [Medical Topic](automation/scripting/medical_topic_ea5ce9ca/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/medical_topic.md) | ⭐ 3.9k | `automation` |
+| [Bug Report](automation/scripting/bug_report_e32ce878/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 3.9k | `automation` |
+| [Browsecomp Benchmark Readme](automation/scripting/browsecomp_benchmark_readme_e063cc9d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/benchmarks/browsecomp_benchmark_readme.md) | ⭐ 3.9k | `automation` |
+| [Implementation Guide 241](automation/scripting/implementation_guide_241_5916efa1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/feature_tests/IMPLEMENTATION_GUIDE_241.md) | ⭐ 3.9k | `automation` |
 
-### Automation/Workflow (87 skills)
+### Automation/Workflow (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -646,8 +650,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_b49167d6/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/tracing-downstream-lineage/SKILL.md) | ⭐ 167 | `automation` |
 | [Progress](automation/workflow/034-progress_75fde552/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/progress.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_29de7ef1/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/implement-arc-standards/SKILL.md) | ⭐ 10 | `automation` |
+| [Security Scorecard](automation/workflow/security_scorecard_fed9e50e/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/SECURITY_SCORECARD.md) | ⭐ 3.9k | `automation` |
+| [Ai Code Reviewer Setup](automation/workflow/ai_code_reviewer_setup_9e52b44b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/AI_Code_Reviewer_Setup.md) | ⭐ 3.9k | `automation` |
+| [Release Guide](automation/workflow/release_guide_99495a39/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/RELEASE_GUIDE.md) | ⭐ 3.9k | `automation` |
+| [Test Optimization](automation/workflow/test_optimization_d68154b7/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/TEST_OPTIMIZATION.md) | ⭐ 3.9k | `automation` |
 
-### Commercial (377 skills)
+### Commercial (383 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1028,8 +1036,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Usage Guide](commercial/250-usage-guide_a2315cbd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/kraken-classification/usage-guide.md) | ⭐ 191 | `commercial` |
 | [Skill](commercial/210-name-skill_9c002ecc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/qpcr-primers/SKILL.md) | ⭐ 191 | `commercial` |
 | [Skill](commercial/210-name-skill_c5f9834f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/flux-balance-analysis/SKILL.md) | ⭐ 191 | `commercial` |
+| [Migration Guide V1](commercial/migration_guide_v1_1ac8f2ee/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/MIGRATION_GUIDE_v1.md) | ⭐ 3.9k | `commercial` |
+| [Searxng Setup](commercial/searxng-setup_b5889c65/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SearXNG-Setup.md) | ⭐ 3.9k | `commercial` |
+| [Reference](commercial/reference_a9c6ff9a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/REFERENCE.md) | ⭐ 102 | `commercial` |
+| [Reference](commercial/reference_820dcaa7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/REFERENCE.md) | ⭐ 102 | `commercial` |
+| [Reference](commercial/reference_03a43eea/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/REFERENCE.md) | ⭐ 102 | `commercial` |
+| [Auth](commercial/auth_ffe09360/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/AUTH.md) | ⭐ 102 | `commercial` |
 
-### Communication (200 skills)
+### Communication (210 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1233,8 +1247,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Usage Guide](communication/141-usage-guide_39e3593d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-search/usage-guide.md) | ⭐ 191 | `communication` |
 | [Alerting](communication/142-alerting_96a9dd04/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/alerting.md) | ⭐ 34 | `communication` |
 | [Skill](communication/127-name-skill_4a0e5739/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/profiling-tables/SKILL.md) | ⭐ 167 | `communication` |
+| [Common Issues](communication/common_issues_78a26faf/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/community_benchmark_results/COMMON_ISSUES.md) | ⭐ 3.9k | `communication` |
+| [Notifications](communication/notifications_d933f28e/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/NOTIFICATIONS.md) | ⭐ 3.9k | `communication` |
+| [Notification Flow](communication/notification_flow_5dc95fbc/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/NOTIFICATION_FLOW.md) | ⭐ 3.9k | `communication` |
+| [News Subscriptions](communication/news-subscriptions_f8e25e3a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/news-subscriptions.md) | ⭐ 3.9k | `communication` |
+| [Reference](communication/reference_5eb280b7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Reference](communication/reference_54dd9a98/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Reference](communication/reference_8bbbe41c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Reference](communication/reference_992716b6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/REFERENCE.md) | ⭐ 102 | `communication` |
+| [A2A](communication/a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
+| [Auth](communication/auth_79a77aac/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/slack/AUTH.md) | ⭐ 102 | `communication` |
 
-### Content Creation (185 skills)
+### Content Creation (193 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1423,8 +1447,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Discovery Warehouse](content-creation/113-discovery-warehouse_6a7eea8e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/discovery-warehouse.md) | ⭐ 167 | `content creation` |
 | [Prompt](content-creation/114-prompt_9cd2215f/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/prompt.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_e25e6d7d/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/SKILL.md) | ⭐ 10 | `content creation` |
+| [Reference](content-creation/reference_84a13da2/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_f3a72461/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_fc010cf7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_fbf46c56/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_80465c3e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/mailchimp/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_5a4faf67/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/slack/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_d09b4608/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Detailed Report How To Improve Retrieval Augmented Generation In P](content-creation/detailed_report_how_to_improve_retrieval_augmented_generation_in_p_3a1fcb7a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/detailed_report_how_to_improve_retrieval_augmented_generation_in_p.md) | ⭐ 3.9k | `content creation` |
 
-### Daily Assistant (176 skills)
+### Daily Assistant (180 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1604,8 +1636,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Core State](daily-assistant/106-core-state_26c2c684/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/core-state.md) | ⭐ 112 | `daily assistant` |
 | [Types](daily-assistant/107-types_a0accb3d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/modules/types.md) | ⭐ 112 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_74b16e72/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-manipulation/SKILL.md) | ⭐ 191 | `daily assistant` |
+| [0.4.0](daily-assistant/040_e830fd02/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/release_notes/0.4.0.md) | ⭐ 3.9k | `daily assistant` |
+| [Reference](daily-assistant/reference_1ef91f48/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/REFERENCE.md) | ⭐ 102 | `daily assistant` |
+| [Reference](daily-assistant/reference_9391c218/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/REFERENCE.md) | ⭐ 102 | `daily assistant` |
+| [Reference](daily-assistant/reference_8e87e5f7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 
-### Data Analysis (640 skills)
+### Data Analysis (647 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2249,8 +2285,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_0ca22e8d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/annotating-task-lineage/SKILL.md) | ⭐ 167 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_a98d99ae/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/init/SKILL.md) | ⭐ 167 | `data analysis` |
 | [Best Practices](data-analysis/282-best-practices_47bcc05b/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/reference/best-practices.md) | ⭐ 167 | `data analysis` |
+| [Analytics Dashboard](data-analysis/analytics-dashboard_bfad4f5b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/analytics-dashboard.md) | ⭐ 3.9k | `data analysis` |
+| [Library And Rag](data-analysis/library-and-rag_6ebbcceb/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/library-and-rag.md) | ⭐ 3.9k | `data analysis` |
+| [Dashboard Improvements](data-analysis/dashboard-improvements_1ea6e4a3/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/enhancements/metrics/dashboard-improvements.md) | ⭐ 3.9k | `data analysis` |
+| [Reference](data-analysis/reference_fe842b1b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/REFERENCE.md) | ⭐ 102 | `data analysis` |
+| [Reference](data-analysis/reference_cdceae16/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/REFERENCE.md) | ⭐ 102 | `data analysis` |
+| [Fusion Energy Research Developments](data-analysis/fusion-energy-research-developments_c0dbe7f1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/fusion-energy-research-developments.md) | ⭐ 3.9k | `data analysis` |
+| [Enhanced Token Tracking](data-analysis/enhanced-token-tracking_795fc8d5/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/enhancements/metrics/enhanced-token-tracking.md) | ⭐ 3.9k | `data analysis` |
 
-### Development (2790 skills)
+### Development (2805 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5044,8 +5087,23 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Decorators](development/1528-decorators_ffe5303f/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/python/decorators.md) | ⭐ 10 | `development` |
 | [Transactions](development/1524-transactions_c6ba27a1/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/python/transactions.md) | ⭐ 10 | `development` |
 | [Types](development/1529-types_94cefa1b/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/python/types.md) | ⭐ 10 | `development` |
+| [Sqlcipher Install](development/sqlcipher_install_7d01d9e6/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SQLCIPHER_INSTALL.md) | ⭐ 3.9k | `development` |
+| [Api Quickstart](development/api-quickstart_4a316be9/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/api-quickstart.md) | ⭐ 3.9k | `development` |
+| [Developing](development/developing_04328026/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 3.9k | `development` |
+| [Elasticsearch Search Engine.Zh](development/elasticsearch_search_enginezh_d92e2a71/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/elasticsearch_search_engine.zh.md) | ⭐ 3.9k | `development` |
+| [Overview](development/overview_fa829010/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/OVERVIEW.md) | ⭐ 3.9k | `development` |
+| [Extending](development/extending_0ef2e36f/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing/EXTENDING.md) | ⭐ 3.9k | `development` |
+| [Exception Handling](development/exception_handling_48818dda/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/news/EXCEPTION_HANDLING.md) | ⭐ 3.9k | `development` |
+| [0.2.0](development/020_53661478/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/release_notes/0.2.0.md) | ⭐ 3.9k | `development` |
+| [Langchain Retriever Integration](development/langchain_retriever_integration_b0b7be00/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/LANGCHAIN_RETRIEVER_INTEGRATION.md) | ⭐ 3.9k | `development` |
+| [Security Review Process](development/security_review_process_6f633072/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SECURITY_REVIEW_PROCESS.md) | ⭐ 3.9k | `development` |
+| [Test Organization](development/test_organization_71a8b9e8/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/TEST_ORGANIZATION.md) | ⭐ 3.9k | `development` |
+| [Feature Request](development/feature_request_5e195bf6/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 3.9k | `development` |
+| [First Time Contributor](development/first_time_contributor_b6d44aec/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/PULL_REQUEST_TEMPLATE/first_time_contributor.md) | ⭐ 3.9k | `development` |
+| [Upgrade Notice](development/upgrade_notice_53c925c2/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/api_usage/UPGRADE_NOTICE.md) | ⭐ 3.9k | `development` |
+| [Ui Test Summary](development/ui_test_summary_104d3c3d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/ui_tests/UI_TEST_SUMMARY.md) | ⭐ 3.9k | `development` |
 
-### Development/Devops (122 skills)
+### Development/Devops (129 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5214,8 +5272,15 @@ Read more about the new architecture [here` |
 | [Reference](development/devops/086-reference_a1923a4e/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/call-smart-contracts/references/REFERENCE.md) | ⭐ 10 | `development` |
 | [Reference](development/devops/086-reference_84e8cdad/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/deploy-react-frontend/references/REFERENCE.md) | ⭐ 10 | `development` |
 | [Transaction Errors](development/devops/087-transaction-errors_f08f2c5a/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/troubleshoot-errors/references/transaction-errors.md) | ⭐ 10 | `development` |
+| [Ci Cd Infrastructure](development/devops/ci_cd_infrastructure_c2acbe56/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 3.9k | `development` |
+| [Frontend Build System](development/devops/frontend_build_system_31798171/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md) | ⭐ 3.9k | `development` |
+| [Docker Compose Guide](development/devops/docker-compose-guide_adceecdd/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 3.9k | `development` |
+| [Env Configuration](development/devops/env_configuration_fb963df8/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md) | ⭐ 3.9k | `development` |
+| [Troubleshooting Openai Api Key](development/devops/troubleshooting-openai-api-key_2c6ae722/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting-openai-api-key.md) | ⭐ 3.9k | `development` |
+| [Troubleshooting](development/devops/troubleshooting_a7a910a2/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting.md) | ⭐ 3.9k | `development` |
+| [Unraid](development/devops/unraid_e73e95c1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/deployment/unraid.md) | ⭐ 3.9k | `development` |
 
-### Development/Testing (23 skills)
+### Development/Testing (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5242,8 +5307,13 @@ Read more about the new architecture [here` |
 | [Usage Guide](development/testing/017-usage-guide_25f42986/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/diversity-analysis/usage-guide.md) | ⭐ 191 | `development` |
 | [Skill](development/testing/002-name-skill_cf5c9f49/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-best-practices/SKILL.md) | ⭐ 34 | `development` |
 | [Resources](development/testing/018-resources_aadab61b/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-best-practices/references/resources.md) | ⭐ 34 | `development` |
+| [Custom Llm Integration](development/testing/custom_llm_integration_56881a12/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CUSTOM_LLM_INTEGRATION.md) | ⭐ 3.9k | `development` |
+| [Ci Integration](development/testing/ci_integration_12d252c8/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/CI_INTEGRATION.md) | ⭐ 3.9k | `development` |
+| [Testing Comparison](development/testing/testing_comparison_0ad150b0/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/TESTING_COMPARISON.md) | ⭐ 3.9k | `development` |
+| [Testing Proposal](development/testing/testing_proposal_56f86539/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/TESTING_PROPOSAL.md) | ⭐ 3.9k | `development` |
+| [Test Analysis Updated](development/testing/test_analysis_updated_7c68896b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/tests/ui_tests/test_analysis_updated.md) | ⭐ 3.9k | `development` |
 
-### Development/Tools (141 skills)
+### Development/Tools (164 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5278,7 +5348,7 @@ Read more about the new architecture [here` |
 | [Security Scout](development/tools/027-security-scout_9ee62bd7/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/security-scout.md) | ⭐ 490 | `development` |
 | [Tooling Scout](development/tools/028-tooling-scout_064d000d/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/tooling-scout.md) | ⭐ 490 | `development` |
 | [Worker](development/tools/029-worker_8c5ccf48/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/agents/worker.md) | ⭐ 490 | `development` |
-| [Skill](development/tools/name-skill_b4462054/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 492 | `development` |
+| [Skill](development/tools/002-name-skill_78cd41fe/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 490 | `development` |
 | [Workflow](development/tools/030-workflow_30cfd097/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-setup/workflow.md) | ⭐ 490 | `development` |
 | [Skill](development/tools/002-name-skill_ffb90911/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/SKILL.md) | ⭐ 490 | `development` |
 | [Workflow](development/tools/030-workflow_b234b1d1/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/flow-impl-review/workflow.md) | ⭐ 490 | `development` |
@@ -5388,8 +5458,31 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_ae497a6e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/setting-up-astro-project/SKILL.md) | ⭐ 167 | `development` |
 | [Reference](development/tools/074-reference_7222b3bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/REFERENCE.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_b4462054/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 492 | `development` |
+| [Cli Tools](development/tools/cli-tools_2fb9743f/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/cli-tools.md) | ⭐ 3.9k | `development` |
+| [Elasticsearch Search Engine](development/tools/elasticsearch_search_engine_d875a4fb/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/elasticsearch_search_engine.md) | ⭐ 3.9k | `development` |
+| [Codeql Guide](development/tools/codeql_guide_21910e10/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/security/CODEQL_GUIDE.md) | ⭐ 3.9k | `development` |
+| [Auth](development/tools/auth_0248f539/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_ea254b36/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_600e4553/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_6509a478/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_04f0c57b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_b6b158c0/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_5b307a10/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_76a98689/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_64487431/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_2207bac9/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_edde65c0/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_63096b56/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_10233d0b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_f0cf3a61/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/mailchimp/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_f89c10e0/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_25f6075c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_91afb0d1/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_8535461e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_96546e5e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/AUTH.md) | ⭐ 102 | `development` |
+| [A2A Invoking Agents](development/tools/a2a_invoking_agents_55bf5c06/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a_invoking_agents.md) | 🔥 35.1k | `development` |
 
-### Investment (38 skills)
+### Investment (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5431,6 +5524,9 @@ Read more about the new architecture [here` |
 | [Skill](investment/021-name-skill_f049b077/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-signal-tracker/SKILL.md) | ⭐ 10 | `investment` |
 | [Sources](investment/015-sources_3381ae19/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md) | ⭐ 10 | `investment` |
 | [Usage Guide](investment/022-usage-guide_88e17021/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-stalling/usage-guide.md) | ⭐ 191 | `investment` |
+| [Reference](investment/reference_6826bad6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
+| [2008 Finicial Crisis](investment/2008-finicial-crisis_feca04e1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/2008-finicial-crisis.md) | ⭐ 3.9k | `investment` |
+| [Traditional Spice Trade Routes](investment/traditional-spice-trade-routes_1e85d5c9/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/examples/traditional-spice-trade-routes.md) | ⭐ 3.9k | `investment` |
 
 ### Other (43 skills)
 
@@ -5480,7 +5576,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (178 skills)
+### Productivity (179 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5662,8 +5758,9 @@ Read more about the new architecture [here` |
 | [Usage Guide](productivity/105-usage-guide_fad888fd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/hisat2-alignment/usage-guide.md) | ⭐ 191 | `productivity` |
 | [Usage Guide](productivity/105-usage-guide_b533789f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/adapter-trimming/usage-guide.md) | ⭐ 191 | `productivity` |
 | [Interfaces](productivity/106-interfaces_2cd23f4c/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/references/advanced/interfaces.md) | ⭐ 34 | `productivity` |
+| [Benchmarking](productivity/benchmarking_a5ba5a13/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/BENCHMARKING.md) | ⭐ 3.9k | `productivity` |
 
-### Research (265 skills)
+### Research (272 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5932,6 +6029,13 @@ Read more about the new architecture [here` |
 | [Database Strategies](research/031-database_strategies_199c3b8e/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/literature-review/references/database_strategies.md) | ⭐ 637 | `research` |
 | [Imrad Structure](research/060-imrad_structure_b70f52f1/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/references/imrad_structure.md) | ⭐ 637 | `research` |
 | [Skill](research/139-name-skill_99fc1ee4/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/scientific_writer/.claude/skills/pptx-posters/SKILL.md) | ⭐ 637 | `research` |
+| [Architecture](research/architecture_154c7d8b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture.md) | ⭐ 3.9k | `research` |
+| [Faq](research/faq_06ff21f6/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/faq.md) | ⭐ 3.9k | `research` |
+| [Features](research/features_28cba038/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/features.md) | ⭐ 3.9k | `research` |
+| [Metrics Dashboard](research/metrics-dashboard_77b850d2/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/metrics-dashboard.md) | ⭐ 3.9k | `research` |
+| [Search Engines](research/search-engines_1bc1c03b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/search-engines.md) | ⭐ 3.9k | `research` |
+| [Database Schema](research/database_schema_c2f9682e/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/DATABASE_SCHEMA.md) | ⭐ 3.9k | `research` |
+| [Reference](research/reference_e5881e62/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
 
 ## Repository Structure
 
