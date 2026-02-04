@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6465 AI-powered skills** organized into 16 categories.
+A curated collection of **6466 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (217 skills)
 - **Data Analysis** (688 skills)
 - **Development** (2901 skills)
-- **Development/Devops** (276 skills)
+- **Development/Devops** (277 skills)
 - **Development/Testing** (33 skills)
 - **Development/Tools** (284 skills)
 - **Investment** (39 skills)
@@ -483,7 +483,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Main](automation/scripting/004-main_26fd5988/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/radix-ui-components/main.md) | ⭐ 27 | `automation` |
 | [Mshtools Browser Scroll Up](automation/scripting/005-mshtools-browser_scroll_up_ea9bd4c7/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-browser_scroll_up.md) | ⭐ 171 | `automation` |
 | [Mshtools Todo Write](automation/scripting/006-mshtools-todo_write_6f37caf2/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/kimi-ok-computer/tools/mshtools-todo_write.md) | ⭐ 171 | `automation` |
-| [Skill](automation/scripting/name-skill_feab4ee5/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 15 | `automation` |
+| [Skill](automation/scripting/003-name-skill_2cf72d42/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 14 | `automation` |
 | [Fn 18 Kwn](automation/scripting/007-fn-18-kwn_ba3eaf1c/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/specs/fn-18-kwn.md) | ⭐ 490 | `automation` |
 | [Fn 12.1](automation/scripting/008-fn-121_067b9545/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.1.md) | ⭐ 490 | `automation` |
 | [Fn 12.3](automation/scripting/009-fn-123_bce851cc/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/.flow/tasks/fn-12.3.md) | ⭐ 490 | `automation` |
@@ -560,7 +560,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Usage Guide](automation/scripting/029-usage-guide_9e9c73fe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-descriptors/usage-guide.md) | ⭐ 191 | `automation` |
 | [Ida Fixup](automation/scripting/032-ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_feab4ee5/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 15 | `automation` |
-| [Skill](automation/scripting/name-skill_0f4b99aa/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 15 | `automation` |
+| [Skill](automation/scripting/003-name-skill_0f4b99aa/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 15 | `automation` |
 
 ### Automation/Workflow (92 skills)
 
@@ -2483,7 +2483,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tectonic](data-analysis/233-tectonic_cda3acd6/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/binaries/tectonic.md) | ⭐ 177 | `data analysis` |
 | [Chrome Profile](data-analysis/308-chrome-profile_903c62d6/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/chrome-profile.md) | ⭐ 177 | `data analysis` |
 | [Analysis](data-analysis/006-analysis_54a4a61c/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/pdf/analysis.md) | ⭐ 177 | `data analysis` |
-| [Skill](data-analysis/name-skill_2113a183/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_2113a183/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md) | ⭐ 15 | `data analysis` |
 
 ### Development (2901 skills)
 
@@ -5391,7 +5391,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pdf Viewer](development/1184-pdf-viewer_8fca7da2/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/pdf-viewer.md) | ⭐ 177 | `development` |
 | [Analysis](development/034-analysis_776e3c68/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/webapp/analysis.md) | ⭐ 177 | `development` |
 
-### Development/Devops (276 skills)
+### Development/Devops (277 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5714,6 +5714,7 @@ Read more about the new architecture [here` |
 | [Variables](development/devops/204-variables_c3203c6f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/railway/new/references/variables.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_533297ee/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert/SKILL.md) | 🔥 19.4k | `development` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
+| [Copilotkit Sdk](development/devops/copilotkit_sdk_b4dd86ca/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/copilotkit_sdk.md) | 🔥 35.2k | `development` |
 
 ### Development/Testing (33 skills)
 
