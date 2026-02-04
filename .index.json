@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-04T09:09:20.654219",
+  "updated_at": "2026-02-04T09:21:51.942622",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -90469,6 +90469,48 @@
       "source_url": "https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/xlsx/analysis.md",
       "display_name": "Analysis",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2113a183429ed18b32084558568ea012b2f9d3be19d62bb53de920cd9b410010",
+      "source_path": "src/services/skills/graphrag-query/SKILL.md",
+      "source_repo": "TW-NLP/DeepAgentForce",
+      "local_path": "data-analysis/226-name-skill_2113a183",
+      "category": "data-analysis",
+      "name": "name-skill_2113a183",
+      "indexed_at": "2026-02-04T09:21:49.747218",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-04T06:06:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "feab4ee5ed3380b861145f171694e4c2de4aea6a1954837788b8322b6d7dd1d5",
+      "source_path": "src/services/skills/pdf-processing/SKILL.md",
+      "source_repo": "TW-NLP/DeepAgentForce",
+      "local_path": "automation/scripting/003-name-skill_feab4ee5",
+      "category": "automation/scripting",
+      "name": "name-skill_feab4ee5",
+      "indexed_at": "2026-02-04T09:21:51.216251",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-04T06:06:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "0f4b99aae6e50543ffc5606f16e72663be02ba29edbb65bf0cc75b07a8350ce1",
+      "source_path": "src/services/skills/web-search/SKILL.md",
+      "source_repo": "TW-NLP/DeepAgentForce",
+      "local_path": "automation/scripting/003-name-skill_0f4b99aa",
+      "category": "automation/scripting",
+      "name": "name-skill_0f4b99aa",
+      "indexed_at": "2026-02-04T09:21:51.941893",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-04T06:06:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
