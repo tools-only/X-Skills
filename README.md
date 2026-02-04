@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7091 AI-powered skills** organized into 16 categories.
+A curated collection of **7098 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -16,14 +16,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (401 skills)
 - **Daily Assistant** (258 skills)
 - **Data Analysis** (729 skills)
-- **Development** (3080 skills)
+- **Development** (3079 skills)
 - **Development/Devops** (306 skills)
 - **Development/Testing** (43 skills)
-- **Development/Tools** (334 skills)
+- **Development/Tools** (340 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (200 skills)
-- **Research** (315 skills)
+- **Research** (317 skills)
 
 ## Skills Directory
 
@@ -2049,16 +2049,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Customization](daily-assistant/164-customization_41c75217/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/customization.md) | ⭐ 34 | `daily assistant` |
 | [Cursor](daily-assistant/165-cursor_ba407723/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
 | [Factory](daily-assistant/166-factory_2a3fc948/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/factory.md) | 🔥 13.0k | `daily assistant` |
-| [Quickstart](daily-assistant/quickstart_9444f4f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
+| [Quickstart](daily-assistant/167-quickstart_539b79ee/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
 | [Troubleshooting](daily-assistant/168-troubleshooting_1b7daf9e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/troubleshooting.md) | 🔥 13.0k | `daily assistant` |
 | [Planning Workflow](daily-assistant/169-planning-workflow_75d6eb6c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kiro/steering/planning-workflow.md) | 🔥 13.0k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_83d15ed8/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.agent/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `daily assistant` |
 | [Reference](daily-assistant/109-reference_2d1f1134/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/reference.md) | 🔥 13.0k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_c6d69c80/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow-hitl/SKILL.md) | ⭐ 172 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_28f14451/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/SKILL.md) | ⭐ 172 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_c8fd7348/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/SKILL.md) | ⭐ 172 | `daily assistant` |
-| [Cosmos Config](daily-assistant/cosmos-config_976a881e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/reference/cosmos-config.md) | ⭐ 172 | `daily assistant` |
-| [Migration Checklist](daily-assistant/migration-checklist_2e25a345/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-checklist.md) | ⭐ 172 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c6d69c80/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow-hitl/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_28f14451/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c8fd7348/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Cosmos Config](daily-assistant/170-cosmos-config_976a881e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/reference/cosmos-config.md) | ⭐ 172 | `daily assistant` |
+| [Migration Checklist](daily-assistant/171-migration-checklist_2e25a345/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-checklist.md) | ⭐ 172 | `daily assistant` |
 | [Quickstart](daily-assistant/167-quickstart_9444f4f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
 
 ### Data Analysis (729 skills)
@@ -2795,7 +2795,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_cb5888c8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Operators](data-analysis/336-operators_ef7aded4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operators.md) | ⭐ 34 | `data analysis` |
 
-### Development (3080 skills)
+### Development (3079 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5573,7 +5573,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_fc87016d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/1178-name-skill_8a30649c/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/1178-name-skill_ae968aa5/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 167 | `development` |
-| [Migration Patterns](development/migration-patterns_b7fd5455/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 172 | `development` |
+| [Migration Patterns](development/1521-migration-patterns_ca3b9094/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 167 | `development` |
 | [Agents](development/028-agents_50de0d30/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/AGENTS.md) | ⭐ 10 | `development` |
 | [Agents](development/028-agents_9c79d7bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/setups/AGENTS.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_523c8960/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-ts-migration/SKILL.md) | ⭐ 10 | `development` |
@@ -5876,9 +5876,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gemini](development/1371-gemini_e57e6f09/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/gemini.md) | 🔥 13.0k | `development` |
 | [Installation](development/474-installation_d8c21bf4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/installation.md) | 🔥 13.0k | `development` |
 | [Skill](development/1178-name-skill_a642741b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
-| [Cosmos Config](development/cosmos-config_97dfb376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/reference/cosmos-config.md) | ⭐ 172 | `development` |
+| [Cosmos Config](development/1906-cosmos-config_97dfb376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/reference/cosmos-config.md) | ⭐ 172 | `development` |
 | [Migration Patterns](development/1521-migration-patterns_b7fd5455/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 172 | `development` |
-| [Kilocode](development/kilocode_cbecd60a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/kilocode.md) | 🔥 13.0k | `development` |
 
 ### Development/Devops (306 skills)
 
@@ -6282,7 +6281,7 @@ Read more about the new architecture [here` |
 | [Large Api Response Enhancement](development/testing/033-large_api_response_enhancement_510140bd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_API_RESPONSE_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Public Workspace Storage Calculation Fix](development/testing/034-public_workspace_storage_calculation_fix_20807ba7/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PUBLIC_WORKSPACE_STORAGE_CALCULATION_FIX.md) | ⭐ 110 | `development` |
 
-### Development/Tools (334 skills)
+### Development/Tools (340 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6423,7 +6422,7 @@ Read more about the new architecture [here` |
 | [Other](development/tools/072-other_5ab278a2/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/other.md) | ⭐ 34 | `development` |
 | [Api Reference](development/tools/073-api-reference_cf781376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 167 | `development` |
 | [Skill](development/tools/002-name-skill_282df387/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/SKILL.md) | ⭐ 167 | `development` |
-| [Skill](development/tools/name-skill_2efc87d1/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 172 | `development` |
+| [Skill](development/tools/002-name-skill_b7dd3526/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 167 | `development` |
 | [Skill](development/tools/002-name-skill_ae497a6e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/setting-up-astro-project/SKILL.md) | ⭐ 167 | `development` |
 | [Reference](development/tools/074-reference_7222b3bc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/build-smart-contracts/references/REFERENCE.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_b4462054/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow-next/skills/flow-next-ralph-init/SKILL.md) | ⭐ 492 | `development` |
@@ -6620,6 +6619,12 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_a1d57a3b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.pi/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
 | [Enhancement Modes](development/tools/186-enhancement_modes_38c78ea3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) | 🔥 8.9k | `development` |
 | [Skill](development/tools/002-name-skill_2efc87d1/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 172 | `development` |
+| [Development](development/tools/development_2082794e/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/DEVELOPMENT.md) | ⭐ 130 | `development` |
+| [Mcp Setup](development/tools/mcp_setup_b197b065/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/MCP_SETUP.md) | ⭐ 130 | `development` |
+| [Configuration](development/tools/configuration_1f680b7c/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 130 | `development` |
+| [1 4 Update](development/tools/1-4-update_6b9c218e/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/archive/1-4-update.md) | ⭐ 130 | `development` |
+| [Install Aleph](development/tools/install-aleph_f718b7c7/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/install-aleph.md) | ⭐ 130 | `development` |
+| [Openai](development/tools/openai_0d9bddf8/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/openai.md) | ⭐ 130 | `development` |
 
 ### Investment (43 skills)
 
@@ -6922,7 +6927,7 @@ Read more about the new architecture [here` |
 | [Techniques](productivity/125-techniques_a12ac0fe/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/techniques.md) | ⭐ 14 | `productivity` |
 | [39 Parameters](productivity/126-39-parameters_02ca2cc9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/39-parameters.md) | ⭐ 14 | `productivity` |
 
-### Research (315 skills)
+### Research (317 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7241,6 +7246,8 @@ Read more about the new architecture [here` |
 | [Ai Prompts](research/194-ai-prompts_4e52c0c6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/ai-prompts.md) | ⭐ 14 | `research` |
 | [Claude](research/015-claude_cbdef8aa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) | ⭐ 14 | `research` |
 | [Asset Checks](research/195-asset-checks_dba80fcc/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/asset-checks.md) | ⭐ 34 | `research` |
+| [Aleph](research/aleph_8d15ef2b/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
+| [Improve Docs](research/improve-docs_ac3952e8/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/improve-docs.md) | ⭐ 130 | `research` |
 
 ## Repository Structure
 
