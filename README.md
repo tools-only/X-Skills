@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6450 AI-powered skills** organized into 16 categories.
+A curated collection of **6463 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -14,15 +14,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (428 skills)
 - **Communication** (211 skills)
 - **Content Creation** (257 skills)
-- **Daily Assistant** (216 skills)
-- **Data Analysis** (682 skills)
-- **Development** (2898 skills)
+- **Daily Assistant** (217 skills)
+- **Data Analysis** (687 skills)
+- **Development** (2902 skills)
 - **Development/Devops** (276 skills)
-- **Development/Testing** (32 skills)
-- **Development/Tools** (283 skills)
+- **Development/Testing** (33 skills)
+- **Development/Tools** (284 skills)
 - **Investment** (39 skills)
 - **Other** (43 skills)
-- **Productivity** (180 skills)
+- **Productivity** (181 skills)
 - **Research** (291 skills)
 
 ## Skills Directory
@@ -1568,7 +1568,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_bcccc37b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/create-plan/SKILL.md) | 🔥 19.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_2d4374da/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/heygen-best-practices/SKILL.md) | 🔥 19.4k | `content creation` |
 
-### Daily Assistant (216 skills)
+### Daily Assistant (217 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1788,8 +1788,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/135-argument-skill_1ddab9e3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/add-new-feature/SKILL.md) | ⭐ 16 | `daily assistant` |
 | [Build Environment Configuration](daily-assistant/136-build-environment-configuration_227cc6ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/build-environment/build-environment-configuration.md) | ⭐ 16 | `daily assistant` |
 | [Version Scheme Plugins](daily-assistant/137-version-scheme-plugins_d0e9a611/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/plugins/version-scheme-plugins.md) | ⭐ 16 | `daily assistant` |
+| [Workspaces](daily-assistant/workspaces_c4bbba84/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/architecture/workspaces.md) | ⭐ 177 | `daily assistant` |
 
-### Data Analysis (682 skills)
+### Data Analysis (687 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2475,8 +2476,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Hexrays](data-analysis/303-ida_hexrays_dba9732e/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/08_decompiler/ida_hexrays.md) | ⭐ 17 | `data analysis` |
 | [Ida Gdl](data-analysis/304-ida_gdl_0e984bbe/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/10_ui/ida_gdl.md) | ⭐ 17 | `data analysis` |
 | [Idc](data-analysis/305-idc_00dc2b80/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idc.md) | ⭐ 17 | `data analysis` |
+| [Execution Flows](data-analysis/execution-flows_cd8be5ca/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/analysis/execution-flows.md) | ⭐ 177 | `data analysis` |
+| [Skills Vs Personas](data-analysis/skills-vs-personas_9a5dfbcb/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/analysis/skills-vs-personas.md) | ⭐ 177 | `data analysis` |
+| [Tectonic](data-analysis/tectonic_cda3acd6/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/binaries/tectonic.md) | ⭐ 177 | `data analysis` |
+| [Chrome Profile](data-analysis/chrome-profile_903c62d6/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/chrome-profile.md) | ⭐ 177 | `data analysis` |
+| [Analysis](data-analysis/analysis_54a4a61c/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/pdf/analysis.md) | ⭐ 177 | `data analysis` |
 
-### Development (2898 skills)
+### Development (2902 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5378,6 +5384,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Idautils](development/1726-idautils_c6b6fb62/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/14_scripting/idautils.md) | ⭐ 17 | `development` |
 | [Agents](development/028-agents_c1e37c39/) | [hodgesmr/agent-fecfile](https://raw.githubusercontent.com/hodgesmr/agent-fecfile/main/AGENTS.md) | ⭐ 24 | `development` |
 | [Catalog](development/126-catalog_cab1a13e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.0k | `development` |
+| [Glossary](development/glossary_2233010a/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/GLOSSARY.md) | ⭐ 177 | `development` |
+| [Pdf Viewer](development/pdf-viewer_8fca7da2/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/pdf-viewer.md) | ⭐ 177 | `development` |
+| [Analysis](development/analysis_776e3c68/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/webapp/analysis.md) | ⭐ 177 | `development` |
+| [Analysis](development/analysis_5b9e46af/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/docx/analysis.md) | ⭐ 177 | `development` |
 
 ### Development/Devops (276 skills)
 
@@ -5703,7 +5713,7 @@ Read more about the new architecture [here` |
 | [Skill](development/devops/014-name-skill_533297ee/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert/SKILL.md) | 🔥 19.4k | `development` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
 
-### Development/Testing (32 skills)
+### Development/Testing (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5737,10 +5747,11 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/002-name-skill_f50bfca9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 4.8k | `development` |
 | [Ida Allins](development/testing/023-ida_allins_90413859/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_allins.md) | ⭐ 17 | `development` |
 | [Skill](development/testing/013-threat-skill_00a76f51/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
-| [Agents](development/testing/agents_7ee98168/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/agents.md) | ⭐ 29 | `development` |
-| [Agents](development/testing/agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/024-agents_7ee98168/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/agents.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/024-agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/024-agents_5785ddec/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/AGENTS.md) | ⭐ 44 | `development` |
 
-### Development/Tools (283 skills)
+### Development/Tools (284 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6027,6 +6038,7 @@ Read more about the new architecture [here` |
 | [Prompt Snippets](development/tools/174-prompt-snippets_a6995d7c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/claude-opus-4-5-migration/references/prompt-snippets.md) | 🔥 19.4k | `development` |
 | [Text Overlays](development/tools/175-text-overlays_86fb200e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/heygen-best-practices/rules/text-overlays.md) | 🔥 19.4k | `development` |
 | [Authentication](development/tools/176-authentication_9f3ca61a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/mcp-integration/references/authentication.md) | 🔥 19.4k | `development` |
+| [Analysis](development/tools/analysis_5fbbd882/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/xlsx/analysis.md) | ⭐ 177 | `development` |
 
 ### Investment (39 skills)
 
@@ -6120,7 +6132,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (180 skills)
+### Productivity (181 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6304,6 +6316,7 @@ Read more about the new architecture [here` |
 | [Interfaces](productivity/106-interfaces_2cd23f4c/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dignified-python/references/advanced/interfaces.md) | ⭐ 34 | `productivity` |
 | [Benchmarking](productivity/107-benchmarking_a5ba5a13/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/BENCHMARKING.md) | ⭐ 3.9k | `productivity` |
 | [Multi Agent Vs Single Agent Systems](productivity/108-multi-agent-vs-single-agent-systems_088f46ed/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/multi-agent-vs-single-agent-systems.md) | ⭐ 4.8k | `productivity` |
+| [How Kimi Works](productivity/how-kimi-works_77669abd/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/analysis/how-kimi-works.md) | ⭐ 177 | `productivity` |
 
 ### Research (291 skills)
 
