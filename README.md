@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7098 AI-powered skills** organized into 16 categories.
+A curated collection of **7197 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,20 +10,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (441 skills)
 - **Automation/Scripting** (91 skills)
-- **Automation/Workflow** (107 skills)
-- **Commercial** (457 skills)
-- **Communication** (243 skills)
-- **Content Creation** (401 skills)
-- **Daily Assistant** (258 skills)
-- **Data Analysis** (729 skills)
-- **Development** (3079 skills)
-- **Development/Devops** (306 skills)
+- **Automation/Workflow** (109 skills)
+- **Commercial** (463 skills)
+- **Communication** (252 skills)
+- **Content Creation** (406 skills)
+- **Daily Assistant** (283 skills)
+- **Data Analysis** (732 skills)
+- **Development** (3101 skills)
+- **Development/Devops** (324 skills)
 - **Development/Testing** (43 skills)
-- **Development/Tools** (340 skills)
+- **Development/Tools** (339 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
-- **Productivity** (200 skills)
-- **Research** (317 skills)
+- **Productivity** (206 skills)
+- **Research** (321 skills)
 
 ## Skills Directory
 
@@ -570,7 +570,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [List](automation/scripting/039-list_5b76e0fb/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/list.md) | ⭐ 34 | `automation` |
 | [Operands](automation/scripting/040-operands_100d76d7/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operands.md) | ⭐ 34 | `automation` |
 
-### Automation/Workflow (107 skills)
+### Automation/Workflow (109 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -681,8 +681,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Discussion 2 Content](automation/workflow/051-discussion_2_content_97252ffd/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/DISCUSSION_2_CONTENT.md) | 🔥 13.0k | `automation` |
 | [Migration](automation/workflow/052-migration_2b56cf16/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/MIGRATION.md) | 🔥 13.0k | `automation` |
 | [Plan](automation/workflow/053-plan_9cf192d7/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/commands/plan.md) | 🔥 13.0k | `automation` |
+| [Release](automation/workflow/release_d0ccd98b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/RELEASE.md) | ⭐ 20 | `automation` |
+| [Evaluation Results](automation/workflow/evaluation-results_bed1b9fc/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/evaluation-results.md) | ⭐ 20 | `automation` |
 
-### Commercial (457 skills)
+### Commercial (463 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1008,9 +1010,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Dex Backlog](commercial/216-dex_backlog_430c4817/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/Dex_Backlog.md) | ⭐ 58 | `commercial` |
 | [Migration Summary](commercial/217-migration_summary_bc6d5b1e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/MIGRATION_SUMMARY.md) | ⭐ 58 | `commercial` |
 | [Folder Structure](commercial/218-folder_structure_8dbdf0fb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Folder_Structure.md) | ⭐ 58 | `commercial` |
-| [Skill](commercial/210-name-skill_0939f0ec/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-level-up/SKILL.md) | ⭐ 58 | `commercial` |
-| [Skill](commercial/210-name-skill_047170d3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 58 | `commercial` |
-| [Skill](commercial/210-name-skill_e2959a90/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/product-brief/SKILL.md) | ⭐ 58 | `commercial` |
+| [Skill](commercial/name-skill_80c82dbe/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-level-up/SKILL.md) | ⭐ 61 | `commercial` |
+| [Skill](commercial/name-skill_34ac8193/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 61 | `commercial` |
+| [Skill](commercial/name-skill_c53faa6c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/product-brief/SKILL.md) | ⭐ 61 | `commercial` |
 | [Data Integrity Guardian](commercial/219-data-integrity-guardian_b48e5bcd/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/plugins/compound-engineering/agents/review/data-integrity-guardian.md) | ⭐ 58 | `commercial` |
 | [Deployment Verification Agent](commercial/220-deployment-verification-agent_c14718e4/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/plugins/compound-engineering/agents/review/deployment-verification-agent.md) | ⭐ 58 | `commercial` |
 | [Skill](commercial/210-name-skill_e8b26848/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/_available/customer-success/renewal-prep/SKILL.md) | ⭐ 58 | `commercial` |
@@ -1143,8 +1145,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [40 Principles](commercial/282-40-principles_d16f9835/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/40-principles.md) | ⭐ 14 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_cf6896ca/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 861 | `commercial` |
 | [Basic Sensors](commercial/284-basic-sensors_478ae8d4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/sensors/basic-sensors.md) | ⭐ 34 | `commercial` |
+| [Agentbench](commercial/agentbench_2e453108/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/agentbench.md) | ⭐ 20 | `commercial` |
+| [Webarena](commercial/webarena_0d1aeea7/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
+| [Usage Log](commercial/usage_log_d4b3fc47/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/usage_log.md) | ⭐ 61 | `commercial` |
+| [Skill](commercial/210-name-skill_80c82dbe/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-level-up/SKILL.md) | ⭐ 61 | `commercial` |
+| [Skill](commercial/210-name-skill_34ac8193/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 61 | `commercial` |
+| [Skill](commercial/210-name-skill_c53faa6c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/product-brief/SKILL.md) | ⭐ 61 | `commercial` |
 
-### Communication (243 skills)
+### Communication (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1391,8 +1399,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [User Access Password Management](communication/176-user_access_password_management_21473288/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/workspaces/public/Service_Desk/User_Access_Password_Management.md) | ⭐ 110 | `communication` |
 | [Skill](communication/127-name-skill_4b2e95f0/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
 | [Checklist](communication/177-checklist_7165eb4b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/checklist.md) | ⭐ 14 | `communication` |
+| [Onboarding](communication/onboarding_f845955f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 61 | `communication` |
+| [Screenpipe Setup](communication/screenpipe-setup_6157773f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/screenpipe-setup.md) | ⭐ 61 | `communication` |
+| [Skill](communication/name-skill_31ce2388/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/commitment-scan/SKILL.md) | ⭐ 61 | `communication` |
+| [Skill](communication/name-skill_cb36faf0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/meeting-prep/SKILL.md) | ⭐ 61 | `communication` |
+| [Skill](communication/name-skill_0b7940ed/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/screenpipe-setup/SKILL.md) | ⭐ 61 | `communication` |
+| [Screenpipe Setup](communication/screenpipe_setup_b08d9f06/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/ScreenPipe_Setup.md) | ⭐ 61 | `communication` |
+| [Person Page](communication/person_page_7b5976d6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/Templates/Person_Page.md) | ⭐ 61 | `communication` |
+| [Agents](communication/agents_972fbaaa/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/AGENTS.md) | ⭐ 61 | `communication` |
+| [Troubleshooting](communication/troubleshooting_74fe806a/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/troubleshooting.md) | ⭐ 61 | `communication` |
 
-### Content Creation (401 skills)
+### Content Creation (406 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1797,8 +1814,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_12b32071/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
 | [Skill](content-creation/049-name-skill_4d3bfb4c/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.moltbot/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
 | [Skill](content-creation/049-name-skill_185b4a6b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Custom Code Guardrail](content-creation/custom_code_guardrail_f0672273/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/custom_code_guardrail.md) | 🔥 35.2k | `content creation` |
+| [Claude](content-creation/claude_65d440a7/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 61 | `content creation` |
+| [Skill](content-creation/name-skill_c237e3ec/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/ai-setup/SKILL.md) | ⭐ 61 | `content creation` |
+| [Skill](content-creation/name-skill_8b21bd61/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/journal/SKILL.md) | ⭐ 61 | `content creation` |
+| [Skill](content-creation/name-skill_1054f37e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/resume-builder/SKILL.md) | ⭐ 61 | `content creation` |
 
-### Daily Assistant (258 skills)
+### Daily Assistant (283 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1880,18 +1902,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Obsidian Guide](daily-assistant/046-obsidian_guide_0626e67c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Obsidian_Guide.md) | ⭐ 58 | `daily assistant` |
 | [Mistake Patterns](daily-assistant/047-mistake_patterns_0746a26f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Learnings/Mistake_Patterns.md) | ⭐ 58 | `daily assistant` |
 | [2026 01 29](daily-assistant/048-2026-01-29_032608ee/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/Session_Learnings/2026-01-29.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_9a3f4d0d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-mcp/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_214f03d6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-plan/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_c5db216c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-review/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_43f8dbb4/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_fafc3f86/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-improve/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_4e38fd7b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_31193c0c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/process-meetings/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_59d8dc37/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/project-health/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_8a69b7aa/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/review/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_dd512e3c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/save-insight/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_1bac51b6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-plan/SKILL.md) | ⭐ 58 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_52aff426/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-review/SKILL.md) | ⭐ 58 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_eba34c40/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-mcp/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_cb6d9ece/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-plan/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_5a5ffaa9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-review/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_e0c46afa/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_f73d03b3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-improve/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c4371e93/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_145d8272/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/process-meetings/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_0a271e11/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/project-health/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_7735fa91/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/review/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_1e587cf5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/save-insight/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_b480bce9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-plan/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_9fad0d2f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-review/SKILL.md) | ⭐ 61 | `daily assistant` |
 | [Resolve Parallel](daily-assistant/049-resolve_parallel_5e499358/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/plugins/compound-engineering/commands/resolve_parallel.md) | ⭐ 58 | `daily assistant` |
 | [Resolve Pr Parallel](daily-assistant/050-resolve_pr_parallel_57f39ffe/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/plugins/compound-engineering/commands/resolve_pr_parallel.md) | ⭐ 58 | `daily assistant` |
 | [Resolve Todo Parallel](daily-assistant/051-resolve_todo_parallel_1e280a9d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/plugins/compound-engineering/commands/resolve_todo_parallel.md) | ⭐ 58 | `daily assistant` |
@@ -2060,8 +2082,33 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Cosmos Config](daily-assistant/170-cosmos-config_976a881e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/reference/cosmos-config.md) | ⭐ 172 | `daily assistant` |
 | [Migration Checklist](daily-assistant/171-migration-checklist_2e25a345/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-checklist.md) | ⭐ 172 | `daily assistant` |
 | [Quickstart](daily-assistant/167-quickstart_9444f4f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
+| [Ai Agent Guide](daily-assistant/ai_agent_guide_7d7a588e/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/AI_AGENT_GUIDE.md) | ⭐ 20 | `daily assistant` |
+| [Skill Analytics Checklist](daily-assistant/skill-analytics-checklist_b7076596/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/skill-analytics-checklist.md) | ⭐ 61 | `daily assistant` |
+| [2026 02 04 Hardcoded Paths Fix](daily-assistant/2026-02-04_hardcoded_paths_fix_62b5117e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/Beta_Communications/2026-02-04_hardcoded_paths_fix.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_6756f985/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/beta-status/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_eba34c40/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-mcp/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_cb6d9ece/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-plan/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_5a5ffaa9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-review/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_e0c46afa/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_f73d03b3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-improve/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c4371e93/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_145d8272/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/process-meetings/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_0a271e11/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/project-health/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_7735fa91/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/review/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_1e587cf5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/save-insight/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b480bce9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-plan/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_9fad0d2f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-review/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_6fb62a68/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/xray/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Timeout Tracking](daily-assistant/timeout_tracking_41599e21/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/timeout_tracking.md) | ⭐ 20 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_4d0b1126/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/.claude-plugin/skills/mcpbr-eval/SKILL.md) | ⭐ 20 | `daily assistant` |
+| [Ai Model Options](daily-assistant/ai_model_options_338595f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/AI_Model_Options.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c99f8aea/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/ai-status/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_cd3c1a87/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/beta-activate/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Examples](daily-assistant/examples_36e01a0c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/examples.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c9f7482b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/skills/commitment-extractor/SKILL.md) | ⭐ 61 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_d83dd0e6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/skills/pi/SKILL.md) | ⭐ 61 | `daily assistant` |
 
-### Data Analysis (729 skills)
+### Data Analysis (732 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2794,8 +2841,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Quickstart](data-analysis/253-quickstart_1dcfdd87/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/evals-sdk/quickstart.md) | ⭐ 162 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cb5888c8/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Operators](data-analysis/336-operators_ef7aded4/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/operators.md) | ⭐ 34 | `data analysis` |
+| [Skill](data-analysis/name-skill_6f9ce1f9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/triage/SKILL.md) | ⭐ 61 | `data analysis` |
+| [Toolbench](data-analysis/toolbench_dcfb20de/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/toolbench.md) | ⭐ 20 | `data analysis` |
+| [Skill](data-analysis/name-skill_d2ea4de1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/skills/pi-tools/SKILL.md) | ⭐ 61 | `data analysis` |
 
-### Development (3079 skills)
+### Development (3101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5878,8 +5928,30 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_a642741b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.continue/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
 | [Cosmos Config](development/1906-cosmos-config_97dfb376/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/reference/cosmos-config.md) | ⭐ 172 | `development` |
 | [Migration Patterns](development/1521-migration-patterns_b7fd5455/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 172 | `development` |
+| [Claude Code Plugin](development/claude-code-plugin_7cb50867/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/claude-code-plugin.md) | ⭐ 20 | `development` |
+| [Apps](development/apps_2f27e535/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/apps.md) | ⭐ 20 | `development` |
+| [Bigcodebench](development/bigcodebench_0e0a843a/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/bigcodebench.md) | ⭐ 20 | `development` |
+| [Codereval](development/codereval_d598dc20/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/codereval.md) | ⭐ 20 | `development` |
+| [Cybergym](development/cybergym_a1332d53/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/cybergym.md) | ⭐ 20 | `development` |
+| [Humaneval](development/humaneval_b5e97b72/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/humaneval.md) | ⭐ 20 | `development` |
+| [Index](development/index_b28a029c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/index.md) | ⭐ 20 | `development` |
+| [Math](development/math_b6718919/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/math.md) | ⭐ 20 | `development` |
+| [Mcptoolbench](development/mcptoolbench_1a836d59/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
+| [Repoqa](development/repoqa_86f790e5/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/repoqa.md) | ⭐ 20 | `development` |
+| [Swe Bench](development/swe-bench_b67bf4b4/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/swe-bench.md) | ⭐ 20 | `development` |
+| [Grayswan](development/grayswan_edcebe54/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/grayswan.md) | 🔥 35.2k | `development` |
+| [Templates](development/templates_9fbc74ae/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/templates.md) | ⭐ 20 | `development` |
+| [Index](development/index_c7bc3ede/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/index.md) | ⭐ 20 | `development` |
+| [Aider Polyglot](development/aider-polyglot_0528e3c7/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/aider-polyglot.md) | ⭐ 20 | `development` |
+| [Codecontests](development/codecontests_5f19b050/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/codecontests.md) | ⭐ 20 | `development` |
+| [Intercode](development/intercode_64afc06c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/intercode.md) | ⭐ 20 | `development` |
+| [Leetcode](development/leetcode_2918038d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/leetcode.md) | ⭐ 20 | `development` |
+| [Mbpp](development/mbpp_eee4f29a/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mbpp.md) | ⭐ 20 | `development` |
+| [Mlagentbench](development/mlagentbench_16cb00ba/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mlagentbench.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_8b13f5ff/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/.claude-plugin/skills/mcpbr-config/SKILL.md) | ⭐ 20 | `development` |
+| [Github Copilot](development/github_copilot_ddc45344/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/github_copilot.md) | 🔥 35.2k | `development` |
 
-### Development/Devops (306 skills)
+### Development/Devops (324 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5916,7 +5988,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Azure Ai](development/devops/030-azure_ai_8c28d9cf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/azure_ai.md) | 🔥 35.1k | `development` |
 | [Admin Ui Sso](development/devops/031-admin_ui_sso_8a1677fb/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.1k | `development` |
 | [Architecture](development/devops/032-architecture_7809e2fa/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/architecture.md) | 🔥 35.1k | `development` |
-| [Config Settings](development/devops/033-config_settings_e912576b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.1k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](development/devops/config_settings_c8840435/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.2k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Configs](development/devops/034-configs_2e235505/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/configs.md) | 🔥 35.1k | `development` |
 | [Custom Pricing](development/devops/035-custom_pricing_485f0e83/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/custom_pricing.md) | 🔥 35.1k | `development` |
 | [Custom Root Ui](development/devops/036-custom_root_ui_d8c2f9b8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/custom_root_ui.md) | 🔥 35.1k | `development` |
@@ -6232,6 +6304,24 @@ Read more about the new architecture [here` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_03cd8bd5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_110bbfa5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
 | [Api](development/devops/165-api_c5f3b477/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/api.md) | ⭐ 34 | `development` |
+| [Pr Summary](development/devops/pr_summary_120fe098/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/PR_SUMMARY.md) | ⭐ 20 | `development` |
+| [Faq](development/devops/faq_bd4a9c23/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/FAQ.md) | ⭐ 20 | `development` |
+| [Architecture](development/devops/architecture_94ba0f15/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/architecture.md) | ⭐ 20 | `development` |
+| [Best Practices](development/devops/best-practices_db22df12/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/best-practices.md) | ⭐ 20 | `development` |
+| [Comparison Mode](development/devops/comparison-mode_ab48989e/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/comparison-mode.md) | ⭐ 20 | `development` |
+| [Comprehensive Statistics](development/devops/comprehensive-statistics_50001070/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/comprehensive-statistics.md) | ⭐ 20 | `development` |
+| [Configuration](development/devops/configuration_701830f6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/configuration.md) | ⭐ 20 | `development` |
+| [Index](development/devops/index_73decf29/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/index.md) | ⭐ 20 | `development` |
+| [Installation](development/devops/installation_e3eb3f36/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/installation.md) | ⭐ 20 | `development` |
+| [Mcp Integration](development/devops/mcp-integration_8bb4aea3/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/mcp-integration.md) | ⭐ 20 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_222e2ed4/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/troubleshooting.md) | ⭐ 20 | `development` |
+| [Azure](development/devops/azure_b67ba489/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/infrastructure/azure.md) | ⭐ 20 | `development` |
+| [Config Settings](development/devops/033-config_settings_c8840435/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.2k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Cli](development/devops/cli_52e2f4c2/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/cli.md) | ⭐ 20 | `development` |
+| [Bigbench Hard](development/devops/bigbench-hard_4877f95d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/bigbench-hard.md) | ⭐ 20 | `development` |
+| [Gsm8K](development/devops/gsm8k_3572d927/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gsm8k.md) | ⭐ 20 | `development` |
+| [Terminalbench](development/devops/terminalbench_46f99394/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `development` |
+| [Skill](development/devops/name-skill_7045de1f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/.claude-plugin/skills/benchmark-swe-lite/SKILL.md) | ⭐ 20 | `development` |
 
 ### Development/Testing (43 skills)
 
@@ -6281,7 +6371,7 @@ Read more about the new architecture [here` |
 | [Large Api Response Enhancement](development/testing/033-large_api_response_enhancement_510140bd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_API_RESPONSE_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Public Workspace Storage Calculation Fix](development/testing/034-public_workspace_storage_calculation_fix_20807ba7/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PUBLIC_WORKSPACE_STORAGE_CALCULATION_FIX.md) | ⭐ 110 | `development` |
 
-### Development/Tools (340 skills)
+### Development/Tools (339 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6619,12 +6709,11 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_a1d57a3b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.pi/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `development` |
 | [Enhancement Modes](development/tools/186-enhancement_modes_38c78ea3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/ENHANCEMENT_MODES.md) | 🔥 8.9k | `development` |
 | [Skill](development/tools/002-name-skill_2efc87d1/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/SKILL.md) | ⭐ 172 | `development` |
-| [Development](development/tools/development_2082794e/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/DEVELOPMENT.md) | ⭐ 130 | `development` |
-| [Mcp Setup](development/tools/mcp_setup_b197b065/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/MCP_SETUP.md) | ⭐ 130 | `development` |
-| [Configuration](development/tools/configuration_1f680b7c/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 130 | `development` |
-| [1 4 Update](development/tools/1-4-update_6b9c218e/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/archive/1-4-update.md) | ⭐ 130 | `development` |
-| [Install Aleph](development/tools/install-aleph_f718b7c7/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/install-aleph.md) | ⭐ 130 | `development` |
-| [Openai](development/tools/openai_0d9bddf8/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/openai.md) | ⭐ 130 | `development` |
+| [Development](development/tools/187-development_2082794e/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/DEVELOPMENT.md) | ⭐ 130 | `development` |
+| [Mcp Setup](development/tools/188-mcp_setup_b197b065/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/MCP_SETUP.md) | ⭐ 130 | `development` |
+| [Configuration](development/tools/189-configuration_1f680b7c/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 130 | `development` |
+| [1 4 Update](development/tools/190-1-4-update_6b9c218e/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/archive/1-4-update.md) | ⭐ 130 | `development` |
+| [Install Aleph](development/tools/191-install-aleph_f718b7c7/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/install-aleph.md) | ⭐ 130 | `development` |
 
 ### Investment (43 skills)
 
@@ -6722,7 +6811,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (200 skills)
+### Productivity (206 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6881,11 +6970,11 @@ Read more about the new architecture [here` |
 | [Kimi Agents Explained](productivity/094-kimi_agents_explained_29614980/) | [dnnyngyen/kimi-k2.5-leaked-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-leaked-analysis/main/KIMI_AGENTS_EXPLAINED.md) | ⭐ 171 | `productivity` |
 | [Week Priorities](productivity/095-week_priorities_0ef78844/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/02-Week_Priorities/Week_Priorities.md) | ⭐ 58 | `productivity` |
 | [Working Preferences](productivity/096-working_preferences_71947f51/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Learnings/Working_Preferences.md) | ⭐ 58 | `productivity` |
-| [Skill](productivity/093-name-skill_d04d7445/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-coach/SKILL.md) | ⭐ 58 | `productivity` |
-| [Skill](productivity/093-name-skill_a46c13fa/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-setup/SKILL.md) | ⭐ 58 | `productivity` |
-| [Skill](productivity/093-name-skill_4f891292/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) | ⭐ 58 | `productivity` |
-| [Skill](productivity/093-name-skill_8ed5649b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 58 | `productivity` |
-| [Skill](productivity/093-name-skill_fcc1f2ac/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 58 | `productivity` |
+| [Skill](productivity/name-skill_44d45107/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-coach/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/name-skill_969ce454/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-setup/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/name-skill_62e24560/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/name-skill_180f17b1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/name-skill_de45937e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 61 | `productivity` |
 | [Skill](productivity/093-name-skill_d6d4dd86/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/_available/engineering/tech-debt/SKILL.md) | ⭐ 58 | `productivity` |
 | [Skill](productivity/093-name-skill_25560861/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/_available/marketing/audience-intel/SKILL.md) | ⭐ 58 | `productivity` |
 | [Skill](productivity/093-name-skill_7418bcaf/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/_available/operations/metrics-review/SKILL.md) | ⭐ 58 | `productivity` |
@@ -6926,8 +7015,14 @@ Read more about the new architecture [here` |
 | [Questions](productivity/124-questions_b3a203e3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/questions.md) | ⭐ 14 | `productivity` |
 | [Techniques](productivity/125-techniques_a12ac0fe/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/techniques.md) | ⭐ 14 | `productivity` |
 | [39 Parameters](productivity/126-39-parameters_02ca2cc9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/39-parameters.md) | ⭐ 14 | `productivity` |
+| [Profiling](productivity/profiling_c7b3950c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/profiling.md) | ⭐ 20 | `productivity` |
+| [Skill](productivity/093-name-skill_44d45107/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-coach/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/093-name-skill_969ce454/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-setup/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/093-name-skill_62e24560/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/093-name-skill_180f17b1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 61 | `productivity` |
+| [Skill](productivity/093-name-skill_de45937e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 61 | `productivity` |
 
-### Research (317 skills)
+### Research (321 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7246,8 +7341,12 @@ Read more about the new architecture [here` |
 | [Ai Prompts](research/194-ai-prompts_4e52c0c6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/ai-prompts.md) | ⭐ 14 | `research` |
 | [Claude](research/015-claude_cbdef8aa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) | ⭐ 14 | `research` |
 | [Asset Checks](research/195-asset-checks_dba80fcc/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-integrations/references/dagster-dbt/asset-checks.md) | ⭐ 34 | `research` |
-| [Aleph](research/aleph_8d15ef2b/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
-| [Improve Docs](research/improve-docs_ac3952e8/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/improve-docs.md) | ⭐ 130 | `research` |
+| [Aleph](research/196-aleph_8d15ef2b/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
+| [Improve Docs](research/197-improve-docs_ac3952e8/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/improve-docs.md) | ⭐ 130 | `research` |
+| [Arc](research/arc_b1410d98/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/arc.md) | ⭐ 20 | `research` |
+| [Hellaswag](research/hellaswag_061e3aca/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/hellaswag.md) | ⭐ 20 | `research` |
+| [Truthfulqa](research/truthfulqa_15b0c9d0/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/truthfulqa.md) | ⭐ 20 | `research` |
+| [Gaia](research/gaia_96b28aa7/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
 
 ## Repository Structure
 
