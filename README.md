@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6635 AI-powered skills** organized into 16 categories.
+A curated collection of **6686 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (85 skills)
-- **Automation/Workflow** (93 skills)
-- **Commercial** (429 skills)
-- **Communication** (217 skills)
-- **Content Creation** (356 skills)
-- **Daily Assistant** (228 skills)
-- **Data Analysis** (693 skills)
-- **Development** (2932 skills)
+- **Automation/Scripting** (86 skills)
+- **Automation/Workflow** (94 skills)
+- **Commercial** (431 skills)
+- **Communication** (216 skills)
+- **Content Creation** (354 skills)
+- **Daily Assistant** (234 skills)
+- **Data Analysis** (698 skills)
+- **Development** (2950 skills)
 - **Development/Devops** (280 skills)
-- **Development/Testing** (33 skills)
-- **Development/Tools** (291 skills)
+- **Development/Testing** (49 skills)
+- **Development/Tools** (290 skills)
 - **Investment** (40 skills)
 - **Other** (43 skills)
-- **Productivity** (181 skills)
-- **Research** (293 skills)
+- **Productivity** (184 skills)
+- **Research** (296 skills)
 
 ## Skills Directory
 
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (85 skills)
+### Automation/Scripting (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -561,10 +561,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Fixup](automation/scripting/032-ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_feab4ee5/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 15 | `automation` |
 | [Skill](automation/scripting/003-name-skill_0f4b99aa/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 15 | `automation` |
-| [Configuration](automation/scripting/configuration_fd79c6f8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/configuration.md) | ⭐ 173 | `automation` |
-| [Skill](automation/scripting/name-skill_e0fecea2/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/ultrathink/SKILL.md) | ⭐ 173 | `automation` |
+| [Configuration](automation/scripting/033-configuration_fd79c6f8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/configuration.md) | ⭐ 173 | `automation` |
+| [Feature Structure Analyzer](automation/scripting/feature-structure-analyzer_640c8f06/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-structure-analyzer.md) | ⭐ 15 | `automation` |
+| [Feature Order Checker](automation/scripting/feature-order-checker_d2745cb4/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-order-checker.md) | ⭐ 15 | `automation` |
 
-### Automation/Workflow (93 skills)
+### Automation/Workflow (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -661,8 +662,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pr Requirements](automation/workflow/038-pr-requirements_03e587e4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-requirements.md) | ⭐ 4.8k | `automation` |
 | [Human In The Loop Ai Agents](automation/workflow/039-human-in-the-loop-ai-agents_5225d5b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/human-in-the-loop-ai-agents.md) | ⭐ 4.8k | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_a25c8ae6/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
+| [Workflow](automation/workflow/workflow_a7a306ce/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/pdf_to_epub/reference/workflow.md) | ⭐ 15 | `automation` |
 
-### Commercial (429 skills)
+### Commercial (431 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1094,9 +1096,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Terraform](commercial/280-terraform_68501fa7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/devops-iac-engineer/reference/terraform.md) | 🔥 19.4k | `commercial` |
 | [Backup Recovery](commercial/281-backup-recovery_577f1644/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/it-operations/reference/backup-recovery.md) | 🔥 19.4k | `commercial` |
 | [Security Operations](commercial/282-security-operations_3a718152/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/security-compliance/reference/security-operations.md) | 🔥 19.4k | `commercial` |
-| [Skill](commercial/name-skill_5c31ad5b/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/upstash-redis-kv/SKILL.md) | ⭐ 173 | `commercial` |
+| [Skill](commercial/210-name-skill_5c31ad5b/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/upstash-redis-kv/SKILL.md) | ⭐ 173 | `commercial` |
+| [Feature Order Checker](commercial/feature-order-checker_00999d80/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-order-checker.md) | ⭐ 15 | `commercial` |
+| [Feature Pdf Extractor](commercial/feature-pdf-extractor_9ecc7988/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-pdf-extractor.md) | ⭐ 15 | `commercial` |
 
-### Communication (217 skills)
+### Communication (216 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1311,14 +1315,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [A2A](communication/148-a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
-| [Skill](communication/name-skill_e8b1d18b/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/SKILL.md) | ⭐ 173 | `communication` |
-| [Skill](communication/name-skill_2ecac669/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gpt-image-1-5/SKILL.md) | ⭐ 173 | `communication` |
-| [Skill](communication/name-skill_ab46e025/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/nano-banana-pro/SKILL.md) | ⭐ 173 | `communication` |
-| [Gmail](communication/gmail_8e6e27a8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/gmail.md) | ⭐ 173 | `communication` |
-| [Property Types](communication/property-types_fe487365/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/property-types.md) | ⭐ 173 | `communication` |
-| [Authentication](communication/authentication_c3bbb872/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/authentication.md) | ⭐ 173 | `communication` |
+| [Skill](communication/127-name-skill_e8b1d18b/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/SKILL.md) | ⭐ 173 | `communication` |
+| [Skill](communication/127-name-skill_2ecac669/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gpt-image-1-5/SKILL.md) | ⭐ 173 | `communication` |
+| [Skill](communication/127-name-skill_ab46e025/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/nano-banana-pro/SKILL.md) | ⭐ 173 | `communication` |
+| [Gmail](communication/151-gmail_8e6e27a8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/gmail.md) | ⭐ 173 | `communication` |
+| [Property Types](communication/152-property-types_fe487365/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/property-types.md) | ⭐ 173 | `communication` |
 
-### Content Creation (356 skills)
+### Content Creation (354 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1666,20 +1669,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Iso13485 Clause Requirements](content-creation/178-iso13485-clause-requirements_8fdb7e76/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/iso13485-clause-requirements.md) | ⭐ 1.6k | `content creation` |
 | [Iso Regulatory Requirements](content-creation/179-iso-regulatory-requirements_62c831f2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/iso-regulatory-requirements.md) | ⭐ 1.6k | `content creation` |
 | [Architecture](content-creation/180-architecture_58224601/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 55 | `content creation` |
-| [Skill](content-creation/name-skill_54851201/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/anki-connect/SKILL.md) | ⭐ 173 | `content creation` |
-| [Skill](content-creation/name-skill_354b8335/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/markdown-converter/SKILL.md) | ⭐ 173 | `content creation` |
-| [Skill](content-creation/name-skill_cad2c5f9/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/SKILL.md) | ⭐ 173 | `content creation` |
-| [Skill](content-creation/name-skill_a88f8e66/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/SKILL.md) | ⭐ 173 | `content creation` |
-| [Drive Docs](content-creation/drive-docs_6a217ff3/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/drive-docs.md) | ⭐ 173 | `content creation` |
-| [Block Types](content-creation/block-types_c1b601ec/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/block-types.md) | ⭐ 173 | `content creation` |
-| [Filters And Sorts](content-creation/filters-and-sorts_8355c4eb/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/filters-and-sorts.md) | ⭐ 173 | `content creation` |
-| [Search Operators](content-creation/search-operators_3764173d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/search-operators.md) | ⭐ 173 | `content creation` |
-| [Skill](content-creation/name-skill_7ca220c8/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/lorem-ipsum/SKILL.md) | ⭐ 173 | `content creation` |
-| [Skill](content-creation/name-skill_a83c9e6c/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/promptify/SKILL.md) | ⭐ 173 | `content creation` |
-| [Troubleshooting](content-creation/troubleshooting_7833185d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/troubleshooting.md) | ⭐ 173 | `content creation` |
-| [Collections Sharing](content-creation/collections-sharing_47b0cebd/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/collections-sharing.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/049-name-skill_54851201/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/anki-connect/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/049-name-skill_354b8335/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/markdown-converter/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/049-name-skill_cad2c5f9/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/SKILL.md) | ⭐ 173 | `content creation` |
+| [Skill](content-creation/049-name-skill_a88f8e66/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/SKILL.md) | ⭐ 173 | `content creation` |
+| [Drive Docs](content-creation/181-drive-docs_6a217ff3/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/drive-docs.md) | ⭐ 173 | `content creation` |
+| [Block Types](content-creation/182-block-types_c1b601ec/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/block-types.md) | ⭐ 173 | `content creation` |
+| [Filters And Sorts](content-creation/183-filters-and-sorts_8355c4eb/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/filters-and-sorts.md) | ⭐ 173 | `content creation` |
+| [Search Operators](content-creation/184-search-operators_3764173d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/search-operators.md) | ⭐ 173 | `content creation` |
+| [Agents](content-creation/agents_c50e87bd/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/AGENTS.md) | ⭐ 15 | `content creation` |
+| [Review Requirements.Prompt](content-creation/review-requirementsprompt_cbffe1b4/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/review-requirements.prompt.md) | ⭐ 15 | `content creation` |
 
-### Daily Assistant (228 skills)
+### Daily Assistant (234 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1905,14 +1906,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Keyword Research Guide](daily-assistant/140-keyword-research-guide_631a6206/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/keyword-research-guide.md) | ⭐ 1.6k | `daily assistant` |
 | [Platform Requirements](daily-assistant/141-platform-requirements_686604da/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/platform-requirements.md) | ⭐ 1.6k | `daily assistant` |
 | [Sprint Planning Guide](daily-assistant/142-sprint-planning-guide_2ae5bb3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/sprint-planning-guide.md) | ⭐ 1.6k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_61a3d2bb/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/SKILL.md) | ⭐ 173 | `daily assistant` |
-| [Calendar](daily-assistant/calendar_abef4156/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/calendar.md) | ⭐ 173 | `daily assistant` |
-| [Command Reference](daily-assistant/command-reference_fee11083/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/command-reference.md) | ⭐ 173 | `daily assistant` |
-| [Other Services](daily-assistant/other-services_213f1169/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/other-services.md) | ⭐ 173 | `daily assistant` |
-| [Completed Tasks](daily-assistant/completed-tasks_d9f35a42/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/references/completed-tasks.md) | ⭐ 173 | `daily assistant` |
-| [Filters](daily-assistant/filters_635b2f5d/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/references/filters.md) | ⭐ 173 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_61a3d2bb/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/SKILL.md) | ⭐ 173 | `daily assistant` |
+| [Calendar](daily-assistant/143-calendar_abef4156/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/calendar.md) | ⭐ 173 | `daily assistant` |
+| [Command Reference](daily-assistant/144-command-reference_fee11083/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/command-reference.md) | ⭐ 173 | `daily assistant` |
+| [Other Services](daily-assistant/145-other-services_213f1169/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/gog-cli/references/other-services.md) | ⭐ 173 | `daily assistant` |
+| [Completed Tasks](daily-assistant/146-completed-tasks_d9f35a42/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/todoist-api/references/completed-tasks.md) | ⭐ 173 | `daily assistant` |
+| [Code Review.Prompt](daily-assistant/code-reviewprompt_29d6ab56/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/code-review.prompt.md) | ⭐ 15 | `daily assistant` |
+| [Execute Plan.Prompt](daily-assistant/execute-planprompt_01147c8e/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/execute-plan.prompt.md) | ⭐ 15 | `daily assistant` |
+| [New Requirement.Prompt](daily-assistant/new-requirementprompt_4b14ff18/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/new-requirement.prompt.md) | ⭐ 15 | `daily assistant` |
+| [Update Planning.Prompt](daily-assistant/update-planningprompt_c55467bb/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/update-planning.prompt.md) | ⭐ 15 | `daily assistant` |
+| [Feature Core Utils](daily-assistant/feature-core-utils_19df0927/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-core-utils.md) | ⭐ 15 | `daily assistant` |
+| [Feature Order Checker](daily-assistant/feature-order-checker_f3d540ca/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-order-checker.md) | ⭐ 15 | `daily assistant` |
+| [Feature Text Segmenter](daily-assistant/feature-text-segmenter_b4d46654/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-text-segmenter.md) | ⭐ 15 | `daily assistant` |
 
-### Data Analysis (693 skills)
+### Data Analysis (698 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2605,12 +2612,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Analysis](data-analysis/006-analysis_54a4a61c/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/pdf/analysis.md) | ⭐ 177 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2113a183/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md) | ⭐ 15 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_eb839304/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/SKILL.md) | ⭐ 1.6k | `data analysis` |
-| [Skill](data-analysis/name-skill_2ea48882/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/beautiful-mermaid/SKILL.md) | ⭐ 173 | `data analysis` |
-| [Skill](data-analysis/name-skill_af150871/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/ray-so-code-snippet/SKILL.md) | ⭐ 173 | `data analysis` |
-| [Skill](data-analysis/name-skill_4d4a96b1/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/youtube-transcript/SKILL.md) | ⭐ 173 | `data analysis` |
-| [Mermaid Syntax](data-analysis/mermaid-syntax_3da67ed3/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/beautiful-mermaid/references/mermaid-syntax.md) | ⭐ 173 | `data analysis` |
+| [Architecture](data-analysis/architecture_3f28b07b/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/pdf_to_epub/reference/architecture.md) | ⭐ 15 | `data analysis` |
+| [Feature Epub Extractor](data-analysis/feature-epub-extractor_7ae911c8/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-epub-extractor.md) | ⭐ 15 | `data analysis` |
+| [Feature Order Checker](data-analysis/feature-order-checker_e722dbed/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-order-checker.md) | ⭐ 15 | `data analysis` |
+| [Feature Pdf Extractor](data-analysis/feature-pdf-extractor_d4919e90/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-pdf-extractor.md) | ⭐ 15 | `data analysis` |
+| [Feature Structure Analyzer](data-analysis/feature-structure-analyzer_a2f9a0a5/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-structure-analyzer.md) | ⭐ 15 | `data analysis` |
+| [Feature Pdf Extractor](data-analysis/feature-pdf-extractor_92093e36/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-pdf-extractor.md) | ⭐ 15 | `data analysis` |
+| [Feature Pdf To Epub Conversion](data-analysis/feature-pdf-to-epub-conversion_4078e23f/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-pdf-to-epub-conversion.md) | ⭐ 15 | `data analysis` |
+| [Feature Structure Analyzer](data-analysis/feature-structure-analyzer_0e00e686/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-structure-analyzer.md) | ⭐ 15 | `data analysis` |
+| [Feature Structure Analyzer](data-analysis/feature-structure-analyzer_51a3dc46/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-structure-analyzer.md) | ⭐ 15 | `data analysis` |
 
-### Development (2932 skills)
+### Development (2950 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5542,10 +5554,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_93845cfe/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/github-archive/SKILL.md) | ⭐ 1.1k | `development` |
 | [Skill](development/1178-name-skill_ea8d8ff8/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/github-wayback-recovery/SKILL.md) | ⭐ 1.1k | `development` |
 | [Skill](development/1755-you-skill_8328016a/) | [gadievron/raptor](https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/orchestration/SKILL.md) | ⭐ 1.1k | `development` |
-| [Skill](development/name-skill_e1c404ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/context7/SKILL.md) | ⭐ 173 | `development` |
-| [Skill](development/name-skill_19722d60/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/mgrep-code-search/SKILL.md) | ⭐ 173 | `development` |
-| [Rich Text](development/rich-text_dc6c6644/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/rich-text.md) | ⭐ 173 | `development` |
-| [Highlights](development/highlights_02ff9038/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/highlights.md) | ⭐ 173 | `development` |
+| [Skill](development/1178-name-skill_e1c404ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/context7/SKILL.md) | ⭐ 173 | `development` |
+| [Skill](development/1178-name-skill_19722d60/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/mgrep-code-search/SKILL.md) | ⭐ 173 | `development` |
+| [Rich Text](development/1758-rich-text_dc6c6644/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/notion-api/references/rich-text.md) | ⭐ 173 | `development` |
+| [Highlights](development/1759-highlights_02ff9038/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/raindrop-api/references/highlights.md) | ⭐ 173 | `development` |
+| [Capture Knowledge.Prompt](development/capture-knowledgeprompt_dfe4ed89/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/capture-knowledge.prompt.md) | ⭐ 15 | `development` |
+| [Debug.Prompt](development/debugprompt_9448ef35/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/debug.prompt.md) | ⭐ 15 | `development` |
+| [Review Design.Prompt](development/review-designprompt_64b60c84/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/review-design.prompt.md) | ⭐ 15 | `development` |
+| [Feature Core Utils](development/feature-core-utils_2c8f3582/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-core-utils.md) | ⭐ 15 | `development` |
+| [Feature Pdf To Epub Conversion](development/feature-pdf-to-epub-conversion_1b492b9a/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-pdf-to-epub-conversion.md) | ⭐ 15 | `development` |
+| [Feature Text Canonicalizer](development/feature-text-canonicalizer_3b760055/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-text-canonicalizer.md) | ⭐ 15 | `development` |
+| [Feature Completeness Checker](development/feature-completeness-checker_8db7b053/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-completeness-checker.md) | ⭐ 15 | `development` |
+| [Feature Epub Extractor](development/feature-epub-extractor_7b29f521/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-epub-extractor.md) | ⭐ 15 | `development` |
+| [Feature Text Canonicalizer](development/feature-text-canonicalizer_e05cbcc2/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-text-canonicalizer.md) | ⭐ 15 | `development` |
+| [Feature Text Segmenter](development/feature-text-segmenter_f76c00f5/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-text-segmenter.md) | ⭐ 15 | `development` |
+| [Feature Text Canonicalizer](development/feature-text-canonicalizer_239b7661/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-text-canonicalizer.md) | ⭐ 15 | `development` |
+| [Feature Core Utils](development/feature-core-utils_d1bf241a/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-core-utils.md) | ⭐ 15 | `development` |
+| [Feature Pdf To Epub Conversion](development/feature-pdf-to-epub-conversion_715393cd/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-pdf-to-epub-conversion.md) | ⭐ 15 | `development` |
+| [Feature Text Canonicalizer](development/feature-text-canonicalizer_f606824a/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-text-canonicalizer.md) | ⭐ 15 | `development` |
+| [Feature Text Segmenter](development/feature-text-segmenter_0092a201/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-text-segmenter.md) | ⭐ 15 | `development` |
+| [Feature Core Utils](development/feature-core-utils_fe957506/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-core-utils.md) | ⭐ 15 | `development` |
+| [Feature Core Utils](development/feature-core-utils_1715d88c/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-core-utils.md) | ⭐ 15 | `development` |
+| [Feature Text Canonicalizer](development/feature-text-canonicalizer_792c13ac/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-text-canonicalizer.md) | ⭐ 15 | `development` |
 
 ### Development/Devops (280 skills)
 
@@ -5872,10 +5902,10 @@ Read more about the new architecture [here` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
 | [Threat Modeling Guide](development/devops/143-threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
-| [Prompt](development/devops/prompt_2b302963/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 851 | `development` |
-| [Server Cli Design](development/devops/server-cli-design_fb4d1528/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 851 | `development` |
+| [Prompt](development/devops/144-prompt_2b302963/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 851 | `development` |
+| [Server Cli Design](development/devops/145-server-cli-design_fb4d1528/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 851 | `development` |
 
-### Development/Testing (33 skills)
+### Development/Testing (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5912,8 +5942,24 @@ Read more about the new architecture [here` |
 | [Agents](development/testing/024-agents_7ee98168/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/agents.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_5785ddec/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/AGENTS.md) | ⭐ 44 | `development` |
+| [Development Plan](development/testing/development_plan_4bdd6112/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/DEVELOPMENT_PLAN.md) | ⭐ 15 | `development` |
+| [Check Implementation.Prompt](development/testing/check-implementationprompt_7379476f/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/check-implementation.prompt.md) | ⭐ 15 | `development` |
+| [Troubleshooting](development/testing/troubleshooting_3ff85fa0/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/pdf_to_epub/reference/troubleshooting.md) | ⭐ 15 | `development` |
+| [Advanced Heading Detection Plan](development/testing/advanced_heading_detection_plan_e467b7ef/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/advanced_heading_detection_plan.md) | ⭐ 15 | `development` |
+| [Feature Pdf To Epub Conversion](development/testing/feature-pdf-to-epub-conversion_dd844704/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/implementation/feature-pdf-to-epub-conversion.md) | ⭐ 15 | `development` |
+| [Feature Completeness Checker](development/testing/feature-completeness-checker_9efa14fd/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-completeness-checker.md) | ⭐ 15 | `development` |
+| [Feature Epub Extractor](development/testing/feature-epub-extractor_c71b143f/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-epub-extractor.md) | ⭐ 15 | `development` |
+| [Feature Pdf Extractor](development/testing/feature-pdf-extractor_ef202632/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/planning/feature-pdf-extractor.md) | ⭐ 15 | `development` |
+| [Writing Test.Prompt](development/testing/writing-testprompt_af0f34f8/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/.github/prompts/writing-test.prompt.md) | ⭐ 15 | `development` |
+| [Feature Completeness Checker](development/testing/feature-completeness-checker_452928b0/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-completeness-checker.md) | ⭐ 15 | `development` |
+| [Feature Epub Extractor](development/testing/feature-epub-extractor_3be8826e/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-epub-extractor.md) | ⭐ 15 | `development` |
+| [Feature Order Checker](development/testing/feature-order-checker_00a7a3b9/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-order-checker.md) | ⭐ 15 | `development` |
+| [Feature Pdf Extractor](development/testing/feature-pdf-extractor_3f794fbf/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-pdf-extractor.md) | ⭐ 15 | `development` |
+| [Feature Pdf To Epub Conversion](development/testing/feature-pdf-to-epub-conversion_5c636ceb/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-pdf-to-epub-conversion.md) | ⭐ 15 | `development` |
+| [Feature Structure Analyzer](development/testing/feature-structure-analyzer_30b309ec/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-structure-analyzer.md) | ⭐ 15 | `development` |
+| [Feature Text Segmenter](development/testing/feature-text-segmenter_937933be/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/testing/feature-text-segmenter.md) | ⭐ 15 | `development` |
 
-### Development/Tools (291 skills)
+### Development/Tools (290 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6203,11 +6249,10 @@ Read more about the new architecture [here` |
 | [Analysis](development/tools/141-analysis_5fbbd882/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/xlsx/analysis.md) | ⭐ 177 | `development` |
 | [Security Architecture Patterns](development/tools/142-security-architecture-patterns_58afe308/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/security-architecture-patterns.md) | ⭐ 1.6k | `development` |
 | [Skill](development/tools/002-name-skill_ee83351c/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 55 | `development` |
-| [Skill](development/tools/name-skill_fcf2729e/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 173 | `development` |
-| [Cli Agents Mcp](development/tools/cli-agents-mcp_ce14a3de/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/cli-agents-mcp.md) | ⭐ 173 | `development` |
-| [Skill](development/tools/name-skill_f7bb74a5/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/SKILL.md) | ⭐ 173 | `development` |
-| [Event System](development/tools/event-system_76a8e9b2/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/event-system.md) | ⭐ 173 | `development` |
-| [Working Examples](development/tools/working-examples_d5c20c03/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/working-examples.md) | ⭐ 173 | `development` |
+| [Skill](development/tools/002-name-skill_fcf2729e/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 173 | `development` |
+| [Cli Agents Mcp](development/tools/143-cli-agents-mcp_ce14a3de/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/copilot-sdk/references/cli-agents-mcp.md) | ⭐ 173 | `development` |
+| [Product Vision](development/tools/product-vision_d08dfda8/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/Product%20Vision.md) | ⭐ 15 | `development` |
+| [Feature Text Segmenter](development/tools/feature-text-segmenter_d10de260/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-text-segmenter.md) | ⭐ 15 | `development` |
 
 ### Investment (40 skills)
 
@@ -6252,7 +6297,7 @@ Read more about the new architecture [here` |
 | [Sources](investment/015-sources_3381ae19/) | [RKiding/Awesome-finance-skills](https://raw.githubusercontent.com/RKiding/Awesome-finance-skills/main/skills/alphaear-news/references/sources.md) | ⭐ 10 | `investment` |
 | [Usage Guide](investment/022-usage-guide_88e17021/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-stalling/usage-guide.md) | ⭐ 191 | `investment` |
 | [Reference](investment/023-reference_6826bad6/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
-| [Skill](investment/name-skill_edc06c22/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/tavily/SKILL.md) | ⭐ 173 | `investment` |
+| [Skill](investment/021-name-skill_edc06c22/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/tavily/SKILL.md) | ⭐ 173 | `investment` |
 
 ### Other (43 skills)
 
@@ -6302,7 +6347,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (181 skills)
+### Productivity (184 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6487,8 +6532,11 @@ Read more about the new architecture [here` |
 | [Benchmarking](productivity/107-benchmarking_a5ba5a13/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/BENCHMARKING.md) | ⭐ 3.9k | `productivity` |
 | [Multi Agent Vs Single Agent Systems](productivity/108-multi-agent-vs-single-agent-systems_088f46ed/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/multi-agent-vs-single-agent-systems.md) | ⭐ 4.8k | `productivity` |
 | [How Kimi Works](productivity/109-how-kimi-works_77669abd/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/analysis/how-kimi-works.md) | ⭐ 177 | `productivity` |
+| [Feature Completeness Checker](productivity/feature-completeness-checker_96f7d59a/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/design/feature-completeness-checker.md) | ⭐ 15 | `productivity` |
+| [Feature Completeness Checker](productivity/feature-completeness-checker_4a3b0d7d/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-completeness-checker.md) | ⭐ 15 | `productivity` |
+| [Feature Epub Extractor](productivity/feature-epub-extractor_43645796/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/docs/ai/requirements/feature-epub-extractor.md) | ⭐ 15 | `productivity` |
 
-### Research (293 skills)
+### Research (296 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6785,6 +6833,9 @@ Read more about the new architecture [here` |
 | [Package Discovery](research/176-package-discovery_0f5d181f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/wheel-target/package-discovery.md) | ⭐ 16 | `research` |
 | [Global Regulatory Pathways](research/177-global-regulatory-pathways_a271cb0e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/global-regulatory-pathways.md) | ⭐ 1.6k | `research` |
 | [Iso14971 Implementation Guide](research/178-iso14971-implementation-guide_5fc9a147/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/iso14971-implementation-guide.md) | ⭐ 1.6k | `research` |
+| [Skill](research/name-skill_5ea7d3c6/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/pdf_to_epub/SKILL.md) | ⭐ 15 | `research` |
+| [Code Adaptation](research/code-adaptation_ab978a8a/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/pdf_to_epub/reference/code-adaptation.md) | ⭐ 15 | `research` |
+| [Config Tuning](research/config-tuning_c4201a8b/) | [koreyba/Claude-Skill-pdf-to-epub](https://raw.githubusercontent.com/koreyba/Claude-Skill-pdf-to-epub/master/pdf_to_epub/reference/config-tuning.md) | ⭐ 15 | `research` |
 
 ## Repository Structure
 
