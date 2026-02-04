@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6571 AI-powered skills** organized into 16 categories.
+A curated collection of **6567 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (84 skills)
+- **Automation/Scripting** (83 skills)
 - **Automation/Workflow** (93 skills)
-- **Commercial** (429 skills)
-- **Communication** (212 skills)
-- **Content Creation** (343 skills)
+- **Commercial** (428 skills)
+- **Communication** (211 skills)
+- **Content Creation** (344 skills)
 - **Daily Assistant** (222 skills)
 - **Data Analysis** (689 skills)
 - **Development** (2903 skills)
 - **Development/Devops** (278 skills)
 - **Development/Testing** (33 skills)
-- **Development/Tools** (287 skills)
+- **Development/Tools** (286 skills)
 - **Investment** (39 skills)
 - **Other** (43 skills)
-- **Productivity** (182 skills)
+- **Productivity** (181 skills)
 - **Research** (293 skills)
 
 ## Skills Directory
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (84 skills)
+### Automation/Scripting (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -561,7 +561,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ida Fixup](automation/scripting/032-ida_fixup_99c370dd/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/03_bytes_data/ida_fixup.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_feab4ee5/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/pdf-processing/SKILL.md) | ⭐ 15 | `automation` |
 | [Skill](automation/scripting/003-name-skill_0f4b99aa/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/web-search/SKILL.md) | ⭐ 15 | `automation` |
-| [Qms Process Templates](automation/scripting/qms-process-templates_a8133506/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/qms-process-templates.md) | ⭐ 1.6k | `automation` |
 
 ### Automation/Workflow (93 skills)
 
@@ -659,9 +658,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Release Guide](automation/workflow/037-release_guide_99495a39/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/RELEASE_GUIDE.md) | ⭐ 3.9k | `automation` |
 | [Pr Requirements](automation/workflow/038-pr-requirements_03e587e4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-requirements.md) | ⭐ 4.8k | `automation` |
 | [Human In The Loop Ai Agents](automation/workflow/039-human-in-the-loop-ai-agents_5225d5b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/human-in-the-loop-ai-agents.md) | ⭐ 4.8k | `automation` |
-| [World Weaver](automation/workflow/world_weaver_3099856f/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/World_weaver.md) | ⭐ 25 | `automation` |
+| [Readme.Ja](automation/workflow/readmeja_a25c8ae6/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
-### Commercial (429 skills)
+### Commercial (428 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1093,9 +1092,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Terraform](commercial/280-terraform_68501fa7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/devops-iac-engineer/reference/terraform.md) | 🔥 19.4k | `commercial` |
 | [Backup Recovery](commercial/281-backup-recovery_577f1644/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/it-operations/reference/backup-recovery.md) | 🔥 19.4k | `commercial` |
 | [Security Operations](commercial/282-security-operations_3a718152/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/security-compliance/reference/security-operations.md) | 🔥 19.4k | `commercial` |
-| [Character Vault](commercial/character_vault_b2ce1ce9/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/Character_Vault.md) | ⭐ 25 | `commercial` |
 
-### Communication (212 skills)
+### Communication (211 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1310,9 +1308,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [A2A](communication/148-a2a_8bcd3d93/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/a2a.md) | 🔥 35.1k | `communication` |
 | [Ai Agent Cost Management Guide](communication/149-ai-agent-cost-management-guide_a19cf646/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-cost-management-guide.md) | ⭐ 4.8k | `communication` |
 | [01 Getting Started](communication/150-01-getting-started_2743ad9e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/01-getting-started.md) | ⭐ 4.8k | `communication` |
-| [User Story Templates](communication/user-story-templates_2c5cc362/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/user-story-templates.md) | ⭐ 1.6k | `communication` |
 
-### Content Creation (343 skills)
+### Content Creation (344 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1657,8 +1654,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Schedule](content-creation/175-schedule_48e1de2d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/plugins/content-factory/commands/schedule.md) | ⭐ 186 | `content creation` |
 | [Voice Tone](content-creation/176-voice-tone_e7c3eb9d/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/brand-building/references/voice-tone.md) | ⭐ 186 | `content creation` |
 | [Repurposing](content-creation/177-repurposing_50688c6e/) | [aitytech/agentkits-marketing](https://raw.githubusercontent.com/aitytech/agentkits-marketing/main/.claude/skills/content-strategy/references/repurposing.md) | ⭐ 186 | `content creation` |
-| [Iso13485 Clause Requirements](content-creation/iso13485-clause-requirements_8fdb7e76/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/iso13485-clause-requirements.md) | ⭐ 1.6k | `content creation` |
-| [Iso Regulatory Requirements](content-creation/iso-regulatory-requirements_62c831f2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/iso-regulatory-requirements.md) | ⭐ 1.6k | `content creation` |
+| [Iso13485 Clause Requirements](content-creation/178-iso13485-clause-requirements_8fdb7e76/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/quality-manager-qms-iso13485/references/iso13485-clause-requirements.md) | ⭐ 1.6k | `content creation` |
+| [Iso Regulatory Requirements](content-creation/179-iso-regulatory-requirements_62c831f2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/iso-regulatory-requirements.md) | ⭐ 1.6k | `content creation` |
+| [Architecture](content-creation/architecture_58224601/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 55 | `content creation` |
 
 ### Daily Assistant (222 skills)
 
@@ -1881,11 +1879,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Build Environment Configuration](daily-assistant/136-build-environment-configuration_227cc6ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/build-environment/build-environment-configuration.md) | ⭐ 16 | `daily assistant` |
 | [Version Scheme Plugins](daily-assistant/137-version-scheme-plugins_d0e9a611/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/plugins/version-scheme-plugins.md) | ⭐ 16 | `daily assistant` |
 | [Workspaces](daily-assistant/138-workspaces_c4bbba84/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/architecture/workspaces.md) | ⭐ 177 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_ed379bdd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/SKILL.md) | ⭐ 1.6k | `daily assistant` |
-| [Aso Best Practices](daily-assistant/aso-best-practices_e86e9710/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/aso-best-practices.md) | ⭐ 1.6k | `daily assistant` |
-| [Keyword Research Guide](daily-assistant/keyword-research-guide_631a6206/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/keyword-research-guide.md) | ⭐ 1.6k | `daily assistant` |
-| [Platform Requirements](daily-assistant/platform-requirements_686604da/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/platform-requirements.md) | ⭐ 1.6k | `daily assistant` |
-| [Sprint Planning Guide](daily-assistant/sprint-planning-guide_2ae5bb3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/sprint-planning-guide.md) | ⭐ 1.6k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_ed379bdd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/SKILL.md) | ⭐ 1.6k | `daily assistant` |
+| [Aso Best Practices](daily-assistant/139-aso-best-practices_e86e9710/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/aso-best-practices.md) | ⭐ 1.6k | `daily assistant` |
+| [Keyword Research Guide](daily-assistant/140-keyword-research-guide_631a6206/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/keyword-research-guide.md) | ⭐ 1.6k | `daily assistant` |
+| [Platform Requirements](daily-assistant/141-platform-requirements_686604da/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/references/platform-requirements.md) | ⭐ 1.6k | `daily assistant` |
+| [Sprint Planning Guide](daily-assistant/142-sprint-planning-guide_2ae5bb3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/product-team/agile-product-owner/references/sprint-planning-guide.md) | ⭐ 1.6k | `daily assistant` |
 
 ### Data Analysis (689 skills)
 
@@ -2579,7 +2577,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Chrome Profile](data-analysis/308-chrome-profile_903c62d6/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/chrome-profile.md) | ⭐ 177 | `data analysis` |
 | [Analysis](data-analysis/006-analysis_54a4a61c/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/pdf/analysis.md) | ⭐ 177 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2113a183/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/graphrag-query/SKILL.md) | ⭐ 15 | `data analysis` |
-| [Skill](data-analysis/name-skill_eb839304/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/SKILL.md) | ⭐ 1.6k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_eb839304/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/SKILL.md) | ⭐ 1.6k | `data analysis` |
 
 ### Development (2903 skills)
 
@@ -5486,8 +5484,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Glossary](development/429-glossary_2233010a/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/GLOSSARY.md) | ⭐ 177 | `development` |
 | [Pdf Viewer](development/1184-pdf-viewer_8fca7da2/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/deep-dives/runtime/pdf-viewer.md) | ⭐ 177 | `development` |
 | [Analysis](development/034-analysis_776e3c68/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/webapp/analysis.md) | ⭐ 177 | `development` |
-| [Cryptography Implementation](development/cryptography-implementation_f9389c5d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/cryptography-implementation.md) | ⭐ 1.6k | `development` |
-| [Risk Analysis Methods](development/risk-analysis-methods_46b56d11/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/risk-analysis-methods.md) | ⭐ 1.6k | `development` |
+| [Cryptography Implementation](development/1732-cryptography-implementation_f9389c5d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/cryptography-implementation.md) | ⭐ 1.6k | `development` |
+| [Risk Analysis Methods](development/1733-risk-analysis-methods_46b56d11/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/risk-analysis-methods.md) | ⭐ 1.6k | `development` |
 
 ### Development/Devops (278 skills)
 
@@ -5812,8 +5810,8 @@ Read more about the new architecture [here` |
 | [Variables](development/devops/204-variables_c3203c6f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/railway/new/references/variables.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_533297ee/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/workflow-automation/n8n/n8n-mcp-tools-expert/SKILL.md) | 🔥 19.4k | `development` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
-| [Skill](development/devops/name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
-| [Threat Modeling Guide](development/devops/threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
+| [Skill](development/devops/014-name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
+| [Threat Modeling Guide](development/devops/143-threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
 
 ### Development/Testing (33 skills)
 
@@ -5853,7 +5851,7 @@ Read more about the new architecture [here` |
 | [Agents](development/testing/024-agents_fa70b8e4/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/meeseeks-cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_5785ddec/) | [leemysw/feishu-docx](https://raw.githubusercontent.com/leemysw/feishu-docx/main/AGENTS.md) | ⭐ 44 | `development` |
 
-### Development/Tools (287 skills)
+### Development/Tools (286 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6141,9 +6139,8 @@ Read more about the new architecture [here` |
 | [Text Overlays](development/tools/175-text-overlays_86fb200e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/heygen-best-practices/rules/text-overlays.md) | 🔥 19.4k | `development` |
 | [Authentication](development/tools/176-authentication_9f3ca61a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/mcp-integration/references/authentication.md) | 🔥 19.4k | `development` |
 | [Analysis](development/tools/141-analysis_5fbbd882/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/skills/xlsx/analysis.md) | ⭐ 177 | `development` |
-| [Security Architecture Patterns](development/tools/security-architecture-patterns_58afe308/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/security-architecture-patterns.md) | ⭐ 1.6k | `development` |
-| [Genesis](development/tools/genesis_93c5e226/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/Genesis.md) | ⭐ 25 | `development` |
-| [Prompt Helper](development/tools/prompt_helper_fde1e4b8/) | [Creepybits/World_weaver](https://raw.githubusercontent.com/Creepybits/World_weaver/Master/docs/Prompt_Helper.md) | ⭐ 25 | `development` |
+| [Security Architecture Patterns](development/tools/142-security-architecture-patterns_58afe308/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/security-architecture-patterns.md) | ⭐ 1.6k | `development` |
+| [Skill](development/tools/name-skill_ee83351c/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 55 | `development` |
 
 ### Investment (39 skills)
 
@@ -6237,7 +6234,7 @@ Read more about the new architecture [here` |
 | [Chain Verify](other/034-chain-verify_6bca8b41/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/chain-verify.md) | ⭐ 27 | `other` |
 | [Premortem](other/035-premortem_5c1c906e/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/premortem.md) | ⭐ 27 | `other` |
 
-### Productivity (182 skills)
+### Productivity (181 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6422,7 +6419,6 @@ Read more about the new architecture [here` |
 | [Benchmarking](productivity/107-benchmarking_a5ba5a13/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/BENCHMARKING.md) | ⭐ 3.9k | `productivity` |
 | [Multi Agent Vs Single Agent Systems](productivity/108-multi-agent-vs-single-agent-systems_088f46ed/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/multi-agent-vs-single-agent-systems.md) | ⭐ 4.8k | `productivity` |
 | [How Kimi Works](productivity/109-how-kimi-works_77669abd/) | [dnnyngyen/kimi-k2.5-system-analysis](https://raw.githubusercontent.com/dnnyngyen/kimi-k2.5-system-analysis/main/analysis/how-kimi-works.md) | ⭐ 177 | `productivity` |
-| [Aso Audit Template](productivity/aso-audit-template_3a96bbc3/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/app-store-optimization/assets/aso-audit-template.md) | ⭐ 1.6k | `productivity` |
 
 ### Research (293 skills)
 
@@ -6719,8 +6715,8 @@ Read more about the new architecture [here` |
 | [Research Foundations](research/174-research-foundations_7c58d656/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/verification-gate/skills/verification-gate/references/research-foundations.md) | ⭐ 16 | `research` |
 | [Licenses](research/175-licenses_ec047788/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/project-metadata/licenses.md) | ⭐ 16 | `research` |
 | [Package Discovery](research/176-package-discovery_0f5d181f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/wheel-target/package-discovery.md) | ⭐ 16 | `research` |
-| [Global Regulatory Pathways](research/global-regulatory-pathways_a271cb0e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/global-regulatory-pathways.md) | ⭐ 1.6k | `research` |
-| [Iso14971 Implementation Guide](research/iso14971-implementation-guide_5fc9a147/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/iso14971-implementation-guide.md) | ⭐ 1.6k | `research` |
+| [Global Regulatory Pathways](research/177-global-regulatory-pathways_a271cb0e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/regulatory-affairs-head/references/global-regulatory-pathways.md) | ⭐ 1.6k | `research` |
+| [Iso14971 Implementation Guide](research/178-iso14971-implementation-guide_5fc9a147/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/iso14971-implementation-guide.md) | ⭐ 1.6k | `research` |
 
 ## Repository Structure
 

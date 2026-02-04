@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-04T12:28:44.568736",
+  "updated_at": "2026-02-04T12:37:43.907763",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -91897,6 +91897,48 @@
       "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/ra-qm-team/risk-management-specialist/references/iso14971-implementation-guide.md",
       "display_name": "Iso14971 Implementation Guide",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "a25c8ae6f984f219fd4d47653b721c45d082b9dd6aa6e66ffffe499d2566f6b1",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "automation/workflow/040-readmeja_a25c8ae6",
+      "category": "automation/workflow",
+      "name": "readmeja_a25c8ae6",
+      "indexed_at": "2026-02-04T12:37:42.830012",
+      "repo_stars": 26,
+      "repo_updated_at": "2026-02-04T09:22:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "58224601a6ef252af2eaa72019d92eb9549c1a24b4cef7658f352fff630f136d",
+      "source_path": "ARCHITECTURE.md",
+      "source_repo": "seojoonkim/prompt-guard",
+      "local_path": "content-creation/180-architecture_58224601",
+      "category": "content-creation",
+      "name": "architecture_58224601",
+      "indexed_at": "2026-02-04T12:37:43.549324",
+      "repo_stars": 55,
+      "repo_updated_at": "2026-02-02T13:17:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md",
+      "display_name": "Architecture",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "ee83351c5f3cadd46e68d274860fe8b7a1bfe03b67355a1750f96719f9a95b34",
+      "source_path": "SKILL.md",
+      "source_repo": "seojoonkim/prompt-guard",
+      "local_path": "development/tools/002-name-skill_ee83351c",
+      "category": "development/tools",
+      "name": "name-skill_ee83351c",
+      "indexed_at": "2026-02-04T12:37:43.907727",
+      "repo_stars": 55,
+      "repo_updated_at": "2026-02-02T13:17:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
