@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **6981 AI-powered skills** organized into 16 categories.
+A curated collection of **7026 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -16,10 +16,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (389 skills)
 - **Daily Assistant** (240 skills)
 - **Data Analysis** (726 skills)
-- **Development** (3056 skills)
-- **Development/Devops** (295 skills)
+- **Development** (3065 skills)
+- **Development/Devops** (305 skills)
 - **Development/Testing** (43 skills)
-- **Development/Tools** (301 skills)
+- **Development/Tools** (327 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (200 skills)
@@ -1134,7 +1134,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Risk Stakeholder](commercial/280-risk-stakeholder_342381a4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/manage-business-strategy/references/risk-stakeholder.md) | ⭐ 14 | `commercial` |
 | [Common Pitfalls](commercial/281-common-pitfalls_9be6a90d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/common-pitfalls.md) | ⭐ 14 | `commercial` |
 | [40 Principles](commercial/282-40-principles_d16f9835/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/40-principles.md) | ⭐ 14 | `commercial` |
-| [01 Architecture](commercial/01-architecture_cf6896ca/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 861 | `commercial` |
+| [01 Architecture](commercial/283-01-architecture_cf6896ca/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 861 | `commercial` |
 
 ### Communication (243 skills)
 
@@ -2752,9 +2752,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Row Headers](data-analysis/332-multi-row-headers_5eb7537a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/multi-row-headers.md) | ⭐ 14 | `data analysis` |
 | [Transformation Patterns](data-analysis/333-transformation-patterns_e383b8f7/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/transformation-patterns.md) | ⭐ 14 | `data analysis` |
 | [Advanced](data-analysis/334-advanced_e1d3d7a9/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/advanced.md) | ⭐ 14 | `data analysis` |
-| [01 Architecture](data-analysis/01-architecture_fb012b1b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 861 | `data analysis` |
+| [01 Architecture](data-analysis/335-01-architecture_fb012b1b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 861 | `data analysis` |
 
-### Development (3056 skills)
+### Development (3065 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5813,9 +5813,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Expense Reports](development/1880-expense-reports_f4c7bdbf/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/scenarios/agents/Fraud%20Analysis/Markdown/Expense%20Reports.md) | ⭐ 110 | `development` |
 | [Researcher Thinking](development/1890-researcher-thinking_9a94edb8/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/researcher-thinking.md) | ⭐ 14 | `development` |
 | [Methodology](development/1891-methodology_c21596f4/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/references/methodology.md) | ⭐ 14 | `development` |
-| [Agents](development/agents_e01569b4/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/AGENTS.md) | ⭐ 14 | `development` |
+| [Agents](development/028-agents_e01569b4/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/AGENTS.md) | ⭐ 14 | `development` |
+| [Readme Flat Claude Md Az](development/readme_flat_claude-md_az_a97fe5c9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Claude Md Created](development/readme_flat_claude-md_created_0bae3fd6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Claude Md Updated](development/readme_flat_claude-md_updated_8cba3587/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Az](development/readme_flat_commands_az_d33bb8a9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Created](development/readme_flat_commands_created_bdd4b436/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Updated](development/readme_flat_commands_updated_c4eb8ebf/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Az](development/readme_flat_skills_az_f860786a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Created](development/readme_flat_skills_created_644ee733/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Updated](development/readme_flat_skills_updated_9df5b749/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 22.8k | `development` |
 
-### Development/Devops (295 skills)
+### Development/Devops (305 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6140,8 +6149,8 @@ Read more about the new architecture [here` |
 | [Guidelines](development/devops/205-guidelines_16c4c835/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/database/using-neon/references/neon-rest-api/guidelines.md) | 🔥 19.4k | `development` |
 | [Skill](development/devops/014-name-skill_7c94d61b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/SKILL.md) | ⭐ 1.6k | `development` |
 | [Threat Modeling Guide](development/devops/143-threat-modeling-guide_6962830a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/senior-security/references/threat-modeling-guide.md) | ⭐ 1.6k | `development` |
-| [Prompt](development/devops/prompt_dedec6a1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 861 | `development` |
-| [Server Cli Design](development/devops/server-cli-design_9d39c64e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 861 | `development` |
+| [Prompt](development/devops/144-prompt_2b302963/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 851 | `development` |
+| [Server Cli Design](development/devops/145-server-cli-design_fb4d1528/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 851 | `development` |
 | [Skill](development/devops/014-name-skill_c8365450/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/mp-cover-generator/SKILL.md) | ⭐ 71 | `development` |
 | [Skill](development/devops/014-name-skill_db178249/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/xiaohuihui-tech-article/Skill.md) | ⭐ 71 | `development` |
 | [Setup Guide](development/devops/146-setup_guide_4c65658b/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/jimeng_mcp_skill/references/setup_guide.md) | ⭐ 71 | `development` |
@@ -6156,7 +6165,17 @@ Read more about the new architecture [here` |
 | [Frameworks](development/devops/153-frameworks_21ee1db1/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/frameworks.md) | ⭐ 14 | `development` |
 | [Prompt](development/devops/144-prompt_dedec6a1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 861 | `development` |
 | [Server Cli Design](development/devops/145-server-cli-design_9d39c64e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 861 | `development` |
-| [01 Client](development/devops/01-client_e6bb1d78/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-client.md) | ⭐ 861 | `development` |
+| [Readme Awesome](development/devops/readme_awesome_df9fd3fe/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 22.8k | `development` |
+| [Readme Classic](development/devops/readme_classic_b3baa89c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 22.8k | `development` |
+| [Readme Extra](development/devops/readme_extra_b7109ad0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_EXTRA.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Az](development/devops/readme_flat_all_az_cec300c6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Created](development/devops/readme_flat_all_created_6467ae16/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Releases](development/devops/readme_flat_all_releases_536ba5cb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Updated](development/devops/readme_flat_all_updated_0af90176/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Az](development/devops/readme_flat_tooling_az_6c35756e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Created](development/devops/readme_flat_tooling_created_abee7b25/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Releases](development/devops/readme_flat_tooling_releases_03cd8bd5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Updated](development/devops/readme_flat_tooling_updated_110bbfa5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
 
 ### Development/Testing (43 skills)
 
@@ -6206,7 +6225,7 @@ Read more about the new architecture [here` |
 | [Large Api Response Enhancement](development/testing/033-large_api_response_enhancement_510140bd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.229.001/LARGE_API_RESPONSE_ENHANCEMENT.md) | ⭐ 110 | `development` |
 | [Public Workspace Storage Calculation Fix](development/testing/034-public_workspace_storage_calculation_fix_20807ba7/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.235.001/PUBLIC_WORKSPACE_STORAGE_CALCULATION_FIX.md) | ⭐ 110 | `development` |
 
-### Development/Tools (301 skills)
+### Development/Tools (327 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6510,7 +6529,33 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_0f882c65/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `development` |
 | [Anti Patterns](development/tools/153-anti-patterns_8de1c92f/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/anti-patterns.md) | ⭐ 14 | `development` |
 | [Advanced](development/tools/154-advanced_23c9f38e/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/advanced.md) | ⭐ 14 | `development` |
-| [01 Client](development/tools/01-client_452a784a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-client.md) | ⭐ 861 | `development` |
+| [Readme Flat Claude Md Releases](development/tools/readme_flat_claude-md_releases_8c8123e5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Az](development/tools/readme_flat_clients_az_9fcea087/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Created](development/tools/readme_flat_clients_created_bd39a058/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Releases](development/tools/readme_flat_clients_releases_4d885a47/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Updated](development/tools/readme_flat_clients_updated_f22be2a4/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Releases](development/tools/readme_flat_commands_releases_c892358e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Az](development/tools/readme_flat_docs_az_c0727ab8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Created](development/tools/readme_flat_docs_created_7f91119d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Releases](development/tools/readme_flat_docs_releases_180f500e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Updated](development/tools/readme_flat_docs_updated_f4f6faa7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Az](development/tools/readme_flat_hooks_az_8630104a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Created](development/tools/readme_flat_hooks_created_cb4978e5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Releases](development/tools/readme_flat_hooks_releases_7f213bd2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Updated](development/tools/readme_flat_hooks_updated_07195ebb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Releases](development/tools/readme_flat_skills_releases_fcb09486/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Az](development/tools/readme_flat_statusline_az_dc063317/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Created](development/tools/readme_flat_statusline_created_bdc0c5cf/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Releases](development/tools/readme_flat_statusline_releases_7e7744f0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Updated](development/tools/readme_flat_statusline_updated_36f05d0b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Az](development/tools/readme_flat_styles_az_943c8ad6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Created](development/tools/readme_flat_styles_created_443e3da5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Releases](development/tools/readme_flat_styles_releases_374cdb39/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Updated](development/tools/readme_flat_styles_updated_69342e69/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Az](development/tools/readme_flat_workflows_az_75c4357b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Created](development/tools/readme_flat_workflows_created_746336fe/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Releases](development/tools/readme_flat_workflows_releases_784918c0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Updated](development/tools/readme_flat_workflows_updated_e4b1c2f9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 22.8k | `development` |
 
 ### Investment (43 skills)
 
@@ -7130,7 +7175,7 @@ Read more about the new architecture [here` |
 | [Enhancement Log](research/192-enhancement-log_8eee7ac2/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/enhancement-log.md) | ⭐ 14 | `research` |
 | [Workflows](research/193-workflows_ccf18e8a/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/references/workflows.md) | ⭐ 14 | `research` |
 | [Ai Prompts](research/194-ai-prompts_4e52c0c6/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/ai-prompts.md) | ⭐ 14 | `research` |
-| [Claude](research/claude_cbdef8aa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) | ⭐ 14 | `research` |
+| [Claude](research/015-claude_cbdef8aa/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/evals/CLAUDE.md) | ⭐ 14 | `research` |
 
 ## Repository Structure
 
