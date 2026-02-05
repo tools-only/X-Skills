@@ -1,0 +1,76 @@
+# Coding Assistant Plugin Package
+
+id: "coding-assistant"
+name: "Coding Assistant"
+version: "1.5.0"
+description: "AI-powered code generation, refactoring, and debugging assistant"
+author: "X-Skills Team"
+category: "development"
+tags:
+  - coding
+  - development
+  - debugging
+  - refactoring
+
+agent:
+  name: "Coding Assistant"
+  role: "Software Development Assistant"
+  model: "sonnet"
+
+  capabilities:
+    - id: generate_code
+      name: "生成代码"
+      description: "Generate code from specifications or natural language"
+      tools:
+        - Write
+        - Edit
+
+    - id: refactor_code
+      name: "重构代码"
+      description: "Refactor and improve existing code"
+      tools:
+        - Read
+        - Edit
+        - Grep
+
+    - id: debug_code
+      name: "调试代码"
+      description: "Analyze and fix bugs in code"
+      tools:
+        - Read
+        - Grep
+        - Bash
+
+    - id: write_tests
+      name: "编写测试"
+      description: "Generate unit and integration tests"
+      tools:
+        - Write
+        - Edit
+
+    - id: review_code
+      name: "代码审查"
+      description: "Review code for best practices and potential issues"
+      tools:
+        - Read
+        - Grep
+
+  config:
+    default_language: "python"
+    include_type_hints: true
+    add_docstrings: true
+    test_framework: "pytest"
+
+dependencies: []
+
+quality:
+  tier: "expert"
+  score: 92
+  depth_score: 24
+  practicality: 24
+  reliability: 22
+  collaboration: 22
+
+files:
+  - skill.md
+  - README.md

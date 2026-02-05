@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7727 AI-powered skills** organized into 16 categories.
+A curated collection of **7738 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,15 +11,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (672 skills)
 - **Automation/Scripting** (5 skills)
 - **Automation/Workflow** (6 skills)
-- **Commercial** (494 skills)
+- **Commercial** (495 skills)
 - **Communication** (278 skills)
 - **Content Creation** (449 skills)
 - **Daily Assistant** (306 skills)
 - **Data Analysis** (784 skills)
 - **Development** (4002 skills)
-- **Development/Devops** (23 skills)
-- **Development/Testing** (4 skills)
-- **Development/Tools** (39 skills)
+- **Development/Devops** (25 skills)
+- **Development/Testing** (9 skills)
+- **Development/Tools** (42 skills)
 - **Investment** (47 skills)
 - **Other** (43 skills)
 - **Productivity** (223 skills)
@@ -726,7 +726,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
 | [Skill](automation/workflow/002-name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
 
-### Commercial (494 skills)
+### Commercial (495 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1224,6 +1224,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt No Thinking](commercial/305-system_prompt_no_thinking_a8a6821b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_no_thinking.md) | ⭐ 17 | `commercial` |
 | [Skill](commercial/210-name-skill_8f5b454c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md) | ⭐ 13 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_7cefa3b3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 926 | `commercial` |
+| [Agents](commercial/agents_a55d2e22/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
 
 ### Communication (278 skills)
 
@@ -7069,7 +7070,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tools Comparison](development/2032-tools-comparison_fbec41c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/references/tools-comparison.md) | 🔥 7.2k | `development` |
 | [Contributing Cn](development/2034-contributing_cn_c62fea39/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 926 | `development` |
 
-### Development/Devops (23 skills)
+### Development/Devops (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7096,8 +7097,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prompt](development/devops/144-prompt_6a385dd6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 926 | `development` |
 | [07 Debug](development/devops/189-07-debug_e43bccae/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-debug.md) | ⭐ 926 | `development` |
 | [07 Debug](development/devops/189-07-debug_ebe6b87e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-debug.md) | ⭐ 926 | `development` |
+| [Getting Started](development/devops/getting-started_91cf2684/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md) | ⭐ 29 | `development` |
+| [Index](development/devops/index_8ece0aff/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
 
-### Development/Testing (4 skills)
+### Development/Testing (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7105,8 +7108,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Best Practices](development/testing/040-best_practices_8307d63b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/BEST_PRACTICES.md) | ⭐ 17 | `development` |
 | [Claude](development/testing/041-claude_8d6a8590/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLAUDE.md) | ⭐ 17 | `development` |
 | [Flutter](development/testing/042-flutter_b779f9f8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/flutter.md) | ⭐ 17 | `development` |
+| [Agents](development/testing/agents_9da78b25/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_0101a181/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_chat/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_091e85e9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_88d79d22/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/meeseeks_ha_conversation/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_56be9189/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/tests/AGENTS.md) | ⭐ 29 | `development` |
 
-### Development/Tools (39 skills)
+### Development/Tools (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7149,6 +7157,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Troubleshooting](development/tools/205-troubleshooting_f3910689/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/TROUBLESHOOTING.md) | ⭐ 17 | `development` |
 | [Skills](development/tools/206-claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
 | [Maintenance](development/tools/207-maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
+| [Git Commit Instructions](development/tools/git-commit-instructions_540df4f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/.github/git-commit-instructions.md) | ⭐ 29 | `development` |
+| [Components](development/tools/components_281340e5/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/components.md) | ⭐ 29 | `development` |
+| [Reference](development/tools/reference_5851a899/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/reference.md) | ⭐ 29 | `development` |
 
 ### Investment (47 skills)
 
@@ -7833,7 +7844,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Placeholder](research/219-data_placeholder_a0ab8107/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/data/data_placeholder.md) | ⭐ 17 | `research` |
 | [Bibliography](research/220-bibliography_1fc1fc67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/bibliography.md) | ⭐ 17 | `research` |
 | [Verification Checklist](research/221-verification_checklist_4e67fb0b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/verification_checklist.md) | ⭐ 17 | `research` |
-| [Seo Geo 1K Installs Milestone](research/seo-geo-1k-installs-milestone_0d6c890d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md) | ⭐ 69 | `research` |
+| [Seo Geo 1K Installs Milestone](research/222-seo-geo-1k-installs-milestone_0d6c890d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md) | ⭐ 69 | `research` |
 
 ## Repository Structure
 

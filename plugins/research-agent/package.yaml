@@ -1,0 +1,66 @@
+# Research Agent Plugin Package
+
+id: "research-agent"
+name: "Research Agent"
+version: "1.0.0"
+description: "Academic research assistant for literature search, paper analysis, and knowledge synthesis"
+author: "X-Skills Team"
+category: "research"
+tags:
+  - research
+  - academic
+  - literature
+  - analysis
+
+agent:
+  name: "Research Agent"
+  role: "Academic Research Assistant"
+  model: "sonnet"
+
+  capabilities:
+    - id: search_literature
+      name: "搜索学术文献"
+      description: "Search academic databases for relevant literature"
+      tools:
+        - WebSearch
+        - WebFetch
+
+    - id: analyze_paper
+      name: "分析论文"
+      description: "Analyze research papers and extract key insights"
+      tools:
+        - Read
+        - WebFetch
+
+    - id: summarize_findings
+      name: "总结发现"
+      description: "Summarize research findings across multiple papers"
+      tools: []
+
+    - id: suggest_related
+      name: "推荐相关文献"
+      description: "Suggest related research and citations"
+      tools:
+        - WebSearch
+
+  config:
+    max_papers: 10
+    default_database: "arxiv"
+    include_citations: true
+
+dependencies:
+  - plugin: "citation-manager"
+    version: ">=1.0"
+    optional: true
+
+quality:
+  tier: "expert"
+  score: 87
+  depth_score: 22
+  practicality: 23
+  reliability: 21
+  collaboration: 21
+
+files:
+  - skill.md
+  - README.md

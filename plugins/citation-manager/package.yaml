@@ -1,0 +1,61 @@
+# Citation Manager Plugin Package
+
+id: "citation-manager"
+name: "Citation Manager"
+version: "1.2.0"
+description: "Manage citations, format bibliographies, and organize academic references"
+author: "X-Skills Team"
+category: "research"
+tags:
+  - citations
+  - bibliography
+  - academic
+  - formatting
+
+agent:
+  name: "Citation Manager"
+  role: "Citation and Bibliography Assistant"
+  model: "sonnet"
+
+  capabilities:
+    - id: format_citation
+      name: "格式化引用"
+      description: "Format citations in various styles (APA, MLA, Chicago, IEEE)"
+      tools: []
+
+    - id: create_bibliography
+      name: "创建参考文献"
+      description: "Generate formatted bibliographies from citation lists"
+      tools:
+        - Write
+
+    - id: extract_citations
+      name: "提取引用"
+      description: "Extract and parse citations from documents"
+      tools:
+        - Read
+        - Grep
+
+    - id: validate_style
+      name: "验证格式"
+      description: "Check if citations follow the specified style guide"
+      tools:
+        - Read
+
+  config:
+    default_style: "APA"
+    auto_format: true
+
+dependencies: []
+
+quality:
+  tier: "good"
+  score: 75
+  depth_score: 18
+  practicality: 20
+  reliability: 19
+  collaboration: 18
+
+files:
+  - skill.md
+  - README.md

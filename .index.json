@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-05T09:30:18.263239",
+  "updated_at": "2026-02-05T10:33:26.483502",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -108179,6 +108179,104 @@
       "source_url": "https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md",
       "display_name": "Seo Geo 1K Installs Milestone",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "9da78b2585b34d3596f5602a100ca397581be05461dc3ad8551a216f6b4dee35",
+      "source_path": "agents.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/testing/024-agents_9da78b25",
+      "category": "development/testing",
+      "name": "agents_9da78b25",
+      "indexed_at": "2026-02-05T10:33:22.842415",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-04T13:04:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0101a181d53121b6265790d3e0cdadc30ac6cccc81d9ef4a59ba57015f76da13",
+      "source_path": "apps/meeseeks_chat/AGENTS.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/testing/024-agents_0101a181",
+      "category": "development/testing",
+      "name": "agents_0101a181",
+      "indexed_at": "2026-02-05T10:33:23.832695",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-04T12:36:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_chat/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "091e85e96d6bfa9db0d88288bdacb1d57be2fd312ad4e821e2dc913af7a1c1a9",
+      "source_path": "apps/meeseeks_cli/AGENTS.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/testing/024-agents_091e85e9",
+      "category": "development/testing",
+      "name": "agents_091e85e9",
+      "indexed_at": "2026-02-05T10:33:24.293819",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-04T12:36:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "540df4f91a0f00bf0f23c80610ec0ee8e69de2fea0e0816e51e13c8f269e0269",
+      "source_path": ".github/git-commit-instructions.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/tools/208-git-commit-instructions_540df4f9",
+      "category": "development/tools",
+      "name": "git-commit-instructions_540df4f9",
+      "indexed_at": "2026-02-05T10:33:24.878007",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-04T12:36:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/.github/git-commit-instructions.md",
+      "display_name": "Git Commit Instructions",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "91cf268414a21195ec66ea301e1c07425e116938d4c47156a488f191c18e65bd",
+      "source_path": "docs/getting-started.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/devops/190-getting-started_91cf2684",
+      "category": "development/devops",
+      "name": "getting-started_91cf2684",
+      "indexed_at": "2026-02-05T10:33:25.500317",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-05T06:35:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md",
+      "display_name": "Getting Started",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8ece0aff4658c9726d1e8ca66966c002506d07dcfdf7189320861fda23020832",
+      "source_path": "docs/index.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/devops/050-index_8ece0aff",
+      "category": "development/devops",
+      "name": "index_8ece0aff",
+      "indexed_at": "2026-02-05T10:33:25.992480",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-05T06:35:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a55d2e22d0f27c49385fba03cb3ccf6e1d93a06d1c2c72d767b4dcaad118044c",
+      "source_path": "apps/meeseeks_api/AGENTS.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "commercial/007-agents_a55d2e22",
+      "category": "commercial",
+      "name": "agents_a55d2e22",
+      "indexed_at": "2026-02-05T10:33:26.483473",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-04T12:36:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"commercial\"]"
     }
   ]
 }

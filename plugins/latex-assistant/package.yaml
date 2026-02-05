@@ -1,0 +1,66 @@
+# LaTeX Assistant Plugin Package
+
+id: "latex-assistant"
+name: "LaTeX Assistant"
+version: "1.0.0"
+description: "LaTeX document creation, formatting, and compilation assistant"
+author: "X-Skills Team"
+category: "writing"
+tags:
+  - latex
+  - academic-writing
+  - document-formatting
+
+agent:
+  name: "LaTeX Assistant"
+  role: "LaTeX Document Specialist"
+  model: "sonnet"
+
+  capabilities:
+    - id: create_document
+      name: "创建文档"
+      description: "Create LaTeX documents with proper structure"
+      tools:
+        - Write
+
+    - id: format_equations
+      name: "格式化公式"
+      description: "Help write and format mathematical equations"
+      tools: []
+
+    - id: compile_document
+      name: "编译文档"
+      description: "Compile LaTeX and fix common errors"
+      tools:
+        - Bash
+        - Read
+
+    - id: fix_errors
+      name: "修复错误"
+      description: "Debug and fix LaTeX compilation errors"
+      tools:
+        - Read
+        - Edit
+        - Bash
+
+  config:
+    default_class: "article"
+    compiler: "pdflatex"
+    bibliography: "bibtex"
+
+dependencies:
+  - plugin: "citation-manager"
+    version: ">=1.0"
+    optional: false
+
+quality:
+  tier: "good"
+  score: 78
+  depth_score: 20
+  practicality: 20
+  reliability: 19
+  collaboration: 19
+
+files:
+  - skill.md
+  - README.md
