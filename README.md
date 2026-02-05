@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7453 AI-powered skills** organized into 16 categories.
+A curated collection of **7487 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,15 +11,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (441 skills)
 - **Automation/Scripting** (113 skills)
 - **Automation/Workflow** (118 skills)
-- **Commercial** (483 skills)
-- **Communication** (259 skills)
-- **Content Creation** (434 skills)
-- **Daily Assistant** (294 skills)
-- **Data Analysis** (753 skills)
-- **Development** (3186 skills)
-- **Development/Devops** (332 skills)
-- **Development/Testing** (48 skills)
-- **Development/Tools** (357 skills)
+- **Commercial** (484 skills)
+- **Communication** (260 skills)
+- **Content Creation** (436 skills)
+- **Daily Assistant** (295 skills)
+- **Data Analysis** (754 skills)
+- **Development** (3190 skills)
+- **Development/Devops** (335 skills)
+- **Development/Testing** (50 skills)
+- **Development/Tools** (376 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (220 skills)
@@ -715,7 +715,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Threat Taxonomy](automation/workflow/058-threat-taxonomy_04194424/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/threat-taxonomy.md) | ⭐ 324 | `automation` |
 | [Skill Threat Analysis Prompt](automation/workflow/059-skill_threat_analysis_prompt_6368a155/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 324 | `automation` |
 
-### Commercial (483 skills)
+### Commercial (484 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1202,8 +1202,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Protection](commercial/298-data-protection_920b7dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/data-protection.md) | ⭐ 172 | `commercial` |
 | [Supply Chain](commercial/299-supply-chain_43c40275/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/supply-chain.md) | ⭐ 172 | `commercial` |
 | [Codeguard 0 Iac Security](commercial/300-codeguard-0-iac-security_228a0560/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-iac-security.md) | ⭐ 324 | `commercial` |
+| [Auth](commercial/auth_e7400364/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/AUTH.md) | ⭐ 102 | `commercial` |
 
-### Communication (259 skills)
+### Communication (260 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1465,9 +1466,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Setup](communication/183-setup_55e51e1e/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/commands/setup.md) | ⭐ 401 | `communication` |
 | [Skill](communication/127-name-skill_881b1d20/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/skills/slack-usage/SKILL.md) | ⭐ 401 | `communication` |
 | [Skill](communication/127-name-skill_f750eec0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/SKILL.md) | ⭐ 401 | `communication` |
-| [Langfuse Integration](communication/langfuse_integration_141c0aa1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/observability/langfuse_integration.md) | 🔥 35.2k | `communication` |
+| [Langfuse Integration](communication/184-langfuse_integration_141c0aa1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/observability/langfuse_integration.md) | 🔥 35.2k | `communication` |
+| [Auth](communication/auth_f3bc06da/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/slack/AUTH.md) | ⭐ 102 | `communication` |
 
-### Content Creation (434 skills)
+### Content Creation (436 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1656,7 +1658,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Discovery Warehouse](content-creation/113-discovery-warehouse_6a7eea8e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/discovery-warehouse.md) | ⭐ 167 | `content creation` |
 | [Prompt](content-creation/114-prompt_9cd2215f/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/ralph/prompt.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_e25e6d7d/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/algorand-typescript/SKILL.md) | ⭐ 10 | `content creation` |
-| [Reference](content-creation/026-reference_84a13da2/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_345e6ed4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
 | [Reference](content-creation/026-reference_f3a72461/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/REFERENCE.md) | ⭐ 102 | `content creation` |
 | [Reference](content-creation/026-reference_fc010cf7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/REFERENCE.md) | ⭐ 102 | `content creation` |
 | [Reference](content-creation/026-reference_fbf46c56/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/REFERENCE.md) | ⭐ 102 | `content creation` |
@@ -1667,7 +1669,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Contributing Lint Setup](content-creation/116-contributing-lint-setup_7f7be1ce/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | ⭐ 4.8k | `content creation` |
 | [Aden Vs Crewai](content-creation/117-aden-vs-crewai_85043ac6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/aden-vs-crewai.md) | ⭐ 4.8k | `content creation` |
 | [03 Build Your First Agent](content-creation/118-03-build-your-first-agent_9a0db523/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/03-build-your-first-agent.md) | ⭐ 4.8k | `content creation` |
-| [Skill](content-creation/049-name-skill_b4e2adc3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-core/SKILL.md) | ⭐ 4.8k | `content creation` |
+| [Skill](content-creation/name-skill_7c323988/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-core/SKILL.md) | ⭐ 5.0k | `content creation` |
 | [Ida Dbg](content-creation/119-ida_dbg_6b189fb1/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/09_debugger/ida_dbg.md) | ⭐ 17 | `content creation` |
 | [Blog Writer](content-creation/120-blog-writer_3c87babc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/agents/blog-writer.md) | 🔥 19.4k | `content creation` |
 | [Create Blog Article](content-creation/121-create-blog-article_0b13fabe/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/commands/create-blog-article.md) | 🔥 19.4k | `content creation` |
@@ -1905,8 +1907,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_83103778/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/mongodb-tools/skills/mongodb-usage/SKILL.md) | ⭐ 401 | `content creation` |
 | [Skill](content-creation/049-name-skill_90a399dc/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/plugin-settings/SKILL.md) | ⭐ 401 | `content creation` |
 | [Rls](content-creation/228-rls_4bbb39df/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/rls.md) | ⭐ 401 | `content creation` |
+| [Reference](content-creation/026-reference_345e6ed4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Skill](content-creation/049-name-skill_7c323988/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-core/SKILL.md) | ⭐ 5.0k | `content creation` |
 
-### Daily Assistant (294 skills)
+### Daily Assistant (295 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2089,7 +2093,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [0.4.0](daily-assistant/108-040_e830fd02/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/release_notes/0.4.0.md) | ⭐ 3.9k | `daily assistant` |
 | [Reference](daily-assistant/109-reference_1ef91f48/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Reference](daily-assistant/109-reference_9391c218/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/REFERENCE.md) | ⭐ 102 | `daily assistant` |
-| [Reference](daily-assistant/109-reference_8e87e5f7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
+| [Reference](daily-assistant/reference_f7462f93/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Ai Agent Observability Monitoring](daily-assistant/110-ai-agent-observability-monitoring_3e89fb26/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/ai-agent-observability-monitoring.md) | ⭐ 4.8k | `daily assistant` |
 | [Stateless Agent Methodology](daily-assistant/111-stateless-agent-methodology_e722d1cc/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/methodology_development/stateless-agent-methodology.md) | ⭐ 16 | `daily assistant` |
 | [Claude.Sessions](daily-assistant/112-claudesessions_2d6a7ad5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/sessions/CLAUDE.sessions.md) | ⭐ 16 | `daily assistant` |
@@ -2204,8 +2208,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Cursor](daily-assistant/165-cursor_1e9da78a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
 | [Commit Staged](daily-assistant/185-commit-staged_da7bd030/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/commit-staged.md) | ⭐ 401 | `daily assistant` |
 | [Boilerplate Protection Rule Prompt](daily-assistant/186-boilerplate_protection_rule_prompt_0cd5d8c7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/boilerplate_protection_rule_prompt.md) | ⭐ 324 | `daily assistant` |
+| [Reference](daily-assistant/109-reference_f7462f93/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 
-### Data Analysis (753 skills)
+### Data Analysis (754 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2962,8 +2967,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [File Security](data-analysis/347-file-security_a0a001fb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/file-security.md) | ⭐ 172 | `data analysis` |
 | [Architecture](data-analysis/009-architecture_b0310637/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture.md) | ⭐ 324 | `data analysis` |
 | [Codeguard 0 Additional Cryptography](data-analysis/348-codeguard-0-additional-cryptography_1aa1719a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-additional-cryptography.md) | ⭐ 324 | `data analysis` |
+| [Tui Selection Guide](data-analysis/tui_selection_guide_1ba31d43/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/TUI_SELECTION_GUIDE.md) | ⭐ 5.0k | `data analysis` |
 
-### Development (3186 skills)
+### Development (3190 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -5342,7 +5348,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_cf4dc86e/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/rp-explorer/SKILL.md) | ⭐ 490 | `development` |
 | [Cli Reference](development/147-cli-reference_f434e01f/) | [gmickel/gmickel-claude-marketplace](https://raw.githubusercontent.com/gmickel/gmickel-claude-marketplace/main/plugins/flow/skills/rp-explorer/cli-reference.md) | ⭐ 490 | `development` |
 | [Mcp Tools](development/1284-mcp-tools_972ad63e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/mcp-tools.md) | ⭐ 16 | `development` |
-| [Skills](development/1285-agent-skill_790209a6/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 16 | `development` |
+| [Skills](development/agent-skill_dfda3246/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 17 | `development` |
 | [Env Config](development/1286-env-config_c943de0e/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/env-config.md) | ⭐ 16 | `development` |
 | [Yaml Config](development/1287-yaml-config_16d8a9be/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/yaml-config.md) | ⭐ 16 | `development` |
 | [Issue Addressor](development/1288-issue-addressor_b905b926/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/features/issue-addressor.md) | ⭐ 16 | `development` |
@@ -5765,7 +5771,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Extending](development/1543-extending_0ef2e36f/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing/EXTENDING.md) | ⭐ 3.9k | `development` |
 | [Exception Handling](development/1544-exception_handling_48818dda/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/news/EXCEPTION_HANDLING.md) | ⭐ 3.9k | `development` |
 | [0.2.0](development/1545-020_53661478/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/release_notes/0.2.0.md) | ⭐ 3.9k | `development` |
-| [Developer](development/1549-developer_6a7f40a5/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/DEVELOPER.md) | ⭐ 4.8k | `development` |
+| [Developer](development/developer_05dd1f9c/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/DEVELOPER.md) | ⭐ 5.0k | `development` |
 | [Pr Message](development/1550-pr-message_587880f6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/pr-message.md) | ⭐ 4.8k | `development` |
 | [Getting Started](development/421-getting-started_493799d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | ⭐ 4.8k | `development` |
 | [Remove Llm Dependency From Mcp Server](development/1551-remove-llm-dependency-from-mcp-server_8e0c5d66/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/issues/remove-llm-dependency-from-mcp-server.md) | ⭐ 4.8k | `development` |
@@ -5773,7 +5779,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Aden Vs Langchain](development/1553-aden-vs-langchain_db973e19/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/aden-vs-langchain.md) | ⭐ 4.8k | `development` |
 | [Self Improving Vs Static Agents](development/1554-self-improving-vs-static-agents_864a09b3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/self-improving-vs-static-agents.md) | ⭐ 4.8k | `development` |
 | [02 Architecture Deep Dive](development/1555-02-architecture-deep-dive_5db20420/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/quizzes/02-architecture-deep-dive.md) | ⭐ 4.8k | `development` |
-| [Skill](development/1178-name-skill_f2dd6f05/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/agent-workflow/SKILL.md) | ⭐ 4.8k | `development` |
+| [Skill](development/name-skill_3b2c9dd3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/agent-workflow/SKILL.md) | ⭐ 5.0k | `development` |
 | [Skill](development/1178-name-skill_6fdc367b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-patterns/SKILL.md) | ⭐ 4.8k | `development` |
 | [Skill](development/1556-analyze-skill_96b593f6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/triage-issue/SKILL.md) | ⭐ 4.8k | `development` |
 | [Ai Agents Skills For Embedded Engineers](development/1661-ai-agents-skills-for-embedded-engineers_73d7a15d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/ai-agents-skills-for-embedded-engineers.md) | ⭐ 16 | `development` |
@@ -6153,8 +6159,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Code Alignment Threat Analysis Prompt](development/1984-code_alignment_threat_analysis_prompt_8f953761/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/code_alignment_threat_analysis_prompt.md) | ⭐ 324 | `development` |
 | [Skill Meta Analysis Prompt](development/1985-skill_meta_analysis_prompt_e7f5e893/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_meta_analysis_prompt.md) | ⭐ 324 | `development` |
 | [Skill](development/1178-name-skill_e2474108/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/prompt-injection/jailbreak-override/SKILL.md) | ⭐ 324 | `development` |
+| [Skills](development/1285-agent-skill_dfda3246/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 17 | `development` |
+| [Developer](development/1549-developer_05dd1f9c/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/DEVELOPER.md) | ⭐ 5.0k | `development` |
+| [Skill](development/1178-name-skill_3b2c9dd3/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/agent-workflow/SKILL.md) | ⭐ 5.0k | `development` |
+| [Skill](development/name-skill_8cd702d4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/testing-agent/SKILL.md) | ⭐ 5.0k | `development` |
 
-### Development/Devops (332 skills)
+### Development/Devops (335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6330,15 +6340,15 @@ Read more about the new architecture [here` |
 | [Troubleshooting Openai Api Key](development/devops/092-troubleshooting-openai-api-key_2c6ae722/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting-openai-api-key.md) | ⭐ 3.9k | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_a7a910a2/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting.md) | ⭐ 3.9k | `development` |
 | [Unraid](development/devops/094-unraid_e73e95c1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/deployment/unraid.md) | ⭐ 3.9k | `development` |
-| [Environment Setup](development/devops/095-environment_setup_aa3a0c17/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/ENVIRONMENT_SETUP.md) | ⭐ 4.8k | `development` |
-| [Hive](development/devops/096-pr_c739ee97/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/PR.md) | ⭐ 4.8k | `development` |
+| [Environment Setup](development/devops/environment_setup_88dddc86/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/ENVIRONMENT_SETUP.md) | ⭐ 5.0k | `development` |
+| [Hive](development/devops/pr_8181fb23/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/PR.md) | ⭐ 5.0k | `development` |
 | [Roadmap](development/devops/097-roadmap_1d44b01b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/ROADMAP.md) | ⭐ 4.8k | `development` |
 | [Mcp Integration Guide](development/devops/098-mcp_integration_guide_69a7c0d2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/MCP_INTEGRATION_GUIDE.md) | ⭐ 4.8k | `development` |
 | [Aden Credential Sync](development/devops/099-aden-credential-sync_7f4cf2fc/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/aden-credential-sync.md) | ⭐ 4.8k | `development` |
 | [Configuration](development/devops/009-configuration_f9c880c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md) | ⭐ 4.8k | `development` |
 | [Credential Store Usage](development/devops/100-credential-store-usage_49c3c5ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/credential-store-usage.md) | ⭐ 4.8k | `development` |
 | [Clonar el repositorio](development/devops/101-es_829a322e/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/es.md) | ⭐ 4.8k | `development` |
-| [अवलोकन (Overview)](development/devops/102-hi_022d83b9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/hi.md) | ⭐ 4.8k | `development` |
+| [अवलोकन (Overview)](development/devops/hi_cdeaa1c2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/hi.md) | ⭐ 5.0k | `development` |
 | [リポジトリをクローン](development/devops/103-ja_e4c662d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ja.md) | ⭐ 4.8k | `development` |
 | [저장소 클론](development/devops/104-ko_925c3e81/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ko.md) | ⭐ 4.8k | `development` |
 | [Clonar o repositório](development/devops/105-pt_d300140d/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/pt.md) | ⭐ 4.8k | `development` |
@@ -6533,8 +6543,11 @@ Read more about the new architecture [here` |
 | [Remote Skills Analysis](development/devops/180-remote-skills-analysis_26e58581/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/remote-skills-analysis.md) | ⭐ 324 | `development` |
 | [Evaluation Guide](development/devops/181-evaluation_guide_42b438a6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/EVALUATION_GUIDE.md) | ⭐ 324 | `development` |
 | [Codeguard 0 Supply Chain Security](development/devops/182-codeguard-0-supply-chain-security_44125b7e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-supply-chain-security.md) | ⭐ 324 | `development` |
+| [Environment Setup](development/devops/095-environment_setup_88dddc86/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/ENVIRONMENT_SETUP.md) | ⭐ 5.0k | `development` |
+| [Hive](development/devops/096-pr_8181fb23/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/PR.md) | ⭐ 5.0k | `development` |
+| [अवलोकन (Overview)](development/devops/102-hi_cdeaa1c2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/hi.md) | ⭐ 5.0k | `development` |
 
-### Development/Testing (48 skills)
+### Development/Testing (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6565,7 +6578,7 @@ Read more about the new architecture [here` |
 | [Building Tools](development/testing/020-building_tools_e64222ea/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/tools/BUILDING_TOOLS.md) | ⭐ 4.8k | `development` |
 | [Multi Entry Point Agents](development/testing/021-multi-entry-point-agents_c1f1f27c/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/architecture/multi-entry-point-agents.md) | ⭐ 4.8k | `development` |
 | [Building Production Ai Agents](development/testing/022-building-production-ai-agents_038a84a7/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/building-production-ai-agents.md) | ⭐ 4.8k | `development` |
-| [Skill](development/testing/002-name-skill_f50bfca9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 4.8k | `development` |
+| [Skill](development/testing/name-skill_42a555eb/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 5.0k | `development` |
 | [Ida Allins](development/testing/023-ida_allins_90413859/) | [miunasu/IDA-Skill](https://raw.githubusercontent.com/miunasu/IDA-Skill/main/docs/02_disasm/ida_allins.md) | ⭐ 17 | `development` |
 | [Skill](development/testing/013-threat-skill_00a76f51/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 133 | `development` |
 | [Agents](development/testing/024-agents_7ee98168/) | [bearlike/Personal-Assistant](https://raw.githubusercontent.com/bearlike/Personal-Assistant/master/agents.md) | ⭐ 29 | `development` |
@@ -6586,8 +6599,10 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/002-name-skill_c9a7e9b2/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/optimize-agent-docs/SKILL.md) | ⭐ 13 | `development` |
 | [Lightweight Clients](development/testing/037-lightweight-clients_8ab515d5/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/references/lightweight-clients.md) | ⭐ 13 | `development` |
 | [Developing](development/testing/038-developing_e6f38747/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/developing.md) | ⭐ 324 | `development` |
+| [Skill](development/testing/002-name-skill_42a555eb/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-construction/SKILL.md) | ⭐ 5.0k | `development` |
+| [Skill](development/testing/name-skill_dffa12d2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/building-agents-patterns/SKILL.md) | ⭐ 5.0k | `development` |
 
-### Development/Tools (357 skills)
+### Development/Tools (376 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6735,7 +6750,7 @@ Read more about the new architecture [here` |
 | [Cli Tools](development/tools/032-cli-tools_2fb9743f/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/cli-tools.md) | ⭐ 3.9k | `development` |
 | [Elasticsearch Search Engine](development/tools/075-elasticsearch_search_engine_d875a4fb/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/elasticsearch_search_engine.md) | ⭐ 3.9k | `development` |
 | [Codeql Guide](development/tools/076-codeql_guide_21910e10/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/security/CODEQL_GUIDE.md) | ⭐ 3.9k | `development` |
-| [Auth](development/tools/077-auth_0248f539/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_b4b18fc4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
 | [Credential Store Design](development/tools/078-credential-store-design_69311284/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/credential-store-design.md) | ⭐ 4.8k | `development` |
 | [Process Realignment](development/tools/079-process_realignment_ed92cb98/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/methodology_development/process_realignment.md) | ⭐ 16 | `development` |
 | [Refactor Design Python3 Development](development/tools/080-refactor-design-python3-development_ad7f9459/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/refactor-design-python3-development.md) | ⭐ 16 | `development` |
@@ -6948,6 +6963,25 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_271df445/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/agent-development/SKILL.md) | ⭐ 401 | `development` |
 | [Skill](development/tools/002-name-skill_a6ed87b0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/hook-development/SKILL.md) | ⭐ 401 | `development` |
 | [Meta Analyzer](development/tools/201-meta-analyzer_a503ddf6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 324 | `development` |
+| [Auth](development/tools/077-auth_b4b18fc4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_3afe252f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_1a8da4d2/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_0482cbd3/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_d15988fc/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_64b870ec/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_ec75b5cb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_b414b8a5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_f4248b8f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_24fb92c7/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_39f45854/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_26edd4cb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_ee4bbb5d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_a58f6d19/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/mailchimp/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_2789bbbb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_cb939d42/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_bbc299d4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_dce5947d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_9be1bf09/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/AUTH.md) | ⭐ 102 | `development` |
 
 ### Investment (43 skills)
 
