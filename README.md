@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7345 AI-powered skills** organized into 16 categories.
+A curated collection of **7346 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (291 skills)
 - **Data Analysis** (749 skills)
 - **Development** (3142 skills)
-- **Development/Devops** (322 skills)
+- **Development/Devops** (323 skills)
 - **Development/Testing** (47 skills)
 - **Development/Tools** (348 skills)
 - **Investment** (43 skills)
@@ -687,7 +687,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Extraction Patterns](automation/workflow/047-extraction-patterns_600795b3/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/extract-expertise/references/extraction-patterns.md) | ⭐ 14 | `automation` |
 | [Best Practices](automation/workflow/048-best-practices_f98e5931/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/references/best-practices.md) | ⭐ 14 | `automation` |
 | [Methodology](automation/workflow/049-methodology_cf22d359/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/references/methodology.md) | ⭐ 14 | `automation` |
-| [Skill](automation/workflow/name-skill_855a7d0e/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
+| [Skill](automation/workflow/002-name-skill_f72d9044/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
 | [Implementation Workflow](automation/workflow/050-implementation-workflow_16d71200/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/implementation-workflow.md) | ⭐ 34 | `automation` |
 | [Discussion 2 Content](automation/workflow/051-discussion_2_content_97252ffd/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/DISCUSSION_2_CONTENT.md) | 🔥 13.0k | `automation` |
 | [Migration](automation/workflow/052-migration_2b56cf16/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/MIGRATION.md) | 🔥 13.0k | `automation` |
@@ -2116,7 +2116,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Progress Recovery](daily-assistant/158-progress-recovery_3b4f55ec/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/references/progress-recovery.md) | ⭐ 14 | `daily assistant` |
 | [Techniques](daily-assistant/159-techniques_54be0c3d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/references/techniques.md) | ⭐ 14 | `daily assistant` |
 | [Launch](daily-assistant/160-launch_ab940180/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/launch.md) | ⭐ 34 | `daily assistant` |
-| [Scaffold](daily-assistant/scaffold_9d0b0fea/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/scaffold.md) | ⭐ 34 | `daily assistant` |
+| [Scaffold](daily-assistant/161-scaffold_6bc369dd/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/scaffold.md) | ⭐ 34 | `daily assistant` |
 | [Advanced](daily-assistant/162-advanced_6c8579a9/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/advanced.md) | ⭐ 34 | `daily assistant` |
 | [Core Concepts](daily-assistant/163-core-concepts_6f6e7a9f/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/core-concepts.md) | ⭐ 34 | `daily assistant` |
 | [Customization](daily-assistant/164-customization_41c75217/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/customization.md) | ⭐ 34 | `daily assistant` |
@@ -6065,10 +6065,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns Explicit Variants](development/1951-patterns-explicit-variants_8c19e596/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-composition-patterns/rules/patterns-explicit-variants.md) | ⭐ 13 | `development` |
 | [Rendering Usetransition Loading](development/1952-rendering-usetransition-loading_3a1249c3/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rendering-usetransition-loading.md) | ⭐ 13 | `development` |
 | [Rerender Move Effect To Event](development/1953-rerender-move-effect-to-event_abc2cbf1/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-move-effect-to-event.md) | ⭐ 13 | `development` |
-| [Skill](development/name-skill_303386a7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/building-github-index-v2/SKILL.md) | ⭐ 87 | `development` |
-| [Skill](development/name-skill_1dcfcc04/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/SKILL.md) | ⭐ 87 | `development` |
+| [Skill](development/1178-name-skill_303386a7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/building-github-index-v2/SKILL.md) | ⭐ 87 | `development` |
+| [Skill](development/1178-name-skill_1dcfcc04/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/SKILL.md) | ⭐ 87 | `development` |
 
-### Development/Devops (322 skills)
+### Development/Devops (323 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6437,6 +6437,7 @@ Read more about the new architecture [here` |
 | [Skill](development/devops/014-name-skill_2b3c4ded/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/autonomous-agent-readiness/SKILL.md) | ⭐ 13 | `development` |
 | [Skill](development/devops/014-name-skill_6efb670c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/dev-server/SKILL.md) | ⭐ 13 | `development` |
 | [Self Hosting](development/devops/174-self-hosting_f59e9afa/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/next-best-practices/self-hosting.md) | ⭐ 13 | `development` |
+| [Develop](development/devops/develop_fcd553d4/) | [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://raw.githubusercontent.com/aws-samples/amazon-bedrock-serverless-prompt-chaining/main/DEVELOP.md) | ⭐ 318 | `development` |
 
 ### Development/Testing (47 skills)
 
