@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8042 AI-powered skills** organized into 16 categories.
+A curated collection of **8070 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -14,16 +14,16 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (516 skills)
 - **Communication** (296 skills)
 - **Content Creation** (491 skills)
-- **Daily Assistant** (327 skills)
-- **Data Analysis** (812 skills)
-- **Development** (4097 skills)
+- **Daily Assistant** (328 skills)
+- **Data Analysis** (819 skills)
+- **Development** (4104 skills)
 - **Development/Devops** (38 skills)
 - **Development/Testing** (17 skills)
-- **Development/Tools** (70 skills)
+- **Development/Tools** (73 skills)
 - **Investment** (50 skills)
-- **Other** (44 skills)
+- **Other** (43 skills)
 - **Productivity** (229 skills)
-- **Research** (360 skills)
+- **Research** (371 skills)
 
 ## Skills Directory
 
@@ -723,8 +723,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Custom Nodes](automation/scripting/059-custom-nodes_d0a09ef3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/custom-nodes.md) | ⭐ 17 | `automation` |
 | [Composition](automation/scripting/058-composition_e3427fe5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/references/composition.md) | ⭐ 17 | `automation` |
 | [Queries](automation/scripting/060-queries_40868f39/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/queries.md) | ⭐ 17 | `automation` |
-| [Fix](automation/scripting/fix_32bd5c8c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/fix.md) | ⭐ 11 | `automation` |
-| [Skill](automation/scripting/name-skill_ff0a1318/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/skills/review-loop/SKILL.md) | ⭐ 11 | `automation` |
+| [Fix](automation/scripting/061-fix_32bd5c8c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/fix.md) | ⭐ 11 | `automation` |
+| [Skill](automation/scripting/003-name-skill_ff0a1318/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/skills/review-loop/SKILL.md) | ⭐ 11 | `automation` |
 
 ### Automation/Workflow (7 skills)
 
@@ -2054,9 +2054,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Messages](content-creation/263-messages_3770b42d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/messages.md) | ⭐ 17 | `content creation` |
 | [Complications](content-creation/264-complications_782b30d4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/complications.md) | ⭐ 17 | `content creation` |
 | [Performance](content-creation/265-performance_c0f98f48/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/performance.md) | ⭐ 17 | `content creation` |
-| [Claude](content-creation/claude_f43f662c/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 66 | `content creation` |
+| [Claude](content-creation/007-claude_f43f662c/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 66 | `content creation` |
 
-### Daily Assistant (327 skills)
+### Daily Assistant (328 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2385,10 +2385,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Timeline](daily-assistant/202-timeline_d4615a5d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/timeline.md) | ⭐ 17 | `daily assistant` |
 | [Server](daily-assistant/203-server_c8e24186/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/references/server.md) | ⭐ 17 | `daily assistant` |
 | [Concurrency](daily-assistant/198-concurrency_278d84df/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
-| [Review Rust Code](daily-assistant/review-rust-code_799d5bd0/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/review-rust-code.md) | ⭐ 11 | `daily assistant` |
-| [Claude](daily-assistant/claude_9d89b195/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `daily assistant` |
+| [Review Rust Code](daily-assistant/204-review-rust-code_799d5bd0/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/review-rust-code.md) | ⭐ 11 | `daily assistant` |
+| [Claude](daily-assistant/037-claude_9d89b195/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_165897a6/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/vasopressor-equivalents/SKILL.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (812 skills)
+### Data Analysis (819 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3204,8 +3205,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Loading](data-analysis/376-data-loading_7beb54b8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/data-loading.md) | ⭐ 17 | `data analysis` |
 | [Operations](data-analysis/157-operations_d852818c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/operations.md) | ⭐ 17 | `data analysis` |
 | [Streaming](data-analysis/377-streaming_e4acdcd7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/streaming.md) | ⭐ 17 | `data analysis` |
+| [Llms Install](data-analysis/llms-install_69cd0ec2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/llms-install.md) | ⭐ 10 | `data analysis` |
+| [Architecture](data-analysis/architecture_28c1af50/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/ARCHITECTURE.md) | ⭐ 10 | `data analysis` |
+| [Custom Datasets](data-analysis/custom_datasets_f87d71f2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CUSTOM_DATASETS.md) | ⭐ 10 | `data analysis` |
+| [M4 Apps](data-analysis/m4_apps_f04a8030/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/M4_APPS.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/name-skill_9db5c6fd/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/mimic-eicu-mapping/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/name-skill_64e4c0dc/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/mimic-table-relationships/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/name-skill_1eb72735/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/gcs-calculation/SKILL.md) | ⭐ 10 | `data analysis` |
 
-### Development (4097 skills)
+### Development (4104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7301,11 +7309,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_35ff4806/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-code-review/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_14d91296/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/phoenix-code-review/SKILL.md) | ⭐ 17 | `development` |
 | [Code Injection](development/2091-code-injection_0417e51d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-security-review/references/code-injection.md) | ⭐ 17 | `development` |
-| [Local Reviewer](development/local-reviewer_9d819d1c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/local-reviewer.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_55102525/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_31714412/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/debugger/SKILL.md) | ⭐ 66 | `development` |
-| [Common Patterns](development/common-patterns_36585086/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/references/common-patterns.md) | ⭐ 11 | `development` |
-| [Standards](development/standards_1b941064/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/references/standards.md) | ⭐ 11 | `development` |
+| [Local Reviewer](development/2112-local-reviewer_9d819d1c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/local-reviewer.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_55102525/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_31714412/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/debugger/SKILL.md) | ⭐ 66 | `development` |
+| [Code Execution](development/code_execution_6855d8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CODE_EXECUTION.md) | ⭐ 10 | `development` |
+| [Development](development/development_0bd62e92/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/DEVELOPMENT.md) | ⭐ 10 | `development` |
+| [Skills](development/skills-skill_99d268ae/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/SKILLS.md) | ⭐ 10 | `development` |
+| [Skills Index](development/skills_index_b7b42f14/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 10 | `development` |
+| [Skill Format](development/skill_format_59ee6925/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILL_FORMAT.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_3c8c3883/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/baseline-creatinine/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_c14e9128/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-pitfalls/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_f3a50b93/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-api/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_13730249/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-research/SKILL.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (38 skills)
 
@@ -7372,7 +7387,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill Integration](development/testing/048-skill-integration_449f8e92/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/references/skill-integration.md) | ⭐ 17 | `development` |
 | [Skill](development/testing/002-name-skill_0916853e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exunit-code-review/SKILL.md) | ⭐ 17 | `development` |
 
-### Development/Tools (70 skills)
+### Development/Tools (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7444,8 +7459,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Setup](development/tools/198-setup_2a6ed823/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/setup.md) | ⭐ 17 | `development` |
 | [Setup](development/tools/198-setup_081fe68f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/references/setup.md) | ⭐ 17 | `development` |
 | [Use Chat](development/tools/224-use-chat_ddf7ff72/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/use-chat.md) | ⭐ 17 | `development` |
-| [Claude](development/tools/claude_1c08899e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.0k | `development` |
-| [Rust Builder](development/tools/rust-builder_6c505195/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/rust-builder.md) | ⭐ 11 | `development` |
+| [Claude](development/tools/017-claude_1c08899e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.0k | `development` |
+| [Rust Builder](development/tools/225-rust-builder_6c505195/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/rust-builder.md) | ⭐ 11 | `development` |
+| [Bigquery](development/tools/bigquery_14816729/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/BIGQUERY.md) | ⭐ 10 | `development` |
+| [Oauth2 Authentication](development/tools/oauth2_authentication_9787539d/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/OAUTH2_AUTHENTICATION.md) | ⭐ 10 | `development` |
+| [Tools](development/tools/tools_70e8d015/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/TOOLS.md) | ⭐ 10 | `development` |
 
 ### Investment (50 skills)
 
@@ -7502,7 +7520,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 
-### Other (44 skills)
+### Other (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7549,7 +7567,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
-| [Run Review Loop](other/run-review-loop_1aea1e15/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/commands/run-review-loop.md) | ⭐ 11 | `other` |
 
 ### Productivity (229 skills)
 
@@ -7785,7 +7802,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bubbles Components](productivity/147-bubbles-components_e033fe28/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/bubbles-components.md) | ⭐ 17 | `productivity` |
 | [Memory](productivity/148-memory_a5ed5e79/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/memory.md) | ⭐ 17 | `productivity` |
 
-### Research (360 skills)
+### Research (371 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8149,6 +8166,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Lifecycle](research/227-lifecycle_ffbd7b60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
 | [Components](research/228-components_5c8ef24e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/components.md) | ⭐ 17 | `research` |
 | [Lifecycle](research/227-lifecycle_92e848fd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
+| [Skill](research/name-skill_65c59c12/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/first-icu-stay/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_d119ed5e/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/oasis-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_fa6de728/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sapsii-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_5a72d413/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sepsis-3-cohort/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_78c8d8c4/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_f263b321/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/suspicion-of-infection/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_668bb999/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/create-m4-skill/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_c70c5f63/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/apsiii-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_6dc7de45/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/kdigo-aki-staging/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_3d94ef75/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/lods-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/name-skill_6e311e2c/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sofa-score/SKILL.md) | ⭐ 10 | `research` |
 
 ## Repository Structure
 
