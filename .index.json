@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-05T09:11:14.434263",
+  "updated_at": "2026-02-05T09:24:57.191078",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -108081,6 +108081,90 @@
       "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
       "display_name": "Readme.Ja",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c62fea399716afab43a54d7df330a4312b5dc1854ef75579c2179ba64f7afcab",
+      "source_path": "CONTRIBUTING_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/2034-contributing_cn_c62fea39",
+      "category": "development",
+      "name": "contributing_cn_c62fea39",
+      "indexed_at": "2026-02-05T09:24:53.962861",
+      "repo_stars": 926,
+      "repo_updated_at": "2026-02-05T08:18:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md",
+      "display_name": "Contributing Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6a385dd64f2e7e6cb20c8ccf38d2e70cc26a73373338ada52beead73d3ddd55b",
+      "source_path": "docs/design/server_client/prompt.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/144-prompt_6a385dd6",
+      "category": "development/devops",
+      "name": "prompt_6a385dd6",
+      "indexed_at": "2026-02-05T09:24:55.153679",
+      "repo_stars": 926,
+      "repo_updated_at": "2026-02-05T07:37:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md",
+      "display_name": "Prompt",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e43bccaef5251bc776694b345366262bff46e8acca9a34b322f0631ce612dfc1",
+      "source_path": "docs/en/api/07-debug.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/189-07-debug_e43bccae",
+      "category": "development/devops",
+      "name": "07-debug_e43bccae",
+      "indexed_at": "2026-02-05T09:24:55.627206",
+      "repo_stars": 926,
+      "repo_updated_at": "2026-02-05T07:37:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-debug.md",
+      "display_name": "07 Debug",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ebe6b87e2095b7ee301a6bf8f21624ec2b443f4654cee1f1cb7ff78116e743a5",
+      "source_path": "docs/zh/api/07-debug.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/189-07-debug_ebe6b87e",
+      "category": "development/devops",
+      "name": "07-debug_ebe6b87e",
+      "indexed_at": "2026-02-05T09:24:56.044140",
+      "repo_stars": 926,
+      "repo_updated_at": "2026-02-05T07:37:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-debug.md",
+      "display_name": "07 Debug",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7cefa3b3f0f4f1667faa4676f5307a229afb48086d981b8eda1fc18c5a3fc11d",
+      "source_path": "docs/en/concepts/01-architecture.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "commercial/283-01-architecture_7cefa3b3",
+      "category": "commercial",
+      "name": "01-architecture_7cefa3b3",
+      "indexed_at": "2026-02-05T09:24:56.532765",
+      "repo_stars": 926,
+      "repo_updated_at": "2026-02-05T07:37:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md",
+      "display_name": "01 Architecture",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "6a79e9913a3ede490e4fde17f359d48b95e9145431dc790570aa7284edb04ee9",
+      "source_path": "docs/zh/concepts/01-architecture.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "data-analysis/335-01-architecture_6a79e991",
+      "category": "data-analysis",
+      "name": "01-architecture_6a79e991",
+      "indexed_at": "2026-02-05T09:24:57.191026",
+      "repo_stars": 926,
+      "repo_updated_at": "2026-02-05T07:37:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md",
+      "display_name": "01 Architecture",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
