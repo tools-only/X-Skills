@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8313 AI-powered skills** organized into 16 categories.
+A curated collection of **8364 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,19 +11,19 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (672 skills)
 - **Automation/Scripting** (43 skills)
 - **Automation/Workflow** (10 skills)
-- **Commercial** (535 skills)
-- **Communication** (324 skills)
-- **Content Creation** (516 skills)
-- **Daily Assistant** (340 skills)
-- **Data Analysis** (829 skills)
-- **Development** (4177 skills)
+- **Commercial** (540 skills)
+- **Communication** (332 skills)
+- **Content Creation** (523 skills)
+- **Daily Assistant** (343 skills)
+- **Data Analysis** (831 skills)
+- **Development** (4181 skills)
 - **Development/Devops** (61 skills)
 - **Development/Testing** (25 skills)
-- **Development/Tools** (85 skills)
-- **Investment** (50 skills)
+- **Development/Tools** (105 skills)
+- **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (232 skills)
-- **Research** (370 skills)
+- **Research** (371 skills)
 
 ## Skills Directory
 
@@ -768,7 +768,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Service Types](automation/workflow/062-service-types_d615fbd9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/service-types.md) | ⭐ 392 | `automation` |
 | [Patterns](automation/workflow/063-patterns_55addb14/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/patterns.md) | ⭐ 392 | `automation` |
 
-### Commercial (535 skills)
+### Commercial (540 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1307,8 +1307,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](commercial/043-configuration_75fcc21c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/vectorize/configuration.md) | ⭐ 392 | `commercial` |
 | [Configuration](commercial/043-configuration_7431dbb6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/configuration.md) | ⭐ 392 | `commercial` |
 | [Api](commercial/012-api_9da1affd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-for-platforms/api.md) | ⭐ 392 | `commercial` |
+| [Reference](commercial/reference_6df7174c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/REFERENCE.md) | ⭐ 102 | `commercial` |
+| [Reference](commercial/reference_36eba480/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/REFERENCE.md) | ⭐ 102 | `commercial` |
+| [Reference](commercial/reference_d50bfcee/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/REFERENCE.md) | ⭐ 102 | `commercial` |
+| [Authentication](commercial/authentication_3e8c83a5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/authentication.md) | ⭐ 102 | `commercial` |
+| [Auth](commercial/auth_8e67374c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/AUTH.md) | ⭐ 102 | `commercial` |
 
-### Communication (324 skills)
+### Communication (332 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1635,9 +1640,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](communication/219-gotchas_e329d88e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/spectrum/gotchas.md) | ⭐ 392 | `communication` |
 | [Patterns](communication/084-patterns_b322b2c6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turnstile/patterns.md) | ⭐ 392 | `communication` |
 | [Configuration](communication/035-configuration_d4b760ef/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/configuration.md) | ⭐ 392 | `communication` |
-| [Index](communication/index_c174512a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.3k | `anthropic` `claude` `opus 4.6` |
+| [Index](communication/157-index_c174512a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.3k | `anthropic` `claude` `opus 4.6` |
+| [Reference](communication/reference_cdaebb93/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Reference](communication/reference_96f6b78b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Reference](communication/reference_8ef2fd9f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Reference](communication/reference_705c54bd/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/REFERENCE.md) | ⭐ 102 | `communication` |
+| [Entity Action Api](communication/entity-action-api_d52ae9cb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/entity-action-api.md) | ⭐ 102 | `communication` |
+| [Getting Started](communication/getting-started_257d5353/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/getting-started.md) | ⭐ 102 | `communication` |
+| [Auth](communication/auth_fef1cb90/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/slack/AUTH.md) | ⭐ 102 | `communication` |
+| [Skill](communication/name-skill_d36c8b41/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/SKILL.md) | ⭐ 102 | `communication` |
 
-### Content Creation (516 skills)
+### Content Creation (523 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2157,8 +2170,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](content-creation/270-gotchas_eb07fbd1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtimekit/gotchas.md) | ⭐ 392 | `content creation` |
 | [Patterns](content-creation/244-patterns_dcfd254d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtimekit/patterns.md) | ⭐ 392 | `content creation` |
 | [Api](content-creation/072-api_58b4b84d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/api.md) | ⭐ 392 | `content creation` |
+| [Reference](content-creation/reference_793f8ead/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_2abd6b31/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_cc170f0a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_866584e1/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_6681f9b8/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/mailchimp/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_c2dc1cb4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/slack/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_441f4003/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/REFERENCE.md) | ⭐ 102 | `content creation` |
 
-### Daily Assistant (340 skills)
+### Daily Assistant (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2502,8 +2522,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](daily-assistant/208-gotchas_e58ac58c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/kv/gotchas.md) | ⭐ 392 | `daily assistant` |
 | [Patterns](daily-assistant/210-patterns_ca26bc18/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages/patterns.md) | ⭐ 392 | `daily assistant` |
 | [Gotchas](daily-assistant/208-gotchas_316fe777/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tunnel/gotchas.md) | ⭐ 392 | `daily assistant` |
+| [Reference](daily-assistant/reference_c20a5d5a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/REFERENCE.md) | ⭐ 102 | `daily assistant` |
+| [Reference](daily-assistant/reference_032e8d61/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/REFERENCE.md) | ⭐ 102 | `daily assistant` |
+| [Reference](daily-assistant/reference_b09fa03f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 
-### Data Analysis (829 skills)
+### Data Analysis (831 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3336,8 +3359,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](data-analysis/165-patterns_bba9628a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-sql/patterns.md) | ⭐ 392 | `data analysis` |
 | [Configuration](data-analysis/046-configuration_8a50500d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/configuration.md) | ⭐ 392 | `data analysis` |
 | [Gotchas](data-analysis/383-gotchas_2b203a92/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/gotchas.md) | ⭐ 392 | `data analysis` |
+| [Reference](data-analysis/reference_4ec85722/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/REFERENCE.md) | ⭐ 102 | `data analysis` |
+| [Reference](data-analysis/reference_7ea57731/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/REFERENCE.md) | ⭐ 102 | `data analysis` |
 
-### Development (4177 skills)
+### Development (4181 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7517,7 +7542,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](development/672-patterns_7266f3fe/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/patterns.md) | ⭐ 392 | `development` |
 | [Gotchas](development/434-gotchas_1f093345/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/434-gotchas_f716c013/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/gotchas.md) | ⭐ 392 | `development` |
-| [Cli](development/cli_33b94b52/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cli.md) | 🔥 35.3k | `development` |
+| [Cli](development/2044-cli_33b94b52/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/cli.md) | 🔥 35.3k | `development` |
+| [Oss Setup](development/oss-setup_d8254838/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/oss-setup.md) | ⭐ 102 | `development` |
+| [Platform Setup](development/platform-setup_a4512e9b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/platform-setup.md) | ⭐ 102 | `development` |
+| [Programmatic Setup](development/programmatic-setup_d2dc23af/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/programmatic-setup.md) | ⭐ 102 | `development` |
+| [Troubleshooting](development/troubleshooting_2859925e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/troubleshooting.md) | ⭐ 102 | `development` |
 
 ### Development/Devops (61 skills)
 
@@ -7615,7 +7644,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
 
-### Development/Tools (85 skills)
+### Development/Tools (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7704,8 +7733,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Development](development/tools/187-development_e2bc8144/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/DEVELOPMENT.md) | ⭐ 130 | `development` |
 | [Mcp Setup](development/tools/188-mcp_setup_0f042270/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/MCP_SETUP.md) | ⭐ 130 | `development` |
 | [Configuration](development/tools/189-configuration_3bc59136/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 130 | `development` |
+| [Auth](development/tools/auth_1618b7fb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
+| [Mcp Integration](development/tools/mcp-integration_ac1b3845/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/mcp-integration.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_e5702049/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_15c5f82e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_6fd79903/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_873564c5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_acc788cf/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_0e9d644d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/google-drive/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_7277ebd1/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/greenhouse/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_c8cdc1f0/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/hubspot/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_2ecb819b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_3a88537a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_ab40d97a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_7e536405/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_a5347987/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/mailchimp/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_8d4cc358/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/orb/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_e812ee88/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_0e5045ef/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_c32f1818/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_81ed199b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/AUTH.md) | ⭐ 102 | `development` |
 
-### Investment (50 skills)
+### Investment (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7759,6 +7808,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [2025 07 03 Gemini](investment/031-2025-07-03-gemini_b319be9a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-gemini.md) | ⭐ 686 | `investment` |
 | [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
+| [Reference](investment/reference_145e86f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
 
 ### Other (44 skills)
 
@@ -8046,7 +8096,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Session Handoff](productivity/150-session-handoff_d77614d6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/session-handoff.md) | ⭐ 392 | `productivity` |
 | [Patterns](productivity/151-patterns_404e83d1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/patterns.md) | ⭐ 392 | `productivity` |
 
-### Research (370 skills)
+### Research (371 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8420,6 +8470,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](research/229-configuration_e4507626/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/configuration.md) | ⭐ 392 | `research` |
 | [Patterns](research/230-patterns_d3383b42/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/patterns.md) | ⭐ 392 | `research` |
 | [Patterns](research/230-patterns_771d9192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/patterns.md) | ⭐ 392 | `research` |
+| [Reference](research/reference_ede69581/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
 
 ## Repository Structure
 
