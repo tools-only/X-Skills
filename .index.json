@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-05T09:24:57.191078",
+  "updated_at": "2026-02-05T09:30:18.263239",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -108165,6 +108165,20 @@
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md",
       "display_name": "01 Architecture",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "0d6c890deb6c8945f29d56d16ef5c29eea3e2a813588c856e47edab16ca2d091",
+      "source_path": "website/blog/posts/seo-geo-1k-installs-milestone.md",
+      "source_repo": "ReScienceLab/opc-skills",
+      "local_path": "research/222-seo-geo-1k-installs-milestone_0d6c890d",
+      "category": "research",
+      "name": "seo-geo-1k-installs-milestone_0d6c890d",
+      "indexed_at": "2026-02-05T09:30:18.263185",
+      "repo_stars": 69,
+      "repo_updated_at": "2026-02-04T16:48:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md",
+      "display_name": "Seo Geo 1K Installs Milestone",
+      "tags": "[\"research\"]"
     }
   ]
 }

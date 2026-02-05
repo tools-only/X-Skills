@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7728 AI-powered skills** organized into 16 categories.
+A curated collection of **7727 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -17,13 +17,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (306 skills)
 - **Data Analysis** (784 skills)
 - **Development** (4002 skills)
-- **Development/Devops** (25 skills)
+- **Development/Devops** (23 skills)
 - **Development/Testing** (4 skills)
 - **Development/Tools** (39 skills)
 - **Investment** (47 skills)
 - **Other** (43 skills)
 - **Productivity** (223 skills)
-- **Research** (351 skills)
+- **Research** (352 skills)
 
 ## Skills Directory
 
@@ -1223,7 +1223,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt](commercial/304-system_prompt_8f190682/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt.md) | ⭐ 17 | `commercial` |
 | [System Prompt No Thinking](commercial/305-system_prompt_no_thinking_a8a6821b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_no_thinking.md) | ⭐ 17 | `commercial` |
 | [Skill](commercial/210-name-skill_8f5b454c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md) | ⭐ 13 | `commercial` |
-| [01 Architecture](commercial/01-architecture_7cefa3b3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 926 | `commercial` |
+| [01 Architecture](commercial/283-01-architecture_7cefa3b3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 926 | `commercial` |
 
 ### Communication (278 skills)
 
@@ -3060,7 +3060,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_c74dab30/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.continue/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_0bb564d8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.opencode/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cb9dbbe5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/cli/assets/.claude/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
-| [01 Architecture](data-analysis/01-architecture_6a79e991/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 926 | `data analysis` |
+| [01 Architecture](data-analysis/335-01-architecture_6a79e991/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 926 | `data analysis` |
 
 ### Development (4002 skills)
 
@@ -7067,9 +7067,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
 | [Skill](development/1178-name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
 | [Tools Comparison](development/2032-tools-comparison_fbec41c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/references/tools-comparison.md) | 🔥 7.2k | `development` |
-| [Contributing Cn](development/contributing_cn_c62fea39/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 926 | `development` |
+| [Contributing Cn](development/2034-contributing_cn_c62fea39/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 926 | `development` |
 
-### Development/Devops (25 skills)
+### Development/Devops (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7093,11 +7093,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Faq](development/devops/167-faq_f75ae099/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/faq.md) | ⭐ 17 | `development` |
 | [Implementation Summary](development/devops/183-implementation_summary_d60b558b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/IMPLEMENTATION_SUMMARY.md) | ⭐ 17 | `development` |
 | [Nextjs](development/devops/188-nextjs_9dcb370b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nextjs.md) | ⭐ 17 | `development` |
-| [Prompt](development/devops/prompt_6a385dd6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 926 | `development` |
-| [07 Debug](development/devops/07-debug_e43bccae/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-debug.md) | ⭐ 926 | `development` |
-| [07 Debug](development/devops/07-debug_ebe6b87e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-debug.md) | ⭐ 926 | `development` |
-| [01 Client](development/devops/01-client_48cea477/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-client.md) | ⭐ 926 | `development` |
-| [01 Client](development/devops/01-client_63af208a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-client.md) | ⭐ 926 | `development` |
+| [Prompt](development/devops/144-prompt_6a385dd6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 926 | `development` |
+| [07 Debug](development/devops/189-07-debug_e43bccae/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-debug.md) | ⭐ 926 | `development` |
+| [07 Debug](development/devops/189-07-debug_ebe6b87e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-debug.md) | ⭐ 926 | `development` |
 
 ### Development/Testing (4 skills)
 
@@ -7480,7 +7478,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Instructions](productivity/142-instructions_5936da44/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/instructions.md) | ⭐ 17 | `productivity` |
 | [其他行业研究](productivity/143-其他行业研究_ba1e5db2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/其他行业研究.md) | ⭐ 17 | `productivity` |
 
-### Research (351 skills)
+### Research (352 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7835,6 +7833,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Placeholder](research/219-data_placeholder_a0ab8107/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/data/data_placeholder.md) | ⭐ 17 | `research` |
 | [Bibliography](research/220-bibliography_1fc1fc67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/bibliography.md) | ⭐ 17 | `research` |
 | [Verification Checklist](research/221-verification_checklist_4e67fb0b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/verification_checklist.md) | ⭐ 17 | `research` |
+| [Seo Geo 1K Installs Milestone](research/seo-geo-1k-installs-milestone_0d6c890d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md) | ⭐ 69 | `research` |
 
 ## Repository Structure
 
