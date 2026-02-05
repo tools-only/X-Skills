@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8070 AI-powered skills** organized into 16 categories.
+A curated collection of **8407 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (16 skills)
-- **Automation/Workflow** (7 skills)
-- **Commercial** (516 skills)
-- **Communication** (296 skills)
-- **Content Creation** (491 skills)
-- **Daily Assistant** (328 skills)
-- **Data Analysis** (819 skills)
-- **Development** (4104 skills)
-- **Development/Devops** (38 skills)
-- **Development/Testing** (17 skills)
-- **Development/Tools** (73 skills)
+- **Automation/Scripting** (54 skills)
+- **Automation/Workflow** (11 skills)
+- **Commercial** (542 skills)
+- **Communication** (327 skills)
+- **Content Creation** (530 skills)
+- **Daily Assistant** (347 skills)
+- **Data Analysis** (834 skills)
+- **Development** (4194 skills)
+- **Development/Devops** (81 skills)
+- **Development/Testing** (30 skills)
+- **Development/Tools** (88 skills)
 - **Investment** (50 skills)
-- **Other** (43 skills)
-- **Productivity** (229 skills)
-- **Research** (371 skills)
+- **Other** (44 skills)
+- **Productivity** (233 skills)
+- **Research** (370 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (16 skills)
+### Automation/Scripting (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -725,8 +725,46 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Queries](automation/scripting/060-queries_40868f39/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/queries.md) | ⭐ 17 | `automation` |
 | [Fix](automation/scripting/061-fix_32bd5c8c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/fix.md) | ⭐ 11 | `automation` |
 | [Skill](automation/scripting/003-name-skill_ff0a1318/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/skills/review-loop/SKILL.md) | ⭐ 11 | `automation` |
+| [Project Init](automation/scripting/project-init_1d18c707/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/project-init.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_3edd72b4/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api/configuration.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_82fd16d6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api/gotchas.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_7afc4b21/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api/patterns.md) | ⭐ 392 | `automation` |
+| [Api](automation/scripting/api_b7e4e6ae/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bindings/api.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_9119453b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bindings/configuration.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_02d50d3b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cron-triggers/configuration.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_b807ff7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cron-triggers/patterns.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_3107a11a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/d1/configuration.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_22da4b55/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/d1/patterns.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_80c7207e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ddos/patterns.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_b3b99d81/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/do-storage/patterns.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_92b945bc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pipelines/gotchas.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_56b9a29d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pulumi/patterns.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_9063d2c5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/queues/configuration.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_54ec8a12/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/queues/gotchas.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_d019fe4f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/queues/patterns.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_d243f20c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2/configuration.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_4fa5bdac/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2/gotchas.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_a8028c56/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2/patterns.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_b572263b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tail-workers/configuration.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_6c42bbf1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tail-workers/gotchas.md) | ⭐ 392 | `automation` |
+| [Api](automation/scripting/api_31c26952/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/vectorize/api.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_874d1083/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/vectorize/gotchas.md) | ⭐ 392 | `automation` |
+| [Gotchas](automation/scripting/gotchas_65005aa5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-vpc/gotchas.md) | ⭐ 392 | `automation` |
+| [Api](automation/scripting/api_e32a49bf/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/api.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_a7e42ae2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/configuration.md) | ⭐ 392 | `automation` |
+| [Image Optimization](automation/scripting/image-optimization_34bf22c3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-web-optimization/references/image-optimization.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_6e369908/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/containers/patterns.md) | ⭐ 392 | `automation` |
+| [Testing](automation/scripting/testing_2160eca4/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/do-storage/testing.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_11634609/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/images/patterns.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_717b9dc3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pulumi/configuration.md) | ⭐ 392 | `automation` |
+| [Api](automation/scripting/api_9679106d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/queues/api.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_96c3117e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tail-workers/patterns.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_2f151f58/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/vectorize/patterns.md) | ⭐ 392 | `automation` |
+| [Api](automation/scripting/api_34d59a0f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/api.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/scripting/patterns_cb11b6f9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-ai/patterns.md) | ⭐ 392 | `automation` |
+| [Configuration](automation/scripting/configuration_fc0e0e6d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/configuration.md) | ⭐ 392 | `automation` |
 
-### Automation/Workflow (7 skills)
+### Automation/Workflow (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -737,8 +775,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
 | [Skill](automation/workflow/002-name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
 | [Multi Agent System](automation/workflow/061-multi-agent-system_e5dbc864/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/docs/architecture/multi-agent-system.md) | ⭐ 2.5k | `automation` |
+| [Skill](automation/workflow/name-skill_3171610e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/netlify-deploy/SKILL.md) | ⭐ 392 | `automation` |
+| [Service Types](automation/workflow/service-types_d615fbd9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/service-types.md) | ⭐ 392 | `automation` |
+| [Patterns](automation/workflow/patterns_55addb14/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/patterns.md) | ⭐ 392 | `automation` |
+| [Skill](automation/workflow/name-skill_26c85af6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/gh-address-comments/SKILL.md) | ⭐ 392 | `automation` |
 
-### Commercial (516 skills)
+### Commercial (542 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1258,8 +1300,34 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Intents](commercial/314-intents_0aa13169/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/intents.md) | ⭐ 17 | `commercial` |
 | [Middleware](commercial/309-middleware_a4da9532/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/middleware.md) | ⭐ 17 | `commercial` |
 | [Patterns](commercial/142-patterns_3aae153e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/patterns.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/description-skill_e2963b25/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/create-technical-design-doc/SKILL.md) | ⭐ 392 | `commercial` |
+| [Skill](commercial/name-skill_1dade58b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/seo/SKILL.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_b1cd7189/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-gateway/configuration.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_f19c9f89/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-search/configuration.md) | ⭐ 392 | `commercial` |
+| [Gotchas](commercial/gotchas_69d24779/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/browser-rendering/gotchas.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_9e4b20bb/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/containers/configuration.md) | ⭐ 392 | `commercial` |
+| [Api](commercial/api_0a2a6d49/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cron-triggers/api.md) | ⭐ 392 | `commercial` |
+| [Gotchas](commercial/gotchas_6b0012b2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/d1/gotchas.md) | ⭐ 392 | `commercial` |
+| [Gotchas](commercial/gotchas_62d0a082/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/do-storage/gotchas.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_3506f10e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/configuration.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_2348fba2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/secrets-store/configuration.md) | ⭐ 392 | `commercial` |
+| [Gotchas](commercial/gotchas_689f0703/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/secrets-store/gotchas.md) | ⭐ 392 | `commercial` |
+| [Gotchas](commercial/gotchas_dc27a6df/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/static-assets/gotchas.md) | ⭐ 392 | `commercial` |
+| [Api](commercial/api_0b7c8e9f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tunnel/api.md) | ⭐ 392 | `commercial` |
+| [Networking](commercial/networking_b80cc9ea/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tunnel/networking.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_ab845f2c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turn/configuration.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_75fcc21c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/vectorize/configuration.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_7431dbb6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/configuration.md) | ⭐ 392 | `commercial` |
+| [Api](commercial/api_9da1affd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-for-platforms/api.md) | ⭐ 392 | `commercial` |
+| [Skill](commercial/name-skill_2d77003d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/vercel-deploy/SKILL.md) | ⭐ 392 | `commercial` |
+| [Patterns](commercial/patterns_ddf3b23d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/analytics-engine/patterns.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_4de9ce5e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/argo-smart-routing/configuration.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_25471352/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/stream/configuration.md) | ⭐ 392 | `commercial` |
+| [Configuration](commercial/configuration_13ce3a17/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-vpc/configuration.md) | ⭐ 392 | `commercial` |
+| [Api](commercial/api_863752f5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/zaraz/api.md) | ⭐ 392 | `commercial` |
+| [Patterns](commercial/patterns_0a444931/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/zaraz/patterns.md) | ⭐ 392 | `commercial` |
 
-### Communication (296 skills)
+### Communication (327 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1559,8 +1627,39 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Queries](communication/213-queries_242163c5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/queries.md) | ⭐ 17 | `communication` |
 | [Sessions](communication/214-sessions_93fa689a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/sessions.md) | ⭐ 17 | `communication` |
 | [Tools](communication/215-tools_2a14ded2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/tools.md) | ⭐ 17 | `communication` |
+| [Skill](communication/name-skill_4e94859d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(monitoring)/sentry/SKILL.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_393ca7ed/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/agents-sdk/api.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_075cf49e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/agents-sdk/patterns.md) | ⭐ 392 | `communication` |
+| [Dynamic Routing](communication/dynamic-routing_8684ab9c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-gateway/dynamic-routing.md) | ⭐ 392 | `communication` |
+| [Features](communication/features_35884132/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-gateway/features.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_7a51348a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api-shield/configuration.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_6a62feba/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api/api.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_04432613/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/browser-rendering/patterns.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_328b2c8c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ddos/api.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_c9d7e749/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ddos/configuration.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_2038de52/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/do-storage/api.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_607dd334/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/do-storage/configuration.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_686b9105/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-routing/api.md) | ⭐ 392 | `communication` |
+| [Gotchas](communication/gotchas_ee3830f9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-routing/gotchas.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_7c81a62d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-workers/api.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_48a1b532/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-workers/configuration.md) | ⭐ 392 | `communication` |
+| [Gotchas](communication/gotchas_fc57f859/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-workers/gotchas.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_bd27bf0f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-workers/patterns.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_8c4b5f5c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/kv/api.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_280276b2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/kv/configuration.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_448bef6e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/kv/patterns.md) | ⭐ 392 | `communication` |
+| [Gotchas](communication/gotchas_8c16e323/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-data-catalog/gotchas.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_96b7a3fd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-data-catalog/patterns.md) | ⭐ 392 | `communication` |
+| [Api](communication/api_4f67f1af/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-sql/api.md) | ⭐ 392 | `communication` |
+| [Gotchas](communication/gotchas_e329d88e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/spectrum/gotchas.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_b322b2c6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turnstile/patterns.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_d4b760ef/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/configuration.md) | ⭐ 392 | `communication` |
+| [Sdk Integration](communication/sdk-integration_d1095e00/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-gateway/sdk-integration.md) | ⭐ 392 | `communication` |
+| [Patterns](communication/patterns_c986aa25/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-routing/patterns.md) | ⭐ 392 | `communication` |
+| [Configuration](communication/configuration_dc8e619f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-ai/configuration.md) | ⭐ 392 | `communication` |
+| [Frameworks](communication/frameworks_bbf483fe/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/frameworks.md) | ⭐ 392 | `communication` |
 
-### Content Creation (491 skills)
+### Content Creation (530 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2055,8 +2154,47 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Complications](content-creation/264-complications_782b30d4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/complications.md) | ⭐ 17 | `content creation` |
 | [Performance](content-creation/265-performance_c0f98f48/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/performance.md) | ⭐ 17 | `content creation` |
 | [Claude](content-creation/007-claude_f43f662c/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 66 | `content creation` |
+| [Skill](content-creation/name-skill_7de94a3a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/docs-writer/SKILL.md) | ⭐ 392 | `content creation` |
+| [Skill](content-creation/name-skill_c9c4280b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/core-web-vitals/SKILL.md) | ⭐ 392 | `content creation` |
+| [Skill](content-creation/name-skill_010605f6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-accessibility/SKILL.md) | ⭐ 392 | `content creation` |
+| [Skill](content-creation/name-skill_4d6d799f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-quality-audit/SKILL.md) | ⭐ 392 | `content creation` |
+| [Skill](content-creation/name-skill_7a2f6dd3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/run-nx-generator/SKILL.md) | ⭐ 392 | `content creation` |
+| [Post Deploy Checks](content-creation/post-deploy-checks_bd1e3e24/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/post-deploy-checks.md) | ⭐ 392 | `content creation` |
+| [Wcag](content-creation/wcag_8a5d5f7e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-accessibility/references/WCAG.md) | ⭐ 392 | `content creation` |
+| [Golang General Backend Security](content-creation/golang-general-backend-security_3ce56cd0/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/golang-general-backend-security.md) | ⭐ 392 | `content creation` |
+| [Javascript Jquery Web Frontend Security](content-creation/javascript-jquery-web-frontend-security_a7eca249/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/javascript-jquery-web-frontend-security.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_74b14417/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/analytics-engine/api.md) | ⭐ 392 | `content creation` |
+| [Gotchas](content-creation/gotchas_a893cee9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/analytics-engine/gotchas.md) | ⭐ 392 | `content creation` |
+| [Patterns](content-creation/patterns_25357875/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/argo-smart-routing/patterns.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_271747ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/browser-rendering/api.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_c0db13dc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cache-reserve/api.md) | ⭐ 392 | `tag1` `tag2` |
+| [Configuration](content-creation/configuration_7b6547ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cache-reserve/configuration.md) | ⭐ 392 | `content creation` |
+| [Gotchas](content-creation/gotchas_f6a87f49/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cache-reserve/gotchas.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_5eb669f0/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/api.md) | ⭐ 392 | `content creation` |
+| [Configuration](content-creation/configuration_bee96089/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/images/configuration.md) | ⭐ 392 | `content creation` |
+| [Configuration](content-creation/configuration_b6ece9ea/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-sql/configuration.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_f3f2999d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2/api.md) | ⭐ 392 | `content creation` |
+| [Patterns](content-creation/patterns_a74a74c9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtime-sfu/patterns.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_421b2a05/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtimekit/api.md) | ⭐ 392 | `content creation` |
+| [Gotchas](content-creation/gotchas_eb07fbd1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtimekit/gotchas.md) | ⭐ 392 | `content creation` |
+| [Patterns](content-creation/patterns_dcfd254d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtimekit/patterns.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_58b4b84d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/api.md) | ⭐ 392 | `content creation` |
+| [Skill](content-creation/name-skill_d0465e38/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/coding-guidelines/SKILL.md) | ⭐ 392 | `content creation` |
+| [Skill](content-creation/name-skill_2f9951f0/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-astro/SKILL.md) | ⭐ 392 | `content creation` |
+| [Lcp](content-creation/lcp_166c4afb/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/core-web-vitals/references/LCP.md) | ⭐ 392 | `content creation` |
+| [Core Web Vitals](content-creation/core-web-vitals_2835fef4/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-web-optimization/references/core-web-vitals.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_d619cb38/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-search/api.md) | ⭐ 392 | `content creation` |
+| [Configuration](content-creation/configuration_d8d04cbd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/browser-rendering/configuration.md) | ⭐ 392 | `content creation` |
+| [Patterns](content-creation/patterns_06be71ac/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cache-reserve/patterns.md) | ⭐ 392 | `content creation` |
+| [Configuration](content-creation/configuration_a9169613/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/observability/configuration.md) | ⭐ 392 | `content creation` |
+| [Patterns](content-creation/patterns_d39f681b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/observability/patterns.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_52fe8366/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtime-sfu/api.md) | ⭐ 392 | `content creation` |
+| [Configuration](content-creation/configuration_2259da7b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtimekit/configuration.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_1bda532d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/sandbox/api.md) | ⭐ 392 | `content creation` |
+| [Api](content-creation/api_e49148cd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/static-assets/api.md) | ⭐ 392 | `content creation` |
+| [Api Live](content-creation/api-live_1e11667b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/stream/api-live.md) | ⭐ 392 | `content creation` |
 
-### Daily Assistant (328 skills)
+### Daily Assistant (347 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2387,9 +2525,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Concurrency](daily-assistant/198-concurrency_278d84df/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
 | [Review Rust Code](daily-assistant/204-review-rust-code_799d5bd0/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/review-rust-code.md) | ⭐ 11 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_9d89b195/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_165897a6/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/vasopressor-equivalents/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_dc48b9bd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/confluence-assistant/SKILL.md) | ⭐ 392 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_f9ec1f4e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/SKILL.md) | ⭐ 392 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_22726e85/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-generate/SKILL.md) | ⭐ 392 | `daily assistant` |
+| [Figma Mcp Config](daily-assistant/figma-mcp-config_d1146a31/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma/references/figma-mcp-config.md) | ⭐ 392 | `daily assistant` |
+| [Context Limits](daily-assistant/context-limits_320251f6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/context-limits.md) | ⭐ 392 | `daily assistant` |
+| [State Management](daily-assistant/state-management_0f3b04a8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/state-management.md) | ⭐ 392 | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_f5e8c08c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/agents-sdk/gotchas.md) | ⭐ 392 | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_27aab04b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/containers/gotchas.md) | ⭐ 392 | `daily assistant` |
+| [Api](daily-assistant/api_a82e3f09/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/durable-objects/api.md) | ⭐ 392 | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_74a7c2a3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/durable-objects/gotchas.md) | ⭐ 392 | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_e58ac58c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/kv/gotchas.md) | ⭐ 392 | `daily assistant` |
+| [Patterns](daily-assistant/patterns_ca26bc18/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages/patterns.md) | ⭐ 392 | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_316fe777/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tunnel/gotchas.md) | ⭐ 392 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_544e773a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-run-tasks/SKILL.md) | ⭐ 392 | `daily assistant` |
+| [Error Patterns](daily-assistant/error-patterns_d52f23a2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/error-patterns.md) | ⭐ 392 | `daily assistant` |
+| [Validate](daily-assistant/validate_9490ba92/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/validate.md) | ⭐ 392 | `daily assistant` |
+| [Configuration](daily-assistant/configuration_9d87f1ca/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-workspace/reference/configuration.md) | ⭐ 392 | `daily assistant` |
+| [Api](daily-assistant/api_4c1794e6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/containers/api.md) | ⭐ 392 | `daily assistant` |
+| [Api](daily-assistant/api_8709caf3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages-functions/api.md) | ⭐ 392 | `daily assistant` |
+| [Patterns](daily-assistant/patterns_e5aafb7b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/patterns.md) | ⭐ 392 | `daily assistant` |
 
-### Data Analysis (819 skills)
+### Data Analysis (834 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3205,15 +3362,30 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Data Loading](data-analysis/376-data-loading_7beb54b8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/data-loading.md) | ⭐ 17 | `data analysis` |
 | [Operations](data-analysis/157-operations_d852818c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/operations.md) | ⭐ 17 | `data analysis` |
 | [Streaming](data-analysis/377-streaming_e4acdcd7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/streaming.md) | ⭐ 17 | `data analysis` |
-| [Llms Install](data-analysis/llms-install_69cd0ec2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/llms-install.md) | ⭐ 10 | `data analysis` |
-| [Architecture](data-analysis/architecture_28c1af50/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/ARCHITECTURE.md) | ⭐ 10 | `data analysis` |
-| [Custom Datasets](data-analysis/custom_datasets_f87d71f2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CUSTOM_DATASETS.md) | ⭐ 10 | `data analysis` |
-| [M4 Apps](data-analysis/m4_apps_f04a8030/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/M4_APPS.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_9db5c6fd/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/mimic-eicu-mapping/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_64e4c0dc/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/mimic-table-relationships/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_1eb72735/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/gcs-calculation/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Llms Install](data-analysis/378-llms-install_69cd0ec2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/llms-install.md) | ⭐ 10 | `data analysis` |
+| [Architecture](data-analysis/009-architecture_28c1af50/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/ARCHITECTURE.md) | ⭐ 10 | `data analysis` |
+| [Custom Datasets](data-analysis/379-custom_datasets_f87d71f2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CUSTOM_DATASETS.md) | ⭐ 10 | `data analysis` |
+| [M4 Apps](data-analysis/380-m4_apps_f04a8030/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/M4_APPS.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9db5c6fd/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/mimic-eicu-mapping/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_64e4c0dc/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/mimic-table-relationships/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/name-skill_66e82c46/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-ownership-map/SKILL.md) | ⭐ 392 | `data analysis` |
+| [Skill](data-analysis/name-skill_de328706/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-ci-monitor/SKILL.md) | ⭐ 392 | `data analysis` |
+| [Figma Tools And Prompts](data-analysis/figma-tools-and-prompts_b8d6b93a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma/references/figma-tools-and-prompts.md) | ⭐ 392 | `data analysis` |
+| [Neo4J Import](data-analysis/neo4j-import_176d0ef2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-ownership-map/references/neo4j-import.md) | ⭐ 392 | `data analysis` |
+| [Commands](data-analysis/commands_00b86c9e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-workspace/reference/commands.md) | ⭐ 392 | `data analysis` |
+| [Patterns](data-analysis/patterns_60ab619b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api-shield/patterns.md) | ⭐ 392 | `data analysis` |
+| [Gotchas](data-analysis/gotchas_7580f049/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/gotchas.md) | ⭐ 392 | `data analysis` |
+| [Patterns](data-analysis/patterns_a864302c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages-functions/patterns.md) | ⭐ 392 | `data analysis` |
+| [Patterns](data-analysis/patterns_bba9628a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-sql/patterns.md) | ⭐ 392 | `data analysis` |
+| [Configuration](data-analysis/configuration_8a50500d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/configuration.md) | ⭐ 392 | `data analysis` |
+| [Gotchas](data-analysis/gotchas_2b203a92/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/gotchas.md) | ⭐ 392 | `data analysis` |
+| [Skill](data-analysis/name-skill_1a87f0b4/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-web-optimization/SKILL.md) | ⭐ 392 | `data analysis` |
+| [Bundle Optimization](data-analysis/bundle-optimization_4ba7ba7f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-web-optimization/references/bundle-optimization.md) | ⭐ 392 | `data analysis` |
+| [Patterns](data-analysis/patterns_ee48cfc9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pipelines/patterns.md) | ⭐ 392 | `data analysis` |
+| [Api](data-analysis/api_f6df2513/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/api.md) | ⭐ 392 | `data analysis` |
+| [Patterns](data-analysis/patterns_3c4deb3c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/patterns.md) | ⭐ 392 | `data analysis` |
 
-### Development (4104 skills)
+### Development (4194 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7312,17 +7484,107 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Local Reviewer](development/2112-local-reviewer_9d819d1c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/local-reviewer.md) | ⭐ 11 | `development` |
 | [Skill](development/1178-name-skill_55102525/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/SKILL.md) | ⭐ 11 | `development` |
 | [Skill](development/1178-name-skill_31714412/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/debugger/SKILL.md) | ⭐ 66 | `development` |
-| [Code Execution](development/code_execution_6855d8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CODE_EXECUTION.md) | ⭐ 10 | `development` |
-| [Development](development/development_0bd62e92/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/DEVELOPMENT.md) | ⭐ 10 | `development` |
-| [Skills](development/skills-skill_99d268ae/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/SKILLS.md) | ⭐ 10 | `development` |
-| [Skills Index](development/skills_index_b7b42f14/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 10 | `development` |
-| [Skill Format](development/skill_format_59ee6925/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILL_FORMAT.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_3c8c3883/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/baseline-creatinine/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_c14e9128/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-pitfalls/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_f3a50b93/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-api/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_13730249/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-research/SKILL.md) | ⭐ 10 | `development` |
+| [Code Execution](development/2115-code_execution_6855d8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CODE_EXECUTION.md) | ⭐ 10 | `development` |
+| [Development](development/284-development_0bd62e92/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/DEVELOPMENT.md) | ⭐ 10 | `development` |
+| [Skills](development/2116-skills-skill_99d268ae/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/SKILLS.md) | ⭐ 10 | `development` |
+| [Skills Index](development/2117-skills_index_b7b42f14/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 10 | `development` |
+| [Skill Format](development/2118-skill_format_59ee6925/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILL_FORMAT.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_3c8c3883/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/baseline-creatinine/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_c14e9128/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-pitfalls/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_f3a50b93/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-api/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_13730249/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-research/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_56f47264/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/aws-advisor/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_e8fe3578/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/cursor-skill-creator/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_38f37803/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/cursor-subagent-creator/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_36652a52/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/skill-creator/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_d51afb0d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma-implement-design/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_77b750f8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-best-practices/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_e154a7ee/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/SKILL.md) | ⭐ 392 | `development` |
+| [Mcp Guide](development/mcp-guide_37caf1b2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/aws-advisor/references/mcp-guide.md) | ⭐ 392 | `development` |
+| [Deployment Patterns](development/deployment-patterns_06f72662/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/netlify-deploy/references/deployment-patterns.md) | ⭐ 392 | `development` |
+| [Netlify Toml](development/netlify-toml_436ea3c2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/netlify-deploy/references/netlify-toml.md) | ⭐ 392 | `development` |
+| [Style Guide](development/style-guide_1b55350f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/docs-writer/references/style-guide.md) | ⭐ 392 | `development` |
+| [Brownfield Mapping](development/brownfield-mapping_70483623/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/brownfield-mapping.md) | ⭐ 392 | `development` |
+| [Code Analysis](development/code-analysis_38b571c8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/code-analysis.md) | ⭐ 392 | `development` |
+| [Tasks](development/tasks_cb0e9f7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/tasks.md) | ⭐ 392 | `development` |
+| [Javascript General Web Frontend Security](development/javascript-general-web-frontend-security_541003e3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/javascript-general-web-frontend-security.md) | ⭐ 392 | `development` |
+| [Javascript Typescript React Web Frontend Security](development/javascript-typescript-react-web-frontend-security_1927ce33/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/javascript-typescript-react-web-frontend-security.md) | ⭐ 392 | `development` |
+| [Javascript Typescript Vue Web Frontend Security](development/javascript-typescript-vue-web-frontend-security_5997263f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/javascript-typescript-vue-web-frontend-security.md) | ⭐ 392 | `development` |
+| [Security Controls And Assets](development/security-controls-and-assets_7dfe444e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-threat-model/references/security-controls-and-assets.md) | ⭐ 392 | `development` |
+| [Best Practices](development/best-practices_42f76186/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-workspace/reference/best-practices.md) | ⭐ 392 | `development` |
+| [Troubleshooting](development/troubleshooting_08e58258/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-gateway/troubleshooting.md) | ⭐ 392 | `development` |
+| [Api](development/api_939e98b7/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api-shield/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_1663ba1f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/api-shield/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_5b500e4f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/argo-smart-routing/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_b14bc1f8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/argo-smart-routing/gotchas.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_dcad854c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bindings/gotchas.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_52ef4cd5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ddos/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_ea57f260/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/durable-objects/patterns.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_ce021e25/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_aad4dde5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/images/api.md) | ⭐ 392 | `development` |
+| [Api](development/api_6b472569/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/network-interconnect/api.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_1807eb48/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/network-interconnect/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_a9626e6c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/network-interconnect/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_9c309dde/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/observability/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_e04f931f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages-functions/gotchas.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_1655d5ce/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_e2266192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_bc3dd3dd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pipelines/api.md) | ⭐ 392 | `development` |
+| [Api](development/api_00367aa7/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pulumi/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_3bc73c7c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pulumi/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_19c48854/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-data-catalog/api.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_17377e6a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-data-catalog/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_615d84dd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/r2-sql/gotchas.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_4c1f6f1b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtime-sfu/gotchas.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_0da8d374/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/sandbox/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_e6cc2e19/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/secrets-store/api.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_e74f09cc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/secrets-store/patterns.md) | ⭐ 392 | `development` |
+| [Api](development/api_5ba81861/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/snippets/api.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_2090120e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/snippets/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_3b9aa5fe/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/snippets/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_75ec753f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/stream/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_d722d81a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/stream/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_3d6e5b11/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/stream/patterns.md) | ⭐ 392 | `development` |
+| [Api](development/api_59571440/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tail-workers/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_8628689f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/terraform/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_84081671/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turn/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_ac44bc8b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turn/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_41b37b98/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turnstile/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_b8081dd6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turnstile/gotchas.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_b0761bd8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/configuration.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_de49b0d6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_d28ab639/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/api_ed350a67/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-ai/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_b2750204/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-ai/gotchas.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_2fedc5a6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-for-platforms/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_3da5e77f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-for-platforms/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_5fe8d8f8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-for-platforms/patterns.md) | ⭐ 392 | `name` `ai-generated` |
+| [Api](development/api_09b87d58/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/api.md) | ⭐ 392 | `development` |
+| [Api](development/api_14b432fc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-vpc/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_c82806cd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_7266f3fe/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers/patterns.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_1f093345/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/gotchas.md) | ⭐ 392 | `development` |
+| [Gotchas](development/gotchas_f716c013/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/gotchas.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_5e8a0eb0/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/name-skill_7b5da8c3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(creation)/subagent-creator/SKILL.md) | ⭐ 392 | `development` |
+| [Cli Commands](development/cli-commands_a24b0840/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/netlify-deploy/references/cli-commands.md) | ⭐ 392 | `development` |
+| [Coding Principles](development/coding-principles_f691c941/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/coding-principles.md) | ⭐ 392 | `development` |
+| [Design](development/design_2879ca2a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/design.md) | ⭐ 392 | `development` |
+| [Specify](development/specify_6cb0b01f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/specify.md) | ⭐ 392 | `development` |
+| [Prompt Template](development/prompt-template_2e2ab1b3/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-threat-model/references/prompt-template.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_c8d57119/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-search/patterns.md) | ⭐ 392 | `development` |
+| [Api](development/api_42e069eb/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/c3/api.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_e9a74750/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/network-interconnect/patterns.md) | ⭐ 392 | `development` |
+| [Api](development/api_0a98ee28/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages/api.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_4cac4683/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/static-assets/configuration.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_ac313f48/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/static-assets/patterns.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_d39a1587/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/terraform/configuration.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_bf6f7e5a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turn/patterns.md) | ⭐ 392 | `development` |
+| [Configuration](development/configuration_f8a3afa9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turnstile/configuration.md) | ⭐ 392 | `development` |
+| [Patterns](development/patterns_04e1cdb2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-vpc/patterns.md) | ⭐ 392 | `development` |
+| [Api](development/api_6dc33a4d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/api.md) | ⭐ 392 | `development` |
 
-### Development/Devops (38 skills)
+### Development/Devops (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7364,8 +7626,51 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Service Commands](development/devops/200-service-commands_35efcf1f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/cli/service-commands.md) | ⭐ 686 | `development` |
 | [Connections](development/devops/201-connections_66f69f75/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/connections.md) | ⭐ 17 | `development` |
 | [Async Networking](development/devops/202-async-networking_1b0d4aed/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/async-networking.md) | ⭐ 17 | `development` |
+| [Skill](development/devops/name-skill_986c5575/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/devops/name-skill_35d5677a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-threat-model/SKILL.md) | ⭐ 392 | `development` |
+| [Checklists](development/devops/checklists_84782e5a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/aws-advisor/references/checklists.md) | ⭐ 392 | `development` |
+| [Decision Trees](development/devops/decision-trees_0c7e86b8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/aws-advisor/references/decision-trees.md) | ⭐ 392 | `development` |
+| [Configuration Guide](development/devops/configuration-guide_9f6d7077/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/configuration-guide.md) | ⭐ 392 | `development` |
+| [Deployment Details](development/devops/deployment-details_607873a6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/deployment-details.md) | ⭐ 392 | `development` |
+| [Direct Creation](development/devops/direct-creation_4bb15d31/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/direct-creation.md) | ⭐ 392 | `development` |
+| [Javascript Express Web Server Security](development/devops/javascript-express-web-server-security_8496b00d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/javascript-express-web-server-security.md) | ⭐ 392 | `development` |
+| [Javascript Typescript Nextjs Web Server Security](development/devops/javascript-typescript-nextjs-web-server-security_0072d655/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/javascript-typescript-nextjs-web-server-security.md) | ⭐ 392 | `development` |
+| [Python Django Web Server Security](development/devops/python-django-web-server-security_51ca289e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/python-django-web-server-security.md) | ⭐ 392 | `development` |
+| [Python Fastapi Web Server Security](development/devops/python-fastapi-web-server-security_bd207b2b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/python-fastapi-web-server-security.md) | ⭐ 392 | `development` |
+| [Python Flask Web Server Security](development/devops/python-flask-web-server-security_91ea3f06/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(security)/security-best-practices/references/python-flask-web-server-security.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_a2515b4c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/analytics-engine/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/devops/gotchas_0ebd0686/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/c3/gotchas.md) | ⭐ 392 | `development` |
+| [Api](development/devops/api_d711a96c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/d1/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/devops/gotchas_e81d39c1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/observability/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_98e9a198/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/spectrum/patterns.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_ea464ff8/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tunnel/configuration.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_a749fc11/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/tunnel/patterns.md) | ⭐ 392 | `development` |
+| [Api](development/devops/api_3b19753c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/devops/gotchas_9edf3496/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_23dd814e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/patterns.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_db3994ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/patterns.md) | ⭐ 392 | `development` |
+| [Skill](development/devops/name-skill_7f38f165/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-workspace/SKILL.md) | ⭐ 392 | `development` |
+| [Blueprint Spec](development/devops/blueprint-spec_d4b87bd2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/blueprint-spec.md) | ⭐ 392 | `development` |
+| [Codebase Analysis](development/devops/codebase-analysis_4cf98396/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/codebase-analysis.md) | ⭐ 392 | `development` |
+| [Runtimes](development/devops/runtimes_caf939bf/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/runtimes.md) | ⭐ 392 | `development` |
+| [Troubleshooting Basics](development/devops/troubleshooting-basics_b4fd1013/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/troubleshooting-basics.md) | ⭐ 392 | `development` |
+| [Ci Cd](development/devops/ci-cd_9ad0c5af/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-workspace/reference/ci-cd.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_00126d6f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/c3/configuration.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_3c325dac/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/c3/patterns.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_0d0b700c/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/email-routing/configuration.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_7e1139b0/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pages-functions/configuration.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_b1c2b2eb/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/pipelines/configuration.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_366e1227/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/realtime-sfu/configuration.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_7122b0c2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/sandbox/configuration.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_d5dd4408/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/sandbox/patterns.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_1f530eab/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/snippets/patterns.md) | ⭐ 392 | `development` |
+| [Configuration](development/devops/configuration_f91925e7/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/spectrum/configuration.md) | ⭐ 392 | `development` |
+| [Api](development/devops/api_c2d2f09a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/terraform/api.md) | ⭐ 392 | `development` |
+| [Patterns](development/devops/patterns_1c5d35e7/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/terraform/patterns.md) | ⭐ 392 | `development` |
+| [Integration](development/devops/integration_ac5528ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/integration.md) | ⭐ 392 | `development` |
+| [Auth](development/devops/auth_75ec23f1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/auth.md) | ⭐ 392 | `development` |
 
-### Development/Testing (17 skills)
+### Development/Testing (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7386,8 +7691,21 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Fact Schema](development/testing/047-fact-schema_7e19ef2a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/fact-schema.md) | ⭐ 17 | `development` |
 | [Skill Integration](development/testing/048-skill-integration_449f8e92/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/references/skill-integration.md) | ⭐ 17 | `development` |
 | [Skill](development/testing/002-name-skill_0916853e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exunit-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Gotchas](development/testing/gotchas_ee804319/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/ai-search/gotchas.md) | ⭐ 392 | `development` |
+| [Patterns](development/testing/patterns_fdbb6149/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bindings/patterns.md) | ⭐ 392 | `development` |
+| [Gotchas](development/testing/gotchas_ca32b16d/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/cron-triggers/gotchas.md) | ⭐ 392 | `development` |
+| [Configuration](development/testing/configuration_b8082435/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/durable-objects/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/testing/gotchas_3975d722/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/images/gotchas.md) | ⭐ 392 | `development` |
+| [Configuration](development/testing/configuration_7d081d7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/testing/gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
+| [Gotchas](development/testing/gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
+| [Skill](development/testing/name-skill_cab4c715/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/gh-fix-ci/SKILL.md) | ⭐ 392 | `development` |
+| [Api](development/testing/api_636a23be/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/api.md) | ⭐ 392 | `development` |
+| [Api](development/testing/api_f7c92337/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/api.md) | ⭐ 392 | `development` |
+| [Patterns](development/testing/patterns_9dea3d55/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/patterns.md) | ⭐ 392 | `development` |
+| [Patterns](development/testing/patterns_81103fba/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/patterns.md) | ⭐ 392 | `development` |
 
-### Development/Tools (73 skills)
+### Development/Tools (88 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7461,9 +7779,24 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Use Chat](development/tools/224-use-chat_ddf7ff72/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/use-chat.md) | ⭐ 17 | `development` |
 | [Claude](development/tools/017-claude_1c08899e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.0k | `development` |
 | [Rust Builder](development/tools/225-rust-builder_6c505195/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/rust-builder.md) | ⭐ 11 | `development` |
-| [Bigquery](development/tools/bigquery_14816729/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/BIGQUERY.md) | ⭐ 10 | `development` |
-| [Oauth2 Authentication](development/tools/oauth2_authentication_9787539d/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/OAUTH2_AUTHENTICATION.md) | ⭐ 10 | `development` |
-| [Tools](development/tools/tools_70e8d015/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/TOOLS.md) | ⭐ 10 | `development` |
+| [Bigquery](development/tools/226-bigquery_14816729/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/BIGQUERY.md) | ⭐ 10 | `development` |
+| [Oauth2 Authentication](development/tools/227-oauth2_authentication_9787539d/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/OAUTH2_AUTHENTICATION.md) | ⭐ 10 | `development` |
+| [Tools](development/tools/228-tools_70e8d015/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/TOOLS.md) | ⭐ 10 | `development` |
+| [Agents](development/tools/agents_851f78d5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/AGENTS.md) | ⭐ 392 | `development` |
+| [Self Healing](development/tools/self_healing_d1df66c5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/.nx/SELF_HEALING.md) | ⭐ 392 | `development` |
+| [Skill](development/tools/name-skill_2785c395/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(web-automation)/playwright-skill/SKILL.md) | ⭐ 392 | `development` |
+| [Api](development/tools/api_170ed867/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/spectrum/api.md) | ⭐ 392 | `development` |
+| [Gotchas](development/tools/gotchas_83c860a9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/gotchas.md) | ⭐ 392 | `development` |
+| [Configuration](development/tools/configuration_4598cadd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/configuration.md) | ⭐ 392 | `development` |
+| [Implementation Summary](development/tools/implementation_summary_62e81fe0/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/zaraz/IMPLEMENTATION_SUMMARY.md) | ⭐ 392 | `development` |
+| [Configuration](development/tools/configuration_78a20133/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/zaraz/configuration.md) | ⭐ 392 | `development` |
+| [Gotchas](development/tools/gotchas_b9d8ee30/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/zaraz/gotchas.md) | ⭐ 392 | `development` |
+| [Development](development/tools/development_e2bc8144/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/DEVELOPMENT.md) | ⭐ 130 | `development` |
+| [Mcp Setup](development/tools/mcp_setup_0f042270/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/MCP_SETUP.md) | ⭐ 130 | `development` |
+| [Configuration](development/tools/configuration_3bc59136/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 130 | `development` |
+| [Skill](development/tools/name-skill_da4ea73f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(design)/figma/SKILL.md) | ⭐ 392 | `development` |
+| [Skill](development/tools/name-skill_73f511c6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/perf-lighthouse/SKILL.md) | ⭐ 392 | `development` |
+| [Configuration](development/tools/configuration_35c1e753/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/agents-sdk/configuration.md) | ⭐ 392 | `development` |
 
 ### Investment (50 skills)
 
@@ -7520,7 +7853,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 
-### Other (43 skills)
+### Other (44 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7567,8 +7900,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
+| [Roadmap](other/roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (229 skills)
+### Productivity (233 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7801,8 +8135,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Statistics Dashboard](productivity/146-statistics-dashboard_000a82c5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/statistics-dashboard.md) | ⭐ 686 | `productivity` |
 | [Bubbles Components](productivity/147-bubbles-components_e033fe28/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/bubbles-components.md) | ⭐ 17 | `productivity` |
 | [Memory](productivity/148-memory_a5ed5e79/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/memory.md) | ⭐ 17 | `productivity` |
+| [Skill](productivity/description-skill_feaaa708/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/jira-assistant/SKILL.md) | ⭐ 392 | `productivity` |
+| [Session Handoff](productivity/session-handoff_d77614d6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/session-handoff.md) | ⭐ 392 | `productivity` |
+| [Patterns](productivity/patterns_404e83d1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/patterns.md) | ⭐ 392 | `productivity` |
+| [Implement](productivity/implement_4a80980b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/implement.md) | ⭐ 392 | `productivity` |
 
-### Research (371 skills)
+### Research (370 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8166,17 +8504,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Lifecycle](research/227-lifecycle_ffbd7b60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
 | [Components](research/228-components_5c8ef24e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/components.md) | ⭐ 17 | `research` |
 | [Lifecycle](research/227-lifecycle_92e848fd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
-| [Skill](research/name-skill_65c59c12/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/first-icu-stay/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_d119ed5e/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/oasis-score/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_fa6de728/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sapsii-score/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_5a72d413/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sepsis-3-cohort/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_78c8d8c4/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_f263b321/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/suspicion-of-infection/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_668bb999/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/create-m4-skill/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_c70c5f63/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/apsiii-score/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_6dc7de45/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/kdigo-aki-staging/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_3d94ef75/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/lods-score/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_6e311e2c/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sofa-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_65c59c12/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/first-icu-stay/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_d119ed5e/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/oasis-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_fa6de728/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sapsii-score/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_5a72d413/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sepsis-3-cohort/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_78c8d8c4/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_f263b321/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/suspicion-of-infection/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_668bb999/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/create-m4-skill/SKILL.md) | ⭐ 10 | `research` |
+| [Configuration](research/configuration_e4507626/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/configuration.md) | ⭐ 392 | `research` |
+| [Patterns](research/patterns_d3383b42/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/patterns.md) | ⭐ 392 | `research` |
+| [Patterns](research/patterns_771d9192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/patterns.md) | ⭐ 392 | `research` |
 
 ## Repository Structure
 
