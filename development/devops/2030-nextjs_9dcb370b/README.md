@@ -1,0 +1,24 @@
+# Nextjs
+
+| Property | Value |
+|----------|-------|
+| **Name** | Nextjs |
+| **Repository** | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nextjs.md) (⭐ 17) |
+| **Original Path** | `skills-research/ui-ux-pro-max-skill/.qoder/rules/nextjs.md` |
+| **Category** | development |
+| **Subcategory** | devops |
+| **Tags** | development |
+| **Created** | 2026-01-22 |
+| **Updated** | 2026-01-22 |
+| **File Hash** | `9dcb370b87add266...` |
+
+## Description
+
+AI skill for automation and assistance
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nextjs.md)*
