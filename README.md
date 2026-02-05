@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7778 AI-powered skills** organized into 16 categories.
+A curated collection of **7780 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,13 +13,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (7 skills)
 - **Commercial** (497 skills)
 - **Communication** (278 skills)
-- **Content Creation** (456 skills)
+- **Content Creation** (459 skills)
 - **Daily Assistant** (306 skills)
-- **Data Analysis** (794 skills)
+- **Data Analysis** (795 skills)
 - **Development** (4011 skills)
-- **Development/Devops** (25 skills)
-- **Development/Testing** (11 skills)
-- **Development/Tools** (46 skills)
+- **Development/Devops** (26 skills)
+- **Development/Testing** (9 skills)
+- **Development/Tools** (45 skills)
 - **Investment** (47 skills)
 - **Other** (43 skills)
 - **Productivity** (224 skills)
@@ -714,9 +714,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill Evolution](automation/scripting/054-skill_evolution_fd3a2539/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/SKILL_EVOLUTION.md) | ⭐ 17 | `automation` |
 | [Async Parallel](automation/scripting/055-async-parallel_f35a977f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/async-parallel.md) | ⭐ 17 | `automation` |
 | [Cloud](automation/scripting/056-cloud_2d7e54ec/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLOUD.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_0d779264/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/calculator/SKILL.md) | ⭐ 14 | `automation` |
-| [Skill](automation/scripting/name-skill_2857b1e4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/weather/SKILL.md) | ⭐ 14 | `automation` |
-| [Skill](automation/scripting/name-skill_b05ce298/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/skillbox/examples/python_skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Skill](automation/scripting/003-name-skill_0d779264/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/calculator/SKILL.md) | ⭐ 14 | `automation` |
+| [Skill](automation/scripting/003-name-skill_2857b1e4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/weather/SKILL.md) | ⭐ 14 | `automation` |
+| [Skill](automation/scripting/name-skill_1d7cda14/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 30 | `automation` |
 
 ### Automation/Workflow (7 skills)
 
@@ -1515,7 +1515,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Auth Success Alert Design](communication/199-auth-success-alert-design_13d6dbf0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/auth-success-alert-design.md) | ⭐ 17 | `communication` |
 | [Daily Margin Report Design](communication/200-daily-margin-report-design_3a808767/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/daily-margin-report-design.md) | ⭐ 17 | `communication` |
 
-### Content Creation (456 skills)
+### Content Creation (459 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1974,7 +1974,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_77e99a16/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/ai-voice-cloning/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_e6b278b3/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/building-native-ui/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_21202711/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/copywriting/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_191f6a8b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/writing-helper/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/049-name-skill_191f6a8b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/writing-helper/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_ee96b6e9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 30 | `content creation` |
+| [07 Extraction](content-creation/07-extraction_edb2c888/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/07-extraction.md) | ⭐ 948 | `content creation` |
+| [07 Extraction](content-creation/07-extraction_b20a8dde/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/07-extraction.md) | ⭐ 948 | `content creation` |
 
 ### Daily Assistant (306 skills)
 
@@ -2287,7 +2290,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt Flash Anthropic](daily-assistant/193-system_prompt_flash_anthropic_d1ecd038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash_anthropic.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_98415286/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/SKILL.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (794 skills)
+### Data Analysis (795 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3082,9 +3085,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mysql Tuning](data-analysis/153-mysql-tuning_62dc54ae/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/database-optimizer/references/mysql-tuning.md) | ⭐ 279 | `data analysis` |
 | [Postgresql Tuning](data-analysis/172-postgresql-tuning_197da2b9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/database-optimizer/references/postgresql-tuning.md) | ⭐ 279 | `data analysis` |
 | [Code Index](data-analysis/366-code_index_ddfa0897/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `data analysis` |
-| [Skill](data-analysis/name-skill_dc0242e2/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analyzer/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_677565cb/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Reference](data-analysis/reference_c7f7b06d/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/text-processor/references/REFERENCE.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_dc0242e2/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analyzer/SKILL.md) | ⭐ 14 | `data analysis` |
+| [Custom Configuration](data-analysis/custom_configuration_9cf4b013/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 30 | `data analysis` |
+| [Configuration](data-analysis/configuration_78f7e014/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/configuration/configuration.md) | ⭐ 948 | `data analysis` |
+| [Configuration](data-analysis/configuration_be456a4d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/configuration/configuration.md) | ⭐ 948 | `data analysis` |
 
 ### Development (4011 skills)
 
@@ -7096,13 +7100,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Supported Agents](development/1396-supported_agents_e950f36f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/SUPPORTED_AGENTS.md) | ⭐ 279 | `development` |
 | [Skill](development/1178-name-skill_0ce7d2a7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/code-reviewer/SKILL.md) | ⭐ 279 | `development` |
 | [Skill](development/1178-name-skill_9a2d11e4/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/debugging-wizard/SKILL.md) | ⭐ 279 | `development` |
-| [Third Party Licenses](development/third_party_licenses_721d8992/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/THIRD_PARTY_LICENSES.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_ce799e46/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/skill-creator/SKILL.md) | ⭐ 14 | `development` |
-| [Architecture](development/architecture_a4d628a9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 14 | `development` |
-| [Skill](development/name-skill_4df1bea4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.opencode/skills/skilllite/SKILL.md) | ⭐ 14 | `development` |
-| [Api Reference](development/api_reference_0e1bed37/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/references/api_reference.md) | ⭐ 14 | `development` |
+| [Third Party Licenses](development/2037-third_party_licenses_721d8992/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/THIRD_PARTY_LICENSES.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_ce799e46/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/skill-creator/SKILL.md) | ⭐ 14 | `development` |
+| [Architecture](development/055-architecture_a4d628a9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 14 | `development` |
+| [Skill](development/1178-name-skill_4df1bea4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.opencode/skills/skilllite/SKILL.md) | ⭐ 14 | `development` |
+| [Api Reference](development/051-api_reference_0e1bed37/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/references/api_reference.md) | ⭐ 14 | `development` |
 
-### Development/Devops (25 skills)
+### Development/Devops (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7131,8 +7135,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [07 Debug](development/devops/189-07-debug_ebe6b87e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-debug.md) | ⭐ 926 | `development` |
 | [Getting Started](development/devops/190-getting-started_91cf2684/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md) | ⭐ 29 | `development` |
 | [Index](development/devops/050-index_8ece0aff/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
+| [Claude](development/devops/claude_5ec3fb03/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/CLAUDE.md) | ⭐ 30 | `development` |
 
-### Development/Testing (11 skills)
+### Development/Testing (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7144,11 +7149,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_0101a181/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_chat/AGENTS.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_091e85e9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Create Epic Plan](development/testing/043-create-epic-plan_a80b8037/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/planning/create-epic-plan.md) | ⭐ 279 | `development` |
-| [Skill](development/testing/name-skill_c9a62198/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/testing/name-skill_1c1e469d/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/dangerous-test/SKILL.md) | ⭐ 14 | `development` |
-| [Skill](development/testing/name-skill_055838c0/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/nodejs-test/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/testing/002-name-skill_c9a62198/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 14 | `development` |
 
-### Development/Tools (46 skills)
+### Development/Tools (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7192,12 +7195,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skills](development/tools/206-claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
 | [Maintenance](development/tools/207-maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
 | [Git Commit Instructions](development/tools/208-git-commit-instructions_540df4f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/.github/git-commit-instructions.md) | ⭐ 29 | `development` |
-| [Readme Cn](development/tools/readme_cn_f40854a4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 14 | `development` |
-| [Skill](development/tools/name-skill_583fd173/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/file-helper/SKILL.md) | ⭐ 14 | `development` |
-| [Architecture](development/tools/architecture_8ca6b514/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 14 | `development` |
-| [Getting Started](development/tools/getting_started_964f4a76/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/GETTING_STARTED.md) | ⭐ 14 | `development` |
-| [Getting Started](development/tools/getting_started_6fc5b467/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/GETTING_STARTED.md) | ⭐ 14 | `development` |
-| [Latest Changelog](development/tools/latest_changelog_dbe1c51f/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md) | 🔥 6.5k | `development` |
+| [Readme Cn](development/tools/209-readme_cn_f40854a4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/002-name-skill_583fd173/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/file-helper/SKILL.md) | ⭐ 14 | `development` |
+| [Architecture](development/tools/051-architecture_8ca6b514/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 14 | `development` |
+| [Getting Started](development/tools/210-getting_started_964f4a76/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/GETTING_STARTED.md) | ⭐ 14 | `development` |
+| [Getting Started](development/tools/210-getting_started_6fc5b467/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/GETTING_STARTED.md) | ⭐ 14 | `development` |
 
 ### Investment (47 skills)
 
@@ -7884,7 +7886,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bibliography](research/220-bibliography_1fc1fc67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/bibliography.md) | ⭐ 17 | `research` |
 | [Verification Checklist](research/221-verification_checklist_4e67fb0b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/verification_checklist.md) | ⭐ 17 | `research` |
 | [Seo Geo 1K Installs Milestone](research/222-seo-geo-1k-installs-milestone_0d6c890d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md) | ⭐ 69 | `research` |
-| [Skill](research/name-skill_dd27ab39/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/text-processor/SKILL.md) | ⭐ 14 | `research` |
+| [Skill](research/139-name-skill_dd27ab39/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/text-processor/SKILL.md) | ⭐ 14 | `research` |
 
 ## Repository Structure
 
