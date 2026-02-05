@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7488 AI-powered skills** organized into 16 categories.
+A curated collection of **7453 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (441 skills)
-- **Automation/Scripting** (122 skills)
+- **Automation/Scripting** (113 skills)
 - **Automation/Workflow** (118 skills)
-- **Commercial** (485 skills)
-- **Communication** (260 skills)
+- **Commercial** (483 skills)
+- **Communication** (259 skills)
 - **Content Creation** (434 skills)
-- **Daily Assistant** (295 skills)
+- **Daily Assistant** (294 skills)
 - **Data Analysis** (753 skills)
-- **Development** (3197 skills)
-- **Development/Devops** (334 skills)
-- **Development/Testing** (51 skills)
-- **Development/Tools** (363 skills)
+- **Development** (3186 skills)
+- **Development/Devops** (332 skills)
+- **Development/Testing** (48 skills)
+- **Development/Tools** (357 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (220 skills)
@@ -474,7 +474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/180-agent-ml-engineer_092f50e5/) | [Unknown](#) | N/A | `automation` |
 | [Troubleshooting](automation/201-troubleshooting_69ab8316/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (122 skills)
+### Automation/Scripting (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -580,26 +580,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Js Min Max Loop](automation/scripting/048-js-min-max-loop_87dfb67e/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/js-min-max-loop.md) | ⭐ 13 | `automation` |
 | [Rerender Derived State](automation/scripting/049-rerender-derived-state_1c326bb6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-derived-state.md) | ⭐ 13 | `automation` |
 | [Rerender Simple Expression In Memo](automation/scripting/050-rerender-simple-expression-in-memo_5bdcf2d1/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-simple-expression-in-memo.md) | ⭐ 13 | `automation` |
-| [Clean Gone Branches](automation/scripting/clean-gone-branches_174bbd58/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/clean-gone-branches.md) | ⭐ 401 | `automation` |
-| [Query Patterns](automation/scripting/query-patterns_c27804d3/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/query-patterns.md) | ⭐ 401 | `automation` |
-| [Skill](automation/scripting/name-skill_8f33fbd3/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/backdoor/magic-string-trigger/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_50a4129b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/behavioral-analysis/multi-file-exfiltration/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_c7765ccf/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/command-injection/eval-execution/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_89e296c6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/data-exfiltration/environment-secrets/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_5d29bf5b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/obfuscation/base64-payload/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_f7c91bf5/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/path-traversal/file-reader/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_f2cb0c14/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/safe-skills-2/file-validator/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_a22e3cb7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/safe-skills/simple-math/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_ef20a177/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/sql-injection/database-query/SKILL.md) | ⭐ 324 | `automation` |
-| [Load Claude Md](automation/scripting/load-claude-md_04a6aa57/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/claude-tools/commands/load-claude-md.md) | ⭐ 401 | `automation` |
-| [Responsive Tester](automation/scripting/responsive-tester_936d31a7/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/playwright-tools/agents/responsive-tester.md) | ⭐ 401 | `automation` |
-| [Skill](automation/scripting/name-skill_0187f4fe/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/gcloud-tools/skills/setup/SKILL.md) | ⭐ 401 | `automation` |
-| [Skill](automation/scripting/name-skill_aa40211d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/linear-tools/skills/setup/SKILL.md) | ⭐ 401 | `automation` |
-| [Skill](automation/scripting/name-skill_8e6132f3/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/mongodb-tools/skills/setup/SKILL.md) | ⭐ 401 | `automation` |
-| [Skill](automation/scripting/name-skill_d755b186/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/setup/SKILL.md) | ⭐ 401 | `automation` |
-| [Bug Report](automation/scripting/bug_report_df27a60b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_4f1feeb5/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/resource-exhaustion/infinite-loop/SKILL.md) | ⭐ 324 | `automation` |
-| [Skill](automation/scripting/name-skill_2f764743/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/test_skills/malicious/exfiltrator/SKILL.md) | ⭐ 324 | `automation` |
+| [Clean Gone Branches](automation/scripting/051-clean-gone-branches_174bbd58/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/clean-gone-branches.md) | ⭐ 401 | `automation` |
+| [Query Patterns](automation/scripting/052-query-patterns_c27804d3/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/query-patterns.md) | ⭐ 401 | `automation` |
+| [Skill](automation/scripting/003-name-skill_8f33fbd3/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/backdoor/magic-string-trigger/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_50a4129b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/behavioral-analysis/multi-file-exfiltration/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_c7765ccf/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/command-injection/eval-execution/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_89e296c6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/data-exfiltration/environment-secrets/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_5d29bf5b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/obfuscation/base64-payload/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_f7c91bf5/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/path-traversal/file-reader/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_f2cb0c14/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/safe-skills-2/file-validator/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_a22e3cb7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/safe-skills/simple-math/SKILL.md) | ⭐ 324 | `automation` |
+| [Skill](automation/scripting/003-name-skill_ef20a177/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/sql-injection/database-query/SKILL.md) | ⭐ 324 | `automation` |
 
 ### Automation/Workflow (118 skills)
 
@@ -718,13 +709,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_fd5f0b9e/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/SKILL.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_855a7d0e/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ebe18f1a/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 172 | `automation` |
-| [Create Pr](automation/workflow/create-pr_36af29d3/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/create-pr.md) | ⭐ 401 | `automation` |
-| [Skill](automation/workflow/name-skill_5071421e/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/skills/commit-workflow/SKILL.md) | ⭐ 401 | `automation` |
-| [Api Server](automation/workflow/api-server_f6c068d2/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/api-server.md) | ⭐ 324 | `automation` |
-| [Threat Taxonomy](automation/workflow/threat-taxonomy_04194424/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/threat-taxonomy.md) | ⭐ 324 | `automation` |
-| [Skill Threat Analysis Prompt](automation/workflow/skill_threat_analysis_prompt_6368a155/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 324 | `automation` |
+| [Create Pr](automation/workflow/056-create-pr_36af29d3/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/create-pr.md) | ⭐ 401 | `automation` |
+| [Skill](automation/workflow/002-name-skill_5071421e/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/skills/commit-workflow/SKILL.md) | ⭐ 401 | `automation` |
+| [Api Server](automation/workflow/057-api-server_f6c068d2/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/api-server.md) | ⭐ 324 | `automation` |
+| [Threat Taxonomy](automation/workflow/058-threat-taxonomy_04194424/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/threat-taxonomy.md) | ⭐ 324 | `automation` |
+| [Skill Threat Analysis Prompt](automation/workflow/059-skill_threat_analysis_prompt_6368a155/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 324 | `automation` |
 
-### Commercial (485 skills)
+### Commercial (483 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1210,11 +1201,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Business Logic](commercial/297-business-logic_fc8ec30e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/business-logic.md) | ⭐ 172 | `commercial` |
 | [Data Protection](commercial/298-data-protection_920b7dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/data-protection.md) | ⭐ 172 | `commercial` |
 | [Supply Chain](commercial/299-supply-chain_43c40275/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/supply-chain.md) | ⭐ 172 | `commercial` |
-| [Codeguard 0 Iac Security](commercial/codeguard-0-iac-security_228a0560/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-iac-security.md) | ⭐ 324 | `commercial` |
-| [Skill](commercial/name-skill_07a085ab/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/gcloud-tools/skills/gcloud-usage/SKILL.md) | ⭐ 401 | `commercial` |
-| [Skill](commercial/name-skill_2ba4f514/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/test_skills/malicious/eicar-test/SKILL.md) | ⭐ 324 | `commercial` |
+| [Codeguard 0 Iac Security](commercial/300-codeguard-0-iac-security_228a0560/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-iac-security.md) | ⭐ 324 | `commercial` |
 
-### Communication (260 skills)
+### Communication (259 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1473,11 +1462,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Auth Actions](communication/182-server-auth-actions_a2ca8aa1/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/server-auth-actions.md) | ⭐ 13 | `communication` |
 | [Skill](communication/127-name-skill_7a1bf3b5/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 172 | `communication` |
 | [Authentication](communication/016-authentication_7bc598cd/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/authentication.md) | ⭐ 172 | `communication` |
-| [Setup](communication/setup_55e51e1e/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/commands/setup.md) | ⭐ 401 | `communication` |
-| [Skill](communication/name-skill_881b1d20/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/skills/slack-usage/SKILL.md) | ⭐ 401 | `communication` |
-| [Skill](communication/name-skill_f750eec0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/SKILL.md) | ⭐ 401 | `communication` |
-| [Auth](communication/auth_ec1a96c2/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/auth.md) | ⭐ 401 | `communication` |
-| [Relationships](communication/relationships_30ef63a0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/relationships.md) | ⭐ 401 | `communication` |
+| [Setup](communication/183-setup_55e51e1e/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/commands/setup.md) | ⭐ 401 | `communication` |
+| [Skill](communication/127-name-skill_881b1d20/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/skills/slack-usage/SKILL.md) | ⭐ 401 | `communication` |
+| [Skill](communication/127-name-skill_f750eec0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/SKILL.md) | ⭐ 401 | `communication` |
+| [Langfuse Integration](communication/langfuse_integration_141c0aa1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/observability/langfuse_integration.md) | 🔥 35.2k | `communication` |
 
 ### Content Creation (434 skills)
 
@@ -1914,11 +1902,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_dd6711ea/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/create-pr/SKILL.md) | ⭐ 172 | `content creation` |
 | [Skill](content-creation/049-name-skill_819ad219/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/doc-coauthoring/SKILL.md) | ⭐ 172 | `content creation` |
 | [Skill](content-creation/049-name-skill_cc7a4508/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.openclaw/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
-| [Skill](content-creation/name-skill_83103778/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/mongodb-tools/skills/mongodb-usage/SKILL.md) | ⭐ 401 | `content creation` |
-| [Skill](content-creation/name-skill_90a399dc/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/plugin-settings/SKILL.md) | ⭐ 401 | `content creation` |
-| [Rls](content-creation/rls_4bbb39df/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/rls.md) | ⭐ 401 | `content creation` |
+| [Skill](content-creation/049-name-skill_83103778/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/mongodb-tools/skills/mongodb-usage/SKILL.md) | ⭐ 401 | `content creation` |
+| [Skill](content-creation/049-name-skill_90a399dc/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/plugin-settings/SKILL.md) | ⭐ 401 | `content creation` |
+| [Rls](content-creation/228-rls_4bbb39df/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/skills/supabase-usage/references/rls.md) | ⭐ 401 | `content creation` |
 
-### Daily Assistant (295 skills)
+### Daily Assistant (294 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2214,9 +2202,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Cache React](daily-assistant/184-server-cache-react_fddeea6c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/server-cache-react.md) | ⭐ 13 | `daily assistant` |
 | [Scaffold](daily-assistant/161-scaffold_9d0b0fea/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/scaffold.md) | ⭐ 34 | `daily assistant` |
 | [Cursor](daily-assistant/165-cursor_1e9da78a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
-| [Commit Staged](daily-assistant/commit-staged_da7bd030/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/commit-staged.md) | ⭐ 401 | `daily assistant` |
-| [Boilerplate Protection Rule Prompt](daily-assistant/boilerplate_protection_rule_prompt_0cd5d8c7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/boilerplate_protection_rule_prompt.md) | ⭐ 324 | `daily assistant` |
-| [Load Skills](daily-assistant/load-skills_08ad3fea/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/commands/load-skills.md) | ⭐ 401 | `daily assistant` |
+| [Commit Staged](daily-assistant/185-commit-staged_da7bd030/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/commit-staged.md) | ⭐ 401 | `daily assistant` |
+| [Boilerplate Protection Rule Prompt](daily-assistant/186-boilerplate_protection_rule_prompt_0cd5d8c7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/boilerplate_protection_rule_prompt.md) | ⭐ 324 | `daily assistant` |
 
 ### Data Analysis (753 skills)
 
@@ -2973,10 +2960,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Dedup Props](data-analysis/346-server-dedup-props_c2747424/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/server-dedup-props.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_08664c36/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/find-bugs/SKILL.md) | ⭐ 172 | `data analysis` |
 | [File Security](data-analysis/347-file-security_a0a001fb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/file-security.md) | ⭐ 172 | `data analysis` |
-| [Architecture](data-analysis/architecture_b0310637/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture.md) | ⭐ 324 | `data analysis` |
-| [Codeguard 0 Additional Cryptography](data-analysis/codeguard-0-additional-cryptography_1aa1719a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-additional-cryptography.md) | ⭐ 324 | `data analysis` |
+| [Architecture](data-analysis/009-architecture_b0310637/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture.md) | ⭐ 324 | `data analysis` |
+| [Codeguard 0 Additional Cryptography](data-analysis/348-codeguard-0-additional-cryptography_1aa1719a/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-additional-cryptography.md) | ⭐ 324 | `data analysis` |
 
-### Development (3197 skills)
+### Development (3186 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6134,51 +6121,40 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Modern Threats](development/1963-modern-threats_d2ac69d9/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/modern-threats.md) | ⭐ 172 | `development` |
 | [Ssrf](development/1964-ssrf_0941b15e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/ssrf.md) | ⭐ 172 | `development` |
 | [Xss](development/1965-xss_4735df1e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/xss.md) | ⭐ 172 | `development` |
-| [Claude](development/claude_1bf7f650/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/CLAUDE.md) | ⭐ 401 | `development` |
-| [Setup](development/setup_b654d69d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/ccproxy-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Sync Allowlist](development/sync-allowlist_0dc11fd9/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/claude-tools/commands/sync-allowlist.md) | ⭐ 401 | `development` |
-| [Sync Claude Md](development/sync-claude-md_969ca670/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/claude-tools/commands/sync-claude-md.md) | ⭐ 401 | `development` |
-| [Code Simplifier](development/code-simplifier_325e3798/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/general-dev/agents/code-simplifier.md) | ⭐ 401 | `development` |
-| [Commit Creator](development/commit-creator_1c71783d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/agents/commit-creator.md) | ⭐ 401 | `development` |
-| [Pr Reviewer](development/pr-reviewer_2e540740/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/agents/pr-reviewer.md) | ⭐ 401 | `development` |
-| [Update Pr Summary](development/update-pr-summary_e19147a1/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/update-pr-summary.md) | ⭐ 401 | `development` |
-| [Agent Creator](development/agent-creator_2ecae63b/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/agents/agent-creator.md) | ⭐ 401 | `development` |
-| [Create Plugin](development/create-plugin_b6c0c231/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/commands/create-plugin.md) | ⭐ 401 | `development` |
-| [Setup](development/setup_968bf76d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/statusline-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Setup](development/setup_3e64c603/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Setup](development/setup_e2228d94/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/tavily-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_e7cbe879/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/azure-tools/skills/azure-usage/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_c25bcf73/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/ccproxy-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_a7be5077/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/skills/pr-workflow/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_7b8c3981/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/linear-tools/skills/linear-usage/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_5f5f0e31/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/command-development/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_a24512ae/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/mcp-integration/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_13464ee1/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/plugin-structure/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_b36c644b/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/skill-development/SKILL.md) | ⭐ 401 | `development` |
-| [Aidefense Analyzer](development/aidefense-analyzer_cd4d6ca7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/aidefense-analyzer.md) | ⭐ 324 | `development` |
-| [Behavioral Analyzer](development/behavioral-analyzer_c4811c7e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/behavioral-analyzer.md) | ⭐ 324 | `development` |
-| [Llm Analyzer](development/llm-analyzer_cdf90845/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/llm-analyzer.md) | ⭐ 324 | `development` |
-| [How Eval Works](development/how_eval_works_0e9fd11f/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/HOW_EVAL_WORKS.md) | ⭐ 324 | `development` |
-| [Codeguard 0 Framework And Languages](development/codeguard-0-framework-and-languages_327894e4/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-framework-and-languages.md) | ⭐ 324 | `development` |
-| [Codeguard 0 Mobile Apps](development/codeguard-0-mobile-apps_260fccb6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-mobile-apps.md) | ⭐ 324 | `development` |
-| [Codeguard 1 Crypto Algorithms](development/codeguard-1-crypto-algorithms_452ea9aa/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-1-crypto-algorithms.md) | ⭐ 324 | `development` |
-| [Codeguard 1 Digital Certificates](development/codeguard-1-digital-certificates_47973111/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-1-digital-certificates.md) | ⭐ 324 | `development` |
-| [Code Alignment Threat Analysis Prompt](development/code_alignment_threat_analysis_prompt_8f953761/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/code_alignment_threat_analysis_prompt.md) | ⭐ 324 | `development` |
-| [Skill Meta Analysis Prompt](development/skill_meta_analysis_prompt_e7f5e893/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_meta_analysis_prompt.md) | ⭐ 324 | `development` |
-| [Skill](development/name-skill_e2474108/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/prompt-injection/jailbreak-override/SKILL.md) | ⭐ 324 | `development` |
-| [Install](development/install_4d9e57bc/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/INSTALL.md) | ⭐ 401 | `development` |
-| [Load Frontend Skill](development/load-frontend-skill_a5c7cab7/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/claude-tools/commands/load-frontend-skill.md) | ⭐ 401 | `development` |
-| [Review Pr](development/review-pr_9ee1ef29/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/review-pr.md) | ⭐ 401 | `development` |
-| [Setup](development/setup_c97eef67/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/playwright-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_e75c6d32/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/paper-search-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_fd9d2c54/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/statusline-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/name-skill_fd547e72/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/tavily-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Feature Request](development/feature_request_a11f6127/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 324 | `development` |
-| [Codeguard 1 Hardcoded Credentials](development/codeguard-1-hardcoded-credentials_7e12d6e8/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-1-hardcoded-credentials.md) | ⭐ 324 | `development` |
-| [Unified Response Schema](development/unified_response_schema_f9fd440e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/unified_response_schema.md) | ⭐ 324 | `development` |
-| [Skill](development/name-skill_4122cc4c/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/test_skills/malicious/prompt-injection/SKILL.md) | ⭐ 324 | `development` |
+| [Claude](development/140-claude_1bf7f650/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/CLAUDE.md) | ⭐ 401 | `development` |
+| [Setup](development/964-setup_b654d69d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/ccproxy-tools/commands/setup.md) | ⭐ 401 | `development` |
+| [Sync Allowlist](development/1968-sync-allowlist_0dc11fd9/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/claude-tools/commands/sync-allowlist.md) | ⭐ 401 | `development` |
+| [Sync Claude Md](development/1969-sync-claude-md_969ca670/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/claude-tools/commands/sync-claude-md.md) | ⭐ 401 | `development` |
+| [Code Simplifier](development/1970-code-simplifier_325e3798/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/general-dev/agents/code-simplifier.md) | ⭐ 401 | `development` |
+| [Commit Creator](development/1971-commit-creator_1c71783d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/agents/commit-creator.md) | ⭐ 401 | `development` |
+| [Pr Reviewer](development/1972-pr-reviewer_2e540740/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/agents/pr-reviewer.md) | ⭐ 401 | `development` |
+| [Update Pr Summary](development/1973-update-pr-summary_e19147a1/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/update-pr-summary.md) | ⭐ 401 | `development` |
+| [Agent Creator](development/1974-agent-creator_2ecae63b/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/agents/agent-creator.md) | ⭐ 401 | `development` |
+| [Create Plugin](development/1975-create-plugin_b6c0c231/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/commands/create-plugin.md) | ⭐ 401 | `development` |
+| [Setup](development/964-setup_968bf76d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/statusline-tools/commands/setup.md) | ⭐ 401 | `development` |
+| [Setup](development/964-setup_3e64c603/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/supabase-tools/commands/setup.md) | ⭐ 401 | `development` |
+| [Setup](development/964-setup_e2228d94/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/tavily-tools/commands/setup.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_e7cbe879/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/azure-tools/skills/azure-usage/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_c25bcf73/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/ccproxy-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_a7be5077/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/skills/pr-workflow/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_7b8c3981/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/linear-tools/skills/linear-usage/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_5f5f0e31/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/command-development/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_a24512ae/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/mcp-integration/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_13464ee1/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/plugin-structure/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/1178-name-skill_b36c644b/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/skill-development/SKILL.md) | ⭐ 401 | `development` |
+| [Aidefense Analyzer](development/1976-aidefense-analyzer_cd4d6ca7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/aidefense-analyzer.md) | ⭐ 324 | `development` |
+| [Behavioral Analyzer](development/1977-behavioral-analyzer_c4811c7e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/behavioral-analyzer.md) | ⭐ 324 | `development` |
+| [Llm Analyzer](development/1978-llm-analyzer_cdf90845/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/llm-analyzer.md) | ⭐ 324 | `development` |
+| [How Eval Works](development/1979-how_eval_works_0e9fd11f/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/HOW_EVAL_WORKS.md) | ⭐ 324 | `development` |
+| [Codeguard 0 Framework And Languages](development/1980-codeguard-0-framework-and-languages_327894e4/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-framework-and-languages.md) | ⭐ 324 | `development` |
+| [Codeguard 0 Mobile Apps](development/1981-codeguard-0-mobile-apps_260fccb6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-mobile-apps.md) | ⭐ 324 | `development` |
+| [Codeguard 1 Crypto Algorithms](development/1982-codeguard-1-crypto-algorithms_452ea9aa/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-1-crypto-algorithms.md) | ⭐ 324 | `development` |
+| [Codeguard 1 Digital Certificates](development/1983-codeguard-1-digital-certificates_47973111/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-1-digital-certificates.md) | ⭐ 324 | `development` |
+| [Code Alignment Threat Analysis Prompt](development/1984-code_alignment_threat_analysis_prompt_8f953761/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/code_alignment_threat_analysis_prompt.md) | ⭐ 324 | `development` |
+| [Skill Meta Analysis Prompt](development/1985-skill_meta_analysis_prompt_e7f5e893/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_meta_analysis_prompt.md) | ⭐ 324 | `development` |
+| [Skill](development/1178-name-skill_e2474108/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/skills/prompt-injection/jailbreak-override/SKILL.md) | ⭐ 324 | `development` |
 
-### Development/Devops (334 skills)
+### Development/Devops (332 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6552,15 +6528,13 @@ Read more about the new architecture [here` |
 | [Docker](development/devops/176-docker_84bd4946/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/infrastructure/docker.md) | ⭐ 172 | `development` |
 | [Python](development/devops/067-python_32d0b130/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/languages/python.md) | ⭐ 172 | `development` |
 | [Misconfiguration](development/devops/177-misconfiguration_919c44e3/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/misconfiguration.md) | ⭐ 172 | `development` |
-| [Setup](development/devops/setup_00d64d36/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/setup.md) | ⭐ 401 | `development` |
-| [Quickstart](development/devops/quickstart_3beb7e1f/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/quickstart.md) | ⭐ 324 | `development` |
-| [Remote Skills Analysis](development/devops/remote-skills-analysis_26e58581/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/remote-skills-analysis.md) | ⭐ 324 | `development` |
-| [Evaluation Guide](development/devops/evaluation_guide_42b438a6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/EVALUATION_GUIDE.md) | ⭐ 324 | `development` |
-| [Codeguard 0 Supply Chain Security](development/devops/codeguard-0-supply-chain-security_44125b7e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-supply-chain-security.md) | ⭐ 324 | `development` |
-| [Setup](development/devops/setup_a9159461/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/paper-search-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Api Rationale](development/devops/api-rationale_a9ff399f/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/api-rationale.md) | ⭐ 324 | `development` |
+| [Setup](development/devops/178-setup_00d64d36/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/commands/setup.md) | ⭐ 401 | `development` |
+| [Quickstart](development/devops/179-quickstart_3beb7e1f/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/quickstart.md) | ⭐ 324 | `development` |
+| [Remote Skills Analysis](development/devops/180-remote-skills-analysis_26e58581/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/remote-skills-analysis.md) | ⭐ 324 | `development` |
+| [Evaluation Guide](development/devops/181-evaluation_guide_42b438a6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/EVALUATION_GUIDE.md) | ⭐ 324 | `development` |
+| [Codeguard 0 Supply Chain Security](development/devops/182-codeguard-0-supply-chain-security_44125b7e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.windsurf/rules/codeguard-0-supply-chain-security.md) | ⭐ 324 | `development` |
 
-### Development/Testing (51 skills)
+### Development/Testing (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6611,12 +6585,9 @@ Read more about the new architecture [here` |
 | [Pre Commit Verify](development/testing/036-pre-commit-verify_17635589/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/hooks/pre-commit-verify.md) | ⭐ 13 | `development` |
 | [Skill](development/testing/002-name-skill_c9a7e9b2/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/optimize-agent-docs/SKILL.md) | ⭐ 13 | `development` |
 | [Lightweight Clients](development/testing/037-lightweight-clients_8ab515d5/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/references/lightweight-clients.md) | ⭐ 13 | `development` |
-| [Developing](development/testing/developing_e6f38747/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/developing.md) | ⭐ 324 | `development` |
-| [Skill](development/testing/name-skill_7c3fef01/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/playwright-tools/skills/playwright-testing/SKILL.md) | ⭐ 401 | `development` |
-| [Testing](development/testing/testing_c677ee8c/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/TESTING.md) | ⭐ 324 | `development` |
-| [Skill](development/testing/name-skill_a122ce0e/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/evals/test_skills/safe/simple-formatter/SKILL.md) | ⭐ 324 | `development` |
+| [Developing](development/testing/038-developing_e6f38747/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/developing.md) | ⭐ 324 | `development` |
 
-### Development/Tools (363 skills)
+### Development/Tools (357 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6969,20 +6940,14 @@ Read more about the new architecture [here` |
 | [Swiftui](development/tools/195-swiftui_923a0ab6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tuning-panel/references/swiftui.md) | ⭐ 13 | `development` |
 | [Vanilla Js](development/tools/196-vanilla-js_aa343601/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tuning-panel/references/vanilla-js.md) | ⭐ 13 | `development` |
 | [Skill](development/tools/002-name-skill_6a528d92/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/agents-md/SKILL.md) | ⭐ 172 | `development` |
-| [Pr Creator](development/tools/pr-creator_cfa6b869/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/agents/pr-creator.md) | ⭐ 401 | `development` |
-| [Setup](development/tools/setup_5c67b444/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/mongodb-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Plugin Validator](development/tools/plugin-validator_27fdc0a0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/agents/plugin-validator.md) | ⭐ 401 | `development` |
-| [Skill Reviewer](development/tools/skill-reviewer_80b32c58/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/agents/skill-reviewer.md) | ⭐ 401 | `development` |
-| [Skill](development/tools/name-skill_03b68ec5/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/tools/name-skill_271df445/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/agent-development/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/tools/name-skill_a6ed87b0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/hook-development/SKILL.md) | ⭐ 401 | `development` |
-| [Meta Analyzer](development/tools/meta-analyzer_a503ddf6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 324 | `development` |
-| [Setup](development/tools/setup_7f44e6fc/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/azure-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Setup](development/tools/setup_89400d6b/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/gcloud-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Setup](development/tools/setup_32922218/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/linear-tools/commands/setup.md) | ⭐ 401 | `development` |
-| [Skill](development/tools/name-skill_48536f5d/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/azure-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Skill](development/tools/name-skill_c14cae7a/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/slack-tools/skills/setup/SKILL.md) | ⭐ 401 | `development` |
-| [Binary Handling](development/tools/binary-handling_679d8caf/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/binary-handling.md) | ⭐ 324 | `development` |
+| [Pr Creator](development/tools/197-pr-creator_cfa6b869/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/agents/pr-creator.md) | ⭐ 401 | `development` |
+| [Setup](development/tools/198-setup_5c67b444/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/mongodb-tools/commands/setup.md) | ⭐ 401 | `development` |
+| [Plugin Validator](development/tools/199-plugin-validator_27fdc0a0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/agents/plugin-validator.md) | ⭐ 401 | `development` |
+| [Skill Reviewer](development/tools/200-skill-reviewer_80b32c58/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/agents/skill-reviewer.md) | ⭐ 401 | `development` |
+| [Skill](development/tools/002-name-skill_03b68ec5/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/github-dev/skills/setup/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/tools/002-name-skill_271df445/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/agent-development/SKILL.md) | ⭐ 401 | `development` |
+| [Skill](development/tools/002-name-skill_a6ed87b0/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/hook-development/SKILL.md) | ⭐ 401 | `development` |
+| [Meta Analyzer](development/tools/201-meta-analyzer_a503ddf6/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 324 | `development` |
 
 ### Investment (43 skills)
 
@@ -7636,8 +7601,8 @@ Read more about the new architecture [here` |
 | [Search Strategies](research/204-search-strategies_6f14aba6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/deep-research/references/search-strategies.md) | ⭐ 13 | `research` |
 | [Source Evaluation](research/205-source-evaluation_9bc285fb/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/deep-research/references/source-evaluation.md) | ⭐ 13 | `research` |
 | [Demystify Swiftui Performance Wwdc23](research/206-demystify-swiftui-performance-wwdc23_7cffafe3/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-performance-audit/references/demystify-swiftui-performance-wwdc23.md) | ⭐ 13 | `research` |
-| [Skill](research/name-skill_69a5276c/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/paper-search-tools/skills/paper-search-usage/SKILL.md) | ⭐ 401 | `research` |
-| [Skill](research/name-skill_967da6d9/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/tavily-tools/skills/tavily-usage/SKILL.md) | ⭐ 401 | `research` |
+| [Skill](research/139-name-skill_69a5276c/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/paper-search-tools/skills/paper-search-usage/SKILL.md) | ⭐ 401 | `research` |
+| [Skill](research/139-name-skill_967da6d9/) | [fcakyon/claude-codex-settings](https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/tavily-tools/skills/tavily-usage/SKILL.md) | ⭐ 401 | `research` |
 
 ## Repository Structure
 
