@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7719 AI-powered skills** organized into 16 categories.
+A curated collection of **7720 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,7 +13,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (6 skills)
 - **Commercial** (493 skills)
 - **Communication** (278 skills)
-- **Content Creation** (448 skills)
+- **Content Creation** (449 skills)
 - **Daily Assistant** (306 skills)
 - **Data Analysis** (783 skills)
 - **Development** (4001 skills)
@@ -723,8 +723,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme.Ja](automation/workflow/040-readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Index](automation/workflow/021-index_d434cdd8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/INDEX.md) | ⭐ 17 | `automation` |
 | [Enhancement Modes](automation/workflow/060-enhancement_modes_34694198/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/ENHANCEMENT_MODES.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
-| [Skill](automation/workflow/name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
+| [Skill](automation/workflow/002-name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
+| [Skill](automation/workflow/002-name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
 
 ### Commercial (493 skills)
 
@@ -1222,7 +1222,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Typography](commercial/303-typography_b6fdf383/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/typography.md) | ⭐ 17 | `commercial` |
 | [System Prompt](commercial/304-system_prompt_8f190682/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt.md) | ⭐ 17 | `commercial` |
 | [System Prompt No Thinking](commercial/305-system_prompt_no_thinking_a8a6821b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_no_thinking.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_8f5b454c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md) | ⭐ 13 | `commercial` |
+| [Skill](commercial/210-name-skill_8f5b454c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md) | ⭐ 13 | `commercial` |
 
 ### Communication (278 skills)
 
@@ -1507,7 +1507,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Auth Success Alert Design](communication/199-auth-success-alert-design_13d6dbf0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/auth-success-alert-design.md) | ⭐ 17 | `communication` |
 | [Daily Margin Report Design](communication/200-daily-margin-report-design_3a808767/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/daily-margin-report-design.md) | ⭐ 17 | `communication` |
 
-### Content Creation (448 skills)
+### Content Creation (449 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1959,6 +1959,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ux Guideline](content-creation/237-ux-guideline_274ee365/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/ux-guideline.md) | ⭐ 17 | `content creation` |
 | [教育行业研究](content-creation/238-教育行业研究_26db2733/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/教育行业研究.md) | ⭐ 17 | `content creation` |
 | [Summary Of Findings](content-creation/239-summary_of_findings_652c1116/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/research_notes/summary_of_findings.md) | ⭐ 17 | `content creation` |
+| [Readme.Ja](content-creation/readmeja_08f1ff24/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `content creation` |
 
 ### Daily Assistant (306 skills)
 
@@ -7059,11 +7060,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Svelte](development/2023-svelte_e73636c5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/svelte.md) | ⭐ 17 | `development` |
 | [Swiftui](development/1925-swiftui_53bf0f9b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/swiftui.md) | ⭐ 17 | `development` |
 | [Vue](development/2024-vue_7e147bef/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/vue.md) | ⭐ 17 | `development` |
-| [Catalog](development/catalog_83f5b36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.2k | `development` |
-| [Skill](development/name-skill_d20b793c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/oss-hunter/SKILL.md) | 🔥 7.2k | `development` |
-| [Skill](development/name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
-| [Skill](development/name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
-| [Tools Comparison](development/tools-comparison_fbec41c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/references/tools-comparison.md) | 🔥 7.2k | `development` |
+| [Catalog](development/126-catalog_83f5b36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.2k | `development` |
+| [Skill](development/1178-name-skill_d20b793c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/oss-hunter/SKILL.md) | 🔥 7.2k | `development` |
+| [Skill](development/1178-name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
+| [Skill](development/1178-name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
+| [Tools Comparison](development/2032-tools-comparison_fbec41c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/references/tools-comparison.md) | 🔥 7.2k | `development` |
 
 ### Development/Devops (20 skills)
 
@@ -7141,7 +7142,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude Plugin Manager](development/tools/204-claude-plugin-manager_3419abbb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/claude-plugin-manager.md) | ⭐ 17 | `development` |
 | [Troubleshooting](development/tools/205-troubleshooting_f3910689/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/TROUBLESHOOTING.md) | ⭐ 17 | `development` |
 | [Skills](development/tools/206-claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
-| [Maintenance](development/tools/maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
+| [Maintenance](development/tools/207-maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
 
 ### Investment (47 skills)
 

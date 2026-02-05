@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-05T09:06:38.871841",
+  "updated_at": "2026-02-05T09:11:14.434263",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -108067,6 +108067,20 @@
       "source_url": "https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "08f1ff246e243fca373b499ad3466a4b3e252ab8d114495614545fd38235db22",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "content-creation/124-readmeja_08f1ff24",
+      "category": "content-creation",
+      "name": "readmeja_08f1ff24",
+      "indexed_at": "2026-02-05T09:11:14.434155",
+      "repo_stars": 26,
+      "repo_updated_at": "2026-02-05T05:52:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
