@@ -1,0 +1,690 @@
+{
+  "spec": {
+    "id": "data-analyst",
+    "name": "Data Analyst",
+    "description": "Data analysis and visualization skills",
+    "use_case": "Agents working with data, charts, statistics, and visualization",
+    "categories": [
+      "data-analysis"
+    ],
+    "subcategories": [],
+    "tags": [],
+    "exclude": [
+      "*test*",
+      "*example*",
+      "*demo*",
+      "*template*"
+    ],
+    "min_stars": null,
+    "max_skills": 60,
+    "required_skills": [],
+    "optional_skills": [],
+    "dependencies": [],
+    "version": "1.0.0"
+  },
+  "skills": [
+    {
+      "local_path": "data-analysis/003-name-skill_8ba6c7da",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/023-file_146ed5a1",
+      "display_name": "Book Metrics",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/573-python-312_560b9cd0",
+      "display_name": "Python 3.12",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/022-book_f086aacc",
+      "display_name": "Book Installer",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_68527e1d",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/135-math_25c2a590",
+      "display_name": "Math Function Plotter Plotly",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_08f649b3",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_a3698a4d",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/113-interactive_807856bb",
+      "display_name": "Index",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "content creation"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/048-context_dcdb069c",
+      "display_name": "Context Fundamentals",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "daily assistant"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/006-python_87172f2a",
+      "display_name": "Analysis",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/111-visual_e3648c1a",
+      "display_name": "Hook Lifecycle Diagram",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/562-card-format_367008fe",
+      "display_name": "Card Format",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_b1d4bc54",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/130-chapter_b930c34e",
+      "display_name": "06 Linear Chain Vs Network Structure Comparison",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/059-process_7ca32cc7",
+      "display_name": "Process",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_ec6f1d42",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/195-seaborn_a7e0cff7",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/032-chapter_0e82e23f",
+      "display_name": "10 Chapter Organization Workflow Diagram",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_f838b87d",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/148-microsim_1ddf78db",
+      "display_name": "MicroSim Screen Capture",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_64fbaf34",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_fcb78411",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_20aab497",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/572-usage-guide_f8d67e68",
+      "display_name": "Usage Guide",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_beb58feb",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/147-generated_ef3a1f5f",
+      "display_name": "MicroSim Quality Report",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/610-prompt_daa7553d",
+      "display_name": "Prompt",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/270-logs_5ef4fccc",
+      "display_name": "Logs",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_48921f51",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_bb546e73",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/647-04-frontend-challenge_02d8e8f5",
+      "display_name": "04 Frontend Challenge",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/197-fn-22-53k7_65e2bac5",
+      "display_name": "Fn 22 53K.7",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/195-pptx_0ce1396f",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/195-ui-ux-pro-max_b3ab45c7",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/199-debugging_9ede2b56",
+      "display_name": "Debugging",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/142-mermaid_bfeb7743",
+      "display_name": "Mermaid Generator",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_6c8bff82",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/195-ai-analyzer_b6c9dcbd",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/910-activity_trends_10c5b1f0",
+      "display_name": "Activity Trends",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/194-date_a67d9d3a",
+      "display_name": "Session Final Summary",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/133-iso_00414564",
+      "display_name": "Management Review Guide",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "daily assistant"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_6f9ce1f9",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_d695a2ca",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/061-architecture_3f28b07b",
+      "display_name": "Architecture",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_f12a64e3",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_de2e673d",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/220-document_3cbd984b",
+      "display_name": "Visualization Tools",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_4adc4c4c",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/095-quick_a15c4ee9",
+      "display_name": "Formatting Guide",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/126-python_2caf97f2",
+      "display_name": "Layouts Styling",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_58d1778d",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_577ec677",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/110-you_fec9c86b",
+      "display_name": "Hand Build Components",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_dfbf66de",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/607-best-practices_47bcc05b",
+      "display_name": "Best Practices",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/370-raman_fitting_guide_14bc1052",
+      "display_name": "Raman Fitting Guide",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/003-name-skill_b3d8c0d1",
+      "display_name": "Skill",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/113-section_0f400f51",
+      "display_name": "Index",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    },
+    {
+      "local_path": "data-analysis/572-usage-guide_c9449acb",
+      "display_name": "Usage Guide",
+      "category": "data-analysis",
+      "subcategory": "",
+      "tags": [
+        "data analysis"
+      ],
+      "required": false,
+      "reason": "Matches filters"
+    }
+  ],
+  "total_count": 60,
+  "generated_at": "2026-02-05T03:33:51.335788",
+  "checksum": "9414c8ca06179058c4d0bc034fcfdfce7b496abdaa56031d135b47d80e7e755b"
+}
