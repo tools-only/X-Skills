@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-05T04:45:12.638886",
+  "updated_at": "2026-02-05T05:37:54.186230",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -105631,6 +105631,34 @@
       "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
       "display_name": "Readme.Ja",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "479e63c2c5fc0a879fcc2969f5b288ecfc16367e7d0ea091e2a41bfc5b3ec367",
+      "source_path": "HN_LAUNCH.md",
+      "source_repo": "crafter-station/skills",
+      "local_path": "development/1994-hn_launch_479e63c2",
+      "category": "development",
+      "name": "hn_launch_479e63c2",
+      "indexed_at": "2026-02-05T05:01:15.409008",
+      "repo_stars": 32,
+      "repo_updated_at": "2026-02-05T03:48:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/crafter-station/skills/main/HN_LAUNCH.md",
+      "display_name": "Hn Launch",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f706b0e41d7b34835ec5f465acbdf78cc0abf52591e6e5fd0d5f9d0a5f283cc8",
+      "source_path": "docs/my-website/docs/proxy/admin_ui_sso.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/031-admin_ui_sso_f706b0e4",
+      "category": "development/devops",
+      "name": "admin_ui_sso_f706b0e4",
+      "indexed_at": "2026-02-05T05:37:54.186191",
+      "repo_stars": 35228,
+      "repo_updated_at": "2026-02-05T02:39:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md",
+      "display_name": "Admin Ui Sso",
+      "tags": "[\"development\"]"
     }
   ]
 }

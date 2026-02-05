@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7546 AI-powered skills** organized into 15 categories.
+A curated collection of **7547 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (297 skills)
 - **Data Analysis** (755 skills)
 - **Development** (3955 skills)
-- **Development/Devops** (11 skills)
+- **Development/Devops** (12 skills)
 - **Development/Tools** (33 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
@@ -715,7 +715,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](automation/workflow/002-name-skill_a67bc6c7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract/SKILL.md) | ⭐ 72 | `automation` |
-| [Readme.Ja](automation/workflow/readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
 ### Commercial (487 skills)
 
@@ -6937,9 +6937,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_bcdb7b3e/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-principles/SKILL.md) | ⭐ 72 | `development` |
 | [Skill](development/1178-name-skill_85575638/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design/SKILL.md) | ⭐ 72 | `Users` |
 | [Skill](development/1178-name-skill_155d87f0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer-skill/SKILL.md) | ⭐ 72 | `Products` |
-| [Changelog Latest](development/changelog_latest_8cc777de/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/CHANGELOG_LATEST.md) | ⭐ 59 | `development` |
+| [Hn Launch](development/1994-hn_launch_479e63c2/) | [crafter-station/skills](https://raw.githubusercontent.com/crafter-station/skills/main/HN_LAUNCH.md) | ⭐ 32 | `development` |
 
-### Development/Devops (11 skills)
+### Development/Devops (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6954,6 +6954,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_df912a0a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_efb53f49/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_69a7b730/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
+| [Admin Ui Sso](development/devops/admin_ui_sso_f706b0e4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.2k | `development` |
 
 ### Development/Tools (33 skills)
 
@@ -6991,7 +6992,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_68952447/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contracts/SKILL.md) | ⭐ 72 | `development` |
 | [Skill](development/tools/002-name-skill_238cbefe/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-expert/SKILL.md) | ⭐ 72 | `api-design` `rest` `graphql` |
 | [Skill](development/tools/002-name-skill_2a400b62/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-patterns/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/tools/name-skill_962ed1e0/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 59 | `development` |
+| [Skill](development/tools/002-name-skill_962ed1e0/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 59 | `development` |
 
 ### Investment (43 skills)
 
