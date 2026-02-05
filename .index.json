@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-05T04:38:07.630373",
+  "updated_at": "2026-02-05T04:45:12.638886",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -105603,6 +105603,34 @@
       "source_url": "https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "962ed1e0cd67a89b2f30f81b121c8045cb33ece42c909741d1a8f503a73e71c7",
+      "source_path": "SKILL.md",
+      "source_repo": "seojoonkim/prompt-guard",
+      "local_path": "development/tools/002-name-skill_962ed1e0",
+      "category": "development/tools",
+      "name": "name-skill_962ed1e0",
+      "indexed_at": "2026-02-05T04:45:11.229397",
+      "repo_stars": 59,
+      "repo_updated_at": "2026-02-05T02:39:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ac1dde0613adcac4fce6e58f8a9ca41fa1c9c3f9eee429b338158ae544236d6f",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "automation/workflow/040-readmeja_ac1dde06",
+      "category": "automation/workflow",
+      "name": "readmeja_ac1dde06",
+      "indexed_at": "2026-02-05T04:45:12.638839",
+      "repo_stars": 26,
+      "repo_updated_at": "2026-02-05T02:22:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
+      "tags": "[\"automation\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7545 AI-powered skills** organized into 15 categories.
+A curated collection of **7546 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (1 skill)
-- **Automation/Workflow** (1 skill)
+- **Automation/Workflow** (2 skills)
 - **Commercial** (487 skills)
 - **Communication** (261 skills)
-- **Content Creation** (438 skills)
+- **Content Creation** (437 skills)
 - **Daily Assistant** (297 skills)
 - **Data Analysis** (755 skills)
-- **Development** (3954 skills)
-- **Development/Devops** (12 skills)
-- **Development/Tools** (32 skills)
+- **Development** (3955 skills)
+- **Development/Devops** (11 skills)
+- **Development/Tools** (33 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (220 skills)
@@ -708,13 +708,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Skill](automation/scripting/name-skill_f12f176b/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-changelog-versioning/SKILL.md) | ⭐ 72 | `automation` |
+| [Skill](automation/scripting/003-name-skill_f12f176b/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-changelog-versioning/SKILL.md) | ⭐ 72 | `automation` |
 
-### Automation/Workflow (1 skills)
+### Automation/Workflow (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Skill](automation/workflow/name-skill_a67bc6c7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract/SKILL.md) | ⭐ 72 | `automation` |
+| [Skill](automation/workflow/002-name-skill_a67bc6c7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract/SKILL.md) | ⭐ 72 | `automation` |
+| [Readme.Ja](automation/workflow/readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
 ### Commercial (487 skills)
 
@@ -1205,8 +1206,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Performance Optimization](commercial/145-improving_79fb15b0/) | [Unknown](#) | N/A | `commercial` |
 | [Nextjs Optimization Guide](commercial/133-performance_60804569/) | [Unknown](#) | N/A | `products` |
 | [Skill](commercial/181-sf-diagram-mermaid_a56bda2c/) | [Unknown](#) | N/A | `commercial` |
-| [Skill](commercial/name-skill_f0486a99/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-authentication/SKILL.md) | ⭐ 72 | `commercial` |
-| [Skill](commercial/name-skill_a803eee0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-and-versioning/SKILL.md) | ⭐ 72 | `commercial` |
+| [Skill](commercial/210-name-skill_f0486a99/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-authentication/SKILL.md) | ⭐ 72 | `commercial` |
+| [Skill](commercial/210-name-skill_a803eee0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-and-versioning/SKILL.md) | ⭐ 72 | `commercial` |
 
 ### Communication (261 skills)
 
@@ -1472,9 +1473,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/003-name-skill_8b804fc7/) | [Unknown](#) | N/A | `communication` |
 | [International Playbooks](communication/063-market_dc929706/) | [Unknown](#) | N/A | `communication` |
 | [Board Governance Investor Relations](communication/020-size_fe407f1f/) | [Unknown](#) | N/A | `daily assistant` |
-| [Skill](communication/name-skill_8f25eae4/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer/SKILL.md) | ⭐ 72 | `communication` |
+| [Skill](communication/127-name-skill_8f25eae4/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer/SKILL.md) | ⭐ 72 | `communication` |
 
-### Content Creation (438 skills)
+### Content Creation (437 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1915,7 +1916,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Url Context Validator](content-creation/842-url-context-validator_ef5fdd68/) | [Unknown](#) | N/A | `content creation` |
 | [Admin Configuration](content-creation/1023-admin_configuration_1bdef422/) | [Unknown](#) | N/A | `content creation` |
 | [Reference](content-creation/600-reference_fbf46c56/) | [Unknown](#) | N/A | `content creation` |
-| [Skill](content-creation/name-skill_0872f20e/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-agent-development-skill/SKILL.md) | ⭐ 72 | `content creation` |
 
 ### Daily Assistant (297 skills)
 
@@ -2216,8 +2216,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/024-agent-market-researcher_8973a70b/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/659-description-skill_5e1cc879/) | [Unknown](#) | N/A | `daily assistant` |
 | [Compatibility](daily-assistant/229-compatibility_7db1ae18/) | [Unknown](#) | N/A | `daily assistant` |
-| [Skill](daily-assistant/name-skill_56621d60/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-building/SKILL.md) | ⭐ 72 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_13b757c0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-sync/SKILL.md) | ⭐ 72 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_56621d60/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-building/SKILL.md) | ⭐ 72 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_13b757c0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-sync/SKILL.md) | ⭐ 72 | `daily assistant` |
 
 ### Data Analysis (755 skills)
 
@@ -2977,9 +2977,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/003-name-skill_f90672df/) | [Unknown](#) | N/A | `data analysis` |
 | [Plannotator](data-analysis/656-plannotator_931bcc12/) | [Unknown](#) | N/A | `data analysis` |
 | [Best Practices](data-analysis/282-best-practices_ab33237f/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/reference/best-practices.md) | ⭐ 173 | `data analysis` |
-| [Skill](data-analysis/name-skill_aab3548f/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client/SKILL.md) | ⭐ 72 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_aab3548f/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client/SKILL.md) | ⭐ 72 | `data analysis` |
 
-### Development (3954 skills)
+### Development (3955 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6926,19 +6926,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Skills Az](development/797-readme_flat_skills_az_4e24ae81/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 22.8k | `development` |
 | [Readme Flat Skills Created](development/798-readme_flat_skills_created_8a259a56/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_23c8c02e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 22.8k | `development` |
-| [Security System Overview](development/security_system_overview_dc945318/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/docs/SECURITY_SYSTEM_OVERVIEW.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_5fb3ef75/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-builder/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_dc677681/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-patterns/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_77e0cea7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-skill/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_0e711119/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-checker/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_2d820f9d/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-design/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_0338d6b6/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-validator/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_c2c71f36/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contracts-and-validation/SKILL.md) | ⭐ 72 | `api` `zod` `contracts` |
-| [Skill](development/name-skill_bcdb7b3e/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-principles/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/name-skill_85575638/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design/SKILL.md) | ⭐ 72 | `Users` |
-| [Skill](development/name-skill_155d87f0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer-skill/SKILL.md) | ⭐ 72 | `Products` |
+| [Security System Overview](development/1993-security_system_overview_dc945318/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/docs/SECURITY_SYSTEM_OVERVIEW.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_5fb3ef75/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-builder/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_dc677681/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-patterns/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_77e0cea7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-skill/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_0e711119/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-checker/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_2d820f9d/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-design/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_0338d6b6/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-validator/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_c2c71f36/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contracts-and-validation/SKILL.md) | ⭐ 72 | `api` `zod` `contracts` |
+| [Skill](development/1178-name-skill_bcdb7b3e/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-principles/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/1178-name-skill_85575638/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design/SKILL.md) | ⭐ 72 | `Users` |
+| [Skill](development/1178-name-skill_155d87f0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer-skill/SKILL.md) | ⭐ 72 | `Products` |
+| [Changelog Latest](development/changelog_latest_8cc777de/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/CHANGELOG_LATEST.md) | ⭐ 59 | `development` |
 
-### Development/Devops (12 skills)
+### Development/Devops (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6953,9 +6954,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_df912a0a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_efb53f49/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_69a7b730/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
-| [Skill](development/devops/name-skill_7c06ac35/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-testing/SKILL.md) | ⭐ 72 | `development` |
 
-### Development/Tools (32 skills)
+### Development/Tools (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6986,11 +6986,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_af44cbab/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_0575242f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_01ab8171/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 22.8k | `development` |
-| [Skill](development/tools/name-skill_b27a998c/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-development/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/tools/name-skill_810d4776/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-compatibility-check/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/tools/name-skill_68952447/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contracts/SKILL.md) | ⭐ 72 | `development` |
-| [Skill](development/tools/name-skill_238cbefe/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-expert/SKILL.md) | ⭐ 72 | `api-design` `rest` `graphql` |
-| [Skill](development/tools/name-skill_2a400b62/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-patterns/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/tools/002-name-skill_b27a998c/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-development/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/tools/002-name-skill_810d4776/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-compatibility-check/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/tools/002-name-skill_68952447/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contracts/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/tools/002-name-skill_238cbefe/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-expert/SKILL.md) | ⭐ 72 | `api-design` `rest` `graphql` |
+| [Skill](development/tools/002-name-skill_2a400b62/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-patterns/SKILL.md) | ⭐ 72 | `development` |
+| [Skill](development/tools/name-skill_962ed1e0/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 59 | `development` |
 
 ### Investment (43 skills)
 
