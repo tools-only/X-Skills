@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8140 AI-powered skills** organized into 16 categories.
+A curated collection of **8042 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (17 skills)
+- **Automation/Scripting** (16 skills)
 - **Automation/Workflow** (7 skills)
-- **Commercial** (529 skills)
-- **Communication** (304 skills)
-- **Content Creation** (493 skills)
-- **Daily Assistant** (339 skills)
-- **Data Analysis** (821 skills)
-- **Development** (4121 skills)
-- **Development/Devops** (39 skills)
-- **Development/Testing** (38 skills)
-- **Development/Tools** (73 skills)
-- **Investment** (51 skills)
+- **Commercial** (516 skills)
+- **Communication** (296 skills)
+- **Content Creation** (491 skills)
+- **Daily Assistant** (327 skills)
+- **Data Analysis** (812 skills)
+- **Development** (4097 skills)
+- **Development/Devops** (38 skills)
+- **Development/Testing** (17 skills)
+- **Development/Tools** (70 skills)
+- **Investment** (50 skills)
 - **Other** (44 skills)
-- **Productivity** (230 skills)
-- **Research** (362 skills)
+- **Productivity** (229 skills)
+- **Research** (360 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (17 skills)
+### Automation/Scripting (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -718,14 +718,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_2857b1e4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/weather/SKILL.md) | ⭐ 14 | `automation` |
 | [Skill](automation/scripting/003-name-skill_1d7cda14/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 30 | `automation` |
 | [Installation](automation/scripting/057-installation_9eda89ee/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/installation.md) | ⭐ 686 | `automation` |
-| [Skill](automation/scripting/name-skill_4b1f8c86/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-code-review/SKILL.md) | ⭐ 17 | `automation` |
-| [Composition](automation/scripting/composition_32215eea/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/composition.md) | ⭐ 17 | `automation` |
-| [Custom Nodes](automation/scripting/custom-nodes_d0a09ef3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/custom-nodes.md) | ⭐ 17 | `automation` |
-| [Composition](automation/scripting/composition_e3427fe5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/references/composition.md) | ⭐ 17 | `automation` |
-| [Queries](automation/scripting/queries_40868f39/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/queries.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_1da1c62a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/SKILL.md) | ⭐ 17 | `automation` |
-| [Error Handling](automation/scripting/error-handling_6cde9eef/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/references/error-handling.md) | ⭐ 17 | `automation` |
-| [Model Design](automation/scripting/model-design_c154f9dd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/model-design.md) | ⭐ 17 | `String` |
+| [Skill](automation/scripting/003-name-skill_4b1f8c86/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-code-review/SKILL.md) | ⭐ 17 | `automation` |
+| [Composition](automation/scripting/058-composition_32215eea/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/composition.md) | ⭐ 17 | `automation` |
+| [Custom Nodes](automation/scripting/059-custom-nodes_d0a09ef3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/custom-nodes.md) | ⭐ 17 | `automation` |
+| [Composition](automation/scripting/058-composition_e3427fe5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/references/composition.md) | ⭐ 17 | `automation` |
+| [Queries](automation/scripting/060-queries_40868f39/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/queries.md) | ⭐ 17 | `automation` |
+| [Fix](automation/scripting/fix_32bd5c8c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/fix.md) | ⭐ 11 | `automation` |
+| [Skill](automation/scripting/name-skill_ff0a1318/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/skills/review-loop/SKILL.md) | ⭐ 11 | `automation` |
 
 ### Automation/Workflow (7 skills)
 
@@ -739,7 +738,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
 | [Multi Agent System](automation/workflow/061-multi-agent-system_e5dbc864/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/docs/architecture/multi-agent-system.md) | ⭐ 2.5k | `automation` |
 
-### Commercial (529 skills)
+### Commercial (516 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1242,38 +1241,25 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Incident Chaos](commercial/100-incident-chaos_063058f0/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/incident-chaos.md) | ⭐ 279 | `commercial` |
 | [H2G2 Graphics Analysis](commercial/306-h2g2-graphics-analysis_b237077e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/design/h2g2-graphics-analysis.md) | ⭐ 686 | `commercial` |
 | [Provider Endpoint Lists](commercial/307-provider-endpoint-lists_f27cc496/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/provider-endpoint-lists.md) | ⭐ 686 | `commercial` |
-| [Skill](commercial/name-skill_ccfd193c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/SKILL.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_8a4a994d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/SKILL.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_1ecc7a2d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/SKILL.md) | ⭐ 17 | `commercial` |
-| [Loaders](commercial/loaders_d391f6e6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/LOADERS.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_d12f2a6b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/SKILL.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_0a4d3226/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/SKILL.md) | ⭐ 17 | `commercial` |
-| [Middleware](commercial/middleware_8bd4e1ef/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/MIDDLEWARE.md) | ⭐ 17 | `commercial` |
-| [Patterns](commercial/patterns_cb15e84b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/PATTERNS.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_82e215e9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/SKILL.md) | ⭐ 17 | `commercial` |
-| [Process Exposure](commercial/process-exposure_46df0389/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/references/process-exposure.md) | ⭐ 17 | `commercial` |
-| [Loaders](commercial/loaders_401d3b75/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/loaders.md) | ⭐ 17 | `commercial` |
-| [Relationships](commercial/relationships_95eb28c4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/relationships.md) | ⭐ 17 | `commercial` |
-| [Common Mistakes](commercial/common-mistakes_28a98808/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/common-mistakes.md) | ⭐ 17 | `commercial` |
-| [View Composition](commercial/view-composition_fcb97dfc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/view-composition.md) | ⭐ 17 | `commercial` |
-| [Intents](commercial/intents_0aa13169/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/intents.md) | ⭐ 17 | `commercial` |
-| [Middleware](commercial/middleware_a4da9532/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/middleware.md) | ⭐ 17 | `commercial` |
-| [Patterns](commercial/patterns_3aae153e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/patterns.md) | ⭐ 17 | `commercial` |
-| [12 Factor Apps Analysis](commercial/12-factor-apps-analysis_60bbb36f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/12-factor-apps-analysis.md) | ⭐ 17 | `commercial` |
-| [Release Tag](commercial/release-tag_90cf840c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.claude/commands/release-tag.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_20b76905/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-testing-code-review/SKILL.md) | ⭐ 17 | `commercial` |
-| [Typescript](commercial/typescript_f2d6edb3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/TYPESCRIPT.md) | ⭐ 17 | `commercial` |
-| [Container Setup](commercial/container-setup_3143333e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/references/container-setup.md) | ⭐ 17 | `commercial` |
-| [Subscriptions](commercial/subscriptions_07185957/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/references/subscriptions.md) | ⭐ 17 | `commercial` |
-| [Error Handling](commercial/error-handling_211254ae/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/error-handling.md) | ⭐ 17 | `commercial` |
-| [Patterns](commercial/patterns_1988a043/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-implementation/references/patterns.md) | ⭐ 17 | `commercial` |
-| [Data Types](commercial/data-types_98ed6700/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/data-types.md) | ⭐ 17 | `commercial` |
-| [Jsonb](commercial/jsonb_8d1174f9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/jsonb.md) | ⭐ 17 | `commercial` |
-| [Parameterized](commercial/parameterized_03bc3746/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-testing-code-review/references/parameterized.md) | ⭐ 17 | `commercial` |
-| [Sessions](commercial/sessions_fcc3e727/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/references/sessions.md) | ⭐ 17 | `commercial` |
-| [Typescript](commercial/typescript_5043fc4b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/typescript.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/210-name-skill_ccfd193c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/SKILL.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/210-name-skill_8a4a994d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/SKILL.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/210-name-skill_1ecc7a2d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/SKILL.md) | ⭐ 17 | `commercial` |
+| [Loaders](commercial/308-loaders_d391f6e6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/LOADERS.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/210-name-skill_d12f2a6b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/SKILL.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/210-name-skill_0a4d3226/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/SKILL.md) | ⭐ 17 | `commercial` |
+| [Middleware](commercial/309-middleware_8bd4e1ef/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/MIDDLEWARE.md) | ⭐ 17 | `commercial` |
+| [Patterns](commercial/142-patterns_cb15e84b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/PATTERNS.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/210-name-skill_82e215e9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/SKILL.md) | ⭐ 17 | `commercial` |
+| [Process Exposure](commercial/310-process-exposure_46df0389/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/references/process-exposure.md) | ⭐ 17 | `commercial` |
+| [Loaders](commercial/308-loaders_401d3b75/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/loaders.md) | ⭐ 17 | `commercial` |
+| [Relationships](commercial/311-relationships_95eb28c4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/relationships.md) | ⭐ 17 | `commercial` |
+| [Common Mistakes](commercial/312-common-mistakes_28a98808/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/common-mistakes.md) | ⭐ 17 | `commercial` |
+| [View Composition](commercial/313-view-composition_fcb97dfc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/view-composition.md) | ⭐ 17 | `commercial` |
+| [Intents](commercial/314-intents_0aa13169/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/intents.md) | ⭐ 17 | `commercial` |
+| [Middleware](commercial/309-middleware_a4da9532/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/middleware.md) | ⭐ 17 | `commercial` |
+| [Patterns](commercial/142-patterns_3aae153e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/zustand-state/references/patterns.md) | ⭐ 17 | `commercial` |
 
-### Communication (304 skills)
+### Communication (296 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1560,29 +1546,21 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Handoff](communication/203-handoff_2a74b90b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/agents/call-routing/handoff.md) | ⭐ 686 | `communication` |
 | [Proxy](communication/204-proxy_673a553f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/agents/call-routing/proxy.md) | ⭐ 686 | `communication` |
 | [2025 07 03 232956 Claude](communication/205-2025-07-03-232956-claude_a09fd5d9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-232956-CLAUDE.md) | ⭐ 686 | `communication` |
-| [Actions](communication/actions_18fa5960/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/ACTIONS.md) | ⭐ 17 | `communication` |
-| [Skill](communication/name-skill_68045757/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/SKILL.md) | ⭐ 17 | `communication` |
-| [Sharing](communication/sharing_a042d31a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/references/sharing.md) | ⭐ 17 | `communication` |
-| [Operators](communication/operators_0f7d099e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/operators.md) | ⭐ 17 | `communication` |
-| [Documentation](communication/documentation_e0b2ae27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/references/documentation.md) | ⭐ 17 | `communication` |
-| [Components](communication/components_79d7c1fc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/components.md) | ⭐ 17 | `communication` |
-| [Contexts](communication/contexts_fe0b2a88/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/contexts.md) | ⭐ 17 | `communication` |
-| [Indexes](communication/indexes_659e438d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/indexes.md) | ⭐ 17 | `communication` |
-| [Mutations](communication/mutations_55bc6c47/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/mutations.md) | ⭐ 17 | `communication` |
-| [Actions](communication/actions_dc431581/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/actions.md) | ⭐ 17 | `communication` |
-| [Queries](communication/queries_242163c5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/queries.md) | ⭐ 17 | `communication` |
-| [Sessions](communication/sessions_93fa689a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/sessions.md) | ⭐ 17 | `communication` |
-| [Tools](communication/tools_2a14ded2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/tools.md) | ⭐ 17 | `communication` |
-| [Otp Basics](communication/otp-basics_d162aca0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/references/otp-basics.md) | ⭐ 17 | `communication` |
-| [Pattern Matching](communication/pattern-matching_a8f34d4e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/references/pattern-matching.md) | ⭐ 17 | `communication` |
-| [Exunit Patterns](communication/exunit-patterns_1e99012b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/exunit-code-review/references/exunit-patterns.md) | ⭐ 17 | `communication` |
-| [Async](communication/async_d093c770/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/references/async.md) | ⭐ 17 | `communication` |
-| [Validation](communication/validation_cb73e5cb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/references/validation.md) | ⭐ 17 | `communication` |
-| [Expect Macro](communication/expect-macro_6a22e619/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-testing-code-review/references/expect-macro.md) | ⭐ 17 | `communication` |
-| [Otp Basics](communication/otp-basics_18c6a911/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-code-review/references/otp-basics.md) | ⭐ 17 | `communication` |
-| [Pattern Matching](communication/pattern-matching_eb9d13dc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-code-review/references/pattern-matching.md) | ⭐ 17 | `communication` |
+| [Actions](communication/206-actions_18fa5960/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/ACTIONS.md) | ⭐ 17 | `communication` |
+| [Skill](communication/127-name-skill_68045757/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/SKILL.md) | ⭐ 17 | `communication` |
+| [Sharing](communication/207-sharing_a042d31a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/references/sharing.md) | ⭐ 17 | `communication` |
+| [Operators](communication/208-operators_0f7d099e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/operators.md) | ⭐ 17 | `communication` |
+| [Documentation](communication/209-documentation_e0b2ae27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/references/documentation.md) | ⭐ 17 | `communication` |
+| [Components](communication/031-components_79d7c1fc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/components.md) | ⭐ 17 | `communication` |
+| [Contexts](communication/210-contexts_fe0b2a88/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/contexts.md) | ⭐ 17 | `communication` |
+| [Indexes](communication/211-indexes_659e438d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/indexes.md) | ⭐ 17 | `communication` |
+| [Mutations](communication/212-mutations_55bc6c47/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/mutations.md) | ⭐ 17 | `communication` |
+| [Actions](communication/206-actions_dc431581/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/actions.md) | ⭐ 17 | `communication` |
+| [Queries](communication/213-queries_242163c5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/queries.md) | ⭐ 17 | `communication` |
+| [Sessions](communication/214-sessions_93fa689a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/sessions.md) | ⭐ 17 | `communication` |
+| [Tools](communication/215-tools_2a14ded2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/tools.md) | ⭐ 17 | `communication` |
 
-### Content Creation (493 skills)
+### Content Creation (491 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2054,33 +2032,31 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Voice Conversation Prompt V2](content-creation/247-voice-conversation-prompt-v2_2d2d2369/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/prompts/voice-conversation-prompt-v2.md) | ⭐ 686 | `content creation` |
 | [2025 07 03 2 Gemini](content-creation/248-2025-07-03-2_gemini_80446639/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-2_gemini.md) | ⭐ 686 | `content creation` |
 | [2025 07 03 Claude](content-creation/249-2025-07-03-claude_ae1f5eda/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-claude.md) | ⭐ 686 | `content creation` |
-| [Draft Docs](content-creation/draft-docs_beac93ed/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/draft-docs.md) | ⭐ 17 | `content creation` |
-| [Improve Doc](content-creation/improve-doc_cd34e392/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/improve-doc.md) | ⭐ 17 | `content creation` |
-| [Write Adr](content-creation/write-adr_8635282e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/write-adr.md) | ⭐ 17 | `content creation` |
-| [Skill](content-creation/name-skill_f073e35b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/adr-decision-extraction/SKILL.md) | ⭐ 17 | `content creation` |
-| [Skill](content-creation/name-skill_532dc3cd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/adr-writing/SKILL.md) | ⭐ 17 | `content creation` |
-| [Skill](content-creation/name-skill_f2b4dba4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/github-projects/SKILL.md) | ⭐ 17 | `content creation` |
-| [Skill](content-creation/name-skill_7e7a2055/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/howto-docs/SKILL.md) | ⭐ 17 | `content creation` |
-| [Skill](content-creation/name-skill_683f79ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/SKILL.md) | ⭐ 17 | `content creation` |
-| [Conversation](content-creation/conversation_7dab3c60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/conversation.md) | ⭐ 17 | `content creation` |
-| [Prompt Input](content-creation/prompt-input_5941c62b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/prompt-input.md) | ⭐ 17 | `content creation` |
-| [Records](content-creation/records_66ee0a60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/references/records.md) | ⭐ 17 | `content creation` |
-| [Ets Patterns](content-creation/ets-patterns_d1d14b0c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/references/ets-patterns.md) | ⭐ 17 | `content creation` |
-| [Fields](content-creation/fields_e1f73bca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/github-projects/references/fields.md) | ⭐ 17 | `content creation` |
-| [Items](content-creation/items_df697fa0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/github-projects/references/items.md) | ⭐ 17 | `content creation` |
-| [Plugs](content-creation/plugs_cd698ae5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/plugs.md) | ⭐ 17 | `content creation` |
-| [Routing](content-creation/routing_ed3ee4b4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/routing.md) | ⭐ 17 | `content creation` |
-| [Queries](content-creation/queries_50abb56d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/queries.md) | ⭐ 17 | `content creation` |
-| [Observable](content-creation/observable_d6c5255d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/observable.md) | ⭐ 17 | `content creation` |
-| [State Management](content-creation/state-management_3e50a7c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/state-management.md) | ⭐ 17 | `content creation` |
-| [Messages](content-creation/messages_3770b42d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/messages.md) | ⭐ 17 | `content creation` |
-| [Complications](content-creation/complications_782b30d4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/complications.md) | ⭐ 17 | `content creation` |
-| [Performance](content-creation/performance_c0f98f48/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/performance.md) | ⭐ 17 | `content creation` |
-| [Interfaces](content-creation/interfaces_d4353a57/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-code-review/references/interfaces.md) | ⭐ 17 | `content creation` |
-| [Data Slot](content-creation/data-slot_b28acfe5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/references/data-slot.md) | ⭐ 17 | `content creation` |
-| [Tables](content-creation/tables_dfe28906/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/tables.md) | ⭐ 17 | `content creation` |
+| [Draft Docs](content-creation/250-draft-docs_beac93ed/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/draft-docs.md) | ⭐ 17 | `content creation` |
+| [Improve Doc](content-creation/251-improve-doc_cd34e392/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/improve-doc.md) | ⭐ 17 | `content creation` |
+| [Write Adr](content-creation/252-write-adr_8635282e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/write-adr.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_f073e35b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/adr-decision-extraction/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_532dc3cd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/adr-writing/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_f2b4dba4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/github-projects/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_7e7a2055/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/howto-docs/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_683f79ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/SKILL.md) | ⭐ 17 | `content creation` |
+| [Conversation](content-creation/253-conversation_7dab3c60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/conversation.md) | ⭐ 17 | `content creation` |
+| [Prompt Input](content-creation/254-prompt-input_5941c62b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/prompt-input.md) | ⭐ 17 | `content creation` |
+| [Records](content-creation/255-records_66ee0a60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/cloudkit-code-review/references/records.md) | ⭐ 17 | `content creation` |
+| [Ets Patterns](content-creation/256-ets-patterns_d1d14b0c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/references/ets-patterns.md) | ⭐ 17 | `content creation` |
+| [Fields](content-creation/257-fields_e1f73bca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/github-projects/references/fields.md) | ⭐ 17 | `content creation` |
+| [Items](content-creation/258-items_df697fa0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/github-projects/references/items.md) | ⭐ 17 | `content creation` |
+| [Plugs](content-creation/259-plugs_cd698ae5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/plugs.md) | ⭐ 17 | `content creation` |
+| [Routing](content-creation/028-routing_ed3ee4b4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/routing.md) | ⭐ 17 | `content creation` |
+| [Queries](content-creation/260-queries_50abb56d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/queries.md) | ⭐ 17 | `content creation` |
+| [Observable](content-creation/261-observable_d6c5255d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/observable.md) | ⭐ 17 | `content creation` |
+| [State Management](content-creation/262-state-management_3e50a7c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/state-management.md) | ⭐ 17 | `content creation` |
+| [Messages](content-creation/263-messages_3770b42d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/messages.md) | ⭐ 17 | `content creation` |
+| [Complications](content-creation/264-complications_782b30d4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/complications.md) | ⭐ 17 | `content creation` |
+| [Performance](content-creation/265-performance_c0f98f48/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/performance.md) | ⭐ 17 | `content creation` |
+| [Claude](content-creation/claude_f43f662c/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 66 | `content creation` |
 
-### Daily Assistant (339 skills)
+### Daily Assistant (327 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2391,40 +2367,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt Flash Anthropic](daily-assistant/193-system_prompt_flash_anthropic_d1ecd038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash_anthropic.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_98415286/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/SKILL.md) | ⭐ 17 | `daily assistant` |
 | [Macbook Portable](daily-assistant/194-macbook-portable_15159fd0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/macbook-portable.md) | ⭐ 686 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_33c9ea65/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_329bcc81/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_2bc2e648/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_3ee2d068/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_44709efe/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Workflow](daily-assistant/workflow_d68d665e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/workflow.md) | ⭐ 17 | `daily assistant` |
-| [Entities](daily-assistant/entities_01845d59/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/entities.md) | ⭐ 17 | `daily assistant` |
-| [Model Update](daily-assistant/model-update_f0a3634e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/model-update.md) | ⭐ 17 | `daily assistant` |
-| [Tools](daily-assistant/tools_ce0d7c1f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-implementation/references/tools.md) | ⭐ 17 | `daily assistant` |
-| [Concurrency](daily-assistant/concurrency_9b9adcde/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
-| [Scoring Rubrics](daily-assistant/scoring-rubrics_2441d113/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/scoring-rubrics.md) | ⭐ 17 | `daily assistant` |
-| [Navigation](daily-assistant/navigation_f30de15d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/navigation.md) | ⭐ 17 | `daily assistant` |
-| [Concurrency](daily-assistant/concurrency_6d1d0bb3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
-| [Concurrency](daily-assistant/concurrency_a912254c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
-| [Lifecycle](daily-assistant/lifecycle_660ab2ce/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/lifecycle.md) | ⭐ 17 | `daily assistant` |
-| [Timeline](daily-assistant/timeline_d4615a5d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/timeline.md) | ⭐ 17 | `daily assistant` |
-| [Server](daily-assistant/server_c8e24186/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/references/server.md) | ⭐ 17 | `daily assistant` |
-| [Concurrency](daily-assistant/concurrency_278d84df/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
-| [Review Elixir](daily-assistant/review-elixir_d5bf7361/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-elixir.md) | ⭐ 17 | `daily assistant` |
-| [Review Ios](daily-assistant/review-ios_4ce37a61/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-ios.md) | ⭐ 17 | `daily assistant` |
-| [Review Python](daily-assistant/review-python_08b8602d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-python.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_aeacff94/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Response](daily-assistant/response_63fdf0c3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/RESPONSE.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_13fbd361/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_cd5f3e03/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Review Elixir](daily-assistant/review-elixir_eaab199d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/commands/review-elixir.md) | ⭐ 17 | `daily assistant` |
-| [Genserver Bottlenecks](daily-assistant/genserver-bottlenecks_9fedf402/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/references/genserver-bottlenecks.md) | ⭐ 17 | `daily assistant` |
-| [Concurrency](daily-assistant/concurrency_4b232215/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-code-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
-| [Judge Agents](daily-assistant/judge-agents_73f762f3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/judge-agents.md) | ⭐ 17 | `daily assistant` |
-| [Performance](daily-assistant/performance_809ae1dd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/performance.md) | ⭐ 17 | `daily assistant` |
-| [Error Handling](daily-assistant/error-handling_20e0c44d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/error-handling.md) | ⭐ 17 | `daily assistant` |
-| [Genserver Bottlenecks](daily-assistant/genserver-bottlenecks_75125cf1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/genserver-bottlenecks.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_33c9ea65/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_329bcc81/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_2bc2e648/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_3ee2d068/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_44709efe/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Workflow](daily-assistant/085-workflow_d68d665e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/workflow.md) | ⭐ 17 | `daily assistant` |
+| [Entities](daily-assistant/195-entities_01845d59/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/entities.md) | ⭐ 17 | `daily assistant` |
+| [Model Update](daily-assistant/196-model-update_f0a3634e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/model-update.md) | ⭐ 17 | `daily assistant` |
+| [Tools](daily-assistant/197-tools_ce0d7c1f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-implementation/references/tools.md) | ⭐ 17 | `daily assistant` |
+| [Concurrency](daily-assistant/198-concurrency_9b9adcde/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
+| [Scoring Rubrics](daily-assistant/199-scoring-rubrics_2441d113/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/scoring-rubrics.md) | ⭐ 17 | `daily assistant` |
+| [Navigation](daily-assistant/200-navigation_f30de15d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/navigation.md) | ⭐ 17 | `daily assistant` |
+| [Concurrency](daily-assistant/198-concurrency_6d1d0bb3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
+| [Concurrency](daily-assistant/198-concurrency_a912254c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
+| [Lifecycle](daily-assistant/201-lifecycle_660ab2ce/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/lifecycle.md) | ⭐ 17 | `daily assistant` |
+| [Timeline](daily-assistant/202-timeline_d4615a5d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/timeline.md) | ⭐ 17 | `daily assistant` |
+| [Server](daily-assistant/203-server_c8e24186/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/references/server.md) | ⭐ 17 | `daily assistant` |
+| [Concurrency](daily-assistant/198-concurrency_278d84df/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
+| [Review Rust Code](daily-assistant/review-rust-code_799d5bd0/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/review-rust-code.md) | ⭐ 11 | `daily assistant` |
+| [Claude](daily-assistant/claude_9d89b195/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `daily assistant` |
 
-### Data Analysis (821 skills)
+### Data Analysis (812 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3223,34 +3187,25 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Custom Configuration](data-analysis/367-custom_configuration_9cf4b013/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 30 | `data analysis` |
 | [Api Discovery Urls](data-analysis/368-api-discovery-urls_1221ea5b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-discovery-urls.md) | ⭐ 686 | `data analysis` |
 | [Tools](data-analysis/369-tools_989e898c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-reference/tools.md) | ⭐ 686 | `data analysis` |
-| [Respond Pr Feedback](data-analysis/respond-pr-feedback_f5133897/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/respond-pr-feedback.md) | ⭐ 17 | `data analysis` |
-| [Release](data-analysis/release_f482b2ca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.claude/commands/release.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_3408c6fe/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_621fd197/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/dagre-react-flow/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_7b52da87/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_83e274ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/langgraph-code-review/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_68ed7797/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/langgraph-implementation/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_832face8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-architecture/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_260de9eb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-implementation/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_50fb37bb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Batch](data-analysis/batch_44bb0c56/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/batch.md) | ⭐ 17 | `data analysis` |
-| [Chunking](data-analysis/chunking_26b2d919/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/chunking.md) | ⭐ 17 | `data analysis` |
-| [Output](data-analysis/output_0ea774dd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/output.md) | ⭐ 17 | `data analysis` |
-| [Viewport](data-analysis/viewport_419199fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/viewport.md) | ⭐ 17 | `data analysis` |
-| [Data Loading](data-analysis/data-loading_7beb54b8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/data-loading.md) | ⭐ 17 | `data analysis` |
-| [Operations](data-analysis/operations_d852818c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/operations.md) | ⭐ 17 | `data analysis` |
-| [Streaming](data-analysis/streaming_e4acdcd7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/streaming.md) | ⭐ 17 | `data analysis` |
-| [Reference](data-analysis/reference_bdcfaf2c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/dagre-react-flow/reference.md) | ⭐ 17 | `data analysis` |
-| [Patterns](data-analysis/patterns_e6fa6296/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/langgraph-implementation/PATTERNS.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_39e4cab1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-advanced/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Edge Paths](data-analysis/edge_paths_92394909/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-implementation/EDGE_PATHS.md) | ⭐ 17 | `data analysis` |
-| [Memory](data-analysis/memory_1a595b2e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-performance-review/references/memory.md) | ⭐ 17 | `data analysis` |
-| [Dead Code Criteria](data-analysis/dead-code-criteria_2a42c82a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-artifacts-detection/references/dead-code-criteria.md) | ⭐ 17 | `data analysis` |
-| [Type Safety](data-analysis/type-safety_855ef2e1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/references/type-safety.md) | ⭐ 17 | `data analysis` |
-| [Migrations](data-analysis/migrations_d6ca6547/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftdata-code-review/references/migrations.md) | ⭐ 17 | `data analysis` |
-| [Memory](data-analysis/memory_d88e2821/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/memory.md) | ⭐ 17 | `data analysis` |
+| [Respond Pr Feedback](data-analysis/370-respond-pr-feedback_f5133897/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/respond-pr-feedback.md) | ⭐ 17 | `data analysis` |
+| [Release](data-analysis/371-release_f482b2ca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.claude/commands/release.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3408c6fe/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_621fd197/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/dagre-react-flow/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7b52da87/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_83e274ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/langgraph-code-review/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_68ed7797/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/langgraph-implementation/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_832face8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-architecture/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_260de9eb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-implementation/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_50fb37bb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Batch](data-analysis/372-batch_44bb0c56/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/batch.md) | ⭐ 17 | `data analysis` |
+| [Chunking](data-analysis/373-chunking_26b2d919/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/chunking.md) | ⭐ 17 | `data analysis` |
+| [Output](data-analysis/374-output_0ea774dd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/output.md) | ⭐ 17 | `data analysis` |
+| [Viewport](data-analysis/375-viewport_419199fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/viewport.md) | ⭐ 17 | `data analysis` |
+| [Data Loading](data-analysis/376-data-loading_7beb54b8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/data-loading.md) | ⭐ 17 | `data analysis` |
+| [Operations](data-analysis/157-operations_d852818c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/operations.md) | ⭐ 17 | `data analysis` |
+| [Streaming](data-analysis/377-streaming_e4acdcd7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/streaming.md) | ⭐ 17 | `data analysis` |
 
-### Development (4121 skills)
+### Development (4097 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7286,97 +7241,73 @@ This repository contains automatically aggregated skills from various open-sourc
 | [2025 07 03 234500 Claude](development/2064-2025-07-03-234500-claude_b7e16c97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-03-234500-CLAUDE.md) | ⭐ 686 | `development` |
 | [2025 07 06 041018 Gemini](development/2065-2025-07-06-041018-gemini_c1c2a477/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-06-041018-gemini.md) | ⭐ 686 | `development` |
 | [Claude](development/140-claude_74007c03/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `development` |
-| [Skill](development/name-skill_4faeb72c/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 178 | `development` |
-| [Commit Push](development/commit-push_902ab21a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/commit-push.md) | ⭐ 17 | `development` |
-| [Create Pr](development/create-pr_99adbfe1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/create-pr.md) | ⭐ 17 | `development` |
-| [Fix Llm Artifacts](development/fix-llm-artifacts_d590af2d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/fix-llm-artifacts.md) | ⭐ 17 | `development` |
-| [Gen Release Notes](development/gen-release-notes_22b7a771/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/gen-release-notes.md) | ⭐ 17 | `development` |
-| [Receive Feedback](development/receive-feedback_553c0e44/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/receive-feedback.md) | ⭐ 17 | `development` |
-| [Review Plan](development/review-plan_29550666/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-plan.md) | ⭐ 17 | `development` |
-| [Review Tui](development/review-tui_cc54353b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-tui.md) | ⭐ 17 | `development` |
-| [Swiftui Code Review Reference](development/swiftui-code-review-reference_47b1e0a5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/docs/research/swiftui-code-review-reference.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_2aa02bf2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_18a00e6d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-implementation/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_3ddcbafe/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docs-style/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_2bddf32c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_8810bd73/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_1721de85/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/explanation-docs/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_3b48fd60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_70124074/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_530ee36b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_27cc8b01/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_5c9aa270/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/prometheus-go-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_503dfc8e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-common-pitfalls/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_bcf789d9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-model-integration/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_22b3c4f0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_67892665/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Evaluation](development/evaluation_fb43fc38/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/EVALUATION.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_4ed211ad/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/SKILL.md) | ⭐ 17 | `development` |
-| [Verification](development/verification_6221b067/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/VERIFICATION.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_e705c8a8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/reference-docs/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_0b40e2fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/review-feedback-schema/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_7ebf7b35/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/review-skill-improver/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_b3756828/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_1294cc2e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_0b3e2b63/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_2c043a25/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tutorial-docs/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_0f5f775b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Intent Structure](development/intent-structure_0f517e06/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/intent-structure.md) | ⭐ 17 | `development` |
-| [Shortcuts](development/shortcuts_48e1440a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/shortcuts.md) | ⭐ 17 | `development` |
-| [Elm Architecture](development/elm-architecture_37a32b03/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/elm-architecture.md) | ⭐ 17 | `development` |
-| [Publishers](development/publishers_3f8d3505/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/publishers.md) | ⭐ 17 | `development` |
-| [Parsing](development/parsing_91256cf0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/parsing.md) | ⭐ 17 | `development` |
-| [Atom Exhaustion](development/atom-exhaustion_83bc7012/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/references/atom-exhaustion.md) | ⭐ 17 | `development` |
-| [Code Injection](development/code-injection_afeb1df4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/references/code-injection.md) | ⭐ 17 | `development` |
-| [Authorization](development/authorization_b4ae8377/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/authorization.md) | ⭐ 17 | `development` |
-| [Background](development/background_549b0f19/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/background.md) | ⭐ 17 | `development` |
-| [Style Criteria](development/style-criteria_009db56b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-artifacts-detection/references/style-criteria.md) | ⭐ 17 | `development` |
-| [Repo Agent](development/repo-agent_281f49c3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/repo-agent.md) | ⭐ 17 | `development` |
-| [Controllers](development/controllers_2844df4b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/controllers.md) | ⭐ 17 | `development` |
-| [Transactions](development/transactions_9393e5d6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/transactions.md) | ⭐ 17 | `development` |
-| [Pep8 Style](development/pep8-style_cb02cdc0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/references/pep8-style.md) | ⭐ 17 | `development` |
-| [Events](development/events_59b55332/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/events.md) | ⭐ 17 | `development` |
-| [Migrations](development/migrations_c2854072/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/migrations.md) | ⭐ 17 | `development` |
-| [Accessibility](development/accessibility_c05844e4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/accessibility.md) | ⭐ 17 | `development` |
-| [Theming](development/theming_e4eeb00e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/references/theming.md) | ⭐ 17 | `development` |
-| [Caching](development/caching_42b509e6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/caching.md) | ⭐ 17 | `development` |
-| [Request Building](development/request-building_4209185a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/request-building.md) | ⭐ 17 | `development` |
-| [Connectivity](development/connectivity_7b475acb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/connectivity.md) | ⭐ 17 | `development` |
-| [Performance](development/performance_5fbef4e5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/performance.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_35ff4806/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_14d91296/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/phoenix-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Code Injection](development/code-injection_0417e51d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-security-review/references/code-injection.md) | ⭐ 17 | `development` |
-| [Ensure Docs](development/ensure-docs_54309e22/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/ensure-docs.md) | ⭐ 17 | `development` |
-| [Fetch Pr Feedback](development/fetch-pr-feedback_92aedaf8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/fetch-pr-feedback.md) | ⭐ 17 | `development` |
-| [Gen Test Plan](development/gen-test-plan_dc5828cc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/gen-test-plan.md) | ⭐ 17 | `development` |
-| [Llm Judge](development/llm-judge_7e69446f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/llm-judge.md) | ⭐ 17 | `development` |
-| [Prompt Improver](development/prompt-improver_26552855/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/prompt-improver.md) | ⭐ 17 | `development` |
-| [Bug Report](development/bug_report_88e28e56/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 17 | `development` |
-| [Skill Request](development/skill_request_0f9535d3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.github/ISSUE_TEMPLATE/skill_request.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_9f2b3965/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-artifacts-detection/SKILL.md) | ⭐ 17 | `development` |
-| [Advanced](development/advanced_c34ec4c4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/ADVANCED.md) | ⭐ 17 | `development` |
-| [Visualization](development/visualization_c91a86c2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/ai-elements/references/visualization.md) | ⭐ 17 | `development` |
-| [View Styling](development/view-styling_51e7e5e7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/view-styling.md) | ⭐ 17 | `development` |
-| [Code Style](development/code-style_40190dbc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/references/code-style.md) | ⭐ 17 | `development` |
-| [Dependencies](development/dependencies_6c0f5ab8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/references/dependencies.md) | ⭐ 17 | `development` |
-| [Routes](development/routes_8922e931/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/references/routes.md) | ⭐ 17 | `development` |
-| [Common Mistakes](development/common-mistakes_c2588a76/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-code-review/references/common-mistakes.md) | ⭐ 17 | `development` |
-| [Error Handling](development/error-handling_ae503518/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-code-review/references/error-handling.md) | ⭐ 17 | `development` |
-| [Mocking](development/mocking_098888a5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-testing-code-review/references/mocking.md) | ⭐ 17 | `development` |
-| [Structure](development/structure_c7841574/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-testing-code-review/references/structure.md) | ⭐ 17 | `development` |
-| [Abstraction Criteria](development/abstraction-criteria_83d6cff0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-artifacts-detection/references/abstraction-criteria.md) | ⭐ 17 | `development` |
-| [Async Testing](development/async-testing_95ce7aed/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pytest-code-review/references/async-testing.md) | ⭐ 17 | `development` |
-| [Parametrize](development/parametrize_0d25e12e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pytest-code-review/references/parametrize.md) | ⭐ 17 | `development` |
-| [Common Mistakes](development/common-mistakes_11eb6808/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/references/common-mistakes.md) | ⭐ 17 | `development` |
-| [Error Handling](development/error-handling_9d8e80a2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/references/error-handling.md) | ⭐ 17 | `development` |
-| [Advanced](development/advanced_941c5365/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/advanced.md) | ⭐ 17 | `development` |
-| [Cva Patterns](development/cva-patterns_59783164/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/references/cva-patterns.md) | ⭐ 17 | `development` |
-| [Error Handling](development/error-handling_cf556630/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-code-review/references/error-handling.md) | ⭐ 17 | `development` |
-| [Organization](development/organization_d484c9a3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-testing-code-review/references/organization.md) | ⭐ 17 | `development` |
-| [Example Weather Api](development/example-weather-api_6c7a0d9c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tutorial-docs/references/example-weather-api.md) | ⭐ 17 | `development` |
-| [Views](development/views_aca5114d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/views.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_4faeb72c/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 178 | `development` |
+| [Commit Push](development/2077-commit-push_902ab21a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/commit-push.md) | ⭐ 17 | `development` |
+| [Create Pr](development/232-create-pr_99adbfe1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/create-pr.md) | ⭐ 17 | `development` |
+| [Fix Llm Artifacts](development/2078-fix-llm-artifacts_d590af2d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/fix-llm-artifacts.md) | ⭐ 17 | `development` |
+| [Gen Release Notes](development/2079-gen-release-notes_22b7a771/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/gen-release-notes.md) | ⭐ 17 | `development` |
+| [Receive Feedback](development/2080-receive-feedback_553c0e44/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/receive-feedback.md) | ⭐ 17 | `development` |
+| [Review Plan](development/2081-review-plan_29550666/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-plan.md) | ⭐ 17 | `development` |
+| [Review Tui](development/2082-review-tui_cc54353b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-tui.md) | ⭐ 17 | `development` |
+| [Swiftui Code Review Reference](development/2083-swiftui-code-review-reference_47b1e0a5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/docs/research/swiftui-code-review-reference.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_2aa02bf2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_18a00e6d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/deepagents-implementation/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_3ddcbafe/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docs-style/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_2bddf32c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_8810bd73/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_1721de85/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/explanation-docs/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_3b48fd60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_70124074/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_530ee36b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_27cc8b01/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_5c9aa270/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/prometheus-go-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_503dfc8e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-common-pitfalls/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_bcf789d9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-model-integration/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_22b3c4f0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_67892665/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Evaluation](development/346-evaluation_fb43fc38/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/EVALUATION.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_4ed211ad/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/SKILL.md) | ⭐ 17 | `development` |
+| [Verification](development/2084-verification_6221b067/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/VERIFICATION.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_e705c8a8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/reference-docs/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_0b40e2fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/review-feedback-schema/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_7ebf7b35/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/review-skill-improver/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_b3756828/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_1294cc2e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_0b3e2b63/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_2c043a25/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tutorial-docs/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_0f5f775b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Intent Structure](development/2085-intent-structure_0f517e06/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/intent-structure.md) | ⭐ 17 | `development` |
+| [Shortcuts](development/2086-shortcuts_48e1440a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/shortcuts.md) | ⭐ 17 | `development` |
+| [Elm Architecture](development/2087-elm-architecture_37a32b03/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/elm-architecture.md) | ⭐ 17 | `development` |
+| [Publishers](development/2088-publishers_3f8d3505/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/publishers.md) | ⭐ 17 | `development` |
+| [Parsing](development/2089-parsing_91256cf0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/docling/references/parsing.md) | ⭐ 17 | `development` |
+| [Atom Exhaustion](development/2090-atom-exhaustion_83bc7012/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/references/atom-exhaustion.md) | ⭐ 17 | `development` |
+| [Code Injection](development/2091-code-injection_afeb1df4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/elixir-security-review/references/code-injection.md) | ⭐ 17 | `development` |
+| [Authorization](development/1958-authorization_b4ae8377/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/authorization.md) | ⭐ 17 | `development` |
+| [Background](development/2092-background_549b0f19/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/background.md) | ⭐ 17 | `development` |
+| [Style Criteria](development/2093-style-criteria_009db56b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-artifacts-detection/references/style-criteria.md) | ⭐ 17 | `development` |
+| [Repo Agent](development/2094-repo-agent_281f49c3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/repo-agent.md) | ⭐ 17 | `development` |
+| [Controllers](development/2095-controllers_2844df4b/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/phoenix-code-review/references/controllers.md) | ⭐ 17 | `development` |
+| [Transactions](development/1524-transactions_9393e5d6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/transactions.md) | ⭐ 17 | `development` |
+| [Pep8 Style](development/2096-pep8-style_cb02cdc0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/references/pep8-style.md) | ⭐ 17 | `development` |
+| [Events](development/2097-events_59b55332/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/events.md) | ⭐ 17 | `development` |
+| [Migrations](development/2098-migrations_c2854072/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlalchemy-code-review/references/migrations.md) | ⭐ 17 | `development` |
+| [Accessibility](development/2099-accessibility_c05844e4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swiftui-code-review/references/accessibility.md) | ⭐ 17 | `development` |
+| [Theming](development/2100-theming_e4eeb00e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/references/theming.md) | ⭐ 17 | `development` |
+| [Caching](development/2101-caching_42b509e6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/caching.md) | ⭐ 17 | `development` |
+| [Request Building](development/2102-request-building_4209185a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/request-building.md) | ⭐ 17 | `development` |
+| [Connectivity](development/2103-connectivity_7b475acb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/connectivity.md) | ⭐ 17 | `development` |
+| [Performance](development/682-performance_5fbef4e5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/widgetkit-code-review/references/performance.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_35ff4806/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_14d91296/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/phoenix-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Code Injection](development/2091-code-injection_0417e51d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-security-review/references/code-injection.md) | ⭐ 17 | `development` |
+| [Local Reviewer](development/local-reviewer_9d819d1c/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/agents/local-reviewer.md) | ⭐ 11 | `development` |
+| [Skill](development/name-skill_55102525/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/name-skill_31714412/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/debugger/SKILL.md) | ⭐ 66 | `development` |
+| [Common Patterns](development/common-patterns_36585086/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/references/common-patterns.md) | ⭐ 11 | `development` |
+| [Standards](development/standards_1b941064/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/skills/rust-dev/references/standards.md) | ⭐ 11 | `development` |
 
-### Development/Devops (39 skills)
+### Development/Devops (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7416,11 +7347,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Building](development/devops/198-building_15899040/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/building.md) | ⭐ 686 | `development` |
 | [Wsl2 Microphone Access](development/devops/199-wsl2-microphone-access_22de5ba9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/troubleshooting/wsl2-microphone-access.md) | ⭐ 686 | `development` |
 | [Service Commands](development/devops/200-service-commands_35efcf1f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/cli/service-commands.md) | ⭐ 686 | `development` |
-| [Connections](development/devops/connections_66f69f75/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/connections.md) | ⭐ 17 | `development` |
-| [Async Networking](development/devops/async-networking_1b0d4aed/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/async-networking.md) | ⭐ 17 | `development` |
-| [Run Test Plan](development/devops/run-test-plan_ecd5ebe2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/run-test-plan.md) | ⭐ 17 | `development` |
+| [Connections](development/devops/201-connections_66f69f75/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/postgres-code-review/references/connections.md) | ⭐ 17 | `development` |
+| [Async Networking](development/devops/202-async-networking_1b0d4aed/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/urlsession-code-review/references/async-networking.md) | ⭐ 17 | `development` |
 
-### Development/Testing (38 skills)
+### Development/Testing (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7437,33 +7367,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Streaming Audio Playback](development/testing/045-streaming-audio-playback_f58fa76f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/streaming-audio-playback.md) | ⭐ 686 | `development` |
 | [Parameters](development/testing/046-parameters_22b2d883/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/parameters.md) | ⭐ 686 | `development` |
 | [Troubleshooting](development/testing/027-troubleshooting_dc28f864/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/troubleshooting.md) | ⭐ 686 | `development` |
-| [Skill](development/testing/name-skill_81992ac4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/exunit-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Fact Schema](development/testing/fact-schema_7e19ef2a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/fact-schema.md) | ⭐ 17 | `development` |
-| [Skill Integration](development/testing/skill-integration_449f8e92/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/references/skill-integration.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_0916853e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exunit-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Review Llm Artifacts](development/testing/review-llm-artifacts_af209d7c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-llm-artifacts.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_e12b95c9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/go-testing-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_13f14368/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-dependency-injection/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_a9c1d19d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-testing/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_12a093e5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pytest-code-review/SKILL.md) | ⭐ 17 | `development` |
-| [Config](development/testing/config_dda49211/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/CONFIG.md) | ⭐ 17 | `development` |
-| [Mocking](development/testing/mocking_caf50b0a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/MOCKING.md) | ⭐ 17 | `development` |
-| [Patterns](development/testing/patterns_ed23b13d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/PATTERNS.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/name-skill_c0c82856/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/SKILL.md) | ⭐ 17 | `development` |
-| [Madr Template](development/testing/madr-template_244b0806/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/adr-writing/references/madr-template.md) | ⭐ 17 | `development` |
-| [Integration Tests](development/testing/integration-tests_970e2c16/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/exunit-code-review/references/integration-tests.md) | ⭐ 17 | `development` |
-| [Mox Boundaries](development/testing/mox-boundaries_25424d2a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/exunit-code-review/references/mox-boundaries.md) | ⭐ 17 | `development` |
-| [Test Adapters](development/testing/test-adapters_149fd26f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/exunit-code-review/references/test-adapters.md) | ⭐ 17 | `development` |
-| [Tests Criteria](development/testing/tests-criteria_53a72712/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-artifacts-detection/references/tests-criteria.md) | ⭐ 17 | `development` |
-| [Fixtures](development/testing/fixtures_f4886ea6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pytest-code-review/references/fixtures.md) | ⭐ 17 | `development` |
-| [Mocking](development/testing/mocking_89480955/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pytest-code-review/references/mocking.md) | ⭐ 17 | `development` |
-| [Async Testing](development/testing/async-testing_9c606ba3/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/swift-testing-code-review/references/async-testing.md) | ⭐ 17 | `development` |
-| [Config](development/testing/config_b6484b75/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/references/config.md) | ⭐ 17 | `development` |
-| [Mocking](development/testing/mocking_5e65cbee/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/references/mocking.md) | ⭐ 17 | `development` |
-| [Patterns](development/testing/patterns_e44ce447/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vitest-testing/references/patterns.md) | ⭐ 17 | `development` |
-| [Mox Boundaries](development/testing/mox-boundaries_547d2d7c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exunit-code-review/references/mox-boundaries.md) | ⭐ 17 | `development` |
+| [Skill](development/testing/002-name-skill_81992ac4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/exunit-code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Fact Schema](development/testing/047-fact-schema_7e19ef2a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/llm-judge/references/fact-schema.md) | ⭐ 17 | `development` |
+| [Skill Integration](development/testing/048-skill-integration_449f8e92/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/receive-feedback/references/skill-integration.md) | ⭐ 17 | `development` |
+| [Skill](development/testing/002-name-skill_0916853e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exunit-code-review/SKILL.md) | ⭐ 17 | `development` |
 
-### Development/Tools (73 skills)
+### Development/Tools (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7525,23 +7434,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tool Loading Architecture](development/tools/218-tool-loading-architecture_8e80c1de/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/tool-loading-architecture.md) | ⭐ 686 | `development` |
 | [Getting Started](development/tools/219-getting-started_f7f27edb/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/tutorials/getting-started.md) | ⭐ 686 | `development` |
 | [Mfp](development/tools/220-mfp_b9180a56/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/mfp.md) | ⭐ 686 | `development` |
-| [Claude](development/tools/claude_ddcb86cd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 17 | `development` |
-| [Skill Builder](development/tools/skill-builder_52935fa1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/skill-builder.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/name-skill_84bcfbf9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-tool-system/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/name-skill_3240808e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/name-skill_f065b0f6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/SKILL.md) | ⭐ 17 | `development` |
-| [Custom Edges](development/tools/custom-edges_4c441957/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/custom-edges.md) | ⭐ 17 | `development` |
-| [Patterns](development/tools/patterns_9611237a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/patterns.md) | ⭐ 17 | `development` |
-| [Setup](development/tools/setup_2a6ed823/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/setup.md) | ⭐ 17 | `development` |
-| [Setup](development/tools/setup_081fe68f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/references/setup.md) | ⭐ 17 | `development` |
-| [Use Chat](development/tools/use-chat_ddf7ff72/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/use-chat.md) | ⭐ 17 | `development` |
-| [Review Frontend](development/tools/review-frontend_c0be8bd5/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-frontend.md) | ⭐ 17 | `development` |
-| [Review Go](development/tools/review-go_5a62b815/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/review-go.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/name-skill_f3511d0f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-agent-creation/SKILL.md) | ⭐ 17 | `development` |
-| [Additional Components](development/tools/additional_components_b76ce22f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-implementation/ADDITIONAL_COMPONENTS.md) | ⭐ 17 | `development` |
-| [Dark Mode](development/tools/dark-mode_6625bdf7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/references/dark-mode.md) | ⭐ 17 | `development` |
+| [Claude](development/tools/017-claude_ddcb86cd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 17 | `development` |
+| [Skill Builder](development/tools/221-skill-builder_52935fa1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/skill-builder.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/002-name-skill_84bcfbf9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-tool-system/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/002-name-skill_3240808e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/002-name-skill_f065b0f6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/SKILL.md) | ⭐ 17 | `development` |
+| [Custom Edges](development/tools/222-custom-edges_4c441957/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow/references/custom-edges.md) | ⭐ 17 | `development` |
+| [Patterns](development/tools/223-patterns_9611237a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/patterns.md) | ⭐ 17 | `development` |
+| [Setup](development/tools/198-setup_2a6ed823/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/sqlite-vec/references/setup.md) | ⭐ 17 | `development` |
+| [Setup](development/tools/198-setup_081fe68f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/tailwind-v4/references/setup.md) | ⭐ 17 | `development` |
+| [Use Chat](development/tools/224-use-chat_ddf7ff72/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/use-chat.md) | ⭐ 17 | `development` |
+| [Claude](development/tools/claude_1c08899e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.0k | `development` |
+| [Rust Builder](development/tools/rust-builder_6c505195/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/rust-builder.md) | ⭐ 11 | `development` |
 
-### Investment (51 skills)
+### Investment (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7593,9 +7499,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [交通物流行业研究](investment/029-交通物流行业研究_2c4e4bb9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/交通物流行业研究.md) | ⭐ 17 | `investment` |
 | [医疗健康行业研究](investment/030-医疗健康行业研究_7c38064e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/医疗健康行业研究.md) | ⭐ 17 | `investment` |
 | [2025 07 03 Gemini](investment/031-2025-07-03-gemini_b319be9a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-gemini.md) | ⭐ 686 | `investment` |
-| [Navigation](investment/navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
-| [Navigation](investment/navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
-| [Definition Of Done](investment/definition-of-done_9e538216/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/adr-writing/references/definition-of-done.md) | ⭐ 17 | `investment` |
+| [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
+| [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 
 ### Other (44 skills)
 
@@ -7644,9 +7549,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
-| [Feature Request](other/feature_request_a84ce27a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 17 | `other` |
+| [Run Review Loop](other/run-review-loop_1aea1e15/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/review-loop/commands/run-review-loop.md) | ⭐ 11 | `other` |
 
-### Productivity (230 skills)
+### Productivity (229 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7877,11 +7782,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mama Bear](productivity/144-mama-bear_dea41154/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/agents/mama-bear.md) | ⭐ 686 | `productivity` |
 | [Audio Format Migration](productivity/145-audio-format-migration_dbaae15d/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/audio-format-migration.md) | ⭐ 686 | `productivity` |
 | [Statistics Dashboard](productivity/146-statistics-dashboard_000a82c5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/statistics-dashboard.md) | ⭐ 686 | `productivity` |
-| [Bubbles Components](productivity/bubbles-components_e033fe28/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/bubbles-components.md) | ⭐ 17 | `productivity` |
-| [Memory](productivity/memory_a5ed5e79/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/memory.md) | ⭐ 17 | `productivity` |
-| [Accessibility](productivity/accessibility_d21ae7d4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-code-review/references/accessibility.md) | ⭐ 17 | `productivity` |
+| [Bubbles Components](productivity/147-bubbles-components_e033fe28/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/bubbles-components.md) | ⭐ 17 | `productivity` |
+| [Memory](productivity/148-memory_a5ed5e79/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/combine-code-review/references/memory.md) | ⭐ 17 | `productivity` |
 
-### Research (362 skills)
+### Research (360 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8239,14 +8143,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Seo Geo 1K Installs Milestone](research/222-seo-geo-1k-installs-milestone_0d6c890d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md) | ⭐ 69 | `research` |
 | [Skill](research/139-name-skill_dd27ab39/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/text-processor/SKILL.md) | ⭐ 14 | `research` |
 | [2025 07 03 2 Claude](research/223-2025-07-03-2_claude_34509a1e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-2_claude.md) | ⭐ 686 | `research` |
-| [Parameters](research/parameters_d0d280c8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/parameters.md) | ⭐ 17 | `research` |
-| [Queries](research/queries_62ca806a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/queries.md) | ⭐ 17 | `research` |
-| [Assigns Streams](research/assigns-streams_96a4a154/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/assigns-streams.md) | ⭐ 17 | `research` |
-| [Lifecycle](research/lifecycle_ffbd7b60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
-| [Components](research/components_5c8ef24e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/components.md) | ⭐ 17 | `research` |
-| [Lifecycle](research/lifecycle_92e848fd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
-| [Async Patterns](research/async-patterns_eb9f7fb2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/python-code-review/references/async-patterns.md) | ⭐ 17 | `research` |
-| [Cva](research/cva_354cfcf8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/cva.md) | ⭐ 17 | `research` |
+| [Parameters](research/224-parameters_d0d280c8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/app-intents-code-review/references/parameters.md) | ⭐ 17 | `research` |
+| [Queries](research/225-queries_62ca806a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/healthkit-code-review/references/queries.md) | ⭐ 17 | `research` |
+| [Assigns Streams](research/226-assigns-streams_96a4a154/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/assigns-streams.md) | ⭐ 17 | `research` |
+| [Lifecycle](research/227-lifecycle_ffbd7b60/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
+| [Components](research/228-components_5c8ef24e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/references/components.md) | ⭐ 17 | `research` |
+| [Lifecycle](research/227-lifecycle_92e848fd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/liveview-code-review/references/lifecycle.md) | ⭐ 17 | `research` |
 
 ## Repository Structure
 
