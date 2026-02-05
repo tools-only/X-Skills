@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8352 AI-powered skills** organized into 16 categories.
+A curated collection of **8350 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -15,12 +15,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (330 skills)
 - **Content Creation** (528 skills)
 - **Daily Assistant** (343 skills)
-- **Data Analysis** (832 skills)
+- **Data Analysis** (831 skills)
 - **Development** (4182 skills)
 - **Development/Devops** (62 skills)
 - **Development/Testing** (25 skills)
 - **Development/Tools** (87 skills)
-- **Investment** (52 skills)
+- **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (232 skills)
 - **Research** (371 skills)
@@ -2528,7 +2528,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](daily-assistant/109-reference_032e8d61/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Reference](daily-assistant/109-reference_b09fa03f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 
-### Data Analysis (832 skills)
+### Data Analysis (831 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3363,7 +3363,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](data-analysis/383-gotchas_2b203a92/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/gotchas.md) | ⭐ 392 | `data analysis` |
 | [Reference](data-analysis/286-reference_4ec85722/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/REFERENCE.md) | ⭐ 102 | `data analysis` |
 | [Reference](data-analysis/286-reference_7ea57731/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/REFERENCE.md) | ⭐ 102 | `data analysis` |
-| [Skill](data-analysis/name-skill_539f46b9/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/fal-ai-image/skills/fal-ai-image/SKILL.md) | ⭐ 21 | `data analysis` |
 
 ### Development (4182 skills)
 
@@ -7550,7 +7549,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Platform Setup](development/2140-platform-setup_a4512e9b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/platform-setup.md) | ⭐ 102 | `development` |
 | [Programmatic Setup](development/2141-programmatic-setup_d2dc23af/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/programmatic-setup.md) | ⭐ 102 | `development` |
 | [Troubleshooting](development/1097-troubleshooting_2859925e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/troubleshooting.md) | ⭐ 102 | `development` |
-| [Skill](development/name-skill_2fcf6957/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 21 | `development` |
+| [Agents](development/agents_0fa5bda0/) | [barvhaim/HoneyMCP](https://raw.githubusercontent.com/barvhaim/HoneyMCP/master/AGENTS.md) | ⭐ 16 | `development` |
 
 ### Development/Devops (62 skills)
 
@@ -7617,7 +7616,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/devops/213-gotchas_9edf3496/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/gotchas.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_23dd814e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/patterns.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_db3994ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/patterns.md) | ⭐ 392 | `development` |
-| [Configuration](development/devops/configuration_26d8c1bf/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
+| [Configuration](development/devops/009-configuration_26d8c1bf/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -7741,7 +7740,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Auth](development/tools/077-auth_1618b7fb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
 | [Mcp Integration](development/tools/232-mcp-integration_ac1b3845/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/mcp-integration.md) | ⭐ 102 | `development` |
 
-### Investment (52 skills)
+### Investment (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7796,7 +7795,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 | [Reference](investment/023-reference_145e86f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
-| [Claude](investment/claude_b3b3e2f4/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/CLAUDE.md) | ⭐ 21 | `investment` |
 
 ### Other (44 skills)
 
