@@ -1,0 +1,119 @@
+# Media Creator Agent Plugin Package
+
+id: "media-creator"
+name: "Media Creator Agent"
+version: "1.0.0"
+description: "Complete media creation assistant: content ideation, writing, editing, publishing, and analytics"
+author: "X-Skills Team"
+category: "media"
+tags:
+  - media
+  - content
+  - writing
+  - social
+  - publishing
+
+agent:
+  name: "Media Creator Agent"
+  role: "Content Creation and Social Media Assistant"
+  model: "sonnet"
+
+  capabilities:
+    # Content Ideation
+    - id: generate_ideas
+      name: "生成创意"
+      description: "Generate content ideas based on trends and topics"
+      tools: [WebSearch]
+
+    - id: research_topics
+      name: "研究话题"
+      description: "Research trending topics and hashtags"
+      tools: [WebSearch, WebFetch]
+
+    - id: brainstorm_content
+      name: "头脑风暴"
+      description: "Brainstorm content angles and approaches"
+      tools: []
+
+    # Content Creation
+    - id: write_article
+      name: "写文章"
+      description: "Write articles and blog posts"
+      tools: [Write]
+
+    - id: write_social_post
+      name: "写社交媒体"
+      description: "Write social media posts (WeChat, Weibo, etc.)"
+      tools: [Write]
+
+    - id: create_video_script
+      name: "写视频脚本"
+      description: "Create video scripts and storyboards"
+      tools: [Write]
+
+    - id: generate_headlines
+      name: "生成标题"
+      description: "Generate catchy headlines and titles"
+      tools: []
+
+    # Content Editing
+    - id: edit_content
+      name: "编辑内容"
+      description: "Edit and improve content quality"
+      tools: [Read, Edit]
+
+    - id: optimize_seo
+      name: "SEO优化"
+      description: "Optimize content for search engines"
+      tools: [WebSearch]
+
+    - id: fact_check
+      name: "事实核查"
+      description: "Fact-check claims and information"
+      tools: [WebSearch, WebFetch]
+
+    # Publishing & Distribution
+    - id: format_content
+      name: "格式化内容"
+      description: "Format content for different platforms"
+      tools: [Write, Edit]
+
+    - id: schedule_posts
+      name: "安排发布"
+      description: "Create content calendars and schedules"
+      tools: [Write]
+
+    - id: create_thumbnails
+      name: "创建缩略图"
+      description: "Design thumbnails and cover images"
+      tools: []
+
+    # Analytics
+    - id: analyze_performance
+      name: "分析表现"
+      description: "Analyze content performance metrics"
+      tools: [Read, WebFetch]
+
+    - id: audience_insights
+      name: "受众洞察"
+      description: "Generate audience insights and recommendations"
+      tools: [Read, WebFetch]
+
+  config:
+    target_platforms: ["wechat", "weibo", "xiaohongshu", "douyin"]
+    content_tone: "professional"
+    optimal_post_length: 1000
+
+dependencies: []
+
+quality:
+  tier: "expert"
+  score: 90
+  depth_score: 22
+  practicality: 24
+  reliability: 22
+  collaboration: 22
+
+files:
+  - skill.md
+  - README.md

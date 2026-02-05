@@ -1,0 +1,28 @@
+#!/bin/bash
+# X-Skills CLI - Auto-install wrapper
+# This script will auto-install SkillFlow if needed
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SKILLFLOW_DIR="$HOME/.skillflow"
+
+# Find SkillFlow directory
+if [ -f "$SCRIPT_DIR/../../src/xskills_cli_new.py" ]; then
+    # Running from within SkillFlow repo
+    SKILLFLOW_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
+elif [ -d "$SKILLFLOW_DIR/src" ]; then
+    # Installed to ~/.skillflow
+    true
+else
+    # Need to install
+    echo "📦 Installing SkillFlow..."
+    git clone --depth 1 https://github.com/tools-only/SkillFlow.git "$SKILLFLOW_DIR" 2>/dev/null || {
+        echo "⚠️  Auto-install failed. Please run:"
+        echo "   git clone https://github.com/tools-only/SkillFlow.git ~/.skillflow"
+        exit 1
+    }
+fi
+
+# Run CLI
+cd "$SKILLFLOW_DIR"
+export PYTHONPATH="$SKILLFLOW_DIR:$PYTHONPATH"
+python3 -m src.xskills_cli_new "$@"

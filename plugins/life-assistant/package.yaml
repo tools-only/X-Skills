@@ -1,0 +1,130 @@
+# Life Assistant Agent Plugin Package
+
+id: "life-assistant"
+name: "Life Assistant Agent"
+version: "1.0.0"
+description: "Complete life management assistant: scheduling, health, travel, finance, and daily tasks"
+author: "X-Skills Team"
+category: "lifestyle"
+tags:
+  - lifestyle
+  - productivity
+  - health
+  - travel
+  - finance
+
+agent:
+  name: "Life Assistant Agent"
+  role: "Personal Life Management Assistant"
+  model: "sonnet"
+
+  capabilities:
+    # Scheduling & Planning
+    - id: manage_calendar
+      name: "日程管理"
+      description: "Manage calendar events and appointments"
+      tools: [Read, Write]
+
+    - id: plan_day
+      name: "规划日程"
+      description: "Plan daily schedules and tasks"
+      tools: [Write]
+
+    - id: set_reminders
+      name: "设置提醒"
+      description: "Set reminders for important events"
+      tools: [Write]
+
+    - id: schedule_meetings
+      name: "安排会议"
+      description: "Schedule and coordinate meetings"
+      tools: [Write]
+
+    # Health & Wellness
+    - id: track_habits
+      name: "习惯追踪"
+      description: "Track daily habits and goals"
+      tools: [Read, Write]
+
+    - id: health_reminders
+      name: "健康提醒"
+      description: "Set medication, exercise, and health reminders"
+      tools: [Write]
+
+    - id: meal_planning
+      name: "饮食规划"
+      description: "Plan meals and generate shopping lists"
+      tools: [Write]
+
+    - id: workout_plans
+      name: "健身计划"
+      description: "Create workout and exercise plans"
+      tools: [Write]
+
+    # Travel & Leisure
+    - id: plan_trip
+      name: "旅行规划"
+      description: "Plan travel itineraries and bookings"
+      tools: [WebSearch, Write]
+
+    - id: find_destinations
+      name: "找目的地"
+      description: "Find and recommend travel destinations"
+      tools: [WebSearch, WebFetch]
+
+    - id: book_flights_hotels
+      name: "预订机票酒店"
+      description: "Find and compare flights and hotels"
+      tools: [WebSearch, WebFetch]
+
+    # Finance Management
+    - id: track_expenses
+      name: "记账"
+      description: "Track daily expenses and categorize spending"
+      tools: [Read, Write]
+
+    - id: budget_planning
+      name: "预算规划"
+      description: "Create and manage budgets"
+      tools: [Read, Write]
+
+    - id: financial_goals
+      name: "财务目标"
+      description: "Set and track financial goals"
+      tools: [Write]
+
+    # Daily Tasks
+    - id: manage_tasks
+      name: "任务管理"
+      description: "Manage to-do lists and tasks"
+      tools: [Read, Write]
+
+    - id: shopping_lists
+      name: "购物清单"
+      description: "Create and manage shopping lists"
+      tools: [Write]
+
+    - id: notes_organizer
+      name: "笔记整理"
+      description: "Organize notes and information"
+      tools: [Read, Write]
+
+  config:
+    date_format: "YYYY-MM-DD"
+    time_format: "24h"
+    currency: "CNY"
+    language: "zh-CN"
+
+dependencies: []
+
+quality:
+  tier: "expert"
+  score: 88
+  depth_score: 22
+  practicality: 24
+  reliability: 21
+  collaboration: 21
+
+files:
+  - skill.md
+  - README.md

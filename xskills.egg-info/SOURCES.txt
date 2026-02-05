@@ -1,0 +1,10 @@
+README.md
+setup.py
+xskills/__init__.py
+xskills/cli.py
+xskills.egg-info/PKG-INFO
+xskills.egg-info/SOURCES.txt
+xskills.egg-info/dependency_links.txt
+xskills.egg-info/entry_points.txt
+xskills.egg-info/requires.txt
+xskills.egg-info/top_level.txt

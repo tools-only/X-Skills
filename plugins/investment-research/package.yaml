@@ -1,0 +1,97 @@
+# Investment Research Agent Plugin Package
+
+id: "investment-research"
+name: "Investment Research Agent"
+version: "1.0.0"
+description: "Complete investment research assistant: market analysis, financial data, risk assessment, and report generation"
+author: "X-Skills Team"
+category: "finance"
+tags:
+  - investment
+  - finance
+  - analysis
+  - trading
+
+agent:
+  name: "Investment Research Agent"
+  role: "Investment Research and Analysis Assistant"
+  model: "sonnet"
+
+  capabilities:
+    # Market Data & Analysis
+    - id: fetch_market_data
+      name: "获取市场数据"
+      description: "Fetch real-time and historical market data"
+      tools: [WebSearch, WebFetch]
+
+    - id: analyze_trends
+      name: "分析趋势"
+      description: "Analyze market trends and patterns"
+      tools: [WebSearch, WebFetch]
+
+    - id: technical_analysis
+      name: "技术分析"
+      description: "Perform technical analysis on stocks and assets"
+      tools: [WebSearch, WebFetch]
+
+    # Financial Analysis
+    - id: analyze_financials
+      name: "财务分析"
+      description: "Analyze company financial statements and ratios"
+      tools: [Read, WebFetch]
+
+    - id: valuation
+      name: "估值分析"
+      description: "Perform company valuation (DCF, PE, PB, etc.)"
+      tools: [WebSearch, WebFetch]
+
+    - id: compare_companies
+      name: "公司对比"
+      description: "Compare multiple companies in the same sector"
+      tools: [WebSearch, WebFetch]
+
+    # Risk Assessment
+    - id: assess_risk
+      name: "风险评估"
+      description: "Assess investment risks and risk factors"
+      tools: [WebSearch, WebFetch]
+
+    - id: portfolio_analysis
+      name: "投资组合分析"
+      description: "Analyze portfolio performance and allocation"
+      tools: [Read, WebFetch]
+
+    # Report Generation
+    - id: generate_report
+      name: "生成报告"
+      description: "Generate investment research reports"
+      tools: [Write]
+
+    - id: summarize_news
+      name: "新闻摘要"
+      description: "Summarize relevant financial news"
+      tools: [WebSearch, WebFetch]
+
+    - id: earnings_analysis
+      name: "财报分析"
+      description: "Analyze earnings reports and guidance"
+      tools: [WebFetch, Read]
+
+  config:
+    default_sources: ["yahoo_finance", "bloomberg", "reuters"]
+    risk_tolerance: "moderate"
+    report_format: "markdown"
+
+dependencies: []
+
+quality:
+  tier: "expert"
+  score: 92
+  depth_score: 23
+  practicality: 24
+  reliability: 23
+  collaboration: 22
+
+files:
+  - skill.md
+  - README.md

@@ -1,37 +1,62 @@
-# Research Agent Plugin Package
+# Academic Research Agent Plugin Package
 
 id: "research-agent"
-name: "Research Agent"
-version: "1.0.0"
-description: "Academic research assistant for literature search, paper analysis, and knowledge synthesis"
+name: "Academic Research Agent"
+version: "2.0.0"
+description: "Complete academic research assistant: literature search, paper analysis, citation management, and LaTeX writing"
 author: "X-Skills Team"
 category: "research"
 tags:
   - research
   - academic
   - literature
-  - analysis
+  - writing
+  - latex
 
 agent:
-  name: "Research Agent"
-  role: "Academic Research Assistant"
+  name: "Academic Research Agent"
+  role: "Academic Research and Writing Assistant"
   model: "sonnet"
 
   capabilities:
+    # Literature Search
     - id: search_literature
       name: "搜索学术文献"
       description: "Search academic databases for relevant literature"
-      tools:
-        - WebSearch
-        - WebFetch
+      tools: [WebSearch, WebFetch]
 
+    # Paper Analysis
     - id: analyze_paper
       name: "分析论文"
       description: "Analyze research papers and extract key insights"
-      tools:
-        - Read
-        - WebFetch
+      tools: [Read, WebFetch]
 
+    - id: extract_methodology
+      name: "提取方法论"
+      description: "Extract and explain the research methodology"
+      tools: [Read, WebFetch]
+
+    - id: analyze_results
+      name: "分析结果"
+      description: "Analyze experimental results and findings"
+      tools: [Read]
+
+    - id: evaluate_contributions
+      name: "评估贡献"
+      description: "Evaluate the paper's contributions to the field"
+      tools: []
+
+    - id: identify_limitations
+      name: "识别局限性"
+      description: "Identify limitations and future work"
+      tools: []
+
+    - id: compare_papers
+      name: "对比论文"
+      description: "Compare multiple papers on the same topic"
+      tools: [Read]
+
+    # Knowledge Synthesis
     - id: summarize_findings
       name: "总结发现"
       description: "Summarize research findings across multiple papers"
@@ -40,26 +65,67 @@ agent:
     - id: suggest_related
       name: "推荐相关文献"
       description: "Suggest related research and citations"
-      tools:
-        - WebSearch
+      tools: [WebSearch]
+
+    # Citation Management
+    - id: format_citation
+      name: "格式化引用"
+      description: "Format citations in various styles (APA, MLA, Chicago, IEEE)"
+      tools: []
+
+    - id: create_bibliography
+      name: "创建参考文献"
+      description: "Generate formatted bibliographies from citation lists"
+      tools: [Write]
+
+    - id: extract_citations
+      name: "提取引用"
+      description: "Extract and parse citations from documents"
+      tools: [Read, Grep]
+
+    - id: validate_style
+      name: "验证格式"
+      description: "Check if citations follow the specified style guide"
+      tools: [Read]
+
+    # LaTeX Writing
+    - id: create_latex_document
+      name: "创建LaTeX文档"
+      description: "Create LaTeX documents with proper structure"
+      tools: [Write]
+
+    - id: format_equations
+      name: "格式化公式"
+      description: "Help write and format mathematical equations"
+      tools: []
+
+    - id: compile_latex
+      name: "编译LaTeX"
+      description: "Compile LaTeX and fix common errors"
+      tools: [Bash, Read]
+
+    - id: fix_latex_errors
+      name: "修复LaTeX错误"
+      description: "Debug and fix LaTeX compilation errors"
+      tools: [Read, Edit, Bash]
 
   config:
     max_papers: 10
     default_database: "arxiv"
     include_citations: true
+    default_citation_style: "APA"
+    latex_class: "article"
+    latex_compiler: "pdflatex"
 
-dependencies:
-  - plugin: "citation-manager"
-    version: ">=1.0"
-    optional: true
+dependencies: []
 
 quality:
   tier: "expert"
-  score: 87
-  depth_score: 22
-  practicality: 23
-  reliability: 21
-  collaboration: 21
+  score: 95
+  depth_score: 24
+  practicality: 24
+  reliability: 24
+  collaboration: 23
 
 files:
   - skill.md

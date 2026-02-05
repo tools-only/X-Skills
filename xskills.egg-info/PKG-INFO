@@ -1,6 +1,88 @@
+Metadata-Version: 2.1
+Name: xskills
+Version: 1.0.0
+Summary: X-Skills Plugin System for Claude Code
+Home-page: https://github.com/tools-only/X-Skills
+Author: X-Skills Team
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # X-Skills
 
-A curated collection of **7756 AI-powered skills** organized into 16 categories.
+A curated collection of **7738 AI-powered skills** organized into 16 categories.
+
+## 🚀 Quick Start - Plugin System
+
+### Install (Choose one)
+
+```bash
+# pip install (recommended)
+pip install xskills
+
+# Or from GitHub
+pip install git+https://github.com/tools-only/X-Skills.git
+
+# Or quick install script
+curl -fsSL https://raw.githubusercontent.com/tools-only/X-Skills/main/install.sh | bash
+```
+
+That's it! X-Skills is now ready to use.
+
+### Verify
+
+```bash
+xsk scenarios
+```
+
+### Basic Commands
+
+```bash
+# Search for plugins
+xsk search "research"
+
+# Install a plugin
+xsk install research-agent
+
+# List installed plugins
+xsk list
+
+# View plugin capabilities
+xsk capabilities research-agent
+
+# Run a plugin
+xsk run research-agent "搜索最新的AI论文"
+
+# View scenario bundles
+xsk scenarios
+
+# Install scenario bundle
+xsk install @academic_research
+```
+
+### Available Plugins (5 Categories)
+
+| Plugin | Capabilities | Description |
+|--------|-------------|-------------|
+| **research-agent** | 18 | 学术研究：文献搜索、论文分析、引用管理、LaTeX写作 |
+| **investment-research** | 12 | 投资调研：市场分析、财务数据、风险评估、研究报告 |
+| **media-creator** | 15 | 自媒体：内容策划、创作、编辑、发布、数据分析 |
+| **life-assistant** | 16 | 生活助理：日程管理、健康提醒、旅行规划、财务管理 |
+| **coding-assistant** | 5 | 代码生成：生成、重构、调试、测试、审查 |
+
+### Scenario Bundles
+
+```bash
+# Install scenario bundle
+./xsk install @academic_research
+./xsk install @media_creation
+./xsk install @investment_research
+```
+
+---
 
 ## Overview
 
@@ -9,20 +91,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (7 skills)
-- **Automation/Workflow** (7 skills)
-- **Commercial** (497 skills)
+- **Automation/Scripting** (5 skills)
+- **Automation/Workflow** (6 skills)
+- **Commercial** (495 skills)
 - **Communication** (278 skills)
 - **Content Creation** (449 skills)
 - **Daily Assistant** (306 skills)
-- **Data Analysis** (791 skills)
-- **Development** (4008 skills)
+- **Data Analysis** (784 skills)
+- **Development** (4002 skills)
 - **Development/Devops** (25 skills)
-- **Development/Testing** (10 skills)
-- **Development/Tools** (40 skills)
+- **Development/Testing** (9 skills)
+- **Development/Tools** (42 skills)
 - **Investment** (47 skills)
 - **Other** (43 skills)
-- **Productivity** (224 skills)
+- **Productivity** (223 skills)
 - **Research** (352 skills)
 
 ## Skills Directory
@@ -705,7 +787,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (7 skills)
+### Automation/Scripting (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -714,10 +796,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill Evolution](automation/scripting/054-skill_evolution_fd3a2539/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/SKILL_EVOLUTION.md) | ⭐ 17 | `automation` |
 | [Async Parallel](automation/scripting/055-async-parallel_f35a977f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/async-parallel.md) | ⭐ 17 | `automation` |
 | [Cloud](automation/scripting/056-cloud_2d7e54ec/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLOUD.md) | ⭐ 17 | `automation` |
-| [Bug Report](automation/scripting/bug_report_48879f90/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 2.5k | `automation` |
-| [Feature Request](automation/scripting/feature_request_1f48c52f/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 2.5k | `automation` |
 
-### Automation/Workflow (7 skills)
+### Automation/Workflow (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -727,9 +807,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Enhancement Modes](automation/workflow/060-enhancement_modes_34694198/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/ENHANCEMENT_MODES.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
 | [Skill](automation/workflow/002-name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
-| [Multi Agent System](automation/workflow/multi-agent-system_e5dbc864/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/docs/architecture/multi-agent-system.md) | ⭐ 2.5k | `automation` |
 
-### Commercial (497 skills)
+### Commercial (495 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1227,9 +1306,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt No Thinking](commercial/305-system_prompt_no_thinking_a8a6821b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_no_thinking.md) | ⭐ 17 | `commercial` |
 | [Skill](commercial/210-name-skill_8f5b454c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md) | ⭐ 13 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_7cefa3b3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 926 | `commercial` |
-| [Agents](commercial/007-agents_a55d2e22/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
-| [Roadmap](commercial/roadmap_b06b7cad/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 279 | `commercial` |
-| [Incident Chaos](commercial/incident-chaos_063058f0/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/incident-chaos.md) | ⭐ 279 | `commercial` |
+| [Agents](commercial/agents_a55d2e22/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
 
 ### Communication (278 skills)
 
@@ -2279,7 +2356,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt Flash Anthropic](daily-assistant/193-system_prompt_flash_anthropic_d1ecd038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash_anthropic.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_98415286/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/SKILL.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (791 skills)
+### Data Analysis (784 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3067,15 +3144,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_0bb564d8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.opencode/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cb9dbbe5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/cli/assets/.claude/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 | [01 Architecture](data-analysis/335-01-architecture_6a79e991/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 926 | `data analysis` |
-| [Skill](data-analysis/name-skill_7a8cb6c3/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_6584d776/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/quiz-generator/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Workflow Commands](data-analysis/workflow_commands_11b3a8d9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/WORKFLOW_COMMANDS.md) | ⭐ 279 | `data analysis` |
-| [Command](data-analysis/command_500a2f34/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/common-ground/COMMAND.md) | ⭐ 279 | `data analysis` |
-| [Mysql Tuning](data-analysis/mysql-tuning_62dc54ae/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/database-optimizer/references/mysql-tuning.md) | ⭐ 279 | `data analysis` |
-| [Postgresql Tuning](data-analysis/postgresql-tuning_197da2b9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/database-optimizer/references/postgresql-tuning.md) | ⭐ 279 | `data analysis` |
-| [Code Index](data-analysis/code_index_ddfa0897/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `data analysis` |
 
-### Development (4008 skills)
+### Development (4002 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7081,12 +7151,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
 | [Tools Comparison](development/2032-tools-comparison_fbec41c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/references/tools-comparison.md) | 🔥 7.2k | `development` |
 | [Contributing Cn](development/2034-contributing_cn_c62fea39/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 926 | `development` |
-| [Claude](development/claude_275cb9d4/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/CLAUDE.md) | ⭐ 279 | `development` |
-| [Supported Agents](development/supported_agents_e950f36f/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/SUPPORTED_AGENTS.md) | ⭐ 279 | `development` |
-| [Skill](development/name-skill_0ce7d2a7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/code-reviewer/SKILL.md) | ⭐ 279 | `development` |
-| [Skill](development/name-skill_9a2d11e4/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/debugging-wizard/SKILL.md) | ⭐ 279 | `development` |
-| [Modern Php Features](development/modern-php-features_04a6a64d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/php-pro/references/modern-php-features.md) | ⭐ 279 | `development` |
-| [Claude](development/claude_ac46d045/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/CLAUDE.md) | ⭐ 2.5k | `development` |
 
 ### Development/Devops (25 skills)
 
@@ -7115,10 +7179,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prompt](development/devops/144-prompt_6a385dd6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 926 | `development` |
 | [07 Debug](development/devops/189-07-debug_e43bccae/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-debug.md) | ⭐ 926 | `development` |
 | [07 Debug](development/devops/189-07-debug_ebe6b87e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-debug.md) | ⭐ 926 | `development` |
-| [Getting Started](development/devops/190-getting-started_91cf2684/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md) | ⭐ 29 | `development` |
-| [Index](development/devops/050-index_8ece0aff/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
+| [Getting Started](development/devops/getting-started_91cf2684/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md) | ⭐ 29 | `development` |
+| [Index](development/devops/index_8ece0aff/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
 
-### Development/Testing (10 skills)
+### Development/Testing (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7126,14 +7190,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Best Practices](development/testing/040-best_practices_8307d63b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/BEST_PRACTICES.md) | ⭐ 17 | `development` |
 | [Claude](development/testing/041-claude_8d6a8590/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLAUDE.md) | ⭐ 17 | `development` |
 | [Flutter](development/testing/042-flutter_b779f9f8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/flutter.md) | ⭐ 17 | `development` |
-| [Agents](development/testing/024-agents_9da78b25/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md) | ⭐ 29 | `development` |
-| [Agents](development/testing/024-agents_0101a181/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_chat/AGENTS.md) | ⭐ 29 | `development` |
-| [Agents](development/testing/024-agents_091e85e9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
-| [Create Epic Plan](development/testing/create-epic-plan_a80b8037/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/planning/create-epic-plan.md) | ⭐ 279 | `development` |
-| [Skill](development/testing/name-skill_0832746c/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/test-master/SKILL.md) | ⭐ 279 | `development` |
-| [Code Index](development/testing/code_index_2d5a6a0c/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Agents](development/testing/agents_9da78b25/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_0101a181/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_chat/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_091e85e9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_88d79d22/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/meeseeks_ha_conversation/AGENTS.md) | ⭐ 29 | `development` |
+| [Agents](development/testing/agents_56be9189/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/tests/AGENTS.md) | ⭐ 29 | `development` |
 
-### Development/Tools (40 skills)
+### Development/Tools (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7176,7 +7239,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Troubleshooting](development/tools/205-troubleshooting_f3910689/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/TROUBLESHOOTING.md) | ⭐ 17 | `development` |
 | [Skills](development/tools/206-claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
 | [Maintenance](development/tools/207-maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
-| [Git Commit Instructions](development/tools/208-git-commit-instructions_540df4f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/.github/git-commit-instructions.md) | ⭐ 29 | `development` |
+| [Git Commit Instructions](development/tools/git-commit-instructions_540df4f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/.github/git-commit-instructions.md) | ⭐ 29 | `development` |
+| [Components](development/tools/components_281340e5/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/components.md) | ⭐ 29 | `development` |
+| [Reference](development/tools/reference_5851a899/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/reference.md) | ⭐ 29 | `development` |
 
 ### Investment (47 skills)
 
@@ -7278,7 +7343,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 
-### Productivity (224 skills)
+### Productivity (223 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7505,7 +7570,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ui Design Styles Reference](productivity/141-ui_design_styles_reference_9d3ad259/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/design/UI_DESIGN_STYLES_REFERENCE.md) | ⭐ 17 | `productivity` |
 | [Instructions](productivity/142-instructions_5936da44/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/instructions.md) | ⭐ 17 | `productivity` |
 | [其他行业研究](productivity/143-其他行业研究_ba1e5db2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/其他行业研究.md) | ⭐ 17 | `productivity` |
-| [Create Epic Discovery](productivity/create-epic-discovery_99ed95f7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/discovery/create-epic-discovery.md) | ⭐ 279 | `productivity` |
 
 ### Research (352 skills)
 
