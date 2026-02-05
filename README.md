@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7792 AI-powered skills** organized into 16 categories.
+A curated collection of **7719 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (7 skills)
-- **Automation/Workflow** (5 skills)
-- **Commercial** (495 skills)
-- **Communication** (284 skills)
-- **Content Creation** (456 skills)
-- **Daily Assistant** (320 skills)
-- **Data Analysis** (786 skills)
-- **Development** (4015 skills)
-- **Development/Devops** (22 skills)
-- **Development/Testing** (8 skills)
-- **Development/Tools** (42 skills)
-- **Investment** (50 skills)
-- **Other** (49 skills)
-- **Productivity** (224 skills)
-- **Research** (357 skills)
+- **Automation/Scripting** (5 skills)
+- **Automation/Workflow** (6 skills)
+- **Commercial** (493 skills)
+- **Communication** (278 skills)
+- **Content Creation** (448 skills)
+- **Daily Assistant** (306 skills)
+- **Data Analysis** (783 skills)
+- **Development** (4001 skills)
+- **Development/Devops** (20 skills)
+- **Development/Testing** (4 skills)
+- **Development/Tools** (39 skills)
+- **Investment** (47 skills)
+- **Other** (43 skills)
+- **Productivity** (223 skills)
+- **Research** (351 skills)
 
 ## Skills Directory
 
@@ -705,29 +705,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (7 skills)
+### Automation/Scripting (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](automation/scripting/003-name-skill_f12f176b/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-changelog-versioning/SKILL.md) | ⭐ 72 | `automation` |
-| [Browser Automation Decision Tree](automation/scripting/browser-automation-decision-tree_5b757272/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/browser-automation-decision-tree.md) | ⭐ 17 | `automation` |
-| [Skill Evolution](automation/scripting/skill_evolution_fd3a2539/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/SKILL_EVOLUTION.md) | ⭐ 17 | `automation` |
-| [Async Parallel](automation/scripting/async-parallel_f35a977f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/async-parallel.md) | ⭐ 17 | `automation` |
-| [Cloud](automation/scripting/cloud_2d7e54ec/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLOUD.md) | ⭐ 17 | `automation` |
-| [Error Analysis Report](automation/scripting/error_analysis_report_494e7513/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/ERROR_ANALYSIS_REPORT.md) | ⭐ 17 | `automation` |
-| [State Management](automation/scripting/state-management_b2c57e6e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/state-management.md) | ⭐ 17 | `automation` |
+| [Browser Automation Decision Tree](automation/scripting/053-browser-automation-decision-tree_5b757272/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/browser-automation-decision-tree.md) | ⭐ 17 | `automation` |
+| [Skill Evolution](automation/scripting/054-skill_evolution_fd3a2539/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/SKILL_EVOLUTION.md) | ⭐ 17 | `automation` |
+| [Async Parallel](automation/scripting/055-async-parallel_f35a977f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/async-parallel.md) | ⭐ 17 | `automation` |
+| [Cloud](automation/scripting/056-cloud_2d7e54ec/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLOUD.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (5 skills)
+### Automation/Workflow (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](automation/workflow/002-name-skill_a67bc6c7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract/SKILL.md) | ⭐ 72 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
-| [Index](automation/workflow/index_d434cdd8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/INDEX.md) | ⭐ 17 | `automation` |
-| [Enhancement Modes](automation/workflow/enhancement_modes_34694198/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/ENHANCEMENT_MODES.md) | ⭐ 17 | `automation` |
-| [Install](automation/workflow/install_54e47df5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/INSTALL.md) | ⭐ 17 | `automation` |
+| [Index](automation/workflow/021-index_d434cdd8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/INDEX.md) | ⭐ 17 | `automation` |
+| [Enhancement Modes](automation/workflow/060-enhancement_modes_34694198/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/ENHANCEMENT_MODES.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
+| [Skill](automation/workflow/name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
 
-### Commercial (495 skills)
+### Commercial (493 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1218,16 +1217,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/181-sf-diagram-mermaid_a56bda2c/) | [Unknown](#) | N/A | `commercial` |
 | [Skill](commercial/210-name-skill_f0486a99/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-authentication/SKILL.md) | ⭐ 72 | `commercial` |
 | [Skill](commercial/210-name-skill_a803eee0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-and-versioning/SKILL.md) | ⭐ 72 | `commercial` |
-| [Error Catalog](commercial/error_catalog_468831d3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/ERROR_CATALOG.md) | ⭐ 17 | `commercial` |
-| [Icons](commercial/icons_66088fed/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/icons.md) | ⭐ 17 | `commercial` |
-| [Typography](commercial/typography_b6fdf383/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/typography.md) | ⭐ 17 | `commercial` |
-| [System Prompt](commercial/system_prompt_8f190682/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt.md) | ⭐ 17 | `commercial` |
-| [System Prompt No Thinking](commercial/system_prompt_no_thinking_a8a6821b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_no_thinking.md) | ⭐ 17 | `commercial` |
-| [E016 Train Serve Skew](commercial/e016-train-serve-skew_153c538e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/ml-errors/E016-train-serve-skew.md) | ⭐ 17 | `commercial` |
-| [06 经济效益分析](commercial/06_经济效益分析_9b6f2fb1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/06_经济效益分析.md) | ⭐ 17 | `commercial` |
-| [快速参考手册](commercial/快速参考手册_70c28940/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/快速参考手册.md) | ⭐ 17 | `commercial` |
+| [Error Catalog](commercial/301-error_catalog_468831d3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/ERROR_CATALOG.md) | ⭐ 17 | `commercial` |
+| [Icons](commercial/302-icons_66088fed/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/icons.md) | ⭐ 17 | `commercial` |
+| [Typography](commercial/303-typography_b6fdf383/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/typography.md) | ⭐ 17 | `commercial` |
+| [System Prompt](commercial/304-system_prompt_8f190682/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt.md) | ⭐ 17 | `commercial` |
+| [System Prompt No Thinking](commercial/305-system_prompt_no_thinking_a8a6821b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_no_thinking.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/name-skill_8f5b454c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/handoff/SKILL.md) | ⭐ 13 | `commercial` |
 
-### Communication (284 skills)
+### Communication (278 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1492,31 +1489,25 @@ This repository contains automatically aggregated skills from various open-sourc
 | [International Playbooks](communication/063-market_dc929706/) | [Unknown](#) | N/A | `communication` |
 | [Board Governance Investor Relations](communication/020-size_fe407f1f/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](communication/127-name-skill_8f25eae4/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer/SKILL.md) | ⭐ 72 | `communication` |
-| [Today Errors 2026 01 23](communication/today_errors_2026-01-23_e0296039/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/TODAY_ERRORS_2026-01-23.md) | ⭐ 17 | `communication` |
-| [Ophel Engineering Patterns](communication/ophel-engineering-patterns_66e714ad/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/ophel-engineering-patterns.md) | ⭐ 17 | `communication` |
-| [Coding Style](communication/coding-style_cea2bd87/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/coding-style.md) | ⭐ 17 | `communication` |
-| [N8N Workflows](communication/n8n_workflows_3586bb3a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/vibe-marketing/N8N_WORKFLOWS.md) | ⭐ 17 | `communication` |
-| [Browser Automation](communication/browser-automation_db294780/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/browser-automation.md) | ⭐ 17 | `communication` |
-| [Data Analysis](communication/data-analysis_79a897fa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/data-analysis.md) | ⭐ 17 | `communication` |
-| [Firebase Mcp](communication/firebase-mcp_cabac65f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/firebase-mcp.md) | ⭐ 17 | `communication` |
-| [Sql Optimization](communication/sql-optimization_289b6b68/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/sql-optimization.md) | ⭐ 17 | `communication` |
-| [Active Email Domains](communication/active-email-domains_97b2c385/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/active-email-domains.md) | ⭐ 17 | `communication` |
-| [Inactive Email Domains](communication/inactive-email-domains_af21184a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/inactive-email-domains.md) | ⭐ 17 | `communication` |
-| [01 执行摘要](communication/01_执行摘要_54d19d37/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/01_执行摘要.md) | ⭐ 17 | `communication` |
-| [02 引言](communication/02_引言_4e2bde58/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/02_引言.md) | ⭐ 17 | `communication` |
-| [Inactive Email Domains](communication/inactive-email-domains_1ff23e80/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/inactive-email-domains.md) | ⭐ 17 | `communication` |
-| [Nuxt Ui](communication/nuxt-ui_690139fd/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nuxt-ui.md) | ⭐ 17 | `communication` |
-| [Shadcn](communication/shadcn_97864de1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/shadcn.md) | ⭐ 17 | `communication` |
-| [Auth Success Alert Design](communication/auth-success-alert-design_13d6dbf0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/auth-success-alert-design.md) | ⭐ 17 | `communication` |
-| [Daily Margin Report Design](communication/daily-margin-report-design_3a808767/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/daily-margin-report-design.md) | ⭐ 17 | `communication` |
-| [Marketing Skills Guide](communication/marketing_skills_guide_827aa3ac/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/MARKETING_SKILLS_GUIDE.md) | ⭐ 17 | `communication` |
-| [03 Ai技术概述](communication/03_ai技术概述_ed4c5deb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/03_AI技术概述.md) | ⭐ 17 | `communication` |
-| [05 跨行业挑战与解决方案](communication/05_跨行业挑战与解决方案_28caf1c0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/05_跨行业挑战与解决方案.md) | ⭐ 17 | `communication` |
-| [07 对个人和社会的影响](communication/07_对个人和社会的影响_582256a5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/07_对个人和社会的影响.md) | ⭐ 17 | `communication` |
-| [001 Remove Other Email Category](communication/001-remove-other-email-category_aed1b930/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/issues/001-remove-other-email-category.md) | ⭐ 17 | `communication` |
-| [Cost Trend By User Type](communication/cost-trend-by-user-type_16d51905/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/cost-trend-by-user-type.md) | ⭐ 17 | `communication` |
+| [Today Errors 2026 01 23](communication/185-today_errors_2026-01-23_e0296039/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/TODAY_ERRORS_2026-01-23.md) | ⭐ 17 | `communication` |
+| [Ophel Engineering Patterns](communication/186-ophel-engineering-patterns_66e714ad/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/ophel-engineering-patterns.md) | ⭐ 17 | `communication` |
+| [Coding Style](communication/187-coding-style_cea2bd87/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/coding-style.md) | ⭐ 17 | `communication` |
+| [N8N Workflows](communication/188-n8n_workflows_3586bb3a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/vibe-marketing/N8N_WORKFLOWS.md) | ⭐ 17 | `communication` |
+| [Browser Automation](communication/189-browser-automation_db294780/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/browser-automation.md) | ⭐ 17 | `communication` |
+| [Data Analysis](communication/190-data-analysis_79a897fa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/data-analysis.md) | ⭐ 17 | `communication` |
+| [Firebase Mcp](communication/191-firebase-mcp_cabac65f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/firebase-mcp.md) | ⭐ 17 | `communication` |
+| [Sql Optimization](communication/192-sql-optimization_289b6b68/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/sql-optimization.md) | ⭐ 17 | `communication` |
+| [Active Email Domains](communication/193-active-email-domains_97b2c385/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/active-email-domains.md) | ⭐ 17 | `communication` |
+| [Inactive Email Domains](communication/194-inactive-email-domains_af21184a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/inactive-email-domains.md) | ⭐ 17 | `communication` |
+| [01 执行摘要](communication/195-01_执行摘要_54d19d37/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/01_执行摘要.md) | ⭐ 17 | `communication` |
+| [02 引言](communication/196-02_引言_4e2bde58/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/02_引言.md) | ⭐ 17 | `communication` |
+| [Inactive Email Domains](communication/194-inactive-email-domains_1ff23e80/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/inactive-email-domains.md) | ⭐ 17 | `communication` |
+| [Nuxt Ui](communication/197-nuxt-ui_690139fd/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nuxt-ui.md) | ⭐ 17 | `communication` |
+| [Shadcn](communication/198-shadcn_97864de1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/shadcn.md) | ⭐ 17 | `communication` |
+| [Auth Success Alert Design](communication/199-auth-success-alert-design_13d6dbf0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/auth-success-alert-design.md) | ⭐ 17 | `communication` |
+| [Daily Margin Report Design](communication/200-daily-margin-report-design_3a808767/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/daily-margin-report-design.md) | ⭐ 17 | `communication` |
 
-### Content Creation (456 skills)
+### Content Creation (448 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1957,27 +1948,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Url Context Validator](content-creation/842-url-context-validator_ef5fdd68/) | [Unknown](#) | N/A | `content creation` |
 | [Admin Configuration](content-creation/1023-admin_configuration_1bdef422/) | [Unknown](#) | N/A | `content creation` |
 | [Reference](content-creation/600-reference_fbf46c56/) | [Unknown](#) | N/A | `content creation` |
-| [Quick Reference](content-creation/quick_reference_e7cd49c2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/QUICK_REFERENCE.md) | ⭐ 17 | `content creation` |
-| [Git Workflow](content-creation/git-workflow_d459aa29/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/git-workflow.md) | ⭐ 17 | `content creation` |
-| [Vibe Marketing Guide](content-creation/vibe_marketing_guide_04d7a664/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/vibe-marketing/VIBE_MARKETING_GUIDE.md) | ⭐ 17 | `content creation` |
-| [Claude V4.1 20260123](content-creation/claude-v41-20260123_cea0cb4f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/archive/legacy-versions/CLAUDE-v4.1-20260123.md) | ⭐ 17 | `content creation` |
-| [02 Full Report](content-creation/02_full_report_f0e7b57e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/02_Full_Report.md) | ⭐ 17 | `content creation` |
-| [Html Tailwind](content-creation/html-tailwind_fc616dc8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/html-tailwind.md) | ⭐ 17 | `content creation` |
-| [Loading](content-creation/loading_c6d35caa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/loading.md) | ⭐ 17 | `content creation` |
-| [Products](content-creation/products_8eecd15b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/products.md) | ⭐ 17 | `content creation` |
-| [Ux Guideline](content-creation/ux-guideline_274ee365/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/ux-guideline.md) | ⭐ 17 | `content creation` |
-| [教育行业研究](content-creation/教育行业研究_26db2733/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/教育行业研究.md) | ⭐ 17 | `content creation` |
-| [Summary Of Findings](content-creation/summary_of_findings_652c1116/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/research_notes/summary_of_findings.md) | ⭐ 17 | `content creation` |
-| [Remotion Templates Library](content-creation/remotion_templates_library_84d183ea/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/REMOTION_TEMPLATES_LIBRARY.md) | ⭐ 17 | `content creation` |
-| [Design Master Persona](content-creation/design_master_persona_7a8b6483/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/design/DESIGN_MASTER_PERSONA.md) | ⭐ 17 | `content creation` |
-| [Remotion Auto Production](content-creation/remotion-auto-production_f556d243/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/remotion-auto-production.md) | ⭐ 17 | `content creation` |
-| [Architecture](content-creation/architecture_84810ed4/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/ARCHITECTURE.md) | ⭐ 17 | `content creation` |
-| [Readme Video Examples](content-creation/readme_video_examples_d18cca13/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/README_VIDEO_EXAMPLES.md) | ⭐ 17 | `content creation` |
-| [Validate Citations](content-creation/validate-citations_7638b023/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/commands/validate-citations.md) | ⭐ 17 | `content creation` |
-| [04 各行业应用分析 综合版](content-creation/04_各行业应用分析_综合版_30a2ce38/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/04_各行业应用分析_综合版.md) | ⭐ 17 | `content creation` |
-| [Color](content-creation/color_0fceddcc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/color.md) | ⭐ 17 | `content creation` |
+| [Quick Reference](content-creation/229-quick_reference_e7cd49c2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/QUICK_REFERENCE.md) | ⭐ 17 | `content creation` |
+| [Git Workflow](content-creation/230-git-workflow_d459aa29/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/git-workflow.md) | ⭐ 17 | `content creation` |
+| [Vibe Marketing Guide](content-creation/231-vibe_marketing_guide_04d7a664/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/vibe-marketing/VIBE_MARKETING_GUIDE.md) | ⭐ 17 | `content creation` |
+| [Claude V4.1 20260123](content-creation/232-claude-v41-20260123_cea0cb4f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/archive/legacy-versions/CLAUDE-v4.1-20260123.md) | ⭐ 17 | `content creation` |
+| [02 Full Report](content-creation/233-02_full_report_f0e7b57e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/02_Full_Report.md) | ⭐ 17 | `content creation` |
+| [Html Tailwind](content-creation/234-html-tailwind_fc616dc8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/html-tailwind.md) | ⭐ 17 | `content creation` |
+| [Loading](content-creation/235-loading_c6d35caa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/loading.md) | ⭐ 17 | `content creation` |
+| [Products](content-creation/236-products_8eecd15b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/products.md) | ⭐ 17 | `content creation` |
+| [Ux Guideline](content-creation/237-ux-guideline_274ee365/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/ux-guideline.md) | ⭐ 17 | `content creation` |
+| [教育行业研究](content-creation/238-教育行业研究_26db2733/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/教育行业研究.md) | ⭐ 17 | `content creation` |
+| [Summary Of Findings](content-creation/239-summary_of_findings_652c1116/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/research_notes/summary_of_findings.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (320 skills)
+### Daily Assistant (306 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2278,31 +2261,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Compatibility](daily-assistant/229-compatibility_7db1ae18/) | [Unknown](#) | N/A | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_56621d60/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-building/SKILL.md) | ⭐ 72 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_13b757c0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract-sync/SKILL.md) | ⭐ 72 | `daily assistant` |
-| [Readme.En](daily-assistant/readmeen_1ae7c523/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/README.en.md) | ⭐ 17 | `daily assistant` |
-| [Auto Execution](daily-assistant/auto-execution_bcc6520b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/auto-execution.md) | ⭐ 17 | `daily assistant` |
-| [Main Site Creator Analysis](daily-assistant/main-site-creator-analysis_89351d62/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/main-site-creator-analysis.md) | ⭐ 17 | `daily assistant` |
-| [Claude](daily-assistant/claude_c92d0748/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/CLAUDE.md) | ⭐ 17 | `daily assistant` |
-| [Deployment](daily-assistant/deployment_9d7cbdff/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/DEPLOYMENT.md) | ⭐ 17 | `daily assistant` |
-| [Bot Revenue Attribution Analysis](daily-assistant/bot-revenue-attribution-analysis_0fc6dd23/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/bot-revenue-attribution-analysis.md) | ⭐ 17 | `daily assistant` |
-| [System Prompt Flash](daily-assistant/system_prompt_flash_631638b5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash.md) | ⭐ 17 | `daily assistant` |
-| [System Prompt Flash Anthropic](daily-assistant/system_prompt_flash_anthropic_d1ecd038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash_anthropic.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_98415286/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Token Efficiency Analysis](daily-assistant/token-efficiency-analysis_7f143922/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/analysis/token-efficiency-analysis.md) | ⭐ 17 | `daily assistant` |
-| [Hooks](daily-assistant/hooks_d5203186/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/hooks.md) | ⭐ 17 | `daily assistant` |
-| [Workflow](daily-assistant/workflow_c5eb1f2c/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/examples/nodejs-api/workflow.md) | ⭐ 17 | `daily assistant` |
-| [Work Mode](daily-assistant/work-mode_f7bd6f7a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/core/work-mode.md) | ⭐ 17 | `daily assistant` |
-| [Gradient Glass](daily-assistant/gradient-glass_fc90216d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/styles/gradient-glass.md) | ⭐ 17 | `daily assistant` |
-| [Vector Illustration](daily-assistant/vector-illustration_d5d88ce3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/styles/vector-illustration.md) | ⭐ 17 | `daily assistant` |
-| [Bot Margin Analysis](daily-assistant/bot-margin-analysis_f8580dc0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/bot-margin-analysis.md) | ⭐ 17 | `daily assistant` |
-| [Bot Revenue Cost Trend](daily-assistant/bot-revenue-cost-trend_291fe949/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/bot-revenue-cost-trend.md) | ⭐ 17 | `daily assistant` |
-| [Gross Margin Analysis](daily-assistant/gross-margin-analysis_c7af55c4/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/gross-margin-analysis.md) | ⭐ 17 | `daily assistant` |
-| [Revenue Subscription Analysis](daily-assistant/revenue-subscription-analysis_aeeaae7a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/skills/revenue-subscription-analysis.md) | ⭐ 17 | `daily assistant` |
-| [Mcphub Template Implementation](daily-assistant/mcphub-template-implementation_c6e5d5c7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/MCPhub-Template-Implementation.md) | ⭐ 17 | `daily assistant` |
-| [System Prompt Browser Use](daily-assistant/system_prompt_browser_use_de78833b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_browser_use.md) | ⭐ 17 | `daily assistant` |
-| [System Prompt Browser Use Flash](daily-assistant/system_prompt_browser_use_flash_37bfe8de/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_browser_use_flash.md) | ⭐ 17 | `daily assistant` |
-| [System Prompt Browser Use No Thinking](daily-assistant/system_prompt_browser_use_no_thinking_325ad17a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_browser_use_no_thinking.md) | ⭐ 17 | `daily assistant` |
+| [Readme.En](daily-assistant/187-readmeen_1ae7c523/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/README.en.md) | ⭐ 17 | `daily assistant` |
+| [Auto Execution](daily-assistant/188-auto-execution_bcc6520b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/auto-execution.md) | ⭐ 17 | `daily assistant` |
+| [Main Site Creator Analysis](daily-assistant/189-main-site-creator-analysis_89351d62/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/main-site-creator-analysis.md) | ⭐ 17 | `daily assistant` |
+| [Claude](daily-assistant/037-claude_c92d0748/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/CLAUDE.md) | ⭐ 17 | `daily assistant` |
+| [Deployment](daily-assistant/190-deployment_9d7cbdff/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/DEPLOYMENT.md) | ⭐ 17 | `daily assistant` |
+| [Bot Revenue Attribution Analysis](daily-assistant/191-bot-revenue-attribution-analysis_0fc6dd23/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/bot-revenue-attribution-analysis.md) | ⭐ 17 | `daily assistant` |
+| [System Prompt Flash](daily-assistant/192-system_prompt_flash_631638b5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash.md) | ⭐ 17 | `daily assistant` |
+| [System Prompt Flash Anthropic](daily-assistant/193-system_prompt_flash_anthropic_d1ecd038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash_anthropic.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_98415286/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/SKILL.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (786 skills)
+### Data Analysis (783 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3061,39 +3030,36 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Plannotator](data-analysis/656-plannotator_931bcc12/) | [Unknown](#) | N/A | `data analysis` |
 | [Best Practices](data-analysis/282-best-practices_ab33237f/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/reference/best-practices.md) | ⭐ 173 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_aab3548f/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client/SKILL.md) | ⭐ 72 | `data analysis` |
-| [Today Summary 2026 01 23](data-analysis/today_summary_2026-01-23_dc54ac8f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/analysis/TODAY_SUMMARY_2026-01-23.md) | ⭐ 17 | `data analysis` |
-| [Ppt Workflow](data-analysis/ppt_workflow_4694b151/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/PPT_WORKFLOW.md) | ⭐ 17 | `data analysis` |
-| [Session Insights](data-analysis/session_insights_c866b8f1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/SESSION_INSIGHTS.md) | ⭐ 17 | `data analysis` |
-| [Api Integration](data-analysis/api-integration_dcbfaca0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/api-integration.md) | ⭐ 17 | `data analysis` |
-| [Claude2](data-analysis/claude2_86f1fe3e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/Claude2.md) | ⭐ 17 | `data analysis` |
-| [Project Understanding](data-analysis/project_understanding_fcd10844/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/PROJECT_UNDERSTANDING.md) | ⭐ 17 | `data analysis` |
-| [Claude](data-analysis/claude_e8f64367/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/CLAUDE.md) | ⭐ 17 | `data analysis` |
-| [Claude](data-analysis/claude_fb945755/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/CLAUDE.md) | ⭐ 17 | `data analysis` |
-| [Apple Payment Analysis](data-analysis/apple-payment-analysis_bdcfdd68/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/apple-payment-analysis.md) | ⭐ 17 | `data analysis` |
-| [Bot Margin Analysis](data-analysis/bot-margin-analysis_ce61c4fa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/bot-margin-analysis.md) | ⭐ 17 | `data analysis` |
-| [Cost Trend Chart](data-analysis/cost-trend-chart_2db9b014/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/cost-trend-chart.md) | ⭐ 17 | `data analysis` |
-| [Main Site Energy Analysis](data-analysis/main-site-energy-analysis_51d49791/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/main-site-energy-analysis.md) | ⭐ 17 | `data analysis` |
-| [Revenue Bot Subscription Analysis](data-analysis/revenue-bot-subscription-analysis_eca8038f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/revenue-bot-subscription-analysis.md) | ⭐ 17 | `data analysis` |
-| [Total Cost Breakdown](data-analysis/total-cost-breakdown_a428243a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/total-cost-breakdown.md) | ⭐ 17 | `data analysis` |
-| [How To Guides](data-analysis/how_to_guides_6f4e90e9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/HOW_TO_GUIDES.md) | ⭐ 17 | `data analysis` |
-| [System Prompt](data-analysis/system_prompt_b7f67ff8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/code_use/system_prompt.md) | ⭐ 17 | `data analysis` |
-| [Ui Ux Pro Max](data-analysis/ui-ux-pro-max_7837cbb7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.agent/workflows/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
-| [Ui Ux Pro Max](data-analysis/ui-ux-pro-max_01f5f25d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.codebuddy/commands/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
-| [Ui Ux Pro Max](data-analysis/ui-ux-pro-max_e39ca435/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.cursor/commands/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
-| [Ui Ux Pro Max.Prompt](data-analysis/ui-ux-pro-maxprompt_50706322/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.github/prompts/ui-ux-pro-max.prompt.md) | ⭐ 17 | `data analysis` |
-| [Charts](data-analysis/charts_6c22c5ce/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/charts.md) | ⭐ 17 | `data analysis` |
-| [Prompts](data-analysis/prompts_2f272735/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/prompts.md) | ⭐ 17 | `data analysis` |
-| [Ui Ux Pro Max](data-analysis/ui-ux-pro-max_7fdfd4e7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
-| [Ui Ux Pro Max](data-analysis/ui-ux-pro-max_04f0a6ba/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.roo/commands/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_9599b36e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.codex/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_c74dab30/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.continue/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_0bb564d8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.opencode/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_cb9dbbe5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/cli/assets/.claude/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Knowledge Map](data-analysis/knowledge_map_cbb705cf/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/KNOWLEDGE_MAP.md) | ⭐ 17 | `data analysis` |
-| [Bot Revenue Cost Trend](data-analysis/bot-revenue-cost-trend_5b9fe414/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/bot-revenue-cost-trend.md) | ⭐ 17 | `data analysis` |
-| [数据可视化建议](data-analysis/数据可视化建议_ac37f39a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/数据可视化建议.md) | ⭐ 17 | `data analysis` |
+| [Today Summary 2026 01 23](data-analysis/349-today_summary_2026-01-23_dc54ac8f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/analysis/TODAY_SUMMARY_2026-01-23.md) | ⭐ 17 | `data analysis` |
+| [Ppt Workflow](data-analysis/350-ppt_workflow_4694b151/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/PPT_WORKFLOW.md) | ⭐ 17 | `data analysis` |
+| [Session Insights](data-analysis/351-session_insights_c866b8f1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/SESSION_INSIGHTS.md) | ⭐ 17 | `data analysis` |
+| [Api Integration](data-analysis/352-api-integration_dcbfaca0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/api-integration.md) | ⭐ 17 | `data analysis` |
+| [Claude2](data-analysis/353-claude2_86f1fe3e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/Claude2.md) | ⭐ 17 | `data analysis` |
+| [Project Understanding](data-analysis/354-project_understanding_fcd10844/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/PROJECT_UNDERSTANDING.md) | ⭐ 17 | `data analysis` |
+| [Claude](data-analysis/036-claude_e8f64367/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Claude](data-analysis/036-claude_fb945755/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Apple Payment Analysis](data-analysis/355-apple-payment-analysis_bdcfdd68/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/apple-payment-analysis.md) | ⭐ 17 | `data analysis` |
+| [Bot Margin Analysis](data-analysis/356-bot-margin-analysis_ce61c4fa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/bot-margin-analysis.md) | ⭐ 17 | `data analysis` |
+| [Cost Trend Chart](data-analysis/357-cost-trend-chart_2db9b014/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/cost-trend-chart.md) | ⭐ 17 | `data analysis` |
+| [Main Site Energy Analysis](data-analysis/358-main-site-energy-analysis_51d49791/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/main-site-energy-analysis.md) | ⭐ 17 | `data analysis` |
+| [Revenue Bot Subscription Analysis](data-analysis/359-revenue-bot-subscription-analysis_eca8038f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/revenue-bot-subscription-analysis.md) | ⭐ 17 | `data analysis` |
+| [Total Cost Breakdown](data-analysis/360-total-cost-breakdown_a428243a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/total-cost-breakdown.md) | ⭐ 17 | `data analysis` |
+| [How To Guides](data-analysis/361-how_to_guides_6f4e90e9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/HOW_TO_GUIDES.md) | ⭐ 17 | `data analysis` |
+| [System Prompt](data-analysis/362-system_prompt_b7f67ff8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/code_use/system_prompt.md) | ⭐ 17 | `data analysis` |
+| [Ui Ux Pro Max](data-analysis/363-ui-ux-pro-max_7837cbb7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.agent/workflows/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
+| [Ui Ux Pro Max](data-analysis/363-ui-ux-pro-max_01f5f25d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.codebuddy/commands/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
+| [Ui Ux Pro Max](data-analysis/363-ui-ux-pro-max_e39ca435/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.cursor/commands/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
+| [Ui Ux Pro Max.Prompt](data-analysis/364-ui-ux-pro-maxprompt_50706322/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.github/prompts/ui-ux-pro-max.prompt.md) | ⭐ 17 | `data analysis` |
+| [Charts](data-analysis/034-charts_6c22c5ce/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/charts.md) | ⭐ 17 | `data analysis` |
+| [Prompts](data-analysis/250-prompts_2f272735/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/prompts.md) | ⭐ 17 | `data analysis` |
+| [Ui Ux Pro Max](data-analysis/363-ui-ux-pro-max_7fdfd4e7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
+| [Ui Ux Pro Max](data-analysis/363-ui-ux-pro-max_04f0a6ba/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.roo/commands/ui-ux-pro-max.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9599b36e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.codex/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c74dab30/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.continue/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0bb564d8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.opencode/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cb9dbbe5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/cli/assets/.claude/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 
-### Development (4015 skills)
+### Development (4001 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7052,68 +7018,54 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_85575638/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design/SKILL.md) | ⭐ 72 | `Users` |
 | [Skill](development/1178-name-skill_155d87f0/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-designer-skill/SKILL.md) | ⭐ 72 | `Products` |
 | [Hn Launch](development/1994-hn_launch_479e63c2/) | [crafter-station/skills](https://raw.githubusercontent.com/crafter-station/skills/main/HN_LAUNCH.md) | ⭐ 32 | `development` |
-| [Claude](development/claude_f09bb207/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CLAUDE.md) | ⭐ 17 | `development` |
-| [Claude V4.2 Backup](development/claude_v42_backup_5872610b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CLAUDE_v4.2_backup.md) | ⭐ 17 | `development` |
-| [Context Manager](development/context_manager_5ee82129/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CONTEXT_MANAGER.md) | ⭐ 17 | `development` |
-| [Final Summary](development/final_summary_3620dea8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/FINAL_SUMMARY.md) | ⭐ 17 | `development` |
-| [Restructure Complete](development/restructure_complete_704b9bcc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/RESTRUCTURE_COMPLETE.md) | ⭐ 17 | `development` |
-| [Hooks](development/hooks_c0aec91c/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/automation/hooks.md) | ⭐ 17 | `development` |
-| [Processing Skill](development/processing_skill_d5fa69b6/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/PROCESSING_SKILL.md) | ⭐ 17 | `development` |
-| [Mcp Servers](development/mcp-servers_c9f7501f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/mcp-servers.md) | ⭐ 17 | `development` |
-| [Skills Guide](development/skills-guide_c03256d0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/skills-guide.md) | ⭐ 17 | `development` |
-| [Web Design Guidelines](development/web-design-guidelines_cee7d202/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/web-design-guidelines.md) | ⭐ 17 | `development` |
-| [Decision Tree](development/decision_tree_22f92b2e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/DECISION_TREE.md) | ⭐ 17 | `development` |
-| [Quick Start](development/quick_start_8aceb539/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/QUICK_START.md) | ⭐ 17 | `development` |
-| [Delegation Format](development/delegation-format_1f22eeb7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/delegator/delegation-format.md) | ⭐ 17 | `development` |
-| [Top 5 Errors](development/top-5-errors_73bd2124/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/top-5-errors.md) | ⭐ 17 | `development` |
-| [Commands Cheatsheet](development/commands-cheatsheet_77474d7c/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/commands-cheatsheet.md) | ⭐ 17 | `development` |
-| [Agents](development/agents_46a1f64b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/agents.md) | ⭐ 17 | `development` |
-| [Patterns](development/patterns_59db6b86/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/patterns.md) | ⭐ 17 | `development` |
-| [Performance](development/performance_adb3d432/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/performance.md) | ⭐ 17 | `development` |
-| [Full Stack Dev](development/full-stack-dev_0fee2159/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/full-stack-dev.md) | ⭐ 17 | `development` |
-| [Data Analysis](development/data-analysis_3128b307/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/data-analysis.md) | ⭐ 17 | `development` |
-| [Error Handling](development/error-handling_91c157e7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/error-handling.md) | ⭐ 17 | `development` |
-| [Timeout Polling](development/timeout-polling_63a998c2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/timeout-polling.md) | ⭐ 17 | `development` |
-| [Quickstart](development/quickstart_6b834176/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/QUICKSTART.md) | ⭐ 17 | `development` |
-| [Skill](development/skill-skill_7eed9955/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/SKILL.md) | ⭐ 17 | `development` |
-| [Bulletproof Quickstart](development/bulletproof_quickstart_4b63ab01/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/BULLETPROOF_QUICKSTART.md) | ⭐ 17 | `development` |
-| [Claude](development/claude_87112feb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/CLAUDE.md) | ⭐ 17 | `development` |
-| [Agents](development/agents_a4792d29/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/AGENTS.md) | ⭐ 17 | `development` |
-| [Skill Header](development/skill_header_10fbf3b2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/scripts/skill_header.md) | ⭐ 17 | `development` |
-| [Bot Id Fix](development/bot_id_fix_3907817a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/BOT_ID_FIX.md) | ⭐ 17 | `development` |
-| [Pattern Detection](development/pattern_detection_107a2549/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/PATTERN_DETECTION.md) | ⭐ 17 | `development` |
-| [A 术语表](development/a_术语表_5421c684/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/A_术语表.md) | ⭐ 17 | `development` |
-| [Architecture Design](development/architecture_design_321a5993/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/ARCHITECTURE_DESIGN.md) | ⭐ 17 | `development` |
-| [Decision Tree](development/decision_tree_c2d51d53/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/DECISION_TREE.md) | ⭐ 17 | `development` |
-| [Gcp Deployment Guide](development/gcp-deployment-guide_daf4048b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/GCP-DEPLOYMENT-GUIDE.md) | ⭐ 17 | `development` |
-| [Quick Start](development/quick_start_18e617bc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/QUICK_START.md) | ⭐ 17 | `development` |
-| [Nuxtjs](development/nuxtjs_466c7245/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nuxtjs.md) | ⭐ 17 | `development` |
-| [React Native](development/react-native_96426323/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/react-native.md) | ⭐ 17 | `development` |
-| [React](development/react_da3975ca/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/react.md) | ⭐ 17 | `development` |
-| [Svelte](development/svelte_e73636c5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/svelte.md) | ⭐ 17 | `development` |
-| [Swiftui](development/swiftui_53bf0f9b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/swiftui.md) | ⭐ 17 | `development` |
-| [Vue](development/vue_7e147bef/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/vue.md) | ⭐ 17 | `development` |
-| [Context Engineering Plan](development/context_engineering_plan_00e36869/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CONTEXT_ENGINEERING_PLAN.md) | ⭐ 17 | `development` |
-| [Testing And Monitoring](development/testing_and_monitoring_ed1392b4/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/TESTING_AND_MONITORING.md) | ⭐ 17 | `development` |
-| [Update Log](development/update_log_2f7fdda3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/UPDATE_LOG.md) | ⭐ 17 | `development` |
-| [Agents Delegation](development/agents-delegation_50ecde59/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/agents-delegation.md) | ⭐ 17 | `development` |
-| [Plugins Auto](development/plugins-auto_3da04ae1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/plugins-auto.md) | ⭐ 17 | `development` |
-| [Model Selection](development/model-selection_6eb0f7f4/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/delegator/model-selection.md) | ⭐ 17 | `development` |
-| [Orchestration](development/orchestration_f83bb7a2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/delegator/orchestration.md) | ⭐ 17 | `development` |
-| [Triggers](development/triggers_69000b30/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/delegator/triggers.md) | ⭐ 17 | `development` |
-| [Error Patterns Index](development/error-patterns-index_12e460ad/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/error-patterns-index.md) | ⭐ 17 | `development` |
-| [Ai Workflow Insights](development/ai_workflow_insights_699be046/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/AI_WORKFLOW_INSIGHTS.md) | ⭐ 17 | `development` |
-| [Claude Skills Resources](development/claude_skills_resources_29868032/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/CLAUDE_SKILLS_RESOURCES.md) | ⭐ 17 | `development` |
-| [Optimization Queue](development/optimization_queue_00aa5376/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/OPTIMIZATION_QUEUE.md) | ⭐ 17 | `development` |
-| [Cross Platform Best Practices](development/cross-platform-best-practices_77f366e3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/learning/cross-platform-best-practices.md) | ⭐ 17 | `development` |
-| [Project Errors](development/project-errors_97aa2cc3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/examples/nodejs-api/project-errors.md) | ⭐ 17 | `development` |
-| [Antigravity Workflow](development/antigravity_workflow_8ed1ea03/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/ANTIGRAVITY_WORKFLOW.md) | ⭐ 17 | `development` |
-| [Api Management](development/api_management_8216703a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/API_MANAGEMENT.md) | ⭐ 17 | `development` |
-| [Setup Complete](development/setup_complete_72a86b3a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/SETUP_COMPLETE.md) | ⭐ 17 | `development` |
-| [002 Notebook Extraction Spec](development/002-notebook-extraction-spec_361981ab/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/issues/002-notebook-extraction-spec.md) | ⭐ 17 | `development` |
-| [Examples](development/examples_4937d400/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/synthesizer/examples.md) | ⭐ 17 | `development` |
+| [Claude](development/140-claude_f09bb207/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CLAUDE.md) | ⭐ 17 | `development` |
+| [Claude V4.2 Backup](development/1999-claude_v42_backup_5872610b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CLAUDE_v4.2_backup.md) | ⭐ 17 | `development` |
+| [Context Manager](development/2000-context_manager_5ee82129/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/CONTEXT_MANAGER.md) | ⭐ 17 | `development` |
+| [Final Summary](development/2001-final_summary_3620dea8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/FINAL_SUMMARY.md) | ⭐ 17 | `development` |
+| [Restructure Complete](development/2002-restructure_complete_704b9bcc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/RESTRUCTURE_COMPLETE.md) | ⭐ 17 | `development` |
+| [Hooks](development/1356-hooks_c0aec91c/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/automation/hooks.md) | ⭐ 17 | `development` |
+| [Processing Skill](development/2003-processing_skill_d5fa69b6/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/PROCESSING_SKILL.md) | ⭐ 17 | `development` |
+| [Mcp Servers](development/2004-mcp-servers_c9f7501f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/mcp-servers.md) | ⭐ 17 | `development` |
+| [Skills Guide](development/2005-skills-guide_c03256d0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/skills-guide.md) | ⭐ 17 | `development` |
+| [Web Design Guidelines](development/2006-web-design-guidelines_cee7d202/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/capabilities/web-design-guidelines.md) | ⭐ 17 | `development` |
+| [Decision Tree](development/2007-decision_tree_22f92b2e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/DECISION_TREE.md) | ⭐ 17 | `development` |
+| [Quick Start](development/758-quick_start_8aceb539/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/QUICK_START.md) | ⭐ 17 | `development` |
+| [Delegation Format](development/2008-delegation-format_1f22eeb7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/delegator/delegation-format.md) | ⭐ 17 | `development` |
+| [Top 5 Errors](development/2009-top-5-errors_73bd2124/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/top-5-errors.md) | ⭐ 17 | `development` |
+| [Commands Cheatsheet](development/2010-commands-cheatsheet_77474d7c/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/commands-cheatsheet.md) | ⭐ 17 | `development` |
+| [Agents](development/028-agents_46a1f64b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/agents.md) | ⭐ 17 | `development` |
+| [Patterns](development/672-patterns_59db6b86/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/patterns.md) | ⭐ 17 | `development` |
+| [Performance](development/682-performance_adb3d432/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/performance.md) | ⭐ 17 | `development` |
+| [Full Stack Dev](development/2011-full-stack-dev_0fee2159/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/full-stack-dev.md) | ⭐ 17 | `development` |
+| [Data Analysis](development/2012-data-analysis_3128b307/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/data-analysis.md) | ⭐ 17 | `development` |
+| [Error Handling](development/342-error-handling_91c157e7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/error-handling.md) | ⭐ 17 | `development` |
+| [Timeout Polling](development/2013-timeout-polling_63a998c2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/system-errors/timeout-polling.md) | ⭐ 17 | `development` |
+| [Quickstart](development/760-quickstart_6b834176/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/QUICKSTART.md) | ⭐ 17 | `development` |
+| [Skill](development/2014-skill-skill_7eed9955/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/SKILL.md) | ⭐ 17 | `development` |
+| [Bulletproof Quickstart](development/2015-bulletproof_quickstart_4b63ab01/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/BULLETPROOF_QUICKSTART.md) | ⭐ 17 | `development` |
+| [Claude](development/140-claude_87112feb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/CLAUDE.md) | ⭐ 17 | `development` |
+| [Agents](development/028-agents_a4792d29/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/AGENTS.md) | ⭐ 17 | `development` |
+| [Skill Header](development/988-skill_header_10fbf3b2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/scripts/skill_header.md) | ⭐ 17 | `development` |
+| [Bot Id Fix](development/2016-bot_id_fix_3907817a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/BOT_ID_FIX.md) | ⭐ 17 | `development` |
+| [Pattern Detection](development/671-pattern_detection_107a2549/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/PATTERN_DETECTION.md) | ⭐ 17 | `development` |
+| [A 术语表](development/2017-a_术语表_5421c684/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/A_术语表.md) | ⭐ 17 | `development` |
+| [Architecture Design](development/2018-architecture_design_321a5993/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/ARCHITECTURE_DESIGN.md) | ⭐ 17 | `development` |
+| [Decision Tree](development/2007-decision_tree_c2d51d53/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/DECISION_TREE.md) | ⭐ 17 | `development` |
+| [Gcp Deployment Guide](development/2019-gcp-deployment-guide_daf4048b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/GCP-DEPLOYMENT-GUIDE.md) | ⭐ 17 | `development` |
+| [Quick Start](development/758-quick_start_18e617bc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/QUICK_START.md) | ⭐ 17 | `development` |
+| [Nuxtjs](development/2020-nuxtjs_466c7245/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nuxtjs.md) | ⭐ 17 | `development` |
+| [React Native](development/2021-react-native_96426323/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/react-native.md) | ⭐ 17 | `development` |
+| [React](development/2022-react_da3975ca/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/react.md) | ⭐ 17 | `development` |
+| [Svelte](development/2023-svelte_e73636c5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/svelte.md) | ⭐ 17 | `development` |
+| [Swiftui](development/1925-swiftui_53bf0f9b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/swiftui.md) | ⭐ 17 | `development` |
+| [Vue](development/2024-vue_7e147bef/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/vue.md) | ⭐ 17 | `development` |
+| [Catalog](development/catalog_83f5b36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.2k | `development` |
+| [Skill](development/name-skill_d20b793c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/oss-hunter/SKILL.md) | 🔥 7.2k | `development` |
+| [Skill](development/name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
+| [Skill](development/name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
+| [Tools Comparison](development/tools-comparison_fbec41c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/references/tools-comparison.md) | 🔥 7.2k | `development` |
 
-### Development/Devops (22 skills)
+### Development/Devops (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7129,31 +7081,25 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_efb53f49/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_69a7b730/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
 | [Admin Ui Sso](development/devops/031-admin_ui_sso_f706b0e4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.2k | `development` |
-| [Implementation Summary](development/devops/implementation_summary_100c07a9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/IMPLEMENTATION_SUMMARY.md) | ⭐ 17 | `development` |
-| [Optimization Plan](development/devops/optimization_plan_843067db/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/OPTIMIZATION_PLAN.md) | ⭐ 17 | `development` |
-| [Restructure Plan](development/devops/restructure_plan_cf21278e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/RESTRUCTURE_PLAN.md) | ⭐ 17 | `development` |
-| [Tools Index](development/devops/tools-index_b0f4ff03/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/tools-index.md) | ⭐ 17 | `development` |
-| [Capability Matrix](development/devops/capability-matrix_c27bfb39/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/capability-matrix.md) | ⭐ 17 | `development` |
-| [Faq](development/devops/faq_f75ae099/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/faq.md) | ⭐ 17 | `development` |
-| [Implementation Summary](development/devops/implementation_summary_d60b558b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/IMPLEMENTATION_SUMMARY.md) | ⭐ 17 | `development` |
-| [Nextjs](development/devops/nextjs_9dcb370b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nextjs.md) | ⭐ 17 | `development` |
-| [Debugging Ops](development/devops/debugging-ops_79e1922e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/workflows/debugging-ops.md) | ⭐ 17 | `development` |
-| [Examples](development/devops/examples_4f7a5807/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/examples.md) | ⭐ 17 | `development` |
+| [Implementation Summary](development/devops/183-implementation_summary_100c07a9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/IMPLEMENTATION_SUMMARY.md) | ⭐ 17 | `development` |
+| [Optimization Plan](development/devops/184-optimization_plan_843067db/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/OPTIMIZATION_PLAN.md) | ⭐ 17 | `development` |
+| [Restructure Plan](development/devops/185-restructure_plan_cf21278e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/RESTRUCTURE_PLAN.md) | ⭐ 17 | `development` |
+| [Tools Index](development/devops/186-tools-index_b0f4ff03/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/tools-index.md) | ⭐ 17 | `development` |
+| [Capability Matrix](development/devops/187-capability-matrix_c27bfb39/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/capability-matrix.md) | ⭐ 17 | `development` |
+| [Faq](development/devops/167-faq_f75ae099/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/faq.md) | ⭐ 17 | `development` |
+| [Implementation Summary](development/devops/183-implementation_summary_d60b558b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/team-update/IMPLEMENTATION_SUMMARY.md) | ⭐ 17 | `development` |
+| [Nextjs](development/devops/188-nextjs_9dcb370b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/nextjs.md) | ⭐ 17 | `development` |
 
-### Development/Testing (8 skills)
+### Development/Testing (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Migration Guide](development/testing/migration_guide_0c27fc15/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/MIGRATION_GUIDE.md) | ⭐ 17 | `development` |
-| [Best Practices](development/testing/best_practices_8307d63b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/BEST_PRACTICES.md) | ⭐ 17 | `development` |
-| [Claude](development/testing/claude_8d6a8590/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLAUDE.md) | ⭐ 17 | `development` |
-| [Flutter](development/testing/flutter_b779f9f8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/flutter.md) | ⭐ 17 | `development` |
-| [Testing](development/testing/testing_57165420/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/testing.md) | ⭐ 17 | `development` |
-| [Blocking Rules](development/testing/blocking-rules_0a985b54/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/rules/core/blocking-rules.md) | ⭐ 17 | `development` |
-| [Env Setup](development/testing/env_setup_f688763d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/ENV_SETUP.md) | ⭐ 17 | `development` |
-| [Template](development/testing/template_e61381a6/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/validation/audit/template.md) | ⭐ 17 | `development` |
+| [Migration Guide](development/testing/039-migration_guide_0c27fc15/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/MIGRATION_GUIDE.md) | ⭐ 17 | `development` |
+| [Best Practices](development/testing/040-best_practices_8307d63b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/references/BEST_PRACTICES.md) | ⭐ 17 | `development` |
+| [Claude](development/testing/041-claude_8d6a8590/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLAUDE.md) | ⭐ 17 | `development` |
+| [Flutter](development/testing/042-flutter_b779f9f8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/flutter.md) | ⭐ 17 | `development` |
 
-### Development/Tools (42 skills)
+### Development/Tools (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7190,17 +7136,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_238cbefe/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-expert/SKILL.md) | ⭐ 72 | `api-design` `rest` `graphql` |
 | [Skill](development/tools/002-name-skill_2a400b62/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-design-patterns/SKILL.md) | ⭐ 72 | `development` |
 | [Skill](development/tools/002-name-skill_962ed1e0/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 59 | `development` |
-| [Analysis Report](development/tools/analysis_report_b0e3d5fa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/ANALYSIS_REPORT.md) | ⭐ 17 | `development` |
-| [Task Router](development/tools/task-router_2f2898d1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/task-router.md) | ⭐ 17 | `development` |
-| [Claude Plugin Manager](development/tools/claude-plugin-manager_3419abbb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/claude-plugin-manager.md) | ⭐ 17 | `development` |
-| [Troubleshooting](development/tools/troubleshooting_f3910689/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/TROUBLESHOOTING.md) | ⭐ 17 | `development` |
-| [Skills](development/tools/claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
-| [Faq And Examples](development/tools/faq_and_examples_b4b20399/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/FAQ_AND_EXAMPLES.md) | ⭐ 17 | `development` |
-| [Subagent Architecture](development/tools/subagent_architecture_f9e44fcf/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/agents/SUBAGENT_ARCHITECTURE.md) | ⭐ 17 | `development` |
-| [Reactbits](development/tools/reactbits_73968834/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/agents/reactbits.md) | ⭐ 17 | `development` |
-| [Base44 Prompt Mcphub](development/tools/base44_prompt_mcphub_839ed2a3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/base44_prompt_mcphub.md) | ⭐ 17 | `development` |
+| [Analysis Report](development/tools/202-analysis_report_b0e3d5fa/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/ANALYSIS_REPORT.md) | ⭐ 17 | `development` |
+| [Task Router](development/tools/203-task-router_2f2898d1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/task-router.md) | ⭐ 17 | `development` |
+| [Claude Plugin Manager](development/tools/204-claude-plugin-manager_3419abbb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/errors/project-errors/claude-plugin-manager.md) | ⭐ 17 | `development` |
+| [Troubleshooting](development/tools/205-troubleshooting_f3910689/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/TROUBLESHOOTING.md) | ⭐ 17 | `development` |
+| [Skills](development/tools/206-claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
+| [Maintenance](development/tools/maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
 
-### Investment (50 skills)
+### Investment (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7247,15 +7190,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Synthesizing](investment/017-integrate_24cc2bf4/) | [Unknown](#) | N/A | `investment` |
 | [Skill](investment/003-name-skill_f049b077/) | [Unknown](#) | N/A | `investment` |
 | [Skill](investment/014-agentkit_e1178a49/) | [Unknown](#) | N/A | `investment` |
-| [10 参考文献](investment/10_参考文献_127253e0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/10_参考文献.md) | ⭐ 17 | `investment` |
-| [Styles](investment/styles_203e296d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/styles.md) | ⭐ 17 | `investment` |
-| [交通物流行业研究](investment/交通物流行业研究_2c4e4bb9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/交通物流行业研究.md) | ⭐ 17 | `investment` |
-| [医疗健康行业研究](investment/医疗健康行业研究_7c38064e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/医疗健康行业研究.md) | ⭐ 17 | `investment` |
-| [制造业研究](investment/制造业研究_db53d2bc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/制造业研究.md) | ⭐ 17 | `investment` |
-| [经济效益和Roi研究](investment/经济效益和roi研究_e22f3a20/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/经济效益和ROI研究.md) | ⭐ 17 | `investment` |
-| [零售电商行业研究](investment/零售电商行业研究_43be557e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/零售电商行业研究.md) | ⭐ 17 | `investment` |
+| [10 参考文献](investment/027-10_参考文献_127253e0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/10_参考文献.md) | ⭐ 17 | `investment` |
+| [Styles](investment/028-styles_203e296d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/styles.md) | ⭐ 17 | `investment` |
+| [交通物流行业研究](investment/029-交通物流行业研究_2c4e4bb9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/交通物流行业研究.md) | ⭐ 17 | `investment` |
+| [医疗健康行业研究](investment/030-医疗健康行业研究_7c38064e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/医疗健康行业研究.md) | ⭐ 17 | `investment` |
 
-### Other (49 skills)
+### Other (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7302,14 +7242,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](other/019-make_9c891de8/) | [Unknown](#) | N/A | `other` |
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
-| [Capability Suggestion](other/capability-suggestion_1a0cecc0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/.github/ISSUE_TEMPLATE/capability-suggestion.md) | ⭐ 17 | `other` |
-| [Error Case](other/error-case_649f3ece/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/.github/ISSUE_TEMPLATE/error-case.md) | ⭐ 17 | `other` |
-| [Transition Template](other/transition_template_d97ec495/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/NanoBanana-PPT-Skills/prompts/transition_template.md) | ⭐ 17 | `other` |
-| [00 封面与目录](other/00_封面与目录_61b7d583/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/00_封面与目录.md) | ⭐ 17 | `other` |
-| [08 未来趋势与展望](other/08_未来趋势与展望_c62aa370/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/08_未来趋势与展望.md) | ⭐ 17 | `other` |
-| [Claude](other/claude_61ac2f9a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/CLAUDE.md) | ⭐ 17 | `other` |
 
-### Productivity (224 skills)
+### Productivity (223 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7533,12 +7467,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/077-ai-doc-system-auditor_4a5edfcf/) | [Unknown](#) | N/A | `productivity` |
 | [Index](productivity/097-index_69f5e45f/) | [Unknown](#) | N/A | `performance` `architecture` |
 | [Skill](productivity/077-agent-react-specialist_df3c8fcb/) | [Unknown](#) | N/A | `productivity` |
-| [Ui Design Styles Reference](productivity/ui_design_styles_reference_9d3ad259/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/design/UI_DESIGN_STYLES_REFERENCE.md) | ⭐ 17 | `productivity` |
-| [Instructions](productivity/instructions_5936da44/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/instructions.md) | ⭐ 17 | `productivity` |
-| [其他行业研究](productivity/其他行业研究_ba1e5db2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/其他行业研究.md) | ⭐ 17 | `productivity` |
-| [Refine Question](productivity/refine-question_c2c8411e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/commands/refine-question.md) | ⭐ 17 | `productivity` |
+| [Ui Design Styles Reference](productivity/141-ui_design_styles_reference_9d3ad259/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/design/UI_DESIGN_STYLES_REFERENCE.md) | ⭐ 17 | `productivity` |
+| [Instructions](productivity/142-instructions_5936da44/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/instructions.md) | ⭐ 17 | `productivity` |
+| [其他行业研究](productivity/143-其他行业研究_ba1e5db2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/其他行业研究.md) | ⭐ 17 | `productivity` |
 
-### Research (357 skills)
+### Research (351 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7871,34 +7804,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Api Reference](research/007-clinicaltrials_50a3a66c/) | [Unknown](#) | N/A | `research` |
 | [Design Principles](research/037-analyze_e7ba630a/) | [Unknown](#) | N/A | `data analysis` |
 | [Similarity](research/114-document_1d37dd43/) | [Unknown](#) | N/A | `research` |
-| [Capabilities Index](research/capabilities-index_ebb0b20e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/capabilities-index.md) | ⭐ 17 | `research` |
-| [Mcp Setup Guide](research/mcp_setup_guide_be1955c6/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/vibe-marketing/MCP_SETUP_GUIDE.md) | ⭐ 17 | `research` |
-| [Claude](research/claude_df271132/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/CLAUDE.md) | ⭐ 17 | `research` |
-| [Claude3](research/claude3_bb38a4e7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/CLAUDE3.md) | ⭐ 17 | `research` |
-| [Implementation Guide](research/implementation_guide_7a79b913/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/IMPLEMENTATION_GUIDE.md) | ⭐ 17 | `research` |
-| [Michael Jackson China Cultural Impact Analysis](research/michael_jackson_china_cultural_impact_analysis_90260e8e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Cultural_Impact_Analysis.md) | ⭐ 17 | `research` |
-| [Synthesize Findings](research/synthesize-findings_561d9735/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/commands/synthesize-findings.md) | ⭐ 17 | `research` |
-| [00 Final Synthesis Report](research/00_final_synthesis_report_de33c5e5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Comprehensive_Study/00_Final_Synthesis_Report.md) | ⭐ 17 | `research` |
-| [00 Research Summary](research/00_research_summary_06f408db/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/00_RESEARCH_SUMMARY.md) | ⭐ 17 | `research` |
-| [01 Executive Summary](research/01_executive_summary_97ac1964/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/01_Executive_Summary.md) | ⭐ 17 | `research` |
-| [03 Timeline](research/03_timeline_680df495/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/03_Timeline.md) | ⭐ 17 | `research` |
-| [Skill](research/name-skill_bb3c2523/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/citation-validator/SKILL.md) | ⭐ 17 | `research` |
-| [Instructions](research/instructions_b9349cc3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/citation-validator/instructions.md) | ⭐ 17 | `research` |
-| [Instructions](research/instructions_296a821e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/question-refiner/instructions.md) | ⭐ 17 | `research` |
-| [Skill](research/name-skill_c11d1f8a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/research-executor/SKILL.md) | ⭐ 17 | `research` |
-| [Instructions](research/instructions_a5db4038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/research-executor/instructions.md) | ⭐ 17 | `research` |
-| [Skill](research/name-skill_db9a64fc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/synthesizer/SKILL.md) | ⭐ 17 | `research` |
-| [Instructions](research/instructions_2bc83f67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/synthesizer/instructions.md) | ⭐ 17 | `research` |
-| [Methodology](research/methodology_b93d3548/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/appendices/methodology.md) | ⭐ 17 | `research` |
-| [Data Placeholder](research/data_placeholder_a0ab8107/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/data/data_placeholder.md) | ⭐ 17 | `research` |
-| [Bibliography](research/bibliography_1fc1fc67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/bibliography.md) | ⭐ 17 | `research` |
-| [Verification Checklist](research/verification_checklist_4e67fb0b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/verification_checklist.md) | ⭐ 17 | `research` |
-| [Deep Research](research/deep-research_a38ca6ff/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/commands/deep-research.md) | ⭐ 17 | `research` |
-| [Plan Research](research/plan-research_9ee5e928/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/commands/plan-research.md) | ⭐ 17 | `research` |
-| [Examples](research/examples_18ed9884/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/citation-validator/examples.md) | ⭐ 17 | `research` |
-| [Skill](research/name-skill_bc030847/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/question-refiner/SKILL.md) | ⭐ 17 | `research` |
-| [Examples](research/examples_be9937fb/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/question-refiner/examples.md) | ⭐ 17 | `research` |
-| [Examples](research/examples_56d85a68/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/research-executor/examples.md) | ⭐ 17 | `research` |
+| [Capabilities Index](research/207-capabilities-index_ebb0b20e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/index/capabilities-index.md) | ⭐ 17 | `research` |
+| [Mcp Setup Guide](research/208-mcp_setup_guide_be1955c6/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/vibe-marketing/MCP_SETUP_GUIDE.md) | ⭐ 17 | `research` |
+| [Claude](research/015-claude_df271132/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/CLAUDE.md) | ⭐ 17 | `research` |
+| [Claude3](research/209-claude3_bb38a4e7/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/CLAUDE3.md) | ⭐ 17 | `research` |
+| [Implementation Guide](research/210-implementation_guide_7a79b913/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/IMPLEMENTATION_GUIDE.md) | ⭐ 17 | `research` |
+| [Michael Jackson China Cultural Impact Analysis](research/211-michael_jackson_china_cultural_impact_analysis_90260e8e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Cultural_Impact_Analysis.md) | ⭐ 17 | `research` |
+| [Synthesize Findings](research/212-synthesize-findings_561d9735/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/commands/synthesize-findings.md) | ⭐ 17 | `research` |
+| [00 Final Synthesis Report](research/213-00_final_synthesis_report_de33c5e5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Comprehensive_Study/00_Final_Synthesis_Report.md) | ⭐ 17 | `research` |
+| [00 Research Summary](research/214-00_research_summary_06f408db/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/00_RESEARCH_SUMMARY.md) | ⭐ 17 | `research` |
+| [01 Executive Summary](research/215-01_executive_summary_97ac1964/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/01_Executive_Summary.md) | ⭐ 17 | `research` |
+| [03 Timeline](research/216-03_timeline_680df495/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/03_Timeline.md) | ⭐ 17 | `research` |
+| [Skill](research/139-name-skill_bb3c2523/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/citation-validator/SKILL.md) | ⭐ 17 | `research` |
+| [Instructions](research/217-instructions_b9349cc3/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/citation-validator/instructions.md) | ⭐ 17 | `research` |
+| [Instructions](research/217-instructions_296a821e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/question-refiner/instructions.md) | ⭐ 17 | `research` |
+| [Skill](research/139-name-skill_c11d1f8a/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/research-executor/SKILL.md) | ⭐ 17 | `research` |
+| [Instructions](research/217-instructions_a5db4038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/research-executor/instructions.md) | ⭐ 17 | `research` |
+| [Skill](research/139-name-skill_db9a64fc/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/synthesizer/SKILL.md) | ⭐ 17 | `research` |
+| [Instructions](research/217-instructions_2bc83f67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/synthesizer/instructions.md) | ⭐ 17 | `research` |
+| [Methodology](research/218-methodology_b93d3548/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/appendices/methodology.md) | ⭐ 17 | `research` |
+| [Data Placeholder](research/219-data_placeholder_a0ab8107/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/data/data_placeholder.md) | ⭐ 17 | `research` |
+| [Bibliography](research/220-bibliography_1fc1fc67/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/bibliography.md) | ⭐ 17 | `research` |
+| [Verification Checklist](research/221-verification_checklist_4e67fb0b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/verification_checklist.md) | ⭐ 17 | `research` |
 
 ## Repository Structure
 
