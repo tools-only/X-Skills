@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7346 AI-powered skills** organized into 16 categories.
+A curated collection of **7386 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,20 +10,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (441 skills)
 - **Automation/Scripting** (102 skills)
-- **Automation/Workflow** (112 skills)
-- **Commercial** (479 skills)
-- **Communication** (253 skills)
-- **Content Creation** (426 skills)
-- **Daily Assistant** (291 skills)
-- **Data Analysis** (749 skills)
-- **Development** (3142 skills)
-- **Development/Devops** (323 skills)
+- **Automation/Workflow** (113 skills)
+- **Commercial** (483 skills)
+- **Communication** (255 skills)
+- **Content Creation** (432 skills)
+- **Daily Assistant** (294 skills)
+- **Data Analysis** (751 skills)
+- **Development** (3156 skills)
+- **Development/Devops** (328 skills)
 - **Development/Testing** (47 skills)
-- **Development/Tools** (348 skills)
+- **Development/Tools** (349 skills)
 - **Investment** (43 skills)
 - **Other** (43 skills)
 - **Productivity** (220 skills)
-- **Research** (327 skills)
+- **Research** (329 skills)
 
 ## Skills Directory
 
@@ -581,7 +581,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Rerender Derived State](automation/scripting/049-rerender-derived-state_1c326bb6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-derived-state.md) | ⭐ 13 | `automation` |
 | [Rerender Simple Expression In Memo](automation/scripting/050-rerender-simple-expression-in-memo_5bdcf2d1/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-simple-expression-in-memo.md) | ⭐ 13 | `automation` |
 
-### Automation/Workflow (112 skills)
+### Automation/Workflow (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -697,8 +697,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_4f601c7d/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/skill-auditor/SKILL.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_fd5f0b9e/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/SKILL.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_855a7d0e/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/SKILL.md) | ⭐ 34 | `automation` |
+| [Skill](automation/workflow/name-skill_ebe18f1a/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 172 | `automation` |
 
-### Commercial (479 skills)
+### Commercial (483 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1181,8 +1182,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Rerender Derived State No Effect](commercial/294-rerender-derived-state-no-effect_cb11ec76/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-derived-state-no-effect.md) | ⭐ 13 | `commercial` |
 | [Rerender Memo With Default Value](commercial/295-rerender-memo-with-default-value_81c47476/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-memo-with-default-value.md) | ⭐ 13 | `commercial` |
 | [Rerender Use Ref Transient Values](commercial/296-rerender-use-ref-transient-values_f1a649af/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-use-ref-transient-values.md) | ⭐ 13 | `commercial` |
+| [Business Logic](commercial/business-logic_fc8ec30e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/business-logic.md) | ⭐ 172 | `commercial` |
+| [Data Protection](commercial/data-protection_920b7dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/data-protection.md) | ⭐ 172 | `commercial` |
+| [Supply Chain](commercial/supply-chain_43c40275/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/supply-chain.md) | ⭐ 172 | `commercial` |
+| [Tenant Isolation](commercial/tenant-isolation_eda676bb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/django-access-review/references/tenant-isolation.md) | ⭐ 172 | `commercial` |
 
-### Communication (253 skills)
+### Communication (255 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1439,8 +1444,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Scroll Patterns](communication/180-scroll-patterns_a50d87f4/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-expert-skill/references/scroll-patterns.md) | ⭐ 13 | `communication` |
 | [State Management](communication/181-state-management_f42795ca/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-expert-skill/references/state-management.md) | ⭐ 13 | `communication` |
 | [Server Auth Actions](communication/182-server-auth-actions_a2ca8aa1/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/server-auth-actions.md) | ⭐ 13 | `communication` |
+| [Skill](communication/name-skill_7a1bf3b5/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 172 | `communication` |
+| [Authentication](communication/authentication_7bc598cd/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/authentication.md) | ⭐ 172 | `communication` |
 
-### Content Creation (426 skills)
+### Content Creation (432 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1870,8 +1877,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tabview](content-creation/225-tabview_0e1d8143/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/references/tabview.md) | ⭐ 13 | `content creation` |
 | [Macos Commands](content-creation/226-macos-commands_fa68aadf/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/unix-macos-engineer/references/macos-commands.md) | ⭐ 13 | `content creation` |
 | [Architecture Avoid Boolean Props](content-creation/227-architecture-avoid-boolean-props_007555eb/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-composition-patterns/rules/architecture-avoid-boolean-props.md) | ⭐ 13 | `content creation` |
+| [Agents](content-creation/agents_b9390e4b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/AGENTS.md) | ⭐ 172 | `content creation` |
+| [Skill](content-creation/name-skill_59c75b08/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/brand-guidelines/SKILL.md) | ⭐ 172 | `content creation` |
+| [Skill](content-creation/name-skill_dd6711ea/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/create-pr/SKILL.md) | ⭐ 172 | `content creation` |
+| [Skill](content-creation/name-skill_819ad219/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/doc-coauthoring/SKILL.md) | ⭐ 172 | `content creation` |
+| [Skill](content-creation/name-skill_cc7a4508/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.openclaw/skills/planning-with-files/SKILL.md) | 🔥 13.0k | `content creation` |
+| [Skill](content-creation/name-skill_ccb0c334/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/django-perf-review/SKILL.md) | ⭐ 172 | `content creation` |
 
-### Daily Assistant (291 skills)
+### Daily Assistant (294 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2120,7 +2133,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Advanced](daily-assistant/162-advanced_6c8579a9/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/advanced.md) | ⭐ 34 | `daily assistant` |
 | [Core Concepts](daily-assistant/163-core-concepts_6f6e7a9f/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/core-concepts.md) | ⭐ 34 | `daily assistant` |
 | [Customization](daily-assistant/164-customization_41c75217/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/automation/declarative-automation/customization.md) | ⭐ 34 | `daily assistant` |
-| [Cursor](daily-assistant/165-cursor_ba407723/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
+| [Cursor](daily-assistant/cursor_1e9da78a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
 | [Factory](daily-assistant/166-factory_2a3fc948/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/factory.md) | 🔥 13.0k | `daily assistant` |
 | [Quickstart](daily-assistant/167-quickstart_539b79ee/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/quickstart.md) | 🔥 13.0k | `daily assistant` |
 | [Troubleshooting](daily-assistant/168-troubleshooting_1b7daf9e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/troubleshooting.md) | 🔥 13.0k | `daily assistant` |
@@ -2166,8 +2179,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Launchd Patterns](daily-assistant/183-launchd-patterns_cf21b506/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/unix-macos-engineer/references/launchd-patterns.md) | ⭐ 13 | `daily assistant` |
 | [Server Cache React](daily-assistant/184-server-cache-react_fddeea6c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/server-cache-react.md) | ⭐ 13 | `daily assistant` |
 | [Scaffold](daily-assistant/161-scaffold_9d0b0fea/) | [dagster-io/skills](https://raw.githubusercontent.com/dagster-io/skills/master/skills/dagster-expert/references/cli/scaffold.md) | ⭐ 34 | `daily assistant` |
+| [Cursor](daily-assistant/165-cursor_1e9da78a/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/cursor.md) | 🔥 13.0k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_ff959195/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/django-access-review/SKILL.md) | ⭐ 172 | `daily assistant` |
+| [Django Views](daily-assistant/django-views_bad2439e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/django-access-review/references/django-views.md) | ⭐ 172 | `daily assistant` |
 
-### Data Analysis (749 skills)
+### Data Analysis (751 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2920,8 +2936,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Understanding Improving Swiftui Performance](data-analysis/344-understanding-improving-swiftui-performance_fd7a624c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-performance-audit/references/understanding-improving-swiftui-performance.md) | ⭐ 13 | `data analysis` |
 | [Patterns Children Over Render Props](data-analysis/345-patterns-children-over-render-props_7c45a0d2/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-composition-patterns/rules/patterns-children-over-render-props.md) | ⭐ 13 | `data analysis` |
 | [Server Dedup Props](data-analysis/346-server-dedup-props_c2747424/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/server-dedup-props.md) | ⭐ 13 | `data analysis` |
+| [Skill](data-analysis/name-skill_08664c36/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/find-bugs/SKILL.md) | ⭐ 172 | `data analysis` |
+| [File Security](data-analysis/file-security_a0a001fb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/file-security.md) | ⭐ 172 | `data analysis` |
 
-### Development (3142 skills)
+### Development (3156 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6067,8 +6085,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Rerender Move Effect To Event](development/1953-rerender-move-effect-to-event_abc2cbf1/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/vercel-react-best-practices/rules/rerender-move-effect-to-event.md) | ⭐ 13 | `development` |
 | [Skill](development/1178-name-skill_303386a7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/building-github-index-v2/SKILL.md) | ⭐ 87 | `development` |
 | [Skill](development/1178-name-skill_1dcfcc04/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/SKILL.md) | ⭐ 87 | `development` |
+| [Skill](development/name-skill_b7f5d843/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/code-simplifier/SKILL.md) | ⭐ 172 | `development` |
+| [Api Security](development/api-security_65b2456b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/api-security.md) | ⭐ 172 | `development` |
+| [Authorization](development/authorization_5ccfd579/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/authorization.md) | ⭐ 172 | `development` |
+| [Cryptography](development/cryptography_1e130162/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/cryptography.md) | ⭐ 172 | `development` |
+| [Csrf](development/csrf_7b57ba0a/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/csrf.md) | ⭐ 172 | `development` |
+| [Deserialization](development/deserialization_be9946da/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/deserialization.md) | ⭐ 172 | `development` |
+| [Error Handling](development/error-handling_e12d3c9f/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/error-handling.md) | ⭐ 172 | `development` |
+| [Injection](development/injection_d3989e97/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/injection.md) | ⭐ 172 | `development` |
+| [Logging](development/logging_acca4eee/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/logging.md) | ⭐ 172 | `development` |
+| [Modern Threats](development/modern-threats_d2ac69d9/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/modern-threats.md) | ⭐ 172 | `development` |
+| [Ssrf](development/ssrf_0941b15e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/ssrf.md) | ⭐ 172 | `development` |
+| [Xss](development/xss_4735df1e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/xss.md) | ⭐ 172 | `development` |
+| [Code Simplifier](development/code-simplifier_cd02729a/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/agents/code-simplifier.md) | ⭐ 172 | `development` |
+| [Javascript](development/javascript_3a1ddf02/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/languages/javascript.md) | ⭐ 172 | `development` |
 
-### Development/Devops (323 skills)
+### Development/Devops (328 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6437,7 +6469,12 @@ Read more about the new architecture [here` |
 | [Skill](development/devops/014-name-skill_2b3c4ded/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/autonomous-agent-readiness/SKILL.md) | ⭐ 13 | `development` |
 | [Skill](development/devops/014-name-skill_6efb670c/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/dev-server/SKILL.md) | ⭐ 13 | `development` |
 | [Self Hosting](development/devops/174-self-hosting_f59e9afa/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/next-best-practices/self-hosting.md) | ⭐ 13 | `development` |
-| [Develop](development/devops/develop_fcd553d4/) | [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://raw.githubusercontent.com/aws-samples/amazon-bedrock-serverless-prompt-chaining/main/DEVELOP.md) | ⭐ 318 | `development` |
+| [Develop](development/devops/175-develop_fcd553d4/) | [aws-samples/amazon-bedrock-serverless-prompt-chaining](https://raw.githubusercontent.com/aws-samples/amazon-bedrock-serverless-prompt-chaining/main/DEVELOP.md) | ⭐ 318 | `development` |
+| [Skill](development/devops/name-skill_1e895c1f/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/claude-settings-audit/SKILL.md) | ⭐ 172 | `development` |
+| [Docker](development/devops/docker_84bd4946/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/infrastructure/docker.md) | ⭐ 172 | `development` |
+| [Python](development/devops/python_32d0b130/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/languages/python.md) | ⭐ 172 | `development` |
+| [Misconfiguration](development/devops/misconfiguration_919c44e3/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/references/misconfiguration.md) | ⭐ 172 | `development` |
+| [Skill](development/devops/name-skill_eb013fb5/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/SKILL.md) | ⭐ 172 | `development` |
 
 ### Development/Testing (47 skills)
 
@@ -6491,7 +6528,7 @@ Read more about the new architecture [here` |
 | [Skill](development/testing/002-name-skill_c9a7e9b2/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/optimize-agent-docs/SKILL.md) | ⭐ 13 | `development` |
 | [Lightweight Clients](development/testing/037-lightweight-clients_8ab515d5/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/references/lightweight-clients.md) | ⭐ 13 | `development` |
 
-### Development/Tools (348 skills)
+### Development/Tools (349 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -6843,6 +6880,7 @@ Read more about the new architecture [here` |
 | [Skill](development/tools/002-name-skill_987f1868/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/ux-writing/SKILL.md) | ⭐ 13 | `development` |
 | [Swiftui](development/tools/195-swiftui_923a0ab6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tuning-panel/references/swiftui.md) | ⭐ 13 | `development` |
 | [Vanilla Js](development/tools/196-vanilla-js_aa343601/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tuning-panel/references/vanilla-js.md) | ⭐ 13 | `development` |
+| [Skill](development/tools/name-skill_6a528d92/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/agents-md/SKILL.md) | ⭐ 172 | `development` |
 
 ### Investment (43 skills)
 
@@ -7165,7 +7203,7 @@ Read more about the new architecture [here` |
 | [List](productivity/139-list_08252610/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/references/list.md) | ⭐ 13 | `productivity` |
 | [Menu Bar](productivity/140-menu-bar_969083aa/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-ui-patterns/references/menu-bar.md) | ⭐ 13 | `productivity` |
 
-### Research (327 skills)
+### Research (329 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7496,6 +7534,8 @@ Read more about the new architecture [here` |
 | [Search Strategies](research/204-search-strategies_6f14aba6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/deep-research/references/search-strategies.md) | ⭐ 13 | `research` |
 | [Source Evaluation](research/205-source-evaluation_9bc285fb/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/deep-research/references/source-evaluation.md) | ⭐ 13 | `research` |
 | [Demystify Swiftui Performance Wwdc23](research/206-demystify-swiftui-performance-wwdc23_7cffafe3/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/swiftui-performance-audit/references/demystify-swiftui-performance-wwdc23.md) | ⭐ 13 | `research` |
+| [Django Orm](research/django-orm_49a02009/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/django-access-review/references/django-orm.md) | ⭐ 172 | `research` |
+| [Drf Permissions](research/drf-permissions_784771b0/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/django-access-review/references/drf-permissions.md) | ⭐ 172 | `research` |
 
 ## Repository Structure
 
