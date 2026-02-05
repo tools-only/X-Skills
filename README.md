@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **7886 AI-powered skills** organized into 16 categories.
+A curated collection of **7852 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (11 skills)
+- **Automation/Scripting** (9 skills)
 - **Automation/Workflow** (7 skills)
-- **Commercial** (500 skills)
+- **Commercial** (499 skills)
 - **Communication** (283 skills)
-- **Content Creation** (470 skills)
-- **Daily Assistant** (309 skills)
+- **Content Creation** (468 skills)
+- **Daily Assistant** (307 skills)
 - **Data Analysis** (795 skills)
-- **Development** (4048 skills)
+- **Development** (4032 skills)
 - **Development/Devops** (36 skills)
-- **Development/Testing** (15 skills)
-- **Development/Tools** (68 skills)
+- **Development/Testing** (14 skills)
+- **Development/Tools** (58 skills)
 - **Investment** (48 skills)
 - **Other** (43 skills)
 - **Productivity** (227 skills)
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (11 skills)
+### Automation/Scripting (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -717,9 +717,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_0d779264/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/calculator/SKILL.md) | ⭐ 14 | `automation` |
 | [Skill](automation/scripting/003-name-skill_2857b1e4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/weather/SKILL.md) | ⭐ 14 | `automation` |
 | [Skill](automation/scripting/003-name-skill_1d7cda14/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 30 | `automation` |
-| [Installation](automation/scripting/installation_9eda89ee/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/installation.md) | ⭐ 686 | `automation` |
-| [Status](automation/scripting/status_80993b22/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/commands/status.md) | ⭐ 686 | `automation` |
-| [Kokoro](automation/scripting/kokoro_13b6c431/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/services/kokoro.md) | ⭐ 686 | `automation` |
+| [Installation](automation/scripting/057-installation_9eda89ee/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/installation.md) | ⭐ 686 | `automation` |
 
 ### Automation/Workflow (7 skills)
 
@@ -733,7 +731,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_0778035d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator/SKILL.md) | 🔥 7.2k | `automation` `scaffolding` `skill-creation` |
 | [Multi Agent System](automation/workflow/061-multi-agent-system_e5dbc864/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/docs/architecture/multi-agent-system.md) | ⭐ 2.5k | `automation` |
 
-### Commercial (500 skills)
+### Commercial (499 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1234,9 +1232,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](commercial/007-agents_a55d2e22/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
 | [Roadmap](commercial/174-roadmap_b06b7cad/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 279 | `commercial` |
 | [Incident Chaos](commercial/100-incident-chaos_063058f0/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/sre-engineer/references/incident-chaos.md) | ⭐ 279 | `commercial` |
-| [H2G2 Graphics Analysis](commercial/h2g2-graphics-analysis_b237077e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/design/h2g2-graphics-analysis.md) | ⭐ 686 | `commercial` |
-| [Provider Endpoint Lists](commercial/provider-endpoint-lists_f27cc496/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/provider-endpoint-lists.md) | ⭐ 686 | `commercial` |
-| [Minimal Tool Description](commercial/minimal-tool-description_7c4e34a0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/minimal-tool-description.md) | ⭐ 686 | `commercial` |
+| [H2G2 Graphics Analysis](commercial/306-h2g2-graphics-analysis_b237077e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/design/h2g2-graphics-analysis.md) | ⭐ 686 | `commercial` |
+| [Provider Endpoint Lists](commercial/307-provider-endpoint-lists_f27cc496/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/provider-endpoint-lists.md) | ⭐ 686 | `commercial` |
 
 ### Communication (283 skills)
 
@@ -1520,13 +1517,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Shadcn](communication/198-shadcn_97864de1/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/shadcn.md) | ⭐ 17 | `communication` |
 | [Auth Success Alert Design](communication/199-auth-success-alert-design_13d6dbf0/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/auth-success-alert-design.md) | ⭐ 17 | `communication` |
 | [Daily Margin Report Design](communication/200-daily-margin-report-design_3a808767/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/shane-skill/data-analysis-agent/functions/docs/daily-margin-report-design.md) | ⭐ 17 | `communication` |
-| [Star Notifications](communication/star_notifications_f65e2eb8/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.github/STAR_NOTIFICATIONS.md) | ⭐ 686 | `communication` |
-| [Prompt Used](communication/prompt-used_3b61ed20/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/prompt-used.md) | ⭐ 686 | `communication` |
-| [Handoff](communication/handoff_2a74b90b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/agents/call-routing/handoff.md) | ⭐ 686 | `communication` |
-| [Proxy](communication/proxy_673a553f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/agents/call-routing/proxy.md) | ⭐ 686 | `communication` |
-| [2025 07 03 232956 Claude](communication/2025-07-03-232956-claude_a09fd5d9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-232956-CLAUDE.md) | ⭐ 686 | `communication` |
+| [Star Notifications](communication/201-star_notifications_f65e2eb8/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.github/STAR_NOTIFICATIONS.md) | ⭐ 686 | `communication` |
+| [Prompt Used](communication/202-prompt-used_3b61ed20/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/prompt-used.md) | ⭐ 686 | `communication` |
+| [Handoff](communication/203-handoff_2a74b90b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/agents/call-routing/handoff.md) | ⭐ 686 | `communication` |
+| [Proxy](communication/204-proxy_673a553f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/agents/call-routing/proxy.md) | ⭐ 686 | `communication` |
+| [2025 07 03 232956 Claude](communication/205-2025-07-03-232956-claude_a09fd5d9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-232956-CLAUDE.md) | ⭐ 686 | `communication` |
 
-### Content Creation (470 skills)
+### Content Creation (468 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1989,19 +1986,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_ee96b6e9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 30 | `content creation` |
 | [07 Extraction](content-creation/241-07-extraction_edb2c888/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/07-extraction.md) | ⭐ 948 | `content creation` |
 | [07 Extraction](content-creation/241-07-extraction_b20a8dde/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/07-extraction.md) | ⭐ 948 | `content creation` |
-| [Conversation Logging Jsonl](content-creation/conversation-logging-jsonl_fa473c75/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/conversation-logging-jsonl.md) | ⭐ 686 | `content creation` |
-| [Tmux Status](content-creation/tmux-status_4a0f2667/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/tmux-status.md) | ⭐ 686 | `content creation` |
-| [Patterns](content-creation/patterns_fe9f2c1a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/patterns.md) | ⭐ 686 | `content creation` |
-| [Quickstart](content-creation/quickstart_9867903a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/quickstart.md) | ⭐ 686 | `content creation` |
-| [Prompt Used](content-creation/prompt-used_b875e3bf/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/prompt-used.md) | ⭐ 686 | `content creation` |
-| [Prompt Used](content-creation/prompt-used_4c236859/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-06-claude-gemini-speak-spanish/prompt-used.md) | ⭐ 686 | `content creation` |
-| [Voice Conversation Prompt V2](content-creation/voice-conversation-prompt-v2_2d2d2369/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/prompts/voice-conversation-prompt-v2.md) | ⭐ 686 | `content creation` |
-| [2025 07 03 2 Gemini](content-creation/2025-07-03-2_gemini_80446639/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-2_gemini.md) | ⭐ 686 | `content creation` |
-| [2025 07 03 Claude](content-creation/2025-07-03-claude_ae1f5eda/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-claude.md) | ⭐ 686 | `content creation` |
-| [Baby Bear](content-creation/baby-bear_1163af97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/agents/baby-bear.md) | ⭐ 686 | `content creation` |
-| [Configuration Philosophy](content-creation/configuration-philosophy_5f93aa09/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration-philosophy.md) | ⭐ 686 | `content creation` |
+| [Conversation Logging Jsonl](content-creation/242-conversation-logging-jsonl_fa473c75/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/conversation-logging-jsonl.md) | ⭐ 686 | `content creation` |
+| [Tmux Status](content-creation/243-tmux-status_4a0f2667/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/tmux-status.md) | ⭐ 686 | `content creation` |
+| [Patterns](content-creation/244-patterns_fe9f2c1a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/patterns.md) | ⭐ 686 | `content creation` |
+| [Quickstart](content-creation/245-quickstart_9867903a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/quickstart.md) | ⭐ 686 | `content creation` |
+| [Prompt Used](content-creation/246-prompt-used_b875e3bf/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/prompt-used.md) | ⭐ 686 | `content creation` |
+| [Prompt Used](content-creation/246-prompt-used_4c236859/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-06-claude-gemini-speak-spanish/prompt-used.md) | ⭐ 686 | `content creation` |
+| [Voice Conversation Prompt V2](content-creation/247-voice-conversation-prompt-v2_2d2d2369/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/prompts/voice-conversation-prompt-v2.md) | ⭐ 686 | `content creation` |
+| [2025 07 03 2 Gemini](content-creation/248-2025-07-03-2_gemini_80446639/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-2_gemini.md) | ⭐ 686 | `content creation` |
+| [2025 07 03 Claude](content-creation/249-2025-07-03-claude_ae1f5eda/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-claude.md) | ⭐ 686 | `content creation` |
 
-### Daily Assistant (309 skills)
+### Daily Assistant (307 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2311,9 +2306,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System Prompt Flash](daily-assistant/192-system_prompt_flash_631638b5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash.md) | ⭐ 17 | `daily assistant` |
 | [System Prompt Flash Anthropic](daily-assistant/193-system_prompt_flash_anthropic_d1ecd038/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/browser_use/agent/system_prompts/system_prompt_flash_anthropic.md) | ⭐ 17 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_98415286/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Macbook Portable](daily-assistant/macbook-portable_15159fd0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/macbook-portable.md) | ⭐ 686 | `daily assistant` |
-| [Kokoro Setup](daily-assistant/kokoro-setup_3dbd06e1/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/kokoro-setup.md) | ⭐ 686 | `daily assistant` |
-| [Whisper](daily-assistant/whisper_fcf3a29e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/services/whisper.md) | ⭐ 686 | `daily assistant` |
+| [Macbook Portable](daily-assistant/194-macbook-portable_15159fd0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/macbook-portable.md) | ⭐ 686 | `daily assistant` |
 
 ### Data Analysis (795 skills)
 
@@ -3112,10 +3105,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Code Index](data-analysis/366-code_index_ddfa0897/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_dc0242e2/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analyzer/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Custom Configuration](data-analysis/367-custom_configuration_9cf4b013/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 30 | `data analysis` |
-| [Api Discovery Urls](data-analysis/api-discovery-urls_1221ea5b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-discovery-urls.md) | ⭐ 686 | `data analysis` |
-| [Tools](data-analysis/tools_989e898c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-reference/tools.md) | ⭐ 686 | `data analysis` |
+| [Api Discovery Urls](data-analysis/368-api-discovery-urls_1221ea5b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-discovery-urls.md) | ⭐ 686 | `data analysis` |
+| [Tools](data-analysis/369-tools_989e898c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-reference/tools.md) | ⭐ 686 | `data analysis` |
 
-### Development (4048 skills)
+### Development (4032 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7130,43 +7123,27 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architecture](development/055-architecture_a4d628a9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 14 | `development` |
 | [Skill](development/1178-name-skill_4df1bea4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.opencode/skills/skilllite/SKILL.md) | ⭐ 14 | `development` |
 | [Api Reference](development/051-api_reference_0e1bed37/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/references/api_reference.md) | ⭐ 14 | `development` |
-| [Installation Tools](development/installation-tools_7377f47a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/installation-tools.md) | ⭐ 686 | `development` |
-| [Service Health Checks](development/service-health-checks_4a6eba67/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/service-health-checks.md) | ⭐ 686 | `development` |
-| [Vscode Configuration](development/vscode-configuration_4cf2cf4f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/vscode-configuration.md) | ⭐ 686 | `development` |
-| [Refactoring Services Flatten](development/refactoring-services-flatten_7ed457e2/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/architecture/refactoring-services-flatten.md) | ⭐ 686 | `development` |
-| [Code Path Guide](development/code-path-guide_f3b59050/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/code-path-guide.md) | ⭐ 686 | `development` |
-| [Index](development/index_625f418e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 686 | `development` |
-| [Configuration Reference](development/configuration-reference_c9254e97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration/configuration-reference.md) | ⭐ 686 | `development` |
-| [Mcp Env Precedence](development/mcp-env-precedence_b161a1e0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration/mcp-env-precedence.md) | ⭐ 686 | `development` |
-| [Voice Preferences](development/voice-preferences_2e84e86d/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration/voice-preferences.md) | ⭐ 686 | `development` |
-| [Dual Package Names](development/dual_package_names_652ef782/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/DUAL_PACKAGE_NAMES.md) | ⭐ 686 | `development` |
-| [Service Tools Refactoring 2](development/service-tools-refactoring-2_7819bc69/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/service-tools-refactoring-2.md) | ⭐ 686 | `development` |
-| [Whisper Coreml](development/whisper-coreml_40e4a542/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/services/whisper-coreml.md) | ⭐ 686 | `development` |
-| [Commands](development/commands_245d3241/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/commands.md) | ⭐ 686 | `development` |
-| [Languages](development/languages_19e8f7e7/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/languages.md) | ⭐ 686 | `development` |
-| [Parameter Naming Proposals](development/parameter-naming-proposals_729ce8d2/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/parameter-naming-proposals.md) | ⭐ 686 | `development` |
-| [Mcp Tools Vs Commands](development/mcp-tools-vs-commands_83572288/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/insights/mcp-tools-vs-commands.md) | ⭐ 686 | `development` |
-| [2025 01 05 094515 Claude](development/2025-01-05-094515-claude_572151d5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-01-05-094515-claude.md) | ⭐ 686 | `development` |
-| [2025 07 03 233841 Gemini](development/2025-07-03-233841-gemini_c3033679/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-03-233841-gemini.md) | ⭐ 686 | `development` |
-| [2025 07 03 234500 Claude](development/2025-07-03-234500-claude_b7e16c97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-03-234500-CLAUDE.md) | ⭐ 686 | `development` |
-| [2025 07 06 041018 Gemini](development/2025-07-06-041018-gemini_c1c2a477/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-06-041018-gemini.md) | ⭐ 686 | `development` |
-| [Papa Bear](development/papa-bear_28b417f3/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/agents/papa-bear.md) | ⭐ 686 | `development` |
-| [Frontend Env Vars Issue](development/frontend-env-vars-issue_3a9954e7/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/frontend-env-vars-issue.md) | ⭐ 686 | `development` |
-| [Kokoro](development/kokoro_de623fc6/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/kokoro.md) | ⭐ 686 | `development` |
-| [Local Development Uvx](development/local-development-uvx_c105055b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/local-development-uvx.md) | ⭐ 686 | `development` |
-| [Silence Detection](development/silence-detection_8b34ad33/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/silence-detection.md) | ⭐ 686 | `development` |
-| [Vad Debugging](development/vad-debugging_0c0a407e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/vad-debugging.md) | ⭐ 686 | `development` |
-| [Whisper.Cpp](development/whispercpp_91a49509/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/whisper.cpp.md) | ⭐ 686 | `development` |
-| [Whisper Setup](development/whisper-setup_63767cc0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/whisper-setup.md) | ⭐ 686 | `development` |
-| [Environment](development/environment_65e8d5bd/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/environment.md) | ⭐ 686 | `development` |
-| [Glossary](development/glossary_ffd61f15/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/glossary.md) | ⭐ 686 | `development` |
-| [Skill](development/name-skill_217504e4/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/skills/voicemode-dj/SKILL.md) | ⭐ 686 | `development` |
-| [Skill](development/name-skill_6e158bac/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/skills/voicemode/SKILL.md) | ⭐ 686 | `development` |
-| [Configuration](development/configuration_d186db07/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/api-reference/configuration.md) | ⭐ 686 | `development` |
-| [Testing Checklist](development/testing-checklist_7eb958ec/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/TESTING-CHECKLIST.md) | ⭐ 686 | `development` |
-| [Unified Event Logging](development/unified-event-logging_2d713e19/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/unified-event-logging.md) | ⭐ 686 | `development` |
-| [Yubikey Touch Detector](development/yubikey-touch-detector_367d719c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/yubikey/yubikey-touch-detector.md) | ⭐ 686 | `development` |
-| [Ipc](development/ipc_9c64a912/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/ipc.md) | ⭐ 686 | `development` |
+| [Installation Tools](development/2047-installation-tools_7377f47a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/installation-tools.md) | ⭐ 686 | `development` |
+| [Service Health Checks](development/2048-service-health-checks_4a6eba67/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/service-health-checks.md) | ⭐ 686 | `development` |
+| [Vscode Configuration](development/2049-vscode-configuration_4cf2cf4f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/vscode-configuration.md) | ⭐ 686 | `development` |
+| [Refactoring Services Flatten](development/2050-refactoring-services-flatten_7ed457e2/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/architecture/refactoring-services-flatten.md) | ⭐ 686 | `development` |
+| [Code Path Guide](development/2051-code-path-guide_f3b59050/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/code-path-guide.md) | ⭐ 686 | `development` |
+| [Index](development/468-index_625f418e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 686 | `development` |
+| [Configuration Reference](development/2052-configuration-reference_c9254e97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration/configuration-reference.md) | ⭐ 686 | `development` |
+| [Mcp Env Precedence](development/2053-mcp-env-precedence_b161a1e0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration/mcp-env-precedence.md) | ⭐ 686 | `development` |
+| [Voice Preferences](development/2054-voice-preferences_2e84e86d/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/configuration/voice-preferences.md) | ⭐ 686 | `development` |
+| [Dual Package Names](development/2055-dual_package_names_652ef782/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/DUAL_PACKAGE_NAMES.md) | ⭐ 686 | `development` |
+| [Service Tools Refactoring 2](development/2056-service-tools-refactoring-2_7819bc69/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/service-tools-refactoring-2.md) | ⭐ 686 | `development` |
+| [Whisper Coreml](development/2057-whisper-coreml_40e4a542/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/services/whisper-coreml.md) | ⭐ 686 | `development` |
+| [Commands](development/2058-commands_245d3241/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/commands.md) | ⭐ 686 | `development` |
+| [Languages](development/2059-languages_19e8f7e7/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/languages.md) | ⭐ 686 | `development` |
+| [Parameter Naming Proposals](development/2060-parameter-naming-proposals_729ce8d2/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/parameter-naming-proposals.md) | ⭐ 686 | `development` |
+| [Mcp Tools Vs Commands](development/2061-mcp-tools-vs-commands_83572288/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/insights/mcp-tools-vs-commands.md) | ⭐ 686 | `development` |
+| [2025 01 05 094515 Claude](development/2062-2025-01-05-094515-claude_572151d5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-01-05-094515-claude.md) | ⭐ 686 | `development` |
+| [2025 07 03 233841 Gemini](development/2063-2025-07-03-233841-gemini_c3033679/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-03-233841-gemini.md) | ⭐ 686 | `development` |
+| [2025 07 03 234500 Claude](development/2064-2025-07-03-234500-claude_b7e16c97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-03-234500-CLAUDE.md) | ⭐ 686 | `development` |
+| [2025 07 06 041018 Gemini](development/2065-2025-07-06-041018-gemini_c1c2a477/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-cli-discussion/ai-log/2025-07-06-041018-gemini.md) | ⭐ 686 | `development` |
+| [Claude](development/claude_74007c03/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `development` |
 
 ### Development/Devops (36 skills)
 
@@ -7198,18 +7175,18 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Getting Started](development/devops/190-getting-started_91cf2684/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md) | ⭐ 29 | `development` |
 | [Index](development/devops/050-index_8ece0aff/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
 | [Claude](development/devops/191-claude_5ec3fb03/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/CLAUDE.md) | ⭐ 30 | `development` |
-| [Livekit Setup](development/devops/livekit_setup_5764ce91/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/LIVEKIT_SETUP.md) | ⭐ 686 | `development` |
-| [Mcp Config Json](development/devops/mcp-config-json_4fcf3389/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/mcp-config-json.md) | ⭐ 686 | `development` |
-| [Migration Guide](development/devops/migration-guide_7db157fe/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/migration-guide.md) | ⭐ 686 | `development` |
-| [Openai Api Routing](development/devops/openai-api-routing_3626ac97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/openai-api-routing.md) | ⭐ 686 | `development` |
-| [Using uv/uvx with Voice Mode](development/devops/uv_8cea5e8a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/uv.md) | ⭐ 686 | `development` |
-| [Architecture](development/devops/architecture_bb7f2396/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/concepts/architecture.md) | ⭐ 686 | `development` |
-| [Serve Configuration](development/devops/serve-configuration_453a9e17/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/serve-configuration.md) | ⭐ 686 | `development` |
-| [Building](development/devops/building_15899040/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/building.md) | ⭐ 686 | `development` |
-| [Wsl2 Microphone Access](development/devops/wsl2-microphone-access_22de5ba9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/troubleshooting/wsl2-microphone-access.md) | ⭐ 686 | `development` |
-| [Service Commands](development/devops/service-commands_35efcf1f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/cli/service-commands.md) | ⭐ 686 | `development` |
+| [Livekit Setup](development/devops/192-livekit_setup_5764ce91/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/LIVEKIT_SETUP.md) | ⭐ 686 | `development` |
+| [Mcp Config Json](development/devops/193-mcp-config-json_4fcf3389/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/mcp-config-json.md) | ⭐ 686 | `development` |
+| [Migration Guide](development/devops/194-migration-guide_7db157fe/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/migration-guide.md) | ⭐ 686 | `development` |
+| [Openai Api Routing](development/devops/195-openai-api-routing_3626ac97/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/openai-api-routing.md) | ⭐ 686 | `development` |
+| [Using uv/uvx with Voice Mode](development/devops/196-uv_8cea5e8a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/uv.md) | ⭐ 686 | `development` |
+| [Architecture](development/devops/032-architecture_bb7f2396/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/concepts/architecture.md) | ⭐ 686 | `development` |
+| [Serve Configuration](development/devops/197-serve-configuration_453a9e17/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/serve-configuration.md) | ⭐ 686 | `development` |
+| [Building](development/devops/198-building_15899040/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/development/building.md) | ⭐ 686 | `development` |
+| [Wsl2 Microphone Access](development/devops/199-wsl2-microphone-access_22de5ba9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/troubleshooting/wsl2-microphone-access.md) | ⭐ 686 | `development` |
+| [Service Commands](development/devops/200-service-commands_35efcf1f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/cli/service-commands.md) | ⭐ 686 | `development` |
 
-### Development/Testing (15 skills)
+### Development/Testing (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7222,14 +7199,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_091e85e9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Create Epic Plan](development/testing/043-create-epic-plan_a80b8037/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/planning/create-epic-plan.md) | ⭐ 279 | `development` |
 | [Skill](development/testing/002-name-skill_c9a62198/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 14 | `development` |
-| [Development Setup](development/testing/development-setup_2db89922/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/tutorials/development-setup.md) | ⭐ 686 | `development` |
-| [Streaming Audio Playback](development/testing/streaming-audio-playback_f58fa76f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/streaming-audio-playback.md) | ⭐ 686 | `development` |
-| [Parameters](development/testing/parameters_22b2d883/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/parameters.md) | ⭐ 686 | `development` |
-| [Troubleshooting](development/testing/troubleshooting_dc28f864/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/troubleshooting.md) | ⭐ 686 | `development` |
-| [Selecting Voices](development/testing/selecting-voices_afb3898f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/selecting-voices.md) | ⭐ 686 | `development` |
-| [Converse Parameters](development/testing/converse-parameters_2b1b429c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/converse-parameters.md) | ⭐ 686 | `development` |
+| [Development Setup](development/testing/044-development-setup_2db89922/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/tutorials/development-setup.md) | ⭐ 686 | `development` |
+| [Streaming Audio Playback](development/testing/045-streaming-audio-playback_f58fa76f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/streaming-audio-playback.md) | ⭐ 686 | `development` |
+| [Parameters](development/testing/046-parameters_22b2d883/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/parameters.md) | ⭐ 686 | `development` |
+| [Troubleshooting](development/testing/027-troubleshooting_dc28f864/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/voice_mode/resources/docs/troubleshooting.md) | ⭐ 686 | `development` |
+| [Test Guard](development/testing/test_guard_ff788291/) | [Nova-Hunting/nova-tracer](https://raw.githubusercontent.com/Nova-Hunting/nova-tracer/main/cookbook/test_guard.md) | ⭐ 72 | `development` |
 
-### Development/Tools (68 skills)
+### Development/Tools (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7278,29 +7254,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architecture](development/tools/051-architecture_8ca6b514/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 14 | `development` |
 | [Getting Started](development/tools/210-getting_started_964f4a76/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/GETTING_STARTED.md) | ⭐ 14 | `development` |
 | [Getting Started](development/tools/210-getting_started_6fc5b467/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/GETTING_STARTED.md) | ⭐ 14 | `development` |
-| [Claude](development/tools/claude_90937ac2/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/CLAUDE.md) | ⭐ 686 | `development` |
-| [Install Robustness Analysis](development/tools/install-robustness-analysis_d8097af5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/install-robustness-analysis.md) | ⭐ 686 | `development` |
-| [Livekit Implementation Summary](development/tools/livekit-implementation-summary_d183ea4a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/livekit-implementation-summary.md) | ⭐ 686 | `development` |
-| [Livekit Service Design](development/tools/livekit-service-design_d145499f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/livekit-service-design.md) | ⭐ 686 | `development` |
-| [Npm Global No Sudo](development/tools/npm-global-no-sudo_9a1f7df5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/npm-global-no-sudo.md) | ⭐ 686 | `development` |
-| [Shell Completion](development/tools/shell-completion_7c94b166/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/shell-completion.md) | ⭐ 686 | `development` |
-| [Download Progress Spec](development/tools/download-progress-spec_63bb20a0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/architecture/download-progress-spec.md) | ⭐ 686 | `development` |
-| [Architecture](development/tools/architecture_3edf00a1/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 686 | `development` |
-| [Configuration](development/tools/configuration_7c28b70b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/configuration.md) | ⭐ 686 | `development` |
-| [Cli](development/tools/cli_62c2e5cb/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/cli.md) | ⭐ 686 | `development` |
-| [Tool Loading Architecture](development/tools/tool-loading-architecture_8e80c1de/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/tool-loading-architecture.md) | ⭐ 686 | `development` |
-| [Getting Started](development/tools/getting-started_f7f27edb/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/tutorials/getting-started.md) | ⭐ 686 | `development` |
-| [Mfp](development/tools/mfp_b9180a56/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/mfp.md) | ⭐ 686 | `development` |
-| [Converse](development/tools/converse_82b3937f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/commands/converse.md) | ⭐ 686 | `development` |
-| [Install](development/tools/install_2bda9709/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/commands/install.md) | ⭐ 686 | `development` |
-| [Install Services Feature](development/tools/install-services-feature_e894e418/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/install-services-feature.md) | ⭐ 686 | `development` |
-| [Claude Code Plugin](development/tools/claude-code-plugin_78c5489c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/claude-code-plugin.md) | ⭐ 686 | `development` |
-| [Pronunciation](development/tools/pronunciation_b7793a8f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/pronunciation.md) | ⭐ 686 | `development` |
-| [Selective Tool Loading](development/tools/selective-tool-loading_fa3671f3/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/selective-tool-loading.md) | ⭐ 686 | `development` |
-| [Skill](development/tools/name-skill_a467939b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/skills/voicemode-connect/SKILL.md) | ⭐ 686 | `development` |
-| [Mcp Tools](development/tools/mcp-tools_14d7af5c/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/reference/mcp-tools.md) | ⭐ 686 | `development` |
-| [Claude Code](development/tools/claude-code_62280e89/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/setup/claude-code.md) | ⭐ 686 | `development` |
-| [Chapters](development/tools/chapters_20874ccd/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/chapters.md) | ⭐ 686 | `development` |
+| [Claude](development/tools/017-claude_90937ac2/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/CLAUDE.md) | ⭐ 686 | `development` |
+| [Install Robustness Analysis](development/tools/211-install-robustness-analysis_d8097af5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/install-robustness-analysis.md) | ⭐ 686 | `development` |
+| [Livekit Implementation Summary](development/tools/212-livekit-implementation-summary_d183ea4a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/livekit-implementation-summary.md) | ⭐ 686 | `development` |
+| [Livekit Service Design](development/tools/213-livekit-service-design_d145499f/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/livekit-service-design.md) | ⭐ 686 | `development` |
+| [Npm Global No Sudo](development/tools/214-npm-global-no-sudo_9a1f7df5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/npm-global-no-sudo.md) | ⭐ 686 | `development` |
+| [Shell Completion](development/tools/215-shell-completion_7c94b166/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/shell-completion.md) | ⭐ 686 | `development` |
+| [Download Progress Spec](development/tools/216-download-progress-spec_63bb20a0/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/architecture/download-progress-spec.md) | ⭐ 686 | `development` |
+| [Architecture](development/tools/051-architecture_3edf00a1/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 686 | `development` |
+| [Configuration](development/tools/189-configuration_7c28b70b/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/guides/configuration.md) | ⭐ 686 | `development` |
+| [Cli](development/tools/217-cli_62c2e5cb/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/cli.md) | ⭐ 686 | `development` |
+| [Tool Loading Architecture](development/tools/218-tool-loading-architecture_8e80c1de/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/tool-loading-architecture.md) | ⭐ 686 | `development` |
+| [Getting Started](development/tools/219-getting-started_f7f27edb/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/tutorials/getting-started.md) | ⭐ 686 | `development` |
+| [Mfp](development/tools/220-mfp_b9180a56/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/mfp.md) | ⭐ 686 | `development` |
 
 ### Investment (48 skills)
 
@@ -7353,7 +7319,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Styles](investment/028-styles_203e296d/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/styles.md) | ⭐ 17 | `investment` |
 | [交通物流行业研究](investment/029-交通物流行业研究_2c4e4bb9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/交通物流行业研究.md) | ⭐ 17 | `investment` |
 | [医疗健康行业研究](investment/030-医疗健康行业研究_7c38064e/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/医疗健康行业研究.md) | ⭐ 17 | `investment` |
-| [2025 07 03 Gemini](investment/2025-07-03-gemini_b319be9a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-gemini.md) | ⭐ 686 | `investment` |
+| [2025 07 03 Gemini](investment/031-2025-07-03-gemini_b319be9a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-philosophy/ai-log/2025-07-03-gemini.md) | ⭐ 686 | `investment` |
 
 ### Other (43 skills)
 
@@ -7631,9 +7597,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Instructions](productivity/142-instructions_5936da44/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/.claude/skills/got-controller/instructions.md) | ⭐ 17 | `productivity` |
 | [其他行业研究](productivity/143-其他行业研究_ba1e5db2/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/AI_Industry_Applications/research_notes/其他行业研究.md) | ⭐ 17 | `productivity` |
 | [Create Epic Discovery](productivity/023-create-epic-discovery_99ed95f7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/project/discovery/create-epic-discovery.md) | ⭐ 279 | `productivity` |
-| [Mama Bear](productivity/mama-bear_dea41154/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/agents/mama-bear.md) | ⭐ 686 | `productivity` |
-| [Audio Format Migration](productivity/audio-format-migration_dbaae15d/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/audio-format-migration.md) | ⭐ 686 | `productivity` |
-| [Statistics Dashboard](productivity/statistics-dashboard_000a82c5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/statistics-dashboard.md) | ⭐ 686 | `productivity` |
+| [Mama Bear](productivity/144-mama-bear_dea41154/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/agents/mama-bear.md) | ⭐ 686 | `productivity` |
+| [Audio Format Migration](productivity/145-audio-format-migration_dbaae15d/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/audio-format-migration.md) | ⭐ 686 | `productivity` |
+| [Statistics Dashboard](productivity/146-statistics-dashboard_000a82c5/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/statistics-dashboard.md) | ⭐ 686 | `productivity` |
 
 ### Research (354 skills)
 
@@ -7992,7 +7958,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Verification Checklist](research/221-verification_checklist_4e67fb0b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/RESEARCH/Michael_Jackson_China_Popularity/sources/verification_checklist.md) | ⭐ 17 | `research` |
 | [Seo Geo 1K Installs Milestone](research/222-seo-geo-1k-installs-milestone_0d6c890d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/website/blog/posts/seo-geo-1k-installs-milestone.md) | ⭐ 69 | `research` |
 | [Skill](research/139-name-skill_dd27ab39/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/text-processor/SKILL.md) | ⭐ 14 | `research` |
-| [2025 07 03 2 Claude](research/2025-07-03-2_claude_34509a1e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-2_claude.md) | ⭐ 686 | `research` |
+| [2025 07 03 2 Claude](research/223-2025-07-03-2_claude_34509a1e/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/conversations/2025-07-03-claude-gemini-human-creativity/ai-log/2025-07-03-2_claude.md) | ⭐ 686 | `research` |
 
 ## Repository Structure
 
