@@ -10,10 +10,10 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (55 skills)
-- **Automation/Workflow** (106 skills)
+- **Automation/Workflow** (105 skills)
 - **Commercial** (551 skills)
 - **Communication** (351 skills)
-- **Content Creation** (564 skills)
+- **Content Creation** (565 skills)
 - **Daily Assistant** (361 skills)
 - **Data Analysis** (856 skills)
 - **Development** (4264 skills)
@@ -765,7 +765,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
 | [Skill](automation/scripting/003-name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
 
-### Automation/Workflow (106 skills)
+### Automation/Workflow (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -873,8 +873,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_12c60b98/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zoom-automation/SKILL.md) | 🔥 7.5k | `automation` |
 | [Backlog](automation/workflow/063-backlog_6e97503d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
 | [Skill](automation/workflow/064-description-skill_f7606f9c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/rt-ica/SKILL.md) | ⭐ 16 | `automation` |
-| [Scheme2 Split](automation/workflow/scheme2_split_bef66ac1/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/SCHEME2_SPLIT.md) | ⭐ 74 | `automation` |
-| [Agents](automation/workflow/agents_ffd539c3/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/AGENTS.md) | ⭐ 74 | `automation` |
+| [Scheme2 Split](automation/workflow/063-scheme2_split_bef66ac1/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/SCHEME2_SPLIT.md) | ⭐ 74 | `automation` |
 
 ### Commercial (551 skills)
 
@@ -1788,7 +1787,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V0.4.0](communication/207-v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
 | [Release Notes](communication/208-release_notes_84ab7276/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 7.5k | `communication` |
 
-### Content Creation (564 skills)
+### Content Creation (565 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2356,6 +2355,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_68b5d737/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.cursor/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
 | [Skill](content-creation/049-name-skill_c95cc5f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
 | [Skill](content-creation/049-name-skill_7b1cf7a4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
+| [Portrait Master 2.9.2](content-creation/portrait_master_292_9969722e/) | [florestefano1975/comfyui-portrait-master](https://raw.githubusercontent.com/florestefano1975/comfyui-portrait-master/main/PORTRAIT_MASTER_2.9.2.md) | ⭐ 1.2k | `content creation` |
 
 ### Daily Assistant (361 skills)
 
