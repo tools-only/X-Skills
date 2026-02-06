@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8706 AI-powered skills** organized into 16 categories.
+A curated collection of **8641 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (70 skills)
-- **Automation/Workflow** (85 skills)
-- **Commercial** (553 skills)
-- **Communication** (350 skills)
-- **Content Creation** (564 skills)
-- **Daily Assistant** (370 skills)
-- **Data Analysis** (858 skills)
+- **Automation/Scripting** (54 skills)
+- **Automation/Workflow** (80 skills)
+- **Commercial** (551 skills)
+- **Communication** (349 skills)
+- **Content Creation** (554 skills)
+- **Daily Assistant** (359 skills)
+- **Data Analysis** (855 skills)
 - **Development** (4243 skills)
 - **Development/Devops** (77 skills)
-- **Development/Testing** (26 skills)
-- **Development/Tools** (128 skills)
+- **Development/Testing** (25 skills)
+- **Development/Tools** (114 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (235 skills)
-- **Research** (380 skills)
+- **Research** (378 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (70 skills)
+### Automation/Scripting (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -758,29 +758,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Trk Resolve](automation/scripting/060-trk-resolve_1f7f3d55/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk-resolve.md) | ⭐ 196 | `automation` |
 | [Trk Review](automation/scripting/061-trk-review_b3f831fe/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk-review.md) | ⭐ 196 | `automation` |
 | [Trk](automation/scripting/062-trk_700974a3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk.md) | ⭐ 196 | `automation` |
-| [Skill](automation/scripting/name-skill_dde6681f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-skill-info/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_e3d025ec/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-tool-info/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_2b6a1dc0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-user-profile/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_049a0b2d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/skip-profile-question/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
-| [Bug Report](automation/scripting/bug_report_3496f8e1/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_1384ab4b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/add-memory/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_afed1edb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-open/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_10a8e2ea/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/call-mcp-tool/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_3f553a5a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-inspect/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_b912186e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-mcp-instructions/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_d1201206/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-memory-stats/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_2ba50da7/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-skill-reference/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_dd4eaeac/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/list-mcp-servers/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_a0ccce48/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/load-skill/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_3c59064c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/reload-skill/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_3cf0e413/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/search-memory/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_7cfa2a83/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/send-to-chat/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/scripting/name-skill_8ddbe2b8/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/template/SKILL.md) | ⭐ 165 | `automation` |
-| [Gifs](automation/scripting/gifs_db5d84bb/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/gifs.md) | ⭐ 165 | `automation` |
-| [Light Leaks](automation/scripting/light-leaks_17d2f136/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/light-leaks.md) | ⭐ 165 | `automation` |
+| [Skill](automation/scripting/003-name-skill_dde6681f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-skill-info/SKILL.md) | ⭐ 24 | `automation` |
+| [Skill](automation/scripting/003-name-skill_e3d025ec/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-tool-info/SKILL.md) | ⭐ 24 | `automation` |
+| [Skill](automation/scripting/003-name-skill_2b6a1dc0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-user-profile/SKILL.md) | ⭐ 24 | `automation` |
+| [Skill](automation/scripting/003-name-skill_049a0b2d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/skip-profile-question/SKILL.md) | ⭐ 24 | `automation` |
+| [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
 
-### Automation/Workflow (85 skills)
+### Automation/Workflow (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -863,14 +847,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_91835c0b/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zendesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
 | [Skill](automation/workflow/002-name-skill_6b305325/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoho-crm-automation/SKILL.md) | 🔥 30.9k | `automation` |
 | [Skill](automation/workflow/002-name-skill_74dd9779/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoom-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_d75b1d65/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/project-development/SKILL.md) | ⭐ 165 | `automation` |
-| [Skill](automation/workflow/name-skill_947a6f8d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-navigate/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/workflow/name-skill_5bd209f6/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-screenshot/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/workflow/name-skill_064c44c2/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-switch-tab/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/workflow/name-skill_32a11785/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-image-file/SKILL.md) | ⭐ 24 | `automation` |
-| [Skill](automation/workflow/name-skill_81815c7b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/run-skill-script/SKILL.md) | ⭐ 24 | `automation` |
+| [Skill](automation/workflow/002-name-skill_d75b1d65/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/project-development/SKILL.md) | ⭐ 165 | `automation` |
 
-### Commercial (553 skills)
+### Commercial (551 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1419,16 +1398,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_d978ee80/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 196 | `commercial` |
 | [Skill](commercial/210-name-skill_2248ea3e/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/shopify-automation/SKILL.md) | 🔥 30.9k | `commercial` |
 | [Skill](commercial/210-name-skill_0c790074/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/stripe-automation/SKILL.md) | 🔥 30.9k | `commercial` |
-| [Specification](commercial/specification_4bd9bd28/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/spec/Specification.md) | ⭐ 165 | `commercial` |
-| [Skill](commercial/name-skill_4aaa4192/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/SKILL.md) | ⭐ 165 | `commercial` |
-| [Skill](commercial/name-skill_11cde65d/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/SKILL.md) | ⭐ 165 | `commercial` |
-| [Skill](commercial/name-skill_96fa481e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/memory-systems/SKILL.md) | ⭐ 165 | `commercial` |
-| [Framework Integration](commercial/framework-integration_57076065/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/framework-integration.md) | ⭐ 165 | `commercial` |
-| [Implementation](commercial/implementation_505be1ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/memory-systems/references/implementation.md) | ⭐ 165 | `commercial` |
-| [System Commands](commercial/system-commands_5b62d3ac/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/system-commands.md) | ⭐ 24 | `commercial` |
-| [Skill](commercial/name-skill_858bc81e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-window/SKILL.md) | ⭐ 24 | `commercial` |
+| [Specification](commercial/306-specification_4bd9bd28/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/spec/Specification.md) | ⭐ 165 | `commercial` |
+| [Skill](commercial/210-name-skill_4aaa4192/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/SKILL.md) | ⭐ 165 | `commercial` |
+| [Skill](commercial/210-name-skill_11cde65d/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/SKILL.md) | ⭐ 165 | `commercial` |
+| [Skill](commercial/210-name-skill_96fa481e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/memory-systems/SKILL.md) | ⭐ 165 | `commercial` |
+| [Framework Integration](commercial/307-framework-integration_57076065/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/framework-integration.md) | ⭐ 165 | `commercial` |
+| [Implementation](commercial/308-implementation_505be1ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/memory-systems/references/implementation.md) | ⭐ 165 | `commercial` |
 
-### Communication (350 skills)
+### Communication (349 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1776,14 +1753,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Troubleshooting](communication/203-troubleshooting_bb7b5a63/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/troubleshooting.md) | ⭐ 116 | `communication` |
 | [Skill](communication/127-name-skill_230e0b87/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect-apps/SKILL.md) | 🔥 30.9k | `communication` |
 | [Skill](communication/127-name-skill_b26af6b3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect/SKILL.md) | 🔥 30.9k | `communication` |
-| [Api Comparison Openai Anthropic](communication/api-comparison-openai-anthropic_b5351691/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/api-comparison-openai-anthropic.md) | ⭐ 24 | `communication` |
-| [Configuration](communication/configuration_4132f047/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 24 | `communication` |
-| [Skill](communication/name-skill_b8c71774/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-chat-history/SKILL.md) | ⭐ 24 | `communication` |
-| [Context Components](communication/context-components_a2deabba/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-fundamentals/references/context-components.md) | ⭐ 165 | `communication` |
-| [Skill](communication/name-skill_81f89378/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-voice-file/SKILL.md) | ⭐ 24 | `communication` |
-| [Rdf Examples](communication/rdf-examples_d9de470b/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/rdf-examples.md) | ⭐ 165 | `communication` |
+| [Api Comparison Openai Anthropic](communication/204-api-comparison-openai-anthropic_b5351691/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/api-comparison-openai-anthropic.md) | ⭐ 24 | `communication` |
+| [Configuration](communication/035-configuration_4132f047/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 24 | `communication` |
+| [Skill](communication/127-name-skill_b8c71774/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-chat-history/SKILL.md) | ⭐ 24 | `communication` |
+| [Context Components](communication/205-context-components_a2deabba/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-fundamentals/references/context-components.md) | ⭐ 165 | `communication` |
+| [Web Search](communication/web_search_fb15cfed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/web_search.md) | 🔥 35.3k | `communication` |
 
-### Content Creation (564 skills)
+### Content Creation (554 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2336,23 +2312,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Write Adr](content-creation/252-write-adr_70d98193/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-analysis/commands/write-adr.md) | ⭐ 17 | `content creation` |
 | [Draft Docs](content-creation/253-draft-docs_f41a4df1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-docs/commands/draft-docs.md) | ⭐ 17 | `content creation` |
 | [Improve Doc](content-creation/254-improve-doc_7a71bbff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-docs/commands/improve-doc.md) | ⭐ 17 | `content creation` |
-| [Skill](content-creation/name-skill_59a971e9/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/file-manager/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/name-skill_1794e3a8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/write-file/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/name-skill_0c5d35f1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/SKILL.md) | ⭐ 165 | `content creation` |
-| [Skill](content-creation/name-skill_2b01f105/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/obsidian-bases/SKILL.md) | ⭐ 165 | `content creation` |
-| [Implementation Patterns](content-creation/implementation-patterns_78380a2f/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/filesystem-context/references/implementation-patterns.md) | ⭐ 165 | `content creation` |
-| [Tool System](content-creation/tool-system_5eb0028a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/specs/tool-system.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/name-skill_2eb44cf9/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-get-content/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/name-skill_756b427f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/list-directory/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/name-skill_f423e762/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/read-file/SKILL.md) | ⭐ 24 | `content creation` |
-| [Skill](content-creation/name-skill_8ea30b98/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/run-shell/SKILL.md) | ⭐ 24 | `content creation` |
-| [Testing Skills With Subagents](content-creation/testing-skills-with-subagents_c7113468/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/writing-skills/testing-skills-with-subagents.md) | ⭐ 165 | `content creation` |
-| [Audio](content-creation/audio_e931664a/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/audio.md) | ⭐ 165 | `content creation` |
-| [Display Captions](content-creation/display-captions_20b8898a/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/display-captions.md) | ⭐ 165 | `content creation` |
-| [Subtitles](content-creation/subtitles_9f18ec4a/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/subtitles.md) | ⭐ 165 | `content creation` |
-| [Transcribe Captions](content-creation/transcribe-captions_ad1a62af/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/transcribe-captions.md) | ⭐ 165 | `content creation` |
+| [Skill](content-creation/049-name-skill_59a971e9/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/file-manager/SKILL.md) | ⭐ 24 | `content creation` |
+| [Skill](content-creation/049-name-skill_1794e3a8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/write-file/SKILL.md) | ⭐ 24 | `content creation` |
+| [Skill](content-creation/049-name-skill_0c5d35f1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/SKILL.md) | ⭐ 165 | `content creation` |
+| [Skill](content-creation/049-name-skill_2b01f105/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/obsidian-bases/SKILL.md) | ⭐ 165 | `content creation` |
+| [Implementation Patterns](content-creation/255-implementation-patterns_78380a2f/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/filesystem-context/references/implementation-patterns.md) | ⭐ 165 | `content creation` |
 
-### Daily Assistant (370 skills)
+### Daily Assistant (359 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2708,26 +2674,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_24a40d24/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/microsoft-teams-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_42a8741a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/outlook-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f81e88a2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/outlook-calendar-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
-| [Skill Loading Architecture](daily-assistant/skill-loading-architecture_5b393952/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skill-loading-architecture.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_481eded0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/cancel-scheduled-task/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_9ce7a02d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/list-scheduled-tasks/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_53828209/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-scheduled-task/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Bdi Ontology Core](daily-assistant/bdi-ontology-core_bfbd9ae4/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/bdi-ontology-core.md) | ⭐ 165 | `daily assistant` |
-| [Sparql Competency](daily-assistant/sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
-| [Evaluation Framework](daily-assistant/evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
-| [Test Cases](daily-assistant/test-cases_d6f904ee/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/test-cases.md) | ⭐ 24 | `daily assistant` |
-| [Selfcheck System](daily-assistant/selfcheck_system_d9d485c2/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/prompts/selfcheck_system.md) | ⭐ 24 | `daily assistant` |
-| [Prompt Build](daily-assistant/prompt_build_8b4625c8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompts/PROMPT_build.md) | ⭐ 24 | `daily assistant` |
-| [Prompt Plan](daily-assistant/prompt_plan_65f5b677/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompts/PROMPT_plan.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_873e4651/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-list-tabs/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_4ef0a741/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-new-tab/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_c4dc9f13/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/enable-thinking/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_e83c3c82/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/list-skills/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_6fab1852/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/schedule-task/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_21e4ef9d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/trigger-scheduled-task/SKILL.md) | ⭐ 24 | `daily assistant` |
-| [Metrics Guide](daily-assistant/metrics-guide_3882bf84/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/metrics-guide.md) | ⭐ 165 | `daily assistant` |
+| [Skill Loading Architecture](daily-assistant/197-skill-loading-architecture_5b393952/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skill-loading-architecture.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_481eded0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/cancel-scheduled-task/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_9ce7a02d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/list-scheduled-tasks/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_53828209/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-scheduled-task/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Bdi Ontology Core](daily-assistant/198-bdi-ontology-core_bfbd9ae4/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/bdi-ontology-core.md) | ⭐ 165 | `daily assistant` |
+| [Sparql Competency](daily-assistant/199-sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
+| [Evaluation Framework](daily-assistant/200-evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
 
-### Data Analysis (858 skills)
+### Data Analysis (855 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3578,17 +3533,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Smd Interpretation](data-analysis/373-smd_interpretation_3d9eb8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/equiflow/references/smd_interpretation.md) | ⭐ 10 | `data analysis` |
 | [Stories](data-analysis/374-stories_85ad7d15/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/docs/stories.md) | ⭐ 386 | `data analysis` |
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_16889531/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 17 | `data analysis` |
-| [Llm Tool Call Formats](data-analysis/llm-tool-call-formats_c43fa426/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm-tool-call-formats.md) | ⭐ 24 | `data analysis` |
-| [Memory Architecture](data-analysis/memory_architecture_095a8125/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/memory_architecture.md) | ⭐ 24 | `data analysis` |
-| [Skill](data-analysis/name-skill_9a541f2c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/datetime-tool/SKILL.md) | ⭐ 24 | `data analysis` |
-| [Skill](data-analysis/name-skill_bcd6b934/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/SKILL.md) | ⭐ 165 | `data analysis` |
-| [Skill](data-analysis/name-skill_12a65fac/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/ui-ux-pro-max/SKILL.md) | ⭐ 165 | `data analysis` |
-| [Skill](data-analysis/name-skill_de9dcde3/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/using-git-worktrees/SKILL.md) | ⭐ 165 | `data analysis` |
-| [Patterns](data-analysis/patterns_da00f69e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/references/patterns.md) | ⭐ 165 | `data analysis` |
-| [Architectural Reduction](data-analysis/architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
-| [Charts](data-analysis/charts_c6863bd1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/charts.md) | ⭐ 165 | `data analysis` |
-| [Transitions](data-analysis/transitions_f6b0ca21/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/transitions.md) | ⭐ 165 | `data analysis` |
-| [Skill](data-analysis/name-skill_de98096c/) | [TW-NLP/DeepAgentForce](https://raw.githubusercontent.com/TW-NLP/DeepAgentForce/master/src/services/skills/rag-query/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Llm Tool Call Formats](data-analysis/376-llm-tool-call-formats_c43fa426/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm-tool-call-formats.md) | ⭐ 24 | `data analysis` |
+| [Memory Architecture](data-analysis/377-memory_architecture_095a8125/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/memory_architecture.md) | ⭐ 24 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9a541f2c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/datetime-tool/SKILL.md) | ⭐ 24 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bcd6b934/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/SKILL.md) | ⭐ 165 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_12a65fac/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/ui-ux-pro-max/SKILL.md) | ⭐ 165 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_de9dcde3/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/using-git-worktrees/SKILL.md) | ⭐ 165 | `data analysis` |
+| [Patterns](data-analysis/165-patterns_da00f69e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/references/patterns.md) | ⭐ 165 | `data analysis` |
+| [Architectural Reduction](data-analysis/378-architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
 
 ### Development (4243 skills)
 
@@ -7821,22 +7773,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_16b3e960/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_69e817ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_e0b46a78/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
-| [Getting Started](development/getting-started_7cdf057e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/getting-started.md) | ⭐ 24 | `development` |
-| [Prompt Structure](development/prompt_structure_5ea1ea3f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 24 | `development` |
-| [Skill System](development/skill-system_08423247/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/specs/skill-system.md) | ⭐ 24 | `development` |
-| [Skill](development/name-skill_f512269e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-user-profile/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/name-skill_1699984e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/SKILL.md) | ⭐ 165 | `development` |
-| [Skill](development/name-skill_4f6b7002/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-fundamentals/SKILL.md) | ⭐ 165 | `development` |
-| [Skill](development/name-skill_742816fb/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/hosted-agents/SKILL.md) | ⭐ 165 | `development` |
-| [Skill](development/name-skill_50fd2c27/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/obsidian-markdown/SKILL.md) | ⭐ 165 | `one` `two` |
-| [Skill](development/name-skill_0f1d9661/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/SKILL.md) | ⭐ 165 | `development` |
-| [Skill](development/name-skill_d83a09d6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/writing-skills/SKILL.md) | ⭐ 165 | `development` |
-| [Implementation Patterns](development/implementation-patterns_73711fad/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/implementation-patterns.md) | ⭐ 165 | `development` |
-| [Infrastructure Patterns](development/infrastructure-patterns_553a8f56/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/hosted-agents/references/infrastructure-patterns.md) | ⭐ 165 | `development` |
-| [Maps](development/maps_80556e5d/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/maps.md) | ⭐ 165 | `development` |
-| [Best Practices](development/best_practices_3dc82e05/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/best_practices.md) | ⭐ 165 | `development` |
-| [Testing](development/testing_a0776e1a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/testing.md) | ⭐ 24 | `development` |
-| [Transparent Videos](development/transparent-videos_394ccda4/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/transparent-videos.md) | ⭐ 165 | `development` |
+| [Getting Started](development/421-getting-started_7cdf057e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/getting-started.md) | ⭐ 24 | `development` |
+| [Prompt Structure](development/2075-prompt_structure_5ea1ea3f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 24 | `development` |
+| [Skill System](development/1185-skill-system_08423247/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/specs/skill-system.md) | ⭐ 24 | `development` |
+| [Skill](development/1178-name-skill_f512269e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-user-profile/SKILL.md) | ⭐ 24 | `development` |
+| [Skill](development/1178-name-skill_1699984e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/SKILL.md) | ⭐ 165 | `development` |
+| [Skill](development/1178-name-skill_4f6b7002/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-fundamentals/SKILL.md) | ⭐ 165 | `development` |
+| [Skill](development/1178-name-skill_742816fb/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/hosted-agents/SKILL.md) | ⭐ 165 | `development` |
+| [Skill](development/1178-name-skill_50fd2c27/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/obsidian-markdown/SKILL.md) | ⭐ 165 | `one` `two` |
+| [Skill](development/1178-name-skill_0f1d9661/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/SKILL.md) | ⭐ 165 | `development` |
+| [Skill](development/1178-name-skill_d83a09d6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/writing-skills/SKILL.md) | ⭐ 165 | `development` |
+| [Implementation Patterns](development/2076-implementation-patterns_73711fad/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/implementation-patterns.md) | ⭐ 165 | `development` |
+| [Infrastructure Patterns](development/2077-infrastructure-patterns_553a8f56/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/hosted-agents/references/infrastructure-patterns.md) | ⭐ 165 | `development` |
+| [Maps](development/2078-maps_80556e5d/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/maps.md) | ⭐ 165 | `development` |
+| [Best Practices](development/103-best_practices_3dc82e05/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/best_practices.md) | ⭐ 165 | `development` |
+| [Elevenlabs](development/elevenlabs_a8befa14/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/elevenlabs.md) | 🔥 35.3k | `development` |
+| [Technical Debt Manager](development/technical-debt-manager_a3abebac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/technical-debt-manager.md) | 🔥 19.5k | `development` |
 
 ### Development/Devops (77 skills)
 
@@ -7912,15 +7864,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Cn](development/devops/192-readme_cn_de79e993/) | [yym68686/uni-api](https://raw.githubusercontent.com/yym68686/uni-api/main/README_CN.md) | ⭐ 1.2k | `development` |
 | [038 Multi Worker Session Affinity](development/devops/193-038-multi-worker-session-affinity_55e728ff/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/038-multi-worker-session-affinity.md) | ⭐ 3.2k | `development` |
 | [Skill](development/devops/014-name-skill_def7dff8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/github-automation/SKILL.md) | 🔥 30.9k | `development` |
-| [Readme Cn](development/devops/readme_cn_ca97b526/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 24 | `development` |
-| [Deploy](development/devops/deploy_4cb3552e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 24 | `development` |
-| [Deploy En](development/devops/deploy_en_097d9ccb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 24 | `development` |
-| [Im Channels](development/devops/im-channels_eda9e5ad/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channels.md) | ⭐ 24 | `development` |
-| [Instructions](development/devops/instructions_3a431a0e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/mcps/web-search/INSTRUCTIONS.md) | ⭐ 24 | `development` |
-| [Antigravity Skills Manual.En](development/devops/antigravity_skills_manualen_fd50e106/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/docs/Antigravity_Skills_Manual.en.md) | ⭐ 165 | `development` |
-| [Antigravity Skills Manual.Zh Cn](development/devops/antigravity_skills_manualzh-cn_8d7d1397/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/docs/Antigravity_Skills_Manual.zh-CN.md) | ⭐ 165 | `development` |
+| [Readme Cn](development/devops/194-readme_cn_ca97b526/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 24 | `development` |
+| [Deploy](development/devops/037-deploy_4cb3552e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 24 | `development` |
+| [Deploy En](development/devops/195-deploy_en_097d9ccb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 24 | `development` |
+| [Im Channels](development/devops/196-im-channels_eda9e5ad/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channels.md) | ⭐ 24 | `development` |
+| [Instructions](development/devops/197-instructions_3a431a0e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/mcps/web-search/INSTRUCTIONS.md) | ⭐ 24 | `development` |
+| [Antigravity Skills Manual.En](development/devops/198-antigravity_skills_manualen_fd50e106/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/docs/Antigravity_Skills_Manual.en.md) | ⭐ 165 | `development` |
+| [Antigravity Skills Manual.Zh Cn](development/devops/199-antigravity_skills_manualzh-cn_8d7d1397/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/docs/Antigravity_Skills_Manual.zh-CN.md) | ⭐ 165 | `development` |
 
-### Development/Testing (26 skills)
+### Development/Testing (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7949,9 +7901,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](development/testing/051-configuration_7d081d7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/configuration.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
-| [Feature Request](development/testing/feature_request_93e0cc56/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 24 | `development` |
 
-### Development/Tools (128 skills)
+### Development/Tools (114 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8060,29 +8011,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](development/tools/017-claude_f42a86f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/CLAUDE.md) | ⭐ 89 | `development` |
 | [Skill](development/tools/002-name-skill_6db367cf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
 | [2026 02 05 Marketplace Full Reorganization](development/tools/214-2026-02-05-marketplace-full-reorganization_4208f564/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/docs/plans/2026-02-05-marketplace-full-reorganization.md) | ⭐ 17 | `development` |
-| [Architecture](development/tools/architecture_2c914956/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/architecture.md) | ⭐ 24 | `development` |
-| [Dependencies](development/tools/dependencies_4fdaf659/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/dependencies.md) | ⭐ 24 | `development` |
-| [Mcp Integration](development/tools/mcp-integration_4cbfc8ac/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/mcp-integration.md) | ⭐ 24 | `development` |
-| [Skills](development/tools/openakita-skill_32d73c3e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skills.md) | ⭐ 24 | `development` |
-| [Tool Definition Spec](development/tools/tool-definition-spec_5bdb07bc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-definition-spec.md) | ⭐ 24 | `development` |
-| [Tool System Architecture](development/tools/tool-system-architecture_823aebaa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 24 | `development` |
-| [Project Rules](development/tools/project-rules_adce99af/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.cursor/rules/project-rules.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_87bf532d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-click/SKILL.md) | ⭐ 24 | `development` |
-| [Readme.Zh Cn](development/tools/readmezh-cn_a3d2d440/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/README.zh-CN.md) | ⭐ 165 | `development` |
-| [Core Agent](development/tools/core-agent_bf2d3584/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/specs/core-agent.md) | ⭐ 24 | `development` |
-| [Reference](development/tools/reference_45585a6b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/datetime-tool/references/REFERENCE.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_b80ac5da/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-status/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_b86bb75c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-task/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_839b96c8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-type/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_a3964a18/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-click/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_a3d34e1c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-find-element/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_122ba7eb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-hotkey/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_947df9eb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-screenshot/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_8ff5c1d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-scroll/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_3b1f28b5/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-type/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_d09125b7/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/desktop-wait/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_3e925ed7/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-session-logs/SKILL.md) | ⭐ 24 | `development` |
-| [Skill](development/tools/name-skill_f7460531/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/install-skill/SKILL.md) | ⭐ 24 | `development` |
+| [Architecture](development/tools/051-architecture_2c914956/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/architecture.md) | ⭐ 24 | `development` |
+| [Dependencies](development/tools/215-dependencies_4fdaf659/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/dependencies.md) | ⭐ 24 | `development` |
+| [Mcp Integration](development/tools/216-mcp-integration_4cbfc8ac/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/mcp-integration.md) | ⭐ 24 | `development` |
+| [Skills](development/tools/217-openakita-skill_32d73c3e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skills.md) | ⭐ 24 | `development` |
+| [Tool Definition Spec](development/tools/218-tool-definition-spec_5bdb07bc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-definition-spec.md) | ⭐ 24 | `development` |
+| [Tool System Architecture](development/tools/219-tool-system-architecture_823aebaa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 24 | `development` |
+| [Project Rules](development/tools/220-project-rules_adce99af/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.cursor/rules/project-rules.md) | ⭐ 24 | `development` |
+| [Skill](development/tools/002-name-skill_87bf532d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-click/SKILL.md) | ⭐ 24 | `development` |
+| [Readme.Zh Cn](development/tools/221-readmezh-cn_a3d2d440/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/README.zh-CN.md) | ⭐ 165 | `development` |
 
 ### Investment (51 skills)
 
@@ -8427,9 +8364,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](productivity/151-patterns_404e83d1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/patterns.md) | ⭐ 392 | `productivity` |
 | [Skill](productivity/093-name-skill_c11b3f51/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/critical-peer-personality/SKILL.md) | ⭐ 196 | `productivity` |
 | [Conversation Efficiency Analyzer](productivity/144-conversation-efficiency-analyzer_859a5337/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/conversation-efficiency-analyzer.md) | ⭐ 196 | `productivity` |
-| [Optimization Techniques](productivity/optimization_techniques_8fa1c2ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/references/optimization_techniques.md) | ⭐ 165 | `productivity` |
+| [Optimization Techniques](productivity/145-optimization_techniques_8fa1c2ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/references/optimization_techniques.md) | ⭐ 165 | `productivity` |
 
-### Research (380 skills)
+### Research (378 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8806,13 +8743,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](research/158-reference_ede69581/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
 | [Skill](research/139-name-skill_8a878283/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/frontend_inferencer/SKILL.md) | ⭐ 23 | `research` |
 | [Aleph](research/196-aleph_79d0c04a/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
-| [Skill](research/name-skill_a34f285e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/SKILL.md) | ⭐ 165 | `research` |
-| [Skill](research/name-skill_adab491a/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/evaluation/SKILL.md) | ⭐ 165 | `research` |
-| [Skill](research/name-skill_f1fe29aa/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/filesystem-context/SKILL.md) | ⭐ 165 | `research` |
-| [Skill](research/name-skill_174481b1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/json-canvas/SKILL.md) | ⭐ 165 | `research` |
-| [Bias Mitigation](research/bias-mitigation_bf43f18e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/bias-mitigation.md) | ⭐ 165 | `research` |
-| [Metrics](research/metrics_342db411/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/evaluation/references/metrics.md) | ⭐ 165 | `research` |
-| [Import Srt Captions](research/import-srt-captions_ad89cc18/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/remotion/rules/import-srt-captions.md) | ⭐ 165 | `research` |
+| [Skill](research/139-name-skill_a34f285e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/SKILL.md) | ⭐ 165 | `research` |
+| [Skill](research/139-name-skill_adab491a/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/evaluation/SKILL.md) | ⭐ 165 | `research` |
+| [Skill](research/139-name-skill_f1fe29aa/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/filesystem-context/SKILL.md) | ⭐ 165 | `research` |
+| [Skill](research/139-name-skill_174481b1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/json-canvas/SKILL.md) | ⭐ 165 | `research` |
+| [Bias Mitigation](research/223-bias-mitigation_bf43f18e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/bias-mitigation.md) | ⭐ 165 | `research` |
 
 ## Repository Structure
 
