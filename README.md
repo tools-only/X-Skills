@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8956 AI-powered skills** organized into 16 categories.
+A curated collection of **8986 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,18 +10,18 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (58 skills)
-- **Automation/Workflow** (121 skills)
-- **Commercial** (567 skills)
+- **Automation/Workflow** (122 skills)
+- **Commercial** (569 skills)
 - **Communication** (355 skills)
-- **Content Creation** (571 skills)
-- **Daily Assistant** (377 skills)
-- **Data Analysis** (872 skills)
-- **Development** (4328 skills)
-- **Development/Devops** (129 skills)
+- **Content Creation** (578 skills)
+- **Daily Assistant** (378 skills)
+- **Data Analysis** (874 skills)
+- **Development** (4339 skills)
+- **Development/Devops** (130 skills)
 - **Development/Testing** (34 skills)
-- **Development/Tools** (152 skills)
-- **Investment** (55 skills)
-- **Other** (44 skills)
+- **Development/Tools** (153 skills)
+- **Investment** (57 skills)
+- **Other** (46 skills)
 - **Productivity** (240 skills)
 - **Research** (381 skills)
 
@@ -768,7 +768,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_0f7a2798/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-env-finder/SKILL.md) | ⭐ 12 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7388e852/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/fan-out/SKILL.md) | ⭐ 44 | `automation` |
 
-### Automation/Workflow (121 skills)
+### Automation/Workflow (122 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -893,8 +893,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_e5d8fff3/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/SKILL.md) | ⭐ 1.6k | `automation` |
 | [Skill](automation/workflow/002-name-skill_c59d5c47/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/SKILL.md) | ⭐ 1.6k | `automation` |
 | [Gtm Efficiency Benchmarks](automation/workflow/075-gtm-efficiency-benchmarks_26e1cc88/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/gtm-efficiency-benchmarks.md) | ⭐ 1.6k | `automation` |
+| [Skill Patterns](automation/workflow/skill-patterns_78c8468b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 176 | `automation` |
 
-### Commercial (567 skills)
+### Commercial (569 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1465,6 +1466,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_987fc439/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/careful-delete/SKILL.md) | ⭐ 44 | `commercial` |
 | [Skill](commercial/210-name-skill_5de5fc7b/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/pipeline/SKILL.md) | ⭐ 44 | `commercial` |
 | [Skill](commercial/210-name-skill_0f66b384/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/you-sure/SKILL.md) | ⭐ 44 | `commercial` |
+| [Deserialization](commercial/deserialization_6e1ecd42/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/deserialization.md) | ⭐ 54 | `commercial` |
+| [Owasp Top 10](commercial/owasp-top-10_426c524f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/owasp-top-10.md) | ⭐ 54 | `commercial` |
 
 ### Communication (355 skills)
 
@@ -1826,7 +1829,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](communication/157-index_9fa922d9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 | [Skill](communication/127-name-skill_8f2f547c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-upload-chat-log/SKILL.md) | ⭐ 12 | `communication` |
 
-### Content Creation (571 skills)
+### Content Creation (578 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2399,10 +2402,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](content-creation/007-claude_f79244c4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/CLAUDE.md) | ⭐ 1.6k | `content creation` |
 | [Rfp Response Guide](content-creation/257-rfp-response-guide_cb6e98d9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/rfp-response-guide.md) | ⭐ 1.6k | `content creation` |
 | [Skill](content-creation/049-name-skill_59e937b8/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/youtube-transcript/SKILL.md) | ⭐ 44 | `content creation` |
-| [Usage](content-creation/usage_706db835/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/usage.md) | ⭐ 10 | `content creation` |
-| [Sample Prompts](content-creation/sample_prompts_329dfcb5/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/sample_prompts.md) | ⭐ 10 | `content creation` |
+| [Usage](content-creation/042-usage_706db835/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/usage.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_8b2375ea/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-zsxq-article/SKILL.md) | ⭐ 54 | `content creation` |
+| [Nextjs Specific](content-creation/nextjs-specific_543d65b3/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/nextjs-specific.md) | ⭐ 54 | `content creation` |
+| [Django Security](content-creation/django-security_3acae0ff/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/django-security.md) | ⭐ 54 | `content creation` |
+| [Skill](content-creation/name-skill_2437f181/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 176 | `content creation` |
+| [Skill](content-creation/name-skill_19104acc/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/personal-writing-style/SKILL.md) | ⭐ 54 | `content creation` |
+| [Report Template](content-creation/report-template_815a5bb3/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/assets/report-template.md) | ⭐ 54 | `content creation` |
+| [Article Structure](content-creation/article-structure_198a381f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/personal-writing-style/references/article-structure.md) | ⭐ 54 | `content creation` |
+| [Punctuation](content-creation/punctuation_ea1b677a/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/personal-writing-style/references/punctuation.md) | ⭐ 54 | `AI` `安全` |
 
-### Daily Assistant (377 skills)
+### Daily Assistant (378 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2783,8 +2793,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Poc Best Practices](daily-assistant/214-poc-best-practices_1f12e6df/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/poc-best-practices.md) | ⭐ 1.6k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_433ca4af/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/agent-audit/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
+| [Srt Format](daily-assistant/srt-format_0d7dfcef/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/subtitle-correction/references/srt-format.md) | ⭐ 54 | `daily assistant` |
 
-### Data Analysis (872 skills)
+### Data Analysis (874 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3660,8 +3671,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Writing Skills](data-analysis/391-writing-skills_7d8e6f3e/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/docs/writing-skills.md) | ⭐ 44 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_c7ac0fb9/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/map-reduce/SKILL.md) | ⭐ 44 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7a0cd53e/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/rubber-duck/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/name-skill_29055717/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-x-article/SKILL.md) | ⭐ 54 | `data analysis` |
+| [Injection Patterns](data-analysis/injection-patterns_730c9776/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/injection-patterns.md) | ⭐ 54 | `data analysis` |
 
-### Development (4328 skills)
+### Development (4339 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7992,9 +8005,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_5627ed18/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/split-decision/SKILL.md) | ⭐ 44 | `development` |
 | [Skill](development/1178-name-skill_c9d7dd6b/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/stay-in-lane/SKILL.md) | ⭐ 44 | `development` |
 | [Skill](development/1178-name-skill_cef17fe7/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/zero-in/SKILL.md) | ⭐ 44 | `development` |
-| [Claude](development/claude_1620820d/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Claude](development/140-claude_1620820d/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_8d2b9e69/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/SKILL.md) | ⭐ 54 | `development` |
+| [Auth Vulnerabilities](development/auth-vulnerabilities_2442dd80/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/auth-vulnerabilities.md) | ⭐ 54 | `development` |
+| [Owasp Top 10](development/owasp-top-10_b0a2e3ca/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/owasp-top-10.md) | ⭐ 54 | `development` |
+| [Fastapi Security](development/fastapi-security_07454c08/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/fastapi-security.md) | ⭐ 54 | `development` |
+| [Injection Patterns](development/injection-patterns_535ac592/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/injection-patterns.md) | ⭐ 54 | `development` |
+| [Python Vulnerabilities](development/python-vulnerabilities_6eacb70a/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/python-vulnerabilities.md) | ⭐ 54 | `development` |
+| [Design Principles](development/design-principles_c99f2dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 176 | `development` |
+| [Skill](development/name-skill_9a14ceca/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/subtitle-correction/SKILL.md) | ⭐ 54 | `development` |
+| [Xss Patterns](development/xss-patterns_37fb9da6/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/xss-patterns.md) | ⭐ 54 | `development` |
+| [Report Template](development/report-template_3c89eb62/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/assets/report-template.md) | ⭐ 54 | `development` |
+| [Terminology](development/terminology_a1d19c5d/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/subtitle-correction/references/terminology.md) | ⭐ 54 | `development` |
 
-### Development/Devops (129 skills)
+### Development/Devops (130 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8124,9 +8148,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](development/devops/009-configuration_337077da/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/configuration.md) | ⭐ 20 | `development` |
 | [Skill](development/devops/014-name-skill_dbb33f18/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/oci-cve-checker/SKILL.md) | ⭐ 12 | `development` |
 | [Docker Hub](development/devops/201-docker-hub_913025a5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md) | ⭐ 810 | `development` |
-| [Release Checklist](development/devops/release_checklist_1c6f5d25/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/.github/RELEASE_CHECKLIST.md) | ⭐ 10 | `development` |
-| [Versioning](development/devops/versioning_4fb48d55/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/versioning.md) | ⭐ 10 | `development` |
-| [Docker](development/devops/docker_139d3a6c/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/DOCKER.md) | ⭐ 10 | `development` |
+| [Release Checklist](development/devops/223-release_checklist_1c6f5d25/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/.github/RELEASE_CHECKLIST.md) | ⭐ 10 | `development` |
+| [Versioning](development/devops/224-versioning_4fb48d55/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/versioning.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/name-skill_64210918/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/SKILL.md) | ⭐ 54 | `development` |
+| [Skill](development/devops/name-skill_8b61dd48/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/claude-settings-audit/SKILL.md) | ⭐ 176 | `development` |
 
 ### Development/Testing (34 skills)
 
@@ -8167,7 +8192,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Rpm Examine](development/testing/045-rpm-examine_34853bdd/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/rpm-examine.md) | ⭐ 12 | `development` |
 | [Skill](development/testing/002-name-skill_161be0ce/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/battle-plan/SKILL.md) | ⭐ 44 | `development` |
 
-### Development/Tools (152 skills)
+### Development/Tools (153 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8319,12 +8344,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_ff106cc1/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/retrospective/SKILL.md) | ⭐ 44 | `development` |
 | [Skill](development/tools/002-name-skill_e11ed292/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/skill-forge/SKILL.md) | ⭐ 44 | `development` |
 | [Skill](development/tools/002-name-skill_ee66fcae/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/trace-it/SKILL.md) | ⭐ 44 | `development` |
-| [Agents](development/tools/agents_76904228/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/AGENTS.md) | ⭐ 10 | `development` |
-| [Gemini](development/tools/gemini_507b95fc/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/GEMINI.md) | ⭐ 10 | `development` |
-| [Development](development/tools/development_2608aaa3/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/development.md) | ⭐ 10 | `development` |
-| [Troubleshooting](development/tools/troubleshooting_ad1270b4/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/troubleshooting.md) | ⭐ 10 | `development` |
+| [Agents](development/tools/015-agents_76904228/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/AGENTS.md) | ⭐ 10 | `development` |
+| [Gemini](development/tools/040-gemini_507b95fc/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/GEMINI.md) | ⭐ 10 | `development` |
+| [Development](development/tools/187-development_2608aaa3/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/development.md) | ⭐ 10 | `development` |
+| [Troubleshooting](development/tools/205-troubleshooting_ad1270b4/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/troubleshooting.md) | ⭐ 10 | `development` |
+| [Flask Security](development/tools/flask-security_6907a9c7/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/flask-security.md) | ⭐ 54 | `development` |
 
-### Investment (55 skills)
+### Investment (57 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8383,8 +8409,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](investment/021-name-skill_bea4125f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/SKILL.md) | ⭐ 1.6k | `investment` |
 | [Competitive Positioning Framework](investment/031-competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
 | [Valuation Methodology](investment/032-valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
+| [Value Investing Principles](investment/value-investing-principles_50de2a68/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/china-stock-analysis/references/value-investing-principles.md) | ⭐ 54 | `investment` |
+| [Analysis Report](investment/analysis_report_7122ffd1/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/china-stock-analysis/templates/analysis_report.md) | ⭐ 54 | `investment` |
 
-### Other (44 skills)
+### Other (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8432,6 +8460,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
+| [A Stock Features](other/a-stock-features_1a164011/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/china-stock-analysis/references/a-stock-features.md) | ⭐ 54 | `other` |
+| [Financial Ratios](other/financial-ratios_2a6011a9/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/china-stock-analysis/references/financial-ratios.md) | ⭐ 54 | `other` |
 
 ### Productivity (240 skills)
 
