@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8464 AI-powered skills** organized into 16 categories.
+A curated collection of **8469 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,19 +10,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (49 skills)
-- **Automation/Workflow** (12 skills)
+- **Automation/Workflow** (13 skills)
 - **Commercial** (543 skills)
 - **Communication** (342 skills)
 - **Content Creation** (541 skills)
 - **Daily Assistant** (349 skills)
-- **Data Analysis** (845 skills)
+- **Data Analysis** (846 skills)
 - **Development** (4214 skills)
 - **Development/Devops** (69 skills)
 - **Development/Testing** (25 skills)
-- **Development/Tools** (101 skills)
-- **Investment** (51 skills)
+- **Development/Tools** (102 skills)
+- **Investment** (52 skills)
 - **Other** (44 skills)
-- **Productivity** (234 skills)
+- **Productivity** (235 skills)
 - **Research** (373 skills)
 
 ## Skills Directory
@@ -759,7 +759,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Trk Review](automation/scripting/061-trk-review_b3f831fe/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk-review.md) | ⭐ 196 | `automation` |
 | [Trk](automation/scripting/062-trk_700974a3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk.md) | ⭐ 196 | `automation` |
 
-### Automation/Workflow (12 skills)
+### Automation/Workflow (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -775,6 +775,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](automation/workflow/063-patterns_55addb14/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/patterns.md) | ⭐ 392 | `automation` |
 | [Claude](automation/workflow/061-claude_0c6f3f58/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/CLAUDE.md) | ⭐ 23 | `automation` |
 | [Context And Skills Gap Analyzer](automation/workflow/062-context-and-skills-gap-analyzer_86b70fa4/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/context-and-skills-gap-analyzer.md) | ⭐ 196 | `automation` |
+| [Readme Requirements](automation/workflow/readme_requirements_778152e2/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/README_REQUIREMENTS.md) | ⭐ 386 | `automation` |
 
 ### Commercial (543 skills)
 
@@ -2571,7 +2572,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Optimize Session](daily-assistant/195-optimize-session_fac21f04/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/commands/optimize-session.md) | ⭐ 196 | `daily assistant` |
 | [Tensorzero Setup](daily-assistant/196-tensorzero_setup_85c87c6d/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/tensorzero_setup.md) | ⭐ 116 | `daily assistant` |
 
-### Data Analysis (845 skills)
+### Data Analysis (846 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3420,6 +3421,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Arc Prd](data-analysis/371-arc-prd_29a76041/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc-prd.md) | ⭐ 196 | `data analysis` |
 | [Workflow Diagrams](data-analysis/372-workflow_diagrams_83a66eae/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/workflow_diagrams.md) | ⭐ 116 | `data analysis` |
 | [Smd Interpretation](data-analysis/373-smd_interpretation_3d9eb8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/equiflow/references/smd_interpretation.md) | ⭐ 10 | `data analysis` |
+| [Stories](data-analysis/stories_85ad7d15/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/docs/stories.md) | ⭐ 386 | `data analysis` |
 
 ### Development (4214 skills)
 
@@ -7744,7 +7746,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
 
-### Development/Tools (101 skills)
+### Development/Tools (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7848,9 +7850,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_32dfba7c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
 | [New Models](development/tools/211-new_models_b15512f1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/NEW_MODELS.md) | ⭐ 41 | `development` |
 | [Agents](development/tools/015-agents_c4267c8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/AGENTS.md) | ⭐ 396 | `development` |
-| [Claude](development/tools/claude_c08568ef/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/CLAUDE.md) | ⭐ 130 | `development` |
+| [Install](development/tools/install_496fef0e/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/INSTALL.md) | ⭐ 386 | `development` |
+| [Sparktts](development/tools/sparktts_1f23a732/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/docs/SPARKTTS.md) | ⭐ 386 | `development` |
 
-### Investment (51 skills)
+### Investment (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7905,6 +7908,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 | [Reference](investment/023-reference_145e86f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
+| [Bug Report](investment/bug_report_0c8d64f2/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 386 | `investment` |
 
 ### Other (44 skills)
 
@@ -7955,7 +7959,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (234 skills)
+### Productivity (235 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8193,6 +8197,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](productivity/151-patterns_404e83d1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/patterns.md) | ⭐ 392 | `productivity` |
 | [Skill](productivity/093-name-skill_c11b3f51/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/critical-peer-personality/SKILL.md) | ⭐ 196 | `productivity` |
 | [Conversation Efficiency Analyzer](productivity/144-conversation-efficiency-analyzer_859a5337/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/conversation-efficiency-analyzer.md) | ⭐ 196 | `productivity` |
+| [Games](productivity/games_09e70022/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/docs/games.md) | ⭐ 386 | `productivity` |
 
 ### Research (373 skills)
 
@@ -8570,7 +8575,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](research/230-patterns_771d9192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/patterns.md) | ⭐ 392 | `research` |
 | [Reference](research/158-reference_ede69581/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
 | [Skill](research/139-name-skill_8a878283/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/frontend_inferencer/SKILL.md) | ⭐ 23 | `research` |
-| [Aleph](research/aleph_79d0c04a/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
+| [Aleph](research/196-aleph_79d0c04a/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
 
 ## Repository Structure
 
