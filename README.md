@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8550 AI-powered skills** organized into 16 categories.
+A curated collection of **8577 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -12,14 +12,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (49 skills)
 - **Automation/Workflow** (79 skills)
 - **Commercial** (545 skills)
-- **Communication** (345 skills)
-- **Content Creation** (547 skills)
-- **Daily Assistant** (352 skills)
-- **Data Analysis** (846 skills)
-- **Development** (4216 skills)
+- **Communication** (344 skills)
+- **Content Creation** (549 skills)
+- **Daily Assistant** (356 skills)
+- **Data Analysis** (848 skills)
+- **Development** (4230 skills)
 - **Development/Devops** (70 skills)
-- **Development/Testing** (25 skills)
-- **Development/Tools** (102 skills)
+- **Development/Testing** (26 skills)
+- **Development/Tools** (107 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (234 skills)
@@ -775,73 +775,73 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](automation/workflow/063-patterns_55addb14/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/patterns.md) | ⭐ 392 | `automation` |
 | [Claude](automation/workflow/061-claude_0c6f3f58/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/CLAUDE.md) | ⭐ 23 | `automation` |
 | [Context And Skills Gap Analyzer](automation/workflow/062-context-and-skills-gap-analyzer_86b70fa4/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/context-and-skills-gap-analyzer.md) | ⭐ 196 | `automation` |
-| [Skill](automation/workflow/name-skill_79130c73/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/activecampaign-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_527da0f9/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/airtable-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_45fb403d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/amplitude-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_05170d42/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/asana-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_5ab8ad48/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/bamboohr-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_dda23dc5/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/basecamp-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_95410a40/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/bitbucket-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_510d2e71/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/box-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_55a21cc4/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/brevo-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_94d1afbf/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/cal-com-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_c52fab71/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/calendly-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_2ada77e2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/canva-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_93599b10/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/circleci-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_cd6f0211/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/clickup-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_298f9ed5/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/close-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_4f8799c3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/coda-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_4f4752dd/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/confluence-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_04cfa550/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/convertkit-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_61c62048/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/datadog-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_fd3b06c7/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/discord-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_0b4ebcf5/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/docusign-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_cb399ce2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/figma-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_df888735/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/freshdesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_2e4d345a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/freshservice-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_ee8116c3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/gitlab-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_06342350/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/gmail-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_9cfc4857/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/google-analytics-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_9d9cca2d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/google-calendar-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_6687d504/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/google-drive-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_2ba8d48f/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/googlesheets-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_d8a64a0a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/helpdesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_9574e7cf/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/hubspot-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_5ca9f096/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/intercom-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_42a37770/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/jira-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_ea086d16/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/klaviyo-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_14511fe6/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/linear-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_29930780/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/linkedin-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_1b9d9568/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/mailchimp-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_8977a83a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/make-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_ad7748d8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/miro-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_c5501c9c/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/mixpanel-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_7480a91d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/monday-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_b5cd1177/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/notion-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_145f9b69/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/one-drive-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_475e33c8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/pagerduty-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_f594c20b/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/pipedrive-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_80568f07/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/posthog-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_ff4cffc6/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/postmark-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_ff10b4e1/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/reddit-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_d746d0e4/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/render-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_7e7a7ccf/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/salesforce-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_0d969998/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/segment-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_f53e1b58/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/sendgrid-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_ed7f0993/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/sentry-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_c34aef19/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/slack-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_7845c157/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/square-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_057937b1/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/supabase-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_a5d6df6d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/telegram-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_e093dbf1/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/todoist-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_5c545cab/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/trello-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_4c8dabda/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/twitter-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_08c35e0f/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/vercel-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_c172c669/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/wrike-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_bd22b9ff/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/youtube-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_91835c0b/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zendesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_6b305325/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoho-crm-automation/SKILL.md) | 🔥 30.9k | `automation` |
-| [Skill](automation/workflow/name-skill_74dd9779/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoom-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_79130c73/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/activecampaign-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_527da0f9/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/airtable-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_45fb403d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/amplitude-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_05170d42/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/asana-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_5ab8ad48/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/bamboohr-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_dda23dc5/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/basecamp-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_95410a40/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/bitbucket-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_510d2e71/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/box-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_55a21cc4/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/brevo-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_94d1afbf/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/cal-com-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_c52fab71/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/calendly-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_2ada77e2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/canva-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_93599b10/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/circleci-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_cd6f0211/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/clickup-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_298f9ed5/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/close-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_4f8799c3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/coda-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_4f4752dd/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/confluence-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_04cfa550/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/convertkit-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_61c62048/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/datadog-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_fd3b06c7/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/discord-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_0b4ebcf5/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/docusign-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_cb399ce2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/figma-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_df888735/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/freshdesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_2e4d345a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/freshservice-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_ee8116c3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/gitlab-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_06342350/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/gmail-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_9cfc4857/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/google-analytics-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_9d9cca2d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/google-calendar-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_6687d504/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/google-drive-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_2ba8d48f/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/googlesheets-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_d8a64a0a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/helpdesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_9574e7cf/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/hubspot-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_5ca9f096/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/intercom-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_42a37770/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/jira-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_ea086d16/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/klaviyo-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_14511fe6/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/linear-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_29930780/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/linkedin-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_1b9d9568/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/mailchimp-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_8977a83a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/make-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_ad7748d8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/miro-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_c5501c9c/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/mixpanel-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_7480a91d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/monday-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_b5cd1177/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/notion-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_145f9b69/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/one-drive-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_475e33c8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/pagerduty-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_f594c20b/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/pipedrive-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_80568f07/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/posthog-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_ff4cffc6/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/postmark-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_ff10b4e1/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/reddit-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_d746d0e4/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/render-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_7e7a7ccf/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/salesforce-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_0d969998/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/segment-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_f53e1b58/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/sendgrid-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_ed7f0993/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/sentry-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_c34aef19/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/slack-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_7845c157/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/square-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_057937b1/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/supabase-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_a5d6df6d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/telegram-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_e093dbf1/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/todoist-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_5c545cab/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/trello-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_4c8dabda/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/twitter-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_08c35e0f/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/vercel-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_c172c669/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/wrike-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_bd22b9ff/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/youtube-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_91835c0b/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zendesk-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_6b305325/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoho-crm-automation/SKILL.md) | 🔥 30.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_74dd9779/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoom-automation/SKILL.md) | 🔥 30.9k | `automation` |
 
 ### Commercial (545 skills)
 
@@ -1390,10 +1390,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_2b1fc1b6/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/create-tasks/SKILL.md) | ⭐ 196 | `commercial` |
 | [Skill](commercial/210-name-skill_50fc6b84/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/lightweight-design-analysis/SKILL.md) | ⭐ 196 | `commercial` |
 | [Skill](commercial/210-name-skill_d978ee80/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 196 | `commercial` |
-| [Skill](commercial/name-skill_2248ea3e/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/shopify-automation/SKILL.md) | 🔥 30.9k | `commercial` |
-| [Skill](commercial/name-skill_0c790074/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/stripe-automation/SKILL.md) | 🔥 30.9k | `commercial` |
+| [Skill](commercial/210-name-skill_2248ea3e/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/shopify-automation/SKILL.md) | 🔥 30.9k | `commercial` |
+| [Skill](commercial/210-name-skill_0c790074/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/stripe-automation/SKILL.md) | 🔥 30.9k | `commercial` |
 
-### Communication (345 skills)
+### Communication (344 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1739,11 +1739,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tools](communication/203-tools_8cab3df1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/TOOLS.md) | ⭐ 41 | `communication` |
 | [Utilities Slash Commands](communication/204-utilities_slash_commands_a3828bd4/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/data/kbdocs/utilities_slash_commands.md) | ⭐ 41 | `communication` |
 | [Troubleshooting](communication/203-troubleshooting_bb7b5a63/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/troubleshooting.md) | ⭐ 116 | `communication` |
-| [Skill](communication/name-skill_230e0b87/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect-apps/SKILL.md) | 🔥 30.9k | `communication` |
-| [Skill](communication/name-skill_b26af6b3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect/SKILL.md) | 🔥 30.9k | `communication` |
-| [Setup](communication/setup_1741a0fc/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect-apps-plugin/commands/setup.md) | 🔥 30.9k | `communication` |
+| [Skill](communication/127-name-skill_230e0b87/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect-apps/SKILL.md) | 🔥 30.9k | `communication` |
+| [Skill](communication/127-name-skill_b26af6b3/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/connect/SKILL.md) | 🔥 30.9k | `communication` |
 
-### Content Creation (547 skills)
+### Content Creation (549 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2288,14 +2287,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Arc Review](content-creation/250-arc-review_e42b77de/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc-review.md) | ⭐ 196 | `content creation` |
 | [Critique](content-creation/249-critique_3a07ac15/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/docs/optimization/iterm2-session-awareness/critique.md) | ⭐ 196 | `content creation` |
 | [Development Diagrams](content-creation/251-development_diagrams_b5a8c5f4/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/development_diagrams.md) | ⭐ 116 | `content creation` |
-| [Skill](content-creation/name-skill_66ad92ff/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/dropbox-automation/SKILL.md) | 🔥 30.9k | `content creation` |
-| [Skill](content-creation/name-skill_c23468dd/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/instagram-automation/SKILL.md) | 🔥 30.9k | `content creation` |
-| [Skill](content-creation/name-skill_31fa561d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/tiktok-automation/SKILL.md) | 🔥 30.9k | `content creation` |
-| [Skill](content-creation/name-skill_486224e4/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/webflow-automation/SKILL.md) | 🔥 30.9k | `content creation` |
-| [Skill](content-creation/name-skill_b12e583e/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/whatsapp-automation/SKILL.md) | 🔥 30.9k | `content creation` |
-| [Skill](content-creation/name-skill_c02a4b7c/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/twitter-algorithm-optimizer/SKILL.md) | 🔥 30.9k | `content creation` |
+| [Skill](content-creation/049-name-skill_66ad92ff/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/dropbox-automation/SKILL.md) | 🔥 30.9k | `content creation` |
+| [Skill](content-creation/049-name-skill_c23468dd/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/instagram-automation/SKILL.md) | 🔥 30.9k | `content creation` |
+| [Skill](content-creation/049-name-skill_31fa561d/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/tiktok-automation/SKILL.md) | 🔥 30.9k | `content creation` |
+| [Skill](content-creation/049-name-skill_486224e4/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/webflow-automation/SKILL.md) | 🔥 30.9k | `content creation` |
+| [Skill](content-creation/049-name-skill_b12e583e/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/whatsapp-automation/SKILL.md) | 🔥 30.9k | `content creation` |
+| [Write Adr](content-creation/write-adr_70d98193/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-analysis/commands/write-adr.md) | ⭐ 17 | `content creation` |
+| [Draft Docs](content-creation/draft-docs_f41a4df1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-docs/commands/draft-docs.md) | ⭐ 17 | `content creation` |
+| [Improve Doc](content-creation/improve-doc_7a71bbff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-docs/commands/improve-doc.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (352 skills)
+### Daily Assistant (356 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2648,11 +2649,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tool And Skill Usage Analyzer](daily-assistant/194-tool-and-skill-usage-analyzer_f580b511/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/tool-and-skill-usage-analyzer.md) | ⭐ 196 | `daily assistant` |
 | [Optimize Session](daily-assistant/195-optimize-session_fac21f04/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/commands/optimize-session.md) | ⭐ 196 | `daily assistant` |
 | [Tensorzero Setup](daily-assistant/196-tensorzero_setup_85c87c6d/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/tensorzero_setup.md) | ⭐ 116 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_24a40d24/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/microsoft-teams-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_42a8741a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/outlook-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_f81e88a2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/outlook-calendar-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_24a40d24/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/microsoft-teams-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_42a8741a/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/outlook-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_f81e88a2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/outlook-calendar-automation/SKILL.md) | 🔥 30.9k | `daily assistant` |
+| [Map](daily-assistant/_map_411d4fc6/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_MAP.md) | ⭐ 89 | `daily assistant` |
+| [Review Elixir](daily-assistant/review-elixir_11e74ffb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/commands/review-elixir.md) | ⭐ 17 | `daily assistant` |
+| [Review Ios](daily-assistant/review-ios_e8bd8310/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/commands/review-ios.md) | ⭐ 17 | `daily assistant` |
+| [Review Python](daily-assistant/review-python_65aa6572/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/commands/review-python.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (846 skills)
+### Data Analysis (848 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3502,8 +3507,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Workflow Diagrams](data-analysis/372-workflow_diagrams_83a66eae/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/workflow_diagrams.md) | ⭐ 116 | `data analysis` |
 | [Smd Interpretation](data-analysis/373-smd_interpretation_3d9eb8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/equiflow/references/smd_interpretation.md) | ⭐ 10 | `data analysis` |
 | [Stories](data-analysis/374-stories_85ad7d15/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/docs/stories.md) | ⭐ 386 | `data analysis` |
+| [Respond Pr Feedback](data-analysis/respond-pr-feedback_16889531/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 17 | `data analysis` |
+| [Map](data-analysis/_map_05a288fb/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/defaults/_MAP.md) | ⭐ 89 | `data analysis` |
 
-### Development (4216 skills)
+### Development (4230 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7722,7 +7729,21 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Project Management](development/2058-project_management_fa9a4406/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/project_management.md) | ⭐ 116 | `development` |
 | [Skills Index](development/2059-skills_index_04baab42/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 10 | `development` |
 | [Agents](development/028-agents_fe130161/) | [langchain-ai/langchain](https://raw.githubusercontent.com/langchain-ai/langchain/master/AGENTS.md) | 🔥 126.0k | `development` |
-| [Skill](development/name-skill_7a64d9aa/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/tailored-resume-generator/SKILL.md) | 🔥 30.9k | `development` |
+| [Skill](development/1178-name-skill_7a64d9aa/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/tailored-resume-generator/SKILL.md) | 🔥 30.9k | `development` |
+| [Claude](development/claude_8c79194a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 17 | `development` |
+| [2026 02 05 Marketplace Reorganization](development/2026-02-05-marketplace-reorganization_d1ad37a0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/docs/plans/2026-02-05-marketplace-reorganization.md) | ⭐ 17 | `development` |
+| [Fix Llm Artifacts](development/fix-llm-artifacts_767ef912/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/fix-llm-artifacts.md) | ⭐ 17 | `development` |
+| [Receive Feedback](development/receive-feedback_c1e1e1c4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/receive-feedback.md) | ⭐ 17 | `development` |
+| [Review Plan](development/review-plan_5f50e01f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/review-plan.md) | ⭐ 17 | `development` |
+| [Review Tui](development/review-tui_8cb961c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-tui.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_2ffb84b4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_dcfd7052/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_16b3e960/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_69e817ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_e0b46a78/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
+| [Llm Judge](development/llm-judge_06e3fa27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-analysis/commands/llm-judge.md) | ⭐ 17 | `development` |
+| [Fetch Pr Feedback](development/fetch-pr-feedback_00f7a710/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/fetch-pr-feedback.md) | ⭐ 17 | `development` |
+| [Gen Test Plan](development/gen-test-plan_576fb160/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-testing/commands/gen-test-plan.md) | ⭐ 17 | `development` |
 
 ### Development/Devops (70 skills)
 
@@ -7797,9 +7818,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Security Considerations](development/devops/192-security-considerations_c5b34423/) | [barvhaim/HoneyMCP](https://raw.githubusercontent.com/barvhaim/HoneyMCP/master/docs/security-considerations.md) | ⭐ 16 | `development` |
 | [Readme Cn](development/devops/192-readme_cn_de79e993/) | [yym68686/uni-api](https://raw.githubusercontent.com/yym68686/uni-api/main/README_CN.md) | ⭐ 1.2k | `development` |
 | [038 Multi Worker Session Affinity](development/devops/193-038-multi-worker-session-affinity_55e728ff/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/038-multi-worker-session-affinity.md) | ⭐ 3.2k | `development` |
-| [Skill](development/devops/name-skill_def7dff8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/github-automation/SKILL.md) | 🔥 30.9k | `development` |
+| [Skill](development/devops/014-name-skill_def7dff8/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/github-automation/SKILL.md) | 🔥 30.9k | `development` |
 
-### Development/Testing (25 skills)
+### Development/Testing (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7828,8 +7849,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](development/testing/051-configuration_7d081d7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/configuration.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
+| [Review Llm Artifacts](development/testing/review-llm-artifacts_aad55bc6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/review-llm-artifacts.md) | ⭐ 17 | `development` |
 
-### Development/Tools (102 skills)
+### Development/Tools (107 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7929,12 +7951,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_5dca05cc/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/SKILL.md) | ⭐ 196 | `development` |
 | [Full Review](development/tools/211-full-review_1e31c518/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/full-codebase-review/commands/full-review.md) | ⭐ 196 | `development` |
 | [Proposal](development/tools/212-proposal_de05f6a6/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/docs/optimization/iterm2-session-awareness/proposal.md) | ⭐ 196 | `development` |
-| [Claude](development/tools/017-claude_19704b59/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/CLAUDE.md) | ⭐ 89 | `development` |
-| [Skill](development/tools/002-name-skill_32dfba7c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
+| [Claude](development/tools/claude_f42a86f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/CLAUDE.md) | ⭐ 89 | `development` |
+| [Skill](development/tools/name-skill_6db367cf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
 | [New Models](development/tools/211-new_models_b15512f1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/NEW_MODELS.md) | ⭐ 41 | `development` |
 | [Agents](development/tools/015-agents_c4267c8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/AGENTS.md) | ⭐ 396 | `development` |
 | [Install](development/tools/213-install_496fef0e/) | [bigsk1/voice-chat-ai](https://raw.githubusercontent.com/bigsk1/voice-chat-ai/main/INSTALL.md) | ⭐ 386 | `development` |
-| [Skill](development/tools/name-skill_bf6a7ab2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/langsmith-fetch/SKILL.md) | 🔥 30.9k | `development` |
+| [Skill](development/tools/002-name-skill_bf6a7ab2/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/langsmith-fetch/SKILL.md) | 🔥 30.9k | `development` |
+| [Claude](development/tools/017-claude_f42a86f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/CLAUDE.md) | ⭐ 89 | `development` |
+| [Skill](development/tools/002-name-skill_6db367cf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
+| [2026 02 05 Marketplace Full Reorganization](development/tools/2026-02-05-marketplace-full-reorganization_4208f564/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/docs/plans/2026-02-05-marketplace-full-reorganization.md) | ⭐ 17 | `development` |
+| [Review Go](development/tools/review-go_7fe1256a/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-go.md) | ⭐ 17 | `development` |
+| [Review Frontend](development/tools/review-frontend_103aff15/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-react/commands/review-frontend.md) | ⭐ 17 | `development` |
 
 ### Investment (51 skills)
 
