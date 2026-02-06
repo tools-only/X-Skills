@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8708 AI-powered skills** organized into 16 categories.
+A curated collection of **8709 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (359 skills)
 - **Data Analysis** (856 skills)
 - **Development** (4258 skills)
-- **Development/Devops** (89 skills)
+- **Development/Devops** (90 skills)
 - **Development/Testing** (28 skills)
 - **Development/Tools** (119 skills)
 - **Investment** (51 skills)
@@ -870,8 +870,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_b59adf71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/todoist-automation/SKILL.md) | 🔥 7.5k | `automation` |
 | [Skill](automation/workflow/002-name-skill_039b383c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/trello-automation/SKILL.md) | 🔥 7.5k | `automation` |
 | [Skill](automation/workflow/002-name-skill_12c60b98/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zoom-automation/SKILL.md) | 🔥 7.5k | `automation` |
-| [Backlog](automation/workflow/backlog_6e97503d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
-| [Skill](automation/workflow/description-skill_f7606f9c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/rt-ica/SKILL.md) | ⭐ 16 | `automation` |
+| [Backlog](automation/workflow/063-backlog_6e97503d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
+| [Skill](automation/workflow/064-description-skill_f7606f9c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/rt-ica/SKILL.md) | ⭐ 16 | `automation` |
 
 ### Commercial (551 skills)
 
@@ -3571,7 +3571,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_de9dcde3/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/using-git-worktrees/SKILL.md) | ⭐ 165 | `data analysis` |
 | [Patterns](data-analysis/165-patterns_da00f69e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/references/patterns.md) | ⭐ 165 | `data analysis` |
 | [Architectural Reduction](data-analysis/378-architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
-| [Ray](data-analysis/ray_cebf0338/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/ray.md) | ⭐ 16 | `data analysis` |
+| [Ray](data-analysis/379-ray_cebf0338/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/ray.md) | ⭐ 16 | `data analysis` |
 
 ### Development (4258 skills)
 
@@ -7828,15 +7828,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Catalog](development/126-catalog_9dcdffee/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.5k | `development` |
 | [Skill](development/1178-name-skill_c4ad19cf/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dotnet-backend/SKILL.md) | 🔥 7.5k | `development` |
 | [Skill](development/1178-name-skill_9b7165ca/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/plugins/vexor/skills/vexor-cli/SKILL.md) | ⭐ 191 | `development` |
-| [Fastapi](development/fastapi_435c0e90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/fastapi.md) | ⭐ 16 | `development` |
-| [Trio](development/trio_80a1a1df/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/async-libraries/trio.md) | ⭐ 16 | `development` |
-| [Rustpython](development/rustpython_5b494928/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/python-runtimes/rustpython.md) | ⭐ 16 | `development` |
-| [Pyo3](development/pyo3_0cb445d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/rust-python-bindings/pyo3.md) | ⭐ 16 | `development` |
-| [Skill](development/description-skill_5990f50b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
-| [Anyio](development/anyio_0f598055/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/async-libraries/anyio.md) | ⭐ 16 | `development` |
-| [Skill](development/name-skill_2178851e/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 22 | `development` |
+| [Fastapi](development/1613-fastapi_435c0e90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/fastapi.md) | ⭐ 16 | `development` |
+| [Trio](development/2085-trio_80a1a1df/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/async-libraries/trio.md) | ⭐ 16 | `development` |
+| [Rustpython](development/2086-rustpython_5b494928/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/python-runtimes/rustpython.md) | ⭐ 16 | `development` |
+| [Pyo3](development/2087-pyo3_0cb445d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/rust-python-bindings/pyo3.md) | ⭐ 16 | `development` |
+| [Skill](development/1530-description-skill_5990f50b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
+| [Anyio](development/2088-anyio_0f598055/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/async-libraries/anyio.md) | ⭐ 16 | `development` |
+| [Agent](development/agent_40ce36a6/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.1k | `development` |
 
-### Development/Devops (89 skills)
+### Development/Devops (90 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7929,6 +7929,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Zh Cn](development/devops/107-zh-cn_dbc75242/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/zh-CN.md) | 🔥 5.4k | `development` |
 | [Skill](development/devops/014-name-skill_41ee91d2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 5.4k | `development` |
 | [Skill](development/devops/014-name-skill_8c9379a1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/github-automation/SKILL.md) | 🔥 7.5k | `development` |
+| [Tls Configuration](development/devops/tls-configuration_565f8deb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/tls-configuration.md) | ⭐ 3.2k | `development` |
 
 ### Development/Testing (28 skills)
 
@@ -8082,10 +8083,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_87bf532d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-click/SKILL.md) | ⭐ 24 | `development` |
 | [Readme.Zh Cn](development/tools/221-readmezh-cn_a3d2d440/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/README.zh-CN.md) | ⭐ 165 | `development` |
 | [Credential Store Design](development/tools/078-credential-store-design_79357714/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/credential-store-design.md) | 🔥 5.4k | `development` |
-| [Logfire](development/tools/logfire_237c0769/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-observability/logfire.md) | ⭐ 16 | `development` |
-| [Tornado](development/tools/tornado_a73cce85/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/tornado.md) | ⭐ 16 | `development` |
-| [Skill](development/tools/description-skill_63648ec6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-browser/SKILL.md) | ⭐ 16 | `development` |
-| [Ecosystem Researcher V1.1 Rt Ica](development/tools/ecosystem-researcher-v11-rt-ica_f1663142/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 16 | `development` |
+| [Logfire](development/tools/222-logfire_237c0769/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-observability/logfire.md) | ⭐ 16 | `development` |
+| [Tornado](development/tools/223-tornado_a73cce85/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/tornado.md) | ⭐ 16 | `development` |
+| [Skill](development/tools/086-description-skill_63648ec6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-browser/SKILL.md) | ⭐ 16 | `development` |
+| [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_f1663142/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 16 | `development` |
 
 ### Investment (51 skills)
 
@@ -8814,7 +8815,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](research/139-name-skill_f1fe29aa/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/filesystem-context/SKILL.md) | ⭐ 165 | `research` |
 | [Skill](research/139-name-skill_174481b1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/json-canvas/SKILL.md) | ⭐ 165 | `research` |
 | [Bias Mitigation](research/223-bias-mitigation_bf43f18e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/bias-mitigation.md) | ⭐ 165 | `research` |
-| [Ecosystem Researcher](research/ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
+| [Ecosystem Researcher](research/224-ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
 
 ## Repository Structure
 
