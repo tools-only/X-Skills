@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8391 AI-powered skills** organized into 16 categories.
+A curated collection of **8463 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (45 skills)
-- **Automation/Workflow** (11 skills)
-- **Commercial** (540 skills)
-- **Communication** (333 skills)
-- **Content Creation** (533 skills)
-- **Daily Assistant** (343 skills)
-- **Data Analysis** (839 skills)
-- **Development** (4193 skills)
-- **Development/Devops** (66 skills)
+- **Automation/Scripting** (50 skills)
+- **Automation/Workflow** (12 skills)
+- **Commercial** (543 skills)
+- **Communication** (335 skills)
+- **Content Creation** (544 skills)
+- **Daily Assistant** (354 skills)
+- **Data Analysis** (843 skills)
+- **Development** (4216 skills)
+- **Development/Devops** (67 skills)
 - **Development/Testing** (25 skills)
-- **Development/Tools** (92 skills)
-- **Investment** (51 skills)
-- **Other** (44 skills)
-- **Productivity** (232 skills)
-- **Research** (372 skills)
+- **Development/Tools** (97 skills)
+- **Investment** (52 skills)
+- **Other** (46 skills)
+- **Productivity** (234 skills)
+- **Research** (373 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (45 skills)
+### Automation/Scripting (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -754,8 +754,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](automation/scripting/033-configuration_a7e42ae2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/configuration.md) | ⭐ 392 | `automation` |
 | [Data Collection Agent](automation/scripting/057-data_collection_agent_832f4fe0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/data_collection_agent.md) | ⭐ 23 | `automation` |
 | [General Rules](automation/scripting/058-general_rules_af6b905c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/rules/general_rules.md) | ⭐ 23 | `automation` |
+| [Arc](automation/scripting/arc_9ac48e85/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc.md) | ⭐ 196 | `automation` |
+| [Trk Resolve](automation/scripting/trk-resolve_1f7f3d55/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk-resolve.md) | ⭐ 196 | `automation` |
+| [Trk Review](automation/scripting/trk-review_b3f831fe/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk-review.md) | ⭐ 196 | `automation` |
+| [Trk](automation/scripting/trk_700974a3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/track-and-improve/commands/trk.md) | ⭐ 196 | `automation` |
+| [Challenge That](automation/scripting/challenge-that_08843e01/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/challenge-that/commands/challenge-that.md) | ⭐ 196 | `automation` |
 
-### Automation/Workflow (11 skills)
+### Automation/Workflow (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -770,8 +775,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Service Types](automation/workflow/062-service-types_d615fbd9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/service-types.md) | ⭐ 392 | `automation` |
 | [Patterns](automation/workflow/063-patterns_55addb14/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/patterns.md) | ⭐ 392 | `automation` |
 | [Claude](automation/workflow/061-claude_0c6f3f58/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/CLAUDE.md) | ⭐ 23 | `automation` |
+| [Context And Skills Gap Analyzer](automation/workflow/context-and-skills-gap-analyzer_86b70fa4/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/context-and-skills-gap-analyzer.md) | ⭐ 196 | `automation` |
 
-### Commercial (540 skills)
+### Commercial (543 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1315,8 +1321,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](commercial/167-reference_d50bfcee/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/REFERENCE.md) | ⭐ 102 | `commercial` |
 | [Authentication](commercial/318-authentication_3e8c83a5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/authentication.md) | ⭐ 102 | `commercial` |
 | [Skill](commercial/210-name-skill_04e46d3f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/subdomain_enumeration/SKILL.md) | ⭐ 23 | `commercial` |
+| [Skill](commercial/name-skill_2b1fc1b6/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/create-tasks/SKILL.md) | ⭐ 196 | `commercial` |
+| [Skill](commercial/name-skill_50fc6b84/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/lightweight-design-analysis/SKILL.md) | ⭐ 196 | `commercial` |
+| [Skill](commercial/name-skill_d978ee80/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 196 | `commercial` |
 
-### Communication (333 skills)
+### Communication (335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1653,8 +1662,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_e50164b9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/dns_intelligence/SKILL.md) | ⭐ 23 | `communication` |
 | [Skill](communication/127-name-skill_b8dc7a09/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/domain_discovery/SKILL.md) | ⭐ 23 | `communication` |
 | [Skill](communication/127-name-skill_a49c1ec6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/third_party_detector/SKILL.md) | ⭐ 23 | `communication` |
+| [Skill](communication/name-skill_391e765f/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/independent-research/SKILL.md) | ⭐ 196 | `communication` |
+| [Opt Researcher](communication/opt-researcher_4d8f0c23/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/optimization-team/agents/opt-researcher.md) | ⭐ 196 | `communication` |
 
-### Content Creation (533 skills)
+### Content Creation (544 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2191,8 +2202,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Report Generation Agent](content-creation/243-report_generation_agent_b18a4fac/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/report_generation_agent.md) | ⭐ 23 | `content creation` |
 | [Skill](content-creation/049-name-skill_74be86cf/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/html_content_analysis/SKILL.md) | ⭐ 23 | `content creation` |
 | [Skill](content-creation/244-exports-skill_27a130ea/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/report_exporter/SKILL.md) | ⭐ 23 | `content creation` |
+| [Claude Code Optimizer](content-creation/claude-code-optimizer_94784357/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/claude-code-optimizer.md) | ⭐ 196 | `content creation` |
+| [Documentation Expert V2](content-creation/documentation-expert-v2_eccb46e2/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/documentation-expert-v2.md) | ⭐ 196 | `content creation` |
+| [Documentation Expert](content-creation/documentation-expert_e3705ecb/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/documentation-expert.md) | ⭐ 196 | `content creation` |
+| [Writing Tool](content-creation/writing-tool_2eaa8cb9/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/writing-tool.md) | ⭐ 196 | `content creation` |
+| [Critique](content-creation/critique_6b1dcb01/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/agents/critique.md) | ⭐ 196 | `content creation` |
+| [Arc Review](content-creation/arc-review_e42b77de/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc-review.md) | ⭐ 196 | `content creation` |
+| [Critique](content-creation/critique_3a07ac15/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/docs/optimization/iterm2-session-awareness/critique.md) | ⭐ 196 | `content creation` |
+| [Architect](content-creation/architect_f1fe1cd3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/agents/architect.md) | ⭐ 196 | `content creation` |
+| [Refiner](content-creation/refiner_37e93dad/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/agents/refiner.md) | ⭐ 196 | `content creation` |
+| [Software Design](content-creation/software-design_6474fe52/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/docs/conventions/software-design.md) | ⭐ 196 | `content creation` |
+| [Testing](content-creation/testing_603018a5/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/docs/conventions/testing.md) | ⭐ 196 | `content creation` |
 
-### Daily Assistant (343 skills)
+### Daily Assistant (354 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2539,8 +2561,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](daily-assistant/109-reference_c20a5d5a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Reference](daily-assistant/109-reference_032e8d61/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Reference](daily-assistant/109-reference_b09fa03f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_4529394f/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/lightweight-task-workflow/SKILL.md) | ⭐ 196 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_46119da3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/questions-are-not-instructions/SKILL.md) | ⭐ 196 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_afcf88c4/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tdd-process/SKILL.md) | ⭐ 196 | `daily assistant` |
+| [Tool And Skill Usage Analyzer](daily-assistant/tool-and-skill-usage-analyzer_f580b511/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/tool-and-skill-usage-analyzer.md) | ⭐ 196 | `daily assistant` |
+| [Optimize Session](daily-assistant/optimize-session_fac21f04/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/commands/optimize-session.md) | ⭐ 196 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_66dfd08a/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/fix-it-never-work-around-it/SKILL.md) | ⭐ 196 | `daily assistant` |
+| [Automatic Code Reviewer](daily-assistant/automatic-code-reviewer_15a19f62/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/automatic-code-review/agents/automatic-code-reviewer.md) | ⭐ 196 | `daily assistant` |
+| [Skill Compliance Analyzer](daily-assistant/skill-compliance-analyzer_e80a467d/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/skill-compliance-analyzer.md) | ⭐ 196 | `daily assistant` |
+| [Check](daily-assistant/check_1161d80c/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/task-check/commands/check.md) | ⭐ 196 | `daily assistant` |
+| [Repository Setup Checklist](daily-assistant/repository-setup-checklist_75225c6b/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/repository-setup-checklist.md) | ⭐ 196 | `daily assistant` |
+| [Task Workflow](daily-assistant/task-workflow_0aa3cd2e/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/docs/conventions/task-workflow.md) | ⭐ 196 | `daily assistant` |
 
-### Data Analysis (839 skills)
+### Data Analysis (843 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3383,8 +3416,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_c8f5043b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/web_archive_analysis/SKILL.md) | ⭐ 23 | `data analysis` |
 | [Content](data-analysis/367-content_470d1ce4/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/CONTENT.md) | ⭐ 23 | `data analysis` |
 | [Frontmatter](data-analysis/368-frontmatter_2b9485c5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/FRONTMATTER.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/name-skill_d88e9544/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/data-visualization/SKILL.md) | ⭐ 196 | `data analysis` |
+| [Frontend Visualization Expert](data-analysis/frontend-visualization-expert_c7e938c3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/frontend-visualization-expert.md) | ⭐ 196 | `data analysis` |
+| [Technical Investigator](data-analysis/technical-investigator_1a3fbf4f/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/technical-investigator.md) | ⭐ 196 | `data analysis` |
+| [Arc Prd](data-analysis/arc-prd_29a76041/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc-prd.md) | ⭐ 196 | `data analysis` |
 
-### Development (4193 skills)
+### Development (4216 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7580,9 +7617,32 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_a02ad0fb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/http_fingerprinting/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/1178-name-skill_9fbd6bee/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/security_posture_analyzer/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/2042-cross-skill_0c80cacd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/signal_correlator/SKILL.md) | ⭐ 23 | `development` |
-| [Http Headers](development/http_headers_0a6ef2b5/) | [Nayjest/lm-proxy](https://raw.githubusercontent.com/Nayjest/lm-proxy/main/doc/http_headers.md) | ⭐ 65 | `development` |
+| [Skill](development/name-skill_1574fddf/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/challenge-that/SKILL.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_ab4a1bb9/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/concise-output/SKILL.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_9b87fcf2/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/confidence-honesty/SKILL.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_5cba9b64/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/lightweight-implementation-analysis-protocol/SKILL.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_cb8e66ca/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/observability-first-debugging/SKILL.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_120dba01/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/software-design-principles/SKILL.md) | ⭐ 196 | `development` |
+| [Prd Expert](development/prd-expert_63da99dc/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/prd-expert.md) | ⭐ 196 | `development` |
+| [Strategic Architect](development/strategic-architect_dd0dd968/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/strategic-architect.md) | ⭐ 196 | `development` |
+| [Super React Developer](development/super-react-developer_d6b13347/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/super-react-developer.md) | ⭐ 196 | `development` |
+| [Super Tdd Developer](development/super-tdd-developer_499654bc/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/super-tdd-developer.md) | ⭐ 196 | `development` |
+| [Super Typescript Developer](development/super-typescript-developer_b631bfae/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/super-typescript-developer.md) | ⭐ 196 | `development` |
+| [Ui Design Expert](development/ui-design-expert_deba04d6/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/ui-design-expert.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_5fe087d0/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tactical-ddd/SKILL.md) | ⭐ 196 | `development` |
+| [Collab](development/collab_afb62cb0/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/collaboration-modes/commands/collab.md) | ⭐ 196 | `development` |
+| [Learn From Prs](development/learn-from-prs_e615419d/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/learn-from-prs/commands/learn-from-prs.md) | ⭐ 196 | `development` |
+| [Refactoring Expert](development/refactoring-expert_a8200a25/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/refactoring-expert.md) | ⭐ 196 | `development` |
+| [Tdd Developer](development/tdd-developer_c540f8b3/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/tdd-developer.md) | ⭐ 196 | `development` |
+| [Agents](development/agents_0fb882f9/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/AGENTS.md) | ⭐ 178 | `development` |
+| [Skill](development/name-skill_9696462a/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/switch-persona/SKILL.md) | ⭐ 196 | `development` |
+| [Optimization Team](development/optimization-team_dcd3f88f/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/optimization-team.md) | ⭐ 196 | `development` |
+| [Skill](development/name-skill_22cdc78c/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/writing-tests/SKILL.md) | ⭐ 196 | `development` |
+| [Lead](development/lead_f8c7366e/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/lead.md) | ⭐ 196 | `development` |
+| [Task Check](development/task-check_c54d3126/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/task-check/agents/task-check.md) | ⭐ 196 | `development` |
+| [Claude](development/claude_c67d62d2/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/CLAUDE.md) | ⭐ 196 | `development` |
 
-### Development/Devops (66 skills)
+### Development/Devops (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7652,6 +7712,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/devops/014-name-skill_a2e38f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/code_repository_intel/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_317186eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/devops_detector/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_8d24be24/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/job_posting_analysis/SKILL.md) | ⭐ 23 | `development` |
+| [Overview](development/devops/overview_54e306e0/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/docs/architecture/overview.md) | ⭐ 196 | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -7683,7 +7744,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
 
-### Development/Tools (92 skills)
+### Development/Tools (97 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7745,7 +7806,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tool Loading Architecture](development/tools/218-tool-loading-architecture_8e80c1de/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/tool-loading-architecture.md) | ⭐ 686 | `development` |
 | [Getting Started](development/tools/219-getting-started_f7f27edb/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/tutorials/getting-started.md) | ⭐ 686 | `development` |
 | [Mfp](development/tools/220-mfp_b9180a56/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/mfp.md) | ⭐ 686 | `development` |
-| [Claude](development/tools/017-claude_ddcb86cd/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 17 | `development` |
+| [Claude](development/tools/claude_2c115fdf/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 17 | `development` |
 | [Skill Builder](development/tools/221-skill-builder_52935fa1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/commands/skill-builder.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_84bcfbf9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-tool-system/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_3240808e/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/shadcn-ui/SKILL.md) | ⭐ 17 | `development` |
@@ -7779,8 +7840,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_d5757c71/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/ip_attribution/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/tools/002-name-skill_12cb7293/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/javascript_dom_analysis/SKILL.md) | ⭐ 23 | `development` |
 | [Structure](development/tools/210-structure_95818f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/STRUCTURE.md) | ⭐ 23 | `development` |
+| [Claude](development/tools/017-claude_2c115fdf/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/name-skill_5dca05cc/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/SKILL.md) | ⭐ 196 | `development` |
+| [Full Review](development/tools/full-review_1e31c518/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/full-codebase-review/commands/full-review.md) | ⭐ 196 | `development` |
+| [Proposal](development/tools/proposal_de05f6a6/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/docs/optimization/iterm2-session-awareness/proposal.md) | ⭐ 196 | `development` |
+| [Codebase Structure](development/tools/codebase-structure_9b5a37c2/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/docs/conventions/codebase-structure.md) | ⭐ 196 | `development` |
 
-### Investment (51 skills)
+### Investment (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7835,8 +7901,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_e2ea7753/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/NAVIGATION.md) | ⭐ 17 | `investment` |
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 | [Reference](investment/023-reference_145e86f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
+| [Generalist Robot](investment/generalist-robot_d7e67336/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/generalist-robot.md) | ⭐ 196 | `investment` |
 
-### Other (44 skills)
+### Other (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7884,8 +7951,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
+| [Agents](other/agents_c2f8d0bb/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/AGENTS.md) | ⭐ 196 | `other` |
+| [Project Overview](other/project-overview_6ff3e849/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/typescript-backend-project-setup/template/docs/project/project-overview.md) | ⭐ 196 | `other` |
 
-### Productivity (232 skills)
+### Productivity (234 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8121,8 +8190,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/149-description-skill_feaaa708/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/jira-assistant/SKILL.md) | ⭐ 392 | `productivity` |
 | [Session Handoff](productivity/150-session-handoff_d77614d6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/session-handoff.md) | ⭐ 392 | `productivity` |
 | [Patterns](productivity/151-patterns_404e83d1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/patterns.md) | ⭐ 392 | `productivity` |
+| [Skill](productivity/name-skill_c11b3f51/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/critical-peer-personality/SKILL.md) | ⭐ 196 | `productivity` |
+| [Conversation Efficiency Analyzer](productivity/conversation-efficiency-analyzer_859a5337/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/conversation-efficiency-analyzer.md) | ⭐ 196 | `productivity` |
 
-### Research (372 skills)
+### Research (373 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8498,6 +8569,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](research/230-patterns_771d9192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/patterns.md) | ⭐ 392 | `research` |
 | [Reference](research/158-reference_ede69581/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
 | [Skill](research/139-name-skill_8a878283/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/frontend_inferencer/SKILL.md) | ⭐ 23 | `research` |
+| [Opt Critic](research/opt-critic_ca793f21/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/optimization-team/agents/opt-critic.md) | ⭐ 196 | `research` |
 
 ## Repository Structure
 
