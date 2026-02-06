@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8978 AI-powered skills** organized into 16 categories.
+A curated collection of **8979 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -12,18 +12,18 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (59 skills)
 - **Automation/Workflow** (122 skills)
 - **Commercial** (569 skills)
-- **Communication** (355 skills)
+- **Communication** (357 skills)
 - **Content Creation** (575 skills)
 - **Daily Assistant** (377 skills)
 - **Data Analysis** (874 skills)
-- **Development** (4336 skills)
-- **Development/Devops** (130 skills)
+- **Development** (4335 skills)
+- **Development/Devops** (131 skills)
 - **Development/Testing** (34 skills)
 - **Development/Tools** (154 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (240 skills)
-- **Research** (382 skills)
+- **Research** (381 skills)
 
 ## Skills Directory
 
@@ -716,7 +716,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Cloud](automation/scripting/056-cloud_2d7e54ec/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/browser-use/CLOUD.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_0d779264/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/calculator/SKILL.md) | ⭐ 14 | `automation` |
 | [Skill](automation/scripting/003-name-skill_2857b1e4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/weather/SKILL.md) | ⭐ 14 | `automation` |
-| [Skill](automation/scripting/name-skill_f92d6833/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 99 | `automation` |
+| [Skill](automation/scripting/003-name-skill_1d7cda14/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 30 | `automation` |
 | [Installation](automation/scripting/057-installation_9eda89ee/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/dj/installation.md) | ⭐ 686 | `automation` |
 | [Skill](automation/scripting/003-name-skill_4b1f8c86/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-flow-code-review/SKILL.md) | ⭐ 17 | `automation` |
 | [Composition](automation/scripting/058-composition_32215eea/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/bubbletea-code-review/references/composition.md) | ⭐ 17 | `automation` |
@@ -1470,7 +1470,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Deserialization](commercial/319-deserialization_6e1ecd42/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/deserialization.md) | ⭐ 54 | `commercial` |
 | [Owasp Top 10](commercial/320-owasp-top-10_426c524f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/owasp-top-10.md) | ⭐ 54 | `commercial` |
 
-### Communication (355 skills)
+### Communication (357 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1829,6 +1829,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Requirements](communication/210-requirements_aa3e4064/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S08-coding-agent/scenario/requirements.md) | ⭐ 57 | `communication` |
 | [Index](communication/157-index_9fa922d9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 | [Skill](communication/127-name-skill_8f2f547c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-upload-chat-log/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_39036ef6/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 339 | `communication` |
+| [Skill](communication/name-skill_8ded74bf/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 339 | `communication` |
 
 ### Content Creation (575 skills)
 
@@ -2290,7 +2292,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_e6b278b3/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/building-native-ui/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_21202711/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/copywriting/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_191f6a8b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/writing-helper/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/name-skill_2c619be1/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 99 | `content creation` |
+| [Skill](content-creation/049-name-skill_ee96b6e9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 30 | `content creation` |
 | [07 Extraction](content-creation/241-07-extraction_edb2c888/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/07-extraction.md) | ⭐ 948 | `content creation` |
 | [07 Extraction](content-creation/241-07-extraction_b20a8dde/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/07-extraction.md) | ⭐ 948 | `content creation` |
 | [Conversation Logging Jsonl](content-creation/242-conversation-logging-jsonl_fa473c75/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/.archive/specs/conversation-logging-jsonl.md) | ⭐ 686 | `content creation` |
@@ -3671,7 +3673,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_29055717/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-x-article/SKILL.md) | ⭐ 54 | `data analysis` |
 | [Injection Patterns](data-analysis/392-injection-patterns_730c9776/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/injection-patterns.md) | ⭐ 54 | `data analysis` |
 
-### Development (4336 skills)
+### Development (4335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8010,9 +8012,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Injection Patterns](development/2153-injection-patterns_535ac592/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/injection-patterns.md) | ⭐ 54 | `development` |
 | [Python Vulnerabilities](development/2154-python-vulnerabilities_6eacb70a/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/python-vulnerabilities.md) | ⭐ 54 | `development` |
 | [Design Principles](development/2155-design-principles_c99f2dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 176 | `development` |
-| [Skill](development/name-skill_7dd35105/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/adding-dbt-unit-test/SKILL.md) | ⭐ 99 | `development` |
 
-### Development/Devops (130 skills)
+### Development/Devops (131 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8146,6 +8147,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Versioning](development/devops/224-versioning_4fb48d55/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/versioning.md) | ⭐ 10 | `development` |
 | [Skill](development/devops/014-name-skill_64210918/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/SKILL.md) | ⭐ 54 | `development` |
 | [Skill](development/devops/014-name-skill_8b61dd48/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/claude-settings-audit/SKILL.md) | ⭐ 176 | `development` |
+| [Faq](development/devops/167-faq_9ddd9bb3/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/FAQ.md) | ⭐ 20 | `development` |
 
 ### Development/Testing (34 skills)
 
@@ -8343,7 +8345,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Development](development/tools/187-development_2608aaa3/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/development.md) | ⭐ 10 | `development` |
 | [Troubleshooting](development/tools/205-troubleshooting_ad1270b4/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/troubleshooting.md) | ⭐ 10 | `development` |
 | [Flask Security](development/tools/237-flask-security_6907a9c7/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/flask-security.md) | ⭐ 54 | `development` |
-| [Skill](development/tools/name-skill_7752441a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/running-dbt-commands/SKILL.md) | ⭐ 99 | `development` |
+| [Skill](development/tools/002-name-skill_7752441a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/running-dbt-commands/SKILL.md) | ⭐ 99 | `development` |
 
 ### Investment (55 skills)
 
@@ -8699,7 +8701,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Revops Metrics Guide](productivity/148-revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 
-### Research (382 skills)
+### Research (381 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9084,7 +9086,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ecosystem Researcher](research/224-ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
 | [Time Savings Evidence](research/225-time-savings-evidence_1872db45/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 57 | `research` |
 | [Gaia](research/226-gaia_65f6853f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
-| [Skill](research/name-skill_c92f8fe2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/fetching-dbt-docs/SKILL.md) | ⭐ 99 | `research` |
 
 ## Repository Structure
 
