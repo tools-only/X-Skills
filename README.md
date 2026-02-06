@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8716 AI-powered skills** organized into 16 categories.
+A curated collection of **8723 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,13 +13,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (104 skills)
 - **Commercial** (551 skills)
 - **Communication** (351 skills)
-- **Content Creation** (558 skills)
+- **Content Creation** (560 skills)
 - **Daily Assistant** (360 skills)
 - **Data Analysis** (856 skills)
-- **Development** (4258 skills)
+- **Development** (4262 skills)
 - **Development/Devops** (93 skills)
 - **Development/Testing** (28 skills)
-- **Development/Tools** (120 skills)
+- **Development/Tools** (121 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (236 skills)
@@ -1786,7 +1786,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V0.4.0](communication/207-v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
 | [Release Notes](communication/208-release_notes_84ab7276/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 7.5k | `communication` |
 
-### Content Creation (558 skills)
+### Content Creation (560 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2280,7 +2280,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Messages](content-creation/263-messages_3770b42d/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/references/messages.md) | ⭐ 17 | `content creation` |
 | [Complications](content-creation/264-complications_782b30d4/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/complications.md) | ⭐ 17 | `content creation` |
 | [Performance](content-creation/265-performance_c0f98f48/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/watchos-code-review/references/performance.md) | ⭐ 17 | `content creation` |
-| [Claude](content-creation/007-claude_f43f662c/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 66 | `content creation` |
+| [Claude](content-creation/claude_85dde09f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 69 | `content creation` |
 | [Skill](content-creation/049-name-skill_7de94a3a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/docs-writer/SKILL.md) | ⭐ 392 | `content creation` |
 | [Skill](content-creation/049-name-skill_c9c4280b/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(performance)/core-web-vitals/SKILL.md) | ⭐ 392 | `content creation` |
 | [Skill](content-creation/049-name-skill_010605f6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(quality)/web-accessibility/SKILL.md) | ⭐ 392 | `content creation` |
@@ -2348,6 +2348,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_1949ab3f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-concepts/SKILL.md) | 🔥 5.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_1c19a3a9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dropbox-automation/SKILL.md) | 🔥 7.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_f407367f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/webflow-automation/SKILL.md) | 🔥 7.5k | `content creation` |
+| [Claude](content-creation/007-claude_85dde09f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 69 | `content creation` |
+| [Advisor](content-creation/advisor_66954dd5/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/advisor.md) | ⭐ 69 | `content creation` |
 
 ### Daily Assistant (360 skills)
 
@@ -2679,7 +2681,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server](daily-assistant/203-server_c8e24186/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/wish-ssh-code-review/references/server.md) | ⭐ 17 | `daily assistant` |
 | [Concurrency](daily-assistant/198-concurrency_278d84df/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-performance-review/references/concurrency.md) | ⭐ 17 | `daily assistant` |
 | [Review Rust Code](daily-assistant/204-review-rust-code_799d5bd0/) | [onsails/cc](https://raw.githubusercontent.com/onsails/cc/master/rust-dev/agents/review-rust-code.md) | ⭐ 11 | `daily assistant` |
-| [Claude](daily-assistant/037-claude_9d89b195/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 66 | `daily assistant` |
+| [Claude](daily-assistant/claude_a9743266/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 69 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_dc48b9bd/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/confluence-assistant/SKILL.md) | ⭐ 392 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f9ec1f4e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/SKILL.md) | ⭐ 392 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_22726e85/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(tooling)/nx-generate/SKILL.md) | ⭐ 392 | `daily assistant` |
@@ -2712,7 +2714,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bdi Ontology Core](daily-assistant/198-bdi-ontology-core_bfbd9ae4/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/bdi-ontology-core.md) | ⭐ 165 | `daily assistant` |
 | [Sparql Competency](daily-assistant/199-sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
 | [Evaluation Framework](daily-assistant/200-evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
-| [Observation](daily-assistant/observation_26a3efee/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/observation.md) | ⭐ 16 | `daily assistant` |
+| [Claude](daily-assistant/037-claude_a9743266/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 69 | `daily assistant` |
 
 ### Data Analysis (856 skills)
 
@@ -3575,7 +3577,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architectural Reduction](data-analysis/378-architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
 | [Ray](data-analysis/379-ray_cebf0338/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/ray.md) | ⭐ 16 | `data analysis` |
 
-### Development (4258 skills)
+### Development (4262 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7575,7 +7577,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Svelte](development/2023-svelte_e73636c5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/svelte.md) | ⭐ 17 | `development` |
 | [Swiftui](development/1925-swiftui_53bf0f9b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/swiftui.md) | ⭐ 17 | `development` |
 | [Vue](development/2024-vue_7e147bef/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/vue.md) | ⭐ 17 | `development` |
-| [Catalog](development/126-catalog_83f5b36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.2k | `development` |
+| [Catalog](development/catalog_67cf031c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.5k | `development` |
 | [Skill](development/1178-name-skill_d20b793c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/oss-hunter/SKILL.md) | 🔥 7.2k | `development` |
 | [Skill](development/1178-name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
 | [Skill](development/1178-name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
@@ -7837,6 +7839,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1530-description-skill_5990f50b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
 | [Anyio](development/2088-anyio_0f598055/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/async-libraries/anyio.md) | ⭐ 16 | `development` |
 | [Adding New Vectordb Instrumentation](development/2093-adding-new-vectordb-instrumentation_6e5505f1/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/adding-new-vectordb-instrumentation.md) | ⭐ 2.2k | `development` |
+| [Catalog](development/126-catalog_67cf031c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.5k | `development` |
+| [Bundles](development/bundles_03060585/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/BUNDLES.md) | 🔥 7.5k | `development` |
+| [Critic](development/critic_8c5d2c5a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 69 | `development` |
+| [Librarian](development/librarian_76a52f68/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 69 | `development` |
 
 ### Development/Devops (93 skills)
 
@@ -7969,7 +7975,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_5ca8e6d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-patterns/SKILL.md) | 🔥 5.4k | `development` |
 | [Agents](development/testing/024-agents_ae931954/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md) | ⭐ 191 | `development` |
 
-### Development/Tools (120 skills)
+### Development/Tools (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8093,6 +8099,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/086-description-skill_63648ec6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-browser/SKILL.md) | ⭐ 16 | `development` |
 | [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_f1663142/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 16 | `development` |
 | [Framework Instrumentation Guide](development/tools/225-framework-instrumentation-guide_9acdbb63/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/framework-instrumentation-guide.md) | ⭐ 2.2k | `development` |
+| [Validator](development/tools/validator_d32a836a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 69 | `development` |
 
 ### Investment (51 skills)
 
@@ -8438,7 +8445,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/093-name-skill_c11b3f51/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/critical-peer-personality/SKILL.md) | ⭐ 196 | `productivity` |
 | [Conversation Efficiency Analyzer](productivity/144-conversation-efficiency-analyzer_859a5337/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/conversation-efficiency-analyzer.md) | ⭐ 196 | `productivity` |
 | [Optimization Techniques](productivity/145-optimization_techniques_8fa1c2ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/references/optimization_techniques.md) | ⭐ 165 | `productivity` |
-| [System](productivity/system_61420b02/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/system.md) | ⭐ 16 | `productivity` |
+| [System](productivity/146-system_61420b02/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/system.md) | ⭐ 16 | `productivity` |
 
 ### Research (379 skills)
 
