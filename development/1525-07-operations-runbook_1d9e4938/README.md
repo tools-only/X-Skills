@@ -1,0 +1,26 @@
+# 07 Operations Runbook
+
+| Property | Value |
+|----------|-------|
+| **Name** | 07 Operations Runbook |
+| **Repository** | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-operations-runbook.md) (⭐ 57) |
+| **Original Path** | `agent-output/static-webapp/07-operations-runbook.md` |
+| **Category** | development |
+| **Subcategory** | coding |
+| **Tags** | development |
+| **Created** | 2026-01-13 |
+| **Updated** | 2026-02-04 |
+| **File Hash** | `1d9e4938ca401046...` |
+
+## Description
+
+Version: 1.0
+Date: December 17, 2025
+Environment: Development
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-operations-runbook.md)*
