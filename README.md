@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8923 AI-powered skills** organized into 16 categories.
+A curated collection of **8950 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,15 +11,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (672 skills)
 - **Automation/Scripting** (58 skills)
 - **Automation/Workflow** (121 skills)
-- **Commercial** (564 skills)
-- **Communication** (355 skills)
-- **Content Creation** (568 skills)
-- **Daily Assistant** (375 skills)
-- **Data Analysis** (869 skills)
-- **Development** (4317 skills)
-- **Development/Devops** (128 skills)
-- **Development/Testing** (33 skills)
-- **Development/Tools** (143 skills)
+- **Commercial** (567 skills)
+- **Communication** (357 skills)
+- **Content Creation** (570 skills)
+- **Daily Assistant** (377 skills)
+- **Data Analysis** (873 skills)
+- **Development** (4327 skills)
+- **Development/Devops** (126 skills)
+- **Development/Testing** (34 skills)
+- **Development/Tools** (148 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (240 skills)
@@ -766,7 +766,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
 | [Product Prompts](automation/scripting/063-product_prompts_27399a25/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/macros/product_prompts.md) | ⭐ 423 | `automation` |
 | [Skill](automation/scripting/003-name-skill_0f7a2798/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-env-finder/SKILL.md) | ⭐ 12 | `automation` |
-| [Feature Request](automation/scripting/feature_request_697e9fed/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 810 | `automation` |
+| [Skill](automation/scripting/name-skill_7388e852/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/fan-out/SKILL.md) | ⭐ 44 | `automation` |
 
 ### Automation/Workflow (121 skills)
 
@@ -894,7 +894,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_c59d5c47/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/SKILL.md) | ⭐ 1.6k | `automation` |
 | [Gtm Efficiency Benchmarks](automation/workflow/075-gtm-efficiency-benchmarks_26e1cc88/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/gtm-efficiency-benchmarks.md) | ⭐ 1.6k | `automation` |
 
-### Commercial (564 skills)
+### Commercial (567 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1462,8 +1462,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Cs Metrics Benchmarks](commercial/316-cs-metrics-benchmarks_d4c1c641/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/cs-metrics-benchmarks.md) | ⭐ 1.6k | `commercial` |
 | [Forecasting Best Practices](commercial/317-forecasting-best-practices_f12e8496/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/forecasting-best-practices.md) | ⭐ 1.6k | `commercial` |
 | [Funnel Optimization Framework](commercial/318-funnel-optimization-framework_9a950402/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/funnel-optimization-framework.md) | ⭐ 1.6k | `commercial` |
+| [Skill](commercial/name-skill_987fc439/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/careful-delete/SKILL.md) | ⭐ 44 | `commercial` |
+| [Skill](commercial/name-skill_5de5fc7b/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/pipeline/SKILL.md) | ⭐ 44 | `commercial` |
+| [Skill](commercial/name-skill_0f66b384/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/you-sure/SKILL.md) | ⭐ 44 | `commercial` |
 
-### Communication (355 skills)
+### Communication (357 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1822,8 +1825,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Requirements](communication/210-requirements_aa3e4064/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S08-coding-agent/scenario/requirements.md) | ⭐ 57 | `communication` |
 | [Index](communication/157-index_9fa922d9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 | [Skill](communication/127-name-skill_8f2f547c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-upload-chat-log/SKILL.md) | ⭐ 12 | `communication` |
+| [Skill](communication/name-skill_eac96007/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/drip/SKILL.md) | ⭐ 44 | `communication` |
+| [Skill](communication/name-skill_f8c18d9c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/keep-it-simple/SKILL.md) | ⭐ 44 | `communication` |
 
-### Content Creation (568 skills)
+### Content Creation (570 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2395,8 +2400,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude Code Beta Headers](content-creation/257-claude_code_beta_headers_82b5f616/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/claude_code_beta_headers.md) | 🔥 35.4k | `content creation` |
 | [Claude](content-creation/007-claude_f79244c4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/CLAUDE.md) | ⭐ 1.6k | `content creation` |
 | [Rfp Response Guide](content-creation/257-rfp-response-guide_cb6e98d9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/rfp-response-guide.md) | ⭐ 1.6k | `content creation` |
+| [Skill](content-creation/name-skill_59e937b8/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/youtube-transcript/SKILL.md) | ⭐ 44 | `content creation` |
+| [Elixirs](content-creation/elixirs_df4a9bd8/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/docs/elixirs.md) | ⭐ 44 | `content creation` |
 
-### Daily Assistant (375 skills)
+### Daily Assistant (377 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2775,8 +2782,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Health Scoring Framework](daily-assistant/212-health-scoring-framework_b1029b9b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/health-scoring-framework.md) | ⭐ 1.6k | `daily assistant` |
 | [Pipeline Management Framework](daily-assistant/213-pipeline-management-framework_08e6a7cd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/pipeline-management-framework.md) | ⭐ 1.6k | `daily assistant` |
 | [Poc Best Practices](daily-assistant/214-poc-best-practices_1f12e6df/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/poc-best-practices.md) | ⭐ 1.6k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_433ca4af/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/agent-audit/SKILL.md) | ⭐ 44 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
 
-### Data Analysis (869 skills)
+### Data Analysis (873 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3649,8 +3658,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Timeline Gantt Diagrams](data-analysis/388-timeline-gantt-diagrams_a20db021/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/timeline-gantt-diagrams.md) | ⭐ 57 | `data analysis` |
 | [Analytics](data-analysis/389-analytics_2fff36ed/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/analytics.md) | ⭐ 20 | `data analysis` |
 | [Jira Sprint Summary](data-analysis/390-jira-sprint-summary_a0ac47f1/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/jira-sprint-summary.md) | ⭐ 12 | `data analysis` |
+| [Writing Skills](data-analysis/writing-skills_7d8e6f3e/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/docs/writing-skills.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/name-skill_c7ac0fb9/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/map-reduce/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/name-skill_7a0cd53e/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/rubber-duck/SKILL.md) | ⭐ 44 | `data analysis` |
+| [Skill](data-analysis/name-skill_a7b0efc3/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/dont-be-greedy/SKILL.md) | ⭐ 44 | `data analysis` |
 
-### Development (4317 skills)
+### Development (4327 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7962,17 +7975,27 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mcptoolbench](development/1918-mcptoolbench_39d6031b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
 | [Aipcc Commit Suggest](development/2144-aipcc-commit-suggest_3d3fdf12/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/aipcc-commit-suggest.md) | ⭐ 12 | `development` |
 | [Skill](development/1178-name-skill_36bf0b52/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/vllm-compare-reqs/SKILL.md) | ⭐ 12 | `development` |
-| [Agents](development/agents_55528e2d/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/AGENTS.md) | ⭐ 810 | `development` |
-| [Code Reviewer](development/code-reviewer_e449dfd5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-reviewer.md) | ⭐ 810 | `development` |
-| [Code Simplifier](development/code-simplifier_d37b5013/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-simplifier.md) | ⭐ 810 | `development` |
-| [Silent Failure Hunter](development/silent-failure-hunter_f37febdd/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/silent-failure-hunter.md) | ⭐ 810 | `development` |
-| [Review](development/review_6ee59465/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/commands/review.md) | ⭐ 810 | `development` |
-| [Documentation Issue](development/documentation_issue_1b0dacf1/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.github/ISSUE_TEMPLATE/documentation_issue.md) | ⭐ 810 | `development` |
-| [Comment Analyzer](development/comment-analyzer_95debb52/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/comment-analyzer.md) | ⭐ 810 | `development` |
-| [Pr Test Analyzer](development/pr-test-analyzer_ee2cbae8/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/pr-test-analyzer.md) | ⭐ 810 | `development` |
-| [Type Design Analyzer](development/type-design-analyzer_34571956/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/type-design-analyzer.md) | ⭐ 810 | `development` |
+| [Agents](development/028-agents_55528e2d/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/AGENTS.md) | ⭐ 810 | `development` |
+| [Code Reviewer](development/2082-code-reviewer_e449dfd5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-reviewer.md) | ⭐ 810 | `development` |
+| [Code Simplifier](development/1970-code-simplifier_d37b5013/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-simplifier.md) | ⭐ 810 | `development` |
+| [Silent Failure Hunter](development/2083-silent-failure-hunter_f37febdd/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/silent-failure-hunter.md) | ⭐ 810 | `development` |
+| [Review](development/920-review_6ee59465/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/commands/review.md) | ⭐ 810 | `development` |
+| [Skill](development/name-skill_758f4f72/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/debug-to-fix/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_2ac9d2f5/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/eta/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_d77cfdc8/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/geordie/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_f1dee442/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/learn-from-this/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_794dc722/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/loose-ends/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_8d178683/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/pair-mode/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_106106fc/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/prove-it/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_f8febc67/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/safe-refactor/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_f3d0b88a/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/sanity-check/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_b5963d2b/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/skill-creator/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_96b3fa59/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/skill-gate/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_5627ed18/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/split-decision/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_c9d7dd6b/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/stay-in-lane/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/name-skill_cef17fe7/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/zero-in/SKILL.md) | ⭐ 44 | `development` |
 
-### Development/Devops (128 skills)
+### Development/Devops (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8101,11 +8124,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Best Practices](development/devops/168-best-practices_1084ad10/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/best-practices.md) | ⭐ 20 | `development` |
 | [Configuration](development/devops/009-configuration_337077da/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/configuration.md) | ⭐ 20 | `development` |
 | [Skill](development/devops/014-name-skill_dbb33f18/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/oci-cve-checker/SKILL.md) | ⭐ 12 | `development` |
-| [Docker Hub](development/devops/docker-hub_913025a5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md) | ⭐ 810 | `development` |
-| [Release Notes Template](development/devops/release_notes_template_e1f71a1f/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/RELEASE_NOTES_TEMPLATE.md) | ⭐ 810 | `development` |
-| [Bug Report](development/devops/bug_report_6d9e3ac4/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 810 | `development` |
+| [Docker Hub](development/devops/201-docker-hub_913025a5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md) | ⭐ 810 | `development` |
 
-### Development/Testing (33 skills)
+### Development/Testing (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8142,8 +8163,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Scenario List Source Refactor](development/testing/045-scenario_list_source_refactor_2c56e4c4/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/scenarios/scenario_list_source_refactor.md) | ⭐ 423 | `development` |
 | [Extension Authoring Guide](development/testing/046-extension_authoring_guide_d6cb2ccc/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/legacy_extenions_code/extensions/extension_authoring_guide.md) | ⭐ 423 | `development` |
 | [Rpm Examine](development/testing/045-rpm-examine_34853bdd/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/rpm-examine.md) | ⭐ 12 | `development` |
+| [Skill](development/testing/name-skill_161be0ce/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/battle-plan/SKILL.md) | ⭐ 44 | `development` |
 
-### Development/Tools (143 skills)
+### Development/Tools (148 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8290,6 +8312,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](development/tools/017-claude_0b9214e9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/CLAUDE.md) | ⭐ 1.6k | `development` |
 | [Skill](development/tools/002-name-skill_ab5c472e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/SKILL.md) | ⭐ 1.6k | `development` |
 | [Campaign Metrics Benchmarks](development/tools/236-campaign-metrics-benchmarks_5f83037e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/campaign-metrics-benchmarks.md) | ⭐ 1.6k | `development` |
+| [Skill](development/tools/name-skill_6f380bdf/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/breadcrumbs/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/name-skill_2359d94b/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/pre-mortem/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/name-skill_ff106cc1/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/retrospective/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/name-skill_e11ed292/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/skill-forge/SKILL.md) | ⭐ 44 | `development` |
+| [Skill](development/tools/name-skill_ee66fcae/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/trace-it/SKILL.md) | ⭐ 44 | `development` |
 
 ### Investment (55 skills)
 
