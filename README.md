@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8454 AI-powered skills** organized into 16 categories.
+A curated collection of **8453 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -14,10 +14,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (543 skills)
 - **Communication** (341 skills)
 - **Content Creation** (540 skills)
-- **Daily Assistant** (350 skills)
+- **Daily Assistant** (348 skills)
 - **Data Analysis** (843 skills)
 - **Development** (4211 skills)
-- **Development/Devops** (68 skills)
+- **Development/Devops** (69 skills)
 - **Development/Testing** (25 skills)
 - **Development/Tools** (99 skills)
 - **Investment** (51 skills)
@@ -1651,7 +1651,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](communication/219-gotchas_e329d88e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/spectrum/gotchas.md) | ⭐ 392 | `communication` |
 | [Patterns](communication/084-patterns_b322b2c6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/turnstile/patterns.md) | ⭐ 392 | `communication` |
 | [Configuration](communication/035-configuration_d4b760ef/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/configuration.md) | ⭐ 392 | `communication` |
-| [Index](communication/index_4c5265bc/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.3k | `anthropic` `claude` `opus 4.6` |
+| [Index](communication/157-index_c174512a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.3k | `anthropic` `claude` `opus 4.6` |
 | [Reference](communication/147-reference_cdaebb93/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/intercom/REFERENCE.md) | ⭐ 102 | `communication` |
 | [Reference](communication/147-reference_96f6b78b/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/jira/REFERENCE.md) | ⭐ 102 | `communication` |
 | [Reference](communication/147-reference_8ef2fd9f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/klaviyo/REFERENCE.md) | ⭐ 102 | `communication` |
@@ -1665,10 +1665,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Opt Researcher](communication/201-opt-researcher_4d8f0c23/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/optimization-team/agents/opt-researcher.md) | ⭐ 196 | `communication` |
 | [Faq](communication/202-faq_0abb3060/) | [barvhaim/HoneyMCP](https://raw.githubusercontent.com/barvhaim/HoneyMCP/master/docs/faq.md) | ⭐ 16 | `communication` |
 | [Index](communication/157-index_4c5265bc/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.3k | `anthropic` `claude` `opus 4.6` |
-| [Config](communication/config_b3164160/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/CONFIG.md) | ⭐ 41 | `communication` |
-| [Faq](communication/faq_51c9a71e/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/FAQ.md) | ⭐ 41 | `communication` |
-| [Tools](communication/tools_8cab3df1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/TOOLS.md) | ⭐ 41 | `communication` |
-| [Utilities Slash Commands](communication/utilities_slash_commands_a3828bd4/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/data/kbdocs/utilities_slash_commands.md) | ⭐ 41 | `communication` |
+| [Config](communication/201-config_b3164160/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/CONFIG.md) | ⭐ 41 | `communication` |
+| [Faq](communication/202-faq_51c9a71e/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/FAQ.md) | ⭐ 41 | `communication` |
+| [Tools](communication/203-tools_8cab3df1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/TOOLS.md) | ⭐ 41 | `communication` |
+| [Utilities Slash Commands](communication/204-utilities_slash_commands_a3828bd4/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/data/kbdocs/utilities_slash_commands.md) | ⭐ 41 | `communication` |
 
 ### Content Creation (540 skills)
 
@@ -2215,7 +2215,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Arc Review](content-creation/250-arc-review_e42b77de/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc-review.md) | ⭐ 196 | `content creation` |
 | [Critique](content-creation/249-critique_3a07ac15/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/docs/optimization/iterm2-session-awareness/critique.md) | ⭐ 196 | `content creation` |
 
-### Daily Assistant (350 skills)
+### Daily Assistant (348 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2567,8 +2567,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_afcf88c4/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tdd-process/SKILL.md) | ⭐ 196 | `daily assistant` |
 | [Tool And Skill Usage Analyzer](daily-assistant/194-tool-and-skill-usage-analyzer_f580b511/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/tool-and-skill-usage-analyzer.md) | ⭐ 196 | `daily assistant` |
 | [Optimize Session](daily-assistant/195-optimize-session_fac21f04/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/commands/optimize-session.md) | ⭐ 196 | `daily assistant` |
-| [Codak](daily-assistant/codak_4f44adf6/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/snippet/codak.md) | ⭐ 41 | `daily assistant` |
-| [Chat Mgmt Slash Commands](daily-assistant/chat_mgmt_slash_commands_9642accb/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/data/kbdocs/chat_mgmt_slash_commands.md) | ⭐ 41 | `daily assistant` |
 
 ### Data Analysis (843 skills)
 
@@ -7634,7 +7632,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/028-agents_0fb882f9/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/AGENTS.md) | ⭐ 178 | `development` |
 | [Agents](development/028-agents_791f24aa/) | [barvhaim/HoneyMCP](https://raw.githubusercontent.com/barvhaim/HoneyMCP/master/AGENTS.md) | ⭐ 16 | `development` |
 
-### Development/Devops (68 skills)
+### Development/Devops (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7705,7 +7703,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/devops/014-name-skill_317186eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/devops_detector/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_8d24be24/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/job_posting_analysis/SKILL.md) | ⭐ 23 | `development` |
 | [Security Considerations](development/devops/192-security-considerations_c5b34423/) | [barvhaim/HoneyMCP](https://raw.githubusercontent.com/barvhaim/HoneyMCP/master/docs/security-considerations.md) | ⭐ 16 | `development` |
-| [Readme Cn](development/devops/readme_cn_de79e993/) | [yym68686/uni-api](https://raw.githubusercontent.com/yym68686/uni-api/main/README_CN.md) | ⭐ 1.2k | `development` |
+| [Readme Cn](development/devops/192-readme_cn_de79e993/) | [yym68686/uni-api](https://raw.githubusercontent.com/yym68686/uni-api/main/README_CN.md) | ⭐ 1.2k | `development` |
+| [038 Multi Worker Session Affinity](development/devops/038-multi-worker-session-affinity_55e728ff/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/038-multi-worker-session-affinity.md) | ⭐ 3.2k | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -7839,7 +7838,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Proposal](development/tools/212-proposal_de05f6a6/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/docs/optimization/iterm2-session-awareness/proposal.md) | ⭐ 196 | `development` |
 | [Claude](development/tools/017-claude_19704b59/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/CLAUDE.md) | ⭐ 89 | `development` |
 | [Skill](development/tools/002-name-skill_32dfba7c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
-| [New Models](development/tools/new_models_b15512f1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/NEW_MODELS.md) | ⭐ 41 | `development` |
+| [New Models](development/tools/211-new_models_b15512f1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/NEW_MODELS.md) | ⭐ 41 | `development` |
 
 ### Investment (51 skills)
 
