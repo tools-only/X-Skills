@@ -15,11 +15,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (342 skills)
 - **Content Creation** (541 skills)
 - **Daily Assistant** (349 skills)
-- **Data Analysis** (846 skills)
+- **Data Analysis** (845 skills)
 - **Development** (4214 skills)
 - **Development/Devops** (69 skills)
 - **Development/Testing** (25 skills)
-- **Development/Tools** (100 skills)
+- **Development/Tools** (101 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (234 skills)
@@ -2571,7 +2571,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Optimize Session](daily-assistant/195-optimize-session_fac21f04/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/commands/optimize-session.md) | ⭐ 196 | `daily assistant` |
 | [Tensorzero Setup](daily-assistant/196-tensorzero_setup_85c87c6d/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/tensorzero_setup.md) | ⭐ 116 | `daily assistant` |
 
-### Data Analysis (846 skills)
+### Data Analysis (845 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3419,8 +3419,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Technical Investigator](data-analysis/370-technical-investigator_1a3fbf4f/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/technical-investigator.md) | ⭐ 196 | `data analysis` |
 | [Arc Prd](data-analysis/371-arc-prd_29a76041/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/architect-refine-critique/commands/arc-prd.md) | ⭐ 196 | `data analysis` |
 | [Workflow Diagrams](data-analysis/372-workflow_diagrams_83a66eae/) | [surapuramakhil-org/Job_search_agent](https://raw.githubusercontent.com/surapuramakhil-org/Job_search_agent/main/docs/workflow_diagrams.md) | ⭐ 116 | `data analysis` |
-| [Smd Interpretation](data-analysis/smd_interpretation_3d9eb8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/equiflow/references/smd_interpretation.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_e5200bd8/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/equiflow/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Smd Interpretation](data-analysis/373-smd_interpretation_3d9eb8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/equiflow/references/smd_interpretation.md) | ⭐ 10 | `data analysis` |
 
 ### Development (4214 skills)
 
@@ -7524,7 +7523,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Code Execution](development/2115-code_execution_6855d8d3/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/CODE_EXECUTION.md) | ⭐ 10 | `development` |
 | [Development](development/284-development_0bd62e92/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/DEVELOPMENT.md) | ⭐ 10 | `development` |
 | [Skills](development/2116-skills-skill_99d268ae/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/docs/SKILLS.md) | ⭐ 10 | `development` |
-| [Skills Index](development/skills_index_04baab42/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 10 | `development` |
+| [Skills Index](development/2117-skills_index_b7b42f14/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 10 | `development` |
 | [Skill Format](development/2118-skill_format_59ee6925/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILL_FORMAT.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_3c8c3883/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/baseline-creatinine/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_c14e9128/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-pitfalls/SKILL.md) | ⭐ 10 | `development` |
@@ -7745,7 +7744,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
 
-### Development/Tools (100 skills)
+### Development/Tools (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7849,6 +7848,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_32dfba7c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 89 | `development` |
 | [New Models](development/tools/211-new_models_b15512f1/) | [zavocc/JakeyBot](https://raw.githubusercontent.com/zavocc/JakeyBot/master/docs/NEW_MODELS.md) | ⭐ 41 | `development` |
 | [Agents](development/tools/015-agents_c4267c8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/AGENTS.md) | ⭐ 396 | `development` |
+| [Claude](development/tools/claude_c08568ef/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/CLAUDE.md) | ⭐ 130 | `development` |
 
 ### Investment (51 skills)
 
@@ -8570,7 +8570,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](research/230-patterns_771d9192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/patterns.md) | ⭐ 392 | `research` |
 | [Reference](research/158-reference_ede69581/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
 | [Skill](research/139-name-skill_8a878283/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/frontend_inferencer/SKILL.md) | ⭐ 23 | `research` |
-| [Skill](research/name-skill_04a2e37a/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/hfrs/SKILL.md) | ⭐ 10 | `research` |
+| [Aleph](research/aleph_79d0c04a/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 130 | `research` |
 
 ## Repository Structure
 
