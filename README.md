@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8709 AI-powered skills** organized into 16 categories.
+A curated collection of **8715 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,13 +13,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (104 skills)
 - **Commercial** (551 skills)
 - **Communication** (351 skills)
-- **Content Creation** (558 skills)
+- **Content Creation** (559 skills)
 - **Daily Assistant** (359 skills)
 - **Data Analysis** (856 skills)
 - **Development** (4258 skills)
-- **Development/Devops** (90 skills)
+- **Development/Devops** (94 skills)
 - **Development/Testing** (28 skills)
-- **Development/Tools** (119 skills)
+- **Development/Tools** (120 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (235 skills)
@@ -1785,7 +1785,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V0.4.0](communication/207-v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
 | [Release Notes](communication/208-release_notes_84ab7276/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 7.5k | `communication` |
 
-### Content Creation (558 skills)
+### Content Creation (559 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2347,6 +2347,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_1949ab3f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-concepts/SKILL.md) | 🔥 5.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_1c19a3a9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dropbox-automation/SKILL.md) | 🔥 7.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_f407367f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/webflow-automation/SKILL.md) | 🔥 7.5k | `content creation` |
+| [Langgraph Methods Report](content-creation/langgraph_methods_report_d5e3eb86/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/langgraph_methods_report.md) | ⭐ 2.2k | `content creation` |
 
 ### Daily Assistant (359 skills)
 
@@ -7834,9 +7835,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pyo3](development/2087-pyo3_0cb445d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/rust-python-bindings/pyo3.md) | ⭐ 16 | `development` |
 | [Skill](development/1530-description-skill_5990f50b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
 | [Anyio](development/2088-anyio_0f598055/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/async-libraries/anyio.md) | ⭐ 16 | `development` |
-| [Agent](development/agent_40ce36a6/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.1k | `development` |
+| [Adding New Vectordb Instrumentation](development/adding-new-vectordb-instrumentation_6e5505f1/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/adding-new-vectordb-instrumentation.md) | ⭐ 2.2k | `development` |
 
-### Development/Devops (90 skills)
+### Development/Devops (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7929,7 +7930,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Zh Cn](development/devops/107-zh-cn_dbc75242/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/zh-CN.md) | 🔥 5.4k | `development` |
 | [Skill](development/devops/014-name-skill_41ee91d2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 5.4k | `development` |
 | [Skill](development/devops/014-name-skill_8c9379a1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/github-automation/SKILL.md) | 🔥 7.5k | `development` |
-| [Tls Configuration](development/devops/tls-configuration_565f8deb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/tls-configuration.md) | ⭐ 3.2k | `development` |
+| [Tls Configuration](development/devops/201-tls-configuration_565f8deb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/tls-configuration.md) | ⭐ 3.2k | `development` |
+| [Opamp Deployment](development/devops/opamp_deployment_acda778b/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/OPAMP_DEPLOYMENT.md) | ⭐ 2.2k | `development` |
+| [Operator Ui](development/devops/operator-ui_c7f8491b/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/operator-ui.md) | ⭐ 2.2k | `development` |
+| [Certificates](development/devops/certificates_5bd6539d/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/src/opamp-server/CERTIFICATES.md) | ⭐ 2.2k | `development` |
+| [Testing](development/devops/testing_002617ca/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/operator/TESTING.md) | ⭐ 2.2k | `development` |
 
 ### Development/Testing (28 skills)
 
@@ -7964,7 +7969,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_5ca8e6d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-patterns/SKILL.md) | 🔥 5.4k | `development` |
 | [Agents](development/testing/024-agents_ae931954/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md) | ⭐ 191 | `development` |
 
-### Development/Tools (119 skills)
+### Development/Tools (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8087,6 +8092,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tornado](development/tools/223-tornado_a73cce85/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/tornado.md) | ⭐ 16 | `development` |
 | [Skill](development/tools/086-description-skill_63648ec6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-browser/SKILL.md) | ⭐ 16 | `development` |
 | [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_f1663142/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 16 | `development` |
+| [Framework Instrumentation Guide](development/tools/framework-instrumentation-guide_9acdbb63/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/framework-instrumentation-guide.md) | ⭐ 2.2k | `development` |
 
 ### Investment (51 skills)
 
