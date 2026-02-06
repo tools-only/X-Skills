@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8939 AI-powered skills** organized into 16 categories.
+A curated collection of **8923 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (59 skills)
-- **Automation/Workflow** (126 skills)
-- **Commercial** (566 skills)
-- **Communication** (359 skills)
+- **Automation/Scripting** (58 skills)
+- **Automation/Workflow** (121 skills)
+- **Commercial** (564 skills)
+- **Communication** (355 skills)
 - **Content Creation** (568 skills)
 - **Daily Assistant** (375 skills)
-- **Data Analysis** (871 skills)
-- **Development** (4311 skills)
-- **Development/Devops** (126 skills)
-- **Development/Testing** (34 skills)
-- **Development/Tools** (144 skills)
-- **Investment** (61 skills)
+- **Data Analysis** (869 skills)
+- **Development** (4317 skills)
+- **Development/Devops** (128 skills)
+- **Development/Testing** (33 skills)
+- **Development/Tools** (143 skills)
+- **Investment** (55 skills)
 - **Other** (44 skills)
-- **Productivity** (242 skills)
+- **Productivity** (240 skills)
 - **Research** (381 skills)
 
 ## Skills Directory
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (59 skills)
+### Automation/Scripting (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -765,11 +765,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
 | [Skill](automation/scripting/003-name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
 | [Product Prompts](automation/scripting/063-product_prompts_27399a25/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/macros/product_prompts.md) | ⭐ 423 | `automation` |
-| [Skill](automation/scripting/name-skill_0f7a2798/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-env-finder/SKILL.md) | ⭐ 12 | `automation` |
-| [Technical Proposal Template](automation/scripting/technical_proposal_template_c52e3e35/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/assets/technical_proposal_template.md) | ⭐ 1.6k | `automation` |
-| [Forecast Report Template](automation/scripting/forecast_report_template_8683aef2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/assets/forecast_report_template.md) | ⭐ 1.6k | `automation` |
+| [Skill](automation/scripting/003-name-skill_0f7a2798/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-env-finder/SKILL.md) | ⭐ 12 | `automation` |
+| [Feature Request](automation/scripting/feature_request_697e9fed/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 810 | `automation` |
 
-### Automation/Workflow (126 skills)
+### Automation/Workflow (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -888,19 +887,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Quick Reference](automation/workflow/070-quick-reference_84266f6a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/quick-reference.md) | ⭐ 57 | `automation` |
 | [Tutorials](automation/workflow/071-tutorials_f66f542b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/tutorials.md) | ⭐ 20 | `automation` |
 | [Terminalbench](automation/workflow/072-terminalbench_af15afe7/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
-| [Agents](automation/workflow/agents_17920217/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md) | ⭐ 12 | `automation` |
-| [Python Packaging Investigator](automation/workflow/python-packaging-investigator_2fe1d5a3/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/agents/python-packaging-investigator.md) | ⭐ 12 | `automation` |
-| [Skill](automation/workflow/name-skill_01359ba8/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-bug-finder/SKILL.md) | ⭐ 12 | `automation` |
-| [Skill](automation/workflow/name-skill_e5d8fff3/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/SKILL.md) | ⭐ 1.6k | `automation` |
-| [Skill](automation/workflow/name-skill_c59d5c47/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/SKILL.md) | ⭐ 1.6k | `automation` |
-| [Gtm Efficiency Benchmarks](automation/workflow/gtm-efficiency-benchmarks_26e1cc88/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/gtm-efficiency-benchmarks.md) | ⭐ 1.6k | `automation` |
-| [01 Tool Request](automation/workflow/01_tool_request_bed99778/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/.github/ISSUE_TEMPLATE/01_tool_request.md) | ⭐ 12 | `automation` |
-| [03 Gemini Gem Request](automation/workflow/03_gemini_gem_request_15f7ae05/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/.github/ISSUE_TEMPLATE/03_gemini_gem_request.md) | ⭐ 12 | `automation` |
-| [06 Category Request](automation/workflow/06_category_request_d78101b2/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/.github/ISSUE_TEMPLATE/06_category_request.md) | ⭐ 12 | `automation` |
-| [07 Idea Request](automation/workflow/07_idea_request_814deacb/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/.github/ISSUE_TEMPLATE/07_idea_request.md) | ⭐ 12 | `automation` |
-| [Poc Scorecard Template](automation/workflow/poc_scorecard_template_d2a4e380/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/assets/poc_scorecard_template.md) | ⭐ 1.6k | `automation` |
+| [Agents](automation/workflow/073-agents_17920217/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md) | ⭐ 12 | `automation` |
+| [Python Packaging Investigator](automation/workflow/074-python-packaging-investigator_2fe1d5a3/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/agents/python-packaging-investigator.md) | ⭐ 12 | `automation` |
+| [Skill](automation/workflow/002-name-skill_01359ba8/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-bug-finder/SKILL.md) | ⭐ 12 | `automation` |
+| [Skill](automation/workflow/002-name-skill_e5d8fff3/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/SKILL.md) | ⭐ 1.6k | `automation` |
+| [Skill](automation/workflow/002-name-skill_c59d5c47/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/SKILL.md) | ⭐ 1.6k | `automation` |
+| [Gtm Efficiency Benchmarks](automation/workflow/075-gtm-efficiency-benchmarks_26e1cc88/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/gtm-efficiency-benchmarks.md) | ⭐ 1.6k | `automation` |
 
-### Commercial (566 skills)
+### Commercial (564 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1462,16 +1456,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Defaults](commercial/313-defaults_e665598b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_shared/defaults.md) | ⭐ 57 | `commercial` |
 | [Incident Timeline](commercial/314-incident-timeline_e69462d2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S05-troubleshooting/scenario/incident-timeline.md) | ⭐ 57 | `commercial` |
 | [Requirements](commercial/315-requirements_0bd08223/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S05-troubleshooting/scenario/requirements.md) | ⭐ 57 | `commercial` |
-| [Claude](commercial/claude_5a8c8462/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) | ⭐ 1.6k | `commercial` |
-| [Marketing Skills Roadmap](commercial/marketing_skills_roadmap_c8cfc42a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing_skills_roadmap.md) | ⭐ 1.6k | `commercial` |
-| [Skill](commercial/name-skill_b7c37201/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/SKILL.md) | ⭐ 1.6k | `commercial` |
-| [Cs Metrics Benchmarks](commercial/cs-metrics-benchmarks_d4c1c641/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/cs-metrics-benchmarks.md) | ⭐ 1.6k | `commercial` |
-| [Forecasting Best Practices](commercial/forecasting-best-practices_f12e8496/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/forecasting-best-practices.md) | ⭐ 1.6k | `commercial` |
-| [Funnel Optimization Framework](commercial/funnel-optimization-framework_9a950402/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/funnel-optimization-framework.md) | ⭐ 1.6k | `commercial` |
-| [Executive Business Review Template](commercial/executive_business_review_template_6db74584/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/assets/executive_business_review_template.md) | ⭐ 1.6k | `commercial` |
-| [Success Plan Template](commercial/success_plan_template_a57ff20c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/assets/success_plan_template.md) | ⭐ 1.6k | `commercial` |
+| [Claude](commercial/036-claude_5a8c8462/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) | ⭐ 1.6k | `commercial` |
+| [Marketing Skills Roadmap](commercial/118-marketing_skills_roadmap_c8cfc42a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/marketing_skills_roadmap.md) | ⭐ 1.6k | `commercial` |
+| [Skill](commercial/210-name-skill_b7c37201/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/SKILL.md) | ⭐ 1.6k | `commercial` |
+| [Cs Metrics Benchmarks](commercial/316-cs-metrics-benchmarks_d4c1c641/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/cs-metrics-benchmarks.md) | ⭐ 1.6k | `commercial` |
+| [Forecasting Best Practices](commercial/317-forecasting-best-practices_f12e8496/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/forecasting-best-practices.md) | ⭐ 1.6k | `commercial` |
+| [Funnel Optimization Framework](commercial/318-funnel-optimization-framework_9a950402/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/funnel-optimization-framework.md) | ⭐ 1.6k | `commercial` |
 
-### Communication (359 skills)
+### Communication (355 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1829,11 +1821,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Workshop Checklist](communication/209-workshop-checklist_0d773ad7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 57 | `communication` |
 | [Requirements](communication/210-requirements_aa3e4064/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S08-coding-agent/scenario/requirements.md) | ⭐ 57 | `communication` |
 | [Index](communication/157-index_9fa922d9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
-| [Skill](communication/name-skill_8f2f547c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-upload-chat-log/SKILL.md) | ⭐ 12 | `communication` |
-| [Skill](communication/name-skill_9c817172/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/vllm-slack-summary/SKILL.md) | ⭐ 12 | `communication` |
-| [Onboarding Checklist Template](communication/onboarding_checklist_template_238ed39d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/assets/onboarding_checklist_template.md) | ⭐ 1.6k | `communication` |
-| [Demo Script Template](communication/demo_script_template_beacbc2b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/assets/demo_script_template.md) | ⭐ 1.6k | `communication` |
-| [Channel Comparison Template](communication/channel_comparison_template_5c6b30fc/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/assets/channel_comparison_template.md) | ⭐ 1.6k | `communication` |
+| [Skill](communication/127-name-skill_8f2f547c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-upload-chat-log/SKILL.md) | ⭐ 12 | `communication` |
 
 ### Content Creation (568 skills)
 
@@ -2405,8 +2393,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_7b1cf7a4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
 | [Markdown.Instructions](content-creation/256-markdowninstructions_bf19585a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/markdown.instructions.md) | ⭐ 57 | `bicep` `iac` `azure` |
 | [Claude Code Beta Headers](content-creation/257-claude_code_beta_headers_82b5f616/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/claude_code_beta_headers.md) | 🔥 35.4k | `content creation` |
-| [Claude](content-creation/claude_f79244c4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/CLAUDE.md) | ⭐ 1.6k | `content creation` |
-| [Rfp Response Guide](content-creation/rfp-response-guide_cb6e98d9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/rfp-response-guide.md) | ⭐ 1.6k | `content creation` |
+| [Claude](content-creation/007-claude_f79244c4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/CLAUDE.md) | ⭐ 1.6k | `content creation` |
+| [Rfp Response Guide](content-creation/257-rfp-response-guide_cb6e98d9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/rfp-response-guide.md) | ⭐ 1.6k | `content creation` |
 
 ### Daily Assistant (375 skills)
 
@@ -2783,12 +2771,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Copilot Thought Logging.Instructions](daily-assistant/208-copilot-thought-logginginstructions_4ae0d23a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/copilot-thought-logging.instructions.md) | ⭐ 57 | `daily assistant` |
 | [Documentation Styling](daily-assistant/209-documentation-styling_f4c739c3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_shared/documentation-styling.md) | ⭐ 57 | `daily assistant` |
 | [Requirements](daily-assistant/210-requirements_eadafa5c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S03-documentation-generation/scenario/requirements.md) | ⭐ 57 | `daily assistant` |
-| [Cs Playbooks](daily-assistant/cs-playbooks_2cbc6f6c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/cs-playbooks.md) | ⭐ 1.6k | `daily assistant` |
-| [Health Scoring Framework](daily-assistant/health-scoring-framework_b1029b9b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/health-scoring-framework.md) | ⭐ 1.6k | `daily assistant` |
-| [Pipeline Management Framework](daily-assistant/pipeline-management-framework_08e6a7cd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/pipeline-management-framework.md) | ⭐ 1.6k | `daily assistant` |
-| [Poc Best Practices](daily-assistant/poc-best-practices_1f12e6df/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/poc-best-practices.md) | ⭐ 1.6k | `daily assistant` |
+| [Cs Playbooks](daily-assistant/211-cs-playbooks_2cbc6f6c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/cs-playbooks.md) | ⭐ 1.6k | `daily assistant` |
+| [Health Scoring Framework](daily-assistant/212-health-scoring-framework_b1029b9b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/references/health-scoring-framework.md) | ⭐ 1.6k | `daily assistant` |
+| [Pipeline Management Framework](daily-assistant/213-pipeline-management-framework_08e6a7cd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/pipeline-management-framework.md) | ⭐ 1.6k | `daily assistant` |
+| [Poc Best Practices](daily-assistant/214-poc-best-practices_1f12e6df/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/poc-best-practices.md) | ⭐ 1.6k | `daily assistant` |
 
-### Data Analysis (871 skills)
+### Data Analysis (869 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3660,11 +3648,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Preventing Overlaps](data-analysis/387-preventing-overlaps_2cb3b07d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/preventing-overlaps.md) | ⭐ 57 | `data analysis` |
 | [Timeline Gantt Diagrams](data-analysis/388-timeline-gantt-diagrams_a20db021/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/timeline-gantt-diagrams.md) | ⭐ 57 | `data analysis` |
 | [Analytics](data-analysis/389-analytics_2fff36ed/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/analytics.md) | ⭐ 20 | `data analysis` |
-| [Jira Sprint Summary](data-analysis/jira-sprint-summary_a0ac47f1/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/jira-sprint-summary.md) | ⭐ 12 | `data analysis` |
-| [Forecast Report Template](data-analysis/forecast_report_template_d5fc7865/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/assets/forecast_report_template.md) | ⭐ 1.6k | `data analysis` |
-| [Ab Test Template](data-analysis/ab_test_template_3df61968/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/assets/ab_test_template.md) | ⭐ 1.6k | `data analysis` |
+| [Jira Sprint Summary](data-analysis/390-jira-sprint-summary_a0ac47f1/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/jira-sprint-summary.md) | ⭐ 12 | `data analysis` |
 
-### Development (4311 skills)
+### Development (4317 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7974,13 +7960,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gsm8K](development/2142-gsm8k_42bf3dc2/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gsm8k.md) | ⭐ 20 | `development` |
 | [Humaneval](development/1917-humaneval_a8f592af/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/humaneval.md) | ⭐ 20 | `development` |
 | [Mcptoolbench](development/1918-mcptoolbench_39d6031b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
-| [Aipcc Commit Suggest](development/aipcc-commit-suggest_3d3fdf12/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/aipcc-commit-suggest.md) | ⭐ 12 | `development` |
-| [Skill](development/name-skill_36bf0b52/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/vllm-compare-reqs/SKILL.md) | ⭐ 12 | `development` |
-| [05 Documentation Improvement](development/05_documentation_improvement_f2816d30/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/.github/ISSUE_TEMPLATE/05_documentation_improvement.md) | ⭐ 12 | `development` |
-| [Hello World Echo](development/hello-world-echo_4c3050ba/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/hello-world-echo.md) | ⭐ 12 | `development` |
-| [Skill](development/name-skill_1d79ce72/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-source-finder/SKILL.md) | ⭐ 12 | `development` |
+| [Aipcc Commit Suggest](development/2144-aipcc-commit-suggest_3d3fdf12/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/aipcc-commit-suggest.md) | ⭐ 12 | `development` |
+| [Skill](development/1178-name-skill_36bf0b52/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/vllm-compare-reqs/SKILL.md) | ⭐ 12 | `development` |
+| [Agents](development/agents_55528e2d/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/AGENTS.md) | ⭐ 810 | `development` |
+| [Code Reviewer](development/code-reviewer_e449dfd5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-reviewer.md) | ⭐ 810 | `development` |
+| [Code Simplifier](development/code-simplifier_d37b5013/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-simplifier.md) | ⭐ 810 | `development` |
+| [Silent Failure Hunter](development/silent-failure-hunter_f37febdd/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/silent-failure-hunter.md) | ⭐ 810 | `development` |
+| [Review](development/review_6ee59465/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/commands/review.md) | ⭐ 810 | `development` |
+| [Documentation Issue](development/documentation_issue_1b0dacf1/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.github/ISSUE_TEMPLATE/documentation_issue.md) | ⭐ 810 | `development` |
+| [Comment Analyzer](development/comment-analyzer_95debb52/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/comment-analyzer.md) | ⭐ 810 | `development` |
+| [Pr Test Analyzer](development/pr-test-analyzer_ee2cbae8/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/pr-test-analyzer.md) | ⭐ 810 | `development` |
+| [Type Design Analyzer](development/type-design-analyzer_34571956/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/type-design-analyzer.md) | ⭐ 810 | `development` |
 
-### Development/Devops (126 skills)
+### Development/Devops (128 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8108,10 +8100,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Faq](development/devops/167-faq_fa9a0dd4/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/FAQ.md) | ⭐ 20 | `development` |
 | [Best Practices](development/devops/168-best-practices_1084ad10/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/best-practices.md) | ⭐ 20 | `development` |
 | [Configuration](development/devops/009-configuration_337077da/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/configuration.md) | ⭐ 20 | `development` |
-| [Skill](development/devops/name-skill_dbb33f18/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/oci-cve-checker/SKILL.md) | ⭐ 12 | `development` |
-| [Skill](development/devops/name-skill_c5db892e/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/gitlab-pipeline-debugger/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/devops/014-name-skill_dbb33f18/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/oci-cve-checker/SKILL.md) | ⭐ 12 | `development` |
+| [Docker Hub](development/devops/docker-hub_913025a5/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md) | ⭐ 810 | `development` |
+| [Release Notes Template](development/devops/release_notes_template_e1f71a1f/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/RELEASE_NOTES_TEMPLATE.md) | ⭐ 810 | `development` |
+| [Bug Report](development/devops/bug_report_6d9e3ac4/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 810 | `development` |
 
-### Development/Testing (34 skills)
+### Development/Testing (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8147,10 +8141,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Plugin Development](development/testing/044-plugin-development_5c7d8c5f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/plugin-development.md) | ⭐ 20 | `development` |
 | [Scenario List Source Refactor](development/testing/045-scenario_list_source_refactor_2c56e4c4/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/scenarios/scenario_list_source_refactor.md) | ⭐ 423 | `development` |
 | [Extension Authoring Guide](development/testing/046-extension_authoring_guide_d6cb2ccc/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/legacy_extenions_code/extensions/extension_authoring_guide.md) | ⭐ 423 | `development` |
-| [Rpm Examine](development/testing/rpm-examine_34853bdd/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/rpm-examine.md) | ⭐ 12 | `development` |
-| [Skill](development/testing/name-skill_dff53d1a/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/unit-test-project-conformant/SKILL.md) | ⭐ 12 | `development` |
+| [Rpm Examine](development/testing/045-rpm-examine_34853bdd/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/rpm-examine.md) | ⭐ 12 | `development` |
 
-### Development/Tools (144 skills)
+### Development/Tools (143 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8289,17 +8282,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Project Structure](development/tools/231-project_structure_e6fbef34/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/mcp/azure-pricing-mcp/docs/PROJECT_STRUCTURE.md) | ⭐ 57 | `development` |
 | [Readme Cn](development/tools/232-readme_cn_ab786399/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 16 | `development` |
 | [Reports](development/tools/233-reports_6f23a28b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/reports.md) | ⭐ 20 | `development` |
-| [Konflux Application](development/tools/konflux-application_d6324b10/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/konflux-application.md) | ⭐ 12 | `development` |
-| [Konflux Component](development/tools/konflux-component_9a60b8b6/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/konflux-component.md) | ⭐ 12 | `development` |
-| [Skill](development/tools/name-skill_0336b1f9/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-license-checker/SKILL.md) | ⭐ 12 | `development` |
-| [Skill](development/tools/name-skill_7b7c4eed/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-license-finder/SKILL.md) | ⭐ 12 | `development` |
-| [Claude](development/tools/claude_46f58eba/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/CLAUDE.md) | ⭐ 1.6k | `development` |
-| [Claude](development/tools/claude_0b9214e9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/CLAUDE.md) | ⭐ 1.6k | `development` |
-| [Skill](development/tools/name-skill_ab5c472e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/SKILL.md) | ⭐ 1.6k | `development` |
-| [Campaign Metrics Benchmarks](development/tools/campaign-metrics-benchmarks_5f83037e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/campaign-metrics-benchmarks.md) | ⭐ 1.6k | `development` |
-| [Skill](development/tools/name-skill_6df7c41c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/git-shallow-clone/SKILL.md) | ⭐ 12 | `development` |
+| [Konflux Application](development/tools/234-konflux-application_d6324b10/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/konflux-application.md) | ⭐ 12 | `development` |
+| [Konflux Component](development/tools/235-konflux-component_9a60b8b6/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/konflux-component.md) | ⭐ 12 | `development` |
+| [Skill](development/tools/002-name-skill_0336b1f9/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-license-checker/SKILL.md) | ⭐ 12 | `development` |
+| [Skill](development/tools/002-name-skill_7b7c4eed/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-license-finder/SKILL.md) | ⭐ 12 | `development` |
+| [Claude](development/tools/017-claude_46f58eba/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/CLAUDE.md) | ⭐ 1.6k | `development` |
+| [Claude](development/tools/017-claude_0b9214e9/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/CLAUDE.md) | ⭐ 1.6k | `development` |
+| [Skill](development/tools/002-name-skill_ab5c472e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/SKILL.md) | ⭐ 1.6k | `development` |
+| [Campaign Metrics Benchmarks](development/tools/236-campaign-metrics-benchmarks_5f83037e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/campaign-metrics-benchmarks.md) | ⭐ 1.6k | `development` |
 
-### Investment (61 skills)
+### Investment (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8355,15 +8347,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 | [Reference](investment/023-reference_145e86f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
 | [Readme Dataframegrid](investment/031-readme_dataframegrid_a1f12c59/) | [expectedparrot/edsl](https://raw.githubusercontent.com/expectedparrot/edsl/main/edsl/widgets/README_DataFrameGrid.md) | ⭐ 423 | `investment` |
-| [Skill](investment/name-skill_bea4125f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/SKILL.md) | ⭐ 1.6k | `investment` |
-| [Competitive Positioning Framework](investment/competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
-| [Valuation Methodology](investment/valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
-| [04 Bug Report](investment/04_bug_report_6f2be068/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/.github/ISSUE_TEMPLATE/04_bug_report.md) | ⭐ 12 | `investment` |
-| [Gtm Dashboard Template](investment/gtm_dashboard_template_8028b672/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/assets/gtm_dashboard_template.md) | ⭐ 1.6k | `investment` |
-| [Pipeline Review Template](investment/pipeline_review_template_a1a92a38/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/assets/pipeline_review_template.md) | ⭐ 1.6k | `investment` |
-| [Dcf Analysis Template](investment/dcf_analysis_template_07593113/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/assets/dcf_analysis_template.md) | ⭐ 1.6k | `investment` |
-| [Variance Report Template](investment/variance_report_template_428aa3e4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/assets/variance_report_template.md) | ⭐ 1.6k | `investment` |
-| [Financial Ratios Guide](investment/financial-ratios-guide_a1c7b935/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/financial-ratios-guide.md) | ⭐ 1.6k | `investment` |
+| [Skill](investment/021-name-skill_bea4125f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/SKILL.md) | ⭐ 1.6k | `investment` |
+| [Competitive Positioning Framework](investment/031-competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
+| [Valuation Methodology](investment/032-valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
 
 ### Other (44 skills)
 
@@ -8414,7 +8400,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (242 skills)
+### Productivity (240 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8655,11 +8641,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Optimization Techniques](productivity/145-optimization_techniques_8fa1c2ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/references/optimization_techniques.md) | ⭐ 165 | `productivity` |
 | [System](productivity/146-system_61420b02/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/system.md) | ⭐ 16 | `productivity` |
 | [Adr 002 Mcp Pricing Integration](productivity/147-adr-002-mcp-pricing-integration_7bc7b44f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/_superseded/adr/ADR-002-mcp-pricing-integration.md) | ⭐ 57 | `productivity` |
-| [Skill](productivity/name-skill_17082abb/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-complexity/SKILL.md) | ⭐ 12 | `productivity` |
-| [Revops Metrics Guide](productivity/revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
-| [Attribution Models Guide](productivity/attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
-| [Qbr Template](productivity/qbr_template_09f70ccd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/assets/qbr_template.md) | ⭐ 1.6k | `productivity` |
-| [Campaign Report Template](productivity/campaign_report_template_448ef109/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/assets/campaign_report_template.md) | ⭐ 1.6k | `productivity` |
+| [Skill](productivity/093-name-skill_17082abb/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-complexity/SKILL.md) | ⭐ 12 | `productivity` |
+| [Revops Metrics Guide](productivity/148-revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
+| [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 
 ### Research (381 skills)
 
