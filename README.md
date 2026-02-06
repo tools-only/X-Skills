@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8715 AI-powered skills** organized into 16 categories.
+A curated collection of **8717 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (54 skills)
+- **Automation/Scripting** (56 skills)
 - **Automation/Workflow** (104 skills)
 - **Commercial** (551 skills)
 - **Communication** (351 skills)
-- **Content Creation** (558 skills)
+- **Content Creation** (560 skills)
 - **Daily Assistant** (359 skills)
 - **Data Analysis** (856 skills)
-- **Development** (4259 skills)
+- **Development** (4258 skills)
 - **Development/Devops** (93 skills)
 - **Development/Testing** (28 skills)
-- **Development/Tools** (121 skills)
+- **Development/Tools** (120 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (235 skills)
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (54 skills)
+### Automation/Scripting (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -763,6 +763,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_2b6a1dc0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-user-profile/SKILL.md) | ⭐ 24 | `automation` |
 | [Skill](automation/scripting/003-name-skill_049a0b2d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/skip-profile-question/SKILL.md) | ⭐ 24 | `automation` |
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
+| [Skill](automation/scripting/name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
+| [Skill Usage Protocol](automation/scripting/skill_usage_protocol_f8e79faa/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/skilllite-sdk/skilllite/core/protocols/SKILL_USAGE_PROTOCOL.md) | ⭐ 16 | `automation` |
 
 ### Automation/Workflow (104 skills)
 
@@ -1785,7 +1787,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V0.4.0](communication/207-v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
 | [Release Notes](communication/208-release_notes_84ab7276/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 7.5k | `communication` |
 
-### Content Creation (558 skills)
+### Content Creation (560 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2347,6 +2349,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_1949ab3f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-concepts/SKILL.md) | 🔥 5.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_1c19a3a9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dropbox-automation/SKILL.md) | 🔥 7.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_f407367f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/webflow-automation/SKILL.md) | 🔥 7.5k | `content creation` |
+| [Skill](content-creation/name-skill_0fd766dc/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/SKILL.md) | ⭐ 181 | `content creation` |
+| [Core](content-creation/core_c363eea1/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/core.md) | ⭐ 181 | `content creation` |
 
 ### Daily Assistant (359 skills)
 
@@ -3573,7 +3577,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architectural Reduction](data-analysis/378-architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
 | [Ray](data-analysis/379-ray_cebf0338/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/ray.md) | ⭐ 16 | `data analysis` |
 
-### Development (4259 skills)
+### Development (4258 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7835,7 +7839,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1530-description-skill_5990f50b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
 | [Anyio](development/2088-anyio_0f598055/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/async-libraries/anyio.md) | ⭐ 16 | `development` |
 | [Adding New Vectordb Instrumentation](development/2093-adding-new-vectordb-instrumentation_6e5505f1/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/adding-new-vectordb-instrumentation.md) | ⭐ 2.2k | `development` |
-| [2026 02 05 Time And Add Resource Implementation](development/2026-02-05-time-and-add-resource-implementation_9b2d95dc/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/plans/2026-02-05-time-and-add-resource-implementation.md) | ⭐ 994 | `development` |
 
 ### Development/Devops (93 skills)
 
@@ -7968,7 +7971,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_5ca8e6d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-patterns/SKILL.md) | 🔥 5.4k | `development` |
 | [Agents](development/testing/024-agents_ae931954/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md) | ⭐ 191 | `development` |
 
-### Development/Tools (121 skills)
+### Development/Tools (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8092,7 +8095,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/086-description-skill_63648ec6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-browser/SKILL.md) | ⭐ 16 | `development` |
 | [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_f1663142/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 16 | `development` |
 | [Framework Instrumentation Guide](development/tools/225-framework-instrumentation-guide_9acdbb63/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/framework-instrumentation-guide.md) | ⭐ 2.2k | `development` |
-| [2026 02 05 Time And Add Resource Commands Design](development/tools/2026-02-05-time-and-add-resource-commands-design_4e052af4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/plans/2026-02-05-time-and-add-resource-commands-design.md) | ⭐ 994 | `development` |
 
 ### Investment (51 skills)
 
