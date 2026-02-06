@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8666 AI-powered skills** organized into 16 categories.
+A curated collection of **8698 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (54 skills)
-- **Automation/Workflow** (81 skills)
+- **Automation/Scripting** (55 skills)
+- **Automation/Workflow** (102 skills)
 - **Commercial** (551 skills)
-- **Communication** (350 skills)
-- **Content Creation** (556 skills)
-- **Daily Assistant** (359 skills)
+- **Communication** (351 skills)
+- **Content Creation** (558 skills)
+- **Daily Assistant** (360 skills)
 - **Data Analysis** (855 skills)
-- **Development** (4250 skills)
-- **Development/Devops** (88 skills)
-- **Development/Testing** (27 skills)
+- **Development** (4254 skills)
+- **Development/Devops** (89 skills)
+- **Development/Testing** (28 skills)
 - **Development/Tools** (115 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (54 skills)
+### Automation/Scripting (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -763,8 +763,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_2b6a1dc0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-user-profile/SKILL.md) | ⭐ 24 | `automation` |
 | [Skill](automation/scripting/003-name-skill_049a0b2d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/skip-profile-question/SKILL.md) | ⭐ 24 | `automation` |
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
+| [Install Vexor](automation/scripting/install-vexor_21405284/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/plugins/vexor/skills/vexor-cli/references/install-vexor.md) | ⭐ 191 | `automation` |
 
-### Automation/Workflow (81 skills)
+### Automation/Workflow (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -848,7 +849,28 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_6b305325/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoho-crm-automation/SKILL.md) | 🔥 30.9k | `automation` |
 | [Skill](automation/workflow/002-name-skill_74dd9779/) | [ComposioHQ/awesome-claude-skills](https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/zoom-automation/SKILL.md) | 🔥 30.9k | `automation` |
 | [Skill](automation/workflow/002-name-skill_d75b1d65/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/project-development/SKILL.md) | ⭐ 165 | `automation` |
-| [File Monitor Example](automation/workflow/file-monitor-example_b95a3db2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/examples/file-monitor-example.md) | 🔥 5.4k | `automation` |
+| [Skill](automation/workflow/name-skill_0f74bed8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/basecamp-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_491b8356/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/bitbucket-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_278bfd1d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/box-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_b7ace223/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/calendly-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_d503432f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/clickup-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_66c0658b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/confluence-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_ce8a0c02/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/freshdesk-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_36593e90/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/gitlab-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_1b71e0c7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/google-calendar-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_86acd8bb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/google-drive-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_585440cf/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/googlesheets-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_04afbddd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/hubspot-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_662c59f8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/mailchimp-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_40c1ac8d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/monday-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_89ae3bba/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/one-drive-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_ee631740/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/pipedrive-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_0059bd9b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/sendgrid-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_d0d9a0ea/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/slack-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_e95ff9d5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/supabase-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_b59adf71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/todoist-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_039b383c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/trello-automation/SKILL.md) | 🔥 7.5k | `automation` |
+| [Skill](automation/workflow/name-skill_12c60b98/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zoom-automation/SKILL.md) | 🔥 7.5k | `automation` |
 
 ### Commercial (551 skills)
 
@@ -1406,7 +1428,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Framework Integration](commercial/307-framework-integration_57076065/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/framework-integration.md) | ⭐ 165 | `commercial` |
 | [Implementation](commercial/308-implementation_505be1ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/memory-systems/references/implementation.md) | ⭐ 165 | `commercial` |
 
-### Communication (350 skills)
+### Communication (351 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1759,9 +1781,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_b8c71774/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-chat-history/SKILL.md) | ⭐ 24 | `communication` |
 | [Context Components](communication/205-context-components_a2deabba/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-fundamentals/references/context-components.md) | ⭐ 165 | `communication` |
 | [Web Search](communication/206-web_search_fb15cfed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/web_search.md) | 🔥 35.3k | `communication` |
-| [V0.4.0](communication/v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
+| [V0.4.0](communication/207-v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
+| [Release Notes](communication/release_notes_84ab7276/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 7.5k | `communication` |
 
-### Content Creation (556 skills)
+### Content Creation (558 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2319,10 +2342,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_0c5d35f1/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/SKILL.md) | ⭐ 165 | `content creation` |
 | [Skill](content-creation/049-name-skill_2b01f105/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/obsidian-bases/SKILL.md) | ⭐ 165 | `content creation` |
 | [Implementation Patterns](content-creation/255-implementation-patterns_78380a2f/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/filesystem-context/references/implementation-patterns.md) | ⭐ 165 | `content creation` |
-| [Contributing Lint Setup](content-creation/contributing-lint-setup_43188a9f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | 🔥 5.4k | `content creation` |
-| [Skill](content-creation/name-skill_1949ab3f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-concepts/SKILL.md) | 🔥 5.4k | `content creation` |
+| [Contributing Lint Setup](content-creation/116-contributing-lint-setup_43188a9f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | 🔥 5.4k | `content creation` |
+| [Skill](content-creation/049-name-skill_1949ab3f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-concepts/SKILL.md) | 🔥 5.4k | `content creation` |
+| [Skill](content-creation/name-skill_1c19a3a9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dropbox-automation/SKILL.md) | 🔥 7.5k | `content creation` |
+| [Skill](content-creation/name-skill_f407367f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/webflow-automation/SKILL.md) | 🔥 7.5k | `content creation` |
 
-### Daily Assistant (359 skills)
+### Daily Assistant (360 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2685,6 +2710,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bdi Ontology Core](daily-assistant/198-bdi-ontology-core_bfbd9ae4/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/bdi-ontology-core.md) | ⭐ 165 | `daily assistant` |
 | [Sparql Competency](daily-assistant/199-sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
 | [Evaluation Framework](daily-assistant/200-evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
+| [Development](daily-assistant/development_b70a3149/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/docs/development.md) | ⭐ 191 | `daily assistant` |
 
 ### Data Analysis (855 skills)
 
@@ -3546,7 +3572,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](data-analysis/165-patterns_da00f69e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-degradation/references/patterns.md) | ⭐ 165 | `data analysis` |
 | [Architectural Reduction](data-analysis/378-architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
 
-### Development (4250 skills)
+### Development (4254 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7546,7 +7572,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Svelte](development/2023-svelte_e73636c5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/svelte.md) | ⭐ 17 | `development` |
 | [Swiftui](development/1925-swiftui_53bf0f9b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/swiftui.md) | ⭐ 17 | `development` |
 | [Vue](development/2024-vue_7e147bef/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/vue.md) | ⭐ 17 | `development` |
-| [Catalog](development/126-catalog_83f5b36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.2k | `development` |
+| [Catalog](development/catalog_9dcdffee/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.5k | `development` |
 | [Skill](development/1178-name-skill_d20b793c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/oss-hunter/SKILL.md) | 🔥 7.2k | `development` |
 | [Skill](development/1178-name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
 | [Skill](development/1178-name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
@@ -7793,15 +7819,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Best Practices](development/103-best_practices_3dc82e05/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/best_practices.md) | ⭐ 165 | `development` |
 | [Elevenlabs](development/2079-elevenlabs_a8befa14/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/elevenlabs.md) | 🔥 35.3k | `development` |
 | [Technical Debt Manager](development/2080-technical-debt-manager_a3abebac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/technical-debt-manager.md) | 🔥 19.5k | `development` |
-| [Developer Guide](development/developer-guide_dbdb41bf/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 5.4k | `development` |
-| [Getting Started](development/getting-started_8fee1a8b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | 🔥 5.4k | `development` |
-| [Remove Llm Dependency From Mcp Server](development/remove-llm-dependency-from-mcp-server_6346f1ca/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/issues/remove-llm-dependency-from-mcp-server.md) | 🔥 5.4k | `development` |
-| [Skill](development/name-skill_67718b9a/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.4k | `development` |
-| [Skill](development/name-skill_374152f1/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 5.4k | `development` |
-| [Skill](development/name-skill_9e4301a9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-test/SKILL.md) | 🔥 5.4k | `development` |
-| [Testing Youtube Agent](development/testing-youtube-agent_2e1c4603/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-test/examples/testing-youtube-agent.md) | 🔥 5.4k | `development` |
+| [Developer Guide](development/282-developer-guide_dbdb41bf/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 5.4k | `development` |
+| [Getting Started](development/421-getting-started_8fee1a8b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | 🔥 5.4k | `development` |
+| [Remove Llm Dependency From Mcp Server](development/1551-remove-llm-dependency-from-mcp-server_6346f1ca/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/issues/remove-llm-dependency-from-mcp-server.md) | 🔥 5.4k | `development` |
+| [Skill](development/1178-name-skill_67718b9a/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.4k | `development` |
+| [Skill](development/1178-name-skill_374152f1/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 5.4k | `development` |
+| [Catalog](development/126-catalog_9dcdffee/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.5k | `development` |
+| [Skill](development/name-skill_c4ad19cf/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dotnet-backend/SKILL.md) | 🔥 7.5k | `development` |
+| [Skill](development/name-skill_9b7165ca/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/plugins/vexor/skills/vexor-cli/SKILL.md) | ⭐ 191 | `development` |
+| [Roadmap](development/roadmap_bf34a17c/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/docs/roadmap.md) | ⭐ 191 | `development` |
+| [Workflow Diagram](development/workflow-diagram_7f13a10d/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/docs/workflow-diagram.md) | ⭐ 191 | `development` |
+| [Python](development/python_3f58a9f5/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/docs/api/python.md) | ⭐ 191 | `development` |
 
-### Development/Devops (88 skills)
+### Development/Devops (89 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7882,19 +7912,20 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Instructions](development/devops/197-instructions_3a431a0e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/mcps/web-search/INSTRUCTIONS.md) | ⭐ 24 | `development` |
 | [Antigravity Skills Manual.En](development/devops/198-antigravity_skills_manualen_fd50e106/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/docs/Antigravity_Skills_Manual.en.md) | ⭐ 165 | `development` |
 | [Antigravity Skills Manual.Zh Cn](development/devops/199-antigravity_skills_manualzh-cn_8d7d1397/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/docs/Antigravity_Skills_Manual.zh-CN.md) | ⭐ 165 | `development` |
-| [Aden Credential Sync](development/devops/aden-credential-sync_db8ddaa4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/aden-credential-sync.md) | 🔥 5.4k | `development` |
-| [Configuration](development/devops/configuration_9b4ec1a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md) | 🔥 5.4k | `development` |
-| [Environment Setup](development/devops/environment-setup_377e5e0b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 5.4k | `development` |
-| [Clonar el repositorio](development/devops/es_35c36da6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/es.md) | 🔥 5.4k | `development` |
-| [अवलोकन (Overview)](development/devops/hi_31847c22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/hi.md) | 🔥 5.4k | `development` |
-| [リポジトリをクローン](development/devops/ja_d9587667/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ja.md) | 🔥 5.4k | `development` |
-| [저장소 클론](development/devops/ko_f7973cb9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ko.md) | 🔥 5.4k | `development` |
-| [Clonar o repositório](development/devops/pt_4d135dae/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/pt.md) | 🔥 5.4k | `development` |
-| [Клонировать репозиторий](development/devops/ru_0c717210/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ru.md) | 🔥 5.4k | `development` |
-| [Zh Cn](development/devops/zh-cn_dbc75242/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/zh-CN.md) | 🔥 5.4k | `development` |
-| [Skill](development/devops/name-skill_41ee91d2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 5.4k | `development` |
+| [Aden Credential Sync](development/devops/099-aden-credential-sync_db8ddaa4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/aden-credential-sync.md) | 🔥 5.4k | `development` |
+| [Configuration](development/devops/009-configuration_9b4ec1a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md) | 🔥 5.4k | `development` |
+| [Environment Setup](development/devops/200-environment-setup_377e5e0b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 5.4k | `development` |
+| [Clonar el repositorio](development/devops/101-es_35c36da6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/es.md) | 🔥 5.4k | `development` |
+| [अवलोकन (Overview)](development/devops/102-hi_31847c22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/hi.md) | 🔥 5.4k | `development` |
+| [リポジトリをクローン](development/devops/103-ja_d9587667/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ja.md) | 🔥 5.4k | `development` |
+| [저장소 클론](development/devops/104-ko_f7973cb9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ko.md) | 🔥 5.4k | `development` |
+| [Clonar o repositório](development/devops/105-pt_4d135dae/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/pt.md) | 🔥 5.4k | `development` |
+| [Клонировать репозиторий](development/devops/106-ru_0c717210/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ru.md) | 🔥 5.4k | `development` |
+| [Zh Cn](development/devops/107-zh-cn_dbc75242/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/zh-CN.md) | 🔥 5.4k | `development` |
+| [Skill](development/devops/014-name-skill_41ee91d2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 5.4k | `development` |
+| [Skill](development/devops/name-skill_8c9379a1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/github-automation/SKILL.md) | 🔥 7.5k | `development` |
 
-### Development/Testing (27 skills)
+### Development/Testing (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7923,8 +7954,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](development/testing/051-configuration_7d081d7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/configuration.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
-| [Building Tools](development/testing/building_tools_1169dabb/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/tools/BUILDING_TOOLS.md) | 🔥 5.4k | `development` |
-| [Skill](development/testing/name-skill_5ca8e6d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-patterns/SKILL.md) | 🔥 5.4k | `development` |
+| [Building Tools](development/testing/020-building_tools_1169dabb/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/tools/BUILDING_TOOLS.md) | 🔥 5.4k | `development` |
+| [Skill](development/testing/002-name-skill_5ca8e6d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-patterns/SKILL.md) | 🔥 5.4k | `development` |
+| [Agents](development/testing/agents_ae931954/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md) | ⭐ 191 | `development` |
 
 ### Development/Tools (115 skills)
 
@@ -8044,7 +8076,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Project Rules](development/tools/220-project-rules_adce99af/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.cursor/rules/project-rules.md) | ⭐ 24 | `development` |
 | [Skill](development/tools/002-name-skill_87bf532d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-click/SKILL.md) | ⭐ 24 | `development` |
 | [Readme.Zh Cn](development/tools/221-readmezh-cn_a3d2d440/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/README.zh-CN.md) | ⭐ 165 | `development` |
-| [Credential Store Design](development/tools/credential-store-design_79357714/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/credential-store-design.md) | 🔥 5.4k | `development` |
+| [Credential Store Design](development/tools/078-credential-store-design_79357714/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/credential-store-design.md) | 🔥 5.4k | `development` |
 
 ### Investment (51 skills)
 
