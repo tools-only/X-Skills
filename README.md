@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8717 AI-powered skills** organized into 16 categories.
+A curated collection of **8716 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,12 +9,12 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (56 skills)
+- **Automation/Scripting** (55 skills)
 - **Automation/Workflow** (104 skills)
 - **Commercial** (551 skills)
 - **Communication** (351 skills)
-- **Content Creation** (560 skills)
-- **Daily Assistant** (359 skills)
+- **Content Creation** (558 skills)
+- **Daily Assistant** (360 skills)
 - **Data Analysis** (856 skills)
 - **Development** (4258 skills)
 - **Development/Devops** (93 skills)
@@ -22,7 +22,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Development/Tools** (120 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
-- **Productivity** (235 skills)
+- **Productivity** (236 skills)
 - **Research** (379 skills)
 
 ## Skills Directory
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (56 skills)
+### Automation/Scripting (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -763,8 +763,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_2b6a1dc0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-user-profile/SKILL.md) | ⭐ 24 | `automation` |
 | [Skill](automation/scripting/003-name-skill_049a0b2d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/skip-profile-question/SKILL.md) | ⭐ 24 | `automation` |
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
-| [Skill](automation/scripting/name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
-| [Skill Usage Protocol](automation/scripting/skill_usage_protocol_f8e79faa/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/skilllite-sdk/skilllite/core/protocols/SKILL_USAGE_PROTOCOL.md) | ⭐ 16 | `automation` |
+| [Skill](automation/scripting/003-name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
 
 ### Automation/Workflow (104 skills)
 
@@ -1787,7 +1786,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V0.4.0](communication/207-v040_88252f00/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/releases/v0.4.0.md) | 🔥 5.4k | `communication` |
 | [Release Notes](communication/208-release_notes_84ab7276/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 7.5k | `communication` |
 
-### Content Creation (560 skills)
+### Content Creation (558 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2349,10 +2348,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_1949ab3f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-concepts/SKILL.md) | 🔥 5.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_1c19a3a9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dropbox-automation/SKILL.md) | 🔥 7.5k | `content creation` |
 | [Skill](content-creation/049-name-skill_f407367f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/webflow-automation/SKILL.md) | 🔥 7.5k | `content creation` |
-| [Skill](content-creation/name-skill_0fd766dc/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/SKILL.md) | ⭐ 181 | `content creation` |
-| [Core](content-creation/core_c363eea1/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/core.md) | ⭐ 181 | `content creation` |
 
-### Daily Assistant (359 skills)
+### Daily Assistant (360 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2715,6 +2712,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bdi Ontology Core](daily-assistant/198-bdi-ontology-core_bfbd9ae4/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/bdi-ontology-core.md) | ⭐ 165 | `daily assistant` |
 | [Sparql Competency](daily-assistant/199-sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
 | [Evaluation Framework](daily-assistant/200-evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
+| [Observation](daily-assistant/observation_26a3efee/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/observation.md) | ⭐ 16 | `daily assistant` |
 
 ### Data Analysis (856 skills)
 
@@ -8201,7 +8199,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (235 skills)
+### Productivity (236 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8440,6 +8438,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/093-name-skill_c11b3f51/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/critical-peer-personality/SKILL.md) | ⭐ 196 | `productivity` |
 | [Conversation Efficiency Analyzer](productivity/144-conversation-efficiency-analyzer_859a5337/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/session-optimizer/agents/conversation-efficiency-analyzer.md) | ⭐ 196 | `productivity` |
 | [Optimization Techniques](productivity/145-optimization_techniques_8fa1c2ea/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-optimization/references/optimization_techniques.md) | ⭐ 165 | `productivity` |
+| [System](productivity/system_61420b02/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/system.md) | ⭐ 16 | `productivity` |
 
 ### Research (379 skills)
 
