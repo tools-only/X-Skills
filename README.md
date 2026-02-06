@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8736 AI-powered skills** organized into 16 categories.
+A curated collection of **8734 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,13 +10,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (55 skills)
-- **Automation/Workflow** (104 skills)
+- **Automation/Workflow** (106 skills)
 - **Commercial** (551 skills)
 - **Communication** (351 skills)
 - **Content Creation** (564 skills)
-- **Daily Assistant** (363 skills)
+- **Daily Assistant** (361 skills)
 - **Data Analysis** (856 skills)
-- **Development** (4266 skills)
+- **Development** (4264 skills)
 - **Development/Devops** (93 skills)
 - **Development/Testing** (28 skills)
 - **Development/Tools** (123 skills)
@@ -765,7 +765,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
 | [Skill](automation/scripting/003-name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
 
-### Automation/Workflow (104 skills)
+### Automation/Workflow (106 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -873,6 +873,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_12c60b98/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/zoom-automation/SKILL.md) | 🔥 7.5k | `automation` |
 | [Backlog](automation/workflow/063-backlog_6e97503d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
 | [Skill](automation/workflow/064-description-skill_f7606f9c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/rt-ica/SKILL.md) | ⭐ 16 | `automation` |
+| [Scheme2 Split](automation/workflow/scheme2_split_bef66ac1/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/SCHEME2_SPLIT.md) | ⭐ 74 | `automation` |
+| [Agents](automation/workflow/agents_ffd539c3/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/AGENTS.md) | ⭐ 74 | `automation` |
 
 ### Commercial (551 skills)
 
@@ -2350,12 +2352,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_f407367f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/webflow-automation/SKILL.md) | 🔥 7.5k | `content creation` |
 | [Claude](content-creation/007-claude_85dde09f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 69 | `content creation` |
 | [Advisor](content-creation/002-advisor_66954dd5/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/advisor.md) | ⭐ 69 | `content creation` |
-| [Skill](content-creation/name-skill_739675d6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codebuddy/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
-| [Skill](content-creation/name-skill_68b5d737/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.cursor/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
-| [Skill](content-creation/name-skill_c95cc5f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
-| [Skill](content-creation/name-skill_7b1cf7a4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
+| [Skill](content-creation/049-name-skill_739675d6/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.codebuddy/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
+| [Skill](content-creation/049-name-skill_68b5d737/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.cursor/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
+| [Skill](content-creation/049-name-skill_c95cc5f5/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.kilocode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
+| [Skill](content-creation/049-name-skill_7b1cf7a4/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/.opencode/skills/planning-with-files/SKILL.md) | 🔥 13.2k | `content creation` |
 
-### Daily Assistant (363 skills)
+### Daily Assistant (361 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2719,9 +2721,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Sparql Competency](daily-assistant/199-sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
 | [Evaluation Framework](daily-assistant/200-evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_a9743266/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 69 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_542be69b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Map](daily-assistant/_map_b43a23f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_MAP.md) | ⭐ 91 | `daily assistant` |
-| [Map](daily-assistant/_map_c100a945/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/scripts/_MAP.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_542be69b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 91 | `daily assistant` |
 
 ### Data Analysis (856 skills)
 
@@ -3584,7 +3584,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architectural Reduction](data-analysis/378-architectural_reduction_0d27e799/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/tool-design/references/architectural_reduction.md) | ⭐ 165 | `data analysis` |
 | [Ray](data-analysis/379-ray_cebf0338/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/ray.md) | ⭐ 16 | `data analysis` |
 
-### Development (4266 skills)
+### Development (4264 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7850,10 +7850,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bundles](development/2095-bundles_03060585/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/BUNDLES.md) | 🔥 7.5k | `development` |
 | [Critic](development/240-critic_8c5d2c5a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 69 | `development` |
 | [Librarian](development/519-librarian_76a52f68/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 69 | `development` |
-| [Claude](development/claude_d1146123/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 91 | `development` |
-| [Codex](development/codex_b636f778/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codex.md) | 🔥 13.2k | `development` |
-| [Map](development/_map_77381e87/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/_MAP.md) | ⭐ 91 | `development` |
-| [Opencode](development/opencode_ef08d657/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/opencode.md) | 🔥 13.2k | `development` |
+| [Claude](development/140-claude_d1146123/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 91 | `development` |
+| [Codex](development/2095-codex_b636f778/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/codex.md) | 🔥 13.2k | `development` |
 
 ### Development/Devops (93 skills)
 
@@ -8111,8 +8109,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_f1663142/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 16 | `development` |
 | [Framework Instrumentation Guide](development/tools/225-framework-instrumentation-guide_9acdbb63/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/framework-instrumentation-guide.md) | ⭐ 2.2k | `development` |
 | [Validator](development/tools/226-validator_d32a836a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 69 | `development` |
-| [Claude](development/tools/claude_d93fd1c2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 91 | `development` |
-| [Advanced Operations](development/tools/advanced-operations_a85b8556/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 91 | `development` |
+| [Claude](development/tools/017-claude_d93fd1c2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 91 | `development` |
+| [Advanced Operations](development/tools/226-advanced-operations_a85b8556/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 91 | `development` |
 
 ### Investment (51 skills)
 
