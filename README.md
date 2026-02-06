@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8849 AI-powered skills** organized into 16 categories.
+A curated collection of **8865 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,20 +10,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (55 skills)
-- **Automation/Workflow** (113 skills)
+- **Automation/Workflow** (115 skills)
 - **Commercial** (558 skills)
 - **Communication** (353 skills)
 - **Content Creation** (565 skills)
 - **Daily Assistant** (371 skills)
-- **Data Analysis** (867 skills)
-- **Development** (4299 skills)
-- **Development/Devops** (121 skills)
-- **Development/Testing** (29 skills)
-- **Development/Tools** (134 skills)
+- **Data Analysis** (868 skills)
+- **Development** (4306 skills)
+- **Development/Devops** (124 skills)
+- **Development/Testing** (30 skills)
+- **Development/Tools** (135 skills)
 - **Investment** (51 skills)
 - **Other** (44 skills)
 - **Productivity** (237 skills)
-- **Research** (380 skills)
+- **Research** (381 skills)
 
 ## Skills Directory
 
@@ -765,7 +765,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_c905d5c6/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/multi-agent-patterns/SKILL.md) | ⭐ 165 | `automation` |
 | [Skill](automation/scripting/003-name-skill_06ccc968/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/unsafe-eval/SKILL.md) | ⭐ 16 | `automation` |
 
-### Automation/Workflow (113 skills)
+### Automation/Workflow (115 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -882,6 +882,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Effective Prompts](automation/workflow/069-effective-prompts_65a72857/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S06-sbom-generator/prompts/effective-prompts.md) | ⭐ 57 | `automation` |
 | [Effective Prompts](automation/workflow/069-effective-prompts_b4c29278/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S07-diagrams-as-code/prompts/effective-prompts.md) | ⭐ 57 | `automation` |
 | [Quick Reference](automation/workflow/070-quick-reference_84266f6a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/quick-reference.md) | ⭐ 57 | `automation` |
+| [Tutorials](automation/workflow/tutorials_f66f542b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/tutorials.md) | ⭐ 20 | `automation` |
+| [Terminalbench](automation/workflow/terminalbench_af15afe7/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
 
 ### Commercial (558 skills)
 
@@ -2750,7 +2752,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Documentation Styling](daily-assistant/209-documentation-styling_f4c739c3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_shared/documentation-styling.md) | ⭐ 57 | `daily assistant` |
 | [Requirements](daily-assistant/210-requirements_eadafa5c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S03-documentation-generation/scenario/requirements.md) | ⭐ 57 | `daily assistant` |
 
-### Data Analysis (867 skills)
+### Data Analysis (868 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3621,8 +3623,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Business Process Flows](data-analysis/386-business-process-flows_4fedfcdb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/business-process-flows.md) | ⭐ 57 | `data analysis` |
 | [Preventing Overlaps](data-analysis/387-preventing-overlaps_2cb3b07d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/preventing-overlaps.md) | ⭐ 57 | `data analysis` |
 | [Timeline Gantt Diagrams](data-analysis/388-timeline-gantt-diagrams_a20db021/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/timeline-gantt-diagrams.md) | ⭐ 57 | `data analysis` |
+| [Analytics](data-analysis/analytics_2fff36ed/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/analytics.md) | ⭐ 20 | `data analysis` |
 
-### Development (4299 skills)
+### Development (4306 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7925,8 +7928,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Error Handling](development/342-error-handling_64a30f98/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-deployment-preflight/references/ERROR-HANDLING.md) | ⭐ 57 | `development` |
 | [Azure Components](development/2134-azure-components_006b9910/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/azure-components.md) | ⭐ 57 | `development` |
 | [Stage1 Architecture Assessment](development/2135-stage1-architecture-assessment_3d7f4617/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S02-agentic-workflow/solution/outputs/stage1-architecture-assessment.md) | ⭐ 57 | `development` |
+| [Benchmarks](development/benchmarks_e0307324/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/benchmarks.md) | ⭐ 20 | `development` |
+| [Index](development/index_c5c1c42d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/index.md) | ⭐ 20 | `development` |
+| [Sdk](development/sdk_17dd19d6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/sdk.md) | ⭐ 20 | `development` |
+| [Cybergym](development/cybergym_97b8fca7/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/cybergym.md) | ⭐ 20 | `development` |
+| [Gsm8K](development/gsm8k_42bf3dc2/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gsm8k.md) | ⭐ 20 | `development` |
+| [Humaneval](development/humaneval_a8f592af/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/humaneval.md) | ⭐ 20 | `development` |
+| [Mcptoolbench](development/mcptoolbench_39d6031b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
 
-### Development/Devops (121 skills)
+### Development/Devops (124 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8051,8 +8061,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Iac To Diagram](development/devops/220-iac-to-diagram_ad9d7a0b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/iac-to-diagram.md) | ⭐ 57 | `development` |
 | [Stage2 Implementation Plan](development/devops/221-stage2-implementation-plan_0f030a27/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S02-agentic-workflow/solution/outputs/stage2-implementation-plan.md) | ⭐ 57 | `development` |
 | [Deployment Notes](development/devops/222-deployment-notes_030505e7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S04-service-validation/solution/scripts/DEPLOYMENT-NOTES.md) | ⭐ 57 | `development` |
+| [Faq](development/devops/faq_fa9a0dd4/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/FAQ.md) | ⭐ 20 | `development` |
+| [Best Practices](development/devops/best-practices_1084ad10/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/best-practices.md) | ⭐ 20 | `development` |
+| [Configuration](development/devops/configuration_337077da/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/configuration.md) | ⭐ 20 | `development` |
 
-### Development/Testing (29 skills)
+### Development/Testing (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8085,8 +8098,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_5ca8e6d9/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-patterns/SKILL.md) | 🔥 5.4k | `development` |
 | [Agents](development/testing/024-agents_ae931954/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md) | ⭐ 191 | `development` |
 | [Ui Wireframe Diagrams](development/testing/043-ui-wireframe-diagrams_aab76b76/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/ui-wireframe-diagrams.md) | ⭐ 57 | `development` |
+| [Plugin Development](development/testing/plugin-development_5c7d8c5f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/plugin-development.md) | ⭐ 20 | `development` |
 
-### Development/Tools (134 skills)
+### Development/Tools (135 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8130,7 +8144,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skills](development/tools/206-claude-skill_2347237f/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/deep-research-skill/skills.md) | ⭐ 17 | `development` |
 | [Maintenance](development/tools/207-maintenance_569c428a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 7.2k | `development` |
 | [Git Commit Instructions](development/tools/208-git-commit-instructions_540df4f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/.github/git-commit-instructions.md) | ⭐ 29 | `development` |
-| [Readme Cn](development/tools/readme_cn_ab786399/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 16 | `development` |
+| [Readme Cn](development/tools/209-readme_cn_f40854a4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 14 | `development` |
 | [Skill](development/tools/002-name-skill_583fd173/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/file-helper/SKILL.md) | ⭐ 14 | `development` |
 | [Architecture](development/tools/051-architecture_8ca6b514/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 14 | `development` |
 | [Getting Started](development/tools/210-getting_started_964f4a76/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/GETTING_STARTED.md) | ⭐ 14 | `development` |
@@ -8224,6 +8238,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Development](development/tools/187-development_c045a48c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/mcp/azure-pricing-mcp/docs/DEVELOPMENT.md) | ⭐ 57 | `development` |
 | [Project Structure](development/tools/231-project_structure_e6fbef34/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/mcp/azure-pricing-mcp/docs/PROJECT_STRUCTURE.md) | ⭐ 57 | `development` |
 | [Readme Cn](development/tools/232-readme_cn_ab786399/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 16 | `development` |
+| [Reports](development/tools/reports_6f23a28b/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/api/reports.md) | ⭐ 20 | `development` |
 
 ### Investment (51 skills)
 
@@ -8572,7 +8587,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [System](productivity/146-system_61420b02/) | [fiv3fingers/Advanced-AI-Agents](https://raw.githubusercontent.com/fiv3fingers/Advanced-AI-Agents/main/single_agent_apps/windows_use_autonomous_agent/windows_use/agent/prompt/system.md) | ⭐ 16 | `productivity` |
 | [Adr 002 Mcp Pricing Integration](productivity/147-adr-002-mcp-pricing-integration_7bc7b44f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/_superseded/adr/ADR-002-mcp-pricing-integration.md) | ⭐ 57 | `productivity` |
 
-### Research (380 skills)
+### Research (381 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8956,6 +8971,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bias Mitigation](research/223-bias-mitigation_bf43f18e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/advanced-evaluation/references/bias-mitigation.md) | ⭐ 165 | `research` |
 | [Ecosystem Researcher](research/224-ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
 | [Time Savings Evidence](research/225-time-savings-evidence_1872db45/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 57 | `research` |
+| [Gaia](research/gaia_65f6853f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
 
 ## Repository Structure
 
