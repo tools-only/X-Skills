@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8580 AI-powered skills** organized into 16 categories.
+A curated collection of **8391 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (48 skills)
-- **Automation/Workflow** (21 skills)
-- **Commercial** (552 skills)
-- **Communication** (337 skills)
-- **Content Creation** (563 skills)
-- **Daily Assistant** (344 skills)
-- **Data Analysis** (850 skills)
-- **Development** (4265 skills)
-- **Development/Devops** (82 skills)
-- **Development/Testing** (29 skills)
-- **Development/Tools** (110 skills)
+- **Automation/Scripting** (45 skills)
+- **Automation/Workflow** (11 skills)
+- **Commercial** (540 skills)
+- **Communication** (333 skills)
+- **Content Creation** (533 skills)
+- **Daily Assistant** (343 skills)
+- **Data Analysis** (839 skills)
+- **Development** (4193 skills)
+- **Development/Devops** (66 skills)
+- **Development/Testing** (25 skills)
+- **Development/Tools** (92 skills)
 - **Investment** (51 skills)
-- **Other** (45 skills)
-- **Productivity** (233 skills)
-- **Research** (378 skills)
+- **Other** (44 skills)
+- **Productivity** (232 skills)
+- **Research** (372 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (48 skills)
+### Automation/Scripting (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -752,13 +752,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](automation/scripting/063-gotchas_65005aa5/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-vpc/gotchas.md) | ⭐ 392 | `automation` |
 | [Api](automation/scripting/065-api_e32a49bf/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/api.md) | ⭐ 392 | `automation` |
 | [Configuration](automation/scripting/033-configuration_a7e42ae2/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/wrangler/configuration.md) | ⭐ 392 | `automation` |
-| [Data Collection Agent](automation/scripting/data_collection_agent_832f4fe0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/data_collection_agent.md) | ⭐ 23 | `automation` |
-| [General Rules](automation/scripting/general_rules_af6b905c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/rules/general_rules.md) | ⭐ 23 | `automation` |
-| [Skill](automation/scripting/name-skill_b24e8ea7/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/malicious-skill/SKILL.md) | ⭐ 1.4k | `automation` |
-| [Skill](automation/scripting/name-skill_2e14efd7/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/mcp_servers/.test-client-invalid/skills/test-skill/SKILL.md) | ⭐ 1.4k | `automation` |
-| [Setup](automation/scripting/setup_35898393/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/tools/SETUP.md) | ⭐ 23 | `automation` |
+| [Data Collection Agent](automation/scripting/057-data_collection_agent_832f4fe0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/data_collection_agent.md) | ⭐ 23 | `automation` |
+| [General Rules](automation/scripting/058-general_rules_af6b905c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/rules/general_rules.md) | ⭐ 23 | `automation` |
 
-### Automation/Workflow (21 skills)
+### Automation/Workflow (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -772,19 +769,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_3171610e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/netlify-deploy/SKILL.md) | ⭐ 392 | `automation` |
 | [Service Types](automation/workflow/062-service-types_d615fbd9/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/render-deploy/references/service-types.md) | ⭐ 392 | `automation` |
 | [Patterns](automation/workflow/063-patterns_55addb14/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workflows/patterns.md) | ⭐ 392 | `automation` |
-| [Claude](automation/workflow/claude_0c6f3f58/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/CLAUDE.md) | ⭐ 23 | `automation` |
-| [Hackerone](automation/workflow/hackerone_efb26719/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/hackerone.md) | ⭐ 23 | `automation` |
-| [Pentester Executor](automation/workflow/pentester-executor_1b0d90a2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/pentester-executor.md) | ⭐ 23 | `automation` |
-| [Output Structure](automation/workflow/output_structure_d0c5e735/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/reference/OUTPUT_STRUCTURE.md) | ⭐ 23 | `automation` |
-| [Skill](automation/workflow/name-skill_d4936c47/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/SKILL.md) | ⭐ 23 | `automation` |
-| [Skill](automation/workflow/name-skill_fa6c87e0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/authenticating/SKILL.md) | ⭐ 23 | `automation` |
-| [Skill](automation/workflow/name-skill_f3288393/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/hackerone/SKILL.md) | ⭐ 23 | `automation` |
-| [Skill](automation/workflow/name-skill_cce82bc7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/web-application-mapping/SKILL.md) | ⭐ 23 | `automation` |
-| [Llm09 Overreliance](automation/workflow/llm09-overreliance_3cc09f1e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm09-overreliance.md) | ⭐ 23 | `automation` |
-| [Dom Xss Quickstart](automation/workflow/dom-xss-quickstart_e0cb7f2b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/dom-based/dom-xss-quickstart.md) | ⭐ 23 | `automation` |
-| [File Upload Cheat Sheet](automation/workflow/file-upload-cheat-sheet_92c4434a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/file-upload/file-upload-cheat-sheet.md) | ⭐ 23 | `automation` |
+| [Claude](automation/workflow/061-claude_0c6f3f58/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/CLAUDE.md) | ⭐ 23 | `automation` |
 
-### Commercial (552 skills)
+### Commercial (540 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1327,21 +1314,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](commercial/167-reference_36eba480/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/shopify/REFERENCE.md) | ⭐ 102 | `commercial` |
 | [Reference](commercial/167-reference_d50bfcee/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/stripe/REFERENCE.md) | ⭐ 102 | `commercial` |
 | [Authentication](commercial/318-authentication_3e8c83a5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/authentication.md) | ⭐ 102 | `commercial` |
-| [Skill](commercial/name-skill_04e46d3f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/subdomain_enumeration/SKILL.md) | ⭐ 23 | `commercial` |
-| [Playwright Automation](commercial/playwright-automation_44cfeb0a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/playwright-automation.md) | ⭐ 23 | `commercial` |
-| [Jwt Cheat Sheet](commercial/jwt-cheat-sheet_ff10f8d3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/jwt/jwt-cheat-sheet.md) | ⭐ 23 | `commercial` |
-| [Essential Skills Quickstart](commercial/essential-skills-quickstart_5ea20363/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/burp-suite/essential-skills-quickstart.md) | ⭐ 23 | `commercial` |
-| [Ssrf Portswigger Labs Complete](commercial/ssrf-portswigger-labs-complete_21616160/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/ssrf/ssrf-portswigger-labs-complete.md) | ⭐ 23 | `commercial` |
-| [Ssrf Quickstart](commercial/ssrf-quickstart_2e3433bd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/ssrf/ssrf-quickstart.md) | ⭐ 23 | `commercial` |
-| [Business Logic Cheat Sheet](commercial/business-logic-cheat-sheet_6fb4bb52/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/business-logic/business-logic-cheat-sheet.md) | ⭐ 23 | `commercial` |
-| [Business Logic Portswigger Labs Complete](commercial/business-logic-portswigger-labs-complete_69409241/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/business-logic/business-logic-portswigger-labs-complete.md) | ⭐ 23 | `commercial` |
-| [Business Logic Quickstart](commercial/business-logic-quickstart_996d57ba/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/business-logic/business-logic-quickstart.md) | ⭐ 23 | `commercial` |
-| [Business Logic Resources](commercial/business-logic-resources_37bba643/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/business-logic/business-logic-resources.md) | ⭐ 23 | `commercial` |
-| [Race Conditions Cheat Sheet](commercial/race-conditions-cheat-sheet_3a904aa5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/race-conditions/race-conditions-cheat-sheet.md) | ⭐ 23 | `commercial` |
-| [Race Conditions Portswigger Labs Complete](commercial/race-conditions-portswigger-labs-complete_aa01b3f2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/race-conditions/race-conditions-portswigger-labs-complete.md) | ⭐ 23 | `commercial` |
-| [Race Conditions Quickstart](commercial/race-conditions-quickstart_cbdcca7b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/race-conditions/race-conditions-quickstart.md) | ⭐ 23 | `commercial` |
+| [Skill](commercial/210-name-skill_04e46d3f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/subdomain_enumeration/SKILL.md) | ⭐ 23 | `commercial` |
 
-### Communication (337 skills)
+### Communication (333 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1675,15 +1650,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](communication/147-reference_705c54bd/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-chat/REFERENCE.md) | ⭐ 102 | `communication` |
 | [Entity Action Api](communication/220-entity-action-api_d52ae9cb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/entity-action-api.md) | ⭐ 102 | `communication` |
 | [Getting Started](communication/221-getting-started_257d5353/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/getting-started.md) | ⭐ 102 | `communication` |
-| [Skill](communication/name-skill_e50164b9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/dns_intelligence/SKILL.md) | ⭐ 23 | `communication` |
-| [Skill](communication/name-skill_b8dc7a09/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/domain_discovery/SKILL.md) | ⭐ 23 | `communication` |
-| [Skill](communication/name-skill_a49c1ec6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/third_party_detector/SKILL.md) | ⭐ 23 | `communication` |
-| [Faq Answers](communication/faq-answers_70480fab/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/internal-comms/examples/faq-answers.md) | ⭐ 1.4k | `communication` |
-| [Integration Guide](communication/integration_guide_c96bd1d6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/hackerone/reference/INTEGRATION_GUIDE.md) | ⭐ 23 | `communication` |
-| [Websockets Resources](communication/websockets-resources_4824c192/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/websockets/websockets-resources.md) | ⭐ 23 | `communication` |
-| [Nosql Injection Resources](communication/nosql-injection-resources_b13b11d1/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/nosql-injection/nosql-injection-resources.md) | ⭐ 23 | `communication` |
+| [Skill](communication/127-name-skill_e50164b9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/dns_intelligence/SKILL.md) | ⭐ 23 | `communication` |
+| [Skill](communication/127-name-skill_b8dc7a09/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/domain_discovery/SKILL.md) | ⭐ 23 | `communication` |
+| [Skill](communication/127-name-skill_a49c1ec6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/third_party_detector/SKILL.md) | ⭐ 23 | `communication` |
 
-### Content Creation (563 skills)
+### Content Creation (533 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2215,43 +2186,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_1e2e8681/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/business-productivity/content-research-writer-davepoon-buildwithclaude/SKILL.md) | ⭐ 73 | `content creation` |
 | [Skill](content-creation/049-name-skill_4deb634e/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/data-access/deduplication-dadbodgeoff-drift/SKILL.md) | ⭐ 73 | `content creation` |
 | [Skill](content-creation/049-name-skill_10410561/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/data/01-productmanager-brainstorming/SKILL.md) | ⭐ 73 | `content creation` |
-| [Terms](content-creation/terms_54393a76/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/TERMS.md) | ⭐ 1.4k | `content creation` |
-| [Correlation Agent](content-creation/correlation_agent_fe8a74ac/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/correlation_agent.md) | ⭐ 23 | `content creation` |
-| [Report Generation Agent](content-creation/report_generation_agent_b18a4fac/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/report_generation_agent.md) | ⭐ 23 | `content creation` |
-| [Skill](content-creation/name-skill_74be86cf/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/html_content_analysis/SKILL.md) | ⭐ 23 | `content creation` |
-| [Skill](content-creation/exports-skill_27a130ea/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/report_exporter/SKILL.md) | ⭐ 23 | `content creation` |
-| [Skill](content-creation/name-skill_4cffb038/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/algorithmic-art/SKILL.md) | ⭐ 1.4k | `content creation` |
-| [Skill](content-creation/name-skill_7cde52ea/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/canvas-design/SKILL.md) | ⭐ 1.4k | `content creation` |
-| [Skill](content-creation/name-skill_f63920be/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/docx/SKILL.md) | ⭐ 1.4k | `content creation` |
-| [Docx Js](content-creation/docx-js_b5d2a245/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/docx/docx-js.md) | ⭐ 1.4k | `content creation` |
-| [Ooxml](content-creation/ooxml_71fc7ba6/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/docx/ooxml.md) | ⭐ 1.4k | `content creation` |
-| [Ooxml](content-creation/ooxml_cf223ae0/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/pptx/ooxml.md) | ⭐ 1.4k | `content creation` |
-| [Skill](content-creation/name-skill_a55e335c/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/xlsx/SKILL.md) | ⭐ 1.4k | `content creation` |
-| [3P Updates](content-creation/3p-updates_f7cb6189/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/internal-comms/examples/3p-updates.md) | ⭐ 1.4k | `content creation` |
-| [General Comms](content-creation/general-comms_2ea3b4ea/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/internal-comms/examples/general-comms.md) | ⭐ 1.4k | `content creation` |
-| [Workflows](content-creation/workflows_8f6f2cfe/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/skill-creator/references/workflows.md) | ⭐ 1.4k | `content creation` |
-| [Web Llm Attacks Resources](content-creation/web-llm-attacks-resources_69ca09ad/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/web-llm/web-llm-attacks-resources.md) | ⭐ 23 | `content creation` |
-| [Websockets Quickstart](content-creation/websockets-quickstart_9f2530ae/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/websockets/websockets-quickstart.md) | ⭐ 23 | `content creation` |
-| [Authentication Portswigger Labs Complete](content-creation/authentication-portswigger-labs-complete_f6bf30d2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/auth-bypass/authentication-portswigger-labs-complete.md) | ⭐ 23 | `content creation` |
-| [Authentication Resources](content-creation/authentication-resources_aa9d869c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/auth-bypass/authentication-resources.md) | ⭐ 23 | `content creation` |
-| [Oauth Index](content-creation/oauth-index_c3049b37/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/oauth/oauth-index.md) | ⭐ 23 | `content creation` |
-| [Oauth Resources](content-creation/oauth-resources_d87aea45/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/oauth/oauth-resources.md) | ⭐ 23 | `content creation` |
-| [Xss Bypass Techniques](content-creation/xss-bypass-techniques_06dcb60b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/xss/xss-bypass-techniques.md) | ⭐ 23 | `content creation` |
-| [Xss Portswigger Labs Complete](content-creation/xss-portswigger-labs-complete_fa3c4752/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/xss/xss-portswigger-labs-complete.md) | ⭐ 23 | `content creation` |
-| [Essential Skills Resources](content-creation/essential-skills-resources_f41ab14b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/burp-suite/essential-skills-resources.md) | ⭐ 23 | `content creation` |
-| [Os Command Injection Portswigger Labs Complete](content-creation/os-command-injection-portswigger-labs-complete_a17bb732/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/command-injection/os-command-injection-portswigger-labs-complete.md) | ⭐ 23 | `content creation` |
-| [Sql Injection Quickstart](content-creation/sql-injection-quickstart_c05b9bee/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/sql-injection/sql-injection-quickstart.md) | ⭐ 23 | `content creation` |
-| [Xxe Portswigger Labs Complete](content-creation/xxe-portswigger-labs-complete_5e0fe5e6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/xxe/xxe-portswigger-labs-complete.md) | ⭐ 23 | `content creation` |
-| [File Upload Resources](content-creation/file-upload-resources_8f722c45/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/file-upload/file-upload-resources.md) | ⭐ 23 | `content creation` |
-| [Http Request Smuggling Quickstart](content-creation/http-request-smuggling-quickstart_2026bfc0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/http-smuggling/http-request-smuggling-quickstart.md) | ⭐ 23 | `content creation` |
-| [Http Request Smuggling](content-creation/http-request-smuggling_82714901/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/http-smuggling/http-request-smuggling.md) | ⭐ 23 | `content creation` |
-| [Access Control Portswigger Labs Complete](content-creation/access-control-portswigger-labs-complete_993c4aa0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/access-control/access-control-portswigger-labs-complete.md) | ⭐ 23 | `content creation` |
-| [Access Control Resources](content-creation/access-control-resources_10166dd7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/access-control/access-control-resources.md) | ⭐ 23 | `content creation` |
-| [Web Cache Poisoning Cheat Sheet](content-creation/web-cache-poisoning-cheat-sheet_92608699/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-poisoning/web-cache-poisoning-cheat-sheet.md) | ⭐ 23 | `content creation` |
-| [Web Cache Poisoning Quickstart](content-creation/web-cache-poisoning-quickstart_a8c17a9e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-poisoning/web-cache-poisoning-quickstart.md) | ⭐ 23 | `content creation` |
-| [Race Conditions Index](content-creation/race-conditions-index_d1f89d21/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/race-conditions/race-conditions-index.md) | ⭐ 23 | `content creation` |
+| [Terms](content-creation/241-terms_54393a76/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/TERMS.md) | ⭐ 1.4k | `content creation` |
+| [Correlation Agent](content-creation/242-correlation_agent_fe8a74ac/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/correlation_agent.md) | ⭐ 23 | `content creation` |
+| [Report Generation Agent](content-creation/243-report_generation_agent_b18a4fac/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/report_generation_agent.md) | ⭐ 23 | `content creation` |
+| [Skill](content-creation/049-name-skill_74be86cf/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/html_content_analysis/SKILL.md) | ⭐ 23 | `content creation` |
+| [Skill](content-creation/244-exports-skill_27a130ea/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/report_exporter/SKILL.md) | ⭐ 23 | `content creation` |
 
-### Daily Assistant (344 skills)
+### Daily Assistant (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2598,9 +2539,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Reference](daily-assistant/109-reference_c20a5d5a/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/asana/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Reference](daily-assistant/109-reference_032e8d61/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/gong/REFERENCE.md) | ⭐ 102 | `daily assistant` |
 | [Reference](daily-assistant/109-reference_b09fa03f/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/salesforce/REFERENCE.md) | ⭐ 102 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_da5757bb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/domain-assessment/SKILL.md) | ⭐ 23 | `daily assistant` |
 
-### Data Analysis (850 skills)
+### Data Analysis (839 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3435,27 +3375,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](data-analysis/383-gotchas_2b203a92/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/smart-placement/gotchas.md) | ⭐ 392 | `data analysis` |
 | [Reference](data-analysis/286-reference_4ec85722/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/github/REFERENCE.md) | ⭐ 102 | `data analysis` |
 | [Reference](data-analysis/286-reference_7ea57731/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/linear/REFERENCE.md) | ⭐ 102 | `data analysis` |
-| [Quickstart](data-analysis/quickstart_ca68603d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/benchmarks/QUICKSTART.md) | ⭐ 23 | `data analysis` |
-| [Skill](data-analysis/name-skill_bc7df71f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/certificate_transparency/SKILL.md) | ⭐ 23 | `data analysis` |
-| [Skill](data-analysis/formats-skill_72b8fbb6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/evidence_formatter/SKILL.md) | ⭐ 23 | `data analysis` |
-| [Skill](data-analysis/generates-skill_8e8e0358/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/json_report_generator/SKILL.md) | ⭐ 23 | `data analysis` |
-| [Skill](data-analysis/name-skill_a97bbc47/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/tls_certificate_analysis/SKILL.md) | ⭐ 23 | `data analysis` |
-| [Skill](data-analysis/name-skill_c8f5043b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/web_archive_analysis/SKILL.md) | ⭐ 23 | `data analysis` |
-| [Content](data-analysis/content_470d1ce4/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/CONTENT.md) | ⭐ 23 | `data analysis` |
-| [Frontmatter](data-analysis/frontmatter_2b9485c5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/FRONTMATTER.md) | ⭐ 23 | `data analysis` |
-| [Reference](data-analysis/reference_3c6e7c05/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/pdf/reference.md) | ⭐ 1.4k | `data analysis` |
-| [Skill](data-analysis/name-skill_b154c6fd/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/pptx/SKILL.md) | ⭐ 1.4k | `data analysis` |
-| [Html2Pptx](data-analysis/html2pptx_8912395c/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/pptx/html2pptx.md) | ⭐ 1.4k | `data analysis` |
-| [Pentester Orchestrator](data-analysis/pentester-orchestrator_efd8a844/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/pentester-orchestrator.md) | ⭐ 23 | `data analysis` |
-| [Llm03 Training Poisoning](data-analysis/llm03-training-poisoning_86408c8e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm03-training-poisoning.md) | ⭐ 23 | `data analysis` |
-| [Graphql Cheat Sheet](data-analysis/graphql-cheat-sheet_9795e183/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/graphql/graphql-cheat-sheet.md) | ⭐ 23 | `data analysis` |
-| [Graphql Quickstart](data-analysis/graphql-quickstart_6050cc54/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/graphql/graphql-quickstart.md) | ⭐ 23 | `data analysis` |
-| [Cloud Security](data-analysis/cloud-security_33b564a3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/cloud-containers/aws/cloud-security.md) | ⭐ 23 | `data analysis` |
-| [Report Templates](data-analysis/report-templates_25693b21/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/reporting/report-templates.md) | ⭐ 23 | `data analysis` |
-| [Xxe Cheat Sheet](data-analysis/xxe-cheat-sheet_f0a017e6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/xxe/xxe-cheat-sheet.md) | ⭐ 23 | `data analysis` |
-| [Web Cache Poisoning Portswigger Labs Complete](data-analysis/web-cache-poisoning-portswigger-labs-complete_5a75ecff/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-poisoning/web-cache-poisoning-portswigger-labs-complete.md) | ⭐ 23 | `data analysis` |
+| [Quickstart](data-analysis/253-quickstart_ca68603d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/benchmarks/QUICKSTART.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bc7df71f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/certificate_transparency/SKILL.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/365-formats-skill_72b8fbb6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/evidence_formatter/SKILL.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/366-generates-skill_8e8e0358/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/json_report_generator/SKILL.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a97bbc47/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/tls_certificate_analysis/SKILL.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c8f5043b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/web_archive_analysis/SKILL.md) | ⭐ 23 | `data analysis` |
+| [Content](data-analysis/367-content_470d1ce4/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/CONTENT.md) | ⭐ 23 | `data analysis` |
+| [Frontmatter](data-analysis/368-frontmatter_2b9485c5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/FRONTMATTER.md) | ⭐ 23 | `data analysis` |
 
-### Development (4265 skills)
+### Development (4193 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7641,91 +7570,19 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Programmatic Setup](development/2141-programmatic-setup_d2dc23af/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/programmatic-setup.md) | ⭐ 102 | `development` |
 | [Troubleshooting](development/1097-troubleshooting_2859925e/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/troubleshooting.md) | ⭐ 102 | `development` |
 | [Agents](development/028-agents_0fa5bda0/) | [barvhaim/HoneyMCP](https://raw.githubusercontent.com/barvhaim/HoneyMCP/master/AGENTS.md) | ⭐ 16 | `development` |
-| [Claude](development/claude_41054817/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/CLAUDE.md) | ⭐ 23 | `development` |
-| [Skiller](development/skiller_f7b47332/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/agents/skiller.md) | ⭐ 23 | `development` |
-| [Asset Discovery Agent](development/asset_discovery_agent_2edf2503/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/asset_discovery_agent.md) | ⭐ 23 | `development` |
-| [Skill](development/generate-skill_722aab09/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/name-skill_f91832e7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/api_portal_discovery/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/calculates-skill_892a547e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/confidence_scorer/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/resolves-skill_216c3226/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/conflict_resolver/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/name-skill_a02ad0fb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/http_fingerprinting/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/name-skill_9fbd6bee/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/security_posture_analyzer/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/cross-skill_0c80cacd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/signal_correlator/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/name-skill_1d4ab815/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/web-artifacts-builder/SKILL.md) | ⭐ 1.4k | `development` |
-| [Evaluation](development/evaluation_d198809f/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/mcp-builder/reference/evaluation.md) | ⭐ 1.4k | `development` |
-| [Test Plan Format](development/test_plan_format_01b37747/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/reference/TEST_PLAN_FORMAT.md) | ⭐ 23 | `development` |
-| [Llm01 Prompt Injection](development/llm01-prompt-injection_c5812c06/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm01-prompt-injection.md) | ⭐ 23 | `development` |
-| [Llm02 Insecure Output](development/llm02-insecure-output_1b33f8d1/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm02-insecure-output.md) | ⭐ 23 | `development` |
-| [Llm05 Supply Chain](development/llm05-supply-chain_e3d595ea/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm05-supply-chain.md) | ⭐ 23 | `development` |
-| [Llm06 Excessive Agency](development/llm06-excessive-agency_2fb1be19/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm06-excessive-agency.md) | ⭐ 23 | `development` |
-| [Bot Detection](development/bot_detection_3b5ba780/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/authenticating/reference/BOT_DETECTION.md) | ⭐ 23 | `development` |
-| [Captcha Bypass](development/captcha_bypass_56885da9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/authenticating/reference/CAPTCHA_BYPASS.md) | ⭐ 23 | `development` |
-| [Graphql Resources](development/graphql-resources_e7cff7f5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/graphql/graphql-resources.md) | ⭐ 23 | `development` |
-| [Api Testing Cheat Sheet](development/api-testing-cheat-sheet_1446d37e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/rest-api/api-testing-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Api Testing Comprehensive Guide](development/api-testing-comprehensive-guide_f1214f0f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/rest-api/api-testing-comprehensive-guide.md) | ⭐ 23 | `development` |
-| [Web Llm Attacks Cheat Sheet](development/web-llm-attacks-cheat-sheet_1988c5bd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/web-llm/web-llm-attacks-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Web Llm Attacks Portswigger Labs Complete](development/web-llm-attacks-portswigger-labs-complete_becf3566/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/web-llm/web-llm-attacks-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Web Llm Attacks Quickstart](development/web-llm-attacks-quickstart_a1baaecc/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/web-llm/web-llm-attacks-quickstart.md) | ⭐ 23 | `development` |
-| [Websockets Cheat Sheet](development/websockets-cheat-sheet_c8852277/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/websockets/websockets-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Websockets Portswigger Labs Complete](development/websockets-portswigger-labs-complete_bcaf8d31/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/websockets/websockets-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Authentication Cheat Sheet](development/authentication-cheat-sheet_3ed873c9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/auth-bypass/authentication-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Authentication Index](development/authentication-index_2b14f202/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/auth-bypass/authentication-index.md) | ⭐ 23 | `development` |
-| [Jwt Attack Techniques](development/jwt_attack_techniques_7625a137/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/jwt/jwt_attack_techniques.md) | ⭐ 23 | `development` |
-| [Portswigger Jwt Labs](development/portswigger_jwt_labs_ca06a4a8/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/jwt/portswigger_jwt_labs.md) | ⭐ 23 | `development` |
-| [Oauth Cheat Sheet](development/oauth-cheat-sheet_b1a56f0e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/oauth/oauth-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Oauth Portswigger Labs Complete](development/oauth-portswigger-labs-complete_3557f92d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/oauth/oauth-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Oauth Quickstart](development/oauth-quickstart_09a37381/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/oauth/oauth-quickstart.md) | ⭐ 23 | `development` |
-| [Clickjacking Portswigger Labs Complete](development/clickjacking-portswigger-labs-complete_db02be0b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/clickjacking/clickjacking-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Cors Cheat Sheet](development/cors-cheat-sheet_c3524fb9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/cors/cors-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Cors Portswigger Labs Complete](development/cors-portswigger-labs-complete_f308f02e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/cors/cors-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Cors Quickstart](development/cors-quickstart_09c7a295/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/cors/cors-quickstart.md) | ⭐ 23 | `development` |
-| [Csrf Portswigger Labs Complete](development/csrf-portswigger-labs-complete_6ca41da3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/csrf/csrf-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Csrf Quickstart](development/csrf-quickstart_33312132/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/csrf/csrf-quickstart.md) | ⭐ 23 | `development` |
-| [Dom Based Vulnerabilities Complete](development/dom-based-vulnerabilities-complete_6383d216/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/dom-based/dom-based-vulnerabilities-complete.md) | ⭐ 23 | `development` |
-| [Prototype Pollution Cheat Sheet](development/prototype-pollution-cheat-sheet_f82baf8c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/prototype-pollution/prototype-pollution-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Prototype Pollution Portswigger Labs Complete](development/prototype-pollution-portswigger-labs-complete_5e307c73/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/prototype-pollution/prototype-pollution-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Prototype Pollution Quickstart](development/prototype-pollution-quickstart_23c2e3b6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/prototype-pollution/prototype-pollution-quickstart.md) | ⭐ 23 | `development` |
-| [Prototype Pollution Resources](development/prototype-pollution-resources_56cc21c1/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/prototype-pollution/prototype-pollution-resources.md) | ⭐ 23 | `development` |
-| [Xss Exploitation Techniques](development/xss-exploitation-techniques_0807799e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/xss/xss-exploitation-techniques.md) | ⭐ 23 | `development` |
-| [Essential Skills Cheat Sheet](development/essential-skills-cheat-sheet_480287da/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/burp-suite/essential-skills-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Essential Skills Portswigger Labs Complete](development/essential-skills-portswigger-labs-complete_e72daf2a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/burp-suite/essential-skills-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Web Application Attacks](development/web-application-attacks_ee42a00d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/methodology/web-application-attacks.md) | ⭐ 23 | `development` |
-| [Professional Report Standard](development/professional_report_standard_0a853680/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/reporting/PROFESSIONAL_REPORT_STANDARD.md) | ⭐ 23 | `development` |
-| [Os Command Injection Cheat Sheet](development/os-command-injection-cheat-sheet_9f5ef8c2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/command-injection/os-command-injection-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Nosql Injection Portswigger Labs Complete](development/nosql-injection-portswigger-labs-complete_9923fbcd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/nosql-injection/nosql-injection-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Nosql Injection Quickstart](development/nosql-injection-quickstart_1f021c97/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/nosql-injection/nosql-injection-quickstart.md) | ⭐ 23 | `development` |
-| [Sql Injection](development/sql-injection_ca7eea0c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/sql-injection/sql-injection.md) | ⭐ 23 | `development` |
-| [Xxe Quickstart](development/xxe-quickstart_8d0df396/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/xxe/xxe-quickstart.md) | ⭐ 23 | `development` |
-| [Insecure Deserialization Cheat Sheet](development/insecure-deserialization-cheat-sheet_53035b68/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/deserialization/insecure-deserialization-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Insecure Deserialization Index](development/insecure-deserialization-index_fae86806/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/deserialization/insecure-deserialization-index.md) | ⭐ 23 | `development` |
-| [Insecure Deserialization Portswigger Labs Complete](development/insecure-deserialization-portswigger-labs-complete_249d241a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/deserialization/insecure-deserialization-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Insecure Deserialization Quickstart](development/insecure-deserialization-quickstart_ce80f455/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/deserialization/insecure-deserialization-quickstart.md) | ⭐ 23 | `development` |
-| [Insecure Deserialization Resources](development/insecure-deserialization-resources_737824be/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/deserialization/insecure-deserialization-resources.md) | ⭐ 23 | `development` |
-| [File Upload Portswigger Labs Complete](development/file-upload-portswigger-labs-complete_9fa20880/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/file-upload/file-upload-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [File Upload Quickstart](development/file-upload-quickstart_87e8d0eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/file-upload/file-upload-quickstart.md) | ⭐ 23 | `development` |
-| [Http Host Header Cheat Sheet](development/http-host-header-cheat-sheet_a43476a9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/host-header/http-host-header-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Http Host Header Portswigger Labs Complete](development/http-host-header-portswigger-labs-complete_abcf03f3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/host-header/http-host-header-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Http Host Header Quickstart](development/http-host-header-quickstart_250209b8/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/host-header/http-host-header-quickstart.md) | ⭐ 23 | `development` |
-| [Http Host Header Resources](development/http-host-header-resources_f6a4d0ef/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/host-header/http-host-header-resources.md) | ⭐ 23 | `development` |
-| [Path Traversal Cheat Sheet](development/path-traversal-cheat-sheet_1de5f5d3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/path-traversal/path-traversal-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Path Traversal Portswigger Labs Complete](development/path-traversal-portswigger-labs-complete_fc66144c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/path-traversal/path-traversal-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Path Traversal Quickstart](development/path-traversal-quickstart_803a48a3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/path-traversal/path-traversal-quickstart.md) | ⭐ 23 | `development` |
-| [Ssrf Cheat Sheet](development/ssrf-cheat-sheet_92070bfe/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/ssrf/ssrf-cheat-sheet.md) | ⭐ 23 | `development` |
-| [System Exploitation](development/system-exploitation_c0527be2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/system/active-directory/system-exploitation.md) | ⭐ 23 | `development` |
-| [System Exploitation](development/system-exploitation_8b9378bf/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/system/privilege-escalation/system-exploitation.md) | ⭐ 23 | `development` |
-| [Access Control Cheat Sheet](development/access-control-cheat-sheet_7478cbbb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/access-control/access-control-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Access Control Index](development/access-control-index_14dbc528/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/access-control/access-control-index.md) | ⭐ 23 | `development` |
-| [Access Control Quickstart](development/access-control-quickstart_d8b0c708/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/access-control/access-control-quickstart.md) | ⭐ 23 | `development` |
-| [Web Cache Deception Cheat Sheet](development/web-cache-deception-cheat-sheet_93b0cc4a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-deception/web-cache-deception-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Web Cache Deception Portswigger Labs Complete](development/web-cache-deception-portswigger-labs-complete_e2a2605d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-deception/web-cache-deception-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Web Cache Deception Quickstart](development/web-cache-deception-quickstart_ea941878/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-deception/web-cache-deception-quickstart.md) | ⭐ 23 | `development` |
-| [Web Cache Deception Resources](development/web-cache-deception-resources_5dc14235/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-deception/web-cache-deception-resources.md) | ⭐ 23 | `development` |
-| [Web Cache Poisoning Resources](development/web-cache-poisoning-resources_2c99dd36/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-poisoning/web-cache-poisoning-resources.md) | ⭐ 23 | `development` |
-| [Information Disclosure Cheat Sheet](development/information-disclosure-cheat-sheet_47532b2f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/info-disclosure/information-disclosure-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Information Disclosure Portswigger Labs Complete](development/information-disclosure-portswigger-labs-complete_a66573d9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/info-disclosure/information-disclosure-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Race Conditions Resources](development/race-conditions-resources_be4cd770/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/race-conditions/race-conditions-resources.md) | ⭐ 23 | `development` |
+| [Claude](development/140-claude_41054817/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/CLAUDE.md) | ⭐ 23 | `development` |
+| [Skiller](development/2037-skiller_f7b47332/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/agents/skiller.md) | ⭐ 23 | `development` |
+| [Asset Discovery Agent](development/2038-asset_discovery_agent_2edf2503/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/asset_discovery_agent.md) | ⭐ 23 | `development` |
+| [Skill](development/2039-generate-skill_722aab09/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/1178-name-skill_f91832e7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/api_portal_discovery/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/2040-calculates-skill_892a547e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/confidence_scorer/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/2041-resolves-skill_216c3226/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/conflict_resolver/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/1178-name-skill_a02ad0fb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/http_fingerprinting/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/1178-name-skill_9fbd6bee/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/security_posture_analyzer/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/2042-cross-skill_0c80cacd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/signal_correlator/SKILL.md) | ⭐ 23 | `development` |
+| [Http Headers](development/http_headers_0a6ef2b5/) | [Nayjest/lm-proxy](https://raw.githubusercontent.com/Nayjest/lm-proxy/main/doc/http_headers.md) | ⭐ 65 | `development` |
 
-### Development/Devops (82 skills)
+### Development/Devops (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7791,28 +7648,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](development/devops/214-patterns_23dd814e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/patterns.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_db3994ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/patterns.md) | ⭐ 392 | `development` |
 | [Configuration](development/devops/009-configuration_26d8c1bf/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
-| [Tech Inference Agent](development/devops/tech_inference_agent_1ff8bae6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/tech_inference_agent.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_a2e38f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/code_repository_intel/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_317186eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/devops_detector/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_8d24be24/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/job_posting_analysis/SKILL.md) | ⭐ 23 | `development` |
-| [Claude](development/devops/claude_511ce1f0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/CLAUDE.md) | ⭐ 23 | `development` |
-| [Workflows](development/devops/workflows_b09d3a0e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/WORKFLOWS.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_59f2f429/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/cve-testing/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_7c53fbab/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_2a4a1971/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/backend_inferencer/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/devops/name-skill_1d3c0016/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/cloud_infra_detector/SKILL.md) | ⭐ 23 | `development` |
-| [Sensitive Data Metadata](development/devops/sensitive_data_metadata_84055c78/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/hackerone/reference/SENSITIVE_DATA_METADATA.md) | ⭐ 23 | `development` |
-| [Password Attacks](development/devops/password-attacks_fd47e52e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/password-attacks/password-attacks.md) | ⭐ 23 | `development` |
-| [Clickjacking Cheat Sheet](development/devops/clickjacking-cheat-sheet_103cdcdd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/clickjacking/clickjacking-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Clickjacking Quickstart](development/devops/clickjacking-quickstart_a9b2b7c4/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/client-side/clickjacking/clickjacking-quickstart.md) | ⭐ 23 | `development` |
-| [Nosql Injection Cheat Sheet](development/devops/nosql-injection-cheat-sheet_5600e10c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/nosql-injection/nosql-injection-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Network Attacks](development/devops/network-attacks_ff9fc9e2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/network/dns-attacks/network-attacks.md) | ⭐ 23 | `development` |
-| [Wireless Attacks](development/devops/wireless-attacks_3ec1747d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/network/wireless/wireless-attacks.md) | ⭐ 23 | `development` |
-| [Social Engineering](development/devops/social-engineering_82e9742a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/physical-social/social-engineering/social-engineering.md) | ⭐ 23 | `development` |
-| [Http Request Smuggling Resources](development/devops/http-request-smuggling-resources_cfb97eb5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/http-smuggling/http-request-smuggling-resources.md) | ⭐ 23 | `development` |
-| [Information Disclosure Resources](development/devops/information-disclosure-resources_ef7c2710/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/info-disclosure/information-disclosure-resources.md) | ⭐ 23 | `development` |
+| [Tech Inference Agent](development/devops/191-tech_inference_agent_1ff8bae6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/tech_inference_agent.md) | ⭐ 23 | `development` |
+| [Skill](development/devops/014-name-skill_a2e38f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/code_repository_intel/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/devops/014-name-skill_317186eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/devops_detector/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/devops/014-name-skill_8d24be24/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/job_posting_analysis/SKILL.md) | ⭐ 23 | `development` |
 
-### Development/Testing (29 skills)
+### Development/Testing (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7841,12 +7682,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](development/testing/051-configuration_7d081d7a/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/configuration.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_14e5df8f/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/miniflare/gotchas.md) | ⭐ 392 | `development` |
 | [Gotchas](development/testing/049-gotchas_231d3fdc/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workers-playground/gotchas.md) | ⭐ 392 | `development` |
-| [Skill](development/testing/name-skill_85c95e57/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/mcp_servers/.test-client-invalid/skills/invalid-skill/SKILL.md) | ⭐ 1.4k | `development` |
-| [Llm04 Resource Exhaustion](development/testing/llm04-resource-exhaustion_01b9b3d2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm04-resource-exhaustion.md) | ⭐ 23 | `development` |
-| [Llm07 Model Extraction](development/testing/llm07-model-extraction_f4fa2146/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm07-model-extraction.md) | ⭐ 23 | `development` |
-| [Llm10 Logging Bypass](development/testing/llm10-logging-bypass_5332ecf0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm10-logging-bypass.md) | ⭐ 23 | `development` |
 
-### Development/Tools (110 skills)
+### Development/Tools (92 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7937,29 +7774,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Configuration](development/tools/189-configuration_3bc59136/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 130 | `development` |
 | [Auth](development/tools/077-auth_1618b7fb/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/AUTH.md) | ⭐ 102 | `development` |
 | [Mcp Integration](development/tools/232-mcp-integration_ac1b3845/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/skills/airbyte-agent-connectors/references/mcp-integration.md) | ⭐ 102 | `development` |
-| [Agents](development/tools/agents_22bd7814/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/AGENTS.md) | ⭐ 23 | `development` |
-| [Overview](development/tools/overview_fbdabfa7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/benchmarks/OVERVIEW.md) | ⭐ 23 | `development` |
-| [Skill](development/tools/name-skill_d5757c71/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/ip_attribution/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/tools/name-skill_12cb7293/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/javascript_dom_analysis/SKILL.md) | ⭐ 23 | `development` |
-| [Structure](development/tools/structure_95818f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/STRUCTURE.md) | ⭐ 23 | `development` |
-| [Skill](development/tools/name-skill_3a71c592/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/mcp-builder/SKILL.md) | ⭐ 1.4k | `development` |
-| [Skill](development/tools/name-skill_093b1252/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/webapp-testing/SKILL.md) | ⭐ 1.4k | `development` |
-| [Node Mcp Server](development/tools/node_mcp_server_b6521f48/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/mcp-builder/reference/node_mcp_server.md) | ⭐ 1.4k | `development` |
-| [Python Mcp Server](development/tools/python_mcp_server_4fda54a3/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/skills/mcp-builder/reference/python_mcp_server.md) | ⭐ 1.4k | `development` |
-| [Skill](development/tools/name-skill_e6c1f174/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/common-appsec-patterns/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/tools/name-skill_a2831ee5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/cdn_waf_fingerprinter/SKILL.md) | ⭐ 23 | `development` |
-| [Llm08 Vector Poisoning](development/tools/llm08-vector-poisoning_fcd0d59a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/ai-threat-testing/agents/llm08-vector-poisoning.md) | ⭐ 23 | `development` |
-| [2Fa Bypass](development/tools/2fa_bypass_73ff8a47/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/authenticating/reference/2FA_BYPASS.md) | ⭐ 23 | `development` |
-| [Password Credential Management](development/tools/password_credential_management_9370e6f5/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/authenticating/reference/PASSWORD_CREDENTIAL_MANAGEMENT.md) | ⭐ 23 | `development` |
-| [Graphql Portswigger Labs Complete](development/tools/graphql-portswigger-labs-complete_35e0f221/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/graphql/graphql-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Authentication Quickstart](development/tools/authentication-quickstart_d1bb9cfd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/auth-bypass/authentication-quickstart.md) | ⭐ 23 | `development` |
-| [Jwt Quickstart](development/tools/jwt-quickstart_fad00c87/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/jwt/jwt-quickstart.md) | ⭐ 23 | `development` |
-| [Os Command Injection Quickstart](development/tools/os-command-injection-quickstart_24dd1648/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/command-injection/os-command-injection-quickstart.md) | ⭐ 23 | `development` |
-| [Ssti Cheat Sheet](development/tools/ssti-cheat-sheet_c21db769/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/ssti/ssti-cheat-sheet.md) | ⭐ 23 | `development` |
-| [Ssti Portswigger Labs Complete](development/tools/ssti-portswigger-labs-complete_b8166bf1/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/ssti/ssti-portswigger-labs-complete.md) | ⭐ 23 | `development` |
-| [Ssti Quickstart](development/tools/ssti-quickstart_a6b223e6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/ssti/ssti-quickstart.md) | ⭐ 23 | `development` |
-| [Ssti Resources](development/tools/ssti-resources_9e6386dd/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/ssti/ssti-resources.md) | ⭐ 23 | `development` |
-| [Http Request Smuggling Cheat Sheet](development/tools/http-request-smuggling-cheat-sheet_4a4fd724/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/server-side/http-smuggling/http-request-smuggling-cheat-sheet.md) | ⭐ 23 | `development` |
+| [Agents](development/tools/015-agents_22bd7814/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/AGENTS.md) | ⭐ 23 | `development` |
+| [Overview](development/tools/209-overview_fbdabfa7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/benchmarks/OVERVIEW.md) | ⭐ 23 | `development` |
+| [Skill](development/tools/002-name-skill_d5757c71/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/ip_attribution/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/tools/002-name-skill_12cb7293/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/javascript_dom_analysis/SKILL.md) | ⭐ 23 | `development` |
+| [Structure](development/tools/210-structure_95818f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/skiller/.claude/skills/skiller/reference/STRUCTURE.md) | ⭐ 23 | `development` |
 
 ### Investment (51 skills)
 
@@ -8017,7 +7836,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Navigation](investment/032-navigation_3c79ea49/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/skills/react-router-v7/references/navigation.md) | ⭐ 17 | `investment` |
 | [Reference](investment/023-reference_145e86f4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/amazon-ads/REFERENCE.md) | ⭐ 102 | `investment` |
 
-### Other (45 skills)
+### Other (44 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8065,9 +7884,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
-| [Use](other/use_5e886c02/) | [invariantlabs-ai/mcp-scan](https://raw.githubusercontent.com/invariantlabs-ai/mcp-scan/main/tests/mcp_servers/.test-client-invalid/skills/test-skill/tricks/use.md) | ⭐ 1.4k | `other` |
 
-### Productivity (233 skills)
+### Productivity (232 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8303,9 +8121,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/149-description-skill_feaaa708/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/jira-assistant/SKILL.md) | ⭐ 392 | `productivity` |
 | [Session Handoff](productivity/150-session-handoff_d77614d6/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/session-handoff.md) | ⭐ 392 | `productivity` |
 | [Patterns](productivity/151-patterns_404e83d1/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/hyperdrive/patterns.md) | ⭐ 392 | `productivity` |
-| [Output](productivity/output_2ab3bfe9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/OUTPUT.md) | ⭐ 23 | `productivity` |
 
-### Research (378 skills)
+### Research (372 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8680,13 +8497,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Patterns](research/230-patterns_d3383b42/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/bot-management/patterns.md) | ⭐ 392 | `research` |
 | [Patterns](research/230-patterns_771d9192/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/web-analytics/patterns.md) | ⭐ 392 | `research` |
 | [Reference](research/158-reference_ede69581/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/airtable/REFERENCE.md) | ⭐ 102 | `research` |
-| [Skill](research/name-skill_8a878283/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/frontend_inferencer/SKILL.md) | ⭐ 23 | `research` |
-| [Web Llm Attacks Index](research/web-llm-attacks-index_d68a2284/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/web-llm/web-llm-attacks-index.md) | ⭐ 23 | `research` |
-| [Websockets Index](research/websockets-index_558a2f7e/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/api-security/websockets/websockets-index.md) | ⭐ 23 | `research` |
-| [Jwt Security Resources](research/jwt_security_resources_d21a1a65/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/authentication/jwt/jwt_security_resources.md) | ⭐ 23 | `research` |
-| [Essential Skills Index](research/essential-skills-index_0815e06f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/essential-skills/burp-suite/essential-skills-index.md) | ⭐ 23 | `research` |
-| [Nosql Injection Index](research/nosql-injection-index_96013f02/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/injection/nosql-injection/nosql-injection-index.md) | ⭐ 23 | `research` |
-| [Web Cache Deception Index](research/web-cache-deception-index_b6d3120d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/web-applications/cache-deception/web-cache-deception-index.md) | ⭐ 23 | `research` |
+| [Skill](research/139-name-skill_8a878283/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/frontend_inferencer/SKILL.md) | ⭐ 23 | `research` |
 
 ## Repository Structure
 
