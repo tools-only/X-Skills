@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9263 AI-powered skills** organized into 16 categories.
+A curated collection of **9268 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -14,10 +14,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (576 skills)
 - **Communication** (366 skills)
 - **Content Creation** (605 skills)
-- **Daily Assistant** (387 skills)
-- **Data Analysis** (897 skills)
-- **Development** (4413 skills)
-- **Development/Devops** (158 skills)
+- **Daily Assistant** (386 skills)
+- **Data Analysis** (899 skills)
+- **Development** (4416 skills)
+- **Development/Devops** (159 skills)
 - **Development/Testing** (44 skills)
 - **Development/Tools** (208 skills)
 - **Investment** (56 skills)
@@ -906,8 +906,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prompt](automation/workflow/078-prompt_c9c64e7a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/prompt.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_1a967b4a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/fathom/SKILL.md) | ⭐ 10 | `automation` |
 | [Implementation Summary](automation/workflow/079-implementation_summary_76b7daad/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/IMPLEMENTATION_SUMMARY.md) | ⭐ 10 | `automation` |
-| [Agents](automation/workflow/agents_768cc392/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/AGENTS.md) | ⭐ 20 | `automation` |
-| [Skill](automation/workflow/name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
+| [Agents](automation/workflow/073-agents_768cc392/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/AGENTS.md) | ⭐ 20 | `automation` |
+| [Skill](automation/workflow/002-name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
 
 ### Commercial (576 skills)
 
@@ -2466,12 +2466,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_e64a9942/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram/SKILL.md) | ⭐ 10 | `content creation` |
 | [Schema](content-creation/160-schema_ef05f150/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/references/schema.md) | ⭐ 10 | `content creation` |
 | [Pandoc Reference](content-creation/273-pandoc_reference_343cfa2d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/references/pandoc_reference.md) | ⭐ 10 | `content creation` |
-| [Agents](content-creation/agents_f661f95d/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/AGENTS.md) | ⭐ 20 | `content creation` |
-| [Skill](content-creation/name-skill_e586daef/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 192 | `content creation` |
-| [Skill](content-creation/name-skill_a2943f5e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/pipeline-auditor/SKILL.md) | ⭐ 192 | `content creation` |
-| [Skill](content-creation/name-skill_6b874ca8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 192 | `content creation` |
+| [Agents](content-creation/185-agents_f661f95d/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/AGENTS.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_e586daef/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 192 | `content creation` |
+| [Skill](content-creation/049-name-skill_a2943f5e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/pipeline-auditor/SKILL.md) | ⭐ 192 | `content creation` |
+| [Skill](content-creation/049-name-skill_6b874ca8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 192 | `content creation` |
 
-### Daily Assistant (387 skills)
+### Daily Assistant (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2861,9 +2861,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Phase4 Readme](daily-assistant/218-phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
-| [Feature Request Template](daily-assistant/feature-request-template_cc93f6eb/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/templates/feature-request-template.md) | ⭐ 20 | `daily assistant` |
 
-### Data Analysis (897 skills)
+### Data Analysis (899 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3764,8 +3763,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_e8912b59/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7a4ce020/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/presentation-generator/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_b7ea7c71/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/youtube-transcript/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Implementation Summary](data-analysis/implementation-summary_c0851d5c/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/implementation-summary.md) | ⭐ 18 | `data analysis` |
+| [Project Description](data-analysis/project-description_53bf5d91/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/project-description.md) | ⭐ 18 | `data analysis` |
 
-### Development (4413 skills)
+### Development (4416 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8108,7 +8109,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_47eaad52/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 211 | `development` |
 | [Refactoring Expert](development/2054-refactoring-expert_e2f0e614/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/refactoring-expert.md) | ⭐ 211 | `development` |
 | [Tdd Developer](development/2055-tdd-developer_bedbbd93/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/tdd-developer.md) | ⭐ 211 | `development` |
-| [Agents](development/028-agents_125bbbb5/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Agents](development/agents_455a8400/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
 | [Developer Guide](development/282-developer-guide_b6d099f2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 5.6k | `development` |
 | [Getting Started](development/421-getting-started_89b19ca2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | 🔥 5.6k | `development` |
 | [Worker Agent](development/2157-worker_agent_f20969b2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/key_concepts/worker_agent.md) | 🔥 5.6k | `development` |
@@ -8177,13 +8178,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Openrouter Integration](development/2201-openrouter_integration_fa472637/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/OPENROUTER_INTEGRATION.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_fab31a2a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/meta/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_f967f20d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/zoom/SKILL.md) | ⭐ 10 | `development` |
-| [Migration](development/migration_8641c9e1/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/MIGRATION.md) | ⭐ 20 | `development` |
-| [Agents](development/agents_6a081156/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/AGENTS.md) | ⭐ 20 | `development` |
-| [Jql Quick Reference](development/jql-quick-reference_d29aec34/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/references/jql-quick-reference.md) | ⭐ 20 | `development` |
-| [Jira Syntax Quick Reference](development/jira-syntax-quick-reference_43bd7007/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/references/jira-syntax-quick-reference.md) | ⭐ 20 | `development` |
-| [Bug Report Template](development/bug-report-template_777fe29c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/templates/bug-report-template.md) | ⭐ 20 | `development` |
+| [Migration](development/2204-migration_8641c9e1/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/MIGRATION.md) | ⭐ 20 | `development` |
+| [Agents](development/028-agents_6a081156/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/AGENTS.md) | ⭐ 20 | `development` |
+| [Jql Quick Reference](development/2205-jql-quick-reference_d29aec34/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/references/jql-quick-reference.md) | ⭐ 20 | `development` |
+| [Jira Syntax Quick Reference](development/2206-jira-syntax-quick-reference_43bd7007/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/references/jira-syntax-quick-reference.md) | ⭐ 20 | `development` |
+| [Agents](development/028-agents_455a8400/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Dockerhub](development/dockerhub_09d6f9f0/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/DOCKERHUB.md) | ⭐ 18 | `development` |
+| [Sast Integration](development/sast-integration_7a0508de/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/sast-integration.md) | ⭐ 18 | `development` |
+| [Sast Guidance](development/sast_guidance_3e71b736/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/src/agent/prompts/sast_guidance.md) | ⭐ 18 | `development` |
 
-### Development/Devops (158 skills)
+### Development/Devops (159 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8248,7 +8252,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/devops/213-gotchas_9edf3496/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/gotchas.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_23dd814e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/patterns.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_db3994ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/patterns.md) | ⭐ 392 | `development` |
-| [Configuration](development/devops/009-configuration_26d8c1bf/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
+| [Configuration](development/devops/configuration_76c3c307/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
 | [Tech Inference Agent](development/devops/191-tech_inference_agent_1ff8bae6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/tech_inference_agent.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_a2e38f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/code_repository_intel/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_317186eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/devops_detector/SKILL.md) | ⭐ 23 | `development` |
@@ -8344,7 +8348,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Locust Fix Failures](development/devops/225-locust-fix-failures_ee374115/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/locust-fix-failures.md) | ⭐ 3.2k | `development` |
 | [Grpc Transport](development/devops/226-grpc-transport_19a7df0e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/grpc-transport.md) | ⭐ 3.2k | `development` |
 | [Hardening](development/devops/227-hardening_5b53491a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/HARDENING.md) | ⭐ 10 | `development` |
-| [Troubleshooting](development/devops/troubleshooting_19c3bdc3/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/references/troubleshooting.md) | ⭐ 20 | `development` |
+| [Input Validation](development/devops/input-validation_75e555d8/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/input-validation.md) | ⭐ 3.2k | `development` |
+| [Configuration](development/devops/009-configuration_76c3c307/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
 
 ### Development/Testing (44 skills)
 
@@ -8605,8 +8610,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/tools/002-name-skill_470a7901/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/agency-docs-updater/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_f842046d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/gmail/SKILL.md) | ⭐ 10 | `development` |
 | [Install](development/tools/213-install_5d240a7d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/INSTALL.md) | ⭐ 10 | `development` |
-| [Prd](development/tools/prd_ac78db14/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/PRD.md) | ⭐ 20 | `development` |
-| [Skill](development/tools/name-skill_89758e74/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 20 | `development` |
+| [Prd](development/tools/249-prd_ac78db14/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/PRD.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/002-name-skill_89758e74/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 20 | `development` |
 
 ### Investment (56 skills)
 
@@ -9366,10 +9371,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](research/139-name-skill_f5afba45/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/firecrawl-research/SKILL.md) | ⭐ 10 | `research` |
 | [Skill](research/139-name-skill_8d2b510f/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/SKILL.md) | ⭐ 10 | `research` |
 | [Sources](research/187-sources_59fd9870/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/references/sources.md) | ⭐ 10 | `research` |
-| [Arxiv Survey Latex.Pipeline](research/arxiv-survey-latexpipeline_b8272fd9/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey-latex.pipeline.md) | ⭐ 192 | `research` |
-| [Arxiv Survey.Pipeline](research/arxiv-surveypipeline_3c125a74/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 192 | `research` |
-| [Skill](research/name-skill_b3a385d8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 192 | `research` |
-| [Skill](research/name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
+| [Arxiv Survey Latex.Pipeline](research/236-arxiv-survey-latexpipeline_b8272fd9/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey-latex.pipeline.md) | ⭐ 192 | `research` |
+| [Arxiv Survey.Pipeline](research/237-arxiv-surveypipeline_3c125a74/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 192 | `research` |
+| [Skill](research/139-name-skill_b3a385d8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 192 | `research` |
+| [Skill](research/139-name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
 
 ## Repository Structure
 
