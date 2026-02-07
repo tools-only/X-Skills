@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9260 AI-powered skills** organized into 16 categories.
+A curated collection of **9263 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (65 skills)
-- **Automation/Workflow** (128 skills)
-- **Commercial** (578 skills)
+- **Automation/Scripting** (64 skills)
+- **Automation/Workflow** (130 skills)
+- **Commercial** (576 skills)
 - **Communication** (366 skills)
-- **Content Creation** (602 skills)
-- **Daily Assistant** (389 skills)
-- **Data Analysis** (898 skills)
-- **Development** (4410 skills)
-- **Development/Devops** (157 skills)
+- **Content Creation** (605 skills)
+- **Daily Assistant** (387 skills)
+- **Data Analysis** (897 skills)
+- **Development** (4413 skills)
+- **Development/Devops** (158 skills)
 - **Development/Testing** (44 skills)
-- **Development/Tools** (206 skills)
-- **Investment** (57 skills)
+- **Development/Tools** (208 skills)
+- **Investment** (56 skills)
 - **Other** (44 skills)
 - **Productivity** (244 skills)
-- **Research** (400 skills)
+- **Research** (399 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (65 skills)
+### Automation/Scripting (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -772,10 +772,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Worktree Remove](automation/scripting/063-worktree-remove_f4c1a252/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-remove.md) | ⭐ 299 | `automation` |
 | [Skill](automation/scripting/003-name-skill_8f258337/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-pipeline/SKILL.md) | ⭐ 299 | `automation` |
 | [Azure](automation/scripting/064-azure_67d369d3/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/azure.md) | ⭐ 142 | `automation` |
-| [Api Config Reference](automation/scripting/api_config_reference_db8f7060/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/google-image-search/references/api_config_reference.md) | ⭐ 10 | `automation` |
-| [Skill](automation/scripting/name-skill_08d43b6b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/google-image-search/SKILL.md) | ⭐ 10 | `automation` |
+| [Api Config Reference](automation/scripting/065-api_config_reference_db8f7060/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/google-image-search/references/api_config_reference.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (128 skills)
+### Automation/Workflow (130 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -903,12 +902,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill Patterns](automation/workflow/076-skill-patterns_78c8468b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 176 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_9e0ea8ec/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Readme Cn](automation/workflow/077-readme_cn_0cb53a9d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/README_CN.md) | ⭐ 299 | `automation` |
-| [Claude](automation/workflow/claude_694b93b8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/CLAUDE.md) | ⭐ 10 | `automation` |
-| [Prompt](automation/workflow/prompt_c9c64e7a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/prompt.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_1a967b4a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/fathom/SKILL.md) | ⭐ 10 | `automation` |
-| [Implementation Summary](automation/workflow/implementation_summary_76b7daad/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/IMPLEMENTATION_SUMMARY.md) | ⭐ 10 | `automation` |
+| [Claude](automation/workflow/061-claude_694b93b8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/CLAUDE.md) | ⭐ 10 | `automation` |
+| [Prompt](automation/workflow/078-prompt_c9c64e7a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/prompt.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_1a967b4a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/fathom/SKILL.md) | ⭐ 10 | `automation` |
+| [Implementation Summary](automation/workflow/079-implementation_summary_76b7daad/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/IMPLEMENTATION_SUMMARY.md) | ⭐ 10 | `automation` |
+| [Agents](automation/workflow/agents_768cc392/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/AGENTS.md) | ⭐ 20 | `automation` |
+| [Skill](automation/workflow/name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
 
-### Commercial (578 skills)
+### Commercial (576 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1485,11 +1486,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_65c1a239/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 73 | `commercial` |
 | [Vertex](commercial/321-vertex_756b0af8/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/vertex.md) | ⭐ 142 | `commercial` |
 | [Xai](commercial/322-xai_2eafc38f/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/xai.md) | ⭐ 142 | `commercial` |
-| [2026 02 06 Feat Last30Days Bird Cli Release Plan](commercial/2026-02-06-feat-last30days-bird-cli-release-plan_7d38b346/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-feat-last30days-bird-cli-release-plan.md) | ⭐ 2.3k | `commercial` |
-| [2026 02 06 Feat Visible Query Parsing Display Plan](commercial/2026-02-06-feat-visible-query-parsing-display-plan_c2905a79/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-feat-visible-query-parsing-display-plan.md) | ⭐ 2.3k | `commercial` |
-| [Groq Integration](commercial/groq_integration_0475efe8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/GROQ_INTEGRATION.md) | ⭐ 10 | `commercial` |
-| [Paths](commercial/paths_0a8fa664/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/PATHS.md) | ⭐ 10 | `commercial` |
-| [Quickstart](commercial/quickstart_fa44e2f5/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/QUICKSTART.md) | ⭐ 10 | `commercial` |
+| [2026 02 06 Feat Last30Days Bird Cli Release Plan](commercial/323-2026-02-06-feat-last30days-bird-cli-release-plan_7d38b346/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-feat-last30days-bird-cli-release-plan.md) | ⭐ 2.3k | `commercial` |
+| [2026 02 06 Feat Visible Query Parsing Display Plan](commercial/324-2026-02-06-feat-visible-query-parsing-display-plan_c2905a79/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-feat-visible-query-parsing-display-plan.md) | ⭐ 2.3k | `commercial` |
+| [Groq Integration](commercial/325-groq_integration_0475efe8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/GROQ_INTEGRATION.md) | ⭐ 10 | `commercial` |
 
 ### Communication (366 skills)
 
@@ -1860,9 +1859,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_ec9ea7eb/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 63 | `communication` |
 | [Tool Calling](communication/213-tool-calling_eb0d2525/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/features/tool-calling.md) | ⭐ 142 | `communication` |
 | [Openai](communication/214-openai_b58180ce/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/openai.md) | ⭐ 142 | `communication` |
-| [Quickstart](communication/quickstart_b823ebc8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/QUICKSTART.md) | ⭐ 10 | `communication` |
+| [Quickstart](communication/134-quickstart_b823ebc8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/QUICKSTART.md) | ⭐ 10 | `communication` |
 
-### Content Creation (602 skills)
+### Content Creation (605 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2457,19 +2456,22 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Elevenlabs](content-creation/267-elevenlabs_5a8ae133/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/elevenlabs.md) | ⭐ 142 | `content creation` |
 | [Groq](content-creation/268-groq_a5390e38/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/groq.md) | ⭐ 142 | `content creation` |
 | [Claude](content-creation/007-claude_2615c082/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/stt/CLAUDE.md) | ⭐ 142 | `content creation` |
-| [Skill Original](content-creation/skill-original_cbd9e10d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL-original.md) | ⭐ 2.3k | `content creation` |
-| [Skill](content-creation/name-skill_45872e30/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.3k | `content creation` |
-| [Groq Tts Update](content-creation/groq_tts_update_6aacbdbb/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/GROQ_TTS_UPDATE.md) | ⭐ 10 | `content creation` |
-| [Quick Reference](content-creation/quick_reference_7b5f7fe5/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/QUICK_REFERENCE.md) | ⭐ 10 | `content creation` |
-| [Start Here](content-creation/start_here_c4f0f018/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/START_HERE.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/session-skill_d87e7c3f/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/retrospective/skill.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_2388594d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram-telethon/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_e64a9942/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram/SKILL.md) | ⭐ 10 | `content creation` |
-| [Schema](content-creation/schema_ef05f150/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/references/schema.md) | ⭐ 10 | `content creation` |
-| [Pandoc Reference](content-creation/pandoc_reference_343cfa2d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/references/pandoc_reference.md) | ⭐ 10 | `content creation` |
-| [2026 02 06 Test V1 Vs V2 Comparison Plan](content-creation/2026-02-06-test-v1-vs-v2-comparison-plan_70d95251/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-test-v1-vs-v2-comparison-plan.md) | ⭐ 2.3k | `content creation` |
+| [Skill Original](content-creation/269-skill-original_cbd9e10d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL-original.md) | ⭐ 2.3k | `content creation` |
+| [Skill](content-creation/049-name-skill_45872e30/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.3k | `content creation` |
+| [Groq Tts Update](content-creation/270-groq_tts_update_6aacbdbb/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/GROQ_TTS_UPDATE.md) | ⭐ 10 | `content creation` |
+| [Quick Reference](content-creation/229-quick_reference_7b5f7fe5/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/QUICK_REFERENCE.md) | ⭐ 10 | `content creation` |
+| [Start Here](content-creation/271-start_here_c4f0f018/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/START_HERE.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/272-session-skill_d87e7c3f/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/retrospective/skill.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_2388594d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram-telethon/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_e64a9942/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram/SKILL.md) | ⭐ 10 | `content creation` |
+| [Schema](content-creation/160-schema_ef05f150/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/references/schema.md) | ⭐ 10 | `content creation` |
+| [Pandoc Reference](content-creation/273-pandoc_reference_343cfa2d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/references/pandoc_reference.md) | ⭐ 10 | `content creation` |
+| [Agents](content-creation/agents_f661f95d/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/AGENTS.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/name-skill_e586daef/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 192 | `content creation` |
+| [Skill](content-creation/name-skill_a2943f5e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/pipeline-auditor/SKILL.md) | ⭐ 192 | `content creation` |
+| [Skill](content-creation/name-skill_6b874ca8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 192 | `content creation` |
 
-### Daily Assistant (389 skills)
+### Daily Assistant (387 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2859,11 +2861,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Phase4 Readme](daily-assistant/218-phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
-| [Learnings Template](daily-assistant/learnings-template_aec50dd9/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/retrospective/learnings-template.md) | ⭐ 10 | `daily assistant` |
-| [Decision Export Template](daily-assistant/decision-export-template_275014d8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/templates/decision-export-template.md) | ⭐ 10 | `daily assistant` |
-| [Decision Voice Summary](daily-assistant/decision-voice-summary_2f3254ef/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/templates/decision-voice-summary.md) | ⭐ 10 | `daily assistant` |
+| [Feature Request Template](daily-assistant/feature-request-template_cc93f6eb/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/templates/feature-request-template.md) | ⭐ 20 | `daily assistant` |
 
-### Data Analysis (898 skills)
+### Data Analysis (897 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3758,15 +3758,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](data-analysis/036-claude_c268c3c4/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/embedding/CLAUDE.md) | ⭐ 142 | `data analysis` |
 | [Claude](data-analysis/036-claude_39a2d94c/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/llm/CLAUDE.md) | ⭐ 142 | `data analysis` |
 | [Claude](data-analysis/036-claude_0ec5282b/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/reranker/CLAUDE.md) | ⭐ 142 | `data analysis` |
-| [Design System](data-analysis/design_system_6b77a300/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/DESIGN_SYSTEM.md) | ⭐ 10 | `data analysis` |
-| [Web Server Guide](data-analysis/web_server_guide_6182dc21/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/WEB_SERVER_GUIDE.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_a1624df6/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_e8912b59/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_7a4ce020/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/presentation-generator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_b7ea7c71/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/youtube-transcript/SKILL.md) | ⭐ 10 | `data analysis` |
-| [2026 02 03 Bird Cli Integration Design](data-analysis/2026-02-03-bird-cli-integration-design_3c6fc576/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-03-bird-cli-integration-design.md) | ⭐ 2.3k | `data analysis` |
+| [Design System](data-analysis/397-design_system_6b77a300/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/DESIGN_SYSTEM.md) | ⭐ 10 | `data analysis` |
+| [Web Server Guide](data-analysis/398-web_server_guide_6182dc21/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/WEB_SERVER_GUIDE.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a1624df6/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e8912b59/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7a4ce020/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/presentation-generator/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b7ea7c71/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/youtube-transcript/SKILL.md) | ⭐ 10 | `data analysis` |
 
-### Development (4410 skills)
+### Development (4413 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8167,21 +8166,24 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architecture](development/055-architecture_21cee45b/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/specs/openai-compatible-env-vars/architecture.md) | ⭐ 142 | `development` |
 | [Plan](development/691-plan_829938bd/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/specs/openai-compatible-env-vars/plan.md) | ⭐ 142 | `development` |
 | [Spec](development/2193-spec_27767d0d/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/specs/openai-compatible-env-vars/spec.md) | ⭐ 142 | `development` |
-| [Pr Credits](development/pr-credits_f24ddc2d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/pr-credits.md) | ⭐ 2.3k | `development` |
-| [2026 02 07 Feat Smart Supplemental Search Plan](development/2026-02-07-feat-smart-supplemental-search-plan_bcdcdb0c/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-07-feat-smart-supplemental-search-plan.md) | ⭐ 2.3k | `development` |
-| [2026 02 07 Fix X Search Query Construction Plan](development/2026-02-07-fix-x-search-query-construction-plan_d96c458e/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-07-fix-x-search-query-construction-plan.md) | ⭐ 2.3k | `development` |
-| [Llm Contextual Ux Design](development/llm_contextual_ux_design_c2e431f8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/LLM_CONTEXTUAL_UX_DESIGN.md) | ⭐ 10 | `development` |
-| [Normalization Report](development/normalization_report_18418be1/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/NORMALIZATION_REPORT.md) | ⭐ 10 | `development` |
-| [Status](development/status_ed4466db/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/STATUS.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_993c81b0/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/deep-research/SKILL.md) | ⭐ 10 | `development` |
-| [Files](development/files_3b13204a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/FILES.md) | ⭐ 10 | `development` |
-| [Openrouter Integration](development/openrouter_integration_fa472637/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/OPENROUTER_INTEGRATION.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_fab31a2a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/meta/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_f967f20d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/zoom/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9e625918/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/github-gist/SKILL.md) | ⭐ 10 | `development` |
-| [Fhir Mappings](development/fhir_mappings_9b2d887a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/references/fhir_mappings.md) | ⭐ 10 | `development` |
+| [Pr Credits](development/2194-pr-credits_f24ddc2d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/pr-credits.md) | ⭐ 2.3k | `development` |
+| [2026 02 07 Feat Smart Supplemental Search Plan](development/2195-2026-02-07-feat-smart-supplemental-search-plan_bcdcdb0c/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-07-feat-smart-supplemental-search-plan.md) | ⭐ 2.3k | `development` |
+| [2026 02 07 Fix X Search Query Construction Plan](development/2196-2026-02-07-fix-x-search-query-construction-plan_d96c458e/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-07-fix-x-search-query-construction-plan.md) | ⭐ 2.3k | `development` |
+| [Llm Contextual Ux Design](development/2197-llm_contextual_ux_design_c2e431f8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/LLM_CONTEXTUAL_UX_DESIGN.md) | ⭐ 10 | `development` |
+| [Normalization Report](development/2198-normalization_report_18418be1/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/NORMALIZATION_REPORT.md) | ⭐ 10 | `development` |
+| [Status](development/2199-status_ed4466db/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/STATUS.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_993c81b0/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/deep-research/SKILL.md) | ⭐ 10 | `development` |
+| [Files](development/2200-files_3b13204a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/FILES.md) | ⭐ 10 | `development` |
+| [Openrouter Integration](development/2201-openrouter_integration_fa472637/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/OPENROUTER_INTEGRATION.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_fab31a2a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/meta/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_f967f20d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/zoom/SKILL.md) | ⭐ 10 | `development` |
+| [Migration](development/migration_8641c9e1/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/MIGRATION.md) | ⭐ 20 | `development` |
+| [Agents](development/agents_6a081156/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/AGENTS.md) | ⭐ 20 | `development` |
+| [Jql Quick Reference](development/jql-quick-reference_d29aec34/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/references/jql-quick-reference.md) | ⭐ 20 | `development` |
+| [Jira Syntax Quick Reference](development/jira-syntax-quick-reference_43bd7007/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/references/jira-syntax-quick-reference.md) | ⭐ 20 | `development` |
+| [Bug Report Template](development/bug-report-template_777fe29c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/templates/bug-report-template.md) | ⭐ 20 | `development` |
 
-### Development/Devops (157 skills)
+### Development/Devops (158 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8341,7 +8343,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Deploy En](development/devops/195-deploy_en_424aefae/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 38 | `development` |
 | [Locust Fix Failures](development/devops/225-locust-fix-failures_ee374115/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/locust-fix-failures.md) | ⭐ 3.2k | `development` |
 | [Grpc Transport](development/devops/226-grpc-transport_19a7df0e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/grpc-transport.md) | ⭐ 3.2k | `development` |
-| [Hardening](development/devops/hardening_5b53491a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/HARDENING.md) | ⭐ 10 | `development` |
+| [Hardening](development/devops/227-hardening_5b53491a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/HARDENING.md) | ⭐ 10 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_19c3bdc3/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/references/troubleshooting.md) | ⭐ 20 | `development` |
 
 ### Development/Testing (44 skills)
 
@@ -8387,12 +8390,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Branch](development/testing/046-branch_9f644124/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/branch.md) | ⭐ 299 | `development` |
 | [Configuration](development/testing/047-configuration_e693c046/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/configuration.md) | ⭐ 142 | `development` |
 | [Google](development/testing/048-google_6dca210e/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/google.md) | ⭐ 142 | `development` |
-| [2026 02 03 Bird Cli Implementation](development/testing/2026-02-03-bird-cli-implementation_88ab477b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-03-bird-cli-implementation.md) | ⭐ 2.3k | `development` |
-| [Skill](development/testing/name-skill_12dc19d9/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/elevenlabs-tts/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_640b5344/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/transcript-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Api Reference](development/testing/api_reference_ed792438/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/elevenlabs-tts/references/api_reference.md) | ⭐ 10 | `development` |
+| [2026 02 03 Bird Cli Implementation](development/testing/049-2026-02-03-bird-cli-implementation_88ab477b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-03-bird-cli-implementation.md) | ⭐ 2.3k | `development` |
+| [Skill](development/testing/002-name-skill_12dc19d9/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/elevenlabs-tts/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_640b5344/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/transcript-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Api Reference](development/testing/050-api_reference_ed792438/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/elevenlabs-tts/references/api_reference.md) | ⭐ 10 | `development` |
 
-### Development/Tools (206 skills)
+### Development/Tools (208 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8599,11 +8602,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](development/tools/017-claude_ea7360b1/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/CLAUDE.md) | ⭐ 142 | `development` |
 | [Claude](development/tools/017-claude_722a13cd/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/utils/CLAUDE.md) | ⭐ 142 | `development` |
 | [Claude](development/tools/017-claude_684eb6d1/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/tts/CLAUDE.md) | ⭐ 142 | `development` |
-| [Skill](development/tools/name-skill_470a7901/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/agency-docs-updater/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/tools/name-skill_f842046d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/gmail/SKILL.md) | ⭐ 10 | `development` |
-| [Install](development/tools/install_5d240a7d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/INSTALL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_470a7901/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/agency-docs-updater/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_f842046d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/gmail/SKILL.md) | ⭐ 10 | `development` |
+| [Install](development/tools/213-install_5d240a7d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/INSTALL.md) | ⭐ 10 | `development` |
+| [Prd](development/tools/prd_ac78db14/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/PRD.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/name-skill_89758e74/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 20 | `development` |
 
-### Investment (57 skills)
+### Investment (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8662,8 +8667,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](investment/021-name-skill_bea4125f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/customer-success-manager/SKILL.md) | ⭐ 1.6k | `investment` |
 | [Competitive Positioning Framework](investment/031-competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
 | [Valuation Methodology](investment/032-valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
-| [Framework Deep Dives](investment/framework-deep-dives_27552683/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/framework-deep-dives.md) | ⭐ 10 | `investment` |
-| [Decision Framework](investment/decision-framework_2e7ae986/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/templates/decision-framework.md) | ⭐ 10 | `investment` |
+| [Framework Deep Dives](investment/033-framework-deep-dives_27552683/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/framework-deep-dives.md) | ⭐ 10 | `investment` |
 
 ### Other (44 skills)
 
@@ -8959,11 +8963,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Revops Metrics Guide](productivity/148-revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 | [Skill](productivity/093-name-skill_e8799237/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
-| [Skill](productivity/name-skill_d9b72032/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/SKILL.md) | ⭐ 10 | `productivity` |
-| [Skill](productivity/name-skill_2253fa49/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/SKILL.md) | ⭐ 10 | `productivity` |
-| [Bias Encyclopedia](productivity/bias-encyclopedia_2205d90b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/bias-encyclopedia.md) | ⭐ 10 | `productivity` |
+| [Skill](productivity/093-name-skill_d9b72032/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/SKILL.md) | ⭐ 10 | `productivity` |
+| [Skill](productivity/093-name-skill_2253fa49/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/SKILL.md) | ⭐ 10 | `productivity` |
+| [Bias Encyclopedia](productivity/150-bias-encyclopedia_2205d90b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/bias-encyclopedia.md) | ⭐ 10 | `productivity` |
 
-### Research (400 skills)
+### Research (399 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9355,18 +9359,17 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Idb Quick](research/231-idb_quick_6bdc9762/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/idb_quick.md) | ⭐ 459 | `research` |
 | [Transformers Features](research/232-transformers-features_d3d6d185/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/transformers-features.md) | ⭐ 142 | `research` |
 | [Perplexity](research/233-perplexity_f64e488a/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/perplexity.md) | ⭐ 142 | `research` |
-| [2026 02 06 Fix Last30Days V2 Formatting Reddit Citations Plan](research/2026-02-06-fix-last30days-v2-formatting-reddit-citations-plan_b4c07390/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-fix-last30days-v2-formatting-reddit-citations-plan.md) | ⭐ 2.3k | `research` |
-| [2026 02 06 Fix Skill Execution Fork Mode Plan](research/2026-02-06-fix-skill-execution-fork-mode-plan_ae153fd3/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-fix-skill-execution-fork-mode-plan.md) | ⭐ 2.3k | `research` |
-| [Skill](research/name-skill_ab3b631c/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/browsing-history/skill.md) | ⭐ 10 | `research` |
-| [Instructions](research/instructions_843f3544/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/instructions.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_f5afba45/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/firecrawl-research/SKILL.md) | ⭐ 10 | `research` |
-| [Skill](research/name-skill_8d2b510f/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/SKILL.md) | ⭐ 10 | `research` |
-| [Sources](research/sources_59fd9870/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/references/sources.md) | ⭐ 10 | `research` |
-| [System](research/system_3dd84be0/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/de-ai/system.md) | ⭐ 10 | `research` |
-| [Workflow](research/workflow_bc1f2583/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/deep-research/references/workflow.md) | ⭐ 10 | `research` |
-| [Frontmatter Templates](research/frontmatter_templates_1e046b72/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/references/frontmatter_templates.md) | ⭐ 10 | `research` |
-| [Myst Scientific Paper](research/myst-scientific-paper_9101ed1b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/firecrawl-research/assets/templates/myst-scientific-paper.md) | ⭐ 10 | `research` |
-| [Pandoc Scholarly Paper](research/pandoc-scholarly-paper_58321704/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/firecrawl-research/assets/templates/pandoc-scholarly-paper.md) | ⭐ 10 | `research` |
+| [2026 02 06 Fix Last30Days V2 Formatting Reddit Citations Plan](research/234-2026-02-06-fix-last30days-v2-formatting-reddit-citations-plan_b4c07390/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-fix-last30days-v2-formatting-reddit-citations-plan.md) | ⭐ 2.3k | `research` |
+| [2026 02 06 Fix Skill Execution Fork Mode Plan](research/235-2026-02-06-fix-skill-execution-fork-mode-plan_ae153fd3/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-fix-skill-execution-fork-mode-plan.md) | ⭐ 2.3k | `research` |
+| [Skill](research/139-name-skill_ab3b631c/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/browsing-history/skill.md) | ⭐ 10 | `research` |
+| [Instructions](research/217-instructions_843f3544/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/instructions.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_f5afba45/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/firecrawl-research/SKILL.md) | ⭐ 10 | `research` |
+| [Skill](research/139-name-skill_8d2b510f/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/SKILL.md) | ⭐ 10 | `research` |
+| [Sources](research/187-sources_59fd9870/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/references/sources.md) | ⭐ 10 | `research` |
+| [Arxiv Survey Latex.Pipeline](research/arxiv-survey-latexpipeline_b8272fd9/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey-latex.pipeline.md) | ⭐ 192 | `research` |
+| [Arxiv Survey.Pipeline](research/arxiv-surveypipeline_3c125a74/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 192 | `research` |
+| [Skill](research/name-skill_b3a385d8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 192 | `research` |
+| [Skill](research/name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
 
 ## Repository Structure
 
