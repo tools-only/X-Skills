@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9090 AI-powered skills** organized into 16 categories.
+A curated collection of **9095 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,13 +13,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (123 skills)
 - **Commercial** (570 skills)
 - **Communication** (359 skills)
-- **Content Creation** (580 skills)
+- **Content Creation** (581 skills)
 - **Daily Assistant** (380 skills)
 - **Data Analysis** (883 skills)
-- **Development** (4363 skills)
+- **Development** (4366 skills)
 - **Development/Devops** (152 skills)
 - **Development/Testing** (37 skills)
-- **Development/Tools** (190 skills)
+- **Development/Tools** (191 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (241 skills)
@@ -1837,7 +1837,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_81cc7e30/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
 | [Index](communication/157-index_e8c117de/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 
-### Content Creation (580 skills)
+### Content Creation (581 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2421,6 +2421,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Custom Code Guardrail](content-creation/215-custom_code_guardrail_6da0e6c1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/custom_code_guardrail.md) | 🔥 35.4k | `content creation` |
 | [Architecture](content-creation/180-architecture_30a5b89a/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/docs/architecture.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_8ce3d16b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `content creation` |
+| [Llm Api Capabilities Research](content-creation/llm-api-capabilities-research_b52b86e8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm-api-capabilities-research.md) | ⭐ 36 | `content creation` |
 
 ### Daily Assistant (380 skills)
 
@@ -2805,7 +2806,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
 | [2026 02 05 Tech Debt Scanner Markdown Exclusion](daily-assistant/215-2026-02-05-tech-debt-scanner-markdown-exclusion_b04f33a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-05-tech-debt-scanner-markdown-exclusion.md) | ⭐ 111 | `daily assistant` |
-| [Index](daily-assistant/index_2f801e66/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.4k | `testing` `observability` `reliability` |
+| [Index](daily-assistant/052-index_2f801e66/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.4k | `testing` `observability` `reliability` |
 
 ### Data Analysis (883 skills)
 
@@ -3695,7 +3696,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_eebda22c/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/SKILL.md) | ⭐ 16 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_8870f704/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
 
-### Development (4363 skills)
+### Development (4366 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7927,7 +7928,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_69e817ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_e0b46a78/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
 | [Getting Started](development/421-getting-started_7cdf057e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/getting-started.md) | ⭐ 24 | `development` |
-| [Prompt Structure](development/2075-prompt_structure_5ea1ea3f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 24 | `development` |
+| [Prompt Structure](development/prompt_structure_2de09ba6/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 36 | `development` |
 | [Skill System](development/1185-skill-system_08423247/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/specs/skill-system.md) | ⭐ 24 | `development` |
 | [Skill](development/1178-name-skill_f512269e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-user-profile/SKILL.md) | ⭐ 24 | `development` |
 | [Skill](development/1178-name-skill_1699984e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/SKILL.md) | ⭐ 165 | `development` |
@@ -8062,6 +8063,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_1be12f56/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/SKILL.md) | ⭐ 14 | `development` |
 | [Claude](development/140-claude_c2a09a75/) | [velocitybolt/synkro](https://raw.githubusercontent.com/velocitybolt/synkro/main/CLAUDE.md) | ⭐ 64 | `development` |
 | [Developer Guide](development/282-developer-guide_117a9b4a/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 5.6k | `development` |
+| [Llm Debug Failure Modes](development/llm_debug_failure_modes_75e2d05a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm_debug_failure_modes.md) | ⭐ 36 | `development` |
+| [Prompt Structure](development/2075-prompt_structure_2de09ba6/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 36 | `development` |
+| [Testing](development/testing_9a1e8f0c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/testing.md) | ⭐ 36 | `development` |
 
 ### Development/Devops (152 skills)
 
@@ -8262,7 +8266,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Skill](development/testing/002-name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
 
-### Development/Tools (190 skills)
+### Development/Tools (191 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8376,7 +8380,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mcp Integration](development/tools/216-mcp-integration_4cbfc8ac/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/mcp-integration.md) | ⭐ 24 | `development` |
 | [Skills](development/tools/217-openakita-skill_32d73c3e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skills.md) | ⭐ 24 | `development` |
 | [Tool Definition Spec](development/tools/218-tool-definition-spec_5bdb07bc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-definition-spec.md) | ⭐ 24 | `development` |
-| [Tool System Architecture](development/tools/219-tool-system-architecture_823aebaa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 24 | `development` |
+| [Tool System Architecture](development/tools/tool-system-architecture_a1d517fa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 36 | `development` |
 | [Project Rules](development/tools/220-project-rules_adce99af/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.cursor/rules/project-rules.md) | ⭐ 24 | `development` |
 | [Skill](development/tools/002-name-skill_87bf532d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-click/SKILL.md) | ⭐ 24 | `development` |
 | [Readme.Zh Cn](development/tools/221-readmezh-cn_a3d2d440/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/README.zh-CN.md) | ⭐ 165 | `development` |
@@ -8455,7 +8459,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_fdf5bf12/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
 | [Skill](development/tools/002-name-skill_c117ff22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 5.6k | `development` |
-| [Mcp Public Internet](development/tools/mcp_public_internet_ab9f4a8e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_public_internet.md) | 🔥 35.4k | `development` |
+| [Tool System Architecture](development/tools/219-tool-system-architecture_a1d517fa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 36 | `development` |
+| [Skill](development/tools/name-skill_bc12cbf4/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/generate-image/SKILL.md) | ⭐ 36 | `development` |
 
 ### Investment (55 skills)
 
