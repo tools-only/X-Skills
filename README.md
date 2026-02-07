@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9082 AI-powered skills** organized into 16 categories.
+A curated collection of **9090 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (59 skills)
+- **Automation/Scripting** (60 skills)
 - **Automation/Workflow** (123 skills)
 - **Commercial** (570 skills)
-- **Communication** (358 skills)
-- **Content Creation** (581 skills)
-- **Daily Assistant** (379 skills)
+- **Communication** (359 skills)
+- **Content Creation** (580 skills)
+- **Daily Assistant** (380 skills)
 - **Data Analysis** (883 skills)
-- **Development** (4362 skills)
-- **Development/Devops** (149 skills)
+- **Development** (4363 skills)
+- **Development/Devops** (152 skills)
 - **Development/Testing** (37 skills)
-- **Development/Tools** (188 skills)
+- **Development/Tools** (190 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (241 skills)
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (59 skills)
+### Automation/Scripting (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -768,6 +768,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_0f7a2798/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-packaging-env-finder/SKILL.md) | ⭐ 12 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7388e852/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/fan-out/SKILL.md) | ⭐ 44 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f92d6833/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 99 | `automation` |
+| [Skill](automation/scripting/003-name-skill_989ae8eb/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/law-to-markdown/SKILL.md) | ⭐ 35 | `automation` |
 
 ### Automation/Workflow (123 skills)
 
@@ -1472,7 +1473,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Owasp Top 10](commercial/320-owasp-top-10_426c524f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/owasp-top-10.md) | ⭐ 54 | `commercial` |
 | [Agents](commercial/007-agents_a10eaef8/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
 
-### Communication (358 skills)
+### Communication (359 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1834,8 +1835,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_39036ef6/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 339 | `communication` |
 | [Skill](communication/127-name-skill_8ded74bf/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 339 | `communication` |
 | [Skill](communication/127-name-skill_81cc7e30/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
+| [Index](communication/157-index_e8c117de/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 
-### Content Creation (581 skills)
+### Content Creation (580 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2414,14 +2416,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Django Security](content-creation/259-django-security_3acae0ff/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/django-security.md) | ⭐ 54 | `content creation` |
 | [Skill](content-creation/049-name-skill_2437f181/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 176 | `content creation` |
 | [Skill](content-creation/049-name-skill_2c619be1/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 99 | `content creation` |
-| [Skill](content-creation/name-skill_389267dc/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.6k | `content creation` |
+| [Skill](content-creation/049-name-skill_735d0a78/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.6k | `content creation` |
 | [Conversation Turns](content-creation/107-conversation-turns_7a283b78/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/architecture/conversation-turns.md) | ⭐ 111 | `content creation` |
 | [Custom Code Guardrail](content-creation/215-custom_code_guardrail_6da0e6c1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/custom_code_guardrail.md) | 🔥 35.4k | `content creation` |
 | [Architecture](content-creation/180-architecture_30a5b89a/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/docs/architecture.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_8ce3d16b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `content creation` |
-| [Skill](content-creation/049-name-skill_389267dc/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.6k | `content creation` |
 
-### Daily Assistant (379 skills)
+### Daily Assistant (380 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2804,6 +2805,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
 | [2026 02 05 Tech Debt Scanner Markdown Exclusion](daily-assistant/215-2026-02-05-tech-debt-scanner-markdown-exclusion_b04f33a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-05-tech-debt-scanner-markdown-exclusion.md) | ⭐ 111 | `daily assistant` |
+| [Index](daily-assistant/index_2f801e66/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.4k | `testing` `observability` `reliability` |
 
 ### Data Analysis (883 skills)
 
@@ -3684,7 +3686,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_29055717/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-x-article/SKILL.md) | ⭐ 54 | `data analysis` |
 | [Injection Patterns](data-analysis/392-injection-patterns_730c9776/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/injection-patterns.md) | ⭐ 54 | `data analysis` |
 | [Goals Outcome](data-analysis/393-goals_outcome_16a7a765/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/key_concepts/goals_outcome.md) | 🔥 5.6k | `data analysis` |
-| [Runtime Logging](data-analysis/runtime_logging_8870f704/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
+| [Runtime Logging](data-analysis/394-runtime_logging_676a521f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_42d18d33/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 15 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_af35dd87/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/SKILL.md) | ⭐ 12 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_e66875aa/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/create-visualization/SKILL.md) | ⭐ 14 | `data analysis` |
@@ -3693,7 +3695,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_eebda22c/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/SKILL.md) | ⭐ 16 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_8870f704/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
 
-### Development (4362 skills)
+### Development (4363 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8059,8 +8061,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_bb995917/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.0k | `development` |
 | [Skill](development/1178-name-skill_1be12f56/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/SKILL.md) | ⭐ 14 | `development` |
 | [Claude](development/140-claude_c2a09a75/) | [velocitybolt/synkro](https://raw.githubusercontent.com/velocitybolt/synkro/main/CLAUDE.md) | ⭐ 64 | `development` |
+| [Developer Guide](development/282-developer-guide_117a9b4a/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 5.6k | `development` |
 
-### Development/Devops (149 skills)
+### Development/Devops (152 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8213,6 +8216,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_44d13466/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.0k | `development` |
 | [Claude](development/devops/205-claude_f1887db5/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/CLAUDE.md) | ⭐ 12 | `development` |
 | [Skill](development/devops/014-name-skill_d81c9f23/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
+| [Index](development/devops/050-index_51d976f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
+| [Configuration](development/devops/009-configuration_346a1e28/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md) | 🔥 5.6k | `development` |
+| [Environment Setup](development/devops/200-environment-setup_9a8e9a5f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 5.6k | `development` |
 
 ### Development/Testing (37 skills)
 
@@ -8256,7 +8262,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Skill](development/testing/002-name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
 
-### Development/Tools (188 skills)
+### Development/Tools (190 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8448,6 +8454,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_4e370941/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_fdf5bf12/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
+| [Skill](development/tools/002-name-skill_c117ff22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 5.6k | `development` |
+| [Mcp Public Internet](development/tools/mcp_public_internet_ab9f4a8e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_public_internet.md) | 🔥 35.4k | `development` |
 
 ### Investment (55 skills)
 
