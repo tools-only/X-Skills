@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9143 AI-powered skills** organized into 16 categories.
+A curated collection of **9153 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -15,15 +15,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (363 skills)
 - **Content Creation** (584 skills)
 - **Daily Assistant** (386 skills)
-- **Data Analysis** (888 skills)
-- **Development** (4378 skills)
+- **Data Analysis** (890 skills)
+- **Development** (4383 skills)
 - **Development/Devops** (156 skills)
 - **Development/Testing** (38 skills)
-- **Development/Tools** (196 skills)
+- **Development/Tools** (198 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (241 skills)
-- **Research** (385 skills)
+- **Research** (386 skills)
 
 ## Skills Directory
 
@@ -2825,7 +2825,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
 
-### Data Analysis (888 skills)
+### Data Analysis (890 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3717,8 +3717,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](data-analysis/036-claude_fb8f5e89/) | [nextlevelbuilder/ui-ux-pro-max-skill](https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/CLAUDE.md) | 🔥 28.9k | `data analysis` |
 | [Faq Draft](data-analysis/395-faq-draft_a0c145c2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/FAQ-DRAFT.md) | ⭐ 73 | `data analysis` |
 | [Plugins](data-analysis/396-plugins_0ef7e1f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/plugins.md) | ⭐ 3.2k | `data analysis` |
+| [Test Patterns](data-analysis/test_patterns_efe07e18/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/test_patterns.md) | ⭐ 459 | `data analysis` |
+| [Troubleshooting](data-analysis/troubleshooting_7064d93d/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/troubleshooting.md) | ⭐ 459 | `data analysis` |
 
-### Development (4378 skills)
+### Development (4383 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8099,7 +8101,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](development/468-index_c9fb4eec/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/index.md) | ⭐ 3.2k | `custom` `filter` |
 | [Lifecycle](development/2173-lifecycle_ee0c2723/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/lifecycle.md) | ⭐ 3.2k | `plugin` |
 | [Architecture](development/055-architecture_aa8fd035/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 63 | `development` |
-| [Latest Changelog](development/latest_changelog_5222ae94/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md) | 🔥 6.5k | `development` |
+| [Skill](development/name-skill_28be051e/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/skills/development/workflow/brainstorm-solutions/SKILL.md) | ⭐ 388 | `development` |
+| [Claude](development/claude_d14c30da/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/CLAUDE.md) | ⭐ 459 | `development` |
+| [Dev](development/dev_258a090a/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/DEV.md) | ⭐ 459 | `development` |
+| [Specification](development/specification_0fbc71a2/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/SPECIFICATION.md) | ⭐ 459 | `development` |
+| [Accessibility Checklist](development/accessibility_checklist_050093b4/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/accessibility_checklist.md) | ⭐ 459 | `development` |
+| [Simctl Quick](development/simctl_quick_dc87774f/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/simctl_quick.md) | ⭐ 459 | `development` |
 
 ### Development/Devops (156 skills)
 
@@ -8305,7 +8312,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
 | [Branch](development/testing/046-branch_9f644124/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/branch.md) | ⭐ 299 | `development` |
 
-### Development/Tools (196 skills)
+### Development/Tools (198 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8505,6 +8512,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Build Tracker](development/tools/245-build_tracker_c207f7f0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/core/integrations/BUILD_TRACKER.md) | ⭐ 73 | `development` |
 | [Locust Improve Coverage](development/tools/246-locust-improve-coverage_a0dbe353/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/locust-improve-coverage.md) | ⭐ 3.2k | `development` |
 | [Unix Socket Transport](development/tools/247-unix-socket-transport_316f6937/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/unix-socket-transport.md) | ⭐ 3.2k | `development` |
+| [Index](development/tools/index_2e30aa64/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/docs/docs/index.md) | ⭐ 388 | `development` |
+| [Reference](development/tools/reference_4b1e48d5/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/docs/docs/reference.md) | ⭐ 388 | `development` |
 
 ### Investment (55 skills)
 
@@ -8861,7 +8870,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 | [Skill](productivity/093-name-skill_e8799237/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
 
-### Research (385 skills)
+### Research (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9250,6 +9259,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Delivery Summary](research/228-delivery-summary_67e48df8/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/delivery-summary.md) | ⭐ 11 | `research` |
 | [Historical Cases](research/229-historical_cases_6ac449d2/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/historical_cases.md) | ⭐ 11 | `research` |
 | [Readme.En](research/230-readmeen_3e10ba79/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 192 | `research` |
+| [Idb Quick](research/idb_quick_6bdc9762/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/idb_quick.md) | ⭐ 459 | `research` |
 
 ## Repository Structure
 
