@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9298 AI-powered skills** organized into 16 categories.
+A curated collection of **9304 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,19 +10,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (64 skills)
-- **Automation/Workflow** (132 skills)
-- **Commercial** (583 skills)
-- **Communication** (370 skills)
-- **Content Creation** (610 skills)
-- **Daily Assistant** (388 skills)
+- **Automation/Workflow** (130 skills)
+- **Commercial** (581 skills)
+- **Communication** (368 skills)
+- **Content Creation** (609 skills)
+- **Daily Assistant** (386 skills)
 - **Data Analysis** (899 skills)
-- **Development** (4421 skills)
-- **Development/Devops** (161 skills)
-- **Development/Testing** (45 skills)
+- **Development** (4433 skills)
+- **Development/Devops** (163 skills)
+- **Development/Testing** (47 skills)
 - **Development/Tools** (209 skills)
 - **Investment** (56 skills)
 - **Other** (44 skills)
-- **Productivity** (245 skills)
+- **Productivity** (244 skills)
 - **Research** (399 skills)
 
 ## Skills Directory
@@ -774,7 +774,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Azure](automation/scripting/064-azure_67d369d3/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/azure.md) | ⭐ 142 | `automation` |
 | [Api Config Reference](automation/scripting/065-api_config_reference_db8f7060/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/google-image-search/references/api_config_reference.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (132 skills)
+### Automation/Workflow (130 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -908,10 +908,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Implementation Summary](automation/workflow/079-implementation_summary_76b7daad/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/IMPLEMENTATION_SUMMARY.md) | ⭐ 10 | `automation` |
 | [Agents](automation/workflow/073-agents_768cc392/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/AGENTS.md) | ⭐ 20 | `automation` |
 | [Skill](automation/workflow/002-name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
-| [Agentic Fix Loop](automation/workflow/agentic-fix-loop_1156205e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/agentic-fix-loop.md) | ⭐ 56 | `automation` |
-| [Fsm Architecture](automation/workflow/fsm-architecture_0ce6346d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/fsm-architecture.md) | ⭐ 56 | `automation` |
 
-### Commercial (583 skills)
+### Commercial (581 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1491,15 +1489,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [2026 02 06 Feat Last30Days Bird Cli Release Plan](commercial/323-2026-02-06-feat-last30days-bird-cli-release-plan_7d38b346/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-feat-last30days-bird-cli-release-plan.md) | ⭐ 2.3k | `commercial` |
 | [2026 02 06 Feat Visible Query Parsing Display Plan](commercial/324-2026-02-06-feat-visible-query-parsing-display-plan_c2905a79/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/plans/2026-02-06-feat-visible-query-parsing-display-plan.md) | ⭐ 2.3k | `commercial` |
 | [Groq Integration](commercial/325-groq_integration_0475efe8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/GROQ_INTEGRATION.md) | ⭐ 10 | `commercial` |
-| [Instruction Writing Guide](commercial/instruction-writing-guide_580f11dc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/docs/instruction-writing-guide.md) | ⭐ 56 | `commercial` |
-| [Persona Design Guide](commercial/persona-design-guide_da6b249e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/docs/persona-design-guide.md) | ⭐ 56 | `commercial` |
-| [Conversation Patterns](commercial/conversation-patterns_c9091e7c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/conversation-patterns.md) | ⭐ 56 | `commercial` |
-| [Guardrail Hierarchy](commercial/guardrail-hierarchy_2bd3bd9e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/guardrail-hierarchy.md) | ⭐ 56 | `commercial` |
-| [Patterns Quick Ref](commercial/patterns-quick-ref_bb8b3d03/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 56 | `commercial` |
-| [Retail Topic Architecture](commercial/retail-topic-architecture_dee0a835/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/examples/retail-topic-architecture.md) | ⭐ 56 | `commercial` |
-| [Readme Legacy](commercial/readme-legacy_c8b6e6ce/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/templates/README-legacy.md) | ⭐ 56 | `commercial` |
+| [Instruction Writing Guide](commercial/326-instruction-writing-guide_580f11dc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/docs/instruction-writing-guide.md) | ⭐ 56 | `commercial` |
+| [Persona Design Guide](commercial/327-persona-design-guide_da6b249e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/docs/persona-design-guide.md) | ⭐ 56 | `commercial` |
+| [Conversation Patterns](commercial/328-conversation-patterns_c9091e7c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/conversation-patterns.md) | ⭐ 56 | `commercial` |
+| [Guardrail Hierarchy](commercial/329-guardrail-hierarchy_2bd3bd9e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/guardrail-hierarchy.md) | ⭐ 56 | `commercial` |
+| [Patterns Quick Ref](commercial/144-patterns-quick-ref_bb8b3d03/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 56 | `commercial` |
 
-### Communication (370 skills)
+### Communication (368 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1869,12 +1865,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tool Calling](communication/213-tool-calling_eb0d2525/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/features/tool-calling.md) | ⭐ 142 | `communication` |
 | [Openai](communication/214-openai_b58180ce/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/openai.md) | ⭐ 142 | `communication` |
 | [Quickstart](communication/134-quickstart_b823ebc8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/QUICKSTART.md) | ⭐ 10 | `communication` |
-| [Escalation Patterns](communication/escalation-patterns_1c53c16b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/escalation-patterns.md) | ⭐ 56 | `communication` |
-| [Service Agent Persona](communication/service-agent-persona_f34ceed2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/examples/service-agent-persona.md) | ⭐ 56 | `communication` |
-| [Escalation Matrix](communication/escalation-matrix_796177c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/templates/escalation-matrix.md) | ⭐ 56 | `communication` |
-| [Persona Document](communication/persona-document_7b6e3f92/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/templates/persona-document.md) | ⭐ 56 | `communication` |
+| [Escalation Patterns](communication/215-escalation-patterns_1c53c16b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/escalation-patterns.md) | ⭐ 56 | `communication` |
+| [2026 02 07 19 30 00 Agent Response Highlighting](communication/2026-02-07_19-30-00_agent-response-highlighting_ed75b478/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_19-30-00_agent-response-highlighting.md) | ⭐ 111 | `communication` |
 
-### Content Creation (610 skills)
+### Content Creation (609 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2483,13 +2477,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_e586daef/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 192 | `content creation` |
 | [Skill](content-creation/049-name-skill_a2943f5e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/pipeline-auditor/SKILL.md) | ⭐ 192 | `content creation` |
 | [Skill](content-creation/049-name-skill_6b874ca8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 192 | `content creation` |
-| [Skill](content-creation/name-skill_a1341e52/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 56 | `content creation` |
-| [Anti Patterns](content-creation/anti-patterns_7fa90d42/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/anti-patterns.md) | ⭐ 56 | `content creation` |
-| [Industry Frameworks](content-creation/industry-frameworks_c208f812/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/industry-frameworks.md) | ⭐ 56 | `content creation` |
-| [Quality Metrics](content-creation/quality-metrics_fa8e1ec7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/quality-metrics.md) | ⭐ 56 | `content creation` |
-| [Topic Architecture](content-creation/topic-architecture_6049320c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/templates/topic-architecture.md) | ⭐ 56 | `content creation` |
+| [Skill](content-creation/049-name-skill_a1341e52/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 56 | `content creation` |
+| [Anti Patterns](content-creation/274-anti-patterns_7fa90d42/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/anti-patterns.md) | ⭐ 56 | `content creation` |
+| [Industry Frameworks](content-creation/275-industry-frameworks_c208f812/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/industry-frameworks.md) | ⭐ 56 | `content creation` |
+| [Quality Metrics](content-creation/276-quality-metrics_fa8e1ec7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/quality-metrics.md) | ⭐ 56 | `content creation` |
 
-### Daily Assistant (388 skills)
+### Daily Assistant (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2879,8 +2872,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Phase4 Readme](daily-assistant/218-phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
-| [Healthcare Escalation](daily-assistant/healthcare-escalation_b6a93339/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/examples/healthcare-escalation.md) | ⭐ 56 | `daily assistant` |
-| [Quality Scorecard](daily-assistant/quality-scorecard_89f2f498/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/templates/quality-scorecard.md) | ⭐ 56 | `daily assistant` |
 
 ### Data Analysis (899 skills)
 
@@ -3786,7 +3777,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Implementation Summary](data-analysis/399-implementation-summary_c0851d5c/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/implementation-summary.md) | ⭐ 18 | `data analysis` |
 | [Project Description](data-analysis/400-project-description_53bf5d91/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/project-description.md) | ⭐ 18 | `data analysis` |
 
-### Development (4421 skills)
+### Development (4433 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8205,14 +8196,26 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/028-agents_455a8400/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
 | [Dockerhub](development/2209-dockerhub_09d6f9f0/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/DOCKERHUB.md) | ⭐ 18 | `development` |
 | [Sast Integration](development/2210-sast-integration_7a0508de/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/sast-integration.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_aa3c75e5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce/SKILL.md) | ⭐ 56 | `development` |
-| [Credits](development/credits_f79ab7de/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/CREDITS.md) | ⭐ 56 | `development` |
-| [Topic Architecture Guide](development/topic-architecture-guide_ba077518/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/docs/topic-architecture-guide.md) | ⭐ 56 | `development` |
-| [Actions Reference](development/actions-reference_90ac0d79/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 56 | `development` |
-| [Credits](development/credits_22d7f77c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/CREDITS.md) | ⭐ 56 | `development` |
-| [Skill](development/name-skill_c23127c0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/1178-name-skill_aa3c75e5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce/SKILL.md) | ⭐ 56 | `development` |
+| [Credits](development/239-credits_f79ab7de/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/CREDITS.md) | ⭐ 56 | `development` |
+| [Topic Architecture Guide](development/2211-topic-architecture-guide_ba077518/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/docs/topic-architecture-guide.md) | ⭐ 56 | `development` |
+| [Actions Reference](development/010-actions-reference_90ac0d79/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 56 | `development` |
+| [Code Guide](development/2212-code_guide_23e43f0c/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/CODE_GUIDE.md) | ⭐ 131 | `development` |
+| [Pebble Guide](development/2213-pebble_guide_0ff27403/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/PEBBLE_GUIDE.md) | ⭐ 131 | `development` |
+| [Soul](development/2214-soul_a5348f9e/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SOUL.md) | ⭐ 131 | `development` |
+| [Explore](development/2215-explore_918570f1/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/explore.md) | ⭐ 131 | `development` |
+| [Implement](development/2216-implement_b13ce59e/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/implement.md) | ⭐ 131 | `development` |
+| [Plan Reviewer](development/2217-plan-reviewer_f14c3c5f/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/plan-reviewer.md) | ⭐ 131 | `development` |
+| [Refactor](development/827-refactor_c3b949d0/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/refactor.md) | ⭐ 131 | `development` |
+| [Agent Operating Manual](development/2218-agent-operating-manual_0b86816a/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 131 | `development` |
+| [Coderabbit Task](development/2219-coderabbit-task_0139dc70/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/coderabbit-task.md) | ⭐ 131 | `development` |
+| [2026 02 01 Log](development/2220-2026-02-01_log_01b45952/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/Clara_docs/activity_log/2026-02-01_log.md) | ⭐ 10 | `development` |
+| [Multi Agent Sharing](development/2221-multi-agent-sharing_eec365d7/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/guides/multi-agent-sharing.md) | ⭐ 10 | `development` |
+| [Typescript Sdk](development/1104-typescript-sdk_22e28ae1/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/guides/typescript-sdk.md) | ⭐ 10 | `development` |
+| [Story](development/2222-story_a73684d4/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/site-docs/about/story.md) | ⭐ 10 | `development` |
+| [Agent Loop Ontology](development/agent-loop-ontology_019d244a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/agent-loop-ontology.md) | ⭐ 111 | `development` |
 
-### Development/Devops (161 skills)
+### Development/Devops (163 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8375,10 +8378,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Hardening](development/devops/227-hardening_5b53491a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/automation-advisor/HARDENING.md) | ⭐ 10 | `development` |
 | [Input Validation](development/devops/228-input-validation_75e555d8/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/input-validation.md) | ⭐ 3.2k | `development` |
 | [Configuration](development/devops/009-configuration_76c3c307/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
-| [Agent Deployment Guide](development/devops/agent-deployment-guide_408e4f90/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md) | ⭐ 56 | `development` |
-| [Async Notification Patterns](development/devops/async-notification-patterns_f399a051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/async-notification-patterns.md) | ⭐ 56 | `development` |
+| [Agent Deployment Guide](development/devops/229-agent-deployment-guide_408e4f90/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md) | ⭐ 56 | `development` |
+| [Async Notification Patterns](development/devops/230-async-notification-patterns_f399a051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/async-notification-patterns.md) | ⭐ 56 | `development` |
+| [Code Guide Addon Production](development/devops/231-code_guide_addon_production_4905d82d/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/CODE_GUIDE_ADDON_PRODUCTION.md) | ⭐ 131 | `development` |
+| [Technical](development/devops/232-technical_b4aa207f/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/TECHNICAL.md) | ⭐ 10 | `development` |
 
-### Development/Testing (45 skills)
+### Development/Testing (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8426,7 +8431,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_12dc19d9/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/elevenlabs-tts/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_640b5344/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/transcript-analyzer/SKILL.md) | ⭐ 10 | `development` |
 | [Api Reference](development/testing/050-api_reference_ed792438/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/elevenlabs-tts/references/api_reference.md) | ⭐ 10 | `development` |
-| [Credits](development/testing/credits_30bd8d34/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/CREDITS.md) | ⭐ 56 | `development` |
+| [Credits](development/testing/051-credits_30bd8d34/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/CREDITS.md) | ⭐ 56 | `development` |
+| [Code Guide Addon Hackathon](development/testing/052-code_guide_addon_hackathon_0aa0fbec/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/CODE_GUIDE_ADDON_HACKATHON.md) | ⭐ 131 | `development` |
+| [Events Webhooks](development/testing/053-events-webhooks_06b86a02/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/guides/events-webhooks.md) | ⭐ 10 | `development` |
 
 ### Development/Tools (209 skills)
 
@@ -8640,7 +8647,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Install](development/tools/213-install_5d240a7d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/INSTALL.md) | ⭐ 10 | `development` |
 | [Prd](development/tools/249-prd_ac78db14/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/PRD.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_89758e74/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 20 | `development` |
-| [Skill](development/tools/name-skill_827c94ef/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/tools/002-name-skill_827c94ef/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 56 | `development` |
 
 ### Investment (56 skills)
 
@@ -8752,7 +8759,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (245 skills)
+### Productivity (244 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9000,7 +9007,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/093-name-skill_d9b72032/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/SKILL.md) | ⭐ 10 | `productivity` |
 | [Skill](productivity/093-name-skill_2253fa49/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/SKILL.md) | ⭐ 10 | `productivity` |
 | [Bias Encyclopedia](productivity/150-bias-encyclopedia_2205d90b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/bias-encyclopedia.md) | ⭐ 10 | `productivity` |
-| [Improvement Plan](productivity/improvement-plan_fec504cc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/templates/improvement-plan.md) | ⭐ 56 | `productivity` |
 
 ### Research (399 skills)
 

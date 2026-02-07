@@ -1,0 +1,83 @@
+**Current year: 2026.** Your training data may be outdated. Verify external APIs, library versions, and best practices using `docs-researcher` before implementation.
+
+# Planning
+
+**When to plan**: New features touching multiple files, refactoring with unclear scope, architecture changes, bug fixes with unclear root cause.
+
+**Interview first**: Before non-trivial tasks, use `AskUserQuestion` iteratively. For complex tasks, up to 40 questions across multiple rounds.
+
+**Workflow**:
+1. Interview the user thoroughly
+2. Check existing ADRs in `.meridian/adrs/` for relevant architectural decisions
+3. Research the codebase (direct tools or Explore agents)
+4. Follow the `/planning` skill for methodology
+5. Spawn Plan agents for concrete implementation details
+6. Plan is created in `~/.claude/plans/` during plan mode
+7. On approval, archive to `.meridian/plans/` and update state files
+
+**Direct tools vs Explore agents**: Use direct tools (Glob, Grep, Read) when you know where to look. Use Explore agents for broad research.
+
+## Plan Management
+
+Plans are tracked via state files:
+
+- **`.meridian/.state/active-plan`** — absolute path to current plan
+- **`.meridian/.state/active-subplan`** — absolute path to current subplan (if in an epic)
+
+**On plan approval:**
+1. Copy plan from `~/.claude/plans/` to `.meridian/plans/`
+2. Write the **absolute path** to `active-plan`
+3. Clear the global plan file
+
+## Epic Planning
+
+For large projects spanning multiple systems:
+
+1. Check if active plan has `## Phases` section — if so, you're in an epic
+2. Find the current phase (status: In progress)
+3. Follow the phase's workflow (enter plan mode → create subplan → review → implement)
+4. Mark phase complete when done, move to next phase
+
+# Pebble Issue Tracking
+
+**If Pebble is enabled, every code change maps to an issue.**
+
+Issues are audit records. Even a 30-second bug fix: create issue → fix → comment with file:line → close.
+
+See PEBBLE_GUIDE.md for full documentation.
+
+# Session Context
+
+- **Session context** (`.meridian/session-context.md`): Append timestamped entries for key decisions, discoveries, and context worth preserving.
+
+# External Tools (STRICT RULE)
+
+**You MUST NOT use external APIs/libraries unless documented in `.meridian/api-docs/`.**
+
+1. Check `.meridian/api-docs/INDEX.md`
+2. If listed: read the doc
+3. If NOT listed: run `docs-researcher` first
+
+**In plan mode**: You MAY run docs-researcher — research artifacts aren't code.
+
+# Code Review
+
+After implementing a plan, run **both reviewers in parallel**:
+- **code-reviewer** — finds bugs, logic errors, data flow issues
+- **code-health-reviewer** — finds dead code, pattern drift, over-engineering
+
+Fix all issues, re-run until clean. The reviewers must verify fixes.
+
+# Definition of Done
+
+- Code compiles; typecheck/lint/test/build pass
+- Tests added for new behavior
+- Docs updated where relevant
+- No secrets/PII in code or logs
+- Session context updated with important decisions
+
+# Hard Rules
+
+- No credentials in code, config, or prompts — use environment variables
+- Confirm before destructive actions (deleting data, schema changes)
+- If a user instruction violates these, propose a safe alternative
