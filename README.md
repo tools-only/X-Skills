@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9079 AI-powered skills** organized into 16 categories.
+A curated collection of **9069 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,20 +10,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (59 skills)
-- **Automation/Workflow** (122 skills)
+- **Automation/Workflow** (123 skills)
 - **Commercial** (570 skills)
 - **Communication** (357 skills)
 - **Content Creation** (579 skills)
-- **Daily Assistant** (380 skills)
-- **Data Analysis** (879 skills)
-- **Development** (4361 skills)
+- **Daily Assistant** (379 skills)
+- **Data Analysis** (878 skills)
+- **Development** (4360 skills)
 - **Development/Devops** (148 skills)
 - **Development/Testing** (36 skills)
-- **Development/Tools** (191 skills)
+- **Development/Tools** (188 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (240 skills)
-- **Research** (386 skills)
+- **Research** (381 skills)
 
 ## Skills Directory
 
@@ -769,12 +769,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_7388e852/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/fan-out/SKILL.md) | ⭐ 44 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f92d6833/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 99 | `automation` |
 
-### Automation/Workflow (122 skills)
+### Automation/Workflow (123 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](automation/workflow/002-name-skill_a67bc6c7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract/SKILL.md) | ⭐ 72 | `automation` |
-| [Readme.Ja](automation/workflow/040-readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
+| [Readme.Ja](automation/workflow/readmeja_9e0ea8ec/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Index](automation/workflow/021-index_d434cdd8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/INDEX.md) | ⭐ 17 | `automation` |
 | [Enhancement Modes](automation/workflow/060-enhancement_modes_34694198/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/ENHANCEMENT_MODES.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
@@ -895,6 +895,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_c59d5c47/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/SKILL.md) | ⭐ 1.6k | `automation` |
 | [Gtm Efficiency Benchmarks](automation/workflow/075-gtm-efficiency-benchmarks_26e1cc88/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/gtm-efficiency-benchmarks.md) | ⭐ 1.6k | `automation` |
 | [Skill Patterns](automation/workflow/076-skill-patterns_78c8468b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 176 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_9e0ea8ec/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
 ### Commercial (570 skills)
 
@@ -2415,9 +2416,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_735d0a78/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.6k | `content creation` |
 | [Conversation Turns](content-creation/107-conversation-turns_7a283b78/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/architecture/conversation-turns.md) | ⭐ 111 | `content creation` |
 | [Custom Code Guardrail](content-creation/215-custom_code_guardrail_6da0e6c1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/custom_code_guardrail.md) | 🔥 35.4k | `content creation` |
-| [Architecture](content-creation/architecture_30a5b89a/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/docs/architecture.md) | ⭐ 12 | `content creation` |
+| [Architecture](content-creation/180-architecture_30a5b89a/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/docs/architecture.md) | ⭐ 12 | `content creation` |
 
-### Daily Assistant (380 skills)
+### Daily Assistant (379 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2800,9 +2801,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
 | [2026 02 05 Tech Debt Scanner Markdown Exclusion](daily-assistant/215-2026-02-05-tech-debt-scanner-markdown-exclusion_b04f33a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-05-tech-debt-scanner-markdown-exclusion.md) | ⭐ 111 | `daily assistant` |
-| [2025 10 23 Mount Si](daily-assistant/2025-10-23-mount-si_b38eae36/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2025-10-23-mount-si.md) | ⭐ 12 | `daily assistant` |
 
-### Data Analysis (879 skills)
+### Data Analysis (878 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3683,10 +3683,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Goals Outcome](data-analysis/393-goals_outcome_16a7a765/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/key_concepts/goals_outcome.md) | 🔥 5.6k | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_676a521f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_42d18d33/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 15 | `data analysis` |
-| [Skill](data-analysis/name-skill_af35dd87/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/SKILL.md) | ⭐ 12 | `data analysis` |
-| [2026 01 30 Grand Teton](data-analysis/2026-01-30-grand-teton_5c364909/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-grand-teton.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_af35dd87/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/SKILL.md) | ⭐ 12 | `data analysis` |
 
-### Development (4361 skills)
+### Development (4360 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8050,7 +8049,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Skills Created](development/798-readme_flat_skills_created_a152b04f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Skills Releases](development/799-readme_flat_skills_releases_0358ecaf/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_bb995917/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.0k | `development` |
-| [2026 01 30 Fresh Install](development/2026-01-30-fresh-install_23b07215/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-fresh-install.md) | ⭐ 12 | `development` |
 
 ### Development/Devops (148 skills)
 
@@ -8203,7 +8201,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_a0d092ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_ac1810a7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_44d13466/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.0k | `development` |
-| [Claude](development/devops/claude_f1887db5/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/CLAUDE.md) | ⭐ 12 | `development` |
+| [Claude](development/devops/205-claude_f1887db5/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/CLAUDE.md) | ⭐ 12 | `development` |
 
 ### Development/Testing (36 skills)
 
@@ -8246,7 +8244,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_e30dbfa7/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 
-### Development/Tools (191 skills)
+### Development/Tools (188 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8438,9 +8436,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_4e370941/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_fdf5bf12/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
-| [2026 01 30 Mount Hood](development/tools/2026-01-30-mount-hood_6a871066/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-mount-hood.md) | ⭐ 12 | `development` |
-| [2026 01 30 Mount Whitney](development/tools/2026-01-30-mount-whitney_d7f027cc/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-mount-whitney.md) | ⭐ 12 | `development` |
-| [2025 11 06 Mount Adams](development/tools/2025-11-06-mount-adams_c41e05f2/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2025-11-06-mount-adams.md) | ⭐ 12 | `development` |
 
 ### Investment (55 skills)
 
@@ -8796,7 +8791,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Revops Metrics Guide](productivity/148-revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 
-### Research (386 skills)
+### Research (381 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9181,11 +9176,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ecosystem Researcher](research/224-ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
 | [Time Savings Evidence](research/225-time-savings-evidence_1872db45/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 57 | `research` |
 | [Gaia](research/226-gaia_65f6853f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
-| [2026 01 30 Mount Si](research/2026-01-30-mount-si_a747bccb/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-mount-si.md) | ⭐ 12 | `research` |
-| [Report Template](research/report-template_d38e2902/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/assets/report-template.md) | ⭐ 12 | `research` |
-| [2025 11 06 Wolf Peak](research/2025-11-06-wolf-peak_271a2474/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2025-11-06-wolf-peak.md) | ⭐ 12 | `research` |
-| [2026 01 29 Mount Shuksan](research/2026-01-29-mount-shuksan_a8bab2b6/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2026-01-29-mount-shuksan.md) | ⭐ 12 | `research` |
-| [2026 01 29 Tinkham Peak](research/2026-01-29-tinkham-peak_190d1d45/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2026-01-29-tinkham-peak.md) | ⭐ 12 | `research` |
 
 ## Repository Structure
 
