@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9134 AI-powered skills** organized into 16 categories.
+A curated collection of **9133 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,12 +9,12 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (63 skills)
+- **Automation/Scripting** (62 skills)
 - **Automation/Workflow** (124 skills)
 - **Commercial** (571 skills)
-- **Communication** (363 skills)
-- **Content Creation** (583 skills)
-- **Daily Assistant** (387 skills)
+- **Communication** (362 skills)
+- **Content Creation** (585 skills)
+- **Daily Assistant** (386 skills)
 - **Data Analysis** (887 skills)
 - **Development** (4374 skills)
 - **Development/Devops** (154 skills)
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (63 skills)
+### Automation/Scripting (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -771,7 +771,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_989ae8eb/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/law-to-markdown/SKILL.md) | ⭐ 35 | `automation` |
 | [Worktree Remove](automation/scripting/063-worktree-remove_f4c1a252/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-remove.md) | ⭐ 299 | `automation` |
 | [Skill](automation/scripting/003-name-skill_8f258337/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-pipeline/SKILL.md) | ⭐ 299 | `automation` |
-| [Calendar Performance](automation/scripting/calendar-performance_c87a22ad/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/calendar-performance.md) | ⭐ 73 | `automation` |
 
 ### Automation/Workflow (124 skills)
 
@@ -1476,9 +1475,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Deserialization](commercial/319-deserialization_6e1ecd42/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/deserialization.md) | ⭐ 54 | `commercial` |
 | [Owasp Top 10](commercial/320-owasp-top-10_426c524f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/owasp-top-10.md) | ⭐ 54 | `commercial` |
 | [Agents](commercial/007-agents_a10eaef8/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
-| [Skill](commercial/name-skill_65c1a239/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 73 | `commercial` |
+| [Skill](commercial/210-name-skill_65c1a239/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 73 | `commercial` |
 
-### Communication (363 skills)
+### Communication (362 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1842,11 +1841,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_81cc7e30/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
 | [Index](communication/157-index_e8c117de/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 | [Skill](communication/127-name-skill_cf5279c5/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/SKILL.md) | ⭐ 11 | `communication` |
-| [Integrate Notion](communication/integrate-notion_3b9e8fe1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-notion.md) | ⭐ 73 | `communication` |
-| [Integrate Slack](communication/integrate-slack_31d49448/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-slack.md) | ⭐ 73 | `communication` |
-| [Integrate Google](communication/integrate-google_ad9c01bf/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-google.md) | ⭐ 73 | `communication` |
+| [Integrate Notion](communication/211-integrate-notion_3b9e8fe1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-notion.md) | ⭐ 73 | `communication` |
+| [Integrate Slack](communication/212-integrate-slack_31d49448/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-slack.md) | ⭐ 73 | `communication` |
 
-### Content Creation (583 skills)
+### Content Creation (585 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2432,9 +2430,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_8ce3d16b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `content creation` |
 | [Worktree Add](content-creation/261-worktree-add_c8138947/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-add.md) | ⭐ 299 | `content creation` |
 | [Worktree Merge](content-creation/262-worktree-merge_4a9a1311/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-merge.md) | ⭐ 299 | `content creation` |
-| [Claude](content-creation/claude_af7544bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 73 | `content creation` |
+| [Claude](content-creation/007-claude_af7544bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 73 | `content creation` |
+| [Skill](content-creation/name-skill_f60d4c90/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 111 | `content creation` |
+| [Lead](content-creation/lead_a8ef6040/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/lead.md) | ⭐ 218 | `content creation` |
 
-### Daily Assistant (387 skills)
+### Daily Assistant (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2820,11 +2820,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Index](daily-assistant/052-index_2f801e66/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.4k | `testing` `observability` `reliability` |
 | [Claude](daily-assistant/037-claude_60e5c1f0/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/CLAUDE.md) | ⭐ 299 | `daily assistant` |
 | [Worktree List](daily-assistant/216-worktree-list_bf9ec1ba/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-list.md) | ⭐ 299 | `daily assistant` |
-| [Onboarding](daily-assistant/onboarding_03c90639/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 73 | `daily assistant` |
-| [Phase4 Readme](daily-assistant/phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
-| [Examples](daily-assistant/examples_1345e17b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/reference/beta-templates/pi/examples.md) | ⭐ 73 | `daily assistant` |
+| [Onboarding](daily-assistant/217-onboarding_03c90639/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 73 | `daily assistant` |
+| [Phase4 Readme](daily-assistant/218-phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
 
 ### Data Analysis (887 skills)
 
@@ -3716,7 +3715,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_a873cadd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/SKILL.md) | ⭐ 11 | `data analysis` |
 | [Methodology](data-analysis/228-methodology_fe3c7a13/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/methodology.md) | ⭐ 11 | `data analysis` |
 | [Claude](data-analysis/036-claude_fb8f5e89/) | [nextlevelbuilder/ui-ux-pro-max-skill](https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/CLAUDE.md) | 🔥 28.9k | `data analysis` |
-| [Faq Draft](data-analysis/faq-draft_a0c145c2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/FAQ-DRAFT.md) | ⭐ 73 | `data analysis` |
+| [Faq Draft](data-analysis/395-faq-draft_a0c145c2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/FAQ-DRAFT.md) | ⭐ 73 | `data analysis` |
 
 ### Development (4374 skills)
 
@@ -8058,7 +8057,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Python Vulnerabilities](development/2154-python-vulnerabilities_6eacb70a/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/python-vulnerabilities.md) | ⭐ 54 | `development` |
 | [Design Principles](development/2155-design-principles_c99f2dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 176 | `development` |
 | [Skill](development/1178-name-skill_441a3dcd/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/SKILL.md) | ⭐ 92 | `development` |
-| [Skill](development/1178-name-skill_47eaad52/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 211 | `development` |
+| [Skill](development/name-skill_becee9ff/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 218 | `development` |
 | [Refactoring Expert](development/2054-refactoring-expert_e2f0e614/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/refactoring-expert.md) | ⭐ 211 | `development` |
 | [Tdd Developer](development/2055-tdd-developer_bedbbd93/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/tdd-developer.md) | ⭐ 211 | `development` |
 | [Agents](development/028-agents_125bbbb5/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
@@ -8095,7 +8094,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Commit](development/174-commit_ac2b8232/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/commit.md) | ⭐ 299 | `development` |
 | [Skill](development/1178-name-skill_c571216c/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-analyzer/SKILL.md) | ⭐ 299 | `development` |
 | [Skill](development/1178-name-skill_c53f61ca/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-dev/SKILL.md) | ⭐ 299 | `development` |
-| [Calendar Setup](development/calendar-setup_189b983f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/calendar-setup.md) | ⭐ 73 | `development` |
+| [Skill](development/1178-name-skill_becee9ff/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 218 | `development` |
 
 ### Development/Devops (154 skills)
 
@@ -8495,8 +8494,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tool System Architecture](development/tools/219-tool-system-architecture_a1d517fa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 36 | `development` |
 | [Readme En](development/tools/242-readme_en_8ca7a067/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/README_EN.md) | ⭐ 24 | `development` |
 | [Git PR](development/tools/243-pr_4cd6fc20/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/pr.md) | ⭐ 299 | `development` |
-| [Updating Dex](development/tools/updating_dex_8916023d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Updating_Dex.md) | ⭐ 73 | `development` |
-| [Build Tracker](development/tools/build_tracker_c207f7f0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/core/integrations/BUILD_TRACKER.md) | ⭐ 73 | `development` |
+| [Updating Dex](development/tools/244-updating_dex_8916023d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Updating_Dex.md) | ⭐ 73 | `development` |
+| [Build Tracker](development/tools/245-build_tracker_c207f7f0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/core/integrations/BUILD_TRACKER.md) | ⭐ 73 | `development` |
 
 ### Investment (55 skills)
 
