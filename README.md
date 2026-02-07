@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9095 AI-powered skills** organized into 16 categories.
+A curated collection of **9113 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (60 skills)
+- **Automation/Scripting** (61 skills)
 - **Automation/Workflow** (123 skills)
 - **Commercial** (570 skills)
-- **Communication** (359 skills)
-- **Content Creation** (581 skills)
+- **Communication** (362 skills)
+- **Content Creation** (580 skills)
 - **Daily Assistant** (380 skills)
-- **Data Analysis** (883 skills)
-- **Development** (4366 skills)
+- **Data Analysis** (889 skills)
+- **Development** (4367 skills)
 - **Development/Devops** (152 skills)
 - **Development/Testing** (37 skills)
 - **Development/Tools** (191 skills)
 - **Investment** (55 skills)
-- **Other** (44 skills)
+- **Other** (48 skills)
 - **Productivity** (241 skills)
-- **Research** (381 skills)
+- **Research** (385 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (60 skills)
+### Automation/Scripting (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -769,6 +769,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_7388e852/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/fan-out/SKILL.md) | ⭐ 44 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f92d6833/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 99 | `automation` |
 | [Skill](automation/scripting/003-name-skill_989ae8eb/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/law-to-markdown/SKILL.md) | ⭐ 35 | `automation` |
+| [Page Dependencies](automation/scripting/page-dependencies_eee154fa/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/page-dependencies.md) | ⭐ 11 | `automation` |
 
 ### Automation/Workflow (123 skills)
 
@@ -1473,7 +1474,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Owasp Top 10](commercial/320-owasp-top-10_426c524f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/owasp-top-10.md) | ⭐ 54 | `commercial` |
 | [Agents](commercial/007-agents_a10eaef8/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
 
-### Communication (359 skills)
+### Communication (362 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1836,8 +1837,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_8ded74bf/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 339 | `communication` |
 | [Skill](communication/127-name-skill_81cc7e30/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/optimize-prompt/SKILL.md) | ⭐ 14 | `communication` |
 | [Index](communication/157-index_e8c117de/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
+| [Skill](communication/name-skill_cf5279c5/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/SKILL.md) | ⭐ 11 | `communication` |
+| [Mimeng Sample](communication/mimeng-sample_dc6145f5/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mimeng-sample.md) | ⭐ 11 | `communication` |
+| [Skill](communication/name-skill_631cac35/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mimeng-writing/SKILL.md) | ⭐ 11 | `communication` |
 
-### Content Creation (581 skills)
+### Content Creation (580 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2421,7 +2425,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Custom Code Guardrail](content-creation/215-custom_code_guardrail_6da0e6c1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/custom_code_guardrail.md) | 🔥 35.4k | `content creation` |
 | [Architecture](content-creation/180-architecture_30a5b89a/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/docs/architecture.md) | ⭐ 12 | `content creation` |
 | [Skill](content-creation/049-name-skill_8ce3d16b/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/skill-creator-thepexcel/SKILL.md) | ⭐ 14 | `content creation` |
-| [Llm Api Capabilities Research](content-creation/llm-api-capabilities-research_b52b86e8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm-api-capabilities-research.md) | ⭐ 36 | `content creation` |
 
 ### Daily Assistant (380 skills)
 
@@ -2808,7 +2811,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [2026 02 05 Tech Debt Scanner Markdown Exclusion](daily-assistant/215-2026-02-05-tech-debt-scanner-markdown-exclusion_b04f33a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-05-tech-debt-scanner-markdown-exclusion.md) | ⭐ 111 | `daily assistant` |
 | [Index](daily-assistant/052-index_2f801e66/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.4k | `testing` `observability` `reliability` |
 
-### Data Analysis (883 skills)
+### Data Analysis (889 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3695,8 +3698,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_cfce384d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_eebda22c/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/SKILL.md) | ⭐ 16 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_8870f704/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
+| [Skill](data-analysis/name-skill_a873cadd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/SKILL.md) | ⭐ 11 | `data analysis` |
+| [Methodology](data-analysis/methodology_fe3c7a13/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/methodology.md) | ⭐ 11 | `data analysis` |
+| [Us Government Shutdown Tracker   安装指南](data-analysis/us-government-shutdown-tracker-安装指南_39654c29/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/US Government Shutdown Tracker - 安装指南.md) | ⭐ 11 | `data analysis` |
+| [Design Specs](data-analysis/design-specs_f90e96bd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/design-specs.md) | ⭐ 11 | `data analysis` |
+| [Troubleshooting](data-analysis/troubleshooting_5de8fde0/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/troubleshooting.md) | ⭐ 11 | `data analysis` |
+| [Workflow](data-analysis/workflow_539e6fc8/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/workflow.md) | ⭐ 11 | `data analysis` |
 
-### Development (4366 skills)
+### Development (4367 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7928,7 +7937,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_69e817ac/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_e0b46a78/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/skills/review-verification-protocol/SKILL.md) | ⭐ 17 | `development` |
 | [Getting Started](development/421-getting-started_7cdf057e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/getting-started.md) | ⭐ 24 | `development` |
-| [Prompt Structure](development/prompt_structure_2de09ba6/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 36 | `development` |
+| [Prompt Structure](development/2075-prompt_structure_5ea1ea3f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 24 | `development` |
 | [Skill System](development/1185-skill-system_08423247/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/specs/skill-system.md) | ⭐ 24 | `development` |
 | [Skill](development/1178-name-skill_f512269e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-user-profile/SKILL.md) | ⭐ 24 | `development` |
 | [Skill](development/1178-name-skill_1699984e/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/SKILL.md) | ⭐ 165 | `development` |
@@ -8063,9 +8072,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_1be12f56/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/SKILL.md) | ⭐ 14 | `development` |
 | [Claude](development/140-claude_c2a09a75/) | [velocitybolt/synkro](https://raw.githubusercontent.com/velocitybolt/synkro/main/CLAUDE.md) | ⭐ 64 | `development` |
 | [Developer Guide](development/282-developer-guide_117a9b4a/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 5.6k | `development` |
-| [Llm Debug Failure Modes](development/llm_debug_failure_modes_75e2d05a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm_debug_failure_modes.md) | ⭐ 36 | `development` |
+| [Llm Debug Failure Modes](development/2166-llm_debug_failure_modes_75e2d05a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm_debug_failure_modes.md) | ⭐ 36 | `development` |
 | [Prompt Structure](development/2075-prompt_structure_2de09ba6/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/prompt_structure.md) | ⭐ 36 | `development` |
-| [Testing](development/testing_9a1e8f0c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/testing.md) | ⭐ 36 | `development` |
+| [Data Sources](development/data_sources_088acdbf/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/data_sources.md) | ⭐ 11 | `development` |
+| [Skill](development/name-skill_a5c1d6df/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/SKILL.md) | ⭐ 24 | `development` |
 
 ### Development/Devops (152 skills)
 
@@ -8380,7 +8390,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mcp Integration](development/tools/216-mcp-integration_4cbfc8ac/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/mcp-integration.md) | ⭐ 24 | `development` |
 | [Skills](development/tools/217-openakita-skill_32d73c3e/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skills.md) | ⭐ 24 | `development` |
 | [Tool Definition Spec](development/tools/218-tool-definition-spec_5bdb07bc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-definition-spec.md) | ⭐ 24 | `development` |
-| [Tool System Architecture](development/tools/tool-system-architecture_a1d517fa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 36 | `development` |
+| [Tool System Architecture](development/tools/219-tool-system-architecture_823aebaa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 24 | `development` |
 | [Project Rules](development/tools/220-project-rules_adce99af/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/.cursor/rules/project-rules.md) | ⭐ 24 | `development` |
 | [Skill](development/tools/002-name-skill_87bf532d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/browser-click/SKILL.md) | ⭐ 24 | `development` |
 | [Readme.Zh Cn](development/tools/221-readmezh-cn_a3d2d440/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/README.zh-CN.md) | ⭐ 165 | `development` |
@@ -8460,7 +8470,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
 | [Skill](development/tools/002-name-skill_c117ff22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 5.6k | `development` |
 | [Tool System Architecture](development/tools/219-tool-system-architecture_a1d517fa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 36 | `development` |
-| [Skill](development/tools/name-skill_bc12cbf4/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/generate-image/SKILL.md) | ⭐ 36 | `development` |
+| [Readme En](development/tools/readme_en_8ca7a067/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/README_EN.md) | ⭐ 24 | `development` |
 
 ### Investment (55 skills)
 
@@ -8522,7 +8532,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Competitive Positioning Framework](investment/031-competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
 | [Valuation Methodology](investment/032-valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
 
-### Other (44 skills)
+### Other (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8570,6 +8580,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
+| [Sample Us Shutdown Tracker](other/sample-us-shutdown-tracker_4c10696b/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/sample-us-shutdown-tracker.md) | ⭐ 11 | `other` |
+| [Examples](other/examples_4f3b42bb/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/examples.md) | ⭐ 11 | `other` |
+| [Layouts](other/layouts_11bd67c9/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/layouts.md) | ⭐ 11 | `other` |
+| [Quick Guide](other/quick-guide_637103dd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/quick-guide.md) | ⭐ 11 | `other` |
 
 ### Productivity (241 skills)
 
@@ -8817,7 +8831,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 | [Skill](productivity/093-name-skill_e8799237/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
 
-### Research (381 skills)
+### Research (385 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9202,6 +9216,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ecosystem Researcher](research/224-ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
 | [Time Savings Evidence](research/225-time-savings-evidence_1872db45/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 57 | `research` |
 | [Gaia](research/226-gaia_65f6853f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
+| [V2 Vs V3 Comparison](research/v2_vs_v3_comparison_bfea3bfd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/V2_vs_V3_comparison.md) | ⭐ 11 | `research` |
+| [Delivery Summary](research/delivery-summary_67e48df8/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/delivery-summary.md) | ⭐ 11 | `research` |
+| [Historical Cases](research/historical_cases_6ac449d2/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/historical_cases.md) | ⭐ 11 | `research` |
+| [Excel Data Spec](research/excel-data-spec_7bf65f90/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/excel-data-spec.md) | ⭐ 11 | `research` |
 
 ## Repository Structure
 
