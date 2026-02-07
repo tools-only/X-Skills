@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9151 AI-powered skills** organized into 16 categories.
+A curated collection of **9194 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,21 +9,21 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (62 skills)
-- **Automation/Workflow** (124 skills)
-- **Commercial** (571 skills)
-- **Communication** (363 skills)
-- **Content Creation** (584 skills)
+- **Automation/Scripting** (64 skills)
+- **Automation/Workflow** (125 skills)
+- **Commercial** (573 skills)
+- **Communication** (366 skills)
+- **Content Creation** (591 skills)
 - **Daily Assistant** (386 skills)
-- **Data Analysis** (888 skills)
-- **Development** (4382 skills)
-- **Development/Devops** (157 skills)
-- **Development/Testing** (38 skills)
-- **Development/Tools** (198 skills)
+- **Data Analysis** (891 skills)
+- **Development** (4399 skills)
+- **Development/Devops** (156 skills)
+- **Development/Testing** (40 skills)
+- **Development/Tools** (203 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (241 skills)
-- **Research** (386 skills)
+- **Research** (388 skills)
 
 ## Skills Directory
 
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (62 skills)
+### Automation/Scripting (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -771,8 +771,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_989ae8eb/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/law-to-markdown/SKILL.md) | ⭐ 35 | `automation` |
 | [Worktree Remove](automation/scripting/063-worktree-remove_f4c1a252/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-remove.md) | ⭐ 299 | `automation` |
 | [Skill](automation/scripting/003-name-skill_8f258337/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-pipeline/SKILL.md) | ⭐ 299 | `automation` |
+| [Azure](automation/scripting/azure_67d369d3/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/azure.md) | ⭐ 142 | `automation` |
+| [Timeout Configuration](automation/scripting/timeout-configuration_4417a5d6/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/timeout-configuration.md) | ⭐ 142 | `automation` |
 
-### Automation/Workflow (124 skills)
+### Automation/Workflow (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -900,8 +902,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill Patterns](automation/workflow/076-skill-patterns_78c8468b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 176 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_9e0ea8ec/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Readme Cn](automation/workflow/077-readme_cn_0cb53a9d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/README_CN.md) | ⭐ 299 | `automation` |
+| [Reranking](automation/workflow/reranking_4a89e2a2/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/capabilities/reranking.md) | ⭐ 142 | `automation` |
 
-### Commercial (571 skills)
+### Commercial (573 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1476,8 +1479,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Owasp Top 10](commercial/320-owasp-top-10_426c524f/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/owasp-top-10.md) | ⭐ 54 | `commercial` |
 | [Agents](commercial/007-agents_a10eaef8/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md) | ⭐ 29 | `commercial` |
 | [Skill](commercial/210-name-skill_65c1a239/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 73 | `commercial` |
+| [Vertex](commercial/vertex_756b0af8/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/vertex.md) | ⭐ 142 | `commercial` |
+| [Xai](commercial/xai_2eafc38f/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/xai.md) | ⭐ 142 | `commercial` |
 
-### Communication (363 skills)
+### Communication (366 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1844,8 +1849,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Integrate Notion](communication/211-integrate-notion_3b9e8fe1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-notion.md) | ⭐ 73 | `communication` |
 | [Integrate Slack](communication/212-integrate-slack_31d49448/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-slack.md) | ⭐ 73 | `communication` |
 | [Skill](communication/127-name-skill_ec9ea7eb/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 63 | `communication` |
+| [Tool Calling](communication/tool-calling_eb0d2525/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/features/tool-calling.md) | ⭐ 142 | `communication` |
+| [Openai](communication/openai_b58180ce/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/openai.md) | ⭐ 142 | `communication` |
+| [Connection Resource Management](communication/connection-resource-management_f43e2efc/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/connection-resource-management.md) | ⭐ 142 | `communication` |
 
-### Content Creation (584 skills)
+### Content Creation (591 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2433,6 +2441,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Worktree Merge](content-creation/262-worktree-merge_4a9a1311/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-merge.md) | ⭐ 299 | `content creation` |
 | [Claude](content-creation/007-claude_af7544bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 73 | `content creation` |
 | [Skill](content-creation/049-name-skill_f60d4c90/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 111 | `content creation` |
+| [Langchain Integration](content-creation/langchain-integration_1137c401/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/langchain-integration.md) | ⭐ 142 | `content creation` |
+| [Llm](content-creation/llm_f8b47845/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/capabilities/llm.md) | ⭐ 142 | `content creation` |
+| [Speech To Text](content-creation/speech-to-text_02084419/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/capabilities/speech-to-text.md) | ⭐ 142 | `content creation` |
+| [Text To Speech](content-creation/text-to-speech_19625fcf/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/capabilities/text-to-speech.md) | ⭐ 142 | `content creation` |
+| [Elevenlabs](content-creation/elevenlabs_5a8ae133/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/elevenlabs.md) | ⭐ 142 | `content creation` |
+| [Groq](content-creation/groq_a5390e38/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/groq.md) | ⭐ 142 | `content creation` |
+| [Claude](content-creation/claude_2615c082/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/stt/CLAUDE.md) | ⭐ 142 | `content creation` |
 
 ### Daily Assistant (386 skills)
 
@@ -2825,7 +2840,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
 
-### Data Analysis (888 skills)
+### Data Analysis (891 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3717,8 +3732,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude](data-analysis/036-claude_fb8f5e89/) | [nextlevelbuilder/ui-ux-pro-max-skill](https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/CLAUDE.md) | 🔥 28.9k | `data analysis` |
 | [Faq Draft](data-analysis/395-faq-draft_a0c145c2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/FAQ-DRAFT.md) | ⭐ 73 | `data analysis` |
 | [Plugins](data-analysis/396-plugins_0ef7e1f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/plugins.md) | ⭐ 3.2k | `data analysis` |
+| [Claude](data-analysis/claude_c268c3c4/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/embedding/CLAUDE.md) | ⭐ 142 | `data analysis` |
+| [Claude](data-analysis/claude_39a2d94c/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/llm/CLAUDE.md) | ⭐ 142 | `data analysis` |
+| [Claude](data-analysis/claude_0ec5282b/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/reranker/CLAUDE.md) | ⭐ 142 | `data analysis` |
 
-### Development (4382 skills)
+### Development (4399 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8104,8 +8122,25 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Dev](development/2178-dev_258a090a/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/DEV.md) | ⭐ 459 | `development` |
 | [Specification](development/2179-specification_0fbc71a2/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/SPECIFICATION.md) | ⭐ 459 | `development` |
 | [Accessibility Checklist](development/2180-accessibility_checklist_050093b4/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/accessibility_checklist.md) | ⭐ 459 | `development` |
+| [Quickstart](development/quickstart_56f79a45/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/quickstart.md) | ⭐ 142 | `development` |
+| [Model Discovery](development/model-discovery_f2c93ffe/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/model-discovery.md) | ⭐ 142 | `development` |
+| [Task Aware Embeddings](development/task-aware-embeddings_95534dd0/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/task-aware-embeddings.md) | ⭐ 142 | `development` |
+| [Anthropic](development/anthropic_0a75ec46/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/anthropic.md) | ⭐ 142 | `development` |
+| [Deepseek](development/deepseek_3d8178e5/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/deepseek.md) | ⭐ 142 | `development` |
+| [Jina](development/jina_8622a5a4/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/jina.md) | ⭐ 142 | `development` |
+| [Mistral](development/mistral_f0a7395c/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/mistral.md) | ⭐ 142 | `development` |
+| [Ollama](development/ollama_fe63cc8d/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/ollama.md) | ⭐ 142 | `development` |
+| [Openai Compatible](development/openai-compatible_08c8bf2e/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/openai-compatible.md) | ⭐ 142 | `development` |
+| [Openrouter](development/openrouter_191390ef/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/openrouter.md) | ⭐ 142 | `development` |
+| [Transformers](development/transformers_b17cd9d1/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/transformers.md) | ⭐ 142 | `development` |
+| [Voyage](development/voyage_35491649/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/voyage.md) | ⭐ 142 | `development` |
+| [Architecture](development/architecture_21cee45b/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/specs/openai-compatible-env-vars/architecture.md) | ⭐ 142 | `development` |
+| [Plan](development/plan_829938bd/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/specs/openai-compatible-env-vars/plan.md) | ⭐ 142 | `development` |
+| [Spec](development/spec_27767d0d/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/specs/openai-compatible-env-vars/spec.md) | ⭐ 142 | `development` |
+| [Embedding](development/embedding_6c95c4e5/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/capabilities/embedding.md) | ⭐ 142 | `development` |
+| [Claude](development/claude_32bf6387/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/common_types/CLAUDE.md) | ⭐ 142 | `development` |
 
-### Development/Devops (157 skills)
+### Development/Devops (156 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8265,9 +8300,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Deploy En](development/devops/195-deploy_en_424aefae/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 38 | `development` |
 | [Locust Fix Failures](development/devops/225-locust-fix-failures_ee374115/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/locust-fix-failures.md) | ⭐ 3.2k | `development` |
 | [Grpc Transport](development/devops/226-grpc-transport_19a7df0e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/grpc-transport.md) | ⭐ 3.2k | `development` |
-| [Examples](development/devops/examples_eec09829/) | [llm-use/llm-use](https://raw.githubusercontent.com/llm-use/llm-use/main/EXAMPLES.md) | ⭐ 18 | `development` |
 
-### Development/Testing (38 skills)
+### Development/Testing (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8309,8 +8343,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Skill](development/testing/002-name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
 | [Branch](development/testing/046-branch_9f644124/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/branch.md) | ⭐ 299 | `development` |
+| [Configuration](development/testing/configuration_e693c046/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/configuration.md) | ⭐ 142 | `development` |
+| [Google](development/testing/google_6dca210e/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/google.md) | ⭐ 142 | `development` |
 
-### Development/Tools (198 skills)
+### Development/Tools (203 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8512,6 +8548,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Unix Socket Transport](development/tools/247-unix-socket-transport_316f6937/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/unix-socket-transport.md) | ⭐ 3.2k | `development` |
 | [Index](development/tools/062-index_2e30aa64/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/docs/docs/index.md) | ⭐ 388 | `development` |
 | [Reference](development/tools/074-reference_4b1e48d5/) | [kasperjunge/agent-resources](https://raw.githubusercontent.com/kasperjunge/agent-resources/main/docs/docs/reference.md) | ⭐ 388 | `development` |
+| [Claude](development/tools/claude_20b83c4b/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/CLAUDE.md) | ⭐ 142 | `development` |
+| [Esperanto Release](development/tools/esperanto-release_c9aed54c/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/.claude/commands/esperanto-release.md) | ⭐ 142 | `development` |
+| [Claude](development/tools/claude_ea7360b1/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/CLAUDE.md) | ⭐ 142 | `development` |
+| [Claude](development/tools/claude_722a13cd/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/utils/CLAUDE.md) | ⭐ 142 | `development` |
+| [Claude](development/tools/claude_684eb6d1/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/src/esperanto/providers/tts/CLAUDE.md) | ⭐ 142 | `development` |
 
 ### Investment (55 skills)
 
@@ -8868,7 +8909,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 | [Skill](productivity/093-name-skill_e8799237/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
 
-### Research (386 skills)
+### Research (388 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9258,6 +9299,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Historical Cases](research/229-historical_cases_6ac449d2/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/historical_cases.md) | ⭐ 11 | `research` |
 | [Readme.En](research/230-readmeen_3e10ba79/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 192 | `research` |
 | [Idb Quick](research/231-idb_quick_6bdc9762/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/idb_quick.md) | ⭐ 459 | `research` |
+| [Transformers Features](research/transformers-features_d3d6d185/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/transformers-features.md) | ⭐ 142 | `research` |
+| [Perplexity](research/perplexity_f64e488a/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/perplexity.md) | ⭐ 142 | `research` |
 
 ## Repository Structure
 
