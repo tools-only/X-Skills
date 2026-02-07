@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9079 AI-powered skills** organized into 16 categories.
+A curated collection of **9080 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (580 skills)
 - **Daily Assistant** (379 skills)
 - **Data Analysis** (882 skills)
-- **Development** (4361 skills)
+- **Development** (4362 skills)
 - **Development/Devops** (149 skills)
 - **Development/Testing** (37 skills)
 - **Development/Tools** (188 skills)
@@ -3689,9 +3689,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_e66875aa/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/create-visualization/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7ab649e5/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/explain-concepts/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cfce384d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/power-query-coaching/SKILL.md) | ⭐ 14 | `data analysis` |
-| [Skill](data-analysis/name-skill_eebda22c/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_eebda22c/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/data-analysis/SKILL.md) | ⭐ 16 | `data analysis` |
 
-### Development (4361 skills)
+### Development (4362 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8056,6 +8056,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Skills Releases](development/799-readme_flat_skills_releases_0358ecaf/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_bb995917/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.0k | `development` |
 | [Skill](development/1178-name-skill_1be12f56/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/triz/SKILL.md) | ⭐ 14 | `development` |
+| [Claude](development/claude_c2a09a75/) | [velocitybolt/synkro](https://raw.githubusercontent.com/velocitybolt/synkro/main/CLAUDE.md) | ⭐ 64 | `development` |
 
 ### Development/Devops (149 skills)
 
@@ -8251,7 +8252,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_161be0ce/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/battle-plan/SKILL.md) | ⭐ 44 | `development` |
 | [Agents](development/testing/024-agents_e30dbfa7/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
-| [Skill](development/testing/name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
+| [Skill](development/testing/002-name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
 
 ### Development/Tools (188 skills)
 
