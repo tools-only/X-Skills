@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9142 AI-powered skills** organized into 16 categories.
+A curated collection of **9143 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (584 skills)
 - **Daily Assistant** (386 skills)
 - **Data Analysis** (888 skills)
-- **Development** (4377 skills)
+- **Development** (4378 skills)
 - **Development/Devops** (156 skills)
 - **Development/Testing** (38 skills)
 - **Development/Tools** (196 skills)
@@ -1843,7 +1843,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_cf5279c5/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/SKILL.md) | ⭐ 11 | `communication` |
 | [Integrate Notion](communication/211-integrate-notion_3b9e8fe1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-notion.md) | ⭐ 73 | `communication` |
 | [Integrate Slack](communication/212-integrate-slack_31d49448/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-slack.md) | ⭐ 73 | `communication` |
-| [Skill](communication/name-skill_ec9ea7eb/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 63 | `communication` |
+| [Skill](communication/127-name-skill_ec9ea7eb/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 63 | `communication` |
 
 ### Content Creation (584 skills)
 
@@ -3718,7 +3718,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Faq Draft](data-analysis/395-faq-draft_a0c145c2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/FAQ-DRAFT.md) | ⭐ 73 | `data analysis` |
 | [Plugins](data-analysis/396-plugins_0ef7e1f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/plugins.md) | ⭐ 3.2k | `data analysis` |
 
-### Development (4377 skills)
+### Development (4378 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8098,7 +8098,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_becee9ff/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 218 | `development` |
 | [Index](development/468-index_c9fb4eec/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/index.md) | ⭐ 3.2k | `custom` `filter` |
 | [Lifecycle](development/2173-lifecycle_ee0c2723/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/lifecycle.md) | ⭐ 3.2k | `plugin` |
-| [Architecture](development/architecture_aa8fd035/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 63 | `development` |
+| [Architecture](development/055-architecture_aa8fd035/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md) | ⭐ 63 | `development` |
+| [Latest Changelog](development/latest_changelog_5222ae94/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md) | 🔥 6.5k | `development` |
 
 ### Development/Devops (156 skills)
 
