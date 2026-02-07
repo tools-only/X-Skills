@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **8979 AI-powered skills** organized into 16 categories.
+A curated collection of **8984 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,16 +10,16 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (59 skills)
-- **Automation/Workflow** (122 skills)
+- **Automation/Workflow** (123 skills)
 - **Commercial** (569 skills)
 - **Communication** (357 skills)
 - **Content Creation** (575 skills)
-- **Daily Assistant** (377 skills)
+- **Daily Assistant** (379 skills)
 - **Data Analysis** (874 skills)
-- **Development** (4335 skills)
+- **Development** (4336 skills)
 - **Development/Devops** (131 skills)
 - **Development/Testing** (34 skills)
-- **Development/Tools** (154 skills)
+- **Development/Tools** (155 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (240 skills)
@@ -769,7 +769,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_7388e852/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/fan-out/SKILL.md) | ⭐ 44 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f92d6833/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/migrating-dbt-core-to-fusion/SKILL.md) | ⭐ 99 | `automation` |
 
-### Automation/Workflow (122 skills)
+### Automation/Workflow (123 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -895,6 +895,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_c59d5c47/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/SKILL.md) | ⭐ 1.6k | `automation` |
 | [Gtm Efficiency Benchmarks](automation/workflow/075-gtm-efficiency-benchmarks_26e1cc88/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/gtm-efficiency-benchmarks.md) | ⭐ 1.6k | `automation` |
 | [Skill Patterns](automation/workflow/076-skill-patterns_78c8468b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 176 | `automation` |
+| [Map](automation/workflow/_map_ae26fc21/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/_MAP.md) | ⭐ 92 | `automation` |
 
 ### Commercial (569 skills)
 
@@ -1829,8 +1830,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Requirements](communication/210-requirements_aa3e4064/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/scenarios/S08-coding-agent/scenario/requirements.md) | ⭐ 57 | `communication` |
 | [Index](communication/157-index_9fa922d9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.4k | `anthropic` `claude` `opus 4.6` |
 | [Skill](communication/127-name-skill_8f2f547c/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-upload-chat-log/SKILL.md) | ⭐ 12 | `communication` |
-| [Skill](communication/name-skill_39036ef6/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 339 | `communication` |
-| [Skill](communication/name-skill_8ded74bf/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 339 | `communication` |
+| [Skill](communication/127-name-skill_39036ef6/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 339 | `communication` |
+| [Skill](communication/127-name-skill_8ded74bf/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 339 | `communication` |
 
 ### Content Creation (575 skills)
 
@@ -2412,7 +2413,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_2437f181/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 176 | `content creation` |
 | [Skill](content-creation/049-name-skill_2c619be1/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 99 | `content creation` |
 
-### Daily Assistant (377 skills)
+### Daily Assistant (379 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2776,7 +2777,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Sparql Competency](daily-assistant/199-sparql-competency_9e84de61/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/bdi-mental-states/references/sparql-competency.md) | ⭐ 165 | `daily assistant` |
 | [Evaluation Framework](daily-assistant/200-evaluation-framework_2584d5ab/) | [guanyang/antigravity-skills](https://raw.githubusercontent.com/guanyang/antigravity-skills/main/skills/context-compression/references/evaluation-framework.md) | ⭐ 165 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_a9743266/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 69 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_542be69b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
 | [Adr.Agent](daily-assistant/201-adragent_237b4553/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github-archive-pre-skill-migration/agents/adr.agent.md) | ⭐ 57 | `architecture` `decision` |
 | [Diagram.Agent](daily-assistant/202-diagramagent_86019bf2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github-archive-pre-skill-migration/agents/diagram.agent.md) | ⭐ 57 | `daily assistant` |
 | [Docs.Agent](daily-assistant/203-docsagent_130ca27a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github-archive-pre-skill-migration/agents/docs.agent.md) | ⭐ 57 | `daily assistant` |
@@ -2793,6 +2794,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Poc Best Practices](daily-assistant/214-poc-best-practices_1f12e6df/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/poc-best-practices.md) | ⭐ 1.6k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_433ca4af/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/agent-audit/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
+| [Map](daily-assistant/_map_9cb9d0a8/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_MAP.md) | ⭐ 92 | `daily assistant` |
 
 ### Data Analysis (874 skills)
 
@@ -3673,7 +3676,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_29055717/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/publish-x-article/SKILL.md) | ⭐ 54 | `data analysis` |
 | [Injection Patterns](data-analysis/392-injection-patterns_730c9776/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/nextjs-security-scan/references/injection-patterns.md) | ⭐ 54 | `data analysis` |
 
-### Development (4335 skills)
+### Development (4336 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8012,6 +8015,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Injection Patterns](development/2153-injection-patterns_535ac592/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/injection-patterns.md) | ⭐ 54 | `development` |
 | [Python Vulnerabilities](development/2154-python-vulnerabilities_6eacb70a/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/python-vulnerabilities.md) | ⭐ 54 | `development` |
 | [Design Principles](development/2155-design-principles_c99f2dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 176 | `development` |
+| [Skill](development/name-skill_441a3dcd/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/SKILL.md) | ⭐ 92 | `development` |
 
 ### Development/Devops (131 skills)
 
@@ -8188,7 +8192,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Rpm Examine](development/testing/045-rpm-examine_34853bdd/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/commands/rpm-examine.md) | ⭐ 12 | `development` |
 | [Skill](development/testing/002-name-skill_161be0ce/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/battle-plan/SKILL.md) | ⭐ 44 | `development` |
 
-### Development/Tools (154 skills)
+### Development/Tools (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8346,6 +8350,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Troubleshooting](development/tools/205-troubleshooting_ad1270b4/) | [abhichandra21/Promptheus](https://raw.githubusercontent.com/abhichandra21/Promptheus/main/docs/troubleshooting.md) | ⭐ 10 | `development` |
 | [Flask Security](development/tools/237-flask-security_6907a9c7/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/flask-security.md) | ⭐ 54 | `development` |
 | [Skill](development/tools/002-name-skill_7752441a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/running-dbt-commands/SKILL.md) | ⭐ 99 | `development` |
+| [Claude](development/tools/claude_c78ef70e/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 92 | `development` |
 
 ### Investment (55 skills)
 
