@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9133 AI-powered skills** organized into 16 categories.
+A curated collection of **9199 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,20 +10,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (62 skills)
-- **Automation/Workflow** (124 skills)
+- **Automation/Workflow** (126 skills)
 - **Commercial** (571 skills)
 - **Communication** (362 skills)
-- **Content Creation** (585 skills)
-- **Daily Assistant** (386 skills)
-- **Data Analysis** (887 skills)
-- **Development** (4374 skills)
-- **Development/Devops** (154 skills)
-- **Development/Testing** (38 skills)
-- **Development/Tools** (194 skills)
+- **Content Creation** (589 skills)
+- **Daily Assistant** (394 skills)
+- **Data Analysis** (888 skills)
+- **Development** (4379 skills)
+- **Development/Devops** (156 skills)
+- **Development/Testing** (39 skills)
+- **Development/Tools** (200 skills)
 - **Investment** (55 skills)
-- **Other** (44 skills)
-- **Productivity** (241 skills)
-- **Research** (384 skills)
+- **Other** (45 skills)
+- **Productivity** (247 skills)
+- **Research** (414 skills)
 
 ## Skills Directory
 
@@ -772,7 +772,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Worktree Remove](automation/scripting/063-worktree-remove_f4c1a252/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-remove.md) | ⭐ 299 | `automation` |
 | [Skill](automation/scripting/003-name-skill_8f258337/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-pipeline/SKILL.md) | ⭐ 299 | `automation` |
 
-### Automation/Workflow (124 skills)
+### Automation/Workflow (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -900,6 +900,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill Patterns](automation/workflow/076-skill-patterns_78c8468b/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 176 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_9e0ea8ec/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Readme Cn](automation/workflow/077-readme_cn_0cb53a9d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/README_CN.md) | ⭐ 299 | `automation` |
+| [Pipeline.Lock](automation/workflow/pipelinelock_1f95cae2/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/PIPELINE.lock.md) | ⭐ 192 | `automation` |
+| [Contract Report](automation/workflow/contract_report_1910a488/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/CONTRACT_REPORT.md) | ⭐ 192 | `automation` |
 
 ### Commercial (571 skills)
 
@@ -1844,7 +1846,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Integrate Notion](communication/211-integrate-notion_3b9e8fe1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-notion.md) | ⭐ 73 | `communication` |
 | [Integrate Slack](communication/212-integrate-slack_31d49448/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrations/integrate-slack.md) | ⭐ 73 | `communication` |
 
-### Content Creation (585 skills)
+### Content Creation (589 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2431,10 +2433,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Worktree Add](content-creation/261-worktree-add_c8138947/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-add.md) | ⭐ 299 | `content creation` |
 | [Worktree Merge](content-creation/262-worktree-merge_4a9a1311/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-merge.md) | ⭐ 299 | `content creation` |
 | [Claude](content-creation/007-claude_af7544bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 73 | `content creation` |
-| [Skill](content-creation/name-skill_f60d4c90/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 111 | `content creation` |
-| [Lead](content-creation/lead_a8ef6040/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/lead.md) | ⭐ 218 | `content creation` |
+| [Skill](content-creation/049-name-skill_f60d4c90/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 111 | `content creation` |
+| [Evidence Binding Report](content-creation/evidence_binding_report_6528ac4e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_binding_report.md) | ⭐ 192 | `content creation` |
+| [Argument Skeleton](content-creation/argument_skeleton_d2d25638/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/ARGUMENT_SKELETON.md) | ⭐ 192 | `content creation` |
+| [Citation Budget Report](content-creation/citation_budget_report_475a3b84/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/CITATION_BUDGET_REPORT.md) | ⭐ 192 | `content creation` |
+| [Evidence Selfloop Todo](content-creation/evidence_selfloop_todo_f20d9ae6/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/EVIDENCE_SELFLOOP_TODO.md) | ⭐ 192 | `content creation` |
+| [Section Logic Report](content-creation/section_logic_report_ef77de6e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/SECTION_LOGIC_REPORT.md) | ⭐ 192 | `content creation` |
 
-### Daily Assistant (386 skills)
+### Daily Assistant (394 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2824,8 +2830,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Phase4 Readme](daily-assistant/218-phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
+| [Coverage Report](daily-assistant/coverage_report_dd572b0a/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/coverage_report.md) | ⭐ 192 | `daily assistant` |
+| [Tables Appendix](daily-assistant/tables_appendix_fcb62d33/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/tables_appendix.md) | ⭐ 192 | `daily assistant` |
+| [Argument Selfloop Todo](daily-assistant/argument_selfloop_todo_268aaf42/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/ARGUMENT_SELFLOOP_TODO.md) | ⭐ 192 | `daily assistant` |
+| [S3 1](daily-assistant/s3_1_e80af6f6/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S3_1.md) | ⭐ 192 | `daily assistant` |
+| [S4 1](daily-assistant/s4_1_55082795/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S4_1.md) | ⭐ 192 | `daily assistant` |
+| [Abstract](daily-assistant/abstract_6426dffe/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/abstract.md) | ⭐ 192 | `daily assistant` |
+| [Discussion](daily-assistant/discussion_d412c9f4/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/discussion.md) | ⭐ 192 | `daily assistant` |
+| [3.2](daily-assistant/32_997e37de/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/3.2.md) | ⭐ 192 | `daily assistant` |
 
-### Data Analysis (887 skills)
+### Data Analysis (888 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3716,8 +3730,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Methodology](data-analysis/228-methodology_fe3c7a13/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/methodology.md) | ⭐ 11 | `data analysis` |
 | [Claude](data-analysis/036-claude_fb8f5e89/) | [nextlevelbuilder/ui-ux-pro-max-skill](https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/CLAUDE.md) | 🔥 28.9k | `data analysis` |
 | [Faq Draft](data-analysis/395-faq-draft_a0c145c2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/docs/FAQ-DRAFT.md) | ⭐ 73 | `data analysis` |
+| [Plugins](data-analysis/plugins_0ef7e1f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/plugins.md) | ⭐ 3.2k | `data analysis` |
 
-### Development (4374 skills)
+### Development (4379 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8057,7 +8072,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Python Vulnerabilities](development/2154-python-vulnerabilities_6eacb70a/) | [sugarforever/01coder-agent-skills](https://raw.githubusercontent.com/sugarforever/01coder-agent-skills/main/skills/python-security-scan/references/python-vulnerabilities.md) | ⭐ 54 | `development` |
 | [Design Principles](development/2155-design-principles_c99f2dfb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 176 | `development` |
 | [Skill](development/1178-name-skill_441a3dcd/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/SKILL.md) | ⭐ 92 | `development` |
-| [Skill](development/name-skill_becee9ff/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 218 | `development` |
+| [Skill](development/1178-name-skill_47eaad52/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 211 | `development` |
 | [Refactoring Expert](development/2054-refactoring-expert_e2f0e614/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/refactoring-expert.md) | ⭐ 211 | `development` |
 | [Tdd Developer](development/2055-tdd-developer_bedbbd93/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/tdd-team/tdd-developer.md) | ⭐ 211 | `development` |
 | [Agents](development/028-agents_125bbbb5/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
@@ -8095,8 +8110,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/1178-name-skill_c571216c/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-analyzer/SKILL.md) | ⭐ 299 | `development` |
 | [Skill](development/1178-name-skill_c53f61ca/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-dev/SKILL.md) | ⭐ 299 | `development` |
 | [Skill](development/1178-name-skill_becee9ff/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 218 | `development` |
+| [Index](development/index_c9fb4eec/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/index.md) | ⭐ 3.2k | `custom` `filter` |
+| [Lifecycle](development/lifecycle_ee0c2723/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/lifecycle.md) | ⭐ 3.2k | `plugin` |
+| [S3 2](development/s3_2_a2d9d66c/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S3_2.md) | ⭐ 192 | `development` |
+| [3.1](development/31_b2bb5883/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/3.1.md) | ⭐ 192 | `development` |
+| [6.1](development/61_9ac632d6/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/6.1.md) | ⭐ 192 | `development` |
 
-### Development/Devops (154 skills)
+### Development/Devops (156 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8254,8 +8274,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Environment Setup](development/devops/200-environment-setup_9a8e9a5f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 5.6k | `development` |
 | [Deploy](development/devops/037-deploy_ff29e11f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 38 | `development` |
 | [Deploy En](development/devops/195-deploy_en_424aefae/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 38 | `development` |
+| [Locust Fix Failures](development/devops/locust-fix-failures_ee374115/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/locust-fix-failures.md) | ⭐ 3.2k | `development` |
+| [Grpc Transport](development/devops/grpc-transport_19a7df0e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/grpc-transport.md) | ⭐ 3.2k | `development` |
 
-### Development/Testing (38 skills)
+### Development/Testing (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8297,8 +8319,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 | [Skill](development/testing/002-name-skill_8868ad90/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/hello-world/SKILL.md) | ⭐ 16 | `development` |
 | [Branch](development/testing/046-branch_9f644124/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/branch.md) | ⭐ 299 | `development` |
+| [Improve Unit Test Coverage](development/testing/improve-unit-test-coverage_b1e6952b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/improve-unit-test-coverage.md) | ⭐ 3.2k | `development` |
 
-### Development/Tools (194 skills)
+### Development/Tools (200 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8496,6 +8519,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Git PR](development/tools/243-pr_4cd6fc20/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/pr.md) | ⭐ 299 | `development` |
 | [Updating Dex](development/tools/244-updating_dex_8916023d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Updating_Dex.md) | ⭐ 73 | `development` |
 | [Build Tracker](development/tools/245-build_tracker_c207f7f0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/core/integrations/BUILD_TRACKER.md) | ⭐ 73 | `development` |
+| [Locust Improve Coverage](development/tools/locust-improve-coverage_a0dbe353/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/locust-improve-coverage.md) | ⭐ 3.2k | `development` |
+| [Unix Socket Transport](development/tools/unix-socket-transport_316f6937/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/unix-socket-transport.md) | ⭐ 3.2k | `development` |
+| [S6 1](development/tools/s6_1_5c3cad33/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S6_1.md) | ⭐ 192 | `development` |
+| [S6 Lead](development/tools/s6_lead_0290d324/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S6_lead.md) | ⭐ 192 | `development` |
+| [5.1](development/tools/51_32d9989e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/5.1.md) | ⭐ 192 | `development` |
+| [Improve Doctest Coverage](development/tools/improve-doctest-coverage_146f660d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/prompts/improve-doctest-coverage.md) | ⭐ 3.2k | `development` |
 
 ### Investment (55 skills)
 
@@ -8557,7 +8586,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Competitive Positioning Framework](investment/031-competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
 | [Valuation Methodology](investment/032-valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
 
-### Other (44 skills)
+### Other (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8605,8 +8634,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
+| [Goal](other/goal_280abf88/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/GOAL.md) | ⭐ 192 | `other` |
 
-### Productivity (241 skills)
+### Productivity (247 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8851,8 +8881,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Revops Metrics Guide](productivity/148-revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 | [Skill](productivity/093-name-skill_e8799237/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/design-business-model/SKILL.md) | ⭐ 14 | `productivity` |
+| [S3 Lead](productivity/s3_lead_44f54a0f/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S3_lead.md) | ⭐ 192 | `productivity` |
+| [S4 Lead](productivity/s4_lead_ab61a938/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S4_lead.md) | ⭐ 192 | `productivity` |
+| [S5 1](productivity/s5_1_d115253f/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S5_1.md) | ⭐ 192 | `productivity` |
+| [S5 2](productivity/s5_2_566ab27b/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S5_2.md) | ⭐ 192 | `productivity` |
+| [S5 Lead](productivity/s5_lead_8dc31926/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S5_lead.md) | ⭐ 192 | `productivity` |
+| [4.1](productivity/41_3b4d66bf/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/4.1.md) | ⭐ 192 | `productivity` |
 
-### Research (384 skills)
+### Research (414 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9240,6 +9276,36 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V2 Vs V3 Comparison](research/227-v2_vs_v3_comparison_bfea3bfd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/V2_vs_V3_comparison.md) | ⭐ 11 | `research` |
 | [Delivery Summary](research/228-delivery-summary_67e48df8/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/delivery-summary.md) | ⭐ 11 | `research` |
 | [Historical Cases](research/229-historical_cases_6ac449d2/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/historical_cases.md) | ⭐ 11 | `research` |
+| [Readme.En](research/readmeen_3e10ba79/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 192 | `research` |
+| [Decisions](research/decisions_f460312b/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/DECISIONS.md) | ⭐ 192 | `research` |
+| [Status](research/status_cc1f12dc/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/STATUS.md) | ⭐ 192 | `research` |
+| [Queries](research/queries_97a5fda5/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/queries.md) | ⭐ 192 | `research` |
+| [Claim Evidence Matrix](research/claim_evidence_matrix_b7f46964/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/claim_evidence_matrix.md) | ⭐ 192 | `research` |
+| [Mapping Report](research/mapping_report_c1fb1344/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/mapping_report.md) | ⭐ 192 | `research` |
+| [Table Schema](research/table_schema_f59af610/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/table_schema.md) | ⭐ 192 | `research` |
+| [Tables Index](research/tables_index_1417b636/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/tables_index.md) | ⭐ 192 | `research` |
+| [Transitions](research/transitions_af1931c6/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/transitions.md) | ⭐ 192 | `research` |
+| [Audit Report](research/audit_report_c633e9a0/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/AUDIT_REPORT.md) | ⭐ 192 | `research` |
+| [Chapter Leads Report](research/chapter_leads_report_1901926d/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/CHAPTER_LEADS_REPORT.md) | ⭐ 192 | `research` |
+| [Citation Injection Report](research/citation_injection_report_d352063a/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/CITATION_INJECTION_REPORT.md) | ⭐ 192 | `research` |
+| [Draft](research/draft_15cfa65a/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/DRAFT.md) | ⭐ 192 | `research` |
+| [Front Matter Report](research/front_matter_report_5cc93110/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/FRONT_MATTER_REPORT.md) | ⭐ 192 | `research` |
+| [Global Review](research/global_review_e2dc1f59/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/GLOBAL_REVIEW.md) | ⭐ 192 | `research` |
+| [Latex Build Report](research/latex_build_report_2d74b0d4/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/LATEX_BUILD_REPORT.md) | ⭐ 192 | `research` |
+| [Post Merge Voice Report](research/post_merge_voice_report_44c1beb8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/POST_MERGE_VOICE_REPORT.md) | ⭐ 192 | `research` |
+| [Quality Gate](research/quality_gate_5b57fce6/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/QUALITY_GATE.md) | ⭐ 192 | `research` |
+| [Run Errors](research/run_errors_f5d0f954/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/RUN_ERRORS.md) | ⭐ 192 | `research` |
+| [Schema Normalization Report](research/schema_normalization_report_6aa8975f/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/SCHEMA_NORMALIZATION_REPORT.md) | ⭐ 192 | `research` |
+| [Writer Selfloop Todo](research/writer_selfloop_todo_91e91179/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/output/WRITER_SELFLOOP_TODO.md) | ⭐ 192 | `research` |
+| [Retrieval Report](research/retrieval_report_27cc9cad/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/papers/retrieval_report.md) | ⭐ 192 | `research` |
+| [Research Units Pipeline Skills](research/s1_21671c1d/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S1.md) | ⭐ 192 | `research` |
+| [Research Units Pipeline Skills](research/s2_938cf92c/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S2.md) | ⭐ 192 | `research` |
+| [S4 2](research/s4_2_e66ade7e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S4_2.md) | ⭐ 192 | `research` |
+| [S6 2](research/s6_2_a7d665e3/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/S6_2.md) | ⭐ 192 | `research` |
+| [Conclusion](research/conclusion_b087930b/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/sections/conclusion.md) | ⭐ 192 | `research` |
+| [4.2](research/42_882f50e3/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/4.2.md) | ⭐ 192 | `research` |
+| [5.2](research/52_7973ef9e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/5.2.md) | ⭐ 192 | `research` |
+| [6.2](research/62_e4a0b001/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/example/e2e-agent-survey-latex-verify-20260207-194640/outline/evidence_drafts/6.2.md) | ⭐ 192 | `research` |
 
 ## Repository Structure
 
