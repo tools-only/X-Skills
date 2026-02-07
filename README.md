@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9065 AI-powered skills** organized into 16 categories.
+A curated collection of **9079 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,17 +13,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (122 skills)
 - **Commercial** (570 skills)
 - **Communication** (357 skills)
-- **Content Creation** (578 skills)
-- **Daily Assistant** (379 skills)
-- **Data Analysis** (877 skills)
-- **Development** (4360 skills)
-- **Development/Devops** (147 skills)
+- **Content Creation** (579 skills)
+- **Daily Assistant** (380 skills)
+- **Data Analysis** (879 skills)
+- **Development** (4361 skills)
+- **Development/Devops** (148 skills)
 - **Development/Testing** (36 skills)
-- **Development/Tools** (188 skills)
+- **Development/Tools** (191 skills)
 - **Investment** (55 skills)
 - **Other** (44 skills)
 - **Productivity** (240 skills)
-- **Research** (381 skills)
+- **Research** (386 skills)
 
 ## Skills Directory
 
@@ -1833,7 +1833,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_39036ef6/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-py/SKILL.md) | ⭐ 339 | `communication` |
 | [Skill](communication/127-name-skill_8ded74bf/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/migrate-honcho-ts/SKILL.md) | ⭐ 339 | `communication` |
 
-### Content Creation (578 skills)
+### Content Creation (579 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2415,8 +2415,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_735d0a78/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 5.6k | `content creation` |
 | [Conversation Turns](content-creation/107-conversation-turns_7a283b78/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/codebase-map/architecture/conversation-turns.md) | ⭐ 111 | `content creation` |
 | [Custom Code Guardrail](content-creation/215-custom_code_guardrail_6da0e6c1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/custom_code_guardrail.md) | 🔥 35.4k | `content creation` |
+| [Architecture](content-creation/architecture_30a5b89a/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/docs/architecture.md) | ⭐ 12 | `content creation` |
 
-### Daily Assistant (379 skills)
+### Daily Assistant (380 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2799,8 +2800,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
 | [2026 02 05 Tech Debt Scanner Markdown Exclusion](daily-assistant/215-2026-02-05-tech-debt-scanner-markdown-exclusion_b04f33a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-05-tech-debt-scanner-markdown-exclusion.md) | ⭐ 111 | `daily assistant` |
+| [2025 10 23 Mount Si](daily-assistant/2025-10-23-mount-si_b38eae36/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2025-10-23-mount-si.md) | ⭐ 12 | `daily assistant` |
 
-### Data Analysis (877 skills)
+### Data Analysis (879 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3588,7 +3590,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_0bb564d8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.opencode/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cb9dbbe5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/cli/assets/.claude/skills/ui-ux-pro-max/SKILL.md) | ⭐ 17 | `data analysis` |
 | [01 Architecture](data-analysis/335-01-architecture_6a79e991/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 926 | `data analysis` |
-| [Skill](data-analysis/name-skill_42d18d33/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7a8cb6c3/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_6584d776/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/quiz-generator/SKILL.md) | ⭐ 14 | `data analysis` |
 | [Workflow Commands](data-analysis/269-workflow_commands_11b3a8d9/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/docs/WORKFLOW_COMMANDS.md) | ⭐ 279 | `data analysis` |
 | [Command](data-analysis/365-command_500a2f34/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/commands/common-ground/COMMAND.md) | ⭐ 279 | `data analysis` |
@@ -3681,8 +3683,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Goals Outcome](data-analysis/393-goals_outcome_16a7a765/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/key_concepts/goals_outcome.md) | 🔥 5.6k | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_676a521f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 5.6k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_42d18d33/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/name-skill_af35dd87/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/SKILL.md) | ⭐ 12 | `data analysis` |
+| [2026 01 30 Grand Teton](data-analysis/2026-01-30-grand-teton_5c364909/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-grand-teton.md) | ⭐ 12 | `data analysis` |
 
-### Development (4360 skills)
+### Development (4361 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7620,15 +7624,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [claude-code](development/338-enterprise-features_8f885147/) | [Unknown](#) | N/A | `development` |
 | [configuring-dbt-mcp-server](development/979-skill_fe9394f6/) | [Unknown](#) | N/A | `development` |
 | [Epic Planning Document Generator](development/227-create-epic-plan_8b7ab236/) | [Unknown](#) | N/A | `development` |
-| [Readme Flat Claude Md Az](development/readme_flat_claude-md_az_b80d15af/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Claude Md Created](development/readme_flat_claude-md_created_e9e3e3ea/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Claude Md Updated](development/readme_flat_claude-md_updated_c76593c4/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Commands Az](development/readme_flat_commands_az_e0dbcdfc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Commands Created](development/readme_flat_commands_created_6a6b0abd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Commands Updated](development/readme_flat_commands_updated_2a864661/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Skills Az](development/readme_flat_skills_az_bfd0e733/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Skills Created](development/readme_flat_skills_created_a152b04f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Skills Updated](development/readme_flat_skills_updated_bb995917/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.0k | `development` |
+| [Readme Flat Claude Md Az](development/777-readme_flat_claude-md_az_67a4c141/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Claude Md Created](development/778-readme_flat_claude-md_created_3676dc8d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Claude Md Updated](development/780-readme_flat_claude-md_updated_42597a10/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Az](development/785-readme_flat_commands_az_f23dbd2f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Created](development/786-readme_flat_commands_created_2a10e16d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Updated](development/788-readme_flat_commands_updated_a155f0ee/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Az](development/797-readme_flat_skills_az_4e24ae81/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Created](development/798-readme_flat_skills_created_8a259a56/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_23c8c02e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 22.8k | `development` |
 | [Security System Overview](development/1993-security_system_overview_dc945318/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/docs/SECURITY_SYSTEM_OVERVIEW.md) | ⭐ 72 | `development` |
 | [Skill](development/1178-name-skill_5fb3ef75/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-builder/SKILL.md) | ⭐ 72 | `development` |
 | [Skill](development/1178-name-skill_dc677681/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-patterns/SKILL.md) | ⭐ 72 | `development` |
@@ -8044,24 +8048,25 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Commands Updated](development/788-readme_flat_commands_updated_2a864661/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Skills Az](development/797-readme_flat_skills_az_bfd0e733/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.0k | `development` |
 | [Readme Flat Skills Created](development/798-readme_flat_skills_created_a152b04f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Skills Releases](development/readme_flat_skills_releases_0358ecaf/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 23.0k | `development` |
+| [Readme Flat Skills Releases](development/799-readme_flat_skills_releases_0358ecaf/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_bb995917/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.0k | `development` |
+| [2026 01 30 Fresh Install](development/2026-01-30-fresh-install_23b07215/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-fresh-install.md) | ⭐ 12 | `development` |
 
-### Development/Devops (147 skills)
+### Development/Devops (148 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Readme Awesome](development/devops/readme_awesome_79dc1a2f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 23.0k | `development` |
-| [Readme Classic](development/devops/readme_classic_dc0fc91c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 23.0k | `development` |
-| [Readme Extra](development/devops/readme_extra_f0ea65b1/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_EXTRA.md) | 🔥 23.0k | `development` |
-| [Readme Flat All Az](development/devops/readme_flat_all_az_b93bd44d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat All Created](development/devops/readme_flat_all_created_3a39a19b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat All Releases](development/devops/readme_flat_all_releases_16a6da91/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat All Updated](development/devops/readme_flat_all_updated_f7ecb7dd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Tooling Az](development/devops/readme_flat_tooling_az_aca6b979/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Tooling Created](development/devops/readme_flat_tooling_created_a0d092ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Tooling Releases](development/devops/readme_flat_tooling_releases_ac1810a7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Tooling Updated](development/devops/readme_flat_tooling_updated_44d13466/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.0k | `development` |
+| [Readme Awesome](development/devops/154-readme_awesome_d54eae27/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 22.8k | `development` |
+| [Readme Classic](development/devops/155-readme_classic_8e8cf47b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 22.8k | `development` |
+| [Readme Extra](development/devops/156-readme_extra_1126d81d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_EXTRA.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Az](development/devops/157-readme_flat_all_az_e67f2adb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Created](development/devops/158-readme_flat_all_created_e870422e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Releases](development/devops/159-readme_flat_all_releases_e420d936/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat All Updated](development/devops/160-readme_flat_all_updated_bcede479/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Az](development/devops/161-readme_flat_tooling_az_5dc3a1e2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_df912a0a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_efb53f49/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_69a7b730/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 22.8k | `development` |
 | [Admin Ui Sso](development/devops/031-admin_ui_sso_f706b0e4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.2k | `development` |
 | [Implementation Summary](development/devops/183-implementation_summary_100c07a9/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/IMPLEMENTATION_SUMMARY.md) | ⭐ 17 | `development` |
 | [Optimization Plan](development/devops/184-optimization_plan_843067db/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/OPTIMIZATION_PLAN.md) | ⭐ 17 | `development` |
@@ -8198,6 +8203,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_a0d092ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_ac1810a7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_44d13466/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.0k | `development` |
+| [Claude](development/devops/claude_f1887db5/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/CLAUDE.md) | ⭐ 12 | `development` |
 
 ### Development/Testing (36 skills)
 
@@ -8240,37 +8246,37 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](development/testing/024-agents_e30dbfa7/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md) | ⭐ 29 | `development` |
 | [Agents](development/testing/024-agents_d6c914fb/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md) | ⭐ 29 | `development` |
 
-### Development/Tools (188 skills)
+### Development/Tools (191 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Readme Flat Claude Md Releases](development/tools/readme_flat_claude-md_releases_bb048a84/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Clients Az](development/tools/readme_flat_clients_az_b2316187/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Clients Created](development/tools/readme_flat_clients_created_a9c8a28c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Clients Releases](development/tools/readme_flat_clients_releases_e22ca0c3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Clients Updated](development/tools/readme_flat_clients_updated_735461f5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Commands Releases](development/tools/readme_flat_commands_releases_432f6b58/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Docs Az](development/tools/readme_flat_docs_az_ef2e0887/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Docs Created](development/tools/readme_flat_docs_created_9f10605e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Docs Releases](development/tools/readme_flat_docs_releases_c9f2463f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Docs Updated](development/tools/readme_flat_docs_updated_690178df/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Hooks Az](development/tools/readme_flat_hooks_az_f12d0429/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Hooks Created](development/tools/readme_flat_hooks_created_5a640af5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Hooks Releases](development/tools/readme_flat_hooks_releases_c891c7b2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Hooks Updated](development/tools/readme_flat_hooks_updated_1e1363da/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_UPDATED.md) | 🔥 23.0k | `development` |
+| [Readme Flat Claude Md Releases](development/tools/155-readme_flat_claude-md_releases_15afb3a9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Az](development/tools/156-readme_flat_clients_az_ee224b48/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Created](development/tools/157-readme_flat_clients_created_41e39f3d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Releases](development/tools/158-readme_flat_clients_releases_98e6b4c9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Clients Updated](development/tools/159-readme_flat_clients_updated_d9dd2be5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Commands Releases](development/tools/160-readme_flat_commands_releases_a27d0a48/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Az](development/tools/161-readme_flat_docs_az_92e5cca2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Created](development/tools/162-readme_flat_docs_created_24c538c9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Releases](development/tools/163-readme_flat_docs_releases_ea5e987e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Docs Updated](development/tools/164-readme_flat_docs_updated_07b2108d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Az](development/tools/165-readme_flat_hooks_az_dc28b721/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Created](development/tools/166-readme_flat_hooks_created_adc9158e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Releases](development/tools/167-readme_flat_hooks_releases_83c047a9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Hooks Updated](development/tools/168-readme_flat_hooks_updated_3812cf6f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_UPDATED.md) | 🔥 22.8k | `development` |
 | [Readme Flat Skills Releases](development/tools/169-readme_flat_skills_releases_d7cfb0ea/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 22.8k | `development` |
-| [Readme Flat Statusline Az](development/tools/readme_flat_statusline_az_258104a5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Statusline Created](development/tools/readme_flat_statusline_created_3fa36601/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Statusline Releases](development/tools/readme_flat_statusline_releases_e29b5850/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Statusline Updated](development/tools/readme_flat_statusline_updated_eb53978a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Styles Az](development/tools/readme_flat_styles_az_b1fd0eb2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Styles Created](development/tools/readme_flat_styles_created_115684fc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Styles Releases](development/tools/readme_flat_styles_releases_d05c2d10/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Styles Updated](development/tools/readme_flat_styles_updated_5bc1dc89/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Workflows Az](development/tools/readme_flat_workflows_az_9768ffb4/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 23.0k | `development` |
-| [Readme Flat Workflows Created](development/tools/readme_flat_workflows_created_4e370941/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.0k | `development` |
-| [Readme Flat Workflows Releases](development/tools/readme_flat_workflows_releases_fdf5bf12/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.0k | `development` |
-| [Readme Flat Workflows Updated](development/tools/readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
+| [Readme Flat Statusline Az](development/tools/170-readme_flat_statusline_az_a4d6b3ed/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Created](development/tools/171-readme_flat_statusline_created_a073cc41/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Releases](development/tools/172-readme_flat_statusline_releases_0e257e5d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Statusline Updated](development/tools/173-readme_flat_statusline_updated_281996fe/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Az](development/tools/174-readme_flat_styles_az_b855096a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Created](development/tools/175-readme_flat_styles_created_c5bc88bc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Releases](development/tools/176-readme_flat_styles_releases_f42eb9f7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Styles Updated](development/tools/177-readme_flat_styles_updated_af611884/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Az](development/tools/178-readme_flat_workflows_az_2338d844/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_af44cbab/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_0575242f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 22.8k | `development` |
+| [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_01ab8171/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 22.8k | `development` |
 | [Skill](development/tools/002-name-skill_b27a998c/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-client-development/SKILL.md) | ⭐ 72 | `development` |
 | [Skill](development/tools/002-name-skill_810d4776/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-compatibility-check/SKILL.md) | ⭐ 72 | `development` |
 | [Skill](development/tools/002-name-skill_68952447/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contracts/SKILL.md) | ⭐ 72 | `development` |
@@ -8432,6 +8438,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_4e370941/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_fdf5bf12/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
+| [2026 01 30 Mount Hood](development/tools/2026-01-30-mount-hood_6a871066/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-mount-hood.md) | ⭐ 12 | `development` |
+| [2026 01 30 Mount Whitney](development/tools/2026-01-30-mount-whitney_d7f027cc/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-mount-whitney.md) | ⭐ 12 | `development` |
+| [2025 11 06 Mount Adams](development/tools/2025-11-06-mount-adams_c41e05f2/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2025-11-06-mount-adams.md) | ⭐ 12 | `development` |
 
 ### Investment (55 skills)
 
@@ -8787,7 +8796,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Revops Metrics Guide](productivity/148-revops-metrics-guide_44a77dcd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/revenue-operations/references/revops-metrics-guide.md) | ⭐ 1.6k | `productivity` |
 | [Attribution Models Guide](productivity/149-attribution-models-guide_7909ca85/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/marketing-skill/campaign-analytics/references/attribution-models-guide.md) | ⭐ 1.6k | `productivity` |
 
-### Research (381 skills)
+### Research (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9172,6 +9181,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ecosystem Researcher](research/224-ecosystem-researcher_47cfaf61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher.md) | ⭐ 16 | `research` |
 | [Time Savings Evidence](research/225-time-savings-evidence_1872db45/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 57 | `research` |
 | [Gaia](research/226-gaia_65f6853f/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
+| [2026 01 30 Mount Si](research/2026-01-30-mount-si_a747bccb/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/tests/e2e-results/2026-01-30-mount-si.md) | ⭐ 12 | `research` |
+| [Report Template](research/report-template_d38e2902/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/assets/report-template.md) | ⭐ 12 | `research` |
+| [2025 11 06 Wolf Peak](research/2025-11-06-wolf-peak_271a2474/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2025-11-06-wolf-peak.md) | ⭐ 12 | `research` |
+| [2026 01 29 Mount Shuksan](research/2026-01-29-mount-shuksan_a8bab2b6/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2026-01-29-mount-shuksan.md) | ⭐ 12 | `research` |
+| [2026 01 29 Tinkham Peak](research/2026-01-29-tinkham-peak_190d1d45/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/skills/route-researcher/examples/2026-01-29-tinkham-peak.md) | ⭐ 12 | `research` |
 
 ## Repository Structure
 
