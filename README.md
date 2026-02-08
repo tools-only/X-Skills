@@ -13,10 +13,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (132 skills)
 - **Commercial** (581 skills)
 - **Communication** (372 skills)
-- **Content Creation** (618 skills)
+- **Content Creation** (617 skills)
 - **Daily Assistant** (391 skills)
 - **Data Analysis** (904 skills)
-- **Development** (4473 skills)
+- **Development** (4474 skills)
 - **Development/Devops** (170 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (226 skills)
@@ -910,7 +910,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Agents](automation/workflow/073-agents_768cc392/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/AGENTS.md) | ⭐ 20 | `automation` |
 | [Skill](automation/workflow/002-name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
 | [Skill](automation/workflow/002-name-skill_c40477e3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/revonc-eas-deploy/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_22ad1784/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/SKILL.md) | ⭐ 16 | `automation` |
+| [Skill](automation/workflow/002-name-skill_22ad1784/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/SKILL.md) | ⭐ 16 | `automation` |
 
 ### Commercial (581 skills)
 
@@ -1875,7 +1875,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_c39002c9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/SKILL.md) | ⭐ 20 | `communication` |
 | [Spec Coverage](communication/219-spec-coverage_62dcd6d7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/references/spec-coverage.md) | ⭐ 20 | `communication` |
 
-### Content Creation (618 skills)
+### Content Creation (617 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2495,8 +2495,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/049-name-skill_c5a3ac56/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/prompt-engineering-patterns/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/277-bmad-skill_14981976/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-designer/SKILL.md) | ⭐ 10 | `content creation` |
 | [Connection Pooling](content-creation/278-connection-pooling_89588aca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/connection-pooling.md) | ⭐ 20 | `content creation` |
-| [Performance](content-creation/performance_51e5fd0a/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/performance.md) | ⭐ 16 | `content creation` |
-| [Test Assessment](content-creation/test_assessment_8353726a/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/TEST_ASSESSMENT.md) | ⭐ 16 | `content creation` |
+| [Performance](content-creation/279-performance_51e5fd0a/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/performance.md) | ⭐ 16 | `content creation` |
 
 ### Daily Assistant (391 skills)
 
@@ -2892,7 +2891,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architecture](daily-assistant/104-architecture_c54871db/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/architecture.md) | ⭐ 10 | `daily assistant` |
 | [Audiobook The Amnesiac Architect](daily-assistant/220-audiobook-the-amnesiac-architect_7a6299de/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/audiobook-the-amnesiac-architect.md) | ⭐ 10 | `daily assistant` |
 | [Settings](daily-assistant/221-settings_082e3b37/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/reference/settings.md) | ⭐ 10 | `daily assistant` |
-| [Issue Identifiers](daily-assistant/issue-identifiers_96c5c70c/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/issue-identifiers.md) | ⭐ 16 | `daily assistant` |
+| [Issue Identifiers](daily-assistant/222-issue-identifiers_96c5c70c/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/issue-identifiers.md) | ⭐ 16 | `daily assistant` |
 
 ### Data Analysis (904 skills)
 
@@ -3803,7 +3802,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Grading Rubric](data-analysis/403-grading-rubric_592f746c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/design-improver/references/grading-rubric.md) | ⭐ 10 | `data analysis` |
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 
-### Development (4473 skills)
+### Development (4474 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8279,7 +8278,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Transactions](development/1524-transactions_e7b4eec1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/transactions.md) | ⭐ 20 | `development` |
 | [Error Handling Middleware](development/2256-error-handling-middleware_3a11b382/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-middleware/references/error-handling-middleware.md) | ⭐ 20 | `development` |
 | [Validation](development/1120-validation_338fd9ff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/references/validation.md) | ⭐ 20 | `development` |
-| [Yaraqa Checks](development/yaraqa-checks_acac6a44/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/yaraqa-checks.md) | ⭐ 16 | `development` |
+| [Yaraqa Checks](development/2263-yaraqa-checks_acac6a44/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/yaraqa-checks.md) | ⭐ 16 | `development` |
+| [Skill](development/name-skill_06d08556/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 56 | `development` |
 
 ### Development/Devops (170 skills)
 
@@ -9103,7 +9103,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Architecture Philosophy Audiobook](productivity/151-architecture-philosophy-audiobook_bd8f3d77/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/audiobooks/architecture-philosophy-audiobook.md) | ⭐ 10 | `productivity` |
 | [Ux Grading Rubric](productivity/152-ux-grading-rubric_9ecab11c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-improver/references/ux-grading-rubric.md) | ⭐ 10 | `productivity` |
 | [Extras Formats](productivity/153-extras-formats_c4c434c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exdoc-config/references/extras-formats.md) | ⭐ 20 | `productivity` |
-| [Style](productivity/style_55090a47/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/style.md) | ⭐ 16 | `productivity` |
+| [Style](productivity/154-style_55090a47/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/style.md) | ⭐ 16 | `productivity` |
 
 ### Research (399 skills)
 
