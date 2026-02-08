@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9475 AI-powered skills** organized into 16 categories.
+A curated collection of **9480 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,17 +13,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (136 skills)
 - **Commercial** (586 skills)
 - **Communication** (373 skills)
-- **Content Creation** (617 skills)
+- **Content Creation** (618 skills)
 - **Daily Assistant** (391 skills)
 - **Data Analysis** (905 skills)
-- **Development** (4498 skills)
-- **Development/Devops** (198 skills)
+- **Development** (4499 skills)
+- **Development/Devops** (199 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (233 skills)
 - **Investment** (58 skills)
 - **Other** (44 skills)
-- **Productivity** (248 skills)
-- **Research** (399 skills)
+- **Productivity** (249 skills)
+- **Research** (400 skills)
 
 ## Skills Directory
 
@@ -1887,7 +1887,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Spec Coverage](communication/219-spec-coverage_62dcd6d7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/references/spec-coverage.md) | ⭐ 20 | `communication` |
 | [Mcp Registry Cli](communication/220-mcp-registry-cli_c6590db4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/mcp-registry-cli.md) | ⭐ 424 | `communication` |
 
-### Content Creation (617 skills)
+### Content Creation (618 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2508,6 +2508,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/277-bmad-skill_14981976/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-designer/SKILL.md) | ⭐ 10 | `content creation` |
 | [Connection Pooling](content-creation/278-connection-pooling_89588aca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/connection-pooling.md) | ⭐ 20 | `content creation` |
 | [Performance](content-creation/279-performance_51e5fd0a/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/performance.md) | ⭐ 16 | `content creation` |
+| [Skill](content-creation/name-skill_1de70b92/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/art-director/SKILL.md) | ⭐ 14 | `content creation` |
 
 ### Daily Assistant (391 skills)
 
@@ -3815,7 +3816,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 | [Api Reference](data-analysis/404-api-reference_fc785ae0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/api-reference.md) | ⭐ 424 | `data analysis` |
 
-### Development (4498 skills)
+### Development (4499 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8316,9 +8317,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Versioning](development/2289-server-versioning_08ec8521/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/server-versioning.md) | ⭐ 424 | `development` |
 | [Skill](development/1178-name-skill_e4b44b49/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/SKILL.md) | ⭐ 92 | `development` |
 | [Readme Cn](development/770-readme_cn_b3bbb46e/) | [KaguraNanaga/document-format-skills](https://raw.githubusercontent.com/KaguraNanaga/document-format-skills/main/README_CN.md) | ⭐ 20 | `development` |
-| [Pdd Vs Agentic Cli Definitive Proof Plan](development/pdd_vs_agentic_cli_definitive_proof_plan_1b08bb0a/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/pdd_vs_agentic_cli_definitive_proof_plan.md) | ⭐ 425 | `development` |
+| [Pdd Vs Agentic Cli Definitive Proof Plan](development/2312-pdd_vs_agentic_cli_definitive_proof_plan_1b08bb0a/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/pdd_vs_agentic_cli_definitive_proof_plan.md) | ⭐ 425 | `development` |
+| [Debugging](development/debugging_46000e51/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/debugging.md) | ⭐ 14 | `development` |
 
-### Development/Devops (198 skills)
+### Development/Devops (199 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8470,7 +8472,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_ac1810a7/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.0k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_44d13466/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.0k | `development` |
 | [Claude](development/devops/205-claude_f1887db5/) | [dreamiurg/claude-mountaineering-skills](https://raw.githubusercontent.com/dreamiurg/claude-mountaineering-skills/main/CLAUDE.md) | ⭐ 12 | `development` |
-| [Skill](development/devops/014-name-skill_d81c9f23/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_06bdeaee/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
 | [Index](development/devops/050-index_51d976f9/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md) | ⭐ 29 | `development` |
 | [Configuration](development/devops/009-configuration_346a1e28/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md) | 🔥 5.6k | `development` |
 | [Environment Setup](development/devops/200-environment-setup_9a8e9a5f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 5.6k | `development` |
@@ -8520,6 +8522,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Deployment](development/devops/258-deployment_db10b5a9/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/deployment.md) | ⭐ 424 | `development` |
 | [Operations](development/devops/259-operations_340910b0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/OPERATIONS.md) | ⭐ 424 | `development` |
 | [Readme Documentdb Cli](development/devops/260-readme-documentdb-cli_4aeabbe3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/scripts/README-DOCUMENTDB-CLI.md) | ⭐ 424 | `development` |
+| [Skill](development/devops/014-name-skill_06bdeaee/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
 
 ### Development/Testing (50 skills)
 
@@ -8926,7 +8929,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (248 skills)
+### Productivity (249 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9178,8 +9181,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Ux Grading Rubric](productivity/152-ux-grading-rubric_9ecab11c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-improver/references/ux-grading-rubric.md) | ⭐ 10 | `productivity` |
 | [Extras Formats](productivity/153-extras-formats_c4c434c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exdoc-config/references/extras-formats.md) | ⭐ 20 | `productivity` |
 | [Style](productivity/154-style_55090a47/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/style.md) | ⭐ 16 | `productivity` |
+| [Facilitation](productivity/facilitation_a0fadd7d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/facilitation.md) | ⭐ 14 | `productivity` |
 
-### Research (399 skills)
+### Research (400 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9582,6 +9586,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Arxiv Survey.Pipeline](research/237-arxiv-surveypipeline_3c125a74/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 192 | `research` |
 | [Skill](research/139-name-skill_b3a385d8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 192 | `research` |
 | [Skill](research/139-name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
+| [Enhancement Log](research/enhancement-log_8a623789/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/enhancement-log.md) | ⭐ 14 | `research` |
 
 ## Repository Structure
 
