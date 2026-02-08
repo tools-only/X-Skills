@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9694 AI-powered skills** organized into 16 categories.
+A curated collection of **9710 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (67 skills)
+- **Automation/Scripting** (70 skills)
 - **Automation/Workflow** (140 skills)
 - **Commercial** (589 skills)
-- **Communication** (377 skills)
+- **Communication** (379 skills)
 - **Content Creation** (639 skills)
 - **Daily Assistant** (395 skills)
-- **Data Analysis** (915 skills)
-- **Development** (4566 skills)
-- **Development/Devops** (241 skills)
-- **Development/Testing** (52 skills)
+- **Data Analysis** (918 skills)
+- **Development** (4575 skills)
+- **Development/Devops** (240 skills)
+- **Development/Testing** (51 skills)
 - **Development/Tools** (272 skills)
 - **Investment** (59 skills)
-- **Other** (44 skills)
+- **Other** (45 skills)
 - **Productivity** (251 skills)
 - **Research** (415 skills)
 
@@ -724,7 +724,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (67 skills)
+### Automation/Scripting (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -795,6 +795,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Worker Pools](automation/scripting/066-worker-pools_2c62a78c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/references/worker-pools.md) | ⭐ 20 | `automation` |
 | [Data Retention](automation/scripting/067-data-retention_92897d7a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/data-retention.md) | ⭐ 424 | `automation` |
 | [Database Schema](automation/scripting/068-database-schema_76b12499/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/database-schema.md) | ⭐ 424 | `automation` |
+| [Orc](automation/scripting/orc_a123cf0b/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 600 | `automation` |
+| [Review](automation/scripting/review_640becbf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 600 | `automation` |
+| [Event Stream](automation/scripting/event_stream_76b773ee/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/event_stream.md) | ⭐ 75 | `automation` |
 
 ### Automation/Workflow (140 skills)
 
@@ -939,7 +942,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Agents](automation/workflow/073-agents_f50485aa/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/AGENTS.md) | ⭐ 16 | `automation` |
 | [Progressive Disclosure](automation/workflow/083-progressive-disclosure_5243e1f0/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/progressive-disclosure.md) | ⭐ 16 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ae1d0569/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/name-skill_40106914/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 57 | `automation` |
+| [Skill](automation/workflow/002-name-skill_40106914/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 57 | `automation` |
 
 ### Commercial (589 skills)
 
@@ -1533,9 +1536,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme.Ja](commercial/334-readmeja_4f44dbc0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `commercial` |
 | [Llama Index](commercial/335-llama_index_b566e2ab/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/LLAMA_INDEX.md) | 🔥 9.1k | `commercial` |
 | [Pinecone](commercial/336-pinecone_e280326c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/PINECONE.md) | 🔥 9.1k | `commercial` |
-| [Cli Commands](commercial/cli-commands_d80bc2c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/cli-commands.md) | ⭐ 57 | `commercial` |
+| [Cli Commands](commercial/037-cli-commands_d80bc2c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/cli-commands.md) | ⭐ 57 | `commercial` |
 
-### Communication (377 skills)
+### Communication (379 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1915,7 +1918,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Troubleshoot](communication/221-troubleshoot_a12bed60/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.5k | `communication` |
 | [Ui Team Soft Budget Alerts](communication/222-ui_team_soft_budget_alerts_cbd5d15a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_team_soft_budget_alerts.md) | 🔥 35.5k | `communication` |
 | [Rag Pipelines](communication/223-rag_pipelines_23c48ef1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/RAG_PIPELINES.md) | 🔥 9.1k | `communication` |
-| [Fde Experience Specialist](communication/fde-experience-specialist_dbbe1eee/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-experience-specialist.md) | ⭐ 57 | `communication` |
+| [Llm Chat](communication/llm_chat_57c5fa0a/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/llm_chat.md) | ⭐ 75 | `communication` |
+| [Llm Interface](communication/llm_interface_e8e67950/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/llm_interface.md) | ⭐ 75 | `communication` |
+| [Examples](communication/examples_22a550f8/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/examples.md) | ⭐ 75 | `communication` |
 
 ### Content Creation (639 skills)
 
@@ -2959,9 +2964,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Index](daily-assistant/052-index_cb00fdaf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.5k | `testing` `observability` `reliability` |
 | [Skill](daily-assistant/032-name-skill_8ae3053c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/SKILL.md) | ⭐ 16 | `daily assistant` |
 | [Frontmatter Guide](daily-assistant/223-frontmatter-guide_8347f543/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/frontmatter-guide.md) | ⭐ 16 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_0de10580/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/SKILL.md) | ⭐ 57 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_0de10580/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/SKILL.md) | ⭐ 57 | `daily assistant` |
 
-### Data Analysis (915 skills)
+### Data Analysis (918 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3880,8 +3885,11 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Claude](data-analysis/036-claude_2df8f54b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/CLAUDE.md) | ⭐ 16 | `data analysis` |
 | [Claude](data-analysis/036-claude_32bf512b/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/CLAUDE.md) | ⭐ 22 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_bdd152e4/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md) | ⭐ 22 | `data analysis` |
+| [Context](data-analysis/context_4f65886e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/context.md) | ⭐ 600 | `data analysis` |
+| [Readme Zh](data-analysis/readme_zh_83c20fc4/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/README_ZH.md) | ⭐ 75 | `data analysis` |
+| [Tool](data-analysis/tool_cf3974f2/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/tool.md) | ⭐ 75 | `data analysis` |
 
-### Development (4566 skills)
+### Development (4575 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8447,12 +8455,21 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Implementation Roadmap](development/2373-implementation_roadmap_6a270578/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/IMPLEMENTATION_ROADMAP.md) | ⭐ 22 | `development` |
 | [Quickmenu Integration Plan](development/2374-quickmenu_integration_plan_a70aea26/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/QUICKMENU_INTEGRATION_PLAN.md) | ⭐ 22 | `development` |
 | [Skill](development/1178-name-skill_a8e4d2e6/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-commit/SKILL.md) | ⭐ 40 | `development` |
-| [Skill](development/name-skill_3dc8036c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/SKILL.md) | ⭐ 57 | `development` |
-| [Agents](development/agents_f46146ee/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
-| [Fde Engineer](development/fde-engineer_8eeb4ed3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-engineer.md) | ⭐ 57 | `development` |
-| [Building](development/building_fb313755/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/building.md) | ⭐ 3.3k | `development` |
+| [Skill](development/1178-name-skill_3dc8036c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/SKILL.md) | ⭐ 57 | `development` |
+| [Agents](development/028-agents_f46146ee/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
+| [Fixes](development/fixes_1d071afe/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/fixes.md) | ⭐ 600 | `development` |
+| [Lore](development/lore_f9ab3c48/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/lore.md) | ⭐ 600 | `development` |
+| [Report](development/report_9d4c1a1d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/report.md) | ⭐ 600 | `development` |
+| [Syzkaller](development/syzkaller_3da09aa9/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/syzkaller.md) | ⭐ 600 | `development` |
+| [Cs 001](development/cs-001_b60133e0/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/patterns/CS-001.md) | ⭐ 600 | `development` |
+| [Copilot Instructions](development/copilot-instructions_27aa4bd9/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/.github/copilot-instructions.md) | ⭐ 75 | `development` |
+| [Quickstart](development/quickstart_8c6c3f35/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/quickstart.md) | ⭐ 75 | `development` |
+| [Config](development/config_d6173452/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/config.md) | ⭐ 75 | `development` |
+| [Guide](development/guide_1a603b2c/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/guide.md) | ⭐ 75 | `development` |
+| [Introduction](development/introduction_14a3b97e/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/introduction.md) | ⭐ 75 | `development` |
+| [Llm Function](development/llm_function_5d683556/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/llm_function.md) | ⭐ 75 | `development` |
 
-### Development/Devops (241 skills)
+### Development/Devops (240 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8690,15 +8707,14 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_4de69ccc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.1k | `development` |
 | [Agents](development/devops/053-agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_813886da/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
-| [Fde Strategist](development/devops/fde-strategist_bb14b9e0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-strategist.md) | ⭐ 57 | `development` |
-| [Skill](development/devops/name-skill_b441f537/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/SKILL.md) | ⭐ 57 | `development` |
-| [Cli Commands](development/devops/cli-commands_1d5556cc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/cli-commands.md) | ⭐ 57 | `development` |
-| [Sf Cli Commands](development/devops/sf-cli-commands_096dd3b7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/docs/sf-cli-commands.md) | ⭐ 57 | `development` |
-| [Developer Onboarding](development/devops/developer-onboarding_0d9ce36c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-onboarding.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_e09dd2ca/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/index.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_ac1c851d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/index.md) | ⭐ 3.3k | `development` |
+| [Fde Strategist](development/devops/277-fde-strategist_bb14b9e0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-strategist.md) | ⭐ 57 | `development` |
+| [Skill](development/devops/014-name-skill_b441f537/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/SKILL.md) | ⭐ 57 | `development` |
+| [Cli Commands](development/devops/278-cli-commands_1d5556cc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/cli-commands.md) | ⭐ 57 | `development` |
+| [Sf Cli Commands](development/devops/279-sf-cli-commands_096dd3b7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/docs/sf-cli-commands.md) | ⭐ 57 | `development` |
+| [Developer Onboarding](development/devops/280-developer-onboarding_0d9ce36c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-onboarding.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/050-index_e09dd2ca/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/index.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (52 skills)
+### Development/Testing (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8753,7 +8769,6 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
 | [Agents](development/testing/024-agents_935be579/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
-| [Skill](development/testing/name-skill_663bfe56/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-testing/SKILL.md) | ⭐ 57 | `development` |
 
 ### Development/Tools (272 skills)
 
@@ -8967,7 +8982,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Install](development/tools/213-install_5d240a7d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/INSTALL.md) | ⭐ 10 | `development` |
 | [Prd](development/tools/249-prd_ac78db14/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/PRD.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_89758e74/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 20 | `development` |
-| [Skill](development/tools/name-skill_f84f0edd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 57 | `development` |
+| [Skill](development/tools/002-name-skill_827c94ef/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 56 | `development` |
 | [Quickstart](development/tools/250-quickstart_faa4727c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/QUICKSTART.md) | ⭐ 10 | `development` |
 | [Release Notes](development/tools/251-release-notes_0ad50623/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/RELEASE-NOTES.md) | ⭐ 10 | `development` |
 | [Index](development/tools/062-index_2c735df8/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 10 | `development` |
@@ -9025,12 +9040,12 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_71ea12ad/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.1k | `development` |
 | [Agentskills](development/tools/270-agentskills_a3da6511/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/AgentSkills.md) | ⭐ 16 | `development` |
 | [Anthropic Subagents Guide](development/tools/271-anthropic-subagents-guide_36283e1c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/anthropic-subagents-guide.md) | ⭐ 16 | `development` |
-| [Fde Qa Engineer](development/tools/fde-qa-engineer_497a4a08/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-qa-engineer.md) | ⭐ 57 | `development` |
-| [Fde Release Engineer](development/tools/fde-release-engineer_402778a8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-release-engineer.md) | ⭐ 57 | `development` |
-| [Ps Technical Architect](development/tools/ps-technical-architect_0d0bcec5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/ps-technical-architect.md) | ⭐ 57 | `development` |
+| [Fde Qa Engineer](development/tools/272-fde-qa-engineer_497a4a08/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-qa-engineer.md) | ⭐ 57 | `development` |
+| [Fde Release Engineer](development/tools/273-fde-release-engineer_402778a8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-release-engineer.md) | ⭐ 57 | `development` |
+| [Ps Technical Architect](development/tools/274-ps-technical-architect_0d0bcec5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/ps-technical-architect.md) | ⭐ 57 | `development` |
 | [Skill](development/tools/002-name-skill_f84f0edd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 57 | `development` |
-| [Soql Reference](development/tools/soql-reference_6c13c987/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/soql-reference.md) | ⭐ 57 | `development` |
-| [Cli Commands](development/tools/cli-commands_34d1b620/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-testing/docs/cli-commands.md) | ⭐ 57 | `development` |
+| [Soql Reference](development/tools/275-soql-reference_6c13c987/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/soql-reference.md) | ⭐ 57 | `development` |
+| [Langfuse Integration](development/tools/langfuse_integration_b196b899/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/langfuse_integration.md) | ⭐ 75 | `development` |
 
 ### Investment (59 skills)
 
@@ -9096,7 +9111,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_0b595b60/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 424 | `investment` |
 | [Skills Guide](investment/036-skills-guide_d55028cd/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/skills-guide.md) | ⭐ 16 | `investment` |
 
-### Other (44 skills)
+### Other (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9144,6 +9159,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [01 Architecture](other/005-openviking_0b6f9832/) | [Unknown](#) | N/A | `data analysis` |
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
+| [Index](other/index_59da8cad/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/index.md) | ⭐ 75 | `other` |
 
 ### Productivity (251 skills)
 
@@ -9819,7 +9835,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](research/139-name-skill_2a57cdcd/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/subsection-writer/SKILL.md) | ⭐ 194 | `research` |
 | [Readme.En](research/230-readmeen_0d3e9c45/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 194 | `research` |
 | [Will Reviewer](research/242-will-reviewer_d24c364f/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/will-reviewer.md) | ⭐ 16 | `research` |
-| [Ps Solution Architect](research/ps-solution-architect_62003ae2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/ps-solution-architect.md) | ⭐ 57 | `research` |
+| [Ps Solution Architect](research/243-ps-solution-architect_62003ae2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/ps-solution-architect.md) | ⭐ 57 | `research` |
 
 ## How Skills Are Organized
 
@@ -9871,5 +9887,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 21:08:01 UTC*
+*Last updated: 2026-02-08 22:01:30 UTC*
 *Automatically maintained by SkillFlow*
