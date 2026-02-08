@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9663 AI-powered skills** organized into 16 categories.
+A curated collection of **9667 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -15,8 +15,8 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (376 skills)
 - **Content Creation** (638 skills)
 - **Daily Assistant** (394 skills)
-- **Data Analysis** (913 skills)
-- **Development** (4558 skills)
+- **Data Analysis** (915 skills)
+- **Development** (4560 skills)
 - **Development/Devops** (234 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (266 skills)
@@ -2956,7 +2956,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](daily-assistant/032-name-skill_8ae3053c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/SKILL.md) | ⭐ 16 | `daily assistant` |
 | [Frontmatter Guide](daily-assistant/223-frontmatter-guide_8347f543/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/frontmatter-guide.md) | ⭐ 16 | `daily assistant` |
 
-### Data Analysis (913 skills)
+### Data Analysis (915 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3873,8 +3873,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Learning Graph Viewer](data-analysis/129-learning-graph-viewer_b3ef66a1/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-graph-viewer.md) | ⭐ 16 | `data analysis` |
 | [Agents](data-analysis/341-agents_87b923e8/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/AGENTS.md) | ⭐ 16 | `data analysis` |
 | [Claude](data-analysis/036-claude_2df8f54b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/CLAUDE.md) | ⭐ 16 | `data analysis` |
+| [Claude](data-analysis/claude_32bf512b/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/CLAUDE.md) | ⭐ 22 | `data analysis` |
+| [Skill](data-analysis/name-skill_bdd152e4/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md) | ⭐ 22 | `data analysis` |
 
-### Development (4558 skills)
+### Development (4560 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8436,6 +8438,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill Validation](development/2368-skill-validation_510877db/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/references/skill-validation.md) | ⭐ 16 | `development` |
 | [Bundled Resources](development/116-bundled-resources_f19bba81/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/bundled-resources.md) | ⭐ 16 | `development` |
 | [Validation Checklist](development/2369-validation-checklist_0cbb8382/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/validation-checklist.md) | ⭐ 16 | `development` |
+| [Agents](development/agents_e22e3f3c/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Skill](development/name-skill_eb3fc0d3/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 22 | `development` |
 
 ### Development/Devops (234 skills)
 
@@ -8674,7 +8678,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_f61a3515/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.1k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_4de69ccc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.1k | `development` |
 | [Agents](development/devops/053-agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
-| [Ci Cd Infrastructure](development/devops/ci_cd_infrastructure_813886da/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
+| [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_813886da/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 
 ### Development/Testing (50 skills)
 
@@ -9840,5 +9844,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 19:01:25 UTC*
+*Last updated: 2026-02-08 20:02:52 UTC*
 *Automatically maintained by SkillFlow*

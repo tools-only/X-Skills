@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-08T19:01:23.781132",
+  "updated_at": "2026-02-08T20:02:51.885670",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -135283,6 +135283,34 @@
       "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md",
       "display_name": "Ci Cd Infrastructure",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "32bf512b13225180fbe70b2e6a540d43ea504749be06d7e614fa96190d715bb0",
+      "source_path": ".claude/CLAUDE.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "data-analysis/036-claude_32bf512b",
+      "category": "data-analysis",
+      "name": "claude_32bf512b",
+      "indexed_at": "2026-02-08T20:02:50.793718",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-07T22:49:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "bdd152e4e5cb902c56b39d066a24e1238f3dc6228b2acee8be3af85b698c7596",
+      "source_path": "plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "data-analysis/226-name-skill_bdd152e4",
+      "category": "data-analysis",
+      "name": "name-skill_bdd152e4",
+      "indexed_at": "2026-02-08T20:02:51.885613",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-07T21:59:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
