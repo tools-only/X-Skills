@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9723 AI-powered skills** organized into 16 categories.
+A curated collection of **9808 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -10,20 +10,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation** (672 skills)
 - **Automation/Scripting** (72 skills)
-- **Automation/Workflow** (140 skills)
+- **Automation/Workflow** (141 skills)
 - **Commercial** (591 skills)
-- **Communication** (381 skills)
-- **Content Creation** (643 skills)
-- **Daily Assistant** (396 skills)
+- **Communication** (383 skills)
+- **Content Creation** (647 skills)
+- **Daily Assistant** (402 skills)
 - **Data Analysis** (921 skills)
-- **Development** (4575 skills)
-- **Development/Devops** (240 skills)
-- **Development/Testing** (51 skills)
-- **Development/Tools** (272 skills)
-- **Investment** (59 skills)
+- **Development** (4607 skills)
+- **Development/Devops** (250 skills)
+- **Development/Testing** (57 skills)
+- **Development/Tools** (292 skills)
+- **Investment** (60 skills)
 - **Other** (44 skills)
-- **Productivity** (251 skills)
-- **Research** (415 skills)
+- **Productivity** (252 skills)
+- **Research** (417 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -798,10 +798,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Orc](automation/scripting/069-orc_a123cf0b/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 600 | `automation` |
 | [Review](automation/scripting/070-review_640becbf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 600 | `automation` |
 | [Event Stream](automation/scripting/071-event_stream_76b773ee/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/event_stream.md) | ⭐ 75 | `automation` |
-| [Commands](automation/scripting/commands_e78be563/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/notebooklm/references/commands.md) | ⭐ 66 | `automation` |
-| [Skill](automation/scripting/name-skill_65bfac3e/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/notebooklm/SKILL.md) | ⭐ 66 | `automation` |
+| [Commands](automation/scripting/072-commands_e78be563/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/notebooklm/references/commands.md) | ⭐ 66 | `automation` |
+| [Skill](automation/scripting/name-skill_6f5dacc0/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/decision-helper/SKILL.md) | 🔥 92.8k | `automation` |
 
-### Automation/Workflow (140 skills)
+### Automation/Workflow (141 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -945,6 +945,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Progressive Disclosure](automation/workflow/083-progressive-disclosure_5243e1f0/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/progressive-disclosure.md) | ⭐ 16 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ae1d0569/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_40106914/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 57 | `automation` |
+| [Skill](automation/workflow/name-skill_93db11ad/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/sprint-planner/SKILL.md) | 🔥 92.8k | `automation` |
 
 ### Commercial (591 skills)
 
@@ -1539,10 +1540,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Llama Index](commercial/335-llama_index_b566e2ab/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/LLAMA_INDEX.md) | 🔥 9.1k | `commercial` |
 | [Pinecone](commercial/336-pinecone_e280326c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/PINECONE.md) | 🔥 9.1k | `commercial` |
 | [Cli Commands](commercial/037-cli-commands_d80bc2c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/cli-commands.md) | ⭐ 57 | `commercial` |
-| [Skill](commercial/name-skill_5db33f7f/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 66 | `commercial` |
-| [Skill](commercial/name-skill_7221e733/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 66 | `commercial` |
+| [Skill](commercial/210-name-skill_5db33f7f/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 66 | `commercial` |
+| [Skill](commercial/210-name-skill_7221e733/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 66 | `commercial` |
 
-### Communication (381 skills)
+### Communication (383 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1924,11 +1925,13 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Rag Pipelines](communication/223-rag_pipelines_23c48ef1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/RAG_PIPELINES.md) | 🔥 9.1k | `communication` |
 | [Llm Chat](communication/224-llm_chat_57c5fa0a/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/llm_chat.md) | ⭐ 75 | `communication` |
 | [Llm Interface](communication/225-llm_interface_e8e67950/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/llm_interface.md) | ⭐ 75 | `communication` |
-| [Skill](communication/name-skill_484d4075/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 66 | `communication` |
-| [Skill](communication/name-skill_0c32c06d/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 66 | `communication` |
-| [Api](communication/api_b56af16b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/references/api.md) | ⭐ 66 | `communication` |
+| [Skill](communication/127-name-skill_484d4075/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 66 | `communication` |
+| [Skill](communication/127-name-skill_0c32c06d/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 66 | `communication` |
+| [Api](communication/226-api_b56af16b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/references/api.md) | ⭐ 66 | `communication` |
+| [Skill](communication/name-skill_df135e30/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/email-drafter/SKILL.md) | 🔥 92.8k | `communication` |
+| [V0.10.2](communication/v0102_66e3c4de/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.2.md) | ⭐ 4.2k | `communication` |
 
-### Content Creation (643 skills)
+### Content Creation (647 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2571,12 +2574,16 @@ Pre-configured skill bundles for common AI agent use cases.
 | [P5 Guide](content-creation/292-p5-guide_079ce665/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/p5-guide.md) | ⭐ 16 | `content creation` |
 | [Skill](content-creation/049-name-skill_6310ca0d/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/SKILL.md) | ⭐ 16 | `content creation` |
 | [Beijerbot Feature Analysis](content-creation/293-beijerbot_feature_analysis_f4cf99bd/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/BEIJERBOT_FEATURE_ANALYSIS.md) | ⭐ 22 | `content creation` |
-| [Skill](content-creation/name-skill_c0379b7f/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-docs/SKILL.md) | ⭐ 66 | `content creation` |
-| [Skill](content-creation/name-skill_be835676/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-slides/SKILL.md) | ⭐ 66 | `content creation` |
-| [Skill](content-creation/name-skill_d7f2d3af/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/outline/SKILL.md) | ⭐ 66 | `content creation` |
-| [Skill](content-creation/name-skill_d6d6b2c5/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/postgres/SKILL.md) | ⭐ 66 | `content creation` |
+| [Skill](content-creation/049-name-skill_c0379b7f/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-docs/SKILL.md) | ⭐ 66 | `content creation` |
+| [Skill](content-creation/049-name-skill_be835676/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-slides/SKILL.md) | ⭐ 66 | `content creation` |
+| [Skill](content-creation/049-name-skill_d7f2d3af/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/outline/SKILL.md) | ⭐ 66 | `content creation` |
+| [Skill](content-creation/049-name-skill_d6d6b2c5/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/postgres/SKILL.md) | ⭐ 66 | `content creation` |
+| [Skill](content-creation/name-skill_38aa9012/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/content-creator/SKILL.md) | 🔥 92.8k | `content creation` |
+| [Skill](content-creation/name-skill_0427e5e0/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/editor/SKILL.md) | 🔥 92.8k | `content creation` |
+| [Agents](content-creation/agents_014a6e33/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/python-expert/AGENTS.md) | 🔥 92.8k | `content creation` |
+| [Patch](content-creation/patch_f8ca9443/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/patch.md) | ⭐ 4.2k | `content creation` |
 
-### Daily Assistant (396 skills)
+### Daily Assistant (402 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2975,7 +2982,13 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](daily-assistant/032-name-skill_8ae3053c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/SKILL.md) | ⭐ 16 | `daily assistant` |
 | [Frontmatter Guide](daily-assistant/223-frontmatter-guide_8347f543/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/frontmatter-guide.md) | ⭐ 16 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_0de10580/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/SKILL.md) | ⭐ 57 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_afaad2a7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-calendar/SKILL.md) | ⭐ 66 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_afaad2a7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-calendar/SKILL.md) | ⭐ 66 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_2a93fc43/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/fact-checker/SKILL.md) | 🔥 92.8k | `daily assistant` |
+| [V0.2.1](daily-assistant/v021_b0b6b0ef/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.2.1.md) | ⭐ 4.2k | `daily assistant` |
+| [V0.3.1](daily-assistant/v031_92ab4c6b/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.3.1.md) | ⭐ 4.2k | `daily assistant` |
+| [V0.4.2](daily-assistant/v042_5b666a0d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.4.2.md) | ⭐ 4.2k | `daily assistant` |
+| [V0.6.0](daily-assistant/v060_a6fe3637/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.6.0.md) | ⭐ 4.2k | `daily assistant` |
+| [V0.7.0](daily-assistant/v070_a26cc47c/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.7.0.md) | ⭐ 4.2k | `daily assistant` |
 
 ### Data Analysis (921 skills)
 
@@ -3899,11 +3912,11 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Context](data-analysis/409-context_4f65886e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/context.md) | ⭐ 600 | `data analysis` |
 | [Readme Zh](data-analysis/410-readme_zh_83c20fc4/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/README_ZH.md) | ⭐ 75 | `data analysis` |
 | [Tool](data-analysis/411-tool_cf3974f2/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/tool.md) | ⭐ 75 | `data analysis` |
-| [Reference](data-analysis/reference_87a2fde7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/imagen/reference.md) | ⭐ 66 | `data analysis` |
-| [Skill](data-analysis/name-skill_7f6a151b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/SKILL.md) | ⭐ 66 | `data analysis` |
-| [Examples](data-analysis/examples_d0ee5e59/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/imagen/examples.md) | ⭐ 66 | `data analysis` |
+| [Reference](data-analysis/286-reference_87a2fde7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/imagen/reference.md) | ⭐ 66 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7f6a151b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/SKILL.md) | ⭐ 66 | `data analysis` |
+| [Skill](data-analysis/name-skill_7cf80d53/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/visualization-expert/SKILL.md) | 🔥 92.8k | `data analysis` |
 
-### Development (4575 skills)
+### Development (4607 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8479,11 +8492,43 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Copilot Instructions](development/1781-copilot-instructions_27aa4bd9/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/.github/copilot-instructions.md) | ⭐ 75 | `development` |
 | [Quickstart](development/760-quickstart_8c6c3f35/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/quickstart.md) | ⭐ 75 | `development` |
 | [Config](development/190-config_d6173452/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/config.md) | ⭐ 75 | `development` |
-| [Skill](development/name-skill_7c3c91d7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/jules/SKILL.md) | ⭐ 66 | `development` |
-| [Skill](development/name-skill_80eb6d22/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/deep-research/SKILL.md) | ⭐ 66 | `development` |
-| [Skill](development/name-skill_3024eae8/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/imagen/SKILL.md) | ⭐ 66 | `development` |
+| [Skill](development/1178-name-skill_7c3c91d7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/jules/SKILL.md) | ⭐ 66 | `development` |
+| [Skill](development/name-skill_332f27da/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/SKILL.md) | 🔥 92.8k | `development` |
+| [Skill](development/name-skill_144e8245/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/data-analyst/SKILL.md) | 🔥 92.8k | `development` |
+| [Skill](development/name-skill_85b6e69e/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/debugger/SKILL.md) | 🔥 92.8k | `development` |
+| [Skill](development/name-skill_ea1efbc2/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/project-planner/SKILL.md) | 🔥 92.8k | `development` |
+| [Skill](development/name-skill_7be2fab8/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/python-expert/SKILL.md) | 🔥 92.8k | `development` |
+| [Skill](development/name-skill_485d1afc/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/technical-writer/SKILL.md) | 🔥 92.8k | `development` |
+| [Maintainability Type Hints](development/maintainability-type-hints_68325d89/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/rules/maintainability-type-hints.md) | 🔥 92.8k | `development` |
+| [Security Sql Injection](development/security-sql-injection_546d66cd/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/rules/security-sql-injection.md) | 🔥 92.8k | `development` |
+| [V0.10.0](development/v0100_85646147/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.0.md) | ⭐ 4.2k | `development` |
+| [V0.10.1](development/v0101_4dc893d6/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.1.md) | ⭐ 4.2k | `development` |
+| [V0.10.3](development/v0103_8f8b7a7f/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.3.md) | ⭐ 4.2k | `development` |
+| [V0.10.4](development/v0104_be4a8c23/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.4.md) | ⭐ 4.2k | `development` |
+| [V0.10.5](development/v0105_61ca6919/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.5.md) | ⭐ 4.2k | `development` |
+| [V0.11.0](development/v0110_3cbbf2c9/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.11.0.md) | ⭐ 4.2k | `development` |
+| [V0.12.0](development/v0120_eccb68d3/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.12.0.md) | ⭐ 4.2k | `development` |
+| [V0.16.0](development/v0160_f82737fd/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.16.0.md) | ⭐ 4.2k | `development` |
+| [V0.19.0](development/v0190_5a447c02/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.19.0.md) | ⭐ 4.2k | `development` |
+| [V0.23.0](development/v0230_35a849fb/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.23.0.md) | ⭐ 4.2k | `development` |
+| [V0.28.0](development/v0280_24ca84e5/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.28.0.md) | ⭐ 4.2k | `development` |
+| [V0.3.0](development/v030_96c65675/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.3.0.md) | ⭐ 4.2k | `development` |
+| [V0.8.1](development/v081_0273a540/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.8.1.md) | ⭐ 4.2k | `development` |
+| [V0.9.1](development/v091_f31263ac/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.1.md) | ⭐ 4.2k | `development` |
+| [V0.9.2](development/v092_bfe0601c/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.2.md) | ⭐ 4.2k | `development` |
+| [Browser](development/browser_efad0f30/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/browser.md) | ⭐ 4.2k | `development` |
+| [Git](development/git_f39bcc62/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/workflows/git.md) | ⭐ 4.2k | `development` |
+| [Agents](development/agents_b61a49ea/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/AGENTS.md) | 🔥 92.8k | `development` |
+| [Correctness Error Handling](development/correctness-error-handling_b4ab7fd6/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/rules/correctness-error-handling.md) | 🔥 92.8k | `development` |
+| [Maintainability Naming](development/maintainability-naming_48aed339/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/rules/maintainability-naming.md) | 🔥 92.8k | `development` |
+| [Performance N Plus One](development/performance-n-plus-one_387c40d8/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/rules/performance-n-plus-one.md) | 🔥 92.8k | `development` |
+| [Security Xss Prevention](development/security-xss-prevention_dcedfff5/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/code-reviewer/rules/security-xss-prevention.md) | 🔥 92.8k | `development` |
+| [Glossary](development/glossary_f8ec14d7/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/glossary.md) | ⭐ 4.2k | `development` |
+| [Examples](development/examples_8e4b7e9d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/EXAMPLES.md) | ⭐ 4.2k | `development` |
+| [Testing](development/testing_31523b5f/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/TESTING.md) | ⭐ 4.2k | `development` |
+| [Python](development/python_c7ce89a9/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/python.md) | ⭐ 4.2k | `development` |
 
-### Development/Devops (240 skills)
+### Development/Devops (250 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8720,15 +8765,25 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_f61a3515/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.1k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_4de69ccc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.1k | `development` |
 | [Agents](development/devops/053-agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
-| [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_813886da/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
+| [Ci Cd Infrastructure](development/devops/ci_cd_infrastructure_f66f7d8b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 | [Fde Strategist](development/devops/277-fde-strategist_bb14b9e0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-strategist.md) | ⭐ 57 | `development` |
 | [Skill](development/devops/014-name-skill_b441f537/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/SKILL.md) | ⭐ 57 | `development` |
 | [Cli Commands](development/devops/278-cli-commands_1d5556cc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/cli-commands.md) | ⭐ 57 | `development` |
 | [Sf Cli Commands](development/devops/279-sf-cli-commands_096dd3b7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/docs/sf-cli-commands.md) | ⭐ 57 | `development` |
 | [Developer Onboarding](development/devops/280-developer-onboarding_0d9ce36c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-onboarding.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_e09dd2ca/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/index.md) | ⭐ 3.3k | `development` |
+| [Skill](development/devops/name-skill_53077f62/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/fullstack-developer/SKILL.md) | 🔥 92.8k | `development` |
+| [V0.1.1](development/devops/v011_9acae10e/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.1.1.md) | ⭐ 4.2k | `development` |
+| [V0.15.0](development/devops/v0150_0cb5a13c/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.15.0.md) | ⭐ 4.2k | `development` |
+| [V0.24.1](development/devops/v0241_39c2ef86/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.24.1.md) | ⭐ 4.2k | `development` |
+| [V0.26.0](development/devops/v0260_fc5649ff/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.26.0.md) | ⭐ 4.2k | `development` |
+| [V0.30.0](development/devops/v0300_20a05b1e/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.30.0.md) | ⭐ 4.2k | `development` |
+| [V0.31.0](development/devops/v0310_379c8fcb/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.31.0.md) | ⭐ 4.2k | `development` |
+| [V0.8.0](development/devops/v080_7b51da04/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.8.0.md) | ⭐ 4.2k | `development` |
+| [V0.9.4](development/devops/v094_52d29f47/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.4.md) | ⭐ 4.2k | `development` |
+| [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_f66f7d8b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 
-### Development/Testing (51 skills)
+### Development/Testing (57 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8783,8 +8838,14 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
 | [Agents](development/testing/024-agents_935be579/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [V0.13.0](development/testing/v0130_0cea2876/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.13.0.md) | ⭐ 4.2k | `development` |
+| [V0.29.0](development/testing/v0290_6577b4e0/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.29.0.md) | ⭐ 4.2k | `development` |
+| [V0.4.1](development/testing/v041_7bd26143/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.4.1.md) | ⭐ 4.2k | `development` |
+| [V0.5.0](development/testing/v050_bbcdd602/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.5.0.md) | ⭐ 4.2k | `development` |
+| [V0.9.0](development/testing/v090_6985fd69/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.0.md) | ⭐ 4.2k | `development` |
+| [Shell](development/testing/shell_1903542d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/shell.md) | ⭐ 4.2k | `development` |
 
-### Development/Tools (272 skills)
+### Development/Tools (292 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9060,8 +9121,28 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](development/tools/002-name-skill_f84f0edd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 57 | `development` |
 | [Soql Reference](development/tools/275-soql-reference_6c13c987/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/soql-reference.md) | ⭐ 57 | `development` |
 | [Langfuse Integration](development/tools/276-langfuse_integration_b196b899/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/langfuse_integration.md) | ⭐ 75 | `development` |
+| [Hook Based Confirmations](development/tools/hook-based-confirmations_d1d6674d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/design/hook-based-confirmations.md) | ⭐ 4.2k | `development` |
+| [V0.14.0](development/tools/v0140_05854dad/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.14.0.md) | ⭐ 4.2k | `development` |
+| [V0.17.0](development/tools/v0170_96c8cd14/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.17.0.md) | ⭐ 4.2k | `development` |
+| [V0.18.0](development/tools/v0180_46e4aafd/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.18.0.md) | ⭐ 4.2k | `development` |
+| [V0.2.2](development/tools/v022_5c74d7a8/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.2.2.md) | ⭐ 4.2k | `development` |
+| [V0.20.0](development/tools/v0200_ca066d5d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.20.0.md) | ⭐ 4.2k | `development` |
+| [V0.21.0](development/tools/v0210_b681e393/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.21.0.md) | ⭐ 4.2k | `development` |
+| [V0.22.0](development/tools/v0220_7f52af5a/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.22.0.md) | ⭐ 4.2k | `development` |
+| [V0.24.0](development/tools/v0240_cefe5792/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.24.0.md) | ⭐ 4.2k | `development` |
+| [V0.25.0](development/tools/v0250_94469656/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.25.0.md) | ⭐ 4.2k | `development` |
+| [V0.27.0](development/tools/v0270_3d2d9995/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.27.0.md) | ⭐ 4.2k | `development` |
+| [V0.28.1](development/tools/v0281_e40aae3e/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.28.1.md) | ⭐ 4.2k | `development` |
+| [V0.28.2](development/tools/v0282_e093d375/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.28.2.md) | ⭐ 4.2k | `development` |
+| [V0.28.3](development/tools/v0283_de11cbdb/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.28.3.md) | ⭐ 4.2k | `development` |
+| [V0.3.2](development/tools/v032_0634e959/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.3.2.md) | ⭐ 4.2k | `development` |
+| [V0.3.3](development/tools/v033_4c584ca3/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.3.3.md) | ⭐ 4.2k | `development` |
+| [V0.4.0](development/tools/v040_8728dba4/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.4.0.md) | ⭐ 4.2k | `development` |
+| [V0.6.1](development/tools/v061_a69c0433/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.6.1.md) | ⭐ 4.2k | `development` |
+| [V0.9.3](development/tools/v093_48ba877f/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.3.md) | ⭐ 4.2k | `development` |
+| [Skill](development/tools/name-skill_9fafed7b/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/gptme/lessons/skills/python-repl/SKILL.md) | ⭐ 4.2k | `development` |
 
-### Investment (59 skills)
+### Investment (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9124,6 +9205,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Database Design](investment/034-database-design_b11e9364/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 424 | `investment` |
 | [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_0b595b60/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 424 | `investment` |
 | [Skills Guide](investment/036-skills-guide_d55028cd/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/skills-guide.md) | ⭐ 16 | `investment` |
+| [Skill](investment/name-skill_48d8dc10/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/strategy-advisor/SKILL.md) | 🔥 92.8k | `investment` |
 
 ### Other (44 skills)
 
@@ -9174,7 +9256,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (251 skills)
+### Productivity (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9429,8 +9511,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Facilitation](productivity/155-facilitation_a0fadd7d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/facilitation.md) | ⭐ 14 | `productivity` |
 | [Hackernews](productivity/156-hackernews_1983e4ee/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/hackernews.md) | ⭐ 40 | `productivity` |
 | [Twitter](productivity/157-twitter_3f23a787/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/twitter.md) | ⭐ 40 | `productivity` |
+| [Skill](productivity/name-skill_3132217d/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/meeting-notes/SKILL.md) | 🔥 92.8k | `productivity` |
 
-### Research (415 skills)
+### Research (417 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9849,6 +9932,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme.En](research/230-readmeen_0d3e9c45/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 194 | `research` |
 | [Will Reviewer](research/242-will-reviewer_d24c364f/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/will-reviewer.md) | ⭐ 16 | `research` |
 | [Ps Solution Architect](research/243-ps-solution-architect_62003ae2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/ps-solution-architect.md) | ⭐ 57 | `research` |
+| [Skill](research/name-skill_93334b34/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/academic-researcher/SKILL.md) | 🔥 92.8k | `research` |
+| [Skill](research/name-skill_5637feab/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/deep-research/SKILL.md) | 🔥 92.8k | `research` |
 
 ## How Skills Are Organized
 
@@ -9900,5 +9985,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 22:13:46 UTC*
+*Last updated: 2026-02-08 23:08:11 UTC*
 *Automatically maintained by SkillFlow*
