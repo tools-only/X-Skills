@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-08T18:11:36.660227",
+  "updated_at": "2026-02-08T19:01:23.781132",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -135269,6 +135269,20 @@
       "source_url": "https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "813886da442cd393273f502a2fc2838b5ff7a882e6e20e99dc256f00d0cf6584",
+      "source_path": "docs/CI_CD_INFRASTRUCTURE.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/088-ci_cd_infrastructure_813886da",
+      "category": "development/devops",
+      "name": "ci_cd_infrastructure_813886da",
+      "indexed_at": "2026-02-08T19:01:23.781080",
+      "repo_stars": 3977,
+      "repo_updated_at": "2026-02-08T16:48:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md",
+      "display_name": "Ci Cd Infrastructure",
+      "tags": "[\"development\"]"
     }
   ]
 }

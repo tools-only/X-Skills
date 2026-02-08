@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9662 AI-powered skills** organized into 16 categories.
+A curated collection of **9663 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -17,7 +17,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (394 skills)
 - **Data Analysis** (913 skills)
 - **Development** (4558 skills)
-- **Development/Devops** (233 skills)
+- **Development/Devops** (234 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (266 skills)
 - **Investment** (59 skills)
@@ -938,7 +938,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme.Ja](automation/workflow/040-readmeja_76df3aa0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Agents](automation/workflow/073-agents_f50485aa/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/AGENTS.md) | ⭐ 16 | `automation` |
 | [Progressive Disclosure](automation/workflow/083-progressive-disclosure_5243e1f0/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/progressive-disclosure.md) | ⭐ 16 | `automation` |
-| [Skill](automation/workflow/name-skill_ae1d0569/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ae1d0569/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md) | ⭐ 17 | `automation` |
 
 ### Commercial (588 skills)
 
@@ -8437,7 +8437,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Bundled Resources](development/116-bundled-resources_f19bba81/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/bundled-resources.md) | ⭐ 16 | `development` |
 | [Validation Checklist](development/2369-validation-checklist_0cbb8382/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/validation-checklist.md) | ⭐ 16 | `development` |
 
-### Development/Devops (233 skills)
+### Development/Devops (234 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8674,6 +8674,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_f61a3515/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.1k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_4de69ccc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.1k | `development` |
 | [Agents](development/devops/053-agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
+| [Ci Cd Infrastructure](development/devops/ci_cd_infrastructure_813886da/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 
 ### Development/Testing (50 skills)
 
@@ -9839,5 +9840,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 18:11:38 UTC*
+*Last updated: 2026-02-08 19:01:25 UTC*
 *Automatically maintained by SkillFlow*
