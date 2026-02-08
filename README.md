@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9513 AI-powered skills** organized into 16 categories.
+A curated collection of **9585 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,19 +11,19 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (672 skills)
 - **Automation/Scripting** (67 skills)
 - **Automation/Workflow** (136 skills)
-- **Commercial** (587 skills)
-- **Communication** (375 skills)
-- **Content Creation** (625 skills)
+- **Commercial** (588 skills)
+- **Communication** (376 skills)
+- **Content Creation** (635 skills)
 - **Daily Assistant** (392 skills)
-- **Data Analysis** (905 skills)
-- **Development** (4510 skills)
-- **Development/Devops** (201 skills)
+- **Data Analysis** (909 skills)
+- **Development** (4539 skills)
+- **Development/Devops** (218 skills)
 - **Development/Testing** (50 skills)
-- **Development/Tools** (233 skills)
+- **Development/Tools** (238 skills)
 - **Investment** (58 skills)
 - **Other** (44 skills)
-- **Productivity** (252 skills)
-- **Research** (406 skills)
+- **Productivity** (251 skills)
+- **Research** (412 skills)
 
 ## Skills Directory
 
@@ -918,7 +918,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Jwt Token Vending](automation/workflow/082-jwt-token-vending_2a3af5f8/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 424 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_76df3aa0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
-### Commercial (587 skills)
+### Commercial (588 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1508,9 +1508,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Remote Desktop Setup](commercial/332-remote-desktop-setup_9d62cbe1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/remote-desktop-setup.md) | ⭐ 424 | `commercial` |
 | [Federation Architecture](commercial/333-federation-architecture_67812d39/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/federation-architecture.md) | ⭐ 424 | `commercial` |
 | [Readme.Ja](commercial/334-readmeja_4f44dbc0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `commercial` |
-| [Query Expansion](commercial/query-expansion_e2ebd79c/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/query-expansion.md) | ⭐ 40 | `commercial` |
+| [Llama Index](commercial/llama_index_b566e2ab/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/LLAMA_INDEX.md) | 🔥 9.1k | `commercial` |
+| [Pinecone](commercial/pinecone_e280326c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/PINECONE.md) | 🔥 9.1k | `commercial` |
 
-### Communication (375 skills)
+### Communication (376 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1889,8 +1890,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Mcp Registry Cli](communication/220-mcp-registry-cli_c6590db4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/mcp-registry-cli.md) | ⭐ 424 | `communication` |
 | [Troubleshoot](communication/221-troubleshoot_a12bed60/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.5k | `communication` |
 | [Ui Team Soft Budget Alerts](communication/222-ui_team_soft_budget_alerts_cbd5d15a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_team_soft_budget_alerts.md) | 🔥 35.5k | `communication` |
+| [Rag Pipelines](communication/rag_pipelines_23c48ef1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/RAG_PIPELINES.md) | 🔥 9.1k | `communication` |
 
-### Content Creation (625 skills)
+### Content Creation (635 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2496,9 +2498,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Schema](content-creation/160-schema_ef05f150/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/health-data/references/schema.md) | ⭐ 10 | `content creation` |
 | [Pandoc Reference](content-creation/273-pandoc_reference_343cfa2d/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/references/pandoc_reference.md) | ⭐ 10 | `content creation` |
 | [Agents](content-creation/185-agents_f661f95d/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/AGENTS.md) | ⭐ 20 | `content creation` |
-| [Skill](content-creation/049-name-skill_e586daef/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 192 | `content creation` |
+| [Skill](content-creation/name-skill_1b9d1f62/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 194 | `content creation` |
 | [Skill](content-creation/049-name-skill_a2943f5e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/pipeline-auditor/SKILL.md) | ⭐ 192 | `content creation` |
-| [Skill](content-creation/049-name-skill_6b874ca8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 192 | `content creation` |
+| [Skill](content-creation/name-skill_ebbe219a/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 194 | `content creation` |
 | [Skill](content-creation/049-name-skill_a1341e52/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 56 | `content creation` |
 | [Anti Patterns](content-creation/274-anti-patterns_7fa90d42/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/anti-patterns.md) | ⭐ 56 | `content creation` |
 | [Industry Frameworks](content-creation/275-industry-frameworks_c208f812/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/industry-frameworks.md) | ⭐ 56 | `content creation` |
@@ -2511,14 +2513,24 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/277-bmad-skill_14981976/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-designer/SKILL.md) | ⭐ 10 | `content creation` |
 | [Connection Pooling](content-creation/278-connection-pooling_89588aca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/connection-pooling.md) | ⭐ 20 | `content creation` |
 | [Performance](content-creation/279-performance_51e5fd0a/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/performance.md) | ⭐ 16 | `content creation` |
-| [Agent Frameworks](content-creation/agent-frameworks_40d5a119/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/agent-frameworks.md) | ⭐ 40 | `content creation` |
-| [Ai Labs](content-creation/ai-labs_b0aafeaa/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/ai-labs.md) | ⭐ 40 | `content creation` |
-| [Chinese Tech](content-creation/chinese-tech_fbfe15f2/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/chinese-tech.md) | ⭐ 40 | `content creation` |
-| [Tech Bloggers](content-creation/tech-bloggers_74c2d571/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tech-bloggers.md) | ⭐ 40 | `content creation` |
-| [Tech News](content-creation/tech-news_ac65ffe6/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tech-news.md) | ⭐ 40 | `content creation` |
-| [Chinese Media](content-creation/chinese-media_3c96182a/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/chinese-media.md) | ⭐ 40 | `content creation` |
-| [Cloud Ai](content-creation/cloud-ai_a59caece/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/cloud-ai.md) | ⭐ 40 | `content creation` |
-| [Exa](content-creation/exa_ea9a1bc0/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/exa.md) | ⭐ 40 | `content creation` |
+| [Agent Frameworks](content-creation/280-agent-frameworks_40d5a119/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/agent-frameworks.md) | ⭐ 40 | `content creation` |
+| [Ai Labs](content-creation/281-ai-labs_b0aafeaa/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/ai-labs.md) | ⭐ 40 | `content creation` |
+| [Chinese Tech](content-creation/282-chinese-tech_fbfe15f2/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/chinese-tech.md) | ⭐ 40 | `content creation` |
+| [Tech Bloggers](content-creation/283-tech-bloggers_74c2d571/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tech-bloggers.md) | ⭐ 40 | `content creation` |
+| [Tech News](content-creation/284-tech-news_ac65ffe6/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tech-news.md) | ⭐ 40 | `content creation` |
+| [Release Executive Summary](content-creation/release_executive_summary_3b1078e8/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_EXECUTIVE_SUMMARY.md) | 🔥 9.1k | `content creation` |
+| [Cline](content-creation/cline_909bcdd7/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/CLINE.md) | 🔥 9.1k | `content creation` |
+| [Haystack](content-creation/haystack_87546c9a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/HAYSTACK.md) | 🔥 9.1k | `content creation` |
+| [Windsurf](content-creation/windsurf_6ef03282/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/WINDSURF.md) | 🔥 9.1k | `content creation` |
+| [Integration Strategy](content-creation/integration_strategy_3357aebc/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/INTEGRATION_STRATEGY.md) | 🔥 9.1k | `content creation` |
+| [Skill Index](content-creation/skill_index_179b2347/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/SKILL_INDEX.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/name-skill_1cb06153/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/argument-selfloop/SKILL.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/name-skill_eb9c1597/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/chapter-lead-writer/SKILL.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/049-name-skill_1b9d1f62/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/opener-variator/SKILL.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/name-skill_96d81dcc/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/paragraph-curator/SKILL.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/name-skill_563b3280/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/section-logic-polisher/SKILL.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/name-skill_153dc09e/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/subsection-polisher/SKILL.md) | ⭐ 194 | `content creation` |
+| [Skill](content-creation/049-name-skill_ebbe219a/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 194 | `content creation` |
 
 ### Daily Assistant (392 skills)
 
@@ -2917,7 +2929,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Issue Identifiers](daily-assistant/222-issue-identifiers_96c5c70c/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/issue-identifiers.md) | ⭐ 16 | `daily assistant` |
 | [Index](daily-assistant/052-index_cb00fdaf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.5k | `testing` `observability` `reliability` |
 
-### Data Analysis (905 skills)
+### Data Analysis (909 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3826,8 +3838,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Grading Rubric](data-analysis/403-grading-rubric_592f746c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/design-improver/references/grading-rubric.md) | ⭐ 10 | `data analysis` |
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 | [Api Reference](data-analysis/404-api-reference_fc785ae0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/api-reference.md) | ⭐ 424 | `data analysis` |
+| [Final Status](data-analysis/final_status_e4928737/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/FINAL_STATUS.md) | 🔥 9.1k | `data analysis` |
+| [Phase4 Completion Summary](data-analysis/phase4_completion_summary_17001396/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/PHASE4_COMPLETION_SUMMARY.md) | 🔥 9.1k | `data analysis` |
+| [Final Qa Verification](data-analysis/final_qa_verification_811190cb/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/FINAL_QA_VERIFICATION.md) | 🔥 9.1k | `data analysis` |
+| [Action Plan](data-analysis/action_plan_cbd5217b/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/ACTION_PLAN.md) | 🔥 9.1k | `data analysis` |
 
-### Development (4510 skills)
+### Development (4539 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8334,15 +8350,44 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V1.81.6](development/2314-v1816_a3ad4e3e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.6.md) | 🔥 35.5k | `development` |
 | [Catalog](development/126-catalog_5ad325b7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.8k | `development` |
 | [Skill](development/1178-name-skill_0a1a36ce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/clean-code/SKILL.md) | 🔥 7.8k | `development` |
-| [Skill](development/name-skill_3d375dc8/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-check/SKILL.md) | ⭐ 40 | `development` |
-| [Devto](development/devto_6d0d3347/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/devto.md) | ⭐ 40 | `development` |
-| [Github](development/github_f6261c2c/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/github.md) | ⭐ 40 | `development` |
-| [Papers With Code](development/papers-with-code_860b3d2f/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/papers-with-code.md) | ⭐ 40 | `development` |
-| [Producthunt](development/producthunt_e619fa0d/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/producthunt.md) | ⭐ 40 | `development` |
-| [Reddit](development/reddit_41af12c8/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/reddit.md) | ⭐ 40 | `development` |
-| [Medium](development/medium_8be11a07/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/medium.md) | ⭐ 40 | `development` |
+| [Skill](development/1178-name-skill_3d375dc8/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-check/SKILL.md) | ⭐ 40 | `development` |
+| [Devto](development/2316-devto_6d0d3347/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/devto.md) | ⭐ 40 | `development` |
+| [Github](development/2317-github_f6261c2c/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/github.md) | ⭐ 40 | `development` |
+| [Papers With Code](development/2318-papers-with-code_860b3d2f/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/papers-with-code.md) | ⭐ 40 | `development` |
+| [Producthunt](development/2319-producthunt_e619fa0d/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/producthunt.md) | ⭐ 40 | `development` |
+| [Reddit](development/2320-reddit_41af12c8/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/reddit.md) | ⭐ 40 | `development` |
+| [All Phases Completion Summary](development/all_phases_completion_summary_62f73bd9/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/ALL_PHASES_COMPLETION_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Kimi Qa Fixes Summary](development/kimi_qa_fixes_summary_e38076e6/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/KIMI_QA_FIXES_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Phase1B Completion Summary](development/phase1b_completion_summary_98065422/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/PHASE1B_COMPLETION_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Phase1 Completion Summary](development/phase1_completion_summary_3d30c29c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/PHASE1_COMPLETION_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Phase2 Completion Summary](development/phase2_completion_summary_4727920b/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/PHASE2_COMPLETION_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Phase3 Completion Summary](development/phase3_completion_summary_2e69cf16/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/PHASE3_COMPLETION_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Qa Audit Report](development/qa_audit_report_8ae45ff5/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/QA_AUDIT_REPORT.md) | 🔥 9.1k | `development` |
+| [Qa Complete Report](development/qa_complete_report_c9e32bca/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/QA_COMPLETE_REPORT.md) | 🔥 9.1k | `development` |
+| [Qa Executive Summary](development/qa_executive_summary_dd2dd641/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/QA_EXECUTIVE_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Qa Final Update](development/qa_final_update_fc066103/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/QA_FINAL_UPDATE.md) | 🔥 9.1k | `development` |
+| [Qa Fixes Summary](development/qa_fixes_summary_6daa8abd/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/QA_FIXES_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Release Content Checklist](development/release_content_checklist_812bb480/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_CONTENT_CHECKLIST.md) | 🔥 9.1k | `development` |
+| [Release Content Checklist V3.0.0](development/release_content_checklist_v300_f1de91c7/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_CONTENT_CHECKLIST_v3.0.0.md) | 🔥 9.1k | `development` |
+| [Release Plan V2.11.0](development/release_plan_v2110_27be8757/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_PLAN_v2.11.0.md) | 🔥 9.1k | `development` |
+| [Qa Fixes Final Report](development/qa_fixes_final_report_c2ef5ca1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/QA_FIXES_FINAL_REPORT.md) | 🔥 9.1k | `development` |
+| [Qa Fixes Summary](development/qa_fixes_summary_20860f81/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/QA_FIXES_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Deepwiki Open](development/deepwiki-open_02e8b565/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/case-studies/deepwiki-open.md) | 🔥 9.1k | `development` |
+| [Continue Dev](development/continue_dev_e16376b0/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/CONTINUE_DEV.md) | 🔥 9.1k | `development` |
+| [Cursor](development/cursor_6da2c00c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/CURSOR.md) | 🔥 9.1k | `development` |
+| [Faiss](development/faiss_7eb78254/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/FAISS.md) | 🔥 9.1k | `development` |
+| [Integrations](development/integrations_01fb49fc/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/INTEGRATIONS.md) | 🔥 9.1k | `development` |
+| [Langchain](development/langchain_5f92a9a8/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/LANGCHAIN.md) | 🔥 9.1k | `development` |
+| [Weaviate](development/weaviate_510b913c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/WEAVIATE.md) | 🔥 9.1k | `development` |
+| [Deepwiki Analysis](development/deepwiki_analysis_de13dd8c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/DEEPWIKI_ANALYSIS.md) | 🔥 9.1k | `development` |
+| [Kimi Analysis Comparison](development/kimi_analysis_comparison_60462971/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/KIMI_ANALYSIS_COMPARISON.md) | 🔥 9.1k | `development` |
+| [Task19 Complete](development/task19_complete_9972138b/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/TASK19_COMPLETE.md) | 🔥 9.1k | `development` |
+| [Qa Test Fixes Summary](development/qa_test_fixes_summary_bf108652/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/QA_TEST_FIXES_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Week2 Testing Guide](development/week2_testing_guide_5bcfeba0/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/WEEK2_TESTING_GUIDE.md) | 🔥 9.1k | `development` |
+| [Integration Templates](development/integration_templates_bc58d878/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/INTEGRATION_TEMPLATES.md) | 🔥 9.1k | `development` |
+| [Skill](development/name-skill_80f3559d/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/SKILL.md) | ⭐ 24 | `development` |
 
-### Development/Devops (201 skills)
+### Development/Devops (218 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8547,6 +8592,23 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/devops/014-name-skill_06bdeaee/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
 | [V1.81.9](development/devops/261-v1819_c4ad8744/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.9.md) | 🔥 35.5k | `development` |
 | [Contributing Code](development/devops/028-contributing_code_66f1042a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/extras/contributing_code.md) | 🔥 35.5k | `development` |
+| [Agents](development/devops/agents_463e45fc/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.1k | `development` |
+| [Release Executive Summary V3.0.0](development/devops/release_executive_summary_v300_655c8587/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_EXECUTIVE_SUMMARY_v3.0.0.md) | 🔥 9.1k | `development` |
+| [Release Plan](development/devops/release_plan_9e007754/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_PLAN.md) | 🔥 9.1k | `development` |
+| [Release Plan V3.0.0](development/devops/release_plan_v300_b0c842d5/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/RELEASE_PLAN_v3.0.0.md) | 🔥 9.1k | `development` |
+| [V3 Release Master Plan](development/devops/v3_release_master_plan_d1835b8e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/V3_RELEASE_MASTER_PLAN.md) | 🔥 9.1k | `development` |
+| [Website Handoff V3](development/devops/website_handoff_v3_ba2b2666/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/WEBSITE_HANDOFF_V3.md) | 🔥 9.1k | `v3.0.0` `release` `langchain` |
+| [Docker Deployment](development/devops/docker_deployment_7734dce3/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/DOCKER_DEPLOYMENT.md) | 🔥 9.1k | `development` |
+| [Docker Guide](development/devops/docker_guide_09dfcd43/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/DOCKER_GUIDE.md) | 🔥 9.1k | `development` |
+| [Kubernetes Deployment](development/devops/kubernetes_deployment_36af8b48/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/KUBERNETES_DEPLOYMENT.md) | 🔥 9.1k | `development` |
+| [Kubernetes Guide](development/devops/kubernetes_guide_e73ec14b/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/KUBERNETES_GUIDE.md) | 🔥 9.1k | `development` |
+| [Production Deployment](development/devops/production_deployment_6854cf24/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/PRODUCTION_DEPLOYMENT.md) | 🔥 9.1k | `development` |
+| [Troubleshooting](development/devops/troubleshooting_06cf4c89/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/TROUBLESHOOTING.md) | 🔥 9.1k | `development` |
+| [Chroma](development/devops/chroma_8b475dff/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/CHROMA.md) | 🔥 9.1k | `development` |
+| [Qdrant](development/devops/qdrant_51691740/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/QDRANT.md) | 🔥 9.1k | `development` |
+| [Task20 Complete](development/devops/task20_complete_56f7efc7/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/TASK20_COMPLETE.md) | 🔥 9.1k | `development` |
+| [Task21 Complete](development/devops/task21_complete_979152a7/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/TASK21_COMPLETE.md) | 🔥 9.1k | `development` |
+| [Week2 Complete](development/devops/week2_complete_8bf6998d/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/WEEK2_COMPLETE.md) | 🔥 9.1k | `development` |
 
 ### Development/Testing (50 skills)
 
@@ -8603,7 +8665,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Tools (233 skills)
+### Development/Tools (238 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8797,7 +8859,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_cddf881a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.0k | `development` |
 | [Skill](development/tools/002-name-skill_c117ff22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 5.6k | `development` |
 | [Tool System Architecture](development/tools/219-tool-system-architecture_a1d517fa/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 36 | `development` |
-| [Readme En](development/tools/242-readme_en_8ca7a067/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/README_EN.md) | ⭐ 24 | `development` |
+| [Readme En](development/tools/readme_en_7e982667/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/README_EN.md) | ⭐ 24 | `development` |
 | [Git PR](development/tools/243-pr_4cd6fc20/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/pr.md) | ⭐ 299 | `development` |
 | [Updating Dex](development/tools/244-updating_dex_8916023d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Updating_Dex.md) | ⭐ 73 | `development` |
 | [Build Tracker](development/tools/245-build_tracker_c207f7f0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/core/integrations/BUILD_TRACKER.md) | ⭐ 73 | `development` |
@@ -8840,6 +8902,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Entra](development/tools/264-entra_8a6b92bf/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/entra.md) | ⭐ 424 | `development` |
 | [Authentication Design](development/tools/265-authentication-design_6de6b8b6/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/authentication-design.md) | ⭐ 424 | `development` |
 | [Readme Secrets](development/tools/266-readme_secrets_e62e828e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/servers/fininfo/README_SECRETS.md) | ⭐ 424 | `development` |
+| [Comprehensive Qa Report](development/tools/comprehensive_qa_report_810e958b/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/COMPREHENSIVE_QA_REPORT.md) | 🔥 9.1k | `development` |
+| [V3 Release Summary](development/tools/v3_release_summary_20d3498d/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/V3_RELEASE_SUMMARY.md) | 🔥 9.1k | `development` |
+| [Comprehensive Qa Report](development/tools/comprehensive_qa_report_6d846b81/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/COMPREHENSIVE_QA_REPORT.md) | 🔥 9.1k | `development` |
+| [Universal Rag Preprocessor](development/tools/universal_rag_preprocessor_19187c26/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/blog/UNIVERSAL_RAG_PREPROCESSOR.md) | 🔥 9.1k | `development` |
+| [Readme En](development/tools/242-readme_en_7e982667/) | [ZhenHuangLab/collaborating-with-claude-code](https://raw.githubusercontent.com/ZhenHuangLab/collaborating-with-claude-code/main/README_EN.md) | ⭐ 24 | `development` |
 
 ### Investment (58 skills)
 
@@ -8953,7 +9020,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (252 skills)
+### Productivity (251 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9206,11 +9273,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Extras Formats](productivity/153-extras-formats_c4c434c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exdoc-config/references/extras-formats.md) | ⭐ 20 | `productivity` |
 | [Style](productivity/154-style_55090a47/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/style.md) | ⭐ 16 | `productivity` |
 | [Facilitation](productivity/155-facilitation_a0fadd7d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/facilitation.md) | ⭐ 14 | `productivity` |
-| [Hackernews](productivity/hackernews_1983e4ee/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/hackernews.md) | ⭐ 40 | `productivity` |
-| [Twitter](productivity/twitter_3f23a787/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/twitter.md) | ⭐ 40 | `productivity` |
-| [Tavily](productivity/tavily_53663d19/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tavily.md) | ⭐ 40 | `productivity` |
+| [Hackernews](productivity/156-hackernews_1983e4ee/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/hackernews.md) | ⭐ 40 | `productivity` |
+| [Twitter](productivity/157-twitter_3f23a787/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/twitter.md) | ⭐ 40 | `productivity` |
 
-### Research (406 skills)
+### Research (412 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9598,7 +9664,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [V2 Vs V3 Comparison](research/227-v2_vs_v3_comparison_bfea3bfd/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/V2_vs_V3_comparison.md) | ⭐ 11 | `research` |
 | [Delivery Summary](research/228-delivery-summary_67e48df8/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/mckinsey-consultant-11/references/delivery-summary.md) | ⭐ 11 | `research` |
 | [Historical Cases](research/229-historical_cases_6ac449d2/) | [Mann1988/awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/historical_cases.md) | ⭐ 11 | `research` |
-| [Readme.En](research/230-readmeen_3e10ba79/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 192 | `research` |
+| [Readme.En](research/readmeen_03c7a4df/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 194 | `research` |
 | [Idb Quick](research/231-idb_quick_6bdc9762/) | [conorluddy/ios-simulator-skill](https://raw.githubusercontent.com/conorluddy/ios-simulator-skill/main/references/idb_quick.md) | ⭐ 459 | `research` |
 | [Transformers Features](research/232-transformers-features_d3d6d185/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/advanced/transformers-features.md) | ⭐ 142 | `research` |
 | [Perplexity](research/233-perplexity_f64e488a/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/perplexity.md) | ⭐ 142 | `research` |
@@ -9609,17 +9675,23 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](research/139-name-skill_f5afba45/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/firecrawl-research/SKILL.md) | ⭐ 10 | `research` |
 | [Skill](research/139-name-skill_8d2b510f/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/pdf-generation/SKILL.md) | ⭐ 10 | `research` |
 | [Sources](research/187-sources_59fd9870/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/references/sources.md) | ⭐ 10 | `research` |
-| [Arxiv Survey Latex.Pipeline](research/236-arxiv-survey-latexpipeline_b8272fd9/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey-latex.pipeline.md) | ⭐ 192 | `research` |
-| [Arxiv Survey.Pipeline](research/237-arxiv-surveypipeline_3c125a74/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 192 | `research` |
-| [Skill](research/139-name-skill_b3a385d8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 192 | `research` |
-| [Skill](research/139-name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
+| [Arxiv Survey Latex.Pipeline](research/arxiv-survey-latexpipeline_77545873/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey-latex.pipeline.md) | ⭐ 194 | `research` |
+| [Arxiv Survey.Pipeline](research/arxiv-surveypipeline_132dd0b1/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 194 | `research` |
+| [Skill](research/name-skill_aaece954/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 194 | `research` |
+| [Skill](research/name-skill_bb65dba7/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 194 | `research` |
 | [Enhancement Log](research/192-enhancement-log_8a623789/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/enhancement-log.md) | ⭐ 14 | `research` |
 | [Aleph](research/196-aleph_dc498da3/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 132 | `research` |
-| [Skill](research/multi-skill_20d6e541/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/SKILL.md) | ⭐ 40 | `research` |
-| [Arxiv Categories](research/arxiv-categories_400490c2/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/arxiv-categories.md) | ⭐ 40 | `research` |
-| [Arxiv](research/arxiv_602173c1/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/arxiv.md) | ⭐ 40 | `research` |
-| [Semantic Scholar](research/semantic-scholar_722b94c3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/semantic-scholar.md) | ⭐ 40 | `research` |
-| [Youtube](research/youtube_4d6f238f/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/youtube.md) | ⭐ 40 | `research` |
+| [Skill](research/238-multi-skill_20d6e541/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/SKILL.md) | ⭐ 40 | `research` |
+| [Arxiv Categories](research/239-arxiv-categories_400490c2/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/arxiv-categories.md) | ⭐ 40 | `research` |
+| [Arxiv](research/240-arxiv_602173c1/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/arxiv.md) | ⭐ 40 | `research` |
+| [Semantic Scholar](research/241-semantic-scholar_722b94c3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/semantic-scholar.md) | ⭐ 40 | `research` |
+| [Readme.En](research/230-readmeen_03c7a4df/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 194 | `research` |
+| [Arxiv Survey Latex.Pipeline](research/236-arxiv-survey-latexpipeline_77545873/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey-latex.pipeline.md) | ⭐ 194 | `research` |
+| [Arxiv Survey.Pipeline](research/237-arxiv-surveypipeline_132dd0b1/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 194 | `research` |
+| [Skill](research/139-name-skill_aaece954/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 194 | `research` |
+| [Skill](research/name-skill_6112deb4/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/front-matter-writer/SKILL.md) | ⭐ 194 | `research` |
+| [Skill](research/139-name-skill_bb65dba7/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 194 | `research` |
+| [Skill](research/name-skill_2a57cdcd/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/subsection-writer/SKILL.md) | ⭐ 194 | `research` |
 
 ## Repository Structure
 
