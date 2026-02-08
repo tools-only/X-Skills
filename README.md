@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9474 AI-powered skills** organized into 16 categories.
+A curated collection of **9475 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (617 skills)
 - **Daily Assistant** (391 skills)
 - **Data Analysis** (905 skills)
-- **Development** (4497 skills)
+- **Development** (4498 skills)
 - **Development/Devops** (198 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (233 skills)
@@ -1507,7 +1507,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Embeddings](commercial/331-embeddings_f1747e8a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/embeddings.md) | ⭐ 424 | `commercial` |
 | [Remote Desktop Setup](commercial/332-remote-desktop-setup_9d62cbe1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/remote-desktop-setup.md) | ⭐ 424 | `commercial` |
 | [Federation Architecture](commercial/333-federation-architecture_67812d39/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/federation-architecture.md) | ⭐ 424 | `commercial` |
-| [Readme.Ja](commercial/readmeja_4f44dbc0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `commercial` |
+| [Readme.Ja](commercial/334-readmeja_4f44dbc0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `commercial` |
 
 ### Communication (373 skills)
 
@@ -3815,7 +3815,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 | [Api Reference](data-analysis/404-api-reference_fc785ae0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/api-reference.md) | ⭐ 424 | `data analysis` |
 
-### Development (4497 skills)
+### Development (4498 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8316,6 +8316,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Server Versioning](development/2289-server-versioning_08ec8521/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/server-versioning.md) | ⭐ 424 | `development` |
 | [Skill](development/1178-name-skill_e4b44b49/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/SKILL.md) | ⭐ 92 | `development` |
 | [Readme Cn](development/770-readme_cn_b3bbb46e/) | [KaguraNanaga/document-format-skills](https://raw.githubusercontent.com/KaguraNanaga/document-format-skills/main/README_CN.md) | ⭐ 20 | `development` |
+| [Pdd Vs Agentic Cli Definitive Proof Plan](development/pdd_vs_agentic_cli_definitive_proof_plan_1b08bb0a/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/pdd_vs_agentic_cli_definitive_proof_plan.md) | ⭐ 425 | `development` |
 
 ### Development/Devops (198 skills)
 
