@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9489 AI-powered skills** organized into 16 categories.
+A curated collection of **9513 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,19 +11,19 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (672 skills)
 - **Automation/Scripting** (67 skills)
 - **Automation/Workflow** (136 skills)
-- **Commercial** (586 skills)
+- **Commercial** (587 skills)
 - **Communication** (375 skills)
-- **Content Creation** (617 skills)
+- **Content Creation** (625 skills)
 - **Daily Assistant** (392 skills)
 - **Data Analysis** (905 skills)
-- **Development** (4503 skills)
+- **Development** (4510 skills)
 - **Development/Devops** (201 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (233 skills)
 - **Investment** (58 skills)
 - **Other** (44 skills)
-- **Productivity** (249 skills)
-- **Research** (401 skills)
+- **Productivity** (252 skills)
+- **Research** (406 skills)
 
 ## Skills Directory
 
@@ -918,7 +918,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Jwt Token Vending](automation/workflow/082-jwt-token-vending_2a3af5f8/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 424 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_76df3aa0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
-### Commercial (586 skills)
+### Commercial (587 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1508,6 +1508,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Remote Desktop Setup](commercial/332-remote-desktop-setup_9d62cbe1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/remote-desktop-setup.md) | ⭐ 424 | `commercial` |
 | [Federation Architecture](commercial/333-federation-architecture_67812d39/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/federation-architecture.md) | ⭐ 424 | `commercial` |
 | [Readme.Ja](commercial/334-readmeja_4f44dbc0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `commercial` |
+| [Query Expansion](commercial/query-expansion_e2ebd79c/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/query-expansion.md) | ⭐ 40 | `commercial` |
 
 ### Communication (375 skills)
 
@@ -1886,10 +1887,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](communication/127-name-skill_c39002c9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/SKILL.md) | ⭐ 20 | `communication` |
 | [Spec Coverage](communication/219-spec-coverage_62dcd6d7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/references/spec-coverage.md) | ⭐ 20 | `communication` |
 | [Mcp Registry Cli](communication/220-mcp-registry-cli_c6590db4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/mcp-registry-cli.md) | ⭐ 424 | `communication` |
-| [Troubleshoot](communication/troubleshoot_a12bed60/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.5k | `communication` |
-| [Ui Team Soft Budget Alerts](communication/ui_team_soft_budget_alerts_cbd5d15a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_team_soft_budget_alerts.md) | 🔥 35.5k | `communication` |
+| [Troubleshoot](communication/221-troubleshoot_a12bed60/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.5k | `communication` |
+| [Ui Team Soft Budget Alerts](communication/222-ui_team_soft_budget_alerts_cbd5d15a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_team_soft_budget_alerts.md) | 🔥 35.5k | `communication` |
 
-### Content Creation (617 skills)
+### Content Creation (625 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2510,6 +2511,14 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](content-creation/277-bmad-skill_14981976/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-designer/SKILL.md) | ⭐ 10 | `content creation` |
 | [Connection Pooling](content-creation/278-connection-pooling_89588aca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/connection-pooling.md) | ⭐ 20 | `content creation` |
 | [Performance](content-creation/279-performance_51e5fd0a/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/performance.md) | ⭐ 16 | `content creation` |
+| [Agent Frameworks](content-creation/agent-frameworks_40d5a119/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/agent-frameworks.md) | ⭐ 40 | `content creation` |
+| [Ai Labs](content-creation/ai-labs_b0aafeaa/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/ai-labs.md) | ⭐ 40 | `content creation` |
+| [Chinese Tech](content-creation/chinese-tech_fbfe15f2/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/chinese-tech.md) | ⭐ 40 | `content creation` |
+| [Tech Bloggers](content-creation/tech-bloggers_74c2d571/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tech-bloggers.md) | ⭐ 40 | `content creation` |
+| [Tech News](content-creation/tech-news_ac65ffe6/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tech-news.md) | ⭐ 40 | `content creation` |
+| [Chinese Media](content-creation/chinese-media_3c96182a/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/chinese-media.md) | ⭐ 40 | `content creation` |
+| [Cloud Ai](content-creation/cloud-ai_a59caece/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/cloud-ai.md) | ⭐ 40 | `content creation` |
+| [Exa](content-creation/exa_ea9a1bc0/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/exa.md) | ⭐ 40 | `content creation` |
 
 ### Daily Assistant (392 skills)
 
@@ -2894,7 +2903,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](daily-assistant/032-name-skill_c354e96c/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/granola-sync/SKILL.md) | ⭐ 44 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_aed73893/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 92 | `daily assistant` |
 | [2026 02 05 Tech Debt Scanner Markdown Exclusion](daily-assistant/215-2026-02-05-tech-debt-scanner-markdown-exclusion_b04f33a3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-05-tech-debt-scanner-markdown-exclusion.md) | ⭐ 111 | `daily assistant` |
-| [Index](daily-assistant/index_cb00fdaf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.5k | `testing` `observability` `reliability` |
+| [Index](daily-assistant/052-index_2f801e66/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.4k | `testing` `observability` `reliability` |
 | [Claude](daily-assistant/037-claude_60e5c1f0/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/CLAUDE.md) | ⭐ 299 | `daily assistant` |
 | [Worktree List](daily-assistant/216-worktree-list_bf9ec1ba/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/commands/git/worktree-list.md) | ⭐ 299 | `daily assistant` |
 | [Onboarding](daily-assistant/217-onboarding_03c90639/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 73 | `daily assistant` |
@@ -3818,7 +3827,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 | [Api Reference](data-analysis/404-api-reference_fc785ae0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/api-reference.md) | ⭐ 424 | `data analysis` |
 
-### Development (4503 skills)
+### Development (4510 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -7818,7 +7827,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Svelte](development/2023-svelte_e73636c5/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/svelte.md) | ⭐ 17 | `development` |
 | [Swiftui](development/1925-swiftui_53bf0f9b/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/swiftui.md) | ⭐ 17 | `development` |
 | [Vue](development/2024-vue_7e147bef/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/ui-ux-pro-max-skill/.qoder/rules/vue.md) | ⭐ 17 | `development` |
-| [Catalog](development/catalog_5ad325b7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.8k | `development` |
+| [Catalog](development/126-catalog_83f5b36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.2k | `development` |
 | [Skill](development/1178-name-skill_d20b793c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/oss-hunter/SKILL.md) | 🔥 7.2k | `development` |
 | [Skill](development/1178-name-skill_d499d26a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/prompt-engineer/SKILL.md) | 🔥 7.2k | `prompt-engineering` `optimization` `frameworks` |
 | [Skill](development/1178-name-skill_57cf2644/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/youtube-summarizer/SKILL.md) | 🔥 7.2k | `video` `summarization` `transcription` |
@@ -8322,9 +8331,16 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Pdd Vs Agentic Cli Definitive Proof Plan](development/2312-pdd_vs_agentic_cli_definitive_proof_plan_1b08bb0a/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/pdd_vs_agentic_cli_definitive_proof_plan.md) | ⭐ 425 | `development` |
 | [Debugging](development/266-debugging_46000e51/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/debugging.md) | ⭐ 14 | `development` |
 | [Readme Agentframework](development/2313-readme_agentframework_676cbc41/) | [jie-jw-wu/human-eval-comm](https://raw.githubusercontent.com/jie-jw-wu/human-eval-comm/main/README_AgentFramework.md) | ⭐ 11 | `development` |
-| [V1.81.6](development/v1816_a3ad4e3e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.6.md) | 🔥 35.5k | `development` |
+| [V1.81.6](development/2314-v1816_a3ad4e3e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.6.md) | 🔥 35.5k | `development` |
 | [Catalog](development/126-catalog_5ad325b7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 7.8k | `development` |
-| [Skill](development/name-skill_0a1a36ce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/clean-code/SKILL.md) | 🔥 7.8k | `development` |
+| [Skill](development/1178-name-skill_0a1a36ce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/clean-code/SKILL.md) | 🔥 7.8k | `development` |
+| [Skill](development/name-skill_3d375dc8/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-check/SKILL.md) | ⭐ 40 | `development` |
+| [Devto](development/devto_6d0d3347/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/devto.md) | ⭐ 40 | `development` |
+| [Github](development/github_f6261c2c/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/github.md) | ⭐ 40 | `development` |
+| [Papers With Code](development/papers-with-code_860b3d2f/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/papers-with-code.md) | ⭐ 40 | `development` |
+| [Producthunt](development/producthunt_e619fa0d/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/producthunt.md) | ⭐ 40 | `development` |
+| [Reddit](development/reddit_41af12c8/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/reddit.md) | ⭐ 40 | `development` |
+| [Medium](development/medium_8be11a07/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/medium.md) | ⭐ 40 | `development` |
 
 ### Development/Devops (201 skills)
 
@@ -8529,8 +8545,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Operations](development/devops/259-operations_340910b0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/OPERATIONS.md) | ⭐ 424 | `development` |
 | [Readme Documentdb Cli](development/devops/260-readme-documentdb-cli_4aeabbe3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/scripts/README-DOCUMENTDB-CLI.md) | ⭐ 424 | `development` |
 | [Skill](development/devops/014-name-skill_06bdeaee/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/SKILL.md) | ⭐ 14 | `development` |
-| [V1.81.9](development/devops/v1819_c4ad8744/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.9.md) | 🔥 35.5k | `development` |
-| [Contributing Code](development/devops/contributing_code_66f1042a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/extras/contributing_code.md) | 🔥 35.5k | `development` |
+| [V1.81.9](development/devops/261-v1819_c4ad8744/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.9.md) | 🔥 35.5k | `development` |
+| [Contributing Code](development/devops/028-contributing_code_66f1042a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/extras/contributing_code.md) | 🔥 35.5k | `development` |
 
 ### Development/Testing (50 skills)
 
@@ -8937,7 +8953,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (249 skills)
+### Productivity (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9190,8 +9206,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Extras Formats](productivity/153-extras-formats_c4c434c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exdoc-config/references/extras-formats.md) | ⭐ 20 | `productivity` |
 | [Style](productivity/154-style_55090a47/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/style.md) | ⭐ 16 | `productivity` |
 | [Facilitation](productivity/155-facilitation_a0fadd7d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/facilitation.md) | ⭐ 14 | `productivity` |
+| [Hackernews](productivity/hackernews_1983e4ee/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/hackernews.md) | ⭐ 40 | `productivity` |
+| [Twitter](productivity/twitter_3f23a787/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/twitter.md) | ⭐ 40 | `productivity` |
+| [Tavily](productivity/tavily_53663d19/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/tavily.md) | ⭐ 40 | `productivity` |
 
-### Research (401 skills)
+### Research (406 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9596,6 +9615,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](research/139-name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
 | [Enhancement Log](research/192-enhancement-log_8a623789/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/enhancement-log.md) | ⭐ 14 | `research` |
 | [Aleph](research/196-aleph_dc498da3/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/prompts/aleph.md) | ⭐ 132 | `research` |
+| [Skill](research/multi-skill_20d6e541/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/SKILL.md) | ⭐ 40 | `research` |
+| [Arxiv Categories](research/arxiv-categories_400490c2/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/arxiv-categories.md) | ⭐ 40 | `research` |
+| [Arxiv](research/arxiv_602173c1/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/arxiv.md) | ⭐ 40 | `research` |
+| [Semantic Scholar](research/semantic-scholar_722b94c3/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/semantic-scholar.md) | ⭐ 40 | `research` |
+| [Youtube](research/youtube_4d6f238f/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/youtube.md) | ⭐ 40 | `research` |
 
 ## Repository Structure
 
