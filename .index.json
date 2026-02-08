@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-08T20:02:51.885670",
+  "updated_at": "2026-02-08T21:01:57.047427",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -135311,6 +135311,90 @@
       "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "935be5797b707825c53a36d930402f2325c4d68886d7c2a56c709fc0e7881be3",
+      "source_path": "AGENTS.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/testing/024-agents_935be579",
+      "category": "development/testing",
+      "name": "agents_935be579",
+      "indexed_at": "2026-02-08T21:01:53.468765",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-08T14:12:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f4cf99bd17f6038289c67c0fb4f9b89b6c2871d3992fa094550bc49e70867570",
+      "source_path": "docs/idea_beijer.bot_integration_idea/BEIJERBOT_FEATURE_ANALYSIS.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "content-creation/293-beijerbot_feature_analysis_f4cf99bd",
+      "category": "content-creation",
+      "name": "beijerbot_feature_analysis_f4cf99bd",
+      "indexed_at": "2026-02-08T21:01:54.898469",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-11-15T18:05:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/BEIJERBOT_FEATURE_ANALYSIS.md",
+      "display_name": "Beijerbot Feature Analysis",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "e9bdf4782bbaf44bcb05e45f63a2e6450b6730b694da3bcc96c178a6b38c901d",
+      "source_path": "docs/idea_beijer.bot_integration_idea/CLI_BRIDGE_SPECIFICATION.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/2372-cli_bridge_specification_e9bdf478",
+      "category": "development",
+      "name": "cli_bridge_specification_e9bdf478",
+      "indexed_at": "2026-02-08T21:01:55.404456",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-11-15T18:05:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/CLI_BRIDGE_SPECIFICATION.md",
+      "display_name": "Cli Bridge Specification",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6a2705789cc591a92634a8fe53298514d693cfaa8b3d950bf18dc7155417ce9f",
+      "source_path": "docs/idea_beijer.bot_integration_idea/IMPLEMENTATION_ROADMAP.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/2373-implementation_roadmap_6a270578",
+      "category": "development",
+      "name": "implementation_roadmap_6a270578",
+      "indexed_at": "2026-02-08T21:01:55.927375",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-11-15T18:05:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/IMPLEMENTATION_ROADMAP.md",
+      "display_name": "Implementation Roadmap",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a70aea269ef2b2cb81ec3430e15bbb0cfc380d26cf394e72dbf403d167961634",
+      "source_path": "docs/idea_beijer.bot_integration_idea/QUICKMENU_INTEGRATION_PLAN.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/2374-quickmenu_integration_plan_a70aea26",
+      "category": "development",
+      "name": "quickmenu_integration_plan_a70aea26",
+      "indexed_at": "2026-02-08T21:01:56.496493",
+      "repo_stars": 22,
+      "repo_updated_at": "2025-11-15T18:05:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/QUICKMENU_INTEGRATION_PLAN.md",
+      "display_name": "Quickmenu Integration Plan",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a8e4d2e6620c27954ad9ffe2d4038dfa8f65286112226a188f55ebb983dcfa28",
+      "source_path": "skills/git-commit/SKILL.md",
+      "source_repo": "tsaol/awesome-claude",
+      "local_path": "development/1178-name-skill_a8e4d2e6",
+      "category": "development",
+      "name": "name-skill_a8e4d2e6",
+      "indexed_at": "2026-02-08T21:01:57.047386",
+      "repo_stars": 40,
+      "repo_updated_at": "2026-02-08T11:45:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-commit/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }

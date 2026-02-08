@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9667 AI-powered skills** organized into 16 categories.
+A curated collection of **9671 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,12 +13,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (139 skills)
 - **Commercial** (588 skills)
 - **Communication** (376 skills)
-- **Content Creation** (638 skills)
+- **Content Creation** (639 skills)
 - **Daily Assistant** (394 skills)
 - **Data Analysis** (915 skills)
-- **Development** (4560 skills)
+- **Development** (4562 skills)
 - **Development/Devops** (234 skills)
-- **Development/Testing** (50 skills)
+- **Development/Testing** (51 skills)
 - **Development/Tools** (266 skills)
 - **Investment** (59 skills)
 - **Other** (44 skills)
@@ -1914,7 +1914,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Ui Team Soft Budget Alerts](communication/222-ui_team_soft_budget_alerts_cbd5d15a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_team_soft_budget_alerts.md) | 🔥 35.5k | `communication` |
 | [Rag Pipelines](communication/223-rag_pipelines_23c48ef1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/RAG_PIPELINES.md) | 🔥 9.1k | `communication` |
 
-### Content Creation (638 skills)
+### Content Creation (639 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2556,6 +2556,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [02 Elementary Rules Of Usage](content-creation/291-02-elementary-rules-of-usage_8cead3fc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/02-elementary-rules-of-usage.md) | ⭐ 491 | `content creation` |
 | [P5 Guide](content-creation/292-p5-guide_079ce665/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/p5-guide.md) | ⭐ 16 | `content creation` |
 | [Skill](content-creation/049-name-skill_6310ca0d/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/SKILL.md) | ⭐ 16 | `content creation` |
+| [Beijerbot Feature Analysis](content-creation/beijerbot_feature_analysis_f4cf99bd/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/BEIJERBOT_FEATURE_ANALYSIS.md) | ⭐ 22 | `content creation` |
 
 ### Daily Assistant (394 skills)
 
@@ -3873,10 +3874,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Learning Graph Viewer](data-analysis/129-learning-graph-viewer_b3ef66a1/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-graph-viewer.md) | ⭐ 16 | `data analysis` |
 | [Agents](data-analysis/341-agents_87b923e8/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/AGENTS.md) | ⭐ 16 | `data analysis` |
 | [Claude](data-analysis/036-claude_2df8f54b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/CLAUDE.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/claude_32bf512b/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/CLAUDE.md) | ⭐ 22 | `data analysis` |
-| [Skill](data-analysis/name-skill_bdd152e4/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md) | ⭐ 22 | `data analysis` |
+| [Claude](data-analysis/036-claude_32bf512b/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/.claude/CLAUDE.md) | ⭐ 22 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bdd152e4/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-wordstat/skills/yandex-wordstat/SKILL.md) | ⭐ 22 | `data analysis` |
 
-### Development (4560 skills)
+### Development (4562 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8438,8 +8439,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill Validation](development/2368-skill-validation_510877db/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/references/skill-validation.md) | ⭐ 16 | `development` |
 | [Bundled Resources](development/116-bundled-resources_f19bba81/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/bundled-resources.md) | ⭐ 16 | `development` |
 | [Validation Checklist](development/2369-validation-checklist_0cbb8382/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/validation-checklist.md) | ⭐ 16 | `development` |
-| [Agents](development/agents_e22e3f3c/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/AGENTS.md) | ⭐ 22 | `development` |
-| [Skill](development/name-skill_eb3fc0d3/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 22 | `development` |
+| [Cli Bridge Specification](development/cli_bridge_specification_e9bdf478/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/CLI_BRIDGE_SPECIFICATION.md) | ⭐ 22 | `development` |
+| [Implementation Roadmap](development/implementation_roadmap_6a270578/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/IMPLEMENTATION_ROADMAP.md) | ⭐ 22 | `development` |
+| [Quickmenu Integration Plan](development/quickmenu_integration_plan_a70aea26/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/idea_beijer.bot_integration_idea/QUICKMENU_INTEGRATION_PLAN.md) | ⭐ 22 | `development` |
+| [Skill](development/name-skill_a8e4d2e6/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-commit/SKILL.md) | ⭐ 40 | `development` |
 
 ### Development/Devops (234 skills)
 
@@ -8680,7 +8683,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Agents](development/devops/053-agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_813886da/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 
-### Development/Testing (50 skills)
+### Development/Testing (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8734,6 +8737,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Tanstack Query Patterns](development/testing/054-tanstack-query-patterns_3ee43111/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-query-patterns.md) | ⭐ 10 | `development` |
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
+| [Agents](development/testing/agents_935be579/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
 
 ### Development/Tools (266 skills)
 
@@ -9844,5 +9848,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 20:02:52 UTC*
+*Last updated: 2026-02-08 21:01:57 UTC*
 *Automatically maintained by SkillFlow*
