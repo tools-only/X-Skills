@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9304 AI-powered skills** organized into 16 categories.
+A curated collection of **9395 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (64 skills)
-- **Automation/Workflow** (130 skills)
+- **Automation/Scripting** (65 skills)
+- **Automation/Workflow** (131 skills)
 - **Commercial** (581 skills)
-- **Communication** (368 skills)
-- **Content Creation** (609 skills)
-- **Daily Assistant** (386 skills)
-- **Data Analysis** (899 skills)
-- **Development** (4433 skills)
-- **Development/Devops** (163 skills)
-- **Development/Testing** (47 skills)
-- **Development/Tools** (209 skills)
+- **Communication** (372 skills)
+- **Content Creation** (616 skills)
+- **Daily Assistant** (390 skills)
+- **Data Analysis** (904 skills)
+- **Development** (4472 skills)
+- **Development/Devops** (170 skills)
+- **Development/Testing** (50 skills)
+- **Development/Tools** (226 skills)
 - **Investment** (56 skills)
 - **Other** (44 skills)
-- **Productivity** (244 skills)
+- **Productivity** (247 skills)
 - **Research** (399 skills)
 
 ## Skills Directory
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (64 skills)
+### Automation/Scripting (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -773,8 +773,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/scripting/003-name-skill_8f258337/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/feature-pipeline/SKILL.md) | ⭐ 299 | `automation` |
 | [Azure](automation/scripting/064-azure_67d369d3/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/azure.md) | ⭐ 142 | `automation` |
 | [Api Config Reference](automation/scripting/065-api_config_reference_db8f7060/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/google-image-search/references/api_config_reference.md) | ⭐ 10 | `automation` |
+| [Worker Pools](automation/scripting/066-worker-pools_2c62a78c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/references/worker-pools.md) | ⭐ 20 | `automation` |
 
-### Automation/Workflow (130 skills)
+### Automation/Workflow (131 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -908,6 +909,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Implementation Summary](automation/workflow/079-implementation_summary_76b7daad/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/IMPLEMENTATION_SUMMARY.md) | ⭐ 10 | `automation` |
 | [Agents](automation/workflow/073-agents_768cc392/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/AGENTS.md) | ⭐ 20 | `automation` |
 | [Skill](automation/workflow/002-name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
+| [Skill](automation/workflow/002-name-skill_c40477e3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/revonc-eas-deploy/SKILL.md) | ⭐ 10 | `automation` |
 
 ### Commercial (581 skills)
 
@@ -1495,7 +1497,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Guardrail Hierarchy](commercial/329-guardrail-hierarchy_2bd3bd9e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/guardrail-hierarchy.md) | ⭐ 56 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_bb8b3d03/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 56 | `commercial` |
 
-### Communication (368 skills)
+### Communication (372 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1866,9 +1868,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Openai](communication/214-openai_b58180ce/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/openai.md) | ⭐ 142 | `communication` |
 | [Quickstart](communication/134-quickstart_b823ebc8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/QUICKSTART.md) | ⭐ 10 | `communication` |
 | [Escalation Patterns](communication/215-escalation-patterns_1c53c16b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/escalation-patterns.md) | ⭐ 56 | `communication` |
-| [2026 02 07 19 30 00 Agent Response Highlighting](communication/2026-02-07_19-30-00_agent-response-highlighting_ed75b478/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_19-30-00_agent-response-highlighting.md) | ⭐ 111 | `communication` |
+| [2026 02 07 19 30 00 Agent Response Highlighting](communication/216-2026-02-07_19-30-00_agent-response-highlighting_ed75b478/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_19-30-00_agent-response-highlighting.md) | ⭐ 111 | `communication` |
+| [Agentic Ai 2026 Research Report](communication/217-agentic-ai-2026-research-report_5ba982fd/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/research/agentic-ai-2026-research-report.md) | ⭐ 10 | `communication` |
+| [Tanstack Form Patterns](communication/218-tanstack-form-patterns_5f5003e3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-form-patterns.md) | ⭐ 10 | `communication` |
+| [Skill](communication/127-name-skill_c39002c9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/SKILL.md) | ⭐ 20 | `communication` |
+| [Spec Coverage](communication/219-spec-coverage_62dcd6d7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/references/spec-coverage.md) | ⭐ 20 | `communication` |
 
-### Content Creation (609 skills)
+### Content Creation (616 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2481,8 +2487,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Anti Patterns](content-creation/274-anti-patterns_7fa90d42/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/anti-patterns.md) | ⭐ 56 | `content creation` |
 | [Industry Frameworks](content-creation/275-industry-frameworks_c208f812/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/industry-frameworks.md) | ⭐ 56 | `content creation` |
 | [Quality Metrics](content-creation/276-quality-metrics_fa8e1ec7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/quality-metrics.md) | ⭐ 56 | `content creation` |
+| [Skill](content-creation/049-name-skill_9b62be72/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/audiobook/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_ffcfc735/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/compound/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_62d89ffa/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/episode/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_ff1d06cd/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/essay/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_c5a3ac56/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/prompt-engineering-patterns/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/277-bmad-skill_14981976/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-designer/SKILL.md) | ⭐ 10 | `content creation` |
+| [Connection Pooling](content-creation/278-connection-pooling_89588aca/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/connection-pooling.md) | ⭐ 20 | `content creation` |
 
-### Daily Assistant (386 skills)
+### Daily Assistant (390 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2872,8 +2885,12 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Phase4 Readme](daily-assistant/218-phase4_readme_bebdee28/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/PHASE4_README.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6adff94f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 73 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_bdc9bbc5/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 73 | `daily assistant` |
+| [Architecture Philosophy](daily-assistant/219-architecture-philosophy_e523df35/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/architecture-philosophy.md) | ⭐ 10 | `daily assistant` |
+| [Architecture](daily-assistant/104-architecture_c54871db/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/architecture.md) | ⭐ 10 | `daily assistant` |
+| [Audiobook The Amnesiac Architect](daily-assistant/220-audiobook-the-amnesiac-architect_7a6299de/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/audiobook-the-amnesiac-architect.md) | ⭐ 10 | `daily assistant` |
+| [Settings](daily-assistant/221-settings_082e3b37/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/reference/settings.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (899 skills)
+### Data Analysis (904 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3776,8 +3793,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_b7ea7c71/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/youtube-transcript/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Implementation Summary](data-analysis/399-implementation-summary_c0851d5c/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/implementation-summary.md) | ⭐ 18 | `data analysis` |
 | [Project Description](data-analysis/400-project-description_53bf5d91/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/project-description.md) | ⭐ 18 | `data analysis` |
+| [Memory Integration Analysis](data-analysis/401-memory-integration-analysis_ebd781ce/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/memory-integration-analysis.md) | ⭐ 10 | `data analysis` |
+| [Plan](data-analysis/402-plan_4e054b00/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/hooks/.claude/plan.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c6bad501/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/improve/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Grading Rubric](data-analysis/403-grading-rubric_592f746c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/design-improver/references/grading-rubric.md) | ⭐ 10 | `data analysis` |
+| [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 
-### Development (4433 skills)
+### Development (4472 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8213,9 +8235,48 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Sharing](development/2221-multi-agent-sharing_eec365d7/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/guides/multi-agent-sharing.md) | ⭐ 10 | `development` |
 | [Typescript Sdk](development/1104-typescript-sdk_22e28ae1/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/guides/typescript-sdk.md) | ⭐ 10 | `development` |
 | [Story](development/2222-story_a73684d4/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/site-docs/about/story.md) | ⭐ 10 | `development` |
-| [Agent Loop Ontology](development/agent-loop-ontology_019d244a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/agent-loop-ontology.md) | ⭐ 111 | `development` |
+| [Agent Loop Ontology](development/2227-agent-loop-ontology_019d244a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/agent-loop-ontology.md) | ⭐ 111 | `development` |
+| [Claude](development/140-claude_674e44c0/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/CLAUDE.md) | ⭐ 10 | `development` |
+| [Analysis Persistent Memory For Harnesses](development/2236-analysis-persistent-memory-for-harnesses_07c45c53/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/analysis-persistent-memory-for-harnesses.md) | ⭐ 10 | `development` |
+| [Claude Code Toolkit](development/2237-qa_f057bfa8/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/QA.md) | ⭐ 10 | `development` |
+| [Config Audit](development/2238-config-audit_e724727b/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/config-audit.md) | ⭐ 10 | `development` |
+| [Deslop](development/2239-deslop_091e1741/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/deslop.md) | ⭐ 10 | `development` |
+| [Docupdate](development/2240-docupdate_5388b83d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/docupdate.md) | ⭐ 10 | `development` |
+| [Interview](development/2241-interview_ed1c35a4/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/interview.md) | ⭐ 10 | `development` |
+| [Weboptimizer](development/2242-weboptimizer_9de1c683/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/weboptimizer.md) | ⭐ 10 | `development` |
+| [The Amnesiac Architect](development/2243-the-amnesiac-architect_dfb39fb3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/audiobooks/the-amnesiac-architect.md) | ⭐ 10 | `development` |
+| [Melt Guide](development/2244-melt-guide_625a1973/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/skills/melt-guide.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_7384a4ef/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/async-python-patterns/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_a0fd0f0b/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/burndown/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_8f67610b/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_e01ace2c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_edca1df3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/toolkit/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_dfebb2b3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-improver/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/2014-skill-skill_43bd2caf/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/heavy/SKILL.md) | ⭐ 10 | `development` |
+| [Debugging Rubric](development/2232-debugging-rubric_efc2cd06/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/references/debugging-rubric.md) | ⭐ 10 | `development` |
+| [Worktree Guide](development/2245-worktree-guide_43d9a9da/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/references/worktree-guide.md) | ⭐ 10 | `development` |
+| [Detection Patterns](development/2246-detection-patterns_046ef1d3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/burndown/references/detection-patterns.md) | ⭐ 10 | `development` |
+| [Maestro Mcp Setup](development/2247-maestro-mcp-setup_ab18d28e/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/maestro-mcp-setup.md) | ⭐ 10 | `development` |
+| [Maestro Smoke Contract](development/2248-maestro-smoke-contract_a3810e35/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/maestro-smoke-contract.md) | ⭐ 10 | `development` |
+| [Performance Patterns](development/1944-performance-patterns_b0fff1b4/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/performance-patterns.md) | ⭐ 10 | `development` |
+| [Claude](development/140-claude_31d2c226/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/CLAUDE.md) | ⭐ 20 | `development` |
+| [2026 02 07 Elixir Docs Skills Design](development/2249-2026-02-07-elixir-docs-skills-design_4e5623d6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/docs/plans/2026-02-07-elixir-docs-skills-design.md) | ⭐ 20 | `development` |
+| [Fetch Pr Feedback](development/2250-fetch-pr-feedback_41d2b5c0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/fetch-pr-feedback.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_58ba9957/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-writing-docs/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_fcd54343/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-architect/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_aee4790f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-code-review/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_61f36de2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-middleware/SKILL.md) | ⭐ 20 | `development` |
+| [Doc Quality](development/2251-doc-quality_9caf90ff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/references/doc-quality.md) | ⭐ 20 | `development` |
+| [Admonitions And Formatting](development/2252-admonitions-and-formatting_550ccaee/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-writing-docs/references/admonitions-and-formatting.md) | ⭐ 20 | `development` |
+| [Cross References](development/2253-cross-references_18795abc/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-writing-docs/references/cross-references.md) | ⭐ 20 | `development` |
+| [Dependency Injection](development/2254-dependency-injection_95e4e8c2/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-architect/references/dependency-injection.md) | ⭐ 20 | `development` |
+| [Project Structure](development/718-project-structure_22d883f8/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-architect/references/project-structure.md) | ⭐ 20 | `development` |
+| [Rate Limiting](development/2255-rate-limiting_282926f0/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/references/rate-limiting.md) | ⭐ 20 | `development` |
+| [Transactions](development/1524-transactions_e7b4eec1/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/references/transactions.md) | ⭐ 20 | `development` |
+| [Error Handling Middleware](development/2256-error-handling-middleware_3a11b382/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-middleware/references/error-handling-middleware.md) | ⭐ 20 | `development` |
+| [Validation](development/1120-validation_338fd9ff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/references/validation.md) | ⭐ 20 | `development` |
 
-### Development/Devops (163 skills)
+### Development/Devops (170 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8280,7 +8341,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Gotchas](development/devops/213-gotchas_9edf3496/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/gotchas.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_23dd814e/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/waf/patterns.md) | ⭐ 392 | `development` |
 | [Patterns](development/devops/214-patterns_db3994ff/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(cloud)/cloudflare-deploy/references/workerd/patterns.md) | ⭐ 392 | `development` |
-| [Configuration](development/devops/009-configuration_26d8c1bf/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
+| [Configuration](development/devops/configuration_475dc525/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
 | [Tech Inference Agent](development/devops/191-tech_inference_agent_1ff8bae6/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/agents/tech_inference_agent.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_a2e38f9c/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/code_repository_intel/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/devops/014-name-skill_317186eb/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/techstack_identification/.claude/skills/devops_detector/SKILL.md) | ⭐ 23 | `development` |
@@ -8382,8 +8443,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Async Notification Patterns](development/devops/230-async-notification-patterns_f399a051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/async-notification-patterns.md) | ⭐ 56 | `development` |
 | [Code Guide Addon Production](development/devops/231-code_guide_addon_production_4905d82d/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/CODE_GUIDE_ADDON_PRODUCTION.md) | ⭐ 131 | `development` |
 | [Technical](development/devops/232-technical_b4aa207f/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/TECHNICAL.md) | ⭐ 10 | `development` |
+| [Skills](development/devops/233-reference-skill_9e7fd842/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
+| [Azure Command Guard](development/devops/234-azure-command-guard_cdcd8cbf/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/hooks/azure-command-guard.md) | ⭐ 10 | `development` |
+| [Appfix Guide](development/devops/235-appfix-guide_48d51c59/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/skills/appfix-guide.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_1d53fe96/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/deploy-pipeline/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_202163da/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/skill-sandbox/SKILL.md) | ⭐ 10 | `development` |
+| [Service Topology](development/devops/236-service-topology_567de20d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/references/service-topology.md) | ⭐ 10 | `development` |
+| [Configuration](development/devops/009-configuration_475dc525/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
 
-### Development/Testing (47 skills)
+### Development/Testing (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8434,8 +8502,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Credits](development/testing/051-credits_30bd8d34/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/CREDITS.md) | ⭐ 56 | `development` |
 | [Code Guide Addon Hackathon](development/testing/052-code_guide_addon_hackathon_0aa0fbec/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/CODE_GUIDE_ADDON_HACKATHON.md) | ⭐ 131 | `development` |
 | [Events Webhooks](development/testing/053-events-webhooks_06b86a02/) | [RBKunnela/ALMA-memory](https://raw.githubusercontent.com/RBKunnela/ALMA-memory/main/docs/guides/events-webhooks.md) | ⭐ 10 | `development` |
+| [Tanstack Query Patterns](development/testing/054-tanstack-query-patterns_3ee43111/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-query-patterns.md) | ⭐ 10 | `development` |
+| [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Tools (209 skills)
+### Development/Tools (226 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8648,6 +8719,23 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Prd](development/tools/249-prd_ac78db14/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/PRD.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_89758e74/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_827c94ef/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 56 | `development` |
+| [Quickstart](development/tools/250-quickstart_faa4727c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/QUICKSTART.md) | ⭐ 10 | `development` |
+| [Release Notes](development/tools/251-release-notes_0ad50623/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/RELEASE-NOTES.md) | ⭐ 10 | `development` |
+| [Index](development/tools/062-index_2c735df8/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 10 | `development` |
+| [Commands](development/tools/252-commands_e03dcac7/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/commands.md) | ⭐ 10 | `development` |
+| [Hooks](development/tools/253-hooks_18e43f78/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/hooks.md) | ⭐ 10 | `development` |
+| [Customization](development/tools/254-customization_f57483ea/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/guides/customization.md) | ⭐ 10 | `development` |
+| [Compound Engineering Supermemory Integration](development/tools/255-compound-engineering-supermemory-integration_fae26a48/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/research/compound-engineering-supermemory-integration.md) | ⭐ 10 | `database` `caching` `redis` |
+| [Skill](development/tools/002-name-skill_75536f7d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_0b3277e1/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/design-improver/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_57942ce5/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/melt/SKILL.md) | ⭐ 10 | `development` |
+| [Web Smoke Contract](development/tools/256-web-smoke-contract_4a44483e/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/references/web-smoke-contract.md) | ⭐ 10 | `development` |
+| [Debugging Rubric](development/tools/257-debugging-rubric_67de2459/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/debugging-rubric.md) | ⭐ 10 | `development` |
+| [Mobile Topology](development/tools/258-mobile-topology_e922aa91/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/mobile-topology.md) | ⭐ 10 | `development` |
+| [Tanstack Table Patterns](development/tools/259-tanstack-table-patterns_3f63d029/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-table-patterns.md) | ⭐ 10 | `development` |
+| [Claude Md Optimizer](development/tools/260-claude-md-optimizer_e278e077/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/toolkit/references/claude-md-optimizer.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_82e2789f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/002-name-skill_9ba87d3f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/SKILL.md) | ⭐ 20 | `development` |
 
 ### Investment (56 skills)
 
@@ -8759,7 +8847,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (244 skills)
+### Productivity (247 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9007,6 +9095,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](productivity/093-name-skill_d9b72032/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/doctorg/SKILL.md) | ⭐ 10 | `productivity` |
 | [Skill](productivity/093-name-skill_2253fa49/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/llm-cli/SKILL.md) | ⭐ 10 | `productivity` |
 | [Bias Encyclopedia](productivity/150-bias-encyclopedia_2205d90b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/bias-encyclopedia.md) | ⭐ 10 | `productivity` |
+| [Architecture Philosophy Audiobook](productivity/151-architecture-philosophy-audiobook_bd8f3d77/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/audiobooks/architecture-philosophy-audiobook.md) | ⭐ 10 | `productivity` |
+| [Ux Grading Rubric](productivity/152-ux-grading-rubric_9ecab11c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/ux-improver/references/ux-grading-rubric.md) | ⭐ 10 | `productivity` |
+| [Extras Formats](productivity/153-extras-formats_c4c434c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exdoc-config/references/extras-formats.md) | ⭐ 20 | `productivity` |
 
 ### Research (399 skills)
 
