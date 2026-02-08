@@ -16,10 +16,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (617 skills)
 - **Daily Assistant** (391 skills)
 - **Data Analysis** (904 skills)
-- **Development** (4474 skills)
+- **Development** (4473 skills)
 - **Development/Devops** (170 skills)
 - **Development/Testing** (50 skills)
-- **Development/Tools** (226 skills)
+- **Development/Tools** (227 skills)
 - **Investment** (56 skills)
 - **Other** (44 skills)
 - **Productivity** (248 skills)
@@ -3802,7 +3802,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Grading Rubric](data-analysis/403-grading-rubric_592f746c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/design-improver/references/grading-rubric.md) | ⭐ 10 | `data analysis` |
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 
-### Development (4474 skills)
+### Development (4473 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8279,7 +8279,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Error Handling Middleware](development/2256-error-handling-middleware_3a11b382/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-middleware/references/error-handling-middleware.md) | ⭐ 20 | `development` |
 | [Validation](development/1120-validation_338fd9ff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/references/validation.md) | ⭐ 20 | `development` |
 | [Yaraqa Checks](development/2263-yaraqa-checks_acac6a44/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/yaraqa-checks.md) | ⭐ 16 | `development` |
-| [Skill](development/name-skill_06d08556/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 56 | `development` |
 
 ### Development/Devops (170 skills)
 
@@ -8511,7 +8510,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Tools (226 skills)
+### Development/Tools (227 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8741,6 +8740,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude Md Optimizer](development/tools/260-claude-md-optimizer_e278e077/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/toolkit/references/claude-md-optimizer.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_82e2789f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_9ba87d3f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/SKILL.md) | ⭐ 20 | `development` |
+| [Unittest](development/tools/unittest_01dfb4f5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/test/unittest.md) | ⭐ 3.2k | `development` |
 
 ### Investment (56 skills)
 
