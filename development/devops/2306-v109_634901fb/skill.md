@@ -1,0 +1,238 @@
+# Release v1.0.9 - Performance & Infrastructure Optimization
+
+**January 2026**
+
+---
+
+## Major Features
+
+### Multi-stage Docker Builds & Image Optimization
+
+Dramatically reduced Docker image sizes and improved build performance:
+
+- **Registry Image**: Reduced from 4.79GB to 1.64GB (66% reduction)
+- **mcpgw Server**: Reduced from 7.78GB to ~1.5GB (80% reduction)
+- **Build Context**: Optimized from 1.77GB to <500MB
+- **Multi-stage Architecture**: 3-stage builds (frontend → backend → runtime)
+- **CPU-only PyTorch**: Using PyTorch 2.0+ CPU wheels instead of GPU versions
+- **Selective File Copying**: Only necessary application files in final images
+
+[PR #333](https://github.com/agentic-community/mcp-gateway-registry/pull/333)
+
+### MongoDB/DocumentDB Storage Backend
+
+Complete migration from file-based storage to production-ready database backends:
+
+- **DocumentDB Support**: AWS DocumentDB for production deployments
+- **MongoDB CE Support**: MongoDB Community Edition for local development
+- **Repository Pattern**: Abstracted data access layer for flexibility
+- **Factory Pattern**: Dynamic backend selection via configuration
+- **Backward Compatibility**: File-based storage deprecated but still supported
+
+[PR #328](https://github.com/agentic-community/mcp-gateway-registry/pull/328)
+
+### Test Suite Optimization
+
+Comprehensive pytest test suite with dramatic performance improvements:
+
+- **Performance**: Reduced test execution time from 150s to 30s (80% improvement)
+- **Parallel Execution**: 8 parallel workers with pytest-xdist
+- **Test Coverage**: 701+ tests (unit, integration, E2E)
+- **GitHub Actions**: Automated testing on all PRs
+- **Memory Optimization**: Smart test ordering to prevent OOM on EC2
+
+[PR #330](https://github.com/agentic-community/mcp-gateway-registry/pull/330)
+
+---
+
+## What's New
+
+### Infrastructure & Performance
+- Multi-stage Docker builds for all images
+- Optimized `.dockerignore` to exclude unnecessary files
+- CPU-only PyTorch installation to reduce image bloat
+- Comprehensive test suite with 35% minimum coverage
+- Enhanced testing documentation ([Testing Guide](docs/testing/README.md))
+
+### Storage Backend
+- DocumentDB primary storage backend for production
+- MongoDB CE support for local development
+- Repository pattern for clean data access abstraction
+- Factory-based backend selection
+- Removed OpenSearch dependencies
+
+### Security & Authentication
+- Random admin username/password generation for improved security (#325)
+- Cookie security enhancements (#276)
+- Domain cookie support for auth-server (#258)
+- Bitnami Keycloak OCI repository migration (#318)
+
+### Developer Experience
+- Updated `llms.txt` with critical documentation for AI assistants (#331)
+- Removed outdated `quick-start.md` documentation
+- Enhanced database abstraction layer documentation
+- Podman rootless macOS support (#308)
+- Improved ECS architecture diagrams
+
+### Frontend Fixes
+- Fixed frontend authentication issues (#309)
+- JWT token generation improvements (#307)
+- Service sidebar filtering fixes (#306)
+- A2A agents included in statistics panel (#305)
+- Removed agentsLoading state duplication
+- Proper server and agent separation in useServerStats
+
+### Deployment
+- GATEWAY_ADDITIONAL_SERVER_NAMES support for nginx (#320)
+- Ingress port switching improvements
+- NAT gateway IP configuration for Keycloak ALB
+- ECS deployment cleanup and image preservation
+- Enhanced Kubernetes/Helm deployment documentation
+
+---
+
+## Breaking Changes
+
+### Storage Backend Migration
+
+**Action Required**: If you're upgrading from v1.0.8 or earlier, you need to migrate from file-based storage to MongoDB/DocumentDB:
+
+1. **Set storage backend** in your `.env`:
+   ```bash
+   # For production (AWS DocumentDB)
+   STORAGE_BACKEND=documentdb
+   DOCUMENTDB_URI=mongodb://username:password@cluster.amazonaws.com:27017/?tls=true&retryWrites=false
+   
+   # For local development (MongoDB CE)
+   STORAGE_BACKEND=mongodb
+   MONGODB_URI=mongodb://localhost:27017/
+   ```
+
+2. **Data migration**: File-based data is not automatically migrated. Re-register servers and agents or use the migration script.
+
+---
+
+## Upgrade Instructions
+
+### For Docker Compose Deployments
+
+1. **Pull the latest changes:**
+```bash
+cd mcp-gateway-registry
+git pull origin main
+git checkout v1.0.9
+```
+
+2. **Update environment configuration:**
+```bash
+# Add storage backend configuration
+echo "STORAGE_BACKEND=mongodb" >> .env
+echo "MONGODB_URI=mongodb://localhost:27017/" >> .env
+
+# Optional: Remove file-based storage (deprecated)
+# STORAGE_TYPE=file  # Remove this line
+```
+
+3. **Rebuild and restart:**
+```bash
+./build_and_run.sh
+```
+
+### For AWS ECS Deployment
+
+1. **Update Terraform variables:**
+```hcl
+# In terraform.tfvars
+storage_backend = "documentdb"
+```
+
+2. **Apply Terraform changes:**
+```bash
+cd terraform/aws-ecs
+terraform init
+terraform plan
+terraform apply
+```
+
+3. **Rebuild and push optimized images:**
+```bash
+export AWS_REGION=us-east-1
+make build-push
+```
+
+### Testing the Upgrade
+
+Verify all components are working:
+
+```bash
+# Run E2E tests
+./api/test-management-api-e2e.sh --token-file .oauth-tokens/ingress.json --registry-url http://localhost
+
+# Check image sizes
+docker images | grep mcp-gateway-registry
+
+# Run pytest suite
+make test
+```
+
+---
+
+## Performance Improvements
+
+### Docker Build & Deployment
+- **66-80% smaller images**: Faster deployments and reduced storage costs
+- **<500MB build context**: Much faster Docker builds
+- **Layer reuse**: Better Docker layer caching
+
+### Test Execution
+- **80% faster tests**: From 150s to 30s execution time
+- **Parallel execution**: 8 workers for faster CI/CD
+- **Memory efficient**: No more OOM crashes on EC2
+
+### Storage Backend
+- **Database-backed storage**: Better scalability and reliability
+- **Production-ready**: DocumentDB with Multi-AZ support
+- **Local development**: Fast MongoDB CE for testing
+
+---
+
+## Resources
+
+### New Documentation
+- [Testing Guide](docs/testing/README.md) - Comprehensive testing documentation
+- [Writing Tests](docs/testing/WRITING_TESTS.md) - How to write effective tests
+- [Test Maintenance](docs/testing/MAINTENANCE.md) - Maintaining test suite health
+- [Database Abstraction Layer](docs/database-abstraction-layer.md) - Storage backend architecture
+
+### Updated Documentation
+- [AWS ECS Deployment Guide](terraform/aws-ecs/README.md)
+- [LLMs.txt](docs/llms.txt) - AI assistant reference documentation
+- [Podman Setup](docs/podman-setup.md) - Podman rootless macOS support
+
+### Migration Guides
+- Storage Backend Migration (TBD - contact maintainers for assistance)
+
+---
+
+## Support
+
+- [GitHub Issues](https://github.com/agentic-community/mcp-gateway-registry/issues)
+- [GitHub Discussions](https://github.com/agentic-community/mcp-gateway-registry/discussions)
+- [Documentation](https://github.com/agentic-community/mcp-gateway-registry/tree/main/docs)
+
+---
+
+## Contributors
+
+Special thanks to all contributors who made this release possible:
+- @aarora79 (Amit Arora) - MongoDB/DocumentDB storage backend implementation
+- @dheerajoruganty - Test suite optimization and performance improvements
+- @omrishiv - Multi-stage Docker build implementation
+- Gabriel Rojas - Frontend authentication fixes and improvements
+- Viviana Luccioli - Security enhancements and cookie improvements
+- dependabot[bot] - Dependency updates and security patches
+- All community members who reported issues and provided feedback
+
+---
+
+**Full Changelog:** [v1.0.8...v1.0.9](https://github.com/agentic-community/mcp-gateway-registry/compare/v1.0.8...v1.0.9)

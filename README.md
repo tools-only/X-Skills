@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9401 AI-powered skills** organized into 16 categories.
+A curated collection of **9480 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (65 skills)
-- **Automation/Workflow** (132 skills)
-- **Commercial** (581 skills)
-- **Communication** (372 skills)
+- **Automation/Scripting** (67 skills)
+- **Automation/Workflow** (135 skills)
+- **Commercial** (586 skills)
+- **Communication** (373 skills)
 - **Content Creation** (617 skills)
 - **Daily Assistant** (391 skills)
-- **Data Analysis** (904 skills)
-- **Development** (4474 skills)
-- **Development/Devops** (170 skills)
-- **Development/Testing** (50 skills)
-- **Development/Tools** (226 skills)
-- **Investment** (56 skills)
+- **Data Analysis** (905 skills)
+- **Development** (4496 skills)
+- **Development/Devops** (201 skills)
+- **Development/Testing** (55 skills)
+- **Development/Tools** (233 skills)
+- **Investment** (58 skills)
 - **Other** (44 skills)
 - **Productivity** (248 skills)
 - **Research** (399 skills)
@@ -705,7 +705,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (65 skills)
+### Automation/Scripting (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -774,8 +774,10 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Azure](automation/scripting/064-azure_67d369d3/) | [lfnovo/esperanto](https://raw.githubusercontent.com/lfnovo/esperanto/main/docs/providers/azure.md) | ⭐ 142 | `automation` |
 | [Api Config Reference](automation/scripting/065-api_config_reference_db8f7060/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/google-image-search/references/api_config_reference.md) | ⭐ 10 | `automation` |
 | [Worker Pools](automation/scripting/066-worker-pools_2c62a78c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/references/worker-pools.md) | ⭐ 20 | `automation` |
+| [Data Retention](automation/scripting/data-retention_92897d7a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/data-retention.md) | ⭐ 424 | `automation` |
+| [Database Schema](automation/scripting/database-schema_76b12499/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/database-schema.md) | ⭐ 424 | `automation` |
 
-### Automation/Workflow (132 skills)
+### Automation/Workflow (135 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -911,8 +913,11 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](automation/workflow/002-name-skill_67ab3771/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 20 | `automation` |
 | [Skill](automation/workflow/002-name-skill_c40477e3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/revonc-eas-deploy/SKILL.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_22ad1784/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/SKILL.md) | ⭐ 16 | `automation` |
+| [Ai Coding Assistants Setup](automation/workflow/ai-coding-assistants-setup_c58876ce/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/ai-coding-assistants-setup.md) | ⭐ 424 | `automation` |
+| [Anthropic Registry Import](automation/workflow/anthropic-registry-import_5e604881/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/anthropic-registry-import.md) | ⭐ 424 | `automation` |
+| [Jwt Token Vending](automation/workflow/jwt-token-vending_2a3af5f8/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 424 | `automation` |
 
-### Commercial (581 skills)
+### Commercial (586 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1497,8 +1502,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Conversation Patterns](commercial/328-conversation-patterns_c9091e7c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/conversation-patterns.md) | ⭐ 56 | `commercial` |
 | [Guardrail Hierarchy](commercial/329-guardrail-hierarchy_2bd3bd9e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/resources/guardrail-hierarchy.md) | ⭐ 56 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_bb8b3d03/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 56 | `commercial` |
+| [Datastore Management](commercial/datastore-management_98ad479b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/datastore-management.md) | ⭐ 424 | `commercial` |
+| [Embeddings](commercial/embeddings_f1747e8a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/embeddings.md) | ⭐ 424 | `commercial` |
+| [Remote Desktop Setup](commercial/remote-desktop-setup_9d62cbe1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/remote-desktop-setup.md) | ⭐ 424 | `commercial` |
+| [Federation Architecture](commercial/federation-architecture_67812d39/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/federation-architecture.md) | ⭐ 424 | `commercial` |
+| [Custom Metadata](commercial/custom-metadata_36e6d244/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/custom-metadata.md) | ⭐ 424 | `commercial` |
 
-### Communication (372 skills)
+### Communication (373 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1874,6 +1884,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tanstack Form Patterns](communication/218-tanstack-form-patterns_5f5003e3/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-form-patterns.md) | ⭐ 10 | `communication` |
 | [Skill](communication/127-name-skill_c39002c9/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-concurrency-web/SKILL.md) | ⭐ 20 | `communication` |
 | [Spec Coverage](communication/219-spec-coverage_62dcd6d7/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/references/spec-coverage.md) | ⭐ 20 | `communication` |
+| [Mcp Registry Cli](communication/mcp-registry-cli_c6590db4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/mcp-registry-cli.md) | ⭐ 424 | `communication` |
 
 ### Content Creation (617 skills)
 
@@ -2893,7 +2904,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Settings](daily-assistant/221-settings_082e3b37/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/reference/settings.md) | ⭐ 10 | `daily assistant` |
 | [Issue Identifiers](daily-assistant/222-issue-identifiers_96c5c70c/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/issue-identifiers.md) | ⭐ 16 | `daily assistant` |
 
-### Data Analysis (904 skills)
+### Data Analysis (905 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3801,8 +3812,9 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](data-analysis/226-name-skill_c6bad501/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/improve/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Grading Rubric](data-analysis/403-grading-rubric_592f746c/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/design-improver/references/grading-rubric.md) | ⭐ 10 | `data analysis` |
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
+| [Api Reference](data-analysis/api-reference_fc785ae0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/api-reference.md) | ⭐ 424 | `data analysis` |
 
-### Development (4474 skills)
+### Development (4496 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8279,9 +8291,31 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Error Handling Middleware](development/2256-error-handling-middleware_3a11b382/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-middleware/references/error-handling-middleware.md) | ⭐ 20 | `development` |
 | [Validation](development/1120-validation_338fd9ff/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/references/validation.md) | ⭐ 20 | `development` |
 | [Yaraqa Checks](development/2263-yaraqa-checks_acac6a44/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/yaraqa-checks.md) | ⭐ 16 | `development` |
-| [Skill](development/name-skill_0fafcb31/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 56 | `development` |
+| [Agentcore](development/agentcore_054d89ff/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/agentcore.md) | ⭐ 424 | `development` |
+| [Audit Logging](development/audit-logging_74e8a40e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/audit-logging.md) | ⭐ 424 | `development` |
+| [Auth](development/auth_f2efda6e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/auth.md) | ⭐ 424 | `development` |
+| [Deployment Modes](development/deployment-modes_08c03d66/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/deployment-modes.md) | ⭐ 424 | `development` |
+| [Dynamic Tool Discovery](development/dynamic-tool-discovery_fa35b4df/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/dynamic-tool-discovery.md) | ⭐ 424 | `development` |
+| [Index](development/index_4dccb182/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/index.md) | ⭐ 424 | `development` |
+| [Keycloak Integration](development/keycloak-integration_eb681069/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/keycloak-integration.md) | ⭐ 424 | `development` |
+| [Registry Auth Architecture](development/registry-auth-architecture_d441f63f/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-auth-architecture.md) | ⭐ 424 | `development` |
+| [Registry Auth Detailed](development/registry-auth-detailed_3a58d429/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-auth-detailed.md) | ⭐ 424 | `development` |
+| [Registry Api](development/registry_api_30503156/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry_api.md) | ⭐ 424 | `development` |
+| [Scopes Mgmt](development/scopes-mgmt_2975916b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/scopes-mgmt.md) | ⭐ 424 | `development` |
+| [Scopes](development/scopes_3f9a40d3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/scopes.md) | ⭐ 424 | `development` |
+| [Server Versioning Operations](development/server-versioning-operations_2828a0d2/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/server-versioning-operations.md) | ⭐ 424 | `development` |
+| [V1.0.5](development/v105_1785e6b6/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.5.md) | ⭐ 424 | `development` |
+| [V1.0.6](development/v106_68834995/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.6.md) | ⭐ 424 | `development` |
+| [A2A Protocol Integration](development/a2a-protocol-integration_798c7701/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/a2a-protocol-integration.md) | ⭐ 424 | `development` |
+| [Agent Skills Architecture](development/agent-skills-architecture_fbbd3a93/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/agent-skills-architecture.md) | ⭐ 424 | `development` |
+| [Anthropic Api Implementation](development/anthropic-api-implementation_1b8e188a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/anthropic-api-implementation.md) | ⭐ 424 | `development` |
+| [Architectural Decision Reverse Proxy Vs Application Layer Gateway](development/architectural-decision-reverse-proxy-vs-application-layer-gateway_a566bf83/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/architectural-decision-reverse-proxy-vs-application-layer-gateway.md) | ⭐ 424 | `development` |
+| [Cookie Security Design](development/cookie-security-design_b0c35d2b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/cookie-security-design.md) | ⭐ 424 | `development` |
+| [Idp Provider Support](development/idp-provider-support_754adbcb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/idp-provider-support.md) | ⭐ 424 | `development` |
+| [Server Versioning](development/server-versioning_08ec8521/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/server-versioning.md) | ⭐ 424 | `development` |
+| [Scan Report Example](development/scan_report_example_a22b1784/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/scan_report_example.md) | ⭐ 424 | `development` |
 
-### Development/Devops (170 skills)
+### Development/Devops (201 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8455,8 +8489,39 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/devops/014-name-skill_202163da/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/skill-sandbox/SKILL.md) | ⭐ 10 | `development` |
 | [Service Topology](development/devops/236-service-topology_567de20d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/appfix/references/service-topology.md) | ⭐ 10 | `development` |
 | [Configuration](development/devops/009-configuration_475dc525/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.2k | `development` |
+| [Auth Mgmt](development/devops/auth-mgmt_c8f207b9/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/auth-mgmt.md) | ⭐ 424 | `development` |
+| [Cognito](development/devops/cognito_03b2d4d0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/cognito.md) | ⭐ 424 | `development` |
+| [Complete Setup Guide](development/devops/complete-setup-guide_3a153fcd/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/complete-setup-guide.md) | ⭐ 424 | `development` |
+| [Configuration](development/devops/configuration_079a1964/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/configuration.md) | ⭐ 424 | `development` |
+| [Entra Id Setup](development/devops/entra-id-setup_24a1cb0c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/entra-id-setup.md) | ⭐ 424 | `development` |
+| [Federation Operational Guide](development/devops/federation-operational-guide_8fbed6eb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/federation-operational-guide.md) | ⭐ 424 | `development` |
+| [Federation](development/devops/federation_db049f00/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/federation.md) | ⭐ 424 | `development` |
+| [Installation](development/devops/installation_80913180/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/installation.md) | ⭐ 424 | `development` |
+| [Macos Setup Guide](development/devops/macos-setup-guide_a75722b9/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/macos-setup-guide.md) | ⭐ 424 | `development` |
+| [Metrics Architecture](development/devops/metrics-architecture_43573c5b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/metrics-architecture.md) | ⭐ 424 | `development` |
+| [Prebuilt Images](development/devops/prebuilt-images_f1591d8d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/prebuilt-images.md) | ⭐ 424 | `development` |
+| [Quickstart](development/devops/quickstart_541dbba0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/quickstart.md) | ⭐ 424 | `development` |
+| [Security Scanner](development/devops/security-scanner_f82c24e1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/security-scanner.md) | ⭐ 424 | `development` |
+| [Service Management](development/devops/service-management_ebbef152/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/service-management.md) | ⭐ 424 | `development` |
+| [Static Token Auth](development/devops/static-token-auth_2498d138/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/static-token-auth.md) | ⭐ 424 | `development` |
+| [Token Refresh Service](development/devops/token-refresh-service_4165c7ff/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/token-refresh-service.md) | ⭐ 424 | `development` |
+| [V1.0.10](development/devops/v1010_694d6148/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.10.md) | ⭐ 424 | `development` |
+| [V1.0.12](development/devops/v1012_f7a09ca9/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.12.md) | ⭐ 424 | `development` |
+| [V1.0.3](development/devops/v103_f3d28bfe/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.3.md) | ⭐ 424 | `development` |
+| [V1.0.4](development/devops/v104_fc7df6e4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.4.md) | ⭐ 424 | `development` |
+| [V1.0.9 Patch1](development/devops/v109-patch1_41e2e621/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.9-patch1.md) | ⭐ 424 | `development` |
+| [V1.0.9](development/devops/v109_634901fb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.9.md) | ⭐ 424 | `development` |
+| [Database Abstraction Layer](development/devops/database-abstraction-layer_b2637f12/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/database-abstraction-layer.md) | ⭐ 424 | `development` |
+| [Hybrid Search Architecture](development/devops/hybrid-search-architecture_72e7dd3a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 424 | `development` |
+| [Architecture With Dataplane](development/devops/architecture-with-dataplane_075c2a00/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/img/architecture-with-dataplane.md) | ⭐ 424 | `development` |
+| [Deployment](development/devops/deployment_db10b5a9/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/deployment.md) | ⭐ 424 | `development` |
+| [Operations](development/devops/operations_340910b0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/OPERATIONS.md) | ⭐ 424 | `development` |
+| [Readme Documentdb Cli](development/devops/readme-documentdb-cli_4aeabbe3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/terraform/aws-ecs/scripts/README-DOCUMENTDB-CLI.md) | ⭐ 424 | `development` |
+| [Podman Apple Silicon](development/devops/podman-apple-silicon_3d698c9c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/podman-apple-silicon.md) | ⭐ 424 | `development` |
+| [Testing](development/devops/testing_441f4b11/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/testing.md) | ⭐ 424 | `development` |
+| [Anthropic Api Test Commands](development/devops/anthropic-api-test-commands_a8bf37a9/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/anthropic-api-test-commands.md) | ⭐ 424 | `development` |
 
-### Development/Testing (50 skills)
+### Development/Testing (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8510,8 +8575,13 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Tanstack Query Patterns](development/testing/054-tanstack-query-patterns_3ee43111/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-query-patterns.md) | ⭐ 10 | `development` |
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
+| [Maintenance](development/testing/maintenance_1790a688/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/testing/MAINTENANCE.md) | ⭐ 424 | `development` |
+| [Quick Start](development/testing/quick-start_31bf821d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/testing/QUICK-START.md) | ⭐ 424 | `development` |
+| [Writing Tests](development/testing/writing_tests_e1eb0b0d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/testing/WRITING_TESTS.md) | ⭐ 424 | `development` |
+| [Memory Management](development/testing/memory-management_8331fcf4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/testing/memory-management.md) | ⭐ 424 | `development` |
+| [Test Categories](development/testing/test-categories_dbacaf2e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/testing/test-categories.md) | ⭐ 424 | `development` |
 
-### Development/Tools (226 skills)
+### Development/Tools (233 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8741,8 +8811,15 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Claude Md Optimizer](development/tools/260-claude-md-optimizer_e278e077/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/toolkit/references/claude-md-optimizer.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_82e2789f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/elixir-docs-review/SKILL.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_9ba87d3f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-data-persistence/SKILL.md) | ⭐ 20 | `development` |
+| [Agent Skills Operational Guide](development/tools/agent-skills-operational-guide_1a9e04e2/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/agent-skills-operational-guide.md) | ⭐ 424 | `development` |
+| [Anthropic Registry Api](development/tools/anthropic_registry_api_f9d572f6/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/anthropic_registry_api.md) | ⭐ 424 | `development` |
+| [Api Reference](development/tools/api-reference_cbd47fe6/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/api-reference.md) | ⭐ 424 | `development` |
+| [Cli](development/tools/cli_63d41832/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/cli.md) | ⭐ 424 | `development` |
+| [Entra](development/tools/entra_8a6b92bf/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/entra.md) | ⭐ 424 | `development` |
+| [Authentication Design](development/tools/authentication-design_6de6b8b6/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/authentication-design.md) | ⭐ 424 | `development` |
+| [Readme Secrets](development/tools/readme_secrets_e62e828e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/servers/fininfo/README_SECRETS.md) | ⭐ 424 | `development` |
 
-### Investment (56 skills)
+### Investment (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8802,6 +8879,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Competitive Positioning Framework](investment/031-competitive-positioning-framework_d0cfbb21/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/business-growth/sales-engineer/references/competitive-positioning-framework.md) | ⭐ 1.6k | `investment` |
 | [Valuation Methodology](investment/032-valuation-methodology_d7cedb0a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/finance/financial-analyst/references/valuation-methodology.md) | ⭐ 1.6k | `investment` |
 | [Framework Deep Dives](investment/033-framework-deep-dives_27552683/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/framework-deep-dives.md) | ⭐ 10 | `investment` |
+| [Database Design](investment/database-design_b11e9364/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 424 | `investment` |
+| [Storage Architecture Mongodb Documentdb](investment/storage-architecture-mongodb-documentdb_0b595b60/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 424 | `investment` |
 
 ### Other (44 skills)
 
