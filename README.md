@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9675 AI-powered skills** organized into 16 categories.
+A curated collection of **9662 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -13,16 +13,16 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (139 skills)
 - **Commercial** (588 skills)
 - **Communication** (376 skills)
-- **Content Creation** (646 skills)
-- **Daily Assistant** (395 skills)
+- **Content Creation** (638 skills)
+- **Daily Assistant** (394 skills)
 - **Data Analysis** (913 skills)
 - **Development** (4558 skills)
 - **Development/Devops** (233 skills)
-- **Development/Testing** (52 skills)
-- **Development/Tools** (267 skills)
+- **Development/Testing** (50 skills)
+- **Development/Tools** (266 skills)
 - **Investment** (59 skills)
 - **Other** (44 skills)
-- **Productivity** (252 skills)
+- **Productivity** (251 skills)
 - **Research** (414 skills)
 
 ## Patches - Curated Skill Bundles
@@ -936,9 +936,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Anthropic Registry Import](automation/workflow/081-anthropic-registry-import_5e604881/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/anthropic-registry-import.md) | ⭐ 424 | `automation` |
 | [Jwt Token Vending](automation/workflow/082-jwt-token-vending_2a3af5f8/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 424 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_76df3aa0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
-| [Agents](automation/workflow/agents_f50485aa/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/AGENTS.md) | ⭐ 16 | `automation` |
-| [Progressive Disclosure](automation/workflow/progressive-disclosure_5243e1f0/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/progressive-disclosure.md) | ⭐ 16 | `automation` |
-| [Sam Analyst](automation/workflow/sam-analyst_647acc9e/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/sam-analyst.md) | ⭐ 16 | `automation` |
+| [Agents](automation/workflow/073-agents_f50485aa/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/AGENTS.md) | ⭐ 16 | `automation` |
+| [Progressive Disclosure](automation/workflow/083-progressive-disclosure_5243e1f0/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/progressive-disclosure.md) | ⭐ 16 | `automation` |
+| [Skill](automation/workflow/name-skill_ae1d0569/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md) | ⭐ 17 | `automation` |
 
 ### Commercial (588 skills)
 
@@ -1914,7 +1914,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Ui Team Soft Budget Alerts](communication/222-ui_team_soft_budget_alerts_cbd5d15a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_team_soft_budget_alerts.md) | 🔥 35.5k | `communication` |
 | [Rag Pipelines](communication/223-rag_pipelines_23c48ef1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/RAG_PIPELINES.md) | 🔥 9.1k | `communication` |
 
-### Content Creation (646 skills)
+### Content Creation (638 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2555,17 +2555,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](content-creation/049-name-skill_ebbe219a/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/writer-selfloop/SKILL.md) | ⭐ 194 | `content creation` |
 | [02 Elementary Rules Of Usage](content-creation/291-02-elementary-rules-of-usage_8cead3fc/) | [softaworks/agent-toolkit](https://raw.githubusercontent.com/softaworks/agent-toolkit/main/skills/writing-clearly-and-concisely/elements-of-style/02-elementary-rules-of-usage.md) | ⭐ 491 | `content creation` |
 | [P5 Guide](content-creation/292-p5-guide_079ce665/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/p5-guide.md) | ⭐ 16 | `content creation` |
-| [Skill](content-creation/name-skill_6310ca0d/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/SKILL.md) | ⭐ 16 | `content creation` |
-| [Readme(Kor)](content-creation/readmekor_de457538/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/README(kor).md) | ⭐ 16 | `content creation` |
-| [Skillful Orchestrator](content-creation/skillful-orchestrator_652fea70/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skillful-orchestrator.md) | ⭐ 16 | `content creation` |
-| [Tom Builder](content-creation/tom-builder_33d64173/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/tom-builder.md) | ⭐ 16 | `content creation` |
-| [Skill](content-creation/name-skill_26ae77c7/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/agent-design/SKILL.md) | ⭐ 16 | `content creation` |
-| [Skill](content-creation/name-skill_1169f286/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/project-scaffolding/SKILL.md) | ⭐ 16 | `content creation` |
-| [Tool Selection](content-creation/tool-selection_3030d6fa/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/agent-design/references/tool-selection.md) | ⭐ 16 | `content creation` |
-| [Agent Validation](content-creation/agent-validation_80c4a647/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/references/agent-validation.md) | ⭐ 16 | `content creation` |
-| [Common Issues](content-creation/common-issues_4935dd70/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/references/common-issues.md) | ⭐ 16 | `content creation` |
+| [Skill](content-creation/049-name-skill_6310ca0d/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/SKILL.md) | ⭐ 16 | `content creation` |
 
-### Daily Assistant (395 skills)
+### Daily Assistant (394 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2961,9 +2953,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Settings](daily-assistant/221-settings_082e3b37/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/reference/settings.md) | ⭐ 10 | `daily assistant` |
 | [Issue Identifiers](daily-assistant/222-issue-identifiers_96c5c70c/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/issue-identifiers.md) | ⭐ 16 | `daily assistant` |
 | [Index](daily-assistant/052-index_cb00fdaf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/litellm_observatory/index.md) | 🔥 35.5k | `testing` `observability` `reliability` |
-| [Skill](daily-assistant/name-skill_8ae3053c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/SKILL.md) | ⭐ 16 | `daily assistant` |
-| [Frontmatter Guide](daily-assistant/frontmatter-guide_8347f543/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/frontmatter-guide.md) | ⭐ 16 | `daily assistant` |
-| [Frontmatter Fields](daily-assistant/frontmatter-fields_fd88b7df/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/agent-design/references/frontmatter-fields.md) | ⭐ 16 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_8ae3053c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/SKILL.md) | ⭐ 16 | `daily assistant` |
+| [Frontmatter Guide](daily-assistant/223-frontmatter-guide_8347f543/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/frontmatter-guide.md) | ⭐ 16 | `daily assistant` |
 
 ### Data Analysis (913 skills)
 
@@ -3880,8 +3871,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Action Plan](data-analysis/408-action_plan_cbd5217b/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/ACTION_PLAN.md) | 🔥 9.1k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_be4ee27e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/learning-graph-generator/SKILL.md) | ⭐ 16 | `data analysis` |
 | [Learning Graph Viewer](data-analysis/129-learning-graph-viewer_b3ef66a1/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-graph-viewer.md) | ⭐ 16 | `data analysis` |
-| [Agents](data-analysis/agents_87b923e8/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/AGENTS.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/claude_2df8f54b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/CLAUDE.md) | ⭐ 16 | `data analysis` |
+| [Agents](data-analysis/341-agents_87b923e8/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/AGENTS.md) | ⭐ 16 | `data analysis` |
+| [Claude](data-analysis/036-claude_2df8f54b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/CLAUDE.md) | ⭐ 16 | `data analysis` |
 
 ### Development (4558 skills)
 
@@ -8438,13 +8429,13 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Skills Releases](development/799-readme_flat_skills_releases_5d2ca564/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 23.1k | `development` |
 | [Readme Flat Skills Updated](development/800-readme_flat_skills_updated_13ad0c0c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.1k | `development` |
 | [Agents](development/028-agents_2114e001/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
-| [Jenny Engineer](development/jenny-engineer_0d8038a6/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/jenny-engineer.md) | ⭐ 16 | `development` |
-| [Anthropic Skills Guide](development/anthropic-skills-guide_df88d47c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/anthropic-skills-guide.md) | ⭐ 16 | `development` |
-| [Skill](development/name-skill_3eb0b31b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/SKILL.md) | ⭐ 16 | `development` |
-| [Naming Rules](development/naming-rules_22ef468b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/naming-rules.md) | ⭐ 16 | `development` |
-| [Skill Validation](development/skill-validation_510877db/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/references/skill-validation.md) | ⭐ 16 | `development` |
-| [Bundled Resources](development/bundled-resources_f19bba81/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/bundled-resources.md) | ⭐ 16 | `development` |
-| [Validation Checklist](development/validation-checklist_0cbb8382/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/validation-checklist.md) | ⭐ 16 | `development` |
+| [Jenny Engineer](development/2365-jenny-engineer_0d8038a6/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/jenny-engineer.md) | ⭐ 16 | `development` |
+| [Anthropic Skills Guide](development/2366-anthropic-skills-guide_df88d47c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/anthropic-skills-guide.md) | ⭐ 16 | `development` |
+| [Skill](development/1178-name-skill_3eb0b31b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/SKILL.md) | ⭐ 16 | `development` |
+| [Naming Rules](development/2367-naming-rules_22ef468b/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/naming-rules.md) | ⭐ 16 | `development` |
+| [Skill Validation](development/2368-skill-validation_510877db/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/quality-checklist/references/skill-validation.md) | ⭐ 16 | `development` |
+| [Bundled Resources](development/116-bundled-resources_f19bba81/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/bundled-resources.md) | ⭐ 16 | `development` |
+| [Validation Checklist](development/2369-validation-checklist_0cbb8382/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/skill-design/references/validation-checklist.md) | ⭐ 16 | `development` |
 
 ### Development/Devops (233 skills)
 
@@ -8682,9 +8673,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_b4220b1f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.1k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_f61a3515/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.1k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_4de69ccc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.1k | `development` |
-| [Agents](development/devops/agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
+| [Agents](development/devops/053-agents_314631ae/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/AGENTS.md) | ⭐ 16 | `development` |
 
-### Development/Testing (52 skills)
+### Development/Testing (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8738,10 +8729,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Tanstack Query Patterns](development/testing/054-tanstack-query-patterns_3ee43111/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/tanstack-query-patterns.md) | ⭐ 10 | `development` |
 | [Zustand Patterns](development/testing/055-zustand-patterns_1012e5ac/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/nextjs-tanstack-stack/references/zustand-patterns.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/002-name-skill_c7c7b825/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/go-web-expert/SKILL.md) | ⭐ 20 | `development` |
-| [Example Skills Mcp Builder Skill](development/testing/example-skills-mcp-builder-skill_d0391177/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/example-skills-mcp-builder-SKILL.md) | ⭐ 16 | `development` |
-| [Example Skills Skill Creator Skill](development/testing/example-skills-skill-creator-skill_eb976d05/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/example-skills-skill-creator-SKILL.md) | ⭐ 16 | `development` |
 
-### Development/Tools (267 skills)
+### Development/Tools (266 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9009,9 +8998,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_37e9bfcc/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.1k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_6dd48f7a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.1k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_71ea12ad/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.1k | `development` |
-| [Agentskills](development/tools/agentskills_a3da6511/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/AgentSkills.md) | ⭐ 16 | `development` |
-| [Anthropic Subagents Guide](development/tools/anthropic-subagents-guide_36283e1c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/anthropic-subagents-guide.md) | ⭐ 16 | `development` |
-| [Subagents Guide](development/tools/subagents-guide_7c37459c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/subagents-guide.md) | ⭐ 16 | `development` |
+| [Agentskills](development/tools/270-agentskills_a3da6511/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/AgentSkills.md) | ⭐ 16 | `development` |
+| [Anthropic Subagents Guide](development/tools/271-anthropic-subagents-guide_36283e1c/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/context/anthropic-subagents-guide.md) | ⭐ 16 | `development` |
 
 ### Investment (59 skills)
 
@@ -9075,7 +9063,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Framework Deep Dives](investment/033-framework-deep-dives_27552683/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/decision-toolkit/references/framework-deep-dives.md) | ⭐ 10 | `investment` |
 | [Database Design](investment/034-database-design_b11e9364/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 424 | `investment` |
 | [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_0b595b60/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 424 | `investment` |
-| [Skills Guide](investment/skills-guide_d55028cd/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/skills-guide.md) | ⭐ 16 | `investment` |
+| [Skills Guide](investment/036-skills-guide_d55028cd/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/anthropic-reference/references/skills-guide.md) | ⭐ 16 | `investment` |
 
 ### Other (44 skills)
 
@@ -9126,7 +9114,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (252 skills)
+### Productivity (251 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9381,7 +9369,6 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Facilitation](productivity/155-facilitation_a0fadd7d/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/problem-solving/references/facilitation.md) | ⭐ 14 | `productivity` |
 | [Hackernews](productivity/156-hackernews_1983e4ee/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/hackernews.md) | ⭐ 40 | `productivity` |
 | [Twitter](productivity/157-twitter_3f23a787/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/twitter.md) | ⭐ 40 | `productivity` |
-| [Examples](productivity/examples_f2c37bf0/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/skills/agent-design/references/examples.md) | ⭐ 16 | `productivity` |
 
 ### Research (414 skills)
 
@@ -9800,7 +9787,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](research/139-name-skill_bb65dba7/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 194 | `research` |
 | [Skill](research/139-name-skill_2a57cdcd/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/subsection-writer/SKILL.md) | ⭐ 194 | `research` |
 | [Readme.En](research/230-readmeen_0d3e9c45/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/README.en.md) | ⭐ 194 | `research` |
-| [Will Reviewer](research/will-reviewer_d24c364f/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/will-reviewer.md) | ⭐ 16 | `research` |
+| [Will Reviewer](research/242-will-reviewer_d24c364f/) | [houarnu166/skillful-agent-system-builder](https://raw.githubusercontent.com/houarnu166/skillful-agent-system-builder/main/.agents/will-reviewer.md) | ⭐ 16 | `research` |
 
 ## How Skills Are Organized
 
@@ -9852,5 +9839,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 18:05:51 UTC*
+*Last updated: 2026-02-08 18:11:38 UTC*
 *Automatically maintained by SkillFlow*
