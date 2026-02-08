@@ -16,14 +16,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (617 skills)
 - **Daily Assistant** (391 skills)
 - **Data Analysis** (905 skills)
-- **Development** (4497 skills)
+- **Development** (4498 skills)
 - **Development/Devops** (198 skills)
 - **Development/Testing** (50 skills)
 - **Development/Tools** (233 skills)
 - **Investment** (58 skills)
 - **Other** (44 skills)
 - **Productivity** (248 skills)
-- **Research** (400 skills)
+- **Research** (399 skills)
 
 ## Skills Directory
 
@@ -782,7 +782,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](automation/workflow/002-name-skill_a67bc6c7/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/api-contract/SKILL.md) | ⭐ 72 | `automation` |
-| [Readme.Ja](automation/workflow/readmeja_76df3aa0/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_ac1dde06/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Index](automation/workflow/021-index_d434cdd8/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/core/INDEX.md) | ⭐ 17 | `automation` |
 | [Enhancement Modes](automation/workflow/060-enhancement_modes_34694198/) | [Arxchibobo/claude-Reconstruction](https://raw.githubusercontent.com/Arxchibobo/claude-Reconstruction/main/skills-research/Skill_Seekers/docs/features/ENHANCEMENT_MODES.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_230b35ec/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/audio-transcriber/SKILL.md) | 🔥 7.2k | `audio` `transcription` `whisper` |
@@ -3814,7 +3814,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_418e2760/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 20 | `data analysis` |
 | [Api Reference](data-analysis/404-api-reference_fc785ae0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/metrics-service/docs/api-reference.md) | ⭐ 424 | `data analysis` |
 
-### Development (4497 skills)
+### Development (4498 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8314,7 +8314,8 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Idp Provider Support](development/2288-idp-provider-support_754adbcb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/idp-provider-support.md) | ⭐ 424 | `development` |
 | [Server Versioning](development/2289-server-versioning_08ec8521/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/server-versioning.md) | ⭐ 424 | `development` |
 | [Skill](development/1178-name-skill_e4b44b49/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/SKILL.md) | ⭐ 92 | `development` |
-| [Readme Cn](development/readme_cn_b3bbb46e/) | [KaguraNanaga/document-format-skills](https://raw.githubusercontent.com/KaguraNanaga/document-format-skills/main/README_CN.md) | ⭐ 20 | `development` |
+| [Readme Cn](development/770-readme_cn_b3bbb46e/) | [KaguraNanaga/document-format-skills](https://raw.githubusercontent.com/KaguraNanaga/document-format-skills/main/README_CN.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_b69b9318/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 57 | `development` |
 
 ### Development/Devops (198 skills)
 
@@ -9177,7 +9178,7 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Extras Formats](productivity/153-extras-formats_c4c434c6/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/exdoc-config/references/extras-formats.md) | ⭐ 20 | `productivity` |
 | [Style](productivity/154-style_55090a47/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/references/style.md) | ⭐ 16 | `productivity` |
 
-### Research (400 skills)
+### Research (399 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9580,7 +9581,6 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Arxiv Survey.Pipeline](research/237-arxiv-surveypipeline_3c125a74/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/pipelines/arxiv-survey.pipeline.md) | ⭐ 192 | `research` |
 | [Skill](research/139-name-skill_b3a385d8/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/draft-polisher/SKILL.md) | ⭐ 192 | `research` |
 | [Skill](research/139-name-skill_9320e421/) | [WILLOSCAR/research-units-pipeline-skills](https://raw.githubusercontent.com/WILLOSCAR/research-units-pipeline-skills/main/.codex/skills/style-harmonizer/SKILL.md) | ⭐ 192 | `research` |
-| [Skill](research/name-skill_4f3f95b0/) | [KaguraNanaga/document-format-skills](https://raw.githubusercontent.com/KaguraNanaga/document-format-skills/main/SKILL.md) | ⭐ 20 | `research` |
 
 ## Repository Structure
 
