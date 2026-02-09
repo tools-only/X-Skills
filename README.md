@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1668 AI-powered skills** organized into 14 categories.
+A curated collection of **2014 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (214 skills)
-- **Automation/Workflow** (43 skills)
-- **Commercial** (220 skills)
-- **Communication** (32 skills)
-- **Content Creation** (460 skills)
-- **Daily Assistant** (23 skills)
-- **Data Analysis** (151 skills)
-- **Development** (253 skills)
-- **Development/Devops** (65 skills)
-- **Development/Testing** (77 skills)
-- **Development/Tools** (50 skills)
+- **Automation/Scripting** (226 skills)
+- **Automation/Workflow** (63 skills)
+- **Commercial** (249 skills)
+- **Communication** (44 skills)
+- **Content Creation** (484 skills)
+- **Daily Assistant** (47 skills)
+- **Data Analysis** (171 skills)
+- **Development** (342 skills)
+- **Development/Devops** (140 skills)
+- **Development/Testing** (82 skills)
+- **Development/Tools** (81 skills)
 - **Investment** (7 skills)
-- **Productivity** (11 skills)
-- **Research** (62 skills)
+- **Productivity** (14 skills)
+- **Research** (64 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (214 skills)
+### Automation/Scripting (226 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -398,8 +398,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](automation/scripting/080-01-configuration_e0841625/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 | [Skill](automation/scripting/003-name-skill_4513d380/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/brainstorm/SKILL.md) | ⭐ 31 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7cae27bb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/journal/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/scripting/name-skill_6af44b50/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/opentelemetry-skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Skill](automation/scripting/name-skill_82699eef/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-code-style-skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Azure Dns](automation/scripting/azure-dns_8a5359e9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/external-dns-skill/references/azure-dns.md) | ⭐ 14 | `automation` |
+| [Opentelemetry](automation/scripting/opentelemetry_77a1d317/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/loki-skill/references/opentelemetry.md) | ⭐ 14 | `automation` |
+| [Troubleshooting](automation/scripting/troubleshooting_b8e8739b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/opentelemetry-skill/references/TROUBLESHOOTING.md) | ⭐ 14 | `automation` |
+| [Troubleshooting](automation/scripting/troubleshooting_10d357e7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/troubleshooting.md) | ⭐ 14 | `automation` |
+| [Api Reference](automation/scripting/api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
+| [Adding A Site Mascot](automation/scripting/adding-a-site-mascot_2fb1a6d4/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/prompts/adding-a-site-mascot.md) | ⭐ 16 | `automation` |
+| [Skill](automation/scripting/name-skill_0a64dc74/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/researching-web-skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Playbooks](automation/scripting/playbooks_4614217c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Playbooks.md) | ⭐ 14 | `automation` |
+| [Fix](automation/scripting/fix_d02ed842/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Fix.md) | ⭐ 14 | `automation` |
+| [Trigger Expressions](automation/scripting/trigger-expressions_2fa0e548/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/trigger-expressions.md) | ⭐ 14 | `automation` |
 
-### Automation/Workflow (43 skills)
+### Automation/Workflow (63 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -446,8 +458,28 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_3c99e6a8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 88 | `prompt-engineering` `few-shot-learning` `chain-of-thought` |
 | [Skill](automation/workflow/002-name-skill_7744ad67/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 88 | `spring-boot` `actuator` `monitoring` |
 | [Skill](automation/workflow/002-name-skill_2f84ffa2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/workflow/name-skill_0e928e69/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Skill](automation/workflow/name-skill_e49badc9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/SKILL.md) | ⭐ 14 | `automation` |
+| [Branch](automation/workflow/branch_e13e9acd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Branch.md) | ⭐ 14 | `automation` |
+| [Appmanage](automation/workflow/appmanage_20ba5576/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/AppManage.md) | ⭐ 14 | `automation` |
+| [Appsetmanage](automation/workflow/appsetmanage_fc8aa62b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/AppSetManage.md) | ⭐ 14 | `automation` |
+| [Rollbackapp](automation/workflow/rollbackapp_d2d00ec0/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-review-skill/Workflows/RollbackApp.md) | ⭐ 14 | `automation` |
+| [Kubelet Logs](automation/workflow/kubelet-logs_082b8dd5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/kubelet-logs.md) | ⭐ 14 | `automation` |
+| [Commands](automation/workflow/commands_cafd69fd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/commands.md) | ⭐ 14 | `automation` |
+| [Promotion Steps](automation/workflow/promotion-steps_f163fdff/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/kargo-skill/references/promotion-steps.md) | ⭐ 14 | `automation` |
+| [Versioning](automation/workflow/versioning_e26d33bb/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/versioning.md) | ⭐ 14 | `automation` |
+| [Createbase](automation/workflow/createbase_4dcf8f5f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CreateBase.md) | ⭐ 14 | `automation` |
+| [Processinbox](automation/workflow/processinbox_21657501/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/ProcessInbox.md) | ⭐ 14 | `automation` |
+| [Searchvault](automation/workflow/searchvault_8f2b7939/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SearchVault.md) | ⭐ 14 | `automation` |
+| [Syncdocs](automation/workflow/syncdocs_ee9bea7d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SyncDocs.md) | ⭐ 14 | `automation` |
+| [Ciintegration](automation/workflow/ciintegration_c682d398/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/CIIntegration.md) | ⭐ 14 | `automation` |
+| [Setup](automation/workflow/setup_62003624/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Setup.md) | ⭐ 14 | `automation` |
+| [Skill](automation/workflow/name-skill_92bf49ac/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/templates/skill-template/SKILL.md) | ⭐ 14 | `automation` |
+| [Reviewapplication](automation/workflow/reviewapplication_0b9e287a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-review-skill/Workflows/ReviewApplication.md) | ⭐ 14 | `automation` |
+| [Managevault](automation/workflow/managevault_87d31996/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/ManageVault.md) | ⭐ 14 | `automation` |
+| [Configureplaybooks](automation/workflow/configureplaybooks_a416acc2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/Workflows/ConfigurePlaybooks.md) | ⭐ 14 | `automation` |
 
-### Commercial (220 skills)
+### Commercial (249 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -671,8 +703,37 @@ ls ~/.claude/skills/patch-research-agent/
 | [Terraform Roadmap](commercial/309-terraform-roadmap_10861a74/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/terraform-roadmap.md) | ⭐ 60 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_d23ff7ee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
 | [Agents](commercial/007-agents_163651bf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
+| [Kubernetes](commercial/kubernetes_6c039268/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/KUBERNETES.md) | ⭐ 14 | `commercial` |
+| [Skill](commercial/name-skill_d99fc2d4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-configuration-skill/SKILL.md) | ⭐ 14 | `commercial` |
+| [Skill](commercial/name-skill_e2cea75f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/sentry-skill/SKILL.md) | ⭐ 14 | `commercial` |
+| [Gitbestpractices](commercial/gitbestpractices_13383d30/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/references/GitBestPractices.md) | ⭐ 14 | `commercial` |
+| [Gitworktree](commercial/gitworktree_cd2e630a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/references/GitWorktree.md) | ⭐ 14 | `commercial` |
+| [Securitychecklist](commercial/securitychecklist_674a6e2e/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/references/SecurityChecklist.md) | ⭐ 14 | `commercial` |
+| [Stash](commercial/stash_5cf30450/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Stash.md) | ⭐ 14 | `commercial` |
+| [Worktree](commercial/worktree_d3b0dab5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Worktree.md) | ⭐ 14 | `commercial` |
+| [Login](commercial/login_babe5b30/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/Login.md) | ⭐ 14 | `commercial` |
+| [Git Write Back](commercial/git-write-back_abf35caa/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-image-updater-skill/references/git-write-back.md) | ⭐ 14 | `commercial` |
+| [Update Strategies](commercial/update-strategies_b33d6cac/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-image-updater-skill/references/update-strategies.md) | ⭐ 14 | `commercial` |
+| [App Configs](commercial/app-configs_4c3bf3bb/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-ad-sso-skill/references/app-configs.md) | ⭐ 14 | `commercial` |
+| [Pipelines Reference](commercial/pipelines-reference_d802f759/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/references/pipelines-reference.md) | ⭐ 14 | `commercial` |
+| [Azure Ad Sso](commercial/azure-ad-sso_c0e77182/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/defectdojo-skill/references/azure-ad-sso.md) | ⭐ 14 | `commercial` |
+| [Cicd Integration](commercial/cicd-integration_b8656f4c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/defectdojo-skill/references/cicd-integration.md) | ⭐ 14 | `commercial` |
+| [Helm Values](commercial/helm-values_76d4fc85/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/defectdojo-skill/references/helm-values.md) | ⭐ 14 | `commercial` |
+| [Actionsworkflow](commercial/actionsworkflow_58c4dd05/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/workflows/ActionsWorkflow.md) | ⭐ 14 | `commercial` |
+| [Deploy](commercial/deploy_a3d80b48/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/workflows/Deploy.md) | ⭐ 14 | `commercial` |
+| [Dashboardoperations](commercial/dashboardoperations_472b6227/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/Workflows/DashboardOperations.md) | ⭐ 14 | `commercial` |
+| [Dashboards](commercial/dashboards_4b1f8d6f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/dashboards.md) | ⭐ 14 | `commercial` |
+| [Troubleshooting](commercial/troubleshooting_b4de8b6e/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/keyvault-csi-driver-skill/references/troubleshooting.md) | ⭐ 14 | `commercial` |
+| [Storage](commercial/storage_cc1dbcfc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/loki-skill/references/storage.md) | ⭐ 14 | `commercial` |
+| [Diagrams](commercial/diagrams_758535f2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/diagrams.md) | ⭐ 14 | `commercial` |
+| [Architecture](commercial/architecture_60c22208/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/architecture.md) | ⭐ 14 | `commercial` |
+| [Helm Deployment](commercial/helm-deployment_c89e0ae5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/helm-deployment.md) | ⭐ 14 | `commercial` |
+| [Storage](commercial/storage_95f3f852/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/storage.md) | ⭐ 14 | `commercial` |
+| [Github Actions](commercial/github-actions_f9fb91f9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/GITHUB-ACTIONS.md) | ⭐ 14 | `v*` |
+| [Clustermanage](commercial/clustermanage_9c8c5482/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/ClusterManage.md) | ⭐ 14 | `commercial` |
+| [Actionsworkflows](commercial/actionsworkflows_b3344389/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/references/ActionsWorkflows.md) | ⭐ 14 | `commercial` |
 
-### Communication (32 skills)
+### Communication (44 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -708,8 +769,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_cb989410/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 88 | `langchain4j` `tools` `function-calling` |
 | [02 Volcengine Purchase Guide](communication/237-02-volcengine-purchase-guide_7d7a1047/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/02-volcengine-purchase-guide.md) | ⭐ 1.1k | `communication` |
 | [State](communication/238-state_88001e53/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/state.md) | ⭐ 31 | `communication` |
+| [React](communication/react_8d162d02/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-typescript-skill/REACT.md) | ⭐ 14 | `communication` |
+| [Troubleshooting](communication/troubleshooting_a82f484f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/troubleshooting.md) | ⭐ 14 | `communication` |
+| [Troubleshooting](communication/troubleshooting_68831db2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/references/Troubleshooting.md) | ⭐ 14 | `communication` |
+| [Jekyllsetup](communication/jekyllsetup_761bf6d9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/workflows/JekyllSetup.md) | ⭐ 14 | `tag1` `tag2` |
+| [Troubleshoot](communication/troubleshoot_b634443c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/workflows/Troubleshoot.md) | ⭐ 14 | `communication` |
+| [Alerting](communication/alerting_cc28c62d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/alerting.md) | ⭐ 14 | `communication` |
+| [Integrations](communication/integrations_c7032ca6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/integrations.md) | ⭐ 14 | `communication` |
+| [Expressions](communication/expressions_64e7d9af/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/kargo-skill/references/expressions.md) | ⭐ 14 | `communication` |
+| [Configuresinks](communication/configuresinks_5249ce6a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/Workflows/ConfigureSinks.md) | ⭐ 14 | `communication` |
+| [Troubleshoot](communication/troubleshoot_4a7b2a00/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/Workflows/Troubleshoot.md) | ⭐ 14 | `communication` |
+| [Sinks](communication/sinks_34831edc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Sinks.md) | ⭐ 14 | `communication` |
+| [Troubleshooting](communication/troubleshooting_fe369303/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Troubleshooting.md) | ⭐ 14 | `communication` |
 
-### Content Creation (460 skills)
+### Content Creation (484 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1173,8 +1246,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_0005e489/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_1ce28a35/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/sql/SKILL.md) | ⭐ 31 | `content creation` |
 | [Media](content-creation/321-media_ae62581f/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/media.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/name-skill_624ae933/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_624e0dd5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_9cf77cf1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/markitdown-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_2fe9ce1f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_6e4f1450/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-bases-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Basesreference](content-creation/basesreference_ce94fef8/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/BasesReference.md) | ⭐ 14 | `content creation` |
+| [Markdownreference](content-creation/markdownreference_31f66916/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/MarkdownReference.md) | ⭐ 14 | `one` `two` |
+| [Skill](content-creation/name-skill_a3bd9c0a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/SKILL.md) | ⭐ 14 | `content creation` |
+| [Pullrequest](content-creation/pullrequest_e9604f2d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/PullRequest.md) | ⭐ 14 | `content creation` |
+| [Rebase](content-creation/rebase_e85e437a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Rebase.md) | ⭐ 14 | `content creation` |
+| [Undo](content-creation/undo_dc466ae6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Undo.md) | ⭐ 14 | `content creation` |
+| [Best Practices](content-creation/best-practices_5d71859d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-wiki-skill/references/best-practices.md) | ⭐ 14 | `content creation` |
+| [Iterm2 Config](content-creation/iterm2-config_2bdf8e25/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/git-worktree-skill/references/iterm2-config.md) | ⭐ 14 | `content creation` |
+| [Bestpractices](content-creation/bestpractices_58e033f7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/references/BestPractices.md) | ⭐ 14 | `content creation` |
+| [Jekyllconfiguration](content-creation/jekyllconfiguration_6f660b48/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/references/JekyllConfiguration.md) | ⭐ 14 | `tag1` `tag2` |
+| [Usersteams](content-creation/usersteams_cdc504cd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/UsersTeams.md) | ⭐ 14 | `content creation` |
+| [Folders](content-creation/folders_c8217518/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/folders.md) | ⭐ 14 | `content creation` |
+| [Safety Rules](content-creation/safety_rules_63b26bb4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-cleaner-skill/references/safety_rules.md) | ⭐ 14 | `content creation` |
+| [Api Reference](content-creation/api-reference_12931ec1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/markitdown-skill/references/api-reference.md) | ⭐ 14 | `content creation` |
+| [Cli Reference](content-creation/cli-reference_b3c07280/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/markitdown-skill/references/cli-reference.md) | ⭐ 14 | `content creation` |
+| [Configuration](content-creation/configuration_0f58e0fc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-nvim-skill/references/configuration.md) | ⭐ 14 | `content creation` |
+| [Vault Structure](content-creation/vault-structure_6ebc0351/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/references/vault-structure.md) | ⭐ 14 | `content creation` |
+| [Troubleshooting](content-creation/troubleshooting_f0bae3a1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/troubleshooting.md) | ⭐ 14 | `content creation` |
+| [Examples](content-creation/examples_a2488b53/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/markitdown-skill/references/examples.md) | ⭐ 14 | `content creation` |
 
-### Daily Assistant (23 skills)
+### Daily Assistant (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1201,8 +1298,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Requirements.Agent](daily-assistant/236-requirementsagent_805e0717/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 60 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_5da5923c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 60 | `daily assistant` |
 | [Freshness Checklist](daily-assistant/237-freshness-checklist_d8b54f58/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 60 | `daily assistant` |
+| [Integrationpatterns](daily-assistant/integrationpatterns_0ce53117/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/IntegrationPatterns.md) | ⭐ 14 | `daily assistant` |
+| [Knowledgecapturepatterns](daily-assistant/knowledgecapturepatterns_d2a11b4d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/KnowledgeCapturePatterns.md) | ⭐ 14 | `daily assistant` |
+| [Vaultorganization](daily-assistant/vaultorganization_affec6fc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/VaultOrganization.md) | ⭐ 14 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_4b850569/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/skill.md) | ⭐ 14 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_8ea42de9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-vault-management-skill/SKILL.md) | ⭐ 14 | `daily assistant` |
+| [Sync](daily-assistant/sync_a892a87d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Sync.md) | ⭐ 14 | `daily assistant` |
+| [Captureknowledge](daily-assistant/captureknowledge_d2208935/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CaptureKnowledge.md) | ⭐ 14 | `daily assistant` |
+| [Createnote](daily-assistant/createnote_de2a2ab9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CreateNote.md) | ⭐ 14 | `daily assistant` |
+| [Dailynote](daily-assistant/dailynote_8d6facda/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/DailyNote.md) | ⭐ 14 | `daily assistant` |
+| [Troubleshooting](daily-assistant/troubleshooting_3b20eb12/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-nvim-skill/references/troubleshooting.md) | ⭐ 14 | `daily assistant` |
+| [Cog Pattern](daily-assistant/cog-pattern_4d968405/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/references/cog-pattern.md) | ⭐ 14 | `daily assistant` |
+| [Uri Scheme](daily-assistant/uri-scheme_6818c637/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/references/uri-scheme.md) | ⭐ 14 | `daily assistant` |
+| [Dataview](daily-assistant/dataview_8d7f3587/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-vault-management-skill/references/dataview.md) | ⭐ 14 | `daily assistant` |
+| [Api Reference](daily-assistant/api_reference_3735148d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/prometheus-skill/references/api_reference.md) | ⭐ 14 | `daily assistant` |
+| [Promql Functions](daily-assistant/promql_functions_5faf45e6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/prometheus-skill/references/promql_functions.md) | ⭐ 14 | `daily assistant` |
+| [Installation](daily-assistant/installation_64faf7ec/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Installation.md) | ⭐ 14 | `daily assistant` |
+| [Triggers](daily-assistant/triggers_4d400fd5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Triggers.md) | ⭐ 14 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_650470fb/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-nvim-skill/SKILL.md) | ⭐ 14 | `daily assistant` |
+| [Examples](daily-assistant/examples_c7b4c770/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/references/examples.md) | ⭐ 14 | `daily assistant` |
+| [Examples](daily-assistant/examples_f700ccee/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-nvim-skill/references/examples.md) | ⭐ 14 | `daily assistant` |
+| [Claude](daily-assistant/claude_257ee722/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/templates/CLAUDE.md) | ⭐ 14 | `daily assistant` |
+| [Daily Note](daily-assistant/daily-note_a9219abe/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/templates/daily-note.md) | ⭐ 14 | `daily assistant` |
+| [Project Note](daily-assistant/project-note_348e14f5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/templates/project-note.md) | ⭐ 14 | `daily assistant` |
+| [Templater](daily-assistant/templater_c076ddd2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-vault-management-skill/references/templater.md) | ⭐ 14 | `daily assistant` |
 
-### Data Analysis (151 skills)
+### Data Analysis (171 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1357,8 +1478,28 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tree](data-analysis/450-tree_cd5ec4b9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tree.md) | ⭐ 31 | `data analysis` |
 | [Waffle](data-analysis/451-waffle_14a30c5a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/waffle.md) | ⭐ 31 | `data analysis` |
 | [Bin](data-analysis/452-bin_b3e817d9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/bin.md) | ⭐ 31 | `data analysis` |
+| [Skill](data-analysis/name-skill_7832ca27/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Shortcuts](data-analysis/shortcuts_f7d59900/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/Shortcuts.md) | ⭐ 14 | `data analysis` |
+| [Configurationguide](data-analysis/configurationguide_2127ed22/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/ConfigurationGuide.md) | ⭐ 14 | `data analysis` |
+| [Workflow](data-analysis/workflow_760dc71c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/using-git-worktrees-skill/WORKFLOW.md) | ⭐ 14 | `data analysis` |
+| [Status](data-analysis/status_1d65386d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Status.md) | ⭐ 14 | `data analysis` |
+| [Api Server Etcd](data-analysis/api-server-etcd_a19e3f1d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/api-server-etcd.md) | ⭐ 14 | `data analysis` |
+| [Memory Saturation](data-analysis/memory-saturation_ba0cfb02/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/memory-saturation.md) | ⭐ 14 | `data analysis` |
+| [Monitoring](data-analysis/monitoring_566833a9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/monitoring.md) | ⭐ 14 | `data analysis` |
+| [Troubleshooting](data-analysis/troubleshooting_7ee009f7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/defectdojo-skill/references/troubleshooting.md) | ⭐ 14 | `data analysis` |
+| [Annotations](data-analysis/annotations_fec94e91/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/annotations.md) | ⭐ 14 | `data analysis` |
+| [Datasources](data-analysis/datasources_c3a39bb2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/datasources.md) | ⭐ 14 | `data analysis` |
+| [Workflows](data-analysis/workflows_5405c830/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/references/workflows.md) | ⭐ 14 | `data analysis` |
+| [Markdown Extensions](data-analysis/markdown-extensions_4301e584/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/references/markdown-extensions.md) | ⭐ 14 | `item1` `item2` `item3` |
+| [Plugins](data-analysis/plugins_5459e994/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-vault-management-skill/references/plugins.md) | ⭐ 14 | `data analysis` |
+| [Setup](data-analysis/setup_96b64171/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/Setup.md) | ⭐ 14 | `data analysis` |
+| [Analyze](data-analysis/analyze_71a0640d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Analyze.md) | ⭐ 14 | `data analysis` |
+| [Configuration](data-analysis/configuration_f1e8f086/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/configuration.md) | ⭐ 14 | `data analysis` |
+| [Repomanage](data-analysis/repomanage_4bfcfb5a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/RepoManage.md) | ⭐ 14 | `data analysis` |
+| [Examples](data-analysis/examples_7dddba1c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/keyvault-csi-driver-skill/references/examples.md) | ⭐ 14 | `data analysis` |
+| [Canvas](data-analysis/canvas_89446975/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-vault-management-skill/references/canvas.md) | ⭐ 14 | `data analysis` |
 
-### Development (253 skills)
+### Development (342 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1615,8 +1756,97 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sql](development/2719-sql_917d8914/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/sql.md) | ⭐ 31 | `development` |
 | [Tick](development/2720-tick_79b154af/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tick.md) | ⭐ 31 | `development` |
 | [Decisions](development/1342-decisions_573b2719/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 166 | `development` |
+| [Learning Mascot](development/learning-mascot_7d2a1e14/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 16 | `development` |
+| [References](development/references_8157973f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/docs/references.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_59268bac/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/implementing-skill_491371c6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-applicationset-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_5903502c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_2b564a36/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/context7-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_28812bde/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/external-urls-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_6885148a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/git-worktree-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_9d0144cf/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-cleaner-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_a9b1b271/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-setup-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Terraform](development/terraform_f17c75d0/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/TERRAFORM.md) | ⭐ 14 | `development` |
+| [Restapireference](development/restapireference_fd0aadea/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/RestApiReference.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_b953a58b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Hooksreference](development/hooksreference_87d9556f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/HooksReference.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_64c6eaa6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/prometheus-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_01fe758a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-anti-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_18326a62/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-background-jobs-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_3d152995/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-design-patterns-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_e88e28e3/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-error-handling-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_5662dd15/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-resilience-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_35a9f41c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Bestpractices](development/bestpractices_34a74301/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/BestPractices.md) | ⭐ 14 | `development` |
+| [Configuration](development/configuration_cdde27af/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Configuration.md) | ⭐ 14 | `development` |
+| [Aws](development/aws_86dd3a3b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/using-cloud-cli-skill/AWS.md) | ⭐ 14 | `development` |
+| [Patterns](development/patterns_ef8bbab4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/PATTERNS.md) | ⭐ 14 | `development` |
+| [Patterns](development/patterns_8ee2b5bd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-python-skill/PATTERNS.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_66a7cdb8/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-python-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Patterns](development/patterns_29a2d121/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-typescript-skill/PATTERNS.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_888c7262/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-typescript-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_ccba8f68/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Conventionalcommits](development/conventionalcommits_3df921c2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/references/ConventionalCommits.md) | ⭐ 14 | `development` |
+| [Commit](development/commit_3a6e3403/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Commit.md) | ⭐ 14 | `development` |
+| [Commitpush](development/commitpush_ad211ad6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/CommitPush.md) | ⭐ 14 | `development` |
+| [Diff](development/diff_71b7714d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Diff.md) | ⭐ 14 | `development` |
+| [Log](development/log_bfb042dd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Log.md) | ⭐ 14 | `development` |
+| [Merge](development/merge_b08e9e10/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/Git-skill/workflows/Merge.md) | ⭐ 14 | `development` |
+| [Analysis Metrics](development/analysis-metrics_ae48a713/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/references/analysis-metrics.md) | ⭐ 14 | `development` |
+| [Architecture](development/architecture_3fc17da0/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/references/architecture.md) | ⭐ 14 | `development` |
+| [Guidance](development/guidance_260d8d8d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/references/guidance.md) | ⭐ 14 | `development` |
+| [Cli Reference](development/cli-reference_01acfec5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-skill/references/cli-reference.md) | ⭐ 14 | `development` |
+| [Commands](development/commands_dd3cec4d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/commands.md) | ⭐ 14 | `development` |
+| [Azure Ad Sso Guide](development/azure-ad-sso-guide_29d2b7c6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-ad-sso-skill/references/azure-ad-sso-guide.md) | ⭐ 14 | `development` |
+| [Git Repos Reference](development/git-repos-reference_b26fbe29/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/references/git-repos-reference.md) | ⭐ 14 | `development` |
+| [Wiki Search Reference](development/wiki-search-reference_871d14ae/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/references/wiki-search-reference.md) | ⭐ 14 | `development` |
+| [Markdown Syntax](development/markdown-syntax_7f8dd586/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-wiki-skill/references/markdown-syntax.md) | ⭐ 14 | `development` |
+| [Api Reference](development/api-reference_f7ca3427/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/cloudflare-dns-skill/references/api-reference.md) | ⭐ 14 | `development` |
+| [Querydocs](development/querydocs_14b6b5bb/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/context7-skill/Workflows/QueryDocs.md) | ⭐ 14 | `development` |
+| [Installation](development/installation_aef8af30/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/direnv-skill/references/installation.md) | ⭐ 14 | `development` |
+| [Tmux Config](development/tmux-config_2e0ab226/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/git-worktree-skill/references/tmux-config.md) | ⭐ 14 | `development` |
+| [Anti Patterns](development/anti-patterns_b91ad4d9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/gitops-principles-skill/references/anti-patterns.md) | ⭐ 14 | `development` |
+| [Troubleshoottmux](development/troubleshoottmux_368d0610/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/workflows/TroubleshootTmux.md) | ⭐ 14 | `development` |
+| [Patterns](development/patterns_0a5cb640/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/kargo-skill/references/patterns.md) | ⭐ 14 | `development` |
+| [Logql](development/logql_bf9138ea/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/loki-skill/references/logql.md) | ⭐ 14 | `development` |
+| [Mole Integration](development/mole_integration_a2095bab/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-cleaner-skill/references/mole_integration.md) | ⭐ 14 | `development` |
+| [Advanced Features](development/advanced-features_79a115ca/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/markitdown-skill/references/advanced-features.md) | ⭐ 14 | `development` |
+| [Best Practices](development/best-practices_2a30d602/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/best-practices.md) | ⭐ 14 | `development` |
+| [Plugins](development/plugins_f94b26a8/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/plugins.md) | ⭐ 14 | `development` |
+| [Debugging](development/debugging_1620d59d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/debugging.md) | ⭐ 14 | `development` |
+| [Keybindings](development/keybindings_680cf255/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/keybindings.md) | ⭐ 14 | `development` |
+| [Lsp](development/lsp_ec7c5c44/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/lsp.md) | ⭐ 14 | `development` |
+| [Migration 0.11](development/migration-011_324f0221/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/migration-0.11.md) | ⭐ 14 | `development` |
+| [Performance](development/performance_6938b6c9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/performance.md) | ⭐ 14 | `development` |
+| [Plugin Deepdives](development/plugin-deepdives_85196019/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/plugin-deepdives.md) | ⭐ 14 | `development` |
+| [Plugins](development/plugins_d6309ca2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/plugins.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/troubleshooting_4fbe5e7f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Mcp Integration](development/mcp-integration_0f9565dc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-second-brain-skill/references/mcp-integration.md) | ⭐ 14 | `development` |
+| [Plugin Development](development/plugin-development_efc1db15/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/references/plugin-development.md) | ⭐ 14 | `development` |
+| [Troubleshoot](development/troubleshoot_60f413ef/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/Troubleshoot.md) | ⭐ 14 | `development` |
+| [Sdk Instrumentation](development/sdk-instrumentation_f362e728/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/sdk-instrumentation.md) | ⭐ 14 | `development` |
+| [Uv Commands](development/uv-commands_afe23d59/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-project-skill/references/uv-commands.md) | ⭐ 14 | `development` |
+| [Performance Tuning](development/performance-tuning_a345b9cc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/performance-tuning.md) | ⭐ 14 | `development` |
+| [Zsh Vim Mode](development/zsh-vim-mode_5178a990/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/zsh-vim-mode.md) | ⭐ 14 | `development` |
+| [Traceql](development/traceql_189b77c7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/traceql.md) | ⭐ 14 | `development` |
+| [Project Management](development/project-management_d6cc4a69/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/project-management.md) | ⭐ 14 | `development` |
+| [Presets](development/presets_0dec370d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-setup-skill/presets.md) | ⭐ 14 | `development` |
+| [Makefile](development/makefile_4b0d7f4d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/MAKEFILE.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_a9ea09b0/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-project-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_1df42eba/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-type-safety-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_3ad9de9a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/reviewing-code-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Errorcodes](development/errorcodes_698fb017/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/ErrorCodes.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_d36522ed/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zsh-path-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Reviewresources](development/reviewresources_5dcab53c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-review-skill/Workflows/ReviewResources.md) | ⭐ 14 | `development` |
+| [Node Auto Repair](development/node-auto-repair_48c9a8d7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/node-auto-repair.md) | ⭐ 14 | `development` |
+| [Azure Ad Validation](development/azure-ad-validation_5303de64/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/dependency-track-skill/references/azure-ad-validation.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/troubleshooting_74ee0726/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/direnv-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Cleanup Targets](development/cleanup_targets_be026f8c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-cleaner-skill/references/cleanup_targets.md) | ⭐ 14 | `development` |
+| [Powerlevel10K Config](development/powerlevel10k-config_726528b9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/powerlevel10k-config.md) | ⭐ 14 | `development` |
+| [Starship Config](development/starship-config_4ca237e8/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/starship-config.md) | ⭐ 14 | `development` |
+| [Explain](development/explain_14bf6ebd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Explain.md) | ⭐ 14 | `development` |
 
-### Development/Devops (65 skills)
+### Development/Devops (140 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1685,8 +1915,83 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Architecture](development/devops/313-01-architecture_979b832d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 1.1k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_1263ed66/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
 | [Apps](development/devops/315-apps_46e1fa6d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/apps.md) | ⭐ 31 | `development` |
+| [Skill](development/devops/name-skill_6bb0ee62/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_c649b41c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_88dacf49/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_f1ce5165/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/dependency-track-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_84bf2106/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_e23008e6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_4949030e/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/k8s-timezone-config/SKILL.md) | ⭐ 14 | `development` |
+| [Securityhooks](development/devops/securityhooks_45a5c076/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/SecurityHooks.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_151a8d5f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/repomix-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_2afa124e/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/senhasegura-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Integration](development/devops/integration_253dc85f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Integration.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_8f97a9ef/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Gcp](development/devops/gcp_76113533/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/using-cloud-cli-skill/GCP.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_a63e1d11/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Cli Commands](development/devops/cli-commands_b15be24b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/cli-commands.md) | ⭐ 14 | `development` |
+| [Cli Commands](development/devops/cli-commands_96348e7d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/references/cli-commands.md) | ⭐ 14 | `development` |
+| [Deployment Strategies](development/devops/deployment-strategies_f6c10c47/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/references/deployment-strategies.md) | ⭐ 14 | `development` |
+| [Summary](development/devops/summary_9b6f9241/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/references/summary.md) | ⭐ 14 | `development` |
+| [Tools](development/devops/tools_73294cad/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/references/tools.md) | ⭐ 14 | `development` |
+| [Workflow](development/devops/workflow_5083f030/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/references/workflow.md) | ⭐ 14 | `development` |
+| [Projectmanage](development/devops/projectmanage_e1eec9bc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/ProjectManage.md) | ⭐ 14 | `development` |
+| [Troubleshoot](development/devops/troubleshoot_bd26740c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/Workflows/Troubleshoot.md) | ⭐ 14 | `development` |
+| [Authentication](development/devops/authentication_8989f982/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-image-updater-skill/references/authentication.md) | ⭐ 14 | `development` |
+| [Installation](development/devops/installation_4a276693/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-image-updater-skill/references/installation.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_a242af7a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-image-updater-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Diffmanifests](development/devops/diffmanifests_393c7066/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-review-skill/Workflows/DiffManifests.md) | ⭐ 14 | `development` |
+| [Api Reference](development/devops/api-reference_a4e79209/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-skill/references/api-reference.md) | ⭐ 14 | `development` |
+| [Workflows](development/devops/workflows_b659f79f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/workflows.md) | ⭐ 14 | `development` |
+| [Diagnostics](development/devops/diagnostics_1748c081/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/diagnostics.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_2067a9b0/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Azure Integration](development/devops/azure-integration_eab0b5e5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/cloudflare-dns-skill/references/azure-integration.md) | ⭐ 14 | `development` |
+| [Api V2 Reference](development/devops/api-v2-reference_056a2e43/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/defectdojo-skill/references/api-v2-reference.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_c2435673/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/dependency-track-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Cloudflare](development/devops/cloudflare_89c104d2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/external-dns-skill/references/cloudflare.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_e0584dfe/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/external-dns-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Quickstart](development/devops/quickstart_5c842892/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/workflows/QuickStart.md) | ⭐ 14 | `development` |
+| [Azure Arc Integration](development/devops/azure-arc-integration_c7008b35/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/gitops-principles-skill/references/azure-arc-integration.md) | ⭐ 14 | `development` |
+| [Core Principles](development/devops/core-principles_dc53b970/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/gitops-principles-skill/references/core-principles.md) | ⭐ 14 | `development` |
+| [Patterns And Practices](development/devops/patterns-and-practices_547f920e/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/gitops-principles-skill/references/patterns-and-practices.md) | ⭐ 14 | `development` |
+| [Tooling Ecosystem](development/devops/tooling-ecosystem_b51865f2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/gitops-principles-skill/references/tooling-ecosystem.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_e9675d32/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/gitops-principles-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Commonpatterns](development/devops/commonpatterns_94d3cded/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/references/CommonPatterns.md) | ⭐ 14 | `development` |
+| [Configuration](development/devops/configuration_5834b3e8/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/configuration.md) | ⭐ 14 | `development` |
+| [Data Sources](development/devops/data-sources_688c47a3/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/data-sources.md) | ⭐ 14 | `development` |
+| [Http Api](development/devops/http-api_8269f708/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/http-api.md) | ⭐ 14 | `development` |
+| [Installation](development/devops/installation_c2098b9a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/installation.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_b1f8d304/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Tmuxsession](development/devops/tmuxsession_f5d19691/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/workflows/TmuxSession.md) | ⭐ 14 | `development` |
+| [Architecture](development/devops/architecture_398d56e5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/keyvault-csi-driver-skill/references/architecture.md) | ⭐ 14 | `development` |
+| [Knative Detail](development/devops/knative-detail_075dc734/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/knative-skill/references/knative-detail.md) | ⭐ 14 | `development` |
+| [Configuration](development/devops/configuration_b5679624/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/configuration.md) | ⭐ 14 | `development` |
+| [Deployment](development/devops/deployment_0f3758c5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/deployment.md) | ⭐ 14 | `development` |
+| [Collector](development/devops/collector_58bbe3c8/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/opentelemetry-skill/references/COLLECTOR.md) | ⭐ 14 | `development` |
+| [Kubernetes](development/devops/kubernetes_7ff2618c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/opentelemetry-skill/references/KUBERNETES.md) | ⭐ 14 | `development` |
+| [Flask Patterns](development/devops/flask-patterns_5b440c66/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-project-skill/references/flask-patterns.md) | ⭐ 14 | `development` |
+| [Install](development/devops/install_0c468c81/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/Workflows/Install.md) | ⭐ 14 | `development` |
+| [Actions](development/devops/actions_95a9b5cc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Actions.md) | ⭐ 14 | `development` |
+| [Workflows](development/devops/workflows_edab7f59/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/senhasegura-skill/workflows/WORKFLOWS.md) | ⭐ 14 | `development` |
+| [Integrations](development/devops/integrations_3afd07ff/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/integrations.md) | ⭐ 14 | `development` |
+| [Python Versions](development/devops/python-versions_d5d013b5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/python-versions.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_41278fe7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-applicationset-skill/references/troubleshooting/troubleshooting.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_dfe666cb/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-command-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_5f069fab/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-review-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_33a6e99b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/looking-up-docs-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Dockerfile](development/devops/dockerfile_4c905ea2/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/DOCKERFILE.md) | ⭐ 14 | `development` |
+| [Skill](development/devops/name-skill_f84acdee/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Kubernetes Examples](development/devops/kubernetes-examples_180ee372/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/kubernetes-examples.md) | ⭐ 14 | `development` |
+| [Summary](development/devops/summary_8f1830a1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/references/summary.md) | ⭐ 14 | `development` |
+| [Troubleshootsync](development/devops/troubleshootsync_29fc0482/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-review-skill/Workflows/TroubleshootSync.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_f5fb25dd/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Configuration](development/devops/configuration_6cbc2f57/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/configuration.md) | ⭐ 14 | `development` |
+| [Sync Setup](development/devops/sync-setup_d6f2dd7a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/sync-setup.md) | ⭐ 14 | `development` |
+| [Examples](development/devops/examples_47d415ec/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/examples.md) | ⭐ 14 | `development` |
+| [Clusters Detail](development/devops/clusters-detail_4f60969d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/k8s-clusters-skill/references/clusters-detail.md) | ⭐ 14 | `development` |
+| [Instrumentation](development/devops/instrumentation_4e77924c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/opentelemetry-skill/references/INSTRUMENTATION.md) | ⭐ 14 | `development` |
 
-### Development/Testing (77 skills)
+### Development/Testing (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1767,8 +2072,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_4674e798/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nestjs/SKILL.md) | ⭐ 88 | `development` |
 | [05 Storage](development/testing/068-05-storage_e07febd6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/05-storage.md) | ⭐ 1.1k | `development` |
 | [Skill](development/testing/002-name-skill_62c7cbeb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 31 | `development` |
+| [Quickstartguide](development/testing/quickstartguide_2d5ec2d5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/QuickStartGuide.md) | ⭐ 14 | `development` |
+| [Skill](development/testing/name-skill_62d039a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Testing](development/testing/testing_1b902b62/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/TESTING.md) | ⭐ 14 | `development` |
+| [Testing](development/testing/testing_ab796823/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-python-skill/TESTING.md) | ⭐ 14 | `development` |
+| [Testing](development/testing/testing_488fd61b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-typescript-skill/TESTING.md) | ⭐ 14 | `development` |
 
-### Development/Tools (50 skills)
+### Development/Tools (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1821,7 +2131,38 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_54638827/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/nanobanana/SKILL.md) | ⭐ 31 | `development` |
 | [Skill](development/tools/002-name-skill_3a9a8382/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/save-web-page/SKILL.md) | ⭐ 31 | `development` |
 | [Forward Client Headers](development/tools/291-forward_client_headers_239e5a02/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 35.6k | `development` |
-| [Agents](development/tools/agents_515671bb/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Agents](development/tools/015-agents_515671bb/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Agent Skills Spec](development/tools/agent-skills-spec_18c62f91/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/agent-skills-spec.md) | ⭐ 14 | `development` |
+| [Packages](development/tools/packages_4a5ab329/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/macos-setup-skill/packages.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/name-skill_87c812f1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/name-skill_1825f945/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/playwright-skill/SKILL.md) | ⭐ 14 | `testing` `automation` `browser` |
+| [Skill](development/tools/name-skill_0f8d0ca5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-observability-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/name-skill_e0c290d0/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/using-git-worktrees-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Cli](development/tools/cli_99111a15/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/CLI.md) | ⭐ 14 | `development` |
+| [Cli](development/tools/cli_7f8048cf/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-python-skill/CLI.md) | ⭐ 14 | `development` |
+| [Project Structure](development/tools/project-structure_6024c16d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-cluster-bootstrapping-skill/references/project-structure.md) | ⭐ 14 | `development` |
+| [Troubleshooting](development/tools/troubleshooting_4a1973c9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-ad-sso-skill/references/troubleshooting.md) | ⭐ 14 | `development` |
+| [Work Items Reference](development/tools/work-items-reference_f188d97d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/references/work-items-reference.md) | ⭐ 14 | `development` |
+| [Stdlib Functions](development/tools/stdlib-functions_2082fe77/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/direnv-skill/references/stdlib-functions.md) | ⭐ 14 | `development` |
+| [Customdomain](development/tools/customdomain_aa5f06cb/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/workflows/CustomDomain.md) | ⭐ 14 | `development` |
+| [Api Docs](development/tools/api-docs_d9c472db/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/api-docs.md) | ⭐ 14 | `development` |
+| [Themes](development/tools/themes_3c31d10b/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mkdocs-skill/references/themes.md) | ⭐ 14 | `development` |
+| [Configuration](development/tools/configuration_1164b6d4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/configuration.md) | ⭐ 14 | `development` |
+| [Tools](development/tools/tools_118d5c25/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/neovim-skill/references/tools.md) | ⭐ 14 | `development` |
+| [Commands](development/tools/commands_fc81d3ec/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-nvim-skill/references/commands.md) | ⭐ 14 | `development` |
+| [Api Reference](development/tools/api-reference_1e98d038/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/references/api-reference.md) | ⭐ 14 | `development` |
+| [Addhooks](development/tools/addhooks_aedf5ebf/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/AddHooks.md) | ⭐ 14 | `development` |
+| [Customhook](development/tools/customhook_4233d211/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/CustomHook.md) | ⭐ 14 | `development` |
+| [Mcp Integration](development/tools/mcp-integration_2f06b463/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/senhasegura-skill/tools/mcp-integration.md) | ⭐ 14 | `development` |
+| [Cli Commands](development/tools/cli-commands_e80d8363/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/cli-commands.md) | ⭐ 14 | `development` |
+| [Inventory](development/tools/inventory_69654cc7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/environments/inventory.md) | ⭐ 14 | `development` |
+| [Skill](development/tools/name-skill_5ac56cef/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/using-cloud-cli-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Cli Commands](development/tools/cli-commands_a9d81b52/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/cli-commands.md) | ⭐ 14 | `development` |
+| [Test Plans Reference](development/tools/test-plans-reference_ccd7bd9a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/references/test-plans-reference.md) | ⭐ 14 | `development` |
+| [Fulllookup](development/tools/fulllookup_6f619085/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/context7-skill/Workflows/FullLookup.md) | ⭐ 14 | `development` |
+| [Resolvelibrary](development/tools/resolvelibrary_1439142c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/context7-skill/Workflows/ResolveLibrary.md) | ⭐ 14 | `development` |
+| [Urls Detail](development/tools/urls-detail_945297e9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/external-urls-skill/references/urls-detail.md) | ⭐ 14 | `development` |
+| [Dnsconfiguration](development/tools/dnsconfiguration_e1208bad/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/github-pages-skill/references/DnsConfiguration.md) | ⭐ 14 | `development` |
 
 ### Investment (7 skills)
 
@@ -1835,7 +2176,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fields](investment/039-fields_a89352d4/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/fields.md) | ⭐ 27 | `investment` |
 | [Screeners](investment/040-screeners_1c274a35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/screeners.md) | ⭐ 27 | `investment` |
 
-### Productivity (11 skills)
+### Productivity (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1850,8 +2191,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Storyboard Storytelling Prompt](productivity/165-storyboard-storytelling-prompt_fdf70eb2/) | [deanpeters/product-manager-prompts](https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompts/storyboard-storytelling-prompt.md) | ⭐ 546 | `productivity` |
 | [Generator – Customer Journey Map Simulator](productivity/166-generator-customer-journey-map-simulator_7d5799d5/) | [deanpeters/product-manager-prompts](https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/storytelling/Generator – Customer Journey Map Simulator.md) | ⭐ 546 | `productivity` |
 | [Vibe.Prd Generated Via Search And Agentic Simulation](productivity/167-vibeprd-generated-via-search-and-agentic-simulation_36d339b1/) | [deanpeters/product-manager-prompts](https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/vibes/vibe.prd-generated-via-search-and-agentic-simulation.md) | ⭐ 546 | `productivity` |
+| [Tmuxcommands](productivity/tmuxcommands_093653cc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/TmuxCommands.md) | ⭐ 14 | `productivity` |
+| [Tmuxconfig](productivity/tmuxconfig_6647a5a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/TmuxConfig.md) | ⭐ 14 | `productivity` |
+| [Setuptmux](productivity/setuptmux_bf38470d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/workflows/SetupTmux.md) | ⭐ 14 | `productivity` |
 
-### Research (62 skills)
+### Research (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1917,6 +2261,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_fd68d71b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/rag/SKILL.md) | ⭐ 88 | `rag` `vector-databases` `embeddings` |
 | [02 Context Types](research/249-02-context-types_f5058e2d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/02-context-types.md) | ⭐ 1.1k | `research` |
 | [Status](research/250-status_e45d8ba4/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/status.md) | ⭐ 31 | `research` |
+| [Skill](research/name-skill_deb92ff9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-resource-management-skill/SKILL.md) | ⭐ 14 | `research` |
+| [Control Plane Metrics](research/control-plane-metrics_d86ef1e5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/control-plane-metrics.md) | ⭐ 14 | `research` |
 
 ## How Skills Are Organized
 
@@ -1968,5 +2314,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 18:23:56 UTC*
+*Last updated: 2026-02-09 20:35:57 UTC*
 *Automatically maintained by SkillFlow*
