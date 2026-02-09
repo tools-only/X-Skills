@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1427 AI-powered skills** organized into 14 categories.
+A curated collection of **1432 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,13 +9,13 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (208 skills)
-- **Automation/Workflow** (40 skills)
+- **Automation/Workflow** (42 skills)
 - **Commercial** (213 skills)
 - **Communication** (29 skills)
 - **Content Creation** (443 skills)
 - **Daily Assistant** (17 skills)
 - **Data Analysis** (127 skills)
-- **Development** (147 skills)
+- **Development** (150 skills)
 - **Development/Devops** (40 skills)
 - **Development/Testing** (63 skills)
 - **Development/Tools** (30 skills)
@@ -393,7 +393,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_40b35d1b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/complete-plan/SKILL.md) | ⭐ 47 | `automation` |
 | [Skill](automation/scripting/003-name-skill_28f1e691/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-plan-step/SKILL.md) | ⭐ 47 | `automation` |
 
-### Automation/Workflow (40 skills)
+### Automation/Workflow (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -437,6 +437,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme.Ja](automation/workflow/040-readmeja_fbbf06b3/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Skill](automation/workflow/002-name-skill_067b4dab/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/agent-browser/SKILL.md) | ⭐ 27 | `automation` |
 | [Skill](automation/workflow/002-name-skill_2f13f725/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/create-plan/SKILL.md) | ⭐ 47 | `automation` |
+| [Cli Commands](automation/workflow/cli-commands_cf003766/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/cli-commands.md) | ⭐ 58 | `automation` |
+| [Test Spec Reference](automation/workflow/test-spec-reference_4ce75c10/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/test-spec-reference.md) | ⭐ 58 | `automation` |
 
 ### Commercial (213 skills)
 
@@ -653,8 +655,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](commercial/043-configuration_82a7c231/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/configuration.md) | 🔥 19.8k | `commercial` |
 | [Api](commercial/012-api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
 | [Context Overflow Handling](commercial/342-context-overflow-handling_7397deb4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/context-overflow-handling.md) | ⭐ 389 | `commercial` |
-| [Imagen Prompting Skill](commercial/imagen_prompting_skill_88fb3006/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/imagen_prompting_skill.md) | ⭐ 26 | `commercial` |
-| [Wan Prompting Skill](commercial/wan_prompting_skill_3486d9b8/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/wan_prompting_skill.md) | ⭐ 26 | `commercial` |
+| [Imagen Prompting Skill](commercial/343-imagen_prompting_skill_88fb3006/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/imagen_prompting_skill.md) | ⭐ 26 | `commercial` |
+| [Agentic Fix Loops](commercial/agentic-fix-loops_12775328/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/agentic-fix-loops.md) | ⭐ 58 | `commercial` |
 
 ### Communication (29 skills)
 
@@ -1134,9 +1136,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_33b9d3c7/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_34b629d8/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_1170616c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/news-search/SKILL.md) | ⭐ 47 | `content creation` |
-| [Jina Reader Skill](content-creation/jina_reader_skill_47dd3deb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/jina_reader_skill.md) | ⭐ 26 | `content creation` |
-| [Nano Banana Prompting Skill](content-creation/nano_banana_prompting_skill_c4fa1c81/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/nano_banana_prompting_skill.md) | ⭐ 26 | `content creation` |
-| [Suno Skill](content-creation/suno_skill_68e280b5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/suno_skill.md) | ⭐ 26 | `content creation` |
+| [Jina Reader Skill](content-creation/315-jina_reader_skill_47dd3deb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/jina_reader_skill.md) | ⭐ 26 | `content creation` |
+| [Nano Banana Prompting Skill](content-creation/316-nano_banana_prompting_skill_c4fa1c81/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/nano_banana_prompting_skill.md) | ⭐ 26 | `content creation` |
+| [Suno Skill](content-creation/317-suno_skill_68e280b5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/suno_skill.md) | ⭐ 26 | `content creation` |
 
 ### Daily Assistant (17 skills)
 
@@ -1292,7 +1294,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Center](data-analysis/433-notification-center_d6338995/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/notification-center.md) | ⭐ 389 | `data analysis` |
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_4cc42795/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 389 | `data analysis` |
 
-### Development (147 skills)
+### Development (150 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1435,14 +1437,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_1a74484d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/tfappfix/SKILL.md) | ⭐ 10 | `development` |
 | [Introduction](development/489-introduction_6d0ef45a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION.md) | ⭐ 11 | `development` |
 | [Websearch Interception](development/2659-websearch_interception_f1bba2c3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/integrations/websearch_interception.md) | 🔥 35.6k | `development` |
-| [Readme.Es](development/readmees_e7576a27/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.es.md) | ⭐ 26 | `development` |
-| [Readme.Id](development/readmeid_68655218/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.id.md) | ⭐ 26 | `development` |
-| [Readme.Ja](development/readmeja_8d7b6dc5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.ja.md) | ⭐ 26 | `development` |
-| [Readme.Ru](development/readmeru_f351a22a/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.ru.md) | ⭐ 26 | `development` |
-| [Readme.Uk](development/readmeuk_8b7a7d40/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.uk.md) | ⭐ 26 | `development` |
-| [Readme.Zh Cn](development/readmezh-cn_41131033/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-CN.md) | ⭐ 26 | `development` |
-| [Readme.Zh Tw](development/readmezh-tw_8aad488e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-TW.md) | ⭐ 26 | `development` |
-| [Quickstart](development/quickstart_4679bf2e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/scripts/QUICKSTART.md) | ⭐ 26 | `development` |
+| [Readme.Es](development/2660-readmees_e7576a27/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.es.md) | ⭐ 26 | `development` |
+| [Readme.Id](development/2661-readmeid_68655218/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.id.md) | ⭐ 26 | `development` |
+| [Readme.Ja](development/1201-readmeja_8d7b6dc5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.ja.md) | ⭐ 26 | `development` |
+| [Readme.Ru](development/2662-readmeru_f351a22a/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.ru.md) | ⭐ 26 | `development` |
+| [Readme.Uk](development/2663-readmeuk_8b7a7d40/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.uk.md) | ⭐ 26 | `development` |
+| [Readme.Zh Cn](development/822-readmezh-cn_41131033/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-CN.md) | ⭐ 26 | `development` |
+| [Readme.Zh Tw](development/2664-readmezh-tw_8aad488e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-TW.md) | ⭐ 26 | `development` |
+| [Quickstart](development/760-quickstart_4679bf2e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/scripts/QUICKSTART.md) | ⭐ 26 | `development` |
+| [Skill](development/name-skill_a2d63816/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 58 | `development` |
+| [Test Spec Guide](development/test-spec-guide_827c1165/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/test-spec-guide.md) | ⭐ 58 | `development` |
+| [Topic Name Resolution](development/topic-name-resolution_be088cab/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/topic-name-resolution.md) | ⭐ 58 | `development` |
 
 ### Development/Devops (40 skills)
 
@@ -1485,9 +1490,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
 | [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
-| [Readme.Pt Br](development/devops/readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
-| [Readme.Tr](development/devops/readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
-| [Readme Old](development/devops/readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
+| [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
+| [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
+| [Readme Old](development/devops/301-readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
 
 ### Development/Testing (63 skills)
 
@@ -1727,5 +1732,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 13:23:27 UTC*
+*Last updated: 2026-02-09 16:11:53 UTC*
 *Automatically maintained by SkillFlow*
