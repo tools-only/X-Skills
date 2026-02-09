@@ -1,0 +1,27 @@
+# Terraform Plan Analyze
+
+| Property | Value |
+|----------|-------|
+| **Name** | Terraform Plan Analyze |
+| **Repository** | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/packages/devops-automation-pack/plugins/05-terraform/commands/terraform-plan-analyze.md) (⭐ 1.3k) |
+| **Original Path** | `plugins/packages/devops-automation-pack/plugins/05-terraform/commands/terraform-plan-analyze.md` |
+| **Category** | commercial |
+| **Subcategory** | ecommerce |
+| **Tags** | commercial |
+| **Created** | 2025-10-11 |
+| **Updated** | 2025-12-26 |
+| **File Hash** | `47f052e79bc14acc...` |
+
+## Description
+
+<! VALIDATION: Tested scenarios >
+<!  Detects resource recreation risks >
+<!  Identifies data loss scenarios (RDS deletion) >
+<!  Estimates cost changes >
+
+**Tags:** `commercial`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/packages/devops-automation-pack/plugins/05-terraform/commands/terraform-plan-analyze.md)*

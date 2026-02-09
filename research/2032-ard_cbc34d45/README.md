@@ -1,0 +1,29 @@
+# Ard
+
+| Property | Value |
+|----------|-------|
+| **Name** | Ard |
+| **Repository** | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news/ARD.md) (⭐ 1.3k) |
+| **Original Path** | `plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news/ARD.md` |
+| **Category** | research |
+| **Subcategory** | data-gathering |
+| **Tags** | research |
+| **Created** | 2026-01-15 |
+| **Updated** | 2026-01-15 |
+| **File Hash** | `cbc34d459c82d25b...` |
+
+## Description
+
+| Field | Value |
+|||
+| Skill Name | aggregatingcryptonews |
+| Architecture Pattern | Data Aggregation Pipeline |
+| Version | 2.0.0 |
+| Author | Jeremy Longshore <jeremy@intentsolutions.io> |
+
+**Tags:** `research`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news/ARD.md)*
