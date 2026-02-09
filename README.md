@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **932 AI-powered skills** organized into 12 categories.
+A curated collection of **1386 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,23 +8,186 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (136 skills)
-- **Automation/Workflow** (3 skills)
-- **Commercial** (190 skills)
-- **Communication** (1 skill)
-- **Content Creation** (400 skills)
-- **Daily Assistant** (2 skills)
-- **Data Analysis** (89 skills)
-- **Development/Devops** (2 skills)
-- **Development/Testing** (52 skills)
-- **Development/Tools** (3 skills)
-- **Productivity** (1 skill)
-- **Research** (53 skills)
+- **Automation** (1 skill)
+- **Automation/Scripting** (175 skills)
+- **Automation/Workflow** (41 skills)
+- **Commercial** (221 skills)
+- **Communication** (32 skills)
+- **Content Creation** (443 skills)
+- **Daily Assistant** (19 skills)
+- **Data Analysis** (122 skills)
+- **Development** (125 skills)
+- **Development/Devops** (51 skills)
+- **Development/Testing** (65 skills)
+- **Development/Tools** (22 skills)
+- **Investment** (3 skills)
+- **Productivity** (6 skills)
+- **Research** (60 skills)
+
+## Patches - Curated Skill Bundles
+
+Pre-configured skill bundles for common AI agent use cases.
+
+### Quick Start with Claude Code
+
+```bash
+# Install X-Skills CLI
+pip install -e skillflow_repos/X-Skills
+
+# List available patches
+xskills patches list
+
+# Install a patch (e.g., research-agent)
+xskills patch install research-agent
+
+# Skills are now available in Claude Code!
+```
+
+### Available Patches
+
+| Patch | Skills | Categories | Install |
+|-------|--------|------------|---------|
+| [Automation Agent](automation-agent/) | 0 | automation | `xskills patch install automation-agent` |
+| [Communication Agent](communication-agent/) | 40 | communication | `xskills patch install communication-agent` |
+| [Content Creator](content-creator/) | 0 | content-creation | `xskills patch install content-creator` |
+| [Data Analyst](data-analyst/) | 0 | data-analysis | `xskills patch install data-analyst` |
+| [DevOps Engineer](devops-engineer/) | 60 | development | `xskills patch install devops-engineer` |
+| [Productivity Assistant](productivity-assistant/) | 50 | productivity, daily-assistant | `xskills patch install productivity-assistant` |
+| [Python Developer](python-dev/) | 0 | development | `xskills patch install python-dev` |
+| [Research Agent](research-agent/) | 0 | research | `xskills patch install research-agent` |
+| [Web Development Agent](web-dev-agent/) | 0 | development | `xskills patch install web-dev-agent` |
+
+### Installation Methods
+
+**Method 1: Using X-Skills CLI (Recommended)**
+
+```bash
+# Install to Claude Code skills directory
+xskills patch install <patch-id>
+
+# Skills install to: ~/.claude/skills/patch-<patch-id>/
+# Immediately available in Claude Code
+```
+
+**Method 2: Direct Installation**
+
+```bash
+# Clone this repository
+git clone https://github.com/tools-only/X-Skills.git
+cd X-Skills
+
+# Install a patch
+python -m src.patch_installer install <patch-id>
+```
+
+### Usage Examples
+
+```bash
+# Research Agent - Academic papers and literature review
+xskills patch install research-agent
+
+# Web Development Agent - Full-stack web development
+xskills patch install web-dev-agent
+
+# Content Creator - Writing and content generation
+xskills patch install content-creator
+
+# Data Analyst - Data analysis and visualization
+xskills patch install data-analyst
+
+# View installed patches
+xskills patches list
+
+# Uninstall a patch
+xskills patch uninstall <patch-id>
+```
+
+### Browse Skills
+
+```bash
+# Browse all skills
+xskills browse
+
+# Browse by category
+xskills browse --category research
+
+# Search skills
+xskills search "web development"
+```
+
+**[View all patches and documentation](INDEX.md)**
+
+
+## Claude Code Integration
+
+### Quick Start
+
+X-Skills integrates seamlessly with Claude Code through patches - curated skill bundles for common use cases.
+
+```bash
+# 1. Clone this repository
+git clone https://github.com/tools-only/X-Skills.git
+cd X-Skills
+
+# 2. Install the X-Skills CLI
+pip install -e .
+
+# 3. List available patches
+xskills patches list
+
+# 4. Install a patch
+xskills patch install research-agent
+
+# 5. Skills are now available in Claude Code!
+```
+
+### Available Commands
+
+```bash
+# Patch Management
+xskills patches list              # List all patches
+xskills patch install <patch>     # Install a patch
+xskills patch uninstall <patch>   # Uninstall a patch
+
+# Skill Browsing
+xskills browse                    # Browse all skills
+xskills browse --category research # Browse by category
+xskills search "web dev"          # Search skills
+
+# System Status
+xskills status                    # Show system status
+```
+
+### How It Works
+
+When you install a patch:
+
+1. Skills are symlinked to `~/.claude/skills/patch-<patch-id>/`
+2. Skills become immediately available in Claude Code
+3. No manual configuration needed
+
+### Example Workflow
+
+```bash
+# Install research capabilities
+xskills patch install research-agent
+
+# Browse what was installed
+ls ~/.claude/skills/patch-research-agent/
+
+# Use in Claude Code - skills are now available!
+```
 
 ## Skills Directory
 
 
-### Automation/Scripting (136 skills)
+### Automation (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Accessibility](automation/accessibility_34cd91bc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/accessibility.md) | 🔥 19.8k | `automation` |
+
+### Automation/Scripting (175 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -164,16 +327,93 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Directory Structure](automation/scripting/128-directory-structure_00d1e095/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-code-completion/references/directory-structure.md) | ⭐ 1.3k | `automation` |
 | [Directory Structure](automation/scripting/128-directory-structure_4b333f39/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-release-automation/references/directory-structure.md) | ⭐ 1.3k | `automation` |
 | [Audio Mixer](automation/scripting/127-audio-mixer_e90c5977/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/video-production/audio-mixer-assistant/agents/audio-mixer.md) | ⭐ 1.3k | `automation` |
+| [Skill](automation/scripting/name-skill_8b264a8f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/SKILL.md) | 🔥 19.8k | `automation` |
+| [Cli](automation/scripting/cli_c548d889/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/references/cli.md) | 🔥 19.8k | `automation` |
+| [Cli](automation/scripting/cli_77e6a0c0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/cli.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_6ea23fb8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api/configuration.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_b721d8e2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api/gotchas.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_7ea6b294/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api/patterns.md) | 🔥 19.8k | `automation` |
+| [Api](automation/scripting/api_d0567127/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bindings/api.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_d52fdcae/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bindings/configuration.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_ef4548a7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cron-triggers/configuration.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_99e9e973/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cron-triggers/patterns.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_06bc8bae/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/d1/configuration.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_2e548a12/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/d1/patterns.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_546d722c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ddos/patterns.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_a60c80f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/do-storage/patterns.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_c227e49a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pipelines/gotchas.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_975cd37c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pulumi/patterns.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_f8730e15/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/queues/configuration.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_a6adba9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/queues/gotchas.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_4ce6cece/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/queues/patterns.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_c2e3bb60/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2/configuration.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_c9068fb8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2/gotchas.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_fe0e4caa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2/patterns.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_8efac487/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tail-workers/configuration.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_4ba9dc55/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tail-workers/gotchas.md) | 🔥 19.8k | `automation` |
+| [Api](automation/scripting/api_c0aab15c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/vectorize/api.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_41368d07/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/vectorize/gotchas.md) | 🔥 19.8k | `automation` |
+| [Gotchas](automation/scripting/gotchas_70e2d004/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-vpc/gotchas.md) | 🔥 19.8k | `automation` |
+| [Api](automation/scripting/api_f9daa528/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/api.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_a8e042ff/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/configuration.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_12985337/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/containers/patterns.md) | 🔥 19.8k | `automation` |
+| [Testing](automation/scripting/testing_035b05fe/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/do-storage/testing.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_b1cfebd7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/images/patterns.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_5c102d4e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pulumi/configuration.md) | 🔥 19.8k | `automation` |
+| [Api](automation/scripting/api_ffe55706/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/queues/api.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_400bb200/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tail-workers/patterns.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_dcc42279/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/vectorize/patterns.md) | 🔥 19.8k | `automation` |
+| [Api](automation/scripting/api_7a6652e7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/api.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/scripting/patterns_1ebfd949/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-ai/patterns.md) | 🔥 19.8k | `automation` |
+| [Configuration](automation/scripting/configuration_76a10860/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/configuration.md) | 🔥 19.8k | `automation` |
 
-### Automation/Workflow (3 skills)
+### Automation/Workflow (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Timestamps And Time Tracking](automation/workflow/083-timestamps_and_time_tracking_882ee04e/) | [SomeOddCodeGuy/WilmerAI](https://raw.githubusercontent.com/SomeOddCodeGuy/WilmerAI/master/Docs/User_Documentation/Core_Features/TimeStamps_And_Time_Tracking.md) | ⭐ 803 | `automation` |
 | [Customworkflow](automation/workflow/084-customworkflow_0379bd6e/) | [SomeOddCodeGuy/WilmerAI](https://raw.githubusercontent.com/SomeOddCodeGuy/WilmerAI/master/Docs/User_Documentation/Setup/Workflow_Details/Nodes/CustomWorkflow.md) | ⭐ 803 | `automation` |
 | [Getcustomfile](automation/workflow/085-getcustomfile_87d8b837/) | [SomeOddCodeGuy/WilmerAI](https://raw.githubusercontent.com/SomeOddCodeGuy/WilmerAI/master/Docs/User_Documentation/Setup/Workflow_Details/Nodes/GetCustomFile.md) | ⭐ 803 | `automation` |
+| [Ai Engineer](automation/workflow/ai-engineer_e20cde84/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/ai-engineer.md) | 🔥 19.8k | `automation` |
+| [Machine Learning Engineer](automation/workflow/machine-learning-engineer_fadb5e2e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/machine-learning-engineer.md) | 🔥 19.8k | `automation` |
+| [Ml Engineer](automation/workflow/ml-engineer_54917676/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/ml-engineer.md) | 🔥 19.8k | `automation` |
+| [Mlops Engineer](automation/workflow/mlops-engineer_ff3cebba/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/mlops-engineer.md) | 🔥 19.8k | `automation` |
+| [Nlp Engineer](automation/workflow/nlp-engineer_8095952e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/nlp-engineer.md) | 🔥 19.8k | `automation` |
+| [Database Administrator](automation/workflow/database-administrator_bfb9070d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/database/database-administrator.md) | 🔥 19.8k | `automation` |
+| [Chaos Engineer](automation/workflow/chaos-engineer_848c0587/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/chaos-engineer.md) | 🔥 19.8k | `automation` |
+| [Cloud Architect](automation/workflow/cloud-architect_69959b20/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/cloud-architect.md) | 🔥 19.8k | `automation` |
+| [Deployment Engineer](automation/workflow/deployment-engineer_9b5898fb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/deployment-engineer.md) | 🔥 19.8k | `automation` |
+| [Devops Incident Responder](automation/workflow/devops-incident-responder_60030ce2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/devops-incident-responder.md) | 🔥 19.8k | `automation` |
+| [Incident Responder](automation/workflow/incident-responder_b23cf580/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/incident-responder.md) | 🔥 19.8k | `automation` |
+| [Kubernetes Specialist](automation/workflow/kubernetes-specialist_b48d366e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/kubernetes-specialist.md) | 🔥 19.8k | `automation` |
+| [M365 Admin](automation/workflow/m365-admin_de807944/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/m365-admin.md) | 🔥 19.8k | `automation` |
+| [Microservices Architect](automation/workflow/microservices-architect_ab9b8694/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/microservices-architect.md) | 🔥 19.8k | `automation` |
+| [Platform Engineer](automation/workflow/platform-engineer_17ea9f3d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/platform-engineer.md) | 🔥 19.8k | `automation` |
+| [Terragrunt Expert](automation/workflow/terragrunt-expert_2be6aa48/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/terragrunt-expert.md) | 🔥 19.8k | `automation` |
+| [Windows Infra Admin](automation/workflow/windows-infra-admin_98296d49/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/windows-infra-admin.md) | 🔥 19.8k | `automation` |
+| [Agent Organizer](automation/workflow/agent-organizer_ff9c37cd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/agent-organizer.md) | 🔥 19.8k | `automation` |
+| [Error Coordinator](automation/workflow/error-coordinator_9e1e867b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/error-coordinator.md) | 🔥 19.8k | `automation` |
+| [Multi Agent Coordinator](automation/workflow/multi-agent-coordinator_6fed6dec/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/multi-agent-coordinator.md) | 🔥 19.8k | `automation` |
+| [Workflow Orchestrator](automation/workflow/workflow-orchestrator_471bcb45/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/workflow-orchestrator.md) | 🔥 19.8k | `automation` |
+| [Fintech Engineer](automation/workflow/fintech-engineer_5c7018da/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/finance/fintech-engineer.md) | 🔥 19.8k | `automation` |
+| [Payment Integration](automation/workflow/payment-integration_66154c78/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/finance/payment-integration.md) | 🔥 19.8k | `automation` |
+| [Risk Manager](automation/workflow/risk-manager_d4e0af3b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/finance/risk-manager.md) | 🔥 19.8k | `automation` |
+| [Django Developer](automation/workflow/django-developer_e4936a3e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/django-developer.md) | 🔥 19.8k | `automation` |
+| [Powershell 5.1 Expert](automation/workflow/powershell-51-expert_6085abe9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/powershell-5.1-expert.md) | 🔥 19.8k | `automation` |
+| [Powershell 7 Expert](automation/workflow/powershell-7-expert_582f1a5d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/powershell-7-expert.md) | 🔥 19.8k | `automation` |
+| [Compliance Auditor](automation/workflow/compliance-auditor_3d1e50b0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/compliance-auditor.md) | 🔥 19.8k | `automation` |
+| [Security Engineer](automation/workflow/security-engineer_f839dc74/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/security-engineer.md) | 🔥 19.8k | `automation` |
+| [Skill](automation/workflow/name-skill_c562e5d3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/develop-web-game/SKILL.md) | 🔥 19.8k | `automation` |
+| [Skill](automation/workflow/name-skill_d5cb9afe/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/netlify-deploy/SKILL.md) | 🔥 19.8k | `automation` |
+| [Skill](automation/workflow/name-skill_f5004d91/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright/SKILL.md) | 🔥 19.8k | `automation` |
+| [Service Types](automation/workflow/service-types_459590be/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/service-types.md) | 🔥 19.8k | `automation` |
+| [Patterns](automation/workflow/patterns_eca20d1d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/patterns.md) | 🔥 19.8k | `automation` |
+| [Data Engineer](automation/workflow/data-engineer_81f30397/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/data-engineer.md) | 🔥 19.8k | `automation` |
+| [Network Engineer](automation/workflow/network-engineer_e71f38da/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/network-engineer.md) | 🔥 19.8k | `automation` |
+| [Sre Engineer](automation/workflow/sre-engineer_f83f09d9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/sre-engineer.md) | 🔥 19.8k | `automation` |
+| [Workflows](automation/workflow/workflows_a2b5835a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright/references/workflows.md) | 🔥 19.8k | `automation` |
 
-### Commercial (190 skills)
+### Commercial (221 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -367,14 +607,76 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](commercial/210-name-skill_749ab63a/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/performance/sla-sli-tracker/skills/sla-sli-tracker/SKILL.md) | ⭐ 1.3k | `commercial` |
 | [Errors](commercial/392-errors_c22a5d78/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-audit-logging/references/errors.md) | ⭐ 1.3k | `commercial` |
 | [Directory Structure](commercial/407-directory-structure_ccab31b0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-refactoring-large/references/directory-structure.md) | ⭐ 1.3k | `commercial` |
+| [Business Analyst](commercial/business-analyst_72498f12/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/business-analyst.md) | 🔥 19.8k | `commercial` |
+| [Ux Researcher](commercial/ux-researcher_aa967f30/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/ux-researcher.md) | 🔥 19.8k | `commercial` |
+| [Nextjs Developer](commercial/nextjs-developer_60c71f52/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/nextjs-developer.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_1135a774/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-gateway/configuration.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_59af92d0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-search/configuration.md) | 🔥 19.8k | `commercial` |
+| [Gotchas](commercial/gotchas_31c3e692/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/browser-rendering/gotchas.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_00af782c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/containers/configuration.md) | 🔥 19.8k | `commercial` |
+| [Api](commercial/api_2768dedd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cron-triggers/api.md) | 🔥 19.8k | `commercial` |
+| [Gotchas](commercial/gotchas_1ffa594d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/d1/gotchas.md) | 🔥 19.8k | `commercial` |
+| [Gotchas](commercial/gotchas_82c019a3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/do-storage/gotchas.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_9c66135e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/hyperdrive/configuration.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_a7cb7ba5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/secrets-store/configuration.md) | 🔥 19.8k | `commercial` |
+| [Gotchas](commercial/gotchas_572d2d04/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/secrets-store/gotchas.md) | 🔥 19.8k | `commercial` |
+| [Gotchas](commercial/gotchas_37b51d4f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/static-assets/gotchas.md) | 🔥 19.8k | `commercial` |
+| [Api](commercial/api_69805587/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/api.md) | 🔥 19.8k | `commercial` |
+| [Networking](commercial/networking_99f51bcb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/networking.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_8df0cf40/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turn/configuration.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_057eaef4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/vectorize/configuration.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_82a7c231/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/configuration.md) | 🔥 19.8k | `commercial` |
+| [Api](commercial/api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
+| [Skill](commercial/name-skill_9939840c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/vercel-deploy/SKILL.md) | 🔥 19.8k | `commercial` |
+| [Sample Prompts](commercial/sample-prompts_be54f1ce/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/references/sample-prompts.md) | 🔥 19.8k | `commercial` |
+| [Sample Prompts](commercial/sample-prompts_c14e1b1c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/sample-prompts.md) | 🔥 19.8k | `commercial` |
+| [Voiceover](commercial/voiceover_a4bb96c3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/voiceover.md) | 🔥 19.8k | `commercial` |
+| [Social Ads](commercial/social-ads_bc79e56e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/social-ads.md) | 🔥 19.8k | `commercial` |
+| [Patterns](commercial/patterns_d294a7ee/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/analytics-engine/patterns.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_9cc0c9f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/argo-smart-routing/configuration.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_74c156e9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/stream/configuration.md) | 🔥 19.8k | `commercial` |
+| [Configuration](commercial/configuration_0a3f90ca/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-vpc/configuration.md) | 🔥 19.8k | `commercial` |
+| [Api](commercial/api_6b28a3e1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/api.md) | 🔥 19.8k | `commercial` |
+| [Patterns](commercial/patterns_2ea1d00f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/patterns.md) | 🔥 19.8k | `commercial` |
 
-### Communication (1 skills)
+### Communication (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Web Intro](communication/web_intro_c2bb6188/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/web_ui/web_intro.md) | ⭐ 1.0k | `communication` |
+| [Web Intro](communication/224-web_intro_c2bb6188/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/web_ui/web_intro.md) | ⭐ 1.0k | `communication` |
+| [Slack Expert](communication/slack-expert_64ee61e4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/slack-expert.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_38f9799a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/agents-sdk/api.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_891353f3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/agents-sdk/patterns.md) | 🔥 19.8k | `communication` |
+| [Dynamic Routing](communication/dynamic-routing_56f3539a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-gateway/dynamic-routing.md) | 🔥 19.8k | `communication` |
+| [Features](communication/features_efbc7d2d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-gateway/features.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_79acd0a8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api-shield/configuration.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_847c33ce/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api/api.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_ed518864/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/browser-rendering/patterns.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_eba158f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ddos/api.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_0d0fae2b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ddos/configuration.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_d3a0957c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/do-storage/api.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_b2c7ef2f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/do-storage/configuration.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_bb8355f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-routing/api.md) | 🔥 19.8k | `communication` |
+| [Gotchas](communication/gotchas_8298b63f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-routing/gotchas.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_5e4b0e68/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-workers/api.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_984d84d6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-workers/configuration.md) | 🔥 19.8k | `communication` |
+| [Gotchas](communication/gotchas_13543463/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-workers/gotchas.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_e8704f7b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-workers/patterns.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_94a2fc71/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/kv/api.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_59138344/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/kv/configuration.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_4fc51294/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/kv/patterns.md) | 🔥 19.8k | `communication` |
+| [Gotchas](communication/gotchas_38cc2807/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-data-catalog/gotchas.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_2b3a7907/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-data-catalog/patterns.md) | 🔥 19.8k | `communication` |
+| [Api](communication/api_1750e8f7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-sql/api.md) | 🔥 19.8k | `communication` |
+| [Gotchas](communication/gotchas_cb07bb56/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/gotchas.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
+| [Sdk Integration](communication/sdk-integration_3633951a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-gateway/sdk-integration.md) | 🔥 19.8k | `communication` |
+| [Patterns](communication/patterns_507bfca0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-routing/patterns.md) | 🔥 19.8k | `communication` |
+| [Configuration](communication/configuration_acfe8100/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-ai/configuration.md) | 🔥 19.8k | `communication` |
+| [Frameworks](communication/frameworks_520538d4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/frameworks.md) | 🔥 19.8k | `communication` |
 
-### Content Creation (400 skills)
+### Content Creation (443 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -778,15 +1080,75 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Teleprompter](content-creation/357-teleprompter_d35842cd/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/video-production/script-to-teleprompter/commands/teleprompter.md) | ⭐ 1.3k | `content creation` |
 | [Video Editor](content-creation/358-video-editor_8e1e3ec4/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/video-production/video-editor-ai/agents/video-editor.md) | ⭐ 1.3k | `content creation` |
 | [Repurpose](content-creation/174-repurpose_23a8c062/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/workflow-optimization/repurpose-content/commands/repurpose.md) | ⭐ 1.3k | `content creation` |
+| [Claude](content-creation/claude_9a7c17dc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/CLAUDE.md) | 🔥 19.8k | `content creation` |
+| [Content Marketer](content-creation/content-marketer_f09de212/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/content-marketer.md) | 🔥 19.8k | `content creation` |
+| [Seo Specialist](content-creation/seo-specialist_f9a3c5c6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/seo-specialist.md) | 🔥 19.8k | `content creation` |
+| [Database Optimizer](content-creation/database-optimizer_904d42cb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/database/database-optimizer.md) | 🔥 19.8k | `content creation` |
+| [Postgres Pro](content-creation/postgres-pro_e6da0d67/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/database/postgres-pro.md) | 🔥 19.8k | `content creation` |
+| [Sql Pro](content-creation/sql-pro_af12ad90/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/sql-pro.md) | 🔥 19.8k | `content creation` |
+| [Skill](content-creation/name-skill_f3e367d6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/transcribe/SKILL.md) | 🔥 19.8k | `content creation` |
+| [Skill](content-creation/name-skill_20216ae7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/SKILL.md) | 🔥 19.8k | `content creation` |
+| [Image Api](content-creation/image-api_a31b5768/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/references/image-api.md) | 🔥 19.8k | `content creation` |
+| [Audio Api](content-creation/audio-api_dba58cfc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/audio-api.md) | 🔥 19.8k | `content creation` |
+| [Golang General Backend Security](content-creation/golang-general-backend-security_a73c47c3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/golang-general-backend-security.md) | 🔥 19.8k | `content creation` |
+| [Javascript Jquery Web Frontend Security](content-creation/javascript-jquery-web-frontend-security_bcbad2fa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/javascript-jquery-web-frontend-security.md) | 🔥 19.8k | `content creation` |
+| [Prompting](content-creation/prompting_ed4d3d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/prompting.md) | 🔥 19.8k | `content creation` |
+| [Troubleshooting](content-creation/troubleshooting_4d012cf7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/troubleshooting.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_ae82c22e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/analytics-engine/api.md) | 🔥 19.8k | `content creation` |
+| [Gotchas](content-creation/gotchas_08d11a06/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/analytics-engine/gotchas.md) | 🔥 19.8k | `content creation` |
+| [Patterns](content-creation/patterns_8f0e0d9a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/argo-smart-routing/patterns.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_0f346bfc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/browser-rendering/api.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_21b14484/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cache-reserve/api.md) | 🔥 19.8k | `tag1` `tag2` |
+| [Configuration](content-creation/configuration_7a033bcb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cache-reserve/configuration.md) | 🔥 19.8k | `content creation` |
+| [Gotchas](content-creation/gotchas_3642800c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cache-reserve/gotchas.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_7e7bb032/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/hyperdrive/api.md) | 🔥 19.8k | `content creation` |
+| [Configuration](content-creation/configuration_e4c66bfc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/images/configuration.md) | 🔥 19.8k | `content creation` |
+| [Configuration](content-creation/configuration_c7f20114/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-sql/configuration.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_d229e1d5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2/api.md) | 🔥 19.8k | `content creation` |
+| [Patterns](content-creation/patterns_51a2b40a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtime-sfu/patterns.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_37020e61/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtimekit/api.md) | 🔥 19.8k | `content creation` |
+| [Gotchas](content-creation/gotchas_83cecda6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtimekit/gotchas.md) | 🔥 19.8k | `content creation` |
+| [Patterns](content-creation/patterns_2e024213/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtimekit/patterns.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_96dafb63/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/api.md) | 🔥 19.8k | `content creation` |
+| [Skill](content-creation/name-skill_1d7472f7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/SKILL.md) | 🔥 19.8k | `content creation` |
+| [Voice Directions](content-creation/voice-directions_5da0a4c5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/voice-directions.md) | 🔥 19.8k | `content creation` |
+| [Video Api](content-creation/video-api_01a2e01f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/video-api.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_cff4ce1b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-search/api.md) | 🔥 19.8k | `content creation` |
+| [Configuration](content-creation/configuration_db9206a7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/browser-rendering/configuration.md) | 🔥 19.8k | `content creation` |
+| [Patterns](content-creation/patterns_94b4739c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cache-reserve/patterns.md) | 🔥 19.8k | `content creation` |
+| [Configuration](content-creation/configuration_8a1b8592/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/observability/configuration.md) | 🔥 19.8k | `content creation` |
+| [Patterns](content-creation/patterns_df66dce8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/observability/patterns.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_7c6c3d15/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtime-sfu/api.md) | 🔥 19.8k | `content creation` |
+| [Configuration](content-creation/configuration_4d4ccf99/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtimekit/configuration.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_816b4a3b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/sandbox/api.md) | 🔥 19.8k | `content creation` |
+| [Api](content-creation/api_619acb0a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/static-assets/api.md) | 🔥 19.8k | `content creation` |
+| [Api Live](content-creation/api-live_7c384bb3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/stream/api-live.md) | 🔥 19.8k | `content creation` |
 
-### Daily Assistant (2 skills)
+### Daily Assistant (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Default Endpoints And Presets](daily-assistant/223-default_endpoints_and_presets_abc32ef8/) | [SomeOddCodeGuy/WilmerAI](https://raw.githubusercontent.com/SomeOddCodeGuy/WilmerAI/master/Docs/User_Documentation/LLM_Assisted_Workflow_Generation/Default_Endpoints_And_Presets.md) | ⭐ 803 | `daily assistant` |
-| [Web Intro Cn](daily-assistant/web_intro_cn_9f0f130c/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/web_ui/web_intro_CN.md) | ⭐ 1.0k | `daily assistant` |
+| [Worktree Check](daily-assistant/worktree-check_d2d0c646/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/commands/worktree-check.md) | 🔥 19.8k | `daily assistant` |
+| [Project Manager](daily-assistant/project-manager_d82a4729/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/project-manager.md) | 🔥 19.8k | `daily assistant` |
+| [Scrum Master](daily-assistant/scrum-master_12957d9f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/scrum-master.md) | 🔥 19.8k | `daily assistant` |
+| [Ad Security Reviewer](daily-assistant/ad-security-reviewer_a32505ce/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/ad-security-reviewer.md) | 🔥 19.8k | `daily assistant` |
+| [Powershell Security Hardening](daily-assistant/powershell-security-hardening_c254c797/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/powershell-security-hardening.md) | 🔥 19.8k | `daily assistant` |
+| [Figma Mcp Config](daily-assistant/figma-mcp-config_3b8bbd01/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/figma/references/figma-mcp-config.md) | 🔥 19.8k | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_01e857e3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/agents-sdk/gotchas.md) | 🔥 19.8k | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_5707e264/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/containers/gotchas.md) | 🔥 19.8k | `daily assistant` |
+| [Api](daily-assistant/api_ada50c59/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/durable-objects/api.md) | 🔥 19.8k | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_b7156d2d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/durable-objects/gotchas.md) | 🔥 19.8k | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_60f1e757/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/kv/gotchas.md) | 🔥 19.8k | `daily assistant` |
+| [Patterns](daily-assistant/patterns_5a527102/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages/patterns.md) | 🔥 19.8k | `daily assistant` |
+| [Gotchas](daily-assistant/gotchas_267e3fad/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/gotchas.md) | 🔥 19.8k | `daily assistant` |
+| [Quality Checklist](daily-assistant/quality-checklist_ed01afe6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/jupyter-notebook/references/quality-checklist.md) | 🔥 19.8k | `daily assistant` |
+| [Error Patterns](daily-assistant/error-patterns_b5556cdd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/error-patterns.md) | 🔥 19.8k | `daily assistant` |
+| [Api](daily-assistant/api_d7964092/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/containers/api.md) | 🔥 19.8k | `daily assistant` |
+| [Api](daily-assistant/api_edf4ea41/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages-functions/api.md) | 🔥 19.8k | `daily assistant` |
+| [Patterns](daily-assistant/patterns_c95d2774/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/patterns.md) | 🔥 19.8k | `daily assistant` |
 
-### Data Analysis (89 skills)
+### Data Analysis (122 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -879,15 +1241,227 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Progress](data-analysis/175-progress_96d6a074/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/packages/creator-studio-pack/plugins/project-documentation/progress-tracker-visual/commands/progress.md) | ⭐ 1.3k | `data analysis` |
 | [Code Explainer](data-analysis/450-code-explainer_e909cdd4/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/project-documentation/code-explainer-video/agents/code-explainer.md) | ⭐ 1.3k | `data analysis` |
 | [Progress](data-analysis/175-progress_f0b4bf6c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/project-documentation/progress-tracker-visual/commands/progress.md) | ⭐ 1.3k | `data analysis` |
+| [Worktree Init](data-analysis/worktree-init_b40905d8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/commands/worktree-init.md) | 🔥 19.8k | `data analysis` |
+| [Competitive Analyst](data-analysis/competitive-analyst_82425e5d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/competitive-analyst.md) | 🔥 19.8k | `data analysis` |
+| [Market Researcher](data-analysis/market-researcher_99dae2fd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/market-researcher.md) | 🔥 19.8k | `data analysis` |
+| [Trend Analyst](data-analysis/trend-analyst_1c9be614/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/trend-analyst.md) | 🔥 19.8k | `data analysis` |
+| [Data Analyst](data-analysis/data-analyst_b9f24829/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/data-analyst.md) | 🔥 19.8k | `data analysis` |
+| [Data Scientist](data-analysis/data-scientist_9b8c7a14/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/data-ai/data-scientist.md) | 🔥 19.8k | `data analysis` |
+| [Data Researcher](data-analysis/data-researcher_b41ec6a8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/deep-research-team/data-researcher.md) | 🔥 19.8k | `data analysis` |
+| [Research Analyst](data-analysis/research-analyst_b9573a71/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/deep-research-team/research-analyst.md) | 🔥 19.8k | `data analysis` |
+| [Ui Designer](data-analysis/ui-designer_4678428c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/ui-designer.md) | 🔥 19.8k | `data analysis` |
+| [Dependency Manager](data-analysis/dependency-manager_cdb45e5e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/dependency-manager.md) | 🔥 19.8k | `data analysis` |
+| [Error Detective](data-analysis/error-detective_398390f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/error-detective.md) | 🔥 19.8k | `data analysis` |
+| [Technical Writer](data-analysis/technical-writer_69ab4ea8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/documentation/technical-writer.md) | 🔥 19.8k | `data analysis` |
+| [Context Manager](data-analysis/context-manager_a906ecfb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/context-manager.md) | 🔥 19.8k | `data analysis` |
+| [Knowledge Synthesizer](data-analysis/knowledge-synthesizer_c6edb60d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/knowledge-synthesizer.md) | 🔥 19.8k | `data analysis` |
+| [Performance Monitor](data-analysis/performance-monitor_d1815338/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/performance-monitor.md) | 🔥 19.8k | `data analysis` |
+| [Websocket Engineer](data-analysis/websocket-engineer_506eb1ac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/realtime/websocket-engineer.md) | 🔥 19.8k | `data analysis` |
+| [Skill](data-analysis/name-skill_95489949/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/figma-implement-design/SKILL.md) | 🔥 19.8k | `data analysis` |
+| [Skill](data-analysis/name-skill_dbc4d898/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/document-processing/doc/SKILL.md) | 🔥 19.8k | `data analysis` |
+| [Skill](data-analysis/name-skill_528e6d9a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/document-processing/spreadsheet/SKILL.md) | 🔥 19.8k | `data analysis` |
+| [Skill](data-analysis/name-skill_cfd28d6a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-ownership-map/SKILL.md) | 🔥 19.8k | `data analysis` |
+| [Figma Tools And Prompts](data-analysis/figma-tools-and-prompts_428add06/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/figma/references/figma-tools-and-prompts.md) | 🔥 19.8k | `data analysis` |
+| [Patterns](data-analysis/patterns_66f0e9bc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api-shield/patterns.md) | 🔥 19.8k | `data analysis` |
+| [Gotchas](data-analysis/gotchas_d26a1b2d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/gotchas.md) | 🔥 19.8k | `data analysis` |
+| [Patterns](data-analysis/patterns_35f462e5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages-functions/patterns.md) | 🔥 19.8k | `data analysis` |
+| [Patterns](data-analysis/patterns_bc836b21/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-sql/patterns.md) | 🔥 19.8k | `data analysis` |
+| [Configuration](data-analysis/configuration_7d299378/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/configuration.md) | 🔥 19.8k | `data analysis` |
+| [Gotchas](data-analysis/gotchas_8e56c052/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/gotchas.md) | 🔥 19.8k | `data analysis` |
+| [Worktree Cleanup](data-analysis/worktree-cleanup_d58ff480/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/commands/worktree-cleanup.md) | 🔥 19.8k | `data analysis` |
+| [Narration](data-analysis/narration_3e68829f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/narration.md) | 🔥 19.8k | `data analysis` |
+| [Sample Prompts](data-analysis/sample-prompts_9a463fff/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/sample-prompts.md) | 🔥 19.8k | `data analysis` |
+| [Patterns](data-analysis/patterns_75d05267/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pipelines/patterns.md) | 🔥 19.8k | `data analysis` |
+| [Api](data-analysis/api_d3d8b440/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/api.md) | 🔥 19.8k | `data analysis` |
+| [Patterns](data-analysis/patterns_693558fe/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/patterns.md) | 🔥 19.8k | `data analysis` |
 
-### Development/Devops (2 skills)
+### Development (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Cli Guide](development/devops/cli_guide_84c2cf4a/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/CLI_GUIDE.md) | ⭐ 1.0k | `development` |
-| [Docker Guide](development/devops/docker_guide_6de83c4a/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/DOCKER_GUIDE.md) | ⭐ 1.0k | `development` |
+| [Worktree Deliver](development/worktree-deliver_86915ed5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/commands/worktree-deliver.md) | 🔥 19.8k | `development` |
+| [Llm Architect](development/llm-architect_10134b05/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/ai-specialists/llm-architect.md) | 🔥 19.8k | `development` |
+| [Api Designer](development/api-designer_b14c4958/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/api-graphql/api-designer.md) | 🔥 19.8k | `development` |
+| [Graphql Architect](development/graphql-architect_dc3eb3af/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/api-graphql/graphql-architect.md) | 🔥 19.8k | `development` |
+| [Blockchain Developer](development/blockchain-developer_fd083c4c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/blockchain-web3/blockchain-developer.md) | 🔥 19.8k | `development` |
+| [Electron Pro](development/electron-pro_910e4d93/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/electron-pro.md) | 🔥 19.8k | `development` |
+| [Frontend Developer](development/frontend-developer_3c8efe4e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/frontend-developer.md) | 🔥 19.8k | `development` |
+| [Mobile App Developer](development/mobile-app-developer_459049ae/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/mobile-app-developer.md) | 🔥 19.8k | `development` |
+| [Mobile Developer](development/mobile-developer_339deaf2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/mobile-developer.md) | 🔥 19.8k | `development` |
+| [Architect Reviewer](development/architect-reviewer_9d7a6df5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/architect-reviewer.md) | 🔥 19.8k | `development` |
+| [Build Engineer](development/build-engineer_65593ff2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/build-engineer.md) | 🔥 19.8k | `development` |
+| [Code Reviewer](development/code-reviewer_afc3acf2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/code-reviewer.md) | 🔥 19.8k | `development` |
+| [Debugger](development/debugger_1022feb8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/debugger.md) | 🔥 19.8k | `development` |
+| [Performance Engineer](development/performance-engineer_c38ef67f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/performance-engineer.md) | 🔥 19.8k | `development` |
+| [Qa Expert](development/qa-expert_f789eff6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/qa-expert.md) | 🔥 19.8k | `development` |
+| [Refactoring Specialist](development/refactoring-specialist_83fee8fa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/refactoring-specialist.md) | 🔥 19.8k | `development` |
+| [Api Documenter](development/api-documenter_307941f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/documentation/api-documenter.md) | 🔥 19.8k | `development` |
+| [Documentation Engineer](development/documentation-engineer_c549629b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/documentation/documentation-engineer.md) | 🔥 19.8k | `development` |
+| [Agent Installer](development/agent-installer_c0789ca4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/agent-installer.md) | 🔥 19.8k | `development` |
+| [Game Developer](development/game-developer_54a5a0ef/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/game-development/game-developer.md) | 🔥 19.8k | `development` |
+| [Git Workflow Manager](development/git-workflow-manager_9cfc71e8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/git/git-workflow-manager.md) | 🔥 19.8k | `development` |
+| [Mcp Developer](development/mcp-developer_d752d788/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/mcp-dev-team/mcp-developer.md) | 🔥 19.8k | `development` |
+| [Legacy Modernizer](development/legacy-modernizer_1861d2d7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/modernization/legacy-modernizer.md) | 🔥 19.8k | `development` |
+| [Angular Architect](development/angular-architect_b24dc908/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/angular-architect.md) | 🔥 19.8k | `development` |
+| [Csharp Developer](development/csharp-developer_006d08ca/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/csharp-developer.md) | 🔥 19.8k | `development` |
+| [Dotnet Framework 4.8 Expert](development/dotnet-framework-48-expert_a3bee16f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/dotnet-framework-4.8-expert.md) | 🔥 19.8k | `development` |
+| [Elixir Expert](development/elixir-expert_8f6ca3a6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/elixir-expert.md) | 🔥 19.8k | `development` |
+| [Embedded Systems](development/embedded-systems_41e6855b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/embedded-systems.md) | 🔥 19.8k | `development` |
+| [Golang Pro](development/golang-pro_123fe70d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/golang-pro.md) | 🔥 19.8k | `development` |
+| [Iot Engineer](development/iot-engineer_02cbe9f3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/iot-engineer.md) | 🔥 19.8k | `development` |
+| [Java Architect](development/java-architect_fb50ac8d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/java-architect.md) | 🔥 19.8k | `development` |
+| [Javascript Pro](development/javascript-pro_6b57a614/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/javascript-pro.md) | 🔥 19.8k | `development` |
+| [Laravel Specialist](development/laravel-specialist_b4ead28c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/laravel-specialist.md) | 🔥 19.8k | `development` |
+| [Php Pro](development/php-pro_e48f7c4a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/php-pro.md) | 🔥 19.8k | `development` |
+| [Python Pro](development/python-pro_e916932d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/python-pro.md) | 🔥 19.8k | `development` |
+| [React Specialist](development/react-specialist_dcf17b07/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/react-specialist.md) | 🔥 19.8k | `development` |
+| [Rust Engineer](development/rust-engineer_c2fb5837/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/rust-engineer.md) | 🔥 19.8k | `development` |
+| [Vue Expert](development/vue-expert_17b053c5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/vue-expert.md) | 🔥 19.8k | `development` |
+| [Skill](development/name-skill_cb18f79d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-research/openai-docs/SKILL.md) | 🔥 19.8k | `development` |
+| [Skill](development/name-skill_93222336/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/SKILL.md) | 🔥 19.8k | `development` |
+| [Deployment Patterns](development/deployment-patterns_fdb8c3b9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/netlify-deploy/references/deployment-patterns.md) | 🔥 19.8k | `development` |
+| [Javascript General Web Frontend Security](development/javascript-general-web-frontend-security_3a7bc7b3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/javascript-general-web-frontend-security.md) | 🔥 19.8k | `development` |
+| [Javascript Typescript React Web Frontend Security](development/javascript-typescript-react-web-frontend-security_d3030c0f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/javascript-typescript-react-web-frontend-security.md) | 🔥 19.8k | `development` |
+| [Javascript Typescript Vue Web Frontend Security](development/javascript-typescript-vue-web-frontend-security_77c6a747/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/javascript-typescript-vue-web-frontend-security.md) | 🔥 19.8k | `development` |
+| [Security Controls And Assets](development/security-controls-and-assets_d536cfa9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-threat-model/references/security-controls-and-assets.md) | 🔥 19.8k | `development` |
+| [Troubleshooting](development/troubleshooting_c79d02ce/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-gateway/troubleshooting.md) | 🔥 19.8k | `development` |
+| [Api](development/api_2ac3f5be/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api-shield/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_6941ecb1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/api-shield/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_8c326651/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/argo-smart-routing/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_fc890c1e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/argo-smart-routing/gotchas.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_f14c1ef1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bindings/gotchas.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_320f6d38/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ddos/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_e3ad270b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/durable-objects/patterns.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_c0001867/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/hyperdrive/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_92c62bd7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/images/api.md) | 🔥 19.8k | `development` |
+| [Api](development/api_a4785017/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/network-interconnect/api.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_3edfa1d1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/network-interconnect/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_8444d367/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/network-interconnect/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_0dd66198/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/observability/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_c623392e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages-functions/gotchas.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_98607a16/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_5c66190d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_1e2d7589/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pipelines/api.md) | 🔥 19.8k | `development` |
+| [Api](development/api_5e6459db/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pulumi/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_f78cb110/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pulumi/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_d5389cca/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-data-catalog/api.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_4b6f9ede/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-data-catalog/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_9bc7ec88/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/r2-sql/gotchas.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_9717fbbf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtime-sfu/gotchas.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_abca00f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/sandbox/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_d6453c26/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/secrets-store/api.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_60f60f7e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/secrets-store/patterns.md) | 🔥 19.8k | `development` |
+| [Api](development/api_e76a59c5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/snippets/api.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_836c6765/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/snippets/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_301c7167/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/snippets/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_5440838f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/stream/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_65ef0e0f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/stream/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_1a18c198/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/stream/patterns.md) | 🔥 19.8k | `development` |
+| [Api](development/api_d8349bfa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tail-workers/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_ede03958/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/terraform/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_912ec9aa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turn/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_7135e3e6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turn/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_8d9123ce/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_3166f9a7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/gotchas.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_e4fb36eb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/configuration.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_656371e6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_ed310753/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/api_2b609373/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-ai/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_10fe3b26/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-ai/gotchas.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_21e9034f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_98904178/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_08ea9e56/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/patterns.md) | 🔥 19.8k | `name` `ai-generated` |
+| [Api](development/api_bf8f9358/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/api.md) | 🔥 19.8k | `development` |
+| [Api](development/api_60bae66d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-vpc/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_f9430e9f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_f408d6db/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/patterns.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_21ddf3bd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/gotchas.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/gotchas_bb24bd86/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/gotchas.md) | 🔥 19.8k | `development` |
+| [Prompt Engineer](development/prompt-engineer_54e95301/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/ai-specialists/prompt-engineer.md) | 🔥 19.8k | `development` |
+| [Accessibility Tester](development/accessibility-tester_9e94dfb4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/accessibility-tester.md) | 🔥 19.8k | `development` |
+| [Test Automator](development/test-automator_8103751c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/test-automator.md) | 🔥 19.8k | `development` |
+| [Terraform Engineer](development/terraform-engineer_a77818dd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/terraform-engineer.md) | 🔥 19.8k | `development` |
+| [Cpp Pro](development/cpp-pro_189814b3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/cpp-pro.md) | 🔥 19.8k | `development` |
+| [Flutter Expert](development/flutter-expert_0ff049bc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/flutter-expert.md) | 🔥 19.8k | `development` |
+| [Kotlin Specialist](development/kotlin-specialist_71921980/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/kotlin-specialist.md) | 🔥 19.8k | `development` |
+| [Swift Expert](development/swift-expert_340fff8f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/swift-expert.md) | 🔥 19.8k | `development` |
+| [Skill](development/name-skill_8834e9fc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/SKILL.md) | 🔥 19.8k | `development` |
+| [Codex Network](development/codex-network_e0392ea4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/references/codex-network.md) | 🔥 19.8k | `development` |
+| [Experiment Patterns](development/experiment-patterns_1ff9c042/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/jupyter-notebook/references/experiment-patterns.md) | 🔥 19.8k | `development` |
+| [Notebook Structure](development/notebook-structure_a85051a2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/jupyter-notebook/references/notebook-structure.md) | 🔥 19.8k | `development` |
+| [Tutorial Patterns](development/tutorial-patterns_8c194bb6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/jupyter-notebook/references/tutorial-patterns.md) | 🔥 19.8k | `development` |
+| [Codex Network](development/codex-network_c956a51d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/codex-network.md) | 🔥 19.8k | `development` |
+| [Prompt Template](development/prompt-template_81a59aa3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-threat-model/references/prompt-template.md) | 🔥 19.8k | `development` |
+| [Codex Network](development/codex-network_923fce6a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/codex-network.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_1215875b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-search/patterns.md) | 🔥 19.8k | `development` |
+| [Api](development/api_1c5429d7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/c3/api.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_e696a628/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/network-interconnect/patterns.md) | 🔥 19.8k | `development` |
+| [Api](development/api_90989f92/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages/api.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_c35204c0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/static-assets/configuration.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_a9b508f7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/static-assets/patterns.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_4d12cad2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/terraform/configuration.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_de0a2e64/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turn/patterns.md) | 🔥 19.8k | `development` |
+| [Configuration](development/configuration_eac60f42/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/configuration.md) | 🔥 19.8k | `development` |
+| [Patterns](development/patterns_87dc009b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-vpc/patterns.md) | 🔥 19.8k | `development` |
+| [Api](development/api_0872bc51/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/api.md) | 🔥 19.8k | `development` |
 
-### Development/Testing (52 skills)
+### Development/Devops (51 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Cli Guide](development/devops/353-cli_guide_84c2cf4a/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/CLI_GUIDE.md) | ⭐ 1.0k | `development` |
+| [Docker Guide](development/devops/268-docker_guide_6de83c4a/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/DOCKER_GUIDE.md) | ⭐ 1.0k | `development` |
+| [Backend Developer](development/devops/backend-developer_1d3d7f07/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/backend-developer.md) | 🔥 19.8k | `development` |
+| [Fullstack Developer](development/devops/fullstack-developer_e48efec8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-team/fullstack-developer.md) | 🔥 19.8k | `development` |
+| [Cli Developer](development/devops/cli-developer_a30f1e67/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/cli-developer.md) | 🔥 19.8k | `development` |
+| [Dx Optimizer](development/devops/dx-optimizer_482d5758/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/dx-optimizer.md) | 🔥 19.8k | `development` |
+| [Tooling Engineer](development/devops/tooling-engineer_e352d6c3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/development-tools/tooling-engineer.md) | 🔥 19.8k | `development` |
+| [Devops Engineer](development/devops/devops-engineer_e5ce3b15/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/devops-engineer.md) | 🔥 19.8k | `development` |
+| [Dotnet Core Expert](development/devops/dotnet-core-expert_ecca238d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/dotnet-core-expert.md) | 🔥 19.8k | `development` |
+| [Spring Boot Engineer](development/devops/spring-boot-engineer_a18566c1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/spring-boot-engineer.md) | 🔥 19.8k | `development` |
+| [Wordpress Master](development/devops/wordpress-master_7f7a39b9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/web-tools/wordpress-master.md) | 🔥 19.8k | `development` |
+| [Skill](development/devops/name-skill_4be98928/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/SKILL.md) | 🔥 19.8k | `development` |
+| [Skill](development/devops/name-skill_a1e1f4b2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-threat-model/SKILL.md) | 🔥 19.8k | `development` |
+| [Configuration Guide](development/devops/configuration-guide_f0bdee2c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/configuration-guide.md) | 🔥 19.8k | `development` |
+| [Deployment Details](development/devops/deployment-details_fa6aa90a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/deployment-details.md) | 🔥 19.8k | `development` |
+| [Direct Creation](development/devops/direct-creation_3b148def/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/direct-creation.md) | 🔥 19.8k | `development` |
+| [Javascript Express Web Server Security](development/devops/javascript-express-web-server-security_427835cb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/javascript-express-web-server-security.md) | 🔥 19.8k | `development` |
+| [Javascript Typescript Nextjs Web Server Security](development/devops/javascript-typescript-nextjs-web-server-security_71c773f7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/javascript-typescript-nextjs-web-server-security.md) | 🔥 19.8k | `development` |
+| [Python Django Web Server Security](development/devops/python-django-web-server-security_4fb69b5d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/python-django-web-server-security.md) | 🔥 19.8k | `development` |
+| [Python Fastapi Web Server Security](development/devops/python-fastapi-web-server-security_7383c7f4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/python-fastapi-web-server-security.md) | 🔥 19.8k | `development` |
+| [Python Flask Web Server Security](development/devops/python-flask-web-server-security_9606d691/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/security/security-best-practices/references/python-flask-web-server-security.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_86112c23/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/analytics-engine/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/devops/gotchas_4acfbc25/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/c3/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/devops/api_ea957b32/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/d1/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/devops/gotchas_569bd59b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/observability/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_087e7d9a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/patterns.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_41c67b8a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/configuration.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_696d5fe9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/patterns.md) | 🔥 19.8k | `development` |
+| [Api](development/devops/api_d7f67e1a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/devops/gotchas_d002f5d6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_8fc5fab7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/patterns.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_dc293c43/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/patterns.md) | 🔥 19.8k | `development` |
+| [Azure Infra Engineer](development/devops/azure-infra-engineer_1927ef33/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/azure-infra-engineer.md) | 🔥 19.8k | `development` |
+| [Security Auditor](development/devops/security-auditor_c1317d63/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/security-auditor.md) | 🔥 19.8k | `development` |
+| [Blueprint Spec](development/devops/blueprint-spec_52cdb41c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/blueprint-spec.md) | 🔥 19.8k | `development` |
+| [Codebase Analysis](development/devops/codebase-analysis_54c4fe84/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/codebase-analysis.md) | 🔥 19.8k | `development` |
+| [Runtimes](development/devops/runtimes_285b66f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/runtimes.md) | 🔥 19.8k | `development` |
+| [Troubleshooting Basics](development/devops/troubleshooting-basics_f999b13f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/troubleshooting-basics.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_01e7f90d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/c3/configuration.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_592e533f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/c3/patterns.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_a9a45e84/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/email-routing/configuration.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_adaf79d5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages-functions/configuration.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_2b838aaa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pipelines/configuration.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_6cee7984/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtime-sfu/configuration.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_71a89294/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/sandbox/configuration.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_85a39299/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/sandbox/patterns.md) | 🔥 19.8k | `development` |
+| [Patterns](development/devops/patterns_2b06454d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/snippets/patterns.md) | 🔥 19.8k | `development` |
+| [Configuration](development/devops/configuration_2079f33d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/configuration.md) | 🔥 19.8k | `development` |
+| [Api](development/devops/api_5dc812c0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/terraform/api.md) | 🔥 19.8k | `development` |
+| [Integration](development/devops/integration_a0dbfd1a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/integration.md) | 🔥 19.8k | `development` |
+| [Auth](development/devops/auth_71ca6291/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/auth.md) | 🔥 19.8k | `development` |
+
+### Development/Testing (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -943,22 +1517,67 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Skill](development/testing/002-name-skill_cf89dbe6/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/security/csrf-protection-validator/skills/csrf-protection-validator/SKILL.md) | ⭐ 1.3k | `development` |
 | [Directory Structure](development/testing/078-directory-structure_37cb3140/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-dependency-management/references/directory-structure.md) | ⭐ 1.3k | `development` |
 | [Directory Structure](development/testing/078-directory-structure_3331a326/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-git-integration/references/directory-structure.md) | ⭐ 1.3k | `development` |
+| [Rails Expert](development/testing/rails-expert_b9074e9a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/rails-expert.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/testing/gotchas_e548c0f2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/ai-search/gotchas.md) | 🔥 19.8k | `development` |
+| [Patterns](development/testing/patterns_189274aa/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bindings/patterns.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/testing/gotchas_eb66b7b1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/cron-triggers/gotchas.md) | 🔥 19.8k | `development` |
+| [Configuration](development/testing/configuration_30486904/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/durable-objects/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/testing/gotchas_447ec285/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/images/gotchas.md) | 🔥 19.8k | `development` |
+| [Configuration](development/testing/configuration_54dce11b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/testing/gotchas_eb42fd58/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/gotchas.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/testing/gotchas_85e262f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/gotchas.md) | 🔥 19.8k | `development` |
+| [Api](development/testing/api_a00ceaea/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/api.md) | 🔥 19.8k | `development` |
+| [Api](development/testing/api_468ea310/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/api.md) | 🔥 19.8k | `development` |
+| [Patterns](development/testing/patterns_3cde456a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/patterns.md) | 🔥 19.8k | `development` |
+| [Patterns](development/testing/patterns_eef3fa92/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/patterns.md) | 🔥 19.8k | `development` |
 
-### Development/Tools (3 skills)
+### Development/Tools (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Event Schema](development/tools/event_schema_e25a35ef/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/EVENT_SCHEMA.md) | ⭐ 1.0k | `development` |
-| [Browser Improvements](development/tools/browser_improvements_5192b756/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/tool_server_lite/tools/BROWSER_IMPROVEMENTS.md) | ⭐ 1.0k | `development` |
-| [File Read Usage](development/tools/file_read_usage_4519e98b/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/tool_server_lite/tools/FILE_READ_USAGE.md) | ⭐ 1.0k | `development` |
+| [Event Schema](development/tools/299-event_schema_e25a35ef/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/EVENT_SCHEMA.md) | ⭐ 1.0k | `development` |
+| [Browser Improvements](development/tools/300-browser_improvements_5192b756/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/tool_server_lite/tools/BROWSER_IMPROVEMENTS.md) | ⭐ 1.0k | `development` |
+| [File Read Usage](development/tools/301-file_read_usage_4519e98b/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/tool_server_lite/tools/FILE_READ_USAGE.md) | ⭐ 1.0k | `development` |
+| [Powershell Module Architect](development/tools/powershell-module-architect_49e42bff/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/powershell-module-architect.md) | 🔥 19.8k | `development` |
+| [Powershell Ui Architect](development/tools/powershell-ui-architect_fe97a075/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/powershell-ui-architect.md) | 🔥 19.8k | `development` |
+| [Typescript Pro](development/tools/typescript-pro_95128a78/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/programming-languages/typescript-pro.md) | 🔥 19.8k | `development` |
+| [Skill](development/tools/name-skill_3b4e638d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/jupyter-notebook/SKILL.md) | 🔥 19.8k | `development` |
+| [Skill](development/tools/name-skill_62df28b6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/screenshot/SKILL.md) | 🔥 19.8k | `development` |
+| [Skill](development/tools/name-skill_e0487a19/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/workflow-automation/yeet/SKILL.md) | 🔥 19.8k | `development` |
+| [Cli](development/tools/cli_7c069a82/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright/references/cli.md) | 🔥 19.8k | `development` |
+| [Cli](development/tools/cli_7be7b6dc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/cli.md) | 🔥 19.8k | `development` |
+| [Api](development/tools/api_bef09886/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/api.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/tools/gotchas_e81a0ac6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/gotchas.md) | 🔥 19.8k | `development` |
+| [Configuration](development/tools/configuration_eee7eeb8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/configuration.md) | 🔥 19.8k | `development` |
+| [Implementation Summary](development/tools/implementation_summary_eba1671f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/IMPLEMENTATION_SUMMARY.md) | 🔥 19.8k | `development` |
+| [Configuration](development/tools/configuration_6f3666ac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/configuration.md) | 🔥 19.8k | `development` |
+| [Gotchas](development/tools/gotchas_30378f48/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/gotchas.md) | 🔥 19.8k | `development` |
+| [It Ops Orchestrator](development/tools/it-ops-orchestrator_0ec48ab5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/it-ops-orchestrator.md) | 🔥 19.8k | `development` |
+| [Penetration Tester](development/tools/penetration-tester_8e851770/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/security/penetration-tester.md) | 🔥 19.8k | `development` |
+| [Skill](development/tools/name-skill_4c846712/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/figma/SKILL.md) | 🔥 19.8k | `development` |
+| [Cinematic Shots](development/tools/cinematic-shots_c7e827b1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/video/sora/references/cinematic-shots.md) | 🔥 19.8k | `development` |
+| [Configuration](development/tools/configuration_85216db3/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/agents-sdk/configuration.md) | 🔥 19.8k | `development` |
 
-### Productivity (1 skills)
+### Investment (3 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Legal Advisor](investment/legal-advisor_a931b41a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/legal-advisor.md) | 🔥 19.8k | `investment` |
+| [Quant Analyst](investment/quant-analyst_293d5bb0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/finance/quant-analyst.md) | 🔥 19.8k | `investment` |
+| [Prompting](investment/prompting_80383de4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/references/prompting.md) | 🔥 19.8k | `investment` |
+
+### Productivity (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Creation Report](productivity/158-creation_report_0b8f1bf5/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/CREATION_REPORT.md) | ⭐ 1.3k | `productivity` |
+| [Worktree Skills Parallel Development](productivity/worktree-skills-parallel-development_dbe4d806/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/docs/blog/worktree-skills-parallel-development.md) | 🔥 19.8k | `productivity` |
+| [Task Distributor](productivity/task-distributor_ff3b09f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/task-distributor.md) | 🔥 19.8k | `productivity` |
+| [Patterns](productivity/patterns_e3bcdfb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/hyperdrive/patterns.md) | 🔥 19.8k | `productivity` |
+| [Ivr](productivity/ivr_2aaf225b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/ivr.md) | 🔥 19.8k | `productivity` |
+| [Prompting](productivity/prompting_2adcb001/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/speech/references/prompting.md) | 🔥 19.8k | `productivity` |
 
-### Research (53 skills)
+### Research (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1014,9 +1633,64 @@ This repository contains automatically aggregated skills from various open-sourc
 | [Errors](research/251-errors_a27919eb/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-release-automation/references/errors.md) | ⭐ 1.3k | `research` |
 | [Errors](research/251-errors_f1171047/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-team-settings/references/errors.md) | ⭐ 1.3k | `research` |
 | [Errors](research/251-errors_b7cddd97/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics/references/errors.md) | ⭐ 1.3k | `research` |
-| [Readme Cn](research/readme_cn_adae4057/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/README_CN.md) | ⭐ 1.0k | `research` |
+| [Customer Success Manager](research/customer-success-manager_da965dd8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/customer-success-manager.md) | 🔥 19.8k | `research` |
+| [Product Manager](research/product-manager_6e76148b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/product-manager.md) | 🔥 19.8k | `research` |
+| [Sales Engineer](research/sales-engineer_2e1b7053/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/business-marketing/sales-engineer.md) | 🔥 19.8k | `research` |
+| [Search Specialist](research/search-specialist_3bb8c3fc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/deep-research-team/search-specialist.md) | 🔥 19.8k | `research` |
+| [Configuration](research/configuration_361f709d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/configuration.md) | 🔥 19.8k | `research` |
+| [Patterns](research/patterns_daeb6aa8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/patterns.md) | 🔥 19.8k | `research` |
+| [Patterns](research/patterns_6ccd1e33/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/patterns.md) | 🔥 19.8k | `research` |
+| [Api](research/api_a2bf7e59/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/media/transcribe/references/api.md) | 🔥 19.8k | `research` |
 
-## Repository Structure
+## How Skills Are Organized
 
-```
-X-Skills/
+Skills are automatically categorized based on their purpose:
+
+- **Development**: Coding, debugging, testing, and developer tools
+- **Daily Assistant**: Task management, scheduling, and reminders
+- **Content Creation**: Writing, editing, and content generation
+- **Data Analysis**: Visualization, statistics, and data processing
+- **Automation**: Workflows, scripts, and task automation
+- **Research**: Academic tools, citations, and literature
+- **Communication**: Email, messaging, and collaboration
+- **Productivity**: Efficiency tools and optimization
+- **Commercial**: E-commerce and business tools
+- **Investment**: Trading, stocks, and financial analysis
+
+## Manual Usage
+
+These skills can also be used directly without installing patches:
+
+1. Browse the category folders to find relevant skills
+2. Navigate to a skill's subdirectory
+3. Read the skill's README.md for metadata and description
+4. Use the skill's .md file content with Claude Code or similar AI assistants
+
+## File Naming Convention
+
+Each skill is stored in a subdirectory named: `source_name_hashprefix/`
+
+- `source_name`: The original filename (sanitized)
+- `hashprefix`: First 8 characters of the content hash (ensures uniqueness)
+
+The hash-based naming ensures that:
+- The same skill content always maps to the same directory
+- Updated skills automatically replace old versions
+- No duplicate directories for the same content
+
+## Skill Index
+
+This repository includes a `.index.json` file that tracks all skills and their locations.
+This index enables:
+- Incremental updates (only writing changed skills)
+- Efficient change detection
+- Proper handling of skill updates from source repositories
+
+## Contributing
+
+This repository is automatically maintained by [SkillFlow](https://github.com/tools-only/SkillFlow). Skills are aggregated from open-source repositories.
+
+---
+
+*Last updated: 2026-02-09 07:16:22 UTC*
+*Automatically maintained by SkillFlow*
