@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T20:35:57.375996",
+  "updated_at": "2026-02-09T20:51:56.234071",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -27329,6 +27329,118 @@
       "source_url": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Troubleshooting.md",
       "display_name": "Troubleshooting",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "919f798a32fda554aae70317d4f4f4148d19975d39f802bfcb156e508698744d",
+      "source_path": "docs/explanation/fixes/v0.237.008/GROUP_ACTION_OAUTH_SCHEMA_MERGING_FIX.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "development/2785-group_action_oauth_schema_merging_fix_919f798a",
+      "category": "development",
+      "name": "group_action_oauth_schema_merging_fix_919f798a",
+      "indexed_at": "2026-02-09T20:51:51.989273",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/GROUP_ACTION_OAUTH_SCHEMA_MERGING_FIX.md",
+      "display_name": "Group Action Oauth Schema Merging Fix",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "caafc4caaa22700b39358b8f5b6de9ff526cad5ce2775ec92a2e788146a466ba",
+      "source_path": "docs/how-to/agents/ServiceNow/SERVICENOW_INTEGRATION.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "development/2786-servicenow_integration_caafc4ca",
+      "category": "development",
+      "name": "servicenow_integration_caafc4ca",
+      "indexed_at": "2026-02-09T20:51:52.717028",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_INTEGRATION.md",
+      "display_name": "Servicenow Integration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f7273fa61e863d0453b747b154ca8295a6e77fee66613be7446cb195d5b174ca",
+      "source_path": "docs/how-to/agents/ServiceNow/SERVICENOW_OAUTH_SETUP.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "development/2787-servicenow_oauth_setup_f7273fa6",
+      "category": "development",
+      "name": "servicenow_oauth_setup_f7273fa6",
+      "indexed_at": "2026-02-09T20:51:53.326102",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_OAUTH_SETUP.md",
+      "display_name": "Servicenow Oauth Setup",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9ed65812141949132854276e98237427c22158d9df99c9fceed0ad46b4e2cd7f",
+      "source_path": "docs/explanation/fixes/v0.237.008/MANAGE_GROUP_SYNTAX_ERROR_FIX.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "automation/workflow/130-manage_group_syntax_error_fix_9ed65812",
+      "category": "automation/workflow",
+      "name": "manage_group_syntax_error_fix_9ed65812",
+      "indexed_at": "2026-02-09T20:51:53.986069",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/MANAGE_GROUP_SYNTAX_ERROR_FIX.md",
+      "display_name": "Manage Group Syntax Error Fix",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "e581e6dd3f91dd8ceeba4747d6e4014fa734603cbe6372bbc1af221ecef08adf",
+      "source_path": "docs/explanation/release_notes.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "development/devops/148-release_notes_e581e6dd",
+      "category": "development/devops",
+      "name": "release_notes_e581e6dd",
+      "indexed_at": "2026-02-09T20:51:54.747512",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md",
+      "display_name": "Release Notes",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b0f74e165b7175aa7ce11289dc6e20492edfb21d0ce035ddfe58d08c2fd00feb",
+      "source_path": "docs/explanation/fixes/v0.237.008/GROUP_AGENT_LOADING_FIX.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "research/252-group_agent_loading_fix_b0f74e16",
+      "category": "research",
+      "name": "group_agent_loading_fix_b0f74e16",
+      "indexed_at": "2026-02-09T20:51:55.281296",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/GROUP_AGENT_LOADING_FIX.md",
+      "display_name": "Group Agent Loading Fix",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "7d38232cc361c3387ae29ce7e247fa3128813874447018bd948c979c4a81c00b",
+      "source_path": "docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "communication/245-servicenow_asset_management_setup_7d38232c",
+      "category": "communication",
+      "name": "servicenow_asset_management_setup_7d38232c",
+      "indexed_at": "2026-02-09T20:51:55.889223",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md",
+      "display_name": "Servicenow Asset Management Setup",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "219024177d26e93859df03f7e9bf80d292daa154125dfb2af1d2c5d2a32c4874",
+      "source_path": "docs/how-to/agents/ServiceNow/TWO_AGENT_SETUP.md",
+      "source_repo": "microsoft/simplechat",
+      "local_path": "content-creation/337-two_agent_setup_21902417",
+      "category": "content-creation",
+      "name": "two_agent_setup_21902417",
+      "indexed_at": "2026-02-09T20:51:56.234019",
+      "repo_stars": 112,
+      "repo_updated_at": "2026-02-09T18:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/TWO_AGENT_SETUP.md",
+      "display_name": "Two Agent Setup",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
