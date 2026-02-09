@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T09:50:56.425686",
+  "updated_at": "2026-02-09T12:02:06.474430",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -19307,6 +19307,62 @@
       "source_url": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/tool-builder/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "55e76ff0b04f0b7f138298e7020fa3b9c2104997159ab28bdf1ef172a7285c01",
+      "source_path": "skills/exa/SKILL.md",
+      "source_repo": "Dianel555/DSkills",
+      "local_path": "development/tools/002-name-skill_55e76ff0",
+      "category": "development/tools",
+      "name": "name-skill_55e76ff0",
+      "indexed_at": "2026-02-09T12:02:05.609486",
+      "repo_stars": 48,
+      "repo_updated_at": "2026-01-27T01:46:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/exa/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "948c5971ca7cfb05287d8481c575ea543fdfecd90bfc9de05dc531c12aef9973",
+      "source_path": "skills/grok-search/SKILL.md",
+      "source_repo": "Dianel555/DSkills",
+      "local_path": "development/tools/002-name-skill_948c5971",
+      "category": "development/tools",
+      "name": "name-skill_948c5971",
+      "indexed_at": "2026-02-09T12:02:05.813878",
+      "repo_stars": 48,
+      "repo_updated_at": "2026-01-30T07:43:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/grok-search/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "083c0a65fd5b163674e5c3ea2045e0201bc8a2b3a7858531e1499cc2b6079078",
+      "source_path": "prompts/playground-builder.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "development/tools/281-playground-builder_083c0a65",
+      "category": "development/tools",
+      "name": "playground-builder_083c0a65",
+      "indexed_at": "2026-02-09T12:02:06.201295",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-09T11:02:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/prompts/playground-builder.md",
+      "display_name": "Playground Builder",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "995a55b930cb7a760d21c14e16fc3490f221f3f582067c09d10bf67722d5e0e3",
+      "source_path": "skills/serena/SKILL.md",
+      "source_repo": "Dianel555/DSkills",
+      "local_path": "development/1178-name-skill_995a55b9",
+      "category": "development",
+      "name": "name-skill_995a55b9",
+      "indexed_at": "2026-02-09T12:02:06.474378",
+      "repo_stars": 48,
+      "repo_updated_at": "2026-02-09T11:31:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/serena/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
