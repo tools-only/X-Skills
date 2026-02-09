@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T12:16:59.913075",
+  "updated_at": "2026-02-09T12:19:11.758428",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -19531,6 +19531,90 @@
       "source_url": "https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md",
       "display_name": "Skills",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b59f61ccf0a09fd2b91c485dfaaada8dd93e774345564565f57b52550e683dc2",
+      "source_path": "plexe/CODE_INDEX.md",
+      "source_repo": "plexe-ai/plexe",
+      "local_path": "development/tools/282-code_index_b59f61cc",
+      "category": "development/tools",
+      "name": "code_index_b59f61cc",
+      "indexed_at": "2026-02-09T12:19:10.707926",
+      "repo_stars": 2522,
+      "repo_updated_at": "2026-02-09T11:01:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md",
+      "display_name": "Code Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d704cba97c5c9b7de6a7924f3a50016afdddd0645c5832645e3e23b749c6f355",
+      "source_path": "README_CN.md",
+      "source_repo": "tiandee/awesome-skills-hub",
+      "local_path": "development/tools/232-readme_cn_d704cba9",
+      "category": "development/tools",
+      "name": "readme_cn_d704cba9",
+      "indexed_at": "2026-02-09T12:19:10.832624",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-06T15:47:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6d0ef45a1032ba8383b924c029c07bde29046e7fc8c1282365fe7706b531eddb",
+      "source_path": "doc/INTRODUCTION.md",
+      "source_repo": "tiandee/awesome-skills-hub",
+      "local_path": "development/489-introduction_6d0ef45a",
+      "category": "development",
+      "name": "introduction_6d0ef45a",
+      "indexed_at": "2026-02-09T12:19:11.016143",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-06T16:01:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION.md",
+      "display_name": "Introduction",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "30a70eeb1f62914bef4cbe060c748854e08dd093fae556d21796fdc8a7b48a05",
+      "source_path": "doc/INTRODUCTION_CN.md",
+      "source_repo": "tiandee/awesome-skills-hub",
+      "local_path": "content-creation/314-introduction_cn_30a70eeb",
+      "category": "content-creation",
+      "name": "introduction_cn_30a70eeb",
+      "indexed_at": "2026-02-09T12:19:11.202692",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-09T08:13:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION_CN.md",
+      "display_name": "Introduction Cn",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "33b9d3c7609c68f1fed782f3f96482b8fd6a8b2736b3899c8db15e02cce7aa9d",
+      "source_path": "skills/publish-to-wechat/SKILL.md",
+      "source_repo": "tiandee/awesome-skills-hub",
+      "local_path": "content-creation/049-name-skill_33b9d3c7",
+      "category": "content-creation",
+      "name": "name-skill_33b9d3c7",
+      "indexed_at": "2026-02-09T12:19:11.457769",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-09T08:13:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "34b629d82d8efd31e792a94e695bef8c4d63572ee72207cadb71d243a22a380f",
+      "source_path": "skills/system/skill-finder/SKILL.md",
+      "source_repo": "tiandee/awesome-skills-hub",
+      "local_path": "content-creation/049-name-skill_34b629d8",
+      "category": "content-creation",
+      "name": "name-skill_34b629d8",
+      "indexed_at": "2026-02-09T12:19:11.757713",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-05T13:52:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

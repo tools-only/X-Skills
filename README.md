@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1397 AI-powered skills** organized into 14 categories.
+A curated collection of **1403 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (39 skills)
 - **Commercial** (211 skills)
 - **Communication** (28 skills)
-- **Content Creation** (436 skills)
+- **Content Creation** (439 skills)
 - **Daily Assistant** (16 skills)
 - **Data Analysis** (127 skills)
-- **Development** (137 skills)
+- **Development** (139 skills)
 - **Development/Devops** (35 skills)
 - **Development/Testing** (63 skills)
-- **Development/Tools** (29 skills)
+- **Development/Tools** (30 skills)
 - **Investment** (7 skills)
 - **Productivity** (4 skills)
 - **Research** (59 skills)
@@ -684,7 +684,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](communication/084-patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
 | [Configuration](communication/035-configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
 
-### Content Creation (436 skills)
+### Content Creation (439 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1122,8 +1122,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli](content-creation/312-cli_59a3bef7/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/cli.md) | ⭐ 201 | `content creation` |
 | [Skill](content-creation/049-name-skill_2e1ae77b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/bird/SKILL.md) | ⭐ 27 | `content creation` |
 | [Skill](content-creation/049-name-skill_81ff9c21/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/firecrawl/SKILL.md) | ⭐ 27 | `content creation` |
-| [Toolkit Skills](content-creation/toolkit-skills_7e9e7d33/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-skills.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_0005c586/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/video/SKILL.md) | ⭐ 10 | `content creation` |
+| [Toolkit Skills](content-creation/313-toolkit-skills_7e9e7d33/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-skills.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_0005c586/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/video/SKILL.md) | ⭐ 10 | `content creation` |
+| [Introduction Cn](content-creation/introduction_cn_30a70eeb/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION_CN.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/name-skill_33b9d3c7/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/name-skill_34b629d8/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md) | ⭐ 11 | `content creation` |
 
 ### Daily Assistant (16 skills)
 
@@ -1278,7 +1281,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Center](data-analysis/433-notification-center_d6338995/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/notification-center.md) | ⭐ 389 | `data analysis` |
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_4cc42795/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 389 | `data analysis` |
 
-### Development (137 skills)
+### Development (139 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1413,12 +1416,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_165ae2f4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/git-workflow/SKILL.md) | ⭐ 389 | `development` |
 | [Skill](development/1178-name-skill_047fd5b7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/prompt-mastery/SKILL.md) | ⭐ 389 | `development` |
 | [Skill](development/1178-name-skill_995a55b9/) | [Dianel555/DSkills](https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/serena/SKILL.md) | ⭐ 48 | `development` |
-| [Analysis Persistent Memory For Harnesses](development/analysis-persistent-memory-for-harnesses_40c2e15a/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/analysis-persistent-memory-for-harnesses.md) | ⭐ 10 | `development` |
-| [Toolkit Search](development/toolkit-search_b69c8802/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-search.md) | ⭐ 10 | `development` |
-| [Melt Guide](development/melt-guide_09bce13f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/skills/melt-guide.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_85658f1e/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/0-melt/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_8d08435f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/burndown/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_1a74484d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/tfappfix/SKILL.md) | ⭐ 10 | `development` |
+| [Analysis Persistent Memory For Harnesses](development/2236-analysis-persistent-memory-for-harnesses_40c2e15a/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/analysis-persistent-memory-for-harnesses.md) | ⭐ 10 | `development` |
+| [Toolkit Search](development/2654-toolkit-search_b69c8802/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-search.md) | ⭐ 10 | `development` |
+| [Melt Guide](development/2244-melt-guide_09bce13f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/skills/melt-guide.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_85658f1e/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/0-melt/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_8d08435f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/burndown/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_1a74484d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/tfappfix/SKILL.md) | ⭐ 10 | `development` |
+| [Introduction](development/introduction_6d0ef45a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION.md) | ⭐ 11 | `development` |
+| [Code Index](development/code_index_18d41dda/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
 ### Development/Devops (35 skills)
 
@@ -1458,7 +1463,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](development/devops/295-patterns_dc293c43/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/patterns.md) | 🔥 19.8k | `development` |
 | [Util Playerslottoplayercontroller](development/devops/296-util_playerslottoplayercontroller_8a494e38/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_PlayerSlotToPlayerController.md) | ⭐ 13 | `development` |
 | [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
-| [Skills](development/devops/reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
+| [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
 
 ### Development/Testing (63 skills)
 
@@ -1525,10 +1530,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/testing/047-configuration_54dce11b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/configuration.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/testing/058-gotchas_eb42fd58/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/gotchas.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/testing/058-gotchas_85e262f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/gotchas.md) | 🔥 19.8k | `development` |
-| [Toolkit Git](development/testing/toolkit-git_cb666ce7/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-git.md) | ⭐ 10 | `development` |
-| [Fix Pr](development/testing/fix-pr_0fc70ae3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/fix-pr.md) | ⭐ 27 | `development` |
+| [Toolkit Git](development/testing/060-toolkit-git_cb666ce7/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-git.md) | ⭐ 10 | `development` |
+| [Fix Pr](development/testing/061-fix-pr_0fc70ae3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/fix-pr.md) | ⭐ 27 | `development` |
 
-### Development/Tools (29 skills)
+### Development/Tools (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1558,9 +1563,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_55e76ff0/) | [Dianel555/DSkills](https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/exa/SKILL.md) | ⭐ 48 | `development` |
 | [Skill](development/tools/002-name-skill_948c5971/) | [Dianel555/DSkills](https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/grok-search/SKILL.md) | ⭐ 48 | `development` |
 | [Playground Builder](development/tools/281-playground-builder_083c0a65/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/prompts/playground-builder.md) | ⭐ 23 | `development` |
-| [Index](development/tools/index_93a717c0/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 10 | `development` |
-| [Claude](development/tools/claude_71f04d63/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/CLAUDE.md) | ⭐ 10 | `development` |
-| [Unittest](development/tools/unittest_4b075868/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/test/unittest.md) | ⭐ 3.3k | `development` |
+| [Index](development/tools/062-index_93a717c0/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 10 | `development` |
+| [Code Index](development/tools/code_index_b59f61cc/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Readme Cn](development/tools/readme_cn_d704cba9/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/README_CN.md) | ⭐ 11 | `development` |
+| [Claude](development/tools/claude_f7c74495/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/CLAUDE.md) | ⭐ 2.5k | `development` |
 
 ### Investment (7 skills)
 
@@ -1697,5 +1703,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 12:17:00 UTC*
+*Last updated: 2026-02-09 12:19:12 UTC*
 *Automatically maintained by SkillFlow*
