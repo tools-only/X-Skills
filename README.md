@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9802 AI-powered skills** organized into 16 categories.
+A curated collection of **9831 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation** (672 skills)
-- **Automation/Scripting** (72 skills)
-- **Automation/Workflow** (141 skills)
+- **Automation/Scripting** (74 skills)
+- **Automation/Workflow** (144 skills)
 - **Commercial** (591 skills)
-- **Communication** (384 skills)
-- **Content Creation** (647 skills)
-- **Daily Assistant** (403 skills)
-- **Data Analysis** (921 skills)
-- **Development** (4598 skills)
+- **Communication** (390 skills)
+- **Content Creation** (649 skills)
+- **Daily Assistant** (404 skills)
+- **Data Analysis** (922 skills)
+- **Development** (4609 skills)
 - **Development/Devops** (250 skills)
 - **Development/Testing** (58 skills)
-- **Development/Tools** (292 skills)
+- **Development/Tools** (294 skills)
 - **Investment** (60 skills)
 - **Other** (44 skills)
-- **Productivity** (252 skills)
+- **Productivity** (253 skills)
 - **Research** (417 skills)
 
 ## Patches - Curated Skill Bundles
@@ -724,7 +724,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Multi Agent Patterns](automation/252-multi-agent-patterns_349c3d38/) | [Unknown](#) | N/A | `automation` |
 | [Human In The Loop Ai Agents](automation/276-human-in-the-loop-ai-agents_5225d5b3/) | [Unknown](#) | N/A | `automation` |
 
-### Automation/Scripting (72 skills)
+### Automation/Scripting (74 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -800,8 +800,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Event Stream](automation/scripting/071-event_stream_76b773ee/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/event_stream.md) | ⭐ 75 | `automation` |
 | [Commands](automation/scripting/072-commands_e78be563/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/notebooklm/references/commands.md) | ⭐ 66 | `automation` |
 | [Skill](automation/scripting/003-name-skill_6f5dacc0/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/decision-helper/SKILL.md) | 🔥 92.8k | `automation` |
+| [Skill](automation/scripting/name-skill_12ca6daa/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/iotnet/SKILL.md) | ⭐ 612 | `automation` |
+| [Skill](automation/scripting/name-skill_636df11f/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/ffind/SKILL.md) | ⭐ 612 | `automation` |
 
-### Automation/Workflow (141 skills)
+### Automation/Workflow (144 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -946,6 +948,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](automation/workflow/002-name-skill_ae1d0569/) | [YARAHQ/yara-rule-skill](https://raw.githubusercontent.com/YARAHQ/yara-rule-skill/main/yara-rule-skill/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_40106914/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 57 | `automation` |
 | [Skill](automation/workflow/002-name-skill_93db11ad/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/sprint-planner/SKILL.md) | 🔥 92.8k | `automation` |
+| [Tool Development Guide](automation/workflow/tool_development_guide_cc64ee04/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/TOOL_DEVELOPMENT_GUIDE.md) | ⭐ 612 | `automation` |
+| [Skill](automation/workflow/name-skill_6ab2f857/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/jadx/SKILL.md) | ⭐ 612 | `automation` |
+| [Observing Sessions](automation/workflow/observing_sessions_770327f6/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/picocom/OBSERVING_SESSIONS.md) | ⭐ 612 | `automation` |
 
 ### Commercial (591 skills)
 
@@ -1543,7 +1548,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](commercial/210-name-skill_5db33f7f/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 66 | `commercial` |
 | [Skill](commercial/210-name-skill_7221e733/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 66 | `commercial` |
 
-### Communication (384 skills)
+### Communication (390 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1930,9 +1935,15 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Api](communication/226-api_b56af16b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/references/api.md) | ⭐ 66 | `communication` |
 | [Skill](communication/127-name-skill_df135e30/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/email-drafter/SKILL.md) | 🔥 92.8k | `communication` |
 | [V0.10.2](communication/227-v0102_66e3c4de/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.2.md) | ⭐ 4.2k | `communication` |
-| [Skill](communication/name-skill_953e8db7/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nutrient-openclaw/SKILL.md) | ⭐ 171 | `communication` |
+| [Skill](communication/127-name-skill_953e8db7/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nutrient-openclaw/SKILL.md) | ⭐ 171 | `communication` |
+| [Skill](communication/name-skill_b0c373d6/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/SKILL.md) | ⭐ 14 | `communication` |
+| [Channels](communication/channels_9406718f/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/channels.md) | ⭐ 14 | `communication` |
+| [Configuration](communication/configuration_4bf74cbb/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/configuration.md) | ⭐ 14 | `communication` |
+| [Creative Patterns](communication/creative-patterns_9cdb358d/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/creative-patterns.md) | ⭐ 14 | `communication` |
+| [Tools Skills Hooks](communication/tools-skills-hooks_aae323da/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/tools-skills-hooks.md) | ⭐ 14 | `communication` |
+| [Multi Agent](communication/multi-agent_13aa1ac8/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/multi-agent.md) | ⭐ 14 | `communication` |
 
-### Content Creation (647 skills)
+### Content Creation (649 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2583,8 +2594,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](content-creation/049-name-skill_0427e5e0/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/editor/SKILL.md) | 🔥 92.8k | `content creation` |
 | [Agents](content-creation/185-agents_014a6e33/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/python-expert/AGENTS.md) | 🔥 92.8k | `content creation` |
 | [Patch](content-creation/293-patch_f8ca9443/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/patch.md) | ⭐ 4.2k | `content creation` |
+| [Aesthetic Catalog](content-creation/aesthetic-catalog_8313da61/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/aesthetic-guide/references/aesthetic-catalog.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_90ca5c42/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/wsdiscovery/SKILL.md) | ⭐ 612 | `content creation` |
 
-### Daily Assistant (403 skills)
+### Daily Assistant (404 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2990,9 +3003,10 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.4.2](daily-assistant/226-v042_5b666a0d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.4.2.md) | ⭐ 4.2k | `daily assistant` |
 | [V0.6.0](daily-assistant/227-v060_a6fe3637/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.6.0.md) | ⭐ 4.2k | `daily assistant` |
 | [V0.7.0](daily-assistant/228-v070_a26cc47c/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.7.0.md) | ⭐ 4.2k | `daily assistant` |
-| [Compatibility](daily-assistant/compatibility_861d28c9/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/COMPATIBILITY.md) | ⭐ 171 | `daily assistant` |
+| [Compatibility](daily-assistant/083-compatibility_861d28c9/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/COMPATIBILITY.md) | ⭐ 171 | `daily assistant` |
+| [Bootstrap Files](daily-assistant/bootstrap-files_ef5bc7bf/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/bootstrap-files.md) | ⭐ 14 | `daily assistant` |
 
-### Data Analysis (921 skills)
+### Data Analysis (922 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3917,8 +3931,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Reference](data-analysis/286-reference_87a2fde7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/imagen/reference.md) | ⭐ 66 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7f6a151b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/SKILL.md) | ⭐ 66 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7cf80d53/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/visualization-expert/SKILL.md) | 🔥 92.8k | `data analysis` |
+| [Skill](data-analysis/name-skill_9235756f/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/netflows/SKILL.md) | ⭐ 612 | `data analysis` |
 
-### Development (4598 skills)
+### Development (4609 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8520,6 +8535,17 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.9.2](development/2399-v092_bfe0601c/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.2.md) | ⭐ 4.2k | `development` |
 | [Browser](development/2400-browser_efad0f30/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/browser.md) | ⭐ 4.2k | `development` |
 | [Git](development/2401-git_f39bcc62/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/workflows/git.md) | ⭐ 4.2k | `development` |
+| [Skill](development/name-skill_6e8cecaf/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/fixer/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_26b89698/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/shape-up/SKILL.md) | ⭐ 14 | `development` |
+| [Output Schema](development/output-schema_5f5349ba/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/aesthetic-guide/references/output-schema.md) | ⭐ 14 | `development` |
+| [Diagnostic Playbooks](development/diagnostic-playbooks_113bb368/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/fixer/references/diagnostic-playbooks.md) | ⭐ 14 | `development` |
+| [Plan](development/plan_70e1e424/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/chipsec/PLAN.md) | ⭐ 612 | `development` |
+| [Skill](development/name-skill_d97f8a56/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/picocom/SKILL.md) | ⭐ 612 | `development` |
+| [Skill](development/name-skill_08402119/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/aesthetic-guide/SKILL.md) | ⭐ 14 | `development` |
+| [Skill](development/name-skill_6d205ffa/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/logicmso/SKILL.md) | ⭐ 612 | `development` |
+| [Examples](development/examples_b053830a/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/logicmso/examples.md) | ⭐ 612 | `development` |
+| [Examples](development/examples_4a68b933/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/picocom/examples.md) | ⭐ 612 | `development` |
+| [Observing Sessions](development/observing_sessions_2f674ab4/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/telnetshell/OBSERVING_SESSIONS.md) | ⭐ 612 | `development` |
 
 ### Development/Devops (250 skills)
 
@@ -8837,9 +8863,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.5.0](development/testing/059-v050_bbcdd602/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.5.0.md) | ⭐ 4.2k | `development` |
 | [V0.9.0](development/testing/060-v090_6985fd69/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.0.md) | ⭐ 4.2k | `development` |
 | [Shell](development/testing/061-shell_1903542d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/shell.md) | ⭐ 4.2k | `development` |
-| [Skill](development/testing/name-skill_d6460635/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 171 | `development` |
+| [Skill](development/testing/002-name-skill_d6460635/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 171 | `development` |
 
-### Development/Tools (292 skills)
+### Development/Tools (294 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9135,6 +9161,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.6.1](development/tools/294-v061_a69c0433/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.6.1.md) | ⭐ 4.2k | `development` |
 | [V0.9.3](development/tools/295-v093_48ba877f/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.3.md) | ⭐ 4.2k | `development` |
 | [Skill](development/tools/002-name-skill_9fafed7b/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/gptme/lessons/skills/python-repl/SKILL.md) | ⭐ 4.2k | `development` |
+| [Models Providers](development/tools/models-providers_387e8e29/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/openclaw-customizer/references/models-providers.md) | ⭐ 14 | `development` |
+| [Examples](development/tools/examples_f3b42b25/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/telnetshell/examples.md) | ⭐ 612 | `development` |
 
 ### Investment (60 skills)
 
@@ -9250,7 +9278,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Bloom Taxonomy Verbs](other/006-list_b53d6376/) | [Unknown](#) | N/A | `data analysis` |
 | [Roadmap](other/036-roadmap_33f74778/) | [tech-leads-club/agent-skills](https://raw.githubusercontent.com/tech-leads-club/agent-skills/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/references/roadmap.md) | ⭐ 392 | `other` |
 
-### Productivity (252 skills)
+### Productivity (253 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -9506,6 +9534,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Hackernews](productivity/156-hackernews_1983e4ee/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/hackernews.md) | ⭐ 40 | `productivity` |
 | [Twitter](productivity/157-twitter_3f23a787/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/aggregated-search/sources/twitter.md) | ⭐ 40 | `productivity` |
 | [Skill](productivity/093-name-skill_3132217d/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/meeting-notes/SKILL.md) | 🔥 92.8k | `productivity` |
+| [Skill](productivity/name-skill_4c9b7cc8/) | [BrownFineSecurity/iothackbot](https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/nmap/SKILL.md) | ⭐ 612 | `productivity` |
 
 ### Research (417 skills)
 
@@ -9979,5 +10008,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 00:04:23 UTC*
+*Last updated: 2026-02-09 00:27:13 UTC*
 *Automatically maintained by SkillFlow*
