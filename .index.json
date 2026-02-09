@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T00:27:12.202436",
+  "updated_at": "2026-02-09T01:18:38.955825",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -137495,6 +137495,76 @@
       "source_url": "https://raw.githubusercontent.com/BrownFineSecurity/iothackbot/master/skills/nmap/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"productivity\"]"
+    },
+    {
+      "file_hash": "88c5e00db8d4145ca158a99bc4246b9ec63be1da509b146619e8401abe1018ec",
+      "source_path": "agents.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/testing/024-agents_88c5e00d",
+      "category": "development/testing",
+      "name": "agents_88c5e00d",
+      "indexed_at": "2026-02-09T01:18:34.830475",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-08T23:34:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/agents.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5210caaacb756a80057f6bfbdcac979d424f64cd21774f36942202a3a91fa1b1",
+      "source_path": "apps/meeseeks_cli/AGENTS.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/testing/024-agents_5210caaa",
+      "category": "development/testing",
+      "name": "agents_5210caaa",
+      "indexed_at": "2026-02-09T01:18:35.981255",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-08T23:34:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_cli/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d787db14badc38ddc4f5937b5b1c7286ac87fd930a2a40cf536e5dc4e45504f8",
+      "source_path": "docs/getting-started.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/devops/190-getting-started_d787db14",
+      "category": "development/devops",
+      "name": "getting-started_d787db14",
+      "indexed_at": "2026-02-09T01:18:37.066954",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-08T23:34:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/docs/getting-started.md",
+      "display_name": "Getting Started",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0296d5b7809715c4b546e9dd61b381ddf3dcc231dae24a5f4e45341fd7180f2b",
+      "source_path": "docs/index.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "development/devops/050-index_0296d5b7",
+      "category": "development/devops",
+      "name": "index_0296d5b7",
+      "indexed_at": "2026-02-09T01:18:37.924666",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-08T23:34:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/docs/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4d8d0e9264caad91923158462b5b597a16a521b80cd30f9fcb07e157d0e4172e",
+      "source_path": "apps/meeseeks_api/AGENTS.md",
+      "source_repo": "bearlike/Assistant",
+      "local_path": "commercial/007-agents_4d8d0e92",
+      "category": "commercial",
+      "name": "agents_4d8d0e92",
+      "indexed_at": "2026-02-09T01:18:38.955755",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-08T23:34:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_api/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"commercial\"]"
     }
   ]
 }
