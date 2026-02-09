@@ -1,0 +1,24 @@
+# Copilot Instructions
+
+| Property | Value |
+|----------|-------|
+| **Name** | Copilot Instructions |
+| **Repository** | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) (⭐ 60) |
+| **Original Path** | `.github/copilot-instructions.md` |
+| **Category** | development |
+| **Subcategory** | devops |
+| **Tags** | development |
+| **Created** | 2025-12-01 |
+| **Updated** | 2026-02-09 |
+| **File Hash** | `f08289fbd7a34e3a...` |
+
+## Description
+
+> Azure infrastructure engineered by agents. Verified. WellArchitected. Deployable.
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md)*
