@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T21:41:55.600967",
+  "updated_at": "2026-02-09T22:25:58.547650",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -27973,6 +27973,34 @@
       "source_url": "https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_tinyagent-v2.5-migration-map.md",
       "display_name": "2026 02 07 Tinyagent V2.5 Migration Map",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "e177e372d349d3461048a88ae9aa9064b0e50bbe86659b3522408ed32a775d1c",
+      "source_path": "docs/my-website/docs/troubleshoot/max_callbacks.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/348-max_callbacks_e177e372",
+      "category": "development/devops",
+      "name": "max_callbacks_e177e372",
+      "indexed_at": "2026-02-09T22:25:58.192372",
+      "repo_stars": 35602,
+      "repo_updated_at": "2026-02-09T20:11:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/max_callbacks.md",
+      "display_name": "Max Callbacks",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "dd185955065ded77952c15dc4e16ddd05a8edcc77108e310185753928da60fba",
+      "source_path": "docs/my-website/release_notes/v1.81.3-stable/index.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/050-index_dd185955",
+      "category": "development/devops",
+      "name": "index_dd185955",
+      "indexed_at": "2026-02-09T22:25:58.547310",
+      "repo_stars": 35602,
+      "repo_updated_at": "2026-02-09T18:59:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.3-stable/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
     }
   ]
 }

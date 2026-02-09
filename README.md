@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1998 AI-powered skills** organized into 14 categories.
+A curated collection of **2000 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (49 skills)
 - **Data Analysis** (168 skills)
 - **Development** (342 skills)
-- **Development/Devops** (130 skills)
+- **Development/Devops** (132 skills)
 - **Development/Testing** (79 skills)
 - **Development/Tools** (79 skills)
 - **Investment** (7 skills)
@@ -1267,7 +1267,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Two Agent Setup](content-creation/337-two_agent_setup_21902417/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/TWO_AGENT_SETUP.md) | ⭐ 112 | `content creation` |
 | [Markdown.Instructions](content-creation/256-markdowninstructions_56ad3ac4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/markdown.instructions.md) | ⭐ 60 | `bicep` `iac` `azure` |
 | [Skill](content-creation/049-name-skill_74b9d97a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 60 | `content creation` |
-| [2026 02 07 Tinyagent V2.5 Migration Map](content-creation/2026-02-07_tinyagent-v25-migration-map_21bad304/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_tinyagent-v2.5-migration-map.md) | ⭐ 112 | `content creation` |
+| [2026 02 07 Tinyagent V2.5 Migration Map](content-creation/338-2026-02-07_tinyagent-v25-migration-map_21bad304/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_tinyagent-v2.5-migration-map.md) | ⭐ 112 | `content creation` |
 
 ### Daily Assistant (49 skills)
 
@@ -1833,17 +1833,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Infraops Conductor.Agent](development/2701-infraops-conductoragent_a3f5a37c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 60 | `development` |
 | [Cost Estimate.Instructions](development/2116-cost-estimateinstructions_0aa26ccf/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/cost-estimate.instructions.md) | ⭐ 60 | `development` |
 | [Skill Meta Analysis Prompt](development/1985-skill_meta_analysis_prompt_ff78db65/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_meta_analysis_prompt.md) | ⭐ 671 | `development` |
-| [Agents](development/agents_2b784408/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AGENTS.md) | ⭐ 112 | `development` |
-| [Claude](development/claude_b575fd02/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 112 | `development` |
-| [Handoff](development/handoff_bebd1840/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/handoff.md) | ⭐ 112 | `development` |
-| [2026 02 07 Remove Orchestrator Tool Dispatcher](development/2026-02-07_remove-orchestrator-tool-dispatcher_ab61bb20/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-07_remove-orchestrator-tool-dispatcher.md) | ⭐ 112 | `development` |
-| [Tun 00Df Add Tinyagent Dependency](development/tun-00df-add-tinyagent-dependency_0629f96b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-00df-add-tinyagent-dependency.md) | ⭐ 112 | `development` |
-| [Tun 1Ad5 Wrap Tools As Tinyagent Agenttool](development/tun-1ad5-wrap-tools-as-tinyagent-agenttool_e4bbcd88/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-1ad5-wrap-tools-as-tinyagent-agenttool.md) | ⭐ 112 | `development` |
-| [2026 02 09 11 28 57 Dev Install Tinyagent Setup](development/2026-02-09_11-28-57_dev_install_tinyagent_setup_88a5ba22/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-28-57_dev_install_tinyagent_setup.md) | ⭐ 112 | `development` |
-| [2026 02 09 11 31 28 Agent Panel Throughput](development/2026-02-09_11-31-28_agent_panel_throughput_84fcd2ea/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-31-28_agent_panel_throughput.md) | ⭐ 112 | `development` |
-| [2026 02 09 11 33 09 Pydantic Ai To Tinyagent Migration And Recent Changes](development/2026-02-09_11-33-09_pydantic-ai_to_tinyagent_migration_and_recent_changes_67145eda/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-33-09_pydantic-ai_to_tinyagent_migration_and_recent_changes.md) | ⭐ 112 | `development` |
+| [Agents](development/028-agents_2b784408/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AGENTS.md) | ⭐ 112 | `development` |
+| [Claude](development/140-claude_b575fd02/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 112 | `development` |
+| [Handoff](development/2788-handoff_bebd1840/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/handoff.md) | ⭐ 112 | `development` |
+| [2026 02 07 Remove Orchestrator Tool Dispatcher](development/2789-2026-02-07_remove-orchestrator-tool-dispatcher_ab61bb20/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-07_remove-orchestrator-tool-dispatcher.md) | ⭐ 112 | `development` |
+| [Tun 00Df Add Tinyagent Dependency](development/2790-tun-00df-add-tinyagent-dependency_0629f96b/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-00df-add-tinyagent-dependency.md) | ⭐ 112 | `development` |
+| [Tun 1Ad5 Wrap Tools As Tinyagent Agenttool](development/2791-tun-1ad5-wrap-tools-as-tinyagent-agenttool_e4bbcd88/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-1ad5-wrap-tools-as-tinyagent-agenttool.md) | ⭐ 112 | `development` |
+| [2026 02 09 11 28 57 Dev Install Tinyagent Setup](development/2792-2026-02-09_11-28-57_dev_install_tinyagent_setup_88a5ba22/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-28-57_dev_install_tinyagent_setup.md) | ⭐ 112 | `development` |
+| [2026 02 09 11 31 28 Agent Panel Throughput](development/2793-2026-02-09_11-31-28_agent_panel_throughput_84fcd2ea/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-31-28_agent_panel_throughput.md) | ⭐ 112 | `development` |
+| [2026 02 09 11 33 09 Pydantic Ai To Tinyagent Migration And Recent Changes](development/2794-2026-02-09_11-33-09_pydantic-ai_to_tinyagent_migration_and_recent_changes_67145eda/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-33-09_pydantic-ai_to_tinyagent_migration_and_recent_changes.md) | ⭐ 112 | `development` |
 
-### Development/Devops (130 skills)
+### Development/Devops (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1977,6 +1977,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Copilot Instructions](development/devops/309-copilot-instructions_5f071b26/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 60 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_c008178a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 60 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_d53aa530/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
+| [Max Callbacks](development/devops/max_callbacks_e177e372/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/max_callbacks.md) | 🔥 35.6k | `development` |
+| [Index](development/devops/index_dd185955/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.3-stable/index.md) | 🔥 35.6k | `development` |
 
 ### Development/Testing (79 skills)
 
@@ -2144,7 +2146,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Docs.Instructions](development/tools/229-docsinstructions_58593deb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/docs.instructions.md) | ⭐ 60 | `development` |
 | [Skill](development/tools/002-name-skill_f29fe15e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 60 | `development` |
 | [Meta Analyzer](development/tools/201-meta-analyzer_3321e3a7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 671 | `development` |
-| [Tun 1658 Phase6 Messaging Normalization](development/tools/tun-1658-phase6-messaging-normalization_a07396d7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-1658-phase6-messaging-normalization.md) | ⭐ 112 | `development` |
+| [Tun 1658 Phase6 Messaging Normalization](development/tools/305-tun-1658-phase6-messaging-normalization_a07396d7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-1658-phase6-messaging-normalization.md) | ⭐ 112 | `development` |
 
 ### Investment (7 skills)
 
@@ -2298,5 +2300,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 21:41:55 UTC*
+*Last updated: 2026-02-09 22:25:58 UTC*
 *Automatically maintained by SkillFlow*
