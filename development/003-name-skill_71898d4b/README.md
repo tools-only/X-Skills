@@ -1,0 +1,24 @@
+# Skill
+
+| Property | Value |
+|----------|-------|
+| **Name** | Skill |
+| **Repository** | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/skills/12-data-analytics/regression-analysis-helper/SKILL.md) (⭐ 1.3k) |
+| **Original Path** | `skills/12-data-analytics/regression-analysis-helper/SKILL.md` |
+| **Category** | development |
+| **Subcategory** | coding |
+| **Tags** | development |
+| **Created** | 2026-01-03 |
+| **Updated** | 2026-01-05 |
+| **File Hash** | `71898d4b192d49e2...` |
+
+## Description
+
+This skill provides automated assistance for regression analysis helper tasks within the Data Analytics domain.
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/skills/12-data-analytics/regression-analysis-helper/SKILL.md)*

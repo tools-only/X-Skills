@@ -1,0 +1,26 @@
+# Network Failure Handling
+
+| Property | Value |
+|----------|-------|
+| **Name** | Network Failure Handling |
+| **Repository** | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/sentry-pack/skills/sentry-reliability-patterns/references/network-failure-handling.md) (⭐ 1.3k) |
+| **Original Path** | `plugins/saas-packs/sentry-pack/skills/sentry-reliability-patterns/references/network-failure-handling.md` |
+| **Category** | development |
+| **Subcategory** | coding |
+| **Tags** | development |
+| **Created** | 2026-01-06 |
+| **Updated** | 2026-01-06 |
+| **File Hash** | `42c2c96efdb3e82d...` |
+
+## Description
+
+class RetryTransport {
+  private maxRetries = 3;
+  private baseDelay = 1000;
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/sentry-pack/skills/sentry-reliability-patterns/references/network-failure-handling.md)*
