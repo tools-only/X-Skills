@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1415 AI-powered skills** organized into 14 categories.
+A curated collection of **1427 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -10,13 +10,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (208 skills)
 - **Automation/Workflow** (40 skills)
-- **Commercial** (211 skills)
+- **Commercial** (213 skills)
 - **Communication** (29 skills)
-- **Content Creation** (441 skills)
+- **Content Creation** (443 skills)
 - **Daily Assistant** (17 skills)
 - **Data Analysis** (127 skills)
-- **Development** (142 skills)
-- **Development/Devops** (37 skills)
+- **Development** (147 skills)
+- **Development/Devops** (40 skills)
 - **Development/Testing** (63 skills)
 - **Development/Tools** (30 skills)
 - **Investment** (7 skills)
@@ -438,7 +438,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_067b4dab/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/agent-browser/SKILL.md) | ⭐ 27 | `automation` |
 | [Skill](automation/workflow/002-name-skill_2f13f725/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/create-plan/SKILL.md) | ⭐ 47 | `automation` |
 
-### Commercial (211 skills)
+### Commercial (213 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -653,6 +653,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](commercial/043-configuration_82a7c231/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/configuration.md) | 🔥 19.8k | `commercial` |
 | [Api](commercial/012-api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
 | [Context Overflow Handling](commercial/342-context-overflow-handling_7397deb4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/context-overflow-handling.md) | ⭐ 389 | `commercial` |
+| [Imagen Prompting Skill](commercial/imagen_prompting_skill_88fb3006/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/imagen_prompting_skill.md) | ⭐ 26 | `commercial` |
+| [Wan Prompting Skill](commercial/wan_prompting_skill_3486d9b8/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/wan_prompting_skill.md) | ⭐ 26 | `commercial` |
 
 ### Communication (29 skills)
 
@@ -686,9 +688,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](communication/236-gotchas_cb07bb56/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/gotchas.md) | 🔥 19.8k | `communication` |
 | [Patterns](communication/084-patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
 | [Configuration](communication/035-configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
-| [Index](communication/index_a8e708f7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.6k | `anthropic` `claude` `opus 4.6` |
+| [Index](communication/157-index_a8e708f7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.6k | `anthropic` `claude` `opus 4.6` |
 
-### Content Creation (441 skills)
+### Content Creation (443 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1132,7 +1134,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_33b9d3c7/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_34b629d8/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_1170616c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/news-search/SKILL.md) | ⭐ 47 | `content creation` |
-| [Litellm Proxy](content-creation/litellm_proxy_55fd329d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/litellm_proxy.md) | 🔥 35.6k | `content creation` |
+| [Jina Reader Skill](content-creation/jina_reader_skill_47dd3deb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/jina_reader_skill.md) | ⭐ 26 | `content creation` |
+| [Nano Banana Prompting Skill](content-creation/nano_banana_prompting_skill_c4fa1c81/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/nano_banana_prompting_skill.md) | ⭐ 26 | `content creation` |
+| [Suno Skill](content-creation/suno_skill_68e280b5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/suno_skill.md) | ⭐ 26 | `content creation` |
 
 ### Daily Assistant (17 skills)
 
@@ -1288,7 +1292,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Center](data-analysis/433-notification-center_d6338995/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/notification-center.md) | ⭐ 389 | `data analysis` |
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_4cc42795/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 389 | `data analysis` |
 
-### Development (142 skills)
+### Development (147 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1430,12 +1434,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8d08435f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/burndown/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_1a74484d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/tfappfix/SKILL.md) | ⭐ 10 | `development` |
 | [Introduction](development/489-introduction_6d0ef45a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION.md) | ⭐ 11 | `development` |
-| [Websearch Interception](development/websearch_interception_f1bba2c3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/integrations/websearch_interception.md) | 🔥 35.6k | `development` |
-| [Proxy Auth](development/proxy_auth_40582a96/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy_auth.md) | 🔥 35.6k | `development` |
-| [Claude Code Prompt Cache Routing](development/claude_code_prompt_cache_routing_63bfdf63/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/claude_code_prompt_cache_routing.md) | 🔥 35.6k | `development` |
-| [Zscaler Ai Guard](development/zscaler_ai_guard_44227532/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/zscaler_ai_guard.md) | 🔥 35.6k | `development` |
+| [Websearch Interception](development/2659-websearch_interception_f1bba2c3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/integrations/websearch_interception.md) | 🔥 35.6k | `development` |
+| [Readme.Es](development/readmees_e7576a27/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.es.md) | ⭐ 26 | `development` |
+| [Readme.Id](development/readmeid_68655218/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.id.md) | ⭐ 26 | `development` |
+| [Readme.Ja](development/readmeja_8d7b6dc5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.ja.md) | ⭐ 26 | `development` |
+| [Readme.Ru](development/readmeru_f351a22a/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.ru.md) | ⭐ 26 | `development` |
+| [Readme.Uk](development/readmeuk_8b7a7d40/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.uk.md) | ⭐ 26 | `development` |
+| [Readme.Zh Cn](development/readmezh-cn_41131033/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-CN.md) | ⭐ 26 | `development` |
+| [Readme.Zh Tw](development/readmezh-tw_8aad488e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-TW.md) | ⭐ 26 | `development` |
+| [Quickstart](development/quickstart_4679bf2e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/scripts/QUICKSTART.md) | ⭐ 26 | `development` |
 
-### Development/Devops (37 skills)
+### Development/Devops (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1476,6 +1485,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
 | [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
+| [Readme.Pt Br](development/devops/readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
+| [Readme.Tr](development/devops/readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
+| [Readme Old](development/devops/readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
 
 ### Development/Testing (63 skills)
 
@@ -1715,5 +1727,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 13:21:34 UTC*
+*Last updated: 2026-02-09 13:23:27 UTC*
 *Automatically maintained by SkillFlow*
