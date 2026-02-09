@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1277 AI-powered skills** organized into 14 categories.
+A curated collection of **1278 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (430 skills)
 - **Daily Assistant** (14 skills)
 - **Data Analysis** (116 skills)
-- **Development** (99 skills)
+- **Development** (100 skills)
 - **Development/Devops** (32 skills)
 - **Development/Testing** (61 skills)
 - **Development/Tools** (20 skills)
@@ -1215,7 +1215,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](data-analysis/046-configuration_7d299378/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/configuration.md) | 🔥 19.8k | `data analysis` |
 | [Gotchas](data-analysis/429-gotchas_8e56c052/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/gotchas.md) | 🔥 19.8k | `data analysis` |
 
-### Development (99 skills)
+### Development (100 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1317,7 +1317,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](development/672-patterns_f408d6db/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/patterns.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/434-gotchas_21ddf3bd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/gotchas.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/434-gotchas_bb24bd86/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/gotchas.md) | 🔥 19.8k | `development` |
-| [Getting Started](development/getting-started_616a8930/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | 🔥 6.4k | `development` |
+| [Getting Started](development/421-getting-started_616a8930/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | 🔥 6.4k | `development` |
+| [Claude Code 下载安装](development/claude-code-下载安装_b2115494/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/claudecode/Claude Code 下载安装.md) | ⭐ 40 | `development` |
 
 ### Development/Devops (32 skills)
 
@@ -1443,9 +1444,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implementation Summary](development/tools/277-implementation_summary_eba1671f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/IMPLEMENTATION_SUMMARY.md) | 🔥 19.8k | `development` |
 | [Configuration](development/tools/189-configuration_6f3666ac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/configuration.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/tools/276-gotchas_30378f48/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/gotchas.md) | 🔥 19.8k | `development` |
-| [Skill](development/tools/name-skill_e7e8cd22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.4k | `development` |
-| [Skill](development/tools/name-skill_4300d59f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.4k | `development` |
-| [Resumable Sessions Design](development/tools/resumable_sessions_design_a4c2d0a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.4k | `development` |
+| [Skill](development/tools/002-name-skill_e7e8cd22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.4k | `development` |
+| [Skill](development/tools/002-name-skill_4300d59f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.4k | `development` |
+| [Resumable Sessions Design](development/tools/278-resumable_sessions_design_a4c2d0a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.4k | `development` |
 
 ### Investment (2 skills)
 
@@ -1577,5 +1578,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 07:42:58 UTC*
+*Last updated: 2026-02-09 07:47:28 UTC*
 *Automatically maintained by SkillFlow*
