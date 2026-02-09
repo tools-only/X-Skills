@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1709 AI-powered skills** organized into 14 categories.
+A curated collection of **1669 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,16 +12,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (43 skills)
 - **Commercial** (220 skills)
 - **Communication** (32 skills)
-- **Content Creation** (461 skills)
+- **Content Creation** (460 skills)
 - **Daily Assistant** (23 skills)
-- **Data Analysis** (191 skills)
-- **Development** (252 skills)
+- **Data Analysis** (151 skills)
+- **Development** (253 skills)
 - **Development/Devops** (65 skills)
 - **Development/Testing** (77 skills)
-- **Development/Tools** (48 skills)
-- **Investment** (8 skills)
+- **Development/Tools** (50 skills)
+- **Investment** (7 skills)
+- **Other** (1 skill)
 - **Productivity** (11 skills)
-- **Research** (64 skills)
+- **Research** (62 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -396,8 +397,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_be345091/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `cloudwatch` |
 | [07 Retrieval](automation/scripting/079-07-retrieval_4df3fe32/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/07-retrieval.md) | ⭐ 1.1k | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_e0841625/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
-| [Skill](automation/scripting/name-skill_4513d380/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/brainstorm/SKILL.md) | ⭐ 31 | `automation` |
-| [Skill](automation/scripting/name-skill_7cae27bb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/journal/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/scripting/003-name-skill_4513d380/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/brainstorm/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/scripting/003-name-skill_7cae27bb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/journal/SKILL.md) | ⭐ 31 | `automation` |
 
 ### Automation/Workflow (43 skills)
 
@@ -445,7 +446,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_2f13f725/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/create-plan/SKILL.md) | ⭐ 47 | `automation` |
 | [Skill](automation/workflow/002-name-skill_3c99e6a8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 88 | `prompt-engineering` `few-shot-learning` `chain-of-thought` |
 | [Skill](automation/workflow/002-name-skill_7744ad67/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 88 | `spring-boot` `actuator` `monitoring` |
-| [Skill](automation/workflow/name-skill_2f84ffa2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/workflow/002-name-skill_2f84ffa2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/SKILL.md) | ⭐ 31 | `automation` |
 
 ### Commercial (220 skills)
 
@@ -670,7 +671,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference](commercial/167-reference_33118ac4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/references/reference.md) | ⭐ 88 | `commercial` |
 | [Terraform Roadmap](commercial/309-terraform-roadmap_10861a74/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/terraform-roadmap.md) | ⭐ 60 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_d23ff7ee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
-| [Agents](commercial/agents_163651bf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
+| [Agents](commercial/007-agents_163651bf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
 
 ### Communication (32 skills)
 
@@ -707,9 +708,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](communication/157-index_a8e708f7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.6k | `anthropic` `claude` `opus 4.6` |
 | [Skill](communication/127-name-skill_cb989410/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 88 | `langchain4j` `tools` `function-calling` |
 | [02 Volcengine Purchase Guide](communication/237-02-volcengine-purchase-guide_7d7a1047/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/02-volcengine-purchase-guide.md) | ⭐ 1.1k | `communication` |
-| [State](communication/state_88001e53/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/state.md) | ⭐ 31 | `communication` |
+| [State](communication/238-state_88001e53/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/state.md) | ⭐ 31 | `communication` |
 
-### Content Creation (461 skills)
+### Content Creation (460 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1167,13 +1168,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [02 Resources](content-creation/319-02-resources_d0e656f1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_80834ac4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_e327bbb7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
-| [Skill](content-creation/name-skill_16122593/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
-| [Skill](content-creation/name-skill_05e95f5d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/decisions/SKILL.md) | ⭐ 31 | `content creation` |
-| [Skill](content-creation/name-skill_67704377/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/gomponents/SKILL.md) | ⭐ 31 | `content creation` |
-| [Skill](content-creation/name-skill_0005e489/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/SKILL.md) | ⭐ 31 | `content creation` |
-| [Skill](content-creation/name-skill_1ce28a35/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/sql/SKILL.md) | ⭐ 31 | `content creation` |
-| [Media](content-creation/media_ae62581f/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/media.md) | ⭐ 31 | `content creation` |
-| [Watch](content-creation/watch_a2622b78/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/watch.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/049-name-skill_16122593/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/049-name-skill_05e95f5d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/decisions/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/049-name-skill_67704377/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/gomponents/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/049-name-skill_0005e489/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/049-name-skill_1ce28a35/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/sql/SKILL.md) | ⭐ 31 | `content creation` |
+| [Media](content-creation/321-media_ae62581f/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/media.md) | ⭐ 31 | `content creation` |
 
 ### Daily Assistant (23 skills)
 
@@ -1203,7 +1203,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_5da5923c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 60 | `daily assistant` |
 | [Freshness Checklist](daily-assistant/237-freshness-checklist_d8b54f58/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 60 | `daily assistant` |
 
-### Data Analysis (191 skills)
+### Data Analysis (151 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1340,66 +1340,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow](data-analysis/246-workflow_6bb8c3b2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/workflow.md) | ⭐ 60 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_aa76074b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 | [02 Resources](data-analysis/437-02-resources_a11089f6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/02-resources.md) | ⭐ 1.1k | `data analysis` |
-| [Skill](data-analysis/name-skill_47da517b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-notebooks/SKILL.md) | ⭐ 31 | `data analysis` |
-| [App](data-analysis/app_460655a8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/app.md) | ⭐ 31 | `data analysis` |
-| [Cell](data-analysis/cell_f834f3e4/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/cell.md) | ⭐ 31 | `data analysis` |
-| [Cli Args](data-analysis/cli-args_29aeedd5/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/cli-args.md) | ⭐ 31 | `data analysis` |
-| [Control Flow](data-analysis/control-flow_786bf81a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/control-flow.md) | ⭐ 31 | `data analysis` |
-| [Diagrams](data-analysis/diagrams_5083145f/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/diagrams.md) | ⭐ 31 | `data analysis` |
-| [Inputs](data-analysis/inputs_4c78e978/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/inputs.md) | ⭐ 31 | `data analysis` |
-| [Plotting](data-analysis/plotting_69a29e93/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/plotting.md) | ⭐ 31 | `data analysis` |
-| [Query Params](data-analysis/query-params_0b403234/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/query-params.md) | ⭐ 31 | `data analysis` |
-| [Curves](data-analysis/curves_1fabdaca/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/curves.md) | ⭐ 31 | `data analysis` |
-| [Interactions](data-analysis/interactions_bd35d476/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/interactions.md) | ⭐ 31 | `data analysis` |
-| [Intervals](data-analysis/intervals_b3564cf0/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/intervals.md) | ⭐ 31 | `data analysis` |
-| [Scales](data-analysis/scales_ff030e80/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/scales.md) | ⭐ 31 | `data analysis` |
-| [Cell](data-analysis/cell_ce7589b9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/cell.md) | ⭐ 31 | `data analysis` |
-| [Crosshair](data-analysis/crosshair_2347c6e7/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/crosshair.md) | ⭐ 31 | `data analysis` |
-| [Tree](data-analysis/tree_cd5ec4b9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tree.md) | ⭐ 31 | `data analysis` |
-| [Waffle](data-analysis/waffle_14a30c5a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/waffle.md) | ⭐ 31 | `data analysis` |
-| [Bin](data-analysis/bin_b3e817d9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/bin.md) | ⭐ 31 | `data analysis` |
-| [Skill](data-analysis/observable-skill_ba035331/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/SKILL.md) | ⭐ 31 | `data analysis` |
-| [Html](data-analysis/html_6210b598/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/html.md) | ⭐ 31 | `data analysis` |
-| [Layouts](data-analysis/layouts_fe63d7b0/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/layouts.md) | ⭐ 31 | `data analysis` |
-| [Markdown](data-analysis/markdown_27c9768f/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/markdown.md) | ⭐ 31 | `data analysis` |
-| [Facets](data-analysis/facets_8f6c6740/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/facets.md) | ⭐ 31 | `data analysis` |
-| [Legends](data-analysis/legends_cbc1e7ae/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/legends.md) | ⭐ 31 | `data analysis` |
-| [Markers](data-analysis/markers_8699ee31/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/markers.md) | ⭐ 31 | `data analysis` |
-| [Projections](data-analysis/projections_33120c6b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/projections.md) | ⭐ 31 | `data analysis` |
-| [Shorthand](data-analysis/shorthand_fa5368d2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/shorthand.md) | ⭐ 31 | `data analysis` |
-| [Area](data-analysis/area_c478aa9e/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/area.md) | ⭐ 31 | `data analysis` |
-| [Arrow](data-analysis/arrow_52b1caa3/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/arrow.md) | ⭐ 31 | `data analysis` |
-| [Auto](data-analysis/auto_109a61da/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/auto.md) | ⭐ 31 | `data analysis` |
-| [Axis](data-analysis/axis_c35db4c8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/axis.md) | ⭐ 31 | `data analysis` |
-| [Bar](data-analysis/bar_0cea8447/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/bar.md) | ⭐ 31 | `data analysis` |
-| [Box](data-analysis/box_c6e69fc2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/box.md) | ⭐ 31 | `data analysis` |
-| [Contour](data-analysis/contour_ab6dc3c1/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/contour.md) | ⭐ 31 | `data analysis` |
-| [Delaunay](data-analysis/delaunay_6a5313e8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/delaunay.md) | ⭐ 31 | `data analysis` |
-| [Density](data-analysis/density_460088ae/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/density.md) | ⭐ 31 | `data analysis` |
-| [Difference](data-analysis/difference_a45e03c1/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/difference.md) | ⭐ 31 | `data analysis` |
-| [Dot](data-analysis/dot_c4c559bc/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/dot.md) | ⭐ 31 | `data analysis` |
-| [Frame](data-analysis/frame_f955b139/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/frame.md) | ⭐ 31 | `data analysis` |
-| [Geo](data-analysis/geo_eee378a6/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/geo.md) | ⭐ 31 | `data analysis` |
-| [Hexgrid](data-analysis/hexgrid_2f56db9c/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/hexgrid.md) | ⭐ 31 | `data analysis` |
-| [Image](data-analysis/image_ea5ec283/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/image.md) | ⭐ 31 | `data analysis` |
-| [Line](data-analysis/line_77268010/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/line.md) | ⭐ 31 | `data analysis` |
-| [Linear Regression](data-analysis/linear-regression_ed9b7a72/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/linear-regression.md) | ⭐ 31 | `data analysis` |
-| [Link](data-analysis/link_8281f438/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/link.md) | ⭐ 31 | `data analysis` |
-| [Raster](data-analysis/raster_df0b253c/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/raster.md) | ⭐ 31 | `data analysis` |
-| [Rect](data-analysis/rect_4f3e2aeb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/rect.md) | ⭐ 31 | `data analysis` |
-| [Rule](data-analysis/rule_5bc014fc/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/rule.md) | ⭐ 31 | `data analysis` |
-| [Text](data-analysis/text_7f1bfdd0/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/text.md) | ⭐ 31 | `data analysis` |
-| [Tip](data-analysis/tip_d211e3a3/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tip.md) | ⭐ 31 | `data analysis` |
-| [Vector](data-analysis/vector_69515327/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/vector.md) | ⭐ 31 | `data analysis` |
-| [Dodge](data-analysis/dodge_22657cdf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/dodge.md) | ⭐ 31 | `data analysis` |
-| [Group](data-analysis/group_597e57f8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/group.md) | ⭐ 31 | `data analysis` |
-| [Hexbin](data-analysis/hexbin_156dadfd/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/hexbin.md) | ⭐ 31 | `data analysis` |
-| [Normalize](data-analysis/normalize_6f63801e/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/normalize.md) | ⭐ 31 | `data analysis` |
-| [Select](data-analysis/select_d31b62e7/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/select.md) | ⭐ 31 | `data analysis` |
-| [Stack](data-analysis/stack_255e8f7d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/stack.md) | ⭐ 31 | `data analysis` |
-| [Window](data-analysis/window_834a6845/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/window.md) | ⭐ 31 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_47da517b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-notebooks/SKILL.md) | ⭐ 31 | `data analysis` |
+| [App](data-analysis/438-app_460655a8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/app.md) | ⭐ 31 | `data analysis` |
+| [Cell](data-analysis/439-cell_f834f3e4/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/cell.md) | ⭐ 31 | `data analysis` |
+| [Cli Args](data-analysis/440-cli-args_29aeedd5/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/cli-args.md) | ⭐ 31 | `data analysis` |
+| [Control Flow](data-analysis/441-control-flow_786bf81a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/control-flow.md) | ⭐ 31 | `data analysis` |
+| [Diagrams](data-analysis/442-diagrams_5083145f/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/diagrams.md) | ⭐ 31 | `data analysis` |
+| [Inputs](data-analysis/443-inputs_4c78e978/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/inputs.md) | ⭐ 31 | `data analysis` |
+| [Plotting](data-analysis/444-plotting_69a29e93/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/plotting.md) | ⭐ 31 | `data analysis` |
+| [Query Params](data-analysis/445-query-params_0b403234/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/query-params.md) | ⭐ 31 | `data analysis` |
+| [Curves](data-analysis/446-curves_1fabdaca/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/curves.md) | ⭐ 31 | `data analysis` |
+| [Interactions](data-analysis/118-interactions_bd35d476/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/interactions.md) | ⭐ 31 | `data analysis` |
+| [Intervals](data-analysis/447-intervals_b3564cf0/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/intervals.md) | ⭐ 31 | `data analysis` |
+| [Scales](data-analysis/448-scales_ff030e80/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/features/scales.md) | ⭐ 31 | `data analysis` |
+| [Cell](data-analysis/439-cell_ce7589b9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/cell.md) | ⭐ 31 | `data analysis` |
+| [Crosshair](data-analysis/449-crosshair_2347c6e7/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/crosshair.md) | ⭐ 31 | `data analysis` |
+| [Tree](data-analysis/450-tree_cd5ec4b9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tree.md) | ⭐ 31 | `data analysis` |
+| [Waffle](data-analysis/451-waffle_14a30c5a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/waffle.md) | ⭐ 31 | `data analysis` |
+| [Bin](data-analysis/452-bin_b3e817d9/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/transforms/bin.md) | ⭐ 31 | `data analysis` |
 
-### Development (252 skills)
+### Development (253 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1647,14 +1607,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Skills](development/2704-04-skills_8ed6d959/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-skills.md) | ⭐ 1.1k | `development` |
 | [06 Retrieval](development/2705-06-retrieval_2f462c05/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-retrieval.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_35c56a80/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
-| [Skill](development/name-skill_f11cec39/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/code-review/SKILL.md) | ⭐ 31 | `development` |
-| [Skill](development/name-skill_50306346/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/collaboration/SKILL.md) | ⭐ 31 | `development` |
-| [Skill](development/name-skill_e2b4540b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/datastar/SKILL.md) | ⭐ 31 | `development` |
-| [Skill](development/name-skill_a414d50b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/git/SKILL.md) | ⭐ 31 | `development` |
-| [Caching](development/caching_40a24f7b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/caching.md) | ⭐ 31 | `development` |
-| [Outputs](development/outputs_41945cf2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/outputs.md) | ⭐ 31 | `development` |
-| [Sql](development/sql_917d8914/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/sql.md) | ⭐ 31 | `development` |
-| [Tick](development/tick_79b154af/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tick.md) | ⭐ 31 | `development` |
+| [Skill](development/1178-name-skill_f11cec39/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/code-review/SKILL.md) | ⭐ 31 | `development` |
+| [Skill](development/1178-name-skill_50306346/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/collaboration/SKILL.md) | ⭐ 31 | `development` |
+| [Skill](development/1178-name-skill_e2b4540b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/datastar/SKILL.md) | ⭐ 31 | `development` |
+| [Skill](development/1178-name-skill_a414d50b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/git/SKILL.md) | ⭐ 31 | `development` |
+| [Caching](development/2445-caching_40a24f7b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/caching.md) | ⭐ 31 | `development` |
+| [Outputs](development/2718-outputs_41945cf2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/outputs.md) | ⭐ 31 | `development` |
+| [Sql](development/2719-sql_917d8914/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/sql.md) | ⭐ 31 | `development` |
+| [Tick](development/2720-tick_79b154af/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tick.md) | ⭐ 31 | `development` |
+| [Decisions](development/decisions_573b2719/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 166 | `development` |
 
 ### Development/Devops (65 skills)
 
@@ -1724,7 +1685,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [07 System](development/devops/311-07-system_f4763a23/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-system.md) | ⭐ 1.1k | `development` |
 | [01 Architecture](development/devops/313-01-architecture_979b832d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 1.1k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_1263ed66/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
-| [Apps](development/devops/apps_46e1fa6d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/apps.md) | ⭐ 31 | `development` |
+| [Apps](development/devops/315-apps_46e1fa6d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/apps.md) | ⭐ 31 | `development` |
 
 ### Development/Testing (77 skills)
 
@@ -1806,9 +1767,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_0833aec4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-security-jwt/SKILL.md) | ⭐ 88 | `spring-boot` `spring-security` `jwt` |
 | [Skill](development/testing/002-name-skill_4674e798/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nestjs/SKILL.md) | ⭐ 88 | `development` |
 | [05 Storage](development/testing/068-05-storage_e07febd6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/05-storage.md) | ⭐ 1.1k | `development` |
-| [Skill](development/testing/name-skill_62c7cbeb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 31 | `development` |
+| [Skill](development/testing/002-name-skill_62c7cbeb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 31 | `development` |
 
-### Development/Tools (48 skills)
+### Development/Tools (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1858,10 +1819,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [02 Context Types](development/tools/289-02-context-types_bc68682e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/02-context-types.md) | ⭐ 1.1k | `development` |
 | [07 Retrieval](development/tools/290-07-retrieval_bdd4868e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/07-retrieval.md) | ⭐ 1.1k | `development` |
 | [08 Session](development/tools/288-08-session_8154b9ad/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/08-session.md) | ⭐ 1.1k | `development` |
-| [Skill](development/tools/name-skill_54638827/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/nanobanana/SKILL.md) | ⭐ 31 | `development` |
-| [Skill](development/tools/name-skill_3a9a8382/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/save-web-page/SKILL.md) | ⭐ 31 | `development` |
+| [Skill](development/tools/002-name-skill_54638827/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/nanobanana/SKILL.md) | ⭐ 31 | `development` |
+| [Skill](development/tools/002-name-skill_3a9a8382/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/save-web-page/SKILL.md) | ⭐ 31 | `development` |
+| [Forward Client Headers](development/tools/forward_client_headers_239e5a02/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 35.6k | `development` |
+| [Index](development/tools/index_2b718b1b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/index.md) | ⭐ 166 | `development` |
 
-### Investment (8 skills)
+### Investment (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1872,7 +1835,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Usage](investment/038-readme_usage_a5969401/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/README_USAGE.md) | ⭐ 27 | `investment` |
 | [Fields](investment/039-fields_a89352d4/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/fields.md) | ⭐ 27 | `investment` |
 | [Screeners](investment/040-screeners_1c274a35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/screeners.md) | ⭐ 27 | `investment` |
-| [Bollinger](investment/bollinger_71512d85/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/bollinger.md) | ⭐ 31 | `investment` |
+
+### Other (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Xai](other/xai_0983c0a6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/xai.md) | ⭐ 166 | `other` |
 
 ### Productivity (11 skills)
 
@@ -1890,7 +1858,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Generator – Customer Journey Map Simulator](productivity/166-generator-customer-journey-map-simulator_7d5799d5/) | [deanpeters/product-manager-prompts](https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/storytelling/Generator – Customer Journey Map Simulator.md) | ⭐ 546 | `productivity` |
 | [Vibe.Prd Generated Via Search And Agentic Simulation](productivity/167-vibeprd-generated-via-search-and-agentic-simulation_36d339b1/) | [deanpeters/product-manager-prompts](https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/vibes/vibe.prd-generated-via-search-and-agentic-simulation.md) | ⭐ 546 | `productivity` |
 
-### Research (64 skills)
+### Research (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1955,9 +1923,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](research/248-patterns_6ccd1e33/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/patterns.md) | 🔥 19.8k | `research` |
 | [Skill](research/139-name-skill_fd68d71b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/rag/SKILL.md) | ⭐ 88 | `rag` `vector-databases` `embeddings` |
 | [02 Context Types](research/249-02-context-types_f5058e2d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/02-context-types.md) | ⭐ 1.1k | `research` |
-| [Status](research/status_e45d8ba4/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/status.md) | ⭐ 31 | `research` |
-| [Decisions](research/decisions_9b24ed7e/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/docs/decisions.md) | ⭐ 31 | `research` |
-| [Grid](research/grid_59f229fe/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/grid.md) | ⭐ 31 | `research` |
+| [Status](research/250-status_e45d8ba4/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/status.md) | ⭐ 31 | `research` |
 
 ## How Skills Are Organized
 
@@ -2009,5 +1975,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 17:26:27 UTC*
+*Last updated: 2026-02-09 18:19:24 UTC*
 *Automatically maintained by SkillFlow*

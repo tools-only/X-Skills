@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T17:26:27.385608",
+  "updated_at": "2026-02-09T18:19:24.265381",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -23311,6 +23311,34 @@
       "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/state.md",
       "display_name": "State",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "573b271935e7c1d6377542f1a1474b4d642e41f7002a38bd92aacbe3f8034f9b",
+      "source_path": "team/DECISIONS.md",
+      "source_repo": "strands-agents/docs",
+      "local_path": "development/1342-decisions_573b2719",
+      "category": "development",
+      "name": "decisions_573b2719",
+      "indexed_at": "2026-02-09T18:19:23.918142",
+      "repo_stars": 166,
+      "repo_updated_at": "2026-02-06T16:27:59+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md",
+      "display_name": "Decisions",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "239e5a020a43ab9bcc2a9675a406cb40a84eafe5498b89e25f033a4d283eebda",
+      "source_path": "docs/my-website/docs/proxy/forward_client_headers.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/tools/291-forward_client_headers_239e5a02",
+      "category": "development/tools",
+      "name": "forward_client_headers_239e5a02",
+      "indexed_at": "2026-02-09T18:19:24.265308",
+      "repo_stars": 35593,
+      "repo_updated_at": "2026-02-09T18:03:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md",
+      "display_name": "Forward Client Headers",
+      "tags": "[\"development\"]"
     }
   ]
 }
