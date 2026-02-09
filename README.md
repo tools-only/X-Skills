@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1373 AI-powered skills** organized into 14 categories.
+A curated collection of **1384 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,18 +8,18 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (205 skills)
+- **Automation/Scripting** (207 skills)
 - **Automation/Workflow** (39 skills)
 - **Commercial** (211 skills)
 - **Communication** (28 skills)
-- **Content Creation** (435 skills)
-- **Daily Assistant** (15 skills)
+- **Content Creation** (434 skills)
+- **Daily Assistant** (17 skills)
 - **Data Analysis** (127 skills)
-- **Development** (123 skills)
+- **Development** (132 skills)
 - **Development/Devops** (34 skills)
-- **Development/Testing** (61 skills)
-- **Development/Tools** (22 skills)
-- **Investment** (10 skills)
+- **Development/Testing** (62 skills)
+- **Development/Tools** (23 skills)
+- **Investment** (7 skills)
 - **Productivity** (4 skills)
 - **Research** (59 skills)
 
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (205 skills)
+### Automation/Scripting (207 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -386,9 +386,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_1b1d1015/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_PlayerSlotToPlayerController/SKILL.md) | ⭐ 13 | `automation` |
 | [Skill](automation/scripting/003-name-skill_8f5ff9e5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_Remove/SKILL.md) | ⭐ 13 | `automation` |
 | [Skill](automation/scripting/003-name-skill_694c1dd6/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-WeaponBuy/SKILL.md) | ⭐ 13 | `automation` |
-| [Skill](automation/scripting/name-skill_c81d8f75/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/gogcli/SKILL.md) | ⭐ 27 | `automation` |
-| [Readme Cn](automation/scripting/readme_cn_f7653211/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/README_CN.md) | ⭐ 27 | `automation` |
-| [Themes](automation/scripting/themes_220fc86b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/THEMES.md) | ⭐ 27 | `automation` |
+| [Skill](automation/scripting/003-name-skill_c81d8f75/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/gogcli/SKILL.md) | ⭐ 27 | `automation` |
+| [Readme Cn](automation/scripting/076-readme_cn_f7653211/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/README_CN.md) | ⭐ 27 | `automation` |
+| [Themes](automation/scripting/077-themes_220fc86b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/THEMES.md) | ⭐ 27 | `automation` |
+| [Think](automation/scripting/think_feebfd07/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/commands/think.md) | ⭐ 389 | `automation` |
+| [Validation Models](automation/scripting/validation_models_a1d67e7d/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/tests/lt_memory/VALIDATION_models.md) | ⭐ 389 | `automation` |
 
 ### Automation/Workflow (39 skills)
 
@@ -432,7 +434,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Service Types](automation/workflow/115-service-types_459590be/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/service-types.md) | 🔥 19.8k | `automation` |
 | [Patterns](automation/workflow/116-patterns_eca20d1d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/patterns.md) | 🔥 19.8k | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_fbbf06b3/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
-| [Skill](automation/workflow/name-skill_067b4dab/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/agent-browser/SKILL.md) | ⭐ 27 | `automation` |
+| [Skill](automation/workflow/002-name-skill_067b4dab/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/agent-browser/SKILL.md) | ⭐ 27 | `automation` |
 
 ### Commercial (211 skills)
 
@@ -648,7 +650,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](commercial/043-configuration_057eaef4/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/vectorize/configuration.md) | 🔥 19.8k | `commercial` |
 | [Configuration](commercial/043-configuration_82a7c231/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/configuration.md) | 🔥 19.8k | `commercial` |
 | [Api](commercial/012-api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
-| [Templates](commercial/templates_13b9954b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/news-aggregator-skill/templates.md) | ⭐ 27 | `commercial` |
+| [Context Overflow Handling](commercial/context-overflow-handling_7397deb4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/context-overflow-handling.md) | ⭐ 389 | `commercial` |
 
 ### Communication (28 skills)
 
@@ -683,7 +685,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](communication/084-patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
 | [Configuration](communication/035-configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
 
-### Content Creation (435 skills)
+### Content Creation (434 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1119,11 +1121,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api](content-creation/072-api_96dafb63/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/api.md) | 🔥 19.8k | `content creation` |
 | [Skill](content-creation/049-name-skill_0e38fece/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-struct-as-yaml/SKILL.md) | ⭐ 13 | `content creation` |
 | [Cli](content-creation/312-cli_59a3bef7/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/cli.md) | ⭐ 201 | `content creation` |
-| [Skill](content-creation/name-skill_2e1ae77b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/bird/SKILL.md) | ⭐ 27 | `content creation` |
-| [Skill](content-creation/name-skill_81ff9c21/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/firecrawl/SKILL.md) | ⭐ 27 | `content creation` |
-| [Skill](content-creation/name-skill_e0edbdbc/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/humanizer-zh/SKILL.md) | ⭐ 27 | `content creation` |
+| [Skill](content-creation/049-name-skill_2e1ae77b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/bird/SKILL.md) | ⭐ 27 | `content creation` |
+| [Skill](content-creation/049-name-skill_81ff9c21/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/firecrawl/SKILL.md) | ⭐ 27 | `content creation` |
 
-### Daily Assistant (15 skills)
+### Daily Assistant (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1141,7 +1142,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](daily-assistant/230-gotchas_60f1e757/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/kv/gotchas.md) | 🔥 19.8k | `daily assistant` |
 | [Patterns](daily-assistant/232-patterns_5a527102/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages/patterns.md) | 🔥 19.8k | `daily assistant` |
 | [Gotchas](daily-assistant/230-gotchas_267e3fad/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/gotchas.md) | 🔥 19.8k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_a5881d35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/qmd-skill/SKILL.md) | ⭐ 27 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_a5881d35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/qmd-skill/SKILL.md) | ⭐ 27 | `daily assistant` |
+| [Skill](daily-assistant/technical-skill_c2d74181/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/tool-builder/SKILL.md) | ⭐ 389 | `daily assistant` |
+| [Validate Module](daily-assistant/validate-module_61a45fb4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/commands/validate-module.md) | ⭐ 389 | `daily assistant` |
 
 ### Data Analysis (127 skills)
 
@@ -1266,16 +1269,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hook Lifecycle Diagram](data-analysis/111-hook-lifecycle-diagram_193671b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hook-lifecycle-diagram.md) | ⭐ 58 | `data analysis` |
 | [Disclaimer](data-analysis/430-disclaimer_75270864/) | [atlas-research-io/atlas-research-notebooks](https://raw.githubusercontent.com/atlas-research-io/atlas-research-notebooks/main/geography/disclaimer.md) | ⭐ 66 | `data analysis` |
 | [Update Gamedata](data-analysis/431-update_gamedata_52af7427/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/update_gamedata.md) | ⭐ 13 | `data analysis` |
-| [Skill](data-analysis/name-skill_0a635585/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/doc/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_d108cf2b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pdf/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_a9c3e61a/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/spreadsheet/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_44266f3a/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/ui-skills/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_b6bbae9e/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/ui-ux-pro-max/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Diagram Types](data-analysis/diagram_types_79514ada/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/DIAGRAM_TYPES.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_5ba89929/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/diagram-generator/SKILL.md) | ⭐ 27 | `data analysis` |
-| [Skill](data-analysis/name-skill_b3833ce1/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0a635585/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/doc/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d108cf2b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pdf/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a9c3e61a/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/spreadsheet/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_44266f3a/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/ui-skills/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b6bbae9e/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/ui-ux-pro-max/SKILL.md) | ⭐ 27 | `data analysis` |
+| [Diagram Types](data-analysis/432-diagram_types_79514ada/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/DIAGRAM_TYPES.md) | ⭐ 27 | `data analysis` |
+| [Notification Center](data-analysis/notification-center_d6338995/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/notification-center.md) | ⭐ 389 | `data analysis` |
+| [How To Build A Trinket](data-analysis/how_to_build_a_trinket_4cc42795/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 389 | `data analysis` |
 
-### Development (123 skills)
+### Development (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1397,11 +1400,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_3e36f889/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-globalvar-as-yaml/SKILL.md) | ⭐ 13 | `development` |
 | [Skill](development/1178-name-skill_5d3897d5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 13 | `development` |
 | [Skill](development/1178-name-skill_580aa69c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vtable-as-yaml/SKILL.md) | ⭐ 13 | `development` |
-| [Claude](development/claude_b34f8996/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/CLAUDE.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_faf5931f/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/SKILL.md) | ⭐ 27 | `development` |
-| [Api Reference](development/api_reference_484890ce/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/api_reference.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_176a620f/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/vercel-deploy/SKILL.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_09df0ea7/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-installer/SKILL.md) | ⭐ 27 | `development` |
+| [Claude](development/140-claude_b34f8996/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/CLAUDE.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_faf5931f/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/SKILL.md) | ⭐ 27 | `development` |
+| [Api Reference](development/051-api_reference_484890ce/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/api_reference.md) | ⭐ 27 | `development` |
+| [Claude](development/claude_96a2c1a0/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/CLAUDE.md) | ⭐ 389 | `development` |
+| [Roadmap](development/roadmap_0261eb1e/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/ROADMAP.md) | ⭐ 389 | `development` |
+| [Code Renamer](development/code-renamer_070a43cf/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/agents/code-renamer.md) | ⭐ 389 | `development` |
+| [Investigative Sidekick](development/investigative-sidekick_8ba96a82/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/agents/investigative-sidekick.md) | ⭐ 389 | `development` |
+| [Mira Architecture Overview](development/mira-architecture-overview_b545cbf2/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/mira-architecture-overview.md) | ⭐ 389 | `development` |
+| [Skill](development/name-skill_74d7b4fb/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/checking-code-consistency/SKILL.md) | ⭐ 389 | `development` |
+| [Skill](development/name-skill_9dd5170c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/fail-fast-no-hedging/SKILL.md) | ⭐ 389 | `development` |
+| [Skill](development/name-skill_165ae2f4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/git-workflow/SKILL.md) | ⭐ 389 | `development` |
+| [Skill](development/name-skill_047fd5b7/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/prompt-mastery/SKILL.md) | ⭐ 389 | `development` |
+| [Skill](development/name-skill_6ee1c920/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/contextvar-opportunity-finder/SKILL.md) | ⭐ 389 | `development` |
+| [Skill](development/name-skill_c2a27896/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/investigate-dependencies/SKILL.md) | ⭐ 389 | `development` |
 
 ### Development/Devops (34 skills)
 
@@ -1440,9 +1452,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](development/devops/295-patterns_8fc5fab7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/patterns.md) | 🔥 19.8k | `development` |
 | [Patterns](development/devops/295-patterns_dc293c43/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/patterns.md) | 🔥 19.8k | `development` |
 | [Util Playerslottoplayercontroller](development/devops/296-util_playerslottoplayercontroller_8a494e38/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_PlayerSlotToPlayerController.md) | ⭐ 13 | `development` |
-| [Openai Yaml](development/devops/openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
+| [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
 
-### Development/Testing (61 skills)
+### Development/Testing (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1507,8 +1519,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/testing/047-configuration_54dce11b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/configuration.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/testing/058-gotchas_eb42fd58/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/gotchas.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/testing/058-gotchas_85e262f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/gotchas.md) | 🔥 19.8k | `development` |
+| [Skill](development/testing/name-skill_f5801c1c/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/pytest-real-testing/SKILL.md) | ⭐ 389 | `development` |
 
-### Development/Tools (22 skills)
+### Development/Tools (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1532,23 +1545,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_e7e8cd22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.4k | `development` |
 | [Skill](development/tools/002-name-skill_4300d59f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.4k | `development` |
 | [Resumable Sessions Design](development/tools/278-resumable_sessions_design_a4c2d0a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.4k | `development` |
-| [Skill](development/tools/name-skill_081935a6/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/screenshot/SKILL.md) | ⭐ 27 | `development` |
-| [Install](development/tools/install_3630af5d/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/firecrawl/rules/install.md) | ⭐ 27 | `development` |
+| [Skill](development/tools/002-name-skill_081935a6/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/screenshot/SKILL.md) | ⭐ 27 | `development` |
+| [How To Build A Tool](development/tools/how_to_build_a_tool_33641d4a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/tools/HOW_TO_BUILD_A_TOOL.md) | ⭐ 389 | `development` |
+| [Skill](development/tools/use-skill_07e2fc35/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/contextvar-remediation/SKILL.md) | ⭐ 389 | `development` |
 
-### Investment (10 skills)
+### Investment (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Legal Advisor](investment/036-legal-advisor_a931b41a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/legal-advisor.md) | 🔥 19.8k | `investment` |
 | [Quant Analyst](investment/037-quant-analyst_293d5bb0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/finance/quant-analyst.md) | 🔥 19.8k | `investment` |
-| [Skill](investment/name-skill_ac23cf08/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/news-aggregator-skill/SKILL.md) | ⭐ 27 | `investment` |
-| [Skill](investment/name-skill_19317957/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/SKILL.md) | ⭐ 27 | `investment` |
-| [Readme Usage](investment/readme_usage_a5969401/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/README_USAGE.md) | ⭐ 27 | `investment` |
-| [Fields](investment/fields_a89352d4/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/fields.md) | ⭐ 27 | `investment` |
-| [Screeners](investment/screeners_1c274a35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/screeners.md) | ⭐ 27 | `investment` |
-| [Skill](investment/name-skill_a312655c/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/stock_analysis/SKILL.md) | ⭐ 27 | `investment` |
-| [Enums](investment/enums_e2fb29c3/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/enums.md) | ⭐ 27 | `investment` |
-| [Filters](investment/filters_c951ca4e/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/filters.md) | ⭐ 27 | `investment` |
+| [Skill](investment/021-name-skill_ac23cf08/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/news-aggregator-skill/SKILL.md) | ⭐ 27 | `investment` |
+| [Skill](investment/021-name-skill_19317957/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/SKILL.md) | ⭐ 27 | `investment` |
+| [Readme Usage](investment/038-readme_usage_a5969401/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/README_USAGE.md) | ⭐ 27 | `investment` |
+| [Fields](investment/039-fields_a89352d4/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/fields.md) | ⭐ 27 | `investment` |
+| [Screeners](investment/040-screeners_1c274a35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/screeners.md) | ⭐ 27 | `investment` |
 
 ### Productivity (4 skills)
 
@@ -1673,5 +1684,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 09:37:03 UTC*
+*Last updated: 2026-02-09 09:50:56 UTC*
 *Automatically maintained by SkillFlow*
