@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T07:42:58.611777",
+  "updated_at": "2026-02-09T08:41:35.380901",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -17879,6 +17879,20 @@
       "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md",
       "display_name": "Resumable Sessions Design",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "193671b3bc1de0bb5148877223ba49c3e6d25d73d9c1f5b5a97e07b04bdc61bf",
+      "source_path": "shared/hooks/docs/hook-lifecycle-diagram.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "data-analysis/111-hook-lifecycle-diagram_193671b3",
+      "category": "data-analysis",
+      "name": "hook-lifecycle-diagram_193671b3",
+      "indexed_at": "2026-02-09T08:41:35.380794",
+      "repo_stars": 58,
+      "repo_updated_at": "2026-02-09T06:04:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hook-lifecycle-diagram.md",
+      "display_name": "Hook Lifecycle Diagram",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
