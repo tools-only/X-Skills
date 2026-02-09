@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1280 AI-powered skills** organized into 14 categories.
+A curated collection of **1386 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,18 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (165 skills)
+- **Automation/Scripting** (204 skills)
 - **Automation/Workflow** (38 skills)
 - **Commercial** (210 skills)
-- **Communication** (28 skills)
-- **Content Creation** (430 skills)
-- **Daily Assistant** (14 skills)
-- **Data Analysis** (118 skills)
-- **Development** (99 skills)
-- **Development/Devops** (32 skills)
+- **Communication** (31 skills)
+- **Content Creation** (448 skills)
+- **Daily Assistant** (16 skills)
+- **Data Analysis** (120 skills)
+- **Development** (126 skills)
+- **Development/Devops** (42 skills)
 - **Development/Testing** (61 skills)
-- **Development/Tools** (20 skills)
+- **Development/Tools** (22 skills)
 - **Investment** (2 skills)
+- **Other** (3 skills)
 - **Productivity** (4 skills)
 - **Research** (59 skills)
 
@@ -180,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (165 skills)
+### Automation/Scripting (204 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -349,6 +350,45 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](automation/scripting/073-gotchas_70e2d004/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-vpc/gotchas.md) | 🔥 19.8k | `automation` |
 | [Api](automation/scripting/075-api_f9daa528/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/api.md) | 🔥 19.8k | `automation` |
 | [Configuration](automation/scripting/033-configuration_a8e042ff/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/configuration.md) | 🔥 19.8k | `automation` |
+| [Skill](automation/scripting/name-skill_8cedd1e8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_EmitSoundFilter/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_e29687cb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_0ec5d0c8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetStateChanged/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_27ef0d65/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_TakeDamageOld/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_05419774/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseModelEntity_SetModel/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_5e243cb0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_HandleCommand_JoinTeam/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_2819c7fb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_SetPawn/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_4363d17a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_SetPlayerName/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_923fc99e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_CommitSuicide/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_a18f7c51/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_FindPickerEntity/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_8d669273/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ChangeTeam/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_1a3631dd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_InventoryUpdateThink/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_c90fddd0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_Respawn/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_fe70b9f2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_SwitchTeam/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_9313a762/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerPawnBase_PostThink/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_a9bc3b19/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_CanAcquire/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_93e5fd46/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_DropActivePlayerWeapon-AND-CCSPlayer_ItemServices_RemoveWeapons/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_5c14aebb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_CanUse/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_59d8de7b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIOOutput_FireOutputInternal/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_0f0bd530/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntitySystem_AddEntityIOEvent/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_59bfed99/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameResourceService_BuildResourceManifest/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_a4a477f0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameRules_ClientSettingsChanged/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_947c9bf0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameSceneNode_GetSkeletonInstance/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_cbbe6573/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport-AND-CBaseEntity_Teleport/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_5b827fe8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CServerSideClient_IsHearingClient/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_0a48a74f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_363a7461/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_03e94bdb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTakeDamageInfo_GetWeaponName/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_e641a7a0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-ClientPrint/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_7b02e4be/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-GetCSWeaponDataFromKey/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_b4044a2e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-Host_Say-AND-UTIL_SayTextFilter-AND-UTIL_SayTextFilter2/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_7dfd3727/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_46be5efb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_ClientPrintAll/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_77b0cb41/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_CreateEntityByName/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_1b1d1015/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_PlayerSlotToPlayerController/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_8f5ff9e5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_Remove/SKILL.md) | ⭐ 13 | `automation` |
+| [Skill](automation/scripting/name-skill_694c1dd6/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-WeaponBuy/SKILL.md) | ⭐ 13 | `automation` |
+| [Sig Finder](automation/scripting/sig-finder_6666e992/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/agents/sig-finder.md) | ⭐ 13 | `automation` |
+| [Completion Checklist](automation/scripting/completion_checklist_17600de4/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/completion_checklist.md) | ⭐ 13 | `automation` |
 
 ### Automation/Workflow (38 skills)
 
@@ -391,7 +431,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_f5004d91/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright/SKILL.md) | 🔥 19.8k | `automation` |
 | [Service Types](automation/workflow/115-service-types_459590be/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/render-deploy/references/service-types.md) | 🔥 19.8k | `automation` |
 | [Patterns](automation/workflow/116-patterns_eca20d1d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/patterns.md) | 🔥 19.8k | `automation` |
-| [Readme.Ja](automation/workflow/readmeja_fbbf06b3/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_fbbf06b3/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 
 ### Commercial (210 skills)
 
@@ -608,7 +648,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](commercial/043-configuration_82a7c231/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/configuration.md) | 🔥 19.8k | `commercial` |
 | [Api](commercial/012-api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
 
-### Communication (28 skills)
+### Communication (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -640,8 +680,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](communication/236-gotchas_cb07bb56/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/gotchas.md) | 🔥 19.8k | `communication` |
 | [Patterns](communication/084-patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
 | [Configuration](communication/035-configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
+| [Host Say](communication/host_say_52986c5b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/Host_Say.md) | ⭐ 13 | `communication` |
+| [Util Clientprintall](communication/util_clientprintall_fdb923b0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_ClientPrintAll.md) | ⭐ 13 | `communication` |
+| [Util Saytextfilter](communication/util_saytextfilter_1c3f4042/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_SayTextFilter.md) | ⭐ 13 | `communication` |
 
-### Content Creation (430 skills)
+### Content Creation (448 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1075,8 +1118,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](content-creation/309-gotchas_83cecda6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtimekit/gotchas.md) | 🔥 19.8k | `content creation` |
 | [Patterns](content-creation/310-patterns_2e024213/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/realtimekit/patterns.md) | 🔥 19.8k | `content creation` |
 | [Api](content-creation/072-api_96dafb63/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers/api.md) | 🔥 19.8k | `content creation` |
+| [Skill](content-creation/name-skill_0e38fece/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-struct-as-yaml/SKILL.md) | ⭐ 13 | `content creation` |
+| [Cli](content-creation/cli_59a3bef7/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/cli.md) | ⭐ 201 | `content creation` |
+| [Style And Conventions](content-creation/style_and_conventions_ecf88805/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/style_and_conventions.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_a6ddaf5b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/create-serena-memory-for-component/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_dd611fdd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_527f1c71/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_781ef8ab/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_bae0d79b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_a4aacf5c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_3f82f295/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_1a52eefb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerPawn_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_026204b4/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_584a9584/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_21133452/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameRules_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_920fb3a7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_9f630169/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_138fe2c9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_vtable/SKILL.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/name-skill_4c302d8a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTakeDamageInfo_vtable/SKILL.md) | ⭐ 13 | `content creation` |
 
-### Daily Assistant (14 skills)
+### Daily Assistant (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1094,8 +1155,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](daily-assistant/230-gotchas_60f1e757/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/kv/gotchas.md) | 🔥 19.8k | `daily assistant` |
 | [Patterns](daily-assistant/232-patterns_5a527102/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/pages/patterns.md) | 🔥 19.8k | `daily assistant` |
 | [Gotchas](daily-assistant/230-gotchas_267e3fad/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/tunnel/gotchas.md) | 🔥 19.8k | `daily assistant` |
+| [Givenameditem](daily-assistant/givenameditem_c090408c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/GiveNamedItem.md) | ⭐ 13 | `daily assistant` |
+| [Weaponbuy](daily-assistant/weaponbuy_e99074be/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/WeaponBuy.md) | ⭐ 13 | `daily assistant` |
 
-### Data Analysis (118 skills)
+### Data Analysis (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1216,9 +1279,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](data-analysis/046-configuration_7d299378/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/configuration.md) | 🔥 19.8k | `data analysis` |
 | [Gotchas](data-analysis/429-gotchas_8e56c052/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/smart-placement/gotchas.md) | 🔥 19.8k | `data analysis` |
 | [Hook Lifecycle Diagram](data-analysis/111-hook-lifecycle-diagram_193671b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hook-lifecycle-diagram.md) | ⭐ 58 | `data analysis` |
-| [Disclaimer](data-analysis/disclaimer_75270864/) | [atlas-research-io/atlas-research-notebooks](https://raw.githubusercontent.com/atlas-research-io/atlas-research-notebooks/main/geography/disclaimer.md) | ⭐ 66 | `data analysis` |
+| [Disclaimer](data-analysis/430-disclaimer_75270864/) | [atlas-research-io/atlas-research-notebooks](https://raw.githubusercontent.com/atlas-research-io/atlas-research-notebooks/main/geography/disclaimer.md) | ⭐ 66 | `data analysis` |
+| [Update Gamedata](data-analysis/update_gamedata_52af7427/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/update_gamedata.md) | ⭐ 13 | `data analysis` |
+| [Download Bin](data-analysis/download_bin_10ae0d30/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/download_bin.md) | ⭐ 13 | `data analysis` |
 
-### Development (99 skills)
+### Development (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1321,8 +1386,35 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](development/434-gotchas_21ddf3bd/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/gotchas.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/434-gotchas_bb24bd86/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/gotchas.md) | 🔥 19.8k | `development` |
 | [Getting Started](development/421-getting-started_616a8930/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md) | 🔥 6.4k | `development` |
+| [Agents](development/agents_afe82654/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/AGENTS.md) | ⭐ 13 | `development` |
+| [Claude](development/claude_1866123d/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/CLAUDE.md) | ⭐ 13 | `development` |
+| [Project Overview](development/project_overview_080752b7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/project_overview.md) | ⭐ 13 | `development` |
+| [Suggested Commands](development/suggested_commands_df3f2c6e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/suggested_commands.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_b5be55d6/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-CBaseEntity_EndTouch/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_af051cfc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_RemovePlayerItem/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_0d2a18a7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_StartTouch-AND-CBaseTrigger_EndTouch/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_fb7c978d/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_TerminateRound-AND-CEntityInstance_AcceptInput/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_17dbc634/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_GiveNamedItem/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_5db222b3/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FireBullets-AND-TraceAttack-AND-CTakeDamageInfo/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_dfdbeafd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-GiveNamedItem-AND-UTIL_CreateEntityByName-AND-CBaseEntity_DispatchSpawn/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_5b97c660/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-IGameSystem_InitAllSystems-AND-IGameSystem_InitAllSystems_pFirst/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_8f9c73c6/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-LegacyGameEventListener/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_1c67b86a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-function/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_9b21bffe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-globalvar/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_1f6bd701/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-func-as-yaml/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_3e36f889/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-globalvar-as-yaml/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_5d3897d5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_580aa69c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vtable-as-yaml/SKILL.md) | ⭐ 13 | `development` |
+| [Cbaseplayercontroller Setplayername](development/cbaseplayercontroller_setplayername_e36311e1/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CBasePlayerController_SetPlayerName.md) | ⭐ 13 | `development` |
+| [Cgamerules Clientsettingschanged](development/cgamerules_clientsettingschanged_1c5d0939/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CGameRules_ClientSettingsChanged.md) | ⭐ 13 | `development` |
+| [Ctakedamageinfo Getweaponname](development/ctakedamageinfo_getweaponname_48ca6a93/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CTakeDamageInfo_GetWeaponName.md) | ⭐ 13 | `development` |
+| [Clantag](development/clantag_c1ec1793/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/Clantag.md) | ⭐ 13 | `development` |
+| [Clientprint](development/clientprint_27354077/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/ClientPrint.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_6d7b589b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/get-vtable-address/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_0a3d04f6/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/get-vtable-from-yaml/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_6fbce007/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/get-vtable-index/SKILL.md) | ⭐ 13 | `development` |
 
-### Development/Devops (32 skills)
+### Development/Devops (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1358,6 +1450,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](development/devops/294-gotchas_d002f5d6/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/gotchas.md) | 🔥 19.8k | `development` |
 | [Patterns](development/devops/295-patterns_8fc5fab7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/waf/patterns.md) | 🔥 19.8k | `development` |
 | [Patterns](development/devops/295-patterns_dc293c43/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workerd/patterns.md) | 🔥 19.8k | `development` |
+| [Util Playerslottoplayercontroller](development/devops/util_playerslottoplayercontroller_8a494e38/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_PlayerSlotToPlayerController.md) | ⭐ 13 | `development` |
+| [Cbasemodelentity Setmodel](development/devops/cbasemodelentity_setmodel_60088afa/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CBaseModelEntity_SetModel.md) | ⭐ 13 | `development` |
+| [Cbaseplayercontroller Handlecommand Jointeam](development/devops/cbaseplayercontroller_handlecommand_jointeam_27163994/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CBasePlayerController_HandleCommand_JoinTeam.md) | ⭐ 13 | `development` |
+| [Ccsplayercontroller Changeteam](development/devops/ccsplayercontroller_changeteam_52db82f2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CCSPlayerController_ChangeTeam.md) | ⭐ 13 | `development` |
+| [Ccsplayercontroller Switchteam](development/devops/ccsplayercontroller_switchteam_495f881b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/CCSPlayerController_SwitchTeam.md) | ⭐ 13 | `development` |
+| [Getcsglobalteam  And  Util Consoleprint](development/devops/getcsglobalteam__and__util_consoleprint_f2451a83/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/GetCSGlobalTeam__AND__UTIL_ConsolePrint.md) | ⭐ 13 | `development` |
+| [Networkstatechanged](development/devops/networkstatechanged_9f1e6b34/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/NetworkStateChanged.md) | ⭐ 13 | `development` |
+| [Takedamage](development/devops/takedamage_9fb0f5b9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/TakeDamage.md) | ⭐ 13 | `development` |
+| [Util Getlistenserverhost  And  Util Playerslottoplayercontroller](development/devops/util_getlistenserverhost__and__util_playerslottoplayercontroller_e089a460/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_GetListenServerHost__AND__UTIL_PlayerSlotToPlayerController.md) | ⭐ 13 | `development` |
+| [Util Remove](development/devops/util_remove_ea18fcaf/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_Remove.md) | ⭐ 13 | `development` |
 
 ### Development/Testing (61 skills)
 
@@ -1425,7 +1527,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](development/testing/058-gotchas_eb42fd58/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/miniflare/gotchas.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/testing/058-gotchas_85e262f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/gotchas.md) | 🔥 19.8k | `development` |
 
-### Development/Tools (20 skills)
+### Development/Tools (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1449,6 +1551,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_e7e8cd22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.4k | `development` |
 | [Skill](development/tools/002-name-skill_4300d59f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.4k | `development` |
 | [Resumable Sessions Design](development/tools/278-resumable_sessions_design_a4c2d0a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.4k | `development` |
+| [Ida Analyze Bin](development/tools/ida_analyze_bin_0bfb4d92/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/ida_analyze_bin.md) | ⭐ 13 | `development` |
+| [Skill](development/tools/name-skill_b99e1968/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CServerSideClient_vtable/SKILL.md) | ⭐ 13 | `development` |
 
 ### Investment (2 skills)
 
@@ -1456,6 +1560,14 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Legal Advisor](investment/036-legal-advisor_a931b41a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/legal-advisor.md) | 🔥 19.8k | `investment` |
 | [Quant Analyst](investment/037-quant-analyst_293d5bb0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/finance/quant-analyst.md) | 🔥 19.8k | `investment` |
+
+### Other (3 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Util Saytextfilter2](other/util_saytextfilter2_36ceb622/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_SayTextFilter2.md) | ⭐ 13 | `other` |
+| [Displacement](other/displacement_e34c77db/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/displacement.md) | ⭐ 13 | `other` |
+| [Gameevents](other/gameevents_9c1b20b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/gameevents.md) | ⭐ 13 | `other` |
 
 ### Productivity (4 skills)
 
@@ -1580,5 +1692,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 08:50:57 UTC*
+*Last updated: 2026-02-09 09:08:35 UTC*
 *Automatically maintained by SkillFlow*
