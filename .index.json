@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T07:16:22.048111",
+  "updated_at": "2026-02-09T07:42:58.611777",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -17823,6 +17823,62 @@
       "source_url": "https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/wrangler/configuration.md",
       "display_name": "Configuration",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "616a8930ca4bdd98ab88ea691188cf8c851a5193b9dd9bba6502a8a14cf311e4",
+      "source_path": "docs/getting-started.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/421-getting-started_616a8930",
+      "category": "development",
+      "name": "getting-started_616a8930",
+      "indexed_at": "2026-02-09T07:42:57.929403",
+      "repo_stars": 6377,
+      "repo_updated_at": "2026-02-07T19:49:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/getting-started.md",
+      "display_name": "Getting Started",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e7e8cd224f3df96958fb601f642b863affb92826b6eea956ecb725cb319079e1",
+      "source_path": ".claude/skills/hive-debugger/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/002-name-skill_e7e8cd22",
+      "category": "development/tools",
+      "name": "name-skill_e7e8cd22",
+      "indexed_at": "2026-02-09T07:42:58.106385",
+      "repo_stars": 6377,
+      "repo_updated_at": "2026-02-09T03:46:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4300d59fb63f106a78808b3f0acdc49283e0fe6d0d3dee76217666f33ddf14c7",
+      "source_path": ".claude/skills/hive/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/002-name-skill_4300d59f",
+      "category": "development/tools",
+      "name": "name-skill_4300d59f",
+      "indexed_at": "2026-02-09T07:42:58.304926",
+      "repo_stars": 6377,
+      "repo_updated_at": "2026-02-07T06:09:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a4c2d0a20abce37603c160df274bd6ea45e62c3f1b980d88db333782da8a42c3",
+      "source_path": "core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/278-resumable_sessions_design_a4c2d0a2",
+      "category": "development/tools",
+      "name": "resumable_sessions_design_a4c2d0a2",
+      "indexed_at": "2026-02-09T07:42:58.611725",
+      "repo_stars": 6377,
+      "repo_updated_at": "2026-02-09T03:42:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md",
+      "display_name": "Resumable Sessions Design",
+      "tags": "[\"development\"]"
     }
   ]
 }
