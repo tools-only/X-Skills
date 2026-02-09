@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1432 AI-powered skills** organized into 14 categories.
+A curated collection of **1604 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (208 skills)
-- **Automation/Workflow** (42 skills)
-- **Commercial** (213 skills)
-- **Communication** (29 skills)
-- **Content Creation** (443 skills)
-- **Daily Assistant** (17 skills)
-- **Data Analysis** (127 skills)
-- **Development** (150 skills)
-- **Development/Devops** (40 skills)
-- **Development/Testing** (63 skills)
-- **Development/Tools** (30 skills)
+- **Automation/Scripting** (210 skills)
+- **Automation/Workflow** (45 skills)
+- **Commercial** (219 skills)
+- **Communication** (33 skills)
+- **Content Creation** (452 skills)
+- **Daily Assistant** (19 skills)
+- **Data Analysis** (131 skills)
+- **Development** (248 skills)
+- **Development/Devops** (54 skills)
+- **Development/Testing** (85 skills)
+- **Development/Tools** (37 skills)
 - **Investment** (7 skills)
 - **Productivity** (4 skills)
-- **Research** (59 skills)
+- **Research** (60 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (208 skills)
+### Automation/Scripting (210 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -392,8 +392,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Think](automation/scripting/078-think_feebfd07/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/commands/think.md) | ⭐ 389 | `automation` |
 | [Skill](automation/scripting/003-name-skill_40b35d1b/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/complete-plan/SKILL.md) | ⭐ 47 | `automation` |
 | [Skill](automation/scripting/003-name-skill_28f1e691/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-plan-step/SKILL.md) | ⭐ 47 | `automation` |
+| [Skill](automation/scripting/name-skill_8ed0b563/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-bedrock/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `bedrock` |
+| [Skill](automation/scripting/name-skill_be345091/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `cloudwatch` |
 
-### Automation/Workflow (42 skills)
+### Automation/Workflow (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -437,10 +439,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme.Ja](automation/workflow/040-readmeja_fbbf06b3/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 26 | `automation` |
 | [Skill](automation/workflow/002-name-skill_067b4dab/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/agent-browser/SKILL.md) | ⭐ 27 | `automation` |
 | [Skill](automation/workflow/002-name-skill_2f13f725/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/create-plan/SKILL.md) | ⭐ 47 | `automation` |
-| [Cli Commands](automation/workflow/cli-commands_cf003766/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/cli-commands.md) | ⭐ 58 | `automation` |
-| [Test Spec Reference](automation/workflow/test-spec-reference_4ce75c10/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/test-spec-reference.md) | ⭐ 58 | `automation` |
+| [Skill](automation/workflow/name-skill_3c99e6a8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 88 | `prompt-engineering` `few-shot-learning` `chain-of-thought` |
+| [Skill](automation/workflow/name-skill_7744ad67/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 88 | `spring-boot` `actuator` `monitoring` |
+| [Guide Skills Aws Java](automation/workflow/guide-skills-aws-java_c061c1e0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-skills-aws-java.md) | ⭐ 88 | `automation` |
+| [Guide Skills Langchain4J](automation/workflow/guide-skills-langchain4j_83b47ddf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-skills-langchain4j.md) | ⭐ 88 | `automation` |
+| [Skill](automation/workflow/name-skill_3278ad11/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-vector-stores-configuration/SKILL.md) | ⭐ 88 | `langchain4j` `vector-stores` `embeddings` |
 
-### Commercial (213 skills)
+### Commercial (219 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -656,9 +661,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api](commercial/012-api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
 | [Context Overflow Handling](commercial/342-context-overflow-handling_7397deb4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/context-overflow-handling.md) | ⭐ 389 | `commercial` |
 | [Imagen Prompting Skill](commercial/343-imagen_prompting_skill_88fb3006/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/imagen_prompting_skill.md) | ⭐ 26 | `commercial` |
-| [Agentic Fix Loops](commercial/agentic-fix-loops_12775328/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/agentic-fix-loops.md) | ⭐ 58 | `commercial` |
+| [Skill](commercial/name-skill_b7002e91/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-ai-services-patterns/SKILL.md) | ⭐ 88 | `langchain4j` `ai-services` `annotations` |
+| [Skill](commercial/name-skill_e84dce3c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-rag-implementation-patterns/SKILL.md) | ⭐ 88 | `langchain4j` `rag` `retrieval-augmented-generation` |
+| [Skill](commercial/name-skill_af79fbb9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-saga-pattern/SKILL.md) | ⭐ 88 | `spring-boot` `saga` `distributed-transactions` |
+| [Skill](commercial/name-skill_ec4407ed/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `elasticache` |
+| [Reference](commercial/reference_33118ac4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/references/reference.md) | ⭐ 88 | `commercial` |
+| [Skill](commercial/name-skill_f134c058/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-caching/SKILL.md) | ⭐ 88 | `junit-5` `caching` `cacheable` |
+| [Generator Usage](commercial/generator-usage_ede21d5f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-crud-patterns/references/generator-usage.md) | ⭐ 88 | `commercial` |
 
-### Communication (29 skills)
+### Communication (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -691,8 +702,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](communication/084-patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
 | [Configuration](communication/035-configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
 | [Index](communication/157-index_a8e708f7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.6k | `anthropic` `claude` `opus 4.6` |
+| [Skill](communication/name-skill_cb989410/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 88 | `langchain4j` `tools` `function-calling` |
+| [Skill](communication/name-skill_2d0dc80c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-bean-validation/SKILL.md) | ⭐ 88 | `junit-5` `validation` `bean-validation` |
+| [Skill](communication/name-skill_0c509b99/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-config-properties/SKILL.md) | ⭐ 88 | `junit-5` `configuration-properties` `spring-profiles` |
+| [Examples](communication/examples_b181f88d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/references/examples.md) | ⭐ 88 | `communication` |
 
-### Content Creation (443 skills)
+### Content Creation (452 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1139,8 +1154,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Jina Reader Skill](content-creation/315-jina_reader_skill_47dd3deb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/jina_reader_skill.md) | ⭐ 26 | `content creation` |
 | [Nano Banana Prompting Skill](content-creation/316-nano_banana_prompting_skill_c4fa1c81/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/nano_banana_prompting_skill.md) | ⭐ 26 | `content creation` |
 | [Suno Skill](content-creation/317-suno_skill_68e280b5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/suno_skill.md) | ⭐ 26 | `content creation` |
+| [Devkit.React.Code Review](content-creation/devkitreactcode-review_33ed0fe5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/commands/devkit.react.code-review.md) | ⭐ 88 | `content creation` |
+| [Skill](content-creation/name-skill_dc894f84/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-openapi-documentation/SKILL.md) | ⭐ 88 | `spring-boot` `openapi` `swagger` |
+| [Skill](content-creation/name-skill_c12b1c92/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-data-jpa/SKILL.md) | ⭐ 88 | `spring-data` `jpa` `database` |
+| [Skill](content-creation/name-skill_452585f3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/react-patterns/SKILL.md) | ⭐ 88 | `react` `react-19` `typescript` |
+| [Skill](content-creation/name-skill_7ffe397d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 88 | `content creation` |
+| [Skill](content-creation/name-skill_890c4dd9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-testing-strategies/SKILL.md) | ⭐ 88 | `langchain4j` `testing` `unit-tests` |
+| [Skill](content-creation/name-skill_1a94f865/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-test-patterns/SKILL.md) | ⭐ 88 | `spring-boot` `java` `testing` |
+| [Skill](content-creation/name-skill_52422aaa/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-controller-layer/SKILL.md) | ⭐ 88 | `junit-5` `mockito` `unit-testing` |
+| [Skill](content-creation/name-skill_3d6690e6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-parameterized/SKILL.md) | ⭐ 88 | `junit-5` `parameterized-test` `value-source` |
 
-### Daily Assistant (17 skills)
+### Daily Assistant (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1161,8 +1185,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_a5881d35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/qmd-skill/SKILL.md) | ⭐ 27 | `daily assistant` |
 | [Skill](daily-assistant/233-technical-skill_c2d74181/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/tool-builder/SKILL.md) | ⭐ 389 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_ee453258/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-plan-status/SKILL.md) | ⭐ 47 | `daily assistant` |
+| [Heartbeat](daily-assistant/heartbeat_359e5769/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/templates/HEARTBEAT.md) | ⭐ 10 | `daily assistant` |
+| [Guide Agents](daily-assistant/guide-agents_6e7ddc04/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/docs/guide-agents.md) | ⭐ 88 | `daily assistant` |
 
-### Data Analysis (127 skills)
+### Data Analysis (131 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1293,8 +1319,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Diagram Types](data-analysis/432-diagram_types_79514ada/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/pretty-mermaid/references/DIAGRAM_TYPES.md) | ⭐ 27 | `data analysis` |
 | [Notification Center](data-analysis/433-notification-center_d6338995/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/notification-center.md) | ⭐ 389 | `data analysis` |
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_4cc42795/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 389 | `data analysis` |
+| [Devkit.Write A Minute Of A Meeting](data-analysis/devkitwrite-a-minute-of-a-meeting_81173ed2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-project-management/commands/devkit.write-a-minute-of-a-meeting.md) | ⭐ 88 | `data analysis` |
+| [Skill](data-analysis/name-skill_57db3476/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/chunking-strategy/SKILL.md) | ⭐ 88 | `rag` `chunking` `vector-search` |
+| [Reference](data-analysis/reference_080807b8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/references/reference.md) | ⭐ 88 | `data analysis` |
+| [Skill](data-analysis/name-skill_0d7da64e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-mapper-converter/SKILL.md) | ⭐ 88 | `junit-5` `mapstruct` `mapper` |
 
-### Development (150 skills)
+### Development (248 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1445,11 +1475,109 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme.Zh Cn](development/822-readmezh-cn_41131033/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-CN.md) | ⭐ 26 | `development` |
 | [Readme.Zh Tw](development/2664-readmezh-tw_8aad488e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.zh-TW.md) | ⭐ 26 | `development` |
 | [Quickstart](development/760-quickstart_4679bf2e/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/scripts/QUICKSTART.md) | ⭐ 26 | `development` |
-| [Skill](development/name-skill_a2d63816/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 58 | `development` |
-| [Test Spec Guide](development/test-spec-guide_827c1165/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/test-spec-guide.md) | ⭐ 58 | `development` |
-| [Topic Name Resolution](development/topic-name-resolution_be088cab/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/topic-name-resolution.md) | ⭐ 58 | `development` |
+| [Prompt Engineering Expert](development/prompt-engineering-expert_4a21fcae/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/agents/prompt-engineering-expert.md) | ⭐ 88 | `development` |
+| [Aws Architecture Review Expert](development/aws-architecture-review-expert_c29433a1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/agents/aws-architecture-review-expert.md) | ⭐ 88 | `development` |
+| [Aws Cloudformation Devops Expert](development/aws-cloudformation-devops-expert_4f697d7d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/agents/aws-cloudformation-devops-expert.md) | ⭐ 88 | `development` |
+| [Aws Solution Architect Expert](development/aws-solution-architect-expert_4d9d0683/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/agents/aws-solution-architect-expert.md) | ⭐ 88 | `development` |
+| [Document Generator Expert](development/document-generator-expert_374d9a7c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/agents/document-generator-expert.md) | ⭐ 88 | `development` |
+| [General Code Explorer](development/general-code-explorer_497f434a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/agents/general-code-explorer.md) | ⭐ 88 | `development` |
+| [General Debugger](development/general-debugger_81acc996/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/agents/general-debugger.md) | ⭐ 88 | `development` |
+| [General Refactor Expert](development/general-refactor-expert_d4ebaf30/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/agents/general-refactor-expert.md) | ⭐ 88 | `development` |
+| [General Software Architect](development/general-software-architect_8fd5323e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/agents/general-software-architect.md) | ⭐ 88 | `development` |
+| [Devkit.Brainstorm](development/devkitbrainstorm_e2c8b20c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.brainstorm.md) | ⭐ 88 | `development` |
+| [Devkit.Feature Development](development/devkitfeature-development_3ee44624/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.feature-development.md) | ⭐ 88 | `development` |
+| [Devkit.Fix Debugging](development/devkitfix-debugging_d8612eea/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.fix-debugging.md) | ⭐ 88 | `development` |
+| [Devkit.Generate Changelog](development/devkitgenerate-changelog_b9aa1c43/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.generate-changelog.md) | ⭐ 88 | `development` |
+| [Devkit.Generate Document](development/devkitgenerate-document_881bfd90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.generate-document.md) | ⭐ 88 | `development` |
+| [Devkit.Generate Security Assessment](development/devkitgenerate-security-assessment_9a9a8b1b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.generate-security-assessment.md) | ⭐ 88 | `development` |
+| [Devkit.Github.Create Pr](development/devkitgithubcreate-pr_36f33cc8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.github.create-pr.md) | ⭐ 88 | `development` |
+| [Devkit.Github.Review Pr](development/devkitgithubreview-pr_266fc7f1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.github.review-pr.md) | ⭐ 88 | `development` |
+| [Guide Commands](development/guide-commands_ef6eabaf/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/docs/guide-commands.md) | ⭐ 88 | `development` |
+| [Guide Lra Workflow](development/guide-lra-workflow_6c6b9fb3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/docs/guide-lra-workflow.md) | ⭐ 88 | `development` |
+| [Installation](development/installation_390e16d2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/docs/installation.md) | ⭐ 88 | `development` |
+| [General Docker Expert](development/general-docker-expert_e53b9bd7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-devops/agents/general-docker-expert.md) | ⭐ 88 | `development` |
+| [Github Actions Pipeline Expert](development/github-actions-pipeline-expert_57860e0c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-devops/agents/github-actions-pipeline-expert.md) | ⭐ 88 | `v*` |
+| [Java Refactor Expert](development/java-refactor-expert_2a7575e4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/java-refactor-expert.md) | ⭐ 88 | `development` |
+| [Java Software Architect Review](development/java-software-architect-review_fa46d2b9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/java-software-architect-review.md) | ⭐ 88 | `development` |
+| [Java Tutorial Engineer](development/java-tutorial-engineer_808cd0ba/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/java-tutorial-engineer.md) | ⭐ 88 | `development` |
+| [Spring Boot Code Review Expert](development/spring-boot-code-review-expert_897c04b0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/spring-boot-code-review-expert.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Code Review](development/devkitjavacode-review_7f46a604/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.code-review.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Dependency Audit](development/devkitjavadependency-audit_02eed018/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.dependency-audit.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Generate Crud](development/devkitjavagenerate-crud_d98da6da/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.generate-crud.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Refactor Class](development/devkitjavarefactor-class_8b510e21/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.refactor-class.md) | ⭐ 88 | `development` |
+| [Guide Agents](development/guide-agents_e25d646d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-agents.md) | ⭐ 88 | `development` |
+| [Guide Commands](development/guide-commands_b7424b83/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-commands.md) | ⭐ 88 | `development` |
+| [Php Refactor Expert](development/php-refactor-expert_5dfb2917/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/agents/php-refactor-expert.md) | ⭐ 88 | `development` |
+| [Php Security Expert](development/php-security-expert_4996ca5e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/agents/php-security-expert.md) | ⭐ 88 | `development` |
+| [Wordpress Development Expert](development/wordpress-development-expert_80792971/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/agents/wordpress-development-expert.md) | ⭐ 88 | `development` |
+| [Guide Agents](development/guide-agents_d951bbad/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/docs/guide-agents.md) | ⭐ 88 | `development` |
+| [Guide Commands](development/guide-commands_1befd136/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-project-management/docs/guide-commands.md) | ⭐ 88 | `development` |
+| [Python Refactor Expert](development/python-refactor-expert_434ac321/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/agents/python-refactor-expert.md) | ⭐ 88 | `development` |
+| [Python Security Expert](development/python-security-expert_c1309453/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/agents/python-security-expert.md) | ⭐ 88 | `development` |
+| [Python Software Architect Expert](development/python-software-architect-expert_279c0dc1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/agents/python-software-architect-expert.md) | ⭐ 88 | `development` |
+| [Guide Agents](development/guide-agents_abc46513/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/docs/guide-agents.md) | ⭐ 88 | `development` |
+| [Expo React Native Development Expert](development/expo-react-native-development-expert_6fbc1827/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/expo-react-native-development-expert.md) | ⭐ 88 | `development` |
+| [Nestjs Code Review Expert](development/nestjs-code-review-expert_1e2d13a7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/nestjs-code-review-expert.md) | ⭐ 88 | `development` |
+| [Nestjs Security Expert](development/nestjs-security-expert_b7cb81cb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/nestjs-security-expert.md) | ⭐ 88 | `development` |
+| [Typescript Documentation Expert](development/typescript-documentation-expert_68011551/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/typescript-documentation-expert.md) | ⭐ 88 | `development` |
+| [Typescript Refactor Expert](development/typescript-refactor-expert_720816af/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/typescript-refactor-expert.md) | ⭐ 88 | `development` |
+| [Typescript Security Expert](development/typescript-security-expert_a7375193/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/typescript-security-expert.md) | ⭐ 88 | `development` |
+| [Typescript Software Architect Review](development/typescript-software-architect-review_db6bdefd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/typescript-software-architect-review.md) | ⭐ 88 | `development` |
+| [Devkit.Typescript.Code Review](development/devkittypescriptcode-review_f20b67d7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/commands/devkit.typescript.code-review.md) | ⭐ 88 | `development` |
+| [Guide Agents](development/guide-agents_e06e929f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/docs/guide-agents.md) | ⭐ 88 | `development` |
+| [Guide Skills Frontend](development/guide-skills-frontend_88665531/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/docs/guide-skills-frontend.md) | ⭐ 88 | `development` |
+| [Speckit.Verify](development/speckitverify_f0dc44f2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/github-spec-kit/commands/speckit.verify.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Add Feature](development/devkitlraadd-feature_dc63f95c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.add-feature.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Checkpoint](development/devkitlracheckpoint_857c7ac0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.checkpoint.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Mark Feature](development/devkitlramark-feature_57a97dc3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.mark-feature.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Recover](development/devkitlrarecover_5dd207e0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.recover.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Start Session](development/devkitlrastart-session_d470f1b2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.start-session.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Status](development/devkitlrastatus_863923f3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.status.md) | ⭐ 88 | `development` |
+| [Skill](development/name-skill_da38c42e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-rds-spring-boot-integration/SKILL.md) | ⭐ 88 | `aws` `rds` `aurora` |
+| [Skill](development/name-skill_3fc27a32/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-core/SKILL.md) | ⭐ 88 | `aws` `java` `sdk` |
+| [Skill](development/name-skill_aa447300/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-dynamodb/SKILL.md) | ⭐ 88 | `aws` `dynamodb` `java` |
+| [Skill](development/name-skill_0196cb01/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-kms/SKILL.md) | ⭐ 88 | `aws` `kms` `java` |
+| [Skill](development/name-skill_843bbb1b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-lambda/SKILL.md) | ⭐ 88 | `aws` `lambda` `java` |
+| [Skill](development/name-skill_a1e78b20/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-rds/SKILL.md) | ⭐ 88 | `aws` `rds` `database` |
+| [Skill](development/name-skill_e0a43e28/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-secrets-manager/SKILL.md) | ⭐ 88 | `aws` `secrets-manager` `java` |
+| [Skill](development/name-skill_a799ba95/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-mcp-server-patterns/SKILL.md) | ⭐ 88 | `langchain4j` `mcp` `model-context-protocol` |
+| [Skill](development/name-skill_78382630/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-spring-boot-integration/SKILL.md) | ⭐ 88 | `langchain4j` `spring-boot` `ai` |
+| [Skill](development/name-skill_1d8244c4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-ai-mcp-server-patterns/SKILL.md) | ⭐ 88 | `spring-ai` `mcp` `model-context-protocol` |
+| [Skill](development/name-skill_f3d201d5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-event-driven-patterns/SKILL.md) | ⭐ 88 | `spring-boot` `java` `event-driven` |
+| [Skill](development/name-skill_fedec6f2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-resilience4j/SKILL.md) | ⭐ 88 | `spring-boot` `resilience4j` `circuit-breaker` |
+| [Skill](development/name-skill_9f2cc61c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-rest-api-standards/SKILL.md) | ⭐ 88 | `spring-boot` `rest-api` `dto` |
+| [Skill](development/name-skill_6dbd52de/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/shadcn-ui/SKILL.md) | ⭐ 88 | `development` |
+| [Skill](development/name-skill_b6dfcb65/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/tailwind-css-patterns/SKILL.md) | ⭐ 88 | `development` |
+| [Skill](development/name-skill_88e9827e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/typescript-docs/SKILL.md) | ⭐ 88 | `typescript` `documentation` `jsdoc` |
+| [Skill](development/name-skill_4c066333/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudfront/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `cloudfront` |
+| [Skill](development/name-skill_51c30931/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-dynamodb/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `dynamodb` |
+| [Skill](development/name-skill_c09a3421/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-ec2/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `ec2` |
+| [Skill](development/name-skill_aedae714/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-ecs/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `ecs` |
+| [Skill](development/name-skill_62553ba0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-iam/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `iam` |
+| [Skill](development/name-skill_56e094bb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-rds/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `rds` |
+| [Skill](development/name-skill_53597035/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-s3/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `s3` |
+| [Skill](development/name-skill_fcb6d94f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `security` |
+| [Reference](development/reference_ded62b7e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudfront/references/reference.md) | ⭐ 88 | `development` |
+| [Devkit.Prompt Optimize](development/devkitprompt-optimize_ff18f91c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/commands/devkit.prompt-optimize.md) | ⭐ 88 | `development` |
+| [Guide Commands](development/guide-commands_4a541125/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/docs/guide-commands.md) | ⭐ 88 | `development` |
+| [General Code Reviewer](development/general-code-reviewer_c3ea513b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/agents/general-code-reviewer.md) | ⭐ 88 | `development` |
+| [Devkit.Verify Skill](development/devkitverify-skill_f5d02796/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.verify-skill.md) | ⭐ 88 | `development` |
+| [Guide Agents](development/guide-agents_2ef91ecc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/docs/guide-agents.md) | ⭐ 88 | `development` |
+| [Langchain4J Ai Development Expert](development/langchain4j-ai-development-expert_c51ea115/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/langchain4j-ai-development-expert.md) | ⭐ 88 | `development` |
+| [Spring Boot Backend Development Expert](development/spring-boot-backend-development-expert_6b94adde/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/spring-boot-backend-development-expert.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Architect Review](development/devkitjavaarchitect-review_5a2c7b50/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.architect-review.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Generate Refactoring Tasks](development/devkitjavagenerate-refactoring-tasks_610459b9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.generate-refactoring-tasks.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Write Integration Tests](development/devkitjavawrite-integration-tests_78197dc9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.write-integration-tests.md) | ⭐ 88 | `development` |
+| [Php Code Review Expert](development/php-code-review-expert_03868298/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/agents/php-code-review-expert.md) | ⭐ 88 | `development` |
+| [Python Code Review Expert](development/python-code-review-expert_7fcd7714/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/agents/python-code-review-expert.md) | ⭐ 88 | `development` |
+| [Nestjs Unit Testing Expert](development/nestjs-unit-testing-expert_c01a8c3f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/nestjs-unit-testing-expert.md) | ⭐ 88 | `development` |
+| [Guide Commands](development/guide-commands_edc0c39d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/docs/guide-commands.md) | ⭐ 88 | `development` |
+| [Guide Commands](development/guide-commands_9cc23e3b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/github-spec-kit/docs/guide-commands.md) | ⭐ 88 | `development` |
+| [Skill](development/name-skill_b80a5907/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-data-neo4j/SKILL.md) | ⭐ 88 | `spring-data` `neo4j` `graph-database` |
+| [Skill](development/name-skill_5aea6ad2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-boundary-conditions/SKILL.md) | ⭐ 88 | `junit-5` `boundary-testing` `edge-cases` |
+| [Examples](development/examples_e038d4d9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudfront/references/examples.md) | ⭐ 88 | `development` |
 
-### Development/Devops (40 skills)
+### Development/Devops (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1493,8 +1621,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
 | [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
 | [Readme Old](development/devops/301-readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
+| [Java Documentation Specialist](development/devops/java-documentation-specialist_a750341d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/java-documentation-specialist.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Generate Docs](development/devops/devkitjavagenerate-docs_25d44b53/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.generate-docs.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Security Review](development/devops/devkitjavasecurity-review_ee1483f0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.security-review.md) | ⭐ 88 | `development` |
+| [Nestjs Backend Development Expert](development/devops/nestjs-backend-development-expert_c2c5ab8d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/nestjs-backend-development-expert.md) | ⭐ 88 | `development` |
+| [Devkit.Ts.Security Review](development/devops/devkittssecurity-review_073c88a0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/commands/devkit.ts.security-review.md) | ⭐ 88 | `development` |
+| [Speckit.Optimize](development/devops/speckitoptimize_a30594fe/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/github-spec-kit/commands/speckit.optimize.md) | ⭐ 88 | `development` |
+| [Devkit.Lra.Init](development/devops/devkitlrainit_e63e2f8d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/lra/devkit.lra.init.md) | ⭐ 88 | `development` |
+| [Skill](development/devops/name-skill_28d1445f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/qdrant/SKILL.md) | ⭐ 88 | `qdrant` `java` `spring-boot` |
+| [Skill](development/devops/name-skill_8a129eb2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-auto-scaling/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `auto-scaling` |
+| [Skill](development/devops/name-skill_4427bbc2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-lambda/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `lambda` |
+| [Skill](development/devops/name-skill_ddf35e08/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `github-actions` |
+| [Skill](development/devops/name-skill_8f10b091/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-vpc/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `vpc` |
+| [Guide Agents](development/devops/guide-agents_293a6463/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/docs/guide-agents.md) | ⭐ 88 | `development` |
+| [Guide Agents](development/devops/guide-agents_20a1fdf7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-devops/docs/guide-agents.md) | ⭐ 88 | `development` |
 
-### Development/Testing (63 skills)
+### Development/Testing (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1561,8 +1703,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](development/testing/058-gotchas_85e262f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-playground/gotchas.md) | 🔥 19.8k | `development` |
 | [Toolkit Git](development/testing/060-toolkit-git_cb666ce7/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-git.md) | ⭐ 10 | `development` |
 | [Fix Pr](development/testing/061-fix-pr_0fc70ae3/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/fix-pr.md) | ⭐ 27 | `development` |
+| [Java Security Expert](development/testing/java-security-expert_7cdf2cd4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/java-security-expert.md) | ⭐ 88 | `development` |
+| [Devkit.Java.Upgrade Dependencies](development/testing/devkitjavaupgrade-dependencies_13541a1a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.upgrade-dependencies.md) | ⭐ 88 | `development` |
+| [Guide Skills Spring Boot](development/testing/guide-skills-spring-boot_8479cbf2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-skills-spring-boot.md) | ⭐ 88 | `development` |
+| [Php Software Architect Expert](development/testing/php-software-architect-expert_227b4758/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/agents/php-software-architect-expert.md) | ⭐ 88 | `development` |
+| [Nestjs Database Expert](development/testing/nestjs-database-expert_6f8f0b49/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/nestjs-database-expert.md) | ⭐ 88 | `development` |
+| [Speckit.Check Integration](development/testing/speckitcheck-integration_7d1f0f7c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/github-spec-kit/commands/speckit.check-integration.md) | ⭐ 88 | `development` |
+| [Skill](development/testing/name-skill_f6e10a4b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-bedrock/SKILL.md) | ⭐ 88 | `aws` `bedrock` `java` |
+| [Skill](development/testing/name-skill_2e1c03d3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-s3/SKILL.md) | ⭐ 88 | `aws` `s3` `java` |
+| [Skill](development/testing/name-skill_a172157d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-cache/SKILL.md) | ⭐ 88 | `spring-boot` `caching` `performance` |
+| [Skill](development/testing/name-skill_8112b312/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-dependency-injection/SKILL.md) | ⭐ 88 | `spring-boot` `dependency-injection` `constructor-injection` |
+| [Skill](development/testing/name-skill_0833aec4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-security-jwt/SKILL.md) | ⭐ 88 | `spring-boot` `spring-security` `jwt` |
+| [Skill](development/testing/name-skill_4674e798/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nestjs/SKILL.md) | ⭐ 88 | `development` |
+| [Spring Boot Unit Testing Expert](development/testing/spring-boot-unit-testing-expert_a7634d13/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/agents/spring-boot-unit-testing-expert.md) | ⭐ 88 | `development` |
+| [Guide Skills Junit Test](development/testing/guide-skills-junit-test_a6251b38/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-skills-junit-test.md) | ⭐ 88 | `development` |
+| [Nestjs Testing Expert](development/testing/nestjs-testing-expert_b0293064/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/nestjs-testing-expert.md) | ⭐ 88 | `development` |
+| [Skill](development/testing/name-skill_8a3b5c05/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-application-events/SKILL.md) | ⭐ 88 | `junit-5` `application-events` `event-driven` |
+| [Skill](development/testing/name-skill_2c17f895/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-exception-handler/SKILL.md) | ⭐ 88 | `junit-5` `exception-handler` `controller-advice` |
+| [Skill](development/testing/name-skill_dd11852c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-json-serialization/SKILL.md) | ⭐ 88 | `junit-5` `json-test` `jackson` |
+| [Skill](development/testing/name-skill_3cb4e14f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-scheduled-async/SKILL.md) | ⭐ 88 | `junit-5` `scheduled` `async` |
+| [Skill](development/testing/name-skill_18848a0a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-security-authorization/SKILL.md) | ⭐ 88 | `junit-5` `spring-security` `authorization` |
+| [Skill](development/testing/name-skill_baf36082/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-service-layer/SKILL.md) | ⭐ 88 | `junit-5` `mockito` `unit-testing` |
+| [Skill](development/testing/name-skill_09284136/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-wiremock-rest-api/SKILL.md) | ⭐ 88 | `junit-5` `wiremock` `unit-testing` |
 
-### Development/Tools (30 skills)
+### Development/Tools (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1596,6 +1760,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Index](development/tools/282-code_index_b59f61cc/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Readme Cn](development/tools/232-readme_cn_d704cba9/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/README_CN.md) | ⭐ 11 | `development` |
 | [Skill Usage Guide](development/tools/283-skill-usage-guide_14f2ba8c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skill-usage-guide.md) | ⭐ 47 | `development` |
+| [Devkit.Refactor](development/tools/devkitrefactor_35e98288/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.refactor.md) | ⭐ 88 | `development` |
+| [React Frontend Development Expert](development/tools/react-frontend-development-expert_f5639308/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/react-frontend-development-expert.md) | ⭐ 88 | `development` |
+| [React Software Architect Review](development/tools/react-software-architect-review_68371f22/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/agents/react-software-architect-review.md) | ⭐ 88 | `development` |
+| [Skill](development/tools/name-skill_fdad1b4c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-messaging/SKILL.md) | ⭐ 88 | `aws` `sqs` `sns` |
+| [Skill](development/tools/name-skill_0337a8c7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-crud-patterns/SKILL.md) | ⭐ 88 | `spring-boot` `java` `ddd` |
+| [Devkit.Java.Write Unit Tests](development/tools/devkitjavawrite-unit-tests_85ba2bef/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/commands/devkit.java.write-unit-tests.md) | ⭐ 88 | `development` |
+| [Skill](development/tools/name-skill_a02700a8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-utility-methods/SKILL.md) | ⭐ 88 | `junit-5` `unit-testing` `utility` |
 
 ### Investment (7 skills)
 
@@ -1618,7 +1789,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task Distributor](productivity/159-task-distributor_ff3b09f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/task-distributor.md) | 🔥 19.8k | `productivity` |
 | [Patterns](productivity/160-patterns_e3bcdfb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/hyperdrive/patterns.md) | 🔥 19.8k | `productivity` |
 
-### Research (59 skills)
+### Research (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1681,6 +1852,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](research/247-configuration_361f709d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/configuration.md) | 🔥 19.8k | `research` |
 | [Patterns](research/248-patterns_daeb6aa8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/patterns.md) | 🔥 19.8k | `research` |
 | [Patterns](research/248-patterns_6ccd1e33/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/patterns.md) | 🔥 19.8k | `research` |
+| [Skill](research/name-skill_fd68d71b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/rag/SKILL.md) | ⭐ 88 | `rag` `vector-databases` `embeddings` |
 
 ## How Skills Are Organized
 
@@ -1732,5 +1904,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 16:11:53 UTC*
+*Last updated: 2026-02-09 16:46:43 UTC*
 *Automatically maintained by SkillFlow*
