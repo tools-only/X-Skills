@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1669 AI-powered skills** organized into 15 categories.
+A curated collection of **1668 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -20,7 +20,6 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Development/Testing** (77 skills)
 - **Development/Tools** (50 skills)
 - **Investment** (7 skills)
-- **Other** (1 skill)
 - **Productivity** (11 skills)
 - **Research** (62 skills)
 
@@ -1615,7 +1614,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Outputs](development/2718-outputs_41945cf2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/outputs.md) | ⭐ 31 | `development` |
 | [Sql](development/2719-sql_917d8914/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/sql.md) | ⭐ 31 | `development` |
 | [Tick](development/2720-tick_79b154af/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tick.md) | ⭐ 31 | `development` |
-| [Decisions](development/decisions_573b2719/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 166 | `development` |
+| [Decisions](development/1342-decisions_573b2719/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 166 | `development` |
 
 ### Development/Devops (65 skills)
 
@@ -1821,8 +1820,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [08 Session](development/tools/288-08-session_8154b9ad/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/08-session.md) | ⭐ 1.1k | `development` |
 | [Skill](development/tools/002-name-skill_54638827/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/nanobanana/SKILL.md) | ⭐ 31 | `development` |
 | [Skill](development/tools/002-name-skill_3a9a8382/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/save-web-page/SKILL.md) | ⭐ 31 | `development` |
-| [Forward Client Headers](development/tools/forward_client_headers_239e5a02/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 35.6k | `development` |
-| [Index](development/tools/index_2b718b1b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/index.md) | ⭐ 166 | `development` |
+| [Forward Client Headers](development/tools/291-forward_client_headers_239e5a02/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md) | 🔥 35.6k | `development` |
+| [Agents](development/tools/agents_515671bb/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
 
 ### Investment (7 skills)
 
@@ -1835,12 +1834,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Usage](investment/038-readme_usage_a5969401/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/README_USAGE.md) | ⭐ 27 | `investment` |
 | [Fields](investment/039-fields_a89352d4/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/fields.md) | ⭐ 27 | `investment` |
 | [Screeners](investment/040-screeners_1c274a35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/screeners.md) | ⭐ 27 | `investment` |
-
-### Other (1 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Xai](other/xai_0983c0a6/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/xai.md) | ⭐ 166 | `other` |
 
 ### Productivity (11 skills)
 
@@ -1975,5 +1968,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 18:19:24 UTC*
+*Last updated: 2026-02-09 18:23:56 UTC*
 *Automatically maintained by SkillFlow*

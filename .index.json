@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T18:19:24.265381",
+  "updated_at": "2026-02-09T18:23:55.597083",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -23338,6 +23338,20 @@
       "repo_updated_at": "2026-02-09T18:03:43+00:00",
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/forward_client_headers.md",
       "display_name": "Forward Client Headers",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "515671bbff4713599fe7dabc458a22c3ca13f640e40c6444542d87b7c53e6f5f",
+      "source_path": "AGENTS.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/tools/015-agents_515671bb",
+      "category": "development/tools",
+      "name": "agents_515671bb",
+      "indexed_at": "2026-02-09T18:23:55.597040",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-08T18:41:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md",
+      "display_name": "Agents",
       "tags": "[\"development\"]"
     }
   ]
