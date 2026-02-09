@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **926 AI-powered skills** organized into 9 categories.
+A curated collection of **932 AI-powered skills** organized into 12 categories.
 
 ## Overview
 
@@ -11,166 +11,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (136 skills)
 - **Automation/Workflow** (3 skills)
 - **Commercial** (190 skills)
-- **Content Creation** (402 skills)
-- **Daily Assistant** (1 skill)
+- **Communication** (1 skill)
+- **Content Creation** (400 skills)
+- **Daily Assistant** (2 skills)
 - **Data Analysis** (89 skills)
+- **Development/Devops** (2 skills)
 - **Development/Testing** (52 skills)
+- **Development/Tools** (3 skills)
 - **Productivity** (1 skill)
-- **Research** (52 skills)
-
-## Patches - Curated Skill Bundles
-
-Pre-configured skill bundles for common AI agent use cases.
-
-### Quick Start with Claude Code
-
-```bash
-# Install X-Skills CLI
-pip install -e skillflow_repos/X-Skills
-
-# List available patches
-xskills patches list
-
-# Install a patch (e.g., research-agent)
-xskills patch install research-agent
-
-# Skills are now available in Claude Code!
-```
-
-### Available Patches
-
-| Patch | Skills | Categories | Install |
-|-------|--------|------------|---------|
-| [Automation Agent](automation-agent/) | 0 | automation | `xskills patch install automation-agent` |
-| [Communication Agent](communication-agent/) | 40 | communication | `xskills patch install communication-agent` |
-| [Content Creator](content-creator/) | 0 | content-creation | `xskills patch install content-creator` |
-| [Data Analyst](data-analyst/) | 0 | data-analysis | `xskills patch install data-analyst` |
-| [DevOps Engineer](devops-engineer/) | 60 | development | `xskills patch install devops-engineer` |
-| [Productivity Assistant](productivity-assistant/) | 50 | productivity, daily-assistant | `xskills patch install productivity-assistant` |
-| [Python Developer](python-dev/) | 0 | development | `xskills patch install python-dev` |
-| [Research Agent](research-agent/) | 0 | research | `xskills patch install research-agent` |
-| [Web Development Agent](web-dev-agent/) | 0 | development | `xskills patch install web-dev-agent` |
-
-### Installation Methods
-
-**Method 1: Using X-Skills CLI (Recommended)**
-
-```bash
-# Install to Claude Code skills directory
-xskills patch install <patch-id>
-
-# Skills install to: ~/.claude/skills/patch-<patch-id>/
-# Immediately available in Claude Code
-```
-
-**Method 2: Direct Installation**
-
-```bash
-# Clone this repository
-git clone https://github.com/tools-only/X-Skills.git
-cd X-Skills
-
-# Install a patch
-python -m src.patch_installer install <patch-id>
-```
-
-### Usage Examples
-
-```bash
-# Research Agent - Academic papers and literature review
-xskills patch install research-agent
-
-# Web Development Agent - Full-stack web development
-xskills patch install web-dev-agent
-
-# Content Creator - Writing and content generation
-xskills patch install content-creator
-
-# Data Analyst - Data analysis and visualization
-xskills patch install data-analyst
-
-# View installed patches
-xskills patches list
-
-# Uninstall a patch
-xskills patch uninstall <patch-id>
-```
-
-### Browse Skills
-
-```bash
-# Browse all skills
-xskills browse
-
-# Browse by category
-xskills browse --category research
-
-# Search skills
-xskills search "web development"
-```
-
-**[View all patches and documentation](INDEX.md)**
-
-
-## Claude Code Integration
-
-### Quick Start
-
-X-Skills integrates seamlessly with Claude Code through patches - curated skill bundles for common use cases.
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/tools-only/X-Skills.git
-cd X-Skills
-
-# 2. Install the X-Skills CLI
-pip install -e .
-
-# 3. List available patches
-xskills patches list
-
-# 4. Install a patch
-xskills patch install research-agent
-
-# 5. Skills are now available in Claude Code!
-```
-
-### Available Commands
-
-```bash
-# Patch Management
-xskills patches list              # List all patches
-xskills patch install <patch>     # Install a patch
-xskills patch uninstall <patch>   # Uninstall a patch
-
-# Skill Browsing
-xskills browse                    # Browse all skills
-xskills browse --category research # Browse by category
-xskills search "web dev"          # Search skills
-
-# System Status
-xskills status                    # Show system status
-```
-
-### How It Works
-
-When you install a patch:
-
-1. Skills are symlinked to `~/.claude/skills/patch-<patch-id>/`
-2. Skills become immediately available in Claude Code
-3. No manual configuration needed
-
-### Example Workflow
-
-```bash
-# Install research capabilities
-xskills patch install research-agent
-
-# Browse what was installed
-ls ~/.claude/skills/patch-research-agent/
-
-# Use in Claude Code - skills are now available!
-```
+- **Research** (53 skills)
 
 ## Skills Directory
 
@@ -519,7 +368,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Errors](commercial/392-errors_c22a5d78/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-audit-logging/references/errors.md) | ⭐ 1.3k | `commercial` |
 | [Directory Structure](commercial/407-directory-structure_ccab31b0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-refactoring-large/references/directory-structure.md) | ⭐ 1.3k | `commercial` |
 
-### Content Creation (402 skills)
+### Communication (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Web Intro](communication/web_intro_c2bb6188/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/web_ui/web_intro.md) | ⭐ 1.0k | `communication` |
+
+### Content Creation (400 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -923,14 +778,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Teleprompter](content-creation/357-teleprompter_d35842cd/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/video-production/script-to-teleprompter/commands/teleprompter.md) | ⭐ 1.3k | `content creation` |
 | [Video Editor](content-creation/358-video-editor_8e1e3ec4/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/video-production/video-editor-ai/agents/video-editor.md) | ⭐ 1.3k | `content creation` |
 | [Repurpose](content-creation/174-repurpose_23a8c062/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/workflow-optimization/repurpose-content/commands/repurpose.md) | ⭐ 1.3k | `content creation` |
-| [Skill](content-creation/name-skill_7eda34d2/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/SKILL.md) | ⭐ 199 | `content creation` |
-| [Cli](content-creation/cli_e01cafb6/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/cli.md) | ⭐ 199 | `content creation` |
 
-### Daily Assistant (1 skills)
+### Daily Assistant (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Default Endpoints And Presets](daily-assistant/223-default_endpoints_and_presets_abc32ef8/) | [SomeOddCodeGuy/WilmerAI](https://raw.githubusercontent.com/SomeOddCodeGuy/WilmerAI/master/Docs/User_Documentation/LLM_Assisted_Workflow_Generation/Default_Endpoints_And_Presets.md) | ⭐ 803 | `daily assistant` |
+| [Web Intro Cn](daily-assistant/web_intro_cn_9f0f130c/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/web_ui/web_intro_CN.md) | ⭐ 1.0k | `daily assistant` |
 
 ### Data Analysis (89 skills)
 
@@ -1026,6 +880,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Explainer](data-analysis/450-code-explainer_e909cdd4/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/project-documentation/code-explainer-video/agents/code-explainer.md) | ⭐ 1.3k | `data analysis` |
 | [Progress](data-analysis/175-progress_f0b4bf6c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/plugin-enhancements/plugin-backups/creator-studio-pack_20251019_162204/plugins/project-documentation/progress-tracker-visual/commands/progress.md) | ⭐ 1.3k | `data analysis` |
 
+### Development/Devops (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Cli Guide](development/devops/cli_guide_84c2cf4a/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/CLI_GUIDE.md) | ⭐ 1.0k | `development` |
+| [Docker Guide](development/devops/docker_guide_6de83c4a/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/DOCKER_GUIDE.md) | ⭐ 1.0k | `development` |
+
 ### Development/Testing (52 skills)
 
 | Skill | Source | Popularity | Tags |
@@ -1083,13 +944,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Directory Structure](development/testing/078-directory-structure_37cb3140/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-dependency-management/references/directory-structure.md) | ⭐ 1.3k | `development` |
 | [Directory Structure](development/testing/078-directory-structure_3331a326/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-git-integration/references/directory-structure.md) | ⭐ 1.3k | `development` |
 
+### Development/Tools (3 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Event Schema](development/tools/event_schema_e25a35ef/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/docs/EVENT_SCHEMA.md) | ⭐ 1.0k | `development` |
+| [Browser Improvements](development/tools/browser_improvements_5192b756/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/tool_server_lite/tools/BROWSER_IMPROVEMENTS.md) | ⭐ 1.0k | `development` |
+| [File Read Usage](development/tools/file_read_usage_4519e98b/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/tool_server_lite/tools/FILE_READ_USAGE.md) | ⭐ 1.0k | `development` |
+
 ### Productivity (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Creation Report](productivity/158-creation_report_0b8f1bf5/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/CREATION_REPORT.md) | ⭐ 1.3k | `productivity` |
 
-### Research (52 skills)
+### Research (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1145,56 +1014,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Errors](research/251-errors_a27919eb/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-release-automation/references/errors.md) | ⭐ 1.3k | `research` |
 | [Errors](research/251-errors_f1171047/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-team-settings/references/errors.md) | ⭐ 1.3k | `research` |
 | [Errors](research/251-errors_b7cddd97/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/saas-packs/skill-databases/windsurf/skills/windsurf-usage-analytics/references/errors.md) | ⭐ 1.3k | `research` |
+| [Readme Cn](research/readme_cn_adae4057/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/README_CN.md) | ⭐ 1.0k | `research` |
 
-## How Skills Are Organized
+## Repository Structure
 
-Skills are automatically categorized based on their purpose:
-
-- **Development**: Coding, debugging, testing, and developer tools
-- **Daily Assistant**: Task management, scheduling, and reminders
-- **Content Creation**: Writing, editing, and content generation
-- **Data Analysis**: Visualization, statistics, and data processing
-- **Automation**: Workflows, scripts, and task automation
-- **Research**: Academic tools, citations, and literature
-- **Communication**: Email, messaging, and collaboration
-- **Productivity**: Efficiency tools and optimization
-- **Commercial**: E-commerce and business tools
-- **Investment**: Trading, stocks, and financial analysis
-
-## Manual Usage
-
-These skills can also be used directly without installing patches:
-
-1. Browse the category folders to find relevant skills
-2. Navigate to a skill's subdirectory
-3. Read the skill's README.md for metadata and description
-4. Use the skill's .md file content with Claude Code or similar AI assistants
-
-## File Naming Convention
-
-Each skill is stored in a subdirectory named: `source_name_hashprefix/`
-
-- `source_name`: The original filename (sanitized)
-- `hashprefix`: First 8 characters of the content hash (ensures uniqueness)
-
-The hash-based naming ensures that:
-- The same skill content always maps to the same directory
-- Updated skills automatically replace old versions
-- No duplicate directories for the same content
-
-## Skill Index
-
-This repository includes a `.index.json` file that tracks all skills and their locations.
-This index enables:
-- Incremental updates (only writing changed skills)
-- Efficient change detection
-- Proper handling of skill updates from source repositories
-
-## Contributing
-
-This repository is automatically maintained by [SkillFlow](https://github.com/tools-only/SkillFlow). Skills are aggregated from open-source repositories.
-
----
-
-*Last updated: 2026-02-09 04:36:10 UTC*
-*Automatically maintained by SkillFlow*
+```
+X-Skills/
