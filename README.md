@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **9801 AI-powered skills** organized into 16 categories.
+A curated collection of **9802 AI-powered skills** organized into 16 categories.
 
 ## Overview
 
@@ -11,14 +11,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation** (672 skills)
 - **Automation/Scripting** (72 skills)
 - **Automation/Workflow** (141 skills)
-- **Commercial** (592 skills)
-- **Communication** (383 skills)
+- **Commercial** (591 skills)
+- **Communication** (384 skills)
 - **Content Creation** (647 skills)
-- **Daily Assistant** (402 skills)
-- **Data Analysis** (922 skills)
+- **Daily Assistant** (403 skills)
+- **Data Analysis** (921 skills)
 - **Development** (4598 skills)
 - **Development/Devops** (250 skills)
-- **Development/Testing** (57 skills)
+- **Development/Testing** (58 skills)
 - **Development/Tools** (292 skills)
 - **Investment** (60 skills)
 - **Other** (44 skills)
@@ -947,7 +947,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Skill](automation/workflow/002-name-skill_40106914/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 57 | `automation` |
 | [Skill](automation/workflow/002-name-skill_93db11ad/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/sprint-planner/SKILL.md) | 🔥 92.8k | `automation` |
 
-### Commercial (592 skills)
+### Commercial (591 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1542,9 +1542,8 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Cli Commands](commercial/037-cli-commands_d80bc2c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/docs/cli-commands.md) | ⭐ 57 | `commercial` |
 | [Skill](commercial/210-name-skill_5db33f7f/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 66 | `commercial` |
 | [Skill](commercial/210-name-skill_7221e733/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 66 | `commercial` |
-| [File Cache](commercial/file_cache_0ab80b1a/) | [Nayjest/ai-microcore](https://raw.githubusercontent.com/Nayjest/ai-microcore/main/doc/features/file_cache.md) | ⭐ 92 | `commercial` |
 
-### Communication (383 skills)
+### Communication (384 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1931,6 +1930,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Api](communication/226-api_b56af16b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/references/api.md) | ⭐ 66 | `communication` |
 | [Skill](communication/127-name-skill_df135e30/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/email-drafter/SKILL.md) | 🔥 92.8k | `communication` |
 | [V0.10.2](communication/227-v0102_66e3c4de/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.10.2.md) | ⭐ 4.2k | `communication` |
+| [Skill](communication/name-skill_953e8db7/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nutrient-openclaw/SKILL.md) | ⭐ 171 | `communication` |
 
 ### Content Creation (647 skills)
 
@@ -2584,7 +2584,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Agents](content-creation/185-agents_014a6e33/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/python-expert/AGENTS.md) | 🔥 92.8k | `content creation` |
 | [Patch](content-creation/293-patch_f8ca9443/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/patch.md) | ⭐ 4.2k | `content creation` |
 
-### Daily Assistant (402 skills)
+### Daily Assistant (403 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2990,8 +2990,9 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.4.2](daily-assistant/226-v042_5b666a0d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.4.2.md) | ⭐ 4.2k | `daily assistant` |
 | [V0.6.0](daily-assistant/227-v060_a6fe3637/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.6.0.md) | ⭐ 4.2k | `daily assistant` |
 | [V0.7.0](daily-assistant/228-v070_a26cc47c/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.7.0.md) | ⭐ 4.2k | `daily assistant` |
+| [Compatibility](daily-assistant/compatibility_861d28c9/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/COMPATIBILITY.md) | ⭐ 171 | `daily assistant` |
 
-### Data Analysis (922 skills)
+### Data Analysis (921 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3916,7 +3917,6 @@ Pre-configured skill bundles for common AI agent use cases.
 | [Reference](data-analysis/286-reference_87a2fde7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/imagen/reference.md) | ⭐ 66 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7f6a151b/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/manus/SKILL.md) | ⭐ 66 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7cf80d53/) | [Shubhamsaboo/awesome-llm-apps](https://raw.githubusercontent.com/Shubhamsaboo/awesome-llm-apps/main/awesome_agent_skills/visualization-expert/SKILL.md) | 🔥 92.8k | `data analysis` |
-| [Http Headers](data-analysis/http_headers_bbc5fb4a/) | [Nayjest/ai-microcore](https://raw.githubusercontent.com/Nayjest/ai-microcore/main/doc/features/http_headers.md) | ⭐ 92 | `data analysis` |
 
 ### Development (4598 skills)
 
@@ -8776,7 +8776,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.9.4](development/devops/288-v094_52d29f47/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.4.md) | ⭐ 4.2k | `development` |
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_f66f7d8b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 
-### Development/Testing (57 skills)
+### Development/Testing (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -8837,6 +8837,7 @@ Pre-configured skill bundles for common AI agent use cases.
 | [V0.5.0](development/testing/059-v050_bbcdd602/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.5.0.md) | ⭐ 4.2k | `development` |
 | [V0.9.0](development/testing/060-v090_6985fd69/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/releases/v0.9.0.md) | ⭐ 4.2k | `development` |
 | [Shell](development/testing/061-shell_1903542d/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/shell.md) | ⭐ 4.2k | `development` |
+| [Skill](development/testing/name-skill_d6460635/) | [jdrhyne/agent-skills](https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md) | ⭐ 171 | `development` |
 
 ### Development/Tools (292 skills)
 
@@ -9978,5 +9979,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-08 23:12:06 UTC*
+*Last updated: 2026-02-09 00:04:23 UTC*
 *Automatically maintained by SkillFlow*

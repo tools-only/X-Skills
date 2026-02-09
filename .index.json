@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-08T23:08:11.419710",
+  "updated_at": "2026-02-09T00:04:22.666898",
   "skills": [
     {
       "file_hash": "e719e45d3e765ccd1e05869cdce43eac84c4eb305858552d4e0416232bea2ece",
@@ -137187,6 +137187,48 @@
       "source_url": "https://raw.githubusercontent.com/gptme/gptme/master/docs/lessons/tools/shell.md",
       "display_name": "Shell",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "861d28c9015d327d9c30b8d9978410bf2bf91c87ea8abf7d1130d482c3e9d48a",
+      "source_path": "COMPATIBILITY.md",
+      "source_repo": "jdrhyne/agent-skills",
+      "local_path": "daily-assistant/083-compatibility_861d28c9",
+      "category": "daily-assistant",
+      "name": "compatibility_861d28c9",
+      "indexed_at": "2026-02-09T00:04:20.130625",
+      "repo_stars": 171,
+      "repo_updated_at": "2026-02-06T01:27:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/jdrhyne/agent-skills/main/COMPATIBILITY.md",
+      "display_name": "Compatibility",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "d64606357631334924a13821b6c9e9913a3e4ad6da2bb1cb38e81108758255fc",
+      "source_path": "clawdbot/clawdbot-release-check/SKILL.md",
+      "source_repo": "jdrhyne/agent-skills",
+      "local_path": "development/testing/002-name-skill_d6460635",
+      "category": "development/testing",
+      "name": "name-skill_d6460635",
+      "indexed_at": "2026-02-09T00:04:21.467445",
+      "repo_stars": 171,
+      "repo_updated_at": "2026-02-06T01:27:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/jdrhyne/agent-skills/main/clawdbot/clawdbot-release-check/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "953e8db741a802c9369cbfe685d997bf07465ed8ac485d70cedbe8213bbf70a4",
+      "source_path": "skills/nutrient-openclaw/SKILL.md",
+      "source_repo": "jdrhyne/agent-skills",
+      "local_path": "communication/127-name-skill_953e8db7",
+      "category": "communication",
+      "name": "name-skill_953e8db7",
+      "indexed_at": "2026-02-09T00:04:22.666802",
+      "repo_stars": 171,
+      "repo_updated_at": "2026-02-06T01:23:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/jdrhyne/agent-skills/main/skills/nutrient-openclaw/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"communication\"]"
     }
   ]
 }
