@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T12:19:11.758428",
+  "updated_at": "2026-02-09T12:28:46.304855",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -19615,6 +19615,118 @@
       "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "d4085270ff4430a6509fbf4bb632255c9f41113c1dba9f9ff912b28084e0acba",
+      "source_path": "README_ZH.md",
+      "source_repo": "Tencent/AI-Infra-Guard",
+      "local_path": "development/devops/298-readme_zh_d4085270",
+      "category": "development/devops",
+      "name": "readme_zh_d4085270",
+      "indexed_at": "2026-02-09T12:28:44.199536",
+      "repo_stars": 2916,
+      "repo_updated_at": "2026-02-09T11:55:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md",
+      "display_name": "Readme Zh",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "438464d32a57a759c6daed589cd8a4605d4ce571475168d1b30ac7f3fba73a7a",
+      "source_path": "README_CN.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "development/devops/194-readme_cn_438464d3",
+      "category": "development/devops",
+      "name": "readme_cn_438464d3",
+      "indexed_at": "2026-02-09T12:28:44.358652",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:46:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "14f2ba8c347674d51421a0efe24cd85e2f4b04776b92bd7ae67c037b9ba691d2",
+      "source_path": "docs/skill-usage-guide.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "development/tools/283-skill-usage-guide_14f2ba8c",
+      "category": "development/tools",
+      "name": "skill-usage-guide_14f2ba8c",
+      "indexed_at": "2026-02-09T12:28:44.672010",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:54:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/docs/skill-usage-guide.md",
+      "display_name": "Skill Usage Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2f13f725957ac1d2b886c4b5490da66d7f8005d2fc6623c5d83493306528b02f",
+      "source_path": "skills/system/create-plan/SKILL.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "automation/workflow/002-name-skill_2f13f725",
+      "category": "automation/workflow",
+      "name": "name-skill_2f13f725",
+      "indexed_at": "2026-02-09T12:28:44.820151",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:54:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/create-plan/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "1170616ce0b907f4b8e5bf4aa8d47e9cb5c01f969d5ae5226e7d5f38c85dbe08",
+      "source_path": "skills/system/news-search/SKILL.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "content-creation/049-name-skill_1170616c",
+      "category": "content-creation",
+      "name": "name-skill_1170616c",
+      "indexed_at": "2026-02-09T12:28:45.061816",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:54:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/news-search/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "40b35d1b5960beda6a37bfed17bcfca27f99804e5331a6e7920ea4e067c6948d",
+      "source_path": "skills/system/complete-plan/SKILL.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "automation/scripting/003-name-skill_40b35d1b",
+      "category": "automation/scripting",
+      "name": "name-skill_40b35d1b",
+      "indexed_at": "2026-02-09T12:28:45.570481",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:54:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/complete-plan/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "28f1e6910cd567209565efcf1d54b0b0fcebbe4cecce41e2efa6adc4a6956dc3",
+      "source_path": "skills/system/update-plan-step/SKILL.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "automation/scripting/003-name-skill_28f1e691",
+      "category": "automation/scripting",
+      "name": "name-skill_28f1e691",
+      "indexed_at": "2026-02-09T12:28:45.895861",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:54:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/update-plan-step/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "ee453258f22e78b57468ca92fe60d589146584922816bd796472c4ec835a2084",
+      "source_path": "skills/system/get-plan-status/SKILL.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "daily-assistant/032-name-skill_ee453258",
+      "category": "daily-assistant",
+      "name": "name-skill_ee453258",
+      "indexed_at": "2026-02-09T12:28:46.304794",
+      "repo_stars": 47,
+      "repo_updated_at": "2026-02-09T09:54:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-plan-status/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }
