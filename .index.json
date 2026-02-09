@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T20:51:56.234071",
+  "updated_at": "2026-02-09T21:13:31.871592",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -27441,6 +27441,20 @@
       "source_url": "https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/TWO_AGENT_SETUP.md",
       "display_name": "Two Agent Setup",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c885242850a92128b7d692d7b5834ba0f71f84b52a133bb3785b5629a8ab8571",
+      "source_path": "plexe/CODE_INDEX.md",
+      "source_repo": "plexe-ai/plexe",
+      "local_path": "development/tools/282-code_index_c8852428",
+      "category": "development/tools",
+      "name": "code_index_c8852428",
+      "indexed_at": "2026-02-09T21:13:31.871510",
+      "repo_stars": 2522,
+      "repo_updated_at": "2026-02-09T15:43:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md",
+      "display_name": "Code Index",
+      "tags": "[\"development\"]"
     }
   ]
 }

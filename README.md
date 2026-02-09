@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1964 AI-powered skills** organized into 14 categories.
+A curated collection of **1962 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (221 skills)
-- **Automation/Workflow** (61 skills)
+- **Automation/Workflow** (60 skills)
 - **Commercial** (246 skills)
 - **Communication** (45 skills)
 - **Content Creation** (484 skills)
 - **Daily Assistant** (40 skills)
 - **Data Analysis** (168 skills)
-- **Development** (333 skills)
+- **Development** (331 skills)
 - **Development/Devops** (127 skills)
 - **Development/Testing** (79 skills)
-- **Development/Tools** (74 skills)
+- **Development/Tools** (75 skills)
 - **Investment** (7 skills)
 - **Productivity** (14 skills)
 - **Research** (65 skills)
@@ -406,7 +406,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](automation/scripting/001-troubleshooting_10d357e7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/troubleshooting.md) | ⭐ 14 | `automation` |
 | [Api Reference](automation/scripting/083-api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
 
-### Automation/Workflow (61 skills)
+### Automation/Workflow (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -469,8 +469,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Syncdocs](automation/workflow/128-syncdocs_ee9bea7d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SyncDocs.md) | ⭐ 14 | `automation` |
 | [Ciintegration](automation/workflow/129-ciintegration_c682d398/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/CIIntegration.md) | ⭐ 14 | `automation` |
 | [Setup](automation/workflow/018-setup_62003624/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Setup.md) | ⭐ 14 | `automation` |
-| [Manage Group Syntax Error Fix](automation/workflow/manage_group_syntax_error_fix_9ed65812/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/MANAGE_GROUP_SYNTAX_ERROR_FIX.md) | ⭐ 112 | `automation` |
-| [Test Spec Reference](automation/workflow/test-spec-reference_c228e6f4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/test-spec-reference.md) | ⭐ 59 | `automation` |
+| [Manage Group Syntax Error Fix](automation/workflow/130-manage_group_syntax_error_fix_9ed65812/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/MANAGE_GROUP_SYNTAX_ERROR_FIX.md) | ⭐ 112 | `automation` |
 
 ### Commercial (246 skills)
 
@@ -771,7 +770,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshoot](communication/221-troubleshoot_4a7b2a00/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/Workflows/Troubleshoot.md) | ⭐ 14 | `communication` |
 | [Sinks](communication/244-sinks_34831edc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Sinks.md) | ⭐ 14 | `communication` |
 | [Troubleshooting](communication/203-troubleshooting_fe369303/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Troubleshooting.md) | ⭐ 14 | `communication` |
-| [Servicenow Asset Management Setup](communication/servicenow_asset_management_setup_7d38232c/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md) | ⭐ 112 | `communication` |
+| [Servicenow Asset Management Setup](communication/245-servicenow_asset_management_setup_7d38232c/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md) | ⭐ 112 | `communication` |
 
 ### Content Creation (484 skills)
 
@@ -1260,7 +1259,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](content-creation/311-configuration_0f58e0fc/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-nvim-skill/references/configuration.md) | ⭐ 14 | `content creation` |
 | [Vault Structure](content-creation/336-vault-structure_6ebc0351/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-skill/references/vault-structure.md) | ⭐ 14 | `content creation` |
 | [Troubleshooting](content-creation/110-troubleshooting_f0bae3a1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/troubleshooting.md) | ⭐ 14 | `content creation` |
-| [Two Agent Setup](content-creation/two_agent_setup_21902417/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/TWO_AGENT_SETUP.md) | ⭐ 112 | `content creation` |
+| [Two Agent Setup](content-creation/337-two_agent_setup_21902417/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/TWO_AGENT_SETUP.md) | ⭐ 112 | `content creation` |
 
 ### Daily Assistant (40 skills)
 
@@ -1480,7 +1479,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Analyze](data-analysis/464-analyze_71a0640d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Analyze.md) | ⭐ 14 | `data analysis` |
 | [Configuration](data-analysis/046-configuration_f1e8f086/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/configuration.md) | ⭐ 14 | `data analysis` |
 
-### Development (333 skills)
+### Development (331 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1811,12 +1810,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Zsh Vim Mode](development/2752-zsh-vim-mode_5178a990/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shell-prompt-skill/references/zsh-vim-mode.md) | ⭐ 14 | `development` |
 | [Traceql](development/2753-traceql_189b77c7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/traceql.md) | ⭐ 14 | `development` |
 | [Project Management](development/2754-project-management_d6cc4a69/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/project-management.md) | ⭐ 14 | `development` |
-| [Group Action Oauth Schema Merging Fix](development/group_action_oauth_schema_merging_fix_919f798a/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/GROUP_ACTION_OAUTH_SCHEMA_MERGING_FIX.md) | ⭐ 112 | `development` |
-| [Servicenow Integration](development/servicenow_integration_caafc4ca/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_INTEGRATION.md) | ⭐ 112 | `development` |
-| [Servicenow Oauth Setup](development/servicenow_oauth_setup_f7273fa6/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_OAUTH_SETUP.md) | ⭐ 112 | `development` |
-| [Skill](development/name-skill_6b828314/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 59 | `development` |
-| [Cli Commands](development/cli-commands_88880de4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/cli-commands.md) | ⭐ 59 | `development` |
-| [Openapi Basic Auth Fix](development/openapi_basic_auth_fix_46941a3f/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/OPENAPI_BASIC_AUTH_FIX.md) | ⭐ 112 | `development` |
+| [Group Action Oauth Schema Merging Fix](development/2785-group_action_oauth_schema_merging_fix_919f798a/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/GROUP_ACTION_OAUTH_SCHEMA_MERGING_FIX.md) | ⭐ 112 | `development` |
+| [Servicenow Integration](development/2786-servicenow_integration_caafc4ca/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_INTEGRATION.md) | ⭐ 112 | `development` |
+| [Servicenow Oauth Setup](development/2787-servicenow_oauth_setup_f7273fa6/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_OAUTH_SETUP.md) | ⭐ 112 | `development` |
+| [Code Index](development/code_index_28734c37/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/tests/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
 ### Development/Devops (127 skills)
 
@@ -1948,7 +1945,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Integrations](development/devops/346-integrations_3afd07ff/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/integrations.md) | ⭐ 14 | `development` |
 | [Python Versions](development/devops/347-python-versions_d5d013b5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/python-versions.md) | ⭐ 14 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_41278fe7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-applicationset-skill/references/troubleshooting/troubleshooting.md) | ⭐ 14 | `development` |
-| [Release Notes](development/devops/release_notes_e581e6dd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 112 | `development` |
+| [Release Notes](development/devops/148-release_notes_e581e6dd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 112 | `development` |
 
 ### Development/Testing (79 skills)
 
@@ -2034,7 +2031,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickstartguide](development/testing/069-quickstartguide_2d5ec2d5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/QuickStartGuide.md) | ⭐ 14 | `development` |
 | [Skill](development/testing/002-name-skill_62d039a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/SKILL.md) | ⭐ 14 | `development` |
 
-### Development/Tools (74 skills)
+### Development/Tools (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2065,7 +2062,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_948c5971/) | [Dianel555/DSkills](https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/grok-search/SKILL.md) | ⭐ 48 | `development` |
 | [Playground Builder](development/tools/281-playground-builder_083c0a65/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/prompts/playground-builder.md) | ⭐ 23 | `development` |
 | [Index](development/tools/062-index_93a717c0/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 10 | `development` |
-| [Code Index](development/tools/282-code_index_b59f61cc/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
+| [Code Index](development/tools/code_index_c8852428/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Readme Cn](development/tools/232-readme_cn_d704cba9/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/README_CN.md) | ⭐ 11 | `development` |
 | [Skill Usage Guide](development/tools/283-skill-usage-guide_14f2ba8c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skill-usage-guide.md) | ⭐ 47 | `development` |
 | [Devkit.Refactor](development/tools/034-devkitrefactor_35e98288/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/commands/devkit.refactor.md) | ⭐ 88 | `development` |
@@ -2112,6 +2109,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp Integration](development/tools/216-mcp-integration_2f06b463/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/senhasegura-skill/tools/mcp-integration.md) | ⭐ 14 | `development` |
 | [Cli Commands](development/tools/303-cli-commands_e80d8363/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/cli-commands.md) | ⭐ 14 | `development` |
 | [Inventory](development/tools/304-inventory_69654cc7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/environments/inventory.md) | ⭐ 14 | `development` |
+| [Code Index](development/tools/282-code_index_c8852428/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 
 ### Investment (7 skills)
 
@@ -2212,7 +2210,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Status](research/250-status_e45d8ba4/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/status.md) | ⭐ 31 | `research` |
 | [Skill](research/139-name-skill_deb92ff9/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-resource-management-skill/SKILL.md) | ⭐ 14 | `research` |
 | [Control Plane Metrics](research/251-control-plane-metrics_d86ef1e5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent-skill/references/control-plane-metrics.md) | ⭐ 14 | `research` |
-| [Group Agent Loading Fix](research/group_agent_loading_fix_b0f74e16/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/GROUP_AGENT_LOADING_FIX.md) | ⭐ 112 | `research` |
+| [Group Agent Loading Fix](research/252-group_agent_loading_fix_b0f74e16/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/fixes/v0.237.008/GROUP_AGENT_LOADING_FIX.md) | ⭐ 112 | `research` |
 
 ## How Skills Are Organized
 
@@ -2264,5 +2262,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 20:51:56 UTC*
+*Last updated: 2026-02-09 21:13:32 UTC*
 *Automatically maintained by SkillFlow*
