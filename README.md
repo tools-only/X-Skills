@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1411 AI-powered skills** organized into 14 categories.
+A curated collection of **1415 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,17 +11,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (208 skills)
 - **Automation/Workflow** (40 skills)
 - **Commercial** (211 skills)
-- **Communication** (28 skills)
-- **Content Creation** (440 skills)
+- **Communication** (29 skills)
+- **Content Creation** (441 skills)
 - **Daily Assistant** (17 skills)
 - **Data Analysis** (127 skills)
-- **Development** (139 skills)
+- **Development** (142 skills)
 - **Development/Devops** (37 skills)
 - **Development/Testing** (63 skills)
 - **Development/Tools** (30 skills)
 - **Investment** (7 skills)
 - **Productivity** (4 skills)
-- **Research** (60 skills)
+- **Research** (59 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -654,7 +654,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api](commercial/012-api_6bc581bf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workers-for-platforms/api.md) | 🔥 19.8k | `commercial` |
 | [Context Overflow Handling](commercial/342-context-overflow-handling_7397deb4/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/context-overflow-handling.md) | ⭐ 389 | `commercial` |
 
-### Communication (28 skills)
+### Communication (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -686,8 +686,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gotchas](communication/236-gotchas_cb07bb56/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/spectrum/gotchas.md) | 🔥 19.8k | `communication` |
 | [Patterns](communication/084-patterns_7d229cb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/turnstile/patterns.md) | 🔥 19.8k | `communication` |
 | [Configuration](communication/035-configuration_3701f270/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/workflows/configuration.md) | 🔥 19.8k | `communication` |
+| [Index](communication/index_a8e708f7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.6k | `anthropic` `claude` `opus 4.6` |
 
-### Content Creation (440 skills)
+### Content Creation (441 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1131,6 +1132,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_33b9d3c7/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_34b629d8/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_1170616c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/news-search/SKILL.md) | ⭐ 47 | `content creation` |
+| [Litellm Proxy](content-creation/litellm_proxy_55fd329d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/litellm_proxy.md) | 🔥 35.6k | `content creation` |
 
 ### Daily Assistant (17 skills)
 
@@ -1286,7 +1288,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Center](data-analysis/433-notification-center_d6338995/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/Plans/notification-center.md) | ⭐ 389 | `data analysis` |
 | [How To Build A Trinket](data-analysis/434-how_to_build_a_trinket_4cc42795/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/working_memory/trinkets/HOW_TO_BUILD_A_TRINKET.md) | ⭐ 389 | `data analysis` |
 
-### Development (139 skills)
+### Development (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1428,7 +1430,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8d08435f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/burndown/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_1a74484d/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/tfappfix/SKILL.md) | ⭐ 10 | `development` |
 | [Introduction](development/489-introduction_6d0ef45a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION.md) | ⭐ 11 | `development` |
-| [Latest Changelog](development/latest_changelog_92bb2638/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/latest_changelog.md) | 🔥 6.5k | `development` |
+| [Websearch Interception](development/websearch_interception_f1bba2c3/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/integrations/websearch_interception.md) | 🔥 35.6k | `development` |
+| [Proxy Auth](development/proxy_auth_40582a96/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy_auth.md) | 🔥 35.6k | `development` |
+| [Claude Code Prompt Cache Routing](development/claude_code_prompt_cache_routing_63bfdf63/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/claude_code_prompt_cache_routing.md) | 🔥 35.6k | `development` |
+| [Zscaler Ai Guard](development/zscaler_ai_guard_44227532/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/zscaler_ai_guard.md) | 🔥 35.6k | `development` |
 
 ### Development/Devops (37 skills)
 
@@ -1596,7 +1601,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task Distributor](productivity/159-task-distributor_ff3b09f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/expert-advisors/task-distributor.md) | 🔥 19.8k | `productivity` |
 | [Patterns](productivity/160-patterns_e3bcdfb9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/hyperdrive/patterns.md) | 🔥 19.8k | `productivity` |
 
-### Research (60 skills)
+### Research (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1659,7 +1664,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](research/247-configuration_361f709d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/configuration.md) | 🔥 19.8k | `research` |
 | [Patterns](research/248-patterns_daeb6aa8/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/bot-management/patterns.md) | 🔥 19.8k | `research` |
 | [Patterns](research/248-patterns_6ccd1e33/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/web-analytics/patterns.md) | 🔥 19.8k | `research` |
-| [Readme Cn](research/readme_cn_beb026c4/) | [polyuiislab/infiAgent](https://raw.githubusercontent.com/polyuiislab/infiAgent/main/README_CN.md) | ⭐ 1.1k | `research` |
 
 ## How Skills Are Organized
 
@@ -1711,5 +1715,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 12:31:53 UTC*
+*Last updated: 2026-02-09 13:21:34 UTC*
 *Automatically maintained by SkillFlow*

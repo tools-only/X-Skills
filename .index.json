@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-09T12:28:46.304855",
+  "updated_at": "2026-02-09T13:21:34.815441",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -19727,6 +19727,34 @@
       "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-plan-status/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "f1bba2c3bd7d119820cf400e4ba1b6e719d3334a71e68960b071255b7c41c493",
+      "source_path": "docs/my-website/docs/integrations/websearch_interception.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2659-websearch_interception_f1bba2c3",
+      "category": "development",
+      "name": "websearch_interception_f1bba2c3",
+      "indexed_at": "2026-02-09T13:21:34.661598",
+      "repo_stars": 35577,
+      "repo_updated_at": "2026-02-09T08:21:26+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/integrations/websearch_interception.md",
+      "display_name": "Websearch Interception",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a8e708f713caced962c4d1981e434e09efe6600e47713f2dd2ca016433a1b122",
+      "source_path": "docs/my-website/blog/claude_opus_4_6/index.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "communication/157-index_a8e708f7",
+      "category": "communication",
+      "name": "index_a8e708f7",
+      "indexed_at": "2026-02-09T13:21:34.815386",
+      "repo_stars": 35577,
+      "repo_updated_at": "2026-02-09T06:09:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md",
+      "display_name": "Index",
+      "tags": "[\"anthropic\", \"claude\", \"opus 4.6\"]"
     }
   ]
 }
