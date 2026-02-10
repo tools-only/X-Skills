@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T02:11:00.262051",
+  "updated_at": "2026-02-10T02:41:00.990442",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29695,6 +29695,118 @@
       "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md",
       "display_name": "N8N Compatibility Validation",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "f0637c55711d96dc302e0e76032381e3ab9149a2a72bf6db93192c044514182e",
+      "source_path": "docs/my-website/docs/mcp.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/025-mcp_f0637c55",
+      "category": "development/devops",
+      "name": "mcp_f0637c55",
+      "indexed_at": "2026-02-10T02:40:58.615803",
+      "repo_stars": 35606,
+      "repo_updated_at": "2026-02-10T01:35:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md",
+      "display_name": "Mcp",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b0b9e4e29743557a6c04ff778acdd4e0ae4e9a453e0358ad1d511b59ce2924a1",
+      "source_path": "docs/my-website/docs/mcp_oauth.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/353-mcp_oauth_b0b9e4e2",
+      "category": "development/devops",
+      "name": "mcp_oauth_b0b9e4e2",
+      "indexed_at": "2026-02-10T02:40:59.104740",
+      "repo_stars": 35606,
+      "repo_updated_at": "2026-02-10T01:35:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md",
+      "display_name": "Mcp Oauth",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a738f3c63bb9ce7924443176f9ec693d021c93d8aaddf23ec119f82f8df5e32c",
+      "source_path": "docs/developer-guide.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/282-developer-guide_a738f3c6",
+      "category": "development",
+      "name": "developer-guide_a738f3c6",
+      "indexed_at": "2026-02-10T02:40:59.425670",
+      "repo_stars": 6629,
+      "repo_updated_at": "2026-02-07T19:49:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md",
+      "display_name": "Developer Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c02b9ab9b662249e9a1f1d9e20948987fcd3658a5fc02ba9a7055e66cc5d4c15",
+      "source_path": "docs/troubleshooting/index.md",
+      "source_repo": "mbailey/voicemode",
+      "local_path": "development/468-index_c02b9ab9",
+      "category": "development",
+      "name": "index_c02b9ab9",
+      "indexed_at": "2026-02-10T02:40:59.782104",
+      "repo_stars": 706,
+      "repo_updated_at": "2026-02-09T03:21:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d9a75368adadc4bc5fff457068efc3ae900ef577335e4872cebe4c44e507292a",
+      "source_path": ".claude/skills/hive-create/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "automation/workflow/002-name-skill_d9a75368",
+      "category": "automation/workflow",
+      "name": "name-skill_d9a75368",
+      "indexed_at": "2026-02-10T02:41:00.163339",
+      "repo_stars": 6629,
+      "repo_updated_at": "2026-02-09T21:49:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "02235433f02fccd6d370041e67ec13a1241700bad33c695249b6a4f99cfa4b6c",
+      "source_path": ".claude/skills/hive/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/002-name-skill_02235433",
+      "category": "development/tools",
+      "name": "name-skill_02235433",
+      "indexed_at": "2026-02-10T02:41:00.586782",
+      "repo_stars": 6629,
+      "repo_updated_at": "2026-02-09T20:13:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c8b42f42f89aea565d2e0b045aa7508ccd5a3a7bb08fa008ccd8a4a52e105410",
+      "source_path": "docs/connect/architecture.md",
+      "source_repo": "mbailey/voicemode",
+      "local_path": "development/tools/051-architecture_c8b42f42",
+      "category": "development/tools",
+      "name": "architecture_c8b42f42",
+      "indexed_at": "2026-02-10T02:41:00.842718",
+      "repo_stars": 706,
+      "repo_updated_at": "2026-02-09T14:00:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md",
+      "display_name": "Architecture",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "512413ffc89427e2457c8adbf141dd2787566a02e25fe3136c97c30e93f42839",
+      "source_path": "core/framework/runtime/RUNTIME_LOGGING.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "data-analysis/394-runtime_logging_512413ff",
+      "category": "data-analysis",
+      "name": "runtime_logging_512413ff",
+      "indexed_at": "2026-02-10T02:41:00.990406",
+      "repo_stars": 6629,
+      "repo_updated_at": "2026-02-07T22:52:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md",
+      "display_name": "Runtime Logging",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

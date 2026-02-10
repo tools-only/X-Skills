@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2140 AI-powered skills** organized into 14 categories.
+A curated collection of **2133 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (221 skills)
-- **Automation/Workflow** (69 skills)
-- **Commercial** (249 skills)
+- **Automation/Workflow** (70 skills)
+- **Commercial** (248 skills)
 - **Communication** (47 skills)
-- **Content Creation** (494 skills)
-- **Daily Assistant** (62 skills)
-- **Data Analysis** (198 skills)
-- **Development** (385 skills)
-- **Development/Devops** (141 skills)
-- **Development/Testing** (84 skills)
-- **Development/Tools** (89 skills)
+- **Content Creation** (493 skills)
+- **Daily Assistant** (60 skills)
+- **Data Analysis** (199 skills)
+- **Development** (382 skills)
+- **Development/Devops** (140 skills)
+- **Development/Testing** (82 skills)
+- **Development/Tools** (93 skills)
 - **Investment** (14 skills)
-- **Productivity** (18 skills)
+- **Productivity** (15 skills)
 - **Research** (69 skills)
 
 ## Patches - Curated Skill Bundles
@@ -406,7 +406,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](automation/scripting/001-troubleshooting_10d357e7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/troubleshooting.md) | ⭐ 14 | `automation` |
 | [Api Reference](automation/scripting/083-api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
 
-### Automation/Workflow (69 skills)
+### Automation/Workflow (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -478,9 +478,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_b118af30/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/genome-annotation-pipeline/SKILL.md) | ⭐ 212 | `automation` |
 | [Skill](automation/workflow/002-name-skill_9086c123/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/SKILL.md) | ⭐ 212 | `automation` |
 | [Usage Guide](automation/workflow/031-usage-guide_8b5fe2f9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/usage-guide.md) | ⭐ 212 | `automation` |
-| [N8N V2 Integration Plan](automation/workflow/n8n_v2_integration_plan_a9bba2df/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/N8N_V2_INTEGRATION_PLAN.md) | ⭐ 251 | `automation` |
+| [N8N V2 Integration Plan](automation/workflow/132-n8n_v2_integration_plan_a9bba2df/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/N8N_V2_INTEGRATION_PLAN.md) | ⭐ 251 | `automation` |
+| [Skill](automation/workflow/name-skill_d9a75368/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.6k | `automation` |
 
-### Commercial (249 skills)
+### Commercial (248 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -731,8 +732,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Helm Deployment](commercial/363-helm-deployment_c89e0ae5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/helm-deployment.md) | ⭐ 14 | `commercial` |
 | [Storage](commercial/187-storage_95f3f852/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/storage.md) | ⭐ 14 | `commercial` |
 | [Plan Requirements.Prompt](commercial/311-plan-requirementsprompt_a1d88f7e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-requirements.prompt.md) | ⭐ 60 | `commercial` |
-| [N8N Compatibility Validation](commercial/n8n_compatibility_validation_f01b6855/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
-| [Bug Report](commercial/bug_report_7da5398f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/test-results/BUG_REPORT.md) | ⭐ 251 | `commercial` |
+| [N8N Compatibility Validation](commercial/364-n8n_compatibility_validation_f01b6855/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
 
 ### Communication (47 skills)
 
@@ -784,9 +784,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](communication/203-troubleshooting_fe369303/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Troubleshooting.md) | ⭐ 14 | `communication` |
 | [Servicenow Asset Management Setup](communication/245-servicenow_asset_management_setup_7d38232c/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md) | ⭐ 112 | `communication` |
 | [Prompts Initial Conversation](communication/246-prompts_initial_conversation_862e174a/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/prompts_initial_conversation.md) | ⭐ 418 | `communication` |
-| [User Budget Tracking](communication/user-budget-tracking_b07585c9/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/user-budget-tracking.md) | ⭐ 251 | `communication` |
+| [User Budget Tracking](communication/247-user-budget-tracking_b07585c9/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/user-budget-tracking.md) | ⭐ 251 | `communication` |
 
-### Content Creation (494 skills)
+### Content Creation (493 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1279,13 +1279,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 07 Tinyagent V2.5 Migration Map](content-creation/338-2026-02-07_tinyagent-v25-migration-map_21bad304/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_tinyagent-v2.5-migration-map.md) | ⭐ 112 | `content creation` |
 | [Discovery Warehouse](content-creation/113-discovery-warehouse_547e2d74/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/discovery-warehouse.md) | ⭐ 194 | `content creation` |
 | [Docs Researcher](content-creation/339-docs_researcher_c59803df/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L7/prompts/docs_researcher.md) | ⭐ 418 | `content creation` |
-| [Custom Cascade](content-creation/custom_cascade_a9012c59/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/custom_cascade.md) | ⭐ 251 | `content creation` |
-| [N8N Integration](content-creation/n8n_integration_5e37f47c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
-| [Providers](content-creation/providers_c26aff2b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
-| [Agent](content-creation/agent_a939f648/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/agent.md) | ⭐ 251 | `content creation` |
-| [Skill](content-creation/name-skill_e3e52a23/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/skills/cascadeflow-policy-router/SKILL.md) | ⭐ 251 | `content creation` |
+| [Custom Cascade](content-creation/340-custom_cascade_a9012c59/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/custom_cascade.md) | ⭐ 251 | `content creation` |
+| [N8N Integration](content-creation/341-n8n_integration_5e37f47c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
+| [Providers](content-creation/342-providers_c26aff2b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
+| [Agent](content-creation/343-agent_a939f648/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/agent.md) | ⭐ 251 | `content creation` |
 
-### Daily Assistant (62 skills)
+### Daily Assistant (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1349,10 +1348,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [T22 Reference Updates Comprehensive](daily-assistant/258-t22-reference-updates-comprehensive_2cdb759d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T22-reference-updates-comprehensive.md) | ⭐ 16 | `daily assistant` |
 | [T7 Progressivedisclosurevalidator](daily-assistant/259-t7-progressivedisclosurevalidator_020b5aaa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T7-progressivedisclosurevalidator.md) | ⭐ 16 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_4b410995/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L6/.claude/skills/adding-cli-command/SKILL.md) | ⭐ 418 | `daily assistant` |
-| [Dx Plan V2 Audit Report](daily-assistant/dx-plan-v2-audit-report_5463b9b8/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/dx-plan-v2-audit-report.md) | ⭐ 251 | `daily assistant` |
-| [Milestone](daily-assistant/milestone_dcdf2b03/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/.github/ISSUE_TEMPLATE/milestone.md) | ⭐ 251 | `daily assistant` |
 
-### Data Analysis (198 skills)
+### Data Analysis (199 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1550,12 +1547,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_65b0497e/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L3/brand_guidelines_skill/craftedwell-brand/SKILL.md) | ⭐ 418 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_eec2ed4b/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/custom_skills/analyzing-time-series/SKILL.md) | ⭐ 418 | `data analysis` |
 | [Brand Guide](data-analysis/467-brand-guide_d07ea390/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L3/brand_guidelines_skill/craftedwell-brand/references/brand-guide.md) | ⭐ 418 | `data analysis` |
-| [Streaming](data-analysis/streaming_0068fde3/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/streaming.md) | ⭐ 251 | `data analysis` |
-| [Tools](data-analysis/tools_fe7b9b37/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/tools.md) | ⭐ 251 | `data analysis` |
-| [Api Format Comparison](data-analysis/api_format_comparison_4160a6fd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/API_FORMAT_COMPARISON.md) | ⭐ 251 | `data analysis` |
-| [Tool Calling Cascade Strategy](data-analysis/tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
+| [Streaming](data-analysis/468-streaming_0068fde3/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/streaming.md) | ⭐ 251 | `data analysis` |
+| [Tools](data-analysis/469-tools_fe7b9b37/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/tools.md) | ⭐ 251 | `data analysis` |
+| [Api Format Comparison](data-analysis/470-api_format_comparison_4160a6fd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/API_FORMAT_COMPARISON.md) | ⭐ 251 | `data analysis` |
+| [Tool Calling Cascade Strategy](data-analysis/471-tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
+| [Runtime Logging](data-analysis/runtime_logging_512413ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.6k | `data analysis` |
 
-### Development (385 skills)
+### Development (382 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1923,29 +1921,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_6e7a4ded/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/custom_skills/generating-practice-questions/SKILL.md) | ⭐ 418 | `development` |
 | [Skill](development/1178-name-skill_38d0d41c/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L5/custom_skills/generating-practice-questions/SKILL.md) | ⭐ 418 | `development` |
 | [Skill](development/1178-name-skill_bfc881f3/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L7/.claude/skills/learning-a-tool/SKILL.md) | ⭐ 418 | `development` |
-| [Agents](development/agents_136788ab/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/AGENTS.md) | ⭐ 251 | `development` |
-| [Codex](development/codex_0e113b96/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/CODEX.md) | ⭐ 251 | `development` |
-| [Fastembed Audit Report](development/fastembed-audit-report_dc0348b9/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-audit-report.md) | ⭐ 251 | `development` |
-| [Architecture](development/architecture_ab2d6115/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/ARCHITECTURE.md) | ⭐ 251 | `development` |
-| [Benchmarking Guide](development/benchmarking-guide_489a50c1/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/benchmarking-guide.md) | ⭐ 251 | `development` |
-| [Browser Cascading](development/browser_cascading_93900003/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/browser_cascading.md) | ⭐ 251 | `development` |
-| [Cost Tracking](development/cost_tracking_a624430d/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/cost_tracking.md) | ⭐ 251 | `development` |
-| [Custom Validation](development/custom_validation_c9984986/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/custom_validation.md) | ⭐ 251 | `development` |
-| [Langchain Integration](development/langchain_integration_f31fd349/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/langchain_integration.md) | ⭐ 251 | `development` |
-| [Production](development/production_0a2c3981/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/production.md) | ⭐ 251 | `development` |
-| [Quickstart Typescript](development/quickstart-typescript_fc20e9de/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/quickstart-typescript.md) | ⭐ 251 | `development` |
-| [Quickstart](development/quickstart_f70e5474/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/quickstart.md) | ⭐ 251 | `development` |
-| [Universal Tool Calling Strategy](development/universal_tool_calling_strategy_e6f92351/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/UNIVERSAL_TOOL_CALLING_STRATEGY.md) | ⭐ 251 | `development` |
-| [Migration](development/migration_123ce55b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/core/MIGRATION.md) | ⭐ 251 | `development` |
-| [Config](development/config_5257307c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/config.md) | ⭐ 251 | `development` |
-| [Evaluation Fastembed Quick](development/evaluation-fastembed-quick_38ae6317/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/evaluation-fastembed-quick.md) | ⭐ 251 | `development` |
-| [Evaluation Production Report](development/evaluation-production-report_8c2aa8b4/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/evaluation-production-report.md) | ⭐ 251 | `development` |
-| [Reasoning Models Spec](development/reasoning_models_spec_4d0a0686/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/REASONING_MODELS_SPEC.md) | ⭐ 251 | `development` |
-| [Vercel Ai Sdk Dx Analysis](development/vercel_ai_sdk_dx_analysis_3c130a30/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/VERCEL_AI_SDK_DX_ANALYSIS.md) | ⭐ 251 | `development` |
-| [E2E Test Report](development/e2e_test_report_5ff59176/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/test-results/E2E_TEST_REPORT.md) | ⭐ 251 | `development` |
-| [Result](development/result_4b06c181/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/result.md) | ⭐ 251 | `development` |
+| [Agents](development/028-agents_136788ab/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/AGENTS.md) | ⭐ 251 | `development` |
+| [Codex](development/2095-codex_0e113b96/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/CODEX.md) | ⭐ 251 | `development` |
+| [Fastembed Audit Report](development/2807-fastembed-audit-report_dc0348b9/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-audit-report.md) | ⭐ 251 | `development` |
+| [Architecture](development/055-architecture_ab2d6115/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/ARCHITECTURE.md) | ⭐ 251 | `development` |
+| [Benchmarking Guide](development/101-benchmarking-guide_489a50c1/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/benchmarking-guide.md) | ⭐ 251 | `development` |
+| [Browser Cascading](development/2808-browser_cascading_93900003/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/browser_cascading.md) | ⭐ 251 | `development` |
+| [Cost Tracking](development/2809-cost_tracking_a624430d/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/cost_tracking.md) | ⭐ 251 | `development` |
+| [Custom Validation](development/2810-custom_validation_c9984986/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/custom_validation.md) | ⭐ 251 | `development` |
+| [Langchain Integration](development/2811-langchain_integration_f31fd349/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/langchain_integration.md) | ⭐ 251 | `development` |
+| [Production](development/2812-production_0a2c3981/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/production.md) | ⭐ 251 | `development` |
+| [Quickstart Typescript](development/2813-quickstart-typescript_fc20e9de/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/quickstart-typescript.md) | ⭐ 251 | `development` |
+| [Quickstart](development/760-quickstart_f70e5474/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/quickstart.md) | ⭐ 251 | `development` |
+| [Universal Tool Calling Strategy](development/2814-universal_tool_calling_strategy_e6f92351/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/UNIVERSAL_TOOL_CALLING_STRATEGY.md) | ⭐ 251 | `development` |
+| [Migration](development/2204-migration_123ce55b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/core/MIGRATION.md) | ⭐ 251 | `development` |
+| [Config](development/190-config_5257307c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/config.md) | ⭐ 251 | `development` |
+| [Developer Guide](development/developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
+| [Index](development/index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
+| [Skill](development/name-skill_593ab245/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/.claude/skills/voicemode/SKILL.md) | ⭐ 706 | `development` |
 
-### Development/Devops (141 skills)
+### Development/Devops (140 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2081,17 +2076,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Repo Architecture](development/devops/310-repo-architecture_d53aa530/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
 | [Max Callbacks](development/devops/348-max_callbacks_e177e372/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/max_callbacks.md) | 🔥 35.6k | `development` |
 | [Index](development/devops/050-index_dd185955/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.3-stable/index.md) | 🔥 35.6k | `development` |
-| [Edge Device](development/devops/edge_device_ab6cac68/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/edge_device.md) | ⭐ 251 | `development` |
-| [Fastapi](development/devops/fastapi_132b4c80/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/fastapi.md) | ⭐ 251 | `development` |
-| [Local Providers](development/devops/local-providers_8e8aed76/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/local-providers.md) | ⭐ 251 | `development` |
-| [Troubleshooting](development/devops/troubleshooting_abc37a96/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/TROUBLESHOOTING.md) | ⭐ 251 | `development` |
-| [Cost Tracking](development/devops/cost_tracking_6af248d5/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/langchain-cascadeflow/docs/COST_TRACKING.md) | ⭐ 251 | `development` |
-| [Ci Cd Infrastructure](development/devops/ci_cd_infrastructure_e159f189/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
-| [Telemetry](development/devops/telemetry_56ba5912/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/telemetry.md) | ⭐ 251 | `development` |
-| [Enterprise](development/devops/enterprise_c14d4397/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/enterprise.md) | ⭐ 251 | `development` |
-| [Skill](development/devops/cost-skill_b68025aa/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/skills/cascadeflow/SKILL.md) | ⭐ 251 | `development` |
+| [Edge Device](development/devops/349-edge_device_ab6cac68/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/edge_device.md) | ⭐ 251 | `development` |
+| [Fastapi](development/devops/350-fastapi_132b4c80/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/fastapi.md) | ⭐ 251 | `development` |
+| [Local Providers](development/devops/351-local-providers_8e8aed76/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/local-providers.md) | ⭐ 251 | `development` |
+| [Troubleshooting](development/devops/093-troubleshooting_abc37a96/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/TROUBLESHOOTING.md) | ⭐ 251 | `development` |
+| [Cost Tracking](development/devops/352-cost_tracking_6af248d5/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/langchain-cascadeflow/docs/COST_TRACKING.md) | ⭐ 251 | `development` |
+| [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_e159f189/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
+| [Mcp](development/devops/mcp_f0637c55/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 35.6k | `development` |
+| [Mcp Oauth](development/devops/mcp_oauth_b0b9e4e2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md) | 🔥 35.6k | `development` |
 
-### Development/Testing (84 skills)
+### Development/Testing (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2174,13 +2168,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_62c7cbeb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 31 | `development` |
 | [Quickstartguide](development/testing/069-quickstartguide_2d5ec2d5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/QuickStartGuide.md) | ⭐ 14 | `development` |
 | [Skill](development/testing/002-name-skill_62d039a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/SKILL.md) | ⭐ 14 | `development` |
-| [Installation](development/testing/installation_9414b478/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/INSTALLATION.md) | ⭐ 251 | `development` |
-| [Branch Cleanup Report](development/testing/branch-cleanup-report_0fe22520/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/branch-cleanup-report.md) | ⭐ 251 | `development` |
-| [Agents Strategy Analysis](development/testing/agents_strategy_analysis_d1c13901/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/AGENTS_STRATEGY_ANALYSIS.md) | ⭐ 251 | `development` |
-| [Presets](development/testing/presets_d083b5c8/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/presets.md) | ⭐ 251 | `development` |
-| [Vercel Ai E2E Report](development/testing/vercel-ai-e2e-report_0cd6748e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/core/src/vercel-ai/__tests__/vercel-ai-e2e-report.md) | ⭐ 251 | `development` |
+| [Installation](development/testing/070-installation_9414b478/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/INSTALLATION.md) | ⭐ 251 | `development` |
+| [Branch Cleanup Report](development/testing/071-branch-cleanup-report_0fe22520/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/branch-cleanup-report.md) | ⭐ 251 | `development` |
+| [Agents Strategy Analysis](development/testing/072-agents_strategy_analysis_d1c13901/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/AGENTS_STRATEGY_ANALYSIS.md) | ⭐ 251 | `development` |
 
-### Development/Tools (89 skills)
+### Development/Tools (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2202,7 +2194,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/tools/189-configuration_6f3666ac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/configuration.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/tools/276-gotchas_30378f48/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/gotchas.md) | 🔥 19.8k | `development` |
 | [Skill](development/tools/002-name-skill_e7e8cd22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.4k | `development` |
-| [Skill](development/tools/002-name-skill_4300d59f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.4k | `development` |
+| [Skill](development/tools/name-skill_02235433/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.6k | `development` |
 | [Resumable Sessions Design](development/tools/278-resumable_sessions_design_a4c2d0a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.4k | `development` |
 | [Skill](development/tools/002-name-skill_081935a6/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/screenshot/SKILL.md) | ⭐ 27 | `development` |
 | [How To Build A Tool](development/tools/279-how_to_build_a_tool_33641d4a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/tools/HOW_TO_BUILD_A_TOOL.md) | ⭐ 389 | `development` |
@@ -2269,10 +2261,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_39d06900/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/ncrna-search/SKILL.md) | ⭐ 212 | `development` |
 | [Reading Material 7](development/tools/306-reading_material_7_88e80e12/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L7_notes/reading_material_7.md) | ⭐ 418 | `development` |
 | [Table Setup](development/tools/307-table_setup_cec0dfa1/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L3/additional_references/table_setup.md) | ⭐ 418 | `development` |
-| [Proxy Integration Plan](development/tools/proxy_integration_plan_da078dae/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/PROXY_INTEGRATION_PLAN.md) | ⭐ 251 | `development` |
-| [Openclaw Integration Plan](development/tools/openclaw_integration_plan_1f5dcc77/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/OPENCLAW_INTEGRATION_PLAN.md) | ⭐ 251 | `development` |
-| [Vercel Ai Sdk Integration](development/tools/vercel_ai_sdk_integration_6e212c26/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/VERCEL_AI_SDK_INTEGRATION.md) | ⭐ 251 | `development` |
-| [Proxy](development/tools/proxy_c7ce7d6f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/proxy.md) | ⭐ 251 | `development` |
+| [Proxy Integration Plan](development/tools/308-proxy_integration_plan_da078dae/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/PROXY_INTEGRATION_PLAN.md) | ⭐ 251 | `development` |
+| [Openclaw Integration Plan](development/tools/309-openclaw_integration_plan_1f5dcc77/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/OPENCLAW_INTEGRATION_PLAN.md) | ⭐ 251 | `development` |
+| [Vercel Ai Sdk Integration](development/tools/310-vercel_ai_sdk_integration_6e212c26/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/VERCEL_AI_SDK_INTEGRATION.md) | ⭐ 251 | `development` |
+| [Skill](development/tools/002-name-skill_02235433/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.6k | `development` |
+| [Architecture](development/tools/architecture_c8b42f42/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 706 | `development` |
+| [Converse Parameters](development/tools/converse-parameters_3b0c206a/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/reference/converse-parameters.md) | ⭐ 706 | `development` |
+| [Mcp Tools](development/tools/mcp-tools_525161a6/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/reference/mcp-tools.md) | ⭐ 706 | `development` |
+| [Claude Code](development/tools/claude-code_2cfc6f06/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/setup/claude-code.md) | ⭐ 706 | `development` |
 
 ### Investment (14 skills)
 
@@ -2291,9 +2287,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Prompts](investment/044-prompts_afe188ee/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L3/prompts.md) | ⭐ 418 | `investment` |
 | [Reading Material 3](investment/045-reading_material_3_f64e111e/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L3/reading_material_3.md) | ⭐ 418 | `investment` |
 | [Budget Reallocation Rules](investment/041-budget_reallocation_rules_871003d1/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/skill/analyzing-marketing-campaign/references/budget_reallocation_rules.md) | ⭐ 418 | `investment` |
-| [Fastembed Improvement Plan](investment/fastembed-improvement-plan_6434df52/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-improvement-plan.md) | ⭐ 251 | `investment` |
+| [Fastembed Improvement Plan](investment/046-fastembed-improvement-plan_6434df52/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-improvement-plan.md) | ⭐ 251 | `investment` |
 
-### Productivity (18 skills)
+### Productivity (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2312,9 +2308,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tmuxconfig](productivity/169-tmuxconfig_6647a5a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/TmuxConfig.md) | ⭐ 14 | `productivity` |
 | [Setuptmux](productivity/170-setuptmux_bf38470d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/workflows/SetupTmux.md) | ⭐ 14 | `productivity` |
 | [Reading Material 4](productivity/171-reading_material_4_f362409f/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/reading_material_4.md) | ⭐ 418 | `productivity` |
-| [Fastembed Investigation Report](productivity/fastembed-investigation-report_62326fb7/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-investigation-report.md) | ⭐ 251 | `productivity` |
-| [Openclaw Provider](productivity/openclaw_provider_5bc4c004/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/openclaw_provider.md) | ⭐ 251 | `productivity` |
-| [Performance](productivity/performance_1bf0418e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/performance.md) | ⭐ 251 | `productivity` |
 
 ### Research (69 skills)
 
@@ -2440,5 +2433,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 02:11:00 UTC*
+*Last updated: 2026-02-10 02:41:01 UTC*
 *Automatically maintained by SkillFlow*
