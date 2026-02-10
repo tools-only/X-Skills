@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T10:35:34.502457",
+  "updated_at": "2026-02-10T11:09:31.059615",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30465,6 +30465,118 @@
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/pass_through/bedrock.md",
       "display_name": "Bedrock",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2efc7a53f5527a00f6066a24e4a616ad0ee10dc7ffdadb4e81114bad0fc2932c",
+      "source_path": "CATALOG.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/126-catalog_2efc7a53",
+      "category": "development",
+      "name": "catalog_2efc7a53",
+      "indexed_at": "2026-02-10T11:09:29.844749",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-08T10:09:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md",
+      "display_name": "Catalog",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "41b03e5d4e04abd9ffe4234651aca68282b458975b3e01a4de32a566eb9acafb",
+      "source_path": "docs/FAQ.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/360-faq_41b03e5d",
+      "category": "development",
+      "name": "faq_41b03e5d",
+      "indexed_at": "2026-02-10T11:09:30.015082",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-02T18:55:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e8ad6ee7da0b48b40e0cf686e8fd91a67998861eb07788ab1fa80596ca781950",
+      "source_path": "docs/GETTING_STARTED.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/423-getting_started_e8ad6ee7",
+      "category": "development",
+      "name": "getting_started_e8ad6ee7",
+      "indexed_at": "2026-02-10T11:09:30.189370",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-02T18:55:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md",
+      "display_name": "Getting Started",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "408562ab7f608c73e412d9bac65557bb857053055ba97e9a08f7efc4f67cb335",
+      "source_path": "release_notes.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/testing/079-release_notes_408562ab",
+      "category": "development/testing",
+      "name": "release_notes_408562ab",
+      "indexed_at": "2026-02-10T11:09:30.389519",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-06T07:59:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md",
+      "display_name": "Release Notes",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5b676800632e58eadddf9d4da8cc826e290a16042c9ae54f8136fca36034ed9e",
+      "source_path": "docs/WORKFLOWS.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/testing/080-workflows_5b676800",
+      "category": "development/testing",
+      "name": "workflows_5b676800",
+      "indexed_at": "2026-02-10T11:09:30.588834",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-10T09:36:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md",
+      "display_name": "Workflows",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "601c83df1c5be9dc59c6c00dc0752d682a78836b58c368dd050e81821192e52f",
+      "source_path": ".github/MAINTENANCE.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/tools/207-maintenance_601c83df",
+      "category": "development/tools",
+      "name": "maintenance_601c83df",
+      "indexed_at": "2026-02-10T11:09:30.819210",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-05T08:26:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md",
+      "display_name": "Maintenance",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "64a8ffc5e502f326659a546dd9b24a504ef3d63e015eec79058bf195ec2306f1",
+      "source_path": "skills/go-playwright/SKILL.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/tools/002-name-skill_64a8ffc5",
+      "category": "development/tools",
+      "name": "name-skill_64a8ffc5",
+      "indexed_at": "2026-02-10T11:09:30.932218",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-10T08:27:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-playwright/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "196ff52eeb6b4b4db9deb0f36b4551349eb302ac11e69e0b716504b80ed2f285",
+      "source_path": "skills/antigravity-workflows/SKILL.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "automation/workflow/002-name-skill_196ff52e",
+      "category": "automation/workflow",
+      "name": "name-skill_196ff52e",
+      "indexed_at": "2026-02-10T11:09:31.059530",
+      "repo_stars": 8162,
+      "repo_updated_at": "2026-02-10T09:36:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
