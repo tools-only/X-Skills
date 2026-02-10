@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T05:11:09.224810",
+  "updated_at": "2026-02-10T07:37:08.476469",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29904,6 +29904,20 @@
       "repo_updated_at": "2026-02-10T02:59:12+00:00",
       "source_url": "https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md",
       "display_name": "Readme Zh",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6476752719d958b7eceb715e149a95121a424e4c1d5e443d5ce9c43943153c65",
+      "source_path": "docs/my-website/docs/mcp_oauth.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/353-mcp_oauth_64767527",
+      "category": "development/devops",
+      "name": "mcp_oauth_64767527",
+      "indexed_at": "2026-02-10T07:37:08.476411",
+      "repo_stars": 35627,
+      "repo_updated_at": "2026-02-10T03:28:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md",
+      "display_name": "Mcp Oauth",
       "tags": "[\"development\"]"
     }
   ]
