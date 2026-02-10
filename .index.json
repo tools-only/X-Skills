@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T13:41:56.827130",
+  "updated_at": "2026-02-10T14:40:06.453891",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -31123,6 +31123,48 @@
       "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-hosting.md",
       "display_name": "Core Hosting",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4a6ace62bdc615edc402641b3f06dec4a412c7dd7aadae15c0b18e4fa5b868bf",
+      "source_path": "docs/my-website/docs/providers/perplexity.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "communication/249-perplexity_4a6ace62",
+      "category": "communication",
+      "name": "perplexity_4a6ace62",
+      "indexed_at": "2026-02-10T14:40:06.001176",
+      "repo_stars": 35667,
+      "repo_updated_at": "2026-02-10T12:14:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md",
+      "display_name": "Perplexity",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "da202e3795fb7489835943fdb9984e81e2be87d8c56b2301e447d7690839a94c",
+      "source_path": "docs/my-website/docs/proxy/admin_ui_sso.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/031-admin_ui_sso_da202e37",
+      "category": "development/devops",
+      "name": "admin_ui_sso_da202e37",
+      "indexed_at": "2026-02-10T14:40:06.209785",
+      "repo_stars": 35667,
+      "repo_updated_at": "2026-02-09T19:57:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md",
+      "display_name": "Admin Ui Sso",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "bc896b79193527aba034a565c190c46790ad9e0de9360b6274a96a89a8e05bbb",
+      "source_path": "docs/my-website/docs/proxy/config_settings.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/033-config_settings_bc896b79",
+      "category": "development/devops",
+      "name": "config_settings_bc896b79",
+      "indexed_at": "2026-02-10T14:40:06.453846",
+      "repo_stars": 35667,
+      "repo_updated_at": "2026-02-09T19:57:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
+      "display_name": "Config Settings",
+      "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
     }
   ]
 }

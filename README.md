@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2268 AI-powered skills** organized into 14 categories.
+A curated collection of **2227 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (240 skills)
+- **Automation/Scripting** (223 skills)
 - **Automation/Workflow** (73 skills)
 - **Commercial** (251 skills)
-- **Communication** (53 skills)
-- **Content Creation** (513 skills)
+- **Communication** (55 skills)
+- **Content Creation** (502 skills)
 - **Daily Assistant** (63 skills)
-- **Data Analysis** (209 skills)
-- **Development** (414 skills)
-- **Development/Devops** (152 skills)
+- **Data Analysis** (208 skills)
+- **Development** (402 skills)
+- **Development/Devops** (154 skills)
 - **Development/Testing** (90 skills)
-- **Development/Tools** (107 skills)
-- **Investment** (16 skills)
-- **Productivity** (18 skills)
+- **Development/Tools** (105 skills)
+- **Investment** (15 skills)
+- **Productivity** (17 skills)
 - **Research** (69 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (240 skills)
+### Automation/Scripting (223 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -406,24 +406,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](automation/scripting/001-troubleshooting_10d357e7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/troubleshooting.md) | ⭐ 14 | `automation` |
 | [Api Reference](automation/scripting/083-api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_525aa503/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
-| [Build Pdf](automation/scripting/build-pdf_023e0286/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-pdf.md) | ⭐ 17 | `automation` |
-| [Animation Click Marker](automation/scripting/animation-click-marker_ca20897b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/animation-click-marker.md) | ⭐ 17 | `automation` |
-| [Animation Drawing](automation/scripting/animation-drawing_5fd91b06/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/animation-drawing.md) | ⭐ 17 | `automation` |
-| [Animation Rough Marker](automation/scripting/animation-rough-marker_ef8c8d00/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/animation-rough-marker.md) | ⭐ 17 | `automation` |
-| [Api Slide Hooks](automation/scripting/api-slide-hooks_8c82712b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/api-slide-hooks.md) | ⭐ 17 | `automation` |
-| [Build Remote Assets](automation/scripting/build-remote-assets_a0fa11b7/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-remote-assets.md) | ⭐ 17 | `automation` |
-| [Diagram Latex](automation/scripting/diagram-latex_6fb51a8a/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/diagram-latex.md) | ⭐ 17 | `automation` |
-| [Layout Canvas Size](automation/scripting/layout-canvas-size_2d17e659/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/layout-canvas-size.md) | ⭐ 17 | `automation` |
-| [Layout Draggable](automation/scripting/layout-draggable_cedf74ff/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/layout-draggable.md) | ⭐ 17 | `automation` |
-| [Layout Global Layers](automation/scripting/layout-global-layers_1614c681/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/layout-global-layers.md) | ⭐ 17 | `automation` |
-| [Layout Zoom](automation/scripting/layout-zoom_c0ab0c32/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/layout-zoom.md) | ⭐ 17 | `automation` |
-| [Presenter Notes Ruby](automation/scripting/presenter-notes-ruby_aeadf860/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/presenter-notes-ruby.md) | ⭐ 17 | `automation` |
-| [Presenter Remote](automation/scripting/presenter-remote_90683d6e/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/presenter-remote.md) | ⭐ 17 | `automation` |
-| [Style Direction](automation/scripting/style-direction_aaa1a100/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/style-direction.md) | ⭐ 17 | `automation` |
-| [Style Icons](automation/scripting/style-icons_881daa50/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/style-icons.md) | ⭐ 17 | `automation` |
-| [Style Scoped](automation/scripting/style-scoped_f2caa6d5/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/style-scoped.md) | ⭐ 17 | `automation` |
-| [Syntax Frontmatter Merging](automation/scripting/syntax-frontmatter-merging_f92f3de2/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/syntax-frontmatter-merging.md) | ⭐ 17 | `automation` |
-| [Syntax Importing Slides](automation/scripting/syntax-importing-slides_5121a7fa/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/syntax-importing-slides.md) | ⭐ 17 | `automation` |
+| [Build Pdf](automation/scripting/084-build-pdf_023e0286/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-pdf.md) | ⭐ 17 | `automation` |
 
 ### Automation/Workflow (73 skills)
 
@@ -759,7 +742,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Growth Strategy](commercial/096-growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
 | [Skill](commercial/210-name-skill_af12ef73/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.7k | `commercial` |
 
-### Communication (53 skills)
+### Communication (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -814,10 +797,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_88ec62c7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 73 | `communication` |
 | [02 Volcengine Purchase Guide](communication/237-02-volcengine-purchase-guide_f3c4fe34/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/02-volcengine-purchase-guide.md) | ⭐ 1.1k | `communication` |
 | [Component Catalog](communication/248-component-catalog_0215b4d9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/component-catalog.md) | ⭐ 13 | `communication` |
-| [Skill](communication/name-skill_c332c25b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 17 | `communication` |
-| [Skill](communication/name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
+| [Skill](communication/127-name-skill_c332c25b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 17 | `communication` |
+| [Skill](communication/127-name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
+| [Perplexity](communication/perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
+| [Custom Sso](communication/custom_sso_a834eddf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/custom_sso.md) | 🔥 35.7k | `communication` |
 
-### Content Creation (513 skills)
+### Content Creation (502 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1321,19 +1306,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Verification Marathon](content-creation/345-skill_verification_marathon_c4a72469/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/docs/tasks/Skill_Verification_Marathon.md) | ⭐ 13 | `content creation` |
 | [Skill](content-creation/049-name-skill_34fde6f0/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/SKILL.md) | ⭐ 13 | `content creation` |
 | [Composition Checklist](content-creation/346-composition-checklist_91fc3b51/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/resources/composition-checklist.md) | ⭐ 13 | `content creation` |
-| [Build Og Image](content-creation/build-og-image_b47dd5bd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-og-image.md) | ⭐ 17 | `content creation` |
-| [Tool Eject Theme](content-creation/tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
-| [Build Seo Meta](content-creation/build-seo-meta_5188fb13/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-seo-meta.md) | ⭐ 17 | `content creation` |
-| [Code Import Snippet](content-creation/code-import-snippet_3f794e23/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-import-snippet.md) | ⭐ 17 | `content creation` |
-| [Core Components](content-creation/core-components_5e111844/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-components.md) | ⭐ 17 | `content creation` |
-| [Core Frontmatter](content-creation/core-frontmatter_04486166/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-frontmatter.md) | ⭐ 17 | `content creation` |
-| [Core Layouts](content-creation/core-layouts_95fd7274/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-layouts.md) | ⭐ 17 | `content creation` |
-| [Core Syntax](content-creation/core-syntax_3b56a8fb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-syntax.md) | ⭐ 17 | `content creation` |
-| [Diagram Plantuml](content-creation/diagram-plantuml_c006d564/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/diagram-plantuml.md) | ⭐ 17 | `content creation` |
-| [Editor Monaco Write](content-creation/editor-monaco-write_fb17f1f5/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/editor-monaco-write.md) | ⭐ 17 | `content creation` |
-| [Editor Side](content-creation/editor-side_0a5993ab/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/editor-side.md) | ⭐ 17 | `content creation` |
-| [Layout Slots](content-creation/layout-slots_b77222cc/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/layout-slots.md) | ⭐ 17 | `content creation` |
-| [Syntax Mdc](content-creation/syntax-mdc_e4cb6f4f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/syntax-mdc.md) | ⭐ 17 | `content creation` |
+| [Build Og Image](content-creation/347-build-og-image_b47dd5bd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-og-image.md) | ⭐ 17 | `content creation` |
+| [Tool Eject Theme](content-creation/348-tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
 
 ### Daily Assistant (63 skills)
 
@@ -1401,9 +1375,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_4b410995/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L6/.claude/skills/adding-cli-command/SKILL.md) | ⭐ 418 | `daily assistant` |
 | [Dockerfile Best Practices](daily-assistant/260-dockerfile-best-practices_78b9bdb7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/dockerfile-best-practices.md) | ⭐ 2.5k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_ddd5916a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.7k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_d7fc6282/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 17 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_d7fc6282/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (209 skills)
+### Data Analysis (208 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1615,9 +1589,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_eb15f446/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/design-md/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_f0473659/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_185ef924/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
-| [Diagram Mermaid](data-analysis/diagram-mermaid_2edfba65/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/diagram-mermaid.md) | ⭐ 17 | `data analysis` |
 
-### Development (414 skills)
+### Development (402 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2021,22 +1994,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Reference](development/051-api_reference_26c319dc/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/api_reference.md) | ⭐ 1.7k | `development` |
 | [Skill](development/1178-name-skill_db146c4f/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/SKILL.md) | ⭐ 13 | `development` |
 | [Customization Guide](development/2837-customization-guide_c626feb6/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/customization-guide.md) | ⭐ 13 | `development` |
-| [Skill](development/name-skill_2155e0b4/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/SKILL.md) | ⭐ 17 | `development` |
-| [Core Headmatter](development/core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
-| [Code Groups](development/code-groups_538ab56c/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-groups.md) | ⭐ 17 | `development` |
-| [Code Line Highlighting](development/code-line-highlighting_4571a5fa/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-line-highlighting.md) | ⭐ 17 | `development` |
-| [Code Line Numbers](development/code-line-numbers_f69d7673/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-line-numbers.md) | ⭐ 17 | `development` |
-| [Code Magic Move](development/code-magic-move_78121e4b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-magic-move.md) | ⭐ 17 | `development` |
-| [Code Max Height](development/code-max-height_6f7ec03b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-max-height.md) | ⭐ 17 | `development` |
-| [Code Twoslash](development/code-twoslash_12d80b5f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/code-twoslash.md) | ⭐ 17 | `development` |
-| [Core Global Context](development/core-global-context_eb5b2e9b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-global-context.md) | ⭐ 17 | `development` |
-| [Editor Monaco Run](development/editor-monaco-run_f47be9b3/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/editor-monaco-run.md) | ⭐ 17 | `development` |
-| [Editor Monaco](development/editor-monaco_d54e5abb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/editor-monaco.md) | ⭐ 17 | `development` |
-| [Editor Prettier](development/editor-prettier_126d0488/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/editor-prettier.md) | ⭐ 17 | `development` |
-| [Layout Transform](development/layout-transform_3d6a90df/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/layout-transform.md) | ⭐ 17 | `development` |
-| [Syntax Block Frontmatter](development/syntax-block-frontmatter_fafee6da/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/syntax-block-frontmatter.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_2155e0b4/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/SKILL.md) | ⭐ 17 | `development` |
+| [Core Headmatter](development/2838-core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
 
-### Development/Devops (152 skills)
+### Development/Devops (154 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2189,9 +2150,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rulesets](development/devops/355-rulesets_e641bf7b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/rulesets.md) | ⭐ 2.5k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_fae9a875/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
 | [Server Cli Design](development/devops/145-server-cli-design_1ebeb017/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
-| [Core Cli](development/devops/core-cli_f94193da/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-cli.md) | ⭐ 17 | `development` |
-| [Core Exporting](development/devops/core-exporting_6c222099/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-exporting.md) | ⭐ 17 | `development` |
-| [Core Hosting](development/devops/core-hosting_69e8d015/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-hosting.md) | ⭐ 17 | `development` |
+| [Core Cli](development/devops/356-core-cli_f94193da/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-cli.md) | ⭐ 17 | `development` |
+| [Core Exporting](development/devops/357-core-exporting_6c222099/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-exporting.md) | ⭐ 17 | `development` |
+| [Core Hosting](development/devops/358-core-hosting_69e8d015/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-hosting.md) | ⭐ 17 | `development` |
+| [Admin Ui Sso](development/devops/admin_ui_sso_da202e37/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.7k | `development` |
+| [Config Settings](development/devops/config_settings_bc896b79/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Development/Testing (90 skills)
 
@@ -2288,7 +2251,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
 
-### Development/Tools (107 skills)
+### Development/Tools (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2396,11 +2359,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_2ddfe599/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/SKILL.md) | ⭐ 13 | `development` |
 | [Migration Guide](development/tools/315-migration-guide_81dabd22/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/migration-guide.md) | ⭐ 13 | `development` |
 | [Setup Guide](development/tools/316-setup-guide_02ab4cc9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/setup-guide.md) | ⭐ 13 | `development` |
-| [Agents](development/tools/agents_2e6bfc71/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 17 | `development` |
-| [Core Animations](development/tools/core-animations_a3f8d12f/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-animations.md) | ⭐ 17 | `development` |
-| [Presenter Recording](development/tools/presenter-recording_f2adf9c9/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/presenter-recording.md) | ⭐ 17 | `development` |
+| [Agents](development/tools/015-agents_2e6bfc71/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 17 | `development` |
 
-### Investment (16 skills)
+### Investment (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2419,9 +2380,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Budget Reallocation Rules](investment/041-budget_reallocation_rules_871003d1/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/skill/analyzing-marketing-campaign/references/budget_reallocation_rules.md) | ⭐ 418 | `investment` |
 | [Fastembed Improvement Plan](investment/046-fastembed-improvement-plan_6434df52/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-improvement-plan.md) | ⭐ 251 | `investment` |
 | [Python Tools Audit](investment/047-python_tools_audit_c7c07488/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/PYTHON_TOOLS_AUDIT.md) | ⭐ 1.7k | `investment` |
-| [Editor Vscode](investment/editor-vscode_54faab93/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/editor-vscode.md) | ⭐ 17 | `investment` |
 
-### Productivity (18 skills)
+### Productivity (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2442,7 +2402,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reading Material 4](productivity/171-reading_material_4_f362409f/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/reading_material_4.md) | ⭐ 418 | `productivity` |
 | [Skill](productivity/093-name-skill_ccb200c7/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/SKILL.md) | ⭐ 13 | `productivity` |
 | [Keywords](productivity/172-keywords_b837324b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/references/KEYWORDS.md) | ⭐ 13 | `productivity` |
-| [Presenter Timer](productivity/presenter-timer_7d0306a6/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/presenter-timer.md) | ⭐ 17 | `productivity` |
 
 ### Research (69 skills)
 
@@ -2568,5 +2527,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 13:41:56 UTC*
+*Last updated: 2026-02-10 14:40:06 UTC*
 *Automatically maintained by SkillFlow*
