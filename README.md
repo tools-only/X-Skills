@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2135 AI-powered skills** organized into 14 categories.
+A curated collection of **2133 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (221 skills)
-- **Automation/Workflow** (71 skills)
+- **Automation/Workflow** (70 skills)
 - **Commercial** (248 skills)
 - **Communication** (47 skills)
 - **Content Creation** (493 skills)
 - **Daily Assistant** (60 skills)
 - **Data Analysis** (199 skills)
-- **Development** (385 skills)
-- **Development/Devops** (140 skills)
+- **Development** (382 skills)
+- **Development/Devops** (141 skills)
 - **Development/Testing** (82 skills)
-- **Development/Tools** (91 skills)
+- **Development/Tools** (92 skills)
 - **Investment** (14 skills)
 - **Productivity** (15 skills)
 - **Research** (69 skills)
@@ -406,7 +406,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](automation/scripting/001-troubleshooting_10d357e7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/troubleshooting.md) | ⭐ 14 | `automation` |
 | [Api Reference](automation/scripting/083-api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
 
-### Automation/Workflow (71 skills)
+### Automation/Workflow (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -480,7 +480,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Usage Guide](automation/workflow/031-usage-guide_8b5fe2f9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/usage-guide.md) | ⭐ 212 | `automation` |
 | [N8N V2 Integration Plan](automation/workflow/132-n8n_v2_integration_plan_a9bba2df/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/N8N_V2_INTEGRATION_PLAN.md) | ⭐ 251 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d9a75368/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.6k | `automation` |
-| [Test Spec Reference](automation/workflow/test-spec-reference_a38fcab9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/resources/test-spec-reference.md) | ⭐ 60 | `automation` |
 
 ### Commercial (248 skills)
 
@@ -1554,7 +1553,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Calling Cascade Strategy](data-analysis/471-tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_512413ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.6k | `data analysis` |
 
-### Development (385 skills)
+### Development (382 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1939,12 +1938,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Config](development/190-config_5257307c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/config.md) | ⭐ 251 | `development` |
 | [Developer Guide](development/282-developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
 | [Index](development/468-index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
-| [Actions Reference](development/actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
-| [Skill](development/name-skill_a5d551bb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 60 | `development` |
-| [Agentscript Testing Patterns](development/agentscript-testing-patterns_70503832/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/agentscript-testing-patterns.md) | ⭐ 60 | `development` |
-| [Test Spec Guide](development/test-spec-guide_3740386e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/docs/test-spec-guide.md) | ⭐ 60 | `development` |
+| [Actions Reference](development/010-actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
 
-### Development/Devops (140 skills)
+### Development/Devops (141 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2088,6 +2084,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_e159f189/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 | [Mcp](development/devops/025-mcp_f0637c55/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 35.6k | `development` |
 | [Mcp Oauth](development/devops/353-mcp_oauth_b0b9e4e2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md) | 🔥 35.6k | `development` |
+| [Mkdocs](development/devops/mkdocs_29b30b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mkdocs.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (82 skills)
 
@@ -2176,7 +2173,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Branch Cleanup Report](development/testing/071-branch-cleanup-report_0fe22520/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/branch-cleanup-report.md) | ⭐ 251 | `development` |
 | [Agents Strategy Analysis](development/testing/072-agents_strategy_analysis_d1c13901/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/AGENTS_STRATEGY_ANALYSIS.md) | ⭐ 251 | `development` |
 
-### Development/Tools (91 skills)
+### Development/Tools (92 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2270,7 +2267,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vercel Ai Sdk Integration](development/tools/310-vercel_ai_sdk_integration_6e212c26/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/VERCEL_AI_SDK_INTEGRATION.md) | ⭐ 251 | `development` |
 | [Skill](development/tools/002-name-skill_02235433/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.6k | `development` |
 | [Architecture](development/tools/051-architecture_c8b42f42/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 706 | `development` |
-| [Skill](development/tools/name-skill_7a82d06d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
+| [Skill](development/tools/002-name-skill_7a82d06d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
+| [Unittest](development/tools/unittest_1ea3da39/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/test/unittest.md) | ⭐ 3.3k | `development` |
 
 ### Investment (14 skills)
 
@@ -2435,5 +2433,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 04:19:51 UTC*
+*Last updated: 2026-02-10 04:30:19 UTC*
 *Automatically maintained by SkillFlow*
