@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2175 AI-powered skills** organized into 14 categories.
+A curated collection of **2176 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (495 skills)
 - **Daily Assistant** (60 skills)
 - **Data Analysis** (202 skills)
-- **Development** (392 skills)
+- **Development** (393 skills)
 - **Development/Devops** (148 skills)
 - **Development/Testing** (88 skills)
 - **Development/Tools** (98 skills)
@@ -1565,7 +1565,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Create Data Extensions](data-analysis/473-create-data-extensions_e9ff30a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.5k | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_817096d4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 
-### Development (392 skills)
+### Development (393 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1961,6 +1961,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Contributing Cn](development/2034-contributing_cn_3472ae22/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_657bd583/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_a70d2cf8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
+| [Bedrock](development/bedrock_eb9102a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/pass_through/bedrock.md) | 🔥 35.6k | `development` |
 
 ### Development/Devops (148 skills)
 
@@ -2308,8 +2309,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Codex Invocation](development/tools/311-codex-invocation_4328260e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/codex-invocation.md) | ⭐ 2.5k | `development` |
 | [Gemini Invocation](development/tools/312-gemini-invocation_8f204a18/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.5k | `development` |
 | [Run Analysis](development/tools/313-run-analysis_67c4822a/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/run-analysis.md) | ⭐ 2.5k | `development` |
-| [Agents](development/tools/agents_3f27ac21/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 20 | `development` |
-| [Skill](development/tools/name-skill_f5770d1b/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 20 | `development` |
+| [Agents](development/tools/015-agents_3f27ac21/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/002-name-skill_f5770d1b/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 20 | `development` |
 
 ### Investment (15 skills)
 
@@ -2475,5 +2476,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 10:04:12 UTC*
+*Last updated: 2026-02-10 10:35:34 UTC*
 *Automatically maintained by SkillFlow*

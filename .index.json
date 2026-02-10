@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T10:04:12.176672",
+  "updated_at": "2026-02-10T10:35:34.502457",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30450,6 +30450,20 @@
       "repo_updated_at": "2026-02-07T08:52:41+00:00",
       "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "eb9102a9fe96a0266a56916c89614db49153c1c5aa2a8dbbd3948d747e198dff",
+      "source_path": "docs/my-website/docs/pass_through/bedrock.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2834-bedrock_eb9102a9",
+      "category": "development",
+      "name": "bedrock_eb9102a9",
+      "indexed_at": "2026-02-10T10:35:34.501743",
+      "repo_stars": 35644,
+      "repo_updated_at": "2026-02-10T08:07:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/pass_through/bedrock.md",
+      "display_name": "Bedrock",
       "tags": "[\"development\"]"
     }
   ]
