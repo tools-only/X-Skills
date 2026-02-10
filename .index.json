@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T14:40:06.453891",
+  "updated_at": "2026-02-10T20:12:24.468495",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -31165,6 +31165,62 @@
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
       "display_name": "Config Settings",
       "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
+    },
+    {
+      "file_hash": "cca15798b2a878279178a711a80a11cb33f9525869e526652ae4cb6de71b2e8a",
+      "source_path": "logs/refactor-microsim-generator-for-token-efficiency.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "data-analysis/474-refactor-microsim-generator-for-token-efficiency_cca15798",
+      "category": "data-analysis",
+      "name": "refactor-microsim-generator-for-token-efficiency_cca15798",
+      "indexed_at": "2026-02-10T20:12:23.804620",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-10T18:41:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/refactor-microsim-generator-for-token-efficiency.md",
+      "display_name": "Refactor Microsim Generator For Token Efficiency",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "ce0de3a0dc29106f467ecc37df6344b49b7944f1d3ba0867a936f486aa7517d1",
+      "source_path": "skills/chapter-content-generator/SKILL.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "data-analysis/226-name-skill_ce0de3a0",
+      "category": "data-analysis",
+      "name": "name-skill_ce0de3a0",
+      "indexed_at": "2026-02-10T20:12:24.013334",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-10T16:16:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "24c0bd72e4f2fe65c9117decb10c086dd6206c11fd1bb1874daf04c2ee2052c9",
+      "source_path": "skills/microsim-generator/SKILL.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "data-analysis/226-name-skill_24c0bd72",
+      "category": "data-analysis",
+      "name": "name-skill_24c0bd72",
+      "indexed_at": "2026-02-10T20:12:24.215177",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-10T19:24:59+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "7c997ce639c1698b5c087db0af2221ef159312b59ea7375f0414b0de9fcbd728",
+      "source_path": "skills/chapter-content-generator/references/content-element-types.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "data-analysis/475-content-element-types_7c997ce6",
+      "category": "data-analysis",
+      "name": "content-element-types_7c997ce6",
+      "indexed_at": "2026-02-10T20:12:24.468452",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-10T16:16:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md",
+      "display_name": "Content Element Types",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

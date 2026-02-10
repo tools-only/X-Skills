@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2227 AI-powered skills** organized into 14 categories.
+A curated collection of **2230 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,10 +11,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (223 skills)
 - **Automation/Workflow** (73 skills)
 - **Commercial** (251 skills)
-- **Communication** (55 skills)
+- **Communication** (54 skills)
 - **Content Creation** (502 skills)
 - **Daily Assistant** (63 skills)
-- **Data Analysis** (208 skills)
+- **Data Analysis** (212 skills)
 - **Development** (402 skills)
 - **Development/Devops** (154 skills)
 - **Development/Testing** (90 skills)
@@ -742,7 +742,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Growth Strategy](commercial/096-growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
 | [Skill](commercial/210-name-skill_af12ef73/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.7k | `commercial` |
 
-### Communication (55 skills)
+### Communication (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -799,8 +799,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Component Catalog](communication/248-component-catalog_0215b4d9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/component-catalog.md) | ⭐ 13 | `communication` |
 | [Skill](communication/127-name-skill_c332c25b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 17 | `communication` |
 | [Skill](communication/127-name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
-| [Perplexity](communication/perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
-| [Custom Sso](communication/custom_sso_a834eddf/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/custom_sso.md) | 🔥 35.7k | `communication` |
+| [Perplexity](communication/249-perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
 
 ### Content Creation (502 skills)
 
@@ -1377,7 +1376,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_ddd5916a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.7k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_d7fc6282/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (208 skills)
+### Data Analysis (212 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1589,6 +1588,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_eb15f446/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/design-md/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_f0473659/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_185ef924/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
+| [Refactor Microsim Generator For Token Efficiency](data-analysis/refactor-microsim-generator-for-token-efficiency_cca15798/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/refactor-microsim-generator-for-token-efficiency.md) | ⭐ 16 | `data analysis` |
+| [Skill](data-analysis/name-skill_ce0de3a0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Skill](data-analysis/name-skill_24c0bd72/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Content Element Types](data-analysis/content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
 
 ### Development (402 skills)
 
@@ -2153,8 +2156,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Core Cli](development/devops/356-core-cli_f94193da/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-cli.md) | ⭐ 17 | `development` |
 | [Core Exporting](development/devops/357-core-exporting_6c222099/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-exporting.md) | ⭐ 17 | `development` |
 | [Core Hosting](development/devops/358-core-hosting_69e8d015/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-hosting.md) | ⭐ 17 | `development` |
-| [Admin Ui Sso](development/devops/admin_ui_sso_da202e37/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.7k | `development` |
-| [Config Settings](development/devops/config_settings_bc896b79/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Admin Ui Sso](development/devops/031-admin_ui_sso_da202e37/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.7k | `development` |
+| [Config Settings](development/devops/033-config_settings_bc896b79/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Development/Testing (90 skills)
 
@@ -2527,5 +2530,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 14:40:06 UTC*
+*Last updated: 2026-02-10 20:12:24 UTC*
 *Automatically maintained by SkillFlow*
