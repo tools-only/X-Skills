@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2221 AI-powered skills** organized into 14 categories.
+A curated collection of **2212 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -10,13 +10,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (222 skills)
 - **Automation/Workflow** (73 skills)
-- **Commercial** (253 skills)
-- **Communication** (52 skills)
+- **Commercial** (251 skills)
+- **Communication** (51 skills)
 - **Content Creation** (500 skills)
-- **Daily Assistant** (65 skills)
-- **Data Analysis** (209 skills)
-- **Development** (403 skills)
-- **Development/Devops** (148 skills)
+- **Daily Assistant** (62 skills)
+- **Data Analysis** (208 skills)
+- **Development** (400 skills)
+- **Development/Devops** (149 skills)
 - **Development/Testing** (90 skills)
 - **Development/Tools** (105 skills)
 - **Investment** (15 skills)
@@ -483,9 +483,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_d9a75368/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.6k | `automation` |
 | [Skill](automation/workflow/002-name-skill_97a1ce37/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.7k | `automation` |
 | [Skill](automation/workflow/002-name-skill_196ff52e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md) | 🔥 8.2k | `automation` |
-| [Skill](automation/workflow/name-skill_39604611/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-admin/SKILL.md) | ⭐ 1.7k | `automation` |
+| [Skill](automation/workflow/002-name-skill_39604611/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-admin/SKILL.md) | ⭐ 1.7k | `automation` |
 
-### Commercial (253 skills)
+### Commercial (251 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -739,11 +739,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [N8N Compatibility Validation](commercial/364-n8n_compatibility_validation_f01b6855/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
 | [Claude](commercial/036-claude_252a8196/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) | ⭐ 1.7k | `commercial` |
 | [Growth Strategy](commercial/096-growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
-| [Skill](commercial/name-skill_af12ef73/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.7k | `commercial` |
-| [Design](commercial/design_e856ef5f/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/design-md/examples/DESIGN.md) | ⭐ 13 | `commercial` |
-| [Site](commercial/site_93961111/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/examples/SITE.md) | ⭐ 13 | `commercial` |
+| [Skill](commercial/210-name-skill_af12ef73/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.7k | `commercial` |
 
-### Communication (52 skills)
+### Communication (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -797,8 +795,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_0cf19ea0/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 73 | `communication` |
 | [Skill](communication/127-name-skill_88ec62c7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 73 | `communication` |
 | [02 Volcengine Purchase Guide](communication/237-02-volcengine-purchase-guide_f3c4fe34/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/02-volcengine-purchase-guide.md) | ⭐ 1.1k | `communication` |
-| [Component Catalog](communication/component-catalog_0215b4d9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/component-catalog.md) | ⭐ 13 | `communication` |
-| [Next Prompt](communication/next-prompt_4a357517/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/examples/next-prompt.md) | ⭐ 13 | `communication` |
+| [Component Catalog](communication/248-component-catalog_0215b4d9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/component-catalog.md) | ⭐ 13 | `communication` |
 
 ### Content Creation (500 skills)
 
@@ -1297,15 +1294,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [N8N Integration](content-creation/341-n8n_integration_5e37f47c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
 | [Providers](content-creation/342-providers_c26aff2b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
 | [Agent](content-creation/343-agent_a939f648/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/agent.md) | ⭐ 251 | `content creation` |
-| [Installation](content-creation/installation_66274bb1/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.7k | `content creation` |
+| [Installation](content-creation/344-installation_61e4f0ec/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.7k | `content creation` |
 | [Skill](content-creation/049-name-skill_6323eac5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/SKILL.md) | ⭐ 2.5k | `content creation` |
 | [Installation](content-creation/344-installation_66274bb1/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.7k | `content creation` |
-| [Skill](content-creation/name-skill_dec2147d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/confluence-expert/SKILL.md) | ⭐ 1.7k | `content creation` |
-| [Skill Verification Marathon](content-creation/skill_verification_marathon_c4a72469/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/docs/tasks/Skill_Verification_Marathon.md) | ⭐ 13 | `content creation` |
-| [Skill](content-creation/name-skill_34fde6f0/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/SKILL.md) | ⭐ 13 | `content creation` |
-| [Composition Checklist](content-creation/composition-checklist_91fc3b51/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/resources/composition-checklist.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/049-name-skill_dec2147d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/confluence-expert/SKILL.md) | ⭐ 1.7k | `content creation` |
+| [Skill Verification Marathon](content-creation/345-skill_verification_marathon_c4a72469/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/docs/tasks/Skill_Verification_Marathon.md) | ⭐ 13 | `content creation` |
+| [Skill](content-creation/049-name-skill_34fde6f0/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/SKILL.md) | ⭐ 13 | `content creation` |
+| [Composition Checklist](content-creation/346-composition-checklist_91fc3b51/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/resources/composition-checklist.md) | ⭐ 13 | `content creation` |
 
-### Daily Assistant (65 skills)
+### Daily Assistant (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1370,12 +1367,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [T7 Progressivedisclosurevalidator](daily-assistant/259-t7-progressivedisclosurevalidator_020b5aaa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T7-progressivedisclosurevalidator.md) | ⭐ 16 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_4b410995/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L6/.claude/skills/adding-cli-command/SKILL.md) | ⭐ 418 | `daily assistant` |
 | [Dockerfile Best Practices](daily-assistant/260-dockerfile-best-practices_78b9bdb7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/dockerfile-best-practices.md) | ⭐ 2.5k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_ddd5916a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.7k | `daily assistant` |
-| [Templates](daily-assistant/templates_96a937b3/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/confluence-expert/references/templates.md) | ⭐ 1.7k | `daily assistant` |
-| [Automation Examples](daily-assistant/automation-examples_9690fec4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/jira-expert/references/automation-examples.md) | ⭐ 1.7k | `daily assistant` |
-| [Site Template](daily-assistant/site-template_0891648f/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/resources/site-template.md) | ⭐ 13 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_ddd5916a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.7k | `daily assistant` |
 
-### Data Analysis (209 skills)
+### Data Analysis (208 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1510,7 +1504,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_57db3476/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/chunking-strategy/SKILL.md) | ⭐ 88 | `rag` `chunking` `vector-search` |
 | [Reference](data-analysis/286-reference_080807b8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/references/reference.md) | ⭐ 88 | `data analysis` |
 | [Workflow](data-analysis/246-workflow_6bb8c3b2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/workflow.md) | ⭐ 60 | `data analysis` |
-| [Readme Cn](data-analysis/436-readme_cn_aa76074b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
+| [Readme Cn](data-analysis/readme_cn_185ef924/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 | [02 Resources](data-analysis/437-02-resources_a11089f6/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/02-resources.md) | ⭐ 1.1k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_47da517b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-notebooks/SKILL.md) | ⭐ 31 | `data analysis` |
 | [App](data-analysis/438-app_460655a8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/app.md) | ⭐ 31 | `data analysis` |
@@ -1582,14 +1576,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Create Data Extensions](data-analysis/473-create-data-extensions_e9ff30a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.5k | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_817096d4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_376668c4/) | [jaaaaaaaaaaack/custom-skills](https://raw.githubusercontent.com/jaaaaaaaaaaack/custom-skills/main/animation-review/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_94d359b4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/jira-expert/SKILL.md) | ⭐ 1.7k | `data analysis` |
-| [Skill](data-analysis/name-skill_bf03fb28/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/SKILL.md) | ⭐ 13 | `data analysis` |
-| [Skill](data-analysis/name-skill_eb15f446/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/design-md/SKILL.md) | ⭐ 13 | `data analysis` |
-| [Skill](data-analysis/name-skill_f0473659/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/SKILL.md) | ⭐ 13 | `data analysis` |
-| [Skill](data-analysis/name-skill_35e9ba43/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-templates/SKILL.md) | ⭐ 1.7k | `data analysis` |
-| [Baton Schema](data-analysis/baton-schema_14f8aa79/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/resources/baton-schema.md) | ⭐ 13 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_94d359b4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/jira-expert/SKILL.md) | ⭐ 1.7k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bf03fb28/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/SKILL.md) | ⭐ 13 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_eb15f446/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/design-md/SKILL.md) | ⭐ 13 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f0473659/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/SKILL.md) | ⭐ 13 | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_185ef924/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 
-### Development (403 skills)
+### Development (400 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1989,15 +1982,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Catalog](development/126-catalog_2efc7a53/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 8.2k | `development` |
 | [Faq](development/360-faq_41b03e5d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md) | 🔥 8.2k | `development` |
 | [Getting Started](development/423-getting_started_e8ad6ee7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 8.2k | `development` |
-| [Retro Formats](development/retro-formats_046b6d33/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/retro-formats.md) | ⭐ 1.7k | `development` |
-| [Api Reference](development/api_reference_26c319dc/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/api_reference.md) | ⭐ 1.7k | `development` |
-| [Skill](development/name-skill_db146c4f/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/SKILL.md) | ⭐ 13 | `development` |
-| [Customization Guide](development/customization-guide_c626feb6/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/customization-guide.md) | ⭐ 13 | `development` |
-| [Jql Examples](development/jql-examples_6adfd50f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/jira-expert/references/jql-examples.md) | ⭐ 1.7k | `development` |
-| [Architecture Checklist](development/architecture-checklist_55c3407f/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/resources/architecture-checklist.md) | ⭐ 13 | `development` |
-| [Stitch Api Reference](development/stitch-api-reference_f7cd8515/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/resources/stitch-api-reference.md) | ⭐ 13 | `development` |
+| [Retro Formats](development/2836-retro-formats_046b6d33/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/retro-formats.md) | ⭐ 1.7k | `development` |
+| [Api Reference](development/051-api_reference_26c319dc/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/api_reference.md) | ⭐ 1.7k | `development` |
+| [Skill](development/1178-name-skill_db146c4f/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/stitch-loop/SKILL.md) | ⭐ 13 | `development` |
+| [Customization Guide](development/2837-customization-guide_c626feb6/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/customization-guide.md) | ⭐ 13 | `development` |
 
-### Development/Devops (148 skills)
+### Development/Devops (149 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2059,7 +2049,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/devops/093-troubleshooting_d93dd19b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 60 | `development` |
 | [Skill](development/devops/014-name-skill_edf8f0b1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_45b8a5e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
-| [Server Cli Design](development/devops/145-server-cli-design_73151ca3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
+| [Server Cli Design](development/devops/server-cli-design_1ebeb017/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
 | [07 System](development/devops/311-07-system_12adb7cb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-system.md) | ⭐ 1.1k | `development` |
 | [03 Roadmap](development/devops/312-03-roadmap_e606011d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/03-roadmap.md) | ⭐ 1.1k | `development` |
 | [07 System](development/devops/311-07-system_f4763a23/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-system.md) | ⭐ 1.1k | `development` |
@@ -2149,6 +2139,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_1efc39bd/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md) | ⭐ 2.5k | `development` |
 | [Rulesets](development/devops/355-rulesets_e641bf7b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/rulesets.md) | ⭐ 2.5k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_fae9a875/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
+| [Server Cli Design](development/devops/145-server-cli-design_1ebeb017/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
 
 ### Development/Testing (90 skills)
 
@@ -2350,10 +2341,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Maintenance](development/tools/207-maintenance_601c83df/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 8.2k | `development` |
 | [Skill](development/tools/002-name-skill_64a8ffc5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-playwright/SKILL.md) | 🔥 8.2k | `development` |
 | [Features Vs Dockerfile](development/tools/314-features-vs-dockerfile_999ac17d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/features-vs-dockerfile.md) | ⭐ 2.5k | `development` |
-| [Skill](development/tools/name-skill_2ddfe599/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/SKILL.md) | ⭐ 13 | `development` |
-| [Migration Guide](development/tools/migration-guide_81dabd22/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/migration-guide.md) | ⭐ 13 | `development` |
-| [Setup Guide](development/tools/setup-guide_02ab4cc9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/setup-guide.md) | ⭐ 13 | `development` |
-| [Stitch](development/tools/stitch_37daaaac/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/workflows/stitch.md) | ⭐ 13 | `development` |
+| [Skill](development/tools/002-name-skill_2ddfe599/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/SKILL.md) | ⭐ 13 | `development` |
+| [Migration Guide](development/tools/315-migration-guide_81dabd22/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/migration-guide.md) | ⭐ 13 | `development` |
+| [Setup Guide](development/tools/316-setup-guide_02ab4cc9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/setup-guide.md) | ⭐ 13 | `development` |
+| [04 Viking Uri](development/tools/04-viking-uri_e67a29a8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/04-viking-uri.md) | ⭐ 1.1k | `development` |
 
 ### Investment (15 skills)
 
@@ -2394,8 +2385,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tmuxconfig](productivity/169-tmuxconfig_6647a5a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/TmuxConfig.md) | ⭐ 14 | `productivity` |
 | [Setuptmux](productivity/170-setuptmux_bf38470d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/iterm2-skill/workflows/SetupTmux.md) | ⭐ 14 | `productivity` |
 | [Reading Material 4](productivity/171-reading_material_4_f362409f/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/reading_material_4.md) | ⭐ 418 | `productivity` |
-| [Skill](productivity/name-skill_ccb200c7/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/SKILL.md) | ⭐ 13 | `productivity` |
-| [Keywords](productivity/keywords_b837324b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/references/KEYWORDS.md) | ⭐ 13 | `productivity` |
+| [Skill](productivity/093-name-skill_ccb200c7/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/SKILL.md) | ⭐ 13 | `productivity` |
+| [Keywords](productivity/172-keywords_b837324b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/references/KEYWORDS.md) | ⭐ 13 | `productivity` |
 
 ### Research (69 skills)
 
@@ -2521,5 +2512,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 12:23:13 UTC*
+*Last updated: 2026-02-10 13:04:37 UTC*
 *Automatically maintained by SkillFlow*

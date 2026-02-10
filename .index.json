@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T12:23:13.247104",
+  "updated_at": "2026-02-10T13:04:37.703710",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30927,6 +30927,34 @@
       "source_url": "https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/component-catalog.md",
       "display_name": "Component Catalog",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "185ef924077d486340e2309008ab5591a67205fca024b91396ac4fe8714cf4b1",
+      "source_path": "README_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "data-analysis/436-readme_cn_185ef924",
+      "category": "data-analysis",
+      "name": "readme_cn_185ef924",
+      "indexed_at": "2026-02-10T13:04:37.414536",
+      "repo_stars": 1101,
+      "repo_updated_at": "2026-02-10T10:11:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "1ebeb01731937f9ae6d5558a3382e9e6acdce83b880f458042a1220701104cb8",
+      "source_path": "docs/design/server_client/server-cli-design.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/145-server-cli-design_1ebeb017",
+      "category": "development/devops",
+      "name": "server-cli-design_1ebeb017",
+      "indexed_at": "2026-02-10T13:04:37.703660",
+      "repo_stars": 1101,
+      "repo_updated_at": "2026-02-10T10:11:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md",
+      "display_name": "Server Cli Design",
+      "tags": "[\"development\"]"
     }
   ]
 }
