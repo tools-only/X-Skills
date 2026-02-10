@@ -785,8 +785,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Servicenow Asset Management Setup](communication/245-servicenow_asset_management_setup_7d38232c/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md) | ⭐ 112 | `communication` |
 | [Prompts Initial Conversation](communication/246-prompts_initial_conversation_862e174a/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/prompts_initial_conversation.md) | ⭐ 418 | `communication` |
 | [User Budget Tracking](communication/247-user-budget-tracking_b07585c9/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/user-budget-tracking.md) | ⭐ 251 | `communication` |
-| [Skill](communication/name-skill_0cf19ea0/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 73 | `communication` |
-| [Skill](communication/name-skill_88ec62c7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 73 | `communication` |
+| [Skill](communication/127-name-skill_0cf19ea0/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 73 | `communication` |
+| [Skill](communication/127-name-skill_88ec62c7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 73 | `communication` |
 
 ### Content Creation (493 skills)
 
@@ -1982,7 +1982,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Util Playerslottoplayercontroller](development/devops/296-util_playerslottoplayercontroller_8a494e38/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_PlayerSlotToPlayerController.md) | ⭐ 13 | `development` |
 | [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
-| [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
+| [Readme Zh](development/devops/readme_zh_fd490d3b/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
 | [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
 | [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
@@ -2088,7 +2088,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp](development/devops/025-mcp_f0637c55/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 35.6k | `development` |
 | [Mcp Oauth](development/devops/353-mcp_oauth_b0b9e4e2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md) | 🔥 35.6k | `development` |
 | [Mkdocs](development/devops/354-mkdocs_29b30b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mkdocs.md) | ⭐ 3.3k | `development` |
-| [Readme Api](development/devops/readme_api_292bd429/) | [MemTensor/MemOS](https://raw.githubusercontent.com/MemTensor/MemOS/main/src/memos/api/README_api.md) | 🔥 5.0k | `development` |
+| [Readme Zh](development/devops/298-readme_zh_fd490d3b/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
 
 ### Development/Testing (82 skills)
 
@@ -2436,5 +2436,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 05:05:44 UTC*
+*Last updated: 2026-02-10 05:11:09 UTC*
 *Automatically maintained by SkillFlow*

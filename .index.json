@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T05:05:44.021918",
+  "updated_at": "2026-02-10T05:11:09.224810",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29891,6 +29891,20 @@
       "source_url": "https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "fd490d3bf6b81ca28bd8a12bf7783250d58a06c56784177af4f581facab3dbbe",
+      "source_path": "README_ZH.md",
+      "source_repo": "Tencent/AI-Infra-Guard",
+      "local_path": "development/devops/298-readme_zh_fd490d3b",
+      "category": "development/devops",
+      "name": "readme_zh_fd490d3b",
+      "indexed_at": "2026-02-10T05:11:09.224074",
+      "repo_stars": 2927,
+      "repo_updated_at": "2026-02-10T02:59:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md",
+      "display_name": "Readme Zh",
+      "tags": "[\"development\"]"
     }
   ]
 }
