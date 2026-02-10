@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2000 AI-powered skills** organized into 14 categories.
+A curated collection of **2058 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,17 +9,17 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (221 skills)
-- **Automation/Workflow** (64 skills)
+- **Automation/Workflow** (72 skills)
 - **Commercial** (247 skills)
 - **Communication** (45 skills)
-- **Content Creation** (487 skills)
-- **Daily Assistant** (49 skills)
-- **Data Analysis** (168 skills)
-- **Development** (342 skills)
+- **Content Creation** (488 skills)
+- **Daily Assistant** (52 skills)
+- **Data Analysis** (202 skills)
+- **Development** (347 skills)
 - **Development/Devops** (132 skills)
-- **Development/Testing** (79 skills)
-- **Development/Tools** (79 skills)
-- **Investment** (7 skills)
+- **Development/Testing** (81 skills)
+- **Development/Tools** (83 skills)
+- **Investment** (8 skills)
 - **Productivity** (14 skills)
 - **Research** (66 skills)
 
@@ -406,7 +406,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](automation/scripting/001-troubleshooting_10d357e7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pyroscope-skill/references/troubleshooting.md) | ⭐ 14 | `automation` |
 | [Api Reference](automation/scripting/083-api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
 
-### Automation/Workflow (64 skills)
+### Automation/Workflow (72 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -474,6 +474,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Executive Pitch](automation/workflow/067-executive-pitch_8e01804e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 60 | `automation` |
 | [Threat Taxonomy](automation/workflow/058-threat-taxonomy_9557b526/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/threat-taxonomy.md) | ⭐ 671 | `automation` |
 | [Skill Threat Analysis Prompt](automation/workflow/059-skill_threat_analysis_prompt_c9c13f6b/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 671 | `automation` |
+| [Skill](automation/workflow/name-skill_2f72301b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/coexpression-networks/SKILL.md) | ⭐ 212 | `automation` |
+| [Skill](automation/workflow/name-skill_b118af30/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/genome-annotation-pipeline/SKILL.md) | ⭐ 212 | `automation` |
+| [Skill](automation/workflow/name-skill_9086c123/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/SKILL.md) | ⭐ 212 | `automation` |
+| [Usage Guide](automation/workflow/usage-guide_8b5fe2f9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/usage-guide.md) | ⭐ 212 | `automation` |
+| [Skill](automation/workflow/name-skill_e435745e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/bioskills-installer/SKILL.md) | ⭐ 212 | `automation` |
+| [Skill](automation/workflow/name-skill_512e160a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/causal-genomics-pipeline/SKILL.md) | ⭐ 212 | `automation` |
+| [Usage Guide](automation/workflow/usage-guide_9f6bb1e1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/causal-genomics-pipeline/usage-guide.md) | ⭐ 212 | `automation` |
+| [Usage Guide](automation/workflow/usage-guide_3f357f0c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/genome-annotation-pipeline/usage-guide.md) | ⭐ 212 | `automation` |
 
 ### Commercial (247 skills)
 
@@ -777,7 +785,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](communication/203-troubleshooting_fe369303/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Troubleshooting.md) | ⭐ 14 | `communication` |
 | [Servicenow Asset Management Setup](communication/245-servicenow_asset_management_setup_7d38232c/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md) | ⭐ 112 | `communication` |
 
-### Content Creation (487 skills)
+### Content Creation (488 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1268,8 +1276,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Markdown.Instructions](content-creation/256-markdowninstructions_56ad3ac4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/markdown.instructions.md) | ⭐ 60 | `bicep` `iac` `azure` |
 | [Skill](content-creation/049-name-skill_74b9d97a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 60 | `content creation` |
 | [2026 02 07 Tinyagent V2.5 Migration Map](content-creation/338-2026-02-07_tinyagent-v25-migration-map_21bad304/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-07_tinyagent-v2.5-migration-map.md) | ⭐ 112 | `content creation` |
+| [Discovery Warehouse](content-creation/discovery-warehouse_547e2d74/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/discovery-warehouse.md) | ⭐ 194 | `content creation` |
 
-### Daily Assistant (49 skills)
+### Daily Assistant (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1322,8 +1331,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents Definitions.Instructions](daily-assistant/206-agents-definitionsinstructions_4e106ef1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agents-definitions.instructions.md) | ⭐ 60 | `daily assistant` |
 | [Artifact H2 Reference.Instructions](daily-assistant/207-artifact-h2-referenceinstructions_23c4e68f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/artifact-h2-reference.instructions.md) | ⭐ 60 | `daily assistant` |
 | [Freshness Checklist](daily-assistant/237-freshness-checklist_a79a8ef3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 60 | `daily assistant` |
+| [Common Patterns](daily-assistant/common-patterns_6b0bd8eb/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/reference/common-patterns.md) | ⭐ 194 | `daily assistant` |
+| [Migration Checklist](daily-assistant/migration-checklist_a4986b83/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-checklist.md) | ⭐ 194 | `daily assistant` |
+| [Usage Guide](daily-assistant/usage-guide_7c064e3e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/functional-annotation/usage-guide.md) | ⭐ 212 | `daily assistant` |
 
-### Data Analysis (168 skills)
+### Data Analysis (202 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1495,8 +1507,42 @@ ls ~/.claude/skills/patch-research-agent/
 | [Setup](data-analysis/463-setup_96b64171/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/Workflows/Setup.md) | ⭐ 14 | `data analysis` |
 | [Analyze](data-analysis/464-analyze_71a0640d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/shellcheck-skill/Workflows/Analyze.md) | ⭐ 14 | `data analysis` |
 | [Configuration](data-analysis/046-configuration_f1e8f086/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/configuration.md) | ⭐ 14 | `data analysis` |
+| [Skill](data-analysis/name-skill_393b8753/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/annotating-task-lineage/SKILL.md) | ⭐ 194 | `data analysis` |
+| [Best Practices](data-analysis/best-practices_56df858d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/reference/best-practices.md) | ⭐ 194 | `data analysis` |
+| [Skill](data-analysis/name-skill_e98dc778/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnvkit-analysis/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_f277565f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnvkit-analysis/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_83e26fef/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/network-visualization/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_5ed33940/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/network-visualization/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_458b60ee/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/interaction-databases/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_1d2ac755/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/interaction-databases/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_74037a89/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/coexpression-networks/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_0bc35565/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/differential-networks/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_218b925a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/multiomics-grn/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_24b52f6e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/multiomics-grn/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_6c8e2911/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/perturbation-simulation/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_7d366629/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/scenic-regulons/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_00afb9fb/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/scenic-regulons/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_6def9c2a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/annotation-transfer/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_f019b2e9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/eukaryotic-gene-prediction/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_6efdf9e7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/functional-annotation/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_f1d70470/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/secondary-structure-prediction/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_13efd81b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/secondary-structure-prediction/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_63f73a9e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/structure-probing/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_29d62a38/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/colocalization-analysis/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_4c3d2eb5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/colocalization-analysis/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_5fdec066/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/fine-mapping/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_261357d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/fine-mapping/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_4f976d13/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/mediation-analysis/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_897256be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/mediation-analysis/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Skill](data-analysis/name-skill_81fabf01/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/mendelian-randomization/SKILL.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_fa315c82/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/differential-networks/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_7e6dccaa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/perturbation-simulation/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_5e7c2337/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/prokaryotic-annotation/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_9e3a7aad/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/repeat-annotation/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_47643d2b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/ncrna-search/usage-guide.md) | ⭐ 212 | `data analysis` |
+| [Usage Guide](data-analysis/usage-guide_c1196584/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/structure-probing/usage-guide.md) | ⭐ 212 | `data analysis` |
 
-### Development (342 skills)
+### Development (347 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1842,6 +1888,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 09 11 28 57 Dev Install Tinyagent Setup](development/2792-2026-02-09_11-28-57_dev_install_tinyagent_setup_88a5ba22/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-28-57_dev_install_tinyagent_setup.md) | ⭐ 112 | `development` |
 | [2026 02 09 11 31 28 Agent Panel Throughput](development/2793-2026-02-09_11-31-28_agent_panel_throughput_84fcd2ea/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-31-28_agent_panel_throughput.md) | ⭐ 112 | `development` |
 | [2026 02 09 11 33 09 Pydantic Ai To Tinyagent Migration And Recent Changes](development/2794-2026-02-09_11-33-09_pydantic-ai_to_tinyagent_migration_and_recent_changes_67145eda/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-09_11-33-09_pydantic-ai_to_tinyagent_migration_and_recent_changes.md) | ⭐ 112 | `development` |
+| [Migration Patterns](development/migration-patterns_a5b34de8/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 194 | `development` |
+| [Skill](development/name-skill_46e92ac9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/pleiotropy-detection/SKILL.md) | ⭐ 212 | `development` |
+| [Skill](development/name-skill_1a368c3b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/prokaryotic-annotation/SKILL.md) | ⭐ 212 | `development` |
+| [Usage Guide](development/usage-guide_c04055c8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/annotation-transfer/usage-guide.md) | ⭐ 212 | `development` |
+| [Usage Guide](development/usage-guide_aed69023/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/eukaryotic-gene-prediction/usage-guide.md) | ⭐ 212 | `development` |
 
 ### Development/Devops (132 skills)
 
@@ -1977,10 +2028,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Copilot Instructions](development/devops/309-copilot-instructions_5f071b26/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 60 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_c008178a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 60 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_d53aa530/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
-| [Max Callbacks](development/devops/max_callbacks_e177e372/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/max_callbacks.md) | 🔥 35.6k | `development` |
-| [Index](development/devops/index_dd185955/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.3-stable/index.md) | 🔥 35.6k | `development` |
+| [Max Callbacks](development/devops/348-max_callbacks_e177e372/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/max_callbacks.md) | 🔥 35.6k | `development` |
+| [Index](development/devops/050-index_dd185955/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.3-stable/index.md) | 🔥 35.6k | `development` |
 
-### Development/Testing (79 skills)
+### Development/Testing (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2063,8 +2114,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_62c7cbeb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 31 | `development` |
 | [Quickstartguide](development/testing/069-quickstartguide_2d5ec2d5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/pre-commit-skill/QuickStartGuide.md) | ⭐ 14 | `development` |
 | [Skill](development/testing/002-name-skill_62d039a5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/writing-go-skill/SKILL.md) | ⭐ 14 | `development` |
+| [Usage Guide](development/testing/usage-guide_fd82264c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/mendelian-randomization/usage-guide.md) | ⭐ 212 | `development` |
+| [Usage Guide](development/testing/usage-guide_82d02030/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/pleiotropy-detection/usage-guide.md) | ⭐ 212 | `development` |
 
-### Development/Tools (79 skills)
+### Development/Tools (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2147,8 +2200,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_f29fe15e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 60 | `development` |
 | [Meta Analyzer](development/tools/201-meta-analyzer_3321e3a7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 671 | `development` |
 | [Tun 1658 Phase6 Messaging Normalization](development/tools/305-tun-1658-phase6-messaging-normalization_a07396d7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/tun-1658-phase6-messaging-normalization.md) | ⭐ 112 | `development` |
+| [Skill](development/tools/name-skill_319831dc/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/authoring-dags/SKILL.md) | ⭐ 194 | `development` |
+| [Skill](development/tools/name-skill_3b879886/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/ncrna-annotation/SKILL.md) | ⭐ 212 | `development` |
+| [Skill](development/tools/name-skill_731a87e1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/repeat-annotation/SKILL.md) | ⭐ 212 | `development` |
+| [Skill](development/tools/name-skill_39d06900/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/ncrna-search/SKILL.md) | ⭐ 212 | `development` |
 
-### Investment (7 skills)
+### Investment (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2159,6 +2216,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Usage](investment/038-readme_usage_a5969401/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/README_USAGE.md) | ⭐ 27 | `investment` |
 | [Fields](investment/039-fields_a89352d4/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/fields.md) | ⭐ 27 | `investment` |
 | [Screeners](investment/040-screeners_1c274a35/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/tvscreener/references/api/screeners.md) | ⭐ 27 | `investment` |
+| [Usage Guide](investment/usage-guide_18d0ebb3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/ncrna-annotation/usage-guide.md) | ⭐ 212 | `investment` |
 
 ### Productivity (14 skills)
 
@@ -2300,5 +2358,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-09 22:25:58 UTC*
+*Last updated: 2026-02-10 00:25:51 UTC*
 *Automatically maintained by SkillFlow*
