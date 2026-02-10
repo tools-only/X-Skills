@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T08:28:47.898250",
+  "updated_at": "2026-02-10T09:03:31.249275",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30311,6 +30311,20 @@
       "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md",
       "display_name": "Create Data Extensions",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "9f9ca6e10c20bd877b0c7def0ee6df3214b36c8ee19aa2f7c6711656a3033912",
+      "source_path": "docs/ONBOARDING.md",
+      "source_repo": "promptdriven/pdd",
+      "local_path": "development/635-onboarding_9f9ca6e1",
+      "category": "development",
+      "name": "onboarding_9f9ca6e1",
+      "indexed_at": "2026-02-10T09:03:31.249234",
+      "repo_stars": 432,
+      "repo_updated_at": "2026-02-10T06:40:59+00:00",
+      "source_url": "https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING.md",
+      "display_name": "Onboarding",
+      "tags": "[\"development\"]"
     }
   ]
 }
