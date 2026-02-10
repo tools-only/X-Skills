@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T11:09:31.059615",
+  "updated_at": "2026-02-10T12:07:02.061278",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30577,6 +30577,48 @@
       "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "78b9bdb7a9596f849ae69fec3042d6c3e6b65e0f3aea953e7656b89b7efedb1c",
+      "source_path": "plugins/devcontainer-setup/skills/devcontainer-setup/references/dockerfile-best-practices.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "daily-assistant/260-dockerfile-best-practices_78b9bdb7",
+      "category": "daily-assistant",
+      "name": "dockerfile-best-practices_78b9bdb7",
+      "indexed_at": "2026-02-10T12:07:01.488050",
+      "repo_stars": 2502,
+      "repo_updated_at": "2026-02-10T11:12:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/dockerfile-best-practices.md",
+      "display_name": "Dockerfile Best Practices",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "999ac17d8f0172fce5fb00906190a97980b6a1c94d42b4046255992a9aa8c88d",
+      "source_path": "plugins/devcontainer-setup/skills/devcontainer-setup/references/features-vs-dockerfile.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "development/tools/314-features-vs-dockerfile_999ac17d",
+      "category": "development/tools",
+      "name": "features-vs-dockerfile_999ac17d",
+      "indexed_at": "2026-02-10T12:07:01.744836",
+      "repo_stars": 2502,
+      "repo_updated_at": "2026-02-10T11:12:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/features-vs-dockerfile.md",
+      "display_name": "Features Vs Dockerfile",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "376668c4426733647279ae3dedfd52fe47b06d9055b3110241d5a6a07a4ee72f",
+      "source_path": "animation-review/SKILL.md",
+      "source_repo": "jaaaaaaaaaaack/custom-skills",
+      "local_path": "data-analysis/226-name-skill_376668c4",
+      "category": "data-analysis",
+      "name": "name-skill_376668c4",
+      "indexed_at": "2026-02-10T12:07:02.061074",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-09T12:01:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/jaaaaaaaaaaack/custom-skills/main/animation-review/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

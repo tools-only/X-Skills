@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2186 AI-powered skills** organized into 14 categories.
+A curated collection of **2190 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -13,12 +13,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (250 skills)
 - **Communication** (50 skills)
 - **Content Creation** (495 skills)
-- **Daily Assistant** (60 skills)
-- **Data Analysis** (202 skills)
+- **Daily Assistant** (61 skills)
+- **Data Analysis** (203 skills)
 - **Development** (398 skills)
-- **Development/Devops** (148 skills)
+- **Development/Devops** (149 skills)
 - **Development/Testing** (90 skills)
-- **Development/Tools** (100 skills)
+- **Development/Tools** (101 skills)
 - **Investment** (15 skills)
 - **Productivity** (15 skills)
 - **Research** (69 skills)
@@ -482,7 +482,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [N8N V2 Integration Plan](automation/workflow/132-n8n_v2_integration_plan_a9bba2df/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/N8N_V2_INTEGRATION_PLAN.md) | ⭐ 251 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d9a75368/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.6k | `automation` |
 | [Skill](automation/workflow/002-name-skill_97a1ce37/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.7k | `automation` |
-| [Skill](automation/workflow/name-skill_196ff52e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md) | 🔥 8.2k | `automation` |
+| [Skill](automation/workflow/002-name-skill_196ff52e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md) | 🔥 8.2k | `automation` |
 
 ### Commercial (250 skills)
 
@@ -1294,7 +1294,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](content-creation/344-installation_61e4f0ec/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.7k | `content creation` |
 | [Skill](content-creation/049-name-skill_6323eac5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/SKILL.md) | ⭐ 2.5k | `content creation` |
 
-### Daily Assistant (60 skills)
+### Daily Assistant (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1358,8 +1358,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [T22 Reference Updates Comprehensive](daily-assistant/258-t22-reference-updates-comprehensive_2cdb759d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T22-reference-updates-comprehensive.md) | ⭐ 16 | `daily assistant` |
 | [T7 Progressivedisclosurevalidator](daily-assistant/259-t7-progressivedisclosurevalidator_020b5aaa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T7-progressivedisclosurevalidator.md) | ⭐ 16 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_4b410995/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L6/.claude/skills/adding-cli-command/SKILL.md) | ⭐ 418 | `daily assistant` |
+| [Dockerfile Best Practices](daily-assistant/dockerfile-best-practices_78b9bdb7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/dockerfile-best-practices.md) | ⭐ 2.5k | `daily assistant` |
 
-### Data Analysis (202 skills)
+### Data Analysis (203 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1565,6 +1566,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Managed Environment Pools](data-analysis/472-managed-environment-pools_67965903/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md) | ⭐ 73 | `data analysis` |
 | [Create Data Extensions](data-analysis/473-create-data-extensions_e9ff30a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.5k | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_817096d4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
+| [Skill](data-analysis/name-skill_376668c4/) | [jaaaaaaaaaaack/custom-skills](https://raw.githubusercontent.com/jaaaaaaaaaaack/custom-skills/main/animation-review/SKILL.md) | ⭐ 10 | `data analysis` |
 
 ### Development (398 skills)
 
@@ -1963,13 +1965,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Faq](development/360-faq_657bd583/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_a70d2cf8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
 | [Bedrock](development/2834-bedrock_eb9102a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/pass_through/bedrock.md) | 🔥 35.6k | `development` |
-| [Catalog](development/catalog_2efc7a53/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 8.2k | `development` |
-| [Faq](development/faq_41b03e5d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md) | 🔥 8.2k | `development` |
-| [Getting Started](development/getting_started_e8ad6ee7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 8.2k | `development` |
-| [Implementation Playbook](development/implementation-playbook_4f5245a3/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/resources/implementation-playbook.md) | 🔥 8.2k | `development` |
-| [Implementation Playbook](development/implementation-playbook_1888d593/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-playwright/resources/implementation-playbook.md) | 🔥 8.2k | `development` |
+| [Catalog](development/126-catalog_2efc7a53/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 8.2k | `development` |
+| [Faq](development/360-faq_41b03e5d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md) | 🔥 8.2k | `development` |
+| [Getting Started](development/423-getting_started_e8ad6ee7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 8.2k | `development` |
+| [Animation Review Gemini Response Example](development/animation-review_gemini-response-example_e1df258e/) | [jaaaaaaaaaaack/custom-skills](https://raw.githubusercontent.com/jaaaaaaaaaaack/custom-skills/main/Examples/animation-review_gemini-response-example.md) | ⭐ 10 | `development` |
+| [Animation Review Workflow Example](development/animation-review_workflow-example_71ae990c/) | [jaaaaaaaaaaack/custom-skills](https://raw.githubusercontent.com/jaaaaaaaaaaack/custom-skills/main/Examples/animation-review_workflow-example.md) | ⭐ 10 | `development` |
 
-### Development/Devops (148 skills)
+### Development/Devops (149 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2121,6 +2123,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_1efc39bd/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md) | ⭐ 2.5k | `development` |
 | [Rulesets](development/devops/355-rulesets_e641bf7b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/rulesets.md) | ⭐ 2.5k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_fae9a875/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
+| [Skill](development/devops/name-skill_6ae2187f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/SKILL.md) | ⭐ 2.5k | `development` |
 
 ### Development/Testing (90 skills)
 
@@ -2214,10 +2217,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Review Python](development/testing/076-review-python_8408726f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/commands/review-python.md) | ⭐ 21 | `development` |
 | [Review Frontend](development/testing/077-review-frontend_5d4105fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-react/commands/review-frontend.md) | ⭐ 21 | `development` |
 | [Build Database](development/testing/078-build-database_a2b6485d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/build-database.md) | ⭐ 2.5k | `development` |
-| [Release Notes](development/testing/release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
-| [Workflows](development/testing/workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
+| [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
+| [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
 
-### Development/Tools (100 skills)
+### Development/Tools (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2319,8 +2322,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Run Analysis](development/tools/313-run-analysis_67c4822a/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/run-analysis.md) | ⭐ 2.5k | `development` |
 | [Agents](development/tools/015-agents_3f27ac21/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_f5770d1b/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 20 | `development` |
-| [Maintenance](development/tools/maintenance_601c83df/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 8.2k | `development` |
-| [Skill](development/tools/name-skill_64a8ffc5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-playwright/SKILL.md) | 🔥 8.2k | `development` |
+| [Maintenance](development/tools/207-maintenance_601c83df/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/.github/MAINTENANCE.md) | 🔥 8.2k | `development` |
+| [Skill](development/tools/002-name-skill_64a8ffc5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-playwright/SKILL.md) | 🔥 8.2k | `development` |
+| [Features Vs Dockerfile](development/tools/features-vs-dockerfile_999ac17d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/features-vs-dockerfile.md) | ⭐ 2.5k | `development` |
 
 ### Investment (15 skills)
 
@@ -2486,5 +2490,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 11:09:31 UTC*
+*Last updated: 2026-02-10 12:07:02 UTC*
 *Automatically maintained by SkillFlow*
