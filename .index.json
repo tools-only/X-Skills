@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T07:37:08.476469",
+  "updated_at": "2026-02-10T07:42:39.416159",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29918,6 +29918,48 @@
       "repo_updated_at": "2026-02-10T03:28:02+00:00",
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md",
       "display_name": "Mcp Oauth",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a160a2368150cffcdf2b0dfce48194302140b1745e0c9c3bf29fedd67697cfc2",
+      "source_path": "docs/configuration.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/devops/009-configuration_a160a236",
+      "category": "development/devops",
+      "name": "configuration_a160a236",
+      "indexed_at": "2026-02-10T07:42:38.744863",
+      "repo_stars": 6660,
+      "repo_updated_at": "2026-02-10T02:07:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "97a1ce3776466d6b2660f24eb3089799a26c9445511f779c7248c496ebd94eb3",
+      "source_path": ".claude/skills/hive-create/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "automation/workflow/002-name-skill_97a1ce37",
+      "category": "automation/workflow",
+      "name": "name-skill_97a1ce37",
+      "indexed_at": "2026-02-10T07:42:39.099196",
+      "repo_stars": 6660,
+      "repo_updated_at": "2026-02-10T03:59:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "51fbb5f585521340f88608f16e55d77502d4d068a71e929d142daf44e484a560",
+      "source_path": ".claude/skills/hive/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/002-name-skill_51fbb5f5",
+      "category": "development/tools",
+      "name": "name-skill_51fbb5f5",
+      "indexed_at": "2026-02-10T07:42:39.416088",
+      "repo_stars": 6660,
+      "repo_updated_at": "2026-02-10T03:42:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md",
+      "display_name": "Skill",
       "tags": "[\"development\"]"
     }
   ]
