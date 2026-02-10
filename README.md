@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2134 AI-powered skills** organized into 14 categories.
+A curated collection of **2136 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,12 +11,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (221 skills)
 - **Automation/Workflow** (70 skills)
 - **Commercial** (248 skills)
-- **Communication** (47 skills)
+- **Communication** (49 skills)
 - **Content Creation** (493 skills)
 - **Daily Assistant** (60 skills)
 - **Data Analysis** (200 skills)
-- **Development** (383 skills)
-- **Development/Devops** (141 skills)
+- **Development** (382 skills)
+- **Development/Devops** (142 skills)
 - **Development/Testing** (82 skills)
 - **Development/Tools** (91 skills)
 - **Investment** (14 skills)
@@ -734,7 +734,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plan Requirements.Prompt](commercial/311-plan-requirementsprompt_a1d88f7e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-requirements.prompt.md) | ⭐ 60 | `commercial` |
 | [N8N Compatibility Validation](commercial/364-n8n_compatibility_validation_f01b6855/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
 
-### Communication (47 skills)
+### Communication (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -785,6 +785,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Servicenow Asset Management Setup](communication/245-servicenow_asset_management_setup_7d38232c/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/how-to/agents/ServiceNow/SERVICENOW_ASSET_MANAGEMENT_SETUP.md) | ⭐ 112 | `communication` |
 | [Prompts Initial Conversation](communication/246-prompts_initial_conversation_862e174a/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/prompts_initial_conversation.md) | ⭐ 418 | `communication` |
 | [User Budget Tracking](communication/247-user-budget-tracking_b07585c9/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/user-budget-tracking.md) | ⭐ 251 | `communication` |
+| [Skill](communication/name-skill_0cf19ea0/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 73 | `communication` |
+| [Skill](communication/name-skill_88ec62c7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 73 | `communication` |
 
 ### Content Creation (493 skills)
 
@@ -1552,9 +1554,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Format Comparison](data-analysis/470-api_format_comparison_4160a6fd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/API_FORMAT_COMPARISON.md) | ⭐ 251 | `data analysis` |
 | [Tool Calling Cascade Strategy](data-analysis/471-tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_512413ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.6k | `data analysis` |
-| [Managed Environment Pools](data-analysis/managed-environment-pools_67965903/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md) | ⭐ 73 | `data analysis` |
+| [Managed Environment Pools](data-analysis/472-managed-environment-pools_67965903/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md) | ⭐ 73 | `data analysis` |
 
-### Development (383 skills)
+### Development (382 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1940,9 +1942,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Developer Guide](development/282-developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
 | [Index](development/468-index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
 | [Actions Reference](development/010-actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
-| [Agents](development/agents_79040460/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md) | ⭐ 73 | `development` |
 
-### Development/Devops (141 skills)
+### Development/Devops (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2087,6 +2088,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp](development/devops/025-mcp_f0637c55/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 35.6k | `development` |
 | [Mcp Oauth](development/devops/353-mcp_oauth_b0b9e4e2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md) | 🔥 35.6k | `development` |
 | [Mkdocs](development/devops/354-mkdocs_29b30b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mkdocs.md) | ⭐ 3.3k | `development` |
+| [Readme Api](development/devops/readme_api_292bd429/) | [MemTensor/MemOS](https://raw.githubusercontent.com/MemTensor/MemOS/main/src/memos/api/README_api.md) | 🔥 5.0k | `development` |
 
 ### Development/Testing (82 skills)
 
@@ -2434,5 +2436,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 05:01:27 UTC*
+*Last updated: 2026-02-10 05:05:44 UTC*
 *Automatically maintained by SkillFlow*

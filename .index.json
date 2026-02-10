@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T05:01:27.315753",
+  "updated_at": "2026-02-10T05:05:44.021918",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29863,6 +29863,34 @@
       "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md",
       "display_name": "Managed Environment Pools",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "0cf19ea0e4cc9e1752ced307b7903f3c3809934910f6d2489d210e94bbb2e171",
+      "source_path": "skills/gmail/SKILL.md",
+      "source_repo": "sanjay3290/ai-skills",
+      "local_path": "communication/127-name-skill_0cf19ea0",
+      "category": "communication",
+      "name": "name-skill_0cf19ea0",
+      "indexed_at": "2026-02-10T05:05:43.748199",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-02-10T03:15:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "88ec62c7d874cf8401d16eeac678b7fab5b0b6b9b031a1d1de22e1c86dfce4d4",
+      "source_path": "skills/google-chat/SKILL.md",
+      "source_repo": "sanjay3290/ai-skills",
+      "local_path": "communication/127-name-skill_88ec62c7",
+      "category": "communication",
+      "name": "name-skill_88ec62c7",
+      "indexed_at": "2026-02-10T05:05:44.021674",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-02-10T03:55:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"communication\"]"
     }
   ]
 }
