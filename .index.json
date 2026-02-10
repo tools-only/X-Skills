@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T09:09:09.534101",
+  "updated_at": "2026-02-10T10:04:12.176672",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30423,6 +30423,34 @@
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/02-volcengine-purchase-guide.md",
       "display_name": "02 Volcengine Purchase Guide",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "3f27ac211acfcda410552870108100fde586001c0ca32ed6caae72c43096555b",
+      "source_path": "AGENTS.md",
+      "source_repo": "EliasOenal/term-cli",
+      "local_path": "development/tools/015-agents_3f27ac21",
+      "category": "development/tools",
+      "name": "agents_3f27ac21",
+      "indexed_at": "2026-02-10T10:04:11.738727",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-07T18:54:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f5770d1b9f801492bb82ec1e7e8cb472869e71a1a081ff697e32fd9cf0ddc496",
+      "source_path": "skills/term-cli/SKILL.md",
+      "source_repo": "EliasOenal/term-cli",
+      "local_path": "development/tools/002-name-skill_f5770d1b",
+      "category": "development/tools",
+      "name": "name-skill_f5770d1b",
+      "indexed_at": "2026-02-10T10:04:12.176618",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-07T08:52:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
