@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T02:41:00.990442",
+  "updated_at": "2026-02-10T04:19:51.240435",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29807,6 +29807,34 @@
       "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md",
       "display_name": "Runtime Logging",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "756dabc68ebab8cef6f6814c766386b715ed092fb03aba98312a20aecf4ba050",
+      "source_path": "sf-ai-agentscript/resources/actions-reference.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/010-actions-reference_756dabc6",
+      "category": "development",
+      "name": "actions-reference_756dabc6",
+      "indexed_at": "2026-02-10T04:19:51.018421",
+      "repo_stars": 60,
+      "repo_updated_at": "2026-02-10T01:55:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md",
+      "display_name": "Actions Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7a82d06dcc843ebb40b9e0af3add23f8fb0e24867f2a3ec7a4cf83d2a47b701e",
+      "source_path": "sf-ai-agentscript/SKILL.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/tools/002-name-skill_7a82d06d",
+      "category": "development/tools",
+      "name": "name-skill_7a82d06d",
+      "indexed_at": "2026-02-10T04:19:51.240117",
+      "repo_stars": 60,
+      "repo_updated_at": "2026-02-10T01:55:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
