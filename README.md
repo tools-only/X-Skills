@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2133 AI-powered skills** organized into 14 categories.
+A curated collection of **2134 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -14,11 +14,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (47 skills)
 - **Content Creation** (493 skills)
 - **Daily Assistant** (60 skills)
-- **Data Analysis** (199 skills)
-- **Development** (382 skills)
+- **Data Analysis** (200 skills)
+- **Development** (383 skills)
 - **Development/Devops** (141 skills)
 - **Development/Testing** (82 skills)
-- **Development/Tools** (92 skills)
+- **Development/Tools** (91 skills)
 - **Investment** (14 skills)
 - **Productivity** (15 skills)
 - **Research** (69 skills)
@@ -1349,7 +1349,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [T7 Progressivedisclosurevalidator](daily-assistant/259-t7-progressivedisclosurevalidator_020b5aaa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T7-progressivedisclosurevalidator.md) | ⭐ 16 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_4b410995/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L6/.claude/skills/adding-cli-command/SKILL.md) | ⭐ 418 | `daily assistant` |
 
-### Data Analysis (199 skills)
+### Data Analysis (200 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1552,8 +1552,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Format Comparison](data-analysis/470-api_format_comparison_4160a6fd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/API_FORMAT_COMPARISON.md) | ⭐ 251 | `data analysis` |
 | [Tool Calling Cascade Strategy](data-analysis/471-tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_512413ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.6k | `data analysis` |
+| [Managed Environment Pools](data-analysis/managed-environment-pools_67965903/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md) | ⭐ 73 | `data analysis` |
 
-### Development (382 skills)
+### Development (383 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1939,6 +1940,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Developer Guide](development/282-developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
 | [Index](development/468-index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
 | [Actions Reference](development/010-actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
+| [Agents](development/agents_79040460/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md) | ⭐ 73 | `development` |
 
 ### Development/Devops (141 skills)
 
@@ -2084,7 +2086,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_e159f189/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 | [Mcp](development/devops/025-mcp_f0637c55/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 35.6k | `development` |
 | [Mcp Oauth](development/devops/353-mcp_oauth_b0b9e4e2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md) | 🔥 35.6k | `development` |
-| [Mkdocs](development/devops/mkdocs_29b30b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mkdocs.md) | ⭐ 3.3k | `development` |
+| [Mkdocs](development/devops/354-mkdocs_29b30b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mkdocs.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (82 skills)
 
@@ -2173,7 +2175,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Branch Cleanup Report](development/testing/071-branch-cleanup-report_0fe22520/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/branch-cleanup-report.md) | ⭐ 251 | `development` |
 | [Agents Strategy Analysis](development/testing/072-agents_strategy_analysis_d1c13901/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/AGENTS_STRATEGY_ANALYSIS.md) | ⭐ 251 | `development` |
 
-### Development/Tools (92 skills)
+### Development/Tools (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2268,7 +2270,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_02235433/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.6k | `development` |
 | [Architecture](development/tools/051-architecture_c8b42f42/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 706 | `development` |
 | [Skill](development/tools/002-name-skill_7a82d06d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
-| [Unittest](development/tools/unittest_1ea3da39/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/test/unittest.md) | ⭐ 3.3k | `development` |
 
 ### Investment (14 skills)
 
@@ -2433,5 +2434,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 04:30:19 UTC*
+*Last updated: 2026-02-10 05:01:27 UTC*
 *Automatically maintained by SkillFlow*

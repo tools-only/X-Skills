@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T04:30:19.512377",
+  "updated_at": "2026-02-10T05:01:27.315753",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -29849,6 +29849,20 @@
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mkdocs.md",
       "display_name": "Mkdocs",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "67965903e9d8f7144227783fb05a8d47d230af57c08e259ea88aa00f3f38b7d5",
+      "source_path": "docs/specifications/managed-environment-pools.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "data-analysis/472-managed-environment-pools_67965903",
+      "category": "data-analysis",
+      "name": "managed-environment-pools_67965903",
+      "indexed_at": "2026-02-10T05:01:27.315705",
+      "repo_stars": 73,
+      "repo_updated_at": "2026-02-05T05:53:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md",
+      "display_name": "Managed Environment Pools",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
