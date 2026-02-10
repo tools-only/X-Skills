@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T09:03:31.249275",
+  "updated_at": "2026-02-10T09:09:09.534101",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -30325,6 +30325,104 @@
       "source_url": "https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING.md",
       "display_name": "Onboarding",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3472ae22420f1c33e709740e7a0fe828fe2b484ee57fd23e68d2af41961f9acb",
+      "source_path": "CONTRIBUTING_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/2034-contributing_cn_3472ae22",
+      "category": "development",
+      "name": "contributing_cn_3472ae22",
+      "indexed_at": "2026-02-10T09:09:08.502274",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/CONTRIBUTING_CN.md",
+      "display_name": "Contributing Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "657bd583d474c70c531440bb7e360cb4b2723e29aef809afe2ef5a9199c01150",
+      "source_path": "docs/en/faq/faq.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/360-faq_657bd583",
+      "category": "development",
+      "name": "faq_657bd583",
+      "indexed_at": "2026-02-10T09:09:08.648501",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a70d2cf8df0f80bf794f39e51f35263c74b664e9a22a8203b4cc73b4bab34335",
+      "source_path": "docs/zh/faq/faq.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/360-faq_a70d2cf8",
+      "category": "development",
+      "name": "faq_a70d2cf8",
+      "indexed_at": "2026-02-10T09:09:08.856324",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "817096d4f90400c9c88db91b7d57756433e195d66cdf14b5572637ac92fd162c",
+      "source_path": "README_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "data-analysis/436-readme_cn_817096d4",
+      "category": "data-analysis",
+      "name": "readme_cn_817096d4",
+      "indexed_at": "2026-02-10T09:09:09.018186",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "fae9a8753c4c789333868f1c681e4de803b0e1bf0f848a149639fb01337783be",
+      "source_path": "docs/zh/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/314-01-configuration_fae9a875",
+      "category": "development/devops",
+      "name": "01-configuration_fae9a875",
+      "indexed_at": "2026-02-10T09:09:09.169575",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "525aa503c36179b9a667dda232cc9e002bd1a0338400493df90c5005557e4ca3",
+      "source_path": "docs/en/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "automation/scripting/080-01-configuration_525aa503",
+      "category": "automation/scripting",
+      "name": "01-configuration_525aa503",
+      "indexed_at": "2026-02-10T09:09:09.385346",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "f3c4fe34b1c670cd3a47508bb61530ebb8a08c8dada7b42a6b6c5028ead1fc1c",
+      "source_path": "docs/en/guides/02-volcengine-purchase-guide.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "communication/237-02-volcengine-purchase-guide_f3c4fe34",
+      "category": "communication",
+      "name": "02-volcengine-purchase-guide_f3c4fe34",
+      "indexed_at": "2026-02-10T09:09:09.534072",
+      "repo_stars": 1094,
+      "repo_updated_at": "2026-02-10T06:31:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/02-volcengine-purchase-guide.md",
+      "display_name": "02 Volcengine Purchase Guide",
+      "tags": "[\"communication\"]"
     }
   ]
 }
