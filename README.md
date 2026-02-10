@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2156 AI-powered skills** organized into 14 categories.
+A curated collection of **2172 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (71 skills)
 - **Commercial** (250 skills)
 - **Communication** (49 skills)
-- **Content Creation** (494 skills)
-- **Daily Assistant** (60 skills)
-- **Data Analysis** (200 skills)
-- **Development** (388 skills)
-- **Development/Devops** (145 skills)
-- **Development/Testing** (87 skills)
-- **Development/Tools** (92 skills)
+- **Content Creation** (495 skills)
+- **Daily Assistant** (61 skills)
+- **Data Analysis** (201 skills)
+- **Development** (392 skills)
+- **Development/Devops** (148 skills)
+- **Development/Testing** (89 skills)
+- **Development/Tools** (96 skills)
 - **Investment** (15 skills)
 - **Productivity** (15 skills)
 - **Research** (69 skills)
@@ -734,8 +734,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Storage](commercial/187-storage_95f3f852/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/tempo-skill/references/storage.md) | ⭐ 14 | `commercial` |
 | [Plan Requirements.Prompt](commercial/311-plan-requirementsprompt_a1d88f7e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-requirements.prompt.md) | ⭐ 60 | `commercial` |
 | [N8N Compatibility Validation](commercial/364-n8n_compatibility_validation_f01b6855/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
-| [Claude](commercial/claude_252a8196/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) | ⭐ 1.7k | `commercial` |
-| [Growth Strategy](commercial/growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
+| [Claude](commercial/036-claude_252a8196/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) | ⭐ 1.7k | `commercial` |
+| [Growth Strategy](commercial/096-growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
 
 ### Communication (49 skills)
 
@@ -791,7 +791,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_0cf19ea0/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 73 | `communication` |
 | [Skill](communication/127-name-skill_88ec62c7/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-chat/SKILL.md) | ⭐ 73 | `communication` |
 
-### Content Creation (494 skills)
+### Content Creation (495 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1288,9 +1288,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [N8N Integration](content-creation/341-n8n_integration_5e37f47c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
 | [Providers](content-creation/342-providers_c26aff2b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
 | [Agent](content-creation/343-agent_a939f648/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/agent.md) | ⭐ 251 | `content creation` |
-| [Installation](content-creation/installation_61e4f0ec/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.7k | `content creation` |
+| [Installation](content-creation/344-installation_61e4f0ec/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.7k | `content creation` |
+| [Skill](content-creation/name-skill_6323eac5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/SKILL.md) | ⭐ 2.5k | `content creation` |
 
-### Daily Assistant (60 skills)
+### Daily Assistant (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1354,8 +1355,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [T22 Reference Updates Comprehensive](daily-assistant/258-t22-reference-updates-comprehensive_2cdb759d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T22-reference-updates-comprehensive.md) | ⭐ 16 | `daily assistant` |
 | [T7 Progressivedisclosurevalidator](daily-assistant/259-t7-progressivedisclosurevalidator_020b5aaa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/tasks/T7-progressivedisclosurevalidator.md) | ⭐ 16 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_4b410995/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L6/.claude/skills/adding-cli-command/SKILL.md) | ⭐ 418 | `daily assistant` |
+| [Performance Tuning](daily-assistant/performance-tuning_f640cff5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/references/performance-tuning.md) | ⭐ 2.5k | `daily assistant` |
 
-### Data Analysis (200 skills)
+### Data Analysis (201 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1559,8 +1561,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Calling Cascade Strategy](data-analysis/471-tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_512413ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.6k | `data analysis` |
 | [Managed Environment Pools](data-analysis/472-managed-environment-pools_67965903/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md) | ⭐ 73 | `data analysis` |
+| [Create Data Extensions](data-analysis/create-data-extensions_e9ff30a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.5k | `data analysis` |
 
-### Development (388 skills)
+### Development (392 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1946,14 +1949,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Developer Guide](development/282-developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
 | [Index](development/468-index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
 | [Actions Reference](development/010-actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
-| [Review Tui](development/review-tui_f55c0420/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-tui.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_d441556f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_a740f736/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_78ae6e55/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_ba99964f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_7b596d42/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
+| [Review Tui](development/2065-review-tui_f55c0420/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-tui.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_d441556f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_a740f736/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_78ae6e55/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_ba99964f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_7b596d42/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/skills/review-verification-protocol/SKILL.md) | ⭐ 21 | `development` |
+| [Diagnostic Query Templates](development/diagnostic-query-templates_08487538/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/references/diagnostic-query-templates.md) | ⭐ 2.5k | `development` |
+| [Ruleset Catalog](development/ruleset-catalog_43936f03/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/references/ruleset-catalog.md) | ⭐ 2.5k | `development` |
+| [Threat Models](development/threat-models_905d109c/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/references/threat-models.md) | ⭐ 2.5k | `development` |
+| [Triage Task Prompt](development/triage-task-prompt_7add9ed2/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/triage-task-prompt.md) | ⭐ 2.5k | `development` |
 
-### Development/Devops (145 skills)
+### Development/Devops (148 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2101,9 +2108,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Zh](development/devops/298-readme_zh_fd490d3b/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
 | [Mcp Oauth](development/devops/353-mcp_oauth_64767527/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_oauth.md) | 🔥 35.6k | `development` |
 | [Configuration](development/devops/009-configuration_a160a236/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/configuration.md) | 🔥 6.7k | `development` |
-| [Claude](development/devops/claude_b8bfa382/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/CLAUDE.md) | ⭐ 1.7k | `development` |
+| [Claude](development/devops/205-claude_b8bfa382/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/CLAUDE.md) | ⭐ 1.7k | `development` |
+| [Skill](development/devops/name-skill_1efc39bd/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md) | ⭐ 2.5k | `development` |
+| [Rulesets](development/devops/rulesets_e641bf7b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/rulesets.md) | ⭐ 2.5k | `development` |
+| [Scanner Task Prompt](development/devops/scanner-task-prompt_5bc2893c/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/scanner-task-prompt.md) | ⭐ 2.5k | `development` |
 
-### Development/Testing (87 skills)
+### Development/Testing (89 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2189,13 +2199,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](development/testing/070-installation_9414b478/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/INSTALLATION.md) | ⭐ 251 | `development` |
 | [Branch Cleanup Report](development/testing/071-branch-cleanup-report_0fe22520/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/branch-cleanup-report.md) | ⭐ 251 | `development` |
 | [Agents Strategy Analysis](development/testing/072-agents_strategy_analysis_d1c13901/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/AGENTS_STRATEGY_ANALYSIS.md) | ⭐ 251 | `development` |
-| [Review Elixir](development/testing/review-elixir_5116e633/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/commands/review-elixir.md) | ⭐ 21 | `development` |
-| [Review Go](development/testing/review-go_6ef36d0c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-go.md) | ⭐ 21 | `development` |
-| [Review Ios](development/testing/review-ios_dc8f4356/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/commands/review-ios.md) | ⭐ 21 | `development` |
-| [Review Python](development/testing/review-python_8408726f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/commands/review-python.md) | ⭐ 21 | `development` |
-| [Review Frontend](development/testing/review-frontend_5d4105fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-react/commands/review-frontend.md) | ⭐ 21 | `development` |
+| [Review Elixir](development/testing/073-review-elixir_5116e633/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-elixir/commands/review-elixir.md) | ⭐ 21 | `development` |
+| [Review Go](development/testing/074-review-go_6ef36d0c/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-go.md) | ⭐ 21 | `development` |
+| [Review Ios](development/testing/075-review-ios_dc8f4356/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-ios/commands/review-ios.md) | ⭐ 21 | `development` |
+| [Review Python](development/testing/076-review-python_8408726f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-python/commands/review-python.md) | ⭐ 21 | `development` |
+| [Review Frontend](development/testing/077-review-frontend_5d4105fb/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-react/commands/review-frontend.md) | ⭐ 21 | `development` |
+| [Build Database](development/testing/build-database_a2b6485d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/build-database.md) | ⭐ 2.5k | `development` |
+| [Language Details](development/testing/language-details_1d6db4a4/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/references/language-details.md) | ⭐ 2.5k | `development` |
 
-### Development/Tools (92 skills)
+### Development/Tools (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2291,6 +2303,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architecture](development/tools/051-architecture_c8b42f42/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 706 | `development` |
 | [Skill](development/tools/002-name-skill_7a82d06d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
 | [Skill](development/tools/002-name-skill_51fbb5f5/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.7k | `development` |
+| [Skill](development/tools/name-skill_b386c9b2/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.5k | `development` |
+| [Codex Invocation](development/tools/codex-invocation_4328260e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/codex-invocation.md) | ⭐ 2.5k | `development` |
+| [Gemini Invocation](development/tools/gemini-invocation_8f204a18/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.5k | `development` |
+| [Run Analysis](development/tools/run-analysis_67c4822a/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/run-analysis.md) | ⭐ 2.5k | `development` |
 
 ### Investment (15 skills)
 
@@ -2310,7 +2326,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reading Material 3](investment/045-reading_material_3_f64e111e/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L3/reading_material_3.md) | ⭐ 418 | `investment` |
 | [Budget Reallocation Rules](investment/041-budget_reallocation_rules_871003d1/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L1-partI/skill/analyzing-marketing-campaign/references/budget_reallocation_rules.md) | ⭐ 418 | `investment` |
 | [Fastembed Improvement Plan](investment/046-fastembed-improvement-plan_6434df52/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-improvement-plan.md) | ⭐ 251 | `investment` |
-| [Python Tools Audit](investment/python_tools_audit_c7c07488/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/PYTHON_TOOLS_AUDIT.md) | ⭐ 1.7k | `investment` |
+| [Python Tools Audit](investment/047-python_tools_audit_c7c07488/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/PYTHON_TOOLS_AUDIT.md) | ⭐ 1.7k | `investment` |
 
 ### Productivity (15 skills)
 
@@ -2456,5 +2472,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 08:17:31 UTC*
+*Last updated: 2026-02-10 08:28:48 UTC*
 *Automatically maintained by SkillFlow*
