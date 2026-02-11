@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2403 AI-powered skills** organized into 14 categories.
+A curated collection of **2408 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,13 +9,13 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (237 skills)
-- **Automation/Workflow** (82 skills)
+- **Automation/Workflow** (83 skills)
 - **Commercial** (263 skills)
-- **Communication** (59 skills)
+- **Communication** (60 skills)
 - **Content Creation** (522 skills)
 - **Daily Assistant** (70 skills)
 - **Data Analysis** (220 skills)
-- **Development** (447 skills)
+- **Development** (450 skills)
 - **Development/Devops** (181 skills)
 - **Development/Testing** (96 skills)
 - **Development/Tools** (119 skills)
@@ -422,7 +422,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pre Mortem Analysis](automation/scripting/085-pre-mortem-analysis_298c2db8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/pre-mortem-analysis.md) | ⭐ 1.0k | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_851e7b18/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 
-### Automation/Workflow (82 skills)
+### Automation/Workflow (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -506,8 +506,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Automated Reviews](automation/workflow/133-automated_reviews_a75b8295/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/docs/AUTOMATED_REVIEWS.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ba933e16/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/rodney/SKILL.md) | ⭐ 31 | `automation` |
 | [Red Team Adversarial](automation/workflow/133-red-team-adversarial_bc9a3ebf/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/red-team-adversarial.md) | ⭐ 1.0k | `automation` |
-| [Skill](automation/workflow/name-skill_f369b54b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/SKILL.md) | ⭐ 13 | `automation` |
-| [Stitch](automation/workflow/stitch_67c587ae/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/workflows/stitch.md) | ⭐ 13 | `automation` |
+| [Skill](automation/workflow/002-name-skill_f369b54b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/SKILL.md) | ⭐ 13 | `automation` |
+| [Instructions](automation/workflow/instructions_34ddf334/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/insight-extractor/instructions.md) | ⭐ 11 | `automation-candidate` |
+| [Skill](automation/workflow/parse-skill_51a92fc8/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/insight-extractor/skill.md) | ⭐ 11 | `automation` |
 
 ### Commercial (263 skills)
 
@@ -777,7 +778,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mode Selection Guide](commercial/366-mode-selection-guide_e578e48d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/mode-selection-guide.md) | ⭐ 1.0k | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_ab1576ab/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
 
-### Communication (59 skills)
+### Communication (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -840,6 +841,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Privacy](communication/251-privacy_01061a06/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/PRIVACY.md) | ⭐ 181 | `communication` |
 | [Starter Kit](communication/250-starter_kit_d2c405e9/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/STARTER_KIT.md) | ⭐ 2.0k | `communication` |
 | [Group Chat Guide](communication/251-group_chat_guide_133ae980/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/GROUP_CHAT_GUIDE.md) | ⭐ 2.0k | `communication` |
+| [Skill](communication/preview-skill_1bbd748a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram-post/SKILL.md) | ⭐ 11 | `communication` |
 
 ### Content Creation (522 skills)
 
@@ -1668,7 +1670,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_40afcbc6/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 181 | `data analysis` |
 | [02 Resources](data-analysis/437-02-resources_0ca5c0b5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/02-resources.md) | ⭐ 1.1k | `data analysis` |
 
-### Development (447 skills)
+### Development (450 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1925,7 +1927,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sql](development/2719-sql_917d8914/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/references/sql.md) | ⭐ 31 | `development` |
 | [Tick](development/2720-tick_79b154af/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/observable-plot/marks/tick.md) | ⭐ 31 | `development` |
 | [Decisions](development/1342-decisions_573b2719/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/team/DECISIONS.md) | ⭐ 166 | `development` |
-| [Learning Mascot](development/2722-learning-mascot_7d2a1e14/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 16 | `development` |
+| [Learning Mascot](development/learning-mascot_d4a28400/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 16 | `development` |
 | [References](development/898-references_8157973f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/docs/references.md) | ⭐ 14 | `development` |
 | [Skill](development/1178-name-skill_59268bac/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argo-rollouts-skill/SKILL.md) | ⭐ 14 | `development` |
 | [Skill](development/2723-implementing-skill_491371c6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-applicationset-skill/SKILL.md) | ⭐ 14 | `development` |
@@ -2118,7 +2120,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Skills](development/2704-04-skills_8b95e5b7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-skills.md) | ⭐ 1.1k | `development` |
 | [06 Retrieval](development/2705-06-retrieval_bf977cf5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-retrieval.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_98c9768c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
-| [Skill](development/name-skill_e3ae9d2a/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/security-audit/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/1178-name-skill_e3ae9d2a/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/security-audit/SKILL.md) | ⭐ 13 | `development` |
+| [Claude](development/140-claude_bc8a6097/) | [julianghadially/CodeEvolver](https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/claude.md) | ⭐ 10 | `development` |
+| [Github Guide](development/2846-github_guide_32d75343/) | [julianghadially/CodeEvolver](https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/specs/github_guide.md) | ⭐ 10 | `development` |
+| [Learning Mascot](development/2722-learning-mascot_d4a28400/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 16 | `development` |
 
 ### Development/Devops (181 skills)
 
@@ -2703,5 +2708,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 20:02:43 UTC*
+*Last updated: 2026-02-11 22:02:38 UTC*
 *Automatically maintained by SkillFlow*

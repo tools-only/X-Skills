@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T20:02:43.230098",
+  "updated_at": "2026-02-11T22:02:38.530134",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -33629,6 +33629,90 @@
       "source_url": "https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/security-audit/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "bc8a609728155a35bbde62c3cacfabe89f0ec59b027532c47d765e58733b9e2a",
+      "source_path": "claude.md",
+      "source_repo": "julianghadially/CodeEvolver",
+      "local_path": "development/140-claude_bc8a6097",
+      "category": "development",
+      "name": "claude_bc8a6097",
+      "indexed_at": "2026-02-11T21:03:38.282392",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-14T17:11:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/claude.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "32d753438d894e4d3f23bfa80b5bbb322e691557912fef9a8f8fc2f30cbfe6f3",
+      "source_path": "specs/github_guide.md",
+      "source_repo": "julianghadially/CodeEvolver",
+      "local_path": "development/2846-github_guide_32d75343",
+      "category": "development",
+      "name": "github_guide_32d75343",
+      "indexed_at": "2026-02-11T21:03:38.809487",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-16T21:29:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/specs/github_guide.md",
+      "display_name": "Github Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d4a28400af41574cb43b36b67130d8ff8f0d94fa866e89f2dc386909d8759d86",
+      "source_path": "skills/book-installer/references/learning-mascot.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "development/2722-learning-mascot_d4a28400",
+      "category": "development",
+      "name": "learning-mascot_d4a28400",
+      "indexed_at": "2026-02-11T22:02:37.560893",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-09T21:37:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md",
+      "display_name": "Learning Mascot",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "34ddf334f4093fb1f68d874fe217b4f19dada5a823ec11bd5ca2fbfd722562c4",
+      "source_path": "insight-extractor/instructions.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "automation/workflow/134-instructions_34ddf334",
+      "category": "automation/workflow",
+      "name": "instructions_34ddf334",
+      "indexed_at": "2026-02-11T22:02:37.908929",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-11T16:42:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/insight-extractor/instructions.md",
+      "display_name": "Instructions",
+      "tags": "[\"automation-candidate\"]"
+    },
+    {
+      "file_hash": "51a92fc8c1ff713c717e18ad0a744c745143b724278233cfd1374c9dfa62a59b",
+      "source_path": "insight-extractor/skill.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "automation/workflow/135-parse-skill_51a92fc8",
+      "category": "automation/workflow",
+      "name": "parse-skill_51a92fc8",
+      "indexed_at": "2026-02-11T22:02:38.226353",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-11T16:42:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/insight-extractor/skill.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "1bbd748a9152799a5ba83a6fc31d65c2fc8c73a03554614cf0e28ab020f94085",
+      "source_path": "telegram-post/SKILL.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "communication/252-preview-skill_1bbd748a",
+      "category": "communication",
+      "name": "preview-skill_1bbd748a",
+      "indexed_at": "2026-02-11T22:02:38.530091",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-11T18:50:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/telegram-post/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"communication\"]"
     }
   ]
 }
