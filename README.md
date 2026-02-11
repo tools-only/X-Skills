@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2370 AI-powered skills** organized into 14 categories.
+A curated collection of **2380 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (235 skills)
-- **Automation/Workflow** (79 skills)
-- **Commercial** (260 skills)
+- **Automation/Scripting** (236 skills)
+- **Automation/Workflow** (80 skills)
+- **Commercial** (262 skills)
 - **Communication** (59 skills)
-- **Content Creation** (522 skills)
+- **Content Creation** (521 skills)
 - **Daily Assistant** (70 skills)
 - **Data Analysis** (219 skills)
-- **Development** (435 skills)
-- **Development/Devops** (174 skills)
-- **Development/Testing** (95 skills)
+- **Development** (439 skills)
+- **Development/Devops** (175 skills)
+- **Development/Testing** (96 skills)
 - **Development/Tools** (116 skills)
 - **Investment** (15 skills)
-- **Productivity** (18 skills)
+- **Productivity** (19 skills)
 - **Research** (73 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (235 skills)
+### Automation/Scripting (236 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -419,8 +419,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Elasticsearch Scripts Guide](automation/scripting/089-elasticsearch_scripts_guide_40613f2e/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/elasticsearch_scripts_guide.md) | ⭐ 2.0k | `automation` |
 | [Milvus Scripts Guide](automation/scripting/090-milvus_scripts_guide_72048288/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/milvus_scripts_guide.md) | ⭐ 2.0k | `automation` |
 | [Mongodb Scripts Guide](automation/scripting/091-mongodb_scripts_guide_e69697fd/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/mongodb_scripts_guide.md) | ⭐ 2.0k | `automation` |
+| [Pre Mortem Analysis](automation/scripting/pre-mortem-analysis_298c2db8/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/pre-mortem-analysis.md) | ⭐ 1.0k | `automation` |
 
-### Automation/Workflow (79 skills)
+### Automation/Workflow (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -502,9 +503,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backlog](automation/workflow/063-backlog_ca63cb66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a8b043f5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/SKILL.md) | ⭐ 2.5k | `automation` |
 | [Automated Reviews](automation/workflow/133-automated_reviews_a75b8295/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/docs/AUTOMATED_REVIEWS.md) | ⭐ 18 | `automation` |
-| [Skill](automation/workflow/name-skill_ba933e16/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/rodney/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ba933e16/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/rodney/SKILL.md) | ⭐ 31 | `automation` |
+| [Red Team Adversarial](automation/workflow/red-team-adversarial_bc9a3ebf/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/red-team-adversarial.md) | ⭐ 1.0k | `automation` |
 
-### Commercial (260 skills)
+### Commercial (262 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -727,7 +729,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference](commercial/167-reference_33118ac4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/references/reference.md) | ⭐ 88 | `commercial` |
 | [Terraform Roadmap](commercial/309-terraform-roadmap_10861a74/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/terraform-roadmap.md) | ⭐ 60 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_d23ff7ee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
-| [Agents](commercial/agents_f2566b57/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
+| [Agents](commercial/007-agents_163651bf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
 | [Kubernetes](commercial/344-kubernetes_6c039268/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/KUBERNETES.md) | ⭐ 14 | `commercial` |
 | [Skill](commercial/210-name-skill_d99fc2d4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-configuration-skill/SKILL.md) | ⭐ 14 | `commercial` |
 | [Skill](commercial/210-name-skill_e2cea75f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/sentry-skill/SKILL.md) | ⭐ 14 | `commercial` |
@@ -768,6 +770,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Docker Setup](commercial/368-docker_setup_6da6d361/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/installation/DOCKER_SETUP.md) | ⭐ 2.0k | `commercial` |
 | [Batch Operations](commercial/369-batch_operations_830e54e3/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/BATCH_OPERATIONS.md) | ⭐ 2.0k | `commercial` |
 | [Agents](commercial/007-agents_f2566b57/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
+| [Roadmap](commercial/roadmap_3b378598/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 1.0k | `commercial` |
+| [Mode Selection Guide](commercial/mode-selection-guide_e578e48d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/mode-selection-guide.md) | ⭐ 1.0k | `commercial` |
 
 ### Communication (59 skills)
 
@@ -833,7 +837,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Starter Kit](communication/250-starter_kit_d2c405e9/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/STARTER_KIT.md) | ⭐ 2.0k | `communication` |
 | [Group Chat Guide](communication/251-group_chat_guide_133ae980/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/GROUP_CHAT_GUIDE.md) | ⭐ 2.0k | `communication` |
 
-### Content Creation (522 skills)
+### Content Creation (521 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1291,7 +1295,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [02 Resources](content-creation/319-02-resources_d0e656f1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_80834ac4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_e327bbb7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
-| [Skill](content-creation/name-skill_99bf2e27/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/049-name-skill_16122593/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_05e95f5d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/decisions/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_67704377/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/gomponents/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_0005e489/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/SKILL.md) | ⭐ 31 | `content creation` |
@@ -1357,8 +1361,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Type Ai](content-creation/350-type-ai_830dffb0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-writing-tools/type-ai.md) | ⭐ 16 | `content creation` |
 | [Group Chat Format](content-creation/351-group_chat_format_36ccff0d/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/data_format/group_chat/group_chat_format.md) | ⭐ 2.0k | `content creation` |
 | [Skill](content-creation/049-name-skill_99bf2e27/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
-| [Skill](content-creation/name-skill_2272bf3e/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/design-doc/SKILL.md) | ⭐ 31 | `content creation` |
-| [Test](content-creation/test_06b0cc24/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/test.md) | 🔥 6.5k | `content creation` |
+| [Skill](content-creation/049-name-skill_2272bf3e/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/design-doc/SKILL.md) | ⭐ 31 | `content creation` |
 
 ### Daily Assistant (70 skills)
 
@@ -1659,7 +1662,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_7cf0bf27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 22 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_40afcbc6/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 181 | `data analysis` |
 
-### Development (435 skills)
+### Development (439 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2097,9 +2100,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Development Standards](development/2851-development_standards_64732351/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/development_standards.md) | ⭐ 2.0k | `development` |
 | [Metrics Library Design](development/2852-metrics_library_design_0f59f2a7/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/metrics_library_design.md) | ⭐ 2.0k | `development` |
 | [Setup](development/964-setup_ed4939b1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/installation/SETUP.md) | ⭐ 2.0k | `development` |
-| [Release Notes](development/release_notes_78f7bda8/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
+| [Claude](development/claude_f8caa75d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/CLAUDE.md) | ⭐ 1.0k | `development` |
+| [Quickstart](development/quickstart_79346029/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md) | ⭐ 1.0k | `development` |
+| [Skills Guide](development/skills_guide_cfb6d1a1/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/SKILLS_GUIDE.md) | ⭐ 1.0k | `development` |
+| [Skill](development/name-skill_0ebcb5cb/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/SKILL.md) | ⭐ 1.0k | `development` |
+| [Dialectic Synthesis](development/dialectic-synthesis_9c28a1ed/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/dialectic-synthesis.md) | ⭐ 1.0k | `development` |
 
-### Development/Devops (174 skills)
+### Development/Devops (175 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2277,8 +2284,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Failure Patterns](development/devops/359-failure-patterns_d31f0f5b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/references/failure-patterns.md) | ⭐ 2.5k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_92737bcd/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 56 | `development` |
 | [Configuration Guide](development/devops/360-configuration_guide_4a8c65ff/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/CONFIGURATION_GUIDE.md) | ⭐ 2.0k | `development` |
+| [Roadmap](development/devops/roadmap_84f1111d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (95 skills)
+### Development/Testing (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2376,7 +2384,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bootstrap Usage](development/testing/081-bootstrap_usage_b412f9e1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/bootstrap_usage.md) | ⭐ 2.0k | `development` |
 | [Getting Started](development/testing/082-getting_started_9c746af6/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/getting_started.md) | ⭐ 2.0k | `development` |
 | [Introduction](development/testing/083-introduction_abf62477/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/core/di/introduction.md) | ⭐ 2.0k | `development` |
-| [Ops Guide](development/testing/ops_guide_0fceee1a/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
+| [Ops Guide](development/testing/084-ops_guide_0fceee1a/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
+| [Socratic Questioning](development/testing/socratic-questioning_88b0567e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/socratic-questioning.md) | ⭐ 1.0k | `development` |
 
 ### Development/Tools (116 skills)
 
@@ -2497,7 +2506,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_99bf03be/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 181 | `development` |
 | [Agents](development/tools/015-agents_2f8b4681/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/AGENTS.md) | ⭐ 18 | `development` |
 | [Mongodb Guide](development/tools/317-mongodb_guide_dd509291/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/MONGODB_GUIDE.md) | ⭐ 2.0k | `development` |
-| [Llm](development/tools/llm_9d6a4545/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
+| [Llm](development/tools/318-llm_9d6a4545/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
 
 ### Investment (15 skills)
 
@@ -2519,7 +2528,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fastembed Improvement Plan](investment/046-fastembed-improvement-plan_6434df52/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-improvement-plan.md) | ⭐ 251 | `investment` |
 | [Python Tools Audit](investment/047-python_tools_audit_c7c07488/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/PYTHON_TOOLS_AUDIT.md) | ⭐ 1.7k | `investment` |
 
-### Productivity (18 skills)
+### Productivity (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2541,6 +2550,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_ccb200c7/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/SKILL.md) | ⭐ 13 | `productivity` |
 | [Keywords](productivity/172-keywords_b837324b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/references/KEYWORDS.md) | ⭐ 13 | `productivity` |
 | [Reducers](productivity/173-reducers_a7cb246e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/reducers.md) | ⭐ 35 | `productivity` |
+| [Evidence Audit](productivity/evidence-audit_9e39b8c7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/evidence-audit.md) | ⭐ 1.0k | `productivity` |
 
 ### Research (73 skills)
 
@@ -2670,5 +2680,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 18:01:18 UTC*
+*Last updated: 2026-02-11 18:06:01 UTC*
 *Automatically maintained by SkillFlow*
