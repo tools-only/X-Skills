@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2245 AI-powered skills** organized into 14 categories.
+A curated collection of **2253 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -12,10 +12,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (74 skills)
 - **Commercial** (251 skills)
 - **Communication** (54 skills)
-- **Content Creation** (504 skills)
-- **Daily Assistant** (66 skills)
+- **Content Creation** (507 skills)
+- **Daily Assistant** (67 skills)
 - **Data Analysis** (213 skills)
-- **Development** (404 skills)
+- **Development** (408 skills)
 - **Development/Devops** (158 skills)
 - **Development/Testing** (90 skills)
 - **Development/Tools** (107 skills)
@@ -802,7 +802,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
 | [Perplexity](communication/249-perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
 
-### Content Creation (504 skills)
+### Content Creation (507 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1310,8 +1310,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Eject Theme](content-creation/348-tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_296a6b1a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 13 | `content creation` |
 | [Skill](content-creation/049-name-skill_8380a145/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-development/SKILL.md) | ⭐ 49 | `content creation` |
+| [Claude](content-creation/claude_dfc75255/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
+| [Claude](content-creation/claude_9a2b640b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 77 | `content creation` |
+| [Skill](content-creation/name-skill_1b62d15f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/writing-skills/SKILL.md) | ⭐ 77 | `content creation` |
 
-### Daily Assistant (66 skills)
+### Daily Assistant (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1381,6 +1384,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_dcd35096/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/google-workspace/SKILL.md) | ⭐ 49 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6b1a6869/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/SKILL.md) | ⭐ 49 | `daily assistant` |
 | [Headless Setup](daily-assistant/261-headless-setup_1aa038f7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md) | ⭐ 49 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_0ca47a2b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/verification/SKILL.md) | ⭐ 77 | `daily assistant` |
 
 ### Data Analysis (213 skills)
 
@@ -1600,7 +1604,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Content Element Types](data-analysis/475-content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_1f6585bf/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
 
-### Development (404 skills)
+### Development (408 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2007,7 +2011,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_2155e0b4/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/SKILL.md) | ⭐ 17 | `development` |
 | [Core Headmatter](development/2838-core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_f77604d2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-api-client/SKILL.md) | ⭐ 49 | `development` |
-| [Build Macos](development/build_macos_67a784db/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/BUILD_MACOS.md) | ⭐ 22 | `development` |
+| [Claude](development/claude_49a1352d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/CLAUDE.md) | ⭐ 77 | `development` |
+| [Code Reviewer](development/code-reviewer_559d0724/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
+| [Security Auditor](development/security-auditor_20e17ae9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
+| [Skill](development/name-skill_13cd2960/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/receiving-code-review/SKILL.md) | ⭐ 77 | `development` |
+| [Skill](development/name-skill_5f431a3a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/tdd/SKILL.md) | ⭐ 77 | `development` |
 
 ### Development/Devops (158 skills)
 
@@ -2545,5 +2553,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 03:08:48 UTC*
+*Last updated: 2026-02-11 03:10:30 UTC*
 *Automatically maintained by SkillFlow*
