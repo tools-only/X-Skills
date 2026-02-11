@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T15:05:19.154471",
+  "updated_at": "2026-02-11T15:07:52.718081",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -32592,6 +32592,48 @@
       "repo_updated_at": "2026-02-11T04:40:38+00:00",
       "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/references/failure-patterns.md",
       "display_name": "Failure Patterns",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2f8b4681d51abe8e2887cd93984038a0262d0069a00dbfe342a076fc94647dcd",
+      "source_path": "AGENTS.md",
+      "source_repo": "mr-karan/hodor",
+      "local_path": "development/tools/015-agents_2f8b4681",
+      "category": "development/tools",
+      "name": "agents_2f8b4681",
+      "indexed_at": "2026-02-11T15:07:52.155052",
+      "repo_stars": 18,
+      "repo_updated_at": "2025-11-12T16:39:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/mr-karan/hodor/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a75b82954129c8c5c79bc56f8cbefc351f679e04c7175baf9b7023b2a467b78a",
+      "source_path": "docs/AUTOMATED_REVIEWS.md",
+      "source_repo": "mr-karan/hodor",
+      "local_path": "automation/workflow/133-automated_reviews_a75b8295",
+      "category": "automation/workflow",
+      "name": "automated_reviews_a75b8295",
+      "indexed_at": "2026-02-11T15:07:52.441943",
+      "repo_stars": 18,
+      "repo_updated_at": "2025-11-12T16:18:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/mr-karan/hodor/main/docs/AUTOMATED_REVIEWS.md",
+      "display_name": "Automated Reviews",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "6048e073a54de81371773e8d3b806dc7d05a24166285b3f01cd82519e5d2e3fc",
+      "source_path": "docs/SKILLS.md",
+      "source_repo": "mr-karan/hodor",
+      "local_path": "development/2845-hodor-skill_6048e073",
+      "category": "development",
+      "name": "hodor-skill_6048e073",
+      "indexed_at": "2026-02-11T15:07:52.717970",
+      "repo_stars": 18,
+      "repo_updated_at": "2025-11-13T07:39:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/mr-karan/hodor/main/docs/SKILLS.md",
+      "display_name": "Skills",
       "tags": "[\"development\"]"
     }
   ]
