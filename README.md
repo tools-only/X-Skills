@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2242 AI-powered skills** organized into 14 categories.
+A curated collection of **2245 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -15,10 +15,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (504 skills)
 - **Daily Assistant** (66 skills)
 - **Data Analysis** (213 skills)
-- **Development** (403 skills)
-- **Development/Devops** (157 skills)
+- **Development** (404 skills)
+- **Development/Devops** (158 skills)
 - **Development/Testing** (90 skills)
-- **Development/Tools** (106 skills)
+- **Development/Tools** (107 skills)
 - **Investment** (15 skills)
 - **Productivity** (17 skills)
 - **Research** (69 skills)
@@ -1309,7 +1309,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Build Og Image](content-creation/347-build-og-image_b47dd5bd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-og-image.md) | ⭐ 17 | `content creation` |
 | [Tool Eject Theme](content-creation/348-tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_296a6b1a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 13 | `content creation` |
-| [Skill](content-creation/name-skill_8380a145/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-development/SKILL.md) | ⭐ 49 | `content creation` |
+| [Skill](content-creation/049-name-skill_8380a145/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-development/SKILL.md) | ⭐ 49 | `content creation` |
 
 ### Daily Assistant (66 skills)
 
@@ -1378,9 +1378,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dockerfile Best Practices](daily-assistant/260-dockerfile-best-practices_78b9bdb7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/references/dockerfile-best-practices.md) | ⭐ 2.5k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_ddd5916a/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.7k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_d7fc6282/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_dcd35096/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/google-workspace/SKILL.md) | ⭐ 49 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_6b1a6869/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/SKILL.md) | ⭐ 49 | `daily assistant` |
-| [Headless Setup](daily-assistant/headless-setup_1aa038f7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md) | ⭐ 49 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_dcd35096/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/google-workspace/SKILL.md) | ⭐ 49 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_6b1a6869/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/SKILL.md) | ⭐ 49 | `daily assistant` |
+| [Headless Setup](daily-assistant/261-headless-setup_1aa038f7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md) | ⭐ 49 | `daily assistant` |
 
 ### Data Analysis (213 skills)
 
@@ -1596,11 +1596,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](data-analysis/436-readme_cn_185ef924/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 | [Refactor Microsim Generator For Token Efficiency](data-analysis/474-refactor-microsim-generator-for-token-efficiency_cca15798/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/refactor-microsim-generator-for-token-efficiency.md) | ⭐ 16 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_ce0de3a0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 16 | `data analysis` |
-| [Skill](data-analysis/name-skill_1f6585bf/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_24c0bd72/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
 | [Content Element Types](data-analysis/475-content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_1f6585bf/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
 
-### Development (403 skills)
+### Development (404 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2006,9 +2006,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Customization Guide](development/2837-customization-guide_c626feb6/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/customization-guide.md) | ⭐ 13 | `development` |
 | [Skill](development/1178-name-skill_2155e0b4/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/SKILL.md) | ⭐ 17 | `development` |
 | [Core Headmatter](development/2838-core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_f77604d2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-api-client/SKILL.md) | ⭐ 49 | `development` |
+| [Skill](development/1178-name-skill_f77604d2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-api-client/SKILL.md) | ⭐ 49 | `development` |
+| [Build Macos](development/build_macos_67a784db/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/BUILD_MACOS.md) | ⭐ 22 | `development` |
 
-### Development/Devops (157 skills)
+### Development/Devops (158 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2167,8 +2168,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Admin Ui Sso](development/devops/031-admin_ui_sso_da202e37/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.7k | `development` |
 | [Config Settings](development/devops/033-config_settings_bc896b79/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Agent Deployment Guide](development/devops/229-agent-deployment-guide_319a3340/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md) | ⭐ 60 | `development` |
-| [Skill](development/devops/name-skill_04e3c3ec/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-configuration/SKILL.md) | ⭐ 49 | `development` |
-| [Index](development/devops/index_aed28731/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/16-user-global-claude/index.md) | ⭐ 16 | `development` |
+| [Skill](development/devops/014-name-skill_04e3c3ec/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-configuration/SKILL.md) | ⭐ 49 | `development` |
+| [Index](development/devops/050-index_aed28731/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/16-user-global-claude/index.md) | ⭐ 16 | `development` |
+| [Rbac](development/devops/rbac_6f0b92c6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (90 skills)
 
@@ -2265,7 +2267,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
 
-### Development/Tools (106 skills)
+### Development/Tools (107 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2375,6 +2377,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Setup Guide](development/tools/316-setup-guide_02ab4cc9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/setup-guide.md) | ⭐ 13 | `development` |
 | [Agents](development/tools/015-agents_2e6bfc71/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_93fe8510/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
+| [Unittest](development/tools/unittest_57833d5f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/unittest.md) | ⭐ 3.3k | `development` |
 
 ### Investment (15 skills)
 
@@ -2542,5 +2545,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 01:08:50 UTC*
+*Last updated: 2026-02-11 03:08:48 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T01:08:49.952526",
+  "updated_at": "2026-02-11T03:08:48.814108",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -31389,6 +31389,20 @@
       "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "6f0b92c61ae2d87ef98e1d9dc0b025ef0b90260612d46470df3d7570a073a67e",
+      "source_path": "docs/docs/manage/rbac.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/010-rbac_6f0b92c6",
+      "category": "development/devops",
+      "name": "rbac_6f0b92c6",
+      "indexed_at": "2026-02-11T03:08:48.814041",
+      "repo_stars": 3261,
+      "repo_updated_at": "2026-02-10T17:50:23+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md",
+      "display_name": "Rbac",
+      "tags": "[\"development\"]"
     }
   ]
 }
