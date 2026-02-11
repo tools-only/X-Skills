@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2311 AI-powered skills** organized into 14 categories.
+A curated collection of **2317 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (225 skills)
-- **Automation/Workflow** (76 skills)
+- **Automation/Workflow** (77 skills)
 - **Commercial** (255 skills)
-- **Communication** (58 skills)
-- **Content Creation** (517 skills)
-- **Daily Assistant** (67 skills)
-- **Data Analysis** (217 skills)
-- **Development** (419 skills)
-- **Development/Devops** (170 skills)
-- **Development/Testing** (92 skills)
-- **Development/Tools** (111 skills)
+- **Communication** (56 skills)
+- **Content Creation** (518 skills)
+- **Daily Assistant** (70 skills)
+- **Data Analysis** (216 skills)
+- **Development** (423 skills)
+- **Development/Devops** (171 skills)
+- **Development/Testing** (90 skills)
+- **Development/Tools** (112 skills)
 - **Investment** (15 skills)
 - **Productivity** (18 skills)
 - **Research** (71 skills)
@@ -407,10 +407,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Reference](automation/scripting/083-api-reference_5483112a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/zabbix-api-skill/references/api-reference.md) | ⭐ 14 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_525aa503/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 | [Build Pdf](automation/scripting/084-build-pdf_023e0286/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-pdf.md) | ⭐ 17 | `automation` |
-| [Persistence Backends](automation/scripting/persistence-backends_d517bcac/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/persistence-backends.md) | ⭐ 35 | `automation` |
-| [Filtering Querying](automation/scripting/filtering-querying_d1ba0509/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/filtering-querying.md) | ⭐ 35 | `automation` |
+| [Persistence Backends](automation/scripting/085-persistence-backends_d517bcac/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/persistence-backends.md) | ⭐ 35 | `automation` |
+| [Filtering Querying](automation/scripting/086-filtering-querying_d1ba0509/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/filtering-querying.md) | ⭐ 35 | `automation` |
 
-### Automation/Workflow (76 skills)
+### Automation/Workflow (77 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -489,7 +489,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_39604611/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-admin/SKILL.md) | ⭐ 1.7k | `automation` |
 | [Oauth Flows](automation/workflow/133-oauth-flows_4299793e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/docs/oauth-flows.md) | ⭐ 60 | `automation` |
 | [Dev](automation/workflow/133-dev_fac53b6f/) | [jonigl/mcp-client-for-ollama](https://raw.githubusercontent.com/jonigl/mcp-client-for-ollama/main/DEV.md) | ⭐ 533 | `automation` |
-| [Claude](automation/workflow/claude_3eefa43c/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/CLAUDE.md) | ⭐ 35 | `automation` |
+| [Backlog](automation/workflow/backlog_ca63cb66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
+| [Map](automation/workflow/_map_70e19170/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/browsing-bluesky/_MAP.md) | ⭐ 96 | `automation` |
 
 ### Commercial (255 skills)
 
@@ -747,11 +748,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Growth Strategy](commercial/096-growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
 | [Skill](commercial/210-name-skill_af12ef73/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.7k | `commercial` |
 | [V1.0.13](commercial/365-v1013_ce9d8c5b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.13.md) | ⭐ 429 | `commercial` |
-| [Router Pattern](commercial/router-pattern_87da26b9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/router-pattern.md) | ⭐ 35 | `commercial` |
-| [Cicd Integration](commercial/cicd-integration_5d2f41e9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/cicd-integration.md) | ⭐ 35 | `commercial` |
-| [Langsmith Evaluation](commercial/langsmith-evaluation_9c62a7d1/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-testing-evaluation/references/langsmith-evaluation.md) | ⭐ 35 | `commercial` |
+| [Router Pattern](commercial/365-router-pattern_87da26b9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/router-pattern.md) | ⭐ 35 | `commercial` |
+| [Cicd Integration](commercial/356-cicd-integration_5d2f41e9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/cicd-integration.md) | ⭐ 35 | `commercial` |
+| [Skill](commercial/description-skill_e478ffd2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/SKILL.md) | ⭐ 16 | `commercial` |
 
-### Communication (58 skills)
+### Communication (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -809,12 +810,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_c332c25b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 17 | `communication` |
 | [Skill](communication/127-name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
 | [Perplexity](communication/249-perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
-| [Skill](communication/name-skill_f1483a25/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/SKILL.md) | ⭐ 35 | `communication` |
-| [Monitoring Alerts](communication/monitoring-alerts_f36e8718/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/monitoring-alerts.md) | ⭐ 35 | `communication` |
-| [Im Channels](communication/im-channels_58a3b078/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channels.md) | ⭐ 54 | `communication` |
-| [Message Queue And Interrupt](communication/message-queue-and-interrupt_b2d29fd7/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/message-queue-and-interrupt.md) | ⭐ 54 | `communication` |
+| [Skill](communication/127-name-skill_f1483a25/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/SKILL.md) | ⭐ 35 | `communication` |
+| [Monitoring Alerts](communication/250-monitoring-alerts_f36e8718/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/monitoring-alerts.md) | ⭐ 35 | `communication` |
 
-### Content Creation (517 skills)
+### Content Creation (518 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1328,15 +1327,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](content-creation/185-agents_0eb000a5/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/AGENTS.md) | ⭐ 184 | `content creation` |
 | [Skill](content-creation/049-name-skill_53c980ce/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 184 | `content creation` |
 | [Skill](content-creation/049-name-skill_48db8dc1/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/SKILL.md) | ⭐ 184 | `content creation` |
-| [Skill](content-creation/name-skill_a25c90f8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/SKILL.md) | ⭐ 35 | `content creation` |
-| [Pattern Comparison](content-creation/pattern-comparison_06f08cff/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/pattern-comparison.md) | ⭐ 35 | `content creation` |
-| [State Management Patterns](content-creation/state-management-patterns_c80e0022/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/state-management-patterns.md) | ⭐ 35 | `content creation` |
-| [Supervisor Subagent](content-creation/supervisor-subagent_0494d7df/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/supervisor-subagent.md) | ⭐ 35 | `content creation` |
-| [Human Escalation](content-creation/human-escalation_51468dfe/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/human-escalation.md) | ⭐ 35 | `content creation` |
-| [State Debugging](content-creation/state-debugging_70838d7f/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/state-debugging.md) | ⭐ 35 | `content creation` |
-| [Handoffs](content-creation/handoffs_e3d8f146/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/handoffs.md) | ⭐ 35 | `content creation` |
+| [Skill](content-creation/049-name-skill_a25c90f8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/SKILL.md) | ⭐ 35 | `content creation` |
+| [Pattern Comparison](content-creation/349-pattern-comparison_06f08cff/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/pattern-comparison.md) | ⭐ 35 | `content creation` |
+| [State Management Patterns](content-creation/350-state-management-patterns_c80e0022/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/state-management-patterns.md) | ⭐ 35 | `content creation` |
+| [Supervisor Subagent](content-creation/351-supervisor-subagent_0494d7df/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/supervisor-subagent.md) | ⭐ 35 | `content creation` |
+| [Human Escalation](content-creation/352-human-escalation_51468dfe/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/human-escalation.md) | ⭐ 35 | `content creation` |
+| [State Debugging](content-creation/353-state-debugging_70838d7f/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/state-debugging.md) | ⭐ 35 | `content creation` |
+| [External Pattern Integration 2026 02 01](content-creation/external-pattern-integration-2026-02-01_b2ece27c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/external-pattern-integration-2026-02-01.md) | ⭐ 16 | `content creation` |
+| [Type Ai](content-creation/type-ai_830dffb0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-writing-tools/type-ai.md) | ⭐ 16 | `content creation` |
 
-### Daily Assistant (67 skills)
+### Daily Assistant (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1407,8 +1407,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_6b1a6869/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/SKILL.md) | ⭐ 49 | `daily assistant` |
 | [Headless Setup](daily-assistant/261-headless-setup_1aa038f7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md) | ⭐ 49 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_0ca47a2b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/verification/SKILL.md) | ⭐ 77 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_0dc16cf2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 96 | `daily assistant` |
+| [Map](daily-assistant/_map_c43d7822/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_MAP.md) | ⭐ 96 | `daily assistant` |
+| [Map](daily-assistant/_map_9e89359d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/scripts/_MAP.md) | ⭐ 96 | `daily assistant` |
 
-### Data Analysis (217 skills)
+### Data Analysis (216 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1625,12 +1628,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_24c0bd72/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
 | [Content Element Types](data-analysis/475-content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_1f6585bf/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
-| [Analysis Patterns](data-analysis/analysis-patterns_c47dabfb/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/analysis-patterns.md) | ⭐ 35 | `data analysis` |
-| [Benchmark Analysis](data-analysis/benchmark-analysis_98345bed/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/benchmark-analysis.md) | ⭐ 35 | `data analysis` |
-| [Javascript Project Structure](data-analysis/javascript-project-structure_31daf665/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/javascript-project-structure.md) | ⭐ 35 | `data analysis` |
-| [Trajectory Evaluation](data-analysis/trajectory-evaluation_6cb36c93/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-testing-evaluation/references/trajectory-evaluation.md) | ⭐ 35 | `data analysis` |
+| [Analysis Patterns](data-analysis/474-analysis-patterns_c47dabfb/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/analysis-patterns.md) | ⭐ 35 | `data analysis` |
+| [Benchmark Analysis](data-analysis/475-benchmark-analysis_98345bed/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/benchmark-analysis.md) | ⭐ 35 | `data analysis` |
+| [Claude](data-analysis/claude_3e6465f4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 16 | `data analysis` |
 
-### Development (419 skills)
+### Development (423 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2044,17 +2046,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_5f431a3a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/tdd/SKILL.md) | ⭐ 77 | `development` |
 | [Skill](development/1178-name-skill_ad4ce00d/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/code-simplifier/SKILL.md) | ⭐ 184 | `development` |
 | [Prompt Injection Patterns](development/2843-prompt-injection-patterns_fe043847/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/prompt-injection-patterns.md) | ⭐ 184 | `development` |
-| [Agents](development/agents_7675d426/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md) | ⭐ 35 | `development` |
-| [Skill](development/name-skill_1e4cba60/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/SKILL.md) | ⭐ 35 | `development` |
-| [Error Types](development/error-types_8e3c1ad7/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/error-types.md) | ⭐ 35 | `development` |
-| [Llm Recovery](development/llm-recovery_be7f7f81/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/llm-recovery.md) | ⭐ 35 | `development` |
-| [Retry Strategies](development/retry-strategies_10168ebe/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/retry-strategies.md) | ⭐ 35 | `development` |
-| [Provider Configuration](development/provider-configuration_2591aec0/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/provider-configuration.md) | ⭐ 35 | `development` |
-| [State Typing](development/state-typing_7bb741a8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/state-typing.md) | ⭐ 35 | `development` |
-| [Ab Testing](development/ab-testing_ea406cdf/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-testing-evaluation/references/ab-testing.md) | ⭐ 35 | `development` |
-| [Healthcheck Dingtalk](development/healthcheck_dingtalk_e0d18269/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/healthcheck_dingtalk.md) | ⭐ 54 | `development` |
+| [Agents](development/028-agents_7675d426/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md) | ⭐ 35 | `development` |
+| [Skill](development/1178-name-skill_1e4cba60/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/SKILL.md) | ⭐ 35 | `development` |
+| [Error Types](development/2842-error-types_8e3c1ad7/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/error-types.md) | ⭐ 35 | `development` |
+| [Llm Recovery](development/2843-llm-recovery_be7f7f81/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/llm-recovery.md) | ⭐ 35 | `development` |
+| [Retry Strategies](development/1357-retry-strategies_10168ebe/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/retry-strategies.md) | ⭐ 35 | `development` |
+| [Provider Configuration](development/2844-provider-configuration_2591aec0/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/provider-configuration.md) | ⭐ 35 | `development` |
+| [State Typing](development/2845-state-typing_7bb741a8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/state-typing.md) | ⭐ 35 | `development` |
+| [Ai Agents Skills For Embedded Engineers](development/ai-agents-skills-for-embedded-engineers_12972e2a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/ai-agents-skills-for-embedded-engineers.md) | ⭐ 16 | `development` |
+| [Get Shit Done](development/get-shit-done_1580fdd4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-frameworks/get-shit-done.md) | ⭐ 16 | `development` |
+| [Makefile Tutorial](development/makefile-tutorial_f3a9434f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tooling/makefile-tutorial.md) | ⭐ 16 | `development` |
+| [Skill](development/description-skill_c3cf41d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
+| [Loguru](development/loguru_d6a2f6c2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/developer-tools/loguru.md) | ⭐ 16 | `development` |
+| [Configuration](development/configuration_630ed3bf/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/configuration.md) | ⭐ 16 | `development` |
 
-### Development/Devops (170 skills)
+### Development/Devops (171 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2094,7 +2100,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
 | [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
-| [Readme Cn](development/devops/readme_cn_9c93d3db/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 54 | `development` |
+| [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
 | [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
 | [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
 | [Readme Old](development/devops/301-readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
@@ -2217,19 +2223,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_aed28731/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/16-user-global-claude/index.md) | ⭐ 16 | `development` |
 | [Rbac](development/devops/010-rbac_6f0b92c6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Skill](development/devops/014-name-skill_a042ff25/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/claude-settings-audit/SKILL.md) | ⭐ 184 | `development` |
-| [Skill](development/devops/name-skill_818d16d1/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/SKILL.md) | ⭐ 35 | `development` |
-| [Skill](development/devops/name-skill_f3735d17/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/SKILL.md) | ⭐ 35 | `development` |
-| [Deployment Targets](development/devops/deployment-targets_1ed1691c/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/deployment-targets.md) | ⭐ 35 | `development` |
-| [Langgraph Json Schema](development/devops/langgraph-json-schema_fd92a193/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/langgraph-json-schema.md) | ⭐ 35 | `development` |
-| [Deployment Guide](development/devops/deployment-guide_51034dd8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/deployment-guide.md) | ⭐ 35 | `development` |
-| [Environment Management](development/devops/environment-management_00b88838/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/environment-management.md) | ⭐ 35 | `development` |
-| [Scaling Configuration](development/devops/scaling-configuration_043a0b20/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/scaling-configuration.md) | ⭐ 35 | `development` |
-| [Troubleshooting Deployment](development/devops/troubleshooting-deployment_917bfe25/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/troubleshooting-deployment.md) | ⭐ 35 | `development` |
+| [Skill](development/devops/014-name-skill_818d16d1/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/SKILL.md) | ⭐ 35 | `development` |
+| [Skill](development/devops/014-name-skill_f3735d17/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/SKILL.md) | ⭐ 35 | `development` |
+| [Deployment Targets](development/devops/359-deployment-targets_1ed1691c/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/deployment-targets.md) | ⭐ 35 | `development` |
+| [Langgraph Json Schema](development/devops/360-langgraph-json-schema_fd92a193/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/langgraph-json-schema.md) | ⭐ 35 | `development` |
+| [Deployment Guide](development/devops/361-deployment-guide_51034dd8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/deployment-guide.md) | ⭐ 35 | `development` |
+| [Environment Management](development/devops/362-environment-management_00b88838/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/environment-management.md) | ⭐ 35 | `development` |
+| [Scaling Configuration](development/devops/363-scaling-configuration_043a0b20/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/scaling-configuration.md) | ⭐ 35 | `development` |
+| [Troubleshooting Deployment](development/devops/364-troubleshooting-deployment_917bfe25/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/troubleshooting-deployment.md) | ⭐ 35 | `development` |
 | [Readme Cn](development/devops/194-readme_cn_9c93d3db/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 54 | `development` |
-| [Deploy](development/devops/deploy_424b4e5c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 54 | `development` |
-| [Deploy En](development/devops/deploy_en_99df221c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 54 | `development` |
+| [Deploy](development/devops/037-deploy_424b4e5c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 54 | `development` |
+| [Deploy En](development/devops/195-deploy_en_99df221c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 54 | `development` |
+| [Troubleshooting](development/devops/troubleshooting_872e624f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/troubleshooting.md) | ⭐ 16 | `development` |
 
-### Development/Testing (92 skills)
+### Development/Testing (90 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2323,10 +2330,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Build Database](development/testing/078-build-database_a2b6485d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/build-database.md) | ⭐ 2.5k | `development` |
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
-| [Skill](development/testing/name-skill_2d4818b8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-testing-evaluation/SKILL.md) | ⭐ 35 | `development` |
-| [Unit Testing Patterns](development/testing/unit-testing-patterns_13c363cb/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-testing-evaluation/references/unit-testing-patterns.md) | ⭐ 35 | `development` |
 
-### Development/Tools (111 skills)
+### Development/Tools (112 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2438,9 +2443,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_93fe8510/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
 | [Dangerous Code Patterns](development/tools/317-dangerous-code-patterns_528e9d79/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/dangerous-code-patterns.md) | ⭐ 184 | `development` |
 | [Permission Analysis](development/tools/318-permission-analysis_bab6d179/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/permission-analysis.md) | ⭐ 184 | `development` |
-| [Skill](development/tools/name-skill_b92e03c1/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/SKILL.md) | ⭐ 35 | `development` |
-| [Python Project Structure](development/tools/python-project-structure_c07b2b03/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/python-project-structure.md) | ⭐ 35 | `development` |
-| [Configuration](development/tools/configuration_406ae170/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 54 | `development` |
+| [Skill](development/tools/002-name-skill_b92e03c1/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/SKILL.md) | ⭐ 35 | `development` |
+| [Python Project Structure](development/tools/317-python-project-structure_c07b2b03/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/python-project-structure.md) | ⭐ 35 | `development` |
+| [Configuration](development/tools/189-configuration_406ae170/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 54 | `development` |
+| [Cli Reference](development/tools/cli_reference_ba59b4f0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/cli_reference.md) | ⭐ 16 | `development` |
 
 ### Investment (15 skills)
 
@@ -2483,7 +2489,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reading Material 4](productivity/171-reading_material_4_f362409f/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/reading_material_4.md) | ⭐ 418 | `productivity` |
 | [Skill](productivity/093-name-skill_ccb200c7/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/SKILL.md) | ⭐ 13 | `productivity` |
 | [Keywords](productivity/172-keywords_b837324b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/references/KEYWORDS.md) | ⭐ 13 | `productivity` |
-| [Reducers](productivity/reducers_a7cb246e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/reducers.md) | ⭐ 35 | `productivity` |
+| [Reducers](productivity/173-reducers_a7cb246e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/reducers.md) | ⭐ 35 | `productivity` |
 
 ### Research (71 skills)
 
@@ -2558,8 +2564,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Web Researcher](research/253-web_researcher_b906e88a/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L7/prompts/web_researcher.md) | ⭐ 418 | `research` |
 | [Resources](research/254-resources_0175cdd1/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L7_notes/learning-mineru/resources.md) | ⭐ 418 | `research` |
 | [Interpretation](research/255-interpretation_1d6219a6/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/custom_skills/analyzing-time-series/references/interpretation.md) | ⭐ 418 | `research` |
-| [Orchestrator Worker](research/orchestrator-worker_79d6f0ef/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/orchestrator-worker.md) | ⭐ 35 | `research` |
-| [Schema Patterns](research/schema-patterns_afda765e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/schema-patterns.md) | ⭐ 35 | `research` |
+| [Orchestrator Worker](research/256-orchestrator-worker_79d6f0ef/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/orchestrator-worker.md) | ⭐ 35 | `research` |
+| [Schema Patterns](research/257-schema-patterns_afda765e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/schema-patterns.md) | ⭐ 35 | `research` |
 
 ## How Skills Are Organized
 
@@ -2611,5 +2617,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 04:02:59 UTC*
+*Last updated: 2026-02-11 06:07:04 UTC*
 *Automatically maintained by SkillFlow*
