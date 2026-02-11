@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2324 AI-powered skills** organized into 14 categories.
+A curated collection of **2329 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (227 skills)
+- **Automation/Scripting** (228 skills)
 - **Automation/Workflow** (76 skills)
 - **Commercial** (255 skills)
-- **Communication** (56 skills)
+- **Communication** (57 skills)
 - **Content Creation** (518 skills)
-- **Daily Assistant** (68 skills)
-- **Data Analysis** (218 skills)
+- **Daily Assistant** (69 skills)
+- **Data Analysis** (219 skills)
 - **Development** (429 skills)
 - **Development/Devops** (171 skills)
 - **Development/Testing** (90 skills)
-- **Development/Tools** (112 skills)
+- **Development/Tools** (113 skills)
 - **Investment** (15 skills)
 - **Productivity** (18 skills)
 - **Research** (71 skills)
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (227 skills)
+### Automation/Scripting (228 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -409,8 +409,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Build Pdf](automation/scripting/084-build-pdf_023e0286/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-pdf.md) | ⭐ 17 | `automation` |
 | [Persistence Backends](automation/scripting/085-persistence-backends_d517bcac/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/persistence-backends.md) | ⭐ 35 | `automation` |
 | [Filtering Querying](automation/scripting/086-filtering-querying_d1ba0509/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/filtering-querying.md) | ⭐ 35 | `automation` |
-| [Skill](automation/scripting/name-skill_761b2d51/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/SKILL.md) | ⭐ 38 | `automation` |
-| [Sheets Cli](automation/scripting/sheets-cli_9b8d36c6/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/skills/sheets-cli.md) | ⭐ 38 | `automation` |
+| [Skill](automation/scripting/003-name-skill_761b2d51/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/SKILL.md) | ⭐ 38 | `automation` |
+| [Sheets Cli](automation/scripting/085-sheets-cli_9b8d36c6/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/skills/sheets-cli.md) | ⭐ 38 | `automation` |
+| [Example Md Table](automation/scripting/example_md_table_333036c4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/test/resources/example_md_table.md) | ⭐ 181 | `automation` |
 
 ### Automation/Workflow (76 skills)
 
@@ -753,7 +754,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cicd Integration](commercial/356-cicd-integration_5d2f41e9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/cicd-integration.md) | ⭐ 35 | `commercial` |
 | [Skill](commercial/365-description-skill_e478ffd2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/SKILL.md) | ⭐ 16 | `commercial` |
 
-### Communication (56 skills)
+### Communication (57 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -813,6 +814,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Perplexity](communication/249-perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
 | [Skill](communication/127-name-skill_f1483a25/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/SKILL.md) | ⭐ 35 | `communication` |
 | [Monitoring Alerts](communication/250-monitoring-alerts_f36e8718/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/monitoring-alerts.md) | ⭐ 35 | `communication` |
+| [Privacy](communication/privacy_01061a06/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/PRIVACY.md) | ⭐ 181 | `communication` |
 
 ### Content Creation (518 skills)
 
@@ -1337,7 +1339,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [External Pattern Integration 2026 02 01](content-creation/349-external-pattern-integration-2026-02-01_b2ece27c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/external-pattern-integration-2026-02-01.md) | ⭐ 16 | `content creation` |
 | [Type Ai](content-creation/350-type-ai_830dffb0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-writing-tools/type-ai.md) | ⭐ 16 | `content creation` |
 
-### Daily Assistant (68 skills)
+### Daily Assistant (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1409,8 +1411,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Headless Setup](daily-assistant/261-headless-setup_1aa038f7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md) | ⭐ 49 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_0ca47a2b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/verification/SKILL.md) | ⭐ 77 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_0dc16cf2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 96 | `daily assistant` |
+| [Claude](daily-assistant/claude_936cba2c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.3k | `daily assistant` |
 
-### Data Analysis (218 skills)
+### Data Analysis (219 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1630,8 +1633,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Analysis Patterns](data-analysis/474-analysis-patterns_c47dabfb/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/analysis-patterns.md) | ⭐ 35 | `data analysis` |
 | [Benchmark Analysis](data-analysis/475-benchmark-analysis_98345bed/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/benchmark-analysis.md) | ⭐ 35 | `data analysis` |
 | [Claude](data-analysis/036-claude_3e6465f4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 16 | `data analysis` |
-| [Release](data-analysis/release_6c2c6275/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.claude/commands/release.md) | ⭐ 22 | `data analysis` |
-| [Respond Pr Feedback](data-analysis/respond-pr-feedback_7cf0bf27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 22 | `data analysis` |
+| [Release](data-analysis/476-release_6c2c6275/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/.claude/commands/release.md) | ⭐ 22 | `data analysis` |
+| [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_7cf0bf27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 22 | `data analysis` |
+| [Skill](data-analysis/name-skill_40afcbc6/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 181 | `data analysis` |
 
 ### Development (429 skills)
 
@@ -2060,12 +2064,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1530-description-skill_c3cf41d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 16 | `development` |
 | [Loguru](development/2843-loguru_d6a2f6c2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/developer-tools/loguru.md) | ⭐ 16 | `development` |
 | [Configuration](development/191-configuration_630ed3bf/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/configuration.md) | ⭐ 16 | `development` |
-| [Fetch Pr Feedback](development/fetch-pr-feedback_a49a250f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/fetch-pr-feedback.md) | ⭐ 22 | `development` |
-| [Agents](development/agents_4dd53a41/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/AGENTS.md) | ⭐ 38 | `development` |
-| [Prd](development/prd_b0f3c5c7/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/prd.md) | ⭐ 38 | `development` |
-| [Claude](development/claude_9cf85401/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/CLAUDE.md) | ⭐ 38 | `development` |
-| [Gen Test Plan](development/gen-test-plan_81b92e31/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-testing/commands/gen-test-plan.md) | ⭐ 22 | `development` |
-| [Claude](development/claude_3b266b3d/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/CLAUDE.md) | ⭐ 38 | `development` |
+| [Fetch Pr Feedback](development/2250-fetch-pr-feedback_a49a250f/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/fetch-pr-feedback.md) | ⭐ 22 | `development` |
+| [Agents](development/028-agents_4dd53a41/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/AGENTS.md) | ⭐ 38 | `development` |
+| [Prd](development/2207-prd_b0f3c5c7/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/prd.md) | ⭐ 38 | `development` |
+| [Claude](development/140-claude_9cf85401/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/CLAUDE.md) | ⭐ 38 | `development` |
+| [Example Md](development/example_md_dd606680/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/test/resources/example_md.md) | ⭐ 181 | `development` |
+| [Example Md Pptx](development/example_md_pptx_9a52dec7/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/test/resources/example_md_pptx.md) | ⭐ 181 | `development` |
 
 ### Development/Devops (171 skills)
 
@@ -2338,7 +2342,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
 
-### Development/Tools (112 skills)
+### Development/Tools (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2454,6 +2458,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Python Project Structure](development/tools/317-python-project-structure_c07b2b03/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-project-setup/references/python-project-structure.md) | ⭐ 35 | `development` |
 | [Configuration](development/tools/189-configuration_406ae170/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 54 | `development` |
 | [Cli Reference](development/tools/100-cli_reference_ba59b4f0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/cli_reference.md) | ⭐ 16 | `development` |
+| [Agents](development/tools/agents_99bf03be/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 181 | `development` |
 
 ### Investment (15 skills)
 
@@ -2624,5 +2629,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 13:03:29 UTC*
+*Last updated: 2026-02-11 14:03:19 UTC*
 *Automatically maintained by SkillFlow*

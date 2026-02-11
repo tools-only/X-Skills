@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T13:03:29.732900",
+  "updated_at": "2026-02-11T14:03:19.069350",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -32509,6 +32509,62 @@
       "source_url": "https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/skills/sheets-cli.md",
       "display_name": "Sheets Cli",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "936cba2cd604a40009ade4d59c590b2410b4b83413729964c4ff74b00e253d51",
+      "source_path": "CLAUDE.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "daily-assistant/037-claude_936cba2c",
+      "category": "daily-assistant",
+      "name": "claude_936cba2c",
+      "indexed_at": "2026-02-11T14:03:18.175928",
+      "repo_stars": 1321,
+      "repo_updated_at": "2026-02-01T04:35:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "99bf03be7523a56e42079f2be535833038661cc9215a22ad3365271ca5385791",
+      "source_path": "AGENTS.md",
+      "source_repo": "bowenliang123/md_exporter",
+      "local_path": "development/tools/015-agents_99bf03be",
+      "category": "development/tools",
+      "name": "agents_99bf03be",
+      "indexed_at": "2026-02-11T14:03:18.410618",
+      "repo_stars": 181,
+      "repo_updated_at": "2026-01-23T13:09:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "01061a06d5c67807240aac0dad7d7c6e52d7809bae166a5365e766635f06e585",
+      "source_path": "PRIVACY.md",
+      "source_repo": "bowenliang123/md_exporter",
+      "local_path": "communication/251-privacy_01061a06",
+      "category": "communication",
+      "name": "privacy_01061a06",
+      "indexed_at": "2026-02-11T14:03:18.777038",
+      "repo_stars": 181,
+      "repo_updated_at": "2025-03-03T16:12:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/PRIVACY.md",
+      "display_name": "Privacy",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "40afcbc67a664ac79e0c47ceb5c08d3decc1a95872f6c2300c1b29f67a6c4e2c",
+      "source_path": "SKILL.md",
+      "source_repo": "bowenliang123/md_exporter",
+      "local_path": "data-analysis/226-name-skill_40afcbc6",
+      "category": "data-analysis",
+      "name": "name-skill_40afcbc6",
+      "indexed_at": "2026-02-11T14:03:19.069306",
+      "repo_stars": 181,
+      "repo_updated_at": "2026-01-30T04:26:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
