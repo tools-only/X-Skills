@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2230 AI-powered skills** organized into 14 categories.
+A curated collection of **2235 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (223 skills)
-- **Automation/Workflow** (73 skills)
+- **Automation/Workflow** (74 skills)
 - **Commercial** (251 skills)
 - **Communication** (54 skills)
-- **Content Creation** (502 skills)
+- **Content Creation** (503 skills)
 - **Daily Assistant** (63 skills)
 - **Data Analysis** (212 skills)
-- **Development** (402 skills)
-- **Development/Devops** (154 skills)
+- **Development** (403 skills)
+- **Development/Devops** (155 skills)
 - **Development/Testing** (90 skills)
-- **Development/Tools** (105 skills)
+- **Development/Tools** (106 skills)
 - **Investment** (15 skills)
 - **Productivity** (17 skills)
 - **Research** (69 skills)
@@ -408,7 +408,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](automation/scripting/080-01-configuration_525aa503/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 | [Build Pdf](automation/scripting/084-build-pdf_023e0286/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-pdf.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (73 skills)
+### Automation/Workflow (74 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -485,6 +485,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_97a1ce37/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.7k | `automation` |
 | [Skill](automation/workflow/002-name-skill_196ff52e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md) | 🔥 8.2k | `automation` |
 | [Skill](automation/workflow/002-name-skill_39604611/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-admin/SKILL.md) | ⭐ 1.7k | `automation` |
+| [Oauth Flows](automation/workflow/oauth-flows_4299793e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/docs/oauth-flows.md) | ⭐ 60 | `automation` |
 
 ### Commercial (251 skills)
 
@@ -801,7 +802,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
 | [Perplexity](communication/249-perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
 
-### Content Creation (502 skills)
+### Content Creation (503 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1242,7 +1243,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Toolkit Skills](content-creation/313-toolkit-skills_7e9e7d33/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-skills.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_0005c586/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/video/SKILL.md) | ⭐ 10 | `content creation` |
 | [Introduction Cn](content-creation/314-introduction_cn_30a70eeb/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION_CN.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/049-name-skill_33b9d3c7/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/name-skill_296a6b1a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 13 | `content creation` |
 | [Skill](content-creation/049-name-skill_34b629d8/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/system/skill-finder/SKILL.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_1170616c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/news-search/SKILL.md) | ⭐ 47 | `content creation` |
 | [Jina Reader Skill](content-creation/315-jina_reader_skill_47dd3deb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/skills/jina_reader_skill.md) | ⭐ 26 | `content creation` |
@@ -1307,6 +1308,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Composition Checklist](content-creation/346-composition-checklist_91fc3b51/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/remotion/resources/composition-checklist.md) | ⭐ 13 | `content creation` |
 | [Build Og Image](content-creation/347-build-og-image_b47dd5bd/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-og-image.md) | ⭐ 17 | `content creation` |
 | [Tool Eject Theme](content-creation/348-tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_296a6b1a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 13 | `content creation` |
 
 ### Daily Assistant (63 skills)
 
@@ -1588,12 +1590,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_eb15f446/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/design-md/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_f0473659/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/react-components/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_185ef924/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
-| [Refactor Microsim Generator For Token Efficiency](data-analysis/refactor-microsim-generator-for-token-efficiency_cca15798/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/refactor-microsim-generator-for-token-efficiency.md) | ⭐ 16 | `data analysis` |
-| [Skill](data-analysis/name-skill_ce0de3a0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 16 | `data analysis` |
-| [Skill](data-analysis/name-skill_24c0bd72/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
-| [Content Element Types](data-analysis/content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
+| [Refactor Microsim Generator For Token Efficiency](data-analysis/474-refactor-microsim-generator-for-token-efficiency_cca15798/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/logs/refactor-microsim-generator-for-token-efficiency.md) | ⭐ 16 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ce0de3a0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_24c0bd72/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
+| [Content Element Types](data-analysis/475-content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
 
-### Development (402 skills)
+### Development (403 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1999,8 +2001,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Customization Guide](development/2837-customization-guide_c626feb6/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/customization-guide.md) | ⭐ 13 | `development` |
 | [Skill](development/1178-name-skill_2155e0b4/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/SKILL.md) | ⭐ 17 | `development` |
 | [Core Headmatter](development/2838-core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_3279b360/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-testing/SKILL.md) | ⭐ 60 | `development` |
 
-### Development/Devops (154 skills)
+### Development/Devops (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2158,6 +2161,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Core Hosting](development/devops/358-core-hosting_69e8d015/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-hosting.md) | ⭐ 17 | `development` |
 | [Admin Ui Sso](development/devops/031-admin_ui_sso_da202e37/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/admin_ui_sso.md) | 🔥 35.7k | `development` |
 | [Config Settings](development/devops/033-config_settings_bc896b79/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Agent Deployment Guide](development/devops/agent-deployment-guide_319a3340/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md) | ⭐ 60 | `development` |
 
 ### Development/Testing (90 skills)
 
@@ -2254,7 +2258,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
 
-### Development/Tools (105 skills)
+### Development/Tools (106 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2348,7 +2352,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vercel Ai Sdk Integration](development/tools/310-vercel_ai_sdk_integration_6e212c26/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/VERCEL_AI_SDK_INTEGRATION.md) | ⭐ 251 | `development` |
 | [Skill](development/tools/002-name-skill_02235433/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.6k | `development` |
 | [Architecture](development/tools/051-architecture_c8b42f42/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/connect/architecture.md) | ⭐ 706 | `development` |
-| [Skill](development/tools/002-name-skill_7a82d06d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
+| [Skill](development/tools/name-skill_93fe8510/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
 | [Skill](development/tools/002-name-skill_51fbb5f5/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.7k | `development` |
 | [Skill](development/tools/002-name-skill_b386c9b2/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.5k | `development` |
 | [Codex Invocation](development/tools/311-codex-invocation_4328260e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/codex-invocation.md) | ⭐ 2.5k | `development` |
@@ -2363,6 +2367,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Migration Guide](development/tools/315-migration-guide_81dabd22/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/migration-guide.md) | ⭐ 13 | `development` |
 | [Setup Guide](development/tools/316-setup-guide_02ab4cc9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/setup-guide.md) | ⭐ 13 | `development` |
 | [Agents](development/tools/015-agents_2e6bfc71/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/002-name-skill_93fe8510/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
 
 ### Investment (15 skills)
 
@@ -2530,5 +2535,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-10 20:12:24 UTC*
+*Last updated: 2026-02-11 01:07:53 UTC*
 *Automatically maintained by SkillFlow*

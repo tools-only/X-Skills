@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-10T20:12:24.468495",
+  "updated_at": "2026-02-11T01:07:52.615188",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -31221,6 +31221,62 @@
       "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md",
       "display_name": "Content Element Types",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "296a6b1a5bcc0720d5470b932b59d8c3b8083b90e0214c093cf28de44de0a708",
+      "source_path": "skills/publish-to-wechat/SKILL.md",
+      "source_repo": "tiandee/awesome-skills-hub",
+      "local_path": "content-creation/049-name-skill_296a6b1a",
+      "category": "content-creation",
+      "name": "name-skill_296a6b1a",
+      "indexed_at": "2026-02-11T01:07:51.008818",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-10T15:54:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "93fe8510280c53d00106a936568ce9ee26f97beb79404eaacb2e06696e587fcb",
+      "source_path": "sf-ai-agentscript/SKILL.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/tools/002-name-skill_93fe8510",
+      "category": "development/tools",
+      "name": "name-skill_93fe8510",
+      "indexed_at": "2026-02-11T01:07:51.525301",
+      "repo_stars": 60,
+      "repo_updated_at": "2026-02-10T14:37:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4299793ef3240f2606c0455db2669108d2329706915d247e0fb400b52b30d206",
+      "source_path": "sf-connected-apps/docs/oauth-flows.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "automation/workflow/133-oauth-flows_4299793e",
+      "category": "automation/workflow",
+      "name": "oauth-flows_4299793e",
+      "indexed_at": "2026-02-11T01:07:52.150295",
+      "repo_stars": 60,
+      "repo_updated_at": "2026-02-10T14:37:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/docs/oauth-flows.md",
+      "display_name": "Oauth Flows",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "319a3340da5343bd120cb87fcafc05ea129fc07c7ecc6a3f7309a6c3278243d3",
+      "source_path": "sf-deploy/docs/agent-deployment-guide.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/devops/229-agent-deployment-guide_319a3340",
+      "category": "development/devops",
+      "name": "agent-deployment-guide_319a3340",
+      "indexed_at": "2026-02-11T01:07:52.615144",
+      "repo_stars": 60,
+      "repo_updated_at": "2026-02-10T06:02:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md",
+      "display_name": "Agent Deployment Guide",
+      "tags": "[\"development\"]"
     }
   ]
 }
