@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T01:07:52.615188",
+  "updated_at": "2026-02-11T01:08:49.952526",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -31277,6 +31277,118 @@
       "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md",
       "display_name": "Agent Deployment Guide",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f77604d2db2fc9c8e6f16bee0d70997eb6bd453b25437a165f3c4ca4d9356737",
+      "source_path": "letta/letta-api-client/SKILL.md",
+      "source_repo": "letta-ai/skills",
+      "local_path": "development/1178-name-skill_f77604d2",
+      "category": "development",
+      "name": "name-skill_f77604d2",
+      "indexed_at": "2026-02-11T01:08:48.393597",
+      "repo_stars": 49,
+      "repo_updated_at": "2026-02-04T00:10:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-api-client/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "04e3c3eccfafe25d3fb74a8034c5c04f75128b61676a8789e802b770eab42189",
+      "source_path": "letta/letta-configuration/SKILL.md",
+      "source_repo": "letta-ai/skills",
+      "local_path": "development/devops/014-name-skill_04e3c3ec",
+      "category": "development/devops",
+      "name": "name-skill_04e3c3ec",
+      "indexed_at": "2026-02-11T01:08:48.645862",
+      "repo_stars": 49,
+      "repo_updated_at": "2026-02-04T01:20:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-configuration/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "aed287312730266c1eb623989847905896ab2e76792f6b5fa6f34cee603890e3",
+      "source_path": "docs/chapters/16-user-global-claude/index.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "development/devops/050-index_aed28731",
+      "category": "development/devops",
+      "name": "index_aed28731",
+      "indexed_at": "2026-02-11T01:08:48.964989",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-10T21:11:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/16-user-global-claude/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8380a145999d7c75d581654db40c1c1d577140e5cd0edd9a9ea35ab63186fb08",
+      "source_path": "meta/skill-development/SKILL.md",
+      "source_repo": "letta-ai/skills",
+      "local_path": "content-creation/049-name-skill_8380a145",
+      "category": "content-creation",
+      "name": "name-skill_8380a145",
+      "indexed_at": "2026-02-11T01:08:49.311073",
+      "repo_stars": 49,
+      "repo_updated_at": "2026-02-04T01:20:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-development/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "dcd35096e42fed158b078bbed93c8a41d60e5a20dc206d59233cb9ea27ad28f2",
+      "source_path": "tools/google-workspace/SKILL.md",
+      "source_repo": "letta-ai/skills",
+      "local_path": "daily-assistant/032-name-skill_dcd35096",
+      "category": "daily-assistant",
+      "name": "name-skill_dcd35096",
+      "indexed_at": "2026-02-11T01:08:49.429191",
+      "repo_stars": 49,
+      "repo_updated_at": "2026-02-04T01:20:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/letta-ai/skills/main/tools/google-workspace/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "6b1a68691464b2e461e89d0b2c4055cc20d863ae14595302469bd56a782ef2c8",
+      "source_path": "tools/obsidian-cli/SKILL.md",
+      "source_repo": "letta-ai/skills",
+      "local_path": "daily-assistant/032-name-skill_6b1a6869",
+      "category": "daily-assistant",
+      "name": "name-skill_6b1a6869",
+      "indexed_at": "2026-02-11T01:08:49.603752",
+      "repo_stars": 49,
+      "repo_updated_at": "2026-02-10T21:25:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "1aa038f73f715acddfed23d9b9c384ed053817fffa35efb7d996e5613cd82be2",
+      "source_path": "tools/obsidian-cli/references/headless-setup.md",
+      "source_repo": "letta-ai/skills",
+      "local_path": "daily-assistant/261-headless-setup_1aa038f7",
+      "category": "daily-assistant",
+      "name": "headless-setup_1aa038f7",
+      "indexed_at": "2026-02-11T01:08:49.819824",
+      "repo_stars": 49,
+      "repo_updated_at": "2026-02-10T21:25:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md",
+      "display_name": "Headless Setup",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "1f6585bf4233d66733545db1d55a12c2b1d7067d3f519150c38e5e6e80725654",
+      "source_path": "skills/microsim-generator/SKILL.md",
+      "source_repo": "dmccreary/claude-skills",
+      "local_path": "data-analysis/226-name-skill_1f6585bf",
+      "category": "data-analysis",
+      "name": "name-skill_1f6585bf",
+      "indexed_at": "2026-02-11T01:08:49.952313",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-10T20:36:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
