@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2253 AI-powered skills** organized into 14 categories.
+A curated collection of **2265 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (223 skills)
-- **Automation/Workflow** (74 skills)
-- **Commercial** (251 skills)
+- **Automation/Workflow** (75 skills)
+- **Commercial** (252 skills)
 - **Communication** (54 skills)
-- **Content Creation** (507 skills)
-- **Daily Assistant** (67 skills)
+- **Content Creation** (511 skills)
+- **Daily Assistant** (68 skills)
 - **Data Analysis** (213 skills)
-- **Development** (408 skills)
-- **Development/Devops** (158 skills)
+- **Development** (410 skills)
+- **Development/Devops** (160 skills)
 - **Development/Testing** (90 skills)
-- **Development/Tools** (107 skills)
+- **Development/Tools** (108 skills)
 - **Investment** (15 skills)
 - **Productivity** (17 skills)
 - **Research** (69 skills)
@@ -408,7 +408,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](automation/scripting/080-01-configuration_525aa503/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 | [Build Pdf](automation/scripting/084-build-pdf_023e0286/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/build-pdf.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (74 skills)
+### Automation/Workflow (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -486,8 +486,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_196ff52e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md) | 🔥 8.2k | `automation` |
 | [Skill](automation/workflow/002-name-skill_39604611/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-admin/SKILL.md) | ⭐ 1.7k | `automation` |
 | [Oauth Flows](automation/workflow/133-oauth-flows_4299793e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/docs/oauth-flows.md) | ⭐ 60 | `automation` |
+| [Dev](automation/workflow/dev_fac53b6f/) | [jonigl/mcp-client-for-ollama](https://raw.githubusercontent.com/jonigl/mcp-client-for-ollama/main/DEV.md) | ⭐ 533 | `automation` |
 
-### Commercial (251 skills)
+### Commercial (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -742,6 +743,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](commercial/036-claude_252a8196/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/CLAUDE.md) | ⭐ 1.7k | `commercial` |
 | [Growth Strategy](commercial/096-growth_strategy_ac7e9fd6/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/GROWTH_STRATEGY.md) | ⭐ 1.7k | `commercial` |
 | [Skill](commercial/210-name-skill_af12ef73/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.7k | `commercial` |
+| [V1.0.13](commercial/v1013_ce9d8c5b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.13.md) | ⭐ 429 | `commercial` |
 
 ### Communication (54 skills)
 
@@ -802,7 +804,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_de053040/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 17 | `communication` |
 | [Perplexity](communication/249-perplexity_4a6ace62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md) | 🔥 35.7k | `communication` |
 
-### Content Creation (507 skills)
+### Content Creation (511 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1310,11 +1312,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Eject Theme](content-creation/348-tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_296a6b1a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 13 | `content creation` |
 | [Skill](content-creation/049-name-skill_8380a145/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-development/SKILL.md) | ⭐ 49 | `content creation` |
-| [Claude](content-creation/claude_dfc75255/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
-| [Claude](content-creation/claude_9a2b640b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 77 | `content creation` |
-| [Skill](content-creation/name-skill_1b62d15f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/writing-skills/SKILL.md) | ⭐ 77 | `content creation` |
+| [Claude](content-creation/007-claude_dfc75255/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
+| [Claude](content-creation/007-claude_9a2b640b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 77 | `content creation` |
+| [Skill](content-creation/049-name-skill_1b62d15f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/writing-skills/SKILL.md) | ⭐ 77 | `content creation` |
+| [Agents](content-creation/agents_0eb000a5/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/AGENTS.md) | ⭐ 184 | `content creation` |
+| [Skill](content-creation/name-skill_53c980ce/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 184 | `content creation` |
+| [Skill](content-creation/name-skill_48db8dc1/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/SKILL.md) | ⭐ 184 | `content creation` |
+| [Skill](content-creation/name-skill_d45298cb/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/django-perf-review/SKILL.md) | ⭐ 184 | `content creation` |
 
-### Daily Assistant (67 skills)
+### Daily Assistant (68 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1384,7 +1390,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_dcd35096/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/google-workspace/SKILL.md) | ⭐ 49 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6b1a6869/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/SKILL.md) | ⭐ 49 | `daily assistant` |
 | [Headless Setup](daily-assistant/261-headless-setup_1aa038f7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/tools/obsidian-cli/references/headless-setup.md) | ⭐ 49 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_0ca47a2b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/verification/SKILL.md) | ⭐ 77 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_0ca47a2b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/verification/SKILL.md) | ⭐ 77 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_75a58e3c/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/django-access-review/SKILL.md) | ⭐ 184 | `daily assistant` |
 
 ### Data Analysis (213 skills)
 
@@ -1604,7 +1611,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Content Element Types](data-analysis/475-content-element-types_7c997ce6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/references/content-element-types.md) | ⭐ 16 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_1f6585bf/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 16 | `data analysis` |
 
-### Development (408 skills)
+### Development (410 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2011,13 +2018,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_2155e0b4/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/SKILL.md) | ⭐ 17 | `development` |
 | [Core Headmatter](development/2838-core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_f77604d2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-api-client/SKILL.md) | ⭐ 49 | `development` |
-| [Claude](development/claude_49a1352d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/CLAUDE.md) | ⭐ 77 | `development` |
-| [Code Reviewer](development/code-reviewer_559d0724/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
-| [Security Auditor](development/security-auditor_20e17ae9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
-| [Skill](development/name-skill_13cd2960/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/receiving-code-review/SKILL.md) | ⭐ 77 | `development` |
-| [Skill](development/name-skill_5f431a3a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/tdd/SKILL.md) | ⭐ 77 | `development` |
+| [Claude](development/140-claude_49a1352d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/CLAUDE.md) | ⭐ 77 | `development` |
+| [Code Reviewer](development/2591-code-reviewer_559d0724/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
+| [Security Auditor](development/2842-security-auditor_20e17ae9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
+| [Skill](development/1178-name-skill_13cd2960/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/receiving-code-review/SKILL.md) | ⭐ 77 | `development` |
+| [Skill](development/1178-name-skill_5f431a3a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/tdd/SKILL.md) | ⭐ 77 | `development` |
+| [Skill](development/name-skill_ad4ce00d/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/code-simplifier/SKILL.md) | ⭐ 184 | `development` |
+| [Prompt Injection Patterns](development/prompt-injection-patterns_fe043847/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/prompt-injection-patterns.md) | ⭐ 184 | `development` |
 
-### Development/Devops (158 skills)
+### Development/Devops (160 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2178,7 +2187,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent Deployment Guide](development/devops/229-agent-deployment-guide_319a3340/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/docs/agent-deployment-guide.md) | ⭐ 60 | `development` |
 | [Skill](development/devops/014-name-skill_04e3c3ec/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-configuration/SKILL.md) | ⭐ 49 | `development` |
 | [Index](development/devops/050-index_aed28731/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/16-user-global-claude/index.md) | ⭐ 16 | `development` |
-| [Rbac](development/devops/rbac_6f0b92c6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
+| [Rbac](development/devops/010-rbac_6f0b92c6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
+| [Skill](development/devops/name-skill_a042ff25/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/claude-settings-audit/SKILL.md) | ⭐ 184 | `development` |
+| [Skill](development/devops/name-skill_6d36fa39/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/security-review/SKILL.md) | ⭐ 184 | `development` |
 
 ### Development/Testing (90 skills)
 
@@ -2275,7 +2286,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
 
-### Development/Tools (107 skills)
+### Development/Tools (108 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2385,7 +2396,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Setup Guide](development/tools/316-setup-guide_02ab4cc9/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/shadcn-ui/resources/setup-guide.md) | ⭐ 13 | `development` |
 | [Agents](development/tools/015-agents_2e6bfc71/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_93fe8510/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 60 | `development` |
-| [Unittest](development/tools/unittest_57833d5f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/unittest.md) | ⭐ 3.3k | `development` |
+| [Dangerous Code Patterns](development/tools/dangerous-code-patterns_528e9d79/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/dangerous-code-patterns.md) | ⭐ 184 | `development` |
+| [Permission Analysis](development/tools/permission-analysis_bab6d179/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/permission-analysis.md) | ⭐ 184 | `development` |
 
 ### Investment (15 skills)
 
@@ -2553,5 +2565,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 03:10:30 UTC*
+*Last updated: 2026-02-11 04:00:30 UTC*
 *Automatically maintained by SkillFlow*
