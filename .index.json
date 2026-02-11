@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T14:03:19.069350",
+  "updated_at": "2026-02-11T15:05:19.154471",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -32565,6 +32565,34 @@
       "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "a8b043f5b6cc44657192f10fc6914a2f65402878e4a62eb7bd5e9bfe9b5e8e4f",
+      "source_path": "plugins/debug-buttercup/skills/debug-buttercup/SKILL.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "automation/workflow/002-name-skill_a8b043f5",
+      "category": "automation/workflow",
+      "name": "name-skill_a8b043f5",
+      "indexed_at": "2026-02-11T15:05:18.867875",
+      "repo_stars": 2545,
+      "repo_updated_at": "2026-02-11T04:40:38+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "d31f0f5b3681ae5407805840b2514a72e8f9b9c947eb35aed1384c6533284c97",
+      "source_path": "plugins/debug-buttercup/skills/debug-buttercup/references/failure-patterns.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "development/devops/359-failure-patterns_d31f0f5b",
+      "category": "development/devops",
+      "name": "failure-patterns_d31f0f5b",
+      "indexed_at": "2026-02-11T15:05:19.154419",
+      "repo_stars": 2545,
+      "repo_updated_at": "2026-02-11T04:40:38+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/references/failure-patterns.md",
+      "display_name": "Failure Patterns",
+      "tags": "[\"development\"]"
     }
   ]
 }
