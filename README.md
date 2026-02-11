@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2372 AI-powered skills** organized into 14 categories.
+A curated collection of **2370 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (236 skills)
-- **Automation/Workflow** (78 skills)
-- **Commercial** (259 skills)
-- **Communication** (60 skills)
-- **Content Creation** (519 skills)
-- **Daily Assistant** (73 skills)
+- **Automation/Scripting** (235 skills)
+- **Automation/Workflow** (79 skills)
+- **Commercial** (260 skills)
+- **Communication** (59 skills)
+- **Content Creation** (522 skills)
+- **Daily Assistant** (70 skills)
 - **Data Analysis** (219 skills)
-- **Development** (436 skills)
-- **Development/Devops** (176 skills)
-- **Development/Testing** (94 skills)
-- **Development/Tools** (115 skills)
+- **Development** (435 skills)
+- **Development/Devops** (174 skills)
+- **Development/Testing** (95 skills)
+- **Development/Tools** (116 skills)
 - **Investment** (15 skills)
-- **Productivity** (19 skills)
+- **Productivity** (18 skills)
 - **Research** (73 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (236 skills)
+### Automation/Scripting (235 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -411,17 +411,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Filtering Querying](automation/scripting/086-filtering-querying_d1ba0509/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-trace-analyzer/references/filtering-querying.md) | ⭐ 35 | `automation` |
 | [Skill](automation/scripting/003-name-skill_761b2d51/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/SKILL.md) | ⭐ 38 | `automation` |
 | [Sheets Cli](automation/scripting/085-sheets-cli_9b8d36c6/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/skills/sheets-cli.md) | ⭐ 38 | `automation` |
-| [Skill](automation/scripting/name-skill_dc3f3d9a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/switch-persona/SKILL.md) | ⭐ 56 | `automation` |
-| [Skill](automation/scripting/name-skill_794c079c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/toggle-proactive/SKILL.md) | ⭐ 56 | `automation` |
-| [Memory Api](automation/scripting/memory_api_9e66b7bb/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/api_docs/memory_api.md) | ⭐ 2.0k | `automation` |
-| [Api Usage Guide](automation/scripting/api_usage_guide_ef27099f/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/api_usage_guide.md) | ⭐ 2.0k | `automation` |
-| [Data Fix Readme](automation/scripting/data_fix_readme_6481e7f1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/DATA_FIX_README.md) | ⭐ 2.0k | `automation` |
-| [Elasticsearch Scripts Guide](automation/scripting/elasticsearch_scripts_guide_40613f2e/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/elasticsearch_scripts_guide.md) | ⭐ 2.0k | `automation` |
-| [Milvus Scripts Guide](automation/scripting/milvus_scripts_guide_72048288/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/milvus_scripts_guide.md) | ⭐ 2.0k | `automation` |
-| [Mongodb Scripts Guide](automation/scripting/mongodb_scripts_guide_e69697fd/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/mongodb_scripts_guide.md) | ⭐ 2.0k | `automation` |
-| [Skill](automation/scripting/name-skill_69dd7573/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/send-sticker/SKILL.md) | ⭐ 56 | `automation` |
+| [Skill](automation/scripting/003-name-skill_dc3f3d9a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/switch-persona/SKILL.md) | ⭐ 56 | `automation` |
+| [Skill](automation/scripting/003-name-skill_794c079c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/toggle-proactive/SKILL.md) | ⭐ 56 | `automation` |
+| [Memory Api](automation/scripting/086-memory_api_9e66b7bb/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/api_docs/memory_api.md) | ⭐ 2.0k | `automation` |
+| [Api Usage Guide](automation/scripting/087-api_usage_guide_ef27099f/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/api_usage_guide.md) | ⭐ 2.0k | `automation` |
+| [Data Fix Readme](automation/scripting/088-data_fix_readme_6481e7f1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/DATA_FIX_README.md) | ⭐ 2.0k | `automation` |
+| [Elasticsearch Scripts Guide](automation/scripting/089-elasticsearch_scripts_guide_40613f2e/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/elasticsearch_scripts_guide.md) | ⭐ 2.0k | `automation` |
+| [Milvus Scripts Guide](automation/scripting/090-milvus_scripts_guide_72048288/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/milvus_scripts_guide.md) | ⭐ 2.0k | `automation` |
+| [Mongodb Scripts Guide](automation/scripting/091-mongodb_scripts_guide_e69697fd/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/devops_scripts/data_fix/data_fix_docs/mongodb_scripts_guide.md) | ⭐ 2.0k | `automation` |
 
-### Automation/Workflow (78 skills)
+### Automation/Workflow (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -503,8 +502,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backlog](automation/workflow/063-backlog_ca63cb66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 16 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a8b043f5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/SKILL.md) | ⭐ 2.5k | `automation` |
 | [Automated Reviews](automation/workflow/133-automated_reviews_a75b8295/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/docs/AUTOMATED_REVIEWS.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/name-skill_ba933e16/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/rodney/SKILL.md) | ⭐ 31 | `automation` |
 
-### Commercial (259 skills)
+### Commercial (260 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -727,7 +727,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference](commercial/167-reference_33118ac4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/references/reference.md) | ⭐ 88 | `commercial` |
 | [Terraform Roadmap](commercial/309-terraform-roadmap_10861a74/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/terraform-roadmap.md) | ⭐ 60 | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_d23ff7ee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
-| [Agents](commercial/007-agents_163651bf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
+| [Agents](commercial/agents_f2566b57/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
 | [Kubernetes](commercial/344-kubernetes_6c039268/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/KUBERNETES.md) | ⭐ 14 | `commercial` |
 | [Skill](commercial/210-name-skill_d99fc2d4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-configuration-skill/SKILL.md) | ⭐ 14 | `commercial` |
 | [Skill](commercial/210-name-skill_e2cea75f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/sentry-skill/SKILL.md) | ⭐ 14 | `commercial` |
@@ -763,12 +763,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Router Pattern](commercial/365-router-pattern_87da26b9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/router-pattern.md) | ⭐ 35 | `commercial` |
 | [Cicd Integration](commercial/356-cicd-integration_5d2f41e9/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/cicd-integration.md) | ⭐ 35 | `commercial` |
 | [Skill](commercial/365-description-skill_e478ffd2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/SKILL.md) | ⭐ 16 | `commercial` |
-| [Metadata Control](commercial/metadata_control_5a65d149/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/METADATA_CONTROL.md) | ⭐ 2.0k | `commercial` |
-| [Run Memorize Usage](commercial/run_memorize_usage_14ae795c/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/run_memorize_usage.md) | ⭐ 2.0k | `commercial` |
-| [Docker Setup](commercial/docker_setup_6da6d361/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/installation/DOCKER_SETUP.md) | ⭐ 2.0k | `commercial` |
-| [Batch Operations](commercial/batch_operations_830e54e3/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/BATCH_OPERATIONS.md) | ⭐ 2.0k | `commercial` |
+| [Metadata Control](commercial/366-metadata_control_5a65d149/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/METADATA_CONTROL.md) | ⭐ 2.0k | `commercial` |
+| [Run Memorize Usage](commercial/367-run_memorize_usage_14ae795c/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/run_memorize_usage.md) | ⭐ 2.0k | `commercial` |
+| [Docker Setup](commercial/368-docker_setup_6da6d361/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/installation/DOCKER_SETUP.md) | ⭐ 2.0k | `commercial` |
+| [Batch Operations](commercial/369-batch_operations_830e54e3/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/BATCH_OPERATIONS.md) | ⭐ 2.0k | `commercial` |
+| [Agents](commercial/007-agents_f2566b57/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
 
-### Communication (60 skills)
+### Communication (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -829,11 +830,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_f1483a25/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/SKILL.md) | ⭐ 35 | `communication` |
 | [Monitoring Alerts](communication/250-monitoring-alerts_f36e8718/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langsmith-deployment/references/monitoring-alerts.md) | ⭐ 35 | `communication` |
 | [Privacy](communication/251-privacy_01061a06/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/PRIVACY.md) | ⭐ 181 | `communication` |
-| [Starter Kit](communication/starter_kit_d2c405e9/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/STARTER_KIT.md) | ⭐ 2.0k | `communication` |
-| [Group Chat Guide](communication/group_chat_guide_133ae980/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/GROUP_CHAT_GUIDE.md) | ⭐ 2.0k | `communication` |
-| [Agentic Retrieve Testing](communication/agentic_retrieve_testing_13458a0b/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/agentic_retrieve_testing.md) | ⭐ 2.0k | `communication` |
+| [Starter Kit](communication/250-starter_kit_d2c405e9/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/STARTER_KIT.md) | ⭐ 2.0k | `communication` |
+| [Group Chat Guide](communication/251-group_chat_guide_133ae980/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/GROUP_CHAT_GUIDE.md) | ⭐ 2.0k | `communication` |
 
-### Content Creation (519 skills)
+### Content Creation (522 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1291,7 +1291,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [02 Resources](content-creation/319-02-resources_d0e656f1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_80834ac4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_e327bbb7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
-| [Skill](content-creation/049-name-skill_16122593/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/name-skill_99bf2e27/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_05e95f5d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/decisions/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_67704377/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/gomponents/SKILL.md) | ⭐ 31 | `content creation` |
 | [Skill](content-creation/049-name-skill_0005e489/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/marimo/SKILL.md) | ⭐ 31 | `content creation` |
@@ -1355,9 +1355,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [State Debugging](content-creation/353-state-debugging_70838d7f/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/state-debugging.md) | ⭐ 35 | `content creation` |
 | [External Pattern Integration 2026 02 01](content-creation/349-external-pattern-integration-2026-02-01_b2ece27c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/external-pattern-integration-2026-02-01.md) | ⭐ 16 | `content creation` |
 | [Type Ai](content-creation/350-type-ai_830dffb0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-writing-tools/type-ai.md) | ⭐ 16 | `content creation` |
-| [Group Chat Format](content-creation/group_chat_format_36ccff0d/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/data_format/group_chat/group_chat_format.md) | ⭐ 2.0k | `content creation` |
+| [Group Chat Format](content-creation/351-group_chat_format_36ccff0d/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/data_format/group_chat/group_chat_format.md) | ⭐ 2.0k | `content creation` |
+| [Skill](content-creation/049-name-skill_99bf2e27/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
+| [Skill](content-creation/name-skill_2272bf3e/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/design-doc/SKILL.md) | ⭐ 31 | `content creation` |
+| [Test](content-creation/test_06b0cc24/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/test.md) | 🔥 6.5k | `content creation` |
 
-### Daily Assistant (73 skills)
+### Daily Assistant (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1430,10 +1433,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_0ca47a2b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/verification/SKILL.md) | ⭐ 77 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_0dc16cf2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 96 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_936cba2c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.3k | `daily assistant` |
-| [Configuration](daily-assistant/configuration_d9c0f34d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 56 | `daily assistant` |
-| [Persona And Liveness](daily-assistant/persona-and-liveness_dd3edc0f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/persona-and-liveness.md) | ⭐ 56 | `daily assistant` |
-| [Memory Types Guide](daily-assistant/memory_types_guide_737bb30e/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/memory_types_guide.md) | ⭐ 2.0k | `daily assistant` |
-| [Introduction](daily-assistant/introduction_9aa743d3/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/core/addons/introduction.md) | ⭐ 2.0k | `daily assistant` |
+| [Configuration](daily-assistant/262-configuration_d9c0f34d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 56 | `daily assistant` |
 
 ### Data Analysis (219 skills)
 
@@ -1659,7 +1659,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_7cf0bf27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 22 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_40afcbc6/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 181 | `data analysis` |
 
-### Development (436 skills)
+### Development (435 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2091,16 +2091,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Prd](development/2207-prd_b0f3c5c7/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/prd.md) | ⭐ 38 | `development` |
 | [Claude](development/140-claude_9cf85401/) | [gmickel/sheets-cli](https://raw.githubusercontent.com/gmickel/sheets-cli/main/.claude/CLAUDE.md) | ⭐ 38 | `development` |
 | [Skills](development/2845-hodor-skill_6048e073/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/docs/SKILLS.md) | ⭐ 18 | `development` |
-| [Acknowledgments](development/acknowledgments_e4a8d920/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/ACKNOWLEDGMENTS.md) | ⭐ 2.0k | `development` |
-| [Agentic Retrieval Guide](development/agentic_retrieval_guide_ca6feca4/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/agentic_retrieval_guide.md) | ⭐ 2.0k | `development` |
-| [Development Guide](development/development_guide_59c67965/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/development_guide.md) | ⭐ 2.0k | `development` |
-| [Development Standards](development/development_standards_64732351/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/development_standards.md) | ⭐ 2.0k | `development` |
-| [Metrics Library Design](development/metrics_library_design_0f59f2a7/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/metrics_library_design.md) | ⭐ 2.0k | `development` |
-| [Setup](development/setup_ed4939b1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/installation/SETUP.md) | ⭐ 2.0k | `development` |
-| [Claude](development/claude_1dffc58f/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/CLAUDE.md) | ⭐ 2.0k | `development` |
-| [Architecture](development/architecture_23c3fd46/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/ARCHITECTURE.md) | ⭐ 2.0k | `development` |
+| [Acknowledgments](development/2848-acknowledgments_e4a8d920/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/ACKNOWLEDGMENTS.md) | ⭐ 2.0k | `development` |
+| [Agentic Retrieval Guide](development/2849-agentic_retrieval_guide_ca6feca4/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/agentic_retrieval_guide.md) | ⭐ 2.0k | `development` |
+| [Development Guide](development/2850-development_guide_59c67965/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/development_guide.md) | ⭐ 2.0k | `development` |
+| [Development Standards](development/2851-development_standards_64732351/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/development_standards.md) | ⭐ 2.0k | `development` |
+| [Metrics Library Design](development/2852-metrics_library_design_0f59f2a7/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/metrics_library_design.md) | ⭐ 2.0k | `development` |
+| [Setup](development/964-setup_ed4939b1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/installation/SETUP.md) | ⭐ 2.0k | `development` |
+| [Release Notes](development/release_notes_78f7bda8/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 
-### Development/Devops (176 skills)
+### Development/Devops (174 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2140,7 +2139,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
 | [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
-| [Readme Cn](development/devops/readme_cn_92737bcd/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 56 | `development` |
+| [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
 | [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
 | [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
 | [Readme Old](development/devops/301-readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
@@ -2277,11 +2276,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/devops/093-troubleshooting_872e624f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/troubleshooting.md) | ⭐ 16 | `development` |
 | [Failure Patterns](development/devops/359-failure-patterns_d31f0f5b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/references/failure-patterns.md) | ⭐ 2.5k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_92737bcd/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 56 | `development` |
-| [Configuration Guide](development/devops/configuration_guide_4a8c65ff/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/CONFIGURATION_GUIDE.md) | ⭐ 2.0k | `development` |
-| [Demos](development/devops/demos_b7cbdde8/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/DEMOS.md) | ⭐ 2.0k | `development` |
-| [Usage Examples](development/devops/usage_examples_954cf5a8/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/USAGE_EXAMPLES.md) | ⭐ 2.0k | `development` |
+| [Configuration Guide](development/devops/360-configuration_guide_4a8c65ff/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/CONFIGURATION_GUIDE.md) | ⭐ 2.0k | `development` |
 
-### Development/Testing (94 skills)
+### Development/Testing (95 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2375,12 +2372,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Build Database](development/testing/078-build-database_a2b6485d/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/build-database.md) | ⭐ 2.5k | `development` |
 | [Release Notes](development/testing/079-release_notes_408562ab/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 8.2k | `development` |
 | [Workflows](development/testing/080-workflows_5b676800/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 8.2k | `development` |
-| [Agents](development/testing/agents_cb60c520/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/AGENTS.md) | ⭐ 2.0k | `development` |
-| [Bootstrap Usage](development/testing/bootstrap_usage_b412f9e1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/bootstrap_usage.md) | ⭐ 2.0k | `development` |
-| [Getting Started](development/testing/getting_started_9c746af6/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/getting_started.md) | ⭐ 2.0k | `development` |
-| [Introduction](development/testing/introduction_abf62477/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/core/di/introduction.md) | ⭐ 2.0k | `development` |
+| [Agents](development/testing/024-agents_cb60c520/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/AGENTS.md) | ⭐ 2.0k | `development` |
+| [Bootstrap Usage](development/testing/081-bootstrap_usage_b412f9e1/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/bootstrap_usage.md) | ⭐ 2.0k | `development` |
+| [Getting Started](development/testing/082-getting_started_9c746af6/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/dev_docs/getting_started.md) | ⭐ 2.0k | `development` |
+| [Introduction](development/testing/083-introduction_abf62477/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/src/core/di/introduction.md) | ⭐ 2.0k | `development` |
+| [Ops Guide](development/testing/ops_guide_0fceee1a/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 
-### Development/Tools (115 skills)
+### Development/Tools (116 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2498,7 +2496,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Reference](development/tools/100-cli_reference_ba59b4f0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/uv/references/cli_reference.md) | ⭐ 16 | `development` |
 | [Agents](development/tools/015-agents_99bf03be/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 181 | `development` |
 | [Agents](development/tools/015-agents_2f8b4681/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/AGENTS.md) | ⭐ 18 | `development` |
-| [Mongodb Guide](development/tools/mongodb_guide_dd509291/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/MONGODB_GUIDE.md) | ⭐ 2.0k | `development` |
+| [Mongodb Guide](development/tools/317-mongodb_guide_dd509291/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/MONGODB_GUIDE.md) | ⭐ 2.0k | `development` |
+| [Llm](development/tools/llm_9d6a4545/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
 
 ### Investment (15 skills)
 
@@ -2520,7 +2519,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fastembed Improvement Plan](investment/046-fastembed-improvement-plan_6434df52/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/fastembed-improvement-plan.md) | ⭐ 251 | `investment` |
 | [Python Tools Audit](investment/047-python_tools_audit_c7c07488/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/documentation/PYTHON_TOOLS_AUDIT.md) | ⭐ 1.7k | `investment` |
 
-### Productivity (19 skills)
+### Productivity (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2542,7 +2541,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_ccb200c7/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/SKILL.md) | ⭐ 13 | `productivity` |
 | [Keywords](productivity/172-keywords_b837324b/) | [JStaRFilms/VibeCode-Protocol-Suite](https://raw.githubusercontent.com/JStaRFilms/VibeCode-Protocol-Suite/main/assets/.agent/skills/stitch/enhance-prompt/references/KEYWORDS.md) | ⭐ 13 | `productivity` |
 | [Reducers](productivity/173-reducers_a7cb246e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/reducers.md) | ⭐ 35 | `productivity` |
-| [Retrieval Strategies](productivity/retrieval_strategies_e835efd3/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/RETRIEVAL_STRATEGIES.md) | ⭐ 2.0k | `productivity` |
 
 ### Research (73 skills)
 
@@ -2619,8 +2617,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Interpretation](research/255-interpretation_1d6219a6/) | [https-deeplearning-ai/sc-agent-skills-files](https://raw.githubusercontent.com/https-deeplearning-ai/sc-agent-skills-files/main/L4/custom_skills/analyzing-time-series/references/interpretation.md) | ⭐ 418 | `research` |
 | [Orchestrator Worker](research/256-orchestrator-worker_79d6f0ef/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-agent-patterns/references/orchestrator-worker.md) | ⭐ 35 | `research` |
 | [Schema Patterns](research/257-schema-patterns_afda765e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/schema-patterns.md) | ⭐ 35 | `research` |
-| [Citation](research/citation_73cd33fb/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/CITATION.md) | ⭐ 2.0k | `research` |
-| [Overview](research/overview_0dc3a895/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/OVERVIEW.md) | ⭐ 2.0k | `research` |
+| [Citation](research/256-citation_73cd33fb/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/CITATION.md) | ⭐ 2.0k | `research` |
+| [Overview](research/257-overview_0dc3a895/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/OVERVIEW.md) | ⭐ 2.0k | `research` |
 
 ## How Skills Are Organized
 
@@ -2672,5 +2670,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-11 17:02:08 UTC*
+*Last updated: 2026-02-11 18:01:18 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-11T17:02:08.045220",
+  "updated_at": "2026-02-11T18:01:18.225847",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -33069,6 +33069,90 @@
       "source_url": "https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/MONGODB_GUIDE.md",
       "display_name": "Mongodb Guide",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9d6a4545140ef18d8fba16fa97f38a9c354af907e28a3275d53c180042cff359",
+      "source_path": "LLM.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/tools/318-llm_9d6a4545",
+      "category": "development/tools",
+      "name": "llm_9d6a4545",
+      "indexed_at": "2026-02-11T18:01:17.068886",
+      "repo_stars": 6486,
+      "repo_updated_at": "2026-02-09T16:09:26+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md",
+      "display_name": "Llm",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0fceee1af536055630de3e5a85c965517280c78c042c259013f3290581d0d3f1",
+      "source_path": "agent_docs/ops_guide.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/testing/084-ops_guide_0fceee1a",
+      "category": "development/testing",
+      "name": "ops_guide_0fceee1a",
+      "indexed_at": "2026-02-11T18:01:17.327667",
+      "repo_stars": 6486,
+      "repo_updated_at": "2026-02-10T04:20:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md",
+      "display_name": "Ops Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "99bf2e27b9c162f3382efa8e9eaa7576eceaefb88e2c9683e78d85759d77e74a",
+      "source_path": "bluesky/SKILL.md",
+      "source_repo": "maragudk/skills",
+      "local_path": "content-creation/049-name-skill_99bf2e27",
+      "category": "content-creation",
+      "name": "name-skill_99bf2e27",
+      "indexed_at": "2026-02-11T18:01:17.558969",
+      "repo_stars": 31,
+      "repo_updated_at": "2026-02-11T10:27:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "2272bf3ef567a34f71a236015cc4da9e2ee844f362fba6a78dff297784141088",
+      "source_path": "design-doc/SKILL.md",
+      "source_repo": "maragudk/skills",
+      "local_path": "content-creation/049-name-skill_2272bf3e",
+      "category": "content-creation",
+      "name": "name-skill_2272bf3e",
+      "indexed_at": "2026-02-11T18:01:17.889303",
+      "repo_stars": 31,
+      "repo_updated_at": "2026-02-10T13:42:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/design-doc/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "f2566b57c1c10ba243127a42252f32e597922e2581fe70c07a7cc8d0436b4afa",
+      "source_path": "AGENTS.md",
+      "source_repo": "maragudk/skills",
+      "local_path": "commercial/007-agents_f2566b57",
+      "category": "commercial",
+      "name": "agents_f2566b57",
+      "indexed_at": "2026-02-11T18:01:18.101451",
+      "repo_stars": 31,
+      "repo_updated_at": "2026-02-10T09:11:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "ba933e161c75a2006090d590fdf24e0f1a8d76c48fe954b669236073f80f423a",
+      "source_path": "rodney/SKILL.md",
+      "source_repo": "maragudk/skills",
+      "local_path": "automation/workflow/002-name-skill_ba933e16",
+      "category": "automation/workflow",
+      "name": "name-skill_ba933e16",
+      "indexed_at": "2026-02-11T18:01:18.225814",
+      "repo_stars": 31,
+      "repo_updated_at": "2026-02-11T10:38:31+00:00",
+      "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/rodney/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
