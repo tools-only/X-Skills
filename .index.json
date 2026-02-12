@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T07:03:42.864274",
+  "updated_at": "2026-02-12T08:02:27.270460",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -41049,6 +41049,34 @@
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
       "display_name": "01 Configuration",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "74827a1a24211457df49ddf1648b2c9aaaf3a0f628c1252c1628d49aa6b8a3c2",
+      "source_path": "ARCHITECTURE.md",
+      "source_repo": "seojoonkim/prompt-guard",
+      "local_path": "development/055-architecture_74827a1a",
+      "category": "development",
+      "name": "architecture_74827a1a",
+      "indexed_at": "2026-02-12T08:02:27.026248",
+      "repo_stars": 69,
+      "repo_updated_at": "2026-02-12T01:53:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/ARCHITECTURE.md",
+      "display_name": "Architecture",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "09b023dceb4d6a56313f78f641ec57b8a5d25dcb9d67b0108d0c9b4733aab71f",
+      "source_path": "SKILL.md",
+      "source_repo": "seojoonkim/prompt-guard",
+      "local_path": "development/tools/002-name-skill_09b023dc",
+      "category": "development/tools",
+      "name": "name-skill_09b023dc",
+      "indexed_at": "2026-02-12T08:02:27.270415",
+      "repo_stars": 69,
+      "repo_updated_at": "2026-02-12T01:53:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
