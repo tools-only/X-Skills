@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T03:04:34.820829",
+  "updated_at": "2026-02-12T04:01:27.089279",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -39663,6 +39663,76 @@
       "source_url": "https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/scheduler.md",
       "display_name": "Scheduler",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "68a57762a1dffafcca3e6c74f1653109e78efa684fc2ce42a4ed556ca758f5b1",
+      "source_path": "AGENTS.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/tools/015-agents_68a57762",
+      "category": "development/tools",
+      "name": "agents_68a57762",
+      "indexed_at": "2026-02-12T04:01:23.509755",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-11T17:16:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8db2322da6540b7f0362d9b96dd13797789e8608952b602f579a4ce670e339ec",
+      "source_path": ".claude/skills/hardstop/SKILL.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/tools/002-name-skill_8db2322d",
+      "category": "development/tools",
+      "name": "name-skill_8db2322d",
+      "indexed_at": "2026-02-12T04:01:24.284174",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-01-21T10:52:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/.claude/skills/hardstop/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c8f6d097d99256c69afe8b8d41069f7d400c3bcf144f80bbbec30e17d6bb8f81",
+      "source_path": ".claude/skills/hs/SKILL.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/tools/002-name-skill_c8f6d097",
+      "category": "development/tools",
+      "name": "name-skill_c8f6d097",
+      "indexed_at": "2026-02-12T04:01:25.167440",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-11T17:16:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/.claude/skills/hs/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e82b525b826653b8172cc69549b508ecba5ee91b8a2b54bdb12392b938700873",
+      "source_path": "AUDIT.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/2856-audit_e82b525b",
+      "category": "development",
+      "name": "audit_e82b525b",
+      "indexed_at": "2026-02-12T04:01:26.271723",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-01-31T16:40:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md",
+      "display_name": "Audit",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "75152c5b3054fe2e70b6bea150e0b58553d720d41201cf164857f37a779d6b65",
+      "source_path": "PRIVACY.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "data-analysis/482-privacy_75152c5b",
+      "category": "data-analysis",
+      "name": "privacy_75152c5b",
+      "indexed_at": "2026-02-12T04:01:27.089230",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-01-17T08:44:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/PRIVACY.md",
+      "display_name": "Privacy",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
