@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2814 AI-powered skills** organized into 14 categories.
+A curated collection of **2845 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,18 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (244 skills)
+- **Automation/Scripting** (246 skills)
 - **Automation/Workflow** (99 skills)
-- **Commercial** (325 skills)
+- **Commercial** (326 skills)
 - **Communication** (109 skills)
-- **Content Creation** (553 skills)
-- **Daily Assistant** (108 skills)
-- **Data Analysis** (249 skills)
-- **Development** (507 skills)
+- **Content Creation** (556 skills)
+- **Daily Assistant** (110 skills)
+- **Data Analysis** (251 skills)
+- **Development** (526 skills)
 - **Development/Devops** (197 skills)
 - **Development/Testing** (97 skills)
 - **Development/Tools** (154 skills)
-- **Investment** (26 skills)
+- **Investment** (27 skills)
+- **Other** (1 skill)
 - **Productivity** (65 skills)
 - **Research** (81 skills)
 
@@ -180,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (244 skills)
+### Automation/Scripting (246 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -428,6 +429,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/scripting/086-instructions_d2b24774/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/support_ops/support_queue_balancer/instructions.md) | ⭐ 13 | `automation` |
 | [Skill](automation/scripting/003-name-skill_c170e979/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/ad-compliance-review/SKILL.md) | ⭐ 35 | `automation` |
 | [Skill](automation/scripting/003-name-skill_bbd59174/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/food-label-review/SKILL.md) | ⭐ 35 | `automation` |
+| [Orc](automation/scripting/orc_c73b8853/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 611 | `automation` |
+| [Review](automation/scripting/review_2fafdc8d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 611 | `automation` |
 
 ### Automation/Workflow (99 skills)
 
@@ -533,7 +536,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/137-instructions_ca05803f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/revops/commit_accuracy/instructions.md) | ⭐ 13 | `automation` |
 | [Instructions](automation/workflow/137-instructions_dd66b07d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/support_ops/support_sentiment_tracker/instructions.md) | ⭐ 13 | `automation` |
 
-### Commercial (325 skills)
+### Commercial (326 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -862,6 +865,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](commercial/107-instructions_a8353b22/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/outreach/paid_ads/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_3680c40a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/sidecar_product_builder/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_5a4ed48e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/usage_retention_optimizer/instructions.md) | ⭐ 13 | `commercial` |
+| [Vfs](commercial/vfs_8c998c9d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/vfs.md) | ⭐ 611 | `commercial` |
 
 ### Communication (109 skills)
 
@@ -977,7 +981,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/250-instructions_47ce4661/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/ai_gtm_automator/instructions.md) | ⭐ 13 | `communication` |
 | [Instructions](communication/250-instructions_4136d699/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_pricing_architect/instructions.md) | ⭐ 13 | `communication` |
 
-### Content Creation (553 skills)
+### Content Creation (556 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1485,7 +1489,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Eject Theme](content-creation/348-tool-eject-theme_c25fb0de/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/tool-eject-theme.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_296a6b1a/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 13 | `content creation` |
 | [Skill](content-creation/049-name-skill_8380a145/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/meta/skill-development/SKILL.md) | ⭐ 49 | `content creation` |
-| [Claude](content-creation/claude_c306fd01/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
+| [Claude](content-creation/007-claude_dfc75255/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
 | [Claude](content-creation/007-claude_9a2b640b/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 77 | `content creation` |
 | [Skill](content-creation/049-name-skill_1b62d15f/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/writing-skills/SKILL.md) | ⭐ 77 | `content creation` |
 | [Agents](content-creation/185-agents_0eb000a5/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/AGENTS.md) | ⭐ 184 | `content creation` |
@@ -1534,8 +1538,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](content-creation/356-instructions_15071931/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/marketing_psychology/instructions.md) | ⭐ 13 | `content creation` |
 | [Instructions](content-creation/356-instructions_8716359b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/referral_program/instructions.md) | ⭐ 13 | `content creation` |
 | [Claude](content-creation/007-claude_c306fd01/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
+| [Btf](content-creation/btf_b40ba3ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/btf.md) | ⭐ 611 | `content creation` |
+| [Dax](content-creation/dax_f83d9aa2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/dax.md) | ⭐ 611 | `content creation` |
+| [Subsystem Template](content-creation/subsystem-template_c33e58c1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem-template.md) | ⭐ 611 | `content creation` |
 
-### Daily Assistant (108 skills)
+### Daily Assistant (110 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1647,8 +1654,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](daily-assistant/089-instructions_ef78bbc8/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/research/meeting_insights_analyzer/instructions.md) | ⭐ 13 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_1d7c763b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/objective_context_builder/instructions.md) | ⭐ 13 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_5490ad55/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/product_led_sales/instructions.md) | ⭐ 13 | `daily assistant` |
+| [Locking](daily-assistant/locking_16e1fa5c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/locking.md) | ⭐ 611 | `daily assistant` |
+| [Scheduler](daily-assistant/scheduler_f3365e4e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/scheduler.md) | ⭐ 611 | `daily assistant` |
 
-### Data Analysis (249 skills)
+### Data Analysis (251 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1901,8 +1910,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](data-analysis/481-instructions_c40bcb24/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/media/slack_gif_creator/instructions.md) | ⭐ 13 | `data analysis` |
 | [Instructions](data-analysis/481-instructions_31324d75/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/operations/daily_journal_writer/instructions.md) | ⭐ 13 | `data analysis` |
 | [Instructions](data-analysis/481-instructions_65e16ba5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/pricing_strategy/instructions.md) | ⭐ 13 | `data analysis` |
+| [Cleanup](data-analysis/cleanup_eb3c24c9/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/cleanup.md) | ⭐ 611 | `data analysis` |
+| [Fscrypt](data-analysis/fscrypt_cf903ab1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/fscrypt.md) | ⭐ 611 | `data analysis` |
 
-### Development (507 skills)
+### Development (526 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2310,8 +2321,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Core Headmatter](development/2838-core-headmatter_1421e7bf/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/slidev/references/core-headmatter.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_f77604d2/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/letta-api-client/SKILL.md) | ⭐ 49 | `development` |
 | [Claude](development/140-claude_49a1352d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/CLAUDE.md) | ⭐ 77 | `development` |
-| [Code Reviewer](development/code-reviewer_f71dc9a9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
-| [Security Auditor](development/security-auditor_1a0a4929/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
+| [Code Reviewer](development/2591-code-reviewer_559d0724/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
+| [Security Auditor](development/2842-security-auditor_20e17ae9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
 | [Skill](development/1178-name-skill_13cd2960/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/receiving-code-review/SKILL.md) | ⭐ 77 | `development` |
 | [Skill](development/1178-name-skill_5f431a3a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/tdd/SKILL.md) | ⭐ 77 | `development` |
 | [Skill](development/1178-name-skill_ad4ce00d/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/code-simplifier/SKILL.md) | ⭐ 184 | `development` |
@@ -2411,8 +2422,27 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](development/1753-instructions_eed3575b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/tools/tailored_resume_generator/instructions.md) | ⭐ 13 | `development` |
 | [Instructions](development/1753-instructions_5419957a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/growth_team_orchestrator/instructions.md) | ⭐ 13 | `development` |
 | [Code Reviewer](development/2591-code-reviewer_f71dc9a9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
-| [Librarian](development/librarian_581cc0c9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 77 | `development` |
+| [Librarian](development/519-librarian_581cc0c9/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 77 | `development` |
 | [Security Auditor](development/2842-security-auditor_1a0a4929/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
+| [Callstack](development/callstack_a0cd6d34/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/callstack.md) | ⭐ 611 | `development` |
+| [False Positive Guide](development/false-positive-guide_247ae845/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/false-positive-guide.md) | ⭐ 611 | `development` |
+| [Review Core](development/review-core_4b73af82/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/review-core.md) | ⭐ 611 | `development` |
+| [Kernel](development/kernel_547ff614/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/skills/kernel.md) | ⭐ 611 | `development` |
+| [Block](development/block_32a0ae85/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/block.md) | ⭐ 611 | `development` |
+| [Bpf](development/bpf_3745109f/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/bpf.md) | ⭐ 611 | `development` |
+| [Memory Management Subsystem Details](development/mm_96776273/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm.md) | ⭐ 611 | `development` |
+| [Networking](development/networking_a82d52ca/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/networking.md) | ⭐ 611 | `development` |
+| [Nfsd](development/nfsd_808a0a6d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/nfsd.md) | ⭐ 611 | `development` |
+| [Rcu](development/rcu_4e57e5f7/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/rcu.md) | ⭐ 611 | `development` |
+| [Subjective Review](development/subjective-review_4d10688e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subjective-review.md) | ⭐ 611 | `development` |
+| [Sunrpc](development/sunrpc_11699531/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/sunrpc.md) | ⭐ 611 | `development` |
+| [Pointer Guards](development/pointer-guards_81280e48/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/pointer-guards.md) | ⭐ 611 | `development` |
+| [Technical Patterns](development/technical-patterns_48614f57/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/technical-patterns.md) | ⭐ 611 | `development` |
+| [Btrfs](development/btrfs_1ee18bbf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/btrfs.md) | ⭐ 611 | `development` |
+| [Io Uring](development/io_uring_b3704ce4/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/io_uring.md) | ⭐ 611 | `development` |
+| [Libbpf](development/libbpf_80831f7c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/libbpf.md) | ⭐ 611 | `development` |
+| [Subsystem](development/subsystem_5afb70e3/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem.md) | ⭐ 611 | `development` |
+| [Nfsd 002 Refcounting](development/nfsd-002-refcounting_73404989/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/nfsd/NFSD-002-refcounting.md) | ⭐ 611 | `development` |
 
 ### Development/Devops (197 skills)
 
@@ -2877,7 +2907,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](development/tools/318-instructions_a11ef377/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/outreach/outreach_personalizer/instructions.md) | ⭐ 13 | `development` |
 | [Instructions](development/tools/318-instructions_c13562c5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/research/social_listening_analyzer/instructions.md) | ⭐ 13 | `development` |
 
-### Investment (26 skills)
+### Investment (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2907,6 +2937,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](investment/049-instructions_0b17605a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/plgf_free_tool_strategy/instructions.md) | ⭐ 13 | `investment` |
 | [Instructions](investment/049-instructions_c3a17500/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/product_ops/impact_analyzer/instructions.md) | ⭐ 13 | `investment` |
 | [Instructions](investment/049-instructions_9589c9b2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/multi_gtm_orchestrator/instructions.md) | ⭐ 13 | `investment` |
+| [Korcreview](investment/korcreview_da7e2ab1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/slash-commands/korcreview.md) | ⭐ 611 | `investment` |
+
+### Other (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Tracing](other/tracing_f90cdbdc/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/tracing.md) | ⭐ 611 | `other` |
 
 ### Productivity (65 skills)
 
@@ -3114,5 +3151,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 02:05:24 UTC*
+*Last updated: 2026-02-12 03:04:35 UTC*
 *Automatically maintained by SkillFlow*
