@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T09:01:20.361691",
+  "updated_at": "2026-02-12T13:21:59.650341",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -42687,6 +42687,104 @@
       "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-py/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "52ce06fbf46c0af401392edfcac70b2517c79b521d82922e77e4ff4846bfd85d",
+      "source_path": "CLAUDE.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "development/140-claude_52ce06fb",
+      "category": "development",
+      "name": "claude_52ce06fb",
+      "indexed_at": "2026-02-12T13:21:57.920644",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-01-24T19:10:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "440e7b3f8b85c94e82286213f8fe12bbea8704ae141779447806bd4ba3cf70f9",
+      "source_path": "docs/INSTALL-MACOS-LINUX.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "development/2866-install-macos-linux_440e7b3f",
+      "category": "development",
+      "name": "install-macos-linux_440e7b3f",
+      "indexed_at": "2026-02-12T13:21:58.179197",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-01-24T19:10:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/INSTALL-MACOS-LINUX.md",
+      "display_name": "Install Macos Linux",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "23de9fdb7a95f42dd075e9a0e7f98f60b758e3951d3086a04404db4463844dae",
+      "source_path": "docs/INSTALL-WINDOWS.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "development/2867-install-windows_23de9fdb",
+      "category": "development",
+      "name": "install-windows_23de9fdb",
+      "indexed_at": "2026-02-12T13:21:58.431543",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-01-24T19:10:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/INSTALL-WINDOWS.md",
+      "display_name": "Install Windows",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "df83bda95e9c9da0f1dcbdd942030e640fda57bbf1d49d84fa8198b52c90e167",
+      "source_path": "docs/TROUBLESHOOTING.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "development/1097-troubleshooting_df83bda9",
+      "category": "development",
+      "name": "troubleshooting_df83bda9",
+      "indexed_at": "2026-02-12T13:21:58.647888",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-01-24T19:10:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/TROUBLESHOOTING.md",
+      "display_name": "Troubleshooting",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b13e491b348924c370e2957866529e3f5880218ed8ed3b7c8d31009873674d1d",
+      "source_path": "skill/SKILL.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "development/1178-name-skill_b13e491b",
+      "category": "development",
+      "name": "name-skill_b13e491b",
+      "indexed_at": "2026-02-12T13:21:59.032947",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-02-12T04:00:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/skill/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2ef9e82a1a2069ff9e306011db0c46d585bf4984c1164bcedcbddbedc28418b8",
+      "source_path": "docs/CONFIGURATION.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "daily-assistant/262-configuration_2ef9e82a",
+      "category": "daily-assistant",
+      "name": "configuration_2ef9e82a",
+      "indexed_at": "2026-02-12T13:21:59.268360",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-02-12T04:00:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/CONFIGURATION.md",
+      "display_name": "Configuration",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "583c5608cc4852cbbb9ff2c67fd311b4869a45af5609b7f99d5feefab4de0055",
+      "source_path": "docs/METHODOLOGY.md",
+      "source_repo": "heavy3-ai/code-audit",
+      "local_path": "research/218-methodology_583c5608",
+      "category": "research",
+      "name": "methodology_583c5608",
+      "indexed_at": "2026-02-12T13:21:59.650298",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-02-09T02:07:53+00:00",
+      "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/METHODOLOGY.md",
+      "display_name": "Methodology",
+      "tags": "[\"research\"]"
     }
   ]
 }
