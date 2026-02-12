@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2423 AI-powered skills** organized into 14 categories.
+A curated collection of **2466 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,17 +11,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (237 skills)
 - **Automation/Workflow** (84 skills)
 - **Commercial** (263 skills)
-- **Communication** (61 skills)
+- **Communication** (60 skills)
 - **Content Creation** (522 skills)
 - **Daily Assistant** (71 skills)
 - **Data Analysis** (222 skills)
-- **Development** (453 skills)
-- **Development/Devops** (185 skills)
+- **Development** (461 skills)
+- **Development/Devops** (196 skills)
 - **Development/Testing** (96 skills)
-- **Development/Tools** (121 skills)
+- **Development/Tools** (147 skills)
 - **Investment** (15 skills)
 - **Productivity** (19 skills)
-- **Research** (74 skills)
+- **Research** (73 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -495,7 +495,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_9086c123/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/SKILL.md) | ⭐ 212 | `automation` |
 | [Usage Guide](automation/workflow/031-usage-guide_8b5fe2f9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/usage-guide.md) | ⭐ 212 | `automation` |
 | [N8N V2 Integration Plan](automation/workflow/132-n8n_v2_integration_plan_a9bba2df/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/N8N_V2_INTEGRATION_PLAN.md) | ⭐ 251 | `automation` |
-| [Skill](automation/workflow/name-skill_fa975b32/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.9k | `automation` |
+| [Skill](automation/workflow/002-name-skill_d9a75368/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.6k | `automation` |
 | [Skill](automation/workflow/002-name-skill_97a1ce37/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 6.7k | `automation` |
 | [Skill](automation/workflow/002-name-skill_196ff52e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/antigravity-workflows/SKILL.md) | 🔥 8.2k | `automation` |
 | [Skill](automation/workflow/002-name-skill_39604611/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/atlassian-admin/SKILL.md) | ⭐ 1.7k | `automation` |
@@ -779,7 +779,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mode Selection Guide](commercial/366-mode-selection-guide_e578e48d/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/mode-selection-guide.md) | ⭐ 1.0k | `commercial` |
 | [01 Architecture](commercial/283-01-architecture_ab1576ab/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
 
-### Communication (61 skills)
+### Communication (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -843,7 +843,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Starter Kit](communication/250-starter_kit_d2c405e9/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/STARTER_KIT.md) | ⭐ 2.0k | `communication` |
 | [Group Chat Guide](communication/251-group_chat_guide_133ae980/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/advanced/GROUP_CHAT_GUIDE.md) | ⭐ 2.0k | `communication` |
 | [Skill](communication/252-preview-skill_1bbd748a/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram-post/SKILL.md) | ⭐ 11 | `communication` |
-| [Why Conditional Edge Priority](communication/why-conditional-edge-priority_8171b604/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/why-conditional-edge-priority.md) | 🔥 6.9k | `communication` |
 
 ### Content Creation (522 skills)
 
@@ -1446,7 +1445,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_0dc16cf2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 96 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_936cba2c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.3k | `daily assistant` |
 | [Configuration](daily-assistant/262-configuration_d9c0f34d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 56 | `daily assistant` |
-| [Roadmap Developer Success](daily-assistant/roadmap-developer-success_fda9cd49/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md) | 🔥 6.9k | `daily assistant` |
+| [Roadmap Developer Success](daily-assistant/262-roadmap-developer-success_fda9cd49/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md) | 🔥 6.9k | `daily assistant` |
 
 ### Data Analysis (222 skills)
 
@@ -1650,7 +1649,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tools](data-analysis/469-tools_fe7b9b37/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/tools.md) | ⭐ 251 | `data analysis` |
 | [Api Format Comparison](data-analysis/470-api_format_comparison_4160a6fd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/API_FORMAT_COMPARISON.md) | ⭐ 251 | `data analysis` |
 | [Tool Calling Cascade Strategy](data-analysis/471-tool_calling_cascade_strategy_536cbf9e/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/TOOL_CALLING_CASCADE_STRATEGY.md) | ⭐ 251 | `data analysis` |
-| [Runtime Logging](data-analysis/runtime_logging_94b508db/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.9k | `data analysis` |
+| [Runtime Logging](data-analysis/394-runtime_logging_512413ff/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.6k | `data analysis` |
 | [Managed Environment Pools](data-analysis/472-managed-environment-pools_67965903/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/docs/specifications/managed-environment-pools.md) | ⭐ 73 | `data analysis` |
 | [Create Data Extensions](data-analysis/473-create-data-extensions_e9ff30a0/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/codeql/workflows/create-data-extensions.md) | ⭐ 2.5k | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_817096d4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
@@ -1672,10 +1671,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Respond Pr Feedback](data-analysis/375-respond-pr-feedback_7cf0bf27/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-core/commands/respond-pr-feedback.md) | ⭐ 22 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_40afcbc6/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 181 | `data analysis` |
 | [02 Resources](data-analysis/437-02-resources_0ca5c0b5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/02-resources.md) | ⭐ 1.1k | `data analysis` |
-| [Goals Outcome](data-analysis/goals_outcome_284ee522/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/key_concepts/goals_outcome.md) | 🔥 6.9k | `data analysis` |
+| [Goals Outcome](data-analysis/393-goals_outcome_284ee522/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/key_concepts/goals_outcome.md) | 🔥 6.9k | `data analysis` |
 | [Runtime Logging](data-analysis/394-runtime_logging_94b508db/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RUNTIME_LOGGING.md) | 🔥 6.9k | `data analysis` |
 
-### Development (453 skills)
+### Development (461 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2058,7 +2057,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Universal Tool Calling Strategy](development/2814-universal_tool_calling_strategy_e6f92351/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/UNIVERSAL_TOOL_CALLING_STRATEGY.md) | ⭐ 251 | `development` |
 | [Migration](development/2204-migration_123ce55b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/core/MIGRATION.md) | ⭐ 251 | `development` |
 | [Config](development/190-config_5257307c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/config.md) | ⭐ 251 | `development` |
-| [Developer Guide](development/developer-guide_0da62394/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.9k | `development` |
+| [Developer Guide](development/282-developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
 | [Index](development/468-index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
 | [Actions Reference](development/010-actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
 | [Review Tui](development/2065-review-tui_f55c0420/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-tui.md) | ⭐ 21 | `development` |
@@ -2130,10 +2129,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Github Guide](development/2846-github_guide_32d75343/) | [julianghadially/CodeEvolver](https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/specs/github_guide.md) | ⭐ 10 | `development` |
 | [Learning Mascot](development/2722-learning-mascot_d4a28400/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-installer/references/learning-mascot.md) | ⭐ 16 | `development` |
 | [Developer Guide](development/282-developer-guide_0da62394/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.9k | `development` |
-| [Agent Runtime](development/agent_runtime_31c46b45/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/agent_runtime.md) | 🔥 6.9k | `development` |
-| [Skill](development/name-skill_0fafa787/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-test/SKILL.md) | 🔥 6.9k | `development` |
+| [Readme Flat Claude Md Az](development/readme_flat_claude-md_az_79249ca0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Claude Md Created](development/readme_flat_claude-md_created_e5d44509/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Claude Md Updated](development/readme_flat_claude-md_updated_dcd5b590/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Commands Az](development/readme_flat_commands_az_b51a8e89/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Commands Created](development/readme_flat_commands_created_0d1bf256/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Commands Updated](development/readme_flat_commands_updated_d6fda194/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Skills Az](development/readme_flat_skills_az_b0a864a3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Skills Created](development/readme_flat_skills_created_d7dec40f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Skills Releases](development/readme_flat_skills_releases_3f73f371/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Skills Updated](development/readme_flat_skills_updated_9dc6f67c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.4k | `development` |
 
-### Development/Devops (185 skills)
+### Development/Devops (196 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2172,7 +2179,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Util Playerslottoplayercontroller](development/devops/296-util_playerslottoplayercontroller_8a494e38/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/docs/UTIL_PlayerSlotToPlayerController.md) | ⭐ 13 | `development` |
 | [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
-| [Readme Zh](development/devops/readme_zh_9452441a/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
+| [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
 | [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
 | [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
@@ -2263,7 +2270,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Integrations](development/devops/346-integrations_3afd07ff/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/integrations.md) | ⭐ 14 | `development` |
 | [Python Versions](development/devops/347-python-versions_d5d013b5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/uv-skill/references/python-versions.md) | ⭐ 14 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_41278fe7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-applicationset-skill/references/troubleshooting/troubleshooting.md) | ⭐ 14 | `development` |
-| [Release Notes](development/devops/148-release_notes_e581e6dd/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 112 | `development` |
+| [Release Notes](development/devops/release_notes_853c9b23/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 113 | `development` |
 | [Copilot Instructions](development/devops/309-copilot-instructions_5f071b26/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 60 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_c008178a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 60 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_d53aa530/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
@@ -2319,9 +2326,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Architecture](development/devops/313-01-architecture_b7eb1272/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 1.1k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_f991080f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
 | [Readme Zh](development/devops/298-readme_zh_9452441a/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
-| [Environment Setup](development/devops/environment-setup_c2a42c91/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 6.9k | `development` |
-| [Skill](development/devops/name-skill_863ff9d1/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 6.9k | `development` |
-| [Hive](development/devops/hive_8e22858d/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.opencode/agents/hive.md) | 🔥 6.9k | `development` |
+| [Environment Setup](development/devops/200-environment-setup_c2a42c91/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 6.9k | `development` |
+| [Skill](development/devops/014-name-skill_863ff9d1/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 6.9k | `development` |
+| [Readme Awesome](development/devops/readme_awesome_68beb221/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 23.4k | `development` |
+| [Readme Classic](development/devops/readme_classic_48ec5e89/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 23.4k | `development` |
+| [Readme Extra](development/devops/readme_extra_3170d898/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_EXTRA.md) | 🔥 23.4k | `development` |
+| [Readme Flat All Az](development/devops/readme_flat_all_az_21767c7e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat All Created](development/devops/readme_flat_all_created_ea657c93/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat All Releases](development/devops/readme_flat_all_releases_dd49334b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat All Updated](development/devops/readme_flat_all_updated_ac61ccd1/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Tooling Az](development/devops/readme_flat_tooling_az_b89b5a67/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Tooling Created](development/devops/readme_flat_tooling_created_ab844abd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Tooling Releases](development/devops/readme_flat_tooling_releases_ddd39700/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Tooling Updated](development/devops/readme_flat_tooling_updated_4e7ff3b9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.4k | `development` |
+| [Release Notes](development/devops/148-release_notes_853c9b23/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 113 | `development` |
 
 ### Development/Testing (96 skills)
 
@@ -2424,7 +2442,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ops Guide](development/testing/084-ops_guide_0fceee1a/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 | [Socratic Questioning](development/testing/081-socratic-questioning_88b0567e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/socratic-questioning.md) | ⭐ 1.0k | `development` |
 
-### Development/Tools (121 skills)
+### Development/Tools (147 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2445,9 +2463,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implementation Summary](development/tools/277-implementation_summary_eba1671f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/IMPLEMENTATION_SUMMARY.md) | 🔥 19.8k | `development` |
 | [Configuration](development/tools/189-configuration_6f3666ac/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/configuration.md) | 🔥 19.8k | `development` |
 | [Gotchas](development/tools/276-gotchas_30378f48/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/cloudflare-deploy/references/zaraz/gotchas.md) | 🔥 19.8k | `development` |
-| [Skill](development/tools/name-skill_941c8072/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.9k | `development` |
+| [Skill](development/tools/002-name-skill_e7e8cd22/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.4k | `development` |
 | [Skill](development/tools/002-name-skill_4300d59f/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive/SKILL.md) | 🔥 6.4k | `development` |
-| [Resumable Sessions Design](development/tools/resumable_sessions_design_8185277d/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.9k | `development` |
+| [Resumable Sessions Design](development/tools/278-resumable_sessions_design_a4c2d0a2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.4k | `development` |
 | [Skill](development/tools/002-name-skill_081935a6/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/screenshot/SKILL.md) | ⭐ 27 | `development` |
 | [How To Build A Tool](development/tools/279-how_to_build_a_tool_33641d4a/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/tools/HOW_TO_BUILD_A_TOOL.md) | ⭐ 389 | `development` |
 | [Skill](development/tools/280-use-skill_07e2fc35/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/.claude/skills/contextvar-remediation/SKILL.md) | ⭐ 389 | `development` |
@@ -2549,6 +2567,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [05 Sessions](development/tools/287-05-sessions_7403180a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 1.1k | `development` |
 | [Skill](development/tools/002-name-skill_941c8072/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.9k | `development` |
 | [Resumable Sessions Design](development/tools/278-resumable_sessions_design_8185277d/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/runtime/RESUMABLE_SESSIONS_DESIGN.md) | 🔥 6.9k | `development` |
+| [Readme Flat Claude Md Releases](development/tools/readme_flat_claude-md_releases_69f75df3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Clients Az](development/tools/readme_flat_clients_az_d9ed5597/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Clients Created](development/tools/readme_flat_clients_created_fe197583/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Clients Releases](development/tools/readme_flat_clients_releases_a013972e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Clients Updated](development/tools/readme_flat_clients_updated_7f4af778/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Commands Releases](development/tools/readme_flat_commands_releases_dbb997b6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Docs Az](development/tools/readme_flat_docs_az_feac4f8e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Docs Created](development/tools/readme_flat_docs_created_eb7e1b4a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Docs Releases](development/tools/readme_flat_docs_releases_528bdfea/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Docs Updated](development/tools/readme_flat_docs_updated_4e12c9af/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Hooks Az](development/tools/readme_flat_hooks_az_4c112293/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Hooks Created](development/tools/readme_flat_hooks_created_7e620d7c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Hooks Releases](development/tools/readme_flat_hooks_releases_f6c8bb87/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Hooks Updated](development/tools/readme_flat_hooks_updated_0b6b0c62/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Statusline Az](development/tools/readme_flat_statusline_az_319b381e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Statusline Created](development/tools/readme_flat_statusline_created_cb546dbd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Statusline Releases](development/tools/readme_flat_statusline_releases_9fb65855/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Statusline Updated](development/tools/readme_flat_statusline_updated_55e6d7c0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Styles Az](development/tools/readme_flat_styles_az_781a7c5c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Styles Created](development/tools/readme_flat_styles_created_129b015e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Styles Releases](development/tools/readme_flat_styles_releases_dddd5f9a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Styles Updated](development/tools/readme_flat_styles_updated_982b0c22/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Workflows Az](development/tools/readme_flat_workflows_az_83db2b9e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 23.4k | `development` |
+| [Readme Flat Workflows Created](development/tools/readme_flat_workflows_created_810f6ea3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.4k | `development` |
+| [Readme Flat Workflows Releases](development/tools/readme_flat_workflows_releases_9f69599e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.4k | `development` |
+| [Readme Flat Workflows Updated](development/tools/readme_flat_workflows_updated_3625822d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.4k | `development` |
 
 ### Investment (15 skills)
 
@@ -2594,7 +2638,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reducers](productivity/173-reducers_a7cb246e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/reducers.md) | ⭐ 35 | `productivity` |
 | [Evidence Audit](productivity/173-evidence-audit_9e39b8c7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/evidence-audit.md) | ⭐ 1.0k | `productivity` |
 
-### Research (74 skills)
+### Research (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2671,7 +2715,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Schema Patterns](research/257-schema-patterns_afda765e/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-state-management/references/schema-patterns.md) | ⭐ 35 | `research` |
 | [Citation](research/256-citation_73cd33fb/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/CITATION.md) | ⭐ 2.0k | `research` |
 | [Overview](research/257-overview_0dc3a895/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/OVERVIEW.md) | ⭐ 2.0k | `research` |
-| [Testing Youtube Agent](research/testing-youtube-agent_b64a0ca8/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-test/examples/testing-youtube-agent.md) | 🔥 6.9k | `research` |
 
 ## How Skills Are Organized
 
@@ -2723,5 +2766,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 00:03:28 UTC*
+*Last updated: 2026-02-12 01:00:58 UTC*
 *Automatically maintained by SkillFlow*
