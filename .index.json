@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T18:22:28.659691",
+  "updated_at": "2026-02-12T18:22:31.719238",
   "skills": [
     {
       "file_hash": "163d09dc12d44d402850504ca64d4a6b28f5a5a53573f7d7ca0fb96655452885",
@@ -2759,6 +2759,20 @@
       "source_url": "https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "1163129ba76134ba6d5ef073d7e9b1eeea2a368707cf02398ec8af6ec0fee5f7",
+      "source_path": "RELEASE_DESCRIPTION.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/tools/327-release_description_1163129b",
+      "category": "development/tools",
+      "name": "release_description_1163129b",
+      "indexed_at": "2026-02-12T18:22:31.719185",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-12T15:39:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md",
+      "display_name": "Release Description",
+      "tags": "[\"development\"]"
     }
   ]
 }
