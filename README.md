@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2875 AI-powered skills** organized into 14 categories.
+A curated collection of **2883 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,12 +11,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (247 skills)
 - **Automation/Workflow** (100 skills)
 - **Commercial** (326 skills)
-- **Communication** (112 skills)
-- **Content Creation** (555 skills)
-- **Daily Assistant** (110 skills)
-- **Data Analysis** (251 skills)
-- **Development** (533 skills)
-- **Development/Devops** (204 skills)
+- **Communication** (111 skills)
+- **Content Creation** (556 skills)
+- **Daily Assistant** (113 skills)
+- **Data Analysis** (253 skills)
+- **Development** (530 skills)
+- **Development/Devops** (210 skills)
 - **Development/Testing** (97 skills)
 - **Development/Tools** (167 skills)
 - **Investment** (27 skills)
@@ -430,7 +430,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_bbd59174/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/food-label-review/SKILL.md) | ⭐ 35 | `automation` |
 | [Orc](automation/scripting/092-orc_c73b8853/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 611 | `automation` |
 | [Review](automation/scripting/093-review_2fafdc8d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 611 | `automation` |
-| [Neon Drizzle](automation/scripting/neon-drizzle_91a4fc0b/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-drizzle.md) | ⭐ 22 | `automation` |
+| [Skill](automation/scripting/name-skill_214709d7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 16 | `automation` |
 
 ### Automation/Workflow (100 skills)
 
@@ -866,9 +866,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](commercial/107-instructions_a8353b22/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/outreach/paid_ads/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_3680c40a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/sidecar_product_builder/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_5a4ed48e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/usage_retention_optimizer/instructions.md) | ⭐ 13 | `commercial` |
-| [Neon Python Sdk](commercial/neon-python-sdk_5e550b4c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-python-sdk.md) | ⭐ 22 | `commercial` |
+| [Neon Python Sdk](commercial/370-neon-python-sdk_5e550b4c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-python-sdk.md) | ⭐ 22 | `commercial` |
 
-### Communication (112 skills)
+### Communication (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -981,11 +981,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/250-instructions_fbf5b25b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/tools/connect_apps/instructions.md) | ⭐ 13 | `communication` |
 | [Instructions](communication/250-instructions_47ce4661/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/ai_gtm_automator/instructions.md) | ⭐ 13 | `communication` |
 | [Instructions](communication/250-instructions_4136d699/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_pricing_architect/instructions.md) | ⭐ 13 | `communication` |
-| [Neon Js](communication/neon-js_759310d0/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-js.md) | ⭐ 22 | `communication` |
-| [Neon Typescript Sdk](communication/neon-typescript-sdk_a9786dc7/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-typescript-sdk.md) | ⭐ 22 | `communication` |
-| [Neon Auth](communication/neon-auth_78a76f9d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-auth.md) | ⭐ 22 | `communication` |
+| [Neon Js](communication/253-neon-js_759310d0/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-js.md) | ⭐ 22 | `communication` |
+| [Neon Typescript Sdk](communication/254-neon-typescript-sdk_a9786dc7/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-typescript-sdk.md) | ⭐ 22 | `communication` |
 
-### Content Creation (555 skills)
+### Content Creation (556 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1544,8 +1543,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](content-creation/007-claude_c306fd01/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
 | [Btf](content-creation/352-btf_b40ba3ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/btf.md) | ⭐ 611 | `content creation` |
 | [Desktop App Guide En](content-creation/349-desktop-app-guide_en_b8b9a7cc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 54 | `content creation` |
+| [Skill](content-creation/name-skill_7d0bffc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/xiaohongshu-writer/SKILL.md) | ⭐ 23 | `content creation` |
 
-### Daily Assistant (110 skills)
+### Daily Assistant (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1568,7 +1568,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_ee453258/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/get-plan-status/SKILL.md) | ⭐ 47 | `daily assistant` |
 | [Prompting Style Guide](daily-assistant/234-prompting-style-guide_fa59148a/) | [deanpeters/product-manager-prompts](https://raw.githubusercontent.com/deanpeters/product-manager-prompts/main/prompting-style-guide.md) | ⭐ 546 | `daily assistant` |
 | [Architect.Agent](daily-assistant/204-architectagent_b82ff56f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/architect.agent.md) | ⭐ 60 | `daily assistant` |
-| [Bicep Plan.Agent](daily-assistant/235-bicep-planagent_6c7db865/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 60 | `Environment` `ManagedBy` `Project` |
+| [Bicep Plan.Agent](daily-assistant/bicep-planagent_f660c670/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 60 | `Environment` `ManagedBy` `Project` |
 | [Requirements.Agent](daily-assistant/236-requirementsagent_805e0717/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 60 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_5da5923c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 60 | `daily assistant` |
 | [Freshness Checklist](daily-assistant/237-freshness-checklist_d8b54f58/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/freshness-checklist.md) | ⭐ 60 | `daily assistant` |
@@ -1590,9 +1590,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](daily-assistant/249-installation_64faf7ec/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Installation.md) | ⭐ 14 | `daily assistant` |
 | [Triggers](daily-assistant/250-triggers_4d400fd5/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/robusta-dev-skill/references/Triggers.md) | ⭐ 14 | `daily assistant` |
 | [Architect.Agent](daily-assistant/204-architectagent_91884061/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/architect.agent.md) | ⭐ 60 | `daily assistant` |
-| [Bicep Code.Agent](daily-assistant/251-bicep-codeagent_f07a2c74/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-code.agent.md) | ⭐ 60 | `daily assistant` |
+| [Bicep Code.Agent](daily-assistant/bicep-codeagent_2f8797dc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-code.agent.md) | ⭐ 60 | `daily assistant` |
 | [Bicep Plan.Agent](daily-assistant/235-bicep-planagent_a01bd232/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 60 | `Environment` `ManagedBy` `Project` |
-| [Deploy.Agent](daily-assistant/252-deployagent_04b357be/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 60 | `daily assistant` |
+| [Deploy.Agent](daily-assistant/deployagent_6f05367a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 60 | `daily assistant` |
 | [Diagnose.Agent](daily-assistant/253-diagnoseagent_23a79c06/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/diagnose.agent.md) | ⭐ 60 | `daily assistant` |
 | [Requirements.Agent](daily-assistant/236-requirementsagent_1943d41c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 60 | `daily assistant` |
 | [Agents Definitions.Instructions](daily-assistant/206-agents-definitionsinstructions_4e106ef1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agents-definitions.instructions.md) | ⭐ 60 | `daily assistant` |
@@ -1659,8 +1659,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](daily-assistant/089-instructions_5490ad55/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/product_led_sales/instructions.md) | ⭐ 13 | `daily assistant` |
 | [Locking](daily-assistant/263-locking_16e1fa5c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/locking.md) | ⭐ 611 | `daily assistant` |
 | [Scheduler](daily-assistant/264-scheduler_f3365e4e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/scheduler.md) | ⭐ 611 | `daily assistant` |
+| [Bicep Code.Agent](daily-assistant/251-bicep-codeagent_2f8797dc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-code.agent.md) | ⭐ 60 | `daily assistant` |
+| [Bicep Plan.Agent](daily-assistant/235-bicep-planagent_f660c670/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 60 | `Environment` `ManagedBy` `Project` |
+| [Deploy.Agent](daily-assistant/252-deployagent_6f05367a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 60 | `daily assistant` |
 
-### Data Analysis (251 skills)
+### Data Analysis (253 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1915,8 +1918,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](data-analysis/481-instructions_65e16ba5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/pricing_strategy/instructions.md) | ⭐ 13 | `data analysis` |
 | [Cleanup](data-analysis/477-cleanup_eb3c24c9/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/cleanup.md) | ⭐ 611 | `data analysis` |
 | [Privacy](data-analysis/482-privacy_75152c5b/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/PRIVACY.md) | ⭐ 15 | `data analysis` |
+| [Governance Discovery.Instructions](data-analysis/governance-discoveryinstructions_3a63b500/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/governance-discovery.instructions.md) | ⭐ 60 | `data analysis` |
+| [04 Implementation Plan.Template](data-analysis/04-implementation-plantemplate_d8d0c649/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-implementation-plan.template.md) | ⭐ 60 | `data analysis` |
 
-### Development (533 skills)
+### Development (530 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2152,7 +2157,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference](development/828-reference_ded62b7e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudfront/references/reference.md) | ⭐ 88 | `development` |
 | [Copilot Instructions](development/1781-copilot-instructions_418f4ce5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github-archive-pre-skill-migration/copilot-instructions.md) | ⭐ 60 | `development` |
 | [Diagnose.Agent](development/2115-diagnoseagent_46816c37/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/diagnose.agent.md) | ⭐ 60 | `development` |
-| [Infraops Conductor.Agent](development/2701-infraops-conductoragent_a17e97cb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 60 | `development` |
+| [Infraops Conductor.Agent](development/infraops-conductoragent_1e5a24a0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 60 | `development` |
 | [Skill](development/1178-name-skill_c7b02970/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/SKILL.md) | ⭐ 60 | `development` |
 | [Doc Standards](development/2702-doc-standards_0d57b4d0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/doc-standards.md) | ⭐ 60 | `development` |
 | [01 Overview](development/2703-01-overview_90e5bef3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
@@ -2447,14 +2452,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Validation](development/1120-validation_73f1cea2/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/loom/VALIDATION.md) | ⭐ 11 | `development` |
 | [Maestro Mcp Setup](development/2247-maestro-mcp-setup_3b87dca8/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/maestro-mcp-setup.md) | ⭐ 11 | `development` |
 | [Maestro Smoke Contract](development/2248-maestro-smoke-contract_614b3f20/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/maestro-smoke-contract.md) | ⭐ 11 | `development` |
-| [Getting Started](development/getting-started_e84844e4/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/getting-started.md) | ⭐ 22 | `development` |
-| [Neon Serverless](development/neon-serverless_3766cb1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-serverless.md) | ⭐ 22 | `development` |
-| [Skill](development/name-skill_55f91b96/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/SKILL.md) | ⭐ 22 | `development` |
-| [Connection Methods](development/connection-methods_bf16392c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/connection-methods.md) | ⭐ 22 | `development` |
-| [Devtools](development/devtools_6a13c3f8/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/devtools.md) | ⭐ 22 | `development` |
-| [What Is Neon](development/what-is-neon_70d30cf5/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/what-is-neon.md) | ⭐ 22 | `development` |
+| [Getting Started](development/421-getting-started_e84844e4/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/getting-started.md) | ⭐ 22 | `development` |
+| [Neon Serverless](development/2868-neon-serverless_3766cb1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-serverless.md) | ⭐ 22 | `development` |
+| [Infraops Conductor.Agent](development/2701-infraops-conductoragent_1e5a24a0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 60 | `development` |
 
-### Development/Devops (204 skills)
+### Development/Devops (210 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2510,11 +2512,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_4427bbc2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-lambda/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `lambda` |
 | [Skill](development/devops/014-name-skill_ddf35e08/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `github-actions` |
 | [Skill](development/devops/014-name-skill_8f10b091/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-vpc/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `vpc` |
-| [Copilot Instructions](development/devops/309-copilot-instructions_f08289fb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 60 | `development` |
+| [Copilot Instructions](development/devops/copilot-instructions_46d2cadd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 60 | `development` |
 | [Glossary](development/devops/206-glossary_f661ce6d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/GLOSSARY.md) | ⭐ 60 | `development` |
 | [Quickstart](development/devops/179-quickstart_f9140d98/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/quickstart.md) | ⭐ 60 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_d93dd19b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 60 | `development` |
-| [Skill](development/devops/014-name-skill_edf8f0b1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
+| [Skill](development/devops/name-skill_c9c3234b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_45b8a5e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
 | [Server Cli Design](development/devops/145-server-cli-design_73151ca3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
 | [07 System](development/devops/311-07-system_12adb7cb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-system.md) | ⭐ 1.1k | `development` |
@@ -2656,12 +2658,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/devops/148-release_notes_853c9b23/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 113 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_718e94d3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/TROUBLESHOOTING.md) | ⭐ 13 | `development` |
 | [Readme Cn](development/devops/194-readme_cn_49929c75/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 54 | `development` |
-| [Agents](development/devops/agents_c766fe1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/AGENTS.md) | ⭐ 22 | `development` |
-| [Features](development/devops/features_bd8cccc2/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/features.md) | ⭐ 22 | `development` |
-| [Neon Cli](development/devops/neon-cli_f5da5b0c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-cli.md) | ⭐ 22 | `development` |
-| [Neon Platform Api](development/devops/neon-platform-api_e46586ec/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-platform-api.md) | ⭐ 22 | `development` |
-| [Claude](development/devops/claude_3fb798a2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/CLAUDE.md) | ⭐ 140 | `development` |
-| [Referencing Docs](development/devops/referencing-docs_9702f638/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/referencing-docs.md) | ⭐ 22 | `development` |
+| [Agents](development/devops/053-agents_c766fe1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Features](development/devops/361-features_bd8cccc2/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/features.md) | ⭐ 22 | `development` |
+| [Neon Cli](development/devops/362-neon-cli_f5da5b0c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-cli.md) | ⭐ 22 | `development` |
+| [Neon Platform Api](development/devops/363-neon-platform-api_e46586ec/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-platform-api.md) | ⭐ 22 | `development` |
+| [Claude](development/devops/205-claude_3fb798a2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/CLAUDE.md) | ⭐ 140 | `development` |
+| [Copilot Instructions](development/devops/309-copilot-instructions_46d2cadd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 60 | `development` |
+| [01 Requirements](development/devops/01-requirements_239c9d32/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/01-requirements.md) | ⭐ 60 | `development` |
+| [02 Architecture Assessment](development/devops/02-architecture-assessment_62f35551/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/02-architecture-assessment.md) | ⭐ 60 | `development` |
+| [03 Des Cost Estimate](development/devops/03-des-cost-estimate_d7866841/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/03-des-cost-estimate.md) | ⭐ 60 | `development` |
+| [04 Governance Constraints](development/devops/04-governance-constraints_a6c5e38f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-governance-constraints.md) | ⭐ 60 | `development` |
+| [04 Implementation Plan](development/devops/04-implementation-plan_db59682e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 60 | `development` |
+| [Skill](development/devops/014-name-skill_c9c3234b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
 
 ### Development/Testing (97 skills)
 
@@ -3175,5 +3183,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 04:03:30 UTC*
+*Last updated: 2026-02-12 06:00:58 UTC*
 *Automatically maintained by SkillFlow*
