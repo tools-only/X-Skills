@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2885 AI-powered skills** organized into 14 categories.
+A curated collection of **2937 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (247 skills)
-- **Automation/Workflow** (100 skills)
+- **Automation/Scripting** (250 skills)
+- **Automation/Workflow** (101 skills)
 - **Commercial** (326 skills)
-- **Communication** (111 skills)
-- **Content Creation** (556 skills)
-- **Daily Assistant** (115 skills)
-- **Data Analysis** (252 skills)
-- **Development** (531 skills)
-- **Development/Devops** (210 skills)
-- **Development/Testing** (97 skills)
+- **Communication** (112 skills)
+- **Content Creation** (564 skills)
+- **Daily Assistant** (118 skills)
+- **Data Analysis** (257 skills)
+- **Development** (549 skills)
+- **Development/Devops** (212 skills)
+- **Development/Testing** (100 skills)
 - **Development/Tools** (167 skills)
-- **Investment** (27 skills)
-- **Productivity** (65 skills)
-- **Research** (81 skills)
+- **Investment** (28 skills)
+- **Other** (2 skills)
+- **Productivity** (68 skills)
+- **Research** (83 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -180,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (247 skills)
+### Automation/Scripting (250 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -431,8 +432,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orc](automation/scripting/092-orc_c73b8853/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 611 | `automation` |
 | [Review](automation/scripting/093-review_2fafdc8d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 611 | `automation` |
 | [Skill](automation/scripting/003-name-skill_214709d7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 16 | `automation` |
+| [Persian Translator](automation/scripting/persian-translator_8b474243/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/persian-translator.md) | ⭐ 10 | `automation` |
+| [Clean Transcription](automation/scripting/clean-transcription_d94b3df4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/clean-transcription.md) | ⭐ 10 | `automation` |
+| [Fix Alert](automation/scripting/fix-alert_3e37207a/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-alert.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (100 skills)
+### Automation/Workflow (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -536,6 +540,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/137-instructions_ca05803f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/revops/commit_accuracy/instructions.md) | ⭐ 13 | `automation` |
 | [Instructions](automation/workflow/137-instructions_dd66b07d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/support_ops/support_sentiment_tracker/instructions.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_78df56bc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 65 | `automation` |
+| [Rocq Pro](automation/workflow/rocq-pro_e0009f31/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/rocq-pro.md) | ⭐ 10 | `automation` |
 
 ### Commercial (326 skills)
 
@@ -868,7 +873,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](commercial/107-instructions_5a4ed48e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/usage_retention_optimizer/instructions.md) | ⭐ 13 | `commercial` |
 | [Neon Python Sdk](commercial/370-neon-python-sdk_5e550b4c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-python-sdk.md) | ⭐ 22 | `commercial` |
 
-### Communication (111 skills)
+### Communication (112 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -983,8 +988,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/250-instructions_4136d699/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_pricing_architect/instructions.md) | ⭐ 13 | `communication` |
 | [Neon Js](communication/253-neon-js_759310d0/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-js.md) | ⭐ 22 | `communication` |
 | [Neon Typescript Sdk](communication/254-neon-typescript-sdk_a9786dc7/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-typescript-sdk.md) | ⭐ 22 | `communication` |
+| [Fix Integration](communication/fix-integration_51a97f13/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-integration.md) | ⭐ 10 | `communication` |
 
-### Content Creation (556 skills)
+### Content Creation (564 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1544,8 +1550,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Btf](content-creation/352-btf_b40ba3ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/btf.md) | ⭐ 611 | `content creation` |
 | [Desktop App Guide En](content-creation/349-desktop-app-guide_en_b8b9a7cc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 54 | `content creation` |
 | [Skill](content-creation/049-name-skill_7d0bffc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/xiaohongshu-writer/SKILL.md) | ⭐ 23 | `content creation` |
+| [Fix Github Issue](content-creation/fix-github-issue_d3698e6e/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-github-issue.md) | ⭐ 10 | `content creation` |
+| [Rebase](content-creation/rebase_b3fc2ac3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/rebase.md) | ⭐ 10 | `content creation` |
+| [Review Github Pr](content-creation/review-github-pr_c1ae52c4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/review-github-pr.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_884a9c75/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/persian/SKILL.md) | ⭐ 10 | `content creation` |
+| [Fix Transcript](content-creation/fix-transcript_b73bdad7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-transcript.md) | ⭐ 10 | `content creation` |
+| [Proofread](content-creation/proofread_6c38fcb5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/proofread.md) | ⭐ 10 | `content creation` |
+| [Smooth](content-creation/smooth_ca213869/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/smooth.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_c2c5afa5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/caveman/SKILL.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (115 skills)
+### Daily Assistant (118 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1662,10 +1676,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bicep Code.Agent](daily-assistant/251-bicep-codeagent_2f8797dc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-code.agent.md) | ⭐ 60 | `daily assistant` |
 | [Bicep Plan.Agent](daily-assistant/235-bicep-planagent_f660c670/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 60 | `Environment` `ManagedBy` `Project` |
 | [Deploy.Agent](daily-assistant/252-deployagent_6f05367a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 60 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_ee0d01b8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/SKILL.md) | ⭐ 40 | `daily assistant` |
-| [Deep Agents Reference](daily-assistant/deep-agents-reference_94976b04/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/references/deep-agents-reference.md) | ⭐ 40 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_ee0d01b8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/SKILL.md) | ⭐ 40 | `daily assistant` |
+| [Deep Agents Reference](daily-assistant/265-deep-agents-reference_94976b04/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/references/deep-agents-reference.md) | ⭐ 40 | `daily assistant` |
+| [Webfix](daily-assistant/webfix_505436e2/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/webfix.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_d5ef7f01/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/nixos/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Process Checklist](daily-assistant/process-checklist_7fa3f05b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/process-checklist.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (252 skills)
+### Data Analysis (257 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1921,8 +1938,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cleanup](data-analysis/477-cleanup_eb3c24c9/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/cleanup.md) | ⭐ 611 | `data analysis` |
 | [Privacy](data-analysis/482-privacy_75152c5b/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/PRIVACY.md) | ⭐ 15 | `data analysis` |
 | [Governance Discovery.Instructions](data-analysis/381-governance-discoveryinstructions_3a63b500/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/governance-discovery.instructions.md) | ⭐ 60 | `data analysis` |
+| [Install Service](data-analysis/install-service_470c806b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/install-service.md) | ⭐ 10 | `data analysis` |
+| [Meeting Notes](data-analysis/meeting-notes_9200604b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/meeting-notes.md) | ⭐ 10 | `data analysis` |
+| [Function Snippets](data-analysis/function_snippets_3330c066/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/function_snippets.md) | ⭐ 10 | `data analysis` |
+| [Analyze Pr](data-analysis/analyze-pr_2ed7e0c6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/analyze-pr.md) | ⭐ 10 | `data analysis` |
+| [Transcribe](data-analysis/transcribe_023217c4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/transcribe.md) | ⭐ 10 | `data analysis` |
 
-### Development (531 skills)
+### Development (549 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2336,7 +2358,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_5f431a3a/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/skills/tdd/SKILL.md) | ⭐ 77 | `development` |
 | [Skill](development/1178-name-skill_ad4ce00d/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/code-simplifier/SKILL.md) | ⭐ 184 | `development` |
 | [Prompt Injection Patterns](development/2843-prompt-injection-patterns_fe043847/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-scanner/references/prompt-injection-patterns.md) | ⭐ 184 | `development` |
-| [Agents](development/agents_b2ec6486/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md) | ⭐ 40 | `development` |
+| [Agents](development/028-agents_7675d426/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md) | ⭐ 35 | `development` |
 | [Skill](development/1178-name-skill_1e4cba60/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/SKILL.md) | ⭐ 35 | `development` |
 | [Error Types](development/2842-error-types_8e3c1ad7/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/error-types.md) | ⭐ 35 | `development` |
 | [Llm Recovery](development/2843-llm-recovery_be7f7f81/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/langgraph-error-handling/references/llm-recovery.md) | ⭐ 35 | `development` |
@@ -2457,8 +2479,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Neon Serverless](development/2868-neon-serverless_3766cb1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-serverless.md) | ⭐ 22 | `development` |
 | [Infraops Conductor.Agent](development/2701-infraops-conductoragent_1e5a24a0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 60 | `development` |
 | [Agents](development/028-agents_b2ec6486/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md) | ⭐ 40 | `development` |
+| [Haskell Pro](development/haskell-pro_288078a9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/haskell-pro.md) | ⭐ 10 | `development` |
+| [Nix Pro](development/nix-pro_1727d1e7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/nix-pro.md) | ⭐ 10 | `development` |
+| [Prd Architect](development/prd-architect_763c939f/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/prd-architect.md) | ⭐ 10 | `development` |
+| [Task Breakdown](development/task-breakdown_4dca5866/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/task-breakdown.md) | ⭐ 10 | `development` |
+| [Typescript Pro](development/typescript-pro_f5844c42/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/typescript-pro.md) | ⭐ 10 | `development` |
+| [Commit](development/commit_c20c30b0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/commit.md) | ⭐ 10 | `development` |
+| [Heavy](development/heavy_df9a52ca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
+| [Initialize](development/initialize_4b480f47/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/initialize.md) | ⭐ 10 | `development` |
+| [Medium](development/medium_72a53cc5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md) | ⭐ 10 | `development` |
+| [Prepare With](development/prepare-with_9f7b8686/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/prepare-with.md) | ⭐ 10 | `development` |
+| [Run Orchestrator](development/run-orchestrator_f0822bad/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/run-orchestrator.md) | ⭐ 10 | `development` |
+| [Node Schemas](development/node_schemas_5bc8514d/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/node_schemas.md) | ⭐ 10 | `development` |
+| [Cpp Pro](development/cpp-pro_c9f359d5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/cpp-pro.md) | ⭐ 10 | `development` |
+| [Emacs Lisp Pro](development/emacs-lisp-pro_d20fe41a/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/emacs-lisp-pro.md) | ⭐ 10 | `development` |
+| [Rust Pro](development/rust-pro_6e529551/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/rust-pro.md) | ⭐ 10 | `development` |
+| [Code Review](development/code-review_c3176e4f/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/code-review.md) | ⭐ 10 | `development` |
+| [Push](development/push_114a881b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/push.md) | ⭐ 10 | `development` |
+| [Teams](development/teams_954620f6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/teams.md) | ⭐ 10 | `development` |
 
-### Development/Devops (210 skills)
+### Development/Devops (212 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2672,8 +2712,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Governance Constraints](development/devops/361-04-governance-constraints_a6c5e38f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-governance-constraints.md) | ⭐ 60 | `development` |
 | [04 Implementation Plan](development/devops/362-04-implementation-plan_db59682e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 60 | `development` |
 | [Skill](development/devops/014-name-skill_c9c3234b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
+| [Skill](development/devops/name-skill_d0abb9a8/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/SKILL.md) | ⭐ 10 | `development` |
+| [Api Reference](development/devops/api_reference_edaacef3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/api_reference.md) | ⭐ 10 | `development` |
 
-### Development/Testing (97 skills)
+### Development/Testing (100 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2774,6 +2816,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ops Guide](development/testing/084-ops_guide_0fceee1a/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 | [Socratic Questioning](development/testing/081-socratic-questioning_88b0567e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/socratic-questioning.md) | ⭐ 1.0k | `development` |
 | [Instructions](development/testing/081-instructions_b2fae438/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/devex/sandbox_manager/instructions.md) | ⭐ 13 | `development` |
+| [Python Pro](development/testing/python-pro_9fe54816/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/python-pro.md) | ⭐ 10 | `development` |
+| [Logits](development/testing/logits_fe759f58/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/logits.md) | ⭐ 10 | `development` |
+| [Tron Debug](development/testing/tron-debug_92bbb87b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/tron-debug.md) | ⭐ 10 | `development` |
 
 ### Development/Tools (167 skills)
 
@@ -2947,7 +2992,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_e8cfa449/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/git-cleanup/skills/git-cleanup/SKILL.md) | ⭐ 2.6k | `development` |
 | [Desktop App Guide](development/tools/317-desktop-app-guide_b9e87378/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide.md) | ⭐ 54 | `development` |
 
-### Investment (27 skills)
+### Investment (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2978,8 +3023,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](investment/049-instructions_c3a17500/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/product_ops/impact_analyzer/instructions.md) | ⭐ 13 | `investment` |
 | [Instructions](investment/049-instructions_9589c9b2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/multi_gtm_orchestrator/instructions.md) | ⭐ 13 | `investment` |
 | [Korcreview](investment/048-korcreview_da7e2ab1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/slash-commands/korcreview.md) | ⭐ 611 | `investment` |
+| [Transient Sauteeing Raven](investment/transient-sauteeing-raven_c6d096a4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/plans/transient-sauteeing-raven.md) | ⭐ 10 | `investment` |
 
-### Productivity (65 skills)
+### Other (2 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Nix Rebuild](other/nix-rebuild_817e59a7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/nix-rebuild.md) | ⭐ 10 | `other` |
+| [Port Model](other/port-model_ee94aae6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/port-model.md) | ⭐ 10 | `other` |
+
+### Productivity (68 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3048,8 +3101,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](productivity/142-instructions_7dc1803a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/boyce_plg_audit/instructions.md) | ⭐ 13 | `productivity` |
 | [Instructions](productivity/142-instructions_cf6ca6db/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/enterprise_plg_transition/instructions.md) | ⭐ 13 | `productivity` |
 | [Instructions](productivity/142-instructions_81913eee/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_business_case/instructions.md) | ⭐ 13 | `productivity` |
+| [Remove Service](productivity/remove-service_3f736eca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/remove-service.md) | ⭐ 10 | `productivity` |
+| [Prompt Engineer](productivity/prompt-engineer_2becb155/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/prompt-engineer.md) | ⭐ 10 | `productivity` |
+| [Sql Pro](productivity/sql-pro_d486df0b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/sql-pro.md) | ⭐ 10 | `productivity` |
 
-### Research (81 skills)
+### Research (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3134,6 +3190,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](research/217-instructions_0cde3afc/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/scientific/document-skills/instructions.md) | ⭐ 13 | `research` |
 | [Instructions](research/217-instructions_a8799e0a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/seo/programmatic_seo/instructions.md) | ⭐ 13 | `research` |
 | [Instructions](research/217-instructions_14db80b1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/objective_strategist/instructions.md) | ⭐ 13 | `research` |
+| [Web Searcher](research/web-searcher_8e73d912/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/web-searcher.md) | ⭐ 10 | `research` |
+| [Query Builder](research/query-builder_e6ed156c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/query-builder.md) | ⭐ 10 | `research` |
 
 ## How Skills Are Organized
 
@@ -3185,5 +3243,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 06:01:33 UTC*
+*Last updated: 2026-02-12 07:02:28 UTC*
 *Automatically maintained by SkillFlow*
