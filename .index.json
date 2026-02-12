@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T18:22:31.719238",
+  "updated_at": "2026-02-12T20:22:03.140614",
   "skills": [
     {
       "file_hash": "163d09dc12d44d402850504ca64d4a6b28f5a5a53573f7d7ca0fb96655452885",
@@ -2773,6 +2773,118 @@
       "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md",
       "display_name": "Release Description",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7692babdec87d6bff4f8d63239478d3cdb2ef9cdbfd4b6c8a424238c08adc433",
+      "source_path": "docs/guides/agentic-python.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "development/tools/321-agentic-python_7692babd",
+      "category": "development/tools",
+      "name": "agentic-python_7692babd",
+      "indexed_at": "2026-02-12T20:22:02.509537",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-10T16:46:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-python.md",
+      "display_name": "Agentic Python",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9bf98cfc1212c8797f2fce2ef320fcbc68e4729d33f023fcfc6491b7eadf59da",
+      "source_path": "docs/guides/agentic-typescript.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "daily-assistant/266-agentic-typescript_9bf98cfc",
+      "category": "daily-assistant",
+      "name": "agentic-typescript_9bf98cfc",
+      "indexed_at": "2026-02-12T20:22:02.654015",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-10T16:46:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-typescript.md",
+      "display_name": "Agentic Typescript",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "d67e93fc4be1beedfe628c7ca82f564e51ffc57e5a7f2940b92b904d655e58ee",
+      "source_path": "docs/guides/integrate_fast.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "development/2873-integrate_fast_d67e93fc",
+      "category": "development",
+      "name": "integrate_fast_d67e93fc",
+      "indexed_at": "2026-02-12T20:22:02.827410",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-10T16:46:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/integrate_fast.md",
+      "display_name": "Integrate Fast",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "245c4f4fbadbadc694e9d5f5d8849bacbf5e753341c33bcdf59b630f61bcabd5",
+      "source_path": "docs/guides/langchain_integration.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "development/2811-langchain_integration_245c4f4f",
+      "category": "development",
+      "name": "langchain_integration_245c4f4f",
+      "indexed_at": "2026-02-12T20:22:02.883410",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-10T20:01:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/langchain_integration.md",
+      "display_name": "Langchain Integration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c5427124a9c21086104969ce6162ec794289a05c3e0b4b9b89bc903fb7173f5b",
+      "source_path": "docs/guides/n8n_integration.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "content-creation/341-n8n_integration_c5427124",
+      "category": "content-creation",
+      "name": "n8n_integration_c5427124",
+      "indexed_at": "2026-02-12T20:22:02.949339",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-11T10:47:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md",
+      "display_name": "N8N Integration",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "3781995c917d54baf3ec1863ab06de4f22dd024b56de51e35740a5ff0b076b80",
+      "source_path": "docs/guides/providers.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "content-creation/342-providers_3781995c",
+      "category": "content-creation",
+      "name": "providers_3781995c",
+      "indexed_at": "2026-02-12T20:22:03.021397",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-10T16:46:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md",
+      "display_name": "Providers",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "871de38d5d62293f7ac25cb7bd5da770d0b7b1ec6a8f14483208fc6039f82390",
+      "source_path": "docs/guides/streaming.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "data-analysis/468-streaming_871de38d",
+      "category": "data-analysis",
+      "name": "streaming_871de38d",
+      "indexed_at": "2026-02-12T20:22:03.088108",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-10T16:46:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/streaming.md",
+      "display_name": "Streaming",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "4f4bdc3f110e81c644ab836d51fc7cc78d821f32f66ecade65230a66255e6716",
+      "source_path": "packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md",
+      "source_repo": "lemony-ai/cascadeflow",
+      "local_path": "commercial/364-n8n_compatibility_validation_4f4bdc3f",
+      "category": "commercial",
+      "name": "n8n_compatibility_validation_4f4bdc3f",
+      "indexed_at": "2026-02-12T20:22:03.138309",
+      "repo_stars": 251,
+      "repo_updated_at": "2026-02-11T10:47:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md",
+      "display_name": "N8N Compatibility Validation",
+      "tags": "[\"commercial\"]"
     }
   ]
 }

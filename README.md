@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **199 AI-powered skills** organized into 13 categories.
+A curated collection of **208 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -10,14 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (21 skills)
 - **Automation/Workflow** (2 skills)
+- **Commercial** (1 skill)
 - **Communication** (16 skills)
-- **Content Creation** (18 skills)
-- **Daily Assistant** (19 skills)
-- **Data Analysis** (7 skills)
-- **Development** (52 skills)
+- **Content Creation** (20 skills)
+- **Daily Assistant** (20 skills)
+- **Data Analysis** (8 skills)
+- **Development** (53 skills)
 - **Development/Devops** (5 skills)
-- **Development/Testing** (2 skills)
-- **Development/Tools** (17 skills)
+- **Development/Testing** (3 skills)
+- **Development/Tools** (19 skills)
 - **Investment** (38 skills)
 - **Other** (1 skill)
 - **Research** (1 skill)
@@ -212,6 +213,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Executive Pitch](automation/workflow/067-executive-pitch_61fed1da/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 60 | `automation` |
 | [Detecting Llm Hallucinations In Ci](automation/workflow/138-detecting-llm-hallucinations-in-ci_471c775c/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/guides/detecting-llm-hallucinations-in-ci.md) | ⭐ 43 | `automation` |
 
+### Commercial (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [N8N Compatibility Validation](commercial/n8n_compatibility_validation_4f4bdc3f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
+
 ### Communication (16 skills)
 
 | Skill | Source | Popularity | Tags |
@@ -233,7 +240,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tasks](communication/254-tasks_600ce05f/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-user-scoped-features/tasks.md) | ⭐ 19 | `communication` |
 | [Spec](communication/255-spec_22f7467d/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-user-scoped-features/specs/user-chat-history/spec.md) | ⭐ 19 | `communication` |
 
-### Content Creation (18 skills)
+### Content Creation (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -255,8 +262,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Browser](content-creation/370-browser_27e56b0f/) | [Aider-AI/aider](https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/docs/usage/browser.md) | 🔥 40.5k | `content creation` |
 | [Modes](content-creation/371-modes_77c3d350/) | [Aider-AI/aider](https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/docs/usage/modes.md) | 🔥 40.5k | `content creation` |
 | [Tasks](content-creation/353-tasks_7ac00ad6/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-plugin-data-explorer/tasks.md) | ⭐ 19 | `content creation` |
+| [N8N Integration](content-creation/n8n_integration_c5427124/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
+| [Providers](content-creation/providers_3781995c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
 
-### Daily Assistant (19 skills)
+### Daily Assistant (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -279,8 +288,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Spec](daily-assistant/270-spec_f6686104/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/refactor-redis-queue-sync/specs/redis-sync-queue/spec.md) | ⭐ 19 | `daily assistant` |
 | [Spec](daily-assistant/270-spec_0f9eb0f9/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/unify-data-scheduler/specs/unified-data-scheduler/spec.md) | ⭐ 19 | `daily assistant` |
 | [Spec](daily-assistant/270-spec_792c5a0e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-06-enhance-data-management/specs/data-management/spec.md) | ⭐ 19 | `daily assistant` |
+| [Agentic Typescript](daily-assistant/agentic-typescript_9bf98cfc/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-typescript.md) | ⭐ 251 | `daily assistant` |
 
-### Data Analysis (7 skills)
+### Data Analysis (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -291,8 +301,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Baseplugin Quick Reference](data-analysis/481-baseplugin_quick_reference_eae05a91/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/src/stock_datasource/plugins/BASEPLUGIN_QUICK_REFERENCE.md) | ⭐ 19 | `data analysis` |
 | [Spec](data-analysis/480-spec_e1c1d262/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-market-analysis/specs/market-analysis/spec.md) | ⭐ 19 | `data analysis` |
 | [Spec](data-analysis/480-spec_1baaadfa/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-predefined-plugin-groups/specs/predefined-plugin-groups/spec.md) | ⭐ 19 | `data analysis` |
+| [Streaming](data-analysis/streaming_871de38d/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/streaming.md) | ⭐ 251 | `data analysis` |
 
-### Development (52 skills)
+### Development (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -347,7 +358,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_1b2e0cfd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-vfuncoffset/SKILL.md) | ⭐ 16 | `development` |
 | [Skill](development/1178-name-skill_82e1e8ce/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-func-as-yaml/SKILL.md) | ⭐ 16 | `development` |
 | [Skill](development/1178-name-skill_b1d9bd95/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 16 | `development` |
-| [Install](development/install_6c5be2ca/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/install.md) | ⭐ 15 | `development` |
+| [Integrate Fast](development/integrate_fast_d67e93fc/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/integrate_fast.md) | ⭐ 251 | `development` |
+| [Langchain Integration](development/langchain_integration_245c4f4f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/langchain_integration.md) | ⭐ 251 | `development` |
 
 ### Development/Devops (5 skills)
 
@@ -359,14 +371,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Design](development/devops/374-design_d5e07314/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-docker-compose-deployment/design.md) | ⭐ 19 | `development` |
 | [Tasks](development/devops/375-tasks_ffb87591/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/optimize-startup-workers/tasks.md) | ⭐ 19 | `development` |
 
-### Development/Testing (2 skills)
+### Development/Testing (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [2024 04 09 Gpt 4 Turbo](development/testing/082-2024-04-09-gpt-4-turbo_9e2cf0f0/) | [Aider-AI/aider](https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/_posts/2024-04-09-gpt-4-turbo.md) | 🔥 40.5k | `development` |
 | [Design](development/testing/085-design_1f1bbfe1/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-intelligent-stock-screener/design.md) | ⭐ 19 | `development` |
+| [Gateway](development/testing/gateway_a836e04b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/gateway.md) | ⭐ 251 | `development` |
 
-### Development/Tools (17 skills)
+### Development/Tools (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -386,7 +399,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Design](development/tools/320-design_8a7bb14c/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-custom-ai-workflow/design.md) | ⭐ 19 | `development` |
 | [Design](development/tools/320-design_504151b9/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-financial-statement-plugins/design.md) | ⭐ 19 | `development` |
 | [Proposal](development/tools/212-proposal_a6b56f16/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-intelligent-stock-screener/proposal.md) | ⭐ 19 | `development` |
-| [Release Description](development/tools/release_description_1163129b/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
+| [Release Description](development/tools/327-release_description_1163129b/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
+| [Agentic Python](development/tools/agentic-python_7692babd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-python.md) | ⭐ 251 | `development` |
+| [Proxy](development/tools/proxy_aabd8c79/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/proxy.md) | ⭐ 251 | `development` |
 
 ### Investment (38 skills)
 
@@ -493,5 +508,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 18:22:31 UTC*
+*Last updated: 2026-02-12 20:22:03 UTC*
 *Automatically maintained by SkillFlow*
