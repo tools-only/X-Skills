@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T06:00:58.653217",
+  "updated_at": "2026-02-12T06:01:33.073138",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -40349,6 +40349,48 @@
       "source_url": "https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/governance-discovery.instructions.md",
       "display_name": "Governance Discovery.Instructions",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "b2ec6486980622703abbc40484f291ceaac9bc4ce09b1bc1cfc25b6b7200f20f",
+      "source_path": "AGENTS.md",
+      "source_repo": "Lubu-Labs/langchain-agent-skills",
+      "local_path": "development/028-agents_b2ec6486",
+      "category": "development",
+      "name": "agents_b2ec6486",
+      "indexed_at": "2026-02-12T06:01:32.092092",
+      "repo_stars": 40,
+      "repo_updated_at": "2026-02-11T17:45:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ee0d01b8a93dff71e921a9c41f4ef01ce90fb13a24bcaf1042b62fd8fd6fbf91",
+      "source_path": "skills/deepagents-setup-configuration/SKILL.md",
+      "source_repo": "Lubu-Labs/langchain-agent-skills",
+      "local_path": "daily-assistant/032-name-skill_ee0d01b8",
+      "category": "daily-assistant",
+      "name": "name-skill_ee0d01b8",
+      "indexed_at": "2026-02-12T06:01:32.491547",
+      "repo_stars": 40,
+      "repo_updated_at": "2026-02-11T17:45:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "94976b04d5181b3b7ea8232573d3ee1170c54e1cc8efbd9a9b2f0b0db25f7f3f",
+      "source_path": "skills/deepagents-setup-configuration/references/deep-agents-reference.md",
+      "source_repo": "Lubu-Labs/langchain-agent-skills",
+      "local_path": "daily-assistant/265-deep-agents-reference_94976b04",
+      "category": "daily-assistant",
+      "name": "deep-agents-reference_94976b04",
+      "indexed_at": "2026-02-12T06:01:33.073084",
+      "repo_stars": 40,
+      "repo_updated_at": "2026-02-11T17:45:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/references/deep-agents-reference.md",
+      "display_name": "Deep Agents Reference",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }
