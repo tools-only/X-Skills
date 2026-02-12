@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T21:21:10.470468",
+  "updated_at": "2026-02-12T21:22:45.869469",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -981,6 +981,76 @@
       "source_url": "https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md",
       "display_name": "Usage Guide",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "845a62d92b890a2ec426f8bb8739b872a82c2da2bd5367536c79fc05738346b8",
+      "source_path": "docs/MIGRATION_GUIDE_v1.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "commercial/251-migration_guide_v1_845a62d9",
+      "category": "commercial",
+      "name": "migration_guide_v1_845a62d9",
+      "indexed_at": "2026-02-12T21:22:45.731860",
+      "repo_stars": 3994,
+      "repo_updated_at": "2026-02-11T05:59:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/MIGRATION_GUIDE_v1.md",
+      "display_name": "Migration Guide V1",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "a217f99d0f2e222859baf6cc48144855d15b7850fa7a341ccb19d5c26fc96d52",
+      "source_path": "docs/api-quickstart.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/1540-api-quickstart_a217f99d",
+      "category": "development",
+      "name": "api-quickstart_a217f99d",
+      "indexed_at": "2026-02-12T21:22:45.748191",
+      "repo_stars": 3994,
+      "repo_updated_at": "2026-02-11T05:59:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/api-quickstart.md",
+      "display_name": "Api Quickstart",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2db3de1dac0a38a6cd2f78abc5934d699cc6bccb01c643bb9299752d5e09cfd8",
+      "source_path": "docs/env_configuration.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/091-env_configuration_2db3de1d",
+      "category": "development/devops",
+      "name": "env_configuration_2db3de1d",
+      "indexed_at": "2026-02-12T21:22:45.771600",
+      "repo_stars": 3994,
+      "repo_updated_at": "2026-02-11T02:26:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md",
+      "display_name": "Env Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c455d79cc03477813b54a9a02ebb286dbd9a53942c632843f57a71df42ab5f3f",
+      "source_path": "docs/troubleshooting-openai-api-key.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/092-troubleshooting-openai-api-key_c455d79c",
+      "category": "development/devops",
+      "name": "troubleshooting-openai-api-key_c455d79c",
+      "indexed_at": "2026-02-12T21:22:45.802228",
+      "repo_stars": 3994,
+      "repo_updated_at": "2026-02-11T05:59:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting-openai-api-key.md",
+      "display_name": "Troubleshooting Openai Api Key",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3883eb9d02633243f487fd6ec6d7e040b27f8f499b6737fdf4111e972ff65efc",
+      "source_path": "RESEARCH_NOTES.md",
+      "source_repo": "taylorsatula/mira-OSS",
+      "local_path": "daily-assistant/267-research_notes_3883eb9d",
+      "category": "daily-assistant",
+      "name": "research_notes_3883eb9d",
+      "indexed_at": "2026-02-12T21:22:45.869430",
+      "repo_stars": 389,
+      "repo_updated_at": "2026-02-10T01:01:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/RESEARCH_NOTES.md",
+      "display_name": "Research Notes",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }
