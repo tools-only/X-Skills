@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T17:21:22.514001",
+  "updated_at": "2026-02-12T18:21:07.618138",
   "skills": [
     {
       "file_hash": "163d09dc12d44d402850504ca64d4a6b28f5a5a53573f7d7ca0fb96655452885",
@@ -1051,6 +1051,48 @@
       "source_url": "https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/docs/more/infinite-output.md",
       "display_name": "Infinite Output",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "60da4bb28390e8f6d66ed7fbc36d85ff02c9f49dc9b134e758559415e21d4ddc",
+      "source_path": "docs/my-website/docs/adding_provider/generic_guardrail_api.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2871-generic_guardrail_api_60da4bb2",
+      "category": "development",
+      "name": "generic_guardrail_api_60da4bb2",
+      "indexed_at": "2026-02-12T18:21:07.563087",
+      "repo_stars": 35792,
+      "repo_updated_at": "2026-01-20T04:35:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md",
+      "display_name": "Generic Guardrail Api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "40652549d2401297a30ecc9bc90ed13ff7235fa598d22c1a440717d6aa06b9be",
+      "source_path": "docs/my-website/docs/proxy/configs.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/034-configs_40652549",
+      "category": "development/devops",
+      "name": "configs_40652549",
+      "indexed_at": "2026-02-12T18:21:07.598168",
+      "repo_stars": 35792,
+      "repo_updated_at": "2026-01-07T21:57:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/configs.md",
+      "display_name": "Configs",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "27e95b4ba69eef2b87f9502aa884053566f8ab3da4cb91bde1298d05836eb4cf",
+      "source_path": "docs/my-website/docs/proxy/prod.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/041-prod_27e95b4b",
+      "category": "development/devops",
+      "name": "prod_27e95b4b",
+      "indexed_at": "2026-02-12T18:21:07.618099",
+      "repo_stars": 35792,
+      "repo_updated_at": "2026-02-06T14:59:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prod.md",
+      "display_name": "Prod",
+      "tags": "[\"development\"]"
     }
   ]
 }
