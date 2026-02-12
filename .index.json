@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T13:21:59.650341",
+  "updated_at": "2026-02-12T13:22:51.484663",
   "skills": [
     {
       "file_hash": "571b41bd64518ccc608b5876cf26d62c3c0e838170034ca96b6868b9442b1d8b",
@@ -42785,6 +42785,48 @@
       "source_url": "https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/METHODOLOGY.md",
       "display_name": "Methodology",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "e7ca6808a6b0680018886c7572cb8d6bcfb42a1c440033dca8fb41dcfbb9da66",
+      "source_path": "docs/developer-guide.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/282-developer-guide_e7ca6808",
+      "category": "development",
+      "name": "developer-guide_e7ca6808",
+      "indexed_at": "2026-02-12T13:22:50.139873",
+      "repo_stars": 7000,
+      "repo_updated_at": "2026-02-12T02:48:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md",
+      "display_name": "Developer Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fb28d8103371823754999406a66128cce3d31e4103fec806180db269fb074678",
+      "source_path": "docs/contributing-lint-setup.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "content-creation/116-contributing-lint-setup_fb28d810",
+      "category": "content-creation",
+      "name": "contributing-lint-setup_fb28d810",
+      "indexed_at": "2026-02-12T13:22:50.735357",
+      "repo_stars": 7000,
+      "repo_updated_at": "2026-01-31T05:13:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md",
+      "display_name": "Contributing Lint Setup",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "4483c9c09c9a2dbf7e5bcac6e813adf112c96126d297b9cdf813e721c7ee749d",
+      "source_path": "docs/roadmap-developer-success.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "daily-assistant/262-roadmap-developer-success_4483c9c0",
+      "category": "daily-assistant",
+      "name": "roadmap-developer-success_4483c9c0",
+      "indexed_at": "2026-02-12T13:22:51.484612",
+      "repo_stars": 7000,
+      "repo_updated_at": "2026-02-12T01:10:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md",
+      "display_name": "Roadmap Developer Success",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }

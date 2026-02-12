@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3057 AI-powered skills** organized into 14 categories.
+A curated collection of **3066 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,14 +8,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (266 skills)
+- **Automation/Scripting** (272 skills)
 - **Automation/Workflow** (105 skills)
 - **Commercial** (349 skills)
 - **Communication** (121 skills)
-- **Content Creation** (573 skills)
-- **Daily Assistant** (119 skills)
+- **Content Creation** (574 skills)
+- **Daily Assistant** (120 skills)
 - **Data Analysis** (256 skills)
-- **Development** (585 skills)
+- **Development** (586 skills)
 - **Development/Devops** (224 skills)
 - **Development/Testing** (100 skills)
 - **Development/Tools** (177 skills)
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (266 skills)
+### Automation/Scripting (272 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -450,6 +450,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_3d036d7e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-servicebus-dotnet/SKILL.md) | 🔥 8.4k | `automation` |
 | [Skill](automation/scripting/003-name-skill_7333260c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-speech-to-text-rest-py/SKILL.md) | 🔥 8.4k | `automation` |
 | [Skill](automation/scripting/003-name-skill_0722174e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-ts/SKILL.md) | 🔥 8.4k | `automation` |
+| [Hive Concepts](automation/scripting/hive-concepts_a7cbede2/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.agent/workflows/hive-concepts.md) | 🔥 7.0k | `automation` |
+| [Hive Create](automation/scripting/hive-create_8b02a619/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.agent/workflows/hive-create.md) | 🔥 7.0k | `automation` |
+| [Hive Credentials](automation/scripting/hive-credentials_04bf0b9b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.agent/workflows/hive-credentials.md) | 🔥 7.0k | `automation` |
+| [Hive Patterns](automation/scripting/hive-patterns_19201a70/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.agent/workflows/hive-patterns.md) | 🔥 7.0k | `automation` |
+| [Hive Test](automation/scripting/hive-test_f2feccc0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.agent/workflows/hive-test.md) | 🔥 7.0k | `automation` |
+| [Hive](automation/scripting/hive_aa1a3d98/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.agent/workflows/hive.md) | 🔥 7.0k | `automation` |
 
 ### Automation/Workflow (105 skills)
 
@@ -1041,7 +1047,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_f0660fbb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-mgmt-weightsandbiases-dotnet/SKILL.md) | 🔥 8.4k | `communication` |
 | [Skill](communication/127-name-skill_9bf687c2/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-web-pubsub-ts/SKILL.md) | 🔥 8.4k | `communication` |
 
-### Content Creation (573 skills)
+### Content Creation (574 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1618,8 +1624,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_85c58de0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-file-share-ts/SKILL.md) | 🔥 8.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_68472be2/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/gemini-api-dev/SKILL.md) | 🔥 8.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_6316a915/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/react-flow-node-ts/SKILL.md) | 🔥 8.4k | `content creation` |
+| [Contributing Lint Setup](content-creation/contributing-lint-setup_fb28d810/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | 🔥 7.0k | `content creation` |
 
-### Daily Assistant (119 skills)
+### Daily Assistant (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1693,7 +1700,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_0dc16cf2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 96 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_936cba2c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.3k | `daily assistant` |
 | [Configuration](daily-assistant/262-configuration_d9c0f34d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 56 | `daily assistant` |
-| [Roadmap Developer Success](daily-assistant/262-roadmap-developer-success_fda9cd49/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md) | 🔥 6.9k | `daily assistant` |
+| [Roadmap Developer Success](daily-assistant/roadmap-developer-success_4483c9c0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md) | 🔥 7.0k | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_5c72aac5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/archived/plg_frameworks/engagement-loops/instructions.md) | ⭐ 13 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_404061a0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/archived/plg_frameworks/product-onboarding/instructions.md) | ⭐ 13 | `daily assistant` |
 | [Instructions](daily-assistant/089-instructions_de174f34/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/archived/plg_frameworks/retention-analysis/instructions.md) | ⭐ 13 | `daily assistant` |
@@ -1741,7 +1748,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Webfix](daily-assistant/263-webfix_505436e2/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/webfix.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_d5ef7f01/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/nixos/SKILL.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_79dc579b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-py/SKILL.md) | 🔥 8.4k | `daily assistant` |
-| [Configuration](daily-assistant/configuration_2ef9e82a/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/CONFIGURATION.md) | ⭐ 28 | `daily assistant` |
+| [Configuration](daily-assistant/262-configuration_2ef9e82a/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/CONFIGURATION.md) | ⭐ 28 | `daily assistant` |
+| [Roadmap Developer Success](daily-assistant/262-roadmap-developer-success_4483c9c0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md) | 🔥 7.0k | `daily assistant` |
 
 ### Data Analysis (256 skills)
 
@@ -2004,7 +2012,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Function Snippets](data-analysis/479-function_snippets_3330c066/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/function_snippets.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_e2e2206a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-maps-search-dotnet/SKILL.md) | 🔥 8.4k | `data analysis` |
 
-### Development (585 skills)
+### Development (586 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2387,7 +2395,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Universal Tool Calling Strategy](development/2814-universal_tool_calling_strategy_e6f92351/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/research/UNIVERSAL_TOOL_CALLING_STRATEGY.md) | ⭐ 251 | `development` |
 | [Migration](development/2204-migration_123ce55b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/core/MIGRATION.md) | ⭐ 251 | `development` |
 | [Config](development/190-config_5257307c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/api/python/config.md) | ⭐ 251 | `development` |
-| [Developer Guide](development/282-developer-guide_a738f3c6/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 6.6k | `development` |
+| [Developer Guide](development/developer-guide_e7ca6808/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 7.0k | `development` |
 | [Index](development/468-index_c02b9ab9/) | [mbailey/voicemode](https://raw.githubusercontent.com/mbailey/voicemode/master/docs/troubleshooting/index.md) | ⭐ 706 | `development` |
 | [Actions Reference](development/010-actions-reference_756dabc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 60 | `development` |
 | [Review Tui](development/2065-review-tui_f55c0420/) | [existential-birds/beagle](https://raw.githubusercontent.com/existential-birds/beagle/main/plugins/beagle-go/commands/review-tui.md) | ⭐ 21 | `development` |
@@ -2587,12 +2595,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_9f7b57e8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-resource-manager-redis-dotnet/SKILL.md) | 🔥 8.4k | `development` |
 | [Skill](development/1178-name-skill_0475c85e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-blob-ts/SKILL.md) | 🔥 8.4k | `development` |
 | [Skill](development/1178-name-skill_981371aa/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet/SKILL.md) | 🔥 8.4k | `development` |
-| [Claude](development/claude_52ce06fb/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/CLAUDE.md) | ⭐ 28 | `development` |
-| [Install Macos Linux](development/install-macos-linux_440e7b3f/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/INSTALL-MACOS-LINUX.md) | ⭐ 28 | `development` |
-| [Install Windows](development/install-windows_23de9fdb/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/INSTALL-WINDOWS.md) | ⭐ 28 | `development` |
-| [Troubleshooting](development/troubleshooting_df83bda9/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/TROUBLESHOOTING.md) | ⭐ 28 | `development` |
-| [Skill](development/name-skill_b13e491b/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/skill/SKILL.md) | ⭐ 28 | `development` |
-| [Test Plan](development/test_plan_0a05908c/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/skill/TEST_PLAN.md) | ⭐ 28 | `development` |
+| [Claude](development/140-claude_52ce06fb/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/CLAUDE.md) | ⭐ 28 | `development` |
+| [Install Macos Linux](development/2866-install-macos-linux_440e7b3f/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/INSTALL-MACOS-LINUX.md) | ⭐ 28 | `development` |
+| [Install Windows](development/2867-install-windows_23de9fdb/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/INSTALL-WINDOWS.md) | ⭐ 28 | `development` |
+| [Troubleshooting](development/1097-troubleshooting_df83bda9/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/TROUBLESHOOTING.md) | ⭐ 28 | `development` |
+| [Skill](development/1178-name-skill_b13e491b/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/skill/SKILL.md) | ⭐ 28 | `development` |
+| [Developer Guide](development/282-developer-guide_e7ca6808/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 7.0k | `development` |
+| [Antigravity Setup](development/antigravity-setup_68194c90/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/antigravity-setup.md) | 🔥 7.0k | `development` |
 
 ### Development/Devops (224 skills)
 
@@ -3305,7 +3314,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Web Searcher](research/258-web-searcher_8e73d912/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/web-searcher.md) | ⭐ 10 | `research` |
 | [Skill](research/139-name-skill_2ec69f5c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-mgmt-mongodbatlas-dotnet/SKILL.md) | 🔥 8.4k | `research` |
 | [Skill](research/139-name-skill_92968f19/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wiki-onboarding/SKILL.md) | 🔥 8.4k | `research` |
-| [Methodology](research/methodology_583c5608/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/METHODOLOGY.md) | ⭐ 28 | `research` |
+| [Methodology](research/218-methodology_583c5608/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/METHODOLOGY.md) | ⭐ 28 | `research` |
 
 ## How Skills Are Organized
 
@@ -3357,5 +3366,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 13:22:00 UTC*
+*Last updated: 2026-02-12 13:22:51 UTC*
 *Automatically maintained by SkillFlow*
