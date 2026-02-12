@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2859 AI-powered skills** organized into 14 categories.
+A curated collection of **2875 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,15 +8,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (246 skills)
+- **Automation/Scripting** (247 skills)
 - **Automation/Workflow** (100 skills)
-- **Commercial** (325 skills)
-- **Communication** (110 skills)
+- **Commercial** (326 skills)
+- **Communication** (112 skills)
 - **Content Creation** (555 skills)
 - **Daily Assistant** (110 skills)
 - **Data Analysis** (251 skills)
-- **Development** (527 skills)
-- **Development/Devops** (198 skills)
+- **Development** (533 skills)
+- **Development/Devops** (204 skills)
 - **Development/Testing** (97 skills)
 - **Development/Tools** (167 skills)
 - **Investment** (27 skills)
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (246 skills)
+### Automation/Scripting (247 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -430,6 +430,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_bbd59174/) | [zh-xx/legal-assistant-skills](https://raw.githubusercontent.com/zh-xx/legal-assistant-skills/main/food-label-review/SKILL.md) | ⭐ 35 | `automation` |
 | [Orc](automation/scripting/092-orc_c73b8853/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 611 | `automation` |
 | [Review](automation/scripting/093-review_2fafdc8d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 611 | `automation` |
+| [Neon Drizzle](automation/scripting/neon-drizzle_91a4fc0b/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-drizzle.md) | ⭐ 22 | `automation` |
 
 ### Automation/Workflow (100 skills)
 
@@ -536,7 +537,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/137-instructions_dd66b07d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/support_ops/support_sentiment_tracker/instructions.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_78df56bc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 65 | `automation` |
 
-### Commercial (325 skills)
+### Commercial (326 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -865,8 +866,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](commercial/107-instructions_a8353b22/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/outreach/paid_ads/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_3680c40a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/sidecar_product_builder/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_5a4ed48e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/usage_retention_optimizer/instructions.md) | ⭐ 13 | `commercial` |
+| [Neon Python Sdk](commercial/neon-python-sdk_5e550b4c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-python-sdk.md) | ⭐ 22 | `commercial` |
 
-### Communication (110 skills)
+### Communication (112 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -979,7 +981,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/250-instructions_fbf5b25b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/tools/connect_apps/instructions.md) | ⭐ 13 | `communication` |
 | [Instructions](communication/250-instructions_47ce4661/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/ai_gtm_automator/instructions.md) | ⭐ 13 | `communication` |
 | [Instructions](communication/250-instructions_4136d699/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_pricing_architect/instructions.md) | ⭐ 13 | `communication` |
-| [Desktop Terminal Improvements](communication/desktop-terminal-improvements_02d2ddb0/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-terminal-improvements.md) | ⭐ 54 | `communication` |
+| [Neon Js](communication/neon-js_759310d0/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-js.md) | ⭐ 22 | `communication` |
+| [Neon Typescript Sdk](communication/neon-typescript-sdk_a9786dc7/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-typescript-sdk.md) | ⭐ 22 | `communication` |
+| [Neon Auth](communication/neon-auth_78a76f9d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-auth.md) | ⭐ 22 | `communication` |
 
 ### Content Creation (555 skills)
 
@@ -1539,7 +1543,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](content-creation/356-instructions_8716359b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/referral_program/instructions.md) | ⭐ 13 | `content creation` |
 | [Claude](content-creation/007-claude_c306fd01/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
 | [Btf](content-creation/352-btf_b40ba3ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/btf.md) | ⭐ 611 | `content creation` |
-| [Desktop App Guide En](content-creation/desktop-app-guide_en_b8b9a7cc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 54 | `content creation` |
+| [Desktop App Guide En](content-creation/349-desktop-app-guide_en_b8b9a7cc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 54 | `content creation` |
 
 ### Daily Assistant (110 skills)
 
@@ -1912,7 +1916,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cleanup](data-analysis/477-cleanup_eb3c24c9/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/cleanup.md) | ⭐ 611 | `data analysis` |
 | [Privacy](data-analysis/482-privacy_75152c5b/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/PRIVACY.md) | ⭐ 15 | `data analysis` |
 
-### Development (527 skills)
+### Development (533 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2443,8 +2447,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Validation](development/1120-validation_73f1cea2/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/loom/VALIDATION.md) | ⭐ 11 | `development` |
 | [Maestro Mcp Setup](development/2247-maestro-mcp-setup_3b87dca8/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/maestro-mcp-setup.md) | ⭐ 11 | `development` |
 | [Maestro Smoke Contract](development/2248-maestro-smoke-contract_614b3f20/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/mobileappfix/references/maestro-smoke-contract.md) | ⭐ 11 | `development` |
+| [Getting Started](development/getting-started_e84844e4/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/getting-started.md) | ⭐ 22 | `development` |
+| [Neon Serverless](development/neon-serverless_3766cb1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-serverless.md) | ⭐ 22 | `development` |
+| [Skill](development/name-skill_55f91b96/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/SKILL.md) | ⭐ 22 | `development` |
+| [Connection Methods](development/connection-methods_bf16392c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/connection-methods.md) | ⭐ 22 | `development` |
+| [Devtools](development/devtools_6a13c3f8/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/devtools.md) | ⭐ 22 | `development` |
+| [What Is Neon](development/what-is-neon_70d30cf5/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/what-is-neon.md) | ⭐ 22 | `development` |
 
-### Development/Devops (198 skills)
+### Development/Devops (204 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2484,7 +2494,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openai Yaml](development/devops/297-openai_yaml_9fb5928b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/.system/skill-creator/references/openai_yaml.md) | ⭐ 27 | `development` |
 | [Skills](development/devops/233-reference-skill_73d62065/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/concepts/skills.md) | ⭐ 10 | `development` |
 | [Readme Zh](development/devops/298-readme_zh_d4085270/) | [Tencent/AI-Infra-Guard](https://raw.githubusercontent.com/Tencent/AI-Infra-Guard/main/README_ZH.md) | ⭐ 2.9k | `development` |
-| [Readme Cn](development/devops/readme_cn_49929c75/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 54 | `development` |
+| [Readme Cn](development/devops/194-readme_cn_438464d3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 47 | `development` |
 | [Readme.Pt Br](development/devops/299-readmept-br_5d7eddcb/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.pt-BR.md) | ⭐ 26 | `development` |
 | [Readme.Tr](development/devops/300-readmetr_dc6252e5/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README.tr.md) | ⭐ 26 | `development` |
 | [Readme Old](development/devops/301-readme_old_d7c38798/) | [s-nagaev/chibi](https://raw.githubusercontent.com/s-nagaev/chibi/main/docs/README_old.md) | ⭐ 26 | `development` |
@@ -2646,6 +2656,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/devops/148-release_notes_853c9b23/) | [microsoft/simplechat](https://raw.githubusercontent.com/microsoft/simplechat/main/docs/explanation/release_notes.md) | ⭐ 113 | `development` |
 | [Troubleshooting](development/devops/093-troubleshooting_718e94d3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/TROUBLESHOOTING.md) | ⭐ 13 | `development` |
 | [Readme Cn](development/devops/194-readme_cn_49929c75/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 54 | `development` |
+| [Agents](development/devops/agents_c766fe1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Features](development/devops/features_bd8cccc2/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/features.md) | ⭐ 22 | `development` |
+| [Neon Cli](development/devops/neon-cli_f5da5b0c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-cli.md) | ⭐ 22 | `development` |
+| [Neon Platform Api](development/devops/neon-platform-api_e46586ec/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-platform-api.md) | ⭐ 22 | `development` |
+| [Claude](development/devops/claude_3fb798a2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/CLAUDE.md) | ⭐ 140 | `development` |
+| [Referencing Docs](development/devops/referencing-docs_9702f638/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/referencing-docs.md) | ⭐ 22 | `development` |
 
 ### Development/Testing (97 skills)
 
@@ -2919,7 +2935,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_7237b5f4/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/CLAUDE.md) | ⭐ 2.6k | `development` |
 | [Skill](development/tools/002-name-skill_26dc1649/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/gh-cli/skills/using-gh-cli/SKILL.md) | ⭐ 2.6k | `development` |
 | [Skill](development/tools/002-name-skill_e8cfa449/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/git-cleanup/skills/git-cleanup/SKILL.md) | ⭐ 2.6k | `development` |
-| [Desktop App Guide](development/tools/desktop-app-guide_b9e87378/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide.md) | ⭐ 54 | `development` |
+| [Desktop App Guide](development/tools/317-desktop-app-guide_b9e87378/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide.md) | ⭐ 54 | `development` |
 
 ### Investment (27 skills)
 
@@ -3159,5 +3175,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 04:02:52 UTC*
+*Last updated: 2026-02-12 04:03:30 UTC*
 *Automatically maintained by SkillFlow*
