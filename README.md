@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3084 AI-powered skills** organized into 14 categories.
+A curated collection of **3090 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (266 skills)
 - **Automation/Workflow** (106 skills)
-- **Commercial** (349 skills)
+- **Commercial** (350 skills)
 - **Communication** (121 skills)
-- **Content Creation** (575 skills)
-- **Daily Assistant** (120 skills)
+- **Content Creation** (581 skills)
+- **Daily Assistant** (121 skills)
 - **Data Analysis** (256 skills)
 - **Development** (586 skills)
-- **Development/Devops** (246 skills)
+- **Development/Devops** (241 skills)
 - **Development/Testing** (100 skills)
-- **Development/Tools** (177 skills)
+- **Development/Tools** (180 skills)
 - **Investment** (28 skills)
 - **Productivity** (69 skills)
 - **Research** (85 skills)
@@ -560,9 +560,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_c77a92ef/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.4k | `automation` |
 | [Skill](automation/workflow/002-name-skill_f34b3290/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-dotnet/SKILL.md) | 🔥 8.4k | `automation` |
 | [Skill](automation/workflow/002-name-skill_a9f504c6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-py/SKILL.md) | 🔥 8.4k | `automation` |
-| [Mcp Cli](automation/workflow/mcp-cli_55462e77/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/mcp-cli.md) | ⭐ 3.3k | `automation` |
+| [Mcp Cli](automation/workflow/136-mcp-cli_55462e77/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/mcp-cli.md) | ⭐ 3.3k | `automation` |
 
-### Commercial (349 skills)
+### Commercial (350 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -915,6 +915,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_8851c60d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-security-keyvault-secrets-java/SKILL.md) | 🔥 8.4k | `commercial` |
 | [Skill](commercial/210-name-skill_a2b096d6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-file-share-py/SKILL.md) | 🔥 8.4k | `commercial` |
 | [Skill](commercial/210-name-skill_6c49a7db/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/wiki-vitepress/SKILL.md) | 🔥 8.4k | `commercial` |
+| [Auto](commercial/auto_447c775f/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/commands/auto.md) | ⭐ 11 | `commercial` |
 
 ### Communication (121 skills)
 
@@ -1042,7 +1043,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_f0660fbb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-mgmt-weightsandbiases-dotnet/SKILL.md) | 🔥 8.4k | `communication` |
 | [Skill](communication/127-name-skill_9bf687c2/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-web-pubsub-ts/SKILL.md) | 🔥 8.4k | `communication` |
 
-### Content Creation (575 skills)
+### Content Creation (581 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1480,7 +1481,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli](content-creation/312-cli_59a3bef7/) | [luoluoluo22/jianying-editor-skill](https://raw.githubusercontent.com/luoluoluo22/jianying-editor-skill/main/rules/cli.md) | ⭐ 201 | `content creation` |
 | [Skill](content-creation/049-name-skill_2e1ae77b/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/bird/SKILL.md) | ⭐ 27 | `content creation` |
 | [Skill](content-creation/049-name-skill_81ff9c21/) | [ninehills/skills](https://raw.githubusercontent.com/ninehills/skills/main/skills/firecrawl/SKILL.md) | ⭐ 27 | `content creation` |
-| [Toolkit Skills](content-creation/313-toolkit-skills_7e9e7d33/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-skills.md) | ⭐ 10 | `content creation` |
+| [Toolkit Skills](content-creation/toolkit-skills_2654acb2/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-skills.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_0005c586/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/skills/video/SKILL.md) | ⭐ 10 | `content creation` |
 | [Introduction Cn](content-creation/314-introduction_cn_30a70eeb/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/doc/INTRODUCTION_CN.md) | ⭐ 11 | `content creation` |
 | [Skill](content-creation/049-name-skill_33b9d3c7/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/skills/publish-to-wechat/SKILL.md) | ⭐ 11 | `content creation` |
@@ -1620,9 +1621,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_68472be2/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/gemini-api-dev/SKILL.md) | 🔥 8.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_6316a915/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/react-flow-node-ts/SKILL.md) | 🔥 8.4k | `content creation` |
 | [Contributing Lint Setup](content-creation/116-contributing-lint-setup_fb28d810/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | 🔥 7.0k | `content creation` |
-| [Index](content-creation/index_fb68016b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/media/kit/index.md) | ⭐ 3.3k | `content creation` |
+| [Index](content-creation/019-index_fb68016b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/media/kit/index.md) | ⭐ 3.3k | `content creation` |
+| [Toolkit Skills](content-creation/313-toolkit-skills_2654acb2/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/config/rules/toolkit-skills.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/name-skill_7fb30023/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-canvas-create/SKILL.md) | ⭐ 47 | `content creation` |
+| [Skill](content-creation/name-skill_e4634f24/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-note-create/SKILL.md) | ⭐ 47 | `content creation` |
+| [Skill](content-creation/name-skill_8510b8c5/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-session-sync/SKILL.md) | ⭐ 47 | `content creation` |
+| [Skill](content-creation/name-skill_5c2f772f/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-vault-init/SKILL.md) | ⭐ 47 | `]
+status: draft
+---
 
-### Daily Assistant (120 skills)
+# {{title}}
+
+
+```
+
+**Meeting template (`Templates/Meeting.md`):**
+```markdown
+---
+type: meeting
+project:
+date: {{date}}
+attendees: [` |
+| [Skill](content-creation/name-skill_a326a1a0/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-base-create/SKILL.md) | ⭐ 47 | `content creation` |
+
+### Daily Assistant (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1746,6 +1768,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_79dc579b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-py/SKILL.md) | 🔥 8.4k | `daily assistant` |
 | [Configuration](daily-assistant/262-configuration_2ef9e82a/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/CONFIGURATION.md) | ⭐ 28 | `daily assistant` |
 | [Roadmap Developer Success](daily-assistant/262-roadmap-developer-success_4483c9c0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap-developer-success.md) | 🔥 7.0k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_ee760113/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-daily-driver/SKILL.md) | ⭐ 47 | `daily assistant` |
 
 ### Data Analysis (256 skills)
 
@@ -2597,9 +2620,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/1097-troubleshooting_df83bda9/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/docs/TROUBLESHOOTING.md) | ⭐ 28 | `development` |
 | [Skill](development/1178-name-skill_b13e491b/) | [heavy3-ai/code-audit](https://raw.githubusercontent.com/heavy3-ai/code-audit/main/skill/SKILL.md) | ⭐ 28 | `development` |
 | [Developer Guide](development/282-developer-guide_e7ca6808/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 7.0k | `development` |
-| [Mcp Developer Guide Json Rpc](development/mcp-developer-guide-json-rpc_fac51d04/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/mcp-developer-guide-json-rpc.md) | ⭐ 3.3k | `development` |
+| [Mcp Developer Guide Json Rpc](development/2876-mcp-developer-guide-json-rpc_fac51d04/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/mcp-developer-guide-json-rpc.md) | ⭐ 3.3k | `development` |
 
-### Development/Devops (246 skills)
+### Development/Devops (241 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2777,7 +2800,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Failure Patterns](development/devops/359-failure-patterns_d31f0f5b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/debug-buttercup/skills/debug-buttercup/references/failure-patterns.md) | ⭐ 2.5k | `development` |
 | [Readme Cn](development/devops/194-readme_cn_92737bcd/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 56 | `development` |
 | [Configuration Guide](development/devops/360-configuration_guide_4a8c65ff/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/CONFIGURATION_GUIDE.md) | ⭐ 2.0k | `development` |
-| [Roadmap](development/devops/roadmap_5ceefece/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Roadmap](development/devops/097-roadmap_84f1111d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Prompt](development/devops/144-prompt_6ee3e066/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 1.1k | `development` |
 | [Server Cli Design](development/devops/145-server-cli-design_4aeaae76/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
 | [07 System](development/devops/311-07-system_ae902ed5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-system.md) | ⭐ 1.1k | `development` |
@@ -2827,28 +2850,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_d48e2fb7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-mgmt-apicenter-dotnet/SKILL.md) | 🔥 8.4k | `development` |
 | [Skill](development/devops/014-name-skill_259848c9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-mgmt-apicenter-py/SKILL.md) | 🔥 8.4k | `development` |
 | [Skill](development/devops/014-name-skill_09afe36c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.4k | `development` |
-| [Index](development/devops/index_090d7cd2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/050-index_090d7cd2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md) | ⭐ 3.3k | `development` |
 | [Roadmap](development/devops/097-roadmap_5ceefece/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
-| [Security Features](development/devops/security-features_9a7d26a9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/security-features.md) | ⭐ 3.3k | `development` |
-| [Compose](development/devops/compose_e6437fb4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/compose.md) | ⭐ 3.3k | `development` |
-| [Google Cloud Run](development/devops/google-cloud-run_222ee021/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/google-cloud-run.md) | ⭐ 3.3k | `development` |
-| [Minikube](development/devops/minikube_5029cd02/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/minikube.md) | ⭐ 3.3k | `development` |
-| [Proxy Auth](development/devops/proxy-auth_c779d1c0/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/proxy-auth.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_ed616467/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/faq/index.md) | ⭐ 3.3k | `development` |
-| [Configuration](development/devops/configuration_d8f4bd5f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_67ae90a1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
-| [Securing](development/devops/securing_6b4b850b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
-| [Ui Customization](development/devops/ui-customization_86489861/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/ui-customization.md) | ⭐ 3.3k | `development` |
-| [Argocd Helm Deployment Ibm Cloud Iks](development/devops/argocd-helm-deployment-ibm-cloud-iks_b6241bb5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/argocd-helm-deployment-ibm-cloud-iks.md) | ⭐ 3.3k | `development` |
-| [Openwebui Tutorial](development/devops/openwebui-tutorial_76ec2022/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/openwebui-tutorial.md) | ⭐ 3.3k | `development` |
-| [Mcpgateway Wrapper](development/devops/mcpgateway-wrapper_f08c425c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/mcpgateway-wrapper.md) | ⭐ 3.3k | `development` |
-| [Observability](development/devops/observability_fbc0db92/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/observability/observability.md) | ⭐ 3.3k | `development` |
-| [Claude Desktop](development/devops/claude-desktop_32ca54e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/claude-desktop.md) | ⭐ 3.3k | `development` |
-| [Container](development/devops/container_ef7b4167/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/container.md) | ⭐ 3.3k | `development` |
-| [Logging Examples](development/devops/logging-examples_b3649153/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/logging-examples.md) | ⭐ 3.3k | `development` |
-| [Quick Start](development/devops/quick_start_900da976/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/quick_start.md) | ⭐ 3.3k | `development` |
-| [Dcr Hyprmcp](development/devops/dcr-hyprmcp_9958593e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/dcr-hyprmcp.md) | ⭐ 3.3k | `development` |
-| [Copilot](development/devops/copilot_f4483871/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/copilot.md) | ⭐ 3.3k | `development` |
+| [Security Features](development/devops/361-security-features_9a7d26a9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/security-features.md) | ⭐ 3.3k | `development` |
+| [Compose](development/devops/362-compose_e6437fb4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/compose.md) | ⭐ 3.3k | `development` |
+| [Google Cloud Run](development/devops/363-google-cloud-run_222ee021/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/google-cloud-run.md) | ⭐ 3.3k | `development` |
+| [Minikube](development/devops/364-minikube_5029cd02/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/minikube.md) | ⭐ 3.3k | `development` |
+| [Proxy Auth](development/devops/365-proxy-auth_c779d1c0/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/proxy-auth.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/050-index_ed616467/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/faq/index.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/009-configuration_d8f4bd5f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/050-index_67ae90a1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
+| [Securing](development/devops/366-securing_6b4b850b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
+| [Ui Customization](development/devops/367-ui-customization_86489861/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/ui-customization.md) | ⭐ 3.3k | `development` |
+| [Argocd Helm Deployment Ibm Cloud Iks](development/devops/368-argocd-helm-deployment-ibm-cloud-iks_b6241bb5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/argocd-helm-deployment-ibm-cloud-iks.md) | ⭐ 3.3k | `development` |
+| [Openwebui Tutorial](development/devops/369-openwebui-tutorial_76ec2022/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/openwebui-tutorial.md) | ⭐ 3.3k | `development` |
+| [Mcpgateway Wrapper](development/devops/370-mcpgateway-wrapper_f08c425c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/mcpgateway-wrapper.md) | ⭐ 3.3k | `development` |
+| [Observability](development/devops/371-observability_fbc0db92/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/observability/observability.md) | ⭐ 3.3k | `development` |
+| [Claude Desktop](development/devops/372-claude-desktop_32ca54e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/claude-desktop.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (100 skills)
 
@@ -2955,7 +2973,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/testing/024-agents_369e7165/) | [bearlike/Assistant](https://raw.githubusercontent.com/bearlike/Assistant/main/apps/meeseeks_chat/AGENTS.md) | ⭐ 29 | `development` |
 | [Skill](development/testing/002-name-skill_efafbf3f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-cosmos-db-py/SKILL.md) | 🔥 8.4k | `development` |
 
-### Development/Tools (177 skills)
+### Development/Tools (180 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2985,7 +3003,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_55e76ff0/) | [Dianel555/DSkills](https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/exa/SKILL.md) | ⭐ 48 | `development` |
 | [Skill](development/tools/002-name-skill_948c5971/) | [Dianel555/DSkills](https://raw.githubusercontent.com/Dianel555/DSkills/main/skills/grok-search/SKILL.md) | ⭐ 48 | `development` |
 | [Playground Builder](development/tools/281-playground-builder_083c0a65/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/prompts/playground-builder.md) | ⭐ 23 | `development` |
-| [Index](development/tools/062-index_93a717c0/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 10 | `development` |
+| [Index](development/tools/index_be7b10fd/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 11 | `development` |
 | [Code Index](development/tools/282-code_index_b59f61cc/) | [plexe-ai/plexe](https://raw.githubusercontent.com/plexe-ai/plexe/main/plexe/CODE_INDEX.md) | ⭐ 2.5k | `development` |
 | [Readme Cn](development/tools/232-readme_cn_d704cba9/) | [tiandee/awesome-skills-hub](https://raw.githubusercontent.com/tiandee/awesome-skills-hub/main/README_CN.md) | ⭐ 11 | `development` |
 | [Skill Usage Guide](development/tools/283-skill-usage-guide_14f2ba8c/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/skill-usage-guide.md) | ⭐ 47 | `development` |
@@ -3136,6 +3154,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_fa42279b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/agents-v2-py/SKILL.md) | 🔥 8.4k | `development` |
 | [Skill](development/tools/002-name-skill_a69366c9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-voicelive-java/SKILL.md) | 🔥 8.4k | `development` |
 | [Skill](development/tools/002-name-skill_dde6c6bb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-cosmos-py/SKILL.md) | 🔥 8.4k | `development` |
+| [Release Notes](development/tools/release-notes_01e2a46a/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/RELEASE-NOTES.md) | ⭐ 11 | `development` |
+| [Index](development/tools/062-index_be7b10fd/) | [Motium-AI/claude-code-toolkit](https://raw.githubusercontent.com/Motium-AI/claude-code-toolkit/main/docs/index.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/name-skill_fe690d7a/) | [ElliotJLT/Claude-Skill-Potions](https://raw.githubusercontent.com/ElliotJLT/Claude-Skill-Potions/main/skills/obsidian-vault-search/SKILL.md) | ⭐ 47 | `development` |
 
 ### Investment (28 skills)
 
@@ -3384,5 +3405,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 14:21:29 UTC*
+*Last updated: 2026-02-12 14:22:30 UTC*
 *Automatically maintained by SkillFlow*
