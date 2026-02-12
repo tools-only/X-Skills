@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2937 AI-powered skills** organized into 15 categories.
+A curated collection of **2947 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,21 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (250 skills)
+- **Automation/Scripting** (248 skills)
 - **Automation/Workflow** (101 skills)
-- **Commercial** (326 skills)
-- **Communication** (112 skills)
-- **Content Creation** (564 skills)
-- **Daily Assistant** (118 skills)
-- **Data Analysis** (257 skills)
-- **Development** (549 skills)
-- **Development/Devops** (212 skills)
-- **Development/Testing** (100 skills)
-- **Development/Tools** (167 skills)
+- **Commercial** (327 skills)
+- **Communication** (111 skills)
+- **Content Creation** (561 skills)
+- **Daily Assistant** (117 skills)
+- **Data Analysis** (255 skills)
+- **Development** (553 skills)
+- **Development/Devops** (227 skills)
+- **Development/Testing** (97 skills)
+- **Development/Tools** (174 skills)
 - **Investment** (28 skills)
-- **Other** (2 skills)
-- **Productivity** (68 skills)
-- **Research** (83 skills)
+- **Productivity** (66 skills)
+- **Research** (82 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (250 skills)
+### Automation/Scripting (248 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -396,7 +395,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_8ed0b563/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-bedrock/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `bedrock` |
 | [Skill](automation/scripting/003-name-skill_be345091/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `cloudwatch` |
 | [07 Retrieval](automation/scripting/079-07-retrieval_4df3fe32/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/07-retrieval.md) | ⭐ 1.1k | `automation` |
-| [01 Configuration](automation/scripting/080-01-configuration_e0841625/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
+| [01 Configuration](automation/scripting/01-configuration_e9b75a6d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 | [Skill](automation/scripting/003-name-skill_4513d380/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/brainstorm/SKILL.md) | ⭐ 31 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7cae27bb/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/journal/SKILL.md) | ⭐ 31 | `automation` |
 | [Skill](automation/scripting/003-name-skill_6af44b50/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/opentelemetry-skill/SKILL.md) | ⭐ 14 | `automation` |
@@ -432,9 +431,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orc](automation/scripting/092-orc_c73b8853/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 611 | `automation` |
 | [Review](automation/scripting/093-review_2fafdc8d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 611 | `automation` |
 | [Skill](automation/scripting/003-name-skill_214709d7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 16 | `automation` |
-| [Persian Translator](automation/scripting/persian-translator_8b474243/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/persian-translator.md) | ⭐ 10 | `automation` |
-| [Clean Transcription](automation/scripting/clean-transcription_d94b3df4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/clean-transcription.md) | ⭐ 10 | `automation` |
-| [Fix Alert](automation/scripting/fix-alert_3e37207a/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-alert.md) | ⭐ 10 | `automation` |
+| [01 Configuration](automation/scripting/080-01-configuration_e9b75a6d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 1.1k | `automation` |
 
 ### Automation/Workflow (101 skills)
 
@@ -540,9 +537,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/137-instructions_ca05803f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/revops/commit_accuracy/instructions.md) | ⭐ 13 | `automation` |
 | [Instructions](automation/workflow/137-instructions_dd66b07d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/support_ops/support_sentiment_tracker/instructions.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_78df56bc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 65 | `automation` |
-| [Rocq Pro](automation/workflow/rocq-pro_e0009f31/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/rocq-pro.md) | ⭐ 10 | `automation` |
+| [Rocq Pro](automation/workflow/136-rocq-pro_e0009f31/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/rocq-pro.md) | ⭐ 10 | `automation` |
 
-### Commercial (326 skills)
+### Commercial (327 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -764,7 +761,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_ec4407ed/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 88 | `aws` `cloudformation` `elasticache` |
 | [Reference](commercial/167-reference_33118ac4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/references/reference.md) | ⭐ 88 | `commercial` |
 | [Terraform Roadmap](commercial/309-terraform-roadmap_10861a74/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/terraform-roadmap.md) | ⭐ 60 | `commercial` |
-| [01 Architecture](commercial/283-01-architecture_d23ff7ee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
+| [01 Architecture](commercial/01-architecture_37b4a68e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
 | [Agents](commercial/007-agents_163651bf/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
 | [Kubernetes](commercial/344-kubernetes_6c039268/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/managing-infra-skill/KUBERNETES.md) | ⭐ 14 | `commercial` |
 | [Skill](commercial/210-name-skill_d99fc2d4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/python-configuration-skill/SKILL.md) | ⭐ 14 | `commercial` |
@@ -872,8 +869,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](commercial/107-instructions_3680c40a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/sidecar_product_builder/instructions.md) | ⭐ 13 | `commercial` |
 | [Instructions](commercial/107-instructions_5a4ed48e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/usage_retention_optimizer/instructions.md) | ⭐ 13 | `commercial` |
 | [Neon Python Sdk](commercial/370-neon-python-sdk_5e550b4c/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-python-sdk.md) | ⭐ 22 | `commercial` |
+| [01 Architecture](commercial/283-01-architecture_37b4a68e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/01-architecture.md) | ⭐ 1.1k | `commercial` |
 
-### Communication (112 skills)
+### Communication (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -988,9 +986,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/250-instructions_4136d699/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_pricing_architect/instructions.md) | ⭐ 13 | `communication` |
 | [Neon Js](communication/253-neon-js_759310d0/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-js.md) | ⭐ 22 | `communication` |
 | [Neon Typescript Sdk](communication/254-neon-typescript-sdk_a9786dc7/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-typescript-sdk.md) | ⭐ 22 | `communication` |
-| [Fix Integration](communication/fix-integration_51a97f13/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-integration.md) | ⭐ 10 | `communication` |
 
-### Content Creation (564 skills)
+### Content Creation (561 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1445,7 +1442,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bicep Code.Agent](content-creation/318-bicep-codeagent_14271dc8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-code.agent.md) | ⭐ 60 | `content creation` |
 | [Markdown.Instructions](content-creation/256-markdowninstructions_4b145a19/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/markdown.instructions.md) | ⭐ 60 | `bicep` `iac` `azure` |
 | [Skill](content-creation/049-name-skill_8872b009/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 60 | `content creation` |
-| [02 Resources](content-creation/319-02-resources_d0e656f1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 1.1k | `content creation` |
+| [02 Resources](content-creation/02-resources_b306380c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_80834ac4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
 | [06 Extraction](content-creation/320-06-extraction_e327bbb7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/06-extraction.md) | ⭐ 1.1k | `content creation` |
 | [Skill](content-creation/049-name-skill_16122593/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 31 | `content creation` |
@@ -1550,16 +1547,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Btf](content-creation/352-btf_b40ba3ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/btf.md) | ⭐ 611 | `content creation` |
 | [Desktop App Guide En](content-creation/349-desktop-app-guide_en_b8b9a7cc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 54 | `content creation` |
 | [Skill](content-creation/049-name-skill_7d0bffc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/xiaohongshu-writer/SKILL.md) | ⭐ 23 | `content creation` |
-| [Fix Github Issue](content-creation/fix-github-issue_d3698e6e/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-github-issue.md) | ⭐ 10 | `content creation` |
-| [Rebase](content-creation/rebase_b3fc2ac3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/rebase.md) | ⭐ 10 | `content creation` |
-| [Review Github Pr](content-creation/review-github-pr_c1ae52c4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/review-github-pr.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_884a9c75/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/persian/SKILL.md) | ⭐ 10 | `content creation` |
-| [Fix Transcript](content-creation/fix-transcript_b73bdad7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-transcript.md) | ⭐ 10 | `content creation` |
-| [Proofread](content-creation/proofread_6c38fcb5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/proofread.md) | ⭐ 10 | `content creation` |
-| [Smooth](content-creation/smooth_ca213869/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/smooth.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_c2c5afa5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/caveman/SKILL.md) | ⭐ 10 | `content creation` |
+| [Fix Github Issue](content-creation/352-fix-github-issue_d3698e6e/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix-github-issue.md) | ⭐ 10 | `content creation` |
+| [Rebase](content-creation/325-rebase_b3fc2ac3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/rebase.md) | ⭐ 10 | `content creation` |
+| [Review Github Pr](content-creation/353-review-github-pr_c1ae52c4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/review-github-pr.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_884a9c75/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/persian/SKILL.md) | ⭐ 10 | `content creation` |
+| [02 Resources](content-creation/319-02-resources_b306380c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/02-resources.md) | ⭐ 1.1k | `content creation` |
 
-### Daily Assistant (118 skills)
+### Daily Assistant (117 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1678,11 +1672,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Deploy.Agent](daily-assistant/252-deployagent_6f05367a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 60 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_ee0d01b8/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/SKILL.md) | ⭐ 40 | `daily assistant` |
 | [Deep Agents Reference](daily-assistant/265-deep-agents-reference_94976b04/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/skills/deepagents-setup-configuration/references/deep-agents-reference.md) | ⭐ 40 | `daily assistant` |
-| [Webfix](daily-assistant/webfix_505436e2/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/webfix.md) | ⭐ 10 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_d5ef7f01/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/nixos/SKILL.md) | ⭐ 10 | `daily assistant` |
-| [Process Checklist](daily-assistant/process-checklist_7fa3f05b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/process-checklist.md) | ⭐ 10 | `daily assistant` |
+| [Webfix](daily-assistant/263-webfix_505436e2/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/webfix.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_d5ef7f01/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/nixos/SKILL.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (257 skills)
+### Data Analysis (255 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1938,13 +1931,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cleanup](data-analysis/477-cleanup_eb3c24c9/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/cleanup.md) | ⭐ 611 | `data analysis` |
 | [Privacy](data-analysis/482-privacy_75152c5b/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/PRIVACY.md) | ⭐ 15 | `data analysis` |
 | [Governance Discovery.Instructions](data-analysis/381-governance-discoveryinstructions_3a63b500/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/governance-discovery.instructions.md) | ⭐ 60 | `data analysis` |
-| [Install Service](data-analysis/install-service_470c806b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/install-service.md) | ⭐ 10 | `data analysis` |
-| [Meeting Notes](data-analysis/meeting-notes_9200604b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/meeting-notes.md) | ⭐ 10 | `data analysis` |
-| [Function Snippets](data-analysis/function_snippets_3330c066/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/function_snippets.md) | ⭐ 10 | `data analysis` |
-| [Analyze Pr](data-analysis/analyze-pr_2ed7e0c6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/analyze-pr.md) | ⭐ 10 | `data analysis` |
-| [Transcribe](data-analysis/transcribe_023217c4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/transcribe.md) | ⭐ 10 | `data analysis` |
+| [Install Service](data-analysis/477-install-service_470c806b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/install-service.md) | ⭐ 10 | `data analysis` |
+| [Meeting Notes](data-analysis/478-meeting-notes_9200604b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/meeting-notes.md) | ⭐ 10 | `data analysis` |
+| [Function Snippets](data-analysis/479-function_snippets_3330c066/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/function_snippets.md) | ⭐ 10 | `data analysis` |
 
-### Development (549 skills)
+### Development (553 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2184,14 +2175,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_c7b02970/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/SKILL.md) | ⭐ 60 | `development` |
 | [Doc Standards](development/2702-doc-standards_0d57b4d0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/doc-standards.md) | ⭐ 60 | `development` |
 | [01 Overview](development/2703-01-overview_90e5bef3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
-| [04 Skills](development/2704-04-skills_f1eb4c84/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/04-skills.md) | ⭐ 1.1k | `development` |
-| [06 Retrieval](development/2705-06-retrieval_0d65d86a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/06-retrieval.md) | ⭐ 1.1k | `development` |
+| [04 Skills](development/04-skills_bbdf5cad/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/04-skills.md) | ⭐ 1.1k | `development` |
+| [06 Retrieval](development/06-retrieval_e111d86b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/06-retrieval.md) | ⭐ 1.1k | `development` |
 | [03 Context Layers](development/2706-03-context-layers_e46a333e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/03-context-layers.md) | ⭐ 1.1k | `development` |
-| [Faq](development/360-faq_334f5ecc/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 1.1k | `development` |
+| [Faq](development/faq_a35a4c97/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 1.1k | `development` |
 | [01 Introduction](development/2707-01-introduction_6194df4d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/getting-started/01-introduction.md) | ⭐ 1.1k | `development` |
-| [04 Skills](development/2704-04-skills_8ed6d959/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-skills.md) | ⭐ 1.1k | `development` |
-| [06 Retrieval](development/2705-06-retrieval_2f462c05/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-retrieval.md) | ⭐ 1.1k | `development` |
-| [Faq](development/360-faq_35c56a80/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
+| [04 Skills](development/04-skills_dbc63520/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-skills.md) | ⭐ 1.1k | `development` |
+| [06 Retrieval](development/06-retrieval_100071e1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-retrieval.md) | ⭐ 1.1k | `development` |
+| [Faq](development/faq_6e623d44/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
 | [Skill](development/1178-name-skill_f11cec39/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/code-review/SKILL.md) | ⭐ 31 | `development` |
 | [Skill](development/1178-name-skill_50306346/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/collaboration/SKILL.md) | ⭐ 31 | `development` |
 | [Skill](development/1178-name-skill_e2b4540b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/datastar/SKILL.md) | ⭐ 31 | `development` |
@@ -2390,7 +2381,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Skills](development/2704-04-skills_9f1ecfe1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/04-skills.md) | ⭐ 1.1k | `development` |
 | [06 Retrieval](development/2705-06-retrieval_72af33ac/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/06-retrieval.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_39d26d09/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 1.1k | `development` |
-| [01 Overview](development/2703-01-overview_78b08e74/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [01 Overview](development/01-overview_0a6cbf40/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
 | [04 Skills](development/2704-04-skills_8b95e5b7/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-skills.md) | ⭐ 1.1k | `development` |
 | [06 Retrieval](development/2705-06-retrieval_bf977cf5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-retrieval.md) | ⭐ 1.1k | `development` |
 | [Faq](development/360-faq_98c9768c/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
@@ -2479,26 +2470,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [Neon Serverless](development/2868-neon-serverless_3766cb1d/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/skills/neon-postgres/references/neon-serverless.md) | ⭐ 22 | `development` |
 | [Infraops Conductor.Agent](development/2701-infraops-conductoragent_1e5a24a0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 60 | `development` |
 | [Agents](development/028-agents_b2ec6486/) | [Lubu-Labs/langchain-agent-skills](https://raw.githubusercontent.com/Lubu-Labs/langchain-agent-skills/main/AGENTS.md) | ⭐ 40 | `development` |
-| [Haskell Pro](development/haskell-pro_288078a9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/haskell-pro.md) | ⭐ 10 | `development` |
-| [Nix Pro](development/nix-pro_1727d1e7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/nix-pro.md) | ⭐ 10 | `development` |
-| [Prd Architect](development/prd-architect_763c939f/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/prd-architect.md) | ⭐ 10 | `development` |
-| [Task Breakdown](development/task-breakdown_4dca5866/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/task-breakdown.md) | ⭐ 10 | `development` |
-| [Typescript Pro](development/typescript-pro_f5844c42/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/typescript-pro.md) | ⭐ 10 | `development` |
-| [Commit](development/commit_c20c30b0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/commit.md) | ⭐ 10 | `development` |
-| [Heavy](development/heavy_df9a52ca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
-| [Initialize](development/initialize_4b480f47/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/initialize.md) | ⭐ 10 | `development` |
-| [Medium](development/medium_72a53cc5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md) | ⭐ 10 | `development` |
-| [Prepare With](development/prepare-with_9f7b8686/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/prepare-with.md) | ⭐ 10 | `development` |
-| [Run Orchestrator](development/run-orchestrator_f0822bad/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/run-orchestrator.md) | ⭐ 10 | `development` |
-| [Node Schemas](development/node_schemas_5bc8514d/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/node_schemas.md) | ⭐ 10 | `development` |
-| [Cpp Pro](development/cpp-pro_c9f359d5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/cpp-pro.md) | ⭐ 10 | `development` |
-| [Emacs Lisp Pro](development/emacs-lisp-pro_d20fe41a/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/emacs-lisp-pro.md) | ⭐ 10 | `development` |
-| [Rust Pro](development/rust-pro_6e529551/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/rust-pro.md) | ⭐ 10 | `development` |
-| [Code Review](development/code-review_c3176e4f/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/code-review.md) | ⭐ 10 | `development` |
-| [Push](development/push_114a881b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/push.md) | ⭐ 10 | `development` |
-| [Teams](development/teams_954620f6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/teams.md) | ⭐ 10 | `development` |
+| [Haskell Pro](development/2856-haskell-pro_288078a9/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/haskell-pro.md) | ⭐ 10 | `development` |
+| [Nix Pro](development/2857-nix-pro_1727d1e7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/nix-pro.md) | ⭐ 10 | `development` |
+| [Prd Architect](development/2858-prd-architect_763c939f/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/prd-architect.md) | ⭐ 10 | `development` |
+| [Task Breakdown](development/2859-task-breakdown_4dca5866/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/task-breakdown.md) | ⭐ 10 | `development` |
+| [Typescript Pro](development/2641-typescript-pro_f5844c42/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/typescript-pro.md) | ⭐ 10 | `development` |
+| [Commit](development/174-commit_c20c30b0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/commit.md) | ⭐ 10 | `development` |
+| [Heavy](development/2860-heavy_df9a52ca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
+| [Initialize](development/2861-initialize_4b480f47/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/initialize.md) | ⭐ 10 | `development` |
+| [Medium](development/2862-medium_72a53cc5/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md) | ⭐ 10 | `development` |
+| [Prepare With](development/2863-prepare-with_9f7b8686/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/prepare-with.md) | ⭐ 10 | `development` |
+| [Run Orchestrator](development/2864-run-orchestrator_f0822bad/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/run-orchestrator.md) | ⭐ 10 | `development` |
+| [Node Schemas](development/2865-node_schemas_5bc8514d/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/node_schemas.md) | ⭐ 10 | `development` |
+| [04 Skills](development/2704-04-skills_bbdf5cad/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/04-skills.md) | ⭐ 1.1k | `development` |
+| [06 Retrieval](development/2705-06-retrieval_e111d86b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/06-retrieval.md) | ⭐ 1.1k | `development` |
+| [Faq](development/360-faq_a35a4c97/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/faq/faq.md) | ⭐ 1.1k | `development` |
+| [01 Overview](development/2703-01-overview_0a6cbf40/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [04 Skills](development/2704-04-skills_dbc63520/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/04-skills.md) | ⭐ 1.1k | `development` |
+| [06 Retrieval](development/2705-06-retrieval_100071e1/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/06-retrieval.md) | ⭐ 1.1k | `development` |
+| [09 Transaction](development/09-transaction_c5eb7d33/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/09-transaction.md) | ⭐ 1.1k | `development` |
+| [Faq](development/360-faq_6e623d44/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 1.1k | `development` |
+| [2026 02 03 Chatmem Implementation](development/2026-02-03-chatmem-implementation_34b7339a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/2026-02-03-chatmem-implementation.md) | ⭐ 1.1k | `development` |
+| [Comparison](development/comparison_c8be1c6a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/COMPARISON.md) | ⭐ 1.1k | `development` |
 
-### Development/Devops (212 skills)
+### Development/Devops (227 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2560,12 +2555,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/devops/093-troubleshooting_d93dd19b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/troubleshooting.md) | ⭐ 60 | `development` |
 | [Skill](development/devops/014-name-skill_edf8f0b1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_45b8a5e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 60 | `development` |
-| [Server Cli Design](development/devops/145-server-cli-design_73151ca3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
-| [07 System](development/devops/311-07-system_12adb7cb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-system.md) | ⭐ 1.1k | `development` |
+| [Server Cli Design](development/devops/server-cli-design_a8c8faee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
+| [07 System](development/devops/07-system_9998b5c0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-system.md) | ⭐ 1.1k | `development` |
 | [03 Roadmap](development/devops/312-03-roadmap_e606011d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/03-roadmap.md) | ⭐ 1.1k | `development` |
-| [07 System](development/devops/311-07-system_f4763a23/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-system.md) | ⭐ 1.1k | `development` |
-| [01 Architecture](development/devops/313-01-architecture_979b832d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 1.1k | `development` |
-| [01 Configuration](development/devops/314-01-configuration_1263ed66/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
+| [07 System](development/devops/07-system_5106845a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-system.md) | ⭐ 1.1k | `development` |
+| [01 Architecture](development/devops/01-architecture_5e0b609e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 1.1k | `development` |
+| [01 Configuration](development/devops/01-configuration_092a63e8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
 | [Apps](development/devops/315-apps_46e1fa6d/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/worktrees/apps.md) | ⭐ 31 | `development` |
 | [Skill](development/devops/014-name-skill_6bb0ee62/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 14 | `development` |
 | [Skill](development/devops/014-name-skill_c649b41c/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/argocd-skill/SKILL.md) | ⭐ 14 | `development` |
@@ -2712,10 +2707,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Governance Constraints](development/devops/361-04-governance-constraints_a6c5e38f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-governance-constraints.md) | ⭐ 60 | `development` |
 | [04 Implementation Plan](development/devops/362-04-implementation-plan_db59682e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 60 | `development` |
 | [Skill](development/devops/014-name-skill_c9c3234b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 60 | `development` |
-| [Skill](development/devops/name-skill_d0abb9a8/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/SKILL.md) | ⭐ 10 | `development` |
-| [Api Reference](development/devops/api_reference_edaacef3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/api_reference.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_d0abb9a8/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/SKILL.md) | ⭐ 10 | `development` |
+| [Api Reference](development/devops/361-api_reference_edaacef3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/references/api_reference.md) | ⭐ 10 | `development` |
+| [Server Cli Design](development/devops/145-server-cli-design_a8c8faee/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
+| [07 System](development/devops/311-07-system_9998b5c0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/07-system.md) | ⭐ 1.1k | `development` |
+| [07 System](development/devops/311-07-system_5106845a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/07-system.md) | ⭐ 1.1k | `development` |
+| [01 Architecture](development/devops/313-01-architecture_5e0b609e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/01-architecture.md) | ⭐ 1.1k | `development` |
+| [01 Configuration](development/devops/314-01-configuration_092a63e8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 1.1k | `development` |
+| [02 Quickstart](development/devops/02-quickstart_86b74d10/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/getting-started/02-quickstart.md) | ⭐ 1.1k | `development` |
+| [03 Quickstart Server](development/devops/03-quickstart-server_b1ab506f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/getting-started/03-quickstart-server.md) | ⭐ 1.1k | `development` |
+| [03 Deployment](development/devops/03-deployment_7f75b7e8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/03-deployment.md) | ⭐ 1.1k | `development` |
+| [04 Authentication](development/devops/04-authentication_f4a7ec18/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/04-authentication.md) | ⭐ 1.1k | `development` |
+| [05 Monitoring](development/devops/05-monitoring_f7415ce5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/05-monitoring.md) | ⭐ 1.1k | `development` |
+| [02 Quickstart](development/devops/02-quickstart_8a0d626f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/getting-started/02-quickstart.md) | ⭐ 1.1k | `development` |
+| [03 Quickstart Server](development/devops/03-quickstart-server_0c3fd30f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/getting-started/03-quickstart-server.md) | ⭐ 1.1k | `development` |
+| [03 Deployment](development/devops/03-deployment_0be22e5a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/03-deployment.md) | ⭐ 1.1k | `development` |
+| [04 Authentication](development/devops/04-authentication_9176ed13/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/04-authentication.md) | ⭐ 1.1k | `development` |
+| [05 Monitoring](development/devops/05-monitoring_09ac82b2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/05-monitoring.md) | ⭐ 1.1k | `development` |
 
-### Development/Testing (100 skills)
+### Development/Testing (97 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2816,11 +2826,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ops Guide](development/testing/084-ops_guide_0fceee1a/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 | [Socratic Questioning](development/testing/081-socratic-questioning_88b0567e/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/the-fool/references/socratic-questioning.md) | ⭐ 1.0k | `development` |
 | [Instructions](development/testing/081-instructions_b2fae438/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/devex/sandbox_manager/instructions.md) | ⭐ 13 | `development` |
-| [Python Pro](development/testing/python-pro_9fe54816/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/python-pro.md) | ⭐ 10 | `development` |
-| [Logits](development/testing/logits_fe759f58/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/logits.md) | ⭐ 10 | `development` |
-| [Tron Debug](development/testing/tron-debug_92bbb87b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/tron-debug.md) | ⭐ 10 | `development` |
 
-### Development/Tools (167 skills)
+### Development/Tools (174 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2864,9 +2871,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_31c89223/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/gh-cli/SKILL.md) | ⭐ 60 | `development` |
 | [Skill](development/tools/002-name-skill_1a158fde/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 60 | `development` |
 | [03 Roadmap](development/tools/286-03-roadmap_e2d1b116/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/03-roadmap.md) | ⭐ 1.1k | `development` |
-| [05 Sessions](development/tools/287-05-sessions_047bdb33/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 1.1k | `development` |
+| [05 Sessions](development/tools/05-sessions_b7bf55af/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 1.1k | `development` |
 | [08 Session](development/tools/288-08-session_81bc51a0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/08-session.md) | ⭐ 1.1k | `development` |
-| [05 Sessions](development/tools/287-05-sessions_e21b9ee2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 1.1k | `development` |
+| [05 Sessions](development/tools/05-sessions_27b03ad8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 1.1k | `development` |
 | [02 Context Types](development/tools/289-02-context-types_bc68682e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/02-context-types.md) | ⭐ 1.1k | `development` |
 | [07 Retrieval](development/tools/290-07-retrieval_bdd4868e/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/07-retrieval.md) | ⭐ 1.1k | `development` |
 | [08 Session](development/tools/288-08-session_8154b9ad/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/08-session.md) | ⭐ 1.1k | `development` |
@@ -2940,7 +2947,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_2f8b4681/) | [mr-karan/hodor](https://raw.githubusercontent.com/mr-karan/hodor/main/AGENTS.md) | ⭐ 18 | `development` |
 | [Mongodb Guide](development/tools/317-mongodb_guide_dd509291/) | [EverMind-AI/EverMemOS](https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/docs/usage/MONGODB_GUIDE.md) | ⭐ 2.0k | `development` |
 | [Llm](development/tools/318-llm_9d6a4545/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
-| [01 Overview](development/tools/319-01-overview_1d07f8d0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [01 Overview](development/tools/01-overview_3e612d77/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
 | [05 Sessions](development/tools/287-05-sessions_5db10092/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 1.1k | `development` |
 | [05 Sessions](development/tools/287-05-sessions_7403180a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 1.1k | `development` |
 | [Skill](development/tools/002-name-skill_941c8072/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 6.9k | `development` |
@@ -2991,6 +2998,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_26dc1649/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/gh-cli/skills/using-gh-cli/SKILL.md) | ⭐ 2.6k | `development` |
 | [Skill](development/tools/002-name-skill_e8cfa449/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/git-cleanup/skills/git-cleanup/SKILL.md) | ⭐ 2.6k | `development` |
 | [Desktop App Guide](development/tools/317-desktop-app-guide_b9e87378/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide.md) | ⭐ 54 | `development` |
+| [01 Overview](development/tools/319-01-overview_3e612d77/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [05 Sessions](development/tools/287-05-sessions_b7bf55af/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/05-sessions.md) | ⭐ 1.1k | `development` |
+| [02 Resources](development/tools/02-resources_7bb1b279/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/02-resources.md) | ⭐ 1.1k | `development` |
+| [05 Sessions](development/tools/287-05-sessions_27b03ad8/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/05-sessions.md) | ⭐ 1.1k | `development` |
+| [03 Filesystem](development/tools/03-filesystem_32e14a46/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/03-filesystem.md) | ⭐ 1.1k | `development` |
+| [04 Viking Uri](development/tools/04-viking-uri_78723ff5/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/04-viking-uri.md) | ⭐ 1.1k | `development` |
+| [03 Filesystem](development/tools/03-filesystem_ca76ed39/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/03-filesystem.md) | ⭐ 1.1k | `development` |
 
 ### Investment (28 skills)
 
@@ -3023,16 +3037,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](investment/049-instructions_c3a17500/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/product_ops/impact_analyzer/instructions.md) | ⭐ 13 | `investment` |
 | [Instructions](investment/049-instructions_9589c9b2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/multi_gtm_orchestrator/instructions.md) | ⭐ 13 | `investment` |
 | [Korcreview](investment/048-korcreview_da7e2ab1/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/slash-commands/korcreview.md) | ⭐ 611 | `investment` |
-| [Transient Sauteeing Raven](investment/transient-sauteeing-raven_c6d096a4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/plans/transient-sauteeing-raven.md) | ⭐ 10 | `investment` |
+| [Transient Sauteeing Raven](investment/048-transient-sauteeing-raven_c6d096a4/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/plans/transient-sauteeing-raven.md) | ⭐ 10 | `investment` |
 
-### Other (2 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Nix Rebuild](other/nix-rebuild_817e59a7/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/nix-rebuild.md) | ⭐ 10 | `other` |
-| [Port Model](other/port-model_ee94aae6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/port-model.md) | ⭐ 10 | `other` |
-
-### Productivity (68 skills)
+### Productivity (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3101,11 +3108,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](productivity/142-instructions_7dc1803a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/boyce_plg_audit/instructions.md) | ⭐ 13 | `productivity` |
 | [Instructions](productivity/142-instructions_cf6ca6db/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/enterprise_plg_transition/instructions.md) | ⭐ 13 | `productivity` |
 | [Instructions](productivity/142-instructions_81913eee/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/plg_frameworks/boyce/plg_business_case/instructions.md) | ⭐ 13 | `productivity` |
-| [Remove Service](productivity/remove-service_3f736eca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/remove-service.md) | ⭐ 10 | `productivity` |
-| [Prompt Engineer](productivity/prompt-engineer_2becb155/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/prompt-engineer.md) | ⭐ 10 | `productivity` |
-| [Sql Pro](productivity/sql-pro_d486df0b/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/sql-pro.md) | ⭐ 10 | `productivity` |
+| [Remove Service](productivity/173-remove-service_3f736eca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/remove-service.md) | ⭐ 10 | `productivity` |
 
-### Research (83 skills)
+### Research (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3190,8 +3195,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](research/217-instructions_0cde3afc/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/scientific/document-skills/instructions.md) | ⭐ 13 | `research` |
 | [Instructions](research/217-instructions_a8799e0a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/seo/programmatic_seo/instructions.md) | ⭐ 13 | `research` |
 | [Instructions](research/217-instructions_14db80b1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/marketing/strategy/objective_strategist/instructions.md) | ⭐ 13 | `research` |
-| [Web Searcher](research/web-searcher_8e73d912/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/web-searcher.md) | ⭐ 10 | `research` |
-| [Query Builder](research/query-builder_e6ed156c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/query-builder.md) | ⭐ 10 | `research` |
+| [Web Searcher](research/258-web-searcher_8e73d912/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/web-searcher.md) | ⭐ 10 | `research` |
 
 ## How Skills Are Organized
 
@@ -3243,5 +3247,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 07:02:28 UTC*
+*Last updated: 2026-02-12 07:03:43 UTC*
 *Automatically maintained by SkillFlow*
