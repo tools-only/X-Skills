@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **208 AI-powered skills** organized into 14 categories.
+A curated collection of **213 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -15,10 +15,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (20 skills)
 - **Daily Assistant** (20 skills)
 - **Data Analysis** (8 skills)
-- **Development** (53 skills)
-- **Development/Devops** (5 skills)
-- **Development/Testing** (3 skills)
-- **Development/Tools** (19 skills)
+- **Development** (55 skills)
+- **Development/Devops** (7 skills)
+- **Development/Testing** (2 skills)
+- **Development/Tools** (21 skills)
 - **Investment** (38 skills)
 - **Other** (1 skill)
 - **Research** (1 skill)
@@ -217,7 +217,7 @@ ls ~/.claude/skills/patch-research-agent/
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [N8N Compatibility Validation](commercial/n8n_compatibility_validation_4f4bdc3f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
+| [N8N Compatibility Validation](commercial/364-n8n_compatibility_validation_4f4bdc3f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md) | ⭐ 251 | `commercial` |
 
 ### Communication (16 skills)
 
@@ -262,8 +262,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Browser](content-creation/370-browser_27e56b0f/) | [Aider-AI/aider](https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/docs/usage/browser.md) | 🔥 40.5k | `content creation` |
 | [Modes](content-creation/371-modes_77c3d350/) | [Aider-AI/aider](https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/docs/usage/modes.md) | 🔥 40.5k | `content creation` |
 | [Tasks](content-creation/353-tasks_7ac00ad6/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-plugin-data-explorer/tasks.md) | ⭐ 19 | `content creation` |
-| [N8N Integration](content-creation/n8n_integration_c5427124/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
-| [Providers](content-creation/providers_3781995c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
+| [N8N Integration](content-creation/341-n8n_integration_c5427124/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/n8n_integration.md) | ⭐ 251 | `content creation` |
+| [Providers](content-creation/342-providers_3781995c/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/providers.md) | ⭐ 251 | `content creation` |
 
 ### Daily Assistant (20 skills)
 
@@ -288,7 +288,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Spec](daily-assistant/270-spec_f6686104/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/refactor-redis-queue-sync/specs/redis-sync-queue/spec.md) | ⭐ 19 | `daily assistant` |
 | [Spec](daily-assistant/270-spec_0f9eb0f9/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/unify-data-scheduler/specs/unified-data-scheduler/spec.md) | ⭐ 19 | `daily assistant` |
 | [Spec](daily-assistant/270-spec_792c5a0e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-06-enhance-data-management/specs/data-management/spec.md) | ⭐ 19 | `daily assistant` |
-| [Agentic Typescript](daily-assistant/agentic-typescript_9bf98cfc/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-typescript.md) | ⭐ 251 | `daily assistant` |
+| [Agentic Typescript](daily-assistant/266-agentic-typescript_9bf98cfc/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-typescript.md) | ⭐ 251 | `daily assistant` |
 
 ### Data Analysis (8 skills)
 
@@ -301,9 +301,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Baseplugin Quick Reference](data-analysis/481-baseplugin_quick_reference_eae05a91/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/src/stock_datasource/plugins/BASEPLUGIN_QUICK_REFERENCE.md) | ⭐ 19 | `data analysis` |
 | [Spec](data-analysis/480-spec_e1c1d262/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-market-analysis/specs/market-analysis/spec.md) | ⭐ 19 | `data analysis` |
 | [Spec](data-analysis/480-spec_1baaadfa/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-predefined-plugin-groups/specs/predefined-plugin-groups/spec.md) | ⭐ 19 | `data analysis` |
-| [Streaming](data-analysis/streaming_871de38d/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/streaming.md) | ⭐ 251 | `data analysis` |
+| [Streaming](data-analysis/468-streaming_871de38d/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/streaming.md) | ⭐ 251 | `data analysis` |
 
-### Development (53 skills)
+### Development (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -358,10 +358,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_1b2e0cfd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-vfuncoffset/SKILL.md) | ⭐ 16 | `development` |
 | [Skill](development/1178-name-skill_82e1e8ce/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-func-as-yaml/SKILL.md) | ⭐ 16 | `development` |
 | [Skill](development/1178-name-skill_b1d9bd95/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 16 | `development` |
-| [Integrate Fast](development/integrate_fast_d67e93fc/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/integrate_fast.md) | ⭐ 251 | `development` |
-| [Langchain Integration](development/langchain_integration_245c4f4f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/langchain_integration.md) | ⭐ 251 | `development` |
+| [Integrate Fast](development/2873-integrate_fast_d67e93fc/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/integrate_fast.md) | ⭐ 251 | `development` |
+| [Langchain Integration](development/2811-langchain_integration_245c4f4f/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/langchain_integration.md) | ⭐ 251 | `development` |
+| [2026 02 03 Chatmem Implementation](development/2026-02-03-chatmem-implementation_7adc38ac/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/2026-02-03-chatmem-implementation.md) | ⭐ 1.1k | `development` |
+| [2026 02 05 Time And Add Resource Implementation](development/2026-02-05-time-and-add-resource-implementation_77d9f360/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/plans/2026-02-05-time-and-add-resource-implementation.md) | ⭐ 1.1k | `development` |
 
-### Development/Devops (5 skills)
+### Development/Devops (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -370,16 +372,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Arena Api](development/devops/373-arena_api_3dbfee82/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/docs/ARENA_API.md) | ⭐ 19 | `development` |
 | [Design](development/devops/374-design_d5e07314/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-docker-compose-deployment/design.md) | ⭐ 19 | `development` |
 | [Tasks](development/devops/375-tasks_ffb87591/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/optimize-startup-workers/tasks.md) | ⭐ 19 | `development` |
+| [Prompt](development/devops/prompt_54bf6971/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md) | ⭐ 1.1k | `development` |
+| [Server Cli Design](development/devops/server-cli-design_146f99d0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md) | ⭐ 1.1k | `development` |
 
-### Development/Testing (3 skills)
+### Development/Testing (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [2024 04 09 Gpt 4 Turbo](development/testing/082-2024-04-09-gpt-4-turbo_9e2cf0f0/) | [Aider-AI/aider](https://raw.githubusercontent.com/Aider-AI/aider/main/aider/website/_posts/2024-04-09-gpt-4-turbo.md) | 🔥 40.5k | `development` |
 | [Design](development/testing/085-design_1f1bbfe1/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-intelligent-stock-screener/design.md) | ⭐ 19 | `development` |
-| [Gateway](development/testing/gateway_a836e04b/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/gateway.md) | ⭐ 251 | `development` |
 
-### Development/Tools (19 skills)
+### Development/Tools (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -400,8 +403,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Design](development/tools/320-design_504151b9/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-financial-statement-plugins/design.md) | ⭐ 19 | `development` |
 | [Proposal](development/tools/212-proposal_a6b56f16/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-intelligent-stock-screener/proposal.md) | ⭐ 19 | `development` |
 | [Release Description](development/tools/327-release_description_1163129b/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
-| [Agentic Python](development/tools/agentic-python_7692babd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-python.md) | ⭐ 251 | `development` |
-| [Proxy](development/tools/proxy_aabd8c79/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/proxy.md) | ⭐ 251 | `development` |
+| [Agentic Python](development/tools/321-agentic-python_7692babd/) | [lemony-ai/cascadeflow](https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/docs/guides/agentic-python.md) | ⭐ 251 | `development` |
+| [04 Viking Uri](development/tools/04-viking-uri_cd11e8b3/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/04-viking-uri.md) | ⭐ 1.1k | `development` |
+| [04 Viking Uri](development/tools/04-viking-uri_7382f3d4/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/concepts/04-viking-uri.md) | ⭐ 1.1k | `development` |
+| [2026 02 05 Time And Add Resource Commands Design](development/tools/2026-02-05-time-and-add-resource-commands-design_abab3518/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/examples/chatmem/docs/plans/2026-02-05-time-and-add-resource-commands-design.md) | ⭐ 1.1k | `development` |
 
 ### Investment (38 skills)
 
@@ -508,5 +513,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-12 20:22:03 UTC*
+*Last updated: 2026-02-12 20:22:25 UTC*
 *Automatically maintained by SkillFlow*

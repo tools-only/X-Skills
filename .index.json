@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T20:22:03.140614",
+  "updated_at": "2026-02-12T20:22:25.641027",
   "skills": [
     {
       "file_hash": "163d09dc12d44d402850504ca64d4a6b28f5a5a53573f7d7ca0fb96655452885",
@@ -2885,6 +2885,34 @@
       "source_url": "https://raw.githubusercontent.com/lemony-ai/cascadeflow/main/packages/integrations/n8n/N8N_COMPATIBILITY_VALIDATION.md",
       "display_name": "N8N Compatibility Validation",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "54bf697127fecaa47c8c1bee69b7f924d3ab85ad987a878c711e4d0f612fbc1b",
+      "source_path": "docs/design/server_client/prompt.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/144-prompt_54bf6971",
+      "category": "development/devops",
+      "name": "prompt_54bf6971",
+      "indexed_at": "2026-02-12T20:22:25.527788",
+      "repo_stars": 1120,
+      "repo_updated_at": "2026-02-12T14:25:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/prompt.md",
+      "display_name": "Prompt",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "146f99d0f4ba52cc8badcc20fd34136fd104dd54a5a627d8fc78dc971b3d7458",
+      "source_path": "docs/design/server_client/server-cli-design.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/145-server-cli-design_146f99d0",
+      "category": "development/devops",
+      "name": "server-cli-design_146f99d0",
+      "indexed_at": "2026-02-12T20:22:25.640973",
+      "repo_stars": 1120,
+      "repo_updated_at": "2026-02-12T14:25:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/server_client/server-cli-design.md",
+      "display_name": "Server Cli Design",
+      "tags": "[\"development\"]"
     }
   ]
 }
