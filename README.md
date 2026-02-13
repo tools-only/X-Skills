@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **563 AI-powered skills** organized into 14 categories.
+A curated collection of **608 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (17 skills)
-- **Automation/Workflow** (25 skills)
+- **Automation/Scripting** (20 skills)
+- **Automation/Workflow** (26 skills)
 - **Commercial** (61 skills)
-- **Communication** (33 skills)
-- **Content Creation** (55 skills)
+- **Communication** (34 skills)
+- **Content Creation** (69 skills)
 - **Daily Assistant** (45 skills)
-- **Data Analysis** (40 skills)
-- **Development** (185 skills)
-- **Development/Devops** (26 skills)
-- **Development/Testing** (6 skills)
-- **Development/Tools** (44 skills)
+- **Data Analysis** (45 skills)
+- **Development** (196 skills)
+- **Development/Devops** (28 skills)
+- **Development/Testing** (8 skills)
+- **Development/Tools** (50 skills)
 - **Investment** (7 skills)
 - **Productivity** (6 skills)
 - **Research** (13 skills)
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (17 skills)
+### Automation/Scripting (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -201,8 +201,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_287b6ed2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsAlive-AND-CBaseEntity_GetEyePosition-AND-CBasePlayerPawn_GetEyePosition/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f0b5c6b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_89f14170/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_f06e034e/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/video-downloader/SKILL.md) | ⭐ 15 | `automation` |
+| [Skill](automation/scripting/name-skill_f5cb2b9e/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/video-frames/SKILL.md) | ⭐ 15 | `automation` |
+| [Bugfixes](automation/scripting/bugfixes_508b3c54/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/happycapy-skill-creator/references/bugfixes.md) | ⭐ 15 | `automation` |
 
-### Automation/Workflow (25 skills)
+### Automation/Workflow (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -231,6 +234,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Processinbox](automation/workflow/126-processinbox_537e7399/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/ProcessInbox.md) | ⭐ 15 | `automation` |
 | [Searchvault](automation/workflow/127-searchvault_9bbec4be/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SearchVault.md) | ⭐ 15 | `automation` |
 | [Syncdocs](automation/workflow/128-syncdocs_96267835/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SyncDocs.md) | ⭐ 15 | `automation` |
+| [Skill](automation/workflow/name-skill_582b34b7/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/happycapy-skill-creator/SKILL.md) | ⭐ 15 | `automation` |
 
 ### Commercial (61 skills)
 
@@ -298,7 +302,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Webarena](commercial/286-webarena_b16f92c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
 | [Skill](commercial/210-name-skill_1409d6aa/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 79 | `commercial` |
 
-### Communication (33 skills)
+### Communication (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -335,8 +339,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_b9e488e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 79 | `communication` |
 | [Processors](communication/256-processors_0e46643a/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 289 | `communication` |
 | [Skill](communication/127-name-skill_700ee9ca/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/SKILL.md) | ⭐ 23 | `communication` |
+| [Examples](communication/examples_2ad40979/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/examples.md) | ⭐ 15 | `communication` |
 
-### Content Creation (55 skills)
+### Content Creation (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -395,6 +400,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Toolsets](content-creation/360-toolsets_b0785398/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 289 | `content creation` |
 | [5.Exploring Pre Built Skills （预设Skills探索）](content-creation/375-5exploring-pre-built-skills-预设skills探索_3a092a07/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/5.Exploring Pre-Built Skills （预设Skills探索）.md) | ⭐ 76 | `content creation` |
 | [Skill](content-creation/049-name-skill_3dc7deb7/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 23 | `content creation` |
+| [Skill](content-creation/name-skill_35eb5548/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/ai-video-generation/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_ab43684d/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/film-creator/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_1e2c8c7e/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/redbook-creator-publish/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_ee21569f/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/SKILL.md) | ⭐ 15 | `content creation` |
+| [Agents](content-creation/agents_6f13a1cf/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/supabase-postgres-best-practices/AGENTS.md) | ⭐ 15 | `content creation` |
+| [Claude Isms](content-creation/claude-isms_e8be60f0/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/claude-isms.md) | ⭐ 15 | `content creation` |
+| [Subreddits Extended](content-creation/subreddits-extended_3ace1956/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/subreddits-extended.md) | ⭐ 15 | `content creation` |
+| [Subreddits](content-creation/subreddits_0472d1e3/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/subreddits.md) | ⭐ 15 | `content creation` |
+| [Contributing](content-creation/_contributing_1c2a02db/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/supabase-postgres-best-practices/references/_contributing.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_dcf1cbdd/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/ai-image-generation/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_6c7bbbd6/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/image-enhancer/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_76d2d51d/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/nano-banana-pro/SKILL.md) | ⭐ 15 | `content creation` |
+| [Skill](content-creation/name-skill_4c0a2e2e/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/xiaohongshu-recruiter/SKILL.md) | ⭐ 15 | `content creation` |
+| [Rules](content-creation/rules_db53bd12/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/xiaohongshu-recruiter/assets/rules.md) | ⭐ 15 | `content creation` |
 
 ### Daily Assistant (45 skills)
 
@@ -446,7 +465,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Createnote](daily-assistant/242-createnote_c989ab35/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CreateNote.md) | ⭐ 15 | `daily assistant` |
 | [Dailynote](daily-assistant/243-dailynote_f5af66ad/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/DailyNote.md) | ⭐ 15 | `daily assistant` |
 
-### Data Analysis (40 skills)
+### Data Analysis (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -490,8 +509,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Wireless](data-analysis/480-wireless_b2d0e578/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/wireless.md) | ⭐ 612 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5631a335/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/elevenlabs/SKILL.md) | ⭐ 79 | `data analysis` |
 | [6.Creating Custom Skills（自定义Skills）](data-analysis/481-6creating-custom-skills自定义skills_6d2cf09a/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/6.Creating Custom Skills（自定义skills）.md) | ⭐ 76 | `data analysis` |
+| [Skill](data-analysis/name-skill_90d8af9d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/pydantic-models-py/SKILL.md) | 🔥 8.7k | `data analysis` |
+| [Skill](data-analysis/name-skill_5ab8643b/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/data-storytelling/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/name-skill_e7a8227a/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/frontend-slides/SKILL.md) | ⭐ 15 | `data analysis` |
+| [Happycapy Environment](data-analysis/happycapy-environment_eac6ebdc/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/happycapy-skill-creator/references/happycapy-environment.md) | ⭐ 15 | `data analysis` |
+| [Skill](data-analysis/name-skill_b6515408/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/github-issue-creator/SKILL.md) | 🔥 8.7k | `data analysis` |
 
-### Development (185 skills)
+### Development (196 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -675,15 +699,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickstart](development/760-quickstart_f6933251/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md) | ⭐ 892 | `development` |
 | [Review](development/920-review_e67c5dc4/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/review.md) | ⭐ 27 | `development` |
 | [Claude](development/140-claude_60bd2b8c/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/CLAUDE.md) | ⭐ 23 | `development` |
-| [Agents](development/agents_ee9d25c6/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/AGENTS.md) | ⭐ 853 | `development` |
-| [Code Reviewer](development/code-reviewer_2ed88ebb/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-reviewer.md) | ⭐ 853 | `development` |
-| [Code Simplifier](development/code-simplifier_11faf8d7/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-simplifier.md) | ⭐ 853 | `development` |
-| [Silent Failure Hunter](development/silent-failure-hunter_9eb5a290/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/silent-failure-hunter.md) | ⭐ 853 | `development` |
-| [Comment Analyzer](development/comment-analyzer_b6fabd53/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/comment-analyzer.md) | ⭐ 853 | `development` |
-| [Pr Test Analyzer](development/pr-test-analyzer_a1ff7923/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/pr-test-analyzer.md) | ⭐ 853 | `development` |
-| [Type Design Analyzer](development/type-design-analyzer_8d3b8b17/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/type-design-analyzer.md) | ⭐ 853 | `development` |
+| [Agents](development/028-agents_ee9d25c6/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/AGENTS.md) | ⭐ 853 | `development` |
+| [Code Reviewer](development/2591-code-reviewer_2ed88ebb/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-reviewer.md) | ⭐ 853 | `development` |
+| [Code Simplifier](development/1970-code-simplifier_11faf8d7/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-simplifier.md) | ⭐ 853 | `development` |
+| [Silent Failure Hunter](development/2888-silent-failure-hunter_9eb5a290/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/silent-failure-hunter.md) | ⭐ 853 | `development` |
+| [Catalog](development/catalog_5d832576/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_35a81c4a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azd-deployment/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_f305e707/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-agents-persistent-dotnet/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_f5c047c8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/copilot-sdk/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_5719cfda/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/podcast-generation/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_791cf5cb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/skill-creator-ms/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_44c642c5/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/create-design-system-rules/SKILL.md) | ⭐ 15 | `development` |
+| [Style Presets](development/style_presets_a8bfe8ff/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/frontend-slides/STYLE_PRESETS.md) | ⭐ 15 | `development` |
+| [Skill](development/name-skill_8e5a86aa/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/supabase-postgres-best-practices/SKILL.md) | ⭐ 15 | `development` |
+| [Api Reference](development/api_reference_63948e9e/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/xiaohongshu-recruiter/references/api_reference.md) | ⭐ 15 | `development` |
+| [Skill](development/name-skill_ee6ff85a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/fastapi-router-py/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_15a8cb8e/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/claude-code-templates/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/name-skill_6953295d/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/weather/SKILL.md) | ⭐ 15 | `development` |
+| [Design Philosophy](development/design_philosophy_bce182bf/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/xiaohongshu-recruiter/assets/design_philosophy.md) | ⭐ 15 | `development` |
 
-### Development/Devops (26 skills)
+### Development/Devops (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -712,9 +747,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Implementation Plan](development/devops/359-04-implementation-plan_bf86188a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 63 | `development` |
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_13d80967/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 63 | `development` |
 | [Skill](development/devops/014-name-skill_b9261a3f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/SKILL.md) | ⭐ 15 | `development` |
-| [Docker Hub](development/devops/docker-hub_59d23e07/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md) | ⭐ 853 | `development` |
+| [Docker Hub](development/devops/365-docker-hub_59d23e07/) | [stickerdaniel/linkedin-mcp-server](https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md) | ⭐ 853 | `development` |
+| [Skill](development/devops/name-skill_621e771c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/mcp-builder-ms/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/devops/name-skill_c4ceee8f/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/youtube-music/SKILL.md) | ⭐ 15 | `development` |
 
-### Development/Testing (6 skills)
+### Development/Testing (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -724,8 +761,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Formula Verification](development/testing/085-formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
 | [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
 | [Skill](development/testing/002-name-skill_4c0974db/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 25 | `development` |
+| [Skill](development/testing/name-skill_65cc8f6c/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/goplaces/SKILL.md) | ⭐ 15 | `development` |
+| [Skill](development/testing/name-skill_ab5b7b1a/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/resume-assistant/SKILL.md) | ⭐ 15 | `development` |
 
-### Development/Tools (44 skills)
+### Development/Tools (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -773,6 +812,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_b187a038/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 289 | `development` |
 | [Index](development/tools/062-index_c79e2c35/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/index.md) | ⭐ 289 | `development` |
 | [9.Skills With The Claude Agent Sdk（Claude Agent Sdk 中的技能）](development/tools/326-9skills-with-the-claude-agent-sdkclaude-agent-sdk-中的技能_d245e7f7/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/9.Skills with the Claude Agent SDK（Claude Agent SDK 中的技能）.md) | ⭐ 76 | `development` |
+| [Skill](development/tools/name-skill_054c6264/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/hosted-agents-v2-py/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/tools/name-skill_ae90a1f9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/threejs-skills/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/tools/name-skill_d67a75a8/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/better-auth-best-practices/SKILL.md) | ⭐ 15 | `development` |
+| [Subreddit Analysis Claude Agentsofai](development/tools/subreddit-analysis-claude-agentsofai_9222ed4a/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/subreddit-analysis-claude-agentsofai.md) | ⭐ 15 | `development` |
+| [Tool Mentions](development/tools/tool-mentions_45758ce3/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/tool-mentions.md) | ⭐ 15 | `development` |
+| [Skill](development/tools/name-skill_6d503ae5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-agents-persistent-java/SKILL.md) | 🔥 8.7k | `development` |
 
 ### Investment (7 skills)
 
@@ -865,5 +910,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 21:21:34 UTC*
+*Last updated: 2026-02-13 22:21:37 UTC*
 *Automatically maintained by SkillFlow*
