@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T01:22:55.781929",
+  "updated_at": "2026-02-13T01:23:51.772511",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1331,6 +1331,34 @@
       "source_url": "https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/ETHICS.md",
       "display_name": "Ethics",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "d0311e4530c8a7564cd1ff709403ef8aa23a09788b4ab500bef126e113fa10a0",
+      "source_path": "RELEASE_DESCRIPTION.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/tools/322-release_description_d0311e45",
+      "category": "development/tools",
+      "name": "release_description_d0311e45",
+      "indexed_at": "2026-02-13T01:23:51.752050",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-12T17:35:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md",
+      "display_name": "Release Description",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d43c3e9c0898a0ba9cb52c94ae964bbfe759d09db106c7047703d66678c897ec",
+      "source_path": "skills/claude-code/SKILL.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/1178-name-skill_d43c3e9c",
+      "category": "development",
+      "name": "name-skill_d43c3e9c",
+      "indexed_at": "2026-02-13T01:23:51.772388",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-12T20:29:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/claude-code/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }

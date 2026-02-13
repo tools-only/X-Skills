@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **95 AI-powered skills** organized into 14 categories.
+A curated collection of **97 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -15,10 +15,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (7 skills)
 - **Daily Assistant** (4 skills)
 - **Data Analysis** (20 skills)
-- **Development** (9 skills)
+- **Development** (10 skills)
 - **Development/Devops** (6 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (8 skills)
+- **Development/Tools** (9 skills)
 - **Investment** (2 skills)
 - **Productivity** (2 skills)
 - **Research** (4 skills)
@@ -198,7 +198,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Usage Guide](automation/workflow/031-usage-guide_d5b8c5d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/edna-pipeline/usage-guide.md) | ⭐ 233 | `automation` |
 | [Usage Guide](automation/workflow/031-usage-guide_c438f645/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/usage-guide.md) | ⭐ 233 | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_e5d1a15a/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 27 | `automation` |
-| [Agents](automation/workflow/agents_8aee7225/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md) | ⭐ 13 | `automation` |
+| [Agents](automation/workflow/073-agents_8aee7225/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md) | ⭐ 13 | `automation` |
 
 ### Commercial (18 skills)
 
@@ -240,7 +240,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ai Agent Composability Analysis](content-creation/356-ai_agent_composability_analysis_8ca26161/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/AI_AGENT_COMPOSABILITY_ANALYSIS.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/049-name-skill_42cdd582/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/universal-media-downloader/SKILL.md) | ⭐ 18 | `content creation` |
 | [Spawn V0 Local Only](content-creation/357-spawn_v0_local_only_1cb9fb27/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/spawn_v0_local_only.md) | ⭐ 51 | `content creation` |
-| [Ethics](content-creation/ethics_dbde6459/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/ETHICS.md) | ⭐ 13 | `content creation` |
+| [Ethics](content-creation/372-ethics_dbde6459/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/ETHICS.md) | ⭐ 13 | `content creation` |
 
 ### Daily Assistant (4 skills)
 
@@ -276,7 +276,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_0def0501/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 233 | `data analysis` |
 | [Visual Prompting V0](data-analysis/485-visual_prompting_v0_52572161/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/visual_prompting_v0.md) | ⭐ 51 | `data analysis` |
 
-### Development (9 skills)
+### Development (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -289,6 +289,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/140-claude_84c07acf/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/CLAUDE.md) | ⭐ 51 | `development` |
 | [Releasing](development/2885-releasing_f6b07c11/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/RELEASING.md) | ⭐ 51 | `development` |
 | [Aip Aws Setup](development/2886-aip_aws_setup_103a72ac/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aip_aws_setup.md) | ⭐ 51 | `development` |
+| [Skill](development/name-skill_d43c3e9c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/claude-code/SKILL.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (6 skills)
 
@@ -309,7 +310,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
 
-### Development/Tools (8 skills)
+### Development/Tools (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -321,6 +322,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Usage Guide](development/tools/069-usage-guide_abeec102/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/edna-metabarcoding/usage-guide.md) | ⭐ 233 | `development` |
 | [Skill](development/tools/002-name-skill_e212fd0c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/landscape-genomics/SKILL.md) | ⭐ 233 | `development` |
 | [Desktop](development/tools/322-desktop_17f69f89/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
+| [Release Description](development/tools/release_description_d0311e45/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
 
 ### Investment (2 skills)
 
@@ -395,5 +397,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 01:22:55 UTC*
+*Last updated: 2026-02-13 01:23:51 UTC*
 *Automatically maintained by SkillFlow*
