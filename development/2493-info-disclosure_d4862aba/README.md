@@ -1,0 +1,24 @@
+# Info Disclosure
+
+| Property | Value |
+|----------|-------|
+| **Name** | Info Disclosure |
+| **Repository** | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/info-disclosure.md) (⭐ 56) |
+| **Original Path** | `plugins/wooyun-legacy/skills/wooyun-legacy/references/info-disclosure.md` |
+| **Category** | development |
+| **Subcategory** | coding |
+| **Tags** | development |
+| **Created** | 2026-02-12 |
+| **Updated** | 2026-02-12 |
+| **File Hash** | `d4862aba153d750c...` |
+
+## Description
+
+> Distilled from 7,337 cases | Data source: WooYun Vulnerability Database (20102016)
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/info-disclosure.md)*
