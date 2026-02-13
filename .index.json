@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T03:21:52.145722",
+  "updated_at": "2026-02-13T03:22:17.176233",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1471,6 +1471,34 @@
       "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md",
       "display_name": "Readme Cn",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "32f0d9c1d67b82f23a8db09ca3760eb3ce2a199a4838320760a004da84b72443",
+      "source_path": "METRICS.md",
+      "source_repo": "SkeneTechnologies/skene-cookbook",
+      "local_path": "development/575-metrics_32f0d9c1",
+      "category": "development",
+      "name": "metrics_32f0d9c1",
+      "indexed_at": "2026-02-13T03:22:17.086773",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-12T13:39:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/METRICS.md",
+      "display_name": "Metrics",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "dd40a0b5fabd73a61625b1360c713ae34590f9edee926d01a61c5b913d28e7f8",
+      "source_path": "docs/technical/RECIPE_AUDIT.md",
+      "source_repo": "SkeneTechnologies/skene-cookbook",
+      "local_path": "development/2850-recipe_audit_dd40a0b5",
+      "category": "development",
+      "name": "recipe_audit_dd40a0b5",
+      "indexed_at": "2026-02-13T03:22:17.176183",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-12T13:39:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/RECIPE_AUDIT.md",
+      "display_name": "Recipe Audit",
+      "tags": "[\"development\"]"
     }
   ]
 }

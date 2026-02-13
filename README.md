@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **109 AI-powered skills** organized into 14 categories.
+A curated collection of **107 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,14 +11,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (1 skill)
 - **Automation/Workflow** (10 skills)
 - **Commercial** (18 skills)
-- **Communication** (4 skills)
+- **Communication** (3 skills)
 - **Content Creation** (7 skills)
 - **Daily Assistant** (4 skills)
 - **Data Analysis** (20 skills)
 - **Development** (13 skills)
 - **Development/Devops** (9 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (12 skills)
+- **Development/Tools** (11 skills)
 - **Investment** (2 skills)
 - **Productivity** (2 skills)
 - **Research** (4 skills)
@@ -224,14 +224,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Migration Guide V1](commercial/251-migration_guide_v1_845a62d9/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/MIGRATION_GUIDE_v1.md) | ⭐ 4.0k | `commercial` |
 | [Aesthetic](commercial/386-aesthetic_beed860c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aesthetic.md) | ⭐ 51 | `commercial` |
 
-### Communication (4 skills)
+### Communication (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Syntax Reference](communication/113-syntax-reference_a16eba1d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) | ⭐ 65 | `communication` |
 | [Project Context](communication/255-project_context_5cc91b78/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/PROJECT_CONTEXT.md) | ⭐ 51 | `communication` |
-| [Readme Cn](communication/readme_cn_a75d0219/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 57 | `communication` |
-| [Im Channels](communication/im-channels_06f69a12/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channels.md) | ⭐ 57 | `communication` |
+| [Readme Cn](communication/256-readme_cn_a75d0219/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 57 | `communication` |
 
 ### Content Creation (7 skills)
 
@@ -294,8 +293,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Aip Aws Setup](development/2886-aip_aws_setup_103a72ac/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aip_aws_setup.md) | ⭐ 51 | `development` |
 | [Skill](development/1178-name-skill_d43c3e9c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/claude-code/SKILL.md) | ⭐ 10 | `development` |
 | [Developer Guide](development/282-developer-guide_ff9975f1/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 7.1k | `development` |
-| [Im Channel Setup Tutorial](development/im-channel-setup-tutorial_17d94103/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channel-setup-tutorial.md) | ⭐ 57 | `development` |
-| [Llm Provider Setup Tutorial](development/llm-provider-setup-tutorial_d8e8de8d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/llm-provider-setup-tutorial.md) | ⭐ 57 | `development` |
+| [Metrics](development/metrics_32f0d9c1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/METRICS.md) | ⭐ 18 | `development` |
+| [Recipe Audit](development/recipe_audit_dd40a0b5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/RECIPE_AUDIT.md) | ⭐ 18 | `development` |
 
 ### Development/Devops (9 skills)
 
@@ -319,7 +318,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
 
-### Development/Tools (12 skills)
+### Development/Tools (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -334,7 +333,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Description](development/tools/322-release_description_d0311e45/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
 | [Contributing Lint Setup](development/tools/321-contributing-lint-setup_2918e77d/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | 🔥 7.1k | `development` |
 | [Skill](development/tools/002-name-skill_d2a89379/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 7.1k | `development` |
-| [Configuration Guide](development/tools/configuration-guide_4c5d1bcc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration-guide.md) | ⭐ 57 | `development` |
 
 ### Investment (2 skills)
 
@@ -409,5 +407,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 03:21:52 UTC*
+*Last updated: 2026-02-13 03:22:17 UTC*
 *Automatically maintained by SkillFlow*
