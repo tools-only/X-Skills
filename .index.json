@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T02:25:19.945252",
+  "updated_at": "2026-02-13T03:21:52.145722",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1457,6 +1457,20 @@
       "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "a75d0219ddcc550d66fb11f06c8a6f9798ce9671fafcaca2c32cdeb70dbca17b",
+      "source_path": "README_CN.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "communication/256-readme_cn_a75d0219",
+      "category": "communication",
+      "name": "readme_cn_a75d0219",
+      "indexed_at": "2026-02-13T03:21:52.144528",
+      "repo_stars": 57,
+      "repo_updated_at": "2026-02-12T17:48:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"communication\"]"
     }
   ]
 }
