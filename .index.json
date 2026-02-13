@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T01:23:51.772511",
+  "updated_at": "2026-02-13T02:24:38.336297",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1357,6 +1357,20 @@
       "repo_stars": 10,
       "repo_updated_at": "2026-02-12T20:29:44+00:00",
       "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/claude-code/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ae24568a8fdb199edb87c292333cc7826cc7380cad98ead35c0403936d6d0432",
+      "source_path": "plugins/static-analysis/skills/semgrep/SKILL.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "development/devops/014-name-skill_ae24568a",
+      "category": "development/devops",
+      "name": "name-skill_ae24568a",
+      "indexed_at": "2026-02-13T02:24:38.336217",
+      "repo_stars": 2592,
+      "repo_updated_at": "2026-02-12T16:17:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"development\"]"
     }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **97 AI-powered skills** organized into 14 categories.
+A curated collection of **102 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -15,10 +15,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (7 skills)
 - **Daily Assistant** (4 skills)
 - **Data Analysis** (20 skills)
-- **Development** (10 skills)
-- **Development/Devops** (6 skills)
-- **Development/Testing** (3 skills)
-- **Development/Tools** (9 skills)
+- **Development** (11 skills)
+- **Development/Devops** (8 skills)
+- **Development/Testing** (4 skills)
+- **Development/Tools** (10 skills)
 - **Investment** (2 skills)
 - **Productivity** (2 skills)
 - **Research** (4 skills)
@@ -276,7 +276,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_0def0501/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 233 | `data analysis` |
 | [Visual Prompting V0](data-analysis/485-visual_prompting_v0_52572161/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/visual_prompting_v0.md) | ⭐ 51 | `data analysis` |
 
-### Development (10 skills)
+### Development (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -289,9 +289,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/140-claude_84c07acf/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/CLAUDE.md) | ⭐ 51 | `development` |
 | [Releasing](development/2885-releasing_f6b07c11/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/RELEASING.md) | ⭐ 51 | `development` |
 | [Aip Aws Setup](development/2886-aip_aws_setup_103a72ac/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aip_aws_setup.md) | ⭐ 51 | `development` |
-| [Skill](development/name-skill_d43c3e9c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/claude-code/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_d43c3e9c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/claude-code/SKILL.md) | ⭐ 10 | `development` |
+| [Triage Task Prompt](development/triage-task-prompt_9f03b5b4/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/triage-task-prompt.md) | ⭐ 2.6k | `development` |
 
-### Development/Devops (6 skills)
+### Development/Devops (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -301,16 +302,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Env Configuration](development/devops/091-env_configuration_2db3de1d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md) | ⭐ 4.0k | `development` |
 | [Troubleshooting Openai Api Key](development/devops/092-troubleshooting-openai-api-key_c455d79c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting-openai-api-key.md) | ⭐ 4.0k | `development` |
 | [Roadmap](development/devops/097-roadmap_aa63c2f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Skill](development/devops/name-skill_ae24568a/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md) | ⭐ 2.6k | `development` |
+| [Scanner Task Prompt](development/devops/scanner-task-prompt_3a30f5ed/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/references/scanner-task-prompt.md) | ⭐ 2.6k | `development` |
 
-### Development/Testing (3 skills)
+### Development/Testing (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Batch 20260211 221333 Aggregate](development/testing/085-batch_20260211_221333_aggregate_2012d195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221333_aggregate.md) | ⭐ 18 | `development` |
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
+| [Semgrep Triager](development/testing/semgrep-triager_2f29ebd9/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/agents/semgrep-triager.md) | ⭐ 2.6k | `development` |
 
-### Development/Tools (9 skills)
+### Development/Tools (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -322,7 +326,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Usage Guide](development/tools/069-usage-guide_abeec102/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/edna-metabarcoding/usage-guide.md) | ⭐ 233 | `development` |
 | [Skill](development/tools/002-name-skill_e212fd0c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/landscape-genomics/SKILL.md) | ⭐ 233 | `development` |
 | [Desktop](development/tools/322-desktop_17f69f89/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
-| [Release Description](development/tools/release_description_d0311e45/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
+| [Release Description](development/tools/322-release_description_d0311e45/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
+| [Semgrep Scanner](development/tools/semgrep-scanner_7d26c814/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/agents/semgrep-scanner.md) | ⭐ 2.6k | `development` |
 
 ### Investment (2 skills)
 
@@ -397,5 +402,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 01:23:51 UTC*
+*Last updated: 2026-02-13 02:24:38 UTC*
 *Automatically maintained by SkillFlow*
