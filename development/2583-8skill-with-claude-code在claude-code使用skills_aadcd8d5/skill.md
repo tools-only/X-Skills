@@ -1,0 +1,320 @@
+# Skill with Claude Code(熟练运用 Claude Code)
+
+## 引言
+
+Claude Code 是一个强大的智能体助手，它在您的终端中运行，擅长编码，但也能处理您可以通过命令行完成的任何任务，例如编写文档、运行构建、搜索文件、研究主题等。本教程将深入探讨 Claude Code 的工作原理、核心功能以及如何在 VS Code 中高效使用它。
+
+## Claude Code 工作原理
+
+当您给 Claude Code 一个任务时，它会经历三个阶段：**收集上下文**、**采取行动**和**验证结果**。这些阶段相互融合，Claude 在整个过程中使用工具，无论是搜索文件以理解您的代码，编辑文件以进行更改，还是运行测试以检查其工作。这个循环会根据您的需求进行调整。对代码库的提问可能只需要收集上下文。修复错误则会反复经历所有三个阶段。重构可能涉及广泛的验证。Claude 根据从上一步中学到的内容决定每一步需要什么，将数十个操作串联起来并在过程中进行纠正。您也是这个循环的一部分。您可以随时中断以引导 Claude 走向不同的方向，提供额外的上下文，或要求它尝试不同的方法。Claude 自主工作，但对您的输入保持响应。智能体循环由两个组件驱动：**模型**（负责推理）和**工具**（负责行动）。Claude Code 充当 Claude 的**智能体框架**：它提供工具、上下文管理和执行环境，将语言模型转变为一个有能力的编码智能体。
+
+![](./image/8.1.png)
+### 模型
+
+Claude Code 使用 Claude 模型来理解您的代码并对任务进行推理。Claude 可以阅读任何语言的代码，理解组件如何连接，并找出需要更改什么才能实现您的目标。对于复杂的任务，它会将工作分解为多个步骤，执行它们，并根据所学到的内容进行调整。有多种模型可供选择，它们在权衡方面有所不同。Sonnet 在大多数编码任务中表现良好。Opus 为复杂的架构决策提供更强的推理能力。您可以在会话期间使用 `/model` 切换模型，或使用 `claude --model <name>` 启动会话。当本指南提到“Claude 选择”或“Claude 决定”时，指的是模型正在进行推理。
+
+### 工具
+
+工具是使 Claude Code 具有智能体能力的关键。没有工具，Claude 只能以文本形式响应。有了工具，Claude 就可以采取行动：阅读您的代码、编辑文件、运行命令、搜索网络以及与外部服务交互。每次工具使用都会返回信息，这些信息会反馈到循环中，为 Claude 的下一个决策提供依据。内置工具通常分为四类，每类代表一种不同类型的智能体能力。这些是主要功能。Claude 还拥有用于生成子智能体、向您提问以及其他编排任务的工具。Claude 会根据您的提示以及它在过程中学到的内容来选择使用哪些工具。例如，当您说“修复失败的测试”时，Claude 可能会：
+
+1. 运行测试套件以查看哪些测试失败
+
+2. 阅读错误输出
+
+3. 搜索相关的源文件
+
+4. 阅读这些文件以理解代码
+
+5. 编辑文件以修复问题
+
+6. 再次运行测试以进行验证
+
+每次工具使用都会为 Claude 提供新的信息，从而指导下一步。这就是智能体循环的运作方式。**扩展基本功能：** 内置工具是基础。您可以使用**技能**扩展 Claude 的知识，使用 **MCP** 连接到外部服务，使用**钩子**自动化工作流程，并将任务卸载到**子智能体**。这些扩展在核心智能体循环之上形成了一个层。有关如何根据您的需求选择正确扩展的指导，请参阅“扩展 Claude Code”部分。
+
+### Claude 可访问的内容
+
+本指南主要关注终端。Claude Code 也可以在 VS Code、JetBrains IDE 和其他环境中运行。当您在目录中运行 `claude` 时，Claude Code 可以访问：
+
+- **您的项目。** 您目录及其子目录中的文件，以及经过您许可的其他位置的文件。
+
+- **您的终端。** 您可以运行的任何命令：构建工具、git、包管理器、系统实用程序、脚本。如果您可以通过命令行完成，Claude 也可以。
+
+- **您的 Git 状态。** 当前分支、未提交的更改和最近的提交历史记录。
+
+- **您的 CLAUDE.md 文件。** 一个 Markdown 文件，您可以在其中存储 Claude 在每个会话中应了解的项目特定说明、约定和上下文。
+
+- **您配置的扩展。** 用于外部服务的 MCP 服务器、用于工作流程的技能、用于委托工作的子智能体以及用于浏览器交互的 Chrome 中的 Claude。
+
+因为 Claude 可以看到您的整个项目，所以它可以在整个项目中工作。当您要求 Claude“修复身份验证错误”时，它会搜索相关文件，阅读多个文件以理解上下文，在它们之间进行协调编辑，运行测试以验证修复，并在您要求时提交更改。这与只查看当前文件的内联代码助手不同。
+
+### 会话管理
+
+Claude Code 会在您工作时将您的对话本地保存。每条消息、工具使用和结果都会被存储，这使得**回溯**、**恢复**和**分叉**会话成为可能。在 Claude 进行代码更改之前，它还会对受影响的文件进行快照，以便您在需要时可以恢复。**会话是短暂的。** 与 claude.ai 不同，Claude Code 在会话之间没有持久内存。每个新会话都从头开始。Claude 不会随着时间的推移“学习”您的偏好，也不会记住您上周处理过什么。如果您希望 Claude 在会话之间了解某些内容，请将其放入您的 CLAUDE.md 文件中。
+
+#### 跨分支工作
+
+每个 Claude Code 对话都是一个与您当前目录绑定的会话。当您恢复时，您只会看到该目录中的会话。Claude 会查看您当前分支的文件。当您切换分支时，Claude 会看到新分支的文件，但您的对话历史记录保持不变。即使切换后，Claude 也会记住您讨论过的内容。由于会话与目录绑定，您可以通过使用 **git worktrees** 运行并行 Claude 会话，这会为各个分支创建单独的目录。
+
+#### 恢复或分叉会话
+
+当您使用 `claude --continue` 或 `claude --resume` 恢复会话时，您将使用相同的会话 ID 从上次中断的地方继续。新消息会附加到现有对话中。您的完整对话历史记录会恢复，但会话范围的权限不会。您需要重新批准这些权限。
+
+![](./image/8.2.png)
+
+要分支并尝试不同的方法而不影响原始会话，请使用 `--fork-session` 标志：
+
+```bash
+claude --continue --fork-session
+```
+
+这会创建一个新的会话 ID，同时保留到该点为止的对话历史记录。原始会话保持不变。与恢复一样，分叉会话不会继承会话范围的权限。**在多个终端中使用相同的会话**：如果您在多个终端中恢复相同的会话，两个终端都会写入同一个会话文件。来自两者的消息会交错显示，就像两个人写在同一个笔记本上一样。不会损坏任何内容，但对话会变得混乱。每个终端在会话期间只看到自己的消息，但如果您稍后恢复该会话，您将看到所有交错的消息。对于从相同起点进行的并行工作，请使用 `--fork-session` 为每个终端提供自己的干净会话。
+
+### 上下文窗口
+
+Claude 的上下文窗口包含您的对话历史记录、文件内容、命令输出、CLAUDE.md 文件、加载的技能和系统指令。随着您的工作，上下文会逐渐填满。Claude 会自动压缩，但对话早期的一些指令可能会丢失。将持久规则放入 CLAUDE.md 文件中，并运行 `/context` 以查看哪些内容占用了空间。
+
+#### 当上下文填满时
+
+当您接近限制时，Claude Code 会自动管理上下文。
+
+## 扩展 Claude Code
+
+Claude Code 将一个能够理解您代码的模型与用于文件操作、搜索、执行和 Web 访问的**内置工具**相结合。内置工具涵盖了大多数编码任务。本指南涵盖了扩展层：您添加的功能可以自定义 Claude 的知识、将其连接到外部服务并自动化工作流程。
+
+有关核心智能体循环的工作原理，请参阅“Claude Code 工作原理”部分。
+
+**Claude Code 新手？** 从 CLAUDE.md 开始，了解项目约定。根据需要添加其他扩展。
+
+### 概述
+
+扩展功能插入到智能体循环的不同部分：
+
+- **CLAUDE.md** 添加了 Claude 在每个会话中都会看到的持久上下文
+
+- **技能** 添加了可重用的知识和可调用的工作流程
+
+- **MCP** 将 Claude 连接到外部服务和工具
+
+- **子智能体** 在隔离的上下文中运行自己的循环，并返回摘要
+
+- **智能体团队** 协调多个独立的会话，共享任务和点对点消息传递
+
+- **钩子** 完全在循环之外作为确定性脚本运行
+
+- **插件** 和**市场** 打包和分发这些功能
+
+**技能** 是最灵活的扩展。技能是一个包含知识、工作流程或指令的 Markdown 文件。您可以使用斜杠命令（例如 `/deploy`）调用技能，或者 Claude 可以在相关时自动加载它们。技能可以在您当前的对话中运行，也可以通过子智能体在隔离的上下文中运行。
+
+### 将功能与您的目标匹配
+
+功能范围从 Claude 在每个会话中都会看到的常驻上下文，到您或 Claude 可以调用的按需功能，再到在特定事件上运行的后台自动化。下表显示了可用的功能以及何时使用它们。
+
+| 功能 | 作用 | 何时使用 | 示例 |
+| --- | --- | --- | --- |
+| **CLAUDE.md** | 每个对话都会加载的持久上下文 | 项目约定，“总是做 X”规则 | “使用 pnpm，而不是 npm。在提交前运行测试。” |
+| **技能** | Claude 可以使用的指令、知识和工作流程 | 可重用内容、参考文档、可重复任务 | `/review` 运行您的代码审查清单；带有端点模式的 API 文档技能 |
+| **子智能体** | 返回摘要结果的隔离执行上下文 | 上下文隔离、并行任务、专业工作者 | 读取许多文件但只返回关键发现的研究任务 |
+| **智能体团队** | 协调多个独立的 Claude Code 会话 | 并行研究、新功能开发、使用竞争假设进行调试 | 生成审阅者以同时检查安全性、性能和测试 |
+| **MCP** | 连接到外部服务 | 外部数据或操作 | 查询您的数据库、发布到 Slack、控制浏览器 |
+| **钩子** | 在事件上运行的确定性脚本 | 可预测的自动化，不涉及 LLM | 每次文件编辑后运行 ESLint |
+
+**插件** 是打包层。插件将技能、钩子、子智能体和 MCP 服务器捆绑到一个可安装的单元中。插件技能是**命名空间**的（例如 `/my-plugin:review`），因此多个插件可以共存。当您希望在多个存储库中重用相同的设置或通过**市场**分发给其他人时，请使用插件。
+
+### 比较类似功能
+
+有些功能可能看起来相似。以下是区分它们的方法。
+
+- 技能与子智能体
+
+- CLAUDE.md 与技能
+
+- 子智能体与智能体团队
+
+- MCP 与技能
+
+技能和子智能体解决不同的问题：
+
+- **技能** 是您可以加载到任何上下文中的可重用内容
+
+- **子智能体** 是与您的主对话分开运行的隔离工作者
+
+**技能可以是参考或行动。** 参考技能提供 Claude 在整个会话中使用的知识（例如您的 API 样式指南）。行动技能告诉 Claude 做一些特定的事情（例如 `/deploy` 运行您的部署工作流程）。当您需要上下文隔离或上下文窗口即将填满时，**使用子智能体**。子智能体可能会读取数十个文件或进行广泛的搜索，但您的主对话只会收到摘要。由于子智能体的工作不会消耗您的主上下文，因此当您不需要中间工作保持可见时，这也很有用。自定义子智能体可以有自己的指令并可以预加载技能。**它们可以结合。** 子智能体可以预加载特定的技能（`skills:` 字段）。技能可以使用 `context: fork` 在隔离的上下文中运行。
+
+### 理解功能层
+
+功能可以在多个级别定义：用户范围、每个项目、通过插件或通过托管策略。您还可以在子目录中嵌套 CLAUDE.md 文件，或将技能放置在单体仓库的特定包中。当同一功能存在于多个级别时，它们的分层方式如下：
+
+- **CLAUDE.md 文件** 是累加的：所有级别同时向 Claude 的上下文贡献内容。来自您的工作目录及以上的文件在启动时加载；子目录在您使用它们时加载。当指令冲突时，Claude 会根据判断进行协调，通常更具体的指令优先。
+
+- **技能和子智能体** 按名称覆盖：当同一名称存在于多个级别时，一个定义会根据优先级获胜（托管 > 用户 > 项目用于技能；托管 > CLI 标志 > 项目 > 用户 > 插件用于子智能体）。插件技能是**命名空间**的，以避免冲突。
+
+- **MCP 服务器** 按名称覆盖：本地 > 项目 > 用户。
+
+- **钩子** 合并：所有注册的钩子都会触发其匹配事件，无论来源如何。
+
+### 组合功能
+
+每个扩展都解决了不同的问题：CLAUDE.md 处理常驻上下文，技能处理按需知识和工作流程，MCP 处理外部连接，子智能体处理隔离，钩子处理自动化。实际设置会根据您的工作流程将它们组合起来。例如，您可以使用 CLAUDE.md 进行项目约定，使用技能进行部署工作流程，使用 MCP 连接到数据库，并使用钩子在每次编辑后运行 linting。每个功能都发挥其最佳作用。
+
+### 理解上下文成本
+
+您添加的每个功能都会消耗 Claude 的部分上下文。太多可能会填满您的上下文窗口，但也可能增加噪音，使 Claude 的效率降低；技能可能无法正确触发，或者 Claude 可能会忘记您的约定。了解这些权衡有助于您构建有效的设置。
+
+### 按功能划分的上下文成本
+
+每个功能都有不同的加载策略和上下文成本。默认情况下，技能描述在会话开始时加载，以便 Claude 可以决定何时使用它们。在技能的 frontmatter 中设置 `disable-model-invocation: true` 可以完全将其隐藏，直到您手动调用它。这会将您自己触发的技能的上下文成本降至零。
+
+### 理解功能如何加载
+
+![](./image/8.3.png)
+
+每个功能在会话的不同时间点加载。下面的选项卡解释了每个功能何时加载以及哪些内容进入上下文。
+
+- [CLAUDE.md](https://code.claude.com/docs/en/features-overview#claude-md)
+
+- [技能](https://code.claude.com/docs/en/features-overview#skills)
+
+- [MCP 服务器](https://code.claude.com/docs/en/features-overview#mcp-servers)
+
+- [子智能体](https://code.claude.com/docs/en/features-overview#subagents)
+
+- [钩子](https://code.claude.com/docs/en/features-overview#hooks)
+
+**何时：** 会话开始**加载内容：** 所有 CLAUDE.md 文件的完整内容（托管、用户和项目级别）。**继承：** Claude 从您的工作目录向上读取 CLAUDE.md 文件到根目录，并在访问子目录中的文件时发现嵌套的文件。
+
+将 CLAUDE.md 保持在约 500 行以下。将参考资料移动到按需加载的技能中。
+
+### 了解更多
+
+每个功能都有自己的指南，其中包含设置说明、示例和配置选项。
+
+## 在 VS Code 中使用 Claude Code
+
+VS Code 扩展为 Claude Code 提供了原生的图形界面，直接集成到您的 IDE 中。这是在 VS Code 中使用 Claude Code 的推荐方式。通过该扩展，您可以在接受 Claude 的计划之前审查和编辑它们，自动接受所做的编辑，使用您的选择 @-提及具有特定行范围的文件，访问对话历史记录，并在单独的选项卡或窗口中打开多个对话。
+
+![Claude Code VS Code 界面](https://private-us-east-1.manuscdn.com/sessionFile/t1trxwlj9Q3l8b8998GQFI/sandbox/tI5BemmroAZHqTh7uPB9Nt-images_1770339426192_na1fn_L2hvbWUvdWJ1bnR1L2ltYWdlcy9jbGF1ZGVfdnNjb2RlX2ludGVyZmFjZQ.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdDF0cnh3bGo5UTNsOGI4OTk4R1FGSS9zYW5kYm94L3RJNUJlbW1yb0FaSHFUaDd1UEI5TnQtaW1hZ2VzXzE3NzAzMzk0MjYxOTJfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwybHRZV2RsY3k5amJHRjFaR1ZmZG5OamIyUmxYMmx1ZEdWeVptRmpaUS53ZWJwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=c7c9xQvFGU-Op8uHKeYlnuTFFTVkYMfo~HqggncTBt0c32HOUxTJ5HBbeipHimG7tWg1zebTdaC3wWvwpo2hTMLXbjKAQUj-6yVN89Qcvv1AKCzkrWLZOEWYkrGDIK4OzllQUD-1rmHF7FuQxL~SyR4l9UQ5dn0PYwVFHHnc5PmF4Ybg0GVNXimwa~p00hOMexnKGRcxzPANk-Ff5TeOxHbpYkbeODF9qJEWBGFqVbYqlhs19GZyJj57SmceSv1LCRqMLzf5UV32N3XePnxdUrxrRZwHjyXDYWSxGeCzXQVnTqEXvN4RP9gQUEHq1Pf9UHXvLbAoWunyzUbitp6Bcw__)
+
+### 先决条件
+
+- VS Code 1.98.0 或更高版本
+
+- 一个 Anthropic 帐户（首次打开扩展时需要登录）。如果您使用的是 Amazon Bedrock 或 Google Vertex AI 等第三方提供商，请参阅“使用第三方提供商”部分。
+
+该扩展包括 CLI（命令行界面），您可以从 VS Code 的集成终端访问它以获取高级功能。有关详细信息，请参阅“VS Code 扩展与 Claude Code CLI”部分。
+
+### 安装扩展
+
+单击您的 IDE 链接直接安装：
+
+- [安装到 VS Code](https://marketplace.visualstudio.com/items?itemName=Anthropic.claude-code)
+
+- [安装到 Cursor](https://marketplace.visualstudio.com/items?itemName=Anthropic.claude-code)
+
+或者在 VS Code 中，按 `Cmd+Shift+X` (Mac) 或 `Ctrl+Shift+X` (Windows/Linux) 打开扩展视图，搜索“Claude Code”，然后单击**安装**。
+
+如果安装后扩展未出现，请重新启动 VS Code 或从命令面板运行“Developer: Reload Window”。
+
+### 开始使用
+
+安装后，您可以通过 VS Code 界面开始使用 Claude Code：
+
+1. **打开 Claude Code 面板**
+
+   在整个 VS Code 中，Spark 图标表示 Claude Code：打开 Claude 最快的方法是单击**编辑器工具栏**（编辑器右上角）中的 Spark 图标。该图标仅在您打开文件时出现。
+
+   打开 Claude Code 的其他方式：
+
+   首次打开面板时，会出现一个**学习 Claude Code** 清单。通过单击**显示我**来完成每个项目，或单击 X 关闭它。要稍后重新打开它，请在 VS Code 设置的“扩展 → Claude Code”下取消选中**隐藏入门**。您可以将 Claude 面板拖动到 VS Code 中的任何位置。
+
+- **命令面板**：`Cmd+Shift+P` (Mac) 或 `Ctrl+Shift+P` (Windows/Linux)，键入“Claude Code”，然后选择一个选项，例如“在新选项卡中打开”
+
+- **状态栏**：单击窗口右下角的 **✱ Claude Code**。即使没有打开文件，这也有效。
+
+1. **发送提示**
+
+   请求 Claude 帮助您的代码或文件，无论是解释工作原理、调试问题还是进行更改。
+
+   Claude 会自动查看您选择的文本。按 `Option+K` (Mac) / `Alt+K` (Windows/Linux) 也可以在您的提示中插入 @-提及引用（例如 `@file.ts#5-10`）。
+
+1. **审查更改**
+
+   当 Claude 想要编辑文件时，它会显示原始更改和建议更改的并排比较，然后请求权限。您可以接受、拒绝或告诉 Claude 应该怎么做。
+
+### 使用提示框
+
+提示框支持以下功能：
+
+![Claude Code VS Code 提示框](https://private-us-east-1.manuscdn.com/sessionFile/t1trxwlj9Q3l8b8998GQFI/sandbox/tI5BemmroAZHqTh7uPB9Nt-images_1770339426192_na1fn_L2hvbWUvdWJ1bnR1L2ltYWdlcy9jbGF1ZGVfdnNjb2RlX3Byb21wdF9ib3g.webp?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvdDF0cnh3bGo5UTNsOGI4OTk4R1FGSS9zYW5kYm94L3RJNUJlbW1yb0FaSHFUaDd1UEI5TnQtaW1hZ2VzXzE3NzAzMzk0MjYxOTJfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwybHRZV2RsY3k5amJHRjFaR1ZmZG5OamIyUmxYM0J5YjIxd2RGOWliM2cud2VicCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=C1aL3zJAPFwCFs9U8ef3VVkILIvsH6TCj6zmFGT-a-IjU7aK6zlZe4ErtgqjkL0kMoWEs2D6xYhOmpGgWBg5Of6BxCVwE24aws0cV3s3Jw0kCRGJLfwxaGh-iQKNG9GPYH~TV7D1tC~3ODjb1kKF0ql2bD5Ovb4JHK8TDl-O4ZSHNxf--ATV8BJ8UoD9RDptc1afL-~s2ATxbSsIyCt6qzWTgaBuUaL72shCLhXxbM74qfmxE33wQJnFTHCqmvJBKMCUAzWJ19U9jwh1j7nQBoaQaCEGjsIRRZ9Etsc9HjX4~4sPa~vpyODOIRWCnyIJdQYB0G-KPE0NEZCn9knDlg__)
+
+- **权限模式**：单击提示框底部的模式指示器以切换模式。在正常模式下，Claude 在每次操作前都会请求权限。在计划模式下，Claude 会描述它将做什么，并在进行更改前等待批准。在自动接受模式下，Claude 会在不询问的情况下进行编辑。在 VS Code 设置的 `claudeCode.initialPermissionMode` 下设置默认值。
+
+- **命令菜单**：单击 `/` 或键入 `/` 以打开命令菜单。选项包括附加文件、切换模型、切换扩展思考和查看计划使用情况（`/usage`）。“自定义”部分提供对 MCP 服务器、钩子、内存、权限和插件的访问。带有终端图标的项目在集成终端中打开。
+
+- **上下文指示器**：提示框显示您正在使用多少 Claude 的上下文窗口。Claude 会在需要时自动压缩，或者您可以手动运行 `/compact`。
+
+- **扩展思考**：让 Claude 花更多时间思考复杂问题。通过命令菜单（`/`）将其打开。
+
+- **多行输入**：按 `Shift+Enter` 添加新行而不发送。这在问题对话框的“其他”自由文本输入中也有效。
+
+### 引用文件和文件夹
+
+使用 @-提及向 Claude 提供有关特定文件或文件夹的上下文。当您键入 `@` 后跟文件或文件夹名称时，Claude 会读取该内容并可以回答有关它的问题或对其进行更改。Claude Code 支持模糊匹配，因此您可以键入部分名称以查找所需内容：
+
+```
+> Explain the logic in @auth (fuzzy matches auth.js, AuthService.ts, etc.)
+> What's in @src/components/ (include a trailing slash for folders)
+```
+
+对于大型 PDF，您可以要求 Claude 阅读特定页面而不是整个文件：单个页面、1-10 页的范围或从第 3 页开始的开放范围。当您在编辑器中选择文本时，Claude 可以自动看到您突出显示的代码。提示框底部显示选择了多少行。按 `Option+K` (Mac) / `Alt+K` (Windows/Linux) 插入带有文件路径和行号的 @-提及（例如 `@app.ts#5-10`）。单击选择指示器以切换 Claude 是否可以看到您突出显示的文本 - 带斜杠的眼睛图标表示选择对 Claude 隐藏。您还可以按住 `Shift` 并将文件拖到提示框中，将其作为附件添加。单击任何附件上的 X 可以将其从上下文中删除。
+
+### 恢复过去的对话
+
+单击 Claude Code 面板顶部的下拉菜单以访问您的对话历史记录。您可以按关键字搜索或按时间（今天、昨天、过去 7 天等）浏览。单击任何对话以恢复它并查看完整的消息历史记录。
+
+### 从 Claude.ai 恢复远程会话
+
+如果您使用 [Web 版 Claude Code](https://code.claude.com/docs/en/claude-code-on-the-web)，您可以直接在 VS Code 中恢复这些远程会话。这需要使用 **Claude.ai 订阅**登录，而不是 Anthropic Console。
+
+1. **打开过去的对话**
+
+   单击 Claude Code 面板顶部的**过去的对话**下拉菜单。
+
+1. **选择远程选项卡**
+
+   对话框显示两个选项卡：本地和远程。单击**远程**以查看来自 claude.ai 的会话。
+
+1. **选择要恢复的会话**
+
+   浏览或搜索您的远程会话。单击任何会话以下载它并在本地继续对话。
+
+   只有使用 GitHub 存储库启动的 Web 会话才会出现在“远程”选项卡中。恢复会将对话历史记录加载到本地；更改不会同步回 claude.ai。
+
+### 自定义您的工作流程
+
+启动并运行后，您可以重新定位 Claude 面板、运行多个会话或切换到终端模式。
+
+#### 选择 Claude 的位置
+
+您可以将 Claude 面板拖动到 VS Code 中的任何位置。抓住面板的选项卡或标题栏并将其拖动到：
+
+- **辅助侧边栏**：窗口的右侧。在您编码时保持 Claude 可见。
+
+- **主侧边栏**：左侧边栏，带有资源管理器、搜索等图标。
+
+- **编辑器区域**：将 Claude 作为选项卡与您的文件一起打开。适用于辅助任务。
+
+使用侧边栏作为您的主要 Claude 会话，并为辅助任务打开额外的选项卡。Claude 会记住您的首选位置。请注意，Spark 图标仅在 Claude 面板停靠在左侧时才会出现在活动栏中。由于 Claude 默认位于右侧，因此请使用编辑器工具栏图标打开 Claude。
+
+#### 运行多个对话
+
+使用命令面板中的**在新选项卡中打开**或**在新窗口中打开**来启动额外的对话。每个对话都维护自己的历史记录和上下文，允许您并行处理不同的任务。当使用选项卡时，Spark 图标上会有一个小的彩色点...
+
+## 参考文献
+
+1. [How Claude Code works - Claude Code Docs](https://code.claude.com/docs/en/how-claude-code-works)
+
+1. [Extend Claude Code - Claude Code Docs](https://code.claude.com/docs/en/features-overview)
+
+1. [Use Claude Code in VS Code - Claude Code Docs](https://code.claude.com/docs/en/vs-code)
+
+[返回目录](./README.md)

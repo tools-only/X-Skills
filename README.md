@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **557 AI-powered skills** organized into 14 categories.
+A curated collection of **546 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (14 skills)
-- **Automation/Workflow** (20 skills)
+- **Automation/Scripting** (17 skills)
+- **Automation/Workflow** (21 skills)
 - **Commercial** (61 skills)
-- **Communication** (32 skills)
-- **Content Creation** (56 skills)
-- **Daily Assistant** (42 skills)
-- **Data Analysis** (42 skills)
-- **Development** (184 skills)
-- **Development/Devops** (26 skills)
-- **Development/Testing** (9 skills)
-- **Development/Tools** (44 skills)
-- **Investment** (7 skills)
-- **Productivity** (7 skills)
+- **Communication** (33 skills)
+- **Content Creation** (54 skills)
+- **Daily Assistant** (41 skills)
+- **Data Analysis** (40 skills)
+- **Development** (177 skills)
+- **Development/Devops** (24 skills)
+- **Development/Testing** (6 skills)
+- **Development/Tools** (45 skills)
+- **Investment** (8 skills)
+- **Productivity** (6 skills)
 - **Research** (13 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (14 skills)
+### Automation/Scripting (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -198,8 +198,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7d73c5f7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_PickupItem-AND-CCSPlayer_WeaponServices_EquipWeapon/SKILL.md) | ⭐ 17 | `automation` |
 | [Workflows](automation/scripting/069-workflows_ec21f596/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/outlook-emails-lawvable/references/WORKFLOWS.md) | ⭐ 82 | `automation` |
 | [Process Failed Reviews](automation/scripting/096-process-failed-reviews_6ca051f2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/process-failed-reviews.md) | ⭐ 612 | `automation` |
+| [Skill](automation/scripting/name-skill_287b6ed2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsAlive-AND-CBaseEntity_GetEyePosition-AND-CBasePlayerPawn_GetEyePosition/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_f0b5c6b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_89f14170/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (20 skills)
+### Automation/Workflow (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -223,6 +226,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Executive Pitch](automation/workflow/067-executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_7dd2bdfd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
 | [Terminalbench](automation/workflow/072-terminalbench_f32ef158/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
+| [2.Why Use Skills 1（Skills的意义）](automation/workflow/2why-use-skills-1skills的意义_048702b3/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/2.Why Use Skills 1（Skills的意义）.md) | ⭐ 76 | `automation` |
 
 ### Commercial (61 skills)
 
@@ -288,9 +292,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ie Dpc](commercial/377-ie-dpc_e5d3d925/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/ie-dpc.md) | ⭐ 82 | `commercial` |
 | [Agentbench](commercial/285-agentbench_e0f23d17/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/agentbench.md) | ⭐ 20 | `commercial` |
 | [Webarena](commercial/286-webarena_b16f92c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
-| [Skill](commercial/name-skill_1409d6aa/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 79 | `commercial` |
+| [Skill](commercial/210-name-skill_1409d6aa/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 79 | `commercial` |
 
-### Communication (32 skills)
+### Communication (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -324,10 +328,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Channels](communication/251-channels_52253ce1/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/documentation/features/channels.md) | ⭐ 29 | `communication` |
 | [Web Dashboard](communication/252-web-dashboard_07e169ac/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/documentation/features/web-dashboard.md) | ⭐ 29 | `communication` |
 | [Installation](communication/253-installation_a5883a1a/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/documentation/guides/installation.md) | ⭐ 29 | `communication` |
-| [Skill](communication/name-skill_b9e488e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 79 | `communication` |
-| [Processors](communication/processors_0e46643a/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 289 | `communication` |
+| [Skill](communication/127-name-skill_b9e488e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 79 | `communication` |
+| [Processors](communication/256-processors_0e46643a/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 289 | `communication` |
+| [Skill](communication/name-skill_37cddd92/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/analyzing-marketing-campaign/SKILL.md) | ⭐ 76 | `communication` |
 
-### Content Creation (56 skills)
+### Content Creation (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -381,14 +386,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Failed Review](content-creation/372-failed-review_ca61ad2f/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/failed-review.md) | ⭐ 612 | `content creation` |
 | [Dt Bindings](content-creation/373-dt-bindings_80d577dc/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/dt-bindings.md) | ⭐ 612 | `content creation` |
 | [Smb Ksmbd](content-creation/374-smb-ksmbd_0f45d024/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/smb-ksmbd.md) | ⭐ 612 | `content creation` |
-| [Skill](content-creation/name-skill_9bcf8420/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 79 | `content creation` |
-| [Skill](content-creation/name-skill_b48fd5e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-slides/SKILL.md) | ⭐ 79 | `content creation` |
-| [Toolsets](content-creation/toolsets_b0785398/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 289 | `content creation` |
-| [Human In The Loop](content-creation/human-in-the-loop_636ab503/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/human-in-the-loop.md) | ⭐ 289 | `content creation` |
-| [Human In The Loop](content-creation/human-in-the-loop_c8b335d4/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/human-in-the-loop.md) | ⭐ 289 | `content creation` |
-| [Interactive Chat](content-creation/interactive-chat_b3b745f8/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/interactive-chat.md) | ⭐ 289 | `content creation` |
+| [Skill](content-creation/049-name-skill_9bcf8420/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 79 | `content creation` |
+| [Skill](content-creation/049-name-skill_b48fd5e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-slides/SKILL.md) | ⭐ 79 | `content creation` |
+| [Toolsets](content-creation/360-toolsets_b0785398/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 289 | `content creation` |
+| [5.Exploring Pre Built Skills （预设Skills探索）](content-creation/5exploring-pre-built-skills-预设skills探索_3a092a07/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/5.Exploring Pre-Built Skills （预设Skills探索）.md) | ⭐ 76 | `content creation` |
 
-### Daily Assistant (42 skills)
+### Daily Assistant (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -428,14 +431,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Block](daily-assistant/270-block_f3c037ee/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/block.md) | ⭐ 612 | `daily assistant` |
 | [Locking](daily-assistant/263-locking_e94852ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/locking.md) | ⭐ 612 | `daily assistant` |
 | [Scheduler](daily-assistant/264-scheduler_6c207144/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/scheduler.md) | ⭐ 612 | `daily assistant` |
-| [Streaming](daily-assistant/streaming_36c6831f/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/streaming.md) | ⭐ 289 | `daily assistant` |
-| [Agent](daily-assistant/agent_2f63f722/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/agent.md) | ⭐ 289 | `daily assistant` |
-| [Toolsets](daily-assistant/toolsets_1cb44eef/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/toolsets.md) | ⭐ 289 | `daily assistant` |
-| [Types](daily-assistant/types_2f69fbad/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/types.md) | ⭐ 289 | `daily assistant` |
-| [Index](daily-assistant/index_5673c7a8/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/index.md) | ⭐ 289 | `daily assistant` |
-| [Custom Tools](daily-assistant/custom-tools_6c0d1f7f/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/custom-tools.md) | ⭐ 289 | `daily assistant` |
+| [Streaming](daily-assistant/269-streaming_36c6831f/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/streaming.md) | ⭐ 289 | `daily assistant` |
+| [Agent](daily-assistant/270-agent_2f63f722/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/agent.md) | ⭐ 289 | `daily assistant` |
+| [Toolsets](daily-assistant/271-toolsets_1cb44eef/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/toolsets.md) | ⭐ 289 | `daily assistant` |
+| [Types](daily-assistant/107-types_2f69fbad/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/types.md) | ⭐ 289 | `daily assistant` |
+| [Index](daily-assistant/052-index_5673c7a8/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/index.md) | ⭐ 289 | `daily assistant` |
 
-### Data Analysis (42 skills)
+### Data Analysis (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -477,12 +479,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow](data-analysis/246-workflow_9cb3bc5b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/workflow.md) | ⭐ 63 | `data analysis` |
 | [Cost Estimate.Instructions](data-analysis/479-cost-estimateinstructions_0b45d0d2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/cost-estimate.instructions.md) | ⭐ 63 | `data analysis` |
 | [Wireless](data-analysis/480-wireless_b2d0e578/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/wireless.md) | ⭐ 612 | `data analysis` |
-| [Skill](data-analysis/name-skill_5631a335/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/elevenlabs/SKILL.md) | ⭐ 79 | `data analysis` |
-| [Docker Runtimes](data-analysis/docker-runtimes_84d4ed24/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/docker-runtimes.md) | ⭐ 289 | `data analysis` |
-| [Full App](data-analysis/full-app_892d7093/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/full-app.md) | ⭐ 289 | `data analysis` |
-| [Skill](data-analysis/name-skill_2480ce1b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/examples/full_app/skills/data-analysis/SKILL.md) | ⭐ 289 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5631a335/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/elevenlabs/SKILL.md) | ⭐ 79 | `data analysis` |
+| [6.Creating Custom Skills（自定义Skills）](data-analysis/6creating-custom-skills自定义skills_6d2cf09a/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/6.Creating Custom Skills（自定义skills）.md) | ⭐ 76 | `data analysis` |
 
-### Development (184 skills)
+### Development (177 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -656,24 +656,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcptoolbench](development/1918-mcptoolbench_23c2e0c1/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
 | [Repoqa](development/1919-repoqa_b830f77c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/repoqa.md) | ⭐ 20 | `development` |
 | [Swe Bench](development/1920-swe-bench_e7347b99/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/swe-bench.md) | ⭐ 20 | `development` |
-| [Index](development/index_925d95a3/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/index.md) | ⭐ 289 | `development` |
-| [Subagents](development/subagents_c7cf45ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/subagents.md) | ⭐ 289 | `development` |
-| [Skills](development/note-skill_36cdf6cb/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/skills.md) | ⭐ 289 | `development` |
-| [Processors](development/processors_f80b1245/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/processors.md) | ⭐ 289 | `development` |
-| [Agents](development/agents_2251fd71/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/agents.md) | ⭐ 289 | `development` |
-| [Basic Usage](development/basic-usage_1e4e3f19/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/basic-usage.md) | ⭐ 289 | `development` |
-| [Composite Backend](development/composite-backend_ae0eef50/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/composite-backend.md) | ⭐ 289 | `development` |
-| [Docker Sandbox](development/docker-sandbox_ef5b7e71/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/docker-sandbox.md) | ⭐ 289 | `development` |
-| [File Uploads](development/file-uploads_cb47f1aa/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/file-uploads.md) | ⭐ 289 | `development` |
-| [Filesystem](development/filesystem_adfecb38/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/filesystem.md) | ⭐ 289 | `development` |
-| [Index](development/index_f0c12a6f/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/index.md) | ⭐ 289 | `development` |
-| [Skills](development/note-skill_1d1a135c/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/skills.md) | ⭐ 289 | `development` |
-| [Subagents](development/subagents_e97b4add/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/subagents.md) | ⭐ 289 | `development` |
-| [Abbreviations](development/abbreviations_667be0fd/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/includes/abbreviations.md) | ⭐ 289 | `development` |
-| [Skill](development/name-skill_2d7f4902/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/examples/skills/code-review/SKILL.md) | ⭐ 289 | `development` |
-| [Example Review](development/example_review_7bec0117/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/examples/skills/code-review/example_review.md) | ⭐ 289 | `development` |
+| [Index](development/468-index_925d95a3/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/index.md) | ⭐ 289 | `development` |
+| [Subagents](development/1701-subagents_c7cf45ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/subagents.md) | ⭐ 289 | `development` |
+| [Skills](development/2895-note-skill_36cdf6cb/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/skills.md) | ⭐ 289 | `development` |
+| [Skill](development/name-skill_ba7edbc9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_TakeDamageOld/SKILL.md) | ⭐ 17 | `development` |
+| [7.Skill With The Claude Api（在Claude Api使用Skills）](development/7skill-with-the-claude-api在claude-api使用skills_98ab83a0/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/7.Skill with the Claude API（在Claude API使用skills）.md) | ⭐ 76 | `development` |
+| [8.Skill With Claude Code（在Claude Code使用Skills）](development/8skill-with-claude-code在claude-code使用skills_aadcd8d5/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/8.Skill with Claude Code（在Claude Code使用skills）.md) | ⭐ 76 | `development` |
+| [Skill](development/name-skill_ced2c818/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/generating-practice-questions/SKILL.md) | ⭐ 76 | `development` |
+| [1.Introduction（课程介绍）](development/1introduction课程介绍_6fe4faa7/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/1.Introduction（课程介绍）.md) | ⭐ 76 | `development` |
+| [4.Skills Vs Tools, Mcp, And Subagents（技能 Vs 工具、Mcp 和子代理）](development/4skills-vs-tools-mcp-and-subagents技能-vs-工具mcp-和子代理_98f83bbe/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/4.Skills vs Tools, MCP, and Subagents（技能 vs 工具、MCP 和子代理）.md) | ⭐ 76 | `development` |
 
-### Development/Devops (26 skills)
+### Development/Devops (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -701,10 +694,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickstart](development/devops/179-quickstart_e02267da/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/quickstart.md) | ⭐ 63 | `development` |
 | [04 Implementation Plan](development/devops/359-04-implementation-plan_bf86188a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 63 | `development` |
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_13d80967/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 63 | `development` |
-| [Installation](development/devops/installation_62d2da2b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/installation.md) | ⭐ 289 | `development` |
-| [Backends](development/devops/backends_737a32ce/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/backends.md) | ⭐ 289 | `development` |
 
-### Development/Testing (9 skills)
+### Development/Testing (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -714,11 +705,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Formula Verification](development/testing/085-formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
 | [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
 | [Skill](development/testing/002-name-skill_4c0974db/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 25 | `development` |
-| [Getting Help](development/testing/getting-help_cbe8c641/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/getting-help.md) | ⭐ 289 | `development` |
-| [Backends](development/testing/backends_3d2f1e69/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/backends.md) | ⭐ 289 | `development` |
-| [Skill](development/testing/name-skill_8ed82c05/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/examples/skills/test-generator/SKILL.md) | ⭐ 289 | `development` |
 
-### Development/Tools (44 skills)
+### Development/Tools (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -763,11 +751,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_6db7dea5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.6k | `development` |
 | [Gemini Invocation](development/tools/312-gemini-invocation_2d2b6edc/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.6k | `development` |
 | [Plan Bicep.Prompt](development/tools/320-plan-bicepprompt_323bc8c7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 63 | `development` |
-| [Claude](development/tools/claude_b187a038/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 289 | `development` |
-| [Index](development/tools/index_c79e2c35/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/index.md) | ⭐ 289 | `development` |
-| [Streaming](development/tools/streaming_3da13701/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/examples/streaming.md) | ⭐ 289 | `development` |
+| [Claude](development/tools/017-claude_b187a038/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 289 | `development` |
+| [Index](development/tools/062-index_c79e2c35/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/index.md) | ⭐ 289 | `development` |
+| [9.Skills With The Claude Agent Sdk（Claude Agent Sdk 中的技能）](development/tools/9skills-with-the-claude-agent-sdkclaude-agent-sdk-中的技能_d245e7f7/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/9.Skills with the Claude Agent SDK（Claude Agent SDK 中的技能）.md) | ⭐ 76 | `development` |
+| [10.Conclusion（总结）](development/tools/10conclusion总结_ad6d5a88/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/10.Conclusion（总结）.md) | ⭐ 76 | `development` |
 
-### Investment (7 skills)
+### Investment (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -778,8 +767,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_5bfa0804/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/contract-review-anthropic/SKILL.md) | ⭐ 82 | `investment` |
 | [Cookies](investment/049-cookies_0bc33171/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
 | [Cookies](investment/049-cookies_d743e386/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
+| [3.Why Use Skills 2   Agent And Skills（从Agent角度思考Skills）](investment/3why-use-skills-2-agent-and-skills从agent角度思考skills_3702a278/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/3.Why Use Skills 2 - Agent and Skills（从Agent角度思考Skills）.md) | ⭐ 76 | `investment` |
 
-### Productivity (7 skills)
+### Productivity (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -789,7 +779,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Duration Scope](productivity/173-duration_scope_50e90cd5/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/DURATION_SCOPE.md) | ⭐ 82 | `productivity` |
 | [Remedies Liability](productivity/174-remedies_liability_27cc7977/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/REMEDIES_LIABILITY.md) | ⭐ 82 | `productivity` |
 | [Canons Of Construction](productivity/175-canons_of_construction_8d298d9d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/canons_of_construction.md) | ⭐ 82 | `productivity` |
-| [Structured Output](productivity/structured-output_5cb61f87/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/structured-output.md) | ⭐ 289 | `productivity` |
 
 ### Research (13 skills)
 
@@ -859,5 +848,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 17:21:31 UTC*
+*Last updated: 2026-02-13 17:22:09 UTC*
 *Automatically maintained by SkillFlow*
