@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T01:22:21.968045",
+  "updated_at": "2026-02-13T01:22:55.781929",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1303,6 +1303,34 @@
       "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
       "display_name": "Readme.Ja",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "8aee7225115c5a9c9abeac1152fb93fa4a4b6acf4407b5d911cbff2826e0e449",
+      "source_path": "AGENTS.md",
+      "source_repo": "opendatahub-io/ai-helpers",
+      "local_path": "automation/workflow/073-agents_8aee7225",
+      "category": "automation/workflow",
+      "name": "agents_8aee7225",
+      "indexed_at": "2026-02-13T01:22:55.697087",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-01-26T20:20:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "dbde6459f2b53e3fa52911947a9a335e6b3b22773cc5e5885f69ca6118f9f814",
+      "source_path": "ETHICS.md",
+      "source_repo": "opendatahub-io/ai-helpers",
+      "local_path": "content-creation/372-ethics_dbde6459",
+      "category": "content-creation",
+      "name": "ethics_dbde6459",
+      "indexed_at": "2026-02-13T01:22:55.781890",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-11T18:42:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/ETHICS.md",
+      "display_name": "Ethics",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
