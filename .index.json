@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T20:21:34.277291",
+  "updated_at": "2026-02-13T21:21:34.863126",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -7771,6 +7771,76 @@
       "source_url": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SyncDocs.md",
       "display_name": "Syncdocs",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "ee9d25c655112caade281693c03ef283a22d00f02f4be8fd1b13f42366abf834",
+      "source_path": "AGENTS.md",
+      "source_repo": "stickerdaniel/linkedin-mcp-server",
+      "local_path": "development/028-agents_ee9d25c6",
+      "category": "development",
+      "name": "agents_ee9d25c6",
+      "indexed_at": "2026-02-13T21:21:34.497180",
+      "repo_stars": 853,
+      "repo_updated_at": "2026-02-12T09:46:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2ed88ebbd91fbf9383140a0c174a5837aa4d7f270ffcfdec508748b29a84d4a0",
+      "source_path": ".opencode/agents/code-reviewer.md",
+      "source_repo": "stickerdaniel/linkedin-mcp-server",
+      "local_path": "development/2591-code-reviewer_2ed88ebb",
+      "category": "development",
+      "name": "code-reviewer_2ed88ebb",
+      "indexed_at": "2026-02-13T21:21:34.559285",
+      "repo_stars": 853,
+      "repo_updated_at": "2026-02-12T07:48:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-reviewer.md",
+      "display_name": "Code Reviewer",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "11faf8d79542c2bf910e1eafe6a424b96fcf1c30c3ac845c5fb9cd6dd0111a38",
+      "source_path": ".opencode/agents/code-simplifier.md",
+      "source_repo": "stickerdaniel/linkedin-mcp-server",
+      "local_path": "development/1970-code-simplifier_11faf8d7",
+      "category": "development",
+      "name": "code-simplifier_11faf8d7",
+      "indexed_at": "2026-02-13T21:21:34.625343",
+      "repo_stars": 853,
+      "repo_updated_at": "2026-02-12T07:48:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/code-simplifier.md",
+      "display_name": "Code Simplifier",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9eb5a290f55eea3177a9bb387d009565b076d31c87d759341a1e02a023727011",
+      "source_path": ".opencode/agents/silent-failure-hunter.md",
+      "source_repo": "stickerdaniel/linkedin-mcp-server",
+      "local_path": "development/2888-silent-failure-hunter_9eb5a290",
+      "category": "development",
+      "name": "silent-failure-hunter_9eb5a290",
+      "indexed_at": "2026-02-13T21:21:34.745937",
+      "repo_stars": 853,
+      "repo_updated_at": "2026-02-12T07:48:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/.opencode/agents/silent-failure-hunter.md",
+      "display_name": "Silent Failure Hunter",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "59d23e07b3d3995e1447128d4f037caf69479bc045e8bf2df8bda3ec6e4369aa",
+      "source_path": "docs/docker-hub.md",
+      "source_repo": "stickerdaniel/linkedin-mcp-server",
+      "local_path": "development/devops/365-docker-hub_59d23e07",
+      "category": "development/devops",
+      "name": "docker-hub_59d23e07",
+      "indexed_at": "2026-02-13T21:21:34.863043",
+      "repo_stars": 853,
+      "repo_updated_at": "2026-02-12T09:46:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/stickerdaniel/linkedin-mcp-server/main/docs/docker-hub.md",
+      "display_name": "Docker Hub",
+      "tags": "[\"development\"]"
     }
   ]
 }
