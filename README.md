@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **160 AI-powered skills** organized into 14 categories.
+A curated collection of **163 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (11 skills)
 - **Commercial** (21 skills)
 - **Communication** (4 skills)
-- **Content Creation** (18 skills)
+- **Content Creation** (19 skills)
 - **Daily Assistant** (8 skills)
 - **Data Analysis** (25 skills)
-- **Development** (30 skills)
+- **Development** (31 skills)
 - **Development/Devops** (12 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (18 skills)
+- **Development/Tools** (19 skills)
 - **Investment** (2 skills)
 - **Productivity** (3 skills)
 - **Research** (4 skills)
@@ -237,7 +237,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](communication/256-readme_cn_a75d0219/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 57 | `communication` |
 | [Weak Password Checklist](communication/255-weak-password-checklist_0d3963ca/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/weak-password-checklist.md) | ⭐ 56 | `communication` |
 
-### Content Creation (18 skills)
+### Content Creation (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -259,6 +259,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Xss](content-creation/357-xss_d1bc8bd4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/xss.md) | ⭐ 56 | `content creation` |
 | [Command Execution Checklist](content-creation/358-command-execution-checklist_39b874c0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/command-execution-checklist.md) | ⭐ 56 | `content creation` |
 | [Ssrf Checklist](content-creation/359-ssrf-checklist_113f13e6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/ssrf-checklist.md) | ⭐ 56 | `content creation` |
+| [Otel Attribute Mapping](content-creation/otel_attribute_mapping_9c3743f1/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/OTEL_ATTRIBUTE_MAPPING.md) | ⭐ 2.2k | `content creation` |
 
 ### Daily Assistant (8 skills)
 
@@ -303,7 +304,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_b03aba97/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-ownership-map/skills/openai-security-ownership-map/SKILL.md) | ⭐ 56 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_94733cad/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-spreadsheet/skills/openai-spreadsheet/SKILL.md) | ⭐ 56 | `data analysis` |
 
-### Development (30 skills)
+### Development (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -335,8 +336,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Path Traversal Checklist](development/2883-path-traversal-checklist_e420e992/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/path-traversal-checklist.md) | ⭐ 56 | `development` |
 | [Rce Checklist](development/2884-rce-checklist_60e3a56a/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/rce-checklist.md) | ⭐ 56 | `development` |
 | [Xxe Checklist](development/2885-xxe-checklist_0521eb1b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/xxe-checklist.md) | ⭐ 56 | `development` |
-| [Agents](development/agents_a5d5dc88/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.1k | `development` |
-| [Style Guide](development/style_guide_a952b097/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md) | 🔥 5.1k | `development` |
+| [Agents](development/028-agents_a5d5dc88/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.1k | `development` |
+| [Style Guide](development/1377-style_guide_a952b097/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md) | 🔥 5.1k | `development` |
+| [Provider Migration Checklist](development/provider_migration_checklist_97c70964/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/PROVIDER_MIGRATION_CHECKLIST.md) | ⭐ 2.2k | `development` |
 
 ### Development/Devops (12 skills)
 
@@ -363,7 +365,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
 
-### Development/Tools (18 skills)
+### Development/Tools (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -385,6 +387,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_69eee0a1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-screenshot/skills/openai-screenshot/SKILL.md) | ⭐ 56 | `development` |
 | [Skill](development/tools/002-name-skill_920d7880/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-yeet/skills/openai-yeet/SKILL.md) | ⭐ 56 | `development` |
 | [Cli](development/tools/263-cli_a08ee059/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/references/cli.md) | ⭐ 56 | `development` |
+| [Events Migration Guide](development/tools/events_migration_guide_a1d86b29/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/EVENTS_MIGRATION_GUIDE.md) | ⭐ 2.2k | `development` |
 
 ### Investment (2 skills)
 
@@ -460,5 +463,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 03:24:06 UTC*
+*Last updated: 2026-02-13 04:22:29 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T03:24:06.133346",
+  "updated_at": "2026-02-13T04:22:29.394544",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -2240,6 +2240,34 @@
       "repo_updated_at": "2026-02-06T14:35:32+00:00",
       "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md",
       "display_name": "Style Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a1d86b2932b9b997f7592b4cb3ab39909541d8aab1e1ea50034e3540e4954d60",
+      "source_path": "contributors/EVENTS_MIGRATION_GUIDE.md",
+      "source_repo": "openlit/openlit",
+      "local_path": "development/tools/319-events_migration_guide_a1d86b29",
+      "category": "development/tools",
+      "name": "events_migration_guide_a1d86b29",
+      "indexed_at": "2026-02-13T04:22:29.245622",
+      "repo_stars": 2201,
+      "repo_updated_at": "2026-02-12T11:17:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/openlit/openlit/main/contributors/EVENTS_MIGRATION_GUIDE.md",
+      "display_name": "Events Migration Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "97c70964f4719aab2a481a303d9a8bf623770bea08efc0ec8025387ca3a2d7a7",
+      "source_path": "contributors/PROVIDER_MIGRATION_CHECKLIST.md",
+      "source_repo": "openlit/openlit",
+      "local_path": "development/2852-provider_migration_checklist_97c70964",
+      "category": "development",
+      "name": "provider_migration_checklist_97c70964",
+      "indexed_at": "2026-02-13T04:22:29.394499",
+      "repo_stars": 2201,
+      "repo_updated_at": "2026-02-12T11:17:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/openlit/openlit/main/contributors/PROVIDER_MIGRATION_CHECKLIST.md",
+      "display_name": "Provider Migration Checklist",
       "tags": "[\"development\"]"
     }
   ]
