@@ -1,0 +1,24 @@
+# Math
+
+| Property | Value |
+|----------|-------|
+| **Name** | Math |
+| **Repository** | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/math.md) (⭐ 20) |
+| **Original Path** | `docs/benchmarks/math.md` |
+| **Category** | development |
+| **Subcategory** | coding |
+| **Tags** | development |
+| **Created** | 2026-02-01 |
+| **Updated** | 2026-02-13 |
+| **File Hash** | `7a91935ddf52d8dd...` |
+
+## Description
+
+MATH benchmark for mcpbr - 12,500 competition mathematics problems from AMC, AIME, and other competitions across 7 subjects and 5 difficulty levels.
+
+**Tags:** `development`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/math.md)*
