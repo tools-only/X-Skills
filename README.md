@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **477 AI-powered skills** organized into 14 categories.
+A curated collection of **370 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (15 skills)
-- **Automation/Workflow** (20 skills)
-- **Commercial** (59 skills)
-- **Communication** (35 skills)
-- **Content Creation** (51 skills)
-- **Daily Assistant** (25 skills)
-- **Data Analysis** (43 skills)
-- **Development** (138 skills)
+- **Automation/Scripting** (11 skills)
+- **Automation/Workflow** (18 skills)
+- **Commercial** (50 skills)
+- **Communication** (9 skills)
+- **Content Creation** (39 skills)
+- **Daily Assistant** (17 skills)
+- **Data Analysis** (33 skills)
+- **Development** (121 skills)
 - **Development/Devops** (20 skills)
 - **Development/Testing** (5 skills)
-- **Development/Tools** (38 skills)
-- **Investment** (7 skills)
-- **Productivity** (6 skills)
-- **Research** (15 skills)
+- **Development/Tools** (35 skills)
+- **Investment** (4 skills)
+- **Productivity** (3 skills)
+- **Research** (5 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (15 skills)
+### Automation/Scripting (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -193,14 +193,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_2f06a357/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetStateChanged/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f645e305/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_GetEyeAngles/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_472f8206/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_a81f1f56/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetOwner/SKILL.md) | ⭐ 17 | `automation` |
-| [Security Scan Batch](automation/scripting/094-security-scan-batch_79cc36f3/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/skills/security-scan-batch.md) | ⭐ 10 | `automation` |
-| [Skill](automation/scripting/name-skill_7d73c5f7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_PickupItem-AND-CCSPlayer_WeaponServices_EquipWeapon/SKILL.md) | ⭐ 17 | `automation` |
-| [Workflows](automation/scripting/workflows_ec21f596/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/outlook-emails-lawvable/references/WORKFLOWS.md) | ⭐ 82 | `automation` |
-| [Skill](automation/scripting/name-skill_65dacb4b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_Precache/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_78f48851/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_Use/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_a81f1f56/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetOwner/SKILL.md) | ⭐ 17 | `automation` |
+| [Security Scan Batch](automation/scripting/security-scan-batch_79cc36f3/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/skills/security-scan-batch.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (20 skills)
+### Automation/Workflow (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -222,10 +218,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Version](automation/workflow/065-version_b186ef4d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/VERSION.md) | ⭐ 63 | `automation` |
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_c290deb8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
 | [Executive Pitch](automation/workflow/067-executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
-| [Skill](automation/workflow/name-skill_86f81d78/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-recouvrement-creance-selim-brihi/SKILL.md) | ⭐ 82 | `automation` |
-| [Skill](automation/workflow/name-skill_5e62ce8e/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/SKILL.md) | ⭐ 82 | `automation` |
 
-### Commercial (59 skills)
+### Commercial (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -279,17 +273,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Theme Development](commercial/394-theme-development_dc454c66/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/theme-development.md) | ⭐ 21 | `commercial` |
 | [Api Cookies](commercial/395-api-cookies_cd598abf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-cookies.md) | ⭐ 21 | `commercial` |
 | [Plan Requirements.Prompt](commercial/311-plan-requirementsprompt_2651eb49/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-requirements.prompt.md) | ⭐ 65 | `commercial` |
-| [Edpb Cases](commercial/edpb-cases_2615e629/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz/references/edpb-cases.md) | ⭐ 82 | `commercial` |
-| [Germany (DSGVO + BDSG + TDDDG)](commercial/de_b6b4830f/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/references/DE.md) | ⭐ 82 | `commercial` |
-| [France (RGPD + Loi Informatique et Libertés + LCEN)](commercial/fr_bb70149f/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/references/FR.md) | ⭐ 82 | `commercial` |
-| [Notice Types](commercial/notice_types_f42b7be5/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/references/NOTICE_TYPES.md) | ⭐ 82 | `commercial` |
-| [Exemples Griefs](commercial/exemples-griefs_867e3932/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/notification-licenciement-selim-brihi/references/exemples-griefs.md) | ⭐ 82 | `commercial` |
-| [Rgpd Cnil](commercial/rgpd_cnil_01fd9e85/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/references/RGPD_CNIL.md) | ⭐ 82 | `commercial` |
-| [Be Apd](commercial/be-apd_93603744/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/be-apd.md) | ⭐ 82 | `commercial` |
-| [Ie Dpc](commercial/ie-dpc_e5d3d925/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/ie-dpc.md) | ⭐ 82 | `commercial` |
-| [Skill](commercial/name-skill_29038250/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/SKILL.md) | ⭐ 82 | `commercial` |
 
-### Communication (35 skills)
+### Communication (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -301,35 +286,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](communication/084-patterns_73fdd9ee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/patterns.md) | ⭐ 21 | `communication` |
 | [Workshop Checklist](communication/209-workshop-checklist_d89cc5e8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 65 | `communication` |
 | [Index](communication/157-index_866c8a11/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 35.8k | `anthropic` `claude` `opus 4.6` |
-| [Skill](communication/name-skill_22200146/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/canned-responses-anthropic/SKILL.md) | ⭐ 82 | `communication` |
-| [Structure Assignation](communication/structure-assignation_6b92de65/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-communication-associe-selim-brihi/references/structure-assignation.md) | ⭐ 82 | `communication` |
-| [Workflow Informations](communication/workflow-informations_bae3a91e/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-communication-associe-selim-brihi/references/workflow-informations.md) | ⭐ 82 | `communication` |
-| [Variantes Cas Particuliers](communication/variantes-cas-particuliers_bbadbb8d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-recouvrement-creance-selim-brihi/references/variantes-cas-particuliers.md) | ⭐ 82 | `communication` |
-| [Edpb Criteria](communication/edpb-criteria_59c16003/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/edpb-criteria.md) | ⭐ 82 | `communication` |
-| [Scoring](communication/scoring_ab1a660e/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/scoring.md) | ⭐ 82 | `communication` |
-| [Enisa Methodology](communication/enisa-methodology_ca344969/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz/references/enisa-methodology.md) | ⭐ 82 | `communication` |
-| [Eu Common](communication/eu_common_a7ea72f6/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/references/EU_COMMON.md) | ⭐ 82 | `communication` |
-| [Other Eu](communication/other_eu_5d7d54f7/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/references/OTHER_EU.md) | ⭐ 82 | `communication` |
-| [Party Obligations](communication/party_obligations_ae2d9ab2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/PARTY_OBLIGATIONS.md) | ⭐ 82 | `communication` |
-| [Bases Legales](communication/bases_legales_aaad821a/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/BASES_LEGALES.md) | ⭐ 82 | `communication` |
-| [Droits Personnes](communication/droits_personnes_9fbac9d5/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/DROITS_PERSONNES.md) | ⭐ 82 | `communication` |
-| [Bases Legales Cookies](communication/bases_legales_cookies_54139b44/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/BASES_LEGALES_COOKIES.md) | ⭐ 82 | `communication` |
-| [Droits Personnes](communication/droits_personnes_c933612a/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/DROITS_PERSONNES.md) | ⭐ 82 | `communication` |
-| [Decret Procedure](communication/decret_procedure_6a845ffb/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/references/DECRET_PROCEDURE.md) | ⭐ 82 | `communication` |
-| [Structure Requete](communication/structure-requete_e12bcae9/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/requete-cph-licenciement-faute-grave-selim-brihi/references/structure-requete.md) | ⭐ 82 | `communication` |
-| [De Dsk](communication/de-dsk_49312526/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/de-dsk.md) | ⭐ 82 | `communication` |
-| [Nl Ap](communication/nl-ap_ffbd87ca/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/nl-ap.md) | ⭐ 82 | `communication` |
-| [Skill](communication/name-skill_e66bbf45/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-communication-associe-selim-brihi/SKILL.md) | ⭐ 82 | `communication` |
-| [Skill](communication/name-skill_6d2869f2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/notification-licenciement-selim-brihi/SKILL.md) | ⭐ 82 | `communication` |
-| [Skill](communication/name-skill_32b8bf23/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/outlook-emails-lawvable/SKILL.md) | ⭐ 82 | `communication` |
-| [Skill.Fr](communication/skillfr_302c1d26/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/SKILL.fr.md) | ⭐ 82 | `communication` |
-| [Skill.Fr](communication/skillfr_348e4221/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/SKILL.fr.md) | ⭐ 82 | `communication` |
-| [Skill](communication/name-skill_d713fbe9/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/requete-cph-licenciement-faute-grave-selim-brihi/SKILL.md) | ⭐ 82 | `communication` |
-| [Workflow Collecte](communication/workflow-collecte_2ae39fe2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-recouvrement-creance-selim-brihi/references/workflow-collecte.md) | ⭐ 82 | `communication` |
-| [Mentions Obligatoires](communication/mentions-obligatoires_2183a82d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/notification-licenciement-selim-brihi/references/mentions-obligatoires.md) | ⭐ 82 | `communication` |
-| [Azure Setup](communication/azure_setup_b8fbd415/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/outlook-emails-lawvable/references/AZURE_SETUP.md) | ⭐ 82 | `communication` |
+| [Skill](communication/name-skill_dbb808ed/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/skills/openclaw/SKILL.md) | ⭐ 10 | `communication` |
 
-### Content Creation (51 skills)
+### Content Creation (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -372,20 +331,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](content-creation/007-claude_78ea03d8/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md) | ⭐ 77 | `content creation` |
 | [Claude](content-creation/007-claude_5fbcf393/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/CLAUDE.md) | ⭐ 77 | `content creation` |
 | [Advisor](content-creation/002-advisor_0d7e319d/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/advisor.md) | ⭐ 77 | `content creation` |
-| [Conseils Strategie](content-creation/conseils-strategie_50339f0a/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-recouvrement-creance-selim-brihi/references/conseils-strategie.md) | ⭐ 82 | `content creation` |
-| [Webview Patterns](content-creation/webview-patterns_2750a5d4/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/webview-patterns.md) | ⭐ 82 | `content creation` |
-| [Pl Uodo](content-creation/pl-uodo_f405830a/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/pl-uodo.md) | ⭐ 82 | `content creation` |
-| [Whitelists](content-creation/whitelists_70d80678/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/whitelists.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_97f5e848/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/docx-processing-anthropic/SKILL.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_6a8065a4/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/docx-processing-superdoc/SKILL.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_e36fed75/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/SKILL.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_f3a5eb59/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/SKILL.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_f7cc116d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/SKILL.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_6f5a53e4/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/skill-creator-anthropic/SKILL.md) | ⭐ 82 | `content creation` |
-| [Skill](content-creation/name-skill_3caf21a7/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/xlsx-processing-anthropic/SKILL.md) | ⭐ 82 | `content creation` |
-| [Templates](content-creation/templates_208b8a02/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz/references/templates.md) | ⭐ 82 | `content creation` |
 
-### Daily Assistant (25 skills)
+### Daily Assistant (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -406,16 +353,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Deploy.Agent](daily-assistant/252-deployagent_a9396531/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 65 | `daily assistant` |
 | [Artifact H2 Reference.Instructions](daily-assistant/207-artifact-h2-referenceinstructions_a393e6c0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/artifact-h2-reference.instructions.md) | ⭐ 65 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_a1e7e6e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 65 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_451075ac/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/compliance-anthropic/SKILL.md) | ⭐ 82 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_26d3d829/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/legal-risk-assessment-anthropic/SKILL.md) | ⭐ 82 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_bfd1e562/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/meeting-briefing-anthropic/SKILL.md) | ⭐ 82 | `daily assistant` |
-| [Key Clauses](daily-assistant/key_clauses_01b318e1/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/KEY_CLAUSES.md) | ⭐ 82 | `daily assistant` |
-| [Practical Lessons](daily-assistant/practical_lessons_5509d4ae/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/practical_lessons.md) | ⭐ 82 | `daily assistant` |
-| [It Garante](daily-assistant/it-garante_8eaf100c/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/it-garante.md) | ⭐ 82 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_22112d3f/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/legal-simulation-patrick-munro/SKILL.md) | ⭐ 82 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_82efcbd4/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vendor-due-diligence-patrick-munro/SKILL.md) | ⭐ 82 | `daily assistant` |
 
-### Data Analysis (43 skills)
+### Data Analysis (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -451,19 +390,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Preprocess Gen Gv Sig Via Mcp](data-analysis/478-preprocess_gen_gv_sig_via_mcp_8a79aa32/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_gv_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_87e653f4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 | [04 Governance Constraints](data-analysis/382-04-governance-constraints_d9ed2874/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/04-governance-constraints.md) | ⭐ 65 | `data analysis` |
-| [Skill](data-analysis/name-skill_e8568740/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/docx-processing-openai/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_ed722967/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/pdf-processing-openai/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_6ab421a5/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/xlsx-processing-openai/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_a04967a3/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/docx-processing-lawvable/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_88c6a506/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_4dbb2b19/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/pdf-processing-anthropic/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_85f21be2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/pptx-processing-anthropic/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_32469832/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/tabular-review-lawvable/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_65dadcd9/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Skill](data-analysis/name-skill_f9903414/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/xlsx-processing-manus/SKILL.md) | ⭐ 82 | `data analysis` |
-| [Templates](data-analysis/templates_e6950b04/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-privacy-notice-eu-oliver-schmidt-prietz/references/templates.md) | ⭐ 82 | `data analysis` |
+| [Fix Security](data-analysis/fix-security_375d8663/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/.claude/commands/fix-security.md) | ⭐ 10 | `data analysis` |
 
-### Development (138 skills)
+### Development (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -583,30 +512,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Reviewer](development/2591-code-reviewer_8d93bfc4/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/code-reviewer.md) | ⭐ 77 | `development` |
 | [Critic](development/240-critic_45acfa70/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/critic.md) | ⭐ 77 | `development` |
 | [Security Auditor](development/2842-security-auditor_3bccb189/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/security-auditor.md) | ⭐ 77 | `development` |
-| [Distribution](development/2891-distribution_2cf7610f/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/DISTRIBUTION.md) | ⭐ 10 | `development` |
-| [Publishing Guide](development/2892-publishing_guide_4dce33ec/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/PUBLISHING_GUIDE.md) | ⭐ 10 | `development` |
-| [Results](development/2893-results_9d13ee9c/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/benchmarks/RESULTS.md) | ⭐ 10 | `development` |
-| [Token Optimization Report](development/2894-token_optimization_report_d802d158/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/docs/TOKEN_OPTIMIZATION_REPORT.md) | ⭐ 10 | `development` |
-| [Security Scanner](development/1166-security-scanner_a974c1a4/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/skills/security-scanner.md) | ⭐ 10 | `development` |
-| [Librarian](development/519-librarian_69eb9612/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 79 | `development` |
-| [Skill](development/name-skill_cc2760e7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_9f4717de/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/security-review-openai/SKILL.md) | ⭐ 82 | `development` |
-| [Skill](development/name-skill_1f43498c/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/skill-creator-openai/SKILL.md) | ⭐ 82 | `development` |
-| [Structure Assignation](development/structure-assignation_00bc5e09/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/assignation-refere-recouvrement-creance-selim-brihi/references/structure-assignation.md) | ⭐ 82 | `development` |
-| [Risk Catalog](development/risk-catalog_cb34bada/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/risk-catalog.md) | ⭐ 82 | `development` |
-| [Durees Conservation](development/durees_conservation_52acdf86/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/DUREES_CONSERVATION.md) | ⭐ 82 | `development` |
-| [Durees Conservation](development/durees_conservation_7295bd32/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/DUREES_CONSERVATION.md) | ⭐ 82 | `development` |
-| [Fonction Publique](development/fonction_publique_230fd928/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/references/FONCTION_PUBLIQUE.md) | ⭐ 82 | `development` |
-| [Textes Legaux](development/textes_legaux_416b11ae/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/references/TEXTES_LEGAUX.md) | ⭐ 82 | `development` |
-| [Vigilance](development/vigilance_efec1777/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/references/VIGILANCE.md) | ⭐ 82 | `development` |
-| [Ai Integration](development/ai-integration_18055e95/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/ai-integration.md) | ⭐ 82 | `development` |
-| [Api Reference](development/api-reference_d54b60b5/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/api-reference.md) | ⭐ 82 | `development` |
-| [Build Config](development/build-config_5e1b2408/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/build-config.md) | ⭐ 82 | `development` |
-| [Conversion Guide](development/conversion-guide_5c2c951d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/conversion-guide.md) | ⭐ 82 | `development` |
-| [Custom Editor Patterns](development/custom-editor-patterns_1cd4c4e0/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/custom-editor-patterns.md) | ⭐ 82 | `development` |
-| [Skill](development/name-skill_bca0f0ba/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/get-vtable-index/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_9c30fd8b/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/SKILL.md) | ⭐ 82 | `development` |
-| [Calculs Indemnites](development/calculs-indemnites_3300e053/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/requete-cph-licenciement-faute-grave-selim-brihi/references/calculs-indemnites.md) | ⭐ 82 | `development` |
+| [Distribution](development/distribution_2cf7610f/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/DISTRIBUTION.md) | ⭐ 10 | `development` |
+| [Publishing Guide](development/publishing_guide_4dce33ec/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/PUBLISHING_GUIDE.md) | ⭐ 10 | `development` |
+| [Results](development/results_9d13ee9c/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/benchmarks/RESULTS.md) | ⭐ 10 | `development` |
+| [Token Optimization Report](development/token_optimization_report_d802d158/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/docs/TOKEN_OPTIMIZATION_REPORT.md) | ⭐ 10 | `development` |
+| [Security Scanner](development/security-scanner_a974c1a4/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/skills/security-scanner.md) | ⭐ 10 | `development` |
+| [Librarian](development/librarian_69eb9612/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/librarian.md) | ⭐ 79 | `development` |
+| [Setup](development/setup_0d1268c1/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/SETUP.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (20 skills)
 
@@ -643,7 +555,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Formula Verification](development/testing/085-formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
 | [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
 
-### Development/Tools (38 skills)
+### Development/Tools (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -678,15 +590,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_c88e2aec/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 63 | `development` |
 | [Plan Bicep.Prompt](development/tools/321-plan-bicepprompt_6c8677c3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 65 | `development` |
 | [Reference](development/tools/074-reference_4115642e/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator-bazaar/references/REFERENCE.md) | ⭐ 20 | `development` |
-| [Vscode Extension Plan](development/tools/322-vscode_extension_plan_739014a0/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/VSCODE_EXTENSION_PLAN.md) | ⭐ 10 | `development` |
-| [2026 02 12 Openclaw Integration Design](development/tools/323-2026-02-12-openclaw-integration-design_579953f5/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/docs/plans/2026-02-12-openclaw-integration-design.md) | ⭐ 10 | `development` |
-| [Validator](development/tools/324-validator_10fea6de/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 79 | `development` |
-| [Tree View Patterns](development/tools/tree-view-patterns_b360addd/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/tree-view-patterns.md) | ⭐ 82 | `development` |
-| [Fr Cnil](development/tools/fr-cnil_7dc52a11/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/fr-cnil.md) | ⭐ 82 | `development` |
-| [Skill](development/tools/name-skill_be89c5bf/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/skill-optimizer-lawvable/SKILL.md) | ⭐ 82 | `development` |
-| [Contribution Points](development/tools/contribution-points_69382af2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/vscode-extension-builder-lawvable/references/contribution-points.md) | ⭐ 82 | `development` |
+| [Vscode Extension Plan](development/tools/vscode_extension_plan_739014a0/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/VSCODE_EXTENSION_PLAN.md) | ⭐ 10 | `development` |
+| [2026 02 12 Openclaw Integration Design](development/tools/2026-02-12-openclaw-integration-design_579953f5/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/docs/plans/2026-02-12-openclaw-integration-design.md) | ⭐ 10 | `development` |
+| [Validator](development/tools/validator_10fea6de/) | [TechDufus/oh-my-claude](https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/agents/validator.md) | ⭐ 79 | `development` |
+| [Claude](development/tools/claude_8b4b7db0/) | [sinewaveai/agent-security-scanner-mcp](https://raw.githubusercontent.com/sinewaveai/agent-security-scanner-mcp/main/CLAUDE.md) | ⭐ 10 | `development` |
 
-### Investment (7 skills)
+### Investment (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -694,22 +603,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Failure Analysis Batch 20260211 213131](investment/050-failure_analysis_batch_20260211_213131_17df2793/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/failure_analysis_batch_20260211_213131.md) | ⭐ 18 | `investment` |
 | [Ultra Think](investment/049-ultra-think_fa8c9d32/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/claudecode/commands/ultra-think.md) | ⭐ 21 | `investment` |
 | [User Tracking](investment/050-user-tracking_5a945df2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/user-tracking.md) | ⭐ 21 | `investment` |
-| [Skill](investment/name-skill_5bfa0804/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/contract-review-anthropic/SKILL.md) | ⭐ 82 | `investment` |
-| [Cookies](investment/cookies_0bc33171/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
-| [Cookies](investment/cookies_d743e386/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
 
-### Productivity (6 skills)
+### Productivity (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Growth Pm](productivity/173-growth-pm_48f76195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/growth-pm.md) | ⭐ 18 | `productivity` |
 | [Prompts](productivity/174-prompts_5155f536/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/prompts.md) | ⭐ 51 | `productivity` |
 | [Patterns](productivity/160-patterns_01ee8bbb/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/references/patterns.md) | ⭐ 56 | `productivity` |
-| [Duration Scope](productivity/duration_scope_50e90cd5/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/DURATION_SCOPE.md) | ⭐ 82 | `productivity` |
-| [Remedies Liability](productivity/remedies_liability_27cc7977/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/REMEDIES_LIABILITY.md) | ⭐ 82 | `productivity` |
-| [Canons Of Construction](productivity/canons_of_construction_8d298d9d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/canons_of_construction.md) | ⭐ 82 | `productivity` |
 
-### Research (15 skills)
+### Research (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -718,16 +621,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Researcher](research/260-researcher_edc4a804/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/researcher.md) | ⭐ 18 | `research` |
 | [Batch 20260211 221758 Aggregate](research/261-batch_20260211_221758_aggregate_8cac16a4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221758_aggregate.md) | ⭐ 18 | `research` |
 | [Time Savings Evidence](research/225-time-savings-evidence_a6749979/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 63 | `research` |
-| [Skill](research/name-skill_4656c5ad/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-triage-anthropic/SKILL.md) | ⭐ 82 | `research` |
-| [Sources](research/sources_b57cb812/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/sources.md) | ⭐ 82 | `research` |
-| [Standard Exceptions](research/standard_exceptions_222249c2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/STANDARD_EXCEPTIONS.md) | ⭐ 82 | `research` |
-| [Statutory Structure](research/statutory_structure_4c7c1768/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/statutory_structure.md) | ⭐ 82 | `research` |
-| [Skill](research/name-skill_b6e5d355/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/gdpr-breach-sentinel-oliver-schmidt-prietz/SKILL.md) | ⭐ 82 | `research` |
-| [Skill.Fr](research/skillfr_040285a4/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/SKILL.fr.md) | ⭐ 82 | `research` |
-| [Skill](research/name-skill_e39848f6/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/tech-contract-negotiation-patrick-munro/SKILL.md) | ⭐ 82 | `research` |
-| [Templates](research/templates_f82db394/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/templates.md) | ⭐ 82 | `research` |
-| [Conseils Variations](research/conseils-variations_239b6071/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/requete-cph-licenciement-faute-grave-selim-brihi/references/conseils-variations.md) | ⭐ 82 | `research` |
-| [Index](research/index_ff63165a/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/index.md) | ⭐ 82 | `research` |
 
 ## How Skills Are Organized
 
@@ -779,5 +672,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 11:22:11 UTC*
+*Last updated: 2026-02-13 11:21:53 UTC*
 *Automatically maintained by SkillFlow*
