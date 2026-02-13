@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T03:22:48.571925",
+  "updated_at": "2026-02-13T03:24:06.133346",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -2213,6 +2213,34 @@
       "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/weak-password-checklist.md",
       "display_name": "Weak Password Checklist",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "a5d5dc8820f08aa23a3afb18e749d768c47c6b78bf583d1d0b982ddb791400b6",
+      "source_path": "AGENTS.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/028-agents_a5d5dc88",
+      "category": "development",
+      "name": "agents_a5d5dc88",
+      "indexed_at": "2026-02-13T03:24:06.097201",
+      "repo_stars": 5075,
+      "repo_updated_at": "2026-02-10T15:26:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a952b097c004ac8706e4695ce85e60b9d06b4d55457b45b00102b6e4c9c898a9",
+      "source_path": "docs/STYLE_GUIDE.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/1377-style_guide_a952b097",
+      "category": "development",
+      "name": "style_guide_a952b097",
+      "indexed_at": "2026-02-13T03:24:06.133297",
+      "repo_stars": 5075,
+      "repo_updated_at": "2026-02-06T14:35:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md",
+      "display_name": "Style Guide",
+      "tags": "[\"development\"]"
     }
   ]
 }

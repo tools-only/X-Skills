@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **172 AI-powered skills** organized into 14 categories.
+A curated collection of **160 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (1 skill)
-- **Automation/Workflow** (12 skills)
+- **Automation/Workflow** (11 skills)
 - **Commercial** (21 skills)
 - **Communication** (4 skills)
-- **Content Creation** (19 skills)
-- **Daily Assistant** (9 skills)
-- **Data Analysis** (26 skills)
-- **Development** (33 skills)
-- **Development/Devops** (13 skills)
+- **Content Creation** (18 skills)
+- **Daily Assistant** (8 skills)
+- **Data Analysis** (25 skills)
+- **Development** (30 skills)
+- **Development/Devops** (12 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (21 skills)
+- **Development/Tools** (18 skills)
 - **Investment** (2 skills)
 - **Productivity** (3 skills)
-- **Research** (5 skills)
+- **Research** (4 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -186,7 +186,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Param Forge Reference](automation/scripting/100-param_forge_reference_35994bfd/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
 
-### Automation/Workflow (12 skills)
+### Automation/Workflow (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -200,8 +200,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme.Ja](automation/workflow/040-readmeja_e5d1a15a/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 27 | `automation` |
 | [Agents](automation/workflow/073-agents_8aee7225/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a9a208cd/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 7.1k | `automation` |
-| [Skill](automation/workflow/name-skill_1b2668f1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-develop-web-game/skills/openai-develop-web-game/SKILL.md) | ⭐ 56 | `automation` |
-| [Skill](automation/workflow/name-skill_5ed000bc/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ghidra-headless/skills/ghidra-headless/SKILL.md) | ⭐ 56 | `automation` |
+| [Skill](automation/workflow/002-name-skill_1b2668f1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-develop-web-game/skills/openai-develop-web-game/SKILL.md) | ⭐ 56 | `automation` |
 
 ### Commercial (21 skills)
 
@@ -225,9 +224,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vcf Value Discovery Eval](commercial/385-vcf_value_discovery_eval_a49e0e39/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/skills/vcf_value_discovery_eval.md) | ⭐ 18 | `commercial` |
 | [Migration Guide V1](commercial/251-migration_guide_v1_845a62d9/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/MIGRATION_GUIDE_v1.md) | ⭐ 4.0k | `commercial` |
 | [Aesthetic](commercial/386-aesthetic_beed860c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aesthetic.md) | ⭐ 51 | `commercial` |
-| [Bank Penetration](commercial/bank-penetration_c2e5ee98/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/bank-penetration.md) | ⭐ 56 | `commercial` |
-| [Logic Flaws](commercial/logic-flaws_d3713f41/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/logic-flaws.md) | ⭐ 56 | `commercial` |
-| [Logic Flaws Checklist](commercial/logic-flaws-checklist_c6b46334/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/logic-flaws-checklist.md) | ⭐ 56 | `commercial` |
+| [Bank Penetration](commercial/371-bank-penetration_c2e5ee98/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/bank-penetration.md) | ⭐ 56 | `commercial` |
+| [Logic Flaws](commercial/372-logic-flaws_d3713f41/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/logic-flaws.md) | ⭐ 56 | `commercial` |
+| [Logic Flaws Checklist](commercial/373-logic-flaws-checklist_c6b46334/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/logic-flaws-checklist.md) | ⭐ 56 | `commercial` |
 
 ### Communication (4 skills)
 
@@ -236,9 +235,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Syntax Reference](communication/113-syntax-reference_a16eba1d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) | ⭐ 65 | `communication` |
 | [Project Context](communication/255-project_context_5cc91b78/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/PROJECT_CONTEXT.md) | ⭐ 51 | `communication` |
 | [Readme Cn](communication/256-readme_cn_a75d0219/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 57 | `communication` |
-| [Weak Password Checklist](communication/weak-password-checklist_0d3963ca/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/weak-password-checklist.md) | ⭐ 56 | `communication` |
+| [Weak Password Checklist](communication/255-weak-password-checklist_0d3963ca/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/weak-password-checklist.md) | ⭐ 56 | `communication` |
 
-### Content Creation (19 skills)
+### Content Creation (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -249,20 +248,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_42cdd582/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/universal-media-downloader/SKILL.md) | ⭐ 18 | `content creation` |
 | [Spawn V0 Local Only](content-creation/357-spawn_v0_local_only_1cb9fb27/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/spawn_v0_local_only.md) | ⭐ 51 | `content creation` |
 | [Ethics](content-creation/372-ethics_dbde6459/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/ETHICS.md) | ⭐ 13 | `content creation` |
-| [Plan](content-creation/plan_860e9528/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/commands/plan.md) | ⭐ 56 | `content creation` |
-| [Skill](content-creation/name-skill_82868fe3/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/SKILL.md) | ⭐ 56 | `content creation` |
-| [Skill](content-creation/name-skill_d1631d58/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/last30days/skills/last30days/SKILL.md) | ⭐ 56 | `content creation` |
-| [Skill](content-creation/name-skill_76a45975/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/SKILL.md) | ⭐ 56 | `content creation` |
-| [Skill](content-creation/name-skill_8a2e5b56/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/x-research/skills/x-research/SKILL.md) | ⭐ 56 | `content creation` |
-| [Principles](content-creation/principles_c2c61108/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/references/principles.md) | ⭐ 56 | `content creation` |
-| [Skill Lifecycle](content-creation/skill-lifecycle_119157d0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/references/skill-lifecycle.md) | ⭐ 56 | `content creation` |
-| [Command Execution](content-creation/command-execution_ffdc6b02/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/command-execution.md) | ⭐ 56 | `content creation` |
-| [Xss](content-creation/xss_d1bc8bd4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/xss.md) | ⭐ 56 | `content creation` |
-| [Command Execution Checklist](content-creation/command-execution-checklist_39b874c0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/command-execution-checklist.md) | ⭐ 56 | `content creation` |
-| [Ssrf Checklist](content-creation/ssrf-checklist_113f13e6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/ssrf-checklist.md) | ⭐ 56 | `content creation` |
-| [Skill](content-creation/name-skill_0b19f29a/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-cloudflare-deploy/skills/openai-cloudflare-deploy/SKILL.md) | ⭐ 56 | `content creation` |
+| [Plan](content-creation/353-plan_860e9528/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/commands/plan.md) | ⭐ 56 | `content creation` |
+| [Skill](content-creation/049-name-skill_82868fe3/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/SKILL.md) | ⭐ 56 | `content creation` |
+| [Skill](content-creation/049-name-skill_d1631d58/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/last30days/skills/last30days/SKILL.md) | ⭐ 56 | `content creation` |
+| [Skill](content-creation/049-name-skill_76a45975/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/SKILL.md) | ⭐ 56 | `content creation` |
+| [Skill](content-creation/049-name-skill_8a2e5b56/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/x-research/skills/x-research/SKILL.md) | ⭐ 56 | `content creation` |
+| [Principles](content-creation/354-principles_c2c61108/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/references/principles.md) | ⭐ 56 | `content creation` |
+| [Skill Lifecycle](content-creation/355-skill-lifecycle_119157d0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/references/skill-lifecycle.md) | ⭐ 56 | `content creation` |
+| [Command Execution](content-creation/356-command-execution_ffdc6b02/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/command-execution.md) | ⭐ 56 | `content creation` |
+| [Xss](content-creation/357-xss_d1bc8bd4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/xss.md) | ⭐ 56 | `content creation` |
+| [Command Execution Checklist](content-creation/358-command-execution-checklist_39b874c0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/command-execution-checklist.md) | ⭐ 56 | `content creation` |
+| [Ssrf Checklist](content-creation/359-ssrf-checklist_113f13e6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/ssrf-checklist.md) | ⭐ 56 | `content creation` |
 
-### Daily Assistant (9 skills)
+### Daily Assistant (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -270,13 +268,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Copilot Instructions](daily-assistant/266-copilot-instructions_1423668e/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.github/copilot-instructions.md) | ⭐ 51 | `daily assistant` |
 | [Brood Aip.Instructions](daily-assistant/267-brood-aipinstructions_be0c3008/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.github/instructions/brood-aip.instructions.md) | ⭐ 51 | `daily assistant` |
 | [Brood Aip](daily-assistant/268-brood-aip_be4ed266/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.windsurf/rules/brood-aip.md) | ⭐ 51 | `daily assistant` |
-| [Status](daily-assistant/status_2e342fb5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/commands/status.md) | ⭐ 56 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_47ec12a5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/SKILL.md) | ⭐ 56 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_f9a1f323/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-threat-model/skills/openai-security-threat-model/SKILL.md) | ⭐ 56 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_92eb7fef/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-sentry/skills/openai-sentry/SKILL.md) | ⭐ 56 | `daily assistant` |
-| [Examples](daily-assistant/examples_c00cd5b6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/references/examples.md) | ⭐ 56 | `daily assistant` |
+| [Status](daily-assistant/268-status_2e342fb5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/commands/status.md) | ⭐ 56 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_47ec12a5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/SKILL.md) | ⭐ 56 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_f9a1f323/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-threat-model/skills/openai-security-threat-model/SKILL.md) | ⭐ 56 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_92eb7fef/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-sentry/skills/openai-sentry/SKILL.md) | ⭐ 56 | `daily assistant` |
 
-### Data Analysis (26 skills)
+### Data Analysis (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -300,14 +297,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_55773a6b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/trajectory-modeling/SKILL.md) | ⭐ 233 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_0def0501/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 233 | `data analysis` |
 | [Visual Prompting V0](data-analysis/485-visual_prompting_v0_52572161/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/visual_prompting_v0.md) | ⭐ 51 | `data analysis` |
-| [Import Skill](data-analysis/import-skill_0f090701/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/.claude/commands/import-skill.md) | ⭐ 56 | `data analysis` |
-| [Skill](data-analysis/name-skill_5f6df240/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-doc/skills/openai-doc/SKILL.md) | ⭐ 56 | `data analysis` |
-| [Skill](data-analysis/name-skill_ed5b6f7e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-pdf/skills/openai-pdf/SKILL.md) | ⭐ 56 | `data analysis` |
-| [Skill](data-analysis/name-skill_b03aba97/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-ownership-map/skills/openai-security-ownership-map/SKILL.md) | ⭐ 56 | `data analysis` |
-| [Skill](data-analysis/name-skill_94733cad/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-spreadsheet/skills/openai-spreadsheet/SKILL.md) | ⭐ 56 | `data analysis` |
-| [Review Plugin](data-analysis/review-plugin_4097752f/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/.claude/commands/review-plugin.md) | ⭐ 56 | `data analysis` |
+| [Import Skill](data-analysis/478-import-skill_0f090701/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/.claude/commands/import-skill.md) | ⭐ 56 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5f6df240/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-doc/skills/openai-doc/SKILL.md) | ⭐ 56 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ed5b6f7e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-pdf/skills/openai-pdf/SKILL.md) | ⭐ 56 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b03aba97/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-ownership-map/skills/openai-security-ownership-map/SKILL.md) | ⭐ 56 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_94733cad/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-spreadsheet/skills/openai-spreadsheet/SKILL.md) | ⭐ 56 | `data analysis` |
 
-### Development (33 skills)
+### Development (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -324,28 +320,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Developer Guide](development/282-developer-guide_ff9975f1/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md) | 🔥 7.1k | `development` |
 | [Metrics](development/575-metrics_32f0d9c1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/METRICS.md) | ⭐ 18 | `development` |
 | [Recipe Audit](development/2850-recipe_audit_dd40a0b5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/RECIPE_AUDIT.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_bc6bbf16/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-best-practices/skills/openai-security-best-practices/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/name-skill_bbfc4111/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/name-skill_0d3d1f7c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/SKILL.md) | ⭐ 56 | `development` |
-| [File Upload](development/file-upload_b013ed1e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/file-upload.md) | ⭐ 56 | `development` |
-| [Info Disclosure](development/info-disclosure_d4862aba/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/info-disclosure.md) | ⭐ 56 | `development` |
-| [Path Traversal](development/path-traversal_c73eea45/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/path-traversal.md) | ⭐ 56 | `development` |
-| [Sql Injection](development/sql-injection_cc9c615c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/sql-injection.md) | ⭐ 56 | `development` |
-| [Telecom Penetration](development/telecom-penetration_5c723184/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/telecom-penetration.md) | ⭐ 56 | `development` |
-| [X Api](development/x-api_b97fa218/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/x-research/skills/x-research/references/x-api.md) | ⭐ 56 | `development` |
-| [Csrf Checklist](development/csrf-checklist_e821ad41/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/csrf-checklist.md) | ⭐ 56 | `development` |
-| [File Upload Checklist](development/file-upload-checklist_95e05da5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/file-upload-checklist.md) | ⭐ 56 | `development` |
-| [Info Disclosure Checklist](development/info-disclosure-checklist_aac2c34e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/info-disclosure-checklist.md) | ⭐ 56 | `development` |
-| [Path Traversal Checklist](development/path-traversal-checklist_e420e992/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/path-traversal-checklist.md) | ⭐ 56 | `development` |
-| [Rce Checklist](development/rce-checklist_60e3a56a/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/rce-checklist.md) | ⭐ 56 | `development` |
-| [Xxe Checklist](development/xxe-checklist_0521eb1b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/xxe-checklist.md) | ⭐ 56 | `development` |
-| [Notebook Structure](development/notebook-structure_a5fb0429/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-jupyter-notebook/skills/openai-jupyter-notebook/references/notebook-structure.md) | ⭐ 56 | `development` |
-| [Templates](development/templates_7a6ccc51/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/references/templates.md) | ⭐ 56 | `development` |
-| [Quality Guide](development/quality-guide_327ccc8a/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/references/quality-guide.md) | ⭐ 56 | `development` |
-| [Sql Injection Checklist](development/sql-injection-checklist_d12eeef4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/sql-injection-checklist.md) | ⭐ 56 | `development` |
-| [Xss Checklist](development/xss-checklist_b09898a4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/xss-checklist.md) | ⭐ 56 | `development` |
+| [Skill](development/1178-name-skill_bc6bbf16/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-best-practices/skills/openai-security-best-practices/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/1178-name-skill_bbfc4111/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/1178-name-skill_0d3d1f7c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/SKILL.md) | ⭐ 56 | `development` |
+| [File Upload](development/2874-file-upload_b013ed1e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/file-upload.md) | ⭐ 56 | `development` |
+| [Info Disclosure](development/2875-info-disclosure_d4862aba/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/info-disclosure.md) | ⭐ 56 | `development` |
+| [Path Traversal](development/2876-path-traversal_c73eea45/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/path-traversal.md) | ⭐ 56 | `development` |
+| [Sql Injection](development/2877-sql-injection_cc9c615c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/sql-injection.md) | ⭐ 56 | `development` |
+| [Telecom Penetration](development/2878-telecom-penetration_5c723184/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/telecom-penetration.md) | ⭐ 56 | `development` |
+| [X Api](development/2879-x-api_b97fa218/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/x-research/skills/x-research/references/x-api.md) | ⭐ 56 | `development` |
+| [Csrf Checklist](development/2880-csrf-checklist_e821ad41/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/csrf-checklist.md) | ⭐ 56 | `development` |
+| [File Upload Checklist](development/2881-file-upload-checklist_95e05da5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/file-upload-checklist.md) | ⭐ 56 | `development` |
+| [Info Disclosure Checklist](development/2882-info-disclosure-checklist_aac2c34e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/info-disclosure-checklist.md) | ⭐ 56 | `development` |
+| [Path Traversal Checklist](development/2883-path-traversal-checklist_e420e992/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/path-traversal-checklist.md) | ⭐ 56 | `development` |
+| [Rce Checklist](development/2884-rce-checklist_60e3a56a/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/rce-checklist.md) | ⭐ 56 | `development` |
+| [Xxe Checklist](development/2885-xxe-checklist_0521eb1b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/xxe-checklist.md) | ⭐ 56 | `development` |
+| [Agents](development/agents_a5d5dc88/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.1k | `development` |
+| [Style Guide](development/style_guide_a952b097/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/docs/STYLE_GUIDE.md) | 🔥 5.1k | `development` |
 
-### Development/Devops (13 skills)
+### Development/Devops (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -358,10 +351,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_ae24568a/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md) | ⭐ 2.6k | `development` |
 | [Environment Setup](development/devops/200-environment-setup_d0710e36/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 7.1k | `development` |
 | [Roadmap](development/devops/097-roadmap_62290bac/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap.md) | 🔥 7.1k | `development` |
-| [Wordlists](development/devops/wordlists_f64624a5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/references/wordlists.md) | ⭐ 56 | `development` |
-| [Unauthorized Access](development/devops/unauthorized-access_8bef681c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/unauthorized-access.md) | ⭐ 56 | `development` |
-| [Misconfig Checklist](development/devops/misconfig-checklist_2aa6973b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/misconfig-checklist.md) | ⭐ 56 | `development` |
-| [Unauthorized Access Checklist](development/devops/unauthorized-access-checklist_9f1f7c60/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/unauthorized-access-checklist.md) | ⭐ 56 | `development` |
+| [Wordlists](development/devops/364-wordlists_f64624a5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/references/wordlists.md) | ⭐ 56 | `development` |
+| [Unauthorized Access](development/devops/365-unauthorized-access_8bef681c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/unauthorized-access.md) | ⭐ 56 | `development` |
+| [Misconfig Checklist](development/devops/366-misconfig-checklist_2aa6973b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/misconfig-checklist.md) | ⭐ 56 | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -371,7 +363,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
 
-### Development/Tools (21 skills)
+### Development/Tools (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -386,16 +378,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Description](development/tools/322-release_description_d0311e45/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 22 | `development` |
 | [Contributing Lint Setup](development/tools/321-contributing-lint-setup_2918e77d/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md) | 🔥 7.1k | `development` |
 | [Skill](development/tools/002-name-skill_d2a89379/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md) | 🔥 7.1k | `development` |
-| [Claude](development/tools/claude_c795e188/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/CLAUDE.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_926f799f/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_92250a36/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-jupyter-notebook/skills/openai-jupyter-notebook/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_df491cf9/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-netlify-deploy/skills/openai-netlify-deploy/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_69eee0a1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-screenshot/skills/openai-screenshot/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_920d7880/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-yeet/skills/openai-yeet/SKILL.md) | ⭐ 56 | `development` |
-| [Cli](development/tools/cli_a08ee059/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/references/cli.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_fcd5e5cf/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-gh-address-comments/skills/openai-gh-address-comments/SKILL.md) | ⭐ 56 | `development` |
-| [Skill](development/tools/name-skill_9fd96efd/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-gh-fix-ci/skills/openai-gh-fix-ci/SKILL.md) | ⭐ 56 | `development` |
-| [Request Templates](development/tools/request-templates_66fd8938/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/references/request-templates.md) | ⭐ 56 | `development` |
+| [Claude](development/tools/017-claude_c795e188/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/CLAUDE.md) | ⭐ 56 | `development` |
+| [Skill](development/tools/002-name-skill_926f799f/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/tools/002-name-skill_92250a36/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-jupyter-notebook/skills/openai-jupyter-notebook/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/tools/002-name-skill_df491cf9/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-netlify-deploy/skills/openai-netlify-deploy/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/tools/002-name-skill_69eee0a1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-screenshot/skills/openai-screenshot/SKILL.md) | ⭐ 56 | `development` |
+| [Skill](development/tools/002-name-skill_920d7880/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-yeet/skills/openai-yeet/SKILL.md) | ⭐ 56 | `development` |
+| [Cli](development/tools/263-cli_a08ee059/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/references/cli.md) | ⭐ 56 | `development` |
 
 ### Investment (2 skills)
 
@@ -410,9 +399,9 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Growth Pm](productivity/173-growth-pm_48f76195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/growth-pm.md) | ⭐ 18 | `productivity` |
 | [Prompts](productivity/174-prompts_5155f536/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/prompts.md) | ⭐ 51 | `productivity` |
-| [Patterns](productivity/patterns_01ee8bbb/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/references/patterns.md) | ⭐ 56 | `productivity` |
+| [Patterns](productivity/160-patterns_01ee8bbb/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/references/patterns.md) | ⭐ 56 | `productivity` |
 
-### Research (5 skills)
+### Research (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -420,7 +409,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Directory](research/259-directory_ffc70b99/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/directory.md) | ⭐ 18 | `research` |
 | [Researcher](research/260-researcher_edc4a804/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/researcher.md) | ⭐ 18 | `research` |
 | [Batch 20260211 221758 Aggregate](research/261-batch_20260211_221758_aggregate_8cac16a4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221758_aggregate.md) | ⭐ 18 | `research` |
-| [Skill Template](research/skill-template_7551123b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/references/skill-template.md) | ⭐ 56 | `research` |
 
 ## How Skills Are Organized
 
@@ -472,5 +460,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 03:22:48 UTC*
+*Last updated: 2026-02-13 03:24:06 UTC*
 *Automatically maintained by SkillFlow*
