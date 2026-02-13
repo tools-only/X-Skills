@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T02:24:38.336297",
+  "updated_at": "2026-02-13T02:25:19.945252",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1373,6 +1373,90 @@
       "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/static-analysis/skills/semgrep/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2918e77dd48421e8c11b8cb4d7ed0d5d10633aa64fbafccc746bfb7693db6422",
+      "source_path": "docs/contributing-lint-setup.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/321-contributing-lint-setup_2918e77d",
+      "category": "development/tools",
+      "name": "contributing-lint-setup_2918e77d",
+      "indexed_at": "2026-02-13T02:25:19.576493",
+      "repo_stars": 7052,
+      "repo_updated_at": "2026-02-13T01:54:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/contributing-lint-setup.md",
+      "display_name": "Contributing Lint Setup",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d2a89379f03c12b7d02b6fcbfa977eab6639cf7c9c035f94768cc50bd1ef2965",
+      "source_path": ".claude/skills/hive-debugger/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/002-name-skill_d2a89379",
+      "category": "development/tools",
+      "name": "name-skill_d2a89379",
+      "indexed_at": "2026-02-13T02:25:19.683862",
+      "repo_stars": 7052,
+      "repo_updated_at": "2026-02-12T20:10:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-debugger/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ff9975f11a135f03726fb9fd63b7489afd0580ce834fb090081e3f8ccbb0afb8",
+      "source_path": "docs/developer-guide.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/282-developer-guide_ff9975f1",
+      "category": "development",
+      "name": "developer-guide_ff9975f1",
+      "indexed_at": "2026-02-13T02:25:19.762915",
+      "repo_stars": 7052,
+      "repo_updated_at": "2026-02-13T01:54:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/developer-guide.md",
+      "display_name": "Developer Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d0710e360cbddb164b425e3e88cb1d6a4f576cb13804bf8766d1b0431459d74a",
+      "source_path": "docs/environment-setup.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/devops/200-environment-setup_d0710e36",
+      "category": "development/devops",
+      "name": "environment-setup_d0710e36",
+      "indexed_at": "2026-02-13T02:25:19.829603",
+      "repo_stars": 7052,
+      "repo_updated_at": "2026-02-13T01:54:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md",
+      "display_name": "Environment Setup",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "62290baca0b030609d707ab571277047dcc4ad7a1585863dcb09cc923fe3a8a0",
+      "source_path": "docs/roadmap.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/devops/097-roadmap_62290bac",
+      "category": "development/devops",
+      "name": "roadmap_62290bac",
+      "indexed_at": "2026-02-13T02:25:19.874010",
+      "repo_stars": 7052,
+      "repo_updated_at": "2026-02-12T13:02:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/roadmap.md",
+      "display_name": "Roadmap",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a9a208cdad93ca4e6da9e166f3abb0f47b068ff0f17bf7adea9376686a4e1360",
+      "source_path": ".claude/skills/hive-create/SKILL.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "automation/workflow/002-name-skill_a9a208cd",
+      "category": "automation/workflow",
+      "name": "name-skill_a9a208cd",
+      "indexed_at": "2026-02-13T02:25:19.945194",
+      "repo_stars": 7052,
+      "repo_updated_at": "2026-02-12T20:10:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
