@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **546 AI-powered skills** organized into 14 categories.
+A curated collection of **542 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -11,15 +11,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (17 skills)
 - **Automation/Workflow** (21 skills)
 - **Commercial** (61 skills)
-- **Communication** (33 skills)
+- **Communication** (32 skills)
 - **Content Creation** (54 skills)
 - **Daily Assistant** (41 skills)
 - **Data Analysis** (40 skills)
-- **Development** (177 skills)
+- **Development** (176 skills)
 - **Development/Devops** (24 skills)
 - **Development/Testing** (6 skills)
-- **Development/Tools** (45 skills)
-- **Investment** (8 skills)
+- **Development/Tools** (44 skills)
+- **Investment** (7 skills)
 - **Productivity** (6 skills)
 - **Research** (13 skills)
 
@@ -198,9 +198,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7d73c5f7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_PickupItem-AND-CCSPlayer_WeaponServices_EquipWeapon/SKILL.md) | ⭐ 17 | `automation` |
 | [Workflows](automation/scripting/069-workflows_ec21f596/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/outlook-emails-lawvable/references/WORKFLOWS.md) | ⭐ 82 | `automation` |
 | [Process Failed Reviews](automation/scripting/096-process-failed-reviews_6ca051f2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/process-failed-reviews.md) | ⭐ 612 | `automation` |
-| [Skill](automation/scripting/name-skill_287b6ed2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsAlive-AND-CBaseEntity_GetEyePosition-AND-CBasePlayerPawn_GetEyePosition/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_f0b5c6b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_89f14170/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_287b6ed2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsAlive-AND-CBaseEntity_GetEyePosition-AND-CBasePlayerPawn_GetEyePosition/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_f0b5c6b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_89f14170/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 17 | `automation` |
 
 ### Automation/Workflow (21 skills)
 
@@ -226,7 +226,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Executive Pitch](automation/workflow/067-executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_7dd2bdfd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
 | [Terminalbench](automation/workflow/072-terminalbench_f32ef158/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
-| [2.Why Use Skills 1（Skills的意义）](automation/workflow/2why-use-skills-1skills的意义_048702b3/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/2.Why Use Skills 1（Skills的意义）.md) | ⭐ 76 | `automation` |
+| [2.Why Use Skills 1（Skills的意义）](automation/workflow/139-2why-use-skills-1skills的意义_048702b3/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/2.Why Use Skills 1（Skills的意义）.md) | ⭐ 76 | `automation` |
 
 ### Commercial (61 skills)
 
@@ -294,7 +294,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Webarena](commercial/286-webarena_b16f92c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
 | [Skill](commercial/210-name-skill_1409d6aa/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 79 | `commercial` |
 
-### Communication (33 skills)
+### Communication (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -330,7 +330,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](communication/253-installation_a5883a1a/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/documentation/guides/installation.md) | ⭐ 29 | `communication` |
 | [Skill](communication/127-name-skill_b9e488e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 79 | `communication` |
 | [Processors](communication/256-processors_0e46643a/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 289 | `communication` |
-| [Skill](communication/name-skill_37cddd92/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/analyzing-marketing-campaign/SKILL.md) | ⭐ 76 | `communication` |
 
 ### Content Creation (54 skills)
 
@@ -389,7 +388,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_9bcf8420/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-drive/SKILL.md) | ⭐ 79 | `content creation` |
 | [Skill](content-creation/049-name-skill_b48fd5e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-slides/SKILL.md) | ⭐ 79 | `content creation` |
 | [Toolsets](content-creation/360-toolsets_b0785398/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 289 | `content creation` |
-| [5.Exploring Pre Built Skills （预设Skills探索）](content-creation/5exploring-pre-built-skills-预设skills探索_3a092a07/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/5.Exploring Pre-Built Skills （预设Skills探索）.md) | ⭐ 76 | `content creation` |
+| [5.Exploring Pre Built Skills （预设Skills探索）](content-creation/375-5exploring-pre-built-skills-预设skills探索_3a092a07/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/5.Exploring Pre-Built Skills （预设Skills探索）.md) | ⭐ 76 | `content creation` |
 
 ### Daily Assistant (41 skills)
 
@@ -480,9 +479,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Estimate.Instructions](data-analysis/479-cost-estimateinstructions_0b45d0d2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/cost-estimate.instructions.md) | ⭐ 63 | `data analysis` |
 | [Wireless](data-analysis/480-wireless_b2d0e578/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/wireless.md) | ⭐ 612 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5631a335/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/elevenlabs/SKILL.md) | ⭐ 79 | `data analysis` |
-| [6.Creating Custom Skills（自定义Skills）](data-analysis/6creating-custom-skills自定义skills_6d2cf09a/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/6.Creating Custom Skills（自定义skills）.md) | ⭐ 76 | `data analysis` |
+| [6.Creating Custom Skills（自定义Skills）](data-analysis/481-6creating-custom-skills自定义skills_6d2cf09a/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/6.Creating Custom Skills（自定义skills）.md) | ⭐ 76 | `data analysis` |
 
-### Development (177 skills)
+### Development (176 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -659,12 +658,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_925d95a3/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/index.md) | ⭐ 289 | `development` |
 | [Subagents](development/1701-subagents_c7cf45ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/subagents.md) | ⭐ 289 | `development` |
 | [Skills](development/2895-note-skill_36cdf6cb/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/skills.md) | ⭐ 289 | `development` |
-| [Skill](development/name-skill_ba7edbc9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_TakeDamageOld/SKILL.md) | ⭐ 17 | `development` |
-| [7.Skill With The Claude Api（在Claude Api使用Skills）](development/7skill-with-the-claude-api在claude-api使用skills_98ab83a0/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/7.Skill with the Claude API（在Claude API使用skills）.md) | ⭐ 76 | `development` |
-| [8.Skill With Claude Code（在Claude Code使用Skills）](development/8skill-with-claude-code在claude-code使用skills_aadcd8d5/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/8.Skill with Claude Code（在Claude Code使用skills）.md) | ⭐ 76 | `development` |
-| [Skill](development/name-skill_ced2c818/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/generating-practice-questions/SKILL.md) | ⭐ 76 | `development` |
-| [1.Introduction（课程介绍）](development/1introduction课程介绍_6fe4faa7/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/1.Introduction（课程介绍）.md) | ⭐ 76 | `development` |
-| [4.Skills Vs Tools, Mcp, And Subagents（技能 Vs 工具、Mcp 和子代理）](development/4skills-vs-tools-mcp-and-subagents技能-vs-工具mcp-和子代理_98f83bbe/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/4.Skills vs Tools, MCP, and Subagents（技能 vs 工具、MCP 和子代理）.md) | ⭐ 76 | `development` |
+| [Skill](development/1178-name-skill_ba7edbc9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_TakeDamageOld/SKILL.md) | ⭐ 17 | `development` |
+| [7.Skill With The Claude Api（在Claude Api使用Skills）](development/2935-7skill-with-the-claude-api在claude-api使用skills_98ab83a0/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/7.Skill with the Claude API（在Claude API使用skills）.md) | ⭐ 76 | `development` |
+| [8.Skill With Claude Code（在Claude Code使用Skills）](development/2936-8skill-with-claude-code在claude-code使用skills_aadcd8d5/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/8.Skill with Claude Code（在Claude Code使用skills）.md) | ⭐ 76 | `development` |
+| [Skill](development/1178-name-skill_ced2c818/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/generating-practice-questions/SKILL.md) | ⭐ 76 | `development` |
+| [Quickstart](development/quickstart_f6933251/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md) | ⭐ 892 | `development` |
 
 ### Development/Devops (24 skills)
 
@@ -706,7 +704,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
 | [Skill](development/testing/002-name-skill_4c0974db/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 25 | `development` |
 
-### Development/Tools (45 skills)
+### Development/Tools (44 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -753,10 +751,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plan Bicep.Prompt](development/tools/320-plan-bicepprompt_323bc8c7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 63 | `development` |
 | [Claude](development/tools/017-claude_b187a038/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 289 | `development` |
 | [Index](development/tools/062-index_c79e2c35/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/index.md) | ⭐ 289 | `development` |
-| [9.Skills With The Claude Agent Sdk（Claude Agent Sdk 中的技能）](development/tools/9skills-with-the-claude-agent-sdkclaude-agent-sdk-中的技能_d245e7f7/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/9.Skills with the Claude Agent SDK（Claude Agent SDK 中的技能）.md) | ⭐ 76 | `development` |
-| [10.Conclusion（总结）](development/tools/10conclusion总结_ad6d5a88/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/10.Conclusion（总结）.md) | ⭐ 76 | `development` |
+| [9.Skills With The Claude Agent Sdk（Claude Agent Sdk 中的技能）](development/tools/326-9skills-with-the-claude-agent-sdkclaude-agent-sdk-中的技能_d245e7f7/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/9.Skills with the Claude Agent SDK（Claude Agent SDK 中的技能）.md) | ⭐ 76 | `development` |
 
-### Investment (8 skills)
+### Investment (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -767,7 +764,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_5bfa0804/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/contract-review-anthropic/SKILL.md) | ⭐ 82 | `investment` |
 | [Cookies](investment/049-cookies_0bc33171/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
 | [Cookies](investment/049-cookies_d743e386/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
-| [3.Why Use Skills 2   Agent And Skills（从Agent角度思考Skills）](investment/3why-use-skills-2-agent-and-skills从agent角度思考skills_3702a278/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/3.Why Use Skills 2 - Agent and Skills（从Agent角度思考Skills）.md) | ⭐ 76 | `investment` |
 
 ### Productivity (6 skills)
 
@@ -848,5 +844,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 17:22:09 UTC*
+*Last updated: 2026-02-13 18:21:58 UTC*
 *Automatically maintained by SkillFlow*

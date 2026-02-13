@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T17:22:09.558606",
+  "updated_at": "2026-02-13T18:21:58.068532",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -7575,6 +7575,20 @@
       "source_url": "https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills\uff08\u81ea\u5b9a\u4e49skills\uff09/6.Creating Custom Skills\uff08\u81ea\u5b9a\u4e49skills\uff09.md",
       "display_name": "6.Creating Custom Skills\uff08\u81ea\u5b9a\u4e49Skills\uff09",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "f69332514bdc5810b57537f3ec8169ab8f2689ca03d8479441ecc8e72351dec5",
+      "source_path": "QUICKSTART.md",
+      "source_repo": "Jeffallan/claude-skills",
+      "local_path": "development/760-quickstart_f6933251",
+      "category": "development",
+      "name": "quickstart_f6933251",
+      "indexed_at": "2026-02-13T18:21:58.068323",
+      "repo_stars": 892,
+      "repo_updated_at": "2026-02-13T08:28:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md",
+      "display_name": "Quickstart",
+      "tags": "[\"development\"]"
     }
   ]
 }
