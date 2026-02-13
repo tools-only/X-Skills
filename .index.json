@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T22:21:37.857458",
+  "updated_at": "2026-02-13T22:23:11.077185",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -8303,6 +8303,34 @@
       "source_url": "https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/happycapy-skill-creator/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "ecd3760b704710a28ee7e721dc7a5820f9a7c8fe4303e986e9f26aeee4f6dd59",
+      "source_path": "plugins/second-opinion/skills/second-opinion/SKILL.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "development/tools/002-name-skill_ecd3760b",
+      "category": "development/tools",
+      "name": "name-skill_ecd3760b",
+      "indexed_at": "2026-02-13T22:23:10.959129",
+      "repo_stars": 2625,
+      "repo_updated_at": "2026-02-13T19:33:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0375fa02b88db3b8f87f22b90beb8ea2c4d73a97dd5c77341f895b6dab0ff6e7",
+      "source_path": "plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md",
+      "source_repo": "trailofbits/skills",
+      "local_path": "development/tools/312-gemini-invocation_0375fa02",
+      "category": "development/tools",
+      "name": "gemini-invocation_0375fa02",
+      "indexed_at": "2026-02-13T22:23:11.077125",
+      "repo_stars": 2625,
+      "repo_updated_at": "2026-02-13T19:33:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md",
+      "display_name": "Gemini Invocation",
+      "tags": "[\"development\"]"
     }
   ]
 }

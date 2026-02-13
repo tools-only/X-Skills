@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **594 AI-powered skills** organized into 15 categories.
+A curated collection of **595 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -18,9 +18,8 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Development** (192 skills)
 - **Development/Devops** (28 skills)
 - **Development/Testing** (8 skills)
-- **Development/Tools** (49 skills)
+- **Development/Tools** (51 skills)
 - **Investment** (7 skills)
-- **Other** (1 skill)
 - **Productivity** (6 skills)
 - **Research** (13 skills)
 
@@ -751,7 +750,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_65cc8f6c/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/goplaces/SKILL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_ab5b7b1a/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/resume-assistant/SKILL.md) | ⭐ 15 | `development` |
 
-### Development/Tools (49 skills)
+### Development/Tools (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -793,8 +792,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fr Cnil](development/tools/323-fr-cnil_7dc52a11/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/fr-cnil.md) | ⭐ 82 | `development` |
 | [Claude](development/tools/017-claude_5fa4f872/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/CLAUDE.md) | ⭐ 2.6k | `development` |
 | [Skill](development/tools/002-name-skill_56a86666/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/gh-cli/skills/using-gh-cli/SKILL.md) | ⭐ 2.6k | `development` |
-| [Skill](development/tools/002-name-skill_6db7dea5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.6k | `development` |
-| [Gemini Invocation](development/tools/312-gemini-invocation_2d2b6edc/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.6k | `development` |
+| [Skill](development/tools/name-skill_ecd3760b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.6k | `development` |
+| [Gemini Invocation](development/tools/gemini-invocation_0375fa02/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.6k | `development` |
 | [Plan Bicep.Prompt](development/tools/320-plan-bicepprompt_323bc8c7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 63 | `development` |
 | [Claude](development/tools/017-claude_b187a038/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 289 | `development` |
 | [Index](development/tools/062-index_c79e2c35/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/index.md) | ⭐ 289 | `development` |
@@ -804,6 +803,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_d67a75a8/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/better-auth-best-practices/SKILL.md) | ⭐ 15 | `development` |
 | [Subreddit Analysis Claude Agentsofai](development/tools/326-subreddit-analysis-claude-agentsofai_9222ed4a/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/subreddit-analysis-claude-agentsofai.md) | ⭐ 15 | `development` |
 | [Tool Mentions](development/tools/327-tool-mentions_45758ce3/) | [happycapy-ai/Happycapy-skills](https://raw.githubusercontent.com/happycapy-ai/Happycapy-skills/main/skills/reddit-post-writer/references/tool-mentions.md) | ⭐ 15 | `development` |
+| [Skill](development/tools/002-name-skill_ecd3760b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.6k | `development` |
+| [Gemini Invocation](development/tools/312-gemini-invocation_0375fa02/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.6k | `development` |
 
 ### Investment (7 skills)
 
@@ -816,12 +817,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_5bfa0804/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/contract-review-anthropic/SKILL.md) | ⭐ 82 | `investment` |
 | [Cookies](investment/049-cookies_0bc33171/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-confidentialite-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
 | [Cookies](investment/049-cookies_d743e386/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-cookies-malik-taiar/references/COOKIES.md) | ⭐ 82 | `investment` |
-
-### Other (1 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Gravity](other/gravity_c1f1ba05/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/gravity.md) | ⭐ 10 | `other` |
 
 ### Productivity (6 skills)
 
@@ -902,5 +897,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 22:22:39 UTC*
+*Last updated: 2026-02-13 22:23:11 UTC*
 *Automatically maintained by SkillFlow*
