@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **318 AI-powered skills** organized into 14 categories.
+A curated collection of **376 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (9 skills)
-- **Automation/Workflow** (19 skills)
+- **Automation/Workflow** (21 skills)
 - **Commercial** (50 skills)
-- **Communication** (7 skills)
-- **Content Creation** (36 skills)
-- **Daily Assistant** (15 skills)
+- **Communication** (10 skills)
+- **Content Creation** (38 skills)
+- **Daily Assistant** (18 skills)
 - **Data Analysis** (36 skills)
-- **Development** (80 skills)
-- **Development/Devops** (19 skills)
+- **Development** (124 skills)
+- **Development/Devops** (20 skills)
 - **Development/Testing** (5 skills)
-- **Development/Tools** (30 skills)
+- **Development/Tools** (32 skills)
 - **Investment** (4 skills)
-- **Productivity** (3 skills)
+- **Productivity** (4 skills)
 - **Research** (5 skills)
 
 ## Patches - Curated Skill Bundles
@@ -189,12 +189,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Chrome Installation](automation/scripting/094-chrome-installation_cb622122/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/chrome-installation.md) | ⭐ 21 | `automation` |
 | [Workflows](automation/scripting/069-workflows_1f8e9003/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/references/workflows.md) | ⭐ 21 | `automation` |
 | [Api Storage](automation/scripting/095-api-storage_512c2691/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-storage.md) | ⭐ 21 | `automation` |
-| [Skill](automation/scripting/name-skill_98469709/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_2f06a357/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetStateChanged/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_f645e305/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_GetEyeAngles/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/scripting/name-skill_472f8206/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_98469709/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_2f06a357/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetStateChanged/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_f645e305/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_GetEyeAngles/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/003-name-skill_472f8206/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (19 skills)
+### Automation/Workflow (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -213,10 +213,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp Configuration](automation/workflow/136-mcp-configuration_c1914cda/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/mcp-configuration.md) | ⭐ 21 | `automation` |
 | [Git Commands](automation/workflow/137-git-commands_b6a53e87/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/git-commit-helper/references/git-commands.md) | ⭐ 21 | `automation` |
 | [Troubleshooting](automation/workflow/138-troubleshooting_fe01a5b8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/references/troubleshooting.md) | ⭐ 21 | `automation` |
-| [Version](automation/workflow/version_b186ef4d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/VERSION.md) | ⭐ 63 | `automation` |
-| [Run Conductor.Prompt](automation/workflow/run-conductorprompt_c290deb8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
-| [Executive Pitch](automation/workflow/executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
-| [Character Reference](automation/workflow/character-reference_f8d570dc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/character-reference.md) | ⭐ 63 | `automation` |
+| [Version](automation/workflow/version_b186ef4d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/VERSION.md) | ⭐ 65 | `automation` |
+| [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_c290deb8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
+| [Executive Pitch](automation/workflow/067-executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
+| [Generate Bicep.Prompt](automation/workflow/generate-bicepprompt_2d383579/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/generate-bicep.prompt.md) | ⭐ 65 | `automation` |
+| [Character Reference](automation/workflow/character-reference_f8d570dc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/character-reference.md) | ⭐ 65 | `automation` |
+| [07 Documentation Index.Template](automation/workflow/07-documentation-indextemplate_2563ea03/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-documentation-index.template.md) | ⭐ 65 | `automation` |
 
 ### Commercial (50 skills)
 
@@ -271,9 +273,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Performance](commercial/393-performance_6a12d640/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/performance.md) | ⭐ 21 | `commercial` |
 | [Theme Development](commercial/394-theme-development_dc454c66/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/theme-development.md) | ⭐ 21 | `commercial` |
 | [Api Cookies](commercial/395-api-cookies_cd598abf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-cookies.md) | ⭐ 21 | `commercial` |
-| [Plan Req Demo Interactive.Prompt](commercial/plan-req-demo-interactiveprompt_fd4a7be5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-req-demo-interactive.prompt.md) | ⭐ 63 | `commercial` |
+| [Plan Requirements.Prompt](commercial/plan-requirementsprompt_2651eb49/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-requirements.prompt.md) | ⭐ 65 | `commercial` |
 
-### Communication (7 skills)
+### Communication (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -283,9 +285,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Weak Password Checklist](communication/255-weak-password-checklist_0d3963ca/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/weak-password-checklist.md) | ⭐ 56 | `communication` |
 | [Patterns](communication/084-patterns_6c763e12/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/patterns.md) | ⭐ 21 | `communication` |
 | [Patterns](communication/084-patterns_73fdd9ee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/patterns.md) | ⭐ 21 | `communication` |
-| [01 Requirements.Template](communication/01-requirementstemplate_8d27ad3b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/01-requirements.template.md) | ⭐ 63 | `communication` |
+| [Workshop Checklist](communication/workshop-checklist_d89cc5e8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/workshop-checklist.md) | ⭐ 65 | `communication` |
+| [07 Ab Cost Estimate](communication/07-ab-cost-estimate_9f7b27c9/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/e2e-conductor-test/07-ab-cost-estimate.md) | ⭐ 65 | `communication` |
+| [01 Requirements.Template](communication/01-requirementstemplate_8d27ad3b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/01-requirements.template.md) | ⭐ 65 | `communication` |
+| [Examples](communication/examples_d62f1f84/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-nextjs/references/EXAMPLES.md) | ⭐ 20 | `communication` |
 
-### Content Creation (36 skills)
+### Content Creation (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -322,11 +327,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Communication Patterns](content-creation/368-communication-patterns_4b16b781/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/communication-patterns.md) | ⭐ 21 | `content creation` |
 | [Content Patterns](content-creation/369-content-patterns_9df20e5f/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/content-patterns.md) | ⭐ 21 | `content creation` |
 | [Language Patterns](content-creation/370-language-patterns_3a724dd8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/language-patterns.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_28e46635/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 63 | `content creation` |
-| [Conductor Demo.Prompt](content-creation/conductor-demoprompt_77c36a33/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/conductor-demo.prompt.md) | ⭐ 63 | `content creation` |
-| [06 Deployment Summary.Template](content-creation/06-deployment-summarytemplate_c51c7f3f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/06-deployment-summary.template.md) | ⭐ 63 | `content creation` |
+| [Skill](content-creation/049-name-skill_28e46635/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 63 | `content creation` |
+| [Markdown.Instructions](content-creation/markdowninstructions_c76ba598/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/markdown.instructions.md) | ⭐ 65 | `bicep` `iac` `azure` |
+| [07 Compliance Matrix.Template](content-creation/07-compliance-matrixtemplate_30bcbb91/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-compliance-matrix.template.md) | ⭐ 65 | `content creation` |
+| [Examples](content-creation/examples_6b390cc2/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-paywall/references/EXAMPLES.md) | ⭐ 20 | `content creation` |
+| [Examples](content-creation/examples_1f9a3802/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-server/references/EXAMPLES.md) | ⭐ 20 | `content creation` |
 
-### Daily Assistant (15 skills)
+### Daily Assistant (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -339,12 +346,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_f9a1f323/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-threat-model/skills/openai-security-threat-model/SKILL.md) | ⭐ 56 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_92eb7fef/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-sentry/skills/openai-sentry/SKILL.md) | ⭐ 56 | `daily assistant` |
 | [Style Patterns](daily-assistant/269-style-patterns_4ce412a5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/style-patterns.md) | ⭐ 21 | `daily assistant` |
-| [Architect.Agent](daily-assistant/architectagent_a5b83e17/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/architect.agent.md) | ⭐ 63 | `daily assistant` |
-| [Bicep Plan.Agent](daily-assistant/bicep-planagent_9e68826d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 63 | `Environment` `ManagedBy` `Project` |
-| [Design.Agent](daily-assistant/designagent_23213bfc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/design.agent.md) | ⭐ 63 | `daily assistant` |
-| [Requirements.Agent](daily-assistant/requirementsagent_0c3bbb4a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 63 | `daily assistant` |
-| [07 Backup Dr Plan.Template](daily-assistant/07-backup-dr-plantemplate_301e15ab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-backup-dr-plan.template.md) | ⭐ 63 | `daily assistant` |
-| [07 Operations Runbook.Template](daily-assistant/07-operations-runbooktemplate_f98bfef5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-operations-runbook.template.md) | ⭐ 63 | `daily assistant` |
+| [Architect.Agent](daily-assistant/architectagent_a5b83e17/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/architect.agent.md) | ⭐ 65 | `daily assistant` |
+| [Bicep Plan.Agent](daily-assistant/235-bicep-planagent_9e68826d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 63 | `Environment` `ManagedBy` `Project` |
+| [Design.Agent](daily-assistant/263-designagent_23213bfc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/design.agent.md) | ⭐ 63 | `daily assistant` |
+| [Requirements.Agent](daily-assistant/236-requirementsagent_0c3bbb4a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 63 | `daily assistant` |
+| [Bicep Code.Agent](daily-assistant/bicep-codeagent_9b9ea6c5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-code.agent.md) | ⭐ 65 | `daily assistant` |
+| [Deploy.Agent](daily-assistant/deployagent_a9396531/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/deploy.agent.md) | ⭐ 65 | `daily assistant` |
+| [Artifact H2 Reference.Instructions](daily-assistant/artifact-h2-referenceinstructions_a393e6c0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/artifact-h2-reference.instructions.md) | ⭐ 65 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_a1e7e6e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 65 | `daily assistant` |
+| [04 Implementation Plan.Template](daily-assistant/04-implementation-plantemplate_a162a768/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-implementation-plan.template.md) | ⭐ 65 | `daily assistant` |
 
 ### Data Analysis (36 skills)
 
@@ -377,17 +387,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_94733cad/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-spreadsheet/skills/openai-spreadsheet/SKILL.md) | ⭐ 56 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_6eec1f38/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/SKILL.md) | ⭐ 21 | `data analysis` |
 | [Reporting](data-analysis/479-reporting_37cb7cfd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/reporting.md) | ⭐ 21 | `data analysis` |
-| [Preprocess Func Sig Via Mcp](data-analysis/preprocess_func_sig_via_mcp_62e04de7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_func_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
-| [Preprocess Gen Func Sig Via Mcp](data-analysis/preprocess_gen_func_sig_via_mcp_77fd66b9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_func_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
-| [Preprocess Gen Gv Sig Via Mcp](data-analysis/preprocess_gen_gv_sig_via_mcp_8a79aa32/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_gv_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
-| [Ida Skill Preprocessor](data-analysis/ida_skill_preprocessor_946e0ce8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/ida_skill_preprocessor.md) | ⭐ 17 | `data analysis` |
-| [Preprocess Vtable Via Mcp](data-analysis/preprocess_vtable_via_mcp_852563ed/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_vtable_via_mcp.md) | ⭐ 17 | `data analysis` |
-| [04 Implementation Plan](data-analysis/04-implementation-plan_8e29c670/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/e2e-conductor-test/04-implementation-plan.md) | ⭐ 63 | `data analysis` |
-| [03 Des Cost Estimate.Template](data-analysis/03-des-cost-estimatetemplate_3ddf06e4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/03-des-cost-estimate.template.md) | ⭐ 63 | `data analysis` |
-| [04 Governance Constraints.Template](data-analysis/04-governance-constraintstemplate_1f3475af/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-governance-constraints.template.md) | ⭐ 63 | `data analysis` |
-| [07 Design Document.Template](data-analysis/07-design-documenttemplate_f93305de/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-design-document.template.md) | ⭐ 63 | `data analysis` |
+| [Preprocess Func Sig Via Mcp](data-analysis/476-preprocess_func_sig_via_mcp_62e04de7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_func_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [Preprocess Gen Func Sig Via Mcp](data-analysis/477-preprocess_gen_func_sig_via_mcp_77fd66b9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_func_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [Preprocess Gen Gv Sig Via Mcp](data-analysis/478-preprocess_gen_gv_sig_via_mcp_8a79aa32/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_gv_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/name-skill_87e653f4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
+| [04 Governance Constraints](data-analysis/04-governance-constraints_d9ed2874/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/04-governance-constraints.md) | ⭐ 65 | `data analysis` |
+| [04 Governance Constraints](data-analysis/04-governance-constraints_f417c66c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/e2e-conductor-test/04-governance-constraints.md) | ⭐ 65 | `data analysis` |
+| [02 Architecture Assessment.Template](data-analysis/02-architecture-assessmenttemplate_eeeb4dd2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/02-architecture-assessment.template.md) | ⭐ 65 | `data analysis` |
+| [04 Governance Constraints.Template](data-analysis/04-governance-constraintstemplate_1f3475af/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-governance-constraints.template.md) | ⭐ 65 | `data analysis` |
+| [07 Ab Cost Estimate.Template](data-analysis/07-ab-cost-estimatetemplate_ad1f09f5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-ab-cost-estimate.template.md) | ⭐ 65 | `data analysis` |
 
-### Development (80 skills)
+### Development (124 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -460,21 +470,65 @@ ls ~/.claude/skills/patch-research-agent/
 | [Web Requests](development/2906-web-requests_d683cf25/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/web-requests.md) | ⭐ 21 | `development` |
 | [Archetypes](development/2907-archetypes_45dcef2e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/archetypes.md) | ⭐ 21 | `development` |
 | [Token Hierarchy](development/2908-token-hierarchy_c583db8a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/token-hierarchy.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_dbe46d44/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-AND-CBaseEntity_EndTouch/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_78278410/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_StartTouch-AND-CBaseTrigger_EndTouch/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_ba137163/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_a50a5cdc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-globalvar-as-yaml/SKILL.md) | ⭐ 17 | `development` |
-| [Update Docs On Code Change.Instructions](development/update-docs-on-code-changeinstructions_b72cfda7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/update-docs-on-code-change.instructions.md) | ⭐ 63 | `development` |
-| [Diagnose Resources.Prompt](development/diagnose-resourcesprompt_efa3ee1b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/diagnose-resources.prompt.md) | ⭐ 63 | `development` |
-| [Pilot Success Checklist](development/pilot-success-checklist_d6827b5c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/pilot-success-checklist.md) | ⭐ 63 | `development` |
-| [Skill](development/name-skill_242173f0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-adr/SKILL.md) | ⭐ 63 | `development` |
-| [Design Adr.Prompt](development/design-adrprompt_5eaadac8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/design-adr.prompt.md) | ⭐ 63 | `development` |
-| [04 Implementation Plan](development/04-implementation-plan_0ef10f3f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/04-implementation-plan.md) | ⭐ 63 | `development` |
-| [Skill](development/name-skill_6bd55269/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/make-skill-template/SKILL.md) | ⭐ 63 | `development` |
-| [04 Preflight Check.Template](development/04-preflight-checktemplate_b84b79a2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-preflight-check.template.md) | ⭐ 63 | `development` |
-| [Project Readme.Template](development/project-readmetemplate_5afc2fe3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/PROJECT-README.template.md) | ⭐ 63 | `development` |
+| [Skill](development/1178-name-skill_dbe46d44/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-AND-CBaseEntity_EndTouch/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_78278410/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_StartTouch-AND-CBaseTrigger_EndTouch/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_ba137163/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_a50a5cdc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-globalvar-as-yaml/SKILL.md) | ⭐ 17 | `development` |
+| [Update Docs On Code Change.Instructions](development/2853-update-docs-on-code-changeinstructions_b72cfda7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/update-docs-on-code-change.instructions.md) | ⭐ 63 | `development` |
+| [Diagnose Resources.Prompt](development/2854-diagnose-resourcesprompt_efa3ee1b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/diagnose-resources.prompt.md) | ⭐ 63 | `development` |
+| [Pilot Success Checklist](development/2125-pilot-success-checklist_d6827b5c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/pilot-success-checklist.md) | ⭐ 63 | `development` |
+| [Skill](development/name-skill_242173f0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-adr/SKILL.md) | ⭐ 65 | `development` |
+| [Infraops Conductor.Agent](development/infraops-conductoragent_97975bdc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/infraops-conductor.agent.md) | ⭐ 65 | `development` |
+| [Assess Architecture.Prompt](development/assess-architectureprompt_df715185/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/assess-architecture.prompt.md) | ⭐ 65 | `development` |
+| [Objection Handling](development/objection-handling_16d1104d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/objection-handling.md) | ⭐ 65 | `development` |
+| [Roi Calculator](development/roi-calculator_8ba8d13d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/roi-calculator.md) | ⭐ 65 | `development` |
+| [Skill](development/name-skill_d0e41534/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/SKILL.md) | ⭐ 65 | `development` |
+| [Skill](development/name-skill_fb0daf12/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/git-commit/SKILL.md) | ⭐ 65 | `development` |
+| [Agents](development/agents_15100b81/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/setups/AGENTS.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_be5d1ead/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-client/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_1542a458/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator-bazaar/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_2735fccb/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_30a4884f/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-client/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_b4213d1b/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-facilitator/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_3f98ecd8/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-paywall/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_edc38ab1/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/explain-algorand-x402-typescript/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_a8e656dc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/teach-algorand-x402/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_1c23a658/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/use-typescript-x402-core-avm/SKILL.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_455dec80/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_33ea3f85/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-client/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_d5f4d996/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-facilitator/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_b3c00018/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-nextjs/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_67c246ad/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-paywall/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_d370bccd/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/explain-algorand-x402-python/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_821d4a5b/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/explain-algorand-x402-typescript/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_5e308754/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/teach-algorand-x402/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_e336e402/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/use-python-x402-core-avm/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_7d3016f2/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/use-typescript-x402-core-avm/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Example Md Ipynb](development/example_md_ipynb_f6e16e9c/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/test/resources/example_md_ipynb.md) | ⭐ 182 | `development` |
+| [Design Diagram.Prompt](development/design-diagramprompt_f3d9c8db/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/design-diagram.prompt.md) | ⭐ 65 | `development` |
+| [Skill](development/name-skill_6bd55269/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/make-skill-template/SKILL.md) | ⭐ 65 | `development` |
+| [05 Implementation Reference.Template](development/05-implementation-referencetemplate_fb672ed3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/05-implementation-reference.template.md) | ⭐ 65 | `development` |
+| [07 Resource Inventory.Template](development/07-resource-inventorytemplate_20701e9e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-resource-inventory.template.md) | ⭐ 65 | `development` |
+| [Skill](development/name-skill_bdb6f1ad/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-server/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_855f9a67/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-nextjs/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_ea3cc6cc/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-server/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_aa197a37/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/explain-algorand-x402-python/SKILL.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_2099d97a/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/use-python-x402-core-avm/SKILL.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_e22245a2/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-client/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_55a98b3d/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-client/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_1c958312/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_34c5090e/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-server/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_668761c7/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-server/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_34778b42/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-client/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_407d10e8/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-facilitator/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Reference](development/reference_b4d03916/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-typescript-x402-server/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_def0596c/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/explain-algorand-x402-python/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_37daad45/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/explain-algorand-x402-typescript/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_b17ffcb5/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/teach-algorand-x402/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_002444ad/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/use-python-x402-core-avm/references/EXAMPLES.md) | ⭐ 20 | `development` |
+| [Examples](development/examples_0259b13a/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/use-typescript-x402-core-avm/references/EXAMPLES.md) | ⭐ 20 | `development` |
 
-### Development/Devops (19 skills)
+### Development/Devops (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -495,8 +549,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Original Factors](development/devops/369-original-factors_a71bbfe5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/original-factors.md) | ⭐ 21 | `development` |
 | [Api](development/devops/165-api_bb11980e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/api.md) | ⭐ 21 | `development` |
 | [Advanced Patterns](development/devops/370-advanced-patterns_6c3be033/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/advanced-patterns.md) | ⭐ 21 | `development` |
-| [03 Des Cost Estimate](development/devops/03-des-cost-estimate_d7a9199c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/03-des-cost-estimate.md) | ⭐ 63 | `development` |
-| [Skill](development/devops/name-skill_3f42193e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 63 | `development` |
+| [03 Des Cost Estimate](development/devops/210-03-des-cost-estimate_d7a9199c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/03-des-cost-estimate.md) | ⭐ 63 | `development` |
+| [Skill](development/devops/014-name-skill_3f42193e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 63 | `development` |
+| [Examples](development/devops/examples_061f2055/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator-bazaar/references/EXAMPLES.md) | ⭐ 20 | `development` |
 
 ### Development/Testing (5 skills)
 
@@ -508,7 +563,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Formula Verification](development/testing/085-formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
 | [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
 
-### Development/Tools (30 skills)
+### Development/Tools (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -538,10 +593,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bigquery](development/tools/324-bigquery_fadc3efd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/bigquery.md) | ⭐ 21 | `development` |
 | [Api Sync](development/tools/325-api-sync_f3b574db/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-sync.md) | ⭐ 21 | `development` |
 | [Api Reference](development/tools/073-api-reference_9899dff9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/api-reference.md) | ⭐ 21 | `development` |
-| [Agent Skills.Instructions](development/tools/agent-skillsinstructions_95976920/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-skills.instructions.md) | ⭐ 63 | `development` |
-| [Docs.Instructions](development/tools/docsinstructions_85f2b3f7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/docs.instructions.md) | ⭐ 63 | `development` |
-| [Skill](development/tools/name-skill_c88e2aec/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 63 | `development` |
-| [Generate Docs.Prompt](development/tools/generate-docsprompt_8b280d18/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/generate-docs.prompt.md) | ⭐ 63 | `development` |
+| [Agent Skills.Instructions](development/tools/228-agent-skillsinstructions_95976920/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-skills.instructions.md) | ⭐ 63 | `development` |
+| [Docs.Instructions](development/tools/229-docsinstructions_85f2b3f7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/docs.instructions.md) | ⭐ 63 | `development` |
+| [Skill](development/tools/002-name-skill_c88e2aec/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 63 | `development` |
+| [Plan Bicep.Prompt](development/tools/plan-bicepprompt_6c8677c3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 65 | `development` |
+| [Reference](development/tools/reference_4115642e/) | [algorand-devrel/algorand-agent-skills](https://raw.githubusercontent.com/algorand-devrel/algorand-agent-skills/main/skills/create-python-x402-facilitator-bazaar/references/REFERENCE.md) | ⭐ 20 | `development` |
+| [Deploy.Prompt](development/tools/deployprompt_0213251a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/deploy.prompt.md) | ⭐ 65 | `development` |
 
 ### Investment (4 skills)
 
@@ -552,13 +609,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ultra Think](investment/049-ultra-think_fa8c9d32/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/claudecode/commands/ultra-think.md) | ⭐ 21 | `investment` |
 | [User Tracking](investment/050-user-tracking_5a945df2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/user-tracking.md) | ⭐ 21 | `investment` |
 
-### Productivity (3 skills)
+### Productivity (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Growth Pm](productivity/173-growth-pm_48f76195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/growth-pm.md) | ⭐ 18 | `productivity` |
 | [Prompts](productivity/174-prompts_5155f536/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/prompts.md) | ⭐ 51 | `productivity` |
 | [Patterns](productivity/160-patterns_01ee8bbb/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/references/patterns.md) | ⭐ 56 | `productivity` |
+| [Agent Research First.Instructions](productivity/agent-research-firstinstructions_8eacdaab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-research-first.instructions.md) | ⭐ 65 | `productivity` |
 
 ### Research (5 skills)
 
@@ -568,7 +626,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Directory](research/259-directory_ffc70b99/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/directory.md) | ⭐ 18 | `research` |
 | [Researcher](research/260-researcher_edc4a804/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/researcher.md) | ⭐ 18 | `research` |
 | [Batch 20260211 221758 Aggregate](research/261-batch_20260211_221758_aggregate_8cac16a4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221758_aggregate.md) | ⭐ 18 | `research` |
-| [Time Savings Evidence](research/time-savings-evidence_a6749979/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 63 | `research` |
+| [Time Savings Evidence](research/225-time-savings-evidence_a6749979/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 63 | `research` |
 
 ## How Skills Are Organized
 
@@ -620,5 +678,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 08:22:38 UTC*
+*Last updated: 2026-02-13 09:21:23 UTC*
 *Automatically maintained by SkillFlow*
