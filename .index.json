@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-12T21:22:45.869469",
+  "updated_at": "2026-02-13T00:22:03.476426",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -1051,6 +1051,48 @@
       "source_url": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/RESEARCH_NOTES.md",
       "display_name": "Research Notes",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "42cdd5826458bd1b671c0b295ecd44000845beca3adaf2a78d0be8ad31a89696",
+      "source_path": "skills/universal-media-downloader/SKILL.md",
+      "source_repo": "cat-xierluo/legal-skills",
+      "local_path": "content-creation/049-name-skill_42cdd582",
+      "category": "content-creation",
+      "name": "name-skill_42cdd582",
+      "indexed_at": "2026-02-13T00:22:03.336533",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-12T07:17:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/universal-media-downloader/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "33884f1889fce9045eef067a21a15a2686bf0dbbbf0d5af8ce64151a2740f14b",
+      "source_path": "skills/repo-research/SKILL.md",
+      "source_repo": "cat-xierluo/legal-skills",
+      "local_path": "development/1178-name-skill_33884f18",
+      "category": "development",
+      "name": "name-skill_33884f18",
+      "indexed_at": "2026-02-13T00:22:03.357210",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-11T09:13:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/repo-research/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "aa63c2f29888721a9322c2b7399b61d6f729a7aa2efe10f9bfeab7718ced1ad4",
+      "source_path": "docs/docs/architecture/roadmap.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/097-roadmap_aa63c2f2",
+      "category": "development/devops",
+      "name": "roadmap_aa63c2f2",
+      "indexed_at": "2026-02-13T00:22:03.476389",
+      "repo_stars": 3273,
+      "repo_updated_at": "2026-02-12T14:50:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md",
+      "display_name": "Roadmap",
+      "tags": "[\"development\"]"
     }
   ]
 }
