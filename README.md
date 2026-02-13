@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **542 AI-powered skills** organized into 14 categories.
+A curated collection of **559 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (17 skills)
-- **Automation/Workflow** (21 skills)
+- **Automation/Workflow** (26 skills)
 - **Commercial** (61 skills)
-- **Communication** (32 skills)
-- **Content Creation** (54 skills)
-- **Daily Assistant** (41 skills)
-- **Data Analysis** (40 skills)
-- **Development** (176 skills)
-- **Development/Devops** (24 skills)
+- **Communication** (33 skills)
+- **Content Creation** (55 skills)
+- **Daily Assistant** (45 skills)
+- **Data Analysis** (41 skills)
+- **Development** (178 skills)
+- **Development/Devops** (26 skills)
 - **Development/Testing** (6 skills)
 - **Development/Tools** (44 skills)
 - **Investment** (7 skills)
 - **Productivity** (6 skills)
-- **Research** (13 skills)
+- **Research** (14 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -202,7 +202,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_f0b5c6b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_89f14170/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (21 skills)
+### Automation/Workflow (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -227,6 +227,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_7dd2bdfd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
 | [Terminalbench](automation/workflow/072-terminalbench_f32ef158/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
 | [2.Why Use Skills 1（Skills的意义）](automation/workflow/139-2why-use-skills-1skills的意义_048702b3/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/2.Why Use Skills 1（Skills的意义）.md) | ⭐ 76 | `automation` |
+| [Createbase](automation/workflow/createbase_89b0595d/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CreateBase.md) | ⭐ 15 | `automation` |
+| [Processinbox](automation/workflow/processinbox_537e7399/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/ProcessInbox.md) | ⭐ 15 | `automation` |
+| [Searchvault](automation/workflow/searchvault_9bbec4be/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SearchVault.md) | ⭐ 15 | `automation` |
+| [Syncdocs](automation/workflow/syncdocs_96267835/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/SyncDocs.md) | ⭐ 15 | `automation` |
+| [Managevault](automation/workflow/managevault_6d135a05/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/ManageVault.md) | ⭐ 15 | `automation` |
 
 ### Commercial (61 skills)
 
@@ -294,7 +299,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Webarena](commercial/286-webarena_b16f92c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
 | [Skill](commercial/210-name-skill_1409d6aa/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-sheets/SKILL.md) | ⭐ 79 | `commercial` |
 
-### Communication (32 skills)
+### Communication (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -330,8 +335,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](communication/253-installation_a5883a1a/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/documentation/guides/installation.md) | ⭐ 29 | `communication` |
 | [Skill](communication/127-name-skill_b9e488e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/gmail/SKILL.md) | ⭐ 79 | `communication` |
 | [Processors](communication/256-processors_0e46643a/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 289 | `communication` |
+| [Skill](communication/name-skill_700ee9ca/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/SKILL.md) | ⭐ 23 | `communication` |
 
-### Content Creation (54 skills)
+### Content Creation (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -389,8 +395,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_b48fd5e6/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/google-slides/SKILL.md) | ⭐ 79 | `content creation` |
 | [Toolsets](content-creation/360-toolsets_b0785398/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 289 | `content creation` |
 | [5.Exploring Pre Built Skills （预设Skills探索）](content-creation/375-5exploring-pre-built-skills-预设skills探索_3a092a07/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/5.Exploring Pre-Built Skills （预设Skills探索）.md) | ⭐ 76 | `content creation` |
+| [Skill](content-creation/name-skill_3dc7deb7/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 23 | `content creation` |
 
-### Daily Assistant (41 skills)
+### Daily Assistant (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -435,8 +442,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Toolsets](daily-assistant/271-toolsets_1cb44eef/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/toolsets.md) | ⭐ 289 | `daily assistant` |
 | [Types](daily-assistant/107-types_2f69fbad/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/types.md) | ⭐ 289 | `daily assistant` |
 | [Index](daily-assistant/052-index_5673c7a8/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/index.md) | ⭐ 289 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_e9bc56a4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/SKILL.md) | ⭐ 15 | `daily assistant` |
+| [Captureknowledge](daily-assistant/captureknowledge_b53befc7/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CaptureKnowledge.md) | ⭐ 15 | `daily assistant` |
+| [Createnote](daily-assistant/createnote_c989ab35/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/CreateNote.md) | ⭐ 15 | `daily assistant` |
+| [Dailynote](daily-assistant/dailynote_f5af66ad/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/obsidian-master-skill/Workflows/DailyNote.md) | ⭐ 15 | `daily assistant` |
 
-### Data Analysis (40 skills)
+### Data Analysis (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -480,8 +491,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Wireless](data-analysis/480-wireless_b2d0e578/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/wireless.md) | ⭐ 612 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5631a335/) | [sanjay3290/ai-skills](https://raw.githubusercontent.com/sanjay3290/ai-skills/main/skills/elevenlabs/SKILL.md) | ⭐ 79 | `data analysis` |
 | [6.Creating Custom Skills（自定义Skills）](data-analysis/481-6creating-custom-skills自定义skills_6d2cf09a/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/6.Creating Custom Skills（自定义skills）.md) | ⭐ 76 | `data analysis` |
+| [Claude Memory](data-analysis/claude-memory_69d7494d/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/commands/claude-memory.md) | ⭐ 23 | `data analysis` |
 
-### Development (176 skills)
+### Development (178 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -662,9 +674,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [7.Skill With The Claude Api（在Claude Api使用Skills）](development/2935-7skill-with-the-claude-api在claude-api使用skills_98ab83a0/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/7.Skill with the Claude API（在Claude API使用skills）.md) | ⭐ 76 | `development` |
 | [8.Skill With Claude Code（在Claude Code使用Skills）](development/2936-8skill-with-claude-code在claude-code使用skills_aadcd8d5/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/8.Skill with Claude Code（在Claude Code使用skills）.md) | ⭐ 76 | `development` |
 | [Skill](development/1178-name-skill_ced2c818/) | [datawhalechina/agent-skills-with-anthropic](https://raw.githubusercontent.com/datawhalechina/agent-skills-with-anthropic/main/6.Creating Custom Skills（自定义skills）/generating-practice-questions/SKILL.md) | ⭐ 76 | `development` |
-| [Quickstart](development/quickstart_f6933251/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md) | ⭐ 892 | `development` |
+| [Quickstart](development/760-quickstart_f6933251/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/QUICKSTART.md) | ⭐ 892 | `development` |
+| [Review](development/review_e67c5dc4/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/commands/review.md) | ⭐ 27 | `development` |
+| [Claude](development/claude_60bd2b8c/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/CLAUDE.md) | ⭐ 23 | `development` |
 
-### Development/Devops (24 skills)
+### Development/Devops (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -692,6 +706,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickstart](development/devops/179-quickstart_e02267da/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/quickstart.md) | ⭐ 63 | `development` |
 | [04 Implementation Plan](development/devops/359-04-implementation-plan_bf86188a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 63 | `development` |
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_13d80967/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 63 | `development` |
+| [Skill](development/devops/name-skill_b9261a3f/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/SKILL.md) | ⭐ 15 | `development` |
+| [Configuration](development/devops/configuration_1dda33d4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/configuration.md) | ⭐ 15 | `development` |
 
 ### Development/Testing (6 skills)
 
@@ -776,7 +792,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Remedies Liability](productivity/174-remedies_liability_27cc7977/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/REMEDIES_LIABILITY.md) | ⭐ 82 | `productivity` |
 | [Canons Of Construction](productivity/175-canons_of_construction_8d298d9d/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/canons_of_construction.md) | ⭐ 82 | `productivity` |
 
-### Research (13 skills)
+### Research (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -793,6 +809,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gaia](research/226-gaia_c8b2a7c2/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
 | [Hellaswag](research/199-hellaswag_90d20258/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/hellaswag.md) | ⭐ 20 | `research` |
 | [Truthfulqa](research/200-truthfulqa_918b98c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/truthfulqa.md) | ⭐ 20 | `research` |
+| [Skill](research/name-skill_14712455/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/web-to-markdown/SKILL.md) | ⭐ 23 | `research` |
 
 ## How Skills Are Organized
 
@@ -844,5 +861,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 18:21:58 UTC*
+*Last updated: 2026-02-13 20:21:34 UTC*
 *Automatically maintained by SkillFlow*
