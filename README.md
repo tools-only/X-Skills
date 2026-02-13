@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **86 AI-powered skills** organized into 14 categories.
+A curated collection of **96 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Workflow** (7 skills)
-- **Commercial** (17 skills)
-- **Communication** (1 skill)
-- **Content Creation** (6 skills)
-- **Daily Assistant** (1 skill)
-- **Data Analysis** (19 skills)
+- **Automation/Scripting** (1 skill)
+- **Automation/Workflow** (8 skills)
+- **Commercial** (20 skills)
+- **Communication** (2 skills)
+- **Content Creation** (7 skills)
+- **Daily Assistant** (4 skills)
+- **Data Analysis** (20 skills)
 - **Development** (9 skills)
 - **Development/Devops** (6 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (7 skills)
+- **Development/Tools** (8 skills)
 - **Investment** (2 skills)
-- **Other** (3 skills)
-- **Productivity** (1 skill)
+- **Productivity** (2 skills)
 - **Research** (4 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,7 +180,13 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Workflow (7 skills)
+### Automation/Scripting (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Param Forge Reference](automation/scripting/param_forge_reference_35994bfd/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
+
+### Automation/Workflow (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -191,8 +197,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_645242d5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/edna-pipeline/SKILL.md) | ⭐ 233 | `automation` |
 | [Usage Guide](automation/workflow/031-usage-guide_d5b8c5d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/edna-pipeline/usage-guide.md) | ⭐ 233 | `automation` |
 | [Usage Guide](automation/workflow/031-usage-guide_c438f645/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/usage-guide.md) | ⭐ 233 | `automation` |
+| [Readme.Ja](automation/workflow/readmeja_e5d1a15a/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 27 | `automation` |
 
-### Commercial (17 skills)
+### Commercial (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -213,14 +220,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Revops Commit Accuracy Eval](commercial/384-revops_commit_accuracy_eval_97f0580c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/skills/revops_commit_accuracy_eval.md) | ⭐ 18 | `commercial` |
 | [Vcf Value Discovery Eval](commercial/385-vcf_value_discovery_eval_a49e0e39/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/skills/vcf_value_discovery_eval.md) | ⭐ 18 | `commercial` |
 | [Migration Guide V1](commercial/251-migration_guide_v1_845a62d9/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/MIGRATION_GUIDE_v1.md) | ⭐ 4.0k | `commercial` |
+| [Aesthetic](commercial/aesthetic_beed860c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aesthetic.md) | ⭐ 51 | `commercial` |
+| [First Light Desire Map](commercial/first_light_desire_map_68f4df28/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/first_light_desire_map.md) | ⭐ 51 | `commercial` |
+| [Pricing Reference](commercial/pricing_reference_4d4f5573/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/pricing_reference.md) | ⭐ 51 | `commercial` |
 
-### Communication (1 skills)
+### Communication (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Syntax Reference](communication/113-syntax-reference_a16eba1d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) | ⭐ 65 | `communication` |
+| [Project Context](communication/project_context_5cc91b78/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/PROJECT_CONTEXT.md) | ⭐ 51 | `communication` |
 
-### Content Creation (6 skills)
+### Content Creation (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -228,16 +239,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Chains](content-creation/354-skill_chains_312b4d53/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/SKILL_CHAINS.md) | ⭐ 18 | `content creation` |
 | [Skills Catalog](content-creation/355-skills_catalog_b303f24f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/SKILLS_CATALOG.md) | ⭐ 18 | `content creation` |
 | [Ai Agent Composability Analysis](content-creation/356-ai_agent_composability_analysis_8ca26161/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/AI_AGENT_COMPOSABILITY_ANALYSIS.md) | ⭐ 18 | `content creation` |
-| [Skill](content-creation/name-skill_42cdd582/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/universal-media-downloader/SKILL.md) | ⭐ 18 | `content creation` |
-| [Skill](content-creation/name-skill_d2bffdf9/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/de-ai-polish/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/049-name-skill_42cdd582/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/universal-media-downloader/SKILL.md) | ⭐ 18 | `content creation` |
+| [Spawn V0 Local Only](content-creation/spawn_v0_local_only_1cb9fb27/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/spawn_v0_local_only.md) | ⭐ 51 | `content creation` |
+| [Llm Review Context](content-creation/llm_review_context_d78859f3/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/llm_review_context.md) | ⭐ 51 | `content creation` |
 
-### Daily Assistant (1 skills)
+### Daily Assistant (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Research Notes](daily-assistant/267-research_notes_3883eb9d/) | [taylorsatula/mira-OSS](https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/RESEARCH_NOTES.md) | ⭐ 389 | `daily assistant` |
+| [Copilot Instructions](daily-assistant/copilot-instructions_1423668e/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.github/copilot-instructions.md) | ⭐ 51 | `daily assistant` |
+| [Brood Aip.Instructions](daily-assistant/brood-aipinstructions_be0c3008/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.github/instructions/brood-aip.instructions.md) | ⭐ 51 | `daily assistant` |
+| [Brood Aip](daily-assistant/brood-aip_be4ed266/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.windsurf/rules/brood-aip.md) | ⭐ 51 | `daily assistant` |
 
-### Data Analysis (19 skills)
+### Data Analysis (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -260,6 +275,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_9a3b98e8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/temporal-grn/SKILL.md) | ⭐ 233 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_55773a6b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/trajectory-modeling/SKILL.md) | ⭐ 233 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_0def0501/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 233 | `data analysis` |
+| [Visual Prompting V0](data-analysis/visual_prompting_v0_52572161/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/visual_prompting_v0.md) | ⭐ 51 | `data analysis` |
 
 ### Development (9 skills)
 
@@ -269,11 +285,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Actions Reference](development/010-actions-reference_733b0bdd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 65 | `development` |
 | [Migration Guide](development/584-migration-guide_6f7f2a5a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/migration-guide.md) | ⭐ 65 | `development` |
 | [Api Quickstart](development/1540-api-quickstart_a217f99d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/api-quickstart.md) | ⭐ 4.0k | `development` |
-| [Skill](development/name-skill_33884f18/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/repo-research/SKILL.md) | ⭐ 18 | `development` |
-| [Quality Scoring](development/quality-scoring_930fdaa6/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/de-ai-polish/reference/quality-scoring.md) | ⭐ 18 | `development` |
-| [Comparison Template](development/comparison-template_5d9bdbb7/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/repo-research/assets/comparison-template.md) | ⭐ 18 | `development` |
-| [Report Template](development/report-template_58edfa46/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/repo-research/assets/report-template.md) | ⭐ 18 | `development` |
-| [Topic Research Template](development/topic-research-template_6c4b3b13/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/repo-research/assets/topic-research-template.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_33884f18/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/repo-research/SKILL.md) | ⭐ 18 | `development` |
+| [Agents](development/agents_e77da732/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/AGENTS.md) | ⭐ 51 | `development` |
+| [Claude](development/claude_84c07acf/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/CLAUDE.md) | ⭐ 51 | `development` |
+| [Releasing](development/releasing_f6b07c11/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/RELEASING.md) | ⭐ 51 | `development` |
+| [Aip Aws Setup](development/aip_aws_setup_103a72ac/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/aip_aws_setup.md) | ⭐ 51 | `development` |
 
 ### Development/Devops (6 skills)
 
@@ -284,7 +300,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](development/devops/093-troubleshooting_a88da6d4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/TROUBLESHOOTING.md) | ⭐ 18 | `development` |
 | [Env Configuration](development/devops/091-env_configuration_2db3de1d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md) | ⭐ 4.0k | `development` |
 | [Troubleshooting Openai Api Key](development/devops/092-troubleshooting-openai-api-key_c455d79c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/troubleshooting-openai-api-key.md) | ⭐ 4.0k | `development` |
-| [Roadmap](development/devops/roadmap_aa63c2f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Roadmap](development/devops/097-roadmap_aa63c2f2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -294,7 +310,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
 
-### Development/Tools (7 skills)
+### Development/Tools (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -305,6 +321,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_04e2c484/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/edna-metabarcoding/SKILL.md) | ⭐ 233 | `development` |
 | [Usage Guide](development/tools/069-usage-guide_abeec102/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/edna-metabarcoding/usage-guide.md) | ⭐ 233 | `development` |
 | [Skill](development/tools/002-name-skill_e212fd0c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/landscape-genomics/SKILL.md) | ⭐ 233 | `development` |
+| [Desktop](development/tools/desktop_17f69f89/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
 
 ### Investment (2 skills)
 
@@ -313,19 +330,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ai Agent Summary](investment/049-ai_agent_summary_eb15178c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/AI_AGENT_SUMMARY.md) | ⭐ 18 | `investment` |
 | [Failure Analysis Batch 20260211 213131](investment/050-failure_analysis_batch_20260211_213131_17df2793/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/failure_analysis_batch_20260211_213131.md) | ⭐ 18 | `investment` |
 
-### Other (3 skills)
-
-| Skill | Source | Popularity | Tags |
-|-------|--------|------------|------|
-| [Expression Transformations](other/expression-transformations_d616d928/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/de-ai-polish/reference/expression-transformations.md) | ⭐ 18 | `other` |
-| [Personal Style Guide](other/personal-style-guide_36ce16b7/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/de-ai-polish/reference/personal-style-guide.md) | ⭐ 18 | `other` |
-| [Sentence Rhythm Guide](other/sentence-rhythm-guide_e5960c86/) | [cat-xierluo/legal-skills](https://raw.githubusercontent.com/cat-xierluo/legal-skills/main/skills/de-ai-polish/reference/sentence-rhythm-guide.md) | ⭐ 18 | `other` |
-
-### Productivity (1 skills)
+### Productivity (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Growth Pm](productivity/173-growth-pm_48f76195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/growth-pm.md) | ⭐ 18 | `productivity` |
+| [Prompts](productivity/prompts_5155f536/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/prompts.md) | ⭐ 51 | `productivity` |
 
 ### Research (4 skills)
 
@@ -386,5 +396,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 00:22:03 UTC*
+*Last updated: 2026-02-13 01:22:21 UTC*
 *Automatically maintained by SkillFlow*
