@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **520 AI-powered skills** organized into 14 categories.
+A curated collection of **513 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -14,10 +14,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (30 skills)
 - **Content Creation** (50 skills)
 - **Daily Assistant** (36 skills)
-- **Data Analysis** (39 skills)
-- **Development** (174 skills)
-- **Development/Devops** (25 skills)
-- **Development/Testing** (5 skills)
+- **Data Analysis** (38 skills)
+- **Development** (168 skills)
+- **Development/Devops** (24 skills)
+- **Development/Testing** (6 skills)
 - **Development/Tools** (41 skills)
 - **Investment** (7 skills)
 - **Productivity** (6 skills)
@@ -222,7 +222,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_c290deb8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
 | [Executive Pitch](automation/workflow/067-executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_7dd2bdfd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
-| [Terminalbench](automation/workflow/terminalbench_f32ef158/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
+| [Terminalbench](automation/workflow/072-terminalbench_f32ef158/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md) | ⭐ 20 | `automation` |
 
 ### Commercial (60 skills)
 
@@ -286,8 +286,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rgpd Cnil](commercial/375-rgpd_cnil_01fd9e85/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/politique-lanceur-alerte-malik-taiar/references/RGPD_CNIL.md) | ⭐ 82 | `commercial` |
 | [Be Apd](commercial/376-be-apd_93603744/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/be-apd.md) | ⭐ 82 | `commercial` |
 | [Ie Dpc](commercial/377-ie-dpc_e5d3d925/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/ie-dpc.md) | ⭐ 82 | `commercial` |
-| [Agentbench](commercial/agentbench_e0f23d17/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/agentbench.md) | ⭐ 20 | `commercial` |
-| [Webarena](commercial/webarena_b16f92c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
+| [Agentbench](commercial/285-agentbench_e0f23d17/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/agentbench.md) | ⭐ 20 | `commercial` |
+| [Webarena](commercial/286-webarena_b16f92c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/webarena.md) | ⭐ 20 | `commercial` |
 
 ### Communication (30 skills)
 
@@ -420,7 +420,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Locking](daily-assistant/263-locking_e94852ef/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/locking.md) | ⭐ 612 | `daily assistant` |
 | [Scheduler](daily-assistant/264-scheduler_6c207144/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/scheduler.md) | ⭐ 612 | `daily assistant` |
 
-### Data Analysis (39 skills)
+### Data Analysis (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -462,9 +462,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow](data-analysis/246-workflow_9cb3bc5b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/workflow.md) | ⭐ 63 | `data analysis` |
 | [Cost Estimate.Instructions](data-analysis/479-cost-estimateinstructions_0b45d0d2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/cost-estimate.instructions.md) | ⭐ 63 | `data analysis` |
 | [Wireless](data-analysis/480-wireless_b2d0e578/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/wireless.md) | ⭐ 612 | `data analysis` |
-| [Toolbench](data-analysis/toolbench_7cf3fb86/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/toolbench.md) | ⭐ 20 | `data analysis` |
 
-### Development (174 skills)
+### Development (168 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -627,25 +626,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Subsystem](development/2932-subsystem_b58da63a/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem.md) | ⭐ 612 | `development` |
 | [Tracing](development/2933-tracing_516de296/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/tracing.md) | ⭐ 612 | `development` |
 | [Usb Storage](development/2934-usb-storage_eaad6180/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/usb-storage.md) | ⭐ 612 | `development` |
-| [Apps](development/apps_0e930b1c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/apps.md) | ⭐ 20 | `development` |
-| [Bigcodebench](development/bigcodebench_d477bf0a/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/bigcodebench.md) | ⭐ 20 | `development` |
-| [Codereval](development/codereval_22430338/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/codereval.md) | ⭐ 20 | `development` |
-| [Cybergym](development/cybergym_67bbfbf0/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/cybergym.md) | ⭐ 20 | `development` |
-| [Gsm8K](development/gsm8k_5f10b075/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gsm8k.md) | ⭐ 20 | `development` |
-| [Humaneval](development/humaneval_a56f5f43/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/humaneval.md) | ⭐ 20 | `development` |
-| [Index](development/index_4b90993d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/index.md) | ⭐ 20 | `development` |
-| [Math](development/math_7a91935d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/math.md) | ⭐ 20 | `development` |
-| [Mcptoolbench](development/mcptoolbench_23c2e0c1/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
-| [Repoqa](development/repoqa_b830f77c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/repoqa.md) | ⭐ 20 | `development` |
-| [Swe Bench](development/swe-bench_e7347b99/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/swe-bench.md) | ⭐ 20 | `development` |
-| [Aider Polyglot](development/aider-polyglot_72c57d01/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/aider-polyglot.md) | ⭐ 20 | `development` |
-| [Codecontests](development/codecontests_c7ea5029/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/codecontests.md) | ⭐ 20 | `development` |
-| [Intercode](development/intercode_c5188c1d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/intercode.md) | ⭐ 20 | `development` |
-| [Leetcode](development/leetcode_42a03ece/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/leetcode.md) | ⭐ 20 | `development` |
-| [Mbpp](development/mbpp_378ad174/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mbpp.md) | ⭐ 20 | `development` |
-| [Mlagentbench](development/mlagentbench_94d6ae6d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mlagentbench.md) | ⭐ 20 | `development` |
+| [Apps](development/1913-apps_0e930b1c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/apps.md) | ⭐ 20 | `development` |
+| [Bigcodebench](development/1914-bigcodebench_d477bf0a/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/bigcodebench.md) | ⭐ 20 | `development` |
+| [Codereval](development/1915-codereval_22430338/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/codereval.md) | ⭐ 20 | `development` |
+| [Cybergym](development/1916-cybergym_67bbfbf0/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/cybergym.md) | ⭐ 20 | `development` |
+| [Gsm8K](development/2142-gsm8k_5f10b075/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gsm8k.md) | ⭐ 20 | `development` |
+| [Humaneval](development/1917-humaneval_a56f5f43/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/humaneval.md) | ⭐ 20 | `development` |
+| [Index](development/468-index_4b90993d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/index.md) | ⭐ 20 | `development` |
+| [Math](development/554-math_7a91935d/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/math.md) | ⭐ 20 | `development` |
+| [Mcptoolbench](development/1918-mcptoolbench_23c2e0c1/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/mcptoolbench.md) | ⭐ 20 | `development` |
+| [Repoqa](development/1919-repoqa_b830f77c/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/repoqa.md) | ⭐ 20 | `development` |
+| [Swe Bench](development/1920-swe-bench_e7347b99/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/swe-bench.md) | ⭐ 20 | `development` |
 
-### Development/Devops (25 skills)
+### Development/Devops (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -673,9 +666,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickstart](development/devops/179-quickstart_e02267da/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/quickstart.md) | ⭐ 63 | `development` |
 | [04 Implementation Plan](development/devops/359-04-implementation-plan_bf86188a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/04-implementation-plan.md) | ⭐ 63 | `development` |
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_13d80967/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 63 | `development` |
-| [Bigbench Hard](development/devops/bigbench-hard_e72c8e45/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/bigbench-hard.md) | ⭐ 20 | `development` |
 
-### Development/Testing (5 skills)
+### Development/Testing (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -684,6 +676,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
 | [Formula Verification](development/testing/085-formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
 | [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
+| [Skill](development/testing/name-skill_4c0974db/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 25 | `development` |
 
 ### Development/Tools (41 skills)
 
@@ -767,10 +760,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sources](research/187-sources_b57cb812/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/sources.md) | ⭐ 82 | `research` |
 | [Standard Exceptions](research/259-standard_exceptions_222249c2/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/nda-review-jamie-tso/references/STANDARD_EXCEPTIONS.md) | ⭐ 82 | `research` |
 | [Statutory Structure](research/260-statutory_structure_4c7c1768/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/statute-analysis-rafal-fryc/references/statutory_structure.md) | ⭐ 82 | `research` |
-| [Arc](research/arc_40faaef9/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/arc.md) | ⭐ 20 | `research` |
-| [Gaia](research/gaia_c8b2a7c2/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
-| [Hellaswag](research/hellaswag_90d20258/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/hellaswag.md) | ⭐ 20 | `research` |
-| [Truthfulqa](research/truthfulqa_918b98c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/truthfulqa.md) | ⭐ 20 | `research` |
+| [Arc](research/198-arc_40faaef9/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/arc.md) | ⭐ 20 | `research` |
+| [Gaia](research/226-gaia_c8b2a7c2/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/gaia.md) | ⭐ 20 | `research` |
+| [Hellaswag](research/199-hellaswag_90d20258/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/hellaswag.md) | ⭐ 20 | `research` |
+| [Truthfulqa](research/200-truthfulqa_918b98c6/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/truthfulqa.md) | ⭐ 20 | `research` |
 
 ## How Skills Are Organized
 
@@ -822,5 +815,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 15:21:52 UTC*
+*Last updated: 2026-02-13 15:22:54 UTC*
 *Automatically maintained by SkillFlow*

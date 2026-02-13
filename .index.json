@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T15:21:52.646292",
+  "updated_at": "2026-02-13T15:22:53.927002",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -7169,6 +7169,20 @@
       "source_url": "https://raw.githubusercontent.com/greynewell/mcpbr/main/docs/benchmarks/terminalbench.md",
       "display_name": "Terminalbench",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "4c0974db6b41e6e3a4cce8c2875cdd936b913222fd528fd9c51d049665d4e32a",
+      "source_path": ".skills/http-request/SKILL.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/testing/002-name-skill_4c0974db",
+      "category": "development/testing",
+      "name": "name-skill_4c0974db",
+      "indexed_at": "2026-02-13T15:22:53.926939",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-13T06:01:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
