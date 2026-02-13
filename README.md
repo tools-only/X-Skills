@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **297 AI-powered skills** organized into 14 categories.
+A curated collection of **318 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (6 skills)
-- **Automation/Workflow** (15 skills)
+- **Automation/Scripting** (9 skills)
+- **Automation/Workflow** (19 skills)
 - **Commercial** (50 skills)
 - **Communication** (7 skills)
-- **Content Creation** (38 skills)
-- **Daily Assistant** (10 skills)
-- **Data Analysis** (28 skills)
-- **Development** (76 skills)
+- **Content Creation** (36 skills)
+- **Daily Assistant** (15 skills)
+- **Data Analysis** (36 skills)
+- **Development** (80 skills)
 - **Development/Devops** (19 skills)
-- **Development/Testing** (7 skills)
-- **Development/Tools** (27 skills)
+- **Development/Testing** (5 skills)
+- **Development/Tools** (30 skills)
 - **Investment** (4 skills)
-- **Productivity** (5 skills)
+- **Productivity** (3 skills)
 - **Research** (5 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,18 +180,21 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (6 skills)
+### Automation/Scripting (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Param Forge Reference](automation/scripting/100-param_forge_reference_35994bfd/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
-| [Skill](automation/scripting/name-skill_7d2e3a7b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 21 | `automation` |
-| [Chrome Installation](automation/scripting/chrome-installation_cb622122/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/chrome-installation.md) | ⭐ 21 | `automation` |
-| [Workflows](automation/scripting/workflows_1f8e9003/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/references/workflows.md) | ⭐ 21 | `automation` |
-| [Api Storage](automation/scripting/api-storage_512c2691/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-storage.md) | ⭐ 21 | `automation` |
-| [Examples](automation/scripting/examples_d9d537bb/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/examples.md) | ⭐ 21 | `automation` |
+| [Skill](automation/scripting/003-name-skill_7d2e3a7b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 21 | `automation` |
+| [Chrome Installation](automation/scripting/094-chrome-installation_cb622122/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/chrome-installation.md) | ⭐ 21 | `automation` |
+| [Workflows](automation/scripting/069-workflows_1f8e9003/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/references/workflows.md) | ⭐ 21 | `automation` |
+| [Api Storage](automation/scripting/095-api-storage_512c2691/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-storage.md) | ⭐ 21 | `automation` |
+| [Skill](automation/scripting/name-skill_98469709/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_2f06a357/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetStateChanged/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_f645e305/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_GetEyeAngles/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_472f8206/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (15 skills)
+### Automation/Workflow (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -206,10 +209,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](automation/workflow/073-agents_8aee7225/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/AGENTS.md) | ⭐ 13 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a9a208cd/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 7.1k | `automation` |
 | [Skill](automation/workflow/002-name-skill_1b2668f1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-develop-web-game/skills/openai-develop-web-game/SKILL.md) | ⭐ 56 | `automation` |
-| [Skill](automation/workflow/name-skill_7a0692d3/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/SKILL.md) | ⭐ 21 | `automation` |
-| [Mcp Configuration](automation/workflow/mcp-configuration_c1914cda/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/mcp-configuration.md) | ⭐ 21 | `automation` |
-| [Git Commands](automation/workflow/git-commands_b6a53e87/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/git-commit-helper/references/git-commands.md) | ⭐ 21 | `automation` |
-| [Troubleshooting](automation/workflow/troubleshooting_fe01a5b8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/references/troubleshooting.md) | ⭐ 21 | `automation` |
+| [Skill](automation/workflow/002-name-skill_7a0692d3/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/SKILL.md) | ⭐ 21 | `automation` |
+| [Mcp Configuration](automation/workflow/136-mcp-configuration_c1914cda/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/mcp-configuration.md) | ⭐ 21 | `automation` |
+| [Git Commands](automation/workflow/137-git-commands_b6a53e87/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/git-commit-helper/references/git-commands.md) | ⭐ 21 | `automation` |
+| [Troubleshooting](automation/workflow/138-troubleshooting_fe01a5b8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/references/troubleshooting.md) | ⭐ 21 | `automation` |
+| [Version](automation/workflow/version_b186ef4d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/VERSION.md) | ⭐ 63 | `automation` |
+| [Run Conductor.Prompt](automation/workflow/run-conductorprompt_c290deb8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 63 | `automation` |
+| [Executive Pitch](automation/workflow/executive-pitch_ec3ad432/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/executive-pitch.md) | ⭐ 63 | `automation` |
+| [Character Reference](automation/workflow/character-reference_f8d570dc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/character-reference.md) | ⭐ 63 | `automation` |
 
 ### Commercial (50 skills)
 
@@ -237,34 +244,34 @@ ls ~/.claude/skills/patch-research-agent/
 | [Logic Flaws](commercial/372-logic-flaws_d3713f41/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/logic-flaws.md) | ⭐ 56 | `commercial` |
 | [Logic Flaws Checklist](commercial/373-logic-flaws-checklist_c6b46334/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/logic-flaws-checklist.md) | ⭐ 56 | `commercial` |
 | [Agents](commercial/007-agents_3a4fc98b/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md) | ⭐ 31 | `commercial` |
-| [Skill](commercial/name-skill_f5d8c52c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/SKILL.md) | ⭐ 21 | `commercial` |
-| [Skill](commercial/name-skill_ff987588/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/SKILL.md) | ⭐ 21 | `commercial` |
-| [Audiences](commercial/audiences_cdae62b0/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/audiences.md) | ⭐ 21 | `commercial` |
-| [Custom Dimensions](commercial/custom-dimensions_ac9e88c6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/custom-dimensions.md) | ⭐ 21 | `commercial` |
-| [Custom Events](commercial/custom-events_442ce8c1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/custom-events.md) | ⭐ 21 | `commercial` |
-| [Data Management](commercial/data-management_1f9e80e0/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/data-management.md) | ⭐ 21 | `commercial` |
-| [Debugview](commercial/debugview_f2b050db/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/debugview.md) | ⭐ 21 | `commercial` |
-| [Events Fundamentals](commercial/events-fundamentals_acdeb349/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/events-fundamentals.md) | ⭐ 21 | `commercial` |
-| [Measurement Protocol](commercial/measurement-protocol_a5b644a5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/measurement-protocol.md) | ⭐ 21 | `commercial` |
-| [Recommended Events](commercial/recommended-events_0dccd208/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/recommended-events.md) | ⭐ 21 | `commercial` |
-| [Setup](commercial/setup_26743b72/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/setup.md) | ⭐ 21 | `commercial` |
-| [Datalayer](commercial/datalayer_a05f8557/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/datalayer.md) | ⭐ 21 | `commercial` |
-| [Debugging](commercial/debugging_5966ee22/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/debugging.md) | ⭐ 21 | `commercial` |
-| [Setup](commercial/setup_d641441d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/setup.md) | ⭐ 21 | `commercial` |
-| [Triggers](commercial/triggers_ddc0c0ce/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/triggers.md) | ⭐ 21 | `commercial` |
-| [Api Admin](commercial/api-admin_cd0708a4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/api-admin.md) | ⭐ 21 | `commercial` |
-| [Api Storefront](commercial/api-storefront_b0702ce0/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/api-storefront.md) | ⭐ 21 | `commercial` |
-| [App Development](commercial/app-development_abcde65b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/app-development.md) | ⭐ 21 | `commercial` |
-| [Debugging](commercial/debugging_e4f0435a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/debugging.md) | ⭐ 21 | `commercial` |
-| [Functions](commercial/functions_81f7b794/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/functions.md) | ⭐ 21 | `VIP` |
-| [Hydrogen](commercial/hydrogen_083eca7c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/hydrogen.md) | ⭐ 21 | `commercial` |
-| [Liquid Filters](commercial/liquid-filters_85c17799/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/liquid-filters.md) | ⭐ 21 | `commercial` |
-| [Liquid Objects](commercial/liquid-objects_351e92e4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/liquid-objects.md) | ⭐ 21 | `commercial` |
-| [Liquid Syntax](commercial/liquid-syntax_70d26c64/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/liquid-syntax.md) | ⭐ 21 | `commercial` |
-| [Performance](commercial/performance_6a12d640/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/performance.md) | ⭐ 21 | `commercial` |
-| [Theme Development](commercial/theme-development_dc454c66/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/theme-development.md) | ⭐ 21 | `commercial` |
-| [Api Cookies](commercial/api-cookies_cd598abf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-cookies.md) | ⭐ 21 | `commercial` |
-| [Skill](commercial/name-skill_6b5736cb/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/SKILL.md) | ⭐ 21 | `commercial` |
+| [Skill](commercial/210-name-skill_f5d8c52c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/SKILL.md) | ⭐ 21 | `commercial` |
+| [Skill](commercial/210-name-skill_ff987588/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/SKILL.md) | ⭐ 21 | `commercial` |
+| [Audiences](commercial/374-audiences_cdae62b0/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/audiences.md) | ⭐ 21 | `commercial` |
+| [Custom Dimensions](commercial/375-custom-dimensions_ac9e88c6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/custom-dimensions.md) | ⭐ 21 | `commercial` |
+| [Custom Events](commercial/376-custom-events_442ce8c1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/custom-events.md) | ⭐ 21 | `commercial` |
+| [Data Management](commercial/377-data-management_1f9e80e0/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/data-management.md) | ⭐ 21 | `commercial` |
+| [Debugview](commercial/378-debugview_f2b050db/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/debugview.md) | ⭐ 21 | `commercial` |
+| [Events Fundamentals](commercial/379-events-fundamentals_acdeb349/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/events-fundamentals.md) | ⭐ 21 | `commercial` |
+| [Measurement Protocol](commercial/380-measurement-protocol_a5b644a5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/measurement-protocol.md) | ⭐ 21 | `commercial` |
+| [Recommended Events](commercial/381-recommended-events_0dccd208/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/recommended-events.md) | ⭐ 21 | `commercial` |
+| [Setup](commercial/382-setup_26743b72/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/setup.md) | ⭐ 21 | `commercial` |
+| [Datalayer](commercial/383-datalayer_a05f8557/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/datalayer.md) | ⭐ 21 | `commercial` |
+| [Debugging](commercial/384-debugging_5966ee22/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/debugging.md) | ⭐ 21 | `commercial` |
+| [Setup](commercial/382-setup_d641441d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/setup.md) | ⭐ 21 | `commercial` |
+| [Triggers](commercial/385-triggers_ddc0c0ce/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/triggers.md) | ⭐ 21 | `commercial` |
+| [Api Admin](commercial/386-api-admin_cd0708a4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/api-admin.md) | ⭐ 21 | `commercial` |
+| [Api Storefront](commercial/387-api-storefront_b0702ce0/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/api-storefront.md) | ⭐ 21 | `commercial` |
+| [App Development](commercial/017-app-development_abcde65b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/app-development.md) | ⭐ 21 | `commercial` |
+| [Debugging](commercial/384-debugging_e4f0435a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/debugging.md) | ⭐ 21 | `commercial` |
+| [Functions](commercial/388-functions_81f7b794/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/functions.md) | ⭐ 21 | `VIP` |
+| [Hydrogen](commercial/389-hydrogen_083eca7c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/hydrogen.md) | ⭐ 21 | `commercial` |
+| [Liquid Filters](commercial/390-liquid-filters_85c17799/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/liquid-filters.md) | ⭐ 21 | `commercial` |
+| [Liquid Objects](commercial/391-liquid-objects_351e92e4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/liquid-objects.md) | ⭐ 21 | `commercial` |
+| [Liquid Syntax](commercial/392-liquid-syntax_70d26c64/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/liquid-syntax.md) | ⭐ 21 | `commercial` |
+| [Performance](commercial/393-performance_6a12d640/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/performance.md) | ⭐ 21 | `commercial` |
+| [Theme Development](commercial/394-theme-development_dc454c66/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/shopify-developer/skills/shopify-developer/references/theme-development.md) | ⭐ 21 | `commercial` |
+| [Api Cookies](commercial/395-api-cookies_cd598abf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-cookies.md) | ⭐ 21 | `commercial` |
+| [Plan Req Demo Interactive.Prompt](commercial/plan-req-demo-interactiveprompt_fd4a7be5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-req-demo-interactive.prompt.md) | ⭐ 63 | `commercial` |
 
 ### Communication (7 skills)
 
@@ -274,11 +281,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Project Context](communication/255-project_context_5cc91b78/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/PROJECT_CONTEXT.md) | ⭐ 51 | `communication` |
 | [Readme Cn](communication/256-readme_cn_a75d0219/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 57 | `communication` |
 | [Weak Password Checklist](communication/255-weak-password-checklist_0d3963ca/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/weak-password-checklist.md) | ⭐ 56 | `communication` |
-| [Patterns](communication/patterns_6c763e12/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/patterns.md) | ⭐ 21 | `communication` |
-| [Patterns](communication/patterns_73fdd9ee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/patterns.md) | ⭐ 21 | `communication` |
-| [Outlook Formatting](communication/outlook-formatting_9d80c941/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/message/skills/message/references/outlook-formatting.md) | ⭐ 21 | `communication` |
+| [Patterns](communication/084-patterns_6c763e12/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/patterns.md) | ⭐ 21 | `communication` |
+| [Patterns](communication/084-patterns_73fdd9ee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/patterns.md) | ⭐ 21 | `communication` |
+| [01 Requirements.Template](communication/01-requirementstemplate_8d27ad3b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/01-requirements.template.md) | ⭐ 63 | `communication` |
 
-### Content Creation (38 skills)
+### Content Creation (36 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -300,28 +307,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Xss](content-creation/357-xss_d1bc8bd4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/xss.md) | ⭐ 56 | `content creation` |
 | [Command Execution Checklist](content-creation/358-command-execution-checklist_39b874c0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/command-execution-checklist.md) | ⭐ 56 | `content creation` |
 | [Ssrf Checklist](content-creation/359-ssrf-checklist_113f13e6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/ssrf-checklist.md) | ⭐ 56 | `content creation` |
-| [Validation Gates](content-creation/validation-gates_a1b8f9f3/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/agents/validation-gates.md) | ⭐ 21 | `content creation` |
-| [Setup Skill Hook](content-creation/setup-skill-hook_14752a8c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/commands/setup-skill-hook.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_a4befc32/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/docx/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_aaac38a4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_30c11759/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/message/skills/message/SKILL.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_82012a54/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/SKILL.md) | ⭐ 21 | `content creation` |
-| [Redlining Workflow](content-creation/redlining-workflow_16b37008/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/docx/references/redlining-workflow.md) | ⭐ 21 | `content creation` |
-| [Openpyxl Patterns](content-creation/openpyxl-patterns_2e568fb2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/openpyxl-patterns.md) | ⭐ 21 | `content creation` |
-| [Advanced Editing](content-creation/advanced-editing_e346f129/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/advanced-editing.md) | ⭐ 21 | `content creation` |
-| [Asset Generation](content-creation/asset-generation_e5564ccd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/asset-generation.md) | ⭐ 21 | `content creation` |
-| [Core Concepts](content-creation/core-concepts_2465de6c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/core-concepts.md) | ⭐ 21 | `content creation` |
-| [Encoding And Settings](content-creation/encoding-and-settings_f5c747a9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/encoding-and-settings.md) | ⭐ 21 | `content creation` |
-| [Communication Patterns](content-creation/communication-patterns_4b16b781/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/communication-patterns.md) | ⭐ 21 | `content creation` |
-| [Content Patterns](content-creation/content-patterns_9df20e5f/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/content-patterns.md) | ⭐ 21 | `content creation` |
-| [Language Patterns](content-creation/language-patterns_3a724dd8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/language-patterns.md) | ⭐ 21 | `content creation` |
-| [Generate Prp](content-creation/generate-prp_b52143f7/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/commands/generate-prp.md) | ⭐ 21 | `content creation` |
-| [Skill](content-creation/name-skill_5fa13664/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/SKILL.md) | ⭐ 21 | `content creation` |
-| [Audio Processing](content-creation/audio-processing_a51a1984/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/audio-processing.md) | ⭐ 21 | `content creation` |
-| [Formatting Rules](content-creation/formatting-rules_66ef71ac/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/message/skills/message/references/formatting-rules.md) | ⭐ 21 | `content creation` |
-| [Api Audio](content-creation/api-audio_3b5373a1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-audio.md) | ⭐ 21 | `content creation` |
+| [Validation Gates](content-creation/360-validation-gates_a1b8f9f3/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/agents/validation-gates.md) | ⭐ 21 | `content creation` |
+| [Setup Skill Hook](content-creation/361-setup-skill-hook_14752a8c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/commands/setup-skill-hook.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_a4befc32/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/docx/SKILL.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_aaac38a4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/SKILL.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_30c11759/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/message/skills/message/SKILL.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/049-name-skill_82012a54/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/SKILL.md) | ⭐ 21 | `content creation` |
+| [Redlining Workflow](content-creation/362-redlining-workflow_16b37008/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/docx/references/redlining-workflow.md) | ⭐ 21 | `content creation` |
+| [Openpyxl Patterns](content-creation/363-openpyxl-patterns_2e568fb2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/openpyxl-patterns.md) | ⭐ 21 | `content creation` |
+| [Advanced Editing](content-creation/364-advanced-editing_e346f129/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/advanced-editing.md) | ⭐ 21 | `content creation` |
+| [Asset Generation](content-creation/365-asset-generation_e5564ccd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/asset-generation.md) | ⭐ 21 | `content creation` |
+| [Core Concepts](content-creation/366-core-concepts_2465de6c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/core-concepts.md) | ⭐ 21 | `content creation` |
+| [Encoding And Settings](content-creation/367-encoding-and-settings_f5c747a9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ffmpeg/skills/ffmpeg-cli/references/encoding-and-settings.md) | ⭐ 21 | `content creation` |
+| [Communication Patterns](content-creation/368-communication-patterns_4b16b781/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/communication-patterns.md) | ⭐ 21 | `content creation` |
+| [Content Patterns](content-creation/369-content-patterns_9df20e5f/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/content-patterns.md) | ⭐ 21 | `content creation` |
+| [Language Patterns](content-creation/370-language-patterns_3a724dd8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/language-patterns.md) | ⭐ 21 | `content creation` |
+| [Skill](content-creation/name-skill_28e46635/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 63 | `content creation` |
+| [Conductor Demo.Prompt](content-creation/conductor-demoprompt_77c36a33/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/conductor-demo.prompt.md) | ⭐ 63 | `content creation` |
+| [06 Deployment Summary.Template](content-creation/06-deployment-summarytemplate_c51c7f3f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/06-deployment-summary.template.md) | ⭐ 63 | `content creation` |
 
-### Daily Assistant (10 skills)
+### Daily Assistant (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -333,10 +338,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_47ec12a5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/SKILL.md) | ⭐ 56 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f9a1f323/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-threat-model/skills/openai-security-threat-model/SKILL.md) | ⭐ 56 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_92eb7fef/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-sentry/skills/openai-sentry/SKILL.md) | ⭐ 56 | `daily assistant` |
-| [Style Patterns](daily-assistant/style-patterns_4ce412a5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/style-patterns.md) | ⭐ 21 | `daily assistant` |
-| [Execute Prp](daily-assistant/execute-prp_5c32efdf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/commands/execute-prp.md) | ⭐ 21 | `daily assistant` |
+| [Style Patterns](daily-assistant/269-style-patterns_4ce412a5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/style-patterns.md) | ⭐ 21 | `daily assistant` |
+| [Architect.Agent](daily-assistant/architectagent_a5b83e17/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/architect.agent.md) | ⭐ 63 | `daily assistant` |
+| [Bicep Plan.Agent](daily-assistant/bicep-planagent_9e68826d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/bicep-plan.agent.md) | ⭐ 63 | `Environment` `ManagedBy` `Project` |
+| [Design.Agent](daily-assistant/designagent_23213bfc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/design.agent.md) | ⭐ 63 | `daily assistant` |
+| [Requirements.Agent](daily-assistant/requirementsagent_0c3bbb4a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 63 | `daily assistant` |
+| [07 Backup Dr Plan.Template](daily-assistant/07-backup-dr-plantemplate_301e15ab/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-backup-dr-plan.template.md) | ⭐ 63 | `daily assistant` |
+| [07 Operations Runbook.Template](daily-assistant/07-operations-runbooktemplate_f98bfef5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-operations-runbook.template.md) | ⭐ 63 | `daily assistant` |
 
-### Data Analysis (28 skills)
+### Data Analysis (36 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -365,11 +375,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_ed5b6f7e/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-pdf/skills/openai-pdf/SKILL.md) | ⭐ 56 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_b03aba97/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-security-ownership-map/skills/openai-security-ownership-map/SKILL.md) | ⭐ 56 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_94733cad/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-spreadsheet/skills/openai-spreadsheet/SKILL.md) | ⭐ 56 | `data analysis` |
-| [Skill](data-analysis/name-skill_6eec1f38/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/SKILL.md) | ⭐ 21 | `data analysis` |
-| [Reporting](data-analysis/reporting_37cb7cfd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/reporting.md) | ⭐ 21 | `data analysis` |
-| [Skill](data-analysis/name-skill_b58e56ae/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/timezone-tools/skills/timezone-tools/SKILL.md) | ⭐ 21 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6eec1f38/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/SKILL.md) | ⭐ 21 | `data analysis` |
+| [Reporting](data-analysis/479-reporting_37cb7cfd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/reporting.md) | ⭐ 21 | `data analysis` |
+| [Preprocess Func Sig Via Mcp](data-analysis/preprocess_func_sig_via_mcp_62e04de7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_func_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [Preprocess Gen Func Sig Via Mcp](data-analysis/preprocess_gen_func_sig_via_mcp_77fd66b9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_func_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [Preprocess Gen Gv Sig Via Mcp](data-analysis/preprocess_gen_gv_sig_via_mcp_8a79aa32/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_gen_gv_sig_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [Ida Skill Preprocessor](data-analysis/ida_skill_preprocessor_946e0ce8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/ida_skill_preprocessor.md) | ⭐ 17 | `data analysis` |
+| [Preprocess Vtable Via Mcp](data-analysis/preprocess_vtable_via_mcp_852563ed/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/preprocess_vtable_via_mcp.md) | ⭐ 17 | `data analysis` |
+| [04 Implementation Plan](data-analysis/04-implementation-plan_8e29c670/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/e2e-conductor-test/04-implementation-plan.md) | ⭐ 63 | `data analysis` |
+| [03 Des Cost Estimate.Template](data-analysis/03-des-cost-estimatetemplate_3ddf06e4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/03-des-cost-estimate.template.md) | ⭐ 63 | `data analysis` |
+| [04 Governance Constraints.Template](data-analysis/04-governance-constraintstemplate_1f3475af/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-governance-constraints.template.md) | ⭐ 63 | `data analysis` |
+| [07 Design Document.Template](data-analysis/07-design-documenttemplate_f93305de/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/07-design-document.template.md) | ⭐ 63 | `data analysis` |
 
-### Development (76 skills)
+### Development (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -407,50 +425,54 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_0cfcbc4b/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/SKILL.md) | ⭐ 208 | `development` |
 | [Migration Patterns](development/1521-migration-patterns_742e6f49/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md) | ⭐ 208 | `development` |
 | [Skill](development/1178-name-skill_7abf2b26/) | [zrt-ai-lab/opencode-skills](https://raw.githubusercontent.com/zrt-ai-lab/opencode-skills/main/log-analyzer/SKILL.md) | ⭐ 42 | `development` |
-| [Claude](development/claude_9f4a5980/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 21 | `development` |
-| [Reflection](development/reflection_f2683bee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/claudecode/commands/reflection.md) | ⭐ 21 | `development` |
-| [Documentation Manager](development/documentation-manager_987b65fe/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/agents/documentation-manager.md) | ⭐ 21 | `development` |
-| [Fullstack Developer](development/fullstack-developer_4efd5c7e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/agents/fullstack-developer.md) | ⭐ 21 | `{
+| [Claude](development/140-claude_9f4a5980/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 21 | `development` |
+| [Reflection](development/2889-reflection_f2683bee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/claudecode/commands/reflection.md) | ⭐ 21 | `development` |
+| [Documentation Manager](development/2890-documentation-manager_987b65fe/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/agents/documentation-manager.md) | ⭐ 21 | `development` |
+| [Fullstack Developer](development/2623-fullstack-developer_4efd5c7e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/agents/fullstack-developer.md) | ⭐ 21 | `{
     type: String` `trim: true` `lowercase: true
   }` |
-| [Skill Architect](development/skill-architect_3baae92b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/agents/skill-architect.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_f7ea5091/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/git-commit-helper/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_82f514f9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/git-worktrees/skills/git-worktrees/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_a0f9afc6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_73dc1dd9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_150a5c43/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/SKILL.md) | ⭐ 21 | `development` |
-| [Skill](development/name-skill_cd24e17d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/react-best-practices/skills/react-best-practices/SKILL.md) | ⭐ 21 | `development` |
-| [Financial Model Standards](development/financial-model-standards_058c3646/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/financial-model-standards.md) | ⭐ 21 | `development` |
-| [Ads Api Reference](development/ads-api-reference_6682095f/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/ads-api-reference.md) | ⭐ 21 | `development` |
-| [Best Practices](development/best-practices_99fa6cef/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/best-practices.md) | ⭐ 21 | `development` |
-| [Gtag](development/gtag_bef05560/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/gtag.md) | ⭐ 21 | `development` |
-| [Gtm Integration](development/gtm-integration_3c95c7b6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/gtm-integration.md) | ⭐ 21 | `development` |
-| [Privacy](development/privacy_09e2db4c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/privacy.md) | ⭐ 21 | `development` |
-| [Apps Script Api Reference](development/apps-script-api-reference_c61d553d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/apps-script-api-reference.md) | ⭐ 21 | `development` |
-| [Best Practices](development/best-practices_4fc37192/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/best-practices.md) | ⭐ 21 | `development` |
-| [Best Practices](development/best-practices_e7e2a0be/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/best-practices.md) | ⭐ 21 | `development` |
-| [Tags](development/tags_fab07438/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/tags.md) | ⭐ 21 | `development` |
-| [Variables](development/variables_4ba0899e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/variables.md) | ⭐ 21 | `development` |
-| [Api Async](development/api-async_acf5fc6a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-async.md) | ⭐ 21 | `development` |
-| [Browser Compatibility](development/browser-compatibility_1e5e5ed8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/browser-compatibility.md) | ⭐ 21 | `development` |
-| [Common Pitfalls](development/common-pitfalls_7fcd2c42/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/common-pitfalls.md) | ⭐ 21 | `development` |
-| [Debugging](development/debugging_de6ce48e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/debugging.md) | ⭐ 21 | `development` |
-| [Header Reference](development/header-reference_f7d994b6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/header-reference.md) | ⭐ 21 | `development` |
-| [Http Requests](development/http-requests_8c188ad3/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/http-requests.md) | ⭐ 21 | `development` |
-| [Patterns](development/patterns_b6373511/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/patterns.md) | ⭐ 21 | `development` |
-| [Security Checklist](development/security-checklist_68a4b99c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/security-checklist.md) | ⭐ 21 | `development` |
-| [Web Requests](development/web-requests_d683cf25/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/web-requests.md) | ⭐ 21 | `development` |
-| [Archetypes](development/archetypes_45dcef2e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/archetypes.md) | ⭐ 21 | `development` |
-| [Token Hierarchy](development/token-hierarchy_c583db8a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/token-hierarchy.md) | ⭐ 21 | `development` |
-| [Examples](development/examples_ed05ccba/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/git-commit-helper/references/examples.md) | ⭐ 21 | `development` |
-| [Prp Template](development/prp_template_0c7fae2b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/assets/prp_template.md) | ⭐ 21 | `development` |
-| [Codebase Analysis Guide](development/codebase-analysis-guide_5164bd07/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/references/codebase-analysis-guide.md) | ⭐ 21 | `development` |
-| [Quality Assessment](development/quality-assessment_16b3f175/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/references/quality-assessment.md) | ⭐ 21 | `development` |
-| [Research Methodology](development/research_methodology_387d8201/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/references/research_methodology.md) | ⭐ 21 | `development` |
-| [Examples](development/examples_39db518b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/examples.md) | ⭐ 21 | `development` |
-| [Custom Templates](development/custom-templates_e6e7a67e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/custom-templates.md) | ⭐ 21 | `development` |
-| [Api Dom Ui](development/api-dom-ui_51e95fe7/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-dom-ui.md) | ⭐ 21 | `development` |
-| [Sandbox Modes](development/sandbox-modes_494b06e2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/sandbox-modes.md) | ⭐ 21 | `development` |
+| [Skill Architect](development/2891-skill-architect_3baae92b/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/agents/skill-architect.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_f7ea5091/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/git-commit-helper/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_82f514f9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/git-worktrees/skills/git-worktrees/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_a0f9afc6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_73dc1dd9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_150a5c43/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/SKILL.md) | ⭐ 21 | `development` |
+| [Skill](development/1178-name-skill_cd24e17d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/react-best-practices/skills/react-best-practices/SKILL.md) | ⭐ 21 | `development` |
+| [Financial Model Standards](development/2892-financial-model-standards_058c3646/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/financial-model-standards.md) | ⭐ 21 | `development` |
+| [Ads Api Reference](development/2893-ads-api-reference_6682095f/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/ads-api-reference.md) | ⭐ 21 | `development` |
+| [Best Practices](development/102-best-practices_99fa6cef/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-ads-scripts/skills/google-ads-scripts/references/best-practices.md) | ⭐ 21 | `development` |
+| [Gtag](development/2894-gtag_bef05560/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/gtag.md) | ⭐ 21 | `development` |
+| [Gtm Integration](development/2895-gtm-integration_3c95c7b6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/gtm-integration.md) | ⭐ 21 | `development` |
+| [Privacy](development/2896-privacy_09e2db4c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/privacy.md) | ⭐ 21 | `development` |
+| [Apps Script Api Reference](development/2897-apps-script-api-reference_c61d553d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/apps-script-api-reference.md) | ⭐ 21 | `development` |
+| [Best Practices](development/102-best-practices_4fc37192/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-apps-script/skills/google-apps-script/references/best-practices.md) | ⭐ 21 | `development` |
+| [Best Practices](development/102-best-practices_e7e2a0be/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/best-practices.md) | ⭐ 21 | `development` |
+| [Tags](development/2898-tags_fab07438/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/tags.md) | ⭐ 21 | `development` |
+| [Variables](development/2899-variables_4ba0899e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/variables.md) | ⭐ 21 | `development` |
+| [Api Async](development/2900-api-async_acf5fc6a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-async.md) | ⭐ 21 | `development` |
+| [Browser Compatibility](development/2901-browser-compatibility_1e5e5ed8/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/browser-compatibility.md) | ⭐ 21 | `development` |
+| [Common Pitfalls](development/2902-common-pitfalls_7fcd2c42/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/common-pitfalls.md) | ⭐ 21 | `development` |
+| [Debugging](development/266-debugging_de6ce48e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/debugging.md) | ⭐ 21 | `development` |
+| [Header Reference](development/2903-header-reference_f7d994b6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/header-reference.md) | ⭐ 21 | `development` |
+| [Http Requests](development/2904-http-requests_8c188ad3/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/http-requests.md) | ⭐ 21 | `development` |
+| [Patterns](development/672-patterns_b6373511/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/patterns.md) | ⭐ 21 | `development` |
+| [Security Checklist](development/2905-security-checklist_68a4b99c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/security-checklist.md) | ⭐ 21 | `development` |
+| [Web Requests](development/2906-web-requests_d683cf25/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/web-requests.md) | ⭐ 21 | `development` |
+| [Archetypes](development/2907-archetypes_45dcef2e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/archetypes.md) | ⭐ 21 | `development` |
+| [Token Hierarchy](development/2908-token-hierarchy_c583db8a/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/token-hierarchy.md) | ⭐ 21 | `development` |
+| [Skill](development/name-skill_dbe46d44/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-AND-CBaseEntity_EndTouch/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_78278410/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_StartTouch-AND-CBaseTrigger_EndTouch/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_ba137163/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_a50a5cdc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-globalvar-as-yaml/SKILL.md) | ⭐ 17 | `development` |
+| [Update Docs On Code Change.Instructions](development/update-docs-on-code-changeinstructions_b72cfda7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/update-docs-on-code-change.instructions.md) | ⭐ 63 | `development` |
+| [Diagnose Resources.Prompt](development/diagnose-resourcesprompt_efa3ee1b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/diagnose-resources.prompt.md) | ⭐ 63 | `development` |
+| [Pilot Success Checklist](development/pilot-success-checklist_d6827b5c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/pilot-success-checklist.md) | ⭐ 63 | `development` |
+| [Skill](development/name-skill_242173f0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-adr/SKILL.md) | ⭐ 63 | `development` |
+| [Design Adr.Prompt](development/design-adrprompt_5eaadac8/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/design-adr.prompt.md) | ⭐ 63 | `development` |
+| [04 Implementation Plan](development/04-implementation-plan_0ef10f3f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/04-implementation-plan.md) | ⭐ 63 | `development` |
+| [Skill](development/name-skill_6bd55269/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/make-skill-template/SKILL.md) | ⭐ 63 | `development` |
+| [04 Preflight Check.Template](development/04-preflight-checktemplate_b84b79a2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/04-preflight-check.template.md) | ⭐ 63 | `development` |
+| [Project Readme.Template](development/project-readmetemplate_5afc2fe3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/templates/PROJECT-README.template.md) | ⭐ 63 | `development` |
 
 ### Development/Devops (19 skills)
 
@@ -468,27 +490,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Wordlists](development/devops/364-wordlists_f64624a5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/references/wordlists.md) | ⭐ 56 | `development` |
 | [Unauthorized Access](development/devops/365-unauthorized-access_8bef681c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/unauthorized-access.md) | ⭐ 56 | `development` |
 | [Misconfig Checklist](development/devops/366-misconfig-checklist_2aa6973b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/references/checklists/misconfig-checklist.md) | ⭐ 56 | `development` |
-| [Containerize](development/devops/containerize_f635c1bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/commands/containerize.md) | ⭐ 21 | `development` |
-| [Modern Extensions](development/devops/modern-extensions_74d49234/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/modern-extensions.md) | ⭐ 21 | `development` |
-| [Original Factors](development/devops/original-factors_a71bbfe5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/original-factors.md) | ⭐ 21 | `development` |
-| [Api](development/devops/api_bb11980e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/api.md) | ⭐ 21 | `development` |
-| [Advanced Patterns](development/devops/advanced-patterns_6c3be033/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/advanced-patterns.md) | ⭐ 21 | `development` |
-| [Overview](development/devops/overview_c0cf2a4f/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/overview.md) | ⭐ 21 | `development` |
-| [Setup And Tools](development/devops/setup-and-tools_47bf4adc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/setup-and-tools.md) | ⭐ 21 | `development` |
+| [Containerize](development/devops/367-containerize_f635c1bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/commands/containerize.md) | ⭐ 21 | `development` |
+| [Modern Extensions](development/devops/368-modern-extensions_74d49234/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/modern-extensions.md) | ⭐ 21 | `development` |
+| [Original Factors](development/devops/369-original-factors_a71bbfe5/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/fifteen-factor-app/references/original-factors.md) | ⭐ 21 | `development` |
+| [Api](development/devops/165-api_bb11980e/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-tagmanager/skills/google-tagmanager/references/api.md) | ⭐ 21 | `development` |
+| [Advanced Patterns](development/devops/370-advanced-patterns_6c3be033/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/advanced-patterns.md) | ⭐ 21 | `development` |
+| [03 Des Cost Estimate](development/devops/03-des-cost-estimate_d7a9199c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/03-des-cost-estimate.md) | ⭐ 63 | `development` |
+| [Skill](development/devops/name-skill_3f42193e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 63 | `development` |
 
-### Development/Testing (7 skills)
+### Development/Testing (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Batch 20260211 221333 Aggregate](development/testing/085-batch_20260211_221333_aggregate_2012d195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221333_aggregate.md) | ⭐ 18 | `development` |
 | [Batch 20260211 221435 Aggregate](development/testing/086-batch_20260211_221435_aggregate_09b4ca91/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221435_aggregate.md) | ⭐ 18 | `development` |
 | [Usage Guide](development/testing/017-usage-guide_324bef25/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/usage-guide.md) | ⭐ 233 | `development` |
-| [Formula Verification](development/testing/formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
-| [Version Numbering](development/testing/version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
-| [Skill](development/testing/name-skill_7748a5fd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 21 | `development` |
-| [Url Matching](development/testing/url-matching_a34158dd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/url-matching.md) | ⭐ 21 | `development` |
+| [Formula Verification](development/testing/085-formula-verification_19feb703/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/xlsx/references/formula-verification.md) | ⭐ 21 | `development` |
+| [Version Numbering](development/testing/086-version-numbering_619d38b1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/version-numbering.md) | ⭐ 21 | `development` |
 
-### Development/Tools (27 skills)
+### Development/Tools (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -511,14 +531,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_920d7880/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-yeet/skills/openai-yeet/SKILL.md) | ⭐ 56 | `development` |
 | [Cli](development/tools/263-cli_a08ee059/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/openai-playwright/skills/openai-playwright/references/cli.md) | ⭐ 56 | `development` |
 | [Events Migration Guide](development/tools/319-events_migration_guide_a1d86b29/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/EVENTS_MIGRATION_GUIDE.md) | ⭐ 2.2k | `development` |
-| [Gemini Cli Headless](development/tools/gemini-cli-headless_467b26d2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini-cli-headless/agents/gemini-cli-headless.md) | ⭐ 21 | `development` |
-| [Create Skill Ultimate](development/tools/create-skill-ultimate_3ac6b128/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/commands/create-skill-ultimate.md) | ⭐ 21 | `development` |
-| [Skill](development/tools/name-skill_5d89e32d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/SKILL.md) | ⭐ 21 | `development` |
-| [Troubleshooting](development/tools/troubleshooting_16180695/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/troubleshooting.md) | ⭐ 21 | `development` |
-| [Bigquery](development/tools/bigquery_fadc3efd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/bigquery.md) | ⭐ 21 | `development` |
-| [Api Sync](development/tools/api-sync_f3b574db/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-sync.md) | ⭐ 21 | `development` |
-| [Api Reference](development/tools/api-reference_9899dff9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/api-reference.md) | ⭐ 21 | `development` |
-| [Skill](development/tools/name-skill_42242467/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/webapp-testing/SKILL.md) | ⭐ 21 | `development` |
+| [Gemini Cli Headless](development/tools/322-gemini-cli-headless_467b26d2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini-cli-headless/agents/gemini-cli-headless.md) | ⭐ 21 | `development` |
+| [Create Skill Ultimate](development/tools/323-create-skill-ultimate_3ac6b128/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/commands/create-skill-ultimate.md) | ⭐ 21 | `development` |
+| [Skill](development/tools/002-name-skill_5d89e32d/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/SKILL.md) | ⭐ 21 | `development` |
+| [Troubleshooting](development/tools/205-troubleshooting_16180695/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/devtools/references/troubleshooting.md) | ⭐ 21 | `development` |
+| [Bigquery](development/tools/324-bigquery_fadc3efd/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/bigquery.md) | ⭐ 21 | `development` |
+| [Api Sync](development/tools/325-api-sync_f3b574db/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-sync.md) | ⭐ 21 | `development` |
+| [Api Reference](development/tools/073-api-reference_9899dff9/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/skill-mastery/references/api-reference.md) | ⭐ 21 | `development` |
+| [Agent Skills.Instructions](development/tools/agent-skillsinstructions_95976920/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agent-skills.instructions.md) | ⭐ 63 | `development` |
+| [Docs.Instructions](development/tools/docsinstructions_85f2b3f7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/docs.instructions.md) | ⭐ 63 | `development` |
+| [Skill](development/tools/name-skill_c88e2aec/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/github-operations/SKILL.md) | ⭐ 63 | `development` |
+| [Generate Docs.Prompt](development/tools/generate-docsprompt_8b280d18/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/generate-docs.prompt.md) | ⭐ 63 | `development` |
 
 ### Investment (4 skills)
 
@@ -526,18 +549,16 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Ai Agent Summary](investment/049-ai_agent_summary_eb15178c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/technical/AI_AGENT_SUMMARY.md) | ⭐ 18 | `investment` |
 | [Failure Analysis Batch 20260211 213131](investment/050-failure_analysis_batch_20260211_213131_17df2793/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/failure_analysis_batch_20260211_213131.md) | ⭐ 18 | `investment` |
-| [Ultra Think](investment/ultra-think_fa8c9d32/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/claudecode/commands/ultra-think.md) | ⭐ 21 | `investment` |
-| [User Tracking](investment/user-tracking_5a945df2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/user-tracking.md) | ⭐ 21 | `investment` |
+| [Ultra Think](investment/049-ultra-think_fa8c9d32/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/claudecode/commands/ultra-think.md) | ⭐ 21 | `investment` |
+| [User Tracking](investment/050-user-tracking_5a945df2/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/google-analytics/skills/google-analytics/references/user-tracking.md) | ⭐ 21 | `investment` |
 
-### Productivity (5 skills)
+### Productivity (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Growth Pm](productivity/173-growth-pm_48f76195/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/growth-pm.md) | ⭐ 18 | `productivity` |
 | [Prompts](productivity/174-prompts_5155f536/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/param_forge_ref/param_forge/docs/prompts.md) | ⭐ 51 | `productivity` |
 | [Patterns](productivity/160-patterns_01ee8bbb/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/references/patterns.md) | ⭐ 56 | `productivity` |
-| [Full Example](productivity/full-example_ecdbaee1/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/full-example.md) | ⭐ 21 | `productivity` |
-| [Api Tabs](productivity/api-tabs_e21271ee/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/references/api-tabs.md) | ⭐ 21 | `productivity` |
 
 ### Research (5 skills)
 
@@ -547,7 +568,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Directory](research/259-directory_ffc70b99/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/directory.md) | ⭐ 18 | `research` |
 | [Researcher](research/260-researcher_edc4a804/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/researcher.md) | ⭐ 18 | `research` |
 | [Batch 20260211 221758 Aggregate](research/261-batch_20260211_221758_aggregate_8cac16a4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/reports/evals/batch_20260211_221758_aggregate.md) | ⭐ 18 | `research` |
-| [Filler Patterns](research/filler-patterns_93534796/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/references/filler-patterns.md) | ⭐ 21 | `research` |
+| [Time Savings Evidence](research/time-savings-evidence_a6749979/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/presenter/time-savings-evidence.md) | ⭐ 63 | `research` |
 
 ## How Skills Are Organized
 
@@ -599,5 +620,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 07:21:40 UTC*
+*Last updated: 2026-02-13 08:22:38 UTC*
 *Automatically maintained by SkillFlow*
