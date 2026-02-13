@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T04:22:29.394544",
+  "updated_at": "2026-02-13T05:23:08.732911",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -2269,6 +2269,62 @@
       "source_url": "https://raw.githubusercontent.com/openlit/openlit/main/contributors/PROVIDER_MIGRATION_CHECKLIST.md",
       "display_name": "Provider Migration Checklist",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0cfcbc4b43b105401efd72b3419eedcbc9ad26c1d13b21e260c30e169ac1519c",
+      "source_path": "skills/analyzing-data/SKILL.md",
+      "source_repo": "astronomer/agents",
+      "local_path": "development/1178-name-skill_0cfcbc4b",
+      "category": "development",
+      "name": "name-skill_0cfcbc4b",
+      "indexed_at": "2026-02-13T04:24:00.890069",
+      "repo_stars": 208,
+      "repo_updated_at": "2026-01-29T18:34:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/astronomer/agents/main/skills/analyzing-data/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "742e6f490cadb8231f5d125689b06a0b668f2bfb70a82146137b4e34ffcdce8f",
+      "source_path": "skills/migrating-airflow-2-to-3/reference/migration-patterns.md",
+      "source_repo": "astronomer/agents",
+      "local_path": "development/1521-migration-patterns_742e6f49",
+      "category": "development",
+      "name": "migration-patterns_742e6f49",
+      "indexed_at": "2026-02-13T04:24:00.955454",
+      "repo_stars": 208,
+      "repo_updated_at": "2026-02-09T21:09:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/astronomer/agents/main/skills/migrating-airflow-2-to-3/reference/migration-patterns.md",
+      "display_name": "Migration Patterns",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7abf2b263ebe6dcf4dbb5da1a6b206c630f45a23646b03ce5452f39fe67510ba",
+      "source_path": "log-analyzer/SKILL.md",
+      "source_repo": "zrt-ai-lab/opencode-skills",
+      "local_path": "development/1178-name-skill_7abf2b26",
+      "category": "development",
+      "name": "name-skill_7abf2b26",
+      "indexed_at": "2026-02-13T04:24:01.022318",
+      "repo_stars": 42,
+      "repo_updated_at": "2026-01-26T07:37:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/zrt-ai-lab/opencode-skills/main/log-analyzer/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3a4fc98b608b269de7774b6459d2da27ae9c85cfb2edc05a7da26f6d04a27fb1",
+      "source_path": "AGENTS.md",
+      "source_repo": "maragudk/skills",
+      "local_path": "commercial/007-agents_3a4fc98b",
+      "category": "commercial",
+      "name": "agents_3a4fc98b",
+      "indexed_at": "2026-02-13T05:23:08.732659",
+      "repo_stars": 31,
+      "repo_updated_at": "2026-02-12T12:15:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"commercial\"]"
     }
   ]
 }
