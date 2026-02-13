@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T22:23:11.077185",
+  "updated_at": "2026-02-13T22:24:01.113858",
   "skills": [
     {
       "file_hash": "ce4bb9a980ff199aaabfe3800306e5f2973102a78b1681e90dcf03b9bf3f6659",
@@ -8331,6 +8331,20 @@
       "source_url": "https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md",
       "display_name": "Gemini Invocation",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "aab5d350cd0aca2de7eca12392695986b5c0885639b21f2f1e1c6b36d2f73caf",
+      "source_path": "SKILL.md",
+      "source_repo": "ALBEDO-TABAI/lets-go-rss",
+      "local_path": "automation/scripting/003-name-skill_aab5d350",
+      "category": "automation/scripting",
+      "name": "name-skill_aab5d350",
+      "indexed_at": "2026-02-13T22:24:01.113781",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-12T01:26:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }

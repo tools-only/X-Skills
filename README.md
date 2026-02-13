@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **595 AI-powered skills** organized into 14 categories.
+A curated collection of **596 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (17 skills)
+- **Automation/Scripting** (18 skills)
 - **Automation/Workflow** (26 skills)
 - **Commercial** (61 skills)
 - **Communication** (33 skills)
@@ -180,7 +180,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (17 skills)
+### Automation/Scripting (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -201,6 +201,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_287b6ed2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsAlive-AND-CBaseEntity_GetEyePosition-AND-CBasePlayerPawn_GetEyePosition/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f0b5c6b5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_89f14170/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/name-skill_aab5d350/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 18 | `automation` |
 
 ### Automation/Workflow (26 skills)
 
@@ -792,8 +793,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fr Cnil](development/tools/323-fr-cnil_7dc52a11/) | [lawvable/awesome-legal-skills](https://raw.githubusercontent.com/lawvable/awesome-legal-skills/main/skills/dpia-sentinel-oliver-schmidt-prietz/references/jurisdictions/fr-cnil.md) | ⭐ 82 | `development` |
 | [Claude](development/tools/017-claude_5fa4f872/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/CLAUDE.md) | ⭐ 2.6k | `development` |
 | [Skill](development/tools/002-name-skill_56a86666/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/gh-cli/skills/using-gh-cli/SKILL.md) | ⭐ 2.6k | `development` |
-| [Skill](development/tools/name-skill_ecd3760b/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.6k | `development` |
-| [Gemini Invocation](development/tools/gemini-invocation_0375fa02/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.6k | `development` |
+| [Skill](development/tools/002-name-skill_6db7dea5/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.6k | `development` |
+| [Gemini Invocation](development/tools/312-gemini-invocation_2d2b6edc/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/gemini-invocation.md) | ⭐ 2.6k | `development` |
 | [Plan Bicep.Prompt](development/tools/320-plan-bicepprompt_323bc8c7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/plan-bicep.prompt.md) | ⭐ 63 | `development` |
 | [Claude](development/tools/017-claude_b187a038/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 289 | `development` |
 | [Index](development/tools/062-index_c79e2c35/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/index.md) | ⭐ 289 | `development` |
@@ -897,5 +898,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-13 22:23:11 UTC*
+*Last updated: 2026-02-13 22:24:01 UTC*
 *Automatically maintained by SkillFlow*
