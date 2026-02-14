@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **724 AI-powered skills** organized into 15 categories.
+A curated collection of **837 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (10 skills)
-- **Automation/Workflow** (33 skills)
-- **Commercial** (18 skills)
-- **Communication** (9 skills)
-- **Content Creation** (33 skills)
-- **Daily Assistant** (14 skills)
-- **Data Analysis** (184 skills)
-- **Development** (301 skills)
-- **Development/Devops** (30 skills)
-- **Development/Testing** (5 skills)
-- **Development/Tools** (31 skills)
+- **Automation/Scripting** (14 skills)
+- **Automation/Workflow** (38 skills)
+- **Commercial** (21 skills)
+- **Communication** (10 skills)
+- **Content Creation** (48 skills)
+- **Daily Assistant** (35 skills)
+- **Data Analysis** (190 skills)
+- **Development** (340 skills)
+- **Development/Devops** (31 skills)
+- **Development/Testing** (10 skills)
+- **Development/Tools** (35 skills)
 - **Investment** (1 skill)
 - **Other** (2 skills)
 - **Productivity** (8 skills)
-- **Research** (45 skills)
+- **Research** (54 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (10 skills)
+### Automation/Scripting (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -195,8 +195,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_d36c3045/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/batch-integration/SKILL.md) | ⭐ 244 | `automation` |
 | [Skill](automation/scripting/003-name-skill_5fd49ef2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-io/SKILL.md) | ⭐ 244 | `automation` |
 | [Parallel Consistency](automation/scripting/095-parallel-consistency_7cac67d7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/parallel-consistency.md) | ⭐ 99 | `automation` |
+| [Getting Started](automation/scripting/getting-started_a2bc6ad1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-00-getting-started/commands/getting-started.md) | ⭐ 110 | `automation` |
+| [Flesh It Out](automation/scripting/flesh-it-out_3e49c122/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/commands/flesh-it-out.md) | ⭐ 110 | `automation` |
+| [Start Design Plan](automation/scripting/start-design-plan_8e027d11/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/commands/start-design-plan.md) | ⭐ 110 | `automation` |
+| [Start Implementation Plan](automation/scripting/start-implementation-plan_ecf544b5/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/commands/start-implementation-plan.md) | ⭐ 110 | `automation` |
 
-### Automation/Workflow (33 skills)
+### Automation/Workflow (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -233,8 +237,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_fa391627/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metabolic-modeling-pipeline/SKILL.md) | ⭐ 244 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ca972ce9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/scrnaseq-pipeline/SKILL.md) | ⭐ 244 | `automation` |
 | [Self Correction](automation/workflow/137-self-correction_8bd20857/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/self-correction.md) | ⭐ 99 | `automation` |
+| [Skill](automation/workflow/name-skill_cc0cbbde/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/asking-clarifying-questions/SKILL.md) | ⭐ 110 | `automation` |
+| [Skill](automation/workflow/name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
+| [Backlog](automation/workflow/backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
+| [Test Analyst](automation/workflow/test-analyst_0b68a5c9/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/agents/test-analyst.md) | ⭐ 110 | `automation` |
 
-### Commercial (18 skills)
+### Commercial (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -256,8 +265,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Goal Setting Frameworks](commercial/095-goal_setting_frameworks_a28a8e14/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/goal_setting_frameworks.md) | ⭐ 19 | `commercial` |
 | [Skill](commercial/210-name-skill_5d19e3d3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/batch-downloads/SKILL.md) | ⭐ 244 | `commercial` |
 | [Conditional Logic](commercial/376-conditional-logic_1414dc8f/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/conditional-logic.md) | ⭐ 99 | `commercial` |
+| [Playwright Explorer](commercial/playwright-explorer_b380ec2f/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-playwright/agents/playwright-explorer.md) | ⭐ 110 | `commercial` |
+| [Typescript Drizzle](commercial/typescript-drizzle_e4d1de84/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-develop-with-postgres/typescript-drizzle.md) | ⭐ 110 | `commercial` |
+| [Useeffect Deep Dive](commercial/useeffect-deep-dive_33354bf1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/programming-in-react/useEffect-deep-dive.md) | ⭐ 110 | `commercial` |
 
-### Communication (9 skills)
+### Communication (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -270,8 +282,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implicit Constraints](communication/257-implicit-constraints_fe3c9296/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/implicit-constraints.md) | ⭐ 99 | `communication` |
 | [Multi Turn Consistency](communication/258-multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
 | [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
+| [Typebox](communication/typebox_a9676e42/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/typebox.md) | ⭐ 110 | `communication` |
 
-### Content Creation (33 skills)
+### Content Creation (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -308,8 +321,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_94ee4cec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/quality-reports/SKILL.md) | ⭐ 244 | `content creation` |
 | [Context Utilization](content-creation/361-context-utilization_abd87a1d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/context-utilization.md) | ⭐ 99 | `content creation` |
 | [Summarization Fidelity](content-creation/362-summarization-fidelity_8ab789c0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/summarization-fidelity.md) | ⭐ 99 | `content creation` |
+| [Claude](content-creation/claude_ed5144d4/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/CLAUDE.md) | ⭐ 110 | `content creation` |
+| [Claude](content-creation/claude_16d4485f/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/CLAUDE.md) | ⭐ 110 | `content creation` |
+| [Project Claude Librarian](content-creation/project-claude-librarian_50d18515/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/agents/project-claude-librarian.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/name-skill_0bc6e7f1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/creating-a-plugin/SKILL.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/name-skill_2a3f6bd0/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/maintaining-project-context/SKILL.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/name-skill_a194c104/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-develop-with-postgres/SKILL.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/name-skill_ed06d8e2/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/writing-for-a-technical-audience/SKILL.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/name-skill_d83e852d/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/starting-an-implementation-plan/SKILL.md) | ⭐ 110 | `content creation` |
+| [Synthesis Arl Applicable](content-creation/synthesis-arl-applicable_a7305dc8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/synthesis-arl-applicable.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/description-skill_89da8c2e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/start-task/SKILL.md) | ⭐ 17 | `content creation` |
+| [Codebase Investigator](content-creation/codebase-investigator_dcf5fe67/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-research-agents/agents/codebase-investigator.md) | ⭐ 110 | `content creation` |
+| [Combined Researcher](content-creation/combined-researcher_068b98ef/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-research-agents/agents/combined-researcher.md) | ⭐ 110 | `content creation` |
+| [Internet Researcher](content-creation/internet-researcher_a6a29da4/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-research-agents/agents/internet-researcher.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/name-skill_9ac62291/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/testing-skills-with-subagents/SKILL.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/description-skill_f0236a67/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/generate-task/SKILL.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (14 skills)
+### Daily Assistant (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -327,8 +355,29 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multi Hop Reasoning](daily-assistant/274-multi-hop-reasoning_2b924562/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-hop-reasoning.md) | ⭐ 99 | `daily assistant` |
 | [Output Calibration](daily-assistant/275-output-calibration_760969a7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/output-calibration.md) | ⭐ 99 | `daily assistant` |
 | [Tool Use Planning](daily-assistant/276-tool-use-planning_d1507a04/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/tool-use-planning.md) | ⭐ 99 | `daily assistant` |
+| [Persuasion Principles](daily-assistant/persuasion-principles_ede09625/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/_docs/persuasion-principles.md) | ⭐ 110 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_5163c6fb/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/creating-an-agent/SKILL.md) | ⭐ 110 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_d7528be0/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/writing-skills/SKILL.md) | ⭐ 110 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_43404e1d/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/using-plan-and-execute/SKILL.md) | ⭐ 110 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_2ea4677a/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/verification-before-completion/SKILL.md) | ⭐ 110 | `daily assistant` |
+| [4 Hookconfig Pydantic Models](daily-assistant/4-hookconfig-pydantic-models_ecee53f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/4-hookconfig-pydantic-models.md) | ⭐ 17 | `daily assistant` |
+| [5 Mcpconfig Pydantic Models](daily-assistant/5-mcpconfig-pydantic-models_5624fea3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/5-mcpconfig-pydantic-models.md) | ⭐ 17 | `daily assistant` |
+| [Swarm Task Planner](daily-assistant/swarm-task-planner_ee693a6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/swarm-task-planner.md) | ⭐ 17 | `daily assistant` |
+| [Haiku General Purpose](daily-assistant/haiku-general-purpose_487cef58/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-basic-agents/agents/haiku-general-purpose.md) | ⭐ 110 | `daily assistant` |
+| [Opus General Purpose](daily-assistant/opus-general-purpose_a41d4d23/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-basic-agents/agents/opus-general-purpose.md) | ⭐ 110 | `daily assistant` |
+| [Sonnet General Purpose](daily-assistant/sonnet-general-purpose_62029d47/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-basic-agents/agents/sonnet-general-purpose.md) | ⭐ 110 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_379c12cd/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-basic-agents/skills/using-generic-agents/SKILL.md) | ⭐ 110 | `daily assistant` |
+| [11 Agentenumvalidator Implementation](daily-assistant/11-agentenumvalidator-implementation_0837b870/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/11-agentenumvalidator-implementation.md) | ⭐ 17 | `daily assistant` |
+| [13 Dead Code Removal](daily-assistant/13-dead-code-removal_0db87ccb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/13-dead-code-removal.md) | ⭐ 17 | `daily assistant` |
+| [14 Report Counting Fix](daily-assistant/14-report-counting-fix_4c21a28e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/14-report-counting-fix.md) | ⭐ 17 | `daily assistant` |
+| [16 Mcpconfigvalidator Tests](daily-assistant/16-mcpconfigvalidator-tests_633d6e13/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/16-mcpconfigvalidator-tests.md) | ⭐ 17 | `daily assistant` |
+| [18 Agentenumvalidator Tests](daily-assistant/18-agentenumvalidator-tests_f336fcb3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/18-agentenumvalidator-tests.md) | ⭐ 17 | `daily assistant` |
+| [2 Error Code Constants Definition](daily-assistant/2-error-code-constants-definition_916cd76c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/2-error-code-constants-definition.md) | ⭐ 17 | `daily assistant` |
+| [24 Integration Testing](daily-assistant/24-integration-testing_bec717af/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/24-integration-testing.md) | ⭐ 17 | `daily assistant` |
+| [25 Performance Validation](daily-assistant/25-performance-validation_23050f42/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/25-performance-validation.md) | ⭐ 17 | `daily assistant` |
+| [3 File Type Detection Enhancement](daily-assistant/3-file-type-detection-enhancement_b209e393/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/3-file-type-detection-enhancement.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (184 skills)
+### Data Analysis (190 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -516,8 +565,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_fbffb3c4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/splicing-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_30624583/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
 | [Negation Handling](data-analysis/479-negation-handling_d6848ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/negation-handling.md) | ⭐ 99 | `data analysis` |
+| [Skill](data-analysis/name-skill_589f7187/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-basic-agents/skills/doing-a-simple-two-stage-fanout/SKILL.md) | ⭐ 110 | `data analysis` |
+| [Type Fest](data-analysis/type-fest_7ff463de/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/type-fest.md) | ⭐ 110 | `data analysis` |
+| [Skill](data-analysis/name-skill_c86955b9/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/using-git-worktrees/SKILL.md) | ⭐ 110 | `data analysis` |
+| [12 Descriptionvalidator File Type Awareness](data-analysis/12-descriptionvalidator-file-type-awareness_ccf6d75f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/12-descriptionvalidator-file-type-awareness.md) | ⭐ 17 | `data analysis` |
+| [Qa Expert Panel](data-analysis/qa-expert-panel_05c5a34f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/qa-expert-panel.md) | ⭐ 17 | `data analysis` |
+| [Diagram Templates](data-analysis/diagram-templates_d7b3ec48/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-basic-agents/skills/doing-a-simple-two-stage-fanout/diagram-templates.md) | ⭐ 110 | `data analysis` |
 
-### Development (301 skills)
+### Development (340 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -661,7 +716,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Swift Apis](development/2927-swift_apis_e4c501bb/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md) | ⭐ 27 | `development` |
 | [Agents](development/028-agents_2d61c915/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
 | [039 Adopt Fully Independent Plugin Crates Architecture](development/2956-039-adopt-fully-independent-plugin-crates-architecture_8eb48b75/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md) | ⭐ 3.3k | `development` |
-| [Audit](development/audit_59c5e3e0/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
+| [Audit](development/2957-audit_3d83e084/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
 | [Skill](development/1178-name-skill_22dc8354/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-sorting/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/1178-name-skill_2d9ff2ae/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/bam-statistics/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/1178-name-skill_2673919f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/duplicate-handling/SKILL.md) | ⭐ 244 | `development` |
@@ -822,8 +877,47 @@ ls ~/.claude/skills/patch-research-agent/
 | [Arch](development/2897-_arch_fce4e16d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 99 | `development` |
 | [Code Generation](development/2898-code-generation_32048ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/code-generation.md) | ⭐ 99 | `development` |
 | [Audit](development/2883-audit_59c5e3e0/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
+| [Code Reviewer](development/code-reviewer_bfdabe88/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/agents/code-reviewer.md) | ⭐ 110 | `development` |
+| [Task Bug Fixer](development/task-bug-fixer_3920300f/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/agents/task-bug-fixer.md) | ⭐ 110 | `development` |
+| [Task Implementor Fast](development/task-implementor-fast_e7fe67fb/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/agents/task-implementor-fast.md) | ⭐ 110 | `development` |
+| [How To Customize](development/how-to-customize_ef41dd76/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/commands/how-to-customize.md) | ⭐ 110 | `development` |
+| [Remote Code Researcher](development/remote-code-researcher_8272bc7b/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-research-agents/agents/remote-code-researcher.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_ca76ae57/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/writing-claude-directives/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_e5b734fe/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/writing-claude-md-files/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_77236636/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/coding-effectively/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_9e807033/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/defense-in-depth/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_05d4f7c1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-functional-vs-imperative/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_1579963a/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/programming-in-react/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_c2160779/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/brainstorming/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_1f304bcf/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/executing-an-implementation-plan/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_18817fec/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/requesting-code-review/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_a12538e3/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/starting-a-design-plan/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_f69f8335/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/systematic-debugging/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_4a2f76b8/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/writing-design-plans/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_bbad16f1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/writing-implementation-plans/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_fb44f7ba/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-playwright/skills/playwright-debugging/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_e8b0b98e/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-playwright/skills/playwright-patterns/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_69e111ff/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-research-agents/skills/investigating-a-codebase/SKILL.md) | ⭐ 110 | `development` |
+| [Architect Plugin Linter](development/architect-plugin-linter_2e33155d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-plugin-linter.md) | ⭐ 17 | `development` |
+| [Feature Context Plugin Linter](development/feature-context-plugin-linter_4ace0d47/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/feature-context-plugin-linter.md) | ⭐ 17 | `development` |
+| [Task File Format](development/task_file_format_53fa60c7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/TASK_FILE_FORMAT.md) | ⭐ 17 | `development` |
+| [10 Lspconfigvalidator Implementation](development/10-lspconfigvalidator-implementation_76328568/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/10-lspconfigvalidator-implementation.md) | ⭐ 17 | `development` |
+| [Grepai](development/grepai_c6add871/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/developer-tools/grepai.md) | ⭐ 17 | `development` |
+| [Synthesis General Theory](development/synthesis-general-theory_32490dd3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/synthesis-general-theory.md) | ⭐ 17 | `development` |
+| [Execute Implementation Plan](development/execute-implementation-plan_fb80a7e2/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/commands/execute-implementation-plan.md) | ⭐ 110 | `development` |
+| [React Testing](development/react-testing_fc52296f/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/programming-in-react/react-testing.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_71d8f258/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/property-based-testing/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_1ecc7e83/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/test-driven-development/SKILL.md) | ⭐ 110 | `development` |
+| [Skill](development/name-skill_c48e6068/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-research-agents/skills/researching-on-the-internet/SKILL.md) | ⭐ 110 | `development` |
+| [Claude Md Testing](development/claude_md_testing_fe1dbec1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/testing-skills-with-subagents/examples/CLAUDE_MD_TESTING.md) | ⭐ 110 | `development` |
+| [15 Hookconfigvalidator Tests](development/15-hookconfigvalidator-tests_c05157ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/15-hookconfigvalidator-tests.md) | ⭐ 17 | `development` |
+| [17 Lspconfigvalidator Tests](development/17-lspconfigvalidator-tests_5afef1b3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/17-lspconfigvalidator-tests.md) | ⭐ 17 | `development` |
+| [19 File Type Detection Tests](development/19-file-type-detection-tests_ace72377/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/19-file-type-detection-tests.md) | ⭐ 17 | `development` |
+| [6 Lspconfig Pydantic Models](development/6-lspconfig-pydantic-models_717f0b86/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/6-lspconfig-pydantic-models.md) | ⭐ 17 | `development` |
+| [Autonomous Refinement Loop Research](development/autonomous-refinement-loop-research_84d695df/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/autonomous-refinement-loop-research.md) | ⭐ 17 | `development` |
+| [Expert Repos](development/expert-repos_9a69d17b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/expert-repos.md) | ⭐ 17 | `development` |
 
-### Development/Devops (30 skills)
+### Development/Devops (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -857,8 +951,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
 | [Agents](development/devops/053-agents_2f52ed9c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md) | 🔥 6.5k | `development` |
 | [Environment Setup](development/devops/200-environment-setup_515167ac/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 6.8k | `development` |
+| [Long Running State Patterns](development/devops/long-running-state-patterns_57f0e2d4/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/writing-claude-directives/long-running-state-patterns.md) | ⭐ 110 | `development` |
 
-### Development/Testing (5 skills)
+### Development/Testing (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -867,8 +962,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/013-threat-skill_0623a026/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 151 | `development` |
 | [Release Notes](development/testing/079-release_notes_29151437/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 | [Ops Guide](development/testing/081-ops_guide_5991f949/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
+| [1 Filetype Enum Extension](development/testing/1-filetype-enum-extension_b9995c22/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/1-filetype-enum-extension.md) | ⭐ 17 | `development` |
+| [23 Pre Commit Config Update](development/testing/23-pre-commit-config-update_31fdb907/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/23-pre-commit-config-update.md) | ⭐ 17 | `development` |
+| [20 Report Generation Tests](development/testing/20-report-generation-tests_a99a4cc0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/20-report-generation-tests.md) | ⭐ 17 | `development` |
+| [21 Descriptionvalidator File Type Tests](development/testing/21-descriptionvalidator-file-type-tests_42e4422d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/21-descriptionvalidator-file-type-tests.md) | ⭐ 17 | `development` |
+| [22 Error Codes Md Documentation](development/testing/22-error-codes-md-documentation_6169fe40/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/22-error-codes-md-documentation.md) | ⭐ 17 | `development` |
 
-### Development/Tools (31 skills)
+### Development/Tools (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -902,7 +1002,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_d0ed4585/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/cwl-workflows/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/tools/002-name-skill_97aa400f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/clip-pipeline/SKILL.md) | ⭐ 244 | `development` |
 | [Claude](development/tools/017-claude_c3e94863/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 99 | `development` |
-| [Skill](development/tools/name-skill_e8c5bc57/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/skills/hs/SKILL.md) | ⭐ 15 | `development` |
+| [Anthropic Best Practices](development/tools/anthropic-best-practices_886fd9ec/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/_docs/anthropic-best-practices.md) | ⭐ 110 | `development` |
+| [Skill](development/tools/name-skill_b0e278ab/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/SKILL.md) | ⭐ 110 | `development` |
+| [Plugin Validator Architecture](development/tools/plugin-validator-architecture_44433ed6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/plugin-validator-architecture.md) | ⭐ 17 | `development` |
+| [Human Out Of Loop Prerequisites](development/tools/human-out-of-loop-prerequisites_7bd77284/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/human-out-of-loop-prerequisites.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/name-skill_5080ae84/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/writing-good-tests/SKILL.md) | ⭐ 110 | `development` |
 
 ### Investment (1 skills)
 
@@ -930,7 +1034,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](productivity/142-instructions_a0b1c774/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/vaex/instructions.md) | ⭐ 19 | `productivity` |
 | [Skill](productivity/093-name-skill_30f71097/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/doublet-detection/SKILL.md) | ⭐ 244 | `productivity` |
 
-### Research (45 skills)
+### Research (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -979,6 +1083,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Professional Report Formatting](research/093-professional_report_formatting_3dcf76ea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/professional_report_formatting.md) | ⭐ 19 | `research` |
 | [Instruction Density](research/258-instruction-density_02797ac2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/instruction-density.md) | ⭐ 99 | `research` |
 | [Schema Adherence](research/259-schema-adherence_b3be9f62/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/schema-adherence.md) | ⭐ 99 | `research` |
+| [Autonomous Loop Principles](research/autonomous-loop-principles_3aafc6fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/methodology_development/autonomous-loop-principles.md) | ⭐ 17 | `research` |
+| [Expert Panel Methodology](research/expert-panel-methodology_71a07ceb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/methodology_development/expert-panel-methodology.md) | ⭐ 17 | `research` |
+| [Stateless Software Engineering Framework](research/stateless-software-engineering-framework_7e735de5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/methodology_development/stateless-software-engineering-framework.md) | ⭐ 17 | `research` |
+| [Arl Expert Panel](research/arl-expert-panel_844bd952/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/commands/arl-expert-panel.md) | ⭐ 17 | `research` |
+| [7 Agentfrontmatter Enum Models](research/7-agentfrontmatter-enum-models_195e0488/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/7-agentfrontmatter-enum-models.md) | ⭐ 17 | `research` |
+| [Skill](research/description-skill_83caeeb0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 17 | `research` |
+| [Arl Agent Instructions](research/arl-agent-instructions_19641f61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/ARL-agent-instructions.md) | ⭐ 17 | `research` |
+| [8 Hookconfigvalidator Implementation](research/8-hookconfigvalidator-implementation_6505f2d0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/8-hookconfigvalidator-implementation.md) | ⭐ 17 | `research` |
+| [9 Mcpconfigvalidator Implementation](research/9-mcpconfigvalidator-implementation_137b3655/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/9-mcpconfigvalidator-implementation.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -1030,5 +1143,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 09:24:52 UTC*
+*Last updated: 2026-02-14 11:21:53 UTC*
 *Automatically maintained by SkillFlow*
