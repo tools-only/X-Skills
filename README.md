@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **814 AI-powered skills** organized into 15 categories.
+A curated collection of **825 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (10 skills)
-- **Automation/Workflow** (37 skills)
-- **Commercial** (21 skills)
-- **Communication** (13 skills)
-- **Content Creation** (45 skills)
+- **Automation/Scripting** (15 skills)
+- **Automation/Workflow** (38 skills)
+- **Commercial** (26 skills)
+- **Communication** (12 skills)
+- **Content Creation** (46 skills)
 - **Daily Assistant** (23 skills)
 - **Data Analysis** (189 skills)
-- **Development** (330 skills)
+- **Development** (334 skills)
 - **Development/Devops** (34 skills)
 - **Development/Testing** (7 skills)
-- **Development/Tools** (42 skills)
+- **Development/Tools** (38 skills)
 - **Investment** (1 skill)
 - **Other** (2 skills)
 - **Productivity** (8 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (10 skills)
+### Automation/Scripting (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -195,8 +195,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_d36c3045/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/batch-integration/SKILL.md) | ⭐ 244 | `automation` |
 | [Skill](automation/scripting/003-name-skill_5fd49ef2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-io/SKILL.md) | ⭐ 244 | `automation` |
 | [Parallel Consistency](automation/scripting/095-parallel-consistency_7cac67d7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/parallel-consistency.md) | ⭐ 99 | `automation` |
+| [Skill](automation/scripting/name-skill_a4f6284c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-translation-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/name-skill_a29ecc79/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-monitor-opentelemetry-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/name-skill_d235e593/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-search-documents-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/name-skill_418872de/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/name-skill_145249e1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-servicebus-ts/SKILL.md) | 🔥 8.7k | `automation` |
 
-### Automation/Workflow (37 skills)
+### Automation/Workflow (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -237,8 +242,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
 | [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 
-### Commercial (21 skills)
+### Commercial (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -263,8 +269,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Playwright Explorer](commercial/376-playwright-explorer_b380ec2f/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-playwright/agents/playwright-explorer.md) | ⭐ 110 | `commercial` |
 | [Typescript Drizzle](commercial/377-typescript-drizzle_e4d1de84/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-develop-with-postgres/typescript-drizzle.md) | ⭐ 110 | `commercial` |
 | [Useeffect Deep Dive](commercial/378-useeffect-deep-dive_33354bf1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/programming-in-react/useEffect-deep-dive.md) | ⭐ 110 | `commercial` |
+| [Skill](commercial/name-skill_37418d93/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-document-intelligence-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/name-skill_eae58b07/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-appconfiguration-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/name-skill_590051c3/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-cosmos-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/name-skill_8db6eba7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-keyvault-keys-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/name-skill_87699e71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-keyvault-secrets-ts/SKILL.md) | 🔥 8.7k | `commercial` |
 
-### Communication (13 skills)
+### Communication (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -278,11 +289,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multi Turn Consistency](communication/258-multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
 | [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
 | [Typebox](communication/257-typebox_a9676e42/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/typebox.md) | ⭐ 110 | `communication` |
-| [Readme Cn](communication/readme_cn_6ff1b10d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 78 | `communication` |
-| [Desktop Terminal Improvements](communication/desktop-terminal-improvements_0bb90f3f/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-terminal-improvements.md) | ⭐ 78 | `communication` |
-| [Im Channels](communication/im-channels_fe4935ad/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channels.md) | ⭐ 78 | `communication` |
+| [Readme Cn](communication/257-readme_cn_6ff1b10d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 78 | `communication` |
+| [Skill](communication/name-skill_692e6fdc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-web-pubsub-ts/SKILL.md) | 🔥 8.7k | `communication` |
 
-### Content Creation (45 skills)
+### Content Creation (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -329,8 +339,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_d83e852d/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/starting-an-implementation-plan/SKILL.md) | ⭐ 110 | `content creation` |
 | [Synthesis Arl Applicable](content-creation/362-synthesis-arl-applicable_a7305dc8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/synthesis-arl-applicable.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/363-description-skill_89da8c2e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/start-task/SKILL.md) | ⭐ 17 | `content creation` |
-| [Desktop App Guide En](content-creation/desktop-app-guide_en_c1077eb3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 78 | `content creation` |
-| [Third Party Notices](content-creation/third_party_notices_c2eee3b5/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/THIRD_PARTY_NOTICES.md) | ⭐ 78 | `content creation` |
+| [Desktop App Guide En](content-creation/382-desktop-app-guide_en_c1077eb3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 78 | `content creation` |
+| [Skill](content-creation/name-skill_53c0ed18/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-contentsafety-ts/SKILL.md) | 🔥 8.7k | `content creation` |
+| [Skill](content-creation/name-skill_8e5e8350/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-file-share-ts/SKILL.md) | 🔥 8.7k | `content creation` |
 
 ### Daily Assistant (23 skills)
 
@@ -358,7 +369,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [4 Hookconfig Pydantic Models](daily-assistant/273-4-hookconfig-pydantic-models_ecee53f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/4-hookconfig-pydantic-models.md) | ⭐ 17 | `daily assistant` |
 | [5 Mcpconfig Pydantic Models](daily-assistant/274-5-mcpconfig-pydantic-models_5624fea3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/5-mcpconfig-pydantic-models.md) | ⭐ 17 | `daily assistant` |
 | [Swarm Task Planner](daily-assistant/120-swarm-task-planner_ee693a6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/swarm-task-planner.md) | ⭐ 17 | `daily assistant` |
-| [Configuration](daily-assistant/configuration_4cf0c8ec/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 78 | `daily assistant` |
+| [Configuration](daily-assistant/262-configuration_4cf0c8ec/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 78 | `daily assistant` |
 
 ### Data Analysis (189 skills)
 
@@ -554,7 +565,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [12 Descriptionvalidator File Type Awareness](data-analysis/480-12-descriptionvalidator-file-type-awareness_ccf6d75f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/12-descriptionvalidator-file-type-awareness.md) | ⭐ 17 | `data analysis` |
 | [Qa Expert Panel](data-analysis/481-qa-expert-panel_05c5a34f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/qa-expert-panel.md) | ⭐ 17 | `data analysis` |
 
-### Development (330 skills)
+### Development (334 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -886,8 +897,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [10 Lspconfigvalidator Implementation](development/2912-10-lspconfigvalidator-implementation_76328568/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/10-lspconfigvalidator-implementation.md) | ⭐ 17 | `development` |
 | [Grepai](development/2913-grepai_c6add871/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/developer-tools/grepai.md) | ⭐ 17 | `development` |
 | [Synthesis General Theory](development/2914-synthesis-general-theory_32490dd3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/synthesis-general-theory.md) | ⭐ 17 | `development` |
-| [Agent Framework Research 2024 2026](development/agent_framework_research_2024_2026_b0b49f8a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/research/AGENT_FRAMEWORK_RESEARCH_2024_2026.md) | ⭐ 78 | `development` |
-| [Im Channel Setup Tutorial](development/im-channel-setup-tutorial_caac2fcc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/im-channel-setup-tutorial.md) | ⭐ 78 | `development` |
+| [Agent Framework Research 2024 2026](development/2942-agent_framework_research_2024_2026_b0b49f8a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/research/AGENT_FRAMEWORK_RESEARCH_2024_2026.md) | ⭐ 78 | `development` |
+| [Skill](development/name-skill_3cbdd139/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-projects-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_1a276e77/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-voicelive-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/name-skill_71a952ce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-blob-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Agent](development/agent_610085ed/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.3k | `development` |
+| [Skill](development/name-skill_4a792eac/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-identity-ts/SKILL.md) | 🔥 8.7k | `development` |
 
 ### Development/Devops (34 skills)
 
@@ -924,9 +939,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/devops/053-agents_2f52ed9c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md) | 🔥 6.5k | `development` |
 | [Environment Setup](development/devops/200-environment-setup_515167ac/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 6.8k | `development` |
 | [Long Running State Patterns](development/devops/368-long-running-state-patterns_57f0e2d4/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/writing-claude-directives/long-running-state-patterns.md) | ⭐ 110 | `development` |
-| [Deploy](development/devops/deploy_928d7fea/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 78 | `development` |
-| [Deploy En](development/devops/deploy_en_f238e5dc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 78 | `development` |
-| [03 Quickstart Server](development/devops/03-quickstart-server_b935ddd0/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/getting-started/03-quickstart-server.md) | ⭐ 1.1k | `development` |
+| [Deploy](development/devops/037-deploy_928d7fea/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 78 | `development` |
+| [Deploy En](development/devops/195-deploy_en_f238e5dc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 78 | `development` |
+| [Skill](development/devops/name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
 
 ### Development/Testing (7 skills)
 
@@ -940,7 +955,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [1 Filetype Enum Extension](development/testing/087-1-filetype-enum-extension_b9995c22/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/1-filetype-enum-extension.md) | ⭐ 17 | `development` |
 | [23 Pre Commit Config Update](development/testing/088-23-pre-commit-config-update_31fdb907/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/23-pre-commit-config-update.md) | ⭐ 17 | `development` |
 
-### Development/Tools (42 skills)
+### Development/Tools (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -978,14 +993,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_b0e278ab/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/SKILL.md) | ⭐ 110 | `development` |
 | [Plugin Validator Architecture](development/tools/327-plugin-validator-architecture_44433ed6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/plugin-validator-architecture.md) | ⭐ 17 | `development` |
 | [Human Out Of Loop Prerequisites](development/tools/328-human-out-of-loop-prerequisites_7bd77284/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/human-out-of-loop-prerequisites.md) | ⭐ 17 | `development` |
-| [Architecture](development/tools/architecture_78f986f8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/architecture.md) | ⭐ 78 | `development` |
-| [Dependencies](development/tools/dependencies_c4800028/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/dependencies.md) | ⭐ 78 | `development` |
-| [Desktop App Guide](development/tools/desktop-app-guide_10235456/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide.md) | ⭐ 78 | `development` |
-| [Tool System Architecture](development/tools/tool-system-architecture_8471a332/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 78 | `development` |
-| [Browser Auth Guide](development/tools/browser-auth-guide_c87f4c18/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/browser-auth-guide.md) | ⭐ 78 | `development` |
-| [Configuration Guide](development/tools/configuration-guide_3138b241/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration-guide.md) | ⭐ 78 | `development` |
-| [Instructions](development/tools/instructions_7d371bc3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/mcps/chrome-browser/INSTRUCTIONS.md) | ⭐ 78 | `development` |
-| [Instructions](development/tools/instructions_d36aa368/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/mcps/chrome-devtools/INSTRUCTIONS.md) | ⭐ 78 | `development` |
+| [Architecture](development/tools/051-architecture_78f986f8/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/architecture.md) | ⭐ 78 | `development` |
+| [Dependencies](development/tools/215-dependencies_c4800028/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/dependencies.md) | ⭐ 78 | `development` |
+| [Desktop App Guide](development/tools/329-desktop-app-guide_10235456/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide.md) | ⭐ 78 | `development` |
+| [Tool System Architecture](development/tools/219-tool-system-architecture_8471a332/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/tool-system-architecture.md) | ⭐ 78 | `development` |
 
 ### Investment (1 skills)
 
@@ -1120,5 +1131,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 11:22:06 UTC*
+*Last updated: 2026-02-14 12:21:51 UTC*
 *Automatically maintained by SkillFlow*
