@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-13T23:21:38.172483",
+  "updated_at": "2026-02-14T00:21:37.651595",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -449,6 +449,118 @@
       "source_url": "https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md",
       "display_name": "Readme Flat Commands Updated",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8fbab90f839c105d22f023d3a2f67c12a71934e9560a8ae670e23ea382ac7bba",
+      "source_path": "docs/CLAUDE.md",
+      "source_repo": "pocketpaw/pocketpaw",
+      "local_path": "communication/024-claude_8fbab90f",
+      "category": "communication",
+      "name": "claude_8fbab90f",
+      "indexed_at": "2026-02-14T00:21:37.567119",
+      "repo_stars": 31,
+      "repo_updated_at": "2026-02-13T07:42:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "cf2b1aebdfcfe6189b742620299261008f17add728e8814b8320de15305a9b79",
+      "source_path": "docs/ai-agents/overview.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "automation/workflow/016-overview_cf2b1aeb",
+      "category": "automation/workflow",
+      "name": "overview_cf2b1aeb",
+      "indexed_at": "2026-02-14T00:21:37.591019",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-13T01:36:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md",
+      "display_name": "Overview",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "cbde8500896ddadca7ceaa74a6ddc702557f31bb0a4eea0f7135585a54dbb007",
+      "source_path": "docs/ai-agents/skills.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "development/1285-agent-skill_cbde8500",
+      "category": "development",
+      "name": "agent-skill_cbde8500",
+      "indexed_at": "2026-02-14T00:21:37.603021",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-13T01:36:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md",
+      "display_name": "Skills",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "86fc6fe495dec1bd993d813b5e269591fff56b24a922f8d76ac3ac6d39ec6682",
+      "source_path": "docs/configuration/env-config.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "development/1286-env-config_86fc6fe4",
+      "category": "development",
+      "name": "env-config_86fc6fe4",
+      "indexed_at": "2026-02-14T00:21:37.615761",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-10T19:20:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/env-config.md",
+      "display_name": "Env Config",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e44080e873a01480934b33e9bffb0e396565c8cfc857e620352cc07970928b7d",
+      "source_path": "docs/configuration/yaml-config.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "development/1287-yaml-config_e44080e8",
+      "category": "development",
+      "name": "yaml-config_e44080e8",
+      "indexed_at": "2026-02-14T00:21:37.624174",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-10T19:20:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/yaml-config.md",
+      "display_name": "Yaml Config",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a4acc08accb676cc21a0b6eeba77a00da5f2672fe40e340443cb1ceea161536d",
+      "source_path": "daiv/automation/agent/skills/init/SKILL.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "development/1178-name-skill_a4acc08a",
+      "category": "development",
+      "name": "name-skill_a4acc08a",
+      "indexed_at": "2026-02-14T00:21:37.633247",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-13T12:24:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/init/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "329815869707b1ffed8e1d950e6983143bd1a1d2522d487802b8691d62faa5e8",
+      "source_path": "daiv/automation/agent/skills/security-audit/SKILL.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "development/1178-name-skill_32981586",
+      "category": "development",
+      "name": "name-skill_32981586",
+      "indexed_at": "2026-02-14T00:21:37.641019",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-13T12:24:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a9cca04f3f82e9eb56f8252d1c086b08faca31ce967ab3269a3a05f335d317f9",
+      "source_path": "daiv/automation/agent/skills/skill-creator/SKILL.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "content-creation/049-name-skill_a9cca04f",
+      "category": "content-creation",
+      "name": "name-skill_a9cca04f",
+      "indexed_at": "2026-02-14T00:21:37.651569",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-13T01:36:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
