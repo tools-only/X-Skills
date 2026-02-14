@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T09:23:29.443124",
+  "updated_at": "2026-02-14T09:24:52.275801",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -10109,6 +10109,20 @@
       "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/schema-adherence.md",
       "display_name": "Schema Adherence",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "59c5e3e08bd65134f2d70c332334d2336b9d565e458524c3bf28617b158be7ae",
+      "source_path": "AUDIT.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/2883-audit_59c5e3e0",
+      "category": "development",
+      "name": "audit_59c5e3e0",
+      "indexed_at": "2026-02-14T09:24:52.275758",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-01-31T16:40:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md",
+      "display_name": "Audit",
+      "tags": "[\"development\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **849 AI-powered skills** organized into 15 categories.
+A curated collection of **724 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (10 skills)
-- **Automation/Workflow** (38 skills)
-- **Commercial** (19 skills)
-- **Communication** (12 skills)
-- **Content Creation** (35 skills)
-- **Daily Assistant** (21 skills)
-- **Data Analysis** (215 skills)
-- **Development** (362 skills)
+- **Automation/Workflow** (33 skills)
+- **Commercial** (18 skills)
+- **Communication** (9 skills)
+- **Content Creation** (33 skills)
+- **Daily Assistant** (14 skills)
+- **Data Analysis** (184 skills)
+- **Development** (301 skills)
 - **Development/Devops** (30 skills)
 - **Development/Testing** (5 skills)
-- **Development/Tools** (46 skills)
+- **Development/Tools** (31 skills)
 - **Investment** (1 skill)
 - **Other** (2 skills)
 - **Productivity** (8 skills)
@@ -189,14 +189,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Phase 1 Quick Reference](automation/scripting/098-phase_1_quick_reference_1f8f27ea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/internal/PHASE_1_QUICK_REFERENCE.md) | ⭐ 19 | `automation` |
 | [Instructions](automation/scripting/099-instructions_fd6daff5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/medchem/instructions.md) | ⭐ 19 | `automation` |
 | [Instructions](automation/scripting/099-instructions_765c2947/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/rdkit/instructions.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/name-skill_3725d0a4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/local-blast/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/scripting/name-skill_67f7d473/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/interactive-annotation/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/scripting/name-skill_65dd1d52/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/alignment-free-quant/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/scripting/name-skill_d36c3045/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/batch-integration/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/scripting/name-skill_5fd49ef2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-io/SKILL.md) | ⭐ 244 | `automation` |
-| [Parallel Consistency](automation/scripting/parallel-consistency_7cac67d7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/parallel-consistency.md) | ⭐ 99 | `automation` |
+| [Skill](automation/scripting/003-name-skill_3725d0a4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/local-blast/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/scripting/003-name-skill_67f7d473/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/interactive-annotation/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/scripting/003-name-skill_65dd1d52/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/alignment-free-quant/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/scripting/003-name-skill_d36c3045/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/batch-integration/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/scripting/003-name-skill_5fd49ef2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-io/SKILL.md) | ⭐ 244 | `automation` |
+| [Parallel Consistency](automation/scripting/095-parallel-consistency_7cac67d7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/parallel-consistency.md) | ⭐ 99 | `automation` |
 
-### Automation/Workflow (38 skills)
+### Automation/Workflow (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -219,27 +219,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/134-instructions_f584517f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scvi-tools/instructions.md) | ⭐ 19 | `automation` |
 | [Instructions](automation/workflow/134-instructions_ee39d309/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/transformers/instructions.md) | ⭐ 19 | `automation` |
 | [Instructions](automation/workflow/134-instructions_51c596c0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/umap-learn/instructions.md) | ⭐ 19 | `automation` |
-| [Skill](automation/workflow/name-skill_ec6ac943/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/cytometry-qc/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_edd4dfd2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/doublet-detection/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_0042d9d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/coexpression-networks/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_0aac0ef1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/data-preprocessing/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_f43acea6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/basecalling/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_9eed3a26/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/amr-detection/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_52ff98fe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/jupyter-reports/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_3880be84/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/clinical-interpretation/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_7f424606/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/joint-calling/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_e7978ca4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/nextflow-pipelines/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_c124d2f2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/cnv-pipeline/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_fa391627/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metabolic-modeling-pipeline/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_ca972ce9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/scrnaseq-pipeline/SKILL.md) | ⭐ 244 | `automation` |
-| [Self Correction](automation/workflow/self-correction_8bd20857/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/self-correction.md) | ⭐ 99 | `automation` |
-| [Skill](automation/workflow/name-skill_10e7bdf0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/bioskills-installer/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_3a1fd2f9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/bedgraph-handling/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_15092313/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/bwa-alignment/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_b2f4d7b7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/automated-qc-reports/SKILL.md) | ⭐ 244 | `automation` |
-| [Skill](automation/workflow/name-skill_663870e2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/fastq-to-variants/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ec6ac943/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/cytometry-qc/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_edd4dfd2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/doublet-detection/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_0042d9d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/coexpression-networks/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_0aac0ef1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/data-preprocessing/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_f43acea6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/basecalling/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_9eed3a26/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/amr-detection/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_52ff98fe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/jupyter-reports/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_3880be84/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/clinical-interpretation/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_7f424606/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/joint-calling/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_e7978ca4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/nextflow-pipelines/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_c124d2f2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/cnv-pipeline/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_fa391627/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metabolic-modeling-pipeline/SKILL.md) | ⭐ 244 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ca972ce9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/scrnaseq-pipeline/SKILL.md) | ⭐ 244 | `automation` |
+| [Self Correction](automation/workflow/137-self-correction_8bd20857/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/self-correction.md) | ⭐ 99 | `automation` |
 
-### Commercial (19 skills)
+### Commercial (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -259,11 +254,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Marketing](commercial/399-marketing_b3e32d9e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/marketing.md) | ⭐ 19 | `commercial` |
 | [Instructions](commercial/107-instructions_babffa81/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/simpy/instructions.md) | ⭐ 19 | `commercial` |
 | [Goal Setting Frameworks](commercial/095-goal_setting_frameworks_a28a8e14/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/goal_setting_frameworks.md) | ⭐ 19 | `commercial` |
-| [Skill](commercial/name-skill_5d19e3d3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/batch-downloads/SKILL.md) | ⭐ 244 | `commercial` |
-| [Conditional Logic](commercial/conditional-logic_1414dc8f/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/conditional-logic.md) | ⭐ 99 | `commercial` |
-| [Skill](commercial/name-skill_310e4b57/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/reaction-enumeration/SKILL.md) | ⭐ 244 | `commercial` |
+| [Skill](commercial/210-name-skill_5d19e3d3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/batch-downloads/SKILL.md) | ⭐ 244 | `commercial` |
+| [Conditional Logic](commercial/376-conditional-logic_1414dc8f/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/conditional-logic.md) | ⭐ 99 | `commercial` |
 
-### Communication (12 skills)
+### Communication (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -273,14 +267,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
-| [Implicit Constraints](communication/implicit-constraints_fe3c9296/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/implicit-constraints.md) | ⭐ 99 | `communication` |
-| [Multi Turn Consistency](communication/multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
-| [Partial Information](communication/partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
-| [Api Orchestration](communication/api-orchestration_da4f2600/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/api-orchestration.md) | ⭐ 99 | `communication` |
-| [Email Summarization](communication/email-summarization_cf5600fe/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/email-summarization.md) | ⭐ 99 | `communication` |
-| [Sql Generation](communication/sql-generation_273af202/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/sql-generation.md) | ⭐ 99 | `communication` |
+| [Implicit Constraints](communication/257-implicit-constraints_fe3c9296/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/implicit-constraints.md) | ⭐ 99 | `communication` |
+| [Multi Turn Consistency](communication/258-multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
+| [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
 
-### Content Creation (35 skills)
+### Content Creation (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -313,14 +304,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_4a225bcb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 20 | `content creation` |
 | [Reference](content-creation/026-reference_9b5d57a4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/notion/REFERENCE.md) | ⭐ 102 | `content creation` |
 | [Reference](content-creation/026-reference_5c3a11f5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/REFERENCE.md) | ⭐ 102 | `content creation` |
-| [Skill](content-creation/name-skill_d54e6e8c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/tree-io/SKILL.md) | ⭐ 244 | `content creation` |
-| [Skill](content-creation/name-skill_94ee4cec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/quality-reports/SKILL.md) | ⭐ 244 | `content creation` |
-| [Context Utilization](content-creation/context-utilization_abd87a1d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/context-utilization.md) | ⭐ 99 | `content creation` |
-| [Summarization Fidelity](content-creation/summarization-fidelity_8ab789c0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/summarization-fidelity.md) | ⭐ 99 | `content creation` |
-| [Creative Rewriting](content-creation/creative-rewriting_92e4c4e2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/creative-rewriting.md) | ⭐ 99 | `content creation` |
-| [Meeting Notes](content-creation/meeting-notes_33cff067/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/meeting-notes.md) | ⭐ 99 | `content creation` |
+| [Skill](content-creation/049-name-skill_d54e6e8c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/tree-io/SKILL.md) | ⭐ 244 | `content creation` |
+| [Skill](content-creation/049-name-skill_94ee4cec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/quality-reports/SKILL.md) | ⭐ 244 | `content creation` |
+| [Context Utilization](content-creation/361-context-utilization_abd87a1d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/context-utilization.md) | ⭐ 99 | `content creation` |
+| [Summarization Fidelity](content-creation/362-summarization-fidelity_8ab789c0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/summarization-fidelity.md) | ⭐ 99 | `content creation` |
 
-### Daily Assistant (21 skills)
+### Daily Assistant (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -331,22 +320,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Insufficient Gas Griefing](daily-assistant/271-insufficient-gas-griefing_473c0530/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/insufficient-gas-griefing.md) | ⭐ 90 | `daily assistant` |
 | [Intervention Guidelines](daily-assistant/271-intervention_guidelines_6bcc583a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/intervention_guidelines.md) | ⭐ 19 | `daily assistant` |
 | [Specialty Specific Guidelines](daily-assistant/272-specialty_specific_guidelines_05b82478/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/specialty_specific_guidelines.md) | ⭐ 19 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_914cf3b1/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/SKILL.md) | ⭐ 99 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_3b422320/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 99 | `daily assistant` |
-| [Counting Enumeration](daily-assistant/counting-enumeration_063e9793/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/counting-enumeration.md) | ⭐ 99 | `daily assistant` |
-| [Creative Generation](daily-assistant/creative-generation_5eec5ecf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/creative-generation.md) | ⭐ 99 | `daily assistant` |
-| [Multi Hop Reasoning](daily-assistant/multi-hop-reasoning_2b924562/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-hop-reasoning.md) | ⭐ 99 | `daily assistant` |
-| [Output Calibration](daily-assistant/output-calibration_760969a7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/output-calibration.md) | ⭐ 99 | `daily assistant` |
-| [Tool Use Planning](daily-assistant/tool-use-planning_d1507a04/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/tool-use-planning.md) | ⭐ 99 | `daily assistant` |
-| [Map](daily-assistant/_map_5854db4f/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_MAP.md) | ⭐ 99 | `daily assistant` |
-| [Code Review Triage](daily-assistant/code-review-triage_1d1e3cd9/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/code-review-triage.md) | ⭐ 99 | `daily assistant` |
-| [Document Qa](daily-assistant/document-qa_2ea3e1f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/document-qa.md) | ⭐ 99 | `daily assistant` |
-| [Resume Screening](daily-assistant/resume-screening_0e0c1084/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/resume-screening.md) | ⭐ 99 | `daily assistant` |
-| [Step By Step Analysis](daily-assistant/step-by-step-analysis_fd767ef5/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/step-by-step-analysis.md) | ⭐ 99 | `daily assistant` |
-| [Text Classification](daily-assistant/text-classification_61f7ce5e/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/text-classification.md) | ⭐ 99 | `daily assistant` |
-| [Map](daily-assistant/_map_c1842f7a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/scripts/_MAP.md) | ⭐ 99 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_914cf3b1/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/SKILL.md) | ⭐ 99 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_3b422320/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 99 | `daily assistant` |
+| [Counting Enumeration](daily-assistant/272-counting-enumeration_063e9793/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/counting-enumeration.md) | ⭐ 99 | `daily assistant` |
+| [Creative Generation](daily-assistant/273-creative-generation_5eec5ecf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/creative-generation.md) | ⭐ 99 | `daily assistant` |
+| [Multi Hop Reasoning](daily-assistant/274-multi-hop-reasoning_2b924562/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-hop-reasoning.md) | ⭐ 99 | `daily assistant` |
+| [Output Calibration](daily-assistant/275-output-calibration_760969a7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/output-calibration.md) | ⭐ 99 | `daily assistant` |
+| [Tool Use Planning](daily-assistant/276-tool-use-planning_d1507a04/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/tool-use-planning.md) | ⭐ 99 | `daily assistant` |
 
-### Data Analysis (215 skills)
+### Data Analysis (184 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -409,164 +391,133 @@ ls ~/.claude/skills/patch-research-agent/
 | [Visual Review Workflow](data-analysis/490-visual_review_workflow_579328d5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/visual_review_workflow.md) | ⭐ 19 | `data analysis` |
 | [Treatment Plan Standards](data-analysis/491-treatment_plan_standards_b6b58a5f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/treatment_plan_standards.md) | ⭐ 19 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2f7f27f4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
-| [Skill](data-analysis/name-skill_b7dbd236/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-validation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_aea84036/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/sashimi-plots/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_523ddc4d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/atac-peak-calling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b39fbdfe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/atac-qc/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_97cda4d6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/differential-accessibility/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_24f5b9dc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/nucleosome-positioning/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_0e32f4c1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/admet-prediction/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7ff23ae4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/differential-binding/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_d71cdbb1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/motif-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_4765ba66/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/peak-calling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_2f2080aa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/polygenic-risk/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e7bca901/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/binding-site-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_04b9b8ab/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/ancestral-reconstruction/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_011e2e3b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/synteny-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_6a7466fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnv-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_c6728d5d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnv-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_46b45365/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnvkit-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e472d671/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/gatk-cnv/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_edb25d2b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/batch-correction/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_53e456cc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/crispresso-editing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_3129356d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/jacks-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e3895c89/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/mageck-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_07c136d7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/circos-plots/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_39fb1990/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/genome-browser-tracks/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_32749634/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/genome-tracks/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_05ed7522/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/ggplot2-fundamentals/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e17e07a6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/interactive-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_41e08d4f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/network-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e073d811/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/interaction-databases/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_64eaa237/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/sra-data/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_a6209cb8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/uniprot-access/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e67e4df2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/conservation-genetics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_ff18c65e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/species-delimitation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_6bc67d63/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/pathogen-typing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_87772e91/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/phylodynamics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_c35ca461/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/transmission-inference/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_95f0daf9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/variant-surveillance/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_6be98db6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/m6anet-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7c91cc03/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/counts-ingest/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_84c7be5f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/metadata-joins/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_86f21187/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/sparse-handling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_22772fa4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/clustering-phenotyping/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_0c09c682/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/compensation-transformation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_defe8001/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/fcs-handling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7f7b6a54/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/differential-networks/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_bbfeb5bf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/scenic-regulons/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_a0d1782f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/annotation-transfer/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b72d1e7f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/contamination-detection/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_d7aa7f58/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/metagenome-assembly/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_953f80a5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/scaffolding/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b529cbdd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/bigwig-tracks/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_f27b81fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/coverage-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b736fdcf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/compartment-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e12da10e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/contact-pairs/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_533b3b54/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/hic-data-io/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_cea069b0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/hic-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_9cae7593/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/loop-calling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e589fc60/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/tad-detection/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_802f891b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/cell-segmentation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e1297014/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/phenotyping/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_bbf15d20/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/quality-metrics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_6fe5ab3a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/spatial-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_3ba77be0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/isoseq-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b67232d6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/long-read-qc/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_68dd28c3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/prediction-explanation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_94ded2ee/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/survival-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_97fc4772/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/lipidomics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b2feda90/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/msdial-preprocessing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7cf192f1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/pathway-mapping/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_3cb4c42b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/targeted-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b151ea90/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/xcms-preprocessing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_da6f6e8f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/abundance-estimation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_6a7e6cf3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/functional-profiling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_a2640f24/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/kraken-classification/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7723d2d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/metagenome-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_21c90839/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/methylation-analysis/methylation-calling/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_81f402b7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/mixomics-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_d3f65d5e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/mofa-integration/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_bd673f4f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/similarity-network/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_a442f4a3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/tree-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_ccfab59b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/linkage-disequilibrium/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_cf931369/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/dia-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_beb7d41d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/spectral-libraries/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_f7dd711d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/contamination-screening/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_60a32e5f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/figure-export/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_d0b34ab6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/quarto-reports/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_c9fea899/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/rmarkdown-reports/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_ed2316ff/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/count-matrix-qc/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_23cd19a4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/secondary-structure-prediction/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_a45af584/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/structure-probing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_145eeac7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/seq-objects/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_ae777634/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/data-io/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_6312c164/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/lineage-tracing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_ceac2ee1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/multimodal-integration/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_bc7c9630/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/perturb-seq/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_5b69b4c3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/image-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_5d92e6c9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-communication/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_a4f79d9f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-data-io/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b360e2c3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-deconvolution/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_1d5fabfd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-domains/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_42e243f8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-neighbors/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_9381ead7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-preprocessing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_1480c335/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-statistics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_f2036079/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_92dcb3c6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/immcantation-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_0371933e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/repertoire-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_ee8a7258/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/vdjtools-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7759b0c5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/temporal-grn/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_5cc403bf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/variant-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_44d83db3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/snakemake-workflows/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_415472c6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/atacseq-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e11cbb22/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/chipseq-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_1a9e8af9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/crispr-editing-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_d5ff02c1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/crispr-screen-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_5928b06f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/expression-to-pathways/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_75ea20ba/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/hic-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_7014b4af/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/imc-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_5d91432c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/merip-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_34e4941f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metagenomics-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_812ae3a5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/multiome-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_96bf0ac2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/outbreak-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_cead38c5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/spatial-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_fbffb3c4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/splicing-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_30624583/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Negation Handling](data-analysis/negation-handling_d6848ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/negation-handling.md) | ⭐ 99 | `data analysis` |
-| [Skill](data-analysis/name-skill_64232bcc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment/alignment-io/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_738de742/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment/msa-parsing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_38970506/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/isoform-switching/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_4afc9e45/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/motif-deviation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_775f8710/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/fine-mapping/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_fa7b84cc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/chipseq-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_cd078ba6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/peak-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_31d71ef6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/specialized-omics-plots/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_9269f27e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/gating-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_5cd86a0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/long-read-assembly/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_d5fc5ff7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/methylation-analysis/methylkit-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_18982153/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/gsea/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_e1caf149/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/restriction-analysis/restriction-mapping/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_00214a01/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/batch-processing/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_cc1de559/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/fastq-quality/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_45a24594/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/format-conversion/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_b33656bb/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/sequence-properties/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_68c1eebd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/clustering/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_8c136914/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/metabolite-communication/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_830bdb6b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/trajectory-inference/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_c658b63d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-multiomics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_32b98c39/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-proteomics/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_83b488f3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/scirpy-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_4b04a67b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/temporal-clustering/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_612aa859/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/methylation-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_09c6d543/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/multi-omics-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_8e3c6be2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/rnaseq-to-de/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Skill](data-analysis/name-skill_cc125100/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/tcr-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
-| [Content Moderation](data-analysis/content-moderation_892d42c3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/content-moderation.md) | ⭐ 99 | `data analysis` |
-| [Data Extraction](data-analysis/data-extraction_07653ca8/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/examples/data-extraction.md) | ⭐ 99 | `data analysis` |
-| [Map](data-analysis/_map_5ad94278/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/scripts/_MAP.md) | ⭐ 99 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b7dbd236/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-validation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_aea84036/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/sashimi-plots/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_523ddc4d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/atac-peak-calling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b39fbdfe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/atac-qc/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_97cda4d6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/differential-accessibility/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_24f5b9dc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/nucleosome-positioning/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0e32f4c1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/admet-prediction/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7ff23ae4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/differential-binding/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d71cdbb1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/motif-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_4765ba66/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/peak-calling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_2f2080aa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/polygenic-risk/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e7bca901/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/binding-site-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_04b9b8ab/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/ancestral-reconstruction/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_011e2e3b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/synteny-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6a7466fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnv-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c6728d5d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnv-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_46b45365/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/cnvkit-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e472d671/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/copy-number/gatk-cnv/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_edb25d2b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/batch-correction/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_53e456cc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/crispresso-editing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3129356d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/jacks-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e3895c89/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/mageck-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_07c136d7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/circos-plots/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_39fb1990/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/genome-browser-tracks/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_32749634/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/genome-tracks/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_05ed7522/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/ggplot2-fundamentals/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e17e07a6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/interactive-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_41e08d4f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/network-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e073d811/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/interaction-databases/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_64eaa237/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/sra-data/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a6209cb8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/uniprot-access/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e67e4df2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/conservation-genetics/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ff18c65e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/species-delimitation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6bc67d63/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/pathogen-typing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_87772e91/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/phylodynamics/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c35ca461/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/transmission-inference/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_95f0daf9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/variant-surveillance/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6be98db6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/m6anet-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7c91cc03/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/counts-ingest/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_84c7be5f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/metadata-joins/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_86f21187/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/sparse-handling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_22772fa4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/clustering-phenotyping/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0c09c682/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/compensation-transformation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_defe8001/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/fcs-handling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7f7b6a54/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/differential-networks/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bbfeb5bf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/scenic-regulons/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a0d1782f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/annotation-transfer/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b72d1e7f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/contamination-detection/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d7aa7f58/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/metagenome-assembly/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_953f80a5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/scaffolding/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b529cbdd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/bigwig-tracks/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f27b81fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/coverage-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b736fdcf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/compartment-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e12da10e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/contact-pairs/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_533b3b54/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/hic-data-io/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cea069b0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/hic-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9cae7593/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/loop-calling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e589fc60/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/tad-detection/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_802f891b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/cell-segmentation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e1297014/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/phenotyping/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bbf15d20/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/quality-metrics/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6fe5ab3a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/imaging-mass-cytometry/spatial-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3ba77be0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/isoseq-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b67232d6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/long-read-qc/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_68dd28c3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/prediction-explanation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_94ded2ee/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/survival-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_97fc4772/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/lipidomics/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b2feda90/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/msdial-preprocessing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7cf192f1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/pathway-mapping/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3cb4c42b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/targeted-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b151ea90/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/xcms-preprocessing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_da6f6e8f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/abundance-estimation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6a7e6cf3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/functional-profiling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a2640f24/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/kraken-classification/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7723d2d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/metagenome-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_21c90839/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/methylation-analysis/methylation-calling/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_81f402b7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/mixomics-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d3f65d5e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/mofa-integration/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bd673f4f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/similarity-network/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a442f4a3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/tree-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ccfab59b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/linkage-disequilibrium/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cf931369/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/dia-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_beb7d41d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/spectral-libraries/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f7dd711d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/contamination-screening/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_60a32e5f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/figure-export/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d0b34ab6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/quarto-reports/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c9fea899/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/reporting/rmarkdown-reports/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ed2316ff/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/count-matrix-qc/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_23cd19a4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/secondary-structure-prediction/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a45af584/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/structure-probing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_145eeac7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/seq-objects/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ae777634/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/data-io/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6312c164/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/lineage-tracing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ceac2ee1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/multimodal-integration/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bc7c9630/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/perturb-seq/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5b69b4c3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/image-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5d92e6c9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-communication/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a4f79d9f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-data-io/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b360e2c3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-deconvolution/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_1d5fabfd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-domains/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_42e243f8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-neighbors/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_9381ead7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-preprocessing/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_1480c335/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-statistics/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_f2036079/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/spatial-transcriptomics/spatial-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_92dcb3c6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/immcantation-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0371933e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/repertoire-visualization/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ee8a7258/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/vdjtools-analysis/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7759b0c5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/temporal-grn/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5cc403bf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/variant-annotation/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_44d83db3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/snakemake-workflows/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_415472c6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/atacseq-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e11cbb22/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/chipseq-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_1a9e8af9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/crispr-editing-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_d5ff02c1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/crispr-screen-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5928b06f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/expression-to-pathways/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_75ea20ba/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/hic-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7014b4af/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/imc-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5d91432c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/merip-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_34e4941f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metagenomics-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_812ae3a5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/multiome-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_96bf0ac2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/outbreak-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cead38c5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/spatial-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_fbffb3c4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/splicing-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_30624583/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/timecourse-pipeline/SKILL.md) | ⭐ 244 | `data analysis` |
+| [Negation Handling](data-analysis/479-negation-handling_d6848ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/negation-handling.md) | ⭐ 99 | `data analysis` |
 
-### Development (362 skills)
+### Development (301 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -710,228 +661,167 @@ ls ~/.claude/skills/patch-research-agent/
 | [Swift Apis](development/2927-swift_apis_e4c501bb/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md) | ⭐ 27 | `development` |
 | [Agents](development/028-agents_2d61c915/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
 | [039 Adopt Fully Independent Plugin Crates Architecture](development/2956-039-adopt-fully-independent-plugin-crates-architecture_8eb48b75/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md) | ⭐ 3.3k | `development` |
-| [Audit](development/2957-audit_3d83e084/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
-| [Skill](development/name-skill_22dc8354/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-sorting/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_2d9ff2ae/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/bam-statistics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_2673919f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/duplicate-handling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_eede0d73/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment/pairwise-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_96c2759d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/differential-splicing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7d7b2106/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/single-cell-splicing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7cc1c2e6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/splicing-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4ae33127/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/splicing-quantification/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_33313b51/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/footprinting/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_2052d138/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/pleiotropy-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_61a5ca0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-descriptors/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c1e97059/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-io/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_39c62f66/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/virtual-screening/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_27a8787a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/chipseq-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f6615843/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/super-enhancers/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e97f2f63/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/clinvar-lookup/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_3c4cf4bd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/dbsnp-queries/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_74a7743a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/hla-typing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_5bbe7ca8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/myvariant-queries/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_52fb4558/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/pharmacogenomics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_11007935/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/tumor-mutational-burden/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8e4b9e84/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/variant-prioritization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c286682f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/clip-peak-calling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9adc8111/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/hgt-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8bb0a813/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/ortholog-inference/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_b97e7ee7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/base-editing-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d6ea301b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/hit-calling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fbac03b2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/library-design/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7ed9a260/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/screen-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_de5b2ebe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/color-palettes/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_dec67b54/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/heatmaps-clustering/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_a58bd8a4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/multipanel-figures/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_3e0757ba/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/upset-plots/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_80e7c4ec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/volcano-customization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f25c5995/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/blast-searches/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_5b573356/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-fetch/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_0ad3f8d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-search/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ab169f6f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/geo-data/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_149f0b01/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/batch-correction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4deeee45/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/de-results/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d207eee5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/de-visualization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fe684ccc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/deseq2-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fef0e791/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/edger-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_539551d1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/timeseries-de/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e1d91a78/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/biodiversity-metrics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f7ddd2d7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/edna-metabarcoding/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_376f7938/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/landscape-genomics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fb088c57/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/amr-surveillance/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_01816e70/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/modification-visualization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e31255ea/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/experimental-design/batch-design/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ca6641ab/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/gene-id-mapping/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c1eaf32c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/bead-normalization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_13e71124/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/differential-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_052ff3c6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/multiomics-grn/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_21f02382/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/perturbation-simulation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d79bfd94/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/eukaryotic-gene-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_56eb84be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/functional-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ac32d2a9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/ncrna-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_509bbd96/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/prokaryotic-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_6db70d10/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/repeat-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ee076be4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/assembly-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d8a996d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/hifi-assembly/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_48fcc25c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/off-target-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d6d0844d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/prime-editing-design/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f71a9334/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/bed-file-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e14d0435/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/gtf-gff-handling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7e3b8eaa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/interval-arithmetic/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_13c0f1d5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/proximity-operations/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e750882d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/hic-differential/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_290e1a12/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/matrix-operations/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ba715200/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/epitope-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c3b8886f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/immunogenicity-scoring/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_008fe2a0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/mhc-binding-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1dd122de/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/neoantigen-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_925147d7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/tcr-epitope-binding/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_cc27738a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/ctdna-mutation-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_a3c697e4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/fragment-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_bec56c97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/longitudinal-monitoring/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d2dfab33/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/methylation-based-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_065e3ffa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/tumor-fraction-estimation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_97653a7a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/atlas-mapping/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e19f7f06/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/biomarker-discovery/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_bea4edc0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/model-validation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c6443849/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/omics-classifiers/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_33234477/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/metabolite-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_afc955c4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/normalization-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_918e4b0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/statistical-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8809693e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/metaphlan-profiling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1b9d06d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/strain-tracking/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_df25f827/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/differential-abundance/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4104da97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/diversity-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_efbb6960/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/functional-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8398b26f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/taxonomy-assignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_10af7ce0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/enrichment-visualization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c84ec4cd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/wikipathways/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e4bb3709/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phasing-imputation/genotype-imputation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_069912fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phasing-imputation/imputation-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_b3bc9f8b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/plink-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_cd49d568/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/population-structure/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8ddc9a66/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/primer-validation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f0ff6b9a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/qpcr-primers/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_a1ee3cca/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/data-import/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9a416d5b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/differential-abundance/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f6c73d97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/peptide-identification/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_6fc207be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/protein-inference/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_814c37fd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/proteomics-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1068e46b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/ptm-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7317ec60/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/quantification/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_aa1d1b63/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/fastp-workflow/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_40cb0490/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/rnaseq-qc/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_955cd2c2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/umi-processing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_094d94df/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/orf-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_77e777a5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/riboseq-preprocessing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d361ae0b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-periodicity/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_513b53ed/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-stalling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_dd0da3fe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/translation-efficiency/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_5cff8afe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/featurecounts-counting/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e8133d4d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/ncrna-search/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_46da6da1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/filter-sequences/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_335ac8ec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/read-sequences/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_820dfd23/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/sequence-statistics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_a86cad9d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/codon-usage/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ddf6f060/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/transcription-translation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_76dfb811/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/cell-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7a56e500/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/markers-annotation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4104ac0d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/preprocessing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7af8fa69/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/mirdeep2-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_0963e754/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/mirge3-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_826e07d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/smrna-preprocessing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_acb421f0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/target-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8d5a16da/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/alphafold-predictions/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ed4a4074/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/geometric-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f5354abd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/modern-structure-prediction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_868afd0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-modification/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_0ec234fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-navigation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_747968b8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/context-specific-models/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_057cd952/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/flux-balance-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e64cda0c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/gene-essentiality/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_6571844b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/mixcr-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7f4a5d31/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/circadian-rhythms/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_60b583a3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e94a7393/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/trajectory-modeling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c21bfe8b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/variant-normalization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_8262aa5d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-manipulation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_3587f319/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-statistics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_247cbd0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/biomarker-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7450f90e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/cytometry-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_44d2ae0f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/edna-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9835bf8f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/genome-annotation-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e21d7d13/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_6aebf8ba/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/gwas-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c6e3ff84/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/liquid-biopsy-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1e46c1be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metabolomics-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_6d97ba06/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/microbiome-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e8ca36b6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/neoantigen-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_15280959/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/smrna-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ec7166f4/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/SKILL.md) | ⭐ 99 | `development` |
-| [Arch](development/_arch_fce4e16d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 99 | `development` |
-| [Code Generation](development/code-generation_32048ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/code-generation.md) | ⭐ 99 | `development` |
-| [Skill](development/name-skill_590f81b1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-filtering/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_12dcba98/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-indexing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_d63db4fb/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/pileup-generation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_54ec74c1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/reference-operations/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_0fc992e7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/sam-bam-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f0e4f4f2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment/msa-statistics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_b0ae75dc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/colocalization-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_40a9193c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/mediation-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4252e2bd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/mendelian-randomization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9cfff125/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/similarity-searching/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_5bf48be1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/substructure-search/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_37e18976/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/gnomad-frequencies/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_62c5b2c2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/somatic-signatures/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f9ec2029/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/clip-preprocessing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_388067ad/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/positive-selection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_cb79e7cf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/sequence-similarity/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_0429069a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/community-ecology/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e3eb9a58/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/m6a-differential/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_3753afb5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/m6a-peak-calling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f467ddfe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/merip-preprocessing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_dc1f8acb/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/experimental-design/multiple-testing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1b8dccb2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/experimental-design/power-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_246061d9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/experimental-design/sample-size/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_71fd5739/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/base-editing-design/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9a12f58c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/grna-design/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_942d2287/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/hdr-template-design/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_18e9aa6e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/cfdna-preprocessing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_c7d0cd24/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/clair3-variants/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_07a1d8d9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/methylation-analysis/dmr-detection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_cf83184c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/amplicon-processing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_f189976f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/multi-omics-integration/data-harmonization/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_90cc6f64/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/go-enrichment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_320b8442/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/kegg-pathways/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4ff428f9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/reactome-pathways/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_5db9dc97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/distance-calculations/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_bb712b0b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/tree-manipulation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_987ab56f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/association-testing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_abd3c2d1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/scikit-allel-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_a7dbb48a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/selection-statistics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_a4e4740a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/restriction-analysis/enzyme-selection/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_e872623f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/restriction-analysis/fragment-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_25b18a64/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/restriction-analysis/restriction-sites/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_3acb4534/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/tximport-workflow/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_063dbe2c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/compressed-files/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_ca529a77/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/paired-end-fastq/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_122832d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/write-sequences/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_80ab559f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/motif-search/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_eea3cb0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/sequence-slicing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7898494d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/cell-communication/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7902627c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/scatac-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fcc59107/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/differential-mirna/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fb4afcf1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/metabolic-reconstruction/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_48a8f559/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/model-curation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_4f3b17da/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/consensus-sequences/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9cbbdd4c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/filtering-best-practices/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_fe595d77/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_9831f788/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/causal-genomics-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1bfbf22d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/proteomics-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_7d384143/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/riboseq-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/name-skill_1ef8edaf/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/somatic-variant-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Map](development/_map_82504281/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/_MAP.md) | ⭐ 99 | `development` |
-| [Map](development/_map_56b51748/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/_MAP.md) | ⭐ 99 | `development` |
+| [Audit](development/audit_59c5e3e0/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
+| [Skill](development/1178-name-skill_22dc8354/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/alignment-sorting/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_2d9ff2ae/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/bam-statistics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_2673919f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment-files/duplicate-handling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_eede0d73/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alignment/pairwise-alignment/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_96c2759d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/differential-splicing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7d7b2106/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/single-cell-splicing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7cc1c2e6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/splicing-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_4ae33127/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/alternative-splicing/splicing-quantification/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_33313b51/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/atac-seq/footprinting/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_2052d138/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/causal-genomics/pleiotropy-detection/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_61a5ca0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-descriptors/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c1e97059/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/molecular-io/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_39c62f66/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chemoinformatics/virtual-screening/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_27a8787a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/chipseq-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f6615843/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/chip-seq/super-enhancers/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e97f2f63/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/clinvar-lookup/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_3c4cf4bd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/dbsnp-queries/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_74a7743a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/hla-typing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_5bbe7ca8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/myvariant-queries/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_52fb4558/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/pharmacogenomics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_11007935/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/tumor-mutational-burden/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8e4b9e84/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clinical-databases/variant-prioritization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c286682f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/clip-peak-calling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_9adc8111/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/hgt-detection/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8bb0a813/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/comparative-genomics/ortholog-inference/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_b97e7ee7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/base-editing-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d6ea301b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/hit-calling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_fbac03b2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/library-design/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7ed9a260/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/crispr-screens/screen-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_de5b2ebe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/color-palettes/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_dec67b54/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/heatmaps-clustering/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_a58bd8a4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/multipanel-figures/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_3e0757ba/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/upset-plots/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_80e7c4ec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/data-visualization/volcano-customization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f25c5995/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/blast-searches/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_5b573356/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-fetch/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_0ad3f8d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-search/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ab169f6f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/geo-data/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_149f0b01/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/batch-correction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_4deeee45/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/de-results/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d207eee5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/de-visualization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_fe684ccc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/deseq2-basics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_fef0e791/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/edger-basics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_539551d1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/differential-expression/timeseries-de/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e1d91a78/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/biodiversity-metrics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f7ddd2d7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/edna-metabarcoding/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_376f7938/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ecological-genomics/landscape-genomics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_fb088c57/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epidemiological-genomics/amr-surveillance/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_01816e70/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/epitranscriptomics/modification-visualization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e31255ea/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/experimental-design/batch-design/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ca6641ab/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/expression-matrix/gene-id-mapping/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c1eaf32c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/bead-normalization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_13e71124/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/flow-cytometry/differential-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_052ff3c6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/multiomics-grn/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_21f02382/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/gene-regulatory-networks/perturbation-simulation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d79bfd94/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/eukaryotic-gene-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_56eb84be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/functional-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ac32d2a9/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/ncrna-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_509bbd96/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/prokaryotic-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_6db70d10/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-annotation/repeat-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ee076be4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/assembly-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d8a996d0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/hifi-assembly/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_48fcc25c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/off-target-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d6d0844d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-engineering/prime-editing-design/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f71a9334/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/bed-file-basics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e14d0435/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/gtf-gff-handling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7e3b8eaa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/interval-arithmetic/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_13c0f1d5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-intervals/proximity-operations/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e750882d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/hic-differential/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_290e1a12/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/hi-c-analysis/matrix-operations/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ba715200/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/epitope-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c3b8886f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/immunogenicity-scoring/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_008fe2a0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/mhc-binding-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_1dd122de/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/neoantigen-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_925147d7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/immunoinformatics/tcr-epitope-binding/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_cc27738a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/ctdna-mutation-detection/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_a3c697e4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/fragment-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_bec56c97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/longitudinal-monitoring/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d2dfab33/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/methylation-based-detection/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_065e3ffa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/liquid-biopsy/tumor-fraction-estimation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_97653a7a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/atlas-mapping/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e19f7f06/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/biomarker-discovery/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_bea4edc0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/model-validation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c6443849/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/machine-learning/omics-classifiers/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_33234477/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/metabolite-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_afc955c4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/normalization-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_918e4b0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metabolomics/statistical-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8809693e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/metaphlan-profiling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_1b9d06d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/metagenomics/strain-tracking/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_df25f827/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/differential-abundance/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_4104da97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/diversity-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_efbb6960/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/functional-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8398b26f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/taxonomy-assignment/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_10af7ce0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/enrichment-visualization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c84ec4cd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/pathway-analysis/wikipathways/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e4bb3709/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phasing-imputation/genotype-imputation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_069912fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phasing-imputation/imputation-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_b3bc9f8b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/plink-basics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_cd49d568/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/population-genetics/population-structure/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8ddc9a66/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/primer-validation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f0ff6b9a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/qpcr-primers/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_a1ee3cca/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/data-import/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_9a416d5b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/differential-abundance/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f6c73d97/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/peptide-identification/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_6fc207be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/protein-inference/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_814c37fd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/proteomics-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_1068e46b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/ptm-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7317ec60/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/proteomics/quantification/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_aa1d1b63/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/fastp-workflow/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_40cb0490/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/rnaseq-qc/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_955cd2c2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/umi-processing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_094d94df/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/orf-detection/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_77e777a5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/riboseq-preprocessing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_d361ae0b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-periodicity/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_513b53ed/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/ribosome-stalling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_dd0da3fe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/ribo-seq/translation-efficiency/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_5cff8afe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-quantification/featurecounts-counting/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e8133d4d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/rna-structure/ncrna-search/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_46da6da1/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/filter-sequences/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_335ac8ec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/read-sequences/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_820dfd23/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-io/sequence-statistics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_a86cad9d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/codon-usage/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ddf6f060/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/transcription-translation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_76dfb811/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/cell-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7a56e500/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/markers-annotation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_4104ac0d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/preprocessing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7af8fa69/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/mirdeep2-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_0963e754/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/mirge3-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_826e07d8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/smrna-preprocessing/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_acb421f0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/small-rna-seq/target-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8d5a16da/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/alphafold-predictions/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ed4a4074/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/geometric-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_f5354abd/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/modern-structure-prediction/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_868afd0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-modification/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_0ec234fc/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-navigation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_747968b8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/context-specific-models/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_057cd952/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/flux-balance-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e64cda0c/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/systems-biology/gene-essentiality/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_6571844b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/tcr-bcr-analysis/mixcr-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7f4a5d31/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/circadian-rhythms/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_60b583a3/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/periodicity-detection/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e94a7393/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/temporal-genomics/trajectory-modeling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c21bfe8b/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/variant-normalization/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_8262aa5d/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-manipulation/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_3587f319/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/vcf-statistics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_247cbd0a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/biomarker-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_7450f90e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/cytometry-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_44d2ae0f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/edna-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_9835bf8f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/genome-annotation-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e21d7d13/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/grn-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_6aebf8ba/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/gwas-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_c6e3ff84/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/liquid-biopsy-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_1e46c1be/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/metabolomics-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_6d97ba06/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/microbiome-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_e8ca36b6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/neoantigen-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_15280959/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/smrna-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/1178-name-skill_ec7166f4/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/SKILL.md) | ⭐ 99 | `development` |
+| [Arch](development/2897-_arch_fce4e16d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 99 | `development` |
+| [Code Generation](development/2898-code-generation_32048ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/code-generation.md) | ⭐ 99 | `development` |
+| [Audit](development/2883-audit_59c5e3e0/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
 
 ### Development/Devops (30 skills)
 
@@ -978,7 +868,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_29151437/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 | [Ops Guide](development/testing/081-ops_guide_5991f949/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 
-### Development/Tools (46 skills)
+### Development/Tools (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -997,50 +887,35 @@ ls ~/.claude/skills/patch-research-agent/
 | [Clinical Decision Algorithms](development/tools/328-clinical_decision_algorithms_638c8f4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/clinical_decision_algorithms.md) | ⭐ 19 | `development` |
 | [Llm](development/tools/317-llm_1027c55b/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
 | [Oauth Design](development/tools/012-oauth-design_74d5dd3c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.3k | `development` |
-| [Skill](development/tools/name-skill_b8d5bb35/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/clip-motif-analysis/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_7c0144b5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-link/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_106eb596/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/short-read-assembly/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_398dc62e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/structural-variants/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_d2b8746e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/modern-tree-inference/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_cc34f691/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/primer-basics/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_e263f1ec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/bowtie2-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_c86f89ce/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/hisat2-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_ec9e2cf5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/star-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_4c951d45/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/adapter-trimming/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_91e533e8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/quality-filtering/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_c58bf017/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/structural-variant-calling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_d0ed4585/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/cwl-workflows/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_97aa400f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/clip-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Claude](development/tools/claude_c3e94863/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 99 | `development` |
-| [Skill](development/tools/name-skill_35f4d708/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/clip-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_d4bdf33e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/assembly-polishing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_c490deb0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/long-read-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_3d3c9ad4/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/medaka-polishing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_d54a35ca/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/nanopore-methylation/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_6b505f9a/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/methylation-analysis/bismark-alignment/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_b4f4fe7e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/microbiome/qiime2-workflow/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_c04a20ae/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phasing-imputation/haplotype-phasing/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_b7734078/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phasing-imputation/reference-panels/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_7e1b2b57/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/sequence-manipulation/reverse-complement/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_f85f45e0/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/deepvariant/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_34106baa/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/gatk-variant-calling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_a2ada7b7/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/variant-calling/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_034ebfbe/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/wdl-workflows/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_31752ab2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/genome-assembly-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Skill](development/tools/name-skill_4825c827/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/longread-sv-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_b8d5bb35/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/clip-seq/clip-motif-analysis/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_7c0144b5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/database-access/entrez-link/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_106eb596/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/genome-assembly/short-read-assembly/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_398dc62e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/long-read-sequencing/structural-variants/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_d2b8746e/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/phylogenetics/modern-tree-inference/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_cc34f691/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/primer-design/primer-basics/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_e263f1ec/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/bowtie2-alignment/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_c86f89ce/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/hisat2-alignment/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_ec9e2cf5/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-alignment/star-alignment/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_4c951d45/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/adapter-trimming/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_91e533e8/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/read-qc/quality-filtering/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_c58bf017/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/structural-variant-calling/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_d0ed4585/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/cwl-workflows/SKILL.md) | ⭐ 244 | `development` |
+| [Skill](development/tools/002-name-skill_97aa400f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/clip-pipeline/SKILL.md) | ⭐ 244 | `development` |
+| [Claude](development/tools/017-claude_c3e94863/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 99 | `development` |
+| [Skill](development/tools/name-skill_e8c5bc57/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/skills/hs/SKILL.md) | ⭐ 15 | `development` |
 
 ### Investment (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Comparative Analysis](investment/comparative-analysis_52b27094/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/comparative-analysis.md) | ⭐ 99 | `investment` |
+| [Comparative Analysis](investment/049-comparative-analysis_52b27094/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/comparative-analysis.md) | ⭐ 99 | `investment` |
 
 ### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Ambiguity Resolution](other/ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
-| [Nuanced Classification](other/nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
+| [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
+| [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 
 ### Productivity (8 skills)
 
@@ -1053,7 +928,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](productivity/142-instructions_592d0bff/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/qutip/instructions.md) | ⭐ 19 | `productivity` |
 | [Instructions](productivity/142-instructions_34320250/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/stable-baselines3/instructions.md) | ⭐ 19 | `productivity` |
 | [Instructions](productivity/142-instructions_a0b1c774/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/vaex/instructions.md) | ⭐ 19 | `productivity` |
-| [Skill](productivity/name-skill_30f71097/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/doublet-detection/SKILL.md) | ⭐ 244 | `productivity` |
+| [Skill](productivity/093-name-skill_30f71097/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/doublet-detection/SKILL.md) | ⭐ 244 | `productivity` |
 
 ### Research (45 skills)
 
@@ -1102,8 +977,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nstc Guidelines](research/074-nstc_guidelines_0e71e945/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/nstc_guidelines.md) | ⭐ 19 | `research` |
 | [Beamer Guide](research/008-beamer_guide_9084c4b9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/beamer_guide.md) | ⭐ 19 | `research` |
 | [Professional Report Formatting](research/093-professional_report_formatting_3dcf76ea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/professional_report_formatting.md) | ⭐ 19 | `research` |
-| [Instruction Density](research/instruction-density_02797ac2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/instruction-density.md) | ⭐ 99 | `research` |
-| [Schema Adherence](research/schema-adherence_b3be9f62/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/schema-adherence.md) | ⭐ 99 | `research` |
+| [Instruction Density](research/258-instruction-density_02797ac2/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/instruction-density.md) | ⭐ 99 | `research` |
+| [Schema Adherence](research/259-schema-adherence_b3be9f62/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/schema-adherence.md) | ⭐ 99 | `research` |
 
 ## How Skills Are Organized
 
@@ -1155,5 +1030,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 09:23:29 UTC*
+*Last updated: 2026-02-14 09:24:52 UTC*
 *Automatically maintained by SkillFlow*
