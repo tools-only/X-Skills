@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T05:22:39.377456",
+  "updated_at": "2026-02-14T05:23:32.058666",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -5027,6 +5027,20 @@
       "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/specialty_specific_guidelines.md",
       "display_name": "Specialty Specific Guidelines",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "72061a3c1c7ed5f1d4cc209090c73968fda5f44e741fc6884de560fe138fda48",
+      "source_path": "docs/docker-compose-guide.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/090-docker-compose-guide_72061a3c",
+      "category": "development/devops",
+      "name": "docker-compose-guide_72061a3c",
+      "indexed_at": "2026-02-14T05:23:32.058586",
+      "repo_stars": 3994,
+      "repo_updated_at": "2026-02-14T02:46:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md",
+      "display_name": "Docker Compose Guide",
+      "tags": "[\"development\"]"
     }
   ]
 }
