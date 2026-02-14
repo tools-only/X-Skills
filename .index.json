@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T05:24:07.021778",
+  "updated_at": "2026-02-14T08:21:46.579513",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -5110,6 +5110,90 @@
       "repo_updated_at": "2026-02-11T17:27:11+00:00",
       "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md",
       "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ee9cd812134ce6c9ce22d199c9e718a14fd509f067887adbe8027057675e82ee",
+      "source_path": "skills/bridge-js/SKILL.md",
+      "source_repo": "swiftwasm/skills",
+      "local_path": "development/1178-name-skill_ee9cd812",
+      "category": "development",
+      "name": "name-skill_ee9cd812",
+      "indexed_at": "2026-02-14T08:21:46.216253",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-02-13T07:48:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "44d8bc2eb1ada05b86f643b9174673322c5288fbce0031a77b6ff90ee3a5e473",
+      "source_path": "skills/porting/SKILL.md",
+      "source_repo": "swiftwasm/skills",
+      "local_path": "development/1178-name-skill_44d8bc2e",
+      "category": "development",
+      "name": "name-skill_44d8bc2e",
+      "indexed_at": "2026-02-14T08:21:46.273354",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-01-26T13:27:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/porting/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "589a414712720484eb2aed503b0aa1836f3e3742b6130352d44ce9fa2e497ccc",
+      "source_path": "skills/bridge-js/references/project_setup.md",
+      "source_repo": "swiftwasm/skills",
+      "local_path": "development/2925-project_setup_589a4147",
+      "category": "development",
+      "name": "project_setup_589a4147",
+      "indexed_at": "2026-02-14T08:21:46.362493",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-02-13T07:48:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/project_setup.md",
+      "display_name": "Project Setup",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "913b61d0274ccc5b962ec5c8b03fe2af2a46d977b5f96aa30337683cb9f81549",
+      "source_path": "skills/bridge-js/references/swift_api.md",
+      "source_repo": "swiftwasm/skills",
+      "local_path": "development/2926-swift_api_913b61d0",
+      "category": "development",
+      "name": "swift_api_913b61d0",
+      "indexed_at": "2026-02-14T08:21:46.448339",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-02-13T07:48:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/swift_api.md",
+      "display_name": "Swift Api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3bb51a68c56bb60bb6ef0cd7e8bf04cc1fa65f8f79e390bd8a0baf5d9713c893",
+      "source_path": "skills/javascriptkit/references/common_patterns.md",
+      "source_repo": "swiftwasm/skills",
+      "local_path": "development/179-common_patterns_3bb51a68",
+      "category": "development",
+      "name": "common_patterns_3bb51a68",
+      "indexed_at": "2026-02-14T08:21:46.500371",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-01-12T05:58:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/common_patterns.md",
+      "display_name": "Common Patterns",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e4c501bbec14c3dd6e233246557dea486656da2d0895ca757c9622b24f48a43e",
+      "source_path": "skills/javascriptkit/references/swift_apis.md",
+      "source_repo": "swiftwasm/skills",
+      "local_path": "development/2927-swift_apis_e4c501bb",
+      "category": "development",
+      "name": "swift_apis_e4c501bb",
+      "indexed_at": "2026-02-14T08:21:46.579441",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-01-12T05:58:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md",
+      "display_name": "Swift Apis",
       "tags": "[\"development\"]"
     }
   ]
