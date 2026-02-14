@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T08:21:46.579513",
+  "updated_at": "2026-02-14T08:22:15.851400",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -5195,6 +5195,76 @@
       "source_url": "https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md",
       "display_name": "Swift Apis",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2d61c915e1677d6109c570eb276f2bbe9c9104235b235cc65ba709a3c20964b9",
+      "source_path": "AGENTS.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/028-agents_2d61c915",
+      "category": "development",
+      "name": "agents_2d61c915",
+      "indexed_at": "2026-02-14T08:22:15.473877",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-14T04:12:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8eb48b7559548132cf314850d98b63a19ee6ca848d01898a1d5c9f1605da10de",
+      "source_path": "docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/2956-039-adopt-fully-independent-plugin-crates-architecture_8eb48b75",
+      "category": "development",
+      "name": "039-adopt-fully-independent-plugin-crates-architecture_8eb48b75",
+      "indexed_at": "2026-02-14T08:22:15.623906",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-14T03:03:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md",
+      "display_name": "039 Adopt Fully Independent Plugin Crates Architecture",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3d83e084c6391776165de9f18fb7da7e310fe60a700284982f7b328401ed4b81",
+      "source_path": "AUDIT.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/2957-audit_3d83e084",
+      "category": "development",
+      "name": "audit_3d83e084",
+      "indexed_at": "2026-02-14T08:22:15.730649",
+      "repo_stars": 15,
+      "repo_updated_at": "2026-02-14T07:00:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md",
+      "display_name": "Audit",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "74d5dd3c3d68e0cf755cad775874019acb6b856450bcd8a5f6c100d05be1b63e",
+      "source_path": "docs/docs/architecture/oauth-design.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/tools/012-oauth-design_74d5dd3c",
+      "category": "development/tools",
+      "name": "oauth-design_74d5dd3c",
+      "indexed_at": "2026-02-14T08:22:15.772324",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-03T08:17:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md",
+      "display_name": "Oauth Design",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4a225bcb21f2ec3ca2ddc713ac85725d94b7fc6e11b6cef099d052de497af4a7",
+      "source_path": "skills/postiz/SKILL.md",
+      "source_repo": "antoniolg/agent-kit",
+      "local_path": "content-creation/049-name-skill_4a225bcb",
+      "category": "content-creation",
+      "name": "name-skill_4a225bcb",
+      "indexed_at": "2026-02-14T08:22:15.851363",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-10T14:45:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

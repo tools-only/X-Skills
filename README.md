@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **375 AI-powered skills** organized into 13 categories.
+A curated collection of **376 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (19 skills)
 - **Commercial** (16 skills)
 - **Communication** (5 skills)
-- **Content Creation** (26 skills)
-- **Daily Assistant** (8 skills)
+- **Content Creation** (27 skills)
+- **Daily Assistant** (7 skills)
 - **Data Analysis** (58 skills)
-- **Development** (140 skills)
+- **Development** (141 skills)
 - **Development/Devops** (29 skills)
-- **Development/Testing** (6 skills)
-- **Development/Tools** (14 skills)
+- **Development/Testing** (5 skills)
+- **Development/Tools** (15 skills)
 - **Productivity** (7 skills)
 - **Research** (43 skills)
 
@@ -243,7 +243,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 
-### Content Creation (26 skills)
+### Content Creation (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -273,8 +273,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Presentation Structure](content-creation/380-presentation_structure_a9ff0c9a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/presentation_structure.md) | ⭐ 19 | `content creation` |
 | [Figures Tables](content-creation/381-figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
 | [01 About Us](content-creation/350-01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
+| [Skill](content-creation/name-skill_4a225bcb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 20 | `content creation` |
 
-### Daily Assistant (8 skills)
+### Daily Assistant (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -285,7 +286,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Insufficient Gas Griefing](daily-assistant/271-insufficient-gas-griefing_473c0530/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/insufficient-gas-griefing.md) | ⭐ 90 | `daily assistant` |
 | [Intervention Guidelines](daily-assistant/271-intervention_guidelines_6bcc583a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/intervention_guidelines.md) | ⭐ 19 | `daily assistant` |
 | [Specialty Specific Guidelines](daily-assistant/272-specialty_specific_guidelines_05b82478/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/specialty_specific_guidelines.md) | ⭐ 19 | `daily assistant` |
-| [Agents](daily-assistant/agents_32159b74/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/AGENTS.md) | ⭐ 27 | `daily assistant` |
 
 ### Data Analysis (58 skills)
 
@@ -350,7 +350,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Visual Review Workflow](data-analysis/490-visual_review_workflow_579328d5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/visual_review_workflow.md) | ⭐ 19 | `data analysis` |
 | [Treatment Plan Standards](data-analysis/491-treatment_plan_standards_b6b58a5f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/treatment_plan_standards.md) | ⭐ 19 | `data analysis` |
 
-### Development (140 skills)
+### Development (141 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -486,14 +486,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patient Documentation](development/670-patient_documentation_1e4e5f8c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/patient_documentation.md) | ⭐ 19 | `development` |
 | [Bigquery Guide](development/104-bigquery_guide_0ce04067/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/imaging-data-commons/references/bigquery_guide.md) | ⭐ 19 | `development` |
 | [Regulatory Compliance](development/901-regulatory_compliance_805f5b21/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/regulatory_compliance.md) | ⭐ 19 | `development` |
-| [Skill](development/name-skill_ee9cd812/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/SKILL.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_44d8bc2e/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/porting/SKILL.md) | ⭐ 27 | `development` |
-| [Project Setup](development/project_setup_589a4147/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/project_setup.md) | ⭐ 27 | `development` |
-| [Swift Api](development/swift_api_913b61d0/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/swift_api.md) | ⭐ 27 | `development` |
-| [Common Patterns](development/common_patterns_3bb51a68/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/common_patterns.md) | ⭐ 27 | `development` |
-| [Swift Apis](development/swift_apis_e4c501bb/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md) | ⭐ 27 | `development` |
-| [Skill](development/name-skill_1ca57fd8/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/SKILL.md) | ⭐ 27 | `development` |
-| [Testing](development/testing_5fb35189/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/testing.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_ee9cd812/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/SKILL.md) | ⭐ 27 | `development` |
+| [Skill](development/1178-name-skill_44d8bc2e/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/porting/SKILL.md) | ⭐ 27 | `development` |
+| [Project Setup](development/2925-project_setup_589a4147/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/project_setup.md) | ⭐ 27 | `development` |
+| [Swift Api](development/2926-swift_api_913b61d0/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/swift_api.md) | ⭐ 27 | `development` |
+| [Common Patterns](development/179-common_patterns_3bb51a68/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/common_patterns.md) | ⭐ 27 | `development` |
+| [Swift Apis](development/2927-swift_apis_e4c501bb/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md) | ⭐ 27 | `development` |
+| [Agents](development/agents_2d61c915/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
+| [039 Adopt Fully Independent Plugin Crates Architecture](development/039-adopt-fully-independent-plugin-crates-architecture_8eb48b75/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md) | ⭐ 3.3k | `development` |
+| [Audit](development/audit_3d83e084/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
 
 ### Development/Devops (29 skills)
 
@@ -529,7 +530,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
 | [Agents](development/devops/053-agents_2f52ed9c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md) | 🔥 6.5k | `development` |
 
-### Development/Testing (6 skills)
+### Development/Testing (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -538,9 +539,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/013-threat-skill_0623a026/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 151 | `development` |
 | [Release Notes](development/testing/079-release_notes_29151437/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 | [Ops Guide](development/testing/081-ops_guide_5991f949/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
-| [Init New Project](development/testing/init_new_project_605b3896/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/init_new_project.md) | ⭐ 27 | `development` |
 
-### Development/Tools (14 skills)
+### Development/Tools (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -558,6 +558,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Biomarker Classification](development/tools/327-biomarker_classification_32a4dbca/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/biomarker_classification.md) | ⭐ 19 | `development` |
 | [Clinical Decision Algorithms](development/tools/328-clinical_decision_algorithms_638c8f4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/clinical_decision_algorithms.md) | ⭐ 19 | `development` |
 | [Llm](development/tools/317-llm_1027c55b/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
+| [Oauth Design](development/tools/oauth-design_74d5dd3c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.3k | `development` |
 
 ### Productivity (7 skills)
 
@@ -669,5 +670,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 08:21:46 UTC*
+*Last updated: 2026-02-14 08:22:15 UTC*
 *Automatically maintained by SkillFlow*
