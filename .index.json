@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T16:21:55.273423",
+  "updated_at": "2026-02-14T16:22:02.923862",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -12181,6 +12181,20 @@
       "source_url": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/chapter-organization-workflow/index.md",
       "display_name": "Index",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "02c638f0a57c8e0e4499abf8473a5cb0599d110c081bc3030f5d52c7900fae24",
+      "source_path": "docs/ONBOARDING_INTERNAL.md",
+      "source_repo": "promptdriven/pdd",
+      "local_path": "development/testing/085-onboarding_internal_02c638f0",
+      "category": "development/testing",
+      "name": "onboarding_internal_02c638f0",
+      "indexed_at": "2026-02-14T16:22:02.923832",
+      "repo_stars": 445,
+      "repo_updated_at": "2026-02-14T07:10:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING_INTERNAL.md",
+      "display_name": "Onboarding Internal",
+      "tags": "[\"development\"]"
     }
   ]
 }

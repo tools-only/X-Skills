@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **873 AI-powered skills** organized into 15 categories.
+A curated collection of **871 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,15 +12,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (38 skills)
 - **Commercial** (26 skills)
 - **Communication** (12 skills)
-- **Content Creation** (61 skills)
+- **Content Creation** (60 skills)
 - **Daily Assistant** (25 skills)
 - **Data Analysis** (200 skills)
-- **Development** (345 skills)
+- **Development** (344 skills)
 - **Development/Devops** (34 skills)
-- **Development/Testing** (7 skills)
+- **Development/Testing** (8 skills)
 - **Development/Tools** (47 skills)
 - **Investment** (1 skill)
-- **Other** (3 skills)
+- **Other** (2 skills)
 - **Productivity** (8 skills)
 - **Research** (52 skills)
 
@@ -291,7 +291,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Cn](communication/257-readme_cn_6ff1b10d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 78 | `communication` |
 | [Skill](communication/127-name-skill_692e6fdc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-web-pubsub-ts/SKILL.md) | 🔥 8.7k | `communication` |
 
-### Content Creation (61 skills)
+### Content Creation (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -355,7 +355,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Troubleshooting](content-creation/110-troubleshooting_4f47dc6b/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/transcript-fixer/references/troubleshooting.md) | ⭐ 576 | `content creation` |
 | [Proxy Fixes](content-creation/369-proxy_fixes_c15de062/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/references/proxy_fixes.md) | ⭐ 576 | `content creation` |
 | [Ffmpeg Commands](content-creation/370-ffmpeg_commands_bb510ad7/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/video-comparer/references/ffmpeg_commands.md) | ⭐ 576 | `content creation` |
-| [Index](content-creation/index_afaab8ef/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/book-levels/index.md) | ⭐ 36 | `content creation` |
 
 ### Daily Assistant (25 skills)
 
@@ -384,8 +383,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [5 Mcpconfig Pydantic Models](daily-assistant/274-5-mcpconfig-pydantic-models_5624fea3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/5-mcpconfig-pydantic-models.md) | ⭐ 17 | `daily assistant` |
 | [Swarm Task Planner](daily-assistant/120-swarm-task-planner_ee693a6a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/swarm-task-planner.md) | ⭐ 17 | `daily assistant` |
 | [Configuration](daily-assistant/262-configuration_4cf0c8ec/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/configuration.md) | ⭐ 78 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_2ec489a0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-chapter-generator/SKILL.md) | ⭐ 36 | `daily assistant` |
-| [Index](daily-assistant/index_e63e41c9/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/17-parallel-execution/index.md) | ⭐ 36 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_2ec489a0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/book-chapter-generator/SKILL.md) | ⭐ 36 | `daily assistant` |
+| [Index](daily-assistant/052-index_e63e41c9/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/17-parallel-execution/index.md) | ⭐ 36 | `daily assistant` |
 
 ### Data Analysis (200 skills)
 
@@ -580,19 +579,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_c86955b9/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/using-git-worktrees/SKILL.md) | ⭐ 110 | `data analysis` |
 | [12 Descriptionvalidator File Type Awareness](data-analysis/480-12-descriptionvalidator-file-type-awareness_ccf6d75f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/12-descriptionvalidator-file-type-awareness.md) | ⭐ 17 | `data analysis` |
 | [Qa Expert Panel](data-analysis/481-qa-expert-panel_05c5a34f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/qa-expert-panel.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_a799861e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 36 | `data analysis` |
-| [Skill](data-analysis/name-skill_0e451bb5/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_f3cf4b3b/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/02-getting-started-claude-skills/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_3847a74c/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/05-concept-enumeration-dependencies/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_7f41bf05/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/06-learning-graph-quality-validation/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_ba923f8e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/07-taxonomy-data-formats/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_433e95bb/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/09-claude-skills-architecture-development/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_a7a1c466/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/10-content-creation-workflows/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_b995839d/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/11-educational-resources-assessment/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_c272f509/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/13-dev-tools-version-control-deployment/index.md) | ⭐ 36 | `data analysis` |
-| [Index](data-analysis/index_a4f43470/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/chapter-organization-workflow/index.md) | ⭐ 36 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a799861e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/chapter-content-generator/SKILL.md) | ⭐ 36 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0e451bb5/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/SKILL.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_f3cf4b3b/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/02-getting-started-claude-skills/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_3847a74c/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/05-concept-enumeration-dependencies/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_7f41bf05/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/06-learning-graph-quality-validation/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_ba923f8e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/07-taxonomy-data-formats/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_433e95bb/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/09-claude-skills-architecture-development/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_a7a1c466/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/10-content-creation-workflows/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_b995839d/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/11-educational-resources-assessment/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_c272f509/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/13-dev-tools-version-control-deployment/index.md) | ⭐ 36 | `data analysis` |
+| [Index](data-analysis/113-index_a4f43470/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/chapter-organization-workflow/index.md) | ⭐ 36 | `data analysis` |
 
-### Development (345 skills)
+### Development (344 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -933,14 +932,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_11ce7ea2/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/claude-md-progressive-disclosurer/SKILL.md) | ⭐ 576 | `development` |
 | [Skill](development/1178-name-skill_697035f2/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/iOS-APP-developer/SKILL.md) | ⭐ 576 | `development` |
 | [Skill](development/1178-name-skill_c5c33efc/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/qa-expert/SKILL.md) | ⭐ 576 | `development` |
-| [Glossary](development/glossary_4d0f008d/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/glossary.md) | ⭐ 36 | `development` |
-| [Tips And Tricks](development/tips-and-tricks_caccb8e4/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/workshops/tips-and-tricks.md) | ⭐ 36 | `development` |
-| [Index](development/index_c1d3ce55/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/01-intro-ai-intelligent-textbooks/index.md) | ⭐ 36 | `development` |
-| [Index](development/index_00a773ec/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/03-course-design-educational-theory/index.md) | ⭐ 36 | `development` |
-| [Index](development/index_228ad706/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/04-intro-learning-graphs/index.md) | ⭐ 36 | `development` |
-| [Index](development/index_9cde902e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/08-mkdocs-platform-documentation/index.md) | ⭐ 36 | `development` |
-| [Index](development/index_af43c1b0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/12-interactive-elements-microsims/index.md) | ⭐ 36 | `development` |
-| [Index](development/index_be5b6c5c/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/15-claude-on-wsl/index.md) | ⭐ 36 | `development` |
+| [Glossary](development/429-glossary_4d0f008d/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/glossary.md) | ⭐ 36 | `development` |
+| [Tips And Tricks](development/1079-tips-and-tricks_caccb8e4/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/workshops/tips-and-tricks.md) | ⭐ 36 | `development` |
+| [Index](development/468-index_c1d3ce55/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/01-intro-ai-intelligent-textbooks/index.md) | ⭐ 36 | `development` |
+| [Index](development/468-index_00a773ec/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/03-course-design-educational-theory/index.md) | ⭐ 36 | `development` |
+| [Index](development/468-index_228ad706/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/04-intro-learning-graphs/index.md) | ⭐ 36 | `development` |
+| [Index](development/468-index_9cde902e/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/08-mkdocs-platform-documentation/index.md) | ⭐ 36 | `development` |
+| [Index](development/468-index_af43c1b0/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/12-interactive-elements-microsims/index.md) | ⭐ 36 | `development` |
 
 ### Development/Devops (34 skills)
 
@@ -981,7 +979,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Deploy En](development/devops/195-deploy_en_f238e5dc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 78 | `development` |
 | [Skill](development/devops/014-name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
 
-### Development/Testing (7 skills)
+### Development/Testing (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -992,6 +990,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ops Guide](development/testing/081-ops_guide_5991f949/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 | [1 Filetype Enum Extension](development/testing/087-1-filetype-enum-extension_b9995c22/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/1-filetype-enum-extension.md) | ⭐ 17 | `development` |
 | [23 Pre Commit Config Update](development/testing/088-23-pre-commit-config-update_31fdb907/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/23-pre-commit-config-update.md) | ⭐ 17 | `development` |
+| [Onboarding Internal](development/testing/onboarding_internal_02c638f0/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING_INTERNAL.md) | ⭐ 445 | `development` |
 
 ### Development/Tools (47 skills)
 
@@ -1051,13 +1050,12 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Comparative Analysis](investment/049-comparative-analysis_52b27094/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/comparative-analysis.md) | ⭐ 99 | `investment` |
 
-### Other (3 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
-| [Quiz](other/quiz_788c5865/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/17-parallel-execution/quiz.md) | ⭐ 36 | `other` |
 
 ### Productivity (8 skills)
 
@@ -1179,5 +1177,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 16:21:55 UTC*
+*Last updated: 2026-02-14 16:22:03 UTC*
 *Automatically maintained by SkillFlow*
