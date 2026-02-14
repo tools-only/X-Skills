@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **215 AI-powered skills** organized into 11 categories.
+A curated collection of **212 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Workflow** (8 skills)
-- **Commercial** (12 skills)
+- **Automation/Workflow** (9 skills)
+- **Commercial** (10 skills)
 - **Communication** (5 skills)
-- **Content Creation** (17 skills)
+- **Content Creation** (16 skills)
 - **Daily Assistant** (5 skills)
-- **Data Analysis** (8 skills)
-- **Development** (124 skills)
-- **Development/Devops** (24 skills)
+- **Data Analysis** (9 skills)
+- **Development** (120 skills)
+- **Development/Devops** (25 skills)
 - **Development/Testing** (3 skills)
 - **Development/Tools** (8 skills)
-- **Research** (1 skill)
+- **Other** (2 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -177,7 +177,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Workflow (8 skills)
+### Automation/Workflow (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -189,8 +189,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Security Scorecard](automation/workflow/035-security_scorecard_a19e5df8/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/SECURITY_SCORECARD.md) | ⭐ 4.0k | `automation` |
 | [Knowledge Architecture V5.2](automation/workflow/028-knowledge-architecture-v52_d2959d9f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2.md) | ⭐ 151 | `automation` |
 | [Control Set 07 Logging](automation/workflow/029-control-set-07-logging_4409d6b1/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-07-logging.md) | ⭐ 151 | `automation` |
+| [Asan Validation](automation/workflow/asan-validation_e97e1aeb/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/asan-validation.md) | ⭐ 45 | `automation` |
 
-### Commercial (12 skills)
+### Commercial (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -202,10 +203,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set Ext 01 02 Auth Patterns](commercial/048-control-set-ext-01_02-auth-patterns_20aa6001/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-01_02-auth-patterns.md) | ⭐ 151 | `commercial` |
 | [Reference Set 05 Third Party Javascript](commercial/168-reference-set-05-third-party-javascript_31a81d77/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-third-party-javascript.md) | ⭐ 151 | `commercial` |
 | [Reference Set 09 Rest Security](commercial/169-reference-set-09-rest-security_57c8774a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-security.md) | ⭐ 151 | `commercial` |
-| [Requirement Violation](commercial/requirement-violation_8c2a25b1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/requirement-violation.md) | ⭐ 90 | `commercial` |
-| [Unchecked Return Values](commercial/unchecked-return-values_ae8ce7f8/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unchecked-return-values.md) | ⭐ 90 | `commercial` |
-| [Dos Revert](commercial/dos-revert_594ea8e2/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/dos-revert.md) | ⭐ 90 | `commercial` |
-| [Uninitialized Storage Pointer](commercial/uninitialized-storage-pointer_47884df9/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/uninitialized-storage-pointer.md) | ⭐ 90 | `commercial` |
+| [Requirement Violation](commercial/396-requirement-violation_8c2a25b1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/requirement-violation.md) | ⭐ 90 | `commercial` |
+| [Unchecked Return Values](commercial/397-unchecked-return-values_ae8ce7f8/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unchecked-return-values.md) | ⭐ 90 | `commercial` |
 
 ### Communication (5 skills)
 
@@ -217,7 +216,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 
-### Content Creation (17 skills)
+### Content Creation (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -234,10 +233,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set 07 Logging](content-creation/098-reference-set-07-logging_b8ad9e2b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-07-logging.md) | ⭐ 151 | `content creation` |
 | [Reference Set Ext 11 Docker Security](content-creation/099-reference-set-ext-11-docker-security_0ecaf542/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-docker-security.md) | ⭐ 151 | `content creation` |
 | [Reference Set Ext 13 Ai Agent Security](content-creation/100-reference-set-ext-13-ai-agent-security_43ee4a42/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-13-ai-agent-security.md) | ⭐ 151 | `content creation` |
-| [Cheatsheet](content-creation/cheatsheet_cd8486fc/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/CHEATSHEET.md) | ⭐ 90 | `content creation` |
-| [Arbitrary Storage Location](content-creation/arbitrary-storage-location_2e99d1a3/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/arbitrary-storage-location.md) | ⭐ 90 | `content creation` |
-| [Lack Of Precision](content-creation/lack-of-precision_ff8ca8a0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/lack-of-precision.md) | ⭐ 90 | `content creation` |
-| [Overflow Underflow](content-creation/overflow-underflow_cd70ba95/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/overflow-underflow.md) | ⭐ 90 | `content creation` |
+| [Cheatsheet](content-creation/376-cheatsheet_cd8486fc/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/CHEATSHEET.md) | ⭐ 90 | `content creation` |
+| [Moonbit Language Fundamentals.Mbt](content-creation/moonbit-language-fundamentalsmbt_12a9c011/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/moonbit-language-fundamentals.mbt.md) | ⭐ 45 | `content creation` |
+| [Including C Sources](content-creation/including-c-sources_f2b1b21b/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/including-c-sources.md) | ⭐ 45 | `content creation` |
 
 ### Daily Assistant (5 skills)
 
@@ -247,9 +245,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow](daily-assistant/085-workflow_097c5b9a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/WORKFLOW.md) | ⭐ 151 | `daily assistant` |
 | [P3 Trust Boundary](daily-assistant/086-p3-trust-boundary_69377f71/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 151 | `daily assistant` |
 | [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_0687bde5/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 151 | `daily assistant` |
-| [Insufficient Gas Griefing](daily-assistant/insufficient-gas-griefing_473c0530/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/insufficient-gas-griefing.md) | ⭐ 90 | `daily assistant` |
+| [Insufficient Gas Griefing](daily-assistant/271-insufficient-gas-griefing_473c0530/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/insufficient-gas-griefing.md) | ⭐ 90 | `daily assistant` |
 
-### Data Analysis (8 skills)
+### Data Analysis (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -260,9 +258,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Dfd Analysis](data-analysis/251-p2-dfd-analysis_3d231074/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P2-DFD-ANALYSIS.md) | ⭐ 151 | `data analysis` |
 | [P8 Report Generation](data-analysis/476-p8-report-generation_bd398302/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 151 | `data analysis` |
 | [Control Set Ext 13 Ai Llm](data-analysis/272-control-set-ext-13-ai-llm_9ed85b8d/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-13-ai-llm.md) | ⭐ 151 | `data analysis` |
-| [Skill](data-analysis/name-skill_248c2e1d/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/react-pdf/skills/react-pdf/SKILL.md) | ⭐ 90 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_248c2e1d/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/react-pdf/skills/react-pdf/SKILL.md) | ⭐ 90 | `data analysis` |
+| [Index](data-analysis/index_be768ee2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/index.md) | ⭐ 3.3k | `data analysis` |
 
-### Development (124 skills)
+### Development (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -360,38 +359,34 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 14 Mobile Security](development/895-reference-set-ext-14-mobile-security_714b27e2/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-14-mobile-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 15 Cloud Architecture](development/896-reference-set-ext-15-cloud-architecture_965b5461/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-15-cloud-architecture.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 16 Agentic Security](development/897-reference-set-ext-16-agentic-security_55a161fa/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-16-agentic-security.md) | ⭐ 151 | `development` |
-| [Skill](development/name-skill_8e5bcc97/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/SKILL.md) | ⭐ 90 | `development` |
-| [Components](development/components_23eca15d/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/react-pdf/skills/react-pdf/references/components.md) | ⭐ 90 | `development` |
-| [Asserting Contract From Code Size](development/asserting-contract-from-code-size_53dd37d1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/asserting-contract-from-code-size.md) | ⭐ 90 | `development` |
-| [Dos Gas Limit](development/dos-gas-limit_44ba2d7c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/dos-gas-limit.md) | ⭐ 90 | `development` |
-| [Hash Collision](development/hash-collision_fd105532/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/hash-collision.md) | ⭐ 90 | `development` |
-| [Inadherence To Standards](development/inadherence-to-standards_0b295986/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/inadherence-to-standards.md) | ⭐ 90 | `development` |
-| [Incorrect Constructor](development/incorrect-constructor_63cf3819/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/incorrect-constructor.md) | ⭐ 90 | `development` |
-| [Missing Protection Signature Replay](development/missing-protection-signature-replay_88f560d0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/missing-protection-signature-replay.md) | ⭐ 90 | `development` |
-| [Reentrancy](development/reentrancy_44db9f25/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/reentrancy.md) | ⭐ 90 | `development` |
-| [Signature Malleability](development/signature-malleability_2fd4c4c6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/signature-malleability.md) | ⭐ 90 | `development` |
-| [Timestamp Dependence](development/timestamp-dependence_0f401084/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/timestamp-dependence.md) | ⭐ 90 | `development` |
-| [Transaction Ordering Dependence](development/transaction-ordering-dependence_33621d21/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/transaction-ordering-dependence.md) | ⭐ 90 | `development` |
-| [Unbounded Return Data](development/unbounded-return-data_7da19017/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unbounded-return-data.md) | ⭐ 90 | `development` |
-| [Unencrypted Private Data On Chain](development/unencrypted-private-data-on-chain_a43b92aa/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unencrypted-private-data-on-chain.md) | ⭐ 90 | `development` |
-| [Unsafe Low Level Call](development/unsafe-low-level-call_176d2a33/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsafe-low-level-call.md) | ⭐ 90 | `development` |
-| [Unsecure Signatures](development/unsecure-signatures_44d435de/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsecure-signatures.md) | ⭐ 90 | `development` |
-| [Unsupported Opcodes](development/unsupported-opcodes_f07f9c1f/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsupported-opcodes.md) | ⭐ 90 | `development` |
-| [Unused Variables](development/unused-variables_15bc83a6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unused-variables.md) | ⭐ 90 | `development` |
-| [Weak Sources Randomness](development/weak-sources-randomness_34b619d7/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/weak-sources-randomness.md) | ⭐ 90 | `development` |
-| [Python Code Simplifier](development/python-code-simplifier_3cb63d06/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/python-code-simplifier/agents/python-code-simplifier.md) | ⭐ 90 | `development` |
-| [Assert Violation](development/assert-violation_32ad20ee/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/assert-violation.md) | ⭐ 90 | `development` |
-| [Authorization Txorigin](development/authorization-txorigin_5554479d/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/authorization-txorigin.md) | ⭐ 90 | `development` |
-| [Delegatecall Untrusted Callee](development/delegatecall-untrusted-callee_05b5d54b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/delegatecall-untrusted-callee.md) | ⭐ 90 | `development` |
-| [Incorrect Inheritance Order](development/incorrect-inheritance-order_109d2f04/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/incorrect-inheritance-order.md) | ⭐ 90 | `development` |
-| [Insufficient Access Control](development/insufficient-access-control_e40ab90b/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/insufficient-access-control.md) | ⭐ 90 | `development` |
-| [Off By One](development/off-by-one_2db54da6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/off-by-one.md) | ⭐ 90 | `development` |
-| [Outdated Compiler Version](development/outdated-compiler-version_a2918c7a/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/outdated-compiler-version.md) | ⭐ 90 | `development` |
-| [Shadowing State Variables](development/shadowing-state-variables_93c50ed6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/shadowing-state-variables.md) | ⭐ 90 | `development` |
-| [Unexpected Ecrecover Null Address](development/unexpected-ecrecover-null-address_71acf8da/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unexpected-ecrecover-null-address.md) | ⭐ 90 | `development` |
-| [Use Of Deprecated Functions](development/use-of-deprecated-functions_64e94a91/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/use-of-deprecated-functions.md) | ⭐ 90 | `development` |
+| [Skill](development/1178-name-skill_8e5bcc97/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/SKILL.md) | ⭐ 90 | `development` |
+| [Components](development/2938-components_23eca15d/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/react-pdf/skills/react-pdf/references/components.md) | ⭐ 90 | `development` |
+| [Asserting Contract From Code Size](development/2939-asserting-contract-from-code-size_53dd37d1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/asserting-contract-from-code-size.md) | ⭐ 90 | `development` |
+| [Dos Gas Limit](development/2940-dos-gas-limit_44ba2d7c/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/dos-gas-limit.md) | ⭐ 90 | `development` |
+| [Hash Collision](development/2941-hash-collision_fd105532/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/hash-collision.md) | ⭐ 90 | `development` |
+| [Inadherence To Standards](development/2942-inadherence-to-standards_0b295986/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/inadherence-to-standards.md) | ⭐ 90 | `development` |
+| [Incorrect Constructor](development/2943-incorrect-constructor_63cf3819/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/incorrect-constructor.md) | ⭐ 90 | `development` |
+| [Missing Protection Signature Replay](development/2944-missing-protection-signature-replay_88f560d0/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/missing-protection-signature-replay.md) | ⭐ 90 | `development` |
+| [Reentrancy](development/2945-reentrancy_44db9f25/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/reentrancy.md) | ⭐ 90 | `development` |
+| [Signature Malleability](development/2946-signature-malleability_2fd4c4c6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/signature-malleability.md) | ⭐ 90 | `development` |
+| [Timestamp Dependence](development/2947-timestamp-dependence_0f401084/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/timestamp-dependence.md) | ⭐ 90 | `development` |
+| [Transaction Ordering Dependence](development/2948-transaction-ordering-dependence_33621d21/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/transaction-ordering-dependence.md) | ⭐ 90 | `development` |
+| [Unbounded Return Data](development/2949-unbounded-return-data_7da19017/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unbounded-return-data.md) | ⭐ 90 | `development` |
+| [Unencrypted Private Data On Chain](development/2950-unencrypted-private-data-on-chain_a43b92aa/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unencrypted-private-data-on-chain.md) | ⭐ 90 | `development` |
+| [Unsafe Low Level Call](development/2951-unsafe-low-level-call_176d2a33/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsafe-low-level-call.md) | ⭐ 90 | `development` |
+| [Unsecure Signatures](development/2952-unsecure-signatures_44d435de/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsecure-signatures.md) | ⭐ 90 | `development` |
+| [Unsupported Opcodes](development/2953-unsupported-opcodes_f07f9c1f/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsupported-opcodes.md) | ⭐ 90 | `development` |
+| [Unused Variables](development/2954-unused-variables_15bc83a6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unused-variables.md) | ⭐ 90 | `development` |
+| [Weak Sources Randomness](development/2955-weak-sources-randomness_34b619d7/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/weak-sources-randomness.md) | ⭐ 90 | `development` |
+| [Skill](development/name-skill_27d4a744/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/SKILL.md) | ⭐ 45 | `development` |
+| [Skill](development/name-skill_5cb3d28f/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/SKILL.md) | ⭐ 45 | `development` |
+| [Skill](development/name-skill_49e95dff/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-refactoring/SKILL.md) | ⭐ 45 | `development` |
+| [Ownership And Memory](development/ownership-and-memory_ae9edde7/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/ownership-and-memory.md) | ⭐ 45 | `development` |
+| [Ide](development/ide_4c922da5/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/ide.md) | ⭐ 45 | `development` |
+| [Advanced Moonbit Build](development/advanced-moonbit-build_a7d71b07/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/advanced-moonbit-build.md) | ⭐ 45 | `development` |
+| [Callbacks](development/callbacks_4e6d0695/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/callbacks.md) | ⭐ 45 | `development` |
 
-### Development/Devops (24 skills)
+### Development/Devops (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -419,6 +414,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 12 Cicd Security](development/devops/076-reference-set-ext-12-cicd-security_0521ba12/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Npm Security](development/devops/077-reference-set-ext-12-npm-security_3c3eb33b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Supply Chain Security](development/devops/078-reference-set-ext-12-supply-chain-security_90024891/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 151 | `development` |
+| [Configuration](development/devops/configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -441,11 +437,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set 05 Hsts](development/tools/054-reference-set-05-hsts_f54544af/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-hsts.md) | ⭐ 151 | `development` |
 | [Reference Set 10 User Privacy](development/tools/055-reference-set-10-user-privacy_724c9ff6/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-user-privacy.md) | ⭐ 151 | `development` |
 
-### Research (1 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Msgvalue Loop](research/msgvalue-loop_20a760d5/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/msgvalue-loop.md) | ⭐ 90 | `research` |
+| [Skill.Mbt](other/skillmbt_0e95f5a3/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/SKILL.mbt.md) | ⭐ 45 | `other` |
+| [Moonbit Language Fundamentals](other/moonbit-language-fundamentals_c1be3434/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/moonbit-language-fundamentals.md) | ⭐ 45 | `other` |
 
 ## How Skills Are Organized
 
@@ -497,5 +494,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 04:22:12 UTC*
+*Last updated: 2026-02-14 04:24:34 UTC*
 *Automatically maintained by SkillFlow*
