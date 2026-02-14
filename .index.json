@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T18:21:56.952205",
+  "updated_at": "2026-02-14T18:24:35.271914",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -15610,6 +15610,34 @@
       "repo_updated_at": "2026-02-14T15:17:16+00:00",
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md",
       "display_name": "01 Overview",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "015f6727e55d2d0c95f93554e5edeb00c3c1254f34f989412aea4fbcb709174a",
+      "source_path": "specifications/api-stability-lifecycle.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/2904-api-stability-lifecycle_015f6727",
+      "category": "development",
+      "name": "api-stability-lifecycle_015f6727",
+      "indexed_at": "2026-02-14T18:24:35.060347",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-13T16:39:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specifications/api-stability-lifecycle.md",
+      "display_name": "Api Stability Lifecycle",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "52f2493652d2404aa624ec0f41ffc698005e85aa75e51104871aa1601432f228",
+      "source_path": "skills/synth-api/SKILL.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/devops/014-name-skill_52f24936",
+      "category": "development/devops",
+      "name": "name-skill_52f24936",
+      "indexed_at": "2026-02-14T18:24:35.271848",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-13T21:07:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-api/SKILL.md",
+      "display_name": "Skill",
       "tags": "[\"development\"]"
     }
   ]

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1115 AI-powered skills** organized into 15 categories.
+A curated collection of **1118 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,8 +15,8 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (70 skills)
 - **Daily Assistant** (55 skills)
 - **Data Analysis** (266 skills)
-- **Development** (395 skills)
-- **Development/Devops** (34 skills)
+- **Development** (397 skills)
+- **Development/Devops** (35 skills)
 - **Development/Testing** (8 skills)
 - **Development/Tools** (53 skills)
 - **Investment** (5 skills)
@@ -357,7 +357,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_f2342af5/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/3_DDC_Insights/Field-Automation/voice-to-report/SKILL.md) | ⭐ 33 | `communication` |
 | [Skill](communication/127-name-skill_b75935e0/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Contract-Legal/lien-waiver-tracker/SKILL.md) | ⭐ 33 | `communication` |
 | [Instructions](communication/258-instructions_7b33b000/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/email-construction/instructions.md) | ⭐ 33 | `communication` |
-| [01 About Us](communication/01-about-us_45873401/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 1.1k | `communication` |
+| [01 About Us](communication/258-01-about-us_45873401/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 1.1k | `communication` |
 
 ### Content Creation (70 skills)
 
@@ -388,7 +388,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Specific Aims Guide](content-creation/037-specific_aims_guide_d0e2462d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/specific_aims_guide.md) | ⭐ 19 | `content creation` |
 | [Presentation Structure](content-creation/380-presentation_structure_a9ff0c9a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/presentation_structure.md) | ⭐ 19 | `content creation` |
 | [Figures Tables](content-creation/381-figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
-| [01 About Us](content-creation/01-about-us_f1f7a8fc/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
+| [01 About Us](content-creation/350-01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
 | [Skill](content-creation/049-name-skill_4a225bcb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 20 | `content creation` |
 | [Reference](content-creation/026-reference_9b5d57a4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/notion/REFERENCE.md) | ⭐ 102 | `content creation` |
 | [Reference](content-creation/026-reference_5c3a11f5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/REFERENCE.md) | ⭐ 102 | `content creation` |
@@ -763,9 +763,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](data-analysis/483-instructions_754f0ec2/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pdf-construction/instructions.md) | ⭐ 33 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3c600637/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/SKILL.md) | ⭐ 33 | `data analysis` |
 | [Instructions](data-analysis/483-instructions_bfe3e653/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/instructions.md) | ⭐ 33 | `data analysis` |
-| [Readme Cn](data-analysis/readme_cn_2a39c48d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_2a39c48d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 
-### Development (395 skills)
+### Development (397 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1163,9 +1163,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](development/1753-instructions_3e3f9aea/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/docx-construction/instructions.md) | ⭐ 33 | `development` |
 | [Skill](development/1178-name-skill_0b9cb303/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Financial-Management/budget-variance-analyzer/SKILL.md) | ⭐ 33 | `development` |
 | [Claude](development/140-claude_49b73c4c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 23 | `development` |
-| [01 Overview](development/01-overview_568c1a30/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [01 Overview](development/2703-01-overview_568c1a30/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [Api Stability Lifecycle](development/api-stability-lifecycle_015f6727/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specifications/api-stability-lifecycle.md) | ⭐ 74 | `development` |
+| [Agents](development/agents_e9f94228/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md) | ⭐ 74 | `development` |
 
-### Development/Devops (34 skills)
+### Development/Devops (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1203,6 +1205,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Deploy](development/devops/037-deploy_928d7fea/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 78 | `development` |
 | [Deploy En](development/devops/195-deploy_en_f238e5dc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 78 | `development` |
 | [Skill](development/devops/014-name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/devops/name-skill_52f24936/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-api/SKILL.md) | ⭐ 74 | `development` |
 
 ### Development/Testing (8 skills)
 
@@ -1273,7 +1276,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_18f8ec84/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/3_DDC_Insights/Safety-Quality/toolbox-talk-generator/SKILL.md) | ⭐ 33 | `development` |
 | [Codex](development/tools/330-codex_98ccdf75/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/codex/agents/codex.md) | ⭐ 23 | `development` |
 | [Gemini](development/tools/040-gemini_768e3662/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini/agents/gemini.md) | ⭐ 23 | `development` |
-| [01 Overview](development/tools/01-overview_de4859f2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
+| [01 Overview](development/tools/319-01-overview_de4859f2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
 
 ### Investment (5 skills)
 
@@ -1421,5 +1424,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 18:21:57 UTC*
+*Last updated: 2026-02-14 18:24:35 UTC*
 *Automatically maintained by SkillFlow*
