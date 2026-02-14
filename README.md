@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **212 AI-powered skills** organized into 11 categories.
+A curated collection of **431 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -8,17 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Workflow** (9 skills)
-- **Commercial** (10 skills)
+- **Automation/Scripting** (7 skills)
+- **Automation/Workflow** (27 skills)
+- **Commercial** (18 skills)
 - **Communication** (5 skills)
-- **Content Creation** (16 skills)
-- **Daily Assistant** (5 skills)
-- **Data Analysis** (9 skills)
-- **Development** (120 skills)
-- **Development/Devops** (25 skills)
-- **Development/Testing** (3 skills)
-- **Development/Tools** (8 skills)
-- **Other** (2 skills)
+- **Content Creation** (25 skills)
+- **Daily Assistant** (7 skills)
+- **Data Analysis** (69 skills)
+- **Development** (140 skills)
+- **Development/Devops** (28 skills)
+- **Development/Testing** (4 skills)
+- **Development/Tools** (23 skills)
+- **Productivity** (8 skills)
+- **Research** (70 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -177,7 +179,19 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Workflow (9 skills)
+### Automation/Scripting (7 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Eval Harness Rollout Complete](automation/scripting/eval_harness_rollout_complete_f6f97f73/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/internal/EVAL_HARNESS_ROLLOUT_COMPLETE.md) | ⭐ 19 | `automation` |
+| [Phase 1 Quick Reference](automation/scripting/phase_1_quick_reference_1f8f27ea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/internal/PHASE_1_QUICK_REFERENCE.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/scripting/instructions_fd6daff5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/medchem/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/scripting/instructions_765c2947/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/rdkit/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/scripting/instructions_04e2e21a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/cellxgene-census/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/scripting/instructions_94e1e443/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/gene-database/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/scripting/instructions_5f0988dd/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pdb-database/instructions.md) | ⭐ 19 | `automation` |
+
+### Automation/Workflow (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -189,9 +203,27 @@ ls ~/.claude/skills/patch-research-agent/
 | [Security Scorecard](automation/workflow/035-security_scorecard_a19e5df8/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/SECURITY_SCORECARD.md) | ⭐ 4.0k | `automation` |
 | [Knowledge Architecture V5.2](automation/workflow/028-knowledge-architecture-v52_d2959d9f/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/KNOWLEDGE-ARCHITECTURE-v5.2.md) | ⭐ 151 | `automation` |
 | [Control Set 07 Logging](automation/workflow/029-control-set-07-logging_4409d6b1/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-07-logging.md) | ⭐ 151 | `automation` |
-| [Asan Validation](automation/workflow/asan-validation_e97e1aeb/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/asan-validation.md) | ⭐ 45 | `automation` |
+| [Asan Validation](automation/workflow/139-asan-validation_e97e1aeb/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/asan-validation.md) | ⭐ 45 | `automation` |
+| [Cfo](automation/workflow/cfo_2e10673f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/cfo.md) | ⭐ 19 | `automation` |
+| [Sales Leader](automation/workflow/sales-leader_887038e0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/sales-leader.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_cc010b4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/hypogenic/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_1e33a7ed/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/iso-13485-certification/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_1bff6d69/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/neuropixels-analysis/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_8400bec8/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/offer-k-dense-web/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_7da61ecb/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pytorch-lightning/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_f584517f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scvi-tools/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_ee39d309/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/transformers/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_51c596c0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/umap-learn/instructions.md) | ⭐ 19 | `automation` |
+| [Playbooks](automation/workflow/playbooks_16a73a74/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/PLAYBOOKS.md) | ⭐ 19 | `automation` |
+| [Legal](automation/workflow/legal_a4c6d300/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/legal.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_a774a1ee/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/adaptyv/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_9a80472b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/benchling-integration/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_83cff199/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/biopython/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_b4f08c31/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/labarchive-integration/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_5654a307/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/omero-integration/instructions.md) | ⭐ 19 | `automation` |
+| [Instructions](automation/workflow/instructions_7624be74/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pathml/instructions.md) | ⭐ 19 | `automation` |
 
-### Commercial (10 skills)
+### Commercial (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -205,6 +237,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set 09 Rest Security](commercial/169-reference-set-09-rest-security_57c8774a/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-09-rest-security.md) | ⭐ 151 | `commercial` |
 | [Requirement Violation](commercial/396-requirement-violation_8c2a25b1/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/requirement-violation.md) | ⭐ 90 | `commercial` |
 | [Unchecked Return Values](commercial/397-unchecked-return-values_ae8ce7f8/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unchecked-return-values.md) | ⭐ 90 | `commercial` |
+| [Customer Success](commercial/customer_success_03440bce/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/customer_success.md) | ⭐ 19 | `commercial` |
+| [Executive](commercial/executive_48a48df7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/executive.md) | ⭐ 19 | `commercial` |
+| [Finance](commercial/finance_81b589ce/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/finance.md) | ⭐ 19 | `commercial` |
+| [Marketing](commercial/marketing_b3e32d9e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/marketing.md) | ⭐ 19 | `commercial` |
+| [Instructions](commercial/instructions_babffa81/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/simpy/instructions.md) | ⭐ 19 | `commercial` |
+| [Goal Setting Frameworks](commercial/goal_setting_frameworks_a28a8e14/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/goal_setting_frameworks.md) | ⭐ 19 | `commercial` |
+| [Instructions](commercial/instructions_d0f9f814/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/datacommons-client/instructions.md) | ⭐ 19 | `commercial` |
+| [Instructions](commercial/instructions_d2115ee1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/gwas-database/instructions.md) | ⭐ 19 | `commercial` |
 
 ### Communication (5 skills)
 
@@ -216,7 +256,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 
-### Content Creation (16 skills)
+### Content Creation (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -234,10 +274,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 11 Docker Security](content-creation/099-reference-set-ext-11-docker-security_0ecaf542/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-11-docker-security.md) | ⭐ 151 | `content creation` |
 | [Reference Set Ext 13 Ai Agent Security](content-creation/100-reference-set-ext-13-ai-agent-security_43ee4a42/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-13-ai-agent-security.md) | ⭐ 151 | `content creation` |
 | [Cheatsheet](content-creation/376-cheatsheet_cd8486fc/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/CHEATSHEET.md) | ⭐ 90 | `content creation` |
-| [Moonbit Language Fundamentals.Mbt](content-creation/moonbit-language-fundamentalsmbt_12a9c011/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/moonbit-language-fundamentals.mbt.md) | ⭐ 45 | `content creation` |
-| [Including C Sources](content-creation/including-c-sources_f2b1b21b/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/including-c-sources.md) | ⭐ 45 | `content creation` |
+| [Moonbit Language Fundamentals.Mbt](content-creation/376-moonbit-language-fundamentalsmbt_12a9c011/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/moonbit-language-fundamentals.mbt.md) | ⭐ 45 | `content creation` |
+| [Including C Sources](content-creation/377-including-c-sources_f2b1b21b/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/including-c-sources.md) | ⭐ 45 | `content creation` |
+| [Skill Chains](content-creation/skill_chains_e505df82/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/SKILL_CHAINS.md) | ⭐ 19 | `content creation` |
+| [Skills Catalog](content-creation/skills_catalog_89484c1f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/SKILLS_CATALOG.md) | ⭐ 19 | `content creation` |
+| [Instructions](content-creation/instructions_225c135e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pysam/instructions.md) | ⭐ 19 | `content creation` |
+| [Case Report Guidelines](content-creation/case_report_guidelines_1a1ea7ff/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/case_report_guidelines.md) | ⭐ 19 | `content creation` |
+| [Medical Terminology](content-creation/medical_terminology_55c7cc7e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/medical_terminology.md) | ⭐ 19 | `content creation` |
+| [Broader Impacts](content-creation/broader_impacts_7419c446/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/broader_impacts.md) | ⭐ 19 | `content creation` |
+| [Specific Aims Guide](content-creation/specific_aims_guide_d0e2462d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/specific_aims_guide.md) | ⭐ 19 | `content creation` |
+| [Presentation Structure](content-creation/presentation_structure_a9ff0c9a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/presentation_structure.md) | ⭐ 19 | `content creation` |
+| [Figures Tables](content-creation/figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
 
-### Daily Assistant (5 skills)
+### Daily Assistant (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -246,8 +295,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [P3 Trust Boundary](daily-assistant/086-p3-trust-boundary_69377f71/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P3-TRUST-BOUNDARY.md) | ⭐ 151 | `daily assistant` |
 | [P5 Stride Analysis](daily-assistant/087-p5-stride-analysis_0687bde5/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P5-STRIDE-ANALYSIS.md) | ⭐ 151 | `daily assistant` |
 | [Insufficient Gas Griefing](daily-assistant/271-insufficient-gas-griefing_473c0530/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/insufficient-gas-griefing.md) | ⭐ 90 | `daily assistant` |
+| [Intervention Guidelines](daily-assistant/intervention_guidelines_6bcc583a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/intervention_guidelines.md) | ⭐ 19 | `daily assistant` |
+| [Specialty Specific Guidelines](daily-assistant/specialty_specific_guidelines_05b82478/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/specialty_specific_guidelines.md) | ⭐ 19 | `daily assistant` |
 
-### Data Analysis (9 skills)
+### Data Analysis (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -259,9 +310,69 @@ ls ~/.claude/skills/patch-research-agent/
 | [P8 Report Generation](data-analysis/476-p8-report-generation_bd398302/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/phases/P8-REPORT-GENERATION.md) | ⭐ 151 | `data analysis` |
 | [Control Set Ext 13 Ai Llm](data-analysis/272-control-set-ext-13-ai-llm_9ed85b8d/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-ext-13-ai-llm.md) | ⭐ 151 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_248c2e1d/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/react-pdf/skills/react-pdf/SKILL.md) | ⭐ 90 | `data analysis` |
-| [Index](data-analysis/index_be768ee2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/index.md) | ⭐ 3.3k | `data analysis` |
+| [Index](data-analysis/113-index_be768ee2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/index.md) | ⭐ 3.3k | `data analysis` |
+| [Engineering](data-analysis/engineering_b9bc4ec2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/engineering.md) | ⭐ 19 | `data analysis` |
+| [Sales](data-analysis/sales_4e7ffc3f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/sales.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_ef41724e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/anndata/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_3148acfa/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/astropy/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_9f404d90/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/cirq/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_58d9df07/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_54270fc7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_bd804781/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/dask/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_956bead4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/datamol/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_50323d0f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/deepchem/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_c30153e1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/deeptools/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_4314ab70/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/exploratory-data-analysis/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_a5026171/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/flowio/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_72539ad4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/geopandas/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_0231ff33/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/histolab/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_c1da0945/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/imaging-data-commons/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_25226b77/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/lamindb/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_6bd46639/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/market-research-reports/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_507d059f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/markitdown/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_1cba2ce5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/matchms/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_7c72a2c8/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/networkx/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_5b964c80/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/neurokit2/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_a816e40d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/plotly/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_170017be/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pydeseq2/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_01e0bf4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pyhealth/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_6d789ca9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pymatgen/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_16b2dcb2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pymc/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_844fc5b7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pymoo/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_fa5c6a8a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pyopenms/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_35a0f8f3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/qiskit/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_a3c69014/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-visualization/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_8820b67b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scikit-bio/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_c9a9e4ce/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scikit-learn/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_c35a430b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/seaborn/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_95b84ee0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/shap/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_249499ae/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/statsmodels/instructions.md) | ⭐ 19 | `data analysis` |
+| [Outcome Analysis](data-analysis/outcome_analysis_9d9c20e4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/outcome_analysis.md) | ⭐ 19 | `data analysis` |
+| [Patient Cohort Analysis](data-analysis/patient_cohort_analysis_1b4962c1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/patient_cohort_analysis.md) | ⭐ 19 | `data analysis` |
+| [Clinical Trial Reporting](data-analysis/clinical_trial_reporting_e6bb4900/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/clinical_trial_reporting.md) | ⭐ 19 | `data analysis` |
+| [Data Presentation](data-analysis/data_presentation_84af36d4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/data_presentation.md) | ⭐ 19 | `data analysis` |
+| [Diagnostic Reports Standards](data-analysis/diagnostic_reports_standards_e3dded66/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/diagnostic_reports_standards.md) | ⭐ 19 | `data analysis` |
+| [Poster Content Guide](data-analysis/poster_content_guide_6592f544/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/latex-posters/references/poster_content_guide.md) | ⭐ 19 | `data analysis` |
+| [Visual Generation Guide](data-analysis/visual_generation_guide_a0973a53/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/market-research-reports/references/visual_generation_guide.md) | ⭐ 19 | `data analysis` |
+| [Api Reference](data-analysis/api_reference_18d13414/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/markitdown/references/api_reference.md) | ⭐ 19 | `data analysis` |
+| [File Formats](data-analysis/file_formats_051c6450/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/markitdown/references/file_formats.md) | ⭐ 19 | `data analysis` |
+| [Best Practices](data-analysis/best_practices_7e0d2076/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-schematics/references/best_practices.md) | ⭐ 19 | `data analysis` |
+| [Slide Design Principles](data-analysis/slide_design_principles_d39c01ab/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/slide_design_principles.md) | ⭐ 19 | `data analysis` |
+| [Visual Review Workflow](data-analysis/visual_review_workflow_579328d5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/visual_review_workflow.md) | ⭐ 19 | `data analysis` |
+| [Treatment Plan Standards](data-analysis/treatment_plan_standards_b6b58a5f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/treatment_plan_standards.md) | ⭐ 19 | `data analysis` |
+| [Skill Tree](data-analysis/skill-tree_5fd014cc/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/skill-tree.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_b4a3bca9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/alphafold-database/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_252cc757/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/bioservices/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_c8989434/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/cobrapy/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_f7c55783/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/denario/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_8b4865d3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/etetoolkit/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_4a9992c2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/fluidsim/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_ba0adbe7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/geo-database/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_d88cc247/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/kegg-database/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_13c57dfb/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/polars/instructions.md) | ⭐ 19 | `data analysis` |
+| [Instructions](data-analysis/instructions_f8db6e2a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scanpy/instructions.md) | ⭐ 19 | `data analysis` |
 
-### Development (120 skills)
+### Development (140 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -378,15 +489,35 @@ ls ~/.claude/skills/patch-research-agent/
 | [Unsupported Opcodes](development/2953-unsupported-opcodes_f07f9c1f/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unsupported-opcodes.md) | ⭐ 90 | `development` |
 | [Unused Variables](development/2954-unused-variables_15bc83a6/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/unused-variables.md) | ⭐ 90 | `development` |
 | [Weak Sources Randomness](development/2955-weak-sources-randomness_34b619d7/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/scv-scan/skills/scv-scan/references/weak-sources-randomness.md) | ⭐ 90 | `development` |
-| [Skill](development/name-skill_27d4a744/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/SKILL.md) | ⭐ 45 | `development` |
-| [Skill](development/name-skill_5cb3d28f/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/SKILL.md) | ⭐ 45 | `development` |
-| [Skill](development/name-skill_49e95dff/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-refactoring/SKILL.md) | ⭐ 45 | `development` |
-| [Ownership And Memory](development/ownership-and-memory_ae9edde7/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/ownership-and-memory.md) | ⭐ 45 | `development` |
-| [Ide](development/ide_4c922da5/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/ide.md) | ⭐ 45 | `development` |
-| [Advanced Moonbit Build](development/advanced-moonbit-build_a7d71b07/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/advanced-moonbit-build.md) | ⭐ 45 | `development` |
-| [Callbacks](development/callbacks_4e6d0695/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/callbacks.md) | ⭐ 45 | `development` |
+| [Skill](development/1178-name-skill_27d4a744/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/SKILL.md) | ⭐ 45 | `development` |
+| [Skill](development/1178-name-skill_5cb3d28f/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/SKILL.md) | ⭐ 45 | `development` |
+| [Skill](development/1178-name-skill_49e95dff/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-refactoring/SKILL.md) | ⭐ 45 | `development` |
+| [Ownership And Memory](development/2924-ownership-and-memory_ae9edde7/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-c-binding/references/ownership-and-memory.md) | ⭐ 45 | `development` |
+| [Ascii Design System Port](development/ascii_design_system_port_a9757625/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/ASCII_DESIGN_SYSTEM_PORT.md) | ⭐ 19 | `development` |
+| [Metrics](development/metrics_85523ef8/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/METRICS.md) | ⭐ 19 | `development` |
+| [Build Your First Skill](development/build_your_first_skill_066b356a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BUILD_YOUR_FIRST_SKILL.md) | ⭐ 19 | `development` |
+| [Value](development/value_647a07db/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/VALUE.md) | ⭐ 19 | `development` |
+| [Data](development/data_50773e68/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/data.md) | ⭐ 19 | `development` |
+| [Design](development/design_9967d15a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/design.md) | ⭐ 19 | `development` |
+| [Operations](development/operations_90fff9a0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/operations.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_5d420954/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/esm/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_a0279196/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pennylane/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_b669431a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pylabrobot/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_ea2c005a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/zarr-python/instructions.md) | ⭐ 19 | `development` |
+| [Services Reference](development/services_reference_0109b06a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/bioservices/references/services_reference.md) | ⭐ 19 | `development` |
+| [Patient Documentation](development/patient_documentation_1e4e5f8c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/patient_documentation.md) | ⭐ 19 | `development` |
+| [Bigquery Guide](development/bigquery_guide_0ce04067/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/imaging-data-commons/references/bigquery_guide.md) | ⭐ 19 | `development` |
+| [Regulatory Compliance](development/regulatory_compliance_805f5b21/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/regulatory_compliance.md) | ⭐ 19 | `development` |
+| [What Are Skills](development/what_are_skills_3da51c98/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/WHAT_ARE_SKILLS.md) | ⭐ 19 | `development` |
+| [Repo Setup](development/repo_setup_38c41f78/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/internal/REPO_SETUP.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_a4a2c711/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/dnanexus-integration/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_2f5ad62a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/ensembl-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_1104dcea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/fda-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_4338fcbd/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/opentrons-integration/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/instructions_1464cb81/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/sympy/instructions.md) | ⭐ 19 | `development` |
+| [Quick Reference](development/quick_reference_fd269779/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-schematics/references/QUICK_REFERENCE.md) | ⭐ 19 | `development` |
 
-### Development/Devops (25 skills)
+### Development/Devops (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -414,17 +545,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 12 Cicd Security](development/devops/076-reference-set-ext-12-cicd-security_0521ba12/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Npm Security](development/devops/077-reference-set-ext-12-npm-security_3c3eb33b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Supply Chain Security](development/devops/078-reference-set-ext-12-supply-chain-security_90024891/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 151 | `development` |
-| [Configuration](development/devops/configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/009-configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Batch Eval Quickstart](development/devops/batch_eval_quickstart_8a1c7ae5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BATCH_EVAL_QUICKSTART.md) | ⭐ 19 | `development` |
+| [Instructions](development/devops/instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/devops/instructions_64424774/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/latchbio-integration/instructions.md) | ⭐ 19 | `development` |
 
-### Development/Testing (3 skills)
+### Development/Testing (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Middleware Chains](development/testing/085-middleware-chains_c239a6f7/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/middleware-chains.md) | ⭐ 10 | `development` |
 | [Parallel Execution](development/testing/086-parallel-execution_5d3062a6/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/parallel-execution.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/013-threat-skill_0623a026/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 151 | `development` |
+| [Hr Skills](development/testing/hr_8540383f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/functions/hr.md) | ⭐ 19 | `development` |
 
-### Development/Tools (8 skills)
+### Development/Tools (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -436,13 +571,109 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set 09 Api Security](development/tools/053-control-set-09-api-security_c77f3363/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-09-api-security.md) | ⭐ 151 | `development` |
 | [Reference Set 05 Hsts](development/tools/054-reference-set-05-hsts_f54544af/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-05-hsts.md) | ⭐ 151 | `development` |
 | [Reference Set 10 User Privacy](development/tools/055-reference-set-10-user-privacy_724c9ff6/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-10-user-privacy.md) | ⭐ 151 | `development` |
+| [Instructions](development/tools/instructions_67e645e7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/aeon/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_accc172d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/geniml/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_3df34127/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pufferlib/instructions.md) | ⭐ 19 | `development` |
+| [Biomarker Classification](development/tools/biomarker_classification_32a4dbca/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/biomarker_classification.md) | ⭐ 19 | `development` |
+| [Clinical Decision Algorithms](development/tools/clinical_decision_algorithms_638c8f4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/clinical_decision_algorithms.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_9f83b724/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/brenda-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_b4de9fcd/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/chembl-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_46d6a7b6/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinicaltrials-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_c44e3880/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/gtars/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_83c81cca/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/matplotlib/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_fa2a98dd/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pubchem-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_46d8da2e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pydicom/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_061a8165/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/reactome-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_59fb9956/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/uniprot-database/instructions.md) | ⭐ 19 | `development` |
+| [Instructions](development/tools/instructions_82c6ed9f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/uspto-database/instructions.md) | ⭐ 19 | `development` |
 
-### Other (2 skills)
+### Productivity (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Skill.Mbt](other/skillmbt_0e95f5a3/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/SKILL.mbt.md) | ⭐ 45 | `other` |
-| [Moonbit Language Fundamentals](other/moonbit-language-fundamentals_c1be3434/) | [moonbitlang/moonbit-agent-guide](https://raw.githubusercontent.com/moonbitlang/moonbit-agent-guide/main/moonbit-agent-guide/references/moonbit-language-fundamentals.md) | ⭐ 45 | `other` |
+| [Growth Pm](productivity/growth-pm_61990fbd/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/growth-pm.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_8e70d675/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/arboreto/instructions.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_8423dce7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/get-available-resources/instructions.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_1cb797ea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/molfeat/instructions.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_592d0bff/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/qutip/instructions.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_34320250/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/stable-baselines3/instructions.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_a0b1c774/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/vaex/instructions.md) | ⭐ 19 | `productivity` |
+| [Instructions](productivity/instructions_50c21649/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scikit-survival/instructions.md) | ⭐ 19 | `productivity` |
+
+### Research (70 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Directory](research/directory_a0d73337/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/directory.md) | ⭐ 19 | `research` |
+| [Researcher](research/researcher_df719c26/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/personas/researcher.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_8e11ef01/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/citation-management/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_4a81772a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/diffdock/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_bc174929/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/generate-image/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_88dc1368/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/hypothesis-generation/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_edf455e5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/latex-posters/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_a8a509c6/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/literature-review/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_eb5fb503/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/peer-review/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_821ff852/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/perplexity-search/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_2649f6c0/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pytdc/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_947dbffb/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_0b8463b1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-lookup/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_0c7b82ed/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scholar-evaluation/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_e9bc7902/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-brainstorming/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_1b858180/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-critical-thinking/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_770aa284/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-schematics/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_0f8a0918/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_c43a28a7/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_9688f3cb/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/statistical-analysis/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_51b72599/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/torch_geometric/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_29e13b31/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/torchdrug/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_54f0b8e2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/instructions.md) | ⭐ 19 | `research` |
+| [Api Reference](research/api_reference_3188878c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/brenda-database/references/api_reference.md) | ⭐ 19 | `research` |
+| [Bibtex Formatting](research/bibtex_formatting_72d38876/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/citation-management/references/bibtex_formatting.md) | ⭐ 19 | `research` |
+| [Citation Validation](research/citation_validation_7b76ecf9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/citation-management/references/citation_validation.md) | ⭐ 19 | `research` |
+| [Google Scholar Search](research/google_scholar_search_d741455b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/citation-management/references/google_scholar_search.md) | ⭐ 19 | `research` |
+| [Metadata Extraction](research/metadata_extraction_71ec43da/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/citation-management/references/metadata_extraction.md) | ⭐ 19 | `research` |
+| [Pubmed Search](research/pubmed_search_5b0933e6/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/citation-management/references/pubmed_search.md) | ⭐ 19 | `research` |
+| [Evidence Synthesis](research/evidence_synthesis_8b70f676/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/evidence_synthesis.md) | ⭐ 19 | `research` |
+| [Treatment Recommendations](research/treatment_recommendations_f101db52/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/treatment_recommendations.md) | ⭐ 19 | `research` |
+| [Peer Review Standards](research/peer_review_standards_87b1180b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/peer_review_standards.md) | ⭐ 19 | `research` |
+| [Regulatory Compliance](research/regulatory_compliance_5caa7518/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-reports/references/regulatory_compliance.md) | ⭐ 19 | `research` |
+| [Latex Poster Packages](research/latex_poster_packages_564e45c3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/latex-posters/references/latex_poster_packages.md) | ⭐ 19 | `research` |
+| [Poster Design Principles](research/poster_design_principles_d09d15ec/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/latex-posters/references/poster_design_principles.md) | ⭐ 19 | `research` |
+| [Poster Layout Design](research/poster_layout_design_0f4e15b2/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/latex-posters/references/poster_layout_design.md) | ⭐ 19 | `research` |
+| [Darpa Guidelines](research/darpa_guidelines_547536ad/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/darpa_guidelines.md) | ⭐ 19 | `research` |
+| [Doe Guidelines](research/doe_guidelines_c27d71dc/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/doe_guidelines.md) | ⭐ 19 | `research` |
+| [Nih Guidelines](research/nih_guidelines_7cdbc861/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/nih_guidelines.md) | ⭐ 19 | `research` |
+| [Nsf Guidelines](research/nsf_guidelines_10523438/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/nsf_guidelines.md) | ⭐ 19 | `research` |
+| [Nstc Guidelines](research/nstc_guidelines_0e71e945/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/nstc_guidelines.md) | ⭐ 19 | `research` |
+| [Beamer Guide](research/beamer_guide_9084c4b9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/beamer_guide.md) | ⭐ 19 | `research` |
+| [Professional Report Formatting](research/professional_report_formatting_3dcf76ea/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/professional_report_formatting.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_350fee0c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/biorxiv-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_89095f70/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinpgx-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_4fcae980/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinvar-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_2c5b942d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/cosmic-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_dee65f81/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/drugbank-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_2d782414/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/ena-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_8e925036/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/hmdb-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_f5510c2a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/metabolomics-workbench-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_d428a1a3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/openalex-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_0c734056/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/opentargets-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_7522e2f9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/paper-2-web/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_3740a6f8/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/protocolsio-integration/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_cea83eb3/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pubmed-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_f196696e/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/string-database/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_dd848bfa/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/instructions.md) | ⭐ 19 | `research` |
+| [Instructions](research/instructions_cb04ddde/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/zinc-database/instructions.md) | ⭐ 19 | `research` |
+| [Cell Press Style](research/cell_press_style_d2408019/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/cell_press_style.md) | ⭐ 19 | `research` |
+| [Conferences Formatting](research/conferences_formatting_15fbbdc8/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/conferences_formatting.md) | ⭐ 19 | `research` |
+| [Cs Conference Style](research/cs_conference_style_1319a7d5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/cs_conference_style.md) | ⭐ 19 | `research` |
+| [Grants Requirements](research/grants_requirements_795efed4/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/grants_requirements.md) | ⭐ 19 | `research` |
+| [Journals Formatting](research/journals_formatting_e44d5d07/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/journals_formatting.md) | ⭐ 19 | `research` |
+| [Medical Journal Styles](research/medical_journal_styles_b0eccce9/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/medical_journal_styles.md) | ⭐ 19 | `research` |
+| [Ml Conference Style](research/ml_conference_style_020219c1/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/ml_conference_style.md) | ⭐ 19 | `research` |
+| [Nature Science Style](research/nature_science_style_c3fcf53a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/nature_science_style.md) | ⭐ 19 | `research` |
+| [Posters Guidelines](research/posters_guidelines_3892098a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/posters_guidelines.md) | ⭐ 19 | `research` |
+| [Reviewer Expectations](research/reviewer_expectations_55962d00/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/reviewer_expectations.md) | ⭐ 19 | `research` |
+| [Venue Writing Styles](research/venue_writing_styles_ed25018a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/venue-templates/references/venue_writing_styles.md) | ⭐ 19 | `research` |
 
 ## How Skills Are Organized
 
@@ -494,5 +725,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 04:24:34 UTC*
+*Last updated: 2026-02-14 05:22:39 UTC*
 *Automatically maintained by SkillFlow*
