@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1135 AI-powered skills** organized into 15 categories.
+A curated collection of **1146 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (20 skills)
+- **Automation/Scripting** (19 skills)
 - **Automation/Workflow** (78 skills)
 - **Commercial** (42 skills)
 - **Communication** (19 skills)
 - **Content Creation** (71 skills)
 - **Daily Assistant** (55 skills)
-- **Data Analysis** (266 skills)
-- **Development** (406 skills)
+- **Data Analysis** (269 skills)
+- **Development** (407 skills)
 - **Development/Devops** (39 skills)
 - **Development/Testing** (8 skills)
 - **Development/Tools** (55 skills)
 - **Investment** (5 skills)
 - **Other** (2 skills)
-- **Productivity** (16 skills)
-- **Research** (53 skills)
+- **Productivity** (18 skills)
+- **Research** (59 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (20 skills)
+### Automation/Scripting (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -204,7 +204,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_91bb61a8/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/1_DDC_Toolkit/Sustainability/co2-carbon-footprint/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7f06f842/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/2.3-Pandas-LLM-Analysis/rag-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
-| [Pyroscope Profiling](automation/scripting/pyroscope_profiling_98f77a41/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/pyroscope_profiling.md) | 🔥 35.7k | `automation` |
 
 ### Automation/Workflow (78 skills)
 
@@ -434,7 +433,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_8eb88fe2/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.3-4D-BIM-CO2-Simulation/co2-estimation/SKILL.md) | ⭐ 33 | `content creation` |
 | [Skill](content-creation/049-name-skill_67552c13/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.3-4D-BIM-CO2-Simulation/lifecycle-carbon-calculator/SKILL.md) | ⭐ 33 | `content creation` |
 | [01 About Us](content-creation/364-01-about-us_f1f7a8fc/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
-| [Migration Runbook](content-creation/migration_runbook_e815fdab/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm-proxy-extras/migration_runbook.md) | 🔥 35.7k | `content creation` |
+| [Migration Runbook](content-creation/349-migration_runbook_e815fdab/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm-proxy-extras/migration_runbook.md) | 🔥 35.7k | `content creation` |
 
 ### Daily Assistant (55 skills)
 
@@ -496,7 +495,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_62838cb5/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Financial-Management/payment-application-processor/SKILL.md) | ⭐ 33 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_eef66b21/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Financial-Management/retention-tracker/SKILL.md) | ⭐ 33 | `daily assistant` |
 
-### Data Analysis (266 skills)
+### Data Analysis (269 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -766,8 +765,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_3c600637/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/SKILL.md) | ⭐ 33 | `data analysis` |
 | [Instructions](data-analysis/483-instructions_bfe3e653/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/instructions.md) | ⭐ 33 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_2a39c48d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
+| [Skill](data-analysis/name-skill_668c27e8/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/SKILL.md) | ⭐ 13 | `data analysis` |
+| [Skill](data-analysis/name-skill_c930ee03/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/clinical-research-session/SKILL.md) | ⭐ 13 | `data analysis` |
+| [Reporting Guidelines](data-analysis/reporting-guidelines_90f334a5/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/reporting-guidelines.md) | ⭐ 13 | `data analysis` |
 
-### Development (406 skills)
+### Development (407 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1167,16 +1169,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/140-claude_49b73c4c/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 23 | `development` |
 | [01 Overview](development/2703-01-overview_568c1a30/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
 | [Api Stability Lifecycle](development/2904-api-stability-lifecycle_015f6727/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specifications/api-stability-lifecycle.md) | ⭐ 74 | `development` |
-| [Integration](development/integration_d27fd4a3/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/INTEGRATION.md) | ⭐ 20 | `development` |
-| [Chat](development/chat_daf9cee0/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/chat.md) | ⭐ 20 | `development` |
-| [Manifest Schema](development/manifest-schema_da56bdc5/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/manifest-schema.md) | ⭐ 20 | `development` |
-| [Python Api](development/python-api_78bd98af/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/python-api.md) | ⭐ 20 | `development` |
-| [Index](development/index_7b1f4b8c/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/index.md) | ⭐ 20 | `development` |
-| [Troubleshooting](development/troubleshooting_c85dcd4a/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/troubleshooting.md) | ⭐ 20 | `development` |
-| [Installation](development/installation_4e48b1d4/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/getting-started/installation.md) | ⭐ 20 | `development` |
-| [Quickstart](development/quickstart_b9280dd9/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/getting-started/quickstart.md) | ⭐ 20 | `development` |
-| [Build](development/build_dca84687/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/build.md) | ⭐ 20 | `development` |
-| [Configuration](development/configuration_1d0f2703/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/configuration.md) | ⭐ 20 | `development` |
+| [Integration](development/476-integration_d27fd4a3/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/INTEGRATION.md) | ⭐ 20 | `development` |
+| [Chat](development/2848-chat_daf9cee0/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/chat.md) | ⭐ 20 | `development` |
+| [Manifest Schema](development/2849-manifest-schema_da56bdc5/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/manifest-schema.md) | ⭐ 20 | `development` |
+| [Python Api](development/740-python-api_78bd98af/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/python-api.md) | ⭐ 20 | `development` |
+| [Skills Index](development/skills_index_7158fb19/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 13 | `development` |
+| [Skill Format](development/skill_format_7d843fe0/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILL_FORMAT.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_0df81a77/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/suspicion-of-infection/SKILL.md) | ⭐ 13 | `development` |
+| [Skill](development/name-skill_128c6fa7/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/m4-api/SKILL.md) | ⭐ 13 | `development` |
+| [Assumptions Limitations](development/assumptions-limitations_dd74535f/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/assumptions-limitations.md) | ⭐ 13 | `development` |
+| [Study Design Checklist](development/study-design-checklist_83953750/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/study-design-checklist.md) | ⭐ 13 | `development` |
+| [Validation Strategy](development/validation-strategy_3dd23668/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/validation-strategy.md) | ⭐ 13 | `development` |
 
 ### Development/Devops (39 skills)
 
@@ -1217,10 +1220,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Deploy En](development/devops/195-deploy_en_f238e5dc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 78 | `development` |
 | [Skill](development/devops/014-name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
 | [Skill](development/devops/014-name-skill_52f24936/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-api/SKILL.md) | ⭐ 74 | `development` |
-| [Ui Issues](development/devops/ui_issues_60f56118/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/ui_issues.md) | 🔥 35.7k | `development` |
-| [Analyze](development/devops/analyze_e29205c6/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/analyze.md) | ⭐ 20 | `development` |
-| [Llm Providers](development/devops/llm-providers_16d48180/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
-| [Plan](development/devops/plan_dd8a94a7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
+| [Ui Issues](development/devops/359-ui_issues_60f56118/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/ui_issues.md) | 🔥 35.7k | `development` |
+| [Analyze](development/devops/360-analyze_e29205c6/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/analyze.md) | ⭐ 20 | `development` |
+| [Llm Providers](development/devops/361-llm-providers_16d48180/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
+| [Plan](development/devops/362-plan_dd8a94a7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
 
 ### Development/Testing (8 skills)
 
@@ -1292,8 +1295,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Codex](development/tools/330-codex_98ccdf75/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/codex/agents/codex.md) | ⭐ 23 | `development` |
 | [Gemini](development/tools/040-gemini_768e3662/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/gemini/agents/gemini.md) | ⭐ 23 | `development` |
 | [01 Overview](development/tools/319-01-overview_de4859f2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
-| [Mcp Server](development/tools/mcp-server_11b333fc/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/integrations/mcp-server.md) | ⭐ 20 | `development` |
-| [Cli](development/tools/cli_720c7e96/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md) | ⭐ 20 | `development` |
+| [Mcp Server](development/tools/319-mcp-server_11b333fc/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/integrations/mcp-server.md) | ⭐ 20 | `development` |
+| [Cli](development/tools/263-cli_720c7e96/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md) | ⭐ 20 | `development` |
 
 ### Investment (5 skills)
 
@@ -1312,7 +1315,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 
-### Productivity (16 skills)
+### Productivity (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1332,8 +1335,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_b2d4d5fc/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.1-Analytics-KPI-Dashboard/predictive-analytics-construction/SKILL.md) | ⭐ 33 | `productivity` |
 | [Skill](productivity/093-name-skill_773729ac/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.3-BIM-Validation-Pipeline/clash-resolution-analyzer/SKILL.md) | ⭐ 33 | `productivity` |
 | [Skill](productivity/093-name-skill_a6b69f32/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.4-Vector-Search-BigData/parquet-converter/SKILL.md) | ⭐ 33 | `productivity` |
+| [Method Families](productivity/method-families_a30d428d/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/method-families.md) | ⭐ 13 | `productivity` |
+| [Question Taxonomy](productivity/question-taxonomy_895db1ba/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/question-taxonomy.md) | ⭐ 13 | `productivity` |
 
-### Research (53 skills)
+### Research (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1390,6 +1395,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/163-description-skill_83caeeb0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 17 | `research` |
 | [Arl Agent Instructions](research/262-arl-agent-instructions_19641f61/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/ARL-agent-instructions.md) | ⭐ 17 | `research` |
 | [Skill](research/139-name-skill_d15c8e9a/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/1_DDC_Toolkit/Field-Operations/punch-list-manager/SKILL.md) | ⭐ 33 | `research` |
+| [Skill](research/name-skill_8ab43993/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/apache-iv-score/SKILL.md) | ⭐ 13 | `research` |
+| [Skill](research/name-skill_4385e324/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/comorbidity-score/SKILL.md) | ⭐ 13 | `research` |
+| [Skill](research/name-skill_feb30423/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sapsii-score/SKILL.md) | ⭐ 13 | `research` |
+| [Skill](research/name-skill_14029ef2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sepsis-3-cohort/SKILL.md) | ⭐ 13 | `research` |
+| [Skill](research/name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
+| [Ehr Data Considerations](research/ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
 
 ## How Skills Are Organized
 
@@ -1441,5 +1452,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 19:23:45 UTC*
+*Last updated: 2026-02-14 20:22:01 UTC*
 *Automatically maintained by SkillFlow*
