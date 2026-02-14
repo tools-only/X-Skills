@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T05:23:49.922320",
+  "updated_at": "2026-02-14T05:24:07.021778",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -5055,6 +5055,62 @@
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md",
       "display_name": "01 About Us",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "1027c55b4b32a5c244b11938469dabee096ff9e5c9f47ff3d39b75cf8b27d3bd",
+      "source_path": "LLM.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/tools/317-llm_1027c55b",
+      "category": "development/tools",
+      "name": "llm_1027c55b",
+      "indexed_at": "2026-02-14T05:24:06.734915",
+      "repo_stars": 6486,
+      "repo_updated_at": "2026-02-12T05:15:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md",
+      "display_name": "Llm",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "29151437ba8ac4406a2acd2654c95885df1bf76f4a78db89ac09821fdda8180a",
+      "source_path": "release_notes.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/testing/079-release_notes_29151437",
+      "category": "development/testing",
+      "name": "release_notes_29151437",
+      "indexed_at": "2026-02-14T05:24:06.815863",
+      "repo_stars": 6486,
+      "repo_updated_at": "2026-02-13T04:14:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md",
+      "display_name": "Release Notes",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5991f9492d8f7cc8dbed68a8a091effcfd8a907b282ed5d5d653f269c673d0b0",
+      "source_path": "agent_docs/ops_guide.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/testing/081-ops_guide_5991f949",
+      "category": "development/testing",
+      "name": "ops_guide_5991f949",
+      "indexed_at": "2026-02-14T05:24:06.939411",
+      "repo_stars": 6486,
+      "repo_updated_at": "2026-02-13T03:18:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md",
+      "display_name": "Ops Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2f52ed9cc582199148516c7a46487fd840b0a4f6ab224a359d0bd75f6b23ef26",
+      "source_path": "integrations/telegram/AGENTS.md",
+      "source_repo": "crestalnetwork/intentkit",
+      "local_path": "development/devops/053-agents_2f52ed9c",
+      "category": "development/devops",
+      "name": "agents_2f52ed9c",
+      "indexed_at": "2026-02-14T05:24:07.021688",
+      "repo_stars": 6486,
+      "repo_updated_at": "2026-02-11T17:27:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
     }
   ]
 }

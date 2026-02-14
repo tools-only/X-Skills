@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **361 AI-powered skills** organized into 13 categories.
+A curated collection of **365 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -16,9 +16,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (7 skills)
 - **Data Analysis** (58 skills)
 - **Development** (132 skills)
-- **Development/Devops** (28 skills)
-- **Development/Testing** (3 skills)
-- **Development/Tools** (13 skills)
+- **Development/Devops** (29 skills)
+- **Development/Testing** (5 skills)
+- **Development/Tools** (14 skills)
 - **Productivity** (7 skills)
 - **Research** (43 skills)
 
@@ -272,7 +272,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Specific Aims Guide](content-creation/037-specific_aims_guide_d0e2462d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/specific_aims_guide.md) | ⭐ 19 | `content creation` |
 | [Presentation Structure](content-creation/380-presentation_structure_a9ff0c9a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/presentation_structure.md) | ⭐ 19 | `content creation` |
 | [Figures Tables](content-creation/381-figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
-| [01 About Us](content-creation/01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
+| [01 About Us](content-creation/350-01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
 
 ### Daily Assistant (7 skills)
 
@@ -486,7 +486,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bigquery Guide](development/104-bigquery_guide_0ce04067/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/imaging-data-commons/references/bigquery_guide.md) | ⭐ 19 | `development` |
 | [Regulatory Compliance](development/901-regulatory_compliance_805f5b21/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/regulatory_compliance.md) | ⭐ 19 | `development` |
 
-### Development/Devops (28 skills)
+### Development/Devops (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -518,16 +518,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Batch Eval Quickstart](development/devops/371-batch_eval_quickstart_8a1c7ae5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BATCH_EVAL_QUICKSTART.md) | ⭐ 19 | `development` |
 | [Instructions](development/devops/197-instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
+| [Agents](development/devops/agents_2f52ed9c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md) | 🔥 6.5k | `development` |
 
-### Development/Testing (3 skills)
+### Development/Testing (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Middleware Chains](development/testing/085-middleware-chains_c239a6f7/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/middleware-chains.md) | ⭐ 10 | `development` |
 | [Parallel Execution](development/testing/086-parallel-execution_5d3062a6/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/parallel-execution.md) | ⭐ 10 | `development` |
 | [Skill](development/testing/013-threat-skill_0623a026/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/SKILL.md) | ⭐ 151 | `development` |
+| [Release Notes](development/testing/release_notes_29151437/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
+| [Ops Guide](development/testing/ops_guide_5991f949/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 
-### Development/Tools (13 skills)
+### Development/Tools (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -544,6 +547,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](development/tools/326-instructions_3df34127/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/pufferlib/instructions.md) | ⭐ 19 | `development` |
 | [Biomarker Classification](development/tools/327-biomarker_classification_32a4dbca/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/biomarker_classification.md) | ⭐ 19 | `development` |
 | [Clinical Decision Algorithms](development/tools/328-clinical_decision_algorithms_638c8f4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/clinical_decision_algorithms.md) | ⭐ 19 | `development` |
+| [Llm](development/tools/llm_1027c55b/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
 
 ### Productivity (7 skills)
 
@@ -655,5 +659,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 05:23:50 UTC*
+*Last updated: 2026-02-14 05:24:07 UTC*
 *Automatically maintained by SkillFlow*
