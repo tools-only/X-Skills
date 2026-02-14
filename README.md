@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **41 AI-powered skills** organized into 7 categories.
+A curated collection of **52 AI-powered skills** organized into 9 categories.
 
 ## Overview
 
@@ -11,10 +11,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (5 skills)
 - **Commercial** (3 skills)
 - **Communication** (3 skills)
-- **Content Creation** (2 skills)
+- **Content Creation** (3 skills)
+- **Daily Assistant** (1 skill)
+- **Data Analysis** (7 skills)
 - **Development** (17 skills)
-- **Development/Devops** (10 skills)
-- **Development/Tools** (1 skill)
+- **Development/Devops** (11 skills)
+- **Development/Tools** (2 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +183,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Skills Created](automation/workflow/140-readme_flat_skills_created_518f2683/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.5k | `automation` |
 | [Skill](automation/workflow/002-name-skill_82d9d209/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tool-ui-integrator/SKILL.md) | ⭐ 15 | `automation` |
 | [Readme Flat Skills Az](automation/workflow/136-readme_flat_skills_az_1dd4094b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.5k | `automation` |
-| [Overview](automation/workflow/overview_cf2b1aeb/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 17 | `automation` |
+| [Overview](automation/workflow/016-overview_cf2b1aeb/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 17 | `automation` |
 
 ### Commercial (3 skills)
 
@@ -197,14 +199,33 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Troubleshoot](communication/221-troubleshoot_7a8329e7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.9k | `communication` |
 | [Web Search](communication/206-web_search_6a939ba7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/web_search.md) | 🔥 35.9k | `communication` |
-| [Claude](communication/claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
+| [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
 
-### Content Creation (2 skills)
+### Content Creation (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Openai](content-creation/359-openai_4ef0cd71/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/openai.md) | 🔥 35.9k | `content creation` |
-| [Skill](content-creation/name-skill_a9cca04f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_a9cca04f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
+| [Target User Agentic Harness V0](content-creation/target_user_agentic_harness_v0_a84a827c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
+
+### Daily Assistant (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Index](daily-assistant/index_8674d78b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/llm/index.md) | ⭐ 12 | `daily assistant` |
+
+### Data Analysis (7 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Architecture](data-analysis/architecture_f62cb9de/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md) | ⭐ 12 | `data analysis` |
+| [Configuration](data-analysis/configuration_cda8812a/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md) | ⭐ 12 | `data analysis` |
+| [Transformation](data-analysis/transformation_39e9ae41/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/transformation.md) | ⭐ 12 | `data analysis` |
+| [Hand Build Components](data-analysis/hand_build_components_c072abe6/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/data_ui_blocks/hand_build_components.md) | ⭐ 12 | `data analysis` |
+| [Index](data-analysis/index_c97b082e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/data_ui_blocks/index.md) | ⭐ 12 | `data analysis` |
+| [Evaluations](data-analysis/evaluations_901879cd/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/llm/evaluations.md) | ⭐ 12 | `data analysis` |
+| [Prompt Tuning](data-analysis/prompt_tuning_f38fbf87/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/llm/prompt_tuning.md) | ⭐ 12 | `data analysis` |
 
 ### Development (17 skills)
 
@@ -221,14 +242,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Claude Md Updated](development/780-readme_flat_claude-md_updated_755d5596/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_UPDATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Commands Created](development/786-readme_flat_commands_created_906a7634/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_CREATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Commands Updated](development/788-readme_flat_commands_updated_62eafa02/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 23.5k | `development` |
-| [Skills](development/agent-skill_cbde8500/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 17 | `development` |
-| [Env Config](development/env-config_86fc6fe4/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/env-config.md) | ⭐ 17 | `development` |
-| [Yaml Config](development/yaml-config_e44080e8/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/yaml-config.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_a4acc08a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/init/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_32981586/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/name-skill_883e0f23/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/code-review/SKILL.md) | ⭐ 17 | `development` |
+| [Skills](development/1285-agent-skill_cbde8500/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/skills.md) | ⭐ 17 | `development` |
+| [Env Config](development/1286-env-config_86fc6fe4/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/env-config.md) | ⭐ 17 | `development` |
+| [Yaml Config](development/1287-yaml-config_e44080e8/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/configuration/yaml-config.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_a4acc08a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/init/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/1178-name-skill_32981586/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md) | ⭐ 17 | `development` |
+| [System Prompt Debug Tool B01Af939.Plan](development/system_prompt_debug_tool_b01af939plan_e409ef2e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/system_prompt_debug_tool_b01af939.plan.md) | ⭐ 12 | `development` |
 
-### Development/Devops (10 skills)
+### Development/Devops (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -242,12 +263,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat All Updated](development/devops/160-readme_flat_all_updated_1b3f5678/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_c17d7a5f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_91ee5233/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.5k | `development` |
+| [Providers](development/devops/providers_4091b350/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/llm/providers.md) | ⭐ 12 | `development` |
 
-### Development/Tools (1 skills)
+### Development/Tools (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Mcp Troubleshoot](development/tools/324-mcp_troubleshoot_6a5a0c41/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_troubleshoot.md) | 🔥 35.9k | `development` |
+| [Desktop](development/tools/desktop_f1b0efd6/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
 
 ## How Skills Are Organized
 
@@ -299,5 +322,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 00:21:37 UTC*
+*Last updated: 2026-02-14 00:22:37 UTC*
 *Automatically maintained by SkillFlow*

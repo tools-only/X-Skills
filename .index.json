@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T00:21:37.651595",
+  "updated_at": "2026-02-14T00:22:37.049257",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -560,6 +560,90 @@
       "repo_updated_at": "2026-02-13T01:36:06+00:00",
       "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "e409ef2e3b8474e64aa7cf3bc319f20fbb66002c244968b092a366c7c3965a83",
+      "source_path": ".cursor/plans/system_prompt_debug_tool_b01af939.plan.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "development/2922-system_prompt_debug_tool_b01af939plan_e409ef2e",
+      "category": "development",
+      "name": "system_prompt_debug_tool_b01af939plan_e409ef2e",
+      "indexed_at": "2026-02-14T00:22:36.752109",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-13T07:26:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/system_prompt_debug_tool_b01af939.plan.md",
+      "display_name": "System Prompt Debug Tool B01Af939.Plan",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f62cb9de2825d60d9b7d3411ba068b2ec6e42216da30ddb60e3fd0c573e6fe1a",
+      "source_path": "docs/guide/architecture.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "data-analysis/009-architecture_f62cb9de",
+      "category": "data-analysis",
+      "name": "architecture_f62cb9de",
+      "indexed_at": "2026-02-14T00:22:36.767101",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-13T07:26:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md",
+      "display_name": "Architecture",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "cda8812a9d09bb877e403d81547b4f4b8f1108bd80478e29e20830bfa1ca00ed",
+      "source_path": "docs/guide/configuration.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "data-analysis/046-configuration_cda8812a",
+      "category": "data-analysis",
+      "name": "configuration_cda8812a",
+      "indexed_at": "2026-02-14T00:22:36.779952",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-13T07:26:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "39e9ae41995544545aff9887dc2cf12fb3431d1d1d9caf91e656cd148c86beee",
+      "source_path": "docs/guide/input_data/transformation.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "data-analysis/481-transformation_39e9ae41",
+      "category": "data-analysis",
+      "name": "transformation_39e9ae41",
+      "indexed_at": "2026-02-14T00:22:36.874859",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-13T07:26:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/transformation.md",
+      "display_name": "Transformation",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "f1b0efd6fe68b5aa81862aa23e14724bb35b664b9c08d92618847f7712ca9c61",
+      "source_path": "docs/desktop.md",
+      "source_repo": "kevinshowkat/brood",
+      "local_path": "development/tools/328-desktop_f1b0efd6",
+      "category": "development/tools",
+      "name": "desktop_f1b0efd6",
+      "indexed_at": "2026-02-14T00:22:36.987386",
+      "repo_stars": 51,
+      "repo_updated_at": "2026-02-13T04:33:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md",
+      "display_name": "Desktop",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a84a827c4efad677167d0636aa21a2758dbedada0a43dca6e40b3e6b4e6ba872",
+      "source_path": "docs/prds/target_user_agentic_harness_v0.md",
+      "source_repo": "kevinshowkat/brood",
+      "local_path": "content-creation/375-target_user_agentic_harness_v0_a84a827c",
+      "category": "content-creation",
+      "name": "target_user_agentic_harness_v0_a84a827c",
+      "indexed_at": "2026-02-14T00:22:37.048683",
+      "repo_stars": 51,
+      "repo_updated_at": "2026-02-12T23:43:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md",
+      "display_name": "Target User Agentic Harness V0",
       "tags": "[\"content creation\"]"
     }
   ]
