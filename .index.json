@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T21:24:12.220166",
+  "updated_at": "2026-02-14T22:22:31.802237",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -16437,6 +16437,34 @@
       "source_url": "https://raw.githubusercontent.com/greynewell/mcpbr/main/AGENTS.md",
       "display_name": "Agents",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "29373bcc4ecb1fb9aa8988f27b659cba4b2a198cc33109480941930998fd8740",
+      "source_path": "CLAUDE.md",
+      "source_repo": "pocketpaw/pocketpaw",
+      "local_path": "communication/024-claude_29373bcc",
+      "category": "communication",
+      "name": "claude_29373bcc",
+      "indexed_at": "2026-02-14T22:22:31.544419",
+      "repo_stars": 120,
+      "repo_updated_at": "2026-02-14T18:24:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "8386e6f0f2b94b214920ee28e3d1832670e024f108bc7f8a79d9ec850638a2e5",
+      "source_path": "docs/CLAUDE.md",
+      "source_repo": "pocketpaw/pocketpaw",
+      "local_path": "communication/024-claude_8386e6f0",
+      "category": "communication",
+      "name": "claude_8386e6f0",
+      "indexed_at": "2026-02-14T22:22:31.802169",
+      "repo_stars": 120,
+      "repo_updated_at": "2026-02-14T18:24:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"communication\"]"
     }
   ]
 }

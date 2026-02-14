@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1174 AI-powered skills** organized into 15 categories.
+A curated collection of **1177 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,9 +9,9 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (20 skills)
-- **Automation/Workflow** (78 skills)
+- **Automation/Workflow** (79 skills)
 - **Commercial** (44 skills)
-- **Communication** (20 skills)
+- **Communication** (22 skills)
 - **Content Creation** (76 skills)
 - **Daily Assistant** (59 skills)
 - **Data Analysis** (270 skills)
@@ -206,7 +206,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 
-### Automation/Workflow (78 skills)
+### Automation/Workflow (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -288,6 +288,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_89146f57/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/docx-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_7827ee3c/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/continuous-learning/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_e1813ea7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/verification-loop-construction/SKILL.md) | ⭐ 33 | `automation` |
+| [Testing](automation/workflow/testing_4c7913eb/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/installer/launcher/TESTING.md) | ⭐ 120 | `automation` |
 
 ### Commercial (44 skills)
 
@@ -338,13 +339,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Recommend Tool](commercial/396-recommend_tool_2658f2d1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/recommend_tool.md) | ⭐ 28 | `commercial` |
 | [Azure](commercial/397-azure_bf38396a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/azure.md) | ⭐ 28 | `commercial` |
 
-### Communication (20 skills)
+### Communication (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Troubleshoot](communication/221-troubleshoot_7a8329e7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.9k | `communication` |
 | [Web Search](communication/206-web_search_6a939ba7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/web_search.md) | 🔥 35.9k | `communication` |
-| [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
+| [Claude](communication/claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
@@ -362,6 +363,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/258-instructions_7b33b000/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/email-construction/instructions.md) | ⭐ 33 | `communication` |
 | [01 About Us](communication/258-01-about-us_45873401/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 1.1k | `communication` |
 | [Create Tools](communication/256-create_tools_579a85b0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_tools.md) | ⭐ 28 | `communication` |
+| [Claude](communication/claude_29373bcc/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 120 | `communication` |
+| [Claude](communication/024-claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
 
 ### Content Creation (76 skills)
 
@@ -1197,7 +1200,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Android Pixel Terminal Setup](development/2928-android_pixel_terminal_setup_422b47f4/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_pixel_terminal_setup.md) | ⭐ 28 | `development` |
 | [Code Interpreter](development/2929-code_interpreter_69566dfc/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Code_Interpreter.md) | ⭐ 28 | `development` |
 | [Web Developer](development/2930-web_developer_0f02f200/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Web_Developer.md) | ⭐ 28 | `development` |
-| [Agents](development/agents_dd06de13/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/AGENTS.md) | ⭐ 20 | `development` |
+| [Agents](development/028-agents_dd06de13/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/AGENTS.md) | ⭐ 20 | `development` |
 
 ### Development/Devops (40 skills)
 
@@ -1480,5 +1483,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 21:24:12 UTC*
+*Last updated: 2026-02-14 22:22:31 UTC*
 *Automatically maintained by SkillFlow*
