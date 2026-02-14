@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1227 AI-powered skills** organized into 15 categories.
+A curated collection of **1212 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (20 skills)
-- **Automation/Workflow** (80 skills)
-- **Commercial** (47 skills)
-- **Communication** (27 skills)
-- **Content Creation** (79 skills)
-- **Daily Assistant** (62 skills)
-- **Data Analysis** (273 skills)
-- **Development** (429 skills)
-- **Development/Devops** (41 skills)
+- **Automation/Workflow** (78 skills)
+- **Commercial** (58 skills)
+- **Communication** (23 skills)
+- **Content Creation** (76 skills)
+- **Daily Assistant** (63 skills)
+- **Data Analysis** (272 skills)
+- **Development** (418 skills)
+- **Development/Devops** (40 skills)
 - **Development/Testing** (9 skills)
-- **Development/Tools** (65 skills)
+- **Development/Tools** (61 skills)
 - **Investment** (5 skills)
-- **Other** (4 skills)
+- **Other** (3 skills)
 - **Productivity** (26 skills)
 - **Research** (60 skills)
 
@@ -206,7 +206,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 
-### Automation/Workflow (80 skills)
+### Automation/Workflow (78 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -288,10 +288,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_89146f57/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/docx-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_7827ee3c/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/continuous-learning/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_e1813ea7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/verification-loop-construction/SKILL.md) | ⭐ 33 | `automation` |
-| [Commands](automation/workflow/commands_d389ed8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/commands.md) | ⭐ 16 | `automation` |
-| [Index](automation/workflow/index_6864b3b7/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/examples/index.md) | ⭐ 16 | `automation` |
 
-### Commercial (47 skills)
+### Commercial (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -339,11 +337,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_4c21b329/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/security-review-construction/SKILL.md) | ⭐ 33 | `commercial` |
 | [Recommend Tool](commercial/396-recommend_tool_2658f2d1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/recommend_tool.md) | ⭐ 28 | `commercial` |
 | [Azure](commercial/397-azure_bf38396a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/azure.md) | ⭐ 28 | `commercial` |
-| [Errors](commercial/errors_df32e689/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/errors.md) | ⭐ 16 | `commercial` |
-| [Workflows](commercial/workflows_4839b2a0/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/examples/workflows.md) | ⭐ 16 | `commercial` |
-| [Contracts](commercial/contracts_d515a1b4/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/contracts.md) | ⭐ 16 | `commercial` |
+| [Support](commercial/support_14977341/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/SUPPORT.md) | ⭐ 1.2k | `commercial` |
+| [1Contoso](commercial/1contoso_5a474a93/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/1contoso.md) | ⭐ 1.2k | `commercial` |
+| [2Contoso](commercial/2contoso_7e0524bd/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/2contoso.md) | ⭐ 1.2k | `commercial` |
+| [3Contoso](commercial/3contoso_b58249dd/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/3contoso.md) | ⭐ 1.2k | `commercial` |
+| [4Contoso](commercial/4contoso_96598864/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/4contoso.md) | ⭐ 1.2k | `commercial` |
+| [Basic.Prompty](commercial/basicprompty_1e10a971/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/basic.prompty.md) | ⭐ 1.2k | `commercial` |
+| [Context.Prompty](commercial/contextprompty_bbc0cd05/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/context.prompty.md) | ⭐ 1.2k | `commercial` |
+| [Contoso Multi](commercial/contoso_multi_e97024e1/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/contoso_multi.md) | ⭐ 1.2k | `commercial` |
+| [1Contoso](commercial/1contoso_a1e1f824/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/1contoso.md) | ⭐ 1.2k | `commercial` |
+| [2Contoso](commercial/2contoso_27d07745/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/2contoso.md) | ⭐ 1.2k | `commercial` |
+| [3Contoso](commercial/3contoso_6bf285fa/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/3contoso.md) | ⭐ 1.2k | `commercial` |
+| [4Contoso](commercial/4contoso_fdeca232/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/4contoso.md) | ⭐ 1.2k | `commercial` |
+| [Contoso Multi](commercial/contoso_multi_87c538b2/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/contoso_multi.md) | ⭐ 1.2k | `commercial` |
+| [Contoso Multi Data Uri](commercial/contoso_multi_data_uri_b1faccdc/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/contoso_multi_data_uri.md) | ⭐ 1.2k | `commercial` |
 
-### Communication (27 skills)
+### Communication (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -369,13 +378,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Create Tools](communication/256-create_tools_579a85b0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_tools.md) | ⭐ 28 | `communication` |
 | [Claude](communication/024-claude_29373bcc/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Claude](communication/024-claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
-| [Type System](communication/type-system_0495349d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/type-system.md) | ⭐ 16 | `communication` |
-| [Observability](communication/observability_7fd0a3aa/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/observability.md) | ⭐ 16 | `communication` |
-| [Types](communication/types_2dd712bb/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/types.md) | ⭐ 16 | `communication` |
-| [Integration](communication/integration_bf48c678/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/examples/integration.md) | ⭐ 16 | `communication` |
-| [Ollama](communication/ollama_9793daee/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/ollama.md) | ⭐ 16 | `communication` |
+| [Type System](communication/118-type-system_0495349d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/type-system.md) | ⭐ 16 | `communication` |
 
-### Content Creation (79 skills)
+### Content Creation (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -455,11 +460,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Write Final Answer](content-creation/380-write_final_answer_4d3563ce/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/write_final_answer.md) | ⭐ 28 | `content creation` |
 | [Narrative Therapy](content-creation/381-narrative_therapy_f85d14a5/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Therapy.md) | ⭐ 28 | `content creation` |
 | [Transpersonal Therapy](content-creation/382-transpersonal_therapy_5c7d13d9/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Transpersonal_Therapy.md) | ⭐ 28 | `content creation` |
-| [Ask](content-creation/ask_5dc57286/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/ask.md) | ⭐ 16 | `content creation` |
-| [Command](content-creation/command_070d0808/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/command.md) | ⭐ 16 | `content creation` |
-| [Commands](content-creation/commands_7c82ade0/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/examples/commands.md) | ⭐ 16 | `content creation` |
 
-### Daily Assistant (62 skills)
+### Daily Assistant (63 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -522,11 +524,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Review](daily-assistant/271-review_6d1a1b0b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/prompts/review.md) | ⭐ 28 | `daily assistant` |
 | [Create Action Plan](daily-assistant/272-create_action_plan_139e5f04/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/create_action_plan.md) | ⭐ 28 | `daily assistant` |
 | [Tool Instruction](daily-assistant/273-tool_instruction_458c00a6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/tool_instruction.md) | ⭐ 28 | `daily assistant` |
-| [Cookbook](daily-assistant/cookbook_18a6aabe/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/cookbook.md) | ⭐ 16 | `daily assistant` |
-| [Openai](daily-assistant/openai_45fc6849/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/openai.md) | ⭐ 16 | `daily assistant` |
-| [Config](daily-assistant/config_dd508f93/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/config.md) | ⭐ 16 | `daily assistant` |
+| [Cookbook](daily-assistant/274-cookbook_18a6aabe/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/cookbook.md) | ⭐ 16 | `daily assistant` |
+| [Openai](daily-assistant/275-openai_45fc6849/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/openai.md) | ⭐ 16 | `daily assistant` |
+| [Faithfulness.Prompty](daily-assistant/faithfulnessprompty_59add03c/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/faithfulness.prompty.md) | ⭐ 1.2k | `daily assistant` |
+| [Groundedness.Prompty](daily-assistant/groundednessprompty_cc8960ee/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/groundedness.prompty.md) | ⭐ 1.2k | `daily assistant` |
 
-### Data Analysis (273 skills)
+### Data Analysis (272 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -800,11 +803,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_c930ee03/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/clinical-research-session/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Reporting Guidelines](data-analysis/482-reporting-guidelines_90f334a5/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/reporting-guidelines.md) | ⭐ 13 | `data analysis` |
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
-| [Production](data-analysis/production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
-| [Structured Outputs](data-analysis/structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Tool](data-analysis/tool_39eb2f4c/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/tool.md) | ⭐ 16 | `data analysis` |
+| [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
+| [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
 
-### Development (429 skills)
+### Development (418 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1219,26 +1221,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Interpreter](development/2929-code_interpreter_69566dfc/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Code_Interpreter.md) | ⭐ 28 | `development` |
 | [Web Developer](development/2930-web_developer_0f02f200/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Web_Developer.md) | ⭐ 28 | `development` |
 | [Agents](development/028-agents_dd06de13/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/AGENTS.md) | ⭐ 20 | `development` |
-| [Agents](development/agents_0d091045/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/AGENTS.md) | ⭐ 16 | `development` |
-| [Alloy Spec V1](development/alloy-spec-v1_415a8015/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/alloy-spec-v1.md) | ⭐ 16 | `development` |
-| [Contributing Docs](development/contributing-docs_3a79106b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/contributing-docs.md) | ⭐ 16 | `development` |
-| [Roadmap](development/roadmap_376e8eb9/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/roadmap.md) | ⭐ 16 | `development` |
-| [Tool Recipes](development/tool_recipes_b8ec6ce4/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/tool_recipes.md) | ⭐ 16 | `development` |
-| [Command Lifecycle](development/command-lifecycle_22785147/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/command-lifecycle.md) | ⭐ 16 | `development` |
-| [Provider Abstraction](development/provider-abstraction_85c51fd7/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/provider-abstraction.md) | ⭐ 16 | `development` |
-| [Roadmap](development/roadmap_bd61e72d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/ROADMAP.md) | ⭐ 16 | `development` |
-| [Index](development/index_7ee95727/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/index.md) | ⭐ 16 | `development` |
-| [Alloy](development/alloy_2c53a0f6/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/alloy.md) | ⭐ 16 | `development` |
-| [Overview](development/overview_b919a308/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/overview.md) | ⭐ 16 | `development` |
-| [Exploration](development/exploration_525099ec/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/examples/exploration.md) | ⭐ 16 | `development` |
-| [Tools](development/tools_66efcaa3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/examples/tools.md) | ⭐ 16 | `development` |
-| [Configuration](development/configuration_1e761932/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/configuration.md) | ⭐ 16 | `development` |
-| [Core Concepts](development/core-concepts_52700822/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/core-concepts.md) | ⭐ 16 | `development` |
-| [Index](development/index_830d6cef/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/tutorial/index.md) | ⭐ 16 | `development` |
-| [Anthropic](development/anthropic_ade57d94/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/anthropic.md) | ⭐ 16 | `development` |
-| [Gemini](development/gemini_44585bc9/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/gemini.md) | ⭐ 16 | `development` |
+| [Agents](development/028-agents_0d091045/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/AGENTS.md) | ⭐ 16 | `development` |
+| [Alloy Spec V1](development/2932-alloy-spec-v1_415a8015/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/alloy-spec-v1.md) | ⭐ 16 | `development` |
+| [Contributing Docs](development/2933-contributing-docs_3a79106b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/contributing-docs.md) | ⭐ 16 | `development` |
+| [Roadmap](development/922-roadmap_376e8eb9/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/roadmap.md) | ⭐ 16 | `development` |
+| [Tool Recipes](development/2934-tool_recipes_b8ec6ce4/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/tool_recipes.md) | ⭐ 16 | `development` |
+| [Command Lifecycle](development/2935-command-lifecycle_22785147/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/command-lifecycle.md) | ⭐ 16 | `development` |
+| [Provider Abstraction](development/2936-provider-abstraction_85c51fd7/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/provider-abstraction.md) | ⭐ 16 | `development` |
 
-### Development/Devops (41 skills)
+### Development/Devops (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1282,7 +1273,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llm Providers](development/devops/361-llm-providers_16d48180/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
 | [Plan](development/devops/362-plan_dd8a94a7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
 | [Android Termux Setup](development/devops/371-android_termux_setup_3ba327b7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_termux_setup.md) | ⭐ 28 | `development` |
-| [Testing](development/devops/testing_9745397b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/testing.md) | ⭐ 16 | `development` |
 
 ### Development/Testing (9 skills)
 
@@ -1296,9 +1286,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [1 Filetype Enum Extension](development/testing/087-1-filetype-enum-extension_b9995c22/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/1-filetype-enum-extension.md) | ⭐ 17 | `development` |
 | [23 Pre Commit Config Update](development/testing/088-23-pre-commit-config-update_31fdb907/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/23-pre-commit-config-update.md) | ⭐ 17 | `development` |
 | [Onboarding Internal](development/testing/085-onboarding_internal_02c638f0/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING_INTERNAL.md) | ⭐ 445 | `development` |
-| [Pitfalls](development/testing/pitfalls_e1c7c875/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/pitfalls.md) | ⭐ 16 | `development` |
+| [Pitfalls](development/testing/087-pitfalls_e1c7c875/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/pitfalls.md) | ⭐ 16 | `development` |
 
-### Development/Tools (65 skills)
+### Development/Tools (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1357,16 +1347,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Overview](development/tools/319-01-overview_de4859f2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
 | [Mcp Server](development/tools/319-mcp-server_11b333fc/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/integrations/mcp-server.md) | ⭐ 20 | `development` |
 | [Cli](development/tools/263-cli_720c7e96/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md) | ⭐ 20 | `development` |
-| [V0.3.0](development/tools/v030_3dcfa03d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/.github/v0.3.0.md) | ⭐ 16 | `development` |
-| [Equivalence](development/tools/equivalence_6271e1c3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/equivalence.md) | ⭐ 16 | `development` |
-| [Whats New](development/tools/whats-new_f04ff72b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/whats-new.md) | ⭐ 16 | `development` |
-| [V0.2.2](development/tools/v022_29369ff3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/.github/release-notes/v0.2.2.md) | ⭐ 16 | `development` |
-| [Commands](development/tools/commands_362222f2/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/commands.md) | ⭐ 16 | `development` |
-| [Providers](development/tools/providers_4723b60f/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/providers.md) | ⭐ 16 | `development` |
-| [V0.3.1](development/tools/v031_cb38f4a7/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/.github/release-notes/v0.3.1.md) | ⭐ 16 | `development` |
-| [Index](development/tools/index_2954d7c3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/index.md) | ⭐ 16 | `development` |
-| [Streaming](development/tools/streaming_be95f733/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/streaming.md) | ⭐ 16 | `development` |
-| [Tools And Workflows](development/tools/tools-and-workflows_9236f45c/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/tools-and-workflows.md) | ⭐ 16 | `development` |
+| [V0.3.0](development/tools/329-v030_3dcfa03d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/.github/v0.3.0.md) | ⭐ 16 | `development` |
+| [Equivalence](development/tools/330-equivalence_6271e1c3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/equivalence.md) | ⭐ 16 | `development` |
+| [Whats New](development/tools/331-whats-new_f04ff72b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/whats-new.md) | ⭐ 16 | `development` |
+| [V0.2.2](development/tools/332-v022_29369ff3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/.github/release-notes/v0.2.2.md) | ⭐ 16 | `development` |
+| [Commands](development/tools/252-commands_362222f2/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/commands.md) | ⭐ 16 | `development` |
+| [Providers](development/tools/333-providers_4723b60f/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/providers.md) | ⭐ 16 | `development` |
 
 ### Investment (5 skills)
 
@@ -1378,14 +1364,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_e1c14930/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/portfolio-dashboard/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_7ef1c603/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.1-Cost-Estimation/historical-cost-analyzer/SKILL.md) | ⭐ 33 | `investment` |
 
-### Other (4 skills)
+### Other (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
-| [Base](other/base_3b7538f0/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/base.md) | ⭐ 16 | `other` |
 
 ### Productivity (26 skills)
 
@@ -1481,7 +1466,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_14029ef2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sepsis-3-cohort/SKILL.md) | ⭐ 13 | `research` |
 | [Skill](research/139-name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
 | [Ehr Data Considerations](research/263-ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
-| [Typing](research/typing_b1ef9c8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/typing.md) | ⭐ 16 | `research` |
+| [Typing](research/258-typing_b1ef9c8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/typing.md) | ⭐ 16 | `research` |
 
 ## How Skills Are Organized
 
@@ -1533,5 +1518,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 22:23:09 UTC*
+*Last updated: 2026-02-14 22:23:55 UTC*
 *Automatically maintained by SkillFlow*

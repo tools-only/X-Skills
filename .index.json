@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T22:23:09.229203",
+  "updated_at": "2026-02-14T22:23:55.042075",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -16745,6 +16745,20 @@
       "source_url": "https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/pitfalls.md",
       "display_name": "Pitfalls",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "149773411caf2c59cb1a6bfb2c6f070d1d054f1f018e7a80be319a8c384eeaf5",
+      "source_path": "SUPPORT.md",
+      "source_repo": "microsoft/prompty",
+      "local_path": "commercial/400-support_14977341",
+      "category": "commercial",
+      "name": "support_14977341",
+      "indexed_at": "2026-02-14T22:23:55.042033",
+      "repo_stars": 1157,
+      "repo_updated_at": "2024-04-22T17:16:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/microsoft/prompty/main/SUPPORT.md",
+      "display_name": "Support",
+      "tags": "[\"commercial\"]"
     }
   ]
 }
