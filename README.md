@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **825 AI-powered skills** organized into 15 categories.
+A curated collection of **823 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,15 +8,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (15 skills)
+- **Automation/Scripting** (14 skills)
 - **Automation/Workflow** (38 skills)
 - **Commercial** (26 skills)
 - **Communication** (12 skills)
 - **Content Creation** (46 skills)
 - **Daily Assistant** (23 skills)
 - **Data Analysis** (189 skills)
-- **Development** (334 skills)
-- **Development/Devops** (34 skills)
+- **Development** (332 skills)
+- **Development/Devops** (35 skills)
 - **Development/Testing** (7 skills)
 - **Development/Tools** (38 skills)
 - **Investment** (1 skill)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (15 skills)
+### Automation/Scripting (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -195,11 +195,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_d36c3045/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/single-cell/batch-integration/SKILL.md) | ⭐ 244 | `automation` |
 | [Skill](automation/scripting/003-name-skill_5fd49ef2/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/structural-biology/structure-io/SKILL.md) | ⭐ 244 | `automation` |
 | [Parallel Consistency](automation/scripting/095-parallel-consistency_7cac67d7/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/parallel-consistency.md) | ⭐ 99 | `automation` |
-| [Skill](automation/scripting/name-skill_a4f6284c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-translation-ts/SKILL.md) | 🔥 8.7k | `automation` |
-| [Skill](automation/scripting/name-skill_a29ecc79/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-monitor-opentelemetry-ts/SKILL.md) | 🔥 8.7k | `automation` |
-| [Skill](automation/scripting/name-skill_d235e593/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-search-documents-ts/SKILL.md) | 🔥 8.7k | `automation` |
-| [Skill](automation/scripting/name-skill_418872de/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-ts/SKILL.md) | 🔥 8.7k | `automation` |
-| [Skill](automation/scripting/name-skill_145249e1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-servicebus-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/003-name-skill_a4f6284c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-translation-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/003-name-skill_a29ecc79/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-monitor-opentelemetry-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/003-name-skill_d235e593/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-search-documents-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/scripting/003-name-skill_418872de/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-queue-ts/SKILL.md) | 🔥 8.7k | `automation` |
 
 ### Automation/Workflow (38 skills)
 
@@ -242,7 +241,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
 | [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
+| [Skill](automation/workflow/002-name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 
 ### Commercial (26 skills)
 
@@ -269,11 +268,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Playwright Explorer](commercial/376-playwright-explorer_b380ec2f/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-playwright/agents/playwright-explorer.md) | ⭐ 110 | `commercial` |
 | [Typescript Drizzle](commercial/377-typescript-drizzle_e4d1de84/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-develop-with-postgres/typescript-drizzle.md) | ⭐ 110 | `commercial` |
 | [Useeffect Deep Dive](commercial/378-useeffect-deep-dive_33354bf1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/programming-in-react/useEffect-deep-dive.md) | ⭐ 110 | `commercial` |
-| [Skill](commercial/name-skill_37418d93/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-document-intelligence-ts/SKILL.md) | 🔥 8.7k | `commercial` |
-| [Skill](commercial/name-skill_eae58b07/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-appconfiguration-ts/SKILL.md) | 🔥 8.7k | `commercial` |
-| [Skill](commercial/name-skill_590051c3/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-cosmos-ts/SKILL.md) | 🔥 8.7k | `commercial` |
-| [Skill](commercial/name-skill_8db6eba7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-keyvault-keys-ts/SKILL.md) | 🔥 8.7k | `commercial` |
-| [Skill](commercial/name-skill_87699e71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-keyvault-secrets-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/210-name-skill_37418d93/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-document-intelligence-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/210-name-skill_eae58b07/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-appconfiguration-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/210-name-skill_590051c3/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-cosmos-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/210-name-skill_8db6eba7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-keyvault-keys-ts/SKILL.md) | 🔥 8.7k | `commercial` |
+| [Skill](commercial/210-name-skill_87699e71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-keyvault-secrets-ts/SKILL.md) | 🔥 8.7k | `commercial` |
 
 ### Communication (12 skills)
 
@@ -290,7 +289,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
 | [Typebox](communication/257-typebox_a9676e42/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/typebox.md) | ⭐ 110 | `communication` |
 | [Readme Cn](communication/257-readme_cn_6ff1b10d/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/README_CN.md) | ⭐ 78 | `communication` |
-| [Skill](communication/name-skill_692e6fdc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-web-pubsub-ts/SKILL.md) | 🔥 8.7k | `communication` |
+| [Skill](communication/127-name-skill_692e6fdc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-web-pubsub-ts/SKILL.md) | 🔥 8.7k | `communication` |
 
 ### Content Creation (46 skills)
 
@@ -340,8 +339,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Synthesis Arl Applicable](content-creation/362-synthesis-arl-applicable_a7305dc8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/synthesis-arl-applicable.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/363-description-skill_89da8c2e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/start-task/SKILL.md) | ⭐ 17 | `content creation` |
 | [Desktop App Guide En](content-creation/382-desktop-app-guide_en_c1077eb3/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/desktop-app-guide_en.md) | ⭐ 78 | `content creation` |
-| [Skill](content-creation/name-skill_53c0ed18/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-contentsafety-ts/SKILL.md) | 🔥 8.7k | `content creation` |
-| [Skill](content-creation/name-skill_8e5e8350/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-file-share-ts/SKILL.md) | 🔥 8.7k | `content creation` |
+| [Skill](content-creation/049-name-skill_53c0ed18/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-contentsafety-ts/SKILL.md) | 🔥 8.7k | `content creation` |
+| [Skill](content-creation/049-name-skill_8e5e8350/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-file-share-ts/SKILL.md) | 🔥 8.7k | `content creation` |
 
 ### Daily Assistant (23 skills)
 
@@ -565,7 +564,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [12 Descriptionvalidator File Type Awareness](data-analysis/480-12-descriptionvalidator-file-type-awareness_ccf6d75f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/12-descriptionvalidator-file-type-awareness.md) | ⭐ 17 | `data analysis` |
 | [Qa Expert Panel](data-analysis/481-qa-expert-panel_05c5a34f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/qa-expert-panel.md) | ⭐ 17 | `data analysis` |
 
-### Development (334 skills)
+### Development (332 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -898,13 +897,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Grepai](development/2913-grepai_c6add871/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/research/developer-tools/grepai.md) | ⭐ 17 | `development` |
 | [Synthesis General Theory](development/2914-synthesis-general-theory_32490dd3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/synthesis-general-theory.md) | ⭐ 17 | `development` |
 | [Agent Framework Research 2024 2026](development/2942-agent_framework_research_2024_2026_b0b49f8a/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/research/AGENT_FRAMEWORK_RESEARCH_2024_2026.md) | ⭐ 78 | `development` |
-| [Skill](development/name-skill_3cbdd139/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-projects-ts/SKILL.md) | 🔥 8.7k | `development` |
-| [Skill](development/name-skill_1a276e77/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-voicelive-ts/SKILL.md) | 🔥 8.7k | `development` |
-| [Skill](development/name-skill_71a952ce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-blob-ts/SKILL.md) | 🔥 8.7k | `development` |
-| [Agent](development/agent_610085ed/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.3k | `development` |
-| [Skill](development/name-skill_4a792eac/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-identity-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/1178-name-skill_3cbdd139/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-projects-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/1178-name-skill_1a276e77/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-ai-voicelive-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/1178-name-skill_71a952ce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-storage-blob-ts/SKILL.md) | 🔥 8.7k | `development` |
 
-### Development/Devops (34 skills)
+### Development/Devops (35 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -941,7 +938,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Long Running State Patterns](development/devops/368-long-running-state-patterns_57f0e2d4/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/writing-claude-directives/long-running-state-patterns.md) | ⭐ 110 | `development` |
 | [Deploy](development/devops/037-deploy_928d7fea/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 78 | `development` |
 | [Deploy En](development/devops/195-deploy_en_f238e5dc/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy_en.md) | ⭐ 78 | `development` |
-| [Skill](development/devops/name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [Skill](development/devops/014-name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
+| [03 Quickstart Server](development/devops/03-quickstart-server_a4e44821/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/getting-started/03-quickstart-server.md) | ⭐ 1.1k | `development` |
 
 ### Development/Testing (7 skills)
 
@@ -1131,5 +1129,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 12:21:51 UTC*
+*Last updated: 2026-02-14 12:23:34 UTC*
 *Automatically maintained by SkillFlow*
