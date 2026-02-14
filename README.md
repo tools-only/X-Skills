@@ -12,9 +12,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (3 skills)
 - **Communication** (3 skills)
 - **Content Creation** (3 skills)
-- **Daily Assistant** (2 skills)
+- **Daily Assistant** (1 skill)
 - **Data Analysis** (4 skills)
-- **Development** (22 skills)
+- **Development** (23 skills)
 - **Development/Devops** (11 skills)
 - **Development/Testing** (2 skills)
 - **Development/Tools** (3 skills)
@@ -210,12 +210,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_a9cca04f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
 | [Target User Agentic Harness V0](content-creation/375-target_user_agentic_harness_v0_a84a827c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 
-### Daily Assistant (2 skills)
+### Daily Assistant (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Index](daily-assistant/052-index_21c18601/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/index.md) | ⭐ 10 | `daily assistant` |
-| [Localtest](daily-assistant/localtest_94f3bdf7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/LocalTest.md) | ⭐ 3.3k | `daily assistant` |
 
 ### Data Analysis (4 skills)
 
@@ -226,7 +225,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Transformation](data-analysis/481-transformation_39e9ae41/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/transformation.md) | ⭐ 12 | `data analysis` |
 | [Index](data-analysis/113-index_152f012b/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/index.md) | ⭐ 10 | `data analysis` |
 
-### Development (22 skills)
+### Development (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -252,6 +251,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](development/474-installation_58370c32/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/installation.md) | ⭐ 10 | `development` |
 | [Conditional Middleware](development/2898-conditional-middleware_5b175205/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/conditional-middleware.md) | ⭐ 10 | `development` |
 | [Pipeline Spec](development/2899-pipeline-spec_a1346c91/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/pipeline-spec.md) | ⭐ 10 | `development` |
+| [Install](development/install_41fb8cee/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/install.md) | ⭐ 15 | `development` |
 
 ### Development/Devops (11 skills)
 
@@ -334,5 +334,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 01:22:18 UTC*
+*Last updated: 2026-02-14 01:23:20 UTC*
 *Automatically maintained by SkillFlow*
