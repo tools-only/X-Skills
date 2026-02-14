@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T05:23:32.058666",
+  "updated_at": "2026-02-14T05:23:49.922320",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -5041,6 +5041,20 @@
       "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md",
       "display_name": "Docker Compose Guide",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ae7c99106a359da041bd8672c44010557d57bde10f6d8ac674dd441aadf14062",
+      "source_path": "docs/en/about/01-about-us.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "content-creation/350-01-about-us_ae7c9910",
+      "category": "content-creation",
+      "name": "01-about-us_ae7c9910",
+      "indexed_at": "2026-02-14T05:23:49.919496",
+      "repo_stars": 1103,
+      "repo_updated_at": "2026-02-14T03:12:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md",
+      "display_name": "01 About Us",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **360 AI-powered skills** organized into 13 categories.
+A curated collection of **361 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -12,7 +12,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (19 skills)
 - **Commercial** (16 skills)
 - **Communication** (5 skills)
-- **Content Creation** (25 skills)
+- **Content Creation** (26 skills)
 - **Daily Assistant** (7 skills)
 - **Data Analysis** (58 skills)
 - **Development** (132 skills)
@@ -243,7 +243,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 
-### Content Creation (25 skills)
+### Content Creation (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -272,6 +272,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Specific Aims Guide](content-creation/037-specific_aims_guide_d0e2462d/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/research-grants/references/specific_aims_guide.md) | ⭐ 19 | `content creation` |
 | [Presentation Structure](content-creation/380-presentation_structure_a9ff0c9a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/presentation_structure.md) | ⭐ 19 | `content creation` |
 | [Figures Tables](content-creation/381-figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
+| [01 About Us](content-creation/01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
 
 ### Daily Assistant (7 skills)
 
@@ -516,7 +517,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/devops/009-configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Batch Eval Quickstart](development/devops/371-batch_eval_quickstart_8a1c7ae5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BATCH_EVAL_QUICKSTART.md) | ⭐ 19 | `development` |
 | [Instructions](development/devops/197-instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
-| [Docker Compose Guide](development/devops/docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
+| [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -654,5 +655,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 05:23:32 UTC*
+*Last updated: 2026-02-14 05:23:50 UTC*
 *Automatically maintained by SkillFlow*
