@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T21:22:04.019927",
+  "updated_at": "2026-02-14T21:24:12.220166",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -16423,6 +16423,20 @@
       "source_url": "https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md",
       "display_name": "Narrative",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "dd06de13a872f9ed67acf0bfbf0a585fbd8c60a54f318c40d5e3975bd2bc3d55",
+      "source_path": "AGENTS.md",
+      "source_repo": "greynewell/mcpbr",
+      "local_path": "development/028-agents_dd06de13",
+      "category": "development",
+      "name": "agents_dd06de13",
+      "indexed_at": "2026-02-14T21:24:12.220099",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-13T23:04:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/greynewell/mcpbr/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
     }
   ]
 }

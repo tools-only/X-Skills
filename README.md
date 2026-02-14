@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1282 AI-powered skills** organized into 15 categories.
+A curated collection of **1174 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (23 skills)
+- **Automation/Scripting** (20 skills)
 - **Automation/Workflow** (78 skills)
 - **Commercial** (44 skills)
-- **Communication** (25 skills)
-- **Content Creation** (107 skills)
-- **Daily Assistant** (74 skills)
-- **Data Analysis** (272 skills)
-- **Development** (420 skills)
-- **Development/Devops** (41 skills)
-- **Development/Testing** (9 skills)
-- **Development/Tools** (60 skills)
-- **Investment** (9 skills)
-- **Other** (19 skills)
-- **Productivity** (36 skills)
-- **Research** (65 skills)
+- **Communication** (20 skills)
+- **Content Creation** (76 skills)
+- **Daily Assistant** (59 skills)
+- **Data Analysis** (270 skills)
+- **Development** (411 skills)
+- **Development/Devops** (40 skills)
+- **Development/Testing** (8 skills)
+- **Development/Tools** (55 skills)
+- **Investment** (5 skills)
+- **Other** (3 skills)
+- **Productivity** (26 skills)
+- **Research** (59 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (23 skills)
+### Automation/Scripting (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -204,10 +204,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_91bb61a8/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/1_DDC_Toolkit/Sustainability/co2-carbon-footprint/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7f06f842/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/2.3-Pandas-LLM-Analysis/rag-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
-| [Assign Agents](automation/scripting/assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
-| [Api Reference](automation/scripting/api_reference_dcf63e18/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/api_reference.md) | ⭐ 28 | `automation` |
-| [Character](automation/scripting/character_3266a828/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/character.md) | ⭐ 28 | `automation` |
-| [Location](automation/scripting/location_9d1fe529/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/location.md) | ⭐ 28 | `automation` |
+| [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 
 ### Automation/Workflow (78 skills)
 
@@ -338,10 +335,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_36f35296/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/2.6-Data-Quality-Validation/data-anomaly-detector/SKILL.md) | ⭐ 33 | `commercial` |
 | [Skill](commercial/210-name-skill_7b92e220/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pdf-construction/SKILL.md) | ⭐ 33 | `commercial` |
 | [Skill](commercial/210-name-skill_4c21b329/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/security-review-construction/SKILL.md) | ⭐ 33 | `commercial` |
-| [Recommend Tool](commercial/recommend_tool_2658f2d1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/recommend_tool.md) | ⭐ 28 | `commercial` |
-| [Azure](commercial/azure_bf38396a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/azure.md) | ⭐ 28 | `commercial` |
+| [Recommend Tool](commercial/396-recommend_tool_2658f2d1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/recommend_tool.md) | ⭐ 28 | `commercial` |
+| [Azure](commercial/397-azure_bf38396a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/azure.md) | ⭐ 28 | `commercial` |
 
-### Communication (25 skills)
+### Communication (20 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -364,14 +361,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_b75935e0/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Contract-Legal/lien-waiver-tracker/SKILL.md) | ⭐ 33 | `communication` |
 | [Instructions](communication/258-instructions_7b33b000/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/email-construction/instructions.md) | ⭐ 33 | `communication` |
 | [01 About Us](communication/258-01-about-us_45873401/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 1.1k | `communication` |
-| [Create Tools](communication/create_tools_579a85b0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_tools.md) | ⭐ 28 | `communication` |
-| [Cli Reference](communication/cli_reference_987c409f/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/cli_reference.md) | ⭐ 28 | `communication` |
-| [Flow](communication/flow_f19d6eda/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/flow.md) | ⭐ 28 | `communication` |
-| [Nt Themes](communication/nt_themes_fd9b6338/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/nt_themes.md) | ⭐ 28 | `communication` |
-| [Ot Themes](communication/ot_themes_85960a01/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/ot_themes.md) | ⭐ 28 | `communication` |
-| [Themes](communication/themes_cc9e7a17/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/themes.md) | ⭐ 28 | `communication` |
+| [Create Tools](communication/256-create_tools_579a85b0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_tools.md) | ⭐ 28 | `communication` |
 
-### Content Creation (107 skills)
+### Content Creation (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -446,44 +438,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_67552c13/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.3-4D-BIM-CO2-Simulation/lifecycle-carbon-calculator/SKILL.md) | ⭐ 33 | `content creation` |
 | [01 About Us](content-creation/364-01-about-us_f1f7a8fc/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
 | [Migration Runbook](content-creation/349-migration_runbook_e815fdab/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm-proxy-extras/migration_runbook.md) | 🔥 35.7k | `content creation` |
-| [Counsellor](content-creation/counsellor_47024823/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellor.md) | ⭐ 28 | `content creation` |
-| [Quality Control](content-creation/quality_control_8e356aa7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/quality_control.md) | ⭐ 28 | `content creation` |
-| [Write Final Answer](content-creation/write_final_answer_4d3563ce/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/write_final_answer.md) | ⭐ 28 | `content creation` |
-| [Narrative Therapy](content-creation/narrative_therapy_f85d14a5/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Therapy.md) | ⭐ 28 | `content creation` |
-| [Transpersonal Therapy](content-creation/transpersonal_therapy_5c7d13d9/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Transpersonal_Therapy.md) | ⭐ 28 | `content creation` |
-| [Work With Text Selection](content-creation/work_with_text_selection_72448662/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/work_with_text_selection.md) | ⭐ 28 | `content creation` |
-| [Automate Task Execution Tools Specified](content-creation/automate_task_execution_tools_specified_b1b7a60c/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/examples/automate_task_execution_tools_specified.md) | ⭐ 28 | `content creation` |
-| [Create Agent](content-creation/create_agent_13e0093a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/create_agent.md) | ⭐ 28 | `content creation` |
-| [Create Agents](content-creation/create_agents_6573ce11/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/create_agents.md) | ⭐ 28 | `content creation` |
-| [Create Reasoning Agent](content-creation/create_reasoning_agent_88556335/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/create_reasoning_agent.md) | ⭐ 28 | `content creation` |
-| [Improve Prompt 2](content-creation/improve_prompt_2_49866f03/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/improve_prompt_2.md) | ⭐ 28 | `content creation` |
-| [Chapter Summary](content-creation/chapter_summary_03eee026/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/chapter_summary.md) | ⭐ 28 | `content creation` |
-| [Devotion](content-creation/devotion_a14fc59f/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/devotion.md) | ⭐ 28 | `content creation` |
-| [Introduce Book](content-creation/introduce_book_8482f9d7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/introduce_book.md) | ⭐ 28 | `content creation` |
-| [Keywords](content-creation/keywords_5305af2f/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/keywords.md) | ⭐ 28 | `content creation` |
-| [Nt Context](content-creation/nt_context_f0361208/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/nt_context.md) | ⭐ 28 | `content creation` |
-| [Nt Highlights](content-creation/nt_highlights_ccf6e4ac/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/nt_highlights.md) | ⭐ 28 | `content creation` |
-| [Nt Meaning](content-creation/nt_meaning_adf776b8/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/nt_meaning.md) | ⭐ 28 | `content creation` |
-| [Ot Context](content-creation/ot_context_c3cd2043/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/ot_context.md) | ⭐ 28 | `content creation` |
-| [Ot Highligths](content-creation/ot_highligths_9ae3da3c/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/ot_highligths.md) | ⭐ 28 | `content creation` |
-| [Ot Meaning](content-creation/ot_meaning_4fbe0270/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/ot_meaning.md) | ⭐ 28 | `content creation` |
-| [Perspective](content-creation/perspective_53d53dd7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/perspective.md) | ⭐ 28 | `content creation` |
-| [Prayer](content-creation/prayer_a2c17ec6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/prayer.md) | ⭐ 28 | `content creation` |
-| [Promises](content-creation/promises_b2158c9e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/promises.md) | ⭐ 28 | `content creation` |
-| [Quotes](content-creation/quotes_38e10b61/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/quotes.md) | ⭐ 28 | `content creation` |
-| [Sermon](content-creation/sermon_b474360a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/sermon.md) | ⭐ 28 | `content creation` |
-| [Short Prayer](content-creation/short_prayer_92b3a5b8/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/short_prayer.md) | ⭐ 28 | `content creation` |
-| [Summary](content-creation/summary_c025d625/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/summary.md) | ⭐ 28 | `content creation` |
-| [Theology](content-creation/theology_2882f8b1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/theology.md) | ⭐ 28 | `content creation` |
-| [Topic](content-creation/topic_dae78051/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/topic.md) | ⭐ 28 | `content creation` |
-| [Create Agent](content-creation/create_agent_6a29891e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/create_agent.md) | ⭐ 28 | `content creation` |
-| [David](content-creation/david_8637953f/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/david.md) | ⭐ 28 | `content creation` |
-| [Perspective](content-creation/perspective_4c301c9b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/perspective.md) | ⭐ 28 | `content creation` |
-| [Translate](content-creation/translate_601ffdea/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/translate.md) | ⭐ 28 | `content creation` |
-| [British English](content-creation/british_english_7728d068/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/styles/british_english.md) | ⭐ 28 | `content creation` |
-| [English](content-creation/english_8e67fbdd/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/styles/english.md) | ⭐ 28 | `content creation` |
+| [Counsellor](content-creation/378-counsellor_47024823/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellor.md) | ⭐ 28 | `content creation` |
+| [Quality Control](content-creation/379-quality_control_8e356aa7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/quality_control.md) | ⭐ 28 | `content creation` |
+| [Write Final Answer](content-creation/380-write_final_answer_4d3563ce/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/write_final_answer.md) | ⭐ 28 | `content creation` |
+| [Narrative Therapy](content-creation/381-narrative_therapy_f85d14a5/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Therapy.md) | ⭐ 28 | `content creation` |
+| [Transpersonal Therapy](content-creation/382-transpersonal_therapy_5c7d13d9/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Transpersonal_Therapy.md) | ⭐ 28 | `content creation` |
 
-### Daily Assistant (74 skills)
+### Daily Assistant (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -542,27 +503,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_b951bf13/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/xlsx-construction/SKILL.md) | ⭐ 33 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_62838cb5/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Financial-Management/payment-application-processor/SKILL.md) | ⭐ 33 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_eef66b21/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Financial-Management/retention-tracker/SKILL.md) | ⭐ 33 | `daily assistant` |
-| [Think](daily-assistant/think_139c4283/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/think.md) | ⭐ 28 | `daily assistant` |
-| [Review](daily-assistant/review_6d1a1b0b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/prompts/review.md) | ⭐ 28 | `daily assistant` |
-| [Create Action Plan](daily-assistant/create_action_plan_139e5f04/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/create_action_plan.md) | ⭐ 28 | `daily assistant` |
-| [Tool Instruction](daily-assistant/tool_instruction_458c00a6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/tool_instruction.md) | ⭐ 28 | `daily assistant` |
-| [Complex Task](daily-assistant/complex_task_04151fee/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/complex_task.md) | ⭐ 28 | `daily assistant` |
-| [Generate Longer Title](daily-assistant/generate_longer_title_b4d19ab6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/generate_longer_title.md) | ⭐ 28 | `daily assistant` |
-| [Generate Title](daily-assistant/generate_title_3a286fe5/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/generate_title.md) | ⭐ 28 | `daily assistant` |
-| [Improve Prompt](daily-assistant/improve_prompt_15736242/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/improve_prompt.md) | ⭐ 28 | `daily assistant` |
-| [Googleai](daily-assistant/googleai_34d8cfd1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/googleai.md) | ⭐ 28 | `daily assistant` |
-| [Application](daily-assistant/application_6008b83d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/application.md) | ⭐ 28 | `daily assistant` |
-| [Direct Instruction](daily-assistant/direct_instruction_9b9cab92/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/direct_instruction.md) | ⭐ 28 | `daily assistant` |
-| [Make Suggestions](daily-assistant/make_suggestions_bb8923c4/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/make_suggestions.md) | ⭐ 28 | `daily assistant` |
-| [Summarize Task Instruction](daily-assistant/summarize_task_instruction_1fc6fa7d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/summarize_task_instruction.md) | ⭐ 28 | `daily assistant` |
-| [Tool Selection](daily-assistant/tool_selection_ebc11215/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/tool_selection.md) | ⭐ 28 | `daily assistant` |
-| [Tool Selection Lite](daily-assistant/tool_selection_lite_850ffcfc/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/tool_selection_lite.md) | ⭐ 28 | `daily assistant` |
-| [Direct Instruction](daily-assistant/direct_instruction_19f3d52d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/computemate/direct_instruction.md) | ⭐ 28 | `daily assistant` |
-| [Make Suggestions](daily-assistant/make_suggestions_38891fde/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/computemate/make_suggestions.md) | ⭐ 28 | `daily assistant` |
-| [Summarize Task Instruction](daily-assistant/summarize_task_instruction_ba8a4a2c/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/computemate/summarize_task_instruction.md) | ⭐ 28 | `daily assistant` |
-| [Rational Emotive Behavior Therapy Rebt](daily-assistant/rational_emotive_behavior_therapy_rebt_250f1bf2/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Rational_Emotive_Behavior_Therapy_REBT.md) | ⭐ 28 | `daily assistant` |
+| [Think](daily-assistant/270-think_139c4283/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/think.md) | ⭐ 28 | `daily assistant` |
+| [Review](daily-assistant/271-review_6d1a1b0b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/prompts/review.md) | ⭐ 28 | `daily assistant` |
+| [Create Action Plan](daily-assistant/272-create_action_plan_139e5f04/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/create_action_plan.md) | ⭐ 28 | `daily assistant` |
+| [Tool Instruction](daily-assistant/273-tool_instruction_458c00a6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/tool_instruction.md) | ⭐ 28 | `daily assistant` |
 
-### Data Analysis (272 skills)
+### Data Analysis (270 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -835,11 +781,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_668c27e8/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_c930ee03/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/clinical-research-session/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Reporting Guidelines](data-analysis/482-reporting-guidelines_90f334a5/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/reporting-guidelines.md) | ⭐ 13 | `data analysis` |
-| [Narrative](data-analysis/narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
-| [Tool Instruction](data-analysis/tool_instruction_024c9b6a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/tool_instruction.md) | ⭐ 28 | `data analysis` |
-| [Tool Instruction](data-analysis/tool_instruction_825e22b2/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/computemate/tool_instruction.md) | ⭐ 28 | `data analysis` |
+| [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 
-### Development (420 skills)
+### Development (411 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1250,21 +1194,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Assumptions Limitations](development/2919-assumptions-limitations_dd74535f/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/assumptions-limitations.md) | ⭐ 13 | `development` |
 | [Study Design Checklist](development/2920-study-design-checklist_83953750/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/study-design-checklist.md) | ⭐ 13 | `development` |
 | [Validation Strategy](development/2921-validation-strategy_3dd23668/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/validation-strategy.md) | ⭐ 13 | `development` |
-| [Android Pixel Terminal Setup](development/android_pixel_terminal_setup_422b47f4/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_pixel_terminal_setup.md) | ⭐ 28 | `development` |
-| [Code Interpreter](development/code_interpreter_69566dfc/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Code_Interpreter.md) | ⭐ 28 | `development` |
-| [Web Developer](development/web_developer_0f02f200/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Web_Developer.md) | ⭐ 28 | `development` |
-| [Create Agents](development/create_agents_25fe61a0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_agents.md) | ⭐ 28 | `development` |
-| [Create Plugins](development/create_plugins_22ef1da4/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_plugins.md) | ⭐ 28 | `development` |
-| [Correct Python](development/correct_python_9740a982/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/correct_python.md) | ⭐ 28 | `development` |
-| [Anthropic](development/anthropic_a83f14c6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/anthropic.md) | ⭐ 28 | `development` |
-| [Deepseek](development/deepseek_abde66ee/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/deepseek.md) | ⭐ 28 | `development` |
-| [Openai](development/openai_8c210a77/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/openai.md) | ⭐ 28 | `development` |
-| [Xai](development/xai_657bdc8d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/xai.md) | ⭐ 28 | `development` |
-| [Supervisor](development/supervisor_f44bcb13/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/supervisor.md) | ⭐ 28 | `development` |
-| [Neovim Expert](development/neovim_expert_3a8e6398/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/developers/neovim_expert.md) | ⭐ 28 | `development` |
-| [Template](development/template_17dc20b2/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/tools/cli/template.md) | ⭐ 28 | `development` |
+| [Android Pixel Terminal Setup](development/2928-android_pixel_terminal_setup_422b47f4/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_pixel_terminal_setup.md) | ⭐ 28 | `development` |
+| [Code Interpreter](development/2929-code_interpreter_69566dfc/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Code_Interpreter.md) | ⭐ 28 | `development` |
+| [Web Developer](development/2930-web_developer_0f02f200/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/roles/Web_Developer.md) | ⭐ 28 | `development` |
+| [Agents](development/agents_dd06de13/) | [greynewell/mcpbr](https://raw.githubusercontent.com/greynewell/mcpbr/main/AGENTS.md) | ⭐ 20 | `development` |
 
-### Development/Devops (41 skills)
+### Development/Devops (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1307,10 +1242,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Analyze](development/devops/360-analyze_e29205c6/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/analyze.md) | ⭐ 20 | `development` |
 | [Llm Providers](development/devops/361-llm-providers_16d48180/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
 | [Plan](development/devops/362-plan_dd8a94a7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
-| [Android Termux Setup](development/devops/android_termux_setup_3ba327b7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_termux_setup.md) | ⭐ 28 | `development` |
-| [Setup Azure](development/devops/setup_azure_c0bf0b2a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/setup_azure.md) | ⭐ 28 | `development` |
+| [Android Termux Setup](development/devops/371-android_termux_setup_3ba327b7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_termux_setup.md) | ⭐ 28 | `development` |
 
-### Development/Testing (9 skills)
+### Development/Testing (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1322,9 +1256,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [1 Filetype Enum Extension](development/testing/087-1-filetype-enum-extension_b9995c22/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/1-filetype-enum-extension.md) | ⭐ 17 | `development` |
 | [23 Pre Commit Config Update](development/testing/088-23-pre-commit-config-update_31fdb907/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/23-pre-commit-config-update.md) | ⭐ 17 | `development` |
 | [Onboarding Internal](development/testing/085-onboarding_internal_02c638f0/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING_INTERNAL.md) | ⭐ 445 | `development` |
-| [Simple](development/testing/simple_5f2954f3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/simple.md) | ⭐ 28 | `development` |
 
-### Development/Tools (60 skills)
+### Development/Tools (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1383,13 +1316,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Overview](development/tools/319-01-overview_de4859f2/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 1.1k | `development` |
 | [Mcp Server](development/tools/319-mcp-server_11b333fc/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/integrations/mcp-server.md) | ⭐ 20 | `development` |
 | [Cli](development/tools/263-cli_720c7e96/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md) | ⭐ 20 | `development` |
-| [Add Path](development/tools/add_path_972931f1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/add_path.md) | ⭐ 28 | `development` |
-| [Groq](development/tools/groq_8308c16c/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/groq.md) | ⭐ 28 | `development` |
-| [Mistral](development/tools/mistral_0acfaa63/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/mistral.md) | ⭐ 28 | `development` |
-| [Vertexai](development/tools/vertexai_e333e21c/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/vertexai.md) | ⭐ 28 | `development` |
-| [Cognitive Behavioral Therapy Cbt](development/tools/cognitive_behavioral_therapy_cbt_0980ed35/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Cognitive_Behavioral_Therapy_CBT.md) | ⭐ 28 | `development` |
 
-### Investment (9 skills)
+### Investment (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1398,36 +1326,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](investment/051-instructions_c1a87db4/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/enterprise-risk-aggregator/instructions.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_e1c14930/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/portfolio-dashboard/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_7ef1c603/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.1-Cost-Estimation/historical-cost-analyzer/SKILL.md) | ⭐ 33 | `investment` |
-| [Archetypal](investment/archetypal_23a3f459/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/archetypal.md) | ⭐ 28 | `investment` |
-| [General](investment/general_c70491a7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/general.md) | ⭐ 28 | `investment` |
-| [Historical](investment/historical_d0b39b73/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/historical.md) | ⭐ 28 | `investment` |
-| [Psychological](investment/psychological_fc359b8e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/psychological.md) | ⭐ 28 | `investment` |
 
-### Other (19 skills)
+### Other (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
-| [Existential Therapy](other/existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
-| [Followup](other/followup_cdb5893b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/prompts/followup.md) | ⭐ 28 | `other` |
-| [Refine](other/refine_a56af0dd/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/prompts/refine.md) | ⭐ 28 | `other` |
-| [General](other/general_5dbbcc92/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/general.md) | ⭐ 28 | `other` |
-| [Simple Reasoning](other/simple_reasoning_6a27bac6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/simple_reasoning.md) | ⭐ 28 | `other` |
-| [Canon](other/canon_512ba60a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/canon.md) | ⭐ 28 | `other` |
-| [Insights](other/insights_2e1c73c3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/insights.md) | ⭐ 28 | `other` |
-| [Auto](other/auto_a3d8d0b9/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/system/auto.md) | ⭐ 28 | `other` |
-| [Role](other/role_11b16cf6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/system/role.md) | ⭐ 28 | `other` |
-| [Billy](other/billy_af9af07e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/billy.md) | ⭐ 28 | `other` |
-| [Pray](other/pray_98ed62b2/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/pray.md) | ⭐ 28 | `other` |
-| [Quote](other/quote_08e8bbe5/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/quote.md) | ⭐ 28 | `other` |
-| [Scholar](other/scholar_5f01dbf3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/scholar.md) | ⭐ 28 | `other` |
-| [Theologian](other/theologian_6a6aa95c/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/bible/theologian.md) | ⭐ 28 | `other` |
-| [Identify Search String](other/identify_search_string_b1fd1f87/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/identify_search_string.md) | ⭐ 28 | `other` |
-| [Mindfulnessbased Therapy](other/mindfulnessbased_therapy_edaf171a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/MindfulnessBased_Therapy.md) | ⭐ 28 | `other` |
-| [Traumainformed Therapy](other/traumainformed_therapy_22c08a4a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/TraumaInformed_Therapy.md) | ⭐ 28 | `other` |
+| [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 
-### Productivity (36 skills)
+### Productivity (26 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1449,26 +1357,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_a6b69f32/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.4-Vector-Search-BigData/parquet-converter/SKILL.md) | ⭐ 33 | `productivity` |
 | [Method Families](productivity/173-method-families_a30d428d/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/method-families.md) | ⭐ 13 | `productivity` |
 | [Question Taxonomy](productivity/174-question-taxonomy_895db1ba/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/question-taxonomy.md) | ⭐ 13 | `productivity` |
-| [Questions](productivity/questions_32b5d935/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/questions.md) | ⭐ 28 | `productivity` |
-| [Acceptance And Commitment Therapy Act](productivity/acceptance_and_commitment_therapy_act_08b1ab02/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Acceptance_and_Commitment_Therapy_ACT.md) | ⭐ 28 | `productivity` |
-| [Dialectical Behavior Therapy Dbt](productivity/dialectical_behavior_therapy_dbt_3faaf86f/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Dialectical_Behavior_Therapy_DBT.md) | ⭐ 28 | `productivity` |
-| [Emotionfocused Therapy Eft](productivity/emotionfocused_therapy_eft_0a617d05/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/EmotionFocused_Therapy_EFT.md) | ⭐ 28 | `productivity` |
-| [Humanistic Therapy](productivity/humanistic_therapy_13ff519b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Humanistic_Therapy.md) | ⭐ 28 | `productivity` |
-| [Motivational Interviewing](productivity/motivational_interviewing_32ba4488/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Motivational_Interviewing.md) | ⭐ 28 | `productivity` |
-| [Narrative Exposure Therapy Net](productivity/narrative_exposure_therapy_net_e29fe7af/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Exposure_Therapy_NET.md) | ⭐ 28 | `productivity` |
-| [Personcentered Therapy](productivity/personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
-| [Reflect](productivity/reflect_d311ed02/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/reflect.md) | ⭐ 28 | `productivity` |
-| [Close Reading](productivity/close_reading_a71131dc/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/close_reading.md) | ⭐ 28 | `productivity` |
-| [Comparative](productivity/comparative_73071422/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/comparative.md) | ⭐ 28 | `productivity` |
-| [Adlerian Therapy](productivity/adlerian_therapy_ae2f245b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Adlerian_Therapy.md) | ⭐ 28 | `productivity` |
-| [Cognitive Analytic Therapy Cat](productivity/cognitive_analytic_therapy_cat_da84448e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Cognitive_Analytic_Therapy_CAT.md) | ⭐ 28 | `productivity` |
-| [Family Systems Therapy](productivity/family_systems_therapy_4e0e7368/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Family_Systems_Therapy.md) | ⭐ 28 | `productivity` |
-| [Gestalt Therapy](productivity/gestalt_therapy_ad6d7361/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Gestalt_Therapy.md) | ⭐ 28 | `productivity` |
-| [Psychodynamic Therapy](productivity/psychodynamic_therapy_78d5db11/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Psychodynamic_Therapy.md) | ⭐ 28 | `productivity` |
-| [Reality Therapy](productivity/reality_therapy_87ac0b20/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Reality_Therapy.md) | ⭐ 28 | `productivity` |
-| [Solutionfocused Brief Therapy Sfbt](productivity/solutionfocused_brief_therapy_sfbt_e01902f0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/SolutionFocused_Brief_Therapy_SFBT.md) | ⭐ 28 | `productivity` |
+| [Questions](productivity/124-questions_32b5d935/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/questions.md) | ⭐ 28 | `productivity` |
+| [Acceptance And Commitment Therapy Act](productivity/173-acceptance_and_commitment_therapy_act_08b1ab02/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Acceptance_and_Commitment_Therapy_ACT.md) | ⭐ 28 | `productivity` |
+| [Dialectical Behavior Therapy Dbt](productivity/174-dialectical_behavior_therapy_dbt_3faaf86f/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Dialectical_Behavior_Therapy_DBT.md) | ⭐ 28 | `productivity` |
+| [Emotionfocused Therapy Eft](productivity/175-emotionfocused_therapy_eft_0a617d05/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/EmotionFocused_Therapy_EFT.md) | ⭐ 28 | `productivity` |
+| [Humanistic Therapy](productivity/176-humanistic_therapy_13ff519b/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Humanistic_Therapy.md) | ⭐ 28 | `productivity` |
+| [Motivational Interviewing](productivity/177-motivational_interviewing_32ba4488/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Motivational_Interviewing.md) | ⭐ 28 | `productivity` |
+| [Narrative Exposure Therapy Net](productivity/178-narrative_exposure_therapy_net_e29fe7af/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Exposure_Therapy_NET.md) | ⭐ 28 | `productivity` |
+| [Personcentered Therapy](productivity/179-personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
 
-### Research (65 skills)
+### Research (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1531,12 +1429,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_14029ef2/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sepsis-3-cohort/SKILL.md) | ⭐ 13 | `research` |
 | [Skill](research/139-name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
 | [Ehr Data Considerations](research/263-ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
-| [Meaning](research/meaning_6b94e347/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/meaning.md) | ⭐ 28 | `research` |
-| [Outline](research/outline_57e79a25/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/outline.md) | ⭐ 28 | `research` |
-| [Translate Greek](research/translate_greek_cca03467/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/translate_greek.md) | ⭐ 28 | `research` |
-| [Translate Hebrew](research/translate_hebrew_ce510b33/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/instructions/bible/translate_hebrew.md) | ⭐ 28 | `research` |
-| [Commentary](research/commentary_694a2164/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/biblemate/commentary.md) | ⭐ 28 | `research` |
-| [Integrative Therapy](research/integrative_therapy_8eb6fe92/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Integrative_Therapy.md) | ⭐ 28 | `research` |
 
 ## How Skills Are Organized
 
@@ -1588,5 +1480,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 21:22:04 UTC*
+*Last updated: 2026-02-14 21:24:12 UTC*
 *Automatically maintained by SkillFlow*
