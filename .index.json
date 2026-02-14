@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T17:24:12.554605",
+  "updated_at": "2026-02-14T18:21:56.952205",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -15541,6 +15541,76 @@
       "source_url": "https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/1_DDC_Toolkit/Field-Operations/punch-list-manager/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "2a39c48db529d49b60c650f39d39ea1f9f1482aedf600557cae95096156f26d4",
+      "source_path": "README_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "data-analysis/436-readme_cn_2a39c48d",
+      "category": "data-analysis",
+      "name": "readme_cn_2a39c48d",
+      "indexed_at": "2026-02-14T18:21:56.345934",
+      "repo_stars": 1134,
+      "repo_updated_at": "2026-02-14T12:29:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "f1f7a8fc7e54127185eef9095e79f619f6662733552ef0c71204332feea7110e",
+      "source_path": "docs/en/about/01-about-us.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "content-creation/364-01-about-us_f1f7a8fc",
+      "category": "content-creation",
+      "name": "01-about-us_f1f7a8fc",
+      "indexed_at": "2026-02-14T18:21:56.539844",
+      "repo_stars": 1134,
+      "repo_updated_at": "2026-02-14T12:30:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md",
+      "display_name": "01 About Us",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "de4859f219ea1da5f8d88da40ec142687ee2fe4c29756f2727d958637dd07e88",
+      "source_path": "docs/en/api/01-overview.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/tools/319-01-overview_de4859f2",
+      "category": "development/tools",
+      "name": "01-overview_de4859f2",
+      "indexed_at": "2026-02-14T18:21:56.651490",
+      "repo_stars": 1134,
+      "repo_updated_at": "2026-02-14T15:17:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md",
+      "display_name": "01 Overview",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "45873401d27d7ab62dc13d396e268ea94a87d145426ac8089592bcd1a3f1335a",
+      "source_path": "docs/zh/about/01-about-us.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "communication/258-01-about-us_45873401",
+      "category": "communication",
+      "name": "01-about-us_45873401",
+      "indexed_at": "2026-02-14T18:21:56.811148",
+      "repo_stars": 1134,
+      "repo_updated_at": "2026-02-14T12:27:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md",
+      "display_name": "01 About Us",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "568c1a30eb960cf7359ace2dca8a2914a51013b9c05c7f040fa88f05fcd21fda",
+      "source_path": "docs/zh/api/01-overview.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/2703-01-overview_568c1a30",
+      "category": "development",
+      "name": "01-overview_568c1a30",
+      "indexed_at": "2026-02-14T18:21:56.952160",
+      "repo_stars": 1134,
+      "repo_updated_at": "2026-02-14T15:17:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md",
+      "display_name": "01 Overview",
+      "tags": "[\"development\"]"
     }
   ]
 }
