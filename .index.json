@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T08:22:42.333180",
+  "updated_at": "2026-02-14T08:23:33.339798",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -5293,6 +5293,48 @@
       "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "9b5d57a4c620c1ca4b9e9626310f345642053aa026571529f8412fc801a74df2",
+      "source_path": "connectors/notion/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "content-creation/026-reference_9b5d57a4",
+      "category": "content-creation",
+      "name": "reference_9b5d57a4",
+      "indexed_at": "2026-02-14T08:23:33.110640",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-13T23:31:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/notion/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "5c3a11f57cecb591fe637e9e04da9afed91cb43deac9fe0f39b0e6ed33cb162b",
+      "source_path": "connectors/zendesk-support/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "content-creation/026-reference_5c3a11f5",
+      "category": "content-creation",
+      "name": "reference_5c3a11f5",
+      "indexed_at": "2026-02-14T08:23:33.244243",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-13T02:36:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "515167ac3a949935f0aae074703818c500e388aeb7af05a7a3720f8305311f61",
+      "source_path": "docs/environment-setup.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/devops/200-environment-setup_515167ac",
+      "category": "development/devops",
+      "name": "environment-setup_515167ac",
+      "indexed_at": "2026-02-14T08:23:33.339737",
+      "repo_stars": 6805,
+      "repo_updated_at": "2026-02-13T03:04:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md",
+      "display_name": "Environment Setup",
+      "tags": "[\"development\"]"
     }
   ]
 }

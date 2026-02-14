@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **378 AI-powered skills** organized into 13 categories.
+A curated collection of **383 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (19 skills)
 - **Commercial** (16 skills)
 - **Communication** (6 skills)
-- **Content Creation** (27 skills)
+- **Content Creation** (29 skills)
 - **Daily Assistant** (7 skills)
 - **Data Analysis** (59 skills)
-- **Development** (141 skills)
-- **Development/Devops** (29 skills)
+- **Development** (142 skills)
+- **Development/Devops** (30 skills)
 - **Development/Testing** (5 skills)
-- **Development/Tools** (15 skills)
+- **Development/Tools** (16 skills)
 - **Productivity** (7 skills)
 - **Research** (43 skills)
 
@@ -242,9 +242,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
-| [Rfc9728 Compliance](communication/rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
+| [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 
-### Content Creation (27 skills)
+### Content Creation (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -275,6 +275,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Figures Tables](content-creation/381-figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
 | [01 About Us](content-creation/350-01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
 | [Skill](content-creation/049-name-skill_4a225bcb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 20 | `content creation` |
+| [Reference](content-creation/reference_9b5d57a4/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/notion/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_5c3a11f5/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/zendesk-support/REFERENCE.md) | ⭐ 102 | `content creation` |
 
 ### Daily Assistant (7 skills)
 
@@ -350,9 +352,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Slide Design Principles](data-analysis/489-slide_design_principles_d39c01ab/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/slide_design_principles.md) | ⭐ 19 | `data analysis` |
 | [Visual Review Workflow](data-analysis/490-visual_review_workflow_579328d5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/visual_review_workflow.md) | ⭐ 19 | `data analysis` |
 | [Treatment Plan Standards](data-analysis/491-treatment_plan_standards_b6b58a5f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/treatment_plan_standards.md) | ⭐ 19 | `data analysis` |
-| [Skill](data-analysis/name-skill_2f7f27f4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_2f7f27f4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 
-### Development (141 skills)
+### Development (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -497,8 +499,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_2d61c915/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
 | [039 Adopt Fully Independent Plugin Crates Architecture](development/2956-039-adopt-fully-independent-plugin-crates-architecture_8eb48b75/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md) | ⭐ 3.3k | `development` |
 | [Audit](development/2957-audit_3d83e084/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
+| [Antigravity Setup](development/antigravity-setup_72d40f72/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/antigravity-setup.md) | 🔥 6.8k | `development` |
 
-### Development/Devops (29 skills)
+### Development/Devops (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -531,6 +534,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](development/devops/197-instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
 | [Agents](development/devops/053-agents_2f52ed9c/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/integrations/telegram/AGENTS.md) | 🔥 6.5k | `development` |
+| [Environment Setup](development/devops/environment-setup_515167ac/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/environment-setup.md) | 🔥 6.8k | `development` |
 
 ### Development/Testing (5 skills)
 
@@ -542,7 +546,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes](development/testing/079-release_notes_29151437/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 | [Ops Guide](development/testing/081-ops_guide_5991f949/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/agent_docs/ops_guide.md) | 🔥 6.5k | `development` |
 
-### Development/Tools (15 skills)
+### Development/Tools (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -561,6 +565,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Clinical Decision Algorithms](development/tools/328-clinical_decision_algorithms_638c8f4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/clinical_decision_algorithms.md) | ⭐ 19 | `development` |
 | [Llm](development/tools/317-llm_1027c55b/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
 | [Oauth Design](development/tools/012-oauth-design_74d5dd3c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.3k | `development` |
+| [Auth](development/tools/auth_349e0d6d/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/notion/AUTH.md) | ⭐ 102 | `development` |
 
 ### Productivity (7 skills)
 
@@ -672,5 +677,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 08:22:42 UTC*
+*Last updated: 2026-02-14 08:23:33 UTC*
 *Automatically maintained by SkillFlow*
