@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **58 AI-powered skills** organized into 10 categories.
+A curated collection of **59 AI-powered skills** organized into 10 categories.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Workflow** (5 skills)
+- **Automation/Workflow** (6 skills)
 - **Commercial** (3 skills)
 - **Communication** (3 skills)
 - **Content Creation** (3 skills)
@@ -176,7 +176,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Workflow (5 skills)
+### Automation/Workflow (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -185,6 +185,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_82d9d209/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tool-ui-integrator/SKILL.md) | ⭐ 15 | `automation` |
 | [Readme Flat Skills Az](automation/workflow/136-readme_flat_skills_az_1dd4094b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.5k | `automation` |
 | [Overview](automation/workflow/016-overview_cf2b1aeb/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 17 | `automation` |
+| [Security Scorecard](automation/workflow/security_scorecard_a19e5df8/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/SECURITY_SCORECARD.md) | ⭐ 4.0k | `automation` |
 
 ### Commercial (3 skills)
 
@@ -251,7 +252,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Installation](development/474-installation_58370c32/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/installation.md) | ⭐ 10 | `development` |
 | [Conditional Middleware](development/2898-conditional-middleware_5b175205/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/conditional-middleware.md) | ⭐ 10 | `development` |
 | [Pipeline Spec](development/2899-pipeline-spec_a1346c91/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/pipeline-spec.md) | ⭐ 10 | `development` |
-| [Install](development/install_41fb8cee/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/install.md) | ⭐ 15 | `development` |
+| [Claude](development/claude_01ceef5e/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/CLAUDE.md) | ⭐ 349 | `development` |
 
 ### Development/Devops (11 skills)
 
@@ -334,5 +335,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 01:23:20 UTC*
+*Last updated: 2026-02-14 03:24:09 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-14T01:21:38.986004",
+  "updated_at": "2026-02-14T03:24:09.707428",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -799,6 +799,34 @@
       "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/index.md",
       "display_name": "Index",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "a19e5df89b5c9c4ab9184880cd3ef569097ca14a480edae91b80cfb83754a830",
+      "source_path": ".github/SECURITY_SCORECARD.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "automation/workflow/035-security_scorecard_a19e5df8",
+      "category": "automation/workflow",
+      "name": "security_scorecard_a19e5df8",
+      "indexed_at": "2026-02-14T03:24:09.651881",
+      "repo_stars": 3999,
+      "repo_updated_at": "2026-02-13T08:30:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/.github/SECURITY_SCORECARD.md",
+      "display_name": "Security Scorecard",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "01ceef5ecc53e792bed9b46b566d00f18bb64bcff310a8838d40004066860524",
+      "source_path": "CLAUDE.md",
+      "source_repo": "plastic-labs/honcho",
+      "local_path": "development/140-claude_01ceef5e",
+      "category": "development",
+      "name": "claude_01ceef5e",
+      "indexed_at": "2026-02-14T03:24:09.707349",
+      "repo_stars": 349,
+      "repo_updated_at": "2026-02-13T16:54:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/plastic-labs/honcho/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
     }
   ]
 }
