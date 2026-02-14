@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **376 AI-powered skills** organized into 13 categories.
+A curated collection of **378 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -11,10 +11,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (4 skills)
 - **Automation/Workflow** (19 skills)
 - **Commercial** (16 skills)
-- **Communication** (5 skills)
+- **Communication** (6 skills)
 - **Content Creation** (27 skills)
 - **Daily Assistant** (7 skills)
-- **Data Analysis** (58 skills)
+- **Data Analysis** (59 skills)
 - **Development** (141 skills)
 - **Development/Devops** (29 skills)
 - **Development/Testing** (5 skills)
@@ -233,7 +233,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](commercial/107-instructions_babffa81/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/simpy/instructions.md) | ⭐ 19 | `commercial` |
 | [Goal Setting Frameworks](commercial/095-goal_setting_frameworks_a28a8e14/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/goal_setting_frameworks.md) | ⭐ 19 | `commercial` |
 
-### Communication (5 skills)
+### Communication (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -242,6 +242,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
+| [Rfc9728 Compliance](communication/rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 
 ### Content Creation (27 skills)
 
@@ -273,7 +274,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Presentation Structure](content-creation/380-presentation_structure_a9ff0c9a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/presentation_structure.md) | ⭐ 19 | `content creation` |
 | [Figures Tables](content-creation/381-figures_tables_aeb400fe/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-writing/references/figures_tables.md) | ⭐ 19 | `content creation` |
 | [01 About Us](content-creation/350-01-about-us_ae7c9910/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 1.1k | `content creation` |
-| [Skill](content-creation/name-skill_4a225bcb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_4a225bcb/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/postiz/SKILL.md) | ⭐ 20 | `content creation` |
 
 ### Daily Assistant (7 skills)
 
@@ -287,7 +288,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Intervention Guidelines](daily-assistant/271-intervention_guidelines_6bcc583a/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/intervention_guidelines.md) | ⭐ 19 | `daily assistant` |
 | [Specialty Specific Guidelines](daily-assistant/272-specialty_specific_guidelines_05b82478/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/specialty_specific_guidelines.md) | ⭐ 19 | `daily assistant` |
 
-### Data Analysis (58 skills)
+### Data Analysis (59 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -349,6 +350,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Slide Design Principles](data-analysis/489-slide_design_principles_d39c01ab/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/slide_design_principles.md) | ⭐ 19 | `data analysis` |
 | [Visual Review Workflow](data-analysis/490-visual_review_workflow_579328d5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/scientific-slides/references/visual_review_workflow.md) | ⭐ 19 | `data analysis` |
 | [Treatment Plan Standards](data-analysis/491-treatment_plan_standards_b6b58a5f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/treatment-plans/references/treatment_plan_standards.md) | ⭐ 19 | `data analysis` |
+| [Skill](data-analysis/name-skill_2f7f27f4/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 
 ### Development (141 skills)
 
@@ -492,9 +494,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Swift Api](development/2926-swift_api_913b61d0/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/bridge-js/references/swift_api.md) | ⭐ 27 | `development` |
 | [Common Patterns](development/179-common_patterns_3bb51a68/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/common_patterns.md) | ⭐ 27 | `development` |
 | [Swift Apis](development/2927-swift_apis_e4c501bb/) | [swiftwasm/skills](https://raw.githubusercontent.com/swiftwasm/skills/main/skills/javascriptkit/references/swift_apis.md) | ⭐ 27 | `development` |
-| [Agents](development/agents_2d61c915/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
-| [039 Adopt Fully Independent Plugin Crates Architecture](development/039-adopt-fully-independent-plugin-crates-architecture_8eb48b75/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md) | ⭐ 3.3k | `development` |
-| [Audit](development/audit_3d83e084/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
+| [Agents](development/028-agents_2d61c915/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
+| [039 Adopt Fully Independent Plugin Crates Architecture](development/2956-039-adopt-fully-independent-plugin-crates-architecture_8eb48b75/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/039-adopt-fully-independent-plugin-crates-architecture.md) | ⭐ 3.3k | `development` |
+| [Audit](development/2957-audit_3d83e084/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
 
 ### Development/Devops (29 skills)
 
@@ -558,7 +560,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Biomarker Classification](development/tools/327-biomarker_classification_32a4dbca/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/biomarker_classification.md) | ⭐ 19 | `development` |
 | [Clinical Decision Algorithms](development/tools/328-clinical_decision_algorithms_638c8f4b/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/clinical-decision-support/references/clinical_decision_algorithms.md) | ⭐ 19 | `development` |
 | [Llm](development/tools/317-llm_1027c55b/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/LLM.md) | 🔥 6.5k | `development` |
-| [Oauth Design](development/tools/oauth-design_74d5dd3c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.3k | `development` |
+| [Oauth Design](development/tools/012-oauth-design_74d5dd3c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.3k | `development` |
 
 ### Productivity (7 skills)
 
@@ -670,5 +672,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 08:22:15 UTC*
+*Last updated: 2026-02-14 08:22:42 UTC*
 *Automatically maintained by SkillFlow*
