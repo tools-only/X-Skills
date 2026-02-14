@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **48 AI-powered skills** organized into 8 categories.
+A curated collection of **87 AI-powered skills** organized into 11 categories.
 
 ## Overview
 
@@ -9,13 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Workflow** (5 skills)
-- **Commercial** (3 skills)
-- **Communication** (4 skills)
-- **Content Creation** (3 skills)
-- **Data Analysis** (3 skills)
-- **Development** (17 skills)
-- **Development/Devops** (10 skills)
-- **Development/Tools** (3 skills)
+- **Commercial** (4 skills)
+- **Communication** (12 skills)
+- **Content Creation** (4 skills)
+- **Daily Assistant** (1 skill)
+- **Data Analysis** (6 skills)
+- **Development** (31 skills)
+- **Development/Devops** (11 skills)
+- **Development/Testing** (3 skills)
+- **Development/Tools** (9 skills)
+- **Other** (1 skill)
 
 ## Patches - Curated Skill Bundles
 
@@ -184,40 +187,59 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Skills Az](automation/workflow/136-readme_flat_skills_az_1dd4094b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.5k | `automation` |
 | [Overview](automation/workflow/016-overview_cf2b1aeb/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/docs/ai-agents/overview.md) | ⭐ 17 | `automation` |
 
-### Commercial (3 skills)
+### Commercial (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](commercial/210-name-skill_f3e89c56/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/session-handoff/SKILL.md) | ⭐ 15 | `commercial` |
 | [Interface Design](commercial/374-interface-design_764c5ff0/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/tdd/interface-design.md) | ⭐ 15 | `commercial` |
 | [Dev Endpoint](commercial/375-dev-endpoint_ad8342d7/) | [petekp/claude-code-setup](https://raw.githubusercontent.com/petekp/claude-code-setup/main/skills/agent-telemetry/references/dev-endpoint.md) | ⭐ 15 | `commercial` |
+| [Toxicity Check](commercial/toxicity-check_2c904777/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/toxicity-check.md) | ⭐ 10 | `commercial` |
 
-### Communication (4 skills)
+### Communication (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Troubleshoot](communication/221-troubleshoot_7a8329e7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.9k | `communication` |
 | [Web Search](communication/206-web_search_6a939ba7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/web_search.md) | 🔥 35.9k | `communication` |
 | [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
-| [Scaleway](communication/scaleway_2a2894f9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/scaleway.md) | 🔥 35.9k | `communication` |
+| [Hook Timeouts](communication/hook-timeouts_ae4b8e63/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/hook-timeouts.md) | ⭐ 10 | `communication` |
+| [On Tool Error](communication/on-tool-error_1dff6808/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/on-tool-error.md) | ⭐ 10 | `communication` |
+| [Permission Decisions](communication/permission-decisions_ec5ebd9a/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/permission-decisions.md) | ⭐ 10 | `communication` |
+| [Tool Name Filtering](communication/tool-name-filtering_84ef4e69/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/tool-name-filtering.md) | ⭐ 10 | `communication` |
+| [Exceptions](communication/exceptions_28910855/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/exceptions.md) | ⭐ 10 | `communication` |
+| [Json Schema Validation](communication/json-schema-validation_495df657/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/json-schema-validation.md) | ⭐ 10 | `communication` |
+| [Pii Detection](communication/pii-detection_d813d177/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/pii-detection.md) | ⭐ 10 | `communication` |
+| [Tool Error Handling](communication/tool-error-handling_1f413cca/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/tool-error-handling.md) | ⭐ 10 | `communication` |
+| [Tool Name Filtering](communication/tool-name-filtering_00be6de9/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/tool-name-filtering.md) | ⭐ 10 | `communication` |
 
-### Content Creation (3 skills)
+### Content Creation (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Openai](content-creation/359-openai_4ef0cd71/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/openai.md) | 🔥 35.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_a9cca04f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
 | [Target User Agentic Harness V0](content-creation/375-target_user_agentic_harness_v0_a84a827c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
+| [Async Guardrails](content-creation/async-guardrails_733ca8c7/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/async-guardrails.md) | ⭐ 10 | `content creation` |
 
-### Data Analysis (3 skills)
+### Daily Assistant (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Index](daily-assistant/index_21c18601/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/index.md) | ⭐ 10 | `daily assistant` |
+
+### Data Analysis (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Architecture](data-analysis/009-architecture_f62cb9de/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md) | ⭐ 12 | `data analysis` |
 | [Configuration](data-analysis/046-configuration_cda8812a/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md) | ⭐ 12 | `data analysis` |
 | [Transformation](data-analysis/481-transformation_39e9ae41/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/transformation.md) | ⭐ 12 | `data analysis` |
+| [Index](data-analysis/index_152f012b/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/index.md) | ⭐ 10 | `data analysis` |
+| [Hooks](data-analysis/hooks_4bce30e8/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/hooks.md) | ⭐ 10 | `data analysis` |
+| [Middleware](data-analysis/middleware_df7dc2c9/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/middleware.md) | ⭐ 10 | `data analysis` |
 
-### Development (17 skills)
+### Development (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -238,8 +260,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_a4acc08a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/init/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/1178-name-skill_32981586/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/security-audit/SKILL.md) | ⭐ 17 | `development` |
 | [System Prompt Debug Tool B01Af939.Plan](development/2922-system_prompt_debug_tool_b01af939plan_e409ef2e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/system_prompt_debug_tool_b01af939.plan.md) | ⭐ 12 | `development` |
+| [Claude](development/claude_2b80b6b3/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Getting Help](development/getting-help_29533856/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/getting-help.md) | ⭐ 10 | `development` |
+| [Installation](development/installation_58370c32/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/installation.md) | ⭐ 10 | `development` |
+| [Conditional Middleware](development/conditional-middleware_5b175205/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/conditional-middleware.md) | ⭐ 10 | `development` |
+| [Pipeline Spec](development/pipeline-spec_a1346c91/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/pipeline-spec.md) | ⭐ 10 | `development` |
+| [Agents](development/agents_8277d654/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/AGENTS.md) | ⭐ 10 | `development` |
+| [Config Loading](development/config-loading_28cc1c3c/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/config-loading.md) | ⭐ 10 | `development` |
+| [Conditional](development/conditional_7364c7f7/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/conditional.md) | ⭐ 10 | `development` |
+| [Decorators](development/decorators_88c783c7/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/decorators.md) | ⭐ 10 | `development` |
+| [Decorators](development/decorators_2156ebcc/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/decorators.md) | ⭐ 10 | `development` |
+| [Index](development/index_c71af0d4/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/index.md) | ⭐ 10 | `development` |
+| [Permission Decisions](development/permission-decisions_ceff5685/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/permission-decisions.md) | ⭐ 10 | `development` |
+| [Prompt Injection](development/prompt-injection_083ab154/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/prompt-injection.md) | ⭐ 10 | `development` |
+| [Abbreviations](development/abbreviations_4600a6c6/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/includes/abbreviations.md) | ⭐ 10 | `development` |
 
-### Development/Devops (10 skills)
+### Development/Devops (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -253,14 +289,35 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat All Updated](development/devops/160-readme_flat_all_updated_1b3f5678/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_UPDATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_c17d7a5f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_91ee5233/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.5k | `development` |
+| [Pipeline Spec](development/devops/pipeline_spec_60683b0e/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/pipeline_spec.md) | ⭐ 10 | `development` |
 
-### Development/Tools (3 skills)
+### Development/Testing (3 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Middleware Chains](development/testing/middleware-chains_c239a6f7/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/middleware-chains.md) | ⭐ 10 | `development` |
+| [Parallel Execution](development/testing/parallel-execution_5d3062a6/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/advanced/parallel-execution.md) | ⭐ 10 | `development` |
+| [Hook Timeouts](development/testing/hook-timeouts_d7d1b878/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/hook-timeouts.md) | ⭐ 10 | `development` |
+
+### Development/Tools (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Mcp Troubleshoot](development/tools/324-mcp_troubleshoot_6a5a0c41/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp_troubleshoot.md) | 🔥 35.9k | `development` |
 | [Desktop](development/tools/328-desktop_f1b0efd6/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
-| [Policy Templates](development/tools/policy_templates_60a9413f/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/policy_templates.md) | 🔥 35.9k | `development` |
+| [Chain](development/tools/chain_02e6ae60/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/chain.md) | ⭐ 10 | `development` |
+| [Index](development/tools/index_58b8e160/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/index.md) | ⭐ 10 | `development` |
+| [Middleware](development/tools/middleware_efab8d3b/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/middleware.md) | ⭐ 10 | `development` |
+| [Permissions](development/tools/permissions_bb70d652/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/permissions.md) | ⭐ 10 | `development` |
+| [Toolset](development/tools/toolset_dbcb8231/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/toolset.md) | ⭐ 10 | `development` |
+| [Logging](development/tools/logging_a7245621/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/logging.md) | ⭐ 10 | `development` |
+| [Rate Limiting](development/tools/rate-limiting_e12686fe/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/examples/rate-limiting.md) | ⭐ 10 | `development` |
+
+### Other (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Agent](other/agent_387cccd0/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/agent.md) | ⭐ 10 | `other` |
 
 ## How Skills Are Organized
 
@@ -312,5 +369,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 00:24:03 UTC*
+*Last updated: 2026-02-14 01:21:39 UTC*
 *Automatically maintained by SkillFlow*
