@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T12:22:19.836617",
+  "updated_at": "2026-02-15T12:24:45.844066",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -21729,6 +21729,34 @@
       "source_url": "https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/14-app-and-website-blocking-reference-implementation.md",
       "display_name": "14 App And Website Blocking Reference Implementation",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "00ca3e9c1c577ec3633388765c051ad47913e88994a62e5befaafb1ce224a6a3",
+      "source_path": "skills/jira-communication/SKILL.md",
+      "source_repo": "netresearch/jira-skill",
+      "local_path": "development/tools/002-name-skill_00ca3e9c",
+      "category": "development/tools",
+      "name": "name-skill_00ca3e9c",
+      "indexed_at": "2026-02-15T12:24:45.203014",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-15T03:17:23+00:00",
+      "source_url": "https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ccd23b54e014f0c67030b90d32504d14540772f9300f7229b127793cdd5d7c65",
+      "source_path": "skills/jira-syntax/SKILL.md",
+      "source_repo": "netresearch/jira-skill",
+      "local_path": "automation/workflow/002-name-skill_ccd23b54",
+      "category": "automation/workflow",
+      "name": "name-skill_ccd23b54",
+      "indexed_at": "2026-02-15T12:24:45.843707",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-15T03:17:23+00:00",
+      "source_url": "https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }

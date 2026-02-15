@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1594 AI-powered skills** organized into 15 categories.
+A curated collection of **1554 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (25 skills)
+- **Automation/Scripting** (23 skills)
 - **Automation/Workflow** (98 skills)
-- **Commercial** (65 skills)
+- **Commercial** (61 skills)
 - **Communication** (36 skills)
-- **Content Creation** (121 skills)
+- **Content Creation** (120 skills)
 - **Daily Assistant** (80 skills)
-- **Data Analysis** (296 skills)
-- **Development** (553 skills)
-- **Development/Devops** (81 skills)
-- **Development/Testing** (22 skills)
-- **Development/Tools** (114 skills)
+- **Data Analysis** (293 skills)
+- **Development** (536 skills)
+- **Development/Devops** (75 skills)
+- **Development/Testing** (18 skills)
+- **Development/Tools** (112 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
-- **Productivity** (29 skills)
+- **Productivity** (28 skills)
 - **Research** (65 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (25 skills)
+### Automation/Scripting (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -208,8 +208,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 | [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
-| [Quickstart](automation/scripting/quickstart_b2584be0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/port-scanning/quickstart.md) | ⭐ 28 | `automation` |
-| [Quickstart](automation/scripting/quickstart_2cf23bc1/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/vlan-hopping/quickstart.md) | ⭐ 28 | `automation` |
 
 ### Automation/Workflow (98 skills)
 
@@ -311,10 +309,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Skills Updated](automation/workflow/142-readme_flat_skills_updated_77bc4375/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.7k | `automation` |
 | [Backlog](automation/workflow/063-backlog_5428bc80/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/064-description-skill_fc37ad00/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/feature-discovery/SKILL.md) | ⭐ 17 | `automation` |
-| [Video Recording](automation/workflow/video-recording_c2c12bd8/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/video-recording.md) | ⭐ 26 | `automation` |
-| [Pentester Executor](automation/workflow/pentester-executor_a8ad50a7/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/pentester-executor.md) | ⭐ 28 | `automation` |
+| [Video Recording](automation/workflow/138-video-recording_c2c12bd8/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/video-recording.md) | ⭐ 26 | `automation` |
+| [Skill](automation/workflow/name-skill_ccd23b54/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 23 | `automation` |
 
-### Commercial (65 skills)
+### Commercial (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -376,13 +374,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Java Clean Architecture](commercial/377-java-clean-architecture_e1014fd6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/clean-architecture/references/java-clean-architecture.md) | ⭐ 97 | `commercial` |
 | [Python Clean Architecture](commercial/378-python-clean-architecture_9bcff3a0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/references/python-clean-architecture.md) | ⭐ 97 | `commercial` |
 | [Nestjs Implementation](commercial/379-nestjs-implementation_725402e3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/references/nestjs-implementation.md) | ⭐ 97 | `commercial` |
-| [Skill](commercial/name-skill_98bad176/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/SKILL.md) | ⭐ 10 | `commercial` |
-| [00 Overview And Mental Model](commercial/00-overview-and-mental-model_cd0f38f1/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/00-overview-and-mental-model.md) | ⭐ 10 | `commercial` |
-| [12 Cross Project Rundown](commercial/12-cross-project-rundown_37f17ac4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/12-cross-project-rundown.md) | ⭐ 10 | `commercial` |
-| [10 Deviceactivity Monitor Extension Playbook](commercial/10-deviceactivity-monitor-extension-playbook_43c231d9/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/10-deviceactivity-monitor-extension-playbook.md) | ⭐ 10 | `commercial` |
-| [15 Project Alpha Implementation Analysis](commercial/15-project-alpha-implementation-analysis_a138e90f/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/15-project-alpha-implementation-analysis.md) | ⭐ 10 | `commercial` |
-| [17 Hardening Checklist Bug Prevention](commercial/17-hardening-checklist-bug-prevention_c821b9c7/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/17-hardening-checklist-bug-prevention.md) | ⭐ 10 | `commercial` |
-| [Firewall Detection](commercial/firewall-detection_abb0f835/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/firewall-detection.md) | ⭐ 28 | `commercial` |
+| [Skill](commercial/210-name-skill_98bad176/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/SKILL.md) | ⭐ 10 | `commercial` |
+| [00 Overview And Mental Model](commercial/380-00-overview-and-mental-model_cd0f38f1/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/00-overview-and-mental-model.md) | ⭐ 10 | `commercial` |
+| [12 Cross Project Rundown](commercial/381-12-cross-project-rundown_37f17ac4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/12-cross-project-rundown.md) | ⭐ 10 | `commercial` |
 
 ### Communication (36 skills)
 
@@ -422,10 +416,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Notification Flow](communication/145-notification_flow_34f45e3d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/NOTIFICATION_FLOW.md) | ⭐ 4.0k | `communication` |
 | [Php Clean Architecture](communication/260-php-clean-architecture_7f38a2dd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/clean-architecture/references/php-clean-architecture.md) | ⭐ 97 | `communication` |
 | [Typescript Clean Architecture](communication/261-typescript-clean-architecture_a6bb0ce9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/references/typescript-clean-architecture.md) | ⭐ 97 | `communication` |
-| [Authentication](communication/authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
-| [Snapshot Refs](communication/snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
+| [Authentication](communication/016-authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
+| [Snapshot Refs](communication/262-snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
 
-### Content Creation (121 skills)
+### Content Creation (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -549,7 +543,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [External Pattern Integration 2026 02 01](content-creation/355-external-pattern-integration-2026-02-01_70cd2488/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/external-pattern-integration-2026-02-01.md) | ⭐ 17 | `content creation` |
 | [Claude Context Optimizer](content-creation/356-claude-context-optimizer_2dd22ca3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/claude-context-optimizer.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_a3dcd490/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 97 | `wordpress` `sage` `theme` |
-| [Quickstart](content-creation/quickstart_eae552c8/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/sniffing/quickstart.md) | ⭐ 28 | `content creation` |
 
 ### Daily Assistant (80 skills)
 
@@ -634,9 +627,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_1216b8bc/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/SKILL.md) | ⭐ 102 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_89736f7d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `daily assistant` |
 | [Sync Branch](daily-assistant/262-sync-branch_4b94bd45/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/sync-branch.md) | ⭐ 1.2k | `daily assistant` |
-| [14 App And Website Blocking Reference Implementation](daily-assistant/14-app-and-website-blocking-reference-implementation_f9439ca2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/14-app-and-website-blocking-reference-implementation.md) | ⭐ 10 | `daily assistant` |
+| [14 App And Website Blocking Reference Implementation](daily-assistant/277-14-app-and-website-blocking-reference-implementation_f9439ca2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/14-app-and-website-blocking-reference-implementation.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (296 skills)
+### Data Analysis (293 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -933,11 +926,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pixel](data-analysis/481-pixel_43bc0df6/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/pixel.md) | ⭐ 302 | `data analysis` |
 | [Metrics](data-analysis/476-metrics_2d8815c0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/metrics.md) | ⭐ 1.2k | `data analysis` |
 | [Claude](data-analysis/036-claude_cb9b38f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
-| [01 Framework Boundaries And Extension Lifecycle](data-analysis/01-framework-boundaries-and-extension-lifecycle_9fa4a623/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/01-framework-boundaries-and-extension-lifecycle.md) | ⭐ 10 | `data analysis` |
-| [Final Report](data-analysis/final_report_7247bef9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/reference/FINAL_REPORT.md) | ⭐ 28 | `data analysis` |
-| [Reconnaissance Output](data-analysis/reconnaissance_output_5ba7d808/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/reference/RECONNAISSANCE_OUTPUT.md) | ⭐ 28 | `data analysis` |
 
-### Development (553 skills)
+### Development (536 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1463,39 +1453,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_b1625417/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-drawio-architecture-diagrams/SKILL.md) | ⭐ 97 | `aws` `drawio` `architecture` |
 | [Update Guidelines](development/2908-update-guidelines_4478b1f4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/references/update-guidelines.md) | ⭐ 97 | `development` |
 | [Symfony Implementation](development/2909-symfony-implementation_9941d414/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/clean-architecture/references/symfony-implementation.md) | ⭐ 97 | `development` |
-| [Skill](development/name-skill_166bd1d2/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/SKILL.md) | ⭐ 26 | `development` |
-| [Proxy Support](development/proxy-support_4620b5b4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/proxy-support.md) | ⭐ 26 | `development` |
-| [00 Source Url Inventory](development/00-source-url-inventory_5d94c2d4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/00-source-url-inventory.md) | ⭐ 10 | `development` |
-| [02 Managedsettings Sdk Signatures](development/02-managedsettings-sdk-signatures_3ea078c7/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/02-managedsettings-sdk-signatures.md) | ⭐ 10 | `development` |
-| [06 Screentime Framework Headers](development/06-screentime-framework-headers_86bca5d5/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/06-screentime-framework-headers.md) | ⭐ 10 | `development` |
-| [07 Claim Reconciliation](development/07-claim-reconciliation_de00876c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/07-claim-reconciliation.md) | ⭐ 10 | `development` |
-| [02 Authorization Setup](development/02-authorization-setup_8952a312/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/02-authorization-setup.md) | ⭐ 10 | `development` |
-| [05 Managedsettings Enforcement Patterns](development/05-managedsettings-enforcement-patterns_d0df5eda/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/05-managedsettings-enforcement-patterns.md) | ⭐ 10 | `development` |
-| [09 Deviceactivity Scheduling Thresholds And Errors](development/09-deviceactivity-scheduling-thresholds-and-errors_b19c787f/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/09-deviceactivity-scheduling-thresholds-and-errors.md) | ⭐ 10 | `development` |
-| [12 Screentime Framework Web Usage Reporting](development/12-screentime-framework-web-usage-reporting_20b0a5a5/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/12-screentime-framework-web-usage-reporting.md) | ⭐ 10 | `development` |
-| [13 Onboarding And Permission Ui Blueprints](development/13-onboarding-and-permission-ui-blueprints_05a1297d/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/13-onboarding-and-permission-ui-blueprints.md) | ⭐ 10 | `development` |
-| [16 Project Beta Implementation Analysis](development/16-project-beta-implementation-analysis_67331e9c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/16-project-beta-implementation-analysis.md) | ⭐ 10 | `development` |
-| [10 Project Alpha Rundown](development/10-project-alpha-rundown_d918d3f2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/10-project-alpha-rundown.md) | ⭐ 10 | `development` |
-| [11 Project Beta Rundown](development/11-project-beta-rundown_9a395140/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/11-project-beta-rundown.md) | ⭐ 10 | `development` |
-| [01 Familycontrols Sdk Signatures](development/01-familycontrols-sdk-signatures_d4665da8/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/01-familycontrols-sdk-signatures.md) | ⭐ 10 | `development` |
-| [03 Managedsettingsui Sdk Signatures](development/03-managedsettingsui-sdk-signatures_c4dacff0/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/03-managedsettingsui-sdk-signatures.md) | ⭐ 10 | `development` |
-| [04 Deviceactivity Sdk Signatures](development/04-deviceactivity-sdk-signatures_5353af57/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/04-deviceactivity-sdk-signatures.md) | ⭐ 10 | `development` |
-| [05 Deviceactivity Report Sdk Signatures](development/05-deviceactivity-report-sdk-signatures_33d9f3ff/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/05-deviceactivity-report-sdk-signatures.md) | ⭐ 10 | `development` |
-| [03 Familycontrols Selection And Token Model](development/03-familycontrols-selection-and-token-model_fdf6d65c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/03-familycontrols-selection-and-token-model.md) | ⭐ 10 | `development` |
-| [04 Displaying Activity Labels And Real App Icons](development/04-displaying-activity-labels-and-real-app-icons_87d3e417/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/04-displaying-activity-labels-and-real-app-icons.md) | ⭐ 10 | `development` |
-| [06 Web Blocking And Webdomain Policy](development/06-web-blocking-and-webdomain-policy_84753c7b/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/06-web-blocking-and-webdomain-policy.md) | ⭐ 10 | `development` |
-| [07 Managedsettingsui Custom Shield Systems](development/07-managedsettingsui-custom-shield-systems_47225bc3/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/07-managedsettingsui-custom-shield-systems.md) | ⭐ 10 | `development` |
-| [08 Shield Actions And Response Strategies](development/08-shield-actions-and-response-strategies_b0d21030/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/08-shield-actions-and-response-strategies.md) | ⭐ 10 | `development` |
-| [11 Deviceactivity Report Analytics Architecture](development/11-deviceactivity-report-analytics-architecture_1def3258/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/11-deviceactivity-report-analytics-architecture.md) | ⭐ 10 | `development` |
-| [18 Testing Matrix Device Only Edge Cases](development/18-testing-matrix-device-only-edge-cases_4d83ed22/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/18-testing-matrix-device-only-edge-cases.md) | ⭐ 10 | `development` |
-| [19 Release And App Review Checklist](development/19-release-and-app-review-checklist_e6af1b67/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/19-release-and-app-review-checklist.md) | ⭐ 10 | `development` |
-| [20 Source Index And Confidence Matrix](development/20-source-index-and-confidence-matrix_c0f8eff4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/20-source-index-and-confidence-matrix.md) | ⭐ 10 | `development` |
-| [21 Preflight Rundown](development/21-preflight-rundown_6f3dcb84/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/21-preflight-rundown.md) | ⭐ 10 | `development` |
-| [Pentest Report](development/pentest_report_c5edd8d3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/benchmarks/autopenbench/pentest_report.md) | ⭐ 28 | `development` |
-| [Impact Escalation Plan](development/impact-escalation-plan_e84ef43d/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/impact-escalation-plan.md) | ⭐ 28 | `development` |
-| [Ip Reputation](development/ip-reputation_93c0cc96/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/ip-reputation.md) | ⭐ 28 | `development` |
+| [Skill](development/1178-name-skill_166bd1d2/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/SKILL.md) | ⭐ 26 | `development` |
+| [Proxy Support](development/2912-proxy-support_4620b5b4/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/proxy-support.md) | ⭐ 26 | `development` |
+| [00 Source Url Inventory](development/2913-00-source-url-inventory_5d94c2d4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/00-source-url-inventory.md) | ⭐ 10 | `development` |
+| [02 Managedsettings Sdk Signatures](development/2914-02-managedsettings-sdk-signatures_3ea078c7/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/02-managedsettings-sdk-signatures.md) | ⭐ 10 | `development` |
+| [06 Screentime Framework Headers](development/2915-06-screentime-framework-headers_86bca5d5/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/06-screentime-framework-headers.md) | ⭐ 10 | `development` |
+| [07 Claim Reconciliation](development/2916-07-claim-reconciliation_de00876c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/evidence/07-claim-reconciliation.md) | ⭐ 10 | `development` |
+| [02 Authorization Setup](development/2917-02-authorization-setup_8952a312/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/02-authorization-setup.md) | ⭐ 10 | `development` |
+| [05 Managedsettings Enforcement Patterns](development/2918-05-managedsettings-enforcement-patterns_d0df5eda/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/05-managedsettings-enforcement-patterns.md) | ⭐ 10 | `development` |
+| [09 Deviceactivity Scheduling Thresholds And Errors](development/2919-09-deviceactivity-scheduling-thresholds-and-errors_b19c787f/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/09-deviceactivity-scheduling-thresholds-and-errors.md) | ⭐ 10 | `development` |
+| [12 Screentime Framework Web Usage Reporting](development/2920-12-screentime-framework-web-usage-reporting_20b0a5a5/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/12-screentime-framework-web-usage-reporting.md) | ⭐ 10 | `development` |
+| [13 Onboarding And Permission Ui Blueprints](development/2921-13-onboarding-and-permission-ui-blueprints_05a1297d/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/13-onboarding-and-permission-ui-blueprints.md) | ⭐ 10 | `development` |
+| [16 Project Beta Implementation Analysis](development/2922-16-project-beta-implementation-analysis_67331e9c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/16-project-beta-implementation-analysis.md) | ⭐ 10 | `development` |
+| [10 Project Alpha Rundown](development/2923-10-project-alpha-rundown_d918d3f2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/10-project-alpha-rundown.md) | ⭐ 10 | `development` |
+| [11 Project Beta Rundown](development/2924-11-project-beta-rundown_9a395140/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/11-project-beta-rundown.md) | ⭐ 10 | `development` |
 
-### Development/Devops (81 skills)
+### Development/Devops (75 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1574,14 +1547,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_ebd8175a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 | [Skill](development/devops/014-name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 | [Deploy](development/devops/037-deploy_b89179ca/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 87 | `development` |
-| [Pentester Orchestrator](development/devops/pentester-orchestrator_b3089287/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/agents/pentester-orchestrator.md) | ⭐ 28 | `development` |
-| [Attack Index](development/devops/attack_index_4f3182b2/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/reference/ATTACK_INDEX.md) | ⭐ 28 | `development` |
-| [Quickstart](development/devops/quickstart_5c18cb9f/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/dns/quickstart.md) | ⭐ 28 | `development` |
-| [Quickstart](development/devops/quickstart_498d0774/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/dos/quickstart.md) | ⭐ 28 | `development` |
-| [Os Fingerprint](development/devops/os-fingerprint_eb236aae/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/os-fingerprint.md) | ⭐ 28 | `development` |
-| [Service Enum](development/devops/service-enum_25e48ead/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/service-enum.md) | ⭐ 28 | `development` |
 
-### Development/Testing (22 skills)
+### Development/Testing (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1601,14 +1568,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_c2c7f0f7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
 | [Spring Boot Implementation](development/testing/085-spring-boot-implementation_69b14a6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/clean-architecture/references/spring-boot-implementation.md) | ⭐ 97 | `development` |
 | [Fastapi Implementation](development/testing/086-fastapi-implementation_606dba63/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/references/fastapi-implementation.md) | ⭐ 97 | `development` |
-| [Commands](development/testing/commands_3e5e521a/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/commands.md) | ⭐ 26 | `development` |
-| [Session Management](development/testing/session-management_2ce531bf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/session-management.md) | ⭐ 26 | `development` |
-| [Quickstart](development/testing/quickstart_078bf9da/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/ipv6/quickstart.md) | ⭐ 28 | `development` |
-| [Quickstart](development/testing/quickstart_bcfb4b5b/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/mitm/quickstart.md) | ⭐ 28 | `development` |
-| [Icmp Scan](development/testing/icmp-scan_d92e06b4/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/icmp-scan.md) | ⭐ 28 | `development` |
-| [Syn Scan](development/testing/syn-scan_7a01cfd0/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/syn-scan.md) | ⭐ 28 | `development` |
+| [Commands](development/testing/087-commands_3e5e521a/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/commands.md) | ⭐ 26 | `development` |
+| [Session Management](development/testing/088-session-management_2ce531bf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/session-management.md) | ⭐ 26 | `development` |
 
-### Development/Tools (114 skills)
+### Development/Tools (112 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1723,9 +1686,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_253a9be9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 17 | `development` |
 | [Sse Gap Analysis](development/tools/090-sse-gap-analysis_d395aff8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/planning/sse-gap-analysis.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_8bea2c90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
-| [Skill](development/tools/name-skill_9ed382d3/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/SKILL.md) | ⭐ 28 | `development` |
-| [Output Structure](development/tools/output_structure_044d8146/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/reference/OUTPUT_STRUCTURE.md) | ⭐ 28 | `development` |
-| [Quickstart](development/tools/quickstart_5287a82a/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/smb-netbios/quickstart.md) | ⭐ 28 | `development` |
+| [Skill](development/tools/name-skill_00ca3e9c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 23 | `development` |
 
 ### Investment (6 skills)
 
@@ -1746,7 +1707,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 
-### Productivity (29 skills)
+### Productivity (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1778,7 +1739,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Personcentered Therapy](productivity/179-personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
 | [Release Notes V4.5.0](productivity/174-release-notes-v450_f5e99e2c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.5.0.md) | ⭐ 153 | `productivity` |
 | [2025 01 20 Grafana Dashboard Fixes](productivity/175-2025-01-20-grafana-dashboard-fixes_1ceb717a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/markers/2025-01-20-grafana-dashboard-fixes.md) | ⭐ 153 | `productivity` |
-| [Udp Scan](productivity/udp-scan_fdbbefe9/) | [transilienceai/communitytools](https://raw.githubusercontent.com/transilienceai/communitytools/main/projects/pentest/.claude/skills/pentest/attacks/ip-infrastructure/reference/udp-scan.md) | ⭐ 28 | `productivity` |
 
 ### Research (65 skills)
 
@@ -1900,5 +1860,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 12:22:19 UTC*
+*Last updated: 2026-02-15 12:24:46 UTC*
 *Automatically maintained by SkillFlow*
