@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T07:22:15.580144",
+  "updated_at": "2026-02-15T08:22:58.372165",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -20903,6 +20903,62 @@
       "source_url": "https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/README-GENERATION.md",
       "display_name": "Readme Generation",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "ebd8175a23a6a869d01d718aacc5a9ddf94383beb3fa61603ac6a93e282ae669",
+      "source_path": "docs/CI_CD_INFRASTRUCTURE.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/088-ci_cd_infrastructure_ebd8175a",
+      "category": "development/devops",
+      "name": "ci_cd_infrastructure_ebd8175a",
+      "indexed_at": "2026-02-15T08:22:57.248134",
+      "repo_stars": 4010,
+      "repo_updated_at": "2026-02-15T00:01:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md",
+      "display_name": "Ci Cd Infrastructure",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "34f45e3dff8ae70a4d09bb7951cf087652f9b0f2b196c210748cfcda36979b1c",
+      "source_path": "docs/NOTIFICATION_FLOW.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "communication/145-notification_flow_34f45e3d",
+      "category": "communication",
+      "name": "notification_flow_34f45e3d",
+      "indexed_at": "2026-02-15T08:22:57.703313",
+      "repo_stars": 4010,
+      "repo_updated_at": "2026-02-14T21:00:16+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/NOTIFICATION_FLOW.md",
+      "display_name": "Notification Flow",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "a0f7fe68204fa53ec032a8787411f68f8e019f2cfcad04216c91469545fad680",
+      "source_path": "docs/architecture/DATABASE_SCHEMA.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "research/157-database_schema_a0f7fe68",
+      "category": "research",
+      "name": "database_schema_a0f7fe68",
+      "indexed_at": "2026-02-15T08:22:58.101619",
+      "repo_stars": 4010,
+      "repo_updated_at": "2026-02-14T18:50:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/DATABASE_SCHEMA.md",
+      "display_name": "Database Schema",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "50da27dd7d344176130ba19c7ee0f04338f1fb6d10fca93cae6fb5437d370221",
+      "source_path": "docs/architecture/OVERVIEW.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/650-overview_50da27dd",
+      "category": "development",
+      "name": "overview_50da27dd",
+      "indexed_at": "2026-02-15T08:22:58.372123",
+      "repo_stars": 4010,
+      "repo_updated_at": "2026-02-14T18:50:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/OVERVIEW.md",
+      "display_name": "Overview",
+      "tags": "[\"development\"]"
     }
   ]
 }
