@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T12:25:45.676456",
+  "updated_at": "2026-02-15T13:25:03.198215",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -21812,6 +21812,76 @@
       "repo_updated_at": "2025-11-12T04:09:50+00:00",
       "source_url": "https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md",
       "display_name": "Question Patterns",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1ea19e0bbc89bcf587de67265561a3233578519c9434ca5005b2cd833299508e",
+      "source_path": "youtube-publisher/SKILL.md",
+      "source_repo": "wlzh/skills",
+      "local_path": "content-creation/049-name-skill_1ea19e0b",
+      "category": "content-creation",
+      "name": "name-skill_1ea19e0b",
+      "indexed_at": "2026-02-15T13:25:02.080268",
+      "repo_stars": 110,
+      "repo_updated_at": "2026-02-15T03:30:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "dafdda0c6a3a6ed27a83415327bb8820476971a67bbbe1325521ade50b6cda10",
+      "source_path": "docs/docs/architecture/multitenancy.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/1203-multitenancy_dafdda0c",
+      "category": "development",
+      "name": "multitenancy_dafdda0c",
+      "indexed_at": "2026-02-15T13:25:02.281721",
+      "repo_stars": 3278,
+      "repo_updated_at": "2026-02-03T08:17:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/multitenancy.md",
+      "display_name": "Multitenancy",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c98543624ba712322bf15196eb216694610fd9b523a57bc7f05eab5cb69d8c45",
+      "source_path": "docs/docs/architecture/roadmap.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/097-roadmap_c9854362",
+      "category": "development/devops",
+      "name": "roadmap_c9854362",
+      "indexed_at": "2026-02-15T13:25:02.535809",
+      "repo_stars": 3278,
+      "repo_updated_at": "2026-02-12T14:50:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md",
+      "display_name": "Roadmap",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3a765019564feb79b75c12886839de7197b28c0268feae4ae68607967d11c423",
+      "source_path": "docs/docs/manage/configuration.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/009-configuration_3a765019",
+      "category": "development/devops",
+      "name": "configuration_3a765019",
+      "indexed_at": "2026-02-15T13:25:02.810328",
+      "repo_stars": 3278,
+      "repo_updated_at": "2026-02-13T21:31:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f54065e426711c929b14f9eebf547873b4ab045bfdf5c47ca9e94fb8d5a95307",
+      "source_path": "docs/docs/manage/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/050-index_f54065e4",
+      "category": "development/devops",
+      "name": "index_f54065e4",
+      "indexed_at": "2026-02-15T13:25:03.198157",
+      "repo_stars": 3278,
+      "repo_updated_at": "2026-02-12T12:02:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md",
+      "display_name": "Index",
       "tags": "[\"development\"]"
     }
   ]

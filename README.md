@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1559 AI-powered skills** organized into 15 categories.
+A curated collection of **1566 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (98 skills)
 - **Commercial** (61 skills)
 - **Communication** (36 skills)
-- **Content Creation** (120 skills)
+- **Content Creation** (121 skills)
 - **Daily Assistant** (80 skills)
 - **Data Analysis** (293 skills)
 - **Development** (540 skills)
-- **Development/Devops** (76 skills)
+- **Development/Devops** (79 skills)
 - **Development/Testing** (18 skills)
-- **Development/Tools** (112 skills)
+- **Development/Tools** (115 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
@@ -419,7 +419,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authentication](communication/016-authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
 | [Snapshot Refs](communication/262-snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
 
-### Content Creation (120 skills)
+### Content Creation (121 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -543,6 +543,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [External Pattern Integration 2026 02 01](content-creation/355-external-pattern-integration-2026-02-01_70cd2488/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/external-pattern-integration-2026-02-01.md) | ⭐ 17 | `content creation` |
 | [Claude Context Optimizer](content-creation/356-claude-context-optimizer_2dd22ca3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/claude-context-optimizer.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_a3dcd490/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 97 | `wordpress` `sage` `theme` |
+| [Skill](content-creation/name-skill_1ea19e0b/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SKILL.md) | ⭐ 110 | `content creation` |
 
 ### Daily Assistant (80 skills)
 
@@ -1467,12 +1468,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [16 Project Beta Implementation Analysis](development/2922-16-project-beta-implementation-analysis_67331e9c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/16-project-beta-implementation-analysis.md) | ⭐ 10 | `development` |
 | [10 Project Alpha Rundown](development/2923-10-project-alpha-rundown_d918d3f2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/10-project-alpha-rundown.md) | ⭐ 10 | `development` |
 | [11 Project Beta Rundown](development/2924-11-project-beta-rundown_9a395140/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/11-project-beta-rundown.md) | ⭐ 10 | `development` |
-| [Claude](development/claude_a046bde9/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/CLAUDE.md) | ⭐ 1.1k | `development` |
-| [Skill](development/name-skill_2a912adb/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/SKILL.md) | ⭐ 1.1k | `development` |
-| [Research Strategies](development/research-strategies_38402a34/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/research-strategies.md) | ⭐ 1.1k | `development` |
-| [Examples](development/examples_d690fa51/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/examples.md) | ⭐ 1.1k | `development` |
+| [Claude](development/140-claude_a046bde9/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/CLAUDE.md) | ⭐ 1.1k | `development` |
+| [Skill](development/1178-name-skill_2a912adb/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/SKILL.md) | ⭐ 1.1k | `development` |
+| [Research Strategies](development/2943-research-strategies_38402a34/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/research-strategies.md) | ⭐ 1.1k | `development` |
+| [Multitenancy](development/multitenancy_dafdda0c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/multitenancy.md) | ⭐ 3.3k | `development` |
 
-### Development/Devops (76 skills)
+### Development/Devops (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1500,7 +1501,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 12 Cicd Security](development/devops/076-reference-set-ext-12-cicd-security_0521ba12/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Npm Security](development/devops/077-reference-set-ext-12-npm-security_3c3eb33b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Supply Chain Security](development/devops/078-reference-set-ext-12-supply-chain-security_90024891/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 151 | `development` |
-| [Configuration](development/devops/009-configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/configuration_3a765019/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Batch Eval Quickstart](development/devops/371-batch_eval_quickstart_8a1c7ae5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BATCH_EVAL_QUICKSTART.md) | ⭐ 19 | `development` |
 | [Instructions](development/devops/197-instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
@@ -1551,7 +1552,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_ebd8175a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 | [Skill](development/devops/014-name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 | [Deploy](development/devops/037-deploy_b89179ca/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 87 | `development` |
-| [Question Patterns](development/devops/question-patterns_2c46f71b/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md) | ⭐ 1.1k | `development` |
+| [Question Patterns](development/devops/378-question-patterns_2c46f71b/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md) | ⭐ 1.1k | `development` |
+| [Roadmap](development/devops/roadmap_c9854362/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/009-configuration_3a765019/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/index_f54065e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (18 skills)
 
@@ -1576,7 +1580,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Commands](development/testing/087-commands_3e5e521a/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/commands.md) | ⭐ 26 | `development` |
 | [Session Management](development/testing/088-session-management_2ce531bf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/session-management.md) | ⭐ 26 | `development` |
 
-### Development/Tools (112 skills)
+### Development/Tools (115 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1692,6 +1696,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sse Gap Analysis](development/tools/090-sse-gap-analysis_d395aff8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/planning/sse-gap-analysis.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_8bea2c90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
 | [Skill](development/tools/002-name-skill_00ca3e9c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 23 | `development` |
+| [Setup](development/tools/setup_f31c14c8/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SETUP.md) | ⭐ 110 | `development` |
+| [Setup Zh](development/tools/setup_zh_c94c6731/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SETUP_zh.md) | ⭐ 110 | `development` |
+| [Skill Zh](development/tools/skill_zh_cbb478fb/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SKILL_zh.md) | ⭐ 110 | `development` |
 
 ### Investment (6 skills)
 
@@ -1865,5 +1872,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 12:25:45 UTC*
+*Last updated: 2026-02-15 13:25:03 UTC*
 *Automatically maintained by SkillFlow*
