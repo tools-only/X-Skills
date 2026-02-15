@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T03:22:07.178755",
+  "updated_at": "2026-02-15T03:23:35.128838",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -19811,6 +19811,76 @@
       "source_url": "https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "b04b7f52b1e3b9cec98b8c634178c06d36162783d0766f577e13d59f022c8312",
+      "source_path": "docs/docs/deployment/compose.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/367-compose_b04b7f52",
+      "category": "development/devops",
+      "name": "compose_b04b7f52",
+      "indexed_at": "2026-02-15T03:23:33.735982",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-15T00:22:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/compose.md",
+      "display_name": "Compose",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "aee0fe05e4ecbdedc4d6eeea5f64257c6574402cdaa931e2c0efddfae20a7913",
+      "source_path": "docs/docs/development/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/050-index_aee0fe05",
+      "category": "development/devops",
+      "name": "index_aee0fe05",
+      "indexed_at": "2026-02-15T03:23:33.982535",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-15T00:22:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fbf58734cce45fe913969320cd004fb90df96fe08e008be495fde798c751e702",
+      "source_path": "docs/docs/manage/sso-keycloak-tutorial.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/368-sso-keycloak-tutorial_fbf58734",
+      "category": "development/devops",
+      "name": "sso-keycloak-tutorial_fbf58734",
+      "indexed_at": "2026-02-15T03:23:34.407255",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-15T00:22:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-keycloak-tutorial.md",
+      "display_name": "Sso Keycloak Tutorial",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e093ef0d0359acc8ad852521b0a5b04b13c64fbf821956e151e62c511ac8fe21",
+      "source_path": "docs/docs/manage/sso.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/369-sso_e093ef0d",
+      "category": "development/devops",
+      "name": "sso_e093ef0d",
+      "indexed_at": "2026-02-15T03:23:34.717276",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-15T00:22:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md",
+      "display_name": "Sso",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c54684b62c5357afd740a789476829828e32562af4c123bbfa10f709d9c9fb5f",
+      "source_path": "docs/docs/development/developer-workstation.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "commercial/060-developer-workstation_c54684b6",
+      "category": "commercial",
+      "name": "developer-workstation_c54684b6",
+      "indexed_at": "2026-02-15T03:23:35.128792",
+      "repo_stars": 3277,
+      "repo_updated_at": "2026-02-15T00:22:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-workstation.md",
+      "display_name": "Developer Workstation",
+      "tags": "[\"commercial\"]"
     }
   ]
 }

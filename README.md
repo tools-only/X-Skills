@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1416 AI-powered skills** organized into 15 categories.
+A curated collection of **1420 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (22 skills)
 - **Automation/Workflow** (90 skills)
-- **Commercial** (51 skills)
+- **Commercial** (52 skills)
 - **Communication** (29 skills)
 - **Content Creation** (110 skills)
 - **Daily Assistant** (78 skills)
 - **Data Analysis** (291 skills)
 - **Development** (506 skills)
-- **Development/Devops** (49 skills)
+- **Development/Devops** (53 skills)
 - **Development/Testing** (11 skills)
-- **Development/Tools** (82 skills)
+- **Development/Tools** (81 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
@@ -206,7 +206,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
-| [Skill](automation/scripting/name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
+| [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 
 ### Automation/Workflow (90 skills)
 
@@ -303,7 +303,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Version Management](automation/workflow/147-version-management_93801863/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/version-management.md) | ⭐ 153 | `automation` |
 | [Readme Cn](automation/workflow/077-readme_cn_83cf55a1/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/README_CN.md) | ⭐ 302 | `automation` |
 
-### Commercial (51 skills)
+### Commercial (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -358,6 +358,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_4573d312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-diagnose/SKILL.md) | ⭐ 153 | `commercial` |
 | [Skill](commercial/210-name-skill_9f309930/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/SKILL.md) | ⭐ 153 | `autodocs` |
 | [Skill](commercial/210-name-skill_d421ce46/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/SKILL.md) | ⭐ 302 | `commercial` |
+| [Developer Workstation](commercial/developer-workstation_c54684b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-workstation.md) | ⭐ 3.3k | `commercial` |
 
 ### Communication (29 skills)
 
@@ -1398,7 +1399,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task 14 Documentation Consolidation](development/2990-task-14-documentation-consolidation_98c78cf8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-documentation-consolidation.md) | ⭐ 153 | `development` |
 | [Arch](development/2869-_arch_21db9a08/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 102 | `development` |
 
-### Development/Devops (49 skills)
+### Development/Devops (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1451,6 +1452,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_72ca011a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 16 | `development` |
 | [Config Settings](development/devops/033-config_settings_8d041fed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.8k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Opentelemetry Setup](development/devops/372-opentelemetry-setup_9b8bea05/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/integrations/opentelemetry-setup.md) | ⭐ 153 | `development` |
+| [Compose](development/devops/compose_b04b7f52/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/compose.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/index_aee0fe05/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/index.md) | ⭐ 3.3k | `development` |
+| [Sso Keycloak Tutorial](development/devops/sso-keycloak-tutorial_fbf58734/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-keycloak-tutorial.md) | ⭐ 3.3k | `development` |
+| [Sso](development/devops/sso_e093ef0d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
 
 ### Development/Testing (11 skills)
 
@@ -1468,7 +1473,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Figma Mcp Integration Report](development/testing/087-figma-mcp-integration-report_13bd0195/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/figma-mcp-integration-report.md) | ⭐ 153 | `development` |
 | [Skill](development/testing/002-name-skill_6ea7e6ac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-endpoint/SKILL.md) | ⭐ 153 | `development` |
 
-### Development/Tools (82 skills)
+### Development/Tools (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1549,11 +1554,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multi Claude Orchestration](development/tools/335-multi-claude-orchestration_1c215bca/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/multi-claude-orchestration.md) | ⭐ 153 | `development` |
 | [Task 09 Migration System](development/tools/336-task-09-migration-system_9773f398/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-09-migration-system.md) | ⭐ 153 | `development` |
 | [Gsap Motion Patterns Research](development/tools/318-gsap-motion-patterns-research_59f7dd0c/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/docs/gsap-motion-patterns-research.md) | ⭐ 302 | `development` |
-| [Readme Cn](development/tools/readme_cn_9adfcf16/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 26 | `development` |
+| [Readme Cn](development/tools/232-readme_cn_9adfcf16/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 26 | `development` |
 | [Claude](development/tools/017-claude_8d4c1b0b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 102 | `development` |
 | [Claude](development/tools/017-claude_9a830ca9/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 102 | `development` |
 | [Advanced Operations](development/tools/226-advanced-operations_406681f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 102 | `development` |
-| [Env Reference](development/tools/env_reference_32fbffa7/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/ENV_REFERENCE.md) | ⭐ 26 | `development` |
 
 ### Investment (6 skills)
 
@@ -1722,5 +1726,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 03:22:07 UTC*
+*Last updated: 2026-02-15 03:23:35 UTC*
 *Automatically maintained by SkillFlow*
