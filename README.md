@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1628 AI-powered skills** organized into 15 categories.
+A curated collection of **1622 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (23 skills)
-- **Automation/Workflow** (98 skills)
+- **Automation/Workflow** (99 skills)
 - **Commercial** (64 skills)
-- **Communication** (39 skills)
-- **Content Creation** (126 skills)
-- **Daily Assistant** (81 skills)
+- **Communication** (37 skills)
+- **Content Creation** (125 skills)
+- **Daily Assistant** (80 skills)
 - **Data Analysis** (294 skills)
-- **Development** (571 skills)
-- **Development/Devops** (85 skills)
+- **Development** (565 skills)
+- **Development/Devops** (86 skills)
 - **Development/Testing** (19 skills)
-- **Development/Tools** (125 skills)
+- **Development/Tools** (127 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
@@ -209,7 +209,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 | [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (98 skills)
+### Automation/Workflow (99 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -311,6 +311,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/064-description-skill_fc37ad00/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/feature-discovery/SKILL.md) | ⭐ 17 | `automation` |
 | [Video Recording](automation/workflow/138-video-recording_c2c12bd8/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/video-recording.md) | ⭐ 26 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ccd23b54/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 23 | `automation` |
+| [Release](automation/workflow/release_a5957614/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/RELEASE.md) | ⭐ 87 | `automation` |
 
 ### Commercial (64 skills)
 
@@ -379,9 +380,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [12 Cross Project Rundown](commercial/381-12-cross-project-rundown_37f17ac4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/12-cross-project-rundown.md) | ⭐ 10 | `commercial` |
 | [Client Logging](commercial/366-client-logging_22c5dfad/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/client-logging.md) | 🔥 20.1k | `commercial` |
 | [Storage Backends](commercial/367-storage-backends_9006647b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/storage-backends.md) | 🔥 20.1k | `commercial` |
-| [Image Generation](commercial/image-generation_870c9cb7/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/image-generation.md) | ⭐ 15 | `commercial` |
+| [Image Generation](commercial/382-image-generation_870c9cb7/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/image-generation.md) | ⭐ 15 | `commercial` |
 
-### Communication (39 skills)
+### Communication (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -422,10 +423,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authentication](communication/016-authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
 | [Snapshot Refs](communication/262-snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
 | [Password Management](communication/250-password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
-| [Protocol Conversion](communication/protocol_conversion_a740ea27/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/protocol_conversion.md) | ⭐ 15 | `communication` |
-| [Troubleshooting Stream Display](communication/troubleshooting_stream_display_cf9869b6/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/TROUBLESHOOTING_STREAM_DISPLAY.md) | ⭐ 15 | `communication` |
 
-### Content Creation (126 skills)
+### Content Creation (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -552,11 +551,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_1ea19e0b/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SKILL.md) | ⭐ 110 | `content creation` |
 | [Skill](content-creation/049-name-skill_ca296a77/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/web-development/fastapi-endpoint/SKILL.md) | 🔥 20.1k | `fastapi` `python` `api` |
 | [V1.81.12](content-creation/351-v18112_11f0d7db/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 35.7k | `content creation` |
-| [Req](content-creation/req_78a53db3/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/req.md) | ⭐ 15 | `content creation` |
-| [Generate Content Spec](content-creation/generate-content-spec_cd1c4cdc/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/generate-content-spec.md) | ⭐ 15 | `content creation` |
-| [Token Usage Report](content-creation/token_usage_report_ded1b169/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/token_usage_report.md) | ⭐ 15 | `content creation` |
+| [Req](content-creation/371-req_78a53db3/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/req.md) | ⭐ 15 | `content creation` |
+| [Generate Content Spec](content-creation/372-generate-content-spec_cd1c4cdc/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/generate-content-spec.md) | ⭐ 15 | `content creation` |
 
-### Daily Assistant (81 skills)
+### Daily Assistant (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -640,7 +638,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_89736f7d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `daily assistant` |
 | [Sync Branch](daily-assistant/262-sync-branch_4b94bd45/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/sync-branch.md) | ⭐ 1.2k | `daily assistant` |
 | [14 App And Website Blocking Reference Implementation](daily-assistant/277-14-app-and-website-blocking-reference-implementation_f9439ca2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/14-app-and-website-blocking-reference-implementation.md) | ⭐ 10 | `daily assistant` |
-| [Implementation Plan](daily-assistant/implementation_plan_a5759775/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/IMPLEMENTATION_PLAN.md) | ⭐ 15 | `daily assistant` |
 
 ### Data Analysis (294 skills)
 
@@ -939,9 +936,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pixel](data-analysis/481-pixel_43bc0df6/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/pixel.md) | ⭐ 302 | `data analysis` |
 | [Metrics](data-analysis/476-metrics_2d8815c0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/metrics.md) | ⭐ 1.2k | `data analysis` |
 | [Claude](data-analysis/036-claude_cb9b38f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
-| [Gemini3](data-analysis/gemini3_fb5d06ec/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/gemini3.md) | ⭐ 15 | `data analysis` |
+| [Gemini3](data-analysis/480-gemini3_fb5d06ec/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/gemini3.md) | ⭐ 15 | `data analysis` |
 
-### Development (571 skills)
+### Development (565 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1501,23 +1498,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Filesystem](development/378-filesystem_5b7a436b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/providers/filesystem.md) | 🔥 20.1k | `development` |
 | [Skills](development/2853-expose-skill_a1c1f744/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/providers/skills.md) | 🔥 20.1k | `development` |
 | [V1.81.6](development/2314-v1816_0d823ec7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.6.md) | 🔥 35.7k | `development` |
-| [Agents](development/agents_e3500819/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/AGENTS.md) | ⭐ 15 | `development` |
-| [Api](development/api_11834722/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/api.md) | ⭐ 15 | `development` |
-| [Architecture](development/architecture_e953ed8e/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/architecture.md) | ⭐ 15 | `development` |
-| [Modules](development/modules_349b6200/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/modules.md) | ⭐ 15 | `development` |
-| [Caching Spec](development/caching-spec_1eaff16b/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/caching-spec.md) | ⭐ 15 | `development` |
-| [Embedding Spec](development/embedding-spec_1fb6e3cb/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/embedding-spec.md) | ⭐ 15 | `development` |
-| [Models Spec](development/models-spec_6d03a8d6/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/models-spec.md) | ⭐ 15 | `development` |
-| [Protocol Comparison](development/protocol_comparison_c1dff757/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/llm_api_converter/docs/PROTOCOL_COMPARISON.md) | ⭐ 15 | `development` |
-| [Gemini](development/gemini_ac4bf2d1/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/GEMINI.md) | ⭐ 15 | `development` |
-| [Stream Display Implementation](development/stream_display_implementation_e7fa16cf/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/STREAM_DISPLAY_IMPLEMENTATION.md) | ⭐ 15 | `development` |
-| [Stream Feature Complete](development/stream_feature_complete_84b0e400/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/STREAM_FEATURE_COMPLETE.md) | ⭐ 15 | `development` |
-| [Image Edit Api Spec](development/image_edit_api_spec_687a2a40/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/openai/image_edit_api_spec.md) | ⭐ 15 | `development` |
-| [Image Gen Api Spec](development/image_gen_api_spec_8b06783c/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/openai/image_gen_api_spec.md) | ⭐ 15 | `development` |
-| [Image Variation Api Spec](development/image_variation_api_spec_964e2a79/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/openai/image_variation_api_spec.md) | ⭐ 15 | `development` |
-| [Field Mappings](development/field_mappings_cc5301cc/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/llm_api_converter/docs/FIELD_MAPPINGS.md) | ⭐ 15 | `development` |
+| [Agents](development/028-agents_e3500819/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/AGENTS.md) | ⭐ 15 | `development` |
+| [Api](development/045-api_11834722/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/api.md) | ⭐ 15 | `development` |
+| [Architecture](development/055-architecture_e953ed8e/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/architecture.md) | ⭐ 15 | `development` |
+| [Modules](development/601-modules_349b6200/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/modules.md) | ⭐ 15 | `development` |
+| [Caching Spec](development/2926-caching-spec_1eaff16b/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/caching-spec.md) | ⭐ 15 | `development` |
+| [Embedding Spec](development/2927-embedding-spec_1fb6e3cb/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/embedding-spec.md) | ⭐ 15 | `development` |
+| [Models Spec](development/2928-models-spec_6d03a8d6/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/models-spec.md) | ⭐ 15 | `development` |
+| [Protocol Comparison](development/2929-protocol_comparison_c1dff757/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/llm_api_converter/docs/PROTOCOL_COMPARISON.md) | ⭐ 15 | `development` |
+| [Skill](development/name-skill_8eed2666/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/system/find-skills/SKILL.md) | ⭐ 87 | `development` |
 
-### Development/Devops (85 skills)
+### Development/Devops (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1604,8 +1595,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Opentelemetry](development/devops/359-opentelemetry_6bc73f2d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/opentelemetry.md) | 🔥 20.1k | `development` |
 | [V1.81.9](development/devops/261-v1819_fe608816/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.9.md) | 🔥 35.7k | `development` |
 | [Config Settings](development/devops/033-config_settings_850e6b61/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Readme Zh Cn](development/devops/readme_zh-cn_cfaeebf8/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/README_zh-CN.md) | ⭐ 15 | `development` |
-| [Quickstart Stream Feature](development/devops/quickstart_stream_feature_5789a639/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/QUICKSTART_STREAM_FEATURE.md) | ⭐ 15 | `development` |
+| [Readme Zh Cn](development/devops/370-readme_zh-cn_cfaeebf8/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/README_zh-CN.md) | ⭐ 15 | `development` |
+| [Registry Deployment Modes](development/devops/registry-deployment-modes_67cb2b82/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-deployment-modes.md) | ⭐ 444 | `development` |
+| [V1.0.14](development/devops/v1014_3a47a66a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.14.md) | ⭐ 444 | `development` |
 
 ### Development/Testing (19 skills)
 
@@ -1629,9 +1621,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fastapi Implementation](development/testing/086-fastapi-implementation_606dba63/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/references/fastapi-implementation.md) | ⭐ 97 | `development` |
 | [Commands](development/testing/087-commands_3e5e521a/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/commands.md) | ⭐ 26 | `development` |
 | [Session Management](development/testing/088-session-management_2ce531bf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/session-management.md) | ⭐ 26 | `development` |
-| [Fix Log Service Critical](development/testing/fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
+| [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 
-### Development/Tools (125 skills)
+### Development/Tools (127 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1760,6 +1752,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tools](development/tools/300-tools_f9f2a2ed/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/server/tools.md) | 🔥 20.1k | `development` |
 | [Build And Publish](development/tools/327-build_and_publish_582c9bf4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm-proxy-extras/build_and_publish.md) | 🔥 35.7k | `development` |
 | [Access Groups](development/tools/328-access_groups_686814b0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/access_groups.md) | 🔥 35.7k | `development` |
+| [Agents](development/tools/agents_70f8152c/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 24 | `development` |
+| [Skill](development/tools/name-skill_fb6098de/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 24 | `development` |
 
 ### Investment (6 skills)
 
@@ -1934,5 +1928,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 17:22:24 UTC*
+*Last updated: 2026-02-15 18:25:08 UTC*
 *Automatically maintained by SkillFlow*

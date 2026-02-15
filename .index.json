@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T17:22:24.649346",
+  "updated_at": "2026-02-15T18:25:08.314630",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -22625,6 +22625,90 @@
       "source_url": "https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/image-generation.md",
       "display_name": "Image Generation",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "70f8152c4ff1fa02319dfabead9e493a444849e192752a5e974b02e0bca18762",
+      "source_path": "AGENTS.md",
+      "source_repo": "EliasOenal/term-cli",
+      "local_path": "development/tools/015-agents_70f8152c",
+      "category": "development/tools",
+      "name": "agents_70f8152c",
+      "indexed_at": "2026-02-15T18:25:05.081486",
+      "repo_stars": 24,
+      "repo_updated_at": "2026-02-14T22:40:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fb6098de1f4311b8b2e5d01c7241a139cd99323cf104c42ce9c78bc04dd71be7",
+      "source_path": "skills/term-cli/SKILL.md",
+      "source_repo": "EliasOenal/term-cli",
+      "local_path": "development/tools/002-name-skill_fb6098de",
+      "category": "development/tools",
+      "name": "name-skill_fb6098de",
+      "indexed_at": "2026-02-15T18:25:05.679026",
+      "repo_stars": 24,
+      "repo_updated_at": "2026-02-14T22:40:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a59576149d15a5ca57748af3c4ad7ff06d38cec2aa03e72b733f2408fc6b6795",
+      "source_path": "RELEASE.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "automation/workflow/054-release_a5957614",
+      "category": "automation/workflow",
+      "name": "release_a5957614",
+      "indexed_at": "2026-02-15T18:25:06.168245",
+      "repo_stars": 87,
+      "repo_updated_at": "2026-02-15T15:35:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/RELEASE.md",
+      "display_name": "Release",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "8eed2666eb88ab90de106e41106746e5584ba4daa5a764b55244d0984e38ecd4",
+      "source_path": "skills/system/find-skills/SKILL.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "development/1178-name-skill_8eed2666",
+      "category": "development",
+      "name": "name-skill_8eed2666",
+      "indexed_at": "2026-02-15T18:25:06.612996",
+      "repo_stars": 87,
+      "repo_updated_at": "2026-02-15T08:12:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/skills/system/find-skills/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "67cb2b8267166a9a852d70a6bf842e7a329a391cea691e827f38129eb4bc1b87",
+      "source_path": "docs/registry-deployment-modes.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/devops/368-registry-deployment-modes_67cb2b82",
+      "category": "development/devops",
+      "name": "registry-deployment-modes_67cb2b82",
+      "indexed_at": "2026-02-15T18:25:07.387708",
+      "repo_stars": 444,
+      "repo_updated_at": "2026-02-14T20:26:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-deployment-modes.md",
+      "display_name": "Registry Deployment Modes",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3a47a66aa06b0d8a8b0e5b3da152d94a6a457e787088f43b4b2611b09177695b",
+      "source_path": "release-notes/v1.0.14.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/devops/369-v1014_3a47a66a",
+      "category": "development/devops",
+      "name": "v1014_3a47a66a",
+      "indexed_at": "2026-02-15T18:25:08.314224",
+      "repo_stars": 444,
+      "repo_updated_at": "2026-02-13T22:06:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.14.md",
+      "display_name": "V1.0.14",
+      "tags": "[\"development\"]"
     }
   ]
 }
