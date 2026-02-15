@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1659 AI-powered skills** organized into 15 categories.
+A curated collection of **1679 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (25 skills)
+- **Automation/Scripting** (30 skills)
 - **Automation/Workflow** (99 skills)
 - **Commercial** (64 skills)
-- **Communication** (37 skills)
-- **Content Creation** (135 skills)
-- **Daily Assistant** (81 skills)
+- **Communication** (41 skills)
+- **Content Creation** (139 skills)
+- **Daily Assistant** (82 skills)
 - **Data Analysis** (304 skills)
-- **Development** (575 skills)
-- **Development/Devops** (87 skills)
+- **Development** (577 skills)
+- **Development/Devops** (89 skills)
 - **Development/Testing** (20 skills)
-- **Development/Tools** (129 skills)
+- **Development/Tools** (131 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (25 skills)
+### Automation/Scripting (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -209,7 +209,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 | [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_32a134bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 23 | `automation` |
-| [Skill](automation/scripting/name-skill_909dc354/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_PlayerSlotToPlayerController/SKILL.md) | ⭐ 18 | `automation` |
+| [Cli](automation/scripting/cli_dc21d97f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/cli.md) | ⭐ 364 | `automation` |
+| [Configuration](automation/scripting/configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
+| [Audio](automation/scripting/audio_460eb0b0/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/audio.md) | ⭐ 364 | `automation` |
+| [Image](automation/scripting/image_70afe38e/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/image.md) | ⭐ 364 | `automation` |
+| [Llm](automation/scripting/llm_ffbf269c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/llm.md) | ⭐ 364 | `automation` |
+| [Embeddings](automation/scripting/embeddings_72d43852/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/embeddings.md) | ⭐ 364 | `automation` |
 
 ### Automation/Workflow (99 skills)
 
@@ -384,7 +389,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Storage Backends](commercial/367-storage-backends_9006647b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/storage-backends.md) | 🔥 20.1k | `commercial` |
 | [Image Generation](commercial/382-image-generation_870c9cb7/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/image-generation.md) | ⭐ 15 | `commercial` |
 
-### Communication (37 skills)
+### Communication (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -425,8 +430,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authentication](communication/016-authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
 | [Snapshot Refs](communication/262-snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
 | [Password Management](communication/250-password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
+| [Multimodal](communication/multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
+| [Reasoning](communication/reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
+| [Models](communication/models_a465fc04/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/models.md) | ⭐ 364 | `communication` |
+| [Agents](communication/agents_4cad90f8/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md) | ⭐ 16 | `communication` |
 
-### Content Creation (135 skills)
+### Content Creation (139 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -565,8 +574,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_80ce76cf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/SKILL.md) | ⭐ 23 | `content creation` |
 | [Skill](content-creation/049-name-skill_1d099441/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/message/skills/message/SKILL.md) | ⭐ 23 | `content creation` |
 | [Skill](content-creation/049-name-skill_78bdcf33/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/SKILL.md) | ⭐ 23 | `content creation` |
+| [Continuous Batching](content-creation/continuous-batching_39f6c8ae/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/continuous-batching.md) | ⭐ 364 | `content creation` |
+| [Installation](content-creation/installation_1da148bd/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/getting-started/installation.md) | ⭐ 364 | `content creation` |
+| [Quickstart](content-creation/quickstart_6fa3515b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/getting-started/quickstart.md) | ⭐ 364 | `content creation` |
+| [Python Api](content-creation/python-api_18763c5f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/python-api.md) | ⭐ 364 | `content creation` |
 
-### Daily Assistant (81 skills)
+### Daily Assistant (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -651,6 +664,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sync Branch](daily-assistant/262-sync-branch_4b94bd45/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/sync-branch.md) | ⭐ 1.2k | `daily assistant` |
 | [14 App And Website Blocking Reference Implementation](daily-assistant/277-14-app-and-website-blocking-reference-implementation_f9439ca2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/14-app-and-website-blocking-reference-implementation.md) | ⭐ 10 | `daily assistant` |
 | [Todo](daily-assistant/028-todo_afa1e996/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/TODO.md) | ⭐ 45 | `daily assistant` |
+| [Video](daily-assistant/video_26f5b640/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/video.md) | ⭐ 364 | `daily assistant` |
 
 ### Data Analysis (304 skills)
 
@@ -961,7 +975,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mermaid Guide](data-analysis/143-mermaid-guide_ac9857ca/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) | ⭐ 45 | `data analysis` |
 | [Design Theory](data-analysis/476-design_theory_83b3883e/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/DESIGN_THEORY.md) | ⭐ 185 | `data analysis` |
 
-### Development (575 skills)
+### Development (577 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1540,8 +1554,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_63bcf0f6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/12-interactive-elements-microsims/index.md) | ⭐ 45 | `development` |
 | [Skill](development/1178-name-skill_65c998e6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/git-worktrees/skills/git-worktrees/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/1178-name-skill_d7ba355c/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/skills/scientific-figure-pro/SKILL.md) | ⭐ 185 | `development` |
+| [Tool Calling](development/tool-calling_7e3e5988/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/tool-calling.md) | ⭐ 364 | `development` |
+| [Audio](development/audio_b5816f5f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/audio.md) | ⭐ 364 | `development` |
 
-### Development/Devops (87 skills)
+### Development/Devops (89 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1632,6 +1648,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Registry Deployment Modes](development/devops/368-registry-deployment-modes_67cb2b82/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-deployment-modes.md) | ⭐ 444 | `development` |
 | [V1.0.14](development/devops/369-v1014_3a47a66a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.14.md) | ⭐ 444 | `development` |
 | [Slow Time Server](development/devops/370-slow-time-server_c3d7003f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/slow-time-server.md) | ⭐ 3.3k | `development` |
+| [Mcp Tools](development/devops/mcp-tools_03c87257/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/mcp-tools.md) | ⭐ 364 | `development` |
+| [Server](development/devops/server_280c593c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/server.md) | ⭐ 364 | `development` |
 
 ### Development/Testing (20 skills)
 
@@ -1658,7 +1676,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 
-### Development/Tools (129 skills)
+### Development/Tools (131 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1791,6 +1809,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_fb6098de/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 24 | `development` |
 | [Skill](development/tools/002-name-skill_997667e4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/create-ultimate-skill/SKILL.md) | ⭐ 23 | `development` |
 | [Api Reference](development/tools/073-api-reference_b9fc66cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/create-ultimate-skill/references/api-reference.md) | ⭐ 23 | `development` |
+| [Index](development/tools/index_eba8d182/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/index.md) | ⭐ 364 | `development` |
+| [Architecture](development/tools/architecture_cbe3b86c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/development/architecture.md) | ⭐ 364 | `development` |
 
 ### Investment (6 skills)
 
@@ -1965,5 +1985,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 22:22:50 UTC*
+*Last updated: 2026-02-15 22:25:00 UTC*
 *Automatically maintained by SkillFlow*
