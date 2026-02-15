@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1421 AI-powered skills** organized into 15 categories.
+A curated collection of **1493 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (22 skills)
-- **Automation/Workflow** (90 skills)
-- **Commercial** (52 skills)
-- **Communication** (29 skills)
-- **Content Creation** (110 skills)
-- **Daily Assistant** (78 skills)
-- **Data Analysis** (291 skills)
-- **Development** (506 skills)
-- **Development/Devops** (53 skills)
-- **Development/Testing** (11 skills)
-- **Development/Tools** (82 skills)
+- **Automation/Workflow** (94 skills)
+- **Commercial** (56 skills)
+- **Communication** (33 skills)
+- **Content Creation** (116 skills)
+- **Daily Assistant** (81 skills)
+- **Data Analysis** (292 skills)
+- **Development** (536 skills)
+- **Development/Devops** (60 skills)
+- **Development/Testing** (14 skills)
+- **Development/Tools** (92 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
@@ -208,7 +208,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 
-### Automation/Workflow (90 skills)
+### Automation/Workflow (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -302,8 +302,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Complete Release Workflow](automation/workflow/146-complete-release-workflow_8d059d53/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/complete-release-workflow.md) | ⭐ 153 | `automation` |
 | [Version Management](automation/workflow/147-version-management_93801863/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/version-management.md) | ⭐ 153 | `automation` |
 | [Readme Cn](automation/workflow/077-readme_cn_83cf55a1/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/README_CN.md) | ⭐ 302 | `automation` |
+| [Readme Flat Skills Az](automation/workflow/136-readme_flat_skills_az_aa7fac37/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 23.7k | `automation` |
+| [Readme Flat Skills Created](automation/workflow/138-readme_flat_skills_created_fc55570e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.7k | `automation` |
+| [Commit Push Pr](automation/workflow/commit-push-pr_b2b3d4bf/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/commit-push-pr.md) | ⭐ 1.2k | `automation` |
+| [Feature Request](automation/workflow/feature_request_357b5b9b/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 1.2k | `automation` |
 
-### Commercial (52 skills)
+### Commercial (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -359,8 +363,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_9f309930/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/SKILL.md) | ⭐ 153 | `autodocs` |
 | [Skill](commercial/210-name-skill_d421ce46/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/SKILL.md) | ⭐ 302 | `commercial` |
 | [Developer Workstation](commercial/060-developer-workstation_c54684b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-workstation.md) | ⭐ 3.3k | `commercial` |
+| [Dependency Upgrade](commercial/dependency-upgrade_b4898334/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/dependency-upgrade.md) | ⭐ 1.2k | `commercial` |
+| [Skill](commercial/name-skill_25665444/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/database-design/SKILL.md) | ⭐ 1.2k | `commercial` |
+| [Test Architect](commercial/test-architect_c81da79e/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/test-architect.md) | ⭐ 1.2k | `commercial` |
+| [Review](commercial/review_b7f45ee3/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/review.md) | ⭐ 1.2k | `commercial` |
 
-### Communication (29 skills)
+### Communication (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -393,8 +401,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task 13 Web Documentation Site](communication/260-task-13-web-documentation-site_33013213/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-13-web-documentation-site.md) | ⭐ 153 | `communication` |
 | [Skill](communication/127-name-skill_f797f0aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-start/SKILL.md) | ⭐ 153 | `communication` |
 | [Navigator Plugin Release Workflow](communication/261-navigator-plugin-release-workflow_f5eaf618/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/navigator-plugin-release-workflow.md) | ⭐ 153 | `communication` |
+| [Summarize Changes](communication/summarize-changes_50d87e1e/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/summarize-changes.md) | ⭐ 1.2k | `communication` |
+| [Skill](communication/name-skill_3d23144a/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/designing-apis/SKILL.md) | ⭐ 1.2k | `communication` |
+| [02 Code Reviewer Report](communication/02-code-reviewer-report_db9603e5/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/sample-outputs/02-code-reviewer-report.md) | ⭐ 1.2k | `communication` |
+| [03 Security Auditor Report](communication/03-security-auditor-report_791547ce/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/sample-outputs/03-security-auditor-report.md) | ⭐ 1.2k | `communication` |
 
-### Content Creation (110 skills)
+### Content Creation (116 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -508,8 +520,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Scene Patterns](content-creation/355-scene-patterns_b70e7496/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/rules/scene-patterns.md) | ⭐ 302 | `content creation` |
 | [Mood](content-creation/356-mood_c0663f21/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/mood.md) | ⭐ 302 | `content creation` |
 | [Text](content-creation/357-text_3f73c304/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/text.md) | ⭐ 302 | `content creation` |
+| [Orchestrator](content-creation/orchestrator_e91a3ead/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/orchestrator.md) | ⭐ 1.2k | `content creation` |
+| [Plan](content-creation/plan_6b8007f0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/plan.md) | ⭐ 1.2k | `content creation` |
+| [Quick Fix](content-creation/quick-fix_3edc0ced/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/quick-fix.md) | ⭐ 1.2k | `content creation` |
+| [Tutorial](content-creation/tutorial_23b72339/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/tutorial.md) | ⭐ 1.2k | `content creation` |
+| [Skill](content-creation/name-skill_9e9b8190/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/parallel-execution/SKILL.md) | ⭐ 1.2k | `content creation` |
+| [Skill](content-creation/name-skill_0f0b4d9a/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/web-design-guidelines/SKILL.md) | ⭐ 1.2k | `content creation` |
 
-### Daily Assistant (78 skills)
+### Daily Assistant (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -591,8 +609,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mem 001](daily-assistant/285-mem-001_e3c45819/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/knowledge/memories/pitfalls/mem-001.md) | ⭐ 153 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_1216b8bc/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/SKILL.md) | ⭐ 102 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_89736f7d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `daily assistant` |
+| [Sync Branch](daily-assistant/sync-branch_4b94bd45/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/sync-branch.md) | ⭐ 1.2k | `daily assistant` |
+| [Rapid](daily-assistant/rapid_0e6c2685/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/rapid.md) | ⭐ 1.2k | `daily assistant` |
+| [Verification](daily-assistant/verification_7c8b1a72/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/verification.md) | ⭐ 1.2k | `daily assistant` |
 
-### Data Analysis (291 skills)
+### Data Analysis (292 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -887,8 +908,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Adaptation Patterns](data-analysis/479-adaptation-patterns_144807cb/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/react-animation/rules/adaptation-patterns.md) | ⭐ 302 | `data analysis` |
 | [Font](data-analysis/480-font_6fc3b794/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/font.md) | ⭐ 302 | `data analysis` |
 | [Pixel](data-analysis/481-pixel_43bc0df6/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/pixel.md) | ⭐ 302 | `data analysis` |
+| [Metrics](data-analysis/metrics_2d8815c0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/metrics.md) | ⭐ 1.2k | `data analysis` |
 
-### Development (506 skills)
+### Development (536 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1398,8 +1420,38 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task 14 Claude Md Updater](development/2989-task-14-claude-md-updater_94be74be/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-claude-md-updater.md) | ⭐ 153 | `development` |
 | [Task 14 Documentation Consolidation](development/2990-task-14-documentation-consolidation_98c78cf8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-documentation-consolidation.md) | ⭐ 153 | `development` |
 | [Arch](development/2869-_arch_21db9a08/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 102 | `development` |
+| [Claude](development/claude_34b7ad48/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/CLAUDE.md) | ⭐ 1.2k | `development` |
+| [Code Reviewer](development/code-reviewer_09631529/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/code-reviewer.md) | ⭐ 1.2k | `development` |
+| [Save Session Learnings](development/save-session-learnings_275ca6bc/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/save-session-learnings.md) | ⭐ 1.2k | `development` |
+| [Validate Build](development/validate-build_45f832f1/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/validate-build.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_59e1de6d/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/convex-backend/SKILL.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_f6b2830f/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/error-handling/SKILL.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_9c60f095/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/managing-git/SKILL.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_298f64c6/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/optimizing-performance/SKILL.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_9e90b1df/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/security-patterns/SKILL.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_4c0cd31c/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/vercel-react-best-practices/SKILL.md) | ⭐ 1.2k | `development` |
+| [Codebase](development/codebase_95d59ffa/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/CODEBASE.md) | ⭐ 1.2k | `development` |
+| [Debugger](development/debugger_0db7235e/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/debugger.md) | ⭐ 1.2k | `development` |
+| [Docs Writer](development/docs-writer_4134a04e/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/docs-writer.md) | ⭐ 1.2k | `development` |
+| [Refactorer](development/refactorer_a73ade72/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/refactorer.md) | ⭐ 1.2k | `development` |
+| [Security Auditor](development/security-auditor_070b60b8/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/agents/security-auditor.md) | ⭐ 1.2k | `development` |
+| [Add Tests](development/add-tests_b2f854ff/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/add-tests.md) | ⭐ 1.2k | `development` |
+| [Architect](development/architect_4ba27d06/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/architect.md) | ⭐ 1.2k | `development` |
+| [Code Simplifier](development/code-simplifier_3a2a8fc5/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/code-simplifier.md) | ⭐ 1.2k | `development` |
+| [Mentor](development/mentor_4be44124/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/mentor.md) | ⭐ 1.2k | `development` |
+| [Parallel Analyze](development/parallel-analyze_577d552d/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/parallel-analyze.md) | ⭐ 1.2k | `development` |
+| [Parallel Review](development/parallel-review_f6d87ed2/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/parallel-review.md) | ⭐ 1.2k | `development` |
+| [Refactor Guided](development/refactor-guided_4afd3b79/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/refactor-guided.md) | ⭐ 1.2k | `development` |
+| [Run Tests](development/run-tests_f377837c/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/run-tests.md) | ⭐ 1.2k | `development` |
+| [Security Scan](development/security-scan_21d67d06/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/security-scan.md) | ⭐ 1.2k | `development` |
+| [Verify Changes](development/verify-changes_eb69ddd4/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/verify-changes.md) | ⭐ 1.2k | `development` |
+| [Bug Report](development/bug_report_e2fb63e5/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 1.2k | `development` |
+| [Skill](development/name-skill_479f4abc/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/designing-architecture/SKILL.md) | ⭐ 1.2k | `development` |
+| [Workflow](development/workflow_edb9bc81/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/workflow.md) | ⭐ 1.2k | `development` |
+| [01 Orchestrator Plan](development/01-orchestrator-plan_f5c8598a/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/sample-outputs/01-orchestrator-plan.md) | ⭐ 1.2k | `development` |
+| [05 Final Summary](development/05-final-summary_1850e0d5/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/sample-outputs/05-final-summary.md) | ⭐ 1.2k | `development` |
 
-### Development/Devops (53 skills)
+### Development/Devops (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1456,8 +1508,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_aee0fe05/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/index.md) | ⭐ 3.3k | `development` |
 | [Sso Keycloak Tutorial](development/devops/368-sso-keycloak-tutorial_fbf58734/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-keycloak-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso](development/devops/369-sso_e093ef0d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
+| [Readme Flat Tooling Az](development/devops/161-readme_flat_tooling_az_d38d7ecd/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 23.7k | `development` |
+| [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_a89b3ff3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 23.7k | `development` |
+| [Skill](development/devops/name-skill_473fa553/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/devops-infrastructure/SKILL.md) | ⭐ 1.2k | `development` |
+| [Permissions](development/devops/permissions_10b44a6c/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/PERMISSIONS.md) | ⭐ 1.2k | `development` |
+| [Bootstrap Repo](development/devops/bootstrap-repo_67c0e0b7/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/bootstrap-repo.md) | ⭐ 1.2k | `development` |
+| [Mcp Servers Template](development/devops/mcp-servers-template_be34ff7d/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/templates/mcp-servers-template.md) | ⭐ 1.2k | `development` |
+| [Skill](development/devops/name-skill_e548dfcc/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/analyzing-projects/SKILL.md) | ⭐ 1.2k | `development` |
 
-### Development/Testing (11 skills)
+### Development/Testing (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1472,8 +1531,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pitfalls](development/testing/087-pitfalls_e1c7c875/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/pitfalls.md) | ⭐ 16 | `development` |
 | [Figma Mcp Integration Report](development/testing/087-figma-mcp-integration-report_13bd0195/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/figma-mcp-integration-report.md) | ⭐ 153 | `development` |
 | [Skill](development/testing/002-name-skill_6ea7e6ac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-endpoint/SKILL.md) | ⭐ 153 | `development` |
+| [Commit](development/testing/commit_366fb3ff/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/commit.md) | ⭐ 1.2k | `development` |
+| [Skill](development/testing/name-skill_f938123c/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/designing-tests/SKILL.md) | ⭐ 1.2k | `development` |
+| [04 Test Architect Report](development/testing/04-test-architect-report_898f7bb3/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/examples/orchestration/comprehensive-code-review/sample-outputs/04-test-architect-report.md) | ⭐ 1.2k | `development` |
 
-### Development/Tools (82 skills)
+### Development/Tools (92 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1558,7 +1620,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_8d4c1b0b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md) | ⭐ 102 | `development` |
 | [Claude](development/tools/017-claude_9a830ca9/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 102 | `development` |
 | [Advanced Operations](development/tools/226-advanced-operations_406681f3/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md) | ⭐ 102 | `development` |
-| [Agents](development/tools/agents_6b1b272e/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Agents](development/tools/015-agents_6b1b272e/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md) | ⭐ 22 | `development` |
+| [Readme Flat Hooks Az](development/tools/165-readme_flat_hooks_az_938a4cf4/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 23.7k | `development` |
+| [Readme Flat Hooks Releases](development/tools/167-readme_flat_hooks_releases_62585281/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 23.7k | `development` |
+| [Readme Flat Statusline Releases](development/tools/172-readme_flat_statusline_releases_fc3ee880/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_RELEASES.md) | 🔥 23.7k | `development` |
+| [Readme Flat Styles Az](development/tools/174-readme_flat_styles_az_7c4e339b/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 23.7k | `development` |
+| [Readme Flat Styles Releases](development/tools/176-readme_flat_styles_releases_81970f47/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 23.7k | `development` |
+| [Readme Flat Workflows Az](development/tools/178-readme_flat_workflows_az_83f33e04/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 23.7k | `development` |
+| [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_c7e224f5/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 23.7k | `development` |
+| [Lint Check](development/tools/lint-check_f45a2841/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/lint-check.md) | ⭐ 1.2k | `development` |
+| [Lint Fix](development/tools/lint-fix_eefc750d/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/lint-fix.md) | ⭐ 1.2k | `development` |
+| [Openapi Template](development/tools/openapi-template_a55fae51/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/designing-apis/OPENAPI-TEMPLATE.md) | ⭐ 1.2k | `development` |
 
 ### Investment (6 skills)
 
@@ -1727,5 +1799,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 03:23:59 UTC*
+*Last updated: 2026-02-15 06:22:17 UTC*
 *Automatically maintained by SkillFlow*
