@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T03:23:35.128838",
+  "updated_at": "2026-02-15T03:23:58.882015",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -19881,6 +19881,20 @@
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-workstation.md",
       "display_name": "Developer Workstation",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "6b1b272ea089602ce55a49658b0e1ce15458336a1ffdf4ff3ceb1450ef1351b5",
+      "source_path": "AGENTS.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/tools/015-agents_6b1b272e",
+      "category": "development/tools",
+      "name": "agents_6b1b272e",
+      "indexed_at": "2026-02-15T03:23:58.880654",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-09T17:57:26+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
     }
   ]
 }
