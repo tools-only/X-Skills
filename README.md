@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1212 AI-powered skills** organized into 15 categories.
+A curated collection of **1243 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (20 skills)
-- **Automation/Workflow** (78 skills)
-- **Commercial** (58 skills)
+- **Automation/Workflow** (79 skills)
+- **Commercial** (45 skills)
 - **Communication** (23 skills)
-- **Content Creation** (76 skills)
-- **Daily Assistant** (63 skills)
-- **Data Analysis** (272 skills)
-- **Development** (418 skills)
-- **Development/Devops** (40 skills)
+- **Content Creation** (85 skills)
+- **Daily Assistant** (61 skills)
+- **Data Analysis** (273 skills)
+- **Development** (437 skills)
+- **Development/Devops** (47 skills)
 - **Development/Testing** (9 skills)
-- **Development/Tools** (61 skills)
+- **Development/Tools** (69 skills)
 - **Investment** (5 skills)
 - **Other** (3 skills)
 - **Productivity** (26 skills)
-- **Research** (60 skills)
+- **Research** (61 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -206,7 +206,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 
-### Automation/Workflow (78 skills)
+### Automation/Workflow (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -245,7 +245,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Self Correction](automation/workflow/137-self-correction_8bd20857/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/self-correction.md) | ⭐ 99 | `automation` |
 | [Skill](automation/workflow/002-name-skill_cc0cbbde/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/asking-clarifying-questions/SKILL.md) | ⭐ 110 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
-| [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
+| [Backlog](automation/workflow/backlog_f9791116/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 | [Improvement Roadmap](automation/workflow/141-improvement_roadmap_6504ae62/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/IMPROVEMENT_ROADMAP.md) | ⭐ 33 | `automation` |
@@ -288,8 +288,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_89146f57/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/docx-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_7827ee3c/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/continuous-learning/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_e1813ea7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/verification-loop-construction/SKILL.md) | ⭐ 33 | `automation` |
+| [Backlog](automation/workflow/063-backlog_f9791116/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 
-### Commercial (58 skills)
+### Commercial (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -337,20 +338,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_4c21b329/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/security-review-construction/SKILL.md) | ⭐ 33 | `commercial` |
 | [Recommend Tool](commercial/396-recommend_tool_2658f2d1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/recommend_tool.md) | ⭐ 28 | `commercial` |
 | [Azure](commercial/397-azure_bf38396a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/azure.md) | ⭐ 28 | `commercial` |
-| [Support](commercial/support_14977341/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/SUPPORT.md) | ⭐ 1.2k | `commercial` |
-| [1Contoso](commercial/1contoso_5a474a93/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/1contoso.md) | ⭐ 1.2k | `commercial` |
-| [2Contoso](commercial/2contoso_7e0524bd/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/2contoso.md) | ⭐ 1.2k | `commercial` |
-| [3Contoso](commercial/3contoso_b58249dd/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/3contoso.md) | ⭐ 1.2k | `commercial` |
-| [4Contoso](commercial/4contoso_96598864/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/4contoso.md) | ⭐ 1.2k | `commercial` |
-| [Basic.Prompty](commercial/basicprompty_1e10a971/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/basic.prompty.md) | ⭐ 1.2k | `commercial` |
-| [Context.Prompty](commercial/contextprompty_bbc0cd05/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/context.prompty.md) | ⭐ 1.2k | `commercial` |
-| [Contoso Multi](commercial/contoso_multi_e97024e1/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/contoso_multi.md) | ⭐ 1.2k | `commercial` |
-| [1Contoso](commercial/1contoso_a1e1f824/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/1contoso.md) | ⭐ 1.2k | `commercial` |
-| [2Contoso](commercial/2contoso_27d07745/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/2contoso.md) | ⭐ 1.2k | `commercial` |
-| [3Contoso](commercial/3contoso_6bf285fa/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/3contoso.md) | ⭐ 1.2k | `commercial` |
-| [4Contoso](commercial/4contoso_fdeca232/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/4contoso.md) | ⭐ 1.2k | `commercial` |
-| [Contoso Multi](commercial/contoso_multi_87c538b2/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/contoso_multi.md) | ⭐ 1.2k | `commercial` |
-| [Contoso Multi Data Uri](commercial/contoso_multi_data_uri_b1faccdc/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/promptycs/Prompty.Core.Tests/generated/contoso_multi_data_uri.md) | ⭐ 1.2k | `commercial` |
+| [Support](commercial/400-support_14977341/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/SUPPORT.md) | ⭐ 1.2k | `commercial` |
 
 ### Communication (23 skills)
 
@@ -380,7 +368,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Type System](communication/118-type-system_0495349d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/type-system.md) | ⭐ 16 | `communication` |
 
-### Content Creation (76 skills)
+### Content Creation (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -460,8 +448,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Write Final Answer](content-creation/380-write_final_answer_4d3563ce/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/write_final_answer.md) | ⭐ 28 | `content creation` |
 | [Narrative Therapy](content-creation/381-narrative_therapy_f85d14a5/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Therapy.md) | ⭐ 28 | `content creation` |
 | [Transpersonal Therapy](content-creation/382-transpersonal_therapy_5c7d13d9/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Transpersonal_Therapy.md) | ⭐ 28 | `content creation` |
+| [Skill](content-creation/049-name-skill_93fa1c7a/) | [Svenja-dev/claude-code-skills](https://raw.githubusercontent.com/Svenja-dev/claude-code-skills/main/skills/human-writing/SKILL.md) | ⭐ 27 | `content creation` |
+| [Video Frame Analyzer](content-creation/350-video-frame-analyzer_4a638e2e/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/video-toolkit/agents/video-frame-analyzer.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_f84faa05/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/docs-to-skill/skills/docs-to-skill/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_9c00cae7/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/nano-banana-image-editor/skills/nano-banana-image-editor/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_56021b27/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/video-toolkit/skills/video-toolkit/SKILL.md) | ⭐ 10 | `live stream` `music playing` `workspace visible` |
+| [Agent Sdk Streaming Vs Single Mode](content-creation/351-agent-sdk_streaming-vs-single-mode_71b987d0/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_streaming-vs-single-mode.md) | ⭐ 10 | `content creation` |
+| [Agent Sdk Typescript](content-creation/352-agent-sdk_typescript_c7cd0e66/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_typescript.md) | ⭐ 10 | `content creation` |
+| [Hook Events](content-creation/353-hook-events_63ecf1a0/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/references/hook-events.md) | ⭐ 10 | `content creation` |
+| [Custom](content-creation/354-custom_88200c4e/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/custom.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (63 skills)
+### Daily Assistant (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -526,10 +523,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Instruction](daily-assistant/273-tool_instruction_458c00a6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/tool_instruction.md) | ⭐ 28 | `daily assistant` |
 | [Cookbook](daily-assistant/274-cookbook_18a6aabe/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/cookbook.md) | ⭐ 16 | `daily assistant` |
 | [Openai](daily-assistant/275-openai_45fc6849/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/openai.md) | ⭐ 16 | `daily assistant` |
-| [Faithfulness.Prompty](daily-assistant/faithfulnessprompty_59add03c/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/faithfulness.prompty.md) | ⭐ 1.2k | `daily assistant` |
-| [Groundedness.Prompty](daily-assistant/groundednessprompty_cc8960ee/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/runtime/prompty/tests/generated/groundedness.prompty.md) | ⭐ 1.2k | `daily assistant` |
 
-### Data Analysis (272 skills)
+### Data Analysis (273 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -805,8 +800,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
+| [Claude](data-analysis/claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 
-### Development (418 skills)
+### Development (437 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1228,8 +1224,27 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Recipes](development/2934-tool_recipes_b8ec6ce4/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/tool_recipes.md) | ⭐ 16 | `development` |
 | [Command Lifecycle](development/2935-command-lifecycle_22785147/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/command-lifecycle.md) | ⭐ 16 | `development` |
 | [Provider Abstraction](development/2936-provider-abstraction_85c51fd7/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/provider-abstraction.md) | ⭐ 16 | `development` |
+| [Claude](development/140-claude_4cafce67/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/CLAUDE.md) | ⭐ 10 | `development` |
+| [Upgrade](development/2851-upgrade_1fc3f9de/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/nano-banana-image-editor/commands/upgrade.md) | ⭐ 10 | `development` |
+| [Upgrade](development/2851-upgrade_873a06aa/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/video-toolkit/commands/upgrade.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_12cb5a66/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_d6cc5a71/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-plugins/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_6126c5a7/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/quill-export/skills/quill-export/SKILL.md) | ⭐ 10 | `meeting` `type` `...` |
+| [Agent Sdk Cost Tracking](development/2852-agent-sdk_cost-tracking_a74087bf/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_cost-tracking.md) | ⭐ 10 | `development` |
+| [Agent Sdk Custom Tools](development/2853-agent-sdk_custom-tools_fc89c16b/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_custom-tools.md) | ⭐ 10 | `development` |
+| [Agent Sdk Modifying System Prompts](development/2854-agent-sdk_modifying-system-prompts_80194168/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_modifying-system-prompts.md) | ⭐ 10 | `development` |
+| [Agent Sdk Overview](development/2855-agent-sdk_overview_952fe8cd/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_overview.md) | ⭐ 10 | `development` |
+| [Agent Sdk Permissions](development/2856-agent-sdk_permissions_dd0efe6c/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_permissions.md) | ⭐ 10 | `development` |
+| [Agent Sdk Python](development/2857-agent-sdk_python_6152fc1a/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_python.md) | ⭐ 10 | `development` |
+| [Agent Sdk Subagents](development/2858-agent-sdk_subagents_4c000806/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_subagents.md) | ⭐ 10 | `development` |
+| [Best Practices](development/102-best-practices_f04ebc43/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/references/best-practices.md) | ⭐ 10 | `development` |
+| [Plugins Guide](development/2859-plugins-guide_a170de9f/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-plugins/references/plugins-guide.md) | ⭐ 10 | `development` |
+| [Code Reviewer](development/2591-code-reviewer_ff7440b0/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/code-reviewer.md) | ⭐ 10 | `development` |
+| [Debugger](development/2592-debugger_042e9fa9/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/debugger.md) | ⭐ 10 | `development` |
+| [Search Reference](development/search-reference_41972dd1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/search-reference.md) | ⭐ 16 | `development` |
+| [Tips And Tricks](development/tips-and-tricks_c62eaf99/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/tips-and-tricks.md) | ⭐ 16 | `development` |
 
-### Development/Devops (40 skills)
+### Development/Devops (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1273,6 +1288,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llm Providers](development/devops/361-llm-providers_16d48180/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
 | [Plan](development/devops/362-plan_dd8a94a7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
 | [Android Termux Setup](development/devops/371-android_termux_setup_3ba327b7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_termux_setup.md) | ⭐ 28 | `development` |
+| [Skill](development/devops/014-name-skill_e67c13d2/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/SKILL.md) | ⭐ 10 | `development` |
+| [Agent Sdk Migration Guide](development/devops/363-agent-sdk_migration-guide_04cce82e/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_migration-guide.md) | ⭐ 10 | `development` |
+| [Plugin Marketplaces Guide](development/devops/364-plugin-marketplaces-guide_f457acc5/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-plugins/references/plugin-marketplaces-guide.md) | ⭐ 10 | `development` |
+| [Plugins Reference](development/devops/365-plugins-reference_3c9750b7/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-plugins/references/plugins-reference.md) | ⭐ 10 | `development` |
+| [Allowed Tools Guide](development/devops/366-allowed-tools-guide_a7caa954/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-skills/references/allowed-tools-guide.md) | ⭐ 10 | `development` |
+| [Subagents Reference](development/devops/367-subagents-reference_469a4515/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/references/subagents-reference.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/name-skill_72ca011a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 16 | `development` |
 
 ### Development/Testing (9 skills)
 
@@ -1288,7 +1310,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Onboarding Internal](development/testing/085-onboarding_internal_02c638f0/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING_INTERNAL.md) | ⭐ 445 | `development` |
 | [Pitfalls](development/testing/087-pitfalls_e1c7c875/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/pitfalls.md) | ⭐ 16 | `development` |
 
-### Development/Tools (61 skills)
+### Development/Tools (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1353,6 +1375,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [V0.2.2](development/tools/332-v022_29369ff3/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/.github/release-notes/v0.2.2.md) | ⭐ 16 | `development` |
 | [Commands](development/tools/252-commands_362222f2/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/commands.md) | ⭐ 16 | `development` |
 | [Providers](development/tools/333-providers_4723b60f/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/providers.md) | ⭐ 16 | `development` |
+| [Skill](development/tools/002-name-skill_b52212af/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-mcp/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_95af6e78/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-slash-commands/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_7cce7676/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/SKILL.md) | ⭐ 10 | `development` |
+| [Agent Sdk Skills](development/tools/320-agent-sdk_skills_a3151c07/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_skills.md) | ⭐ 10 | `development` |
+| [Agent Sdk Slash Commands](development/tools/321-agent-sdk_slash-commands_415802d6/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_slash-commands.md) | ⭐ 10 | `development` |
+| [Implementation Guide](development/tools/322-implementation-guide_a6071446/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/references/implementation-guide.md) | ⭐ 10 | `development` |
+| [Slash Commands Reference](development/tools/323-slash-commands-reference_a2fa5d10/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-slash-commands/references/slash-commands-reference.md) | ⭐ 10 | `development` |
+| [Python Sdk](development/tools/python-sdk_d04307b6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/python-sdk.md) | ⭐ 16 | `development` |
 
 ### Investment (5 skills)
 
@@ -1403,7 +1433,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative Exposure Therapy Net](productivity/178-narrative_exposure_therapy_net_e29fe7af/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Exposure_Therapy_NET.md) | ⭐ 28 | `productivity` |
 | [Personcentered Therapy](productivity/179-personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
 
-### Research (60 skills)
+### Research (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1467,6 +1497,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
 | [Ehr Data Considerations](research/263-ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
 | [Typing](research/258-typing_b1ef9c8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/typing.md) | ⭐ 16 | `research` |
+| [Accessing Online Resources](research/accessing_online_resources_52e62a8f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/accessing_online_resources.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -1518,5 +1549,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-14 22:23:55 UTC*
+*Last updated: 2026-02-15 00:22:03 UTC*
 *Automatically maintained by SkillFlow*
