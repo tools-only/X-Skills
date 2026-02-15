@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1565 AI-powered skills** organized into 15 categories.
+A curated collection of **1603 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (23 skills)
-- **Automation/Workflow** (99 skills)
-- **Commercial** (61 skills)
-- **Communication** (36 skills)
-- **Content Creation** (121 skills)
+- **Automation/Workflow** (98 skills)
+- **Commercial** (63 skills)
+- **Communication** (37 skills)
+- **Content Creation** (123 skills)
 - **Daily Assistant** (80 skills)
 - **Data Analysis** (294 skills)
-- **Development** (540 skills)
-- **Development/Devops** (79 skills)
+- **Development** (556 skills)
+- **Development/Devops** (83 skills)
 - **Development/Testing** (18 skills)
-- **Development/Tools** (112 skills)
+- **Development/Tools** (125 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
-- **Research** (65 skills)
+- **Research** (66 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -209,7 +209,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 | [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (99 skills)
+### Automation/Workflow (98 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -311,9 +311,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/064-description-skill_fc37ad00/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/feature-discovery/SKILL.md) | ⭐ 17 | `automation` |
 | [Video Recording](automation/workflow/138-video-recording_c2c12bd8/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/video-recording.md) | ⭐ 26 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ccd23b54/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 23 | `automation` |
-| [Skill](automation/workflow/description-skill_fbd2d42b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/add-doc-updater/SKILL.md) | ⭐ 17 | `automation` |
 
-### Commercial (61 skills)
+### Commercial (63 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -378,8 +377,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_98bad176/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/SKILL.md) | ⭐ 10 | `commercial` |
 | [00 Overview And Mental Model](commercial/380-00-overview-and-mental-model_cd0f38f1/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/00-overview-and-mental-model.md) | ⭐ 10 | `commercial` |
 | [12 Cross Project Rundown](commercial/381-12-cross-project-rundown_37f17ac4/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/12-cross-project-rundown.md) | ⭐ 10 | `commercial` |
+| [Client Logging](commercial/366-client-logging_22c5dfad/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/client-logging.md) | 🔥 20.1k | `commercial` |
+| [Storage Backends](commercial/367-storage-backends_9006647b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/storage-backends.md) | 🔥 20.1k | `commercial` |
 
-### Communication (36 skills)
+### Communication (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -419,8 +420,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Typescript Clean Architecture](communication/261-typescript-clean-architecture_a6bb0ce9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/references/typescript-clean-architecture.md) | ⭐ 97 | `communication` |
 | [Authentication](communication/016-authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
 | [Snapshot Refs](communication/262-snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
+| [Password Management](communication/password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
 
-### Content Creation (121 skills)
+### Content Creation (123 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -545,6 +547,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Context Optimizer](content-creation/356-claude-context-optimizer_2dd22ca3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/claude-context-optimizer.md) | ⭐ 17 | `content creation` |
 | [Skill](content-creation/049-name-skill_a3dcd490/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 97 | `wordpress` `sage` `theme` |
 | [Skill](content-creation/049-name-skill_1ea19e0b/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SKILL.md) | ⭐ 110 | `content creation` |
+| [Skill](content-creation/049-name-skill_ca296a77/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/web-development/fastapi-endpoint/SKILL.md) | 🔥 20.1k | `fastapi` `python` `api` |
+| [V1.81.12](content-creation/351-v18112_11f0d7db/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 35.7k | `content creation` |
 
 ### Daily Assistant (80 skills)
 
@@ -928,9 +932,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pixel](data-analysis/481-pixel_43bc0df6/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/pixel.md) | ⭐ 302 | `data analysis` |
 | [Metrics](data-analysis/476-metrics_2d8815c0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/metrics.md) | ⭐ 1.2k | `data analysis` |
 | [Claude](data-analysis/036-claude_cb9b38f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
-| [Doc Updater Template](data-analysis/doc-updater-template_af264716/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/add-doc-updater/references/doc-updater-template.md) | ⭐ 17 | `data analysis` |
+| [Agents](data-analysis/agents_765c0537/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/mcp-servers/AGENTS.md) | ⭐ 3.3k | `data analysis` |
 
-### Development (540 skills)
+### Development (556 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1474,8 +1478,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_2a912adb/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/SKILL.md) | ⭐ 1.1k | `development` |
 | [Research Strategies](development/2943-research-strategies_38402a34/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/research-strategies.md) | ⭐ 1.1k | `development` |
 | [Multitenancy](development/1203-multitenancy_dafdda0c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/multitenancy.md) | ⭐ 3.3k | `development` |
+| [Skill](development/1178-name-skill_5f7c5bd1/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/SKILL.md) | 🔥 20.1k | `FastMCP` `MCP` `Python` |
+| [Skill](development/1178-name-skill_14b610f7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/rust-cli-builder/SKILL.md) | 🔥 20.1k | `rust` `cli` `clap` |
+| [Full Oauth Server](development/2844-full-oauth-server_feeb544e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/authentication/full-oauth-server.md) | 🔥 20.1k | `development` |
+| [Oauth Proxy](development/2845-oauth-proxy_22f456a2/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/authentication/oauth-proxy.md) | 🔥 20.1k | `development` |
+| [Oidc Proxy](development/2846-oidc-proxy_4a80ca8a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/authentication/oidc-proxy.md) | 🔥 20.1k | `development` |
+| [Remote Oauth](development/2847-remote-oauth_19382925/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/authentication/remote-oauth.md) | 🔥 20.1k | `development` |
+| [Token Verification](development/2848-token-verification_278b663a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/authentication/token-verification.md) | 🔥 20.1k | `development` |
+| [Background Tasks](development/2849-background-tasks_cc9da4a0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/context/background-tasks.md) | 🔥 20.1k | `development` |
+| [Lifespans](development/2850-lifespans_a2f03778/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/lifespans.md) | 🔥 20.1k | `development` |
+| [Sampling](development/2851-sampling_5b367a3a/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/sampling.md) | 🔥 20.1k | `development` |
+| [Versioning](development/1128-versioning_81eefe32/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/versioning.md) | 🔥 20.1k | `development` |
+| [Installation](development/474-installation_da508e74/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/getting-started/installation.md) | 🔥 20.1k | `development` |
+| [Custom](development/2852-custom_7fb9d623/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/providers/custom.md) | 🔥 20.1k | `development` |
+| [Filesystem](development/378-filesystem_5b7a436b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/providers/filesystem.md) | 🔥 20.1k | `development` |
+| [Skills](development/2853-expose-skill_a1c1f744/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/providers/skills.md) | 🔥 20.1k | `development` |
+| [V1.81.6](development/2314-v1816_0d823ec7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.6.md) | 🔥 35.7k | `development` |
 
-### Development/Devops (79 skills)
+### Development/Devops (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1558,6 +1578,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Roadmap](development/devops/097-roadmap_c9854362/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Configuration](development/devops/009-configuration_3a765019/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_f54065e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
+| [Skill](development/devops/014-name-skill_ea49dc57/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright-e2e-builder/SKILL.md) | 🔥 20.1k | `playwright` `e2e` `testing` |
+| [Opentelemetry](development/devops/359-opentelemetry_6bc73f2d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/opentelemetry.md) | 🔥 20.1k | `development` |
+| [V1.81.9](development/devops/261-v1819_fe608816/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.9.md) | 🔥 35.7k | `development` |
+| [Config Settings](development/devops/033-config_settings_850e6b61/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.7k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Development/Testing (18 skills)
 
@@ -1582,7 +1606,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Commands](development/testing/087-commands_3e5e521a/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/commands.md) | ⭐ 26 | `development` |
 | [Session Management](development/testing/088-session-management_2ce531bf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/session-management.md) | ⭐ 26 | `development` |
 
-### Development/Tools (112 skills)
+### Development/Tools (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1698,6 +1722,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sse Gap Analysis](development/tools/090-sse-gap-analysis_d395aff8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/planning/sse-gap-analysis.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_8bea2c90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
 | [Skill](development/tools/002-name-skill_00ca3e9c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 23 | `development` |
+| [Authorization](development/tools/318-authorization_200eec67/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/authorization.md) | 🔥 20.1k | `development` |
+| [Dependency Injection](development/tools/319-dependency-injection_525f8322/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/context/dependency-injection.md) | 🔥 20.1k | `development` |
+| [Mcp Context](development/tools/320-mcp-context_035d7e3f/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/context/mcp-context.md) | 🔥 20.1k | `development` |
+| [Icons](development/tools/321-icons_6c6bc598/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/icons.md) | 🔥 20.1k | `development` |
+| [Middleware](development/tools/322-middleware_e9b2f5b5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/middleware.md) | 🔥 20.1k | `development` |
+| [Pagination](development/tools/323-pagination_f89996af/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/pagination.md) | 🔥 20.1k | `development` |
+| [Progress Reporting](development/tools/324-progress-reporting_b4954acb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/progress-reporting.md) | 🔥 20.1k | `development` |
+| [Quickstart](development/tools/250-quickstart_6413f73c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/getting-started/quickstart.md) | 🔥 20.1k | `development` |
+| [Upgrade Guide](development/tools/325-upgrade-guide_591746f9/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/getting-started/upgrade-guide.md) | 🔥 20.1k | `development` |
+| [Local](development/tools/326-local_f66cc0ff/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/providers/local.md) | 🔥 20.1k | `development` |
+| [Tools](development/tools/300-tools_f9f2a2ed/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/server/tools.md) | 🔥 20.1k | `development` |
+| [Build And Publish](development/tools/327-build_and_publish_582c9bf4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm-proxy-extras/build_and_publish.md) | 🔥 35.7k | `development` |
+| [Access Groups](development/tools/328-access_groups_686814b0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/access_groups.md) | 🔥 35.7k | `development` |
 
 ### Investment (6 skills)
 
@@ -1751,7 +1788,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes V4.5.0](productivity/174-release-notes-v450_f5e99e2c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.5.0.md) | ⭐ 153 | `productivity` |
 | [2025 01 20 Grafana Dashboard Fixes](productivity/175-2025-01-20-grafana-dashboard-fixes_1ceb717a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/markers/2025-01-20-grafana-dashboard-fixes.md) | ⭐ 153 | `productivity` |
 
-### Research (65 skills)
+### Research (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1820,6 +1857,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gaps Analysis](research/167-gaps-analysis_cf3eb885/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/skill-research-process/references/gaps-analysis.md) | ⭐ 17 | `research` |
 | [Skill](research/163-description-skill_5956003e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 17 | `research` |
 | [Arl Agent Instructions](research/257-arl-agent-instructions_78761d66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/ARL-agent-instructions.md) | ⭐ 17 | `research` |
+| [User Elicitation](research/256-user-elicitation_f5972be7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/context/user-elicitation.md) | 🔥 20.1k | `research` |
 
 ## How Skills Are Organized
 
@@ -1871,5 +1909,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 15:22:19 UTC*
+*Last updated: 2026-02-15 16:22:20 UTC*
 *Automatically maintained by SkillFlow*
