@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T01:23:10.285356",
+  "updated_at": "2026-02-15T02:25:17.790132",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -19713,6 +19713,90 @@
       "source_url": "https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "8d4c1b0bbc680d480a831345c9680487a8a00bd026aff0ef28fd21bbb1f9a373",
+      "source_path": "CLAUDE.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/tools/017-claude_8d4c1b0b",
+      "category": "development/tools",
+      "name": "claude_8d4c1b0b",
+      "indexed_at": "2026-02-15T02:25:15.431489",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-14T20:49:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9a830ca987f06067cbe0027f3b83994d27e1f107c36eb8cb3c763a626c06731d",
+      "source_path": "remembering/references/CLAUDE.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/tools/017-claude_9a830ca9",
+      "category": "development/tools",
+      "name": "claude_9a830ca9",
+      "indexed_at": "2026-02-15T02:25:15.855143",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-14T19:56:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "406681f31a50bc2f7f68acaaa890729d3673d8a54dc608178a20316f895e1c96",
+      "source_path": "remembering/references/advanced-operations.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/tools/226-advanced-operations_406681f3",
+      "category": "development/tools",
+      "name": "advanced-operations_406681f3",
+      "indexed_at": "2026-02-15T02:25:16.476624",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-14T19:56:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/advanced-operations.md",
+      "display_name": "Advanced Operations",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "21db9a081847cb6295eb765143195041553dcb6d28d5b81465457996b9a4c34e",
+      "source_path": "remembering/_ARCH.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/2869-_arch_21db9a08",
+      "category": "development",
+      "name": "_arch_21db9a08",
+      "indexed_at": "2026-02-15T02:25:16.987304",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-14T19:56:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md",
+      "display_name": "Arch",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1216b8bcb8262eb237a48d928e2aa0d6902ab54df8115d048b4a56b231662594",
+      "source_path": "down-skilling/SKILL.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "daily-assistant/032-name-skill_1216b8bc",
+      "category": "daily-assistant",
+      "name": "name-skill_1216b8bc",
+      "indexed_at": "2026-02-15T02:25:17.323483",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-14T14:57:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "89736f7de132b686d719dade58495b2a93ee7374862f00cdd8f73eef87163200",
+      "source_path": "remembering/SKILL.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "daily-assistant/032-name-skill_89736f7d",
+      "category": "daily-assistant",
+      "name": "name-skill_89736f7d",
+      "indexed_at": "2026-02-15T02:25:17.790070",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-14T19:56:25+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }
