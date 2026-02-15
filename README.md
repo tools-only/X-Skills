@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1554 AI-powered skills** organized into 15 categories.
+A curated collection of **1559 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,8 +15,8 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (120 skills)
 - **Daily Assistant** (80 skills)
 - **Data Analysis** (293 skills)
-- **Development** (536 skills)
-- **Development/Devops** (75 skills)
+- **Development** (540 skills)
+- **Development/Devops** (76 skills)
 - **Development/Testing** (18 skills)
 - **Development/Tools** (112 skills)
 - **Investment** (6 skills)
@@ -310,7 +310,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backlog](automation/workflow/063-backlog_5428bc80/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/064-description-skill_fc37ad00/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/feature-discovery/SKILL.md) | ⭐ 17 | `automation` |
 | [Video Recording](automation/workflow/138-video-recording_c2c12bd8/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/video-recording.md) | ⭐ 26 | `automation` |
-| [Skill](automation/workflow/name-skill_ccd23b54/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 23 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ccd23b54/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 23 | `automation` |
 
 ### Commercial (61 skills)
 
@@ -927,7 +927,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Metrics](data-analysis/476-metrics_2d8815c0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/metrics.md) | ⭐ 1.2k | `data analysis` |
 | [Claude](data-analysis/036-claude_cb9b38f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 
-### Development (536 skills)
+### Development (540 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1467,8 +1467,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [16 Project Beta Implementation Analysis](development/2922-16-project-beta-implementation-analysis_67331e9c/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/16-project-beta-implementation-analysis.md) | ⭐ 10 | `development` |
 | [10 Project Alpha Rundown](development/2923-10-project-alpha-rundown_d918d3f2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/10-project-alpha-rundown.md) | ⭐ 10 | `development` |
 | [11 Project Beta Rundown](development/2924-11-project-beta-rundown_9a395140/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/rundowns/11-project-beta-rundown.md) | ⭐ 10 | `development` |
+| [Claude](development/claude_a046bde9/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/CLAUDE.md) | ⭐ 1.1k | `development` |
+| [Skill](development/name-skill_2a912adb/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/SKILL.md) | ⭐ 1.1k | `development` |
+| [Research Strategies](development/research-strategies_38402a34/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/research-strategies.md) | ⭐ 1.1k | `development` |
+| [Examples](development/examples_d690fa51/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/examples.md) | ⭐ 1.1k | `development` |
 
-### Development/Devops (75 skills)
+### Development/Devops (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1547,6 +1551,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_ebd8175a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
 | [Skill](development/devops/014-name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 | [Deploy](development/devops/037-deploy_b89179ca/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 87 | `development` |
+| [Question Patterns](development/devops/question-patterns_2c46f71b/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md) | ⭐ 1.1k | `development` |
 
 ### Development/Testing (18 skills)
 
@@ -1686,7 +1691,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_253a9be9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 17 | `development` |
 | [Sse Gap Analysis](development/tools/090-sse-gap-analysis_d395aff8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/planning/sse-gap-analysis.md) | ⭐ 17 | `development` |
 | [Skill](development/tools/002-name-skill_8bea2c90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
-| [Skill](development/tools/name-skill_00ca3e9c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 23 | `development` |
+| [Skill](development/tools/002-name-skill_00ca3e9c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 23 | `development` |
 
 ### Investment (6 skills)
 
@@ -1860,5 +1865,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 12:24:46 UTC*
+*Last updated: 2026-02-15 12:25:45 UTC*
 *Automatically maintained by SkillFlow*

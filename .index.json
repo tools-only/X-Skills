@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T12:24:45.844066",
+  "updated_at": "2026-02-15T12:25:45.676456",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -21757,6 +21757,62 @@
       "source_url": "https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "a046bde90ae56e6e02f2693bc1f01d2ef48f40c622d48118bdaa05d17606c52b",
+      "source_path": "CLAUDE.md",
+      "source_repo": "severity1/claude-code-prompt-improver",
+      "local_path": "development/140-claude_a046bde9",
+      "category": "development",
+      "name": "claude_a046bde9",
+      "indexed_at": "2026-02-15T12:25:44.895491",
+      "repo_stars": 1122,
+      "repo_updated_at": "2026-02-14T03:34:38+00:00",
+      "source_url": "https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2a912adbfad2eef8147070583b61b24b7388e58a092ed4bf97cd9ccf53be9ec6",
+      "source_path": "skills/prompt-improver/SKILL.md",
+      "source_repo": "severity1/claude-code-prompt-improver",
+      "local_path": "development/1178-name-skill_2a912adb",
+      "category": "development",
+      "name": "name-skill_2a912adb",
+      "indexed_at": "2026-02-15T12:25:45.114257",
+      "repo_stars": 1122,
+      "repo_updated_at": "2025-11-12T04:09:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "38402a34db798a4352e1e96d00645b62cedb78aae9c7058512c2c6fbca234e3f",
+      "source_path": "skills/prompt-improver/references/research-strategies.md",
+      "source_repo": "severity1/claude-code-prompt-improver",
+      "local_path": "development/2943-research-strategies_38402a34",
+      "category": "development",
+      "name": "research-strategies_38402a34",
+      "indexed_at": "2026-02-15T12:25:45.394647",
+      "repo_stars": 1122,
+      "repo_updated_at": "2025-11-12T04:09:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/research-strategies.md",
+      "display_name": "Research Strategies",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2c46f71b4345b5e743bfaf4a22e7c910383f940e399aefb0bf926867fdd520e6",
+      "source_path": "skills/prompt-improver/references/question-patterns.md",
+      "source_repo": "severity1/claude-code-prompt-improver",
+      "local_path": "development/devops/378-question-patterns_2c46f71b",
+      "category": "development/devops",
+      "name": "question-patterns_2c46f71b",
+      "indexed_at": "2026-02-15T12:25:45.676409",
+      "repo_stars": 1122,
+      "repo_updated_at": "2025-11-12T04:09:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md",
+      "display_name": "Question Patterns",
+      "tags": "[\"development\"]"
     }
   ]
 }
