@@ -1,0 +1,306 @@
+# SkillLite
+
+[English](./README.md)
+
+
+一个轻量级的 AI Agent Skills 执行引擎，支持与任意 OpenAI 兼容的 LLM 集成。
+
+## 🎯 为什么选择 SkillLite？
+
+| 特性 | SkillLite | Claude Code Sandbox | LangChain Sandbox | OpenAI Plugins | Semantic Kernel |
+|------|------------|---------------------|-------------------|----------------|-----------------|
+| **内置沙箱** | ✅ Rust 原生 | ✅ Node.js 原生 | ⚠️ Pyodide/Docker | ⚠️ 云端闭源 | ❌ 无（需 Azure） |
+| **沙箱技术** | Seatbelt + Namespace | Seatbelt + bubblewrap | WebAssembly/Docker | 云端隔离 | - |
+| **实现语言** | **Rust** (高性能) | Node.js/TypeScript | Python | - | C# |
+| **本地执行** | ✅ | ✅ | ✅ | ❌ | ❌ |
+| **零依赖** | ✅ 单二进制 | ❌ 需 Node.js | ❌ 需运行时 | ❌ | ❌ |
+| **冷启动** | ⚡ 毫秒级 | 中等 | 🐢 秒级 | - | - |
+| **LLM 无关** | ✅ 任意 LLM | ❌ 仅 Claude | ✅ | ❌ 仅 OpenAI | ✅ |
+| **开源协议** | MIT | Apache 2.0 | MIT | 闭源 | MIT |
+
+### 与 Claude Code Sandbox 的关系
+
+Claude/Anthropic 在 2025 年 10 月发布了 [Claude Code Sandbox](https://www.anthropic.com/engineering/claude-code-sandboxing)，采用了与 Claude Code Sandbox **相同的底层技术栈**：
+- **macOS**: Seatbelt (sandbox-exec)
+- **Linux**: bubblewrap + namespace
+
+**关键差异**：
+
+| 维度 | SkillLite | Claude Code Sandbox |
+|------|------------|---------------------|
+| **定位** | 通用 Skills 执行引擎 | Claude Code 专属功能 |
+| **LLM 绑定** | ✅ 支持任意 LLM | ❌ 仅限 Claude |
+| **实现语言** | **Rust** (更高性能、更小体积) | Node.js/TypeScript |
+| **部署方式** | 单二进制，零依赖 | 依赖 Node.js  |
+| **Skills 生态** | 独立 Skills 目录结构 | 依赖 MCP 协议 |
+| **使用场景** | 任意 Agent 框架集成 | Claude Code 内部使用 |
+
+> 💡 **总结**：Claude Code Sandbox 验证了"原生系统级沙箱"是 AI Agent 安全执行的正确方向。SkillLite 提供了一个 **LLM 无关、Rust 实现、更轻量** 的替代方案，适合需要集成多种 LLM 或追求极致性能的场景。
+
+## 🔐 核心创新：原生系统级安全沙箱
+
+SkillLite 使用 **Rust 实现的原生系统级沙箱**，而非 Docker 或 WebAssembly：
+
+- **macOS**: 基于 Seatbelt (sandbox-exec) 的内核级隔离
+- **Linux**: 基于 Namespace + Seccomp 的容器级隔离
+
+### 与其他方案的本质区别
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  其他方案                                                        │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐              │
+│  │   Docker    │  │   Pyodide   │  │  云端沙箱   │              │
+│  │  (重量级)   │  │ (WebAssembly)│  │ (数据上传)  │              │
+│  └─────────────┘  └─────────────┘  └─────────────┘              │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────┐
+│  SkillLite 方案                                                 │
+│  ┌─────────────────────────────────────────────────────────────┐│
+│  │              Rust 原生系统级沙箱                             ││
+│  │  • 直接调用操作系统安全机制（Seatbelt/Namespace）            ││
+│  │  • 零外部依赖，单二进制文件                                  ││
+│  │  • 毫秒级冷启动，生产级性能                                  ││
+│  │  • 代码和数据永不离开本机                                    ││
+│  └─────────────────────────────────────────────────────────────┘│
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 安全特性
+
+| 安全能力 | 说明 |
+|---------|------|
+| **进程隔离** | 每个 Skill 在独立进程中执行 |
+| **文件系统隔离** | 仅可访问 Skill 目录和临时目录 |
+| **网络隔离** | 默认禁用网络，可按需开启 |
+| **资源限制** | CPU、内存、执行时间限制 |
+| **权限最小化** | 遵循最小权限原则 |
+
+## ✨ 特性
+
+- **🔒 原生安全沙箱** - Rust 实现的系统级隔离，非 Docker/WebAssembly
+- **⚡ 极致轻量** - 单二进制文件，毫秒级冷启动，零外部依赖
+- **🏠 数据主权** - 纯本地执行，代码和数据永不离开本机
+- **🔌 通用 LLM 支持** - 兼容所有 OpenAI API 格式的 LLM 提供商
+- **📦 Skills 管理** - 自动发现、注册和管理 Skills
+- **🧠 智能 Schema 推断** - 自动从 SKILL.md 和脚本代码推断输入参数 Schema
+- **🔧 Tool Calls 处理** - 无缝处理 LLM 的工具调用请求
+- **📄 丰富的上下文支持** - 支持 references、assets 等扩展资源
+
+## 🚀 快速开始
+
+### 1. 安装 Rust 沙箱执行器
+
+本项目使用 Rust 编写的隔离沙箱来安全执行 Skills 脚本，需要先安装 Rust 环境并编译沙箱。
+
+> ⚠️ **平台支持**：目前仅支持 **macOS** 和 **Linux**，暂不支持 Windows。
+
+#### 安装 Rust（如果尚未安装）
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+# 安装完成后，重新加载环境变量
+source ~/.cargo/env
+
+# 验证安装
+rustc --version
+cargo --version
+```
+
+#### 编译沙箱执行器
+
+```bash
+# 进入 Rust 项目目录并编译
+cd skillbox
+cargo build --release
+
+# 可选：安装到系统路径（推荐）
+cargo install --path .
+
+# 验证安装
+skillbox --help
+```
+
+编译完成后，`skillbox` 二进制文件会位于：
+- 如果使用 `cargo install`：`~/.cargo/bin/skillbox`
+- 如果仅 `cargo build`：`skillbox/target/release/skillbox`
+
+### 2. 环境配置
+
+```bash
+# 复制环境变量模板并填入 API 配置
+cp .env.example .env
+# 编辑 .env: BASE_URL, API_KEY, MODEL
+```
+
+| 文件 | 说明 |
+|------|------|
+| [.env.example](./.env.example) | 快速开始模板（5-8 个常用变量） |
+| [.env.example.full](./.env.example.full) | 完整变量列表（高级用户） |
+| [docs/ENV_REFERENCE.md](./docs/ENV_REFERENCE.md) | 完整变量说明、默认值、使用场景 |
+
+### 3. 运行示例
+
+```bash
+python3 simple_demo.py
+```
+
+## 📁 项目结构
+
+```
+skillLite/
+├── skillbox/              # Rust 沙箱执行器
+├── skilllite/             # Python SDK
+│   └── skilllite/
+│       ├── manager.py     # SkillManager 核心管理器
+│       ├── executor.py    # Skill 执行器
+│       ├── loops.py       # Agentic Loop 实现
+│       ├── tools.py       # 工具定义
+│       └── ...
+├── .skills/               # Skills 目录
+│   ├── calculator/        # 计算器 Skill
+│   ├── data-analyzer/     # 数据分析 Skill
+│   ├── http-request/      # HTTP 请求 Skill
+│   ├── text-processor/    # 文本处理 Skill
+│   ├── weather/           # 天气查询 Skill
+│   └── writing-helper/    # 写作助手 Skill
+├── simple_demo.py         # 完整示例
+├── simple_demo_v2.py      # 简化示例
+└── simple_demo_minimal.py # 最小示例
+```
+
+## 💡 使用方法
+
+### 基础用法
+
+```python
+from openai import OpenAI
+from skilllite import SkillManager
+
+# 初始化 OpenAI 兼容客户端
+client = OpenAI(base_url="https://api.deepseek.com/v1", api_key="your_key")
+
+# 初始化 SkillManager
+manager = SkillManager(
+    skills_dir="./.skills",
+    llm_client=client,
+    llm_model="deepseek-chat"
+)
+
+# 获取工具定义（OpenAI 格式）
+tools = manager.get_tools()
+
+# 调用 LLM
+response = client.chat.completions.create(
+    model="deepseek-chat",
+    tools=tools,
+    messages=[{"role": "user", "content": "帮我计算 15 乘以 27"}]
+)
+
+# 处理工具调用
+if response.choices[0].message.tool_calls:
+    results = manager.handle_tool_calls(response)
+```
+
+### 支持的 LLM 提供商
+
+| 提供商 | base_url |
+|--------|----------|
+| OpenAI | `https://api.openai.com/v1` |
+| DeepSeek | `https://api.deepseek.com/v1` |
+| Qwen (通义千问) | `https://dashscope.aliyuncs.com/compatible-mode/v1` |
+| Moonshot (月之暗面) | `https://api.moonshot.cn/v1` |
+| Ollama (本地) | `http://localhost:11434/v1` |
+
+## 🛠️ 创建自定义 Skill
+
+每个 Skill 是一个包含 `SKILL.md` 的目录：
+
+```
+my-skill/
+├── SKILL.md           # Skill 元数据和说明（必需）
+├── scripts/           # 脚本目录
+│   └── main.py        # 入口脚本
+├── references/        # 参考文档（可选）
+└── assets/            # 资源文件（可选）
+```
+
+### SKILL.md 示例
+
+```markdown
+---
+name: my-skill
+description: 我的自定义 Skill
+version: 1.0.0
+entry_point: scripts/main.py
+---
+
+# My Skill
+
+这是 Skill 的详细说明...
+```
+
+## 📦 核心组件
+
+- **SkillManager** - 管理 Skills 的发现、注册和执行
+- **SkillInfo** - 单个 Skill 的信息封装
+- **AgenticLoop** - 自动化的 Agent 循环执行
+- **ToolDefinition** - OpenAI 兼容的工具定义
+- **SchemaInferrer** - 智能参数 Schema 推断
+
+## 🔌 OpenCode 集成
+
+SkillLite 可以作为 MCP (Model Context Protocol) 服务器集成到 [OpenCode](https://github.com/opencode-ai/opencode)，为其提供安全沙箱执行能力。
+
+### 一键集成
+
+```bash
+# 安装 SkillLite（含 MCP 支持）
+pip install skilllite[mcp]
+
+# 一键初始化（自动检测最佳配置）
+skilllite init-opencode
+
+# 启动 OpenCode
+opencode
+```
+
+`init-opencode` 命令会自动：
+- 检测最佳启动方式（uvx、pipx、skilllite 或 python）
+- 创建 `opencode.json` 配置文件
+- 生成 `.opencode/skills/skilllite/SKILL.md` 使用说明
+- 发现项目中的预定义技能
+
+### 可用的 MCP 工具
+
+| 工具 | 描述 |
+|------|------|
+| `skilllite_list_skills` | 列出所有可用技能 |
+| `skilllite_get_skill_info` | 获取技能详情和参数 |
+| `skilllite_run_skill` | 执行预定义技能 |
+| `skilllite_scan_code` | 扫描代码安全性 |
+| `skilllite_execute_code` | 在安全沙箱中执行代码 |
+
+### 安全特性
+
+- **系统级沙箱**：macOS Seatbelt / Linux Namespace 隔离
+- **安全扫描**：执行前静态分析代码
+- **用户确认**：危险代码需要明确批准
+- **Scan ID 验证**：防止扫描和执行之间代码被篡改
+
+详细文档请参阅 [OpenCode 集成教程](./tutorials/07_opencode_integration/README.md)。
+
+## 📄 License
+
+MIT
+
+本项目包含各种许可证的第三方依赖项。详见 [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md)。
+
+## 📚 文档
+
+- [快速入门](./docs/zh/GETTING_STARTED.md) - 安装和快速入门指南
+- [环境变量参考](./docs/ENV_REFERENCE.md) - 完整环境变量说明
+- [项目架构](./docs/zh/ARCHITECTURE.md) - 项目架构和设计
+- [贡献指南](./docs/zh/CONTRIBUTING.md) - 如何贡献代码

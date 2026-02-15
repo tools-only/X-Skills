@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1444 AI-powered skills** organized into 15 categories.
+A curated collection of **1439 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (21 skills)
-- **Automation/Workflow** (92 skills)
-- **Commercial** (52 skills)
+- **Automation/Workflow** (90 skills)
+- **Commercial** (55 skills)
 - **Communication** (29 skills)
-- **Content Creation** (102 skills)
-- **Daily Assistant** (90 skills)
-- **Data Analysis** (289 skills)
-- **Development** (528 skills)
-- **Development/Devops** (50 skills)
-- **Development/Testing** (13 skills)
+- **Content Creation** (123 skills)
+- **Daily Assistant** (77 skills)
+- **Data Analysis** (300 skills)
+- **Development** (506 skills)
+- **Development/Devops** (49 skills)
+- **Development/Testing** (11 skills)
 - **Development/Tools** (78 skills)
 - **Investment** (6 skills)
-- **Other** (3 skills)
-- **Productivity** (31 skills)
-- **Research** (60 skills)
+- **Other** (4 skills)
+- **Productivity** (28 skills)
+- **Research** (62 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -205,9 +205,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7f06f842/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/2.3-Pandas-LLM-Analysis/rag-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/scripting/003-name-skill_881e0bb7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/4.5-ML-Cost-Prediction/duration-prediction/SKILL.md) | ⭐ 33 | `automation` |
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
-| [Skill](automation/scripting/name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
+| [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
 
-### Automation/Workflow (92 skills)
+### Automation/Workflow (90 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -290,21 +290,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_7827ee3c/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/continuous-learning/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_e1813ea7/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Quality-Assurance/verification-loop-construction/SKILL.md) | ⭐ 33 | `automation` |
 | [Backlog](automation/workflow/063-backlog_f9791116/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
-| [Release Notes V3.3.0](automation/workflow/release-notes-v330_017f9761/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.3.0.md) | ⭐ 153 | `automation` |
-| [Poc Learnings](automation/workflow/poc-learnings_a7012cdf/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/scripts/POC-LEARNINGS.md) | ⭐ 153 | `automation` |
-| [Task 04 Version Sync Release Process](automation/workflow/task-04-version-sync-release-process_11b32ca2/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-04-version-sync-release-process.md) | ⭐ 153 | `automation` |
-| [Task 33 Workflow Enforcement](automation/workflow/task-33-workflow-enforcement_af2ecdf3/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-33-workflow-enforcement.md) | ⭐ 153 | `automation` |
-| [Upgrade Guide V3.3.0](automation/workflow/upgrade-guide-v330_6cb0075e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/upgrades/UPGRADE-GUIDE-v3.3.0.md) | ⭐ 153 | `automation` |
-| [Skill](automation/workflow/name-skill_8dd5a336/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-compact/SKILL.md) | ⭐ 153 | `automation` |
-| [Skill](automation/workflow/name-skill_c15fb1a8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-skill-creator/SKILL.md) | ⭐ 153 | `automation` |
-| [Skill](automation/workflow/name-skill_54450501/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-upgrade/SKILL.md) | ⭐ 153 | `automation` |
-| [Complete Release Workflow](automation/workflow/complete-release-workflow_8d059d53/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/complete-release-workflow.md) | ⭐ 153 | `automation` |
-| [Version Management](automation/workflow/version-management_93801863/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/version-management.md) | ⭐ 153 | `automation` |
-| [Poc 1769187675 Review Report](automation/workflow/poc-1769187675-review-report_d9b81560/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769187675-review-report.md) | ⭐ 153 | `automation` |
-| [Skill Template](automation/workflow/skill-template_a76fe020/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-skill-creator/templates/skill-template.md) | ⭐ 153 | `automation` |
-| [Existing Storybook Vr](automation/workflow/existing-storybook-vr_d38511f8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/examples/existing-storybook-vr.md) | ⭐ 153 | `automation` |
+| [Release Notes V3.3.0](automation/workflow/141-release-notes-v330_017f9761/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.3.0.md) | ⭐ 153 | `automation` |
+| [Poc Learnings](automation/workflow/142-poc-learnings_a7012cdf/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/scripts/POC-LEARNINGS.md) | ⭐ 153 | `automation` |
+| [Task 04 Version Sync Release Process](automation/workflow/143-task-04-version-sync-release-process_11b32ca2/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-04-version-sync-release-process.md) | ⭐ 153 | `automation` |
+| [Task 33 Workflow Enforcement](automation/workflow/144-task-33-workflow-enforcement_af2ecdf3/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-33-workflow-enforcement.md) | ⭐ 153 | `automation` |
+| [Upgrade Guide V3.3.0](automation/workflow/145-upgrade-guide-v330_6cb0075e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/upgrades/UPGRADE-GUIDE-v3.3.0.md) | ⭐ 153 | `automation` |
+| [Skill](automation/workflow/002-name-skill_8dd5a336/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-compact/SKILL.md) | ⭐ 153 | `automation` |
+| [Skill](automation/workflow/002-name-skill_c15fb1a8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-skill-creator/SKILL.md) | ⭐ 153 | `automation` |
+| [Skill](automation/workflow/002-name-skill_54450501/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-upgrade/SKILL.md) | ⭐ 153 | `automation` |
+| [Complete Release Workflow](automation/workflow/146-complete-release-workflow_8d059d53/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/complete-release-workflow.md) | ⭐ 153 | `automation` |
+| [Version Management](automation/workflow/147-version-management_93801863/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/version-management.md) | ⭐ 153 | `automation` |
+| [Readme Cn](automation/workflow/readme_cn_83cf55a1/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/README_CN.md) | ⭐ 302 | `automation` |
 
-### Commercial (52 skills)
+### Commercial (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -353,13 +351,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Recommend Tool](commercial/396-recommend_tool_2658f2d1/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/recommend_tool.md) | ⭐ 28 | `commercial` |
 | [Azure](commercial/397-azure_bf38396a/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/backends_setup/azure.md) | ⭐ 28 | `commercial` |
 | [Support](commercial/400-support_14977341/) | [microsoft/prompty](https://raw.githubusercontent.com/microsoft/prompty/main/SUPPORT.md) | ⭐ 1.2k | `commercial` |
-| [Task 27 Interactive Onboarding](commercial/task-27-interactive-onboarding_29d4b154/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-27-interactive-onboarding.md) | ⭐ 153 | `commercial` |
-| [Upgrade V3.4.0](commercial/upgrade-v340_66e12e62/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/upgrades/UPGRADE-v3.4.0.md) | ⭐ 153 | `commercial` |
-| [Upgrade V4.0.0](commercial/upgrade-v400_f093e8ee/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/upgrades/UPGRADE-v4.0.0.md) | ⭐ 153 | `commercial` |
-| [Skill](commercial/name-skill_4573d312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-diagnose/SKILL.md) | ⭐ 153 | `commercial` |
-| [Skill](commercial/name-skill_9f309930/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/SKILL.md) | ⭐ 153 | `autodocs` |
-| [Task 04 Stripe Integration](commercial/task-04-stripe-integration_4d3239e5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/.agent/tasks/TASK-04-stripe-integration.md) | ⭐ 153 | `commercial` |
-| [Stripe Webhooks](commercial/stripe-webhooks_45c42120/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/.agent/sops/integrations/stripe-webhooks.md) | ⭐ 153 | `commercial` |
+| [Task 27 Interactive Onboarding](commercial/400-task-27-interactive-onboarding_29d4b154/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-27-interactive-onboarding.md) | ⭐ 153 | `commercial` |
+| [Upgrade V3.4.0](commercial/401-upgrade-v340_66e12e62/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/upgrades/UPGRADE-v3.4.0.md) | ⭐ 153 | `commercial` |
+| [Upgrade V4.0.0](commercial/402-upgrade-v400_f093e8ee/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/upgrades/UPGRADE-v4.0.0.md) | ⭐ 153 | `commercial` |
+| [Skill](commercial/210-name-skill_4573d312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-diagnose/SKILL.md) | ⭐ 153 | `commercial` |
+| [Skill](commercial/210-name-skill_9f309930/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/SKILL.md) | ⭐ 153 | `autodocs` |
+| [Skill](commercial/name-skill_d421ce46/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/SKILL.md) | ⭐ 302 | `commercial` |
+| [Dark](commercial/dark_b9677e5d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/dark.md) | ⭐ 302 | `commercial` |
+| [Earth](commercial/earth_bddd5335/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/earth.md) | ⭐ 302 | `commercial` |
+| [Elegant](commercial/elegant_5c3393d8/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/elegant.md) | ⭐ 302 | `commercial` |
+| [Vivid](commercial/vivid_8f1e2891/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/vivid.md) | ⭐ 302 | `commercial` |
 
 ### Communication (29 skills)
 
@@ -388,14 +389,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_29373bcc/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Claude](communication/024-claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Type System](communication/118-type-system_0495349d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/type-system.md) | ⭐ 16 | `communication` |
-| [Configuration](communication/configuration_f3ad7e39/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/CONFIGURATION.md) | ⭐ 153 | `communication` |
-| [Quick Start](communication/quick-start_05f196d5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/QUICK-START.md) | ⭐ 153 | `communication` |
-| [Project Architecture](communication/project-architecture_d30f11ee/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/system/project-architecture.md) | ⭐ 153 | `communication` |
-| [Task 13 Web Documentation Site](communication/task-13-web-documentation-site_33013213/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-13-web-documentation-site.md) | ⭐ 153 | `communication` |
-| [Skill](communication/name-skill_f797f0aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-start/SKILL.md) | ⭐ 153 | `communication` |
-| [Navigator Plugin Release Workflow](communication/navigator-plugin-release-workflow_f5eaf618/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/navigator-plugin-release-workflow.md) | ⭐ 153 | `communication` |
+| [Configuration](communication/035-configuration_f3ad7e39/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/CONFIGURATION.md) | ⭐ 153 | `communication` |
+| [Quick Start](communication/258-quick-start_05f196d5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/QUICK-START.md) | ⭐ 153 | `communication` |
+| [Project Architecture](communication/259-project-architecture_d30f11ee/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/system/project-architecture.md) | ⭐ 153 | `communication` |
+| [Task 13 Web Documentation Site](communication/260-task-13-web-documentation-site_33013213/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-13-web-documentation-site.md) | ⭐ 153 | `communication` |
+| [Skill](communication/127-name-skill_f797f0aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-start/SKILL.md) | ⭐ 153 | `communication` |
+| [Navigator Plugin Release Workflow](communication/261-navigator-plugin-release-workflow_f5eaf618/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/navigator-plugin-release-workflow.md) | ⭐ 153 | `communication` |
 
-### Content Creation (102 skills)
+### Content Creation (123 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -484,25 +485,46 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent Sdk Typescript](content-creation/352-agent-sdk_typescript_c7cd0e66/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_typescript.md) | ⭐ 10 | `content creation` |
 | [Hook Events](content-creation/353-hook-events_63ecf1a0/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/references/hook-events.md) | ⭐ 10 | `content creation` |
 | [Custom](content-creation/354-custom_88200c4e/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/custom.md) | ⭐ 10 | `content creation` |
-| [Deployment](content-creation/deployment_dfced619/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/DEPLOYMENT.md) | ⭐ 153 | `content creation` |
-| [Release Notes V4.6.0](content-creation/release-notes-v460_47e0fb4d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.6.0.md) | ⭐ 153 | `content creation` |
-| [Task 15 Marketing Community Adoption](content-creation/task-15-marketing-community-adoption_74b42b25/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-15-marketing-community-adoption.md) | ⭐ 153 | `content creation` |
-| [Task 18 Pitch](content-creation/task-18-pitch_a7959837/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-PITCH.md) | ⭐ 153 | `content creation` |
-| [Task 18 Readme](content-creation/task-18-readme_55fec1dd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-README.md) | ⭐ 153 | `content creation` |
-| [Task 18 Verification](content-creation/task-18-verification_1317b995/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-VERIFICATION.md) | ⭐ 153 | `content creation` |
-| [Task 18 Visual Summary](content-creation/task-18-visual-summary_553ef19a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-VISUAL-SUMMARY.md) | ⭐ 153 | `content creation` |
-| [Task 18 Principle To Product V3.5](content-creation/task-18-principle-to-product-v35_21321cdb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-principle-to-product-v3.5.md) | ⭐ 153 | `content creation` |
-| [Video Production Plan](content-creation/video-production-plan_11d10a11/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/VIDEO-PRODUCTION-PLAN.md) | ⭐ 153 | `content creation` |
-| [Poc 1769186747 Evaluation Report](content-creation/poc-1769186747-evaluation-report_4f0b8533/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769186747-evaluation-report.md) | ⭐ 153 | `content creation` |
-| [Skill](content-creation/name-skill_19c654f8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills-local/social-media-post/SKILL.md) | ⭐ 153 | `content creation` |
-| [Skill](content-creation/name-skill_5ec481e4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-init/SKILL.md) | ⭐ 153 | `content creation` |
-| [Skill](content-creation/name-skill_0f8ba819/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/plugin-slash-command/SKILL.md) | ⭐ 153 | `content creation` |
-| [Task 18.1 Philosophy Documentation](content-creation/task-181-philosophy-documentation_22b3aff7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/tickets/TASK-18.1-philosophy-documentation.md) | ⭐ 153 | `content creation` |
-| [Task 18.2 Narrative Rewrite](content-creation/task-182-narrative-rewrite_c13c97c0/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/tickets/TASK-18.2-narrative-rewrite.md) | ⭐ 153 | `content creation` |
-| [Skill](content-creation/name-skill_58ba4194/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/frontend-test/SKILL.md) | ⭐ 153 | `content creation` |
-| [Medium Command Example](content-creation/medium-command-example_ae39c9e3/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/plugin-slash-command/examples/medium-command-example.md) | ⭐ 153 | `content creation` |
+| [Deployment](content-creation/383-deployment_dfced619/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/DEPLOYMENT.md) | ⭐ 153 | `content creation` |
+| [Release Notes V4.6.0](content-creation/384-release-notes-v460_47e0fb4d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.6.0.md) | ⭐ 153 | `content creation` |
+| [Task 15 Marketing Community Adoption](content-creation/385-task-15-marketing-community-adoption_74b42b25/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-15-marketing-community-adoption.md) | ⭐ 153 | `content creation` |
+| [Task 18 Pitch](content-creation/386-task-18-pitch_a7959837/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-PITCH.md) | ⭐ 153 | `content creation` |
+| [Task 18 Readme](content-creation/387-task-18-readme_55fec1dd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-README.md) | ⭐ 153 | `content creation` |
+| [Task 18 Verification](content-creation/388-task-18-verification_1317b995/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-VERIFICATION.md) | ⭐ 153 | `content creation` |
+| [Task 18 Visual Summary](content-creation/389-task-18-visual-summary_553ef19a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-VISUAL-SUMMARY.md) | ⭐ 153 | `content creation` |
+| [Task 18 Principle To Product V3.5](content-creation/390-task-18-principle-to-product-v35_21321cdb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-principle-to-product-v3.5.md) | ⭐ 153 | `content creation` |
+| [Video Production Plan](content-creation/391-video-production-plan_11d10a11/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/VIDEO-PRODUCTION-PLAN.md) | ⭐ 153 | `content creation` |
+| [Poc 1769186747 Evaluation Report](content-creation/392-poc-1769186747-evaluation-report_4f0b8533/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769186747-evaluation-report.md) | ⭐ 153 | `content creation` |
+| [Skill](content-creation/049-name-skill_19c654f8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills-local/social-media-post/SKILL.md) | ⭐ 153 | `content creation` |
+| [Skill](content-creation/049-name-skill_5ec481e4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-init/SKILL.md) | ⭐ 153 | `content creation` |
+| [Skill](content-creation/049-name-skill_0f8ba819/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/plugin-slash-command/SKILL.md) | ⭐ 153 | `content creation` |
+| [Task 18.1 Philosophy Documentation](content-creation/393-task-181-philosophy-documentation_22b3aff7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/tickets/TASK-18.1-philosophy-documentation.md) | ⭐ 153 | `content creation` |
+| [Task 18.2 Narrative Rewrite](content-creation/394-task-182-narrative-rewrite_c13c97c0/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/tickets/TASK-18.2-narrative-rewrite.md) | ⭐ 153 | `content creation` |
+| [Gsap Video Pipeline Research](content-creation/gsap-video-pipeline-research_59290a9d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/docs/gsap-video-pipeline-research.md) | ⭐ 302 | `content creation` |
+| [Skill](content-creation/name-skill_cafbbd77/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/SKILL.md) | ⭐ 302 | `content creation` |
+| [Skill](content-creation/name-skill_d9141fc4/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/gsap-animation/SKILL.md) | ⭐ 302 | `content creation` |
+| [Skill](content-creation/name-skill_2b6b0dfb/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/SKILL.md) | ⭐ 302 | `content creation` |
+| [Auto Selection](content-creation/auto-selection_bdc4448e/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/auto-selection.md) | ⭐ 302 | `content creation` |
+| [Plugin Guide](content-creation/plugin-guide_0d999389/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/gsap-animation/rules/plugin-guide.md) | ⭐ 302 | `content creation` |
+| [Scene Evaluator](content-creation/scene-evaluator_f56995f4/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/rules/scene-evaluator.md) | ⭐ 302 | `content creation` |
+| [Scene Patterns](content-creation/scene-patterns_b70e7496/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/rules/scene-patterns.md) | ⭐ 302 | `content creation` |
+| [Mood](content-creation/mood_c0663f21/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/mood.md) | ⭐ 302 | `content creation` |
+| [Text](content-creation/text_3f73c304/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/text.md) | ⭐ 302 | `content creation` |
+| [Aesthetic Analysis](content-creation/aesthetic_analysis_120c0d96/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/react-animation/AESTHETIC_ANALYSIS.md) | ⭐ 302 | `content creation` |
+| [Skill](content-creation/name-skill_abd3d110/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/react-animation/SKILL.md) | ⭐ 302 | `content creation` |
+| [Style Presets](content-creation/style-presets_0aa35906/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/style-presets.md) | ⭐ 302 | `content creation` |
+| [Timing Conventions](content-creation/timing-conventions_003ed468/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/gsap-animation/rules/timing-conventions.md) | ⭐ 302 | `content creation` |
+| [Video Blueprints](content-creation/video-blueprints_f802b64a/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/gsap-animation/rules/video-blueprints.md) | ⭐ 302 | `content creation` |
+| [Spring Presets](content-creation/spring-presets_9ff53d77/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/rules/spring-presets.md) | ⭐ 302 | `content creation` |
+| [Timing Conventions](content-creation/timing-conventions_0938c924/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/rules/timing-conventions.md) | ⭐ 302 | `content creation` |
+| [Narrative Templates](content-creation/narrative-templates_bc51aa66/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/rules/narrative-templates.md) | ⭐ 302 | `content creation` |
+| [Pastel](content-creation/pastel_0bdd04f0/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/pastel.md) | ⭐ 302 | `content creation` |
+| [Flat Vector](content-creation/flat-vector_408dbbf2/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/flat-vector.md) | ⭐ 302 | `content creation` |
+| [Confirm Options](content-creation/confirm-options_a5653d69/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/workflow/confirm-options.md) | ⭐ 302 | `content creation` |
+| [Prompt Template](content-creation/prompt-template_5e95c7d5/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/workflow/prompt-template.md) | ⭐ 302 | `content creation` |
+| [Qwen Api](content-creation/qwen-api_fafd7463/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/workflow/qwen-api.md) | ⭐ 302 | `content creation` |
 
-### Daily Assistant (90 skills)
+### Daily Assistant (77 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -567,37 +589,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Instruction](daily-assistant/273-tool_instruction_458c00a6/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/tool_instruction.md) | ⭐ 28 | `daily assistant` |
 | [Cookbook](daily-assistant/274-cookbook_18a6aabe/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/cookbook.md) | ⭐ 16 | `daily assistant` |
 | [Openai](daily-assistant/275-openai_45fc6849/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/api/models/openai.md) | ⭐ 16 | `daily assistant` |
-| [Progressive Refinement](daily-assistant/progressive-refinement_c3e44bf1/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/PROGRESSIVE-REFINEMENT.md) | ⭐ 153 | `daily assistant` |
-| [My Workflow](daily-assistant/my-workflow_b5adc0ec/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/onboarding/MY-WORKFLOW.md) | ⭐ 153 | `daily assistant` |
-| [Progress](daily-assistant/progress_3165e26c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/onboarding/PROGRESS.md) | ⭐ 153 | `daily assistant` |
-| [Task 12 V3.0 Skills Only](daily-assistant/task-12-v30-skills-only_355da89e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-12-v3.0-skills-only.md) | ⭐ 153 | `daily assistant` |
-| [Task 17 Visual Regression Skill](daily-assistant/task-17-visual-regression-skill_6255609b/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-17-visual-regression-skill.md) | ⭐ 153 | `autodocs` |
-| [Task 29 Tom V5 Release](daily-assistant/task-29-tom-v5-release_49ff5af4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-29-tom-v5-release.md) | ⭐ 153 | `daily assistant` |
-| [Task 30 Task Verification Enhancement](daily-assistant/task-30-task-verification-enhancement_a4b984cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-30-task-verification-enhancement.md) | ⭐ 153 | `daily assistant` |
-| [Task 32 Auto Update Project Sync](daily-assistant/task-32-auto-update-project-sync_98238c25/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-32-auto-update-project-sync.md) | ⭐ 153 | `daily assistant` |
-| [Task 34 Evaluate Native Task Integration](daily-assistant/task-34-evaluate-native-task-integration_d4f8e257/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-34-evaluate-native-task-integration.md) | ⭐ 153 | `daily assistant` |
-| [Poc 1769186747 Plan](daily-assistant/poc-1769186747-plan_2a1f8a0f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769186747-plan.md) | ⭐ 153 | `daily assistant` |
-| [Poc 1769187675 Plan](daily-assistant/poc-1769187675-plan_1dd91cba/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769187675-plan.md) | ⭐ 153 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_e8b54cd5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/SKILL.md) | ⭐ 153 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_6af25fc9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-task-mode/SKILL.md) | ⭐ 153 | `daily assistant` |
-| [03 Nav Task](daily-assistant/03-nav-task_da87e618/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/03-nav-task.md) | ⭐ 153 | `daily assistant` |
-| [Mem 001](daily-assistant/mem-001_e3c45819/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/knowledge/memories/pitfalls/mem-001.md) | ⭐ 153 | `daily assistant` |
-| [Update Notes V4.7.0](daily-assistant/update-notes-v470_b53225c8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/UPDATE-NOTES-v4.7.0.md) | ⭐ 153 | `daily assistant` |
-| [Feature In 3 Steps](daily-assistant/feature-in-3-steps_8ccc26ca/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/examples/FEATURE-IN-3-STEPS.md) | ⭐ 153 | `daily assistant` |
-| [Task 05 Landing Page Content](daily-assistant/task-05-landing-page-content_9ea70616/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-05-landing-page-content.md) | ⭐ 153 | `daily assistant` |
-| [Task 22 Simple Console Logger](daily-assistant/task-22-simple-console-logger_e1478bfa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-22-simple-console-logger.md) | ⭐ 153 | `daily assistant` |
-| [Task Example](daily-assistant/task-example_7695573f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-example.md) | ⭐ 153 | `daily assistant` |
-| [Test Marker](daily-assistant/test-marker_3a10e340/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.claude/skills/test-marker.md) | ⭐ 153 | `daily assistant` |
-| [Getting Started](daily-assistant/getting-started_27197461/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/GETTING-STARTED.md) | ⭐ 153 | `daily assistant` |
-| [Memory Template](daily-assistant/memory-template_19a1bdd1/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-graph/templates/memory-template.md) | ⭐ 153 | `daily assistant` |
-| [01 Nav Start](daily-assistant/01-nav-start_ef98ea9c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/01-nav-start.md) | ⭐ 153 | `daily assistant` |
-| [04 Nav Sop](daily-assistant/04-nav-sop_56977897/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/04-nav-sop.md) | ⭐ 153 | `daily assistant` |
-| [05 Nav Compact](daily-assistant/05-nav-compact_3d7ae265/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/05-nav-compact.md) | ⭐ 153 | `daily assistant` |
-| [Progress Template](daily-assistant/progress-template_a8d30f20/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/templates/progress-template.md) | ⭐ 153 | `daily assistant` |
-| [Workflow Template](daily-assistant/workflow-template_d1c25291/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/templates/workflow-template.md) | ⭐ 153 | `daily assistant` |
-| [Adding Protected Routes](daily-assistant/adding-protected-routes_ee5c0f31/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/.agent/sops/development/adding-protected-routes.md) | ⭐ 153 | `daily assistant` |
+| [Progressive Refinement](daily-assistant/273-progressive-refinement_c3e44bf1/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/PROGRESSIVE-REFINEMENT.md) | ⭐ 153 | `daily assistant` |
+| [My Workflow](daily-assistant/274-my-workflow_b5adc0ec/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/onboarding/MY-WORKFLOW.md) | ⭐ 153 | `daily assistant` |
+| [Progress](daily-assistant/275-progress_3165e26c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/onboarding/PROGRESS.md) | ⭐ 153 | `daily assistant` |
+| [Task 12 V3.0 Skills Only](daily-assistant/276-task-12-v30-skills-only_355da89e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-12-v3.0-skills-only.md) | ⭐ 153 | `daily assistant` |
+| [Task 17 Visual Regression Skill](daily-assistant/277-task-17-visual-regression-skill_6255609b/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-17-visual-regression-skill.md) | ⭐ 153 | `autodocs` |
+| [Task 29 Tom V5 Release](daily-assistant/278-task-29-tom-v5-release_49ff5af4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-29-tom-v5-release.md) | ⭐ 153 | `daily assistant` |
+| [Task 30 Task Verification Enhancement](daily-assistant/279-task-30-task-verification-enhancement_a4b984cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-30-task-verification-enhancement.md) | ⭐ 153 | `daily assistant` |
+| [Task 32 Auto Update Project Sync](daily-assistant/280-task-32-auto-update-project-sync_98238c25/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-32-auto-update-project-sync.md) | ⭐ 153 | `daily assistant` |
+| [Task 34 Evaluate Native Task Integration](daily-assistant/281-task-34-evaluate-native-task-integration_d4f8e257/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-34-evaluate-native-task-integration.md) | ⭐ 153 | `daily assistant` |
+| [Poc 1769186747 Plan](daily-assistant/282-poc-1769186747-plan_2a1f8a0f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769186747-plan.md) | ⭐ 153 | `daily assistant` |
+| [Poc 1769187675 Plan](daily-assistant/283-poc-1769187675-plan_1dd91cba/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/poc-1769187675-plan.md) | ⭐ 153 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_e8b54cd5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/SKILL.md) | ⭐ 153 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_6af25fc9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-task-mode/SKILL.md) | ⭐ 153 | `daily assistant` |
+| [03 Nav Task](daily-assistant/284-03-nav-task_da87e618/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/03-nav-task.md) | ⭐ 153 | `daily assistant` |
+| [Mem 001](daily-assistant/285-mem-001_e3c45819/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/knowledge/memories/pitfalls/mem-001.md) | ⭐ 153 | `daily assistant` |
+| [Remotion Integration](daily-assistant/remotion-integration_abc4810c/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/rules/remotion-integration.md) | ⭐ 302 | `daily assistant` |
 
-### Data Analysis (289 skills)
+### Data Analysis (300 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -874,24 +883,35 @@ ls ~/.claude/skills/patch-research-agent/
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
 | [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
-| [Release Notes V5.3.0](data-analysis/release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
-| [Development Readme](data-analysis/development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
-| [Grafana Dashboard](data-analysis/grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
-| [Preprocessing Vs Llm](data-analysis/preprocessing-vs-llm_92ddb795/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/PREPROCESSING-VS-LLM.md) | ⭐ 153 | `data analysis` |
-| [Patterns](data-analysis/patterns_d3b9d463/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/philosophy/PATTERNS.md) | ⭐ 153 | `data analysis` |
-| [Task 03 Markers Management Auto Resume](data-analysis/task-03-markers-management-auto-resume_3eeac5bb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-03-markers-management-auto-resume.md) | ⭐ 153 | `data analysis` |
-| [Task 06 Session Statistics](data-analysis/task-06-session-statistics_279c0fbe/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-06-session-statistics.md) | ⭐ 153 | `data analysis` |
-| [Task 36 Multi Agent Production](data-analysis/task-36-multi-agent-production_26fb5775/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-36-multi-agent-production.md) | ⭐ 153 | `data analysis` |
-| [Skill](data-analysis/name-skill_c18bc32b/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-graph/SKILL.md) | ⭐ 153 | `data analysis` |
-| [Skill](data-analysis/name-skill_28a1d690/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-profile/SKILL.md) | ⭐ 153 | `data analysis` |
-| [Task 18.3 Metrics Enhancement](data-analysis/task-183-metrics-enhancement_bece68c2/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/tickets/TASK-18.3-metrics-enhancement.md) | ⭐ 153 | `data analysis` |
-| [Zero Context Restart](data-analysis/zero-context-restart_312b3521/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/examples/ZERO-CONTEXT-RESTART.md) | ⭐ 153 | `data analysis` |
-| [Visual Regression Setup](data-analysis/visual-regression-setup_835bdee8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/testing/visual-regression-setup.md) | ⭐ 153 | `data analysis` |
-| [Command Template](data-analysis/command-template_47194fa4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/plugin-slash-command/templates/command-template.md) | ⭐ 153 | `data analysis` |
-| [Dashboard Redesign Review](data-analysis/dashboard-redesign-review_67adacf5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/examples/dashboard-redesign-review.md) | ⭐ 153 | `data analysis` |
-| [Design Review Report](data-analysis/design-review-report_2ed909cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/templates/design-review-report.md) | ⭐ 153 | `data analysis` |
+| [Release Notes V5.3.0](data-analysis/492-release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
+| [Development Readme](data-analysis/493-development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
+| [Grafana Dashboard](data-analysis/494-grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
+| [Preprocessing Vs Llm](data-analysis/495-preprocessing-vs-llm_92ddb795/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/PREPROCESSING-VS-LLM.md) | ⭐ 153 | `data analysis` |
+| [Patterns](data-analysis/165-patterns_d3b9d463/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/philosophy/PATTERNS.md) | ⭐ 153 | `data analysis` |
+| [Task 03 Markers Management Auto Resume](data-analysis/496-task-03-markers-management-auto-resume_3eeac5bb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-03-markers-management-auto-resume.md) | ⭐ 153 | `data analysis` |
+| [Task 06 Session Statistics](data-analysis/497-task-06-session-statistics_279c0fbe/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-06-session-statistics.md) | ⭐ 153 | `data analysis` |
+| [Task 36 Multi Agent Production](data-analysis/498-task-36-multi-agent-production_26fb5775/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-36-multi-agent-production.md) | ⭐ 153 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_c18bc32b/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-graph/SKILL.md) | ⭐ 153 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_28a1d690/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-profile/SKILL.md) | ⭐ 153 | `data analysis` |
+| [Task 18.3 Metrics Enhancement](data-analysis/499-task-183-metrics-enhancement_bece68c2/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/tickets/TASK-18.3-metrics-enhancement.md) | ⭐ 153 | `data analysis` |
+| [Claude](data-analysis/claude_99184615/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/CLAUDE.md) | ⭐ 302 | `data analysis` |
+| [Gsap Animation Skill Design](data-analysis/gsap-animation-skill-design_c9ec4592/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/docs/gsap-animation-skill-design.md) | ⭐ 302 | `data analysis` |
+| [Visual Elements](data-analysis/visual-elements_5f0dcf05/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/visual-elements.md) | ⭐ 302 | `data analysis` |
+| [Remotion Integration](data-analysis/remotion-integration_e6dda454/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/gsap-animation/rules/remotion-integration.md) | ⭐ 302 | `data analysis` |
+| [Adaptation Patterns](data-analysis/adaptation-patterns_144807cb/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/react-animation/rules/adaptation-patterns.md) | ⭐ 302 | `data analysis` |
+| [Font](data-analysis/font_6fc3b794/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/font.md) | ⭐ 302 | `data analysis` |
+| [Pixel](data-analysis/pixel_43bc0df6/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/pixel.md) | ⭐ 302 | `data analysis` |
+| [Types](data-analysis/types_21d19366/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/types.md) | ⭐ 302 | `data analysis` |
+| [Video Blueprints](data-analysis/video-blueprints_3649554d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/spring-animation/rules/video-blueprints.md) | ⭐ 302 | `data analysis` |
+| [Project Scaffold](data-analysis/project-scaffold_2265bc26/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/rules/project-scaffold.md) | ⭐ 302 | `data analysis` |
+| [Cool](data-analysis/cool_e4f70cb2/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/cool.md) | ⭐ 302 | `data analysis` |
+| [Mono](data-analysis/mono_4fe7b30b/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/mono.md) | ⭐ 302 | `data analysis` |
+| [Retro](data-analysis/retro_2636726e/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/retro.md) | ⭐ 302 | `data analysis` |
+| [Chalk](data-analysis/chalk_e0f56e99/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/chalk.md) | ⭐ 302 | `data analysis` |
+| [Digital](data-analysis/digital_120032f1/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/digital.md) | ⭐ 302 | `data analysis` |
+| [Reference Images](data-analysis/reference-images_f3e9d30d/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/workflow/reference-images.md) | ⭐ 302 | `data analysis` |
 
-### Development (528 skills)
+### Development (506 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1332,99 +1352,77 @@ ls ~/.claude/skills/patch-research-agent/
 | [Debugger](development/2592-debugger_042e9fa9/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/debugger.md) | ⭐ 10 | `development` |
 | [Search Reference](development/2904-search-reference_41972dd1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/search-reference.md) | ⭐ 16 | `development` |
 | [Tips And Tricks](development/1079-tips-and-tricks_c62eaf99/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/tips-and-tricks.md) | ⭐ 16 | `development` |
-| [Claude](development/claude_aea5daba/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/CLAUDE.md) | ⭐ 153 | `development` |
-| [Release Notes V5.4.0](development/release-notes-v540_86e7b606/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.4.0.md) | ⭐ 153 | `development` |
-| [Release Notes V5.5.0](development/release-notes-v550_2334ea55/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.5.0.md) | ⭐ 153 | `development` |
-| [Release Notes V6.1.0](development/release-notes-v610_018ec731/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v6.1.0.md) | ⭐ 153 | `development` |
-| [Navigator Research](development/navigator-research_233d274e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/agents/navigator-research.md) | ⭐ 153 | `development` |
-| [Task Planner](development/task-planner_cb580d66/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/agents/task-planner.md) | ⭐ 153 | `development` |
-| [Architecture Diagrams](development/architecture-diagrams_bfce19c5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/ARCHITECTURE-DIAGRAMS.md) | ⭐ 153 | `development` |
-| [Architecture](development/architecture_59ff240a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/ARCHITECTURE.md) | ⭐ 153 | `development` |
-| [Migration](development/migration_c29e984f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/MIGRATION.md) | ⭐ 153 | `development` |
-| [Performance](development/performance_786cd007/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/PERFORMANCE.md) | ⭐ 153 | `development` |
-| [Pitch](development/pitch_826c0ad8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/PITCH.md) | ⭐ 153 | `development` |
-| [Version Check](development/version-check_e4589f73/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/VERSION-CHECK.md) | ⭐ 153 | `development` |
-| [Landing Page Draft](development/landing-page-draft_f1dabc2f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/landing-page-draft.md) | ⭐ 153 | `development` |
-| [Release Notes V3.1.0](development/release-notes-v310_a12992a1/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.1.0.md) | ⭐ 153 | `development` |
-| [Release Notes V3.2.0](development/release-notes-v320_d1f98ff7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.2.0.md) | ⭐ 153 | `development` |
-| [Release Notes V3.3.1](development/release-notes-v331_d6541b40/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.3.1.md) | ⭐ 153 | `development` |
-| [Release Notes V3.4.0](development/release-notes-v340_d75a26cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.4.0.md) | ⭐ 153 | `development` |
-| [Release Notes V4.0.0](development/release-notes-v400_c74198d6/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.0.0.md) | ⭐ 153 | `development` |
-| [Release Notes V4.3.0](development/release-notes-v430_0973282a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.3.0.md) | ⭐ 153 | `development` |
-| [Release Notes V4.3.1](development/release-notes-v431_73318a1d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.3.1.md) | ⭐ 153 | `development` |
-| [Release Notes V4.7.0](development/release-notes-v470_9d1e3a2f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.7.0.md) | ⭐ 153 | `development` |
-| [Release Notes V5.1.0](development/release-notes-v510_c7ae3cac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.1.0.md) | ⭐ 153 | `development` |
-| [Release Notes V5.6.0](development/release-notes-v560_25525170/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.6.0.md) | ⭐ 153 | `development` |
-| [Release Notes V5.7.0](development/release-notes-v570_be898fdc/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.7.0.md) | ⭐ 153 | `development` |
-| [Update Notes V5.0.0](development/update-notes-v500_90d35c2d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/UPDATE-NOTES-v5.0.0.md) | ⭐ 153 | `development` |
-| [Context Budgets](development/context-budgets_37f565f7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/CONTEXT-BUDGETS.md) | ⭐ 153 | `development` |
-| [Token Optimization](development/token-optimization_49d5f379/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/TOKEN-OPTIMIZATION.md) | ⭐ 153 | `development` |
-| [Anti Patterns](development/anti-patterns_d6509e23/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/philosophy/ANTI-PATTERNS.md) | ⭐ 153 | `development` |
-| [Context Efficiency](development/context-efficiency_febbbf8f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/philosophy/CONTEXT-EFFICIENCY.md) | ⭐ 153 | `development` |
-| [Plugin Patterns](development/plugin-patterns_762ee6be/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/system/plugin-patterns.md) | ⭐ 153 | `development` |
-| [Task 01 Session Start Pm Integration](development/task-01-session-start-pm-integration_62fbc1c4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-01-session-start-pm-integration.md) | ⭐ 153 | `development` |
-| [Task 02 Readme Markers V1.4.0](development/task-02-readme-markers-v140_422d992d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-02-readme-markers-v1.4.0.md) | ⭐ 153 | `development` |
-| [Task 10 Project Skills V2.2](development/task-10-project-skills-v22_277b836e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-10-project-skills-v2.2.md) | ⭐ 153 | `development` |
-| [Task 11 Project Skills Generation V2.3](development/task-11-project-skills-generation-v23_a0b374c7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-11-project-skills-generation-v2.3.md) | ⭐ 153 | `development` |
-| [Task 16 Product Design Skill](development/task-16-product-design-skill_1c31a51c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-16-product-design-skill.md) | ⭐ 153 | `development` |
-| [Task 25 Fix Multi Claude Reliability](development/task-25-fix-multi-claude-reliability_5a6b6484/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-25-fix-multi-claude-reliability.md) | ⭐ 153 | `development` |
-| [Task 26 Plugin Optimization Roadmap](development/task-26-plugin-optimization-roadmap_d465ca6c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-26-plugin-optimization-roadmap.md) | ⭐ 153 | `development` |
-| [Task 31 Code Simplification Integration](development/task-31-code-simplification-integration_ce2ad043/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-31-code-simplification-integration.md) | ⭐ 153 | `development` |
-| [Task 35 Project Memory](development/task-35-project-memory_5d815826/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-35-project-memory.md) | ⭐ 153 | `development` |
-| [Task 22 Simple Console Logger 1761948433 Plan](development/task-22-simple-console-logger-1761948433-plan_161cdeeb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/task-22-simple-console-logger-1761948433-plan.md) | ⭐ 153 | `development` |
-| [Task 22 Simple Console Logger 1761948433 Review Report](development/task-22-simple-console-logger-1761948433-review-report_c6a24f2a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/task-22-simple-console-logger-1761948433-review-report.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_d4042b25/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/frontend-component/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_6eefb894/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-features/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_19b50790/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-install-multi-claude/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_e8e1b2a9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-loop/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_296cc662/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-marker/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_ec050721/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-multi/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_cfdf2e8f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-release/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_67e8dedb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-simplify/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_6afa4ec7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-sop/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_d1ec418c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-task/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_a409b638/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-update-claude/skill.md) | ⭐ 153 | `development` |
-| [Install](development/install_deb6ffc2/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/INSTALL.md) | ⭐ 153 | `development` |
-| [Skill](development/name-skill_db28fc8a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/SKILL.md) | ⭐ 153 | `development` |
-| [Agent Vs Manual](development/agent-vs-manual_ec01fe01/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/frameworks/AGENT-VS-MANUAL.md) | ⭐ 153 | `development` |
-| [Preprocessing Decision Tree](development/preprocessing-decision-tree_69e150de/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/frameworks/PREPROCESSING-DECISION-TREE.md) | ⭐ 153 | `development` |
-| [When To Compact](development/when-to-compact_8a488206/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/frameworks/WHEN-TO-COMPACT.md) | ⭐ 153 | `development` |
-| [Grafana Dashboard Empty Data](development/grafana-dashboard-empty-data_4f82f0a0/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/debugging/grafana-dashboard-empty-data.md) | ⭐ 153 | `development` |
-| [Plugin Release](development/plugin-release_ce5082af/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/deployment/plugin-release.md) | ⭐ 153 | `development` |
-| [Autonomous Completion](development/autonomous-completion_cfb21a6a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/autonomous-completion.md) | ⭐ 153 | `development` |
-| [Multi Claude Troubleshooting](development/multi-claude-troubleshooting_f198c677/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/multi-claude-troubleshooting.md) | ⭐ 153 | `development` |
-| [Plugin Release Workflow](development/plugin-release-workflow_d8171f88/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/plugin-release-workflow.md) | ⭐ 153 | `development` |
-| [Task 05 Autonomous Completion](development/task-05-autonomous-completion_876a6717/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-05-autonomous-completion.md) | ⭐ 153 | `development` |
-| [Task 07 Skills Migration](development/task-07-skills-migration_2a5dafff/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-07-skills-migration.md) | ⭐ 153 | `development` |
-| [Task 08 Skills Enhancements V2.1](development/task-08-skills-enhancements-v21_2def4822/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-08-skills-enhancements-v2.1.md) | ⭐ 153 | `development` |
-| [Task 13 Otel Session Statistics](development/task-13-otel-session-statistics_2a91ef62/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-13-otel-session-statistics.md) | ⭐ 153 | `development` |
-| [Task 14 Claude Md Updater](development/task-14-claude-md-updater_94be74be/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-claude-md-updater.md) | ⭐ 153 | `development` |
-| [Task 14 Documentation Consolidation](development/task-14-documentation-consolidation_98c78cf8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-documentation-consolidation.md) | ⭐ 153 | `development` |
-| [Claude](development/claude_fe308dcb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/CLAUDE.md) | ⭐ 153 | `development` |
-| [Development Readme](development/development-readme_0f7eb1b4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/DEVELOPMENT-README.md) | ⭐ 153 | `development` |
-| [Sop Template](development/sop-template_3b859860/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/sop-template.md) | ⭐ 153 | `development` |
-| [System Template](development/system-template_6953e06a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/system-template.md) | ⭐ 153 | `development` |
-| [Task Template](development/task-template_4f0dc5f8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/task-template.md) | ⭐ 153 | `development` |
-| [5 Min Design Review](development/5-min-design-review_74ae3641/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/examples/5-MIN-DESIGN-REVIEW.md) | ⭐ 153 | `development` |
-| [Summary](development/summary_b3ac09cc/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/SUMMARY.md) | ⭐ 153 | `development` |
-| [Version Note](development/version-note_fcf0878d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/version-note.md) | ⭐ 153 | `development` |
-| [Documenter Claude](development/documenter-claude_16d39782/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/multi-claude/documenter-claude.md) | ⭐ 153 | `development` |
-| [Implementer Claude](development/implementer-claude_54a56449/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/multi-claude/implementer-claude.md) | ⭐ 153 | `development` |
-| [Reviewer Claude](development/reviewer-claude_5ad13f88/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/multi-claude/reviewer-claude.md) | ⭐ 153 | `development` |
-| [Simplifier Claude](development/simplifier-claude_95aeeb79/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/multi-claude/simplifier-claude.md) | ⭐ 153 | `development` |
-| [Try This Agent Search](development/try-this-agent-search_b8e0b173/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/examples/TRY-THIS-AGENT-SEARCH.md) | ⭐ 153 | `development` |
-| [Try This Lazy Loading](development/try-this-lazy-loading_648eaf13/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/examples/TRY-THIS-LAZY-LOADING.md) | ⭐ 153 | `development` |
-| [Try This Markers](development/try-this-markers_e6c825f5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/examples/TRY-THIS-MARKERS.md) | ⭐ 153 | `development` |
-| [Test Failures](development/test-failures_4fb7f5d8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/debugging/test-failures.md) | ⭐ 153 | `development` |
-| [Development Readme](development/development-readme_921c22c8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `development` |
-| [06 Dev Skill](development/06-dev-skill_b96ae207/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/06-dev-skill.md) | ⭐ 153 | `development` |
-| [Example Generated Skill](development/example-generated-skill_d6982507/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-skill-creator/examples/example-generated-skill.md) | ⭐ 153 | `development` |
-| [Simple Command Example](development/simple-command-example_59ef48a4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/plugin-slash-command/examples/simple-command-example.md) | ⭐ 153 | `development` |
-| [Design System Vr](development/design-system-vr_e407669b/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/examples/design-system-vr.md) | ⭐ 153 | `development` |
-| [Simple Component Vr](development/simple-component-vr_4cfb2420/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/visual-regression/examples/simple-component-vr.md) | ⭐ 153 | `autodocs` |
-| [Task 01 Auth Setup](development/task-01-auth-setup_d6794c0a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/.agent/tasks/TASK-01-auth-setup.md) | ⭐ 153 | `development` |
+| [Claude](development/140-claude_aea5daba/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/CLAUDE.md) | ⭐ 153 | `development` |
+| [Release Notes V5.4.0](development/2943-release-notes-v540_86e7b606/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.4.0.md) | ⭐ 153 | `development` |
+| [Release Notes V5.5.0](development/2944-release-notes-v550_2334ea55/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.5.0.md) | ⭐ 153 | `development` |
+| [Release Notes V6.1.0](development/2945-release-notes-v610_018ec731/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v6.1.0.md) | ⭐ 153 | `development` |
+| [Navigator Research](development/2946-navigator-research_233d274e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/agents/navigator-research.md) | ⭐ 153 | `development` |
+| [Task Planner](development/2452-task-planner_cb580d66/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/agents/task-planner.md) | ⭐ 153 | `development` |
+| [Architecture Diagrams](development/057-architecture-diagrams_bfce19c5/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/ARCHITECTURE-DIAGRAMS.md) | ⭐ 153 | `development` |
+| [Architecture](development/055-architecture_59ff240a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/ARCHITECTURE.md) | ⭐ 153 | `development` |
+| [Migration](development/2204-migration_c29e984f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/MIGRATION.md) | ⭐ 153 | `development` |
+| [Performance](development/682-performance_786cd007/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/PERFORMANCE.md) | ⭐ 153 | `development` |
+| [Pitch](development/2947-pitch_826c0ad8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/PITCH.md) | ⭐ 153 | `development` |
+| [Version Check](development/2948-version-check_e4589f73/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/VERSION-CHECK.md) | ⭐ 153 | `development` |
+| [Landing Page Draft](development/2949-landing-page-draft_f1dabc2f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/landing-page-draft.md) | ⭐ 153 | `development` |
+| [Release Notes V3.1.0](development/2950-release-notes-v310_a12992a1/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.1.0.md) | ⭐ 153 | `development` |
+| [Release Notes V3.2.0](development/2951-release-notes-v320_d1f98ff7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.2.0.md) | ⭐ 153 | `development` |
+| [Release Notes V3.3.1](development/2952-release-notes-v331_d6541b40/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.3.1.md) | ⭐ 153 | `development` |
+| [Release Notes V3.4.0](development/2953-release-notes-v340_d75a26cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v3.4.0.md) | ⭐ 153 | `development` |
+| [Release Notes V4.0.0](development/2954-release-notes-v400_c74198d6/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.0.0.md) | ⭐ 153 | `development` |
+| [Release Notes V4.3.0](development/2955-release-notes-v430_0973282a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.3.0.md) | ⭐ 153 | `development` |
+| [Release Notes V4.3.1](development/2956-release-notes-v431_73318a1d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.3.1.md) | ⭐ 153 | `development` |
+| [Release Notes V4.7.0](development/2957-release-notes-v470_9d1e3a2f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.7.0.md) | ⭐ 153 | `development` |
+| [Release Notes V5.1.0](development/2958-release-notes-v510_c7ae3cac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.1.0.md) | ⭐ 153 | `development` |
+| [Release Notes V5.6.0](development/2959-release-notes-v560_25525170/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.6.0.md) | ⭐ 153 | `development` |
+| [Release Notes V5.7.0](development/2960-release-notes-v570_be898fdc/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.7.0.md) | ⭐ 153 | `development` |
+| [Update Notes V5.0.0](development/2961-update-notes-v500_90d35c2d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/UPDATE-NOTES-v5.0.0.md) | ⭐ 153 | `development` |
+| [Context Budgets](development/2962-context-budgets_37f565f7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/CONTEXT-BUDGETS.md) | ⭐ 153 | `development` |
+| [Token Optimization](development/2963-token-optimization_49d5f379/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/TOKEN-OPTIMIZATION.md) | ⭐ 153 | `development` |
+| [Anti Patterns](development/042-anti-patterns_d6509e23/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/philosophy/ANTI-PATTERNS.md) | ⭐ 153 | `development` |
+| [Context Efficiency](development/2964-context-efficiency_febbbf8f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/philosophy/CONTEXT-EFFICIENCY.md) | ⭐ 153 | `development` |
+| [Plugin Patterns](development/2965-plugin-patterns_762ee6be/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/system/plugin-patterns.md) | ⭐ 153 | `development` |
+| [Task 01 Session Start Pm Integration](development/2966-task-01-session-start-pm-integration_62fbc1c4/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-01-session-start-pm-integration.md) | ⭐ 153 | `development` |
+| [Task 02 Readme Markers V1.4.0](development/2967-task-02-readme-markers-v140_422d992d/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-02-readme-markers-v1.4.0.md) | ⭐ 153 | `development` |
+| [Task 10 Project Skills V2.2](development/2968-task-10-project-skills-v22_277b836e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-10-project-skills-v2.2.md) | ⭐ 153 | `development` |
+| [Task 11 Project Skills Generation V2.3](development/2969-task-11-project-skills-generation-v23_a0b374c7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-11-project-skills-generation-v2.3.md) | ⭐ 153 | `development` |
+| [Task 16 Product Design Skill](development/2970-task-16-product-design-skill_1c31a51c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-16-product-design-skill.md) | ⭐ 153 | `development` |
+| [Task 25 Fix Multi Claude Reliability](development/2971-task-25-fix-multi-claude-reliability_5a6b6484/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-25-fix-multi-claude-reliability.md) | ⭐ 153 | `development` |
+| [Task 26 Plugin Optimization Roadmap](development/2972-task-26-plugin-optimization-roadmap_d465ca6c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-26-plugin-optimization-roadmap.md) | ⭐ 153 | `development` |
+| [Task 31 Code Simplification Integration](development/2973-task-31-code-simplification-integration_ce2ad043/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-31-code-simplification-integration.md) | ⭐ 153 | `development` |
+| [Task 35 Project Memory](development/2974-task-35-project-memory_5d815826/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-35-project-memory.md) | ⭐ 153 | `development` |
+| [Task 22 Simple Console Logger 1761948433 Plan](development/2975-task-22-simple-console-logger-1761948433-plan_161cdeeb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/task-22-simple-console-logger-1761948433-plan.md) | ⭐ 153 | `development` |
+| [Task 22 Simple Console Logger 1761948433 Review Report](development/2976-task-22-simple-console-logger-1761948433-review-report_c6a24f2a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/task-22-simple-console-logger-1761948433-review-report.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_d4042b25/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/frontend-component/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_6eefb894/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-features/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_19b50790/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-install-multi-claude/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_e8e1b2a9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-loop/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_296cc662/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-marker/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_ec050721/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-multi/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_cfdf2e8f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-release/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_67e8dedb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-simplify/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_6afa4ec7/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-sop/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_d1ec418c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-task/SKILL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_a409b638/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-update-claude/skill.md) | ⭐ 153 | `development` |
+| [Install](development/473-install_deb6ffc2/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/INSTALL.md) | ⭐ 153 | `development` |
+| [Skill](development/1178-name-skill_db28fc8a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/product-design/SKILL.md) | ⭐ 153 | `development` |
+| [Agent Vs Manual](development/2977-agent-vs-manual_ec01fe01/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/frameworks/AGENT-VS-MANUAL.md) | ⭐ 153 | `development` |
+| [Preprocessing Decision Tree](development/2978-preprocessing-decision-tree_69e150de/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/frameworks/PREPROCESSING-DECISION-TREE.md) | ⭐ 153 | `development` |
+| [When To Compact](development/2979-when-to-compact_8a488206/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/learning/frameworks/WHEN-TO-COMPACT.md) | ⭐ 153 | `development` |
+| [Grafana Dashboard Empty Data](development/2980-grafana-dashboard-empty-data_4f82f0a0/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/debugging/grafana-dashboard-empty-data.md) | ⭐ 153 | `development` |
+| [Plugin Release](development/2981-plugin-release_ce5082af/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/deployment/plugin-release.md) | ⭐ 153 | `development` |
+| [Autonomous Completion](development/2982-autonomous-completion_cfb21a6a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/autonomous-completion.md) | ⭐ 153 | `development` |
+| [Multi Claude Troubleshooting](development/2983-multi-claude-troubleshooting_f198c677/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/multi-claude-troubleshooting.md) | ⭐ 153 | `development` |
+| [Plugin Release Workflow](development/2984-plugin-release-workflow_d8171f88/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/plugin-release-workflow.md) | ⭐ 153 | `development` |
+| [Task 05 Autonomous Completion](development/2985-task-05-autonomous-completion_876a6717/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-05-autonomous-completion.md) | ⭐ 153 | `development` |
+| [Task 07 Skills Migration](development/2986-task-07-skills-migration_2a5dafff/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-07-skills-migration.md) | ⭐ 153 | `development` |
+| [Task 08 Skills Enhancements V2.1](development/2987-task-08-skills-enhancements-v21_2def4822/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-08-skills-enhancements-v2.1.md) | ⭐ 153 | `development` |
+| [Task 13 Otel Session Statistics](development/2988-task-13-otel-session-statistics_2a91ef62/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-13-otel-session-statistics.md) | ⭐ 153 | `development` |
+| [Task 14 Claude Md Updater](development/2989-task-14-claude-md-updater_94be74be/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-claude-md-updater.md) | ⭐ 153 | `development` |
+| [Task 14 Documentation Consolidation](development/2990-task-14-documentation-consolidation_98c78cf8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-14-documentation-consolidation.md) | ⭐ 153 | `development` |
+| [Style Presets](development/style-presets_4728d059/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/video-producer/rules/style-presets.md) | ⭐ 302 | `development` |
 
-### Development/Devops (50 skills)
+### Development/Devops (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1476,10 +1474,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Subagents Reference](development/devops/367-subagents-reference_469a4515/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/references/subagents-reference.md) | ⭐ 10 | `development` |
 | [Skill](development/devops/014-name-skill_72ca011a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 16 | `development` |
 | [Config Settings](development/devops/033-config_settings_8d041fed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.8k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Opentelemetry Setup](development/devops/opentelemetry-setup_9b8bea05/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/integrations/opentelemetry-setup.md) | ⭐ 153 | `development` |
-| [Stack Choices](development/devops/stack-choices_c0265fb8/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/stack-choices.md) | ⭐ 153 | `development` |
+| [Opentelemetry Setup](development/devops/372-opentelemetry-setup_9b8bea05/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/integrations/opentelemetry-setup.md) | ⭐ 153 | `development` |
 
-### Development/Testing (13 skills)
+### Development/Testing (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1492,10 +1489,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [23 Pre Commit Config Update](development/testing/088-23-pre-commit-config-update_31fdb907/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/23-pre-commit-config-update.md) | ⭐ 17 | `development` |
 | [Onboarding Internal](development/testing/085-onboarding_internal_02c638f0/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING_INTERNAL.md) | ⭐ 445 | `development` |
 | [Pitfalls](development/testing/087-pitfalls_e1c7c875/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/pitfalls.md) | ⭐ 16 | `development` |
-| [Figma Mcp Integration Report](development/testing/figma-mcp-integration-report_13bd0195/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/figma-mcp-integration-report.md) | ⭐ 153 | `development` |
-| [Skill](development/testing/name-skill_6ea7e6ac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-endpoint/SKILL.md) | ⭐ 153 | `development` |
-| [Skill](development/testing/name-skill_8f1ac1a9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-test/SKILL.md) | ⭐ 153 | `development` |
-| [Tester Claude](development/testing/tester-claude_f98b57cc/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/multi-claude/tester-claude.md) | ⭐ 153 | `development` |
+| [Figma Mcp Integration Report](development/testing/087-figma-mcp-integration-report_13bd0195/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/figma-mcp-integration-report.md) | ⭐ 153 | `development` |
+| [Skill](development/testing/002-name-skill_6ea7e6ac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-endpoint/SKILL.md) | ⭐ 153 | `development` |
 
 ### Development/Tools (78 skills)
 
@@ -1570,15 +1565,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implementation Guide](development/tools/322-implementation-guide_a6071446/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/references/implementation-guide.md) | ⭐ 10 | `development` |
 | [Slash Commands Reference](development/tools/323-slash-commands-reference_a2fa5d10/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-slash-commands/references/slash-commands-reference.md) | ⭐ 10 | `development` |
 | [Python Sdk](development/tools/329-python-sdk_d04307b6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/python-sdk.md) | ⭐ 16 | `development` |
-| [Implementation Summary](development/tools/implementation-summary_fd90d438/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/implementation-summary.md) | ⭐ 153 | `development` |
-| [Mcp Sdk Summary](development/tools/mcp-sdk-summary_10755854/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/mcp-sdk-summary.md) | ⭐ 153 | `development` |
-| [Task 18 Corrections](development/tools/task-18-corrections_326cfa18/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-CORRECTIONS.md) | ⭐ 153 | `development` |
-| [Task 19 Multi Claude Agentic Workflow](development/tools/task-19-multi-claude-agentic-workflow_1d17e588/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-19-multi-claude-agentic-workflow.md) | ⭐ 153 | `development` |
-| [Task 19 Multi Claude Workflow Learnings](development/tools/task-19-multi-claude-workflow-learnings_51f57218/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-19-multi-claude-workflow-learnings.md) | ⭐ 153 | `development` |
-| [Multi Claude Orchestration](development/tools/multi-claude-orchestration_1c215bca/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/multi-claude-orchestration.md) | ⭐ 153 | `development` |
-| [Task 09 Migration System](development/tools/task-09-migration-system_9773f398/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-09-migration-system.md) | ⭐ 153 | `development` |
-| [Claude](development/tools/claude_594d1b0e/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/CLAUDE.md) | ⭐ 153 | `development` |
-| [Project Architecture](development/tools/project-architecture_237d6dfb/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/examples/nextjs-saas/.agent/system/project-architecture.md) | ⭐ 153 | `development` |
+| [Implementation Summary](development/tools/330-implementation-summary_fd90d438/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/implementation-summary.md) | ⭐ 153 | `development` |
+| [Mcp Sdk Summary](development/tools/331-mcp-sdk-summary_10755854/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/mcp-sdk-summary.md) | ⭐ 153 | `development` |
+| [Task 18 Corrections](development/tools/332-task-18-corrections_326cfa18/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-18-CORRECTIONS.md) | ⭐ 153 | `development` |
+| [Task 19 Multi Claude Agentic Workflow](development/tools/333-task-19-multi-claude-agentic-workflow_1d17e588/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-19-multi-claude-agentic-workflow.md) | ⭐ 153 | `development` |
+| [Task 19 Multi Claude Workflow Learnings](development/tools/334-task-19-multi-claude-workflow-learnings_51f57218/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/TASK-19-multi-claude-workflow-learnings.md) | ⭐ 153 | `development` |
+| [Multi Claude Orchestration](development/tools/335-multi-claude-orchestration_1c215bca/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/multi-claude-orchestration.md) | ⭐ 153 | `development` |
+| [Task 09 Migration System](development/tools/336-task-09-migration-system_9773f398/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/tasks/archive/TASK-09-migration-system.md) | ⭐ 153 | `development` |
+| [Gsap Motion Patterns Research](development/tools/gsap-motion-patterns-research_59f7dd0c/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/docs/gsap-motion-patterns-research.md) | ⭐ 302 | `development` |
+| [Readme Cn](development/tools/readme_cn_9adfcf16/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 26 | `development` |
 
 ### Investment (6 skills)
 
@@ -1589,17 +1584,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](investment/051-instructions_c1a87db4/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/enterprise-risk-aggregator/instructions.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_e1c14930/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/portfolio-dashboard/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_7ef1c603/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.1-Cost-Estimation/historical-cost-analyzer/SKILL.md) | ⭐ 33 | `investment` |
-| [Release Notes V5.2.0](investment/release-notes-v520_8fa19cd9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.2.0.md) | ⭐ 153 | `investment` |
+| [Release Notes V5.2.0](investment/051-release-notes-v520_8fa19cd9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.2.0.md) | ⭐ 153 | `investment` |
 
-### Other (3 skills)
+### Other (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
+| [Warm](other/warm_19571f53/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/palettes/warm.md) | ⭐ 302 | `other` |
 
-### Productivity (31 skills)
+### Productivity (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1629,13 +1625,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Motivational Interviewing](productivity/177-motivational_interviewing_32ba4488/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Motivational_Interviewing.md) | ⭐ 28 | `productivity` |
 | [Narrative Exposure Therapy Net](productivity/178-narrative_exposure_therapy_net_e29fe7af/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Exposure_Therapy_NET.md) | ⭐ 28 | `productivity` |
 | [Personcentered Therapy](productivity/179-personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
-| [Release Notes V4.5.0](productivity/release-notes-v450_f5e99e2c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.5.0.md) | ⭐ 153 | `productivity` |
-| [2025 01 20 Grafana Dashboard Fixes](productivity/2025-01-20-grafana-dashboard-fixes_1ceb717a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/markers/2025-01-20-grafana-dashboard-fixes.md) | ⭐ 153 | `productivity` |
-| [Skill](productivity/name-skill_534fdddf/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-stats/SKILL.md) | ⭐ 153 | `productivity` |
-| [Orchestrator Claude](productivity/orchestrator-claude_0b2cdc3f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/templates/multi-claude/orchestrator-claude.md) | ⭐ 153 | `productivity` |
-| [02 Nav Marker](productivity/02-nav-marker_9f6bc56f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/learning-tasks/02-nav-marker.md) | ⭐ 153 | `productivity` |
+| [Release Notes V4.5.0](productivity/174-release-notes-v450_f5e99e2c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.5.0.md) | ⭐ 153 | `productivity` |
+| [2025 01 20 Grafana Dashboard Fixes](productivity/175-2025-01-20-grafana-dashboard-fixes_1ceb717a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/markers/2025-01-20-grafana-dashboard-fixes.md) | ⭐ 153 | `productivity` |
 
-### Research (60 skills)
+### Research (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1699,6 +1692,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
 | [Ehr Data Considerations](research/263-ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
 | [Typing](research/258-typing_b1ef9c8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/typing.md) | ⭐ 16 | `research` |
+| [Hand Drawn](research/hand-drawn_9a866378/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/hand-drawn.md) | ⭐ 302 | `research` |
+| [Painterly](research/painterly_301d1a60/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/painterly.md) | ⭐ 302 | `research` |
 
 ## How Skills Are Organized
 
@@ -1750,5 +1745,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 01:22:40 UTC*
+*Last updated: 2026-02-15 01:23:10 UTC*
 *Automatically maintained by SkillFlow*
