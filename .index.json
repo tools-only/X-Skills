@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T20:23:38.617361",
+  "updated_at": "2026-02-15T20:24:31.532365",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -23184,6 +23184,34 @@
       "repo_updated_at": "2026-02-15T15:01:59+00:00",
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/slow-time-server.md",
       "display_name": "Slow Time Server",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "83b3883e7982d15cc7718e9b99c2e1a25936edc179cac194530f143972f187c6",
+      "source_path": "DESIGN_THEORY.md",
+      "source_repo": "ChenLiu-1996/figures4papers",
+      "local_path": "data-analysis/476-design_theory_83b3883e",
+      "category": "data-analysis",
+      "name": "design_theory_83b3883e",
+      "indexed_at": "2026-02-15T20:24:31.235319",
+      "repo_stars": 185,
+      "repo_updated_at": "2026-02-14T04:59:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/DESIGN_THEORY.md",
+      "display_name": "Design Theory",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "d7ba355c638d39041ace512b53827e320686f1fcbf579831d3d643962fecb03f",
+      "source_path": "skills/scientific-figure-pro/SKILL.md",
+      "source_repo": "ChenLiu-1996/figures4papers",
+      "local_path": "development/1178-name-skill_d7ba355c",
+      "category": "development",
+      "name": "name-skill_d7ba355c",
+      "indexed_at": "2026-02-15T20:24:31.532322",
+      "repo_stars": 185,
+      "repo_updated_at": "2026-02-14T21:15:38+00:00",
+      "source_url": "https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/skills/scientific-figure-pro/SKILL.md",
+      "display_name": "Skill",
       "tags": "[\"development\"]"
     }
   ]
