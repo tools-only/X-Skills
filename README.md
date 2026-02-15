@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1497 AI-powered skills** organized into 15 categories.
+A curated collection of **1538 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (22 skills)
-- **Automation/Workflow** (94 skills)
-- **Commercial** (54 skills)
-- **Communication** (32 skills)
-- **Content Creation** (117 skills)
+- **Automation/Scripting** (23 skills)
+- **Automation/Workflow** (97 skills)
+- **Commercial** (58 skills)
+- **Communication** (34 skills)
+- **Content Creation** (120 skills)
 - **Daily Assistant** (79 skills)
-- **Data Analysis** (292 skills)
-- **Development** (517 skills)
-- **Development/Devops** (73 skills)
-- **Development/Testing** (12 skills)
-- **Development/Tools** (107 skills)
+- **Data Analysis** (294 skills)
+- **Development** (528 skills)
+- **Development/Devops** (74 skills)
+- **Development/Testing** (17 skills)
+- **Development/Tools** (112 skills)
 - **Investment** (6 skills)
 - **Other** (3 skills)
 - **Productivity** (28 skills)
-- **Research** (61 skills)
+- **Research** (65 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (22 skills)
+### Automation/Scripting (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -207,8 +207,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
+| [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (94 skills)
+### Automation/Workflow (97 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -306,8 +307,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Skills Created](automation/workflow/138-readme_flat_skills_created_fc55570e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 23.7k | `automation` |
 | [Commit Push Pr](automation/workflow/134-commit-push-pr_b2b3d4bf/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/commit-push-pr.md) | ⭐ 1.2k | `automation` |
 | [Readme Flat Skills Updated](automation/workflow/142-readme_flat_skills_updated_77bc4375/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 23.7k | `automation` |
+| [Backlog](automation/workflow/063-backlog_5428bc80/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/064-description-skill_fc37ad00/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/feature-discovery/SKILL.md) | ⭐ 17 | `automation` |
+| [Quality Criteria](automation/workflow/quality-criteria_383def16/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/references/quality-criteria.md) | ⭐ 97 | `automation` |
 
-### Commercial (54 skills)
+### Commercial (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -365,8 +369,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Developer Workstation](commercial/060-developer-workstation_c54684b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-workstation.md) | ⭐ 3.3k | `commercial` |
 | [Dependency Upgrade](commercial/366-dependency-upgrade_b4898334/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/dependency-upgrade.md) | ⭐ 1.2k | `commercial` |
 | [Skill](commercial/210-name-skill_25665444/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/database-design/SKILL.md) | ⭐ 1.2k | `commercial` |
+| [Skill](commercial/name-skill_a0491281/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/shadcn-ui/SKILL.md) | ⭐ 97 | `commercial` |
+| [Java Clean Architecture](commercial/java-clean-architecture_e1014fd6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/clean-architecture/references/java-clean-architecture.md) | ⭐ 97 | `commercial` |
+| [Python Clean Architecture](commercial/python-clean-architecture_9bcff3a0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/references/python-clean-architecture.md) | ⭐ 97 | `commercial` |
+| [Nestjs Implementation](commercial/nestjs-implementation_725402e3/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/references/nestjs-implementation.md) | ⭐ 97 | `commercial` |
 
-### Communication (32 skills)
+### Communication (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -401,9 +409,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Navigator Plugin Release Workflow](communication/261-navigator-plugin-release-workflow_f5eaf618/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/sops/development/navigator-plugin-release-workflow.md) | ⭐ 153 | `communication` |
 | [Summarize Changes](communication/250-summarize-changes_50d87e1e/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/summarize-changes.md) | ⭐ 1.2k | `communication` |
 | [Skill](communication/127-name-skill_3d23144a/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/designing-apis/SKILL.md) | ⭐ 1.2k | `communication` |
-| [Notification Flow](communication/notification_flow_34f45e3d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/NOTIFICATION_FLOW.md) | ⭐ 4.0k | `communication` |
+| [Notification Flow](communication/145-notification_flow_34f45e3d/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/NOTIFICATION_FLOW.md) | ⭐ 4.0k | `communication` |
+| [Php Clean Architecture](communication/php-clean-architecture_7f38a2dd/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/clean-architecture/references/php-clean-architecture.md) | ⭐ 97 | `communication` |
+| [Typescript Clean Architecture](communication/typescript-clean-architecture_a6bb0ce9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/references/typescript-clean-architecture.md) | ⭐ 97 | `communication` |
 
-### Content Creation (117 skills)
+### Content Creation (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -524,6 +534,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_9e9b8190/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/parallel-execution/SKILL.md) | ⭐ 1.2k | `content creation` |
 | [Skill](content-creation/049-name-skill_0f0b4d9a/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/web-design-guidelines/SKILL.md) | ⭐ 1.2k | `content creation` |
 | [Readme Generation](content-creation/383-readme-generation_5ef2fc95/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/README-GENERATION.md) | 🔥 23.7k | `content creation` |
+| [External Pattern Integration 2026 02 01](content-creation/355-external-pattern-integration-2026-02-01_70cd2488/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/external-pattern-integration-2026-02-01.md) | ⭐ 17 | `content creation` |
+| [Claude Context Optimizer](content-creation/356-claude-context-optimizer_2dd22ca3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/claude-context-optimizer.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_a3dcd490/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 97 | `wordpress` `sage` `theme` |
 
 ### Daily Assistant (79 skills)
 
@@ -609,7 +622,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_89736f7d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `daily assistant` |
 | [Sync Branch](daily-assistant/262-sync-branch_4b94bd45/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/sync-branch.md) | ⭐ 1.2k | `daily assistant` |
 
-### Data Analysis (292 skills)
+### Data Analysis (294 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -905,8 +918,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Font](data-analysis/480-font_6fc3b794/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/dimensions/font.md) | ⭐ 302 | `data analysis` |
 | [Pixel](data-analysis/481-pixel_43bc0df6/) | [notedit/happy-skills](https://raw.githubusercontent.com/notedit/happy-skills/main/skills/cover-image/references/renderings/pixel.md) | ⭐ 302 | `data analysis` |
 | [Metrics](data-analysis/476-metrics_2d8815c0/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/metrics.md) | ⭐ 1.2k | `data analysis` |
+| [Claude](data-analysis/036-claude_cb9b38f1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Chart](data-analysis/chart_c0e56ff2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/shadcn-ui/references/chart.md) | ⭐ 97 | `data analysis` |
 
-### Development (517 skills)
+### Development (528 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1426,9 +1441,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_298f64c6/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/optimizing-performance/SKILL.md) | ⭐ 1.2k | `development` |
 | [Skill](development/1178-name-skill_9e90b1df/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/security-patterns/SKILL.md) | ⭐ 1.2k | `development` |
 | [Skill](development/1178-name-skill_4c0cd31c/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/skills/vercel-react-best-practices/SKILL.md) | ⭐ 1.2k | `development` |
-| [Overview](development/overview_50da27dd/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/OVERVIEW.md) | ⭐ 4.0k | `development` |
+| [Overview](development/650-overview_50da27dd/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/OVERVIEW.md) | ⭐ 4.0k | `development` |
+| [Claude](development/140-claude_c30051c7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/CLAUDE.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_1ea5c45b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
+| [Skill](development/name-skill_b1625417/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-drawio-architecture-diagrams/SKILL.md) | ⭐ 97 | `aws` `drawio` `architecture` |
+| [Update Guidelines](development/update-guidelines_4478b1f4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/references/update-guidelines.md) | ⭐ 97 | `development` |
+| [Symfony Implementation](development/symfony-implementation_9941d414/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/clean-architecture/references/symfony-implementation.md) | ⭐ 97 | `development` |
+| [Guide Skills Architecture](development/guide-skills-architecture_56e9802b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/docs/guide-skills-architecture.md) | ⭐ 97 | `development` |
+| [Guide Skills Architecture](development/guide-skills-architecture_d2d3a49e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/docs/guide-skills-architecture.md) | ⭐ 97 | `development` |
+| [Guide Skills Architecture](development/guide-skills-architecture_b5a0f1fc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/docs/guide-skills-architecture.md) | ⭐ 97 | `development` |
+| [Guide Skills Architecture](development/guide-skills-architecture_a4a47f0a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/docs/guide-skills-architecture.md) | ⭐ 97 | `development` |
+| [Templates](development/templates_dc6b975b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/references/templates.md) | ⭐ 97 | `development` |
+| [Aws Shape Reference](development/aws-shape-reference_8342b01a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-drawio-architecture-diagrams/references/aws-shape-reference.md) | ⭐ 97 | `development` |
 
-### Development/Devops (73 skills)
+### Development/Devops (74 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1504,9 +1530,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_e88d47e8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.7k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_04ef0a9a/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.7k | `development` |
 | [Skill](development/devops/014-name-skill_1184cb90/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-credentials/SKILL.md) | 🔥 7.4k | `development` |
-| [Ci Cd Infrastructure](development/devops/ci_cd_infrastructure_ebd8175a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
+| [Ci Cd Infrastructure](development/devops/088-ci_cd_infrastructure_ebd8175a/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CI_CD_INFRASTRUCTURE.md) | ⭐ 4.0k | `development` |
+| [Skill](development/devops/name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 
-### Development/Testing (12 skills)
+### Development/Testing (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1522,8 +1549,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Figma Mcp Integration Report](development/testing/087-figma-mcp-integration-report_13bd0195/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/design-system/figma-mcp-integration-report.md) | ⭐ 153 | `development` |
 | [Skill](development/testing/002-name-skill_6ea7e6ac/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-endpoint/SKILL.md) | ⭐ 153 | `development` |
 | [Commit](development/testing/081-commit_366fb3ff/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/commit.md) | ⭐ 1.2k | `development` |
+| [Tasks 2 Validator Ux Coverage](development/testing/081-tasks-2-validator-ux-coverage_4a8ccd99/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 17 | `development` |
+| [Skill](development/testing/name-skill_c2c7f0f7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
+| [Spring Boot Implementation](development/testing/spring-boot-implementation_69b14a6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/clean-architecture/references/spring-boot-implementation.md) | ⭐ 97 | `development` |
+| [Fastapi Implementation](development/testing/fastapi-implementation_606dba63/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/references/fastapi-implementation.md) | ⭐ 97 | `development` |
+| [Skill](development/testing/name-skill_a7c49d2f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
 
-### Development/Tools (107 skills)
+### Development/Tools (112 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1634,6 +1666,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Styles Updated](development/tools/177-readme_flat_styles_updated_4474855e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_UPDATED.md) | 🔥 23.7k | `development` |
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_de0863d6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 23.7k | `development` |
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_f92e6902/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 23.7k | `development` |
+| [Backlog Item Groomer](development/tools/324-backlog-item-groomer_04aa6577/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 17 | `development` |
+| [Ecosystem Researcher V1.1 Rt Ica](development/tools/224-ecosystem-researcher-v11-rt-ica_253a9be9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/ecosystem-researcher-v1.1-rt-ica.md) | ⭐ 17 | `development` |
+| [Sse Gap Analysis](development/tools/090-sse-gap-analysis_d395aff8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/planning/sse-gap-analysis.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/name-skill_8bea2c90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 97 | `clean-architecture` `hexagonal-architecture` `ddd` |
+| [Aws Architecture Templates](development/tools/aws-architecture-templates_3a9ecbdb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-drawio-architecture-diagrams/references/aws-architecture-templates.md) | ⭐ 97 | `development` |
 
 ### Investment (6 skills)
 
@@ -1687,7 +1724,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes V4.5.0](productivity/174-release-notes-v450_f5e99e2c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.5.0.md) | ⭐ 153 | `productivity` |
 | [2025 01 20 Grafana Dashboard Fixes](productivity/175-2025-01-20-grafana-dashboard-fixes_1ceb717a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/markers/2025-01-20-grafana-dashboard-fixes.md) | ⭐ 153 | `productivity` |
 
-### Research (61 skills)
+### Research (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1751,7 +1788,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
 | [Ehr Data Considerations](research/263-ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
 | [Typing](research/258-typing_b1ef9c8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/typing.md) | ⭐ 16 | `research` |
-| [Database Schema](research/database_schema_a0f7fe68/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/DATABASE_SCHEMA.md) | ⭐ 4.0k | `research` |
+| [Database Schema](research/157-database_schema_a0f7fe68/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/architecture/DATABASE_SCHEMA.md) | ⭐ 4.0k | `research` |
+| [Arl Expert Panel](research/256-arl-expert-panel_eabf714b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/commands/arl-expert-panel.md) | ⭐ 17 | `research` |
+| [Gaps Analysis](research/167-gaps-analysis_cf3eb885/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/skill-research-process/references/gaps-analysis.md) | ⭐ 17 | `research` |
+| [Skill](research/163-description-skill_5956003e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 17 | `research` |
+| [Arl Agent Instructions](research/257-arl-agent-instructions_78761d66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/ARL-agent-instructions.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -1803,5 +1844,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 08:22:58 UTC*
+*Last updated: 2026-02-15 09:22:14 UTC*
 *Automatically maintained by SkillFlow*
