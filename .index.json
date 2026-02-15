@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T00:22:03.510720",
+  "updated_at": "2026-02-15T01:22:04.918403",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -17389,6 +17389,20 @@
       "source_url": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/tips-and-tricks.md",
       "display_name": "Tips And Tricks",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8d041fedc4e5118313f1450634500f71d80c8aaf3089926ad8611957818b5e3f",
+      "source_path": "docs/my-website/docs/proxy/config_settings.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/033-config_settings_8d041fed",
+      "category": "development/devops",
+      "name": "config_settings_8d041fed",
+      "indexed_at": "2026-02-15T01:22:04.918353",
+      "repo_stars": 35752,
+      "repo_updated_at": "2026-02-14T01:32:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
+      "display_name": "Config Settings",
+      "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
     }
   ]
 }

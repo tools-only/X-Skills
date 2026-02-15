@@ -16,13 +16,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Daily Assistant** (61 skills)
 - **Data Analysis** (273 skills)
 - **Development** (437 skills)
-- **Development/Devops** (47 skills)
+- **Development/Devops** (48 skills)
 - **Development/Testing** (9 skills)
 - **Development/Tools** (69 skills)
 - **Investment** (5 skills)
 - **Other** (3 skills)
 - **Productivity** (26 skills)
-- **Research** (61 skills)
+- **Research** (60 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -245,7 +245,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Self Correction](automation/workflow/137-self-correction_8bd20857/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/self-correction.md) | ⭐ 99 | `automation` |
 | [Skill](automation/workflow/002-name-skill_cc0cbbde/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/asking-clarifying-questions/SKILL.md) | ⭐ 110 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
-| [Backlog](automation/workflow/backlog_f9791116/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
+| [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 | [Improvement Roadmap](automation/workflow/141-improvement_roadmap_6504ae62/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/IMPROVEMENT_ROADMAP.md) | ⭐ 33 | `automation` |
@@ -800,7 +800,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 
 ### Development (437 skills)
 
@@ -1241,10 +1241,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugins Guide](development/2859-plugins-guide_a170de9f/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-plugins/references/plugins-guide.md) | ⭐ 10 | `development` |
 | [Code Reviewer](development/2591-code-reviewer_ff7440b0/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/code-reviewer.md) | ⭐ 10 | `development` |
 | [Debugger](development/2592-debugger_042e9fa9/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/assets/debugger.md) | ⭐ 10 | `development` |
-| [Search Reference](development/search-reference_41972dd1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/search-reference.md) | ⭐ 16 | `development` |
-| [Tips And Tricks](development/tips-and-tricks_c62eaf99/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/tips-and-tricks.md) | ⭐ 16 | `development` |
+| [Search Reference](development/2904-search-reference_41972dd1/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/search-reference.md) | ⭐ 16 | `development` |
+| [Tips And Tricks](development/1079-tips-and-tricks_c62eaf99/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/atuin-skill/references/tips-and-tricks.md) | ⭐ 16 | `development` |
 
-### Development/Devops (47 skills)
+### Development/Devops (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1259,7 +1259,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_c17d7a5f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 23.5k | `development` |
 | [Readme Flat Tooling Updated](development/devops/164-readme_flat_tooling_updated_91ee5233/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_UPDATED.md) | 🔥 23.5k | `development` |
 | [Pipeline Spec](development/devops/367-pipeline_spec_60683b0e/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/api/pipeline_spec.md) | ⭐ 10 | `development` |
-| [Config Settings](development/devops/033-config_settings_a882cf5b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.8k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](development/devops/config_settings_8d041fed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.8k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Readme Cn](development/devops/069-readme-cn_162e7ea6/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/README-cn.md) | ⭐ 151 | `development` |
 | [Sync Anthropic Beta Headers](development/devops/376-sync_anthropic_beta_headers_cc87512d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/sync_anthropic_beta_headers.md) | 🔥 35.8k | `development` |
 | [Architecture Workflow Guide Cn](development/devops/070-architecture-workflow-guide-cn_1a497d91/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/docs/ARCHITECTURE-WORKFLOW-GUIDE-cn.md) | ⭐ 151 | `development` |
@@ -1294,7 +1294,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugins Reference](development/devops/365-plugins-reference_3c9750b7/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-plugins/references/plugins-reference.md) | ⭐ 10 | `development` |
 | [Allowed Tools Guide](development/devops/366-allowed-tools-guide_a7caa954/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-skills/references/allowed-tools-guide.md) | ⭐ 10 | `development` |
 | [Subagents Reference](development/devops/367-subagents-reference_469a4515/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-subagents/references/subagents-reference.md) | ⭐ 10 | `development` |
-| [Skill](development/devops/name-skill_72ca011a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 16 | `development` |
+| [Skill](development/devops/014-name-skill_72ca011a/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/SKILL.md) | ⭐ 16 | `development` |
+| [Config Settings](development/devops/033-config_settings_8d041fed/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 35.8k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Development/Testing (9 skills)
 
@@ -1382,7 +1383,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent Sdk Slash Commands](development/tools/321-agent-sdk_slash-commands_415802d6/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_slash-commands.md) | ⭐ 10 | `development` |
 | [Implementation Guide](development/tools/322-implementation-guide_a6071446/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/references/implementation-guide.md) | ⭐ 10 | `development` |
 | [Slash Commands Reference](development/tools/323-slash-commands-reference_a2fa5d10/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-slash-commands/references/slash-commands-reference.md) | ⭐ 10 | `development` |
-| [Python Sdk](development/tools/python-sdk_d04307b6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/python-sdk.md) | ⭐ 16 | `development` |
+| [Python Sdk](development/tools/329-python-sdk_d04307b6/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/1password-skill/references/python-sdk.md) | ⭐ 16 | `development` |
 
 ### Investment (5 skills)
 
@@ -1433,7 +1434,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative Exposure Therapy Net](productivity/178-narrative_exposure_therapy_net_e29fe7af/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Narrative_Exposure_Therapy_NET.md) | ⭐ 28 | `productivity` |
 | [Personcentered Therapy](productivity/179-personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
 
-### Research (61 skills)
+### Research (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1497,7 +1498,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_22d798be/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/sirs-criteria/SKILL.md) | ⭐ 13 | `research` |
 | [Ehr Data Considerations](research/263-ehr-data-considerations_2b564248/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/ehr-data-considerations.md) | ⭐ 13 | `research` |
 | [Typing](research/258-typing_b1ef9c8b/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/typing.md) | ⭐ 16 | `research` |
-| [Accessing Online Resources](research/accessing_online_resources_52e62a8f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/accessing_online_resources.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -1549,5 +1549,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 00:22:03 UTC*
+*Last updated: 2026-02-15 01:22:05 UTC*
 *Automatically maintained by SkillFlow*
