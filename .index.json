@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-15T09:22:14.569234",
+  "updated_at": "2026-02-15T09:22:40.170451",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -21393,6 +21393,20 @@
       "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"wordpress\", \"sage\", \"theme\", \"blade\", \"acf\"]"
+    },
+    {
+      "file_hash": "b89179cad481f50928dccf8de6fc4f36f418f1560236fd29cad4ccb569864320",
+      "source_path": "docs/deploy.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "development/devops/037-deploy_b89179ca",
+      "category": "development/devops",
+      "name": "deploy_b89179ca",
+      "indexed_at": "2026-02-15T09:22:40.170403",
+      "repo_stars": 87,
+      "repo_updated_at": "2026-02-14T17:05:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md",
+      "display_name": "Deploy",
+      "tags": "[\"development\"]"
     }
   ]
 }
