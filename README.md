@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1658 AI-powered skills** organized into 15 categories.
+A curated collection of **1659 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (24 skills)
+- **Automation/Scripting** (25 skills)
 - **Automation/Workflow** (99 skills)
 - **Commercial** (64 skills)
 - **Communication** (37 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (24 skills)
+### Automation/Scripting (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -209,6 +209,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 | [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_32a134bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 23 | `automation` |
+| [Skill](automation/scripting/name-skill_909dc354/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_PlayerSlotToPlayerController/SKILL.md) | ⭐ 18 | `automation` |
 
 ### Automation/Workflow (99 skills)
 
@@ -958,7 +959,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](data-analysis/113-index_1cbe51fc/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/11-educational-resources-assessment/index.md) | ⭐ 45 | `data analysis` |
 | [Index](data-analysis/113-index_35cf6f30/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/13-dev-tools-version-control-deployment/index.md) | ⭐ 45 | `data analysis` |
 | [Mermaid Guide](data-analysis/143-mermaid-guide_ac9857ca/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) | ⭐ 45 | `data analysis` |
-| [Design Theory](data-analysis/design_theory_83b3883e/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/DESIGN_THEORY.md) | ⭐ 185 | `data analysis` |
+| [Design Theory](data-analysis/476-design_theory_83b3883e/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/DESIGN_THEORY.md) | ⭐ 185 | `data analysis` |
 
 ### Development (575 skills)
 
@@ -1538,7 +1539,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_efc58bd9/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/08-mkdocs-platform-documentation/index.md) | ⭐ 45 | `development` |
 | [Index](development/468-index_63bcf0f6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/12-interactive-elements-microsims/index.md) | ⭐ 45 | `development` |
 | [Skill](development/1178-name-skill_65c998e6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/git-worktrees/skills/git-worktrees/SKILL.md) | ⭐ 23 | `development` |
-| [Skill](development/name-skill_d7ba355c/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/skills/scientific-figure-pro/SKILL.md) | ⭐ 185 | `development` |
+| [Skill](development/1178-name-skill_d7ba355c/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/skills/scientific-figure-pro/SKILL.md) | ⭐ 185 | `development` |
 
 ### Development/Devops (87 skills)
 
@@ -1964,5 +1965,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 20:24:31 UTC*
+*Last updated: 2026-02-15 22:22:50 UTC*
 *Automatically maintained by SkillFlow*
