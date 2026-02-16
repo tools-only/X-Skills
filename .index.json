@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T06:23:44.799724",
+  "updated_at": "2026-02-16T06:25:10.606107",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24458,6 +24458,48 @@
       "repo_updated_at": "2026-02-16T01:31:27+00:00",
       "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md",
       "display_name": "Env Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "780fe763782b16d7e4be1ae0ad77c82b2a1ab325a776bed1304f5c2825d0c32b",
+      "source_path": "remembering/_ARCH.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/2861-_arch_780fe763",
+      "category": "development",
+      "name": "_arch_780fe763",
+      "indexed_at": "2026-02-16T06:25:10.092208",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-16T03:58:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md",
+      "display_name": "Arch",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0f70c07ab7f8d83f54f9755a564ee32f9f879c3b077f3bb1119550d548ff99da",
+      "source_path": "remembering/SKILL.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/devops/014-name-skill_0f70c07a",
+      "category": "development/devops",
+      "name": "name-skill_0f70c07a",
+      "indexed_at": "2026-02-16T06:25:10.315376",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-16T03:58:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "803f2e102c0513488f99e6a7f02939613797796e83686652826d155a1c5beb0c",
+      "source_path": "remembering/references/CLAUDE.md",
+      "source_repo": "oaustegard/claude-skills",
+      "local_path": "development/tools/017-claude_803f2e10",
+      "category": "development/tools",
+      "name": "claude_803f2e10",
+      "indexed_at": "2026-02-16T06:25:10.605783",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-16T03:58:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md",
+      "display_name": "Claude",
       "tags": "[\"development\"]"
     }
   ]
