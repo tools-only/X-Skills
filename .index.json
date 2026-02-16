@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T06:25:10.606107",
+  "updated_at": "2026-02-16T07:23:06.877035",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24501,6 +24501,20 @@
       "source_url": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md",
       "display_name": "Claude",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "37d93107013ef4110fb07afab3631cd8670b3f409698301fdf0000db7603de26",
+      "source_path": "README_CN.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "data-analysis/436-readme_cn_37d93107",
+      "category": "data-analysis",
+      "name": "readme_cn_37d93107",
+      "indexed_at": "2026-02-16T07:23:06.877003",
+      "repo_stars": 1471,
+      "repo_updated_at": "2026-02-14T12:29:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

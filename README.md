@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1755 AI-powered skills** organized into 15 categories.
+A curated collection of **1751 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -13,11 +13,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (68 skills)
 - **Communication** (40 skills)
 - **Content Creation** (140 skills)
-- **Daily Assistant** (90 skills)
-- **Data Analysis** (319 skills)
-- **Development** (588 skills)
+- **Daily Assistant** (88 skills)
+- **Data Analysis** (320 skills)
+- **Development** (586 skills)
 - **Development/Devops** (92 skills)
-- **Development/Testing** (22 skills)
+- **Development/Testing** (21 skills)
 - **Development/Tools** (144 skills)
 - **Investment** (12 skills)
 - **Other** (3 skills)
@@ -584,7 +584,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Derived Quantities Guide](content-creation/375-derived_quantities_guide_c1a3e6f2/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/derived_quantities_guide.md) | ⭐ 19 | `content creation` |
 | [Target User Agentic Harness V0](content-creation/371-target_user_agentic_harness_v0_e76baae4/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 
-### Daily Assistant (90 skills)
+### Daily Assistant (88 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -676,10 +676,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Scheme Catalog](daily-assistant/279-scheme_catalog_e2bfc0fa/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/scheme_catalog.md) | ⭐ 19 | `daily assistant` |
 | [Chat](daily-assistant/277-chat_db41477b/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/chat.md) | ⭐ 13 | `daily assistant` |
 | [Subagent Implementation Report](daily-assistant/278-subagent_implementation_report_0326551a/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/SUBAGENT_IMPLEMENTATION_REPORT.md) | ⭐ 13 | `daily assistant` |
-| [Map](daily-assistant/_map_1ae3018b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_MAP.md) | ⭐ 102 | `daily assistant` |
-| [Map](daily-assistant/_map_64fd9923/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/scripts/_MAP.md) | ⭐ 102 | `daily assistant` |
 
-### Data Analysis (319 skills)
+### Data Analysis (320 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -948,7 +946,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](data-analysis/483-instructions_754f0ec2/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pdf-construction/instructions.md) | ⭐ 33 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3c600637/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/SKILL.md) | ⭐ 33 | `data analysis` |
 | [Instructions](data-analysis/483-instructions_bfe3e653/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/instructions.md) | ⭐ 33 | `data analysis` |
-| [Readme Cn](data-analysis/436-readme_cn_2a39c48d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
+| [Readme Cn](data-analysis/readme_cn_37d93107/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.5k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_668c27e8/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_c930ee03/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/clinical-research-session/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Reporting Guidelines](data-analysis/482-reporting-guidelines_90f334a5/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/reporting-guidelines.md) | ⭐ 13 | `data analysis` |
@@ -1002,8 +1000,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_5eef58af/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.8k | `data analysis` |
 | [Velocity Forecasting Guide](data-analysis/477-velocity-forecasting-guide_3e7775ac/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/velocity-forecasting-guide.md) | ⭐ 1.8k | `data analysis` |
 | [Models](data-analysis/480-models_36696d39/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/models.md) | ⭐ 13 | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_37d93107/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.5k | `data analysis` |
 
-### Development (588 skills)
+### Development (586 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1305,7 +1304,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_e8ca36b6/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/neoantigen-pipeline/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/1178-name-skill_15280959/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/smrna-pipeline/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/1178-name-skill_ec7166f4/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/exploring-codebases/SKILL.md) | ⭐ 99 | `development` |
-| [Arch](development/_arch_780fe763/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 102 | `development` |
+| [Arch](development/2897-_arch_fce4e16d/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 99 | `development` |
 | [Code Generation](development/2898-code-generation_32048ef0/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/code-generation.md) | ⭐ 99 | `development` |
 | [Audit](development/2883-audit_59c5e3e0/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/AUDIT.md) | ⭐ 15 | `development` |
 | [Code Reviewer](development/2591-code-reviewer_bfdabe88/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/agents/code-reviewer.md) | ⭐ 110 | `development` |
@@ -1593,8 +1592,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workspaces](development/2916-workspaces_21814f40/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workspaces.md) | ⭐ 13 | `development` |
 | [Todo Order Fix Explanation](development/2917-todo_order_fix_explanation_0906c44c/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/hooks/TODO_ORDER_FIX_EXPLANATION.md) | ⭐ 13 | `development` |
 | [Arch](development/2861-_arch_780fe763/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 102 | `development` |
-| [Map](development/_map_bfcb304c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/_MAP.md) | ⭐ 102 | `development` |
-| [Map](development/_map_c82638bf/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/_MAP.md) | ⭐ 102 | `development` |
 
 ### Development/Devops (92 skills)
 
@@ -1691,9 +1688,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Server](development/devops/369-server_280c593c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/server.md) | ⭐ 364 | `development` |
 | [Skill](development/devops/014-name-skill_ad491887/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md) | ⭐ 581 | `development` |
 | [Env Configuration](development/devops/091-env_configuration_4edec203/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md) | ⭐ 4.0k | `development` |
-| [Skill](development/devops/name-skill_0f70c07a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `development` |
+| [Skill](development/devops/014-name-skill_0f70c07a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `development` |
 
-### Development/Testing (22 skills)
+### Development/Testing (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1718,7 +1715,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 | [Doe Methods](development/testing/085-doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
-| [Map](development/testing/_map_1caa6083/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/tests/_MAP.md) | ⭐ 102 | `development` |
 
 ### Development/Tools (144 skills)
 
@@ -1753,7 +1749,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_c58bf017/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/variant-calling/structural-variant-calling/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/tools/002-name-skill_d0ed4585/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflow-management/cwl-workflows/SKILL.md) | ⭐ 244 | `development` |
 | [Skill](development/tools/002-name-skill_97aa400f/) | [GPTomics/bioSkills](https://raw.githubusercontent.com/GPTomics/bioSkills/main/workflows/clip-pipeline/SKILL.md) | ⭐ 244 | `development` |
-| [Claude](development/tools/claude_803f2e10/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 102 | `development` |
+| [Claude](development/tools/017-claude_c3e94863/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 99 | `development` |
 | [Anthropic Best Practices](development/tools/326-anthropic-best-practices_886fd9ec/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/_docs/anthropic-best-practices.md) | ⭐ 110 | `development` |
 | [Skill](development/tools/002-name-skill_b0e278ab/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-house-style/skills/howto-code-in-typescript/SKILL.md) | ⭐ 110 | `development` |
 | [Plugin Validator Architecture](development/tools/327-plugin-validator-architecture_44433ed6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/plugin-validator-architecture.md) | ⭐ 17 | `development` |
@@ -2061,5 +2057,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 06:25:10 UTC*
+*Last updated: 2026-02-16 07:23:07 UTC*
 *Automatically maintained by SkillFlow*
