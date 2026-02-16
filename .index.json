@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T21:24:09.707092",
+  "updated_at": "2026-02-16T22:25:38.513250",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -28252,6 +28252,34 @@
       "repo_updated_at": "2026-02-16T19:13:37+00:00",
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/040-flexible-admin-ui-sections.md",
       "display_name": "040 Flexible Admin Ui Sections",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8a0fad1e74a291fa3f5d16dbb29ebfd3e42de4cdbd6aa75fcbe22caa2f8258dd",
+      "source_path": ".cursor/plans/configurable_mcp_argument_exclusion_818376eb.plan.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "development/tools/330-configurable_mcp_argument_exclusion_818376ebplan_8a0fad1e",
+      "category": "development/tools",
+      "name": "configurable_mcp_argument_exclusion_818376ebplan_8a0fad1e",
+      "indexed_at": "2026-02-16T22:25:38.088369",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-16T13:08:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/configurable_mcp_argument_exclusion_818376eb.plan.md",
+      "display_name": "Configurable Mcp Argument Exclusion 818376Eb.Plan",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "40928d3e7e8d69c4ee23f6c623fa516ddfbc4e2a9903ebbf76d63feefb5765ca",
+      "source_path": ".cursor/plans/mcp_tools_availability_over_yaml_config_e94e51d8.plan.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "development/2866-mcp_tools_availability_over_yaml_config_e94e51d8plan_40928d3e",
+      "category": "development",
+      "name": "mcp_tools_availability_over_yaml_config_e94e51d8plan_40928d3e",
+      "indexed_at": "2026-02-16T22:25:38.513212",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-16T12:35:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/mcp_tools_availability_over_yaml_config_e94e51d8.plan.md",
+      "display_name": "Mcp Tools Availability Over Yaml Config E94E51D8.Plan",
       "tags": "[\"development\"]"
     }
   ]
