@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T05:22:32.896889",
+  "updated_at": "2026-02-16T05:25:00.728516",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24123,6 +24123,90 @@
       "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md",
       "display_name": "Target User Panel Prompt",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "7e4bca3c9b4463133372fcfdbb06e665865006b24ed41fc957ebecca8b1115af",
+      "source_path": "project-management/scrum-master/SKILL.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "productivity/093-name-skill_7e4bca3c",
+      "category": "productivity",
+      "name": "name-skill_7e4bca3c",
+      "indexed_at": "2026-02-16T05:24:58.520985",
+      "repo_stars": 1816,
+      "repo_updated_at": "2026-02-15T20:36:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"productivity\"]"
+    },
+    {
+      "file_hash": "f926f0231a48696f8d8dc5c08f531f19da6cc37d0193b8d381b8d187de759264",
+      "source_path": "project-management/senior-pm/references/portfolio-prioritization-models.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "productivity/173-portfolio-prioritization-models_f926f023",
+      "category": "productivity",
+      "name": "portfolio-prioritization-models_f926f023",
+      "indexed_at": "2026-02-16T05:24:58.985261",
+      "repo_stars": 1816,
+      "repo_updated_at": "2026-02-15T20:36:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md",
+      "display_name": "Portfolio Prioritization Models",
+      "tags": "[\"productivity\"]"
+    },
+    {
+      "file_hash": "5eef58af568f11f0c5bac3fe529c6e1105f49ab7900789001faab0f118897e5d",
+      "source_path": "project-management/senior-pm/SKILL.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "data-analysis/226-name-skill_5eef58af",
+      "category": "data-analysis",
+      "name": "name-skill_5eef58af",
+      "indexed_at": "2026-02-16T05:24:59.497450",
+      "repo_stars": 1816,
+      "repo_updated_at": "2026-02-15T20:36:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "3e7775ac42479fff57040b4e561fddd6c23b61cdeb01ae6bf4f9224e434449ec",
+      "source_path": "project-management/scrum-master/references/velocity-forecasting-guide.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "data-analysis/477-velocity-forecasting-guide_3e7775ac",
+      "category": "data-analysis",
+      "name": "velocity-forecasting-guide_3e7775ac",
+      "indexed_at": "2026-02-16T05:24:59.988862",
+      "repo_stars": 1816,
+      "repo_updated_at": "2026-02-15T20:36:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/velocity-forecasting-guide.md",
+      "display_name": "Velocity Forecasting Guide",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "52e31057ab3a10648b07e44ab5f6440e2a219e895d5f93ed60e6c386cc768a54",
+      "source_path": "project-management/scrum-master/references/team-dynamics-framework.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "development/2879-team-dynamics-framework_52e31057",
+      "category": "development",
+      "name": "team-dynamics-framework_52e31057",
+      "indexed_at": "2026-02-16T05:25:00.439338",
+      "repo_stars": 1816,
+      "repo_updated_at": "2026-02-15T20:36:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/team-dynamics-framework.md",
+      "display_name": "Team Dynamics Framework",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "326fdcf2826b7e44b196c261e6613f727a922f9e0f8e6e103809a49d962feb58",
+      "source_path": "project-management/senior-pm/references/risk-management-framework.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "investment/048-risk-management-framework_326fdcf2",
+      "category": "investment",
+      "name": "risk-management-framework_326fdcf2",
+      "indexed_at": "2026-02-16T05:25:00.728469",
+      "repo_stars": 1816,
+      "repo_updated_at": "2026-02-15T20:36:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/risk-management-framework.md",
+      "display_name": "Risk Management Framework",
+      "tags": "[\"investment\"]"
     }
   ]
 }
