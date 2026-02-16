@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T10:22:51.099758",
+  "updated_at": "2026-02-16T11:23:01.453856",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -25005,6 +25005,20 @@
       "source_url": "https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md",
       "display_name": "Images Vision",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "cd1eb1d24e117eefa63e168797b33c2385309b82c0287771770544e4ae183bb2",
+      "source_path": "CLAUDE.md",
+      "source_repo": "davekilleen/Dex",
+      "local_path": "content-creation/007-claude_cd1eb1d2",
+      "category": "content-creation",
+      "name": "claude_cd1eb1d2",
+      "indexed_at": "2026-02-16T11:23:01.453241",
+      "repo_stars": 88,
+      "repo_updated_at": "2026-02-15T10:39:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1790 AI-powered skills** organized into 15 categories.
+A curated collection of **1787 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,10 +12,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (102 skills)
 - **Commercial** (68 skills)
 - **Communication** (40 skills)
-- **Content Creation** (147 skills)
+- **Content Creation** (146 skills)
 - **Daily Assistant** (88 skills)
 - **Data Analysis** (323 skills)
-- **Development** (610 skills)
+- **Development** (608 skills)
 - **Development/Devops** (92 skills)
 - **Development/Testing** (21 skills)
 - **Development/Tools** (148 skills)
@@ -439,7 +439,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reasoning](communication/252-reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
 | [Workflow](communication/129-workflow_72b25c3f/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workflow.md) | ⭐ 13 | `communication` |
 
-### Content Creation (147 skills)
+### Content Creation (146 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -583,13 +583,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Output Checkpoint Guidelines](content-creation/374-output_checkpoint_guidelines_1117ac0b/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/time-stepping/references/output_checkpoint_guidelines.md) | ⭐ 19 | `content creation` |
 | [Derived Quantities Guide](content-creation/375-derived_quantities_guide_c1a3e6f2/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/derived_quantities_guide.md) | ⭐ 19 | `content creation` |
 | [Target User Agentic Harness V0](content-creation/371-target_user_agentic_harness_v0_e76baae4/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
-| [Quickstart.Python](content-creation/quickstartpython_e12c32d7/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/quickstart.python.md) | ⭐ 50 | `content creation` |
-| [Quickstart.Typescript](content-creation/quickstarttypescript_e7685ab5/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/quickstart.typescript.md) | ⭐ 50 | `content creation` |
-| [Image Understanding](content-creation/image-understanding_8c564e55/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/image-understanding.md) | ⭐ 50 | `content creation` |
-| [Streaming](content-creation/streaming_7c04727d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/streaming.md) | ⭐ 50 | `content creation` |
-| [Agents](content-creation/agents_6d77cacb/) | [makefinks/manim-generator](https://raw.githubusercontent.com/makefinks/manim-generator/main/AGENTS.md) | ⭐ 76 | `content creation` |
-| [Working With Messages](content-creation/working-with-messages_603ef2d8/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/working-with-messages.md) | ⭐ 50 | `content creation` |
-| [Text Generation](content-creation/text-generation_90315c63/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/text-generation.md) | ⭐ 50 | `content creation` |
+| [Quickstart.Python](content-creation/352-quickstartpython_e12c32d7/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/quickstart.python.md) | ⭐ 50 | `content creation` |
+| [Quickstart.Typescript](content-creation/353-quickstarttypescript_e7685ab5/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/quickstart.typescript.md) | ⭐ 50 | `content creation` |
+| [Image Understanding](content-creation/354-image-understanding_8c564e55/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/image-understanding.md) | ⭐ 50 | `content creation` |
+| [Streaming](content-creation/355-streaming_7c04727d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/streaming.md) | ⭐ 50 | `content creation` |
+| [Agents](content-creation/185-agents_6d77cacb/) | [makefinks/manim-generator](https://raw.githubusercontent.com/makefinks/manim-generator/main/AGENTS.md) | ⭐ 76 | `content creation` |
+| [Claude](content-creation/claude_cd1eb1d2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 88 | `content creation` |
 
 ### Daily Assistant (88 skills)
 
@@ -1008,11 +1007,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Velocity Forecasting Guide](data-analysis/477-velocity-forecasting-guide_3e7775ac/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/velocity-forecasting-guide.md) | ⭐ 1.8k | `data analysis` |
 | [Models](data-analysis/480-models_36696d39/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/models.md) | ⭐ 13 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_37d93107/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.5k | `data analysis` |
-| [Gemini3](data-analysis/gemini3_31010918/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/gemini3.md) | ⭐ 50 | `data analysis` |
-| [Thought Signatures](data-analysis/thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
-| [Images Vision](data-analysis/images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
+| [Gemini3](data-analysis/477-gemini3_31010918/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/gemini3.md) | ⭐ 50 | `data analysis` |
+| [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
+| [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
 
-### Development (610 skills)
+### Development (608 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1604,28 +1603,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Arch](development/2861-_arch_780fe763/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 102 | `development` |
 | [Heavy](development/2862-heavy_2e20d963/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
 | [Medium](development/2863-medium_62115166/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md) | ⭐ 10 | `development` |
-| [Copilot Instructions](development/copilot-instructions_2fec6335/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/.github/copilot-instructions.md) | ⭐ 50 | `development` |
-| [Quickstart.Python](development/quickstartpython_a18edb06/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/quickstart.python.md) | ⭐ 50 | `development` |
-| [Quickstart.Python](development/quickstartpython_f1118527/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/quickstart.python.md) | ⭐ 50 | `development` |
-| [Quickstart.Typescript](development/quickstarttypescript_80d52b2b/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/quickstart.typescript.md) | ⭐ 50 | `development` |
-| [Extended Thinking](development/extended-thinking_bf125b0c/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/extended-thinking.md) | ⭐ 50 | `development` |
-| [Reasoning Effort](development/reasoning-effort_d9ed6a1a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/reasoning-effort.md) | ⭐ 50 | `development` |
-| [Tool Use Overview](development/tool-use-overview_deab414f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/tool-use-overview.md) | ⭐ 50 | `development` |
-| [Vision](development/vision_ffd4c61d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/vision.md) | ⭐ 50 | `development` |
-| [Function Calling](development/function-calling_5feec9ab/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/function-calling.md) | ⭐ 50 | `development` |
-| [Models](development/models_a3f363ce/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/models.md) | ⭐ 50 | `development` |
-| [Python Sdk](development/python-sdk_fc3cba4f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/python-sdk.md) | ⭐ 50 | `development` |
-| [Thinking](development/thinking_7bcc4f74/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thinking.md) | ⭐ 50 | `development` |
-| [Typescript Sdk](development/typescript-sdk_25770498/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/typescript-sdk.md) | ⭐ 50 | `development` |
-| [Cache](development/cache_9a3e46f6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/cache.md) | ⭐ 50 | `development` |
-| [Function Calling](development/function-calling_c7d3f383/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/function-calling.md) | ⭐ 50 | `development` |
-| [Stream Tool](development/stream-tool_aa22a0f7/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/stream-tool.md) | ⭐ 50 | `development` |
-| [Thinking Mode](development/thinking-mode_5b81f305/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/thinking-mode.md) | ⭐ 50 | `development` |
-| [Function Calling](development/function-calling_3bb0b907/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/function-calling.md) | ⭐ 50 | `development` |
-| [Migrate To Responses](development/migrate-to-responses_173363a6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/migrate-to-responses.md) | ⭐ 50 | `development` |
-| [Text](development/text_6e7a1c9a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/text.md) | ⭐ 50 | `development` |
-| [Chat Completion](development/chat-completion_f25966b5/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/chat-completion.md) | ⭐ 50 | `development` |
-| [Latest Model](development/latest-model_3e844f7b/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/latest-model.md) | ⭐ 50 | `development` |
+| [Copilot Instructions](development/1781-copilot-instructions_2fec6335/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/.github/copilot-instructions.md) | ⭐ 50 | `development` |
+| [Quickstart.Python](development/2861-quickstartpython_a18edb06/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/quickstart.python.md) | ⭐ 50 | `development` |
+| [Quickstart.Python](development/2861-quickstartpython_f1118527/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/quickstart.python.md) | ⭐ 50 | `development` |
+| [Quickstart.Typescript](development/2862-quickstarttypescript_80d52b2b/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/quickstart.typescript.md) | ⭐ 50 | `development` |
+| [Extended Thinking](development/356-extended-thinking_bf125b0c/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/extended-thinking.md) | ⭐ 50 | `development` |
+| [Reasoning Effort](development/2863-reasoning-effort_d9ed6a1a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/reasoning-effort.md) | ⭐ 50 | `development` |
+| [Tool Use Overview](development/2864-tool-use-overview_deab414f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/tool-use-overview.md) | ⭐ 50 | `development` |
+| [Vision](development/2865-vision_ffd4c61d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/vision.md) | ⭐ 50 | `development` |
+| [Function Calling](development/2866-function-calling_5feec9ab/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/function-calling.md) | ⭐ 50 | `development` |
+| [Models](development/594-models_a3f363ce/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/models.md) | ⭐ 50 | `development` |
+| [Python Sdk](development/744-python-sdk_fc3cba4f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/python-sdk.md) | ⭐ 50 | `development` |
+| [Thinking](development/2867-thinking_7bcc4f74/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thinking.md) | ⭐ 50 | `development` |
+| [Typescript Sdk](development/1104-typescript-sdk_25770498/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/typescript-sdk.md) | ⭐ 50 | `development` |
+| [Cache](development/2868-cache_9a3e46f6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/cache.md) | ⭐ 50 | `development` |
+| [Function Calling](development/2866-function-calling_c7d3f383/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/function-calling.md) | ⭐ 50 | `development` |
+| [Stream Tool](development/2869-stream-tool_aa22a0f7/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/stream-tool.md) | ⭐ 50 | `development` |
+| [Thinking Mode](development/2870-thinking-mode_5b81f305/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/thinking-mode.md) | ⭐ 50 | `development` |
+| [Function Calling](development/2866-function-calling_3bb0b907/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/function-calling.md) | ⭐ 50 | `development` |
+| [Migrate To Responses](development/2871-migrate-to-responses_173363a6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/migrate-to-responses.md) | ⭐ 50 | `development` |
+| [Text](development/2872-text_6e7a1c9a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/text.md) | ⭐ 50 | `development` |
 
 ### Development/Devops (92 skills)
 
@@ -1898,10 +1895,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Conversations](development/tools/331-conversations_bdf4dd0a/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/conversations.md) | ⭐ 13 | `development` |
 | [Architecture Explanation](development/tools/332-architecture_explanation_2c7a0866/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/hooks/ARCHITECTURE_EXPLANATION.md) | ⭐ 13 | `development` |
 | [Claude](development/tools/017-claude_803f2e10/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/references/CLAUDE.md) | ⭐ 102 | `development` |
-| [Quickstart.Python](development/tools/quickstartpython_f2939f5c/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/quickstart.python.md) | ⭐ 50 | `development` |
-| [Quickstart.Typescript](development/tools/quickstarttypescript_52e32d46/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/quickstart.typescript.md) | ⭐ 50 | `development` |
-| [Migrating To Claude 4](development/tools/migrating-to-claude-4_c62baf87/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/migrating-to-claude-4.md) | ⭐ 50 | `development` |
-| [Streaming](development/tools/streaming_a39c5aea/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/streaming.md) | ⭐ 50 | `development` |
+| [Quickstart.Python](development/tools/329-quickstartpython_f2939f5c/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/quickstart.python.md) | ⭐ 50 | `development` |
+| [Quickstart.Typescript](development/tools/330-quickstarttypescript_52e32d46/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/quickstart.typescript.md) | ⭐ 50 | `development` |
+| [Migrating To Claude 4](development/tools/331-migrating-to-claude-4_c62baf87/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/migrating-to-claude-4.md) | ⭐ 50 | `development` |
+| [Streaming](development/tools/332-streaming_a39c5aea/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/streaming.md) | ⭐ 50 | `development` |
 
 ### Investment (12 skills)
 
@@ -2044,7 +2041,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gci Guidelines](research/260-gci_guidelines_df1570cc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/references/gci_guidelines.md) | ⭐ 19 | `research` |
 | [Validation Protocol](research/261-validation_protocol_9332ba00/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/validation_protocol.md) | ⭐ 19 | `research` |
 | [Rlm Realignment Strategy](research/260-rlm_realignment_strategy_c8ff8657/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/RLM_REALIGNMENT_STRATEGY.md) | ⭐ 161 | `research` |
-| [Prompt Caching](research/prompt-caching_3811ec63/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/prompt-caching.md) | ⭐ 50 | `research` |
+| [Prompt Caching](research/257-prompt-caching_3811ec63/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/prompt-caching.md) | ⭐ 50 | `research` |
 
 ## How Skills Are Organized
 
@@ -2096,5 +2093,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 10:22:51 UTC*
+*Last updated: 2026-02-16 11:23:02 UTC*
 *Automatically maintained by SkillFlow*
