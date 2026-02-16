@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2017 AI-powered skills** organized into 15 categories.
+A curated collection of **2018 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,9 +15,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (150 skills)
 - **Daily Assistant** (125 skills)
 - **Data Analysis** (323 skills)
-- **Development** (742 skills)
-- **Development/Devops** (125 skills)
-- **Development/Testing** (23 skills)
+- **Development** (743 skills)
+- **Development/Devops** (126 skills)
+- **Development/Testing** (22 skills)
 - **Development/Tools** (151 skills)
 - **Investment** (12 skills)
 - **Other** (3 skills)
@@ -1069,7 +1069,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
 | [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
 
-### Development (742 skills)
+### Development (743 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1814,9 +1814,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dashboard Best Practices](development/2939-dashboard_best_practices_b9215f45/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/dashboard_best_practices.md) | ⭐ 1.8k | `team` `service_type` `environment` |
 | [Debt Classification Taxonomy](development/2940-debt-classification-taxonomy_00e1313c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/debt-classification-taxonomy.md) | ⭐ 1.8k | `development` |
 | [Prioritization Framework](development/2941-prioritization-framework_03e47d8e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/prioritization-framework.md) | ⭐ 1.8k | `development` |
-| [Catalog](development/catalog_43db3465/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 9.8k | `development` |
+| [Catalog](development/126-catalog_43db3465/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 9.8k | `development` |
+| [040 Flexible Admin Ui Sections](development/040-flexible-admin-ui-sections_753884b1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/040-flexible-admin-ui-sections.md) | ⭐ 3.3k | `development` |
 
-### Development/Devops (125 skills)
+### Development/Devops (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1844,7 +1845,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 12 Cicd Security](development/devops/076-reference-set-ext-12-cicd-security_0521ba12/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Npm Security](development/devops/077-reference-set-ext-12-npm-security_3c3eb33b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Supply Chain Security](development/devops/078-reference-set-ext-12-supply-chain-security_90024891/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 151 | `development` |
-| [Configuration](development/devops/009-configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/configuration_27348f38/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Batch Eval Quickstart](development/devops/371-batch_eval_quickstart_8a1c7ae5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BATCH_EVAL_QUICKSTART.md) | ⭐ 19 | `development` |
 | [Instructions](development/devops/197-instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
@@ -1945,8 +1946,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Roadmap](development/devops/097-roadmap_c40051f7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Skill](development/devops/383-tier-skill_d4764458/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/SKILL.md) | ⭐ 1.8k | `development` |
 | [Slo Cookbook](development/devops/384-slo_cookbook_6fca3afd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/slo_cookbook.md) | ⭐ 1.8k | `development` |
+| [Configuration](development/devops/009-configuration_27348f38/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (23 skills)
+### Development/Testing (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1971,8 +1973,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 | [Doe Methods](development/testing/085-doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
-| [Skill](development/testing/name-skill_3a3ea1fb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/SKILL.md) | 🔥 9.8k | `development` |
-| [Release Notes](development/testing/release_notes_d941bf99/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 9.8k | `development` |
+| [Skill](development/testing/002-name-skill_3a3ea1fb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/SKILL.md) | 🔥 9.8k | `development` |
 
 ### Development/Tools (151 skills)
 
@@ -2128,7 +2129,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Streaming](development/tools/332-streaming_a39c5aea/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/streaming.md) | ⭐ 50 | `development` |
 | [Plugins Llms](development/tools/324-plugins-llms_ceb8ccf9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/plugins-llms.md) | ⭐ 3.3k | `development` |
 | [Rest Design Rules](development/tools/333-rest_design_rules_a69236c8/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/references/rest_design_rules.md) | ⭐ 1.8k | `development` |
-| [Api Reference](development/tools/api-reference_fd658f95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/references/api-reference.md) | 🔥 9.8k | `development` |
+| [Api Reference](development/tools/073-api-reference_fd658f95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/references/api-reference.md) | 🔥 9.8k | `development` |
 
 ### Investment (12 skills)
 
@@ -2323,5 +2324,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 20:22:54 UTC*
+*Last updated: 2026-02-16 21:24:10 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T20:22:53.826460",
+  "updated_at": "2026-02-16T21:24:09.707092",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -28224,6 +28224,34 @@
       "repo_updated_at": "2026-02-16T06:20:43+00:00",
       "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/references/api-reference.md",
       "display_name": "Api Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "27348f38b97ce8efb5402f625f0dd19b3fa6f16276cee4d4de2e08602128f27b",
+      "source_path": "docs/docs/manage/configuration.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/009-configuration_27348f38",
+      "category": "development/devops",
+      "name": "configuration_27348f38",
+      "indexed_at": "2026-02-16T21:24:09.292652",
+      "repo_stars": 3281,
+      "repo_updated_at": "2026-02-16T19:13:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "753884b17eaa8e0a31ba6e2bd342d77351f2497072f1b01fd298928356132561",
+      "source_path": "docs/docs/architecture/adr/040-flexible-admin-ui-sections.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/2864-040-flexible-admin-ui-sections_753884b1",
+      "category": "development",
+      "name": "040-flexible-admin-ui-sections_753884b1",
+      "indexed_at": "2026-02-16T21:24:09.707047",
+      "repo_stars": 3281,
+      "repo_updated_at": "2026-02-16T19:13:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/040-flexible-admin-ui-sections.md",
+      "display_name": "040 Flexible Admin Ui Sections",
       "tags": "[\"development\"]"
     }
   ]
