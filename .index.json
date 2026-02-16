@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T01:22:38.997407",
+  "updated_at": "2026-02-16T02:22:56.631903",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24067,6 +24067,48 @@
       "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md",
       "display_name": "Target User Agentic Harness V0",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "58bdf517d3ef111fa144db2476e9a9cc121ccd9319454498f109e7087119f397",
+      "source_path": "CLAUDE.md",
+      "source_repo": "CodeAlive-AI/agents-reflection-skills",
+      "local_path": "data-analysis/036-claude_58bdf517",
+      "category": "data-analysis",
+      "name": "claude_58bdf517",
+      "indexed_at": "2026-02-16T02:22:55.955248",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-02-15T20:22:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/CodeAlive-AI/agents-reflection-skills/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "72eabf073164f580c39e607e59df3105b2680a4a3ac830d47e95a8cb4e40f849",
+      "source_path": ".claude/skills/research-curator/SKILL.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "data-analysis/294-description-skill_72eabf07",
+      "category": "data-analysis",
+      "name": "description-skill_72eabf07",
+      "indexed_at": "2026-02-16T02:22:56.274225",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-15T20:41:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "03a49ea12c878822fa4f199895d4f5de446221b08cf67489e32e6a25fd062ae2",
+      "source_path": ".claude/skills/research-curator/references/validation-rules.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "data-analysis/477-validation-rules_03a49ea1",
+      "category": "data-analysis",
+      "name": "validation-rules_03a49ea1",
+      "indexed_at": "2026-02-16T02:22:56.631842",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-15T20:41:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/references/validation-rules.md",
+      "display_name": "Validation Rules",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

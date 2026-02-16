@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1719 AI-powered skills** organized into 15 categories.
+A curated collection of **1723 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,10 +11,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (28 skills)
 - **Automation/Workflow** (101 skills)
 - **Commercial** (68 skills)
-- **Communication** (39 skills)
+- **Communication** (40 skills)
 - **Content Creation** (140 skills)
 - **Daily Assistant** (86 skills)
-- **Data Analysis** (313 skills)
+- **Data Analysis** (316 skills)
 - **Development** (582 skills)
 - **Development/Devops** (89 skills)
 - **Development/Testing** (21 skills)
@@ -393,7 +393,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Imex Guidelines](commercial/379-imex_guidelines_06634430/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/imex_guidelines.md) | ⭐ 19 | `commercial` |
 | [Splitting Catalog](commercial/380-splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
 
-### Communication (39 skills)
+### Communication (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -436,6 +436,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Password Management](communication/250-password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
 | [Multimodal](communication/251-multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
 | [Reasoning](communication/252-reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
+| [Claude](communication/claude_42a7ab97/) | [prompt-security/ps-fuzz](https://raw.githubusercontent.com/prompt-security/ps-fuzz/main/claude.md) | ⭐ 631 | `communication` |
 
 ### Content Creation (140 skills)
 
@@ -443,7 +444,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Openai](content-creation/359-openai_4ef0cd71/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/openai.md) | 🔥 35.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_a9cca04f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
-| [Target User Agentic Harness V0](content-creation/target_user_agentic_harness_v0_e76baae4/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
+| [Target User Agentic Harness V0](content-creation/375-target_user_agentic_harness_v0_a84a827c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 | [Claude](content-creation/007-claude_a0274342/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/CLAUDE.md) | 🔥 20.1k | `content creation` |
 | [Reference Set 01 Credential Stuffing Prevention](content-creation/092-reference-set-01-credential-stuffing-prevention_06dc56b3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-credential-stuffing-prevention.md) | ⭐ 151 | `content creation` |
 | [Reference Set 01 Saml Security](content-creation/093-reference-set-01-saml-security_5bf46ff0/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-saml-security.md) | ⭐ 151 | `content creation` |
@@ -673,7 +674,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Solver Decision Tree](daily-assistant/278-solver_decision_tree_a7fd44b8/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/solver_decision_tree.md) | ⭐ 19 | `daily assistant` |
 | [Scheme Catalog](daily-assistant/279-scheme_catalog_e2bfc0fa/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/scheme_catalog.md) | ⭐ 19 | `daily assistant` |
 
-### Data Analysis (313 skills)
+### Data Analysis (316 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -990,6 +991,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Method Catalog](data-analysis/483-method_catalog_8174d45f/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/method_catalog.md) | ⭐ 19 | `data analysis` |
 | [Sensitivity Guidelines](data-analysis/484-sensitivity_guidelines_16bb86e1/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/sensitivity_guidelines.md) | ⭐ 19 | `data analysis` |
 | [Aggregation Methods](data-analysis/485-aggregation_methods_65094458/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/aggregation_methods.md) | ⭐ 19 | `data analysis` |
+| [Claude](data-analysis/036-claude_58bdf517/) | [CodeAlive-AI/agents-reflection-skills](https://raw.githubusercontent.com/CodeAlive-AI/agents-reflection-skills/main/CLAUDE.md) | ⭐ 28 | `data analysis` |
+| [Skill](data-analysis/294-description-skill_72eabf07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Validation Rules](data-analysis/477-validation-rules_03a49ea1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/references/validation-rules.md) | ⭐ 17 | `data analysis` |
 
 ### Development (582 skills)
 
@@ -2025,5 +2029,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 01:22:39 UTC*
+*Last updated: 2026-02-16 03:22:30 UTC*
 *Automatically maintained by SkillFlow*
