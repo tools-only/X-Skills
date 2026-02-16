@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T17:25:42.702169",
+  "updated_at": "2026-02-16T18:22:46.343059",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -27665,6 +27665,34 @@
       "source_url": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "c40051f73f4007440ac6c051ded1016cbd0d5b431589551734f49e0bda70703e",
+      "source_path": "docs/docs/architecture/roadmap.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/097-roadmap_c40051f7",
+      "category": "development/devops",
+      "name": "roadmap_c40051f7",
+      "indexed_at": "2026-02-16T18:22:45.967672",
+      "repo_stars": 3278,
+      "repo_updated_at": "2026-02-16T08:37:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md",
+      "display_name": "Roadmap",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ceb8ccf936609cadd452c73461140cfa5b65653c6e00b8ecd85f3dc7c6b02a25",
+      "source_path": "llms/plugins-llms.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/tools/324-plugins-llms_ceb8ccf9",
+      "category": "development/tools",
+      "name": "plugins-llms_ceb8ccf9",
+      "indexed_at": "2026-02-16T18:22:46.343007",
+      "repo_stars": 3278,
+      "repo_updated_at": "2026-02-16T08:37:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/plugins-llms.md",
+      "display_name": "Plugins Llms",
+      "tags": "[\"development\"]"
     }
   ]
 }
