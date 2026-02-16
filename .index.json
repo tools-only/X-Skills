@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T02:22:56.631903",
+  "updated_at": "2026-02-16T05:22:32.896889",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24109,6 +24109,20 @@
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/references/validation-rules.md",
       "display_name": "Validation Rules",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "3309e19a73315765926053cf2a87db4422f095a549710d312ece74f4ef6982d3",
+      "source_path": "docs/target_user_panel_prompt.md",
+      "source_repo": "kevinshowkat/brood",
+      "local_path": "automation/workflow/133-target_user_panel_prompt_3309e19a",
+      "category": "automation/workflow",
+      "name": "target_user_panel_prompt_3309e19a",
+      "indexed_at": "2026-02-16T05:22:32.896684",
+      "repo_stars": 51,
+      "repo_updated_at": "2026-02-15T12:41:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md",
+      "display_name": "Target User Panel Prompt",
+      "tags": "[\"automation\"]"
     }
   ]
 }

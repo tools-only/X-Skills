@@ -9,9 +9,9 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (28 skills)
-- **Automation/Workflow** (101 skills)
+- **Automation/Workflow** (102 skills)
 - **Commercial** (68 skills)
-- **Communication** (40 skills)
+- **Communication** (39 skills)
 - **Content Creation** (140 skills)
 - **Daily Assistant** (86 skills)
 - **Data Analysis** (316 skills)
@@ -214,7 +214,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_27123973/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/SKILL.md) | ⭐ 19 | `automation` |
 | [Campaign Patterns](automation/scripting/096-campaign_patterns_6894dedf/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/campaign_patterns.md) | ⭐ 19 | `automation` |
 
-### Automation/Workflow (101 skills)
+### Automation/Workflow (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -319,6 +319,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release](automation/workflow/054-release_a5957614/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/RELEASE.md) | ⭐ 87 | `automation` |
 | [Common Pitfalls](automation/workflow/139-common_pitfalls_ac2d69a1/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/common_pitfalls.md) | ⭐ 19 | `automation` |
 | [Log Patterns](automation/workflow/140-log_patterns_a86ae176/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/log_patterns.md) | ⭐ 19 | `automation` |
+| [Target User Panel Prompt](automation/workflow/target_user_panel_prompt_3309e19a/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md) | ⭐ 51 | `automation` |
 
 ### Commercial (68 skills)
 
@@ -393,7 +394,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Imex Guidelines](commercial/379-imex_guidelines_06634430/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/imex_guidelines.md) | ⭐ 19 | `commercial` |
 | [Splitting Catalog](commercial/380-splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
 
-### Communication (40 skills)
+### Communication (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -436,7 +437,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Password Management](communication/250-password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
 | [Multimodal](communication/251-multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
 | [Reasoning](communication/252-reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
-| [Claude](communication/claude_42a7ab97/) | [prompt-security/ps-fuzz](https://raw.githubusercontent.com/prompt-security/ps-fuzz/main/claude.md) | ⭐ 631 | `communication` |
 
 ### Content Creation (140 skills)
 
@@ -2029,5 +2029,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 03:22:30 UTC*
+*Last updated: 2026-02-16 05:22:33 UTC*
 *Automatically maintained by SkillFlow*
