@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T00:22:36.310725",
+  "updated_at": "2026-02-16T01:22:38.997407",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24053,6 +24053,20 @@
       "source_url": "https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md",
       "display_name": "Doe Methods",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e76baae4dce10793e646194b6aa7679518fd24bdd047703f43613cfb1501e75e",
+      "source_path": "docs/prds/target_user_agentic_harness_v0.md",
+      "source_repo": "kevinshowkat/brood",
+      "local_path": "content-creation/371-target_user_agentic_harness_v0_e76baae4",
+      "category": "content-creation",
+      "name": "target_user_agentic_harness_v0_e76baae4",
+      "indexed_at": "2026-02-16T01:22:38.997365",
+      "repo_stars": 51,
+      "repo_updated_at": "2026-02-12T23:43:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md",
+      "display_name": "Target User Agentic Harness V0",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
