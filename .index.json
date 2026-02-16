@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T19:23:28.730115",
+  "updated_at": "2026-02-16T20:22:53.826460",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -28183,6 +28183,48 @@
       "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/debrief_facilitation_guide.md",
       "display_name": "Debrief Facilitation Guide",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "43db34656d029ce114708945e038b48e540fab0301ebfccca76a9f76b837e584",
+      "source_path": "CATALOG.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/126-catalog_43db3465",
+      "category": "development",
+      "name": "catalog_43db3465",
+      "indexed_at": "2026-02-16T20:22:53.387213",
+      "repo_stars": 9840,
+      "repo_updated_at": "2026-02-16T06:20:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md",
+      "display_name": "Catalog",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3a3ea1fbf32278cbd09e06037f325368b3a888023864834cb4f617b00b9b430f",
+      "source_path": "skills/go-rod-master/SKILL.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/testing/002-name-skill_3a3ea1fb",
+      "category": "development/testing",
+      "name": "name-skill_3a3ea1fb",
+      "indexed_at": "2026-02-16T20:22:53.618470",
+      "repo_stars": 9840,
+      "repo_updated_at": "2026-02-16T06:20:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fd658f95f073b40a4f73d502d5f58af1c0d5b7c5d2b86b40103906f2d7aee7ec",
+      "source_path": "skills/go-rod-master/references/api-reference.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/tools/073-api-reference_fd658f95",
+      "category": "development/tools",
+      "name": "api-reference_fd658f95",
+      "indexed_at": "2026-02-16T20:22:53.826411",
+      "repo_stars": 9840,
+      "repo_updated_at": "2026-02-16T06:20:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/references/api-reference.md",
+      "display_name": "Api Reference",
+      "tags": "[\"development\"]"
     }
   ]
 }

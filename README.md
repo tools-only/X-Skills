@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2016 AI-powered skills** organized into 15 categories.
+A curated collection of **2017 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,14 +11,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (30 skills)
 - **Automation/Workflow** (104 skills)
 - **Commercial** (73 skills)
-- **Communication** (49 skills)
+- **Communication** (48 skills)
 - **Content Creation** (150 skills)
 - **Daily Assistant** (125 skills)
 - **Data Analysis** (323 skills)
-- **Development** (743 skills)
+- **Development** (742 skills)
 - **Development/Devops** (125 skills)
-- **Development/Testing** (21 skills)
-- **Development/Tools** (150 skills)
+- **Development/Testing** (23 skills)
+- **Development/Tools** (151 skills)
 - **Investment** (12 skills)
 - **Other** (3 skills)
 - **Productivity** (38 skills)
@@ -323,7 +323,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Log Patterns](automation/workflow/140-log_patterns_a86ae176/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/log_patterns.md) | ⭐ 19 | `automation` |
 | [Target User Panel Prompt](automation/workflow/133-target_user_panel_prompt_3309e19a/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md) | ⭐ 51 | `automation` |
 | [Audit Report](automation/workflow/133-audit_report_3a5f8b8d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/AUDIT_REPORT.md) | ⭐ 1.8k | `automation` |
-| [Rca Frameworks Guide](automation/workflow/rca_frameworks_guide_3dc1ace4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/rca_frameworks_guide.md) | ⭐ 1.8k | `automation` |
+| [Rca Frameworks Guide](automation/workflow/134-rca_frameworks_guide_3dc1ace4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/rca_frameworks_guide.md) | ⭐ 1.8k | `automation` |
 
 ### Commercial (73 skills)
 
@@ -399,11 +399,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Splitting Catalog](commercial/380-splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
 | [Zerg Operational Spec](commercial/368-zerg-operational-spec_3aafa919/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/ZERG-OPERATIONAL-SPEC.md) | ⭐ 17 | `commercial` |
 | [Incident Response Framework](commercial/368-incident-response-framework_17331fc4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/incident-response-framework.md) | ⭐ 1.8k | `commercial` |
-| [Pir Markdown Output](commercial/pir_markdown_output_152824fa/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/expected_outputs/pir_markdown_output.md) | ⭐ 1.8k | `commercial` |
-| [Data Reconciliation Strategies](commercial/data_reconciliation_strategies_aede8a22/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/references/data_reconciliation_strategies.md) | ⭐ 1.8k | `commercial` |
-| [Migration Patterns Catalog](commercial/migration_patterns_catalog_b7844ddd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/references/migration_patterns_catalog.md) | ⭐ 1.8k | `commercial` |
+| [Pir Markdown Output](commercial/369-pir_markdown_output_152824fa/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/expected_outputs/pir_markdown_output.md) | ⭐ 1.8k | `commercial` |
+| [Data Reconciliation Strategies](commercial/370-data_reconciliation_strategies_aede8a22/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/references/data_reconciliation_strategies.md) | ⭐ 1.8k | `commercial` |
+| [Migration Patterns Catalog](commercial/371-migration_patterns_catalog_b7844ddd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/references/migration_patterns_catalog.md) | ⭐ 1.8k | `commercial` |
 
-### Communication (49 skills)
+### Communication (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -453,9 +453,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugins.Core](communication/252-pluginscore_489f6dbd/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.core.md) | ⭐ 17 | `communication` |
 | [Plugins.Details](communication/253-pluginsdetails_c6f328c7/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.details.md) | ⭐ 17 | `communication` |
 | [Plugins](communication/250-plugins_6afb0817/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.md) | ⭐ 17 | `communication` |
-| [Incident Severity Matrix](communication/incident_severity_matrix_6d2a809f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/incident_severity_matrix.md) | ⭐ 1.8k | `communication` |
-| [Alert Design Patterns](communication/alert_design_patterns_257b29ca/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/alert_design_patterns.md) | ⭐ 1.8k | `communication` |
-| [Communication Templates](communication/communication_templates_330c38f4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/communication_templates.md) | ⭐ 1.8k | `communication` |
+| [Incident Severity Matrix](communication/254-incident_severity_matrix_6d2a809f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/incident_severity_matrix.md) | ⭐ 1.8k | `communication` |
+| [Alert Design Patterns](communication/255-alert_design_patterns_257b29ca/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/alert_design_patterns.md) | ⭐ 1.8k | `communication` |
 
 ### Content Creation (150 skills)
 
@@ -739,8 +738,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Wm 005](daily-assistant/282-wm-005_2c401c6e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-005.md) | ⭐ 17 | `daily assistant` |
 | [Wm 006](daily-assistant/283-wm-006_efc03ea0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-006.md) | ⭐ 17 | `daily assistant` |
 | [Sla Management Guide](daily-assistant/262-sla-management-guide_2ad4c714/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/sla-management-guide.md) | ⭐ 1.8k | `daily assistant` |
-| [Bias Mitigation Checklist](daily-assistant/bias_mitigation_checklist_9f5f7426/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/bias_mitigation_checklist.md) | ⭐ 1.8k | `daily assistant` |
-| [Debrief Facilitation Guide](daily-assistant/debrief_facilitation_guide_6861c96d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/debrief_facilitation_guide.md) | ⭐ 1.8k | `daily assistant` |
+| [Bias Mitigation Checklist](daily-assistant/284-bias_mitigation_checklist_9f5f7426/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/bias_mitigation_checklist.md) | ⭐ 1.8k | `daily assistant` |
+| [Debrief Facilitation Guide](daily-assistant/285-debrief_facilitation_guide_6861c96d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/debrief_facilitation_guide.md) | ⭐ 1.8k | `daily assistant` |
 
 ### Data Analysis (323 skills)
 
@@ -1070,7 +1069,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
 | [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
 
-### Development (743 skills)
+### Development (742 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1806,17 +1805,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/191-configuration_cdcb6f54/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/configuration/configuration.md) | ⭐ 113 | `development` |
 | [Infrastructure](development/2872-infrastructure_7a539a9d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/infrastructure/infrastructure.md) | ⭐ 113 | `development` |
 | [Commands](development/2229-commands_d9760101/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/ui/commands.md) | ⭐ 113 | `development` |
-| [Skill](development/tier-skill_4c9a752f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/SKILL.md) | ⭐ 1.8k | `development` |
-| [Skill](development/name-skill_a8d3e49d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/SKILL.md) | ⭐ 1.8k | `development` |
-| [Skill](development/category-skill_097f1142/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/SKILL.md) | ⭐ 1.8k | `development` |
-| [Skill](development/tier-skill_134c1ea7/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/SKILL.md) | ⭐ 1.8k | `development` |
-| [Api Antipatterns](development/api_antipatterns_60901c13/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/references/api_antipatterns.md) | ⭐ 1.8k | `development` |
-| [Zero Downtime Techniques](development/zero_downtime_techniques_182d357f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/references/zero_downtime_techniques.md) | ⭐ 1.8k | `development` |
-| [Dashboard Best Practices](development/dashboard_best_practices_b9215f45/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/dashboard_best_practices.md) | ⭐ 1.8k | `team` `service_type` `environment` |
-| [Debt Classification Taxonomy](development/debt-classification-taxonomy_00e1313c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/debt-classification-taxonomy.md) | ⭐ 1.8k | `development` |
-| [Prioritization Framework](development/prioritization-framework_03e47d8e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/prioritization-framework.md) | ⭐ 1.8k | `development` |
-| [Competency Matrix Templates](development/competency_matrix_templates_6d373167/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/competency_matrix_templates.md) | ⭐ 1.8k | `development` |
-| [Stakeholder Communication Templates](development/stakeholder-communication-templates_13f9b181/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/stakeholder-communication-templates.md) | ⭐ 1.8k | `development` |
+| [Skill](development/2935-tier-skill_4c9a752f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/SKILL.md) | ⭐ 1.8k | `development` |
+| [Skill](development/1178-name-skill_a8d3e49d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/SKILL.md) | ⭐ 1.8k | `development` |
+| [Skill](development/2936-category-skill_097f1142/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/SKILL.md) | ⭐ 1.8k | `development` |
+| [Skill](development/2935-tier-skill_134c1ea7/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/SKILL.md) | ⭐ 1.8k | `development` |
+| [Api Antipatterns](development/2937-api_antipatterns_60901c13/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/references/api_antipatterns.md) | ⭐ 1.8k | `development` |
+| [Zero Downtime Techniques](development/2938-zero_downtime_techniques_182d357f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/references/zero_downtime_techniques.md) | ⭐ 1.8k | `development` |
+| [Dashboard Best Practices](development/2939-dashboard_best_practices_b9215f45/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/dashboard_best_practices.md) | ⭐ 1.8k | `team` `service_type` `environment` |
+| [Debt Classification Taxonomy](development/2940-debt-classification-taxonomy_00e1313c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/debt-classification-taxonomy.md) | ⭐ 1.8k | `development` |
+| [Prioritization Framework](development/2941-prioritization-framework_03e47d8e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/prioritization-framework.md) | ⭐ 1.8k | `development` |
+| [Catalog](development/catalog_43db3465/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 9.8k | `development` |
 
 ### Development/Devops (125 skills)
 
@@ -1945,10 +1943,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dc 011 Skill Docs](development/devops/382-dc-011-skill-docs_db01226e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-011-skill-docs.md) | ⭐ 17 | `development` |
 | [Claude](development/devops/205-claude_a2ba6000/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.claude/rules/security/containers/docker/CLAUDE.md) | ⭐ 17 | `development` |
 | [Roadmap](development/devops/097-roadmap_c40051f7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
-| [Skill](development/devops/tier-skill_d4764458/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/SKILL.md) | ⭐ 1.8k | `development` |
-| [Slo Cookbook](development/devops/slo_cookbook_6fca3afd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/slo_cookbook.md) | ⭐ 1.8k | `development` |
+| [Skill](development/devops/383-tier-skill_d4764458/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/SKILL.md) | ⭐ 1.8k | `development` |
+| [Slo Cookbook](development/devops/384-slo_cookbook_6fca3afd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/slo_cookbook.md) | ⭐ 1.8k | `development` |
 
-### Development/Testing (21 skills)
+### Development/Testing (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1973,8 +1971,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 | [Doe Methods](development/testing/085-doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
+| [Skill](development/testing/name-skill_3a3ea1fb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/SKILL.md) | 🔥 9.8k | `development` |
+| [Release Notes](development/testing/release_notes_d941bf99/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/release_notes.md) | 🔥 9.8k | `development` |
 
-### Development/Tools (150 skills)
+### Development/Tools (151 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2127,7 +2127,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Migrating To Claude 4](development/tools/331-migrating-to-claude-4_c62baf87/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/migrating-to-claude-4.md) | ⭐ 50 | `development` |
 | [Streaming](development/tools/332-streaming_a39c5aea/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/streaming.md) | ⭐ 50 | `development` |
 | [Plugins Llms](development/tools/324-plugins-llms_ceb8ccf9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/plugins-llms.md) | ⭐ 3.3k | `development` |
-| [Rest Design Rules](development/tools/rest_design_rules_a69236c8/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/references/rest_design_rules.md) | ⭐ 1.8k | `development` |
+| [Rest Design Rules](development/tools/333-rest_design_rules_a69236c8/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/references/rest_design_rules.md) | ⭐ 1.8k | `development` |
+| [Api Reference](development/tools/api-reference_fd658f95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/references/api-reference.md) | 🔥 9.8k | `development` |
 
 ### Investment (12 skills)
 
@@ -2322,5 +2323,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 19:23:28 UTC*
+*Last updated: 2026-02-16 20:22:54 UTC*
 *Automatically maintained by SkillFlow*
