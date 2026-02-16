@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T07:23:06.877035",
+  "updated_at": "2026-02-16T09:22:49.334008",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24515,6 +24515,34 @@
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md",
       "display_name": "Readme Cn",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "2e20d96331825ef6bebe3df483a03c26863ad9ba4939a5b85d8de8036234d951",
+      "source_path": "commands/heavy.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2862-heavy_2e20d963",
+      "category": "development",
+      "name": "heavy_2e20d963",
+      "indexed_at": "2026-02-16T09:22:49.079792",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-16T07:09:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md",
+      "display_name": "Heavy",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "621151662d9b69955649e391031113fde8690b25282c6cd8182a1aa8e810a958",
+      "source_path": "commands/medium.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2863-medium_62115166",
+      "category": "development",
+      "name": "medium_62115166",
+      "indexed_at": "2026-02-16T09:22:49.333943",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-16T07:09:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md",
+      "display_name": "Medium",
+      "tags": "[\"development\"]"
     }
   ]
 }

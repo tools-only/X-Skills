@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1751 AI-powered skills** organized into 15 categories.
+A curated collection of **1754 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (140 skills)
 - **Daily Assistant** (88 skills)
 - **Data Analysis** (320 skills)
-- **Development** (586 skills)
+- **Development** (589 skills)
 - **Development/Devops** (92 skills)
 - **Development/Testing** (21 skills)
 - **Development/Tools** (144 skills)
@@ -946,7 +946,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](data-analysis/483-instructions_754f0ec2/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pdf-construction/instructions.md) | ⭐ 33 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3c600637/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/SKILL.md) | ⭐ 33 | `data analysis` |
 | [Instructions](data-analysis/483-instructions_bfe3e653/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/pptx-construction/instructions.md) | ⭐ 33 | `data analysis` |
-| [Readme Cn](data-analysis/readme_cn_37d93107/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.5k | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_2a39c48d/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.1k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_668c27e8/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_c930ee03/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/system/clinical-research-session/SKILL.md) | ⭐ 13 | `data analysis` |
 | [Reporting Guidelines](data-analysis/482-reporting-guidelines_90f334a5/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/clinical/clinical-research-analysis-framework/references/reporting-guidelines.md) | ⭐ 13 | `data analysis` |
@@ -1002,7 +1002,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Models](data-analysis/480-models_36696d39/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/models.md) | ⭐ 13 | `data analysis` |
 | [Readme Cn](data-analysis/436-readme_cn_37d93107/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 1.5k | `data analysis` |
 
-### Development (586 skills)
+### Development (589 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1592,6 +1592,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workspaces](development/2916-workspaces_21814f40/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workspaces.md) | ⭐ 13 | `development` |
 | [Todo Order Fix Explanation](development/2917-todo_order_fix_explanation_0906c44c/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/hooks/TODO_ORDER_FIX_EXPLANATION.md) | ⭐ 13 | `development` |
 | [Arch](development/2861-_arch_780fe763/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/_ARCH.md) | ⭐ 102 | `development` |
+| [Heavy](development/heavy_2e20d963/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
+| [Medium](development/medium_62115166/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md) | ⭐ 10 | `development` |
+| [Push](development/push_318479bd/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/push.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (92 skills)
 
@@ -2057,5 +2060,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 07:23:07 UTC*
+*Last updated: 2026-02-16 09:22:49 UTC*
 *Automatically maintained by SkillFlow*
