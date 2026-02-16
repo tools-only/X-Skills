@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1679 AI-powered skills** organized into 15 categories.
+A curated collection of **1734 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (30 skills)
-- **Automation/Workflow** (99 skills)
-- **Commercial** (64 skills)
-- **Communication** (41 skills)
+- **Automation/Scripting** (31 skills)
+- **Automation/Workflow** (102 skills)
+- **Commercial** (70 skills)
+- **Communication** (42 skills)
 - **Content Creation** (139 skills)
-- **Daily Assistant** (82 skills)
-- **Data Analysis** (304 skills)
-- **Development** (577 skills)
+- **Daily Assistant** (86 skills)
+- **Data Analysis** (313 skills)
+- **Development** (583 skills)
 - **Development/Devops** (89 skills)
-- **Development/Testing** (20 skills)
-- **Development/Tools** (131 skills)
-- **Investment** (6 skills)
+- **Development/Testing** (22 skills)
+- **Development/Tools** (138 skills)
+- **Investment** (7 skills)
 - **Other** (3 skills)
-- **Productivity** (28 skills)
-- **Research** (66 skills)
+- **Productivity** (37 skills)
+- **Research** (72 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (30 skills)
+### Automation/Scripting (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -209,14 +209,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
 | [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_32a134bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 23 | `automation` |
-| [Cli](automation/scripting/cli_dc21d97f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/cli.md) | ⭐ 364 | `automation` |
-| [Configuration](automation/scripting/configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
-| [Audio](automation/scripting/audio_460eb0b0/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/audio.md) | ⭐ 364 | `automation` |
-| [Image](automation/scripting/image_70afe38e/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/image.md) | ⭐ 364 | `automation` |
-| [Llm](automation/scripting/llm_ffbf269c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/llm.md) | ⭐ 364 | `automation` |
-| [Embeddings](automation/scripting/embeddings_72d43852/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/embeddings.md) | ⭐ 364 | `automation` |
+| [Cli](automation/scripting/072-cli_dc21d97f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/cli.md) | ⭐ 364 | `automation` |
+| [Configuration](automation/scripting/033-configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
+| [Skill](automation/scripting/name-skill_27123973/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/SKILL.md) | ⭐ 19 | `automation` |
+| [Campaign Patterns](automation/scripting/campaign_patterns_6894dedf/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/campaign_patterns.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_856d3193/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/data-analytics/SKILL.md) | ⭐ 21 | `分析` `报告` `统计` |
+| [Skill](automation/scripting/name-skill_c38549d6/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/logistics-tracking/SKILL.md) | ⭐ 21 | `物流` `追踪` `清关` |
+| [Skill](automation/scripting/name-skill_f7b464ba/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/order-management/SKILL.md) | ⭐ 21 | `订单` `状态` `支付` |
 
-### Automation/Workflow (99 skills)
+### Automation/Workflow (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -319,8 +320,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Video Recording](automation/workflow/138-video-recording_c2c12bd8/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/video-recording.md) | ⭐ 26 | `automation` |
 | [Skill](automation/workflow/002-name-skill_ccd23b54/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-syntax/SKILL.md) | ⭐ 23 | `automation` |
 | [Release](automation/workflow/054-release_a5957614/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/RELEASE.md) | ⭐ 87 | `automation` |
+| [Common Pitfalls](automation/workflow/common_pitfalls_ac2d69a1/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/common_pitfalls.md) | ⭐ 19 | `automation` |
+| [Log Patterns](automation/workflow/log_patterns_a86ae176/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/log_patterns.md) | ⭐ 19 | `automation` |
+| [Skill](automation/workflow/name-skill_36f94852/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/SKILL.md) | ⭐ 19 | `automation` |
 
-### Commercial (64 skills)
+### Commercial (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -388,8 +392,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Client Logging](commercial/366-client-logging_22c5dfad/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/client-logging.md) | 🔥 20.1k | `commercial` |
 | [Storage Backends](commercial/367-storage-backends_9006647b/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/features/storage-backends.md) | 🔥 20.1k | `commercial` |
 | [Image Generation](commercial/382-image-generation_870c9cb7/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/image-generation.md) | ⭐ 15 | `commercial` |
+| [Solver Decision Tree](commercial/solver_decision_tree_b692935a/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/references/solver_decision_tree.md) | ⭐ 19 | `commercial` |
+| [Mesh Types](commercial/mesh_types_9f68157d/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/mesh-generation/references/mesh_types.md) | ⭐ 19 | `commercial` |
+| [Imex Guidelines](commercial/imex_guidelines_06634430/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/imex_guidelines.md) | ⭐ 19 | `commercial` |
+| [Splitting Catalog](commercial/splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
+| [Skill](commercial/name-skill_4957cd1b/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/cart-management/SKILL.md) | ⭐ 21 | `购物车` `商品` `库存` |
+| [Skill](commercial/name-skill_dd44c987/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/customs-clearance/SKILL.md) | ⭐ 21 | `海关` `关税` `清关` |
 
-### Communication (41 skills)
+### Communication (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -430,10 +440,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authentication](communication/016-authentication_cd56ddc9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/authentication.md) | ⭐ 26 | `communication` |
 | [Snapshot Refs](communication/262-snapshot-refs_6a9fda02/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/snapshot-refs.md) | ⭐ 26 | `communication` |
 | [Password Management](communication/250-password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
-| [Multimodal](communication/multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
-| [Reasoning](communication/reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
-| [Models](communication/models_a465fc04/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/models.md) | ⭐ 364 | `communication` |
-| [Agents](communication/agents_4cad90f8/) | [kalibr-ai/kalibr-sdk-python](https://raw.githubusercontent.com/kalibr-ai/kalibr-sdk-python/main/AGENTS.md) | ⭐ 16 | `communication` |
+| [Multimodal](communication/251-multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
+| [Reasoning](communication/252-reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
+| [Readme Zh](communication/readme_zh_4b85150d/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/README_zh.md) | ⭐ 21 | `communication` |
+| [Skill](communication/name-skill_f9e31560/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/dispute-resolution/SKILL.md) | ⭐ 21 | `纠纷` `退款` `退货` |
+| [Skill](communication/name-skill_026343ec/) | [hungryCodingSir/trade-agent-skills](https://raw.githubusercontent.com/hungryCodingSir/trade-agent-skills/main/trade-agent-brain/skills/email-notification/SKILL.md) | ⭐ 21 | `邮件` `通知` `发送` |
 
 ### Content Creation (139 skills)
 
@@ -574,12 +585,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_80ce76cf/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/humanizer/skills/humanizer/SKILL.md) | ⭐ 23 | `content creation` |
 | [Skill](content-creation/049-name-skill_1d099441/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/message/skills/message/SKILL.md) | ⭐ 23 | `content creation` |
 | [Skill](content-creation/049-name-skill_78bdcf33/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/tampermonkey/skills/tampermonkey/SKILL.md) | ⭐ 23 | `content creation` |
-| [Continuous Batching](content-creation/continuous-batching_39f6c8ae/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/continuous-batching.md) | ⭐ 364 | `content creation` |
-| [Installation](content-creation/installation_1da148bd/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/getting-started/installation.md) | ⭐ 364 | `content creation` |
-| [Quickstart](content-creation/quickstart_6fa3515b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/getting-started/quickstart.md) | ⭐ 364 | `content creation` |
-| [Python Api](content-creation/python-api_18763c5f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/python-api.md) | ⭐ 364 | `content creation` |
+| [Continuous Batching](content-creation/359-continuous-batching_39f6c8ae/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/continuous-batching.md) | ⭐ 364 | `content creation` |
+| [Skill](content-creation/name-skill_05fd7f6e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/SKILL.md) | ⭐ 19 | `content creation` |
+| [Output Checkpoint Guidelines](content-creation/output_checkpoint_guidelines_1117ac0b/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/time-stepping/references/output_checkpoint_guidelines.md) | ⭐ 19 | `content creation` |
+| [Derived Quantities Guide](content-creation/derived_quantities_guide_c1a3e6f2/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/derived_quantities_guide.md) | ⭐ 19 | `content creation` |
 
-### Daily Assistant (82 skills)
+### Daily Assistant (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -664,9 +675,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sync Branch](daily-assistant/262-sync-branch_4b94bd45/) | [CloudAI-X/claude-workflow-v2](https://raw.githubusercontent.com/CloudAI-X/claude-workflow-v2/main/commands/sync-branch.md) | ⭐ 1.2k | `daily assistant` |
 | [14 App And Website Blocking Reference Implementation](daily-assistant/277-14-app-and-website-blocking-reference-implementation_f9439ca2/) | [Siddhu7007/screen-time-api-agent-skill](https://raw.githubusercontent.com/Siddhu7007/screen-time-api-agent-skill/main/skills/screen-time-api-engineer/references/guides/14-app-and-website-blocking-reference-implementation.md) | ⭐ 10 | `daily assistant` |
 | [Todo](daily-assistant/028-todo_afa1e996/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/sims/TODO.md) | ⭐ 45 | `daily assistant` |
-| [Video](daily-assistant/video_26f5b640/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/video.md) | ⭐ 364 | `daily assistant` |
+| [Video](daily-assistant/263-video_26f5b640/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/benchmarks/video.md) | ⭐ 364 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_3bb4d537/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/SKILL.md) | ⭐ 19 | `daily assistant` |
+| [Preconditioner Catalog](daily-assistant/preconditioner_catalog_6c48cfac/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/references/preconditioner_catalog.md) | ⭐ 19 | `daily assistant` |
+| [Solver Decision Tree](daily-assistant/solver_decision_tree_a7fd44b8/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/solver_decision_tree.md) | ⭐ 19 | `daily assistant` |
+| [Scheme Catalog](daily-assistant/scheme_catalog_e2bfc0fa/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/scheme_catalog.md) | ⭐ 19 | `daily assistant` |
 
-### Data Analysis (304 skills)
+### Data Analysis (313 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -974,8 +989,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](data-analysis/113-index_35cf6f30/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/13-dev-tools-version-control-deployment/index.md) | ⭐ 45 | `data analysis` |
 | [Mermaid Guide](data-analysis/143-mermaid-guide_ac9857ca/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/mermaid-guide.md) | ⭐ 45 | `data analysis` |
 | [Design Theory](data-analysis/476-design_theory_83b3883e/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/DESIGN_THEORY.md) | ⭐ 185 | `data analysis` |
+| [Skill](data-analysis/name-skill_924c9c02/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/SKILL.md) | ⭐ 19 | `data analysis` |
+| [Skill](data-analysis/name-skill_d4126719/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/SKILL.md) | ⭐ 19 | `data analysis` |
+| [Skill](data-analysis/name-skill_cfa3fdf3/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/SKILL.md) | ⭐ 19 | `data analysis` |
+| [Convergence Patterns](data-analysis/convergence_patterns_33c43d3a/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/references/convergence_patterns.md) | ⭐ 19 | `data analysis` |
+| [Scaling Guidelines](data-analysis/scaling_guidelines_f15377af/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/references/scaling_guidelines.md) | ⭐ 19 | `data analysis` |
+| [Quality Metrics](data-analysis/quality_metrics_929e98c0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/mesh-generation/references/quality_metrics.md) | ⭐ 19 | `data analysis` |
+| [Method Catalog](data-analysis/method_catalog_8174d45f/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/method_catalog.md) | ⭐ 19 | `data analysis` |
+| [Sensitivity Guidelines](data-analysis/sensitivity_guidelines_16bb86e1/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/sensitivity_guidelines.md) | ⭐ 19 | `data analysis` |
+| [Aggregation Methods](data-analysis/aggregation_methods_65094458/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/aggregation_methods.md) | ⭐ 19 | `data analysis` |
 
-### Development (577 skills)
+### Development (583 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1554,8 +1578,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_63bcf0f6/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/docs/chapters/12-interactive-elements-microsims/index.md) | ⭐ 45 | `development` |
 | [Skill](development/1178-name-skill_65c998e6/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/git-worktrees/skills/git-worktrees/SKILL.md) | ⭐ 23 | `development` |
 | [Skill](development/1178-name-skill_d7ba355c/) | [ChenLiu-1996/figures4papers](https://raw.githubusercontent.com/ChenLiu-1996/figures4papers/main/skills/scientific-figure-pro/SKILL.md) | ⭐ 185 | `development` |
-| [Tool Calling](development/tool-calling_7e3e5988/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/tool-calling.md) | ⭐ 364 | `development` |
-| [Audio](development/audio_b5816f5f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/audio.md) | ⭐ 364 | `development` |
+| [Tool Calling](development/2877-tool-calling_7e3e5988/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/tool-calling.md) | ⭐ 364 | `development` |
+| [Scheme Selection](development/scheme_selection_c306a2dd/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/differentiation-schemes/references/scheme_selection.md) | ⭐ 19 | `development` |
+| [Convergence Diagnostics](development/convergence_diagnostics_5d7df956/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/convergence_diagnostics.md) | ⭐ 19 | `development` |
+| [Error Control](development/error_control_44a88e8b/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/error_control.md) | ⭐ 19 | `development` |
+| [Method Catalog](development/method_catalog_15deb908/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/method_catalog.md) | ⭐ 19 | `development` |
+| [Optimization Strategies](development/optimization_strategies_c33d0000/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/references/optimization_strategies.md) | ⭐ 19 | `development` |
+| [Profiling Guide](development/profiling_guide_7a6d3ed7/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/references/profiling_guide.md) | ⭐ 19 | `development` |
+| [Bug Report](development/bug_report_6db8ac44/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 19 | `development` |
 
 ### Development/Devops (89 skills)
 
@@ -1648,10 +1678,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Registry Deployment Modes](development/devops/368-registry-deployment-modes_67cb2b82/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-deployment-modes.md) | ⭐ 444 | `development` |
 | [V1.0.14](development/devops/369-v1014_3a47a66a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.14.md) | ⭐ 444 | `development` |
 | [Slow Time Server](development/devops/370-slow-time-server_c3d7003f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/slow-time-server.md) | ⭐ 3.3k | `development` |
-| [Mcp Tools](development/devops/mcp-tools_03c87257/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/mcp-tools.md) | ⭐ 364 | `development` |
-| [Server](development/devops/server_280c593c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/server.md) | ⭐ 364 | `development` |
+| [Mcp Tools](development/devops/368-mcp-tools_03c87257/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/mcp-tools.md) | ⭐ 364 | `development` |
+| [Server](development/devops/369-server_280c593c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/server.md) | ⭐ 364 | `development` |
 
-### Development/Testing (20 skills)
+### Development/Testing (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1675,8 +1705,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Session Management](development/testing/088-session-management_2ce531bf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/agent-browser/references/session-management.md) | ⭐ 26 | `development` |
 | [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
+| [Doe Methods](development/testing/doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
+| [Comparison Metrics](development/testing/comparison_metrics_862d3f5f/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/comparison_metrics.md) | ⭐ 19 | `development` |
 
-### Development/Tools (131 skills)
+### Development/Tools (138 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1809,10 +1841,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_fb6098de/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 24 | `development` |
 | [Skill](development/tools/002-name-skill_997667e4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/create-ultimate-skill/SKILL.md) | ⭐ 23 | `development` |
 | [Api Reference](development/tools/073-api-reference_b9fc66cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/create-ultimate-skill/references/api-reference.md) | ⭐ 23 | `development` |
-| [Index](development/tools/index_eba8d182/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/index.md) | ⭐ 364 | `development` |
-| [Architecture](development/tools/architecture_cbe3b86c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/development/architecture.md) | ⭐ 364 | `development` |
+| [Index](development/tools/062-index_eba8d182/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/index.md) | ⭐ 364 | `development` |
+| [Architecture](development/tools/051-architecture_cbe3b86c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/development/architecture.md) | ⭐ 364 | `development` |
+| [Skill](development/tools/name-skill_b8990cc5/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/tools/name-skill_7cefc10a/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/differentiation-schemes/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/tools/name-skill_b3e7da37/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/mesh-generation/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/tools/name-skill_8350046f/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/tools/name-skill_f96b990a/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/SKILL.md) | ⭐ 19 | `development` |
+| [Multiphase Field Patterns](development/tools/multiphase_field_patterns_d615967c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/multiphase_field_patterns.md) | ⭐ 19 | `development` |
+| [Surrogate Guidelines](development/tools/surrogate_guidelines_146893b4/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/surrogate_guidelines.md) | ⭐ 19 | `development` |
 
-### Investment (6 skills)
+### Investment (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1822,6 +1861,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_e1c14930/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/portfolio-dashboard/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_7ef1c603/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.1-Cost-Estimation/historical-cost-analyzer/SKILL.md) | ⭐ 33 | `investment` |
 | [Release Notes V5.2.0](investment/051-release-notes-v520_8fa19cd9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.2.0.md) | ⭐ 153 | `investment` |
+| [Convergence Theory](investment/convergence_theory_7c2662f7/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/references/convergence_theory.md) | ⭐ 19 | `investment` |
 
 ### Other (3 skills)
 
@@ -1831,7 +1871,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 
-### Productivity (28 skills)
+### Productivity (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1863,8 +1903,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Personcentered Therapy](productivity/179-personcentered_therapy_f1c91ea3/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/PersonCentered_Therapy.md) | ⭐ 28 | `productivity` |
 | [Release Notes V4.5.0](productivity/174-release-notes-v450_f5e99e2c/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v4.5.0.md) | ⭐ 153 | `productivity` |
 | [2025 01 20 Grafana Dashboard Fixes](productivity/175-2025-01-20-grafana-dashboard-fixes_1ceb717a/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/markers/2025-01-20-grafana-dashboard-fixes.md) | ⭐ 153 | `productivity` |
+| [Boundary Handling](productivity/boundary_handling_34354124/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/differentiation-schemes/references/boundary_handling.md) | ⭐ 19 | `productivity` |
+| [Error Guidance](productivity/error_guidance_f05c44a8/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/differentiation-schemes/references/error_guidance.md) | ⭐ 19 | `productivity` |
+| [Globalization Strategies](productivity/globalization_strategies_bd0e231c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/globalization_strategies.md) | ⭐ 19 | `productivity` |
+| [Stability Criteria](productivity/stability_criteria_9cb1b954/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/stability_criteria.md) | ⭐ 19 | `productivity` |
+| [Cfl Coupling](productivity/cfl_coupling_454e7618/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/time-stepping/references/cfl_coupling.md) | ⭐ 19 | `productivity` |
+| [Ramping Strategies](productivity/ramping_strategies_65c44a96/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/time-stepping/references/ramping_strategies.md) | ⭐ 19 | `productivity` |
+| [Optimizer Selection](productivity/optimizer_selection_45e04e00/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/optimizer_selection.md) | ⭐ 19 | `productivity` |
+| [Sweep Strategies](productivity/sweep_strategies_6c9eade4/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/sweep_strategies.md) | ⭐ 19 | `productivity` |
+| [Stencil Catalog](productivity/stencil_catalog_e4d6f01d/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/differentiation-schemes/references/stencil_catalog.md) | ⭐ 19 | `productivity` |
 
-### Research (66 skills)
+### Research (72 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1934,6 +1983,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/163-description-skill_5956003e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 17 | `research` |
 | [Arl Agent Instructions](research/257-arl-agent-instructions_78761d66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/ARL-agent-instructions.md) | ⭐ 17 | `research` |
 | [User Elicitation](research/256-user-elicitation_f5972be7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/context/user-elicitation.md) | 🔥 20.1k | `research` |
+| [Gci Guidelines](research/gci_guidelines_df1570cc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/references/gci_guidelines.md) | ⭐ 19 | `research` |
+| [Validation Protocol](research/validation_protocol_9332ba00/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/validation_protocol.md) | ⭐ 19 | `research` |
+| [Skill Proposal](research/skill_proposal_057ab9bd/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/.github/ISSUE_TEMPLATE/skill_proposal.md) | ⭐ 19 | `research` |
+| [Tolerance Guidelines](research/tolerance_guidelines_bd74a5da/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/tolerance_guidelines.md) | ⭐ 19 | `research` |
+| [Data Formats](research/data_formats_06a1c064/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/data_formats.md) | ⭐ 19 | `research` |
+| [Statistical Methods](research/statistical_methods_3f77f272/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/statistical_methods.md) | ⭐ 19 | `research` |
 
 ## How Skills Are Organized
 
@@ -1985,5 +2040,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-15 22:25:00 UTC*
+*Last updated: 2026-02-16 00:22:36 UTC*
 *Automatically maintained by SkillFlow*
