@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T11:23:01.453856",
+  "updated_at": "2026-02-16T11:23:48.642886",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -25019,6 +25019,20 @@
       "source_url": "https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md",
       "display_name": "Claude",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "a00603590ea86d526afc2f744a69c9a90a513aba846aa2480403beef6616fb46",
+      "source_path": "docs/desktop.md",
+      "source_repo": "kevinshowkat/brood",
+      "local_path": "development/2862-desktop_a0060359",
+      "category": "development",
+      "name": "desktop_a0060359",
+      "indexed_at": "2026-02-16T11:23:48.642684",
+      "repo_stars": 51,
+      "repo_updated_at": "2026-02-16T03:40:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md",
+      "display_name": "Desktop",
+      "tags": "[\"development\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1787 AI-powered skills** organized into 15 categories.
+A curated collection of **1788 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (146 skills)
 - **Daily Assistant** (88 skills)
 - **Data Analysis** (323 skills)
-- **Development** (608 skills)
+- **Development** (609 skills)
 - **Development/Devops** (92 skills)
 - **Development/Testing** (21 skills)
 - **Development/Tools** (148 skills)
@@ -588,7 +588,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Image Understanding](content-creation/354-image-understanding_8c564e55/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/image-understanding.md) | ⭐ 50 | `content creation` |
 | [Streaming](content-creation/355-streaming_7c04727d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/streaming.md) | ⭐ 50 | `content creation` |
 | [Agents](content-creation/185-agents_6d77cacb/) | [makefinks/manim-generator](https://raw.githubusercontent.com/makefinks/manim-generator/main/AGENTS.md) | ⭐ 76 | `content creation` |
-| [Claude](content-creation/claude_cd1eb1d2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 88 | `content creation` |
+| [Claude](content-creation/007-claude_cd1eb1d2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 88 | `content creation` |
 
 ### Daily Assistant (88 skills)
 
@@ -1011,7 +1011,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
 | [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
 
-### Development (608 skills)
+### Development (609 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1623,6 +1623,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Function Calling](development/2866-function-calling_3bb0b907/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/function-calling.md) | ⭐ 50 | `development` |
 | [Migrate To Responses](development/2871-migrate-to-responses_173363a6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/migrate-to-responses.md) | ⭐ 50 | `development` |
 | [Text](development/2872-text_6e7a1c9a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/text.md) | ⭐ 50 | `development` |
+| [Desktop](development/desktop_a0060359/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
 
 ### Development/Devops (92 skills)
 
@@ -2093,5 +2094,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 11:23:02 UTC*
+*Last updated: 2026-02-16 11:23:48 UTC*
 *Automatically maintained by SkillFlow*
