@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1788 AI-powered skills** organized into 15 categories.
+A curated collection of **1970 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,15 +8,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (28 skills)
+- **Automation/Scripting** (29 skills)
 - **Automation/Workflow** (102 skills)
-- **Commercial** (68 skills)
-- **Communication** (40 skills)
-- **Content Creation** (146 skills)
-- **Daily Assistant** (88 skills)
+- **Commercial** (69 skills)
+- **Communication** (46 skills)
+- **Content Creation** (149 skills)
+- **Daily Assistant** (122 skills)
 - **Data Analysis** (323 skills)
-- **Development** (609 skills)
-- **Development/Devops** (92 skills)
+- **Development** (716 skills)
+- **Development/Devops** (122 skills)
 - **Development/Testing** (21 skills)
 - **Development/Tools** (148 skills)
 - **Investment** (12 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (28 skills)
+### Automation/Scripting (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -213,6 +213,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](automation/scripting/033-configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
 | [Skill](automation/scripting/003-name-skill_27123973/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/SKILL.md) | ⭐ 19 | `automation` |
 | [Campaign Patterns](automation/scripting/096-campaign_patterns_6894dedf/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/campaign_patterns.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_f351c451/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/SKILL.md) | ⭐ 1.5k | `automation` |
 
 ### Automation/Workflow (102 skills)
 
@@ -321,7 +322,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Log Patterns](automation/workflow/140-log_patterns_a86ae176/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/log_patterns.md) | ⭐ 19 | `automation` |
 | [Target User Panel Prompt](automation/workflow/133-target_user_panel_prompt_3309e19a/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md) | ⭐ 51 | `automation` |
 
-### Commercial (68 skills)
+### Commercial (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -393,8 +394,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mesh Types](commercial/378-mesh_types_9f68157d/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/mesh-generation/references/mesh_types.md) | ⭐ 19 | `commercial` |
 | [Imex Guidelines](commercial/379-imex_guidelines_06634430/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/imex_guidelines.md) | ⭐ 19 | `commercial` |
 | [Splitting Catalog](commercial/380-splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
+| [Zerg Operational Spec](commercial/368-zerg-operational-spec_3aafa919/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/ZERG-OPERATIONAL-SPEC.md) | ⭐ 17 | `commercial` |
 
-### Communication (40 skills)
+### Communication (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -438,8 +440,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multimodal](communication/251-multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
 | [Reasoning](communication/252-reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
 | [Workflow](communication/129-workflow_72b25c3f/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workflow.md) | ⭐ 13 | `communication` |
+| [Plugins](communication/250-plugins_6759d818/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/docs/plugins.md) | ⭐ 17 | `communication` |
+| [Plugins](communication/250-plugins_23fe6a4c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Plugins.md) | ⭐ 17 | `communication` |
+| [Plugin System](communication/251-plugin-system_66a19e0d/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Plugin-System.md) | ⭐ 17 | `communication` |
+| [Plugins.Core](communication/252-pluginscore_489f6dbd/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.core.md) | ⭐ 17 | `communication` |
+| [Plugins.Details](communication/253-pluginsdetails_c6f328c7/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.details.md) | ⭐ 17 | `communication` |
+| [Plugins](communication/250-plugins_6afb0817/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.md) | ⭐ 17 | `communication` |
 
-### Content Creation (146 skills)
+### Content Creation (149 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -589,8 +597,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Streaming](content-creation/355-streaming_7c04727d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/streaming.md) | ⭐ 50 | `content creation` |
 | [Agents](content-creation/185-agents_6d77cacb/) | [makefinks/manim-generator](https://raw.githubusercontent.com/makefinks/manim-generator/main/AGENTS.md) | ⭐ 76 | `content creation` |
 | [Claude](content-creation/007-claude_cd1eb1d2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 88 | `content creation` |
+| [Skill](content-creation/049-name-skill_0bb4b65b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.6k | `content creation` |
+| [V2.1 Tweets](content-creation/372-v21-tweets_fd2041f4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 2.6k | `content creation` |
+| [Research](content-creation/373-research_3b89b5a0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 2.6k | `content creation` |
 
-### Daily Assistant (88 skills)
+### Daily Assistant (122 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -682,6 +693,40 @@ ls ~/.claude/skills/patch-research-agent/
 | [Scheme Catalog](daily-assistant/279-scheme_catalog_e2bfc0fa/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/scheme_catalog.md) | ⭐ 19 | `daily assistant` |
 | [Chat](daily-assistant/277-chat_db41477b/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/chat.md) | ⭐ 13 | `daily assistant` |
 | [Subagent Implementation Report](daily-assistant/278-subagent_implementation_report_0326551a/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/SUBAGENT_IMPLEMENTATION_REPORT.md) | ⭐ 13 | `daily assistant` |
+| [State](daily-assistant/262-state_5dbca1f2/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/STATE.md) | ⭐ 17 | `daily assistant` |
+| [Plan Fix Zerg Status](daily-assistant/263-plan-fix-zerg-status_dfbd5900/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/plan-fix-zerg-status.md) | ⭐ 17 | `daily assistant` |
+| [Meta Prompt](daily-assistant/264-meta-prompt_e35317d0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/META-PROMPT.md) | ⭐ 17 | `daily assistant` |
+| [Architecture State Management](daily-assistant/265-architecture-state-management_8dd086ec/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Architecture-State-Management.md) | ⭐ 17 | `daily assistant` |
+| [Zerg Review](daily-assistant/266-zerg-review_dd16e772/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-review.md) | ⭐ 17 | `daily assistant` |
+| [Zerg Stop](daily-assistant/267-zerg-stop_35f9bae6/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-stop.md) | ⭐ 17 | `daily assistant` |
+| [Create Command](daily-assistant/268-create-command_9c417c78/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/docs/commands/create-command.md) | ⭐ 17 | `daily assistant` |
+| [Requirements](daily-assistant/210-requirements_94b7aa17/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/container-mode-bypass/requirements.md) | ⭐ 17 | `daily assistant` |
+| [Requirements](daily-assistant/210-requirements_821956db/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/design-task-manifest/requirements.md) | ⭐ 17 | `daily assistant` |
+| [Design](daily-assistant/269-design_b2066ea2/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/fix-task-list-id/design.md) | ⭐ 17 | `daily assistant` |
+| [Requirements](daily-assistant/210-requirements_253e5d4f/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/git-cleanup-issues-docs/requirements.md) | ⭐ 17 | `daily assistant` |
+| [Design](daily-assistant/269-design_45ee6626/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issue-64/design.md) | ⭐ 17 | `daily assistant` |
+| [Requirements](daily-assistant/210-requirements_8fd839bb/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issues-batch/requirements.md) | ⭐ 17 | `daily assistant` |
+| [Design](daily-assistant/269-design_46df8b80/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/launcher-mode-verification/design.md) | ⭐ 17 | `daily assistant` |
+| [Design](daily-assistant/269-design_ae3b0ee4/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/orchestrator-coordination-fix/design.md) | ⭐ 17 | `daily assistant` |
+| [Design](daily-assistant/269-design_6ceeee15/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/performance-analysis/design.md) | ⭐ 17 | `daily assistant` |
+| [Design](daily-assistant/269-design_c1f0562b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/pre-release-docs/design.md) | ⭐ 17 | `daily assistant` |
+| [Requirements](daily-assistant/210-requirements_07e90131/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/rush-performance-optimization/requirements.md) | ⭐ 17 | `daily assistant` |
+| [Requirements](daily-assistant/210-requirements_564257be/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/security-hardening/requirements.md) | ⭐ 17 | `daily assistant` |
+| [Backlog](daily-assistant/270-backlog_d3abbf34/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/BACKLOG.md) | ⭐ 17 | `daily assistant` |
+| [L0 Task 004 Worker Protocol](daily-assistant/271-l0-task-004-worker-protocol_456e9e5c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/prompts/L0-TASK-004-worker-protocol.md) | ⭐ 17 | `daily assistant` |
+| [L1 Task 002 Port Allocator](daily-assistant/272-l1-task-002-port-allocator_4329b160/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/prompts/L1-TASK-002-port-allocator.md) | ⭐ 17 | `daily assistant` |
+| [L2 Core Commands](daily-assistant/273-l2-core-commands_b7df813e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/prompts/L2-core-commands.md) | ⭐ 17 | `daily assistant` |
+| [Build](daily-assistant/274-build_69752a3e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/build.md) | ⭐ 17 | `daily assistant` |
+| [Create Command](daily-assistant/268-create-command_ae9a586b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/create-command.md) | ⭐ 17 | `daily assistant` |
+| [Review](daily-assistant/275-review_86f0102c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/review.md) | ⭐ 17 | `daily assistant` |
+| [Status.Details](daily-assistant/276-statusdetails_f2a6dc10/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/status.details.md) | ⭐ 17 | `daily assistant` |
+| [Stop](daily-assistant/277-stop_44effe0a/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/stop.md) | ⭐ 17 | `daily assistant` |
+| [Worker.Details](daily-assistant/278-workerdetails_f167f4de/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/worker.details.md) | ⭐ 17 | `daily assistant` |
+| [Worker](daily-assistant/279-worker_b83e380d/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/worker.md) | ⭐ 17 | `daily assistant` |
+| [Wm 003](daily-assistant/280-wm-003_a232ddc5/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-003.md) | ⭐ 17 | `daily assistant` |
+| [Wm 004](daily-assistant/281-wm-004_c6015b47/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-004.md) | ⭐ 17 | `daily assistant` |
+| [Wm 005](daily-assistant/282-wm-005_2c401c6e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-005.md) | ⭐ 17 | `daily assistant` |
+| [Wm 006](daily-assistant/283-wm-006_efc03ea0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-006.md) | ⭐ 17 | `daily assistant` |
 
 ### Data Analysis (323 skills)
 
@@ -1011,7 +1056,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
 | [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
 
-### Development (609 skills)
+### Development (716 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1623,9 +1668,116 @@ ls ~/.claude/skills/patch-research-agent/
 | [Function Calling](development/2866-function-calling_3bb0b907/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/function-calling.md) | ⭐ 50 | `development` |
 | [Migrate To Responses](development/2871-migrate-to-responses_173363a6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/migrate-to-responses.md) | ⭐ 50 | `development` |
 | [Text](development/2872-text_6e7a1c9a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/text.md) | ⭐ 50 | `development` |
-| [Desktop](development/desktop_a0060359/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
+| [Desktop](development/2862-desktop_a0060359/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
+| [Architecture](development/055-architecture_d90795ce/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/ARCHITECTURE.md) | ⭐ 17 | `development` |
+| [Project Instructions](development/2874-project_instructions_1974e25d/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/PROJECT_INSTRUCTIONS.md) | ⭐ 17 | `development` |
+| [Zerg Project Instructions](development/2875-zerg_project_instructions_a4bbec22/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/ZERG_PROJECT_INSTRUCTIONS.md) | ⭐ 17 | `development` |
+| [Claude Code Agent Teams](development/2876-claude_code_agent_teams_5d76547a/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/claude_code_agent_teams.md) | ⭐ 17 | `development` |
+| [Dogfood Bugs](development/2877-dogfood-bugs_606deb02/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/dogfood-bugs.md) | ⭐ 17 | `development` |
+| [Session 2026 01 26 Documentation](development/2878-session-2026-01-26-documentation_a2d3956a/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/session-2026-01-26-documentation.md) | ⭐ 17 | `development` |
+| [Commands Deep](development/2879-commands-deep_777e3609/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/docs/commands-deep.md) | ⭐ 17 | `development` |
+| [Commands Quick](development/2880-commands-quick_8ee13145/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/docs/commands-quick.md) | ⭐ 17 | `development` |
+| [Architecture](development/055-architecture_5e69c827/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Architecture.md) | ⭐ 17 | `development` |
+| [Command Reference](development/2881-command-reference_f8b88620/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Command-Reference.md) | ⭐ 17 | `development` |
+| [Context Engineering](development/2882-context-engineering_29f7d987/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Context-Engineering.md) | ⭐ 17 | `development` |
+| [Home](development/2883-home_935ca24b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Home.md) | ⭐ 17 | `development` |
+| [Troubleshooting](development/1097-troubleshooting_ebab01a3/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Troubleshooting.md) | ⭐ 17 | `development` |
+| [Context Engineering Internals](development/2884-context-engineering-internals_aa63a3e0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Context-Engineering-Internals.md) | ⭐ 17 | `development` |
+| [Faq](development/360-faq_a95bd835/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/FAQ.md) | ⭐ 17 | `development` |
+| [Troubleshooting](development/1097-troubleshooting_aad0f6ee/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Troubleshooting.md) | ⭐ 17 | `development` |
+| [Tuning Guide](development/2885-tuning-guide_c29c89c1/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Tuning-Guide.md) | ⭐ 17 | `development` |
+| [Your First Feature](development/2886-your-first-feature_4ebc842c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Your-First-Feature.md) | ⭐ 17 | `development` |
+| [Zerg Analyze](development/2887-zerg-analyze_cb379fd3/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-analyze.md) | ⭐ 17 | `development` |
+| [Zerg Cleanup](development/2888-zerg-cleanup_a7f11f8e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-cleanup.md) | ⭐ 17 | `development` |
+| [Zerg Debug](development/2889-zerg-debug_b614eacf/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-debug.md) | ⭐ 17 | `development` |
+| [Zerg Design](development/2890-zerg-design_e1242220/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-design.md) | ⭐ 17 | `development` |
+| [Zerg Document](development/2891-zerg-document_d0976676/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-document.md) | ⭐ 17 | `development` |
+| [Zerg Logs](development/2892-zerg-logs_74d90f7e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-logs.md) | ⭐ 17 | `development` |
+| [Zerg Plan](development/2893-zerg-plan_39a9e1db/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-plan.md) | ⭐ 17 | `development` |
+| [Zerg Select Tool](development/2894-zerg-select-tool_66eb15f1/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-select-tool.md) | ⭐ 17 | `development` |
+| [Zerg Worker](development/2895-zerg-worker_d4288822/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-worker.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_761c7dfe/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/analyze-wiring-verification/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_d170c10c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/bite-sized-planning/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_ba1cf08b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/container-execution/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_37f78cb1/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/context-engineering-guardrails/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_0cd49d3b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/documentation-audit-sync/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_50399203/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/documentation-overhaul/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_f1fb6761/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/documentation-tone-overhaul/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_23a5a3fd/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/enforce-workflow-boundaries/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_9ec4cda1/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/enforce-workflow-boundaries/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_eba3b6a5/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/finish-rename/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_76c5ad24/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/finish-rename/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_e6c02e98/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/fix-codeql-scanning-alerts/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_8c41a640/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/git-cleanup-issues-docs/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_eb74eab3/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/git-tooling-v2/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_f925af64/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issue-64/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_7b986ad8/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issue-98/design.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_5a2ceaae/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issues-129-163-165/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_2bb1cb82/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issues-129-163-165/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_bc198ef7/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/github-issues-batch/design.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_d93829bf/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/integration-wiring-enforcement/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_5cc005b8/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/issue-102-resilience/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_bf58c941/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/issue-94/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_5c073cd0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/lockfile-hardening/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_79e1ad91/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/lockfile-hardening/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_03633f6f/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/multi-epic-isolation/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_ef3cd459/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/multi-epic-isolation/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_5a2de51b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/perf-report-fixes/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_79c79e5c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/perf-report-fixes/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_a9dcc2c0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/performance-analysis/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_7b755d4f/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/performance-core/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_80449016/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/performance-core/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_3ba14f95/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase-1-community-governance/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_635bcd3d/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase-1-community-governance/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_a55057b9/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase-2-ci-quality/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_93306202/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase-2-ci-quality/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_898687c7/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase-3-post-release-polish/design.md) | ⭐ 17 | `development` |
+| [Capability Matrix](development/2897-capability_matrix_4fce3813/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase1/capability_matrix.md) | ⭐ 17 | `development` |
+| [Checkpoint2 Tier1 Analysis](development/2898-checkpoint2_tier1_analysis_ea95ac1a/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase1/checkpoint2_tier1_analysis.md) | ⭐ 17 | `development` |
+| [Checkpoint3 Tier2 Analysis](development/2899-checkpoint3_tier2_analysis_a10c66d7/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase1/checkpoint3_tier2_analysis.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_6971be9b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/plan-validation-checks/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_0474932c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/plan-validation-checks/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_c6f6e9e9/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/quality-fix-sweep/design.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_0165e48a/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/quality-gate-fixes/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_bf82f6e9/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/quality-gate-fixes/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_5ddbb3b8/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/resolving-the-rest-of-134-completely/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_b384ea9b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/resolving-the-rest-of-134-completely/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_24246eb5/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/review-fixes-before-merge/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_a8e9f381/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/review-security-integration/requirements.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_35e93558/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/rush-perf-fix/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_c9b95fbc/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/rush-performance-optimization/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_5edbf736/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/rush-task-mode-default/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_ba178a27/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/security-hardening-addendum/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_d965971b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/security-hardening-addendum/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_52059e14/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/security-hardening/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_908b8494/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/task-mode-default/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_8ceb04dd/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/troubleshoot-enhancement/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_7deaa141/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/troubleshoot-enhancement/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_88072923/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-observability/design.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_61068c92/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/z-shortcut-and-rename/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_148f9a9f/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/z-shortcut-and-rename/requirements.md) | ⭐ 17 | `development` |
+| [L4 Advanced Commands](development/2900-l4-advanced-commands_45889193/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/prompts/L4-advanced-commands.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_d0011652/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/specs/ci-streamline/requirements.md) | ⭐ 17 | `development` |
+| [Design](development/2896-design_8bb28225/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/specs/core-refactoring/design.md) | ⭐ 17 | `development` |
+| [Requirements](development/2108-requirements_dc2d4f30/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/specs/core-refactoring/requirements.md) | ⭐ 17 | `development` |
+| [Debug.Details](development/2901-debugdetails_756d8cea/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/debug.details.md) | ⭐ 17 | `development` |
+| [Document](development/2902-document_e296b960/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/document.md) | ⭐ 17 | `development` |
+| [Explain.Details](development/2903-explaindetails_803f9588/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/explain.details.md) | ⭐ 17 | `development` |
+| [Git](development/2904-git_e72215f6/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/git.md) | ⭐ 17 | `development` |
+| [Index](development/468-index_36f99781/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/index.md) | ⭐ 17 | `development` |
+| [Logs](development/1352-logs_739c0dd8/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/logs.md) | ⭐ 17 | `development` |
+| [Merge](development/2733-merge_6d341293/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/merge.md) | ⭐ 17 | `development` |
+| [Plan.Details](development/2905-plandetails_2518923f/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plan.details.md) | ⭐ 17 | `development` |
+| [Refactor](development/827-refactor_158a2c64/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/refactor.md) | ⭐ 17 | `development` |
+| [Select Tool.Details](development/2906-select-tooldetails_fd0d1a7e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/select-tool.details.md) | ⭐ 17 | `development` |
+| [Worker.Core](development/2907-workercore_0abbda27/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/worker.core.md) | ⭐ 17 | `development` |
+| [Owasp 2025](development/2908-owasp-2025_225ae62b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.claude/rules/security/_core/owasp-2025.md) | ⭐ 17 | `development` |
+| [Cov 010](development/2909-cov-010_dcd3d345/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/coverage-100/prompts/COV-010.md) | ⭐ 17 | `development` |
+| [Dc 001 Init Projectstack](development/2910-dc-001-init-projectstack_4c353f7e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-001-init-projectstack.md) | ⭐ 17 | `development` |
+| [Dc 007 Container Spawn Claude](development/2911-dc-007-container-spawn-claude_e01d2477/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-007-container-spawn-claude.md) | ⭐ 17 | `development` |
+| [Dc 009 Orchestrator Wiring](development/2912-dc-009-orchestrator-wiring_ad09de8e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-009-orchestrator-wiring.md) | ⭐ 17 | `development` |
 
-### Development/Devops (92 skills)
+### Development/Devops (122 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1721,6 +1873,36 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_ad491887/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md) | ⭐ 581 | `development` |
 | [Env Configuration](development/devops/091-env_configuration_4edec203/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md) | ⭐ 4.0k | `development` |
 | [Skill](development/devops/014-name-skill_0f70c07a/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/remembering/SKILL.md) | ⭐ 102 | `development` |
+| [Claude](development/devops/205-claude_009fd244/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/CLAUDE.md) | ⭐ 17 | `development` |
+| [Project](development/devops/360-project_7b269db9/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/PROJECT.md) | ⭐ 17 | `development` |
+| [Workflow Narrative](development/devops/361-workflow-narrative_4240b2e2/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/WORKFLOW-NARRATIVE.md) | ⭐ 17 | `development` |
+| [Claude Code Agent Teams Implementation Plan](development/devops/362-claude_code_agent_teams_implementation_plan_d74898b1/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/claude_code_agent_teams_implementation_plan.md) | ⭐ 17 | `development` |
+| [Performance Evaluation Factors](development/devops/363-performance_evaluation_factors_42d9ffc6/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/performance_evaluation_factors.md) | ⭐ 17 | `development` |
+| [Plan Container Dogfooding](development/devops/364-plan-container-dogfooding_e2478197/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/claudedocs/plan-container-dogfooding.md) | ⭐ 17 | `development` |
+| [Configuration](development/devops/009-configuration_6818209b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/docs/configuration.md) | ⭐ 17 | `development` |
+| [Dc 012 Complete](development/devops/365-dc-012-complete_2e4a899b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/sessions/dc-012-complete.md) | ⭐ 17 | `development` |
+| [Configuration](development/devops/009-configuration_1ba81669/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/Configuration.md) | ⭐ 17 | `development` |
+| [Faq](development/devops/167-faq_431f1994/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/wiki/FAQ.md) | ⭐ 17 | `development` |
+| [Configuration](development/devops/009-configuration_95a5f97c/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Configuration.md) | ⭐ 17 | `development` |
+| [Home](development/devops/366-home_6a741a8b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Home.md) | ⭐ 17 | `development` |
+| [Tutorial Container Mode](development/devops/367-tutorial-container-mode_0a53a514/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/Tutorial-Container-Mode.md) | ⭐ 17 | `development` |
+| [Zerg Init](development/devops/368-zerg-init_154b06f2/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.zerg/wiki/zerg-init.md) | ⭐ 17 | `development` |
+| [Question Trees](development/devops/369-question-trees_8bc52bdd/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/66-questioning-methodology/question-trees.md) | ⭐ 17 | `development` |
+| [Checkpoint1 Local Analysis](development/devops/370-checkpoint1_local_analysis_66ab4caa/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase1/checkpoint1_local_analysis.md) | ⭐ 17 | `development` |
+| [Architecture Synthesis](development/devops/371-architecture_synthesis_d34c9320/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/phase2/architecture_synthesis.md) | ⭐ 17 | `development` |
+| [Requirements](development/devops/219-requirements_659f547a/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/zerg-website/requirements.md) | ⭐ 17 | `development` |
+| [L1 Task 003 Container Launcher](development/devops/372-l1-task-003-container-launcher_07672ab9/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/prompts/L1-TASK-003-container-launcher.md) | ⭐ 17 | `development` |
+| [Brainstorm.Core](development/devops/373-brainstormcore_97251e57/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/brainstorm.core.md) | ⭐ 17 | `development` |
+| [Brainstorm.Details](development/devops/374-brainstormdetails_53ba79b9/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/brainstorm.details.md) | ⭐ 17 | `development` |
+| [Brainstorm](development/devops/375-brainstorm_c9cb1b6f/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/brainstorm.md) | ⭐ 17 | `development` |
+| [Init.Core](development/devops/376-initcore_ede2fe37/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/init.core.md) | ⭐ 17 | `development` |
+| [Init](development/devops/377-init_0b2a8695/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/init.md) | ⭐ 17 | `development` |
+| [Select Tool.Core](development/devops/378-select-toolcore_97fec63b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/select-tool.core.md) | ⭐ 17 | `development` |
+| [Select Tool](development/devops/379-select-tool_db372f6b/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/select-tool.md) | ⭐ 17 | `development` |
+| [Dc 006 Container Launcher](development/devops/380-dc-006-container-launcher_1ccc97e4/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-006-container-launcher.md) | ⭐ 17 | `development` |
+| [Dc 008 Auto Detect Launcher](development/devops/381-dc-008-auto-detect-launcher_89208474/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-008-auto-detect-launcher.md) | ⭐ 17 | `development` |
+| [Dc 011 Skill Docs](development/devops/382-dc-011-skill-docs_db01226e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-011-skill-docs.md) | ⭐ 17 | `development` |
+| [Claude](development/devops/205-claude_a2ba6000/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.claude/rules/security/containers/docker/CLAUDE.md) | ⭐ 17 | `development` |
 
 ### Development/Testing (21 skills)
 
@@ -2094,5 +2276,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 11:23:48 UTC*
+*Last updated: 2026-02-16 15:24:18 UTC*
 *Automatically maintained by SkillFlow*
