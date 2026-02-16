@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T05:25:00.728516",
+  "updated_at": "2026-02-16T06:22:34.145698",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24207,6 +24207,34 @@
       "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/risk-management-framework.md",
       "display_name": "Risk Management Framework",
       "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "ad49188784803689972f621246416f827a0a12e01ae12041eeed8c8932649ea5",
+      "source_path": "tunnel-doctor/SKILL.md",
+      "source_repo": "daymade/claude-code-skills",
+      "local_path": "development/devops/014-name-skill_ad491887",
+      "category": "development/devops",
+      "name": "name-skill_ad491887",
+      "indexed_at": "2026-02-16T06:22:33.860170",
+      "repo_stars": 581,
+      "repo_updated_at": "2026-02-15T18:27:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4bc05c622d7f2a517502ea471efda74e4363f642161cf57de64cb4b7bdfc7a0e",
+      "source_path": "tunnel-doctor/references/proxy_fixes.md",
+      "source_repo": "daymade/claude-code-skills",
+      "local_path": "development/tools/329-proxy_fixes_4bc05c62",
+      "category": "development/tools",
+      "name": "proxy_fixes_4bc05c62",
+      "indexed_at": "2026-02-16T06:22:34.145659",
+      "repo_stars": 581,
+      "repo_updated_at": "2026-02-15T18:27:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/references/proxy_fixes.md",
+      "display_name": "Proxy Fixes",
+      "tags": "[\"development\"]"
     }
   ]
 }

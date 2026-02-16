@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1734 AI-powered skills** organized into 15 categories.
+A curated collection of **1731 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -13,15 +13,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (68 skills)
 - **Communication** (39 skills)
 - **Content Creation** (140 skills)
-- **Daily Assistant** (88 skills)
+- **Daily Assistant** (86 skills)
 - **Data Analysis** (318 skills)
 - **Development** (583 skills)
-- **Development/Devops** (89 skills)
+- **Development/Devops** (90 skills)
 - **Development/Testing** (21 skills)
-- **Development/Tools** (138 skills)
-- **Investment** (9 skills)
+- **Development/Tools** (139 skills)
+- **Investment** (8 skills)
 - **Other** (3 skills)
-- **Productivity** (40 skills)
+- **Productivity** (38 skills)
 - **Research** (68 skills)
 
 ## Patches - Curated Skill Bundles
@@ -583,7 +583,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Derived Quantities Guide](content-creation/375-derived_quantities_guide_c1a3e6f2/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/derived_quantities_guide.md) | ⭐ 19 | `content creation` |
 | [Target User Agentic Harness V0](content-creation/371-target_user_agentic_harness_v0_e76baae4/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 
-### Daily Assistant (88 skills)
+### Daily Assistant (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -673,8 +673,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Preconditioner Catalog](daily-assistant/277-preconditioner_catalog_6c48cfac/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/references/preconditioner_catalog.md) | ⭐ 19 | `daily assistant` |
 | [Solver Decision Tree](daily-assistant/278-solver_decision_tree_a7fd44b8/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/solver_decision_tree.md) | ⭐ 19 | `daily assistant` |
 | [Scheme Catalog](daily-assistant/279-scheme_catalog_e2bfc0fa/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/scheme_catalog.md) | ⭐ 19 | `daily assistant` |
-| [Project Charter Template](daily-assistant/project_charter_template_a407af51/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/assets/project_charter_template.md) | ⭐ 1.8k | `daily assistant` |
-| [Raci Matrix Template](daily-assistant/raci_matrix_template_5de71bc4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/assets/raci_matrix_template.md) | ⭐ 1.8k | `daily assistant` |
 
 ### Data Analysis (318 skills)
 
@@ -996,8 +994,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](data-analysis/036-claude_58bdf517/) | [CodeAlive-AI/agents-reflection-skills](https://raw.githubusercontent.com/CodeAlive-AI/agents-reflection-skills/main/CLAUDE.md) | ⭐ 28 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_72eabf07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Validation Rules](data-analysis/477-validation-rules_03a49ea1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/references/validation-rules.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_5eef58af/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.8k | `data analysis` |
-| [Velocity Forecasting Guide](data-analysis/velocity-forecasting-guide_3e7775ac/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/velocity-forecasting-guide.md) | ⭐ 1.8k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5eef58af/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.8k | `data analysis` |
+| [Velocity Forecasting Guide](data-analysis/477-velocity-forecasting-guide_3e7775ac/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/velocity-forecasting-guide.md) | ⭐ 1.8k | `data analysis` |
 
 ### Development (583 skills)
 
@@ -1585,9 +1583,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Method Catalog](development/2915-method_catalog_15deb908/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/method_catalog.md) | ⭐ 19 | `development` |
 | [Optimization Strategies](development/2916-optimization_strategies_c33d0000/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/references/optimization_strategies.md) | ⭐ 19 | `development` |
 | [Profiling Guide](development/2917-profiling_guide_7a6d3ed7/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/references/profiling_guide.md) | ⭐ 19 | `development` |
-| [Team Dynamics Framework](development/team-dynamics-framework_52e31057/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/team-dynamics-framework.md) | ⭐ 1.8k | `development` |
+| [Team Dynamics Framework](development/2879-team-dynamics-framework_52e31057/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/team-dynamics-framework.md) | ⭐ 1.8k | `development` |
 
-### Development/Devops (89 skills)
+### Development/Devops (90 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1680,6 +1678,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Slow Time Server](development/devops/370-slow-time-server_c3d7003f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/slow-time-server.md) | ⭐ 3.3k | `development` |
 | [Mcp Tools](development/devops/368-mcp-tools_03c87257/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/mcp-tools.md) | ⭐ 364 | `development` |
 | [Server](development/devops/369-server_280c593c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/server.md) | ⭐ 364 | `development` |
+| [Skill](development/devops/name-skill_ad491887/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md) | ⭐ 581 | `development` |
 
 ### Development/Testing (21 skills)
 
@@ -1707,7 +1706,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 | [Doe Methods](development/testing/085-doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
 
-### Development/Tools (138 skills)
+### Development/Tools (139 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1849,8 +1848,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_f96b990a/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/SKILL.md) | ⭐ 19 | `development` |
 | [Multiphase Field Patterns](development/tools/330-multiphase_field_patterns_d615967c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/multiphase_field_patterns.md) | ⭐ 19 | `development` |
 | [Surrogate Guidelines](development/tools/331-surrogate_guidelines_146893b4/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/surrogate_guidelines.md) | ⭐ 19 | `development` |
+| [Proxy Fixes](development/tools/proxy_fixes_4bc05c62/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/references/proxy_fixes.md) | ⭐ 581 | `development` |
 
-### Investment (9 skills)
+### Investment (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1861,8 +1861,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_7ef1c603/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/2_DDC_Book/3.1-Cost-Estimation/historical-cost-analyzer/SKILL.md) | ⭐ 33 | `investment` |
 | [Release Notes V5.2.0](investment/051-release-notes-v520_8fa19cd9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.2.0.md) | ⭐ 153 | `investment` |
 | [Convergence Theory](investment/050-convergence_theory_7c2662f7/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/references/convergence_theory.md) | ⭐ 19 | `investment` |
-| [Risk Management Framework](investment/risk-management-framework_326fdcf2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/risk-management-framework.md) | ⭐ 1.8k | `investment` |
-| [Executive Report Template](investment/executive_report_template_dd97e08e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/assets/executive_report_template.md) | ⭐ 1.8k | `investment` |
+| [Risk Management Framework](investment/048-risk-management-framework_326fdcf2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/risk-management-framework.md) | ⭐ 1.8k | `investment` |
 
 ### Other (3 skills)
 
@@ -1872,7 +1871,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 
-### Productivity (40 skills)
+### Productivity (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1912,10 +1911,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ramping Strategies](productivity/178-ramping_strategies_65c44a96/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/time-stepping/references/ramping_strategies.md) | ⭐ 19 | `productivity` |
 | [Optimizer Selection](productivity/179-optimizer_selection_45e04e00/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/optimizer_selection.md) | ⭐ 19 | `productivity` |
 | [Sweep Strategies](productivity/180-sweep_strategies_6c9eade4/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/sweep_strategies.md) | ⭐ 19 | `productivity` |
-| [Skill](productivity/name-skill_7e4bca3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.8k | `productivity` |
-| [Portfolio Prioritization Models](productivity/portfolio-prioritization-models_f926f023/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md) | ⭐ 1.8k | `productivity` |
-| [Sprint Report Template](productivity/sprint_report_template_61ffc8bc/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/assets/sprint_report_template.md) | ⭐ 1.8k | `productivity` |
-| [Team Health Check Template](productivity/team_health_check_template_b51dc992/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/assets/team_health_check_template.md) | ⭐ 1.8k | `productivity` |
+| [Skill](productivity/093-name-skill_7e4bca3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.8k | `productivity` |
+| [Portfolio Prioritization Models](productivity/173-portfolio-prioritization-models_f926f023/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md) | ⭐ 1.8k | `productivity` |
 
 ### Research (68 skills)
 
@@ -2040,5 +2037,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 05:25:00 UTC*
+*Last updated: 2026-02-16 06:22:34 UTC*
 *Automatically maintained by SkillFlow*
