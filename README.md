@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1731 AI-powered skills** organized into 15 categories.
+A curated collection of **1749 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,18 +11,18 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (28 skills)
 - **Automation/Workflow** (102 skills)
 - **Commercial** (68 skills)
-- **Communication** (39 skills)
+- **Communication** (40 skills)
 - **Content Creation** (140 skills)
-- **Daily Assistant** (86 skills)
-- **Data Analysis** (318 skills)
-- **Development** (583 skills)
+- **Daily Assistant** (89 skills)
+- **Data Analysis** (319 skills)
+- **Development** (586 skills)
 - **Development/Devops** (90 skills)
-- **Development/Testing** (21 skills)
-- **Development/Tools** (139 skills)
-- **Investment** (8 skills)
+- **Development/Testing** (22 skills)
+- **Development/Tools** (143 skills)
+- **Investment** (12 skills)
 - **Other** (3 skills)
 - **Productivity** (38 skills)
-- **Research** (68 skills)
+- **Research** (69 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -394,7 +394,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Imex Guidelines](commercial/379-imex_guidelines_06634430/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/imex_guidelines.md) | ⭐ 19 | `commercial` |
 | [Splitting Catalog](commercial/380-splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
 
-### Communication (39 skills)
+### Communication (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -437,6 +437,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Password Management](communication/250-password-management_d5ecb054/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
 | [Multimodal](communication/251-multimodal_bc317f0b/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/multimodal.md) | ⭐ 364 | `communication` |
 | [Reasoning](communication/252-reasoning_4366575a/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/reasoning.md) | ⭐ 364 | `communication` |
+| [Workflow](communication/workflow_72b25c3f/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workflow.md) | ⭐ 13 | `communication` |
 
 ### Content Creation (140 skills)
 
@@ -583,7 +584,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Derived Quantities Guide](content-creation/375-derived_quantities_guide_c1a3e6f2/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/post-processing/references/derived_quantities_guide.md) | ⭐ 19 | `content creation` |
 | [Target User Agentic Harness V0](content-creation/371-target_user_agentic_harness_v0_e76baae4/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 
-### Daily Assistant (86 skills)
+### Daily Assistant (89 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -673,8 +674,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Preconditioner Catalog](daily-assistant/277-preconditioner_catalog_6c48cfac/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/linear-solvers/references/preconditioner_catalog.md) | ⭐ 19 | `daily assistant` |
 | [Solver Decision Tree](daily-assistant/278-solver_decision_tree_a7fd44b8/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/nonlinear-solvers/references/solver_decision_tree.md) | ⭐ 19 | `daily assistant` |
 | [Scheme Catalog](daily-assistant/279-scheme_catalog_e2bfc0fa/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/scheme_catalog.md) | ⭐ 19 | `daily assistant` |
+| [Chat](daily-assistant/chat_db41477b/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/chat.md) | ⭐ 13 | `daily assistant` |
+| [Subagent Implementation Report](daily-assistant/subagent_implementation_report_0326551a/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/SUBAGENT_IMPLEMENTATION_REPORT.md) | ⭐ 13 | `daily assistant` |
+| [Debug Context Window Consumption](daily-assistant/debug_context_window_consumption_f8d338f0/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/debug_context_window_consumption.md) | ⭐ 161 | `daily assistant` |
 
-### Data Analysis (318 skills)
+### Data Analysis (319 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -996,8 +1000,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Validation Rules](data-analysis/477-validation-rules_03a49ea1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/references/validation-rules.md) | ⭐ 17 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5eef58af/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/SKILL.md) | ⭐ 1.8k | `data analysis` |
 | [Velocity Forecasting Guide](data-analysis/477-velocity-forecasting-guide_3e7775ac/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/velocity-forecasting-guide.md) | ⭐ 1.8k | `data analysis` |
+| [Models](data-analysis/models_36696d39/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/models.md) | ⭐ 13 | `data analysis` |
 
-### Development (583 skills)
+### Development (586 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1584,6 +1589,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Optimization Strategies](development/2916-optimization_strategies_c33d0000/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/references/optimization_strategies.md) | ⭐ 19 | `development` |
 | [Profiling Guide](development/2917-profiling_guide_7a6d3ed7/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/performance-profiling/references/profiling_guide.md) | ⭐ 19 | `development` |
 | [Team Dynamics Framework](development/2879-team-dynamics-framework_52e31057/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/references/team-dynamics-framework.md) | ⭐ 1.8k | `development` |
+| [Workspaces](development/workspaces_21814f40/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workspaces.md) | ⭐ 13 | `development` |
+| [Todo Order Fix Explanation](development/todo_order_fix_explanation_0906c44c/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/hooks/TODO_ORDER_FIX_EXPLANATION.md) | ⭐ 13 | `development` |
+| [Cache](development/cache_6130821b/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/cache.md) | ⭐ 13 | `development` |
 
 ### Development/Devops (90 skills)
 
@@ -1678,9 +1686,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Slow Time Server](development/devops/370-slow-time-server_c3d7003f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/slow-time-server.md) | ⭐ 3.3k | `development` |
 | [Mcp Tools](development/devops/368-mcp-tools_03c87257/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/mcp-tools.md) | ⭐ 364 | `development` |
 | [Server](development/devops/369-server_280c593c/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/guides/server.md) | ⭐ 364 | `development` |
-| [Skill](development/devops/name-skill_ad491887/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md) | ⭐ 581 | `development` |
+| [Skill](development/devops/014-name-skill_ad491887/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md) | ⭐ 581 | `development` |
 
-### Development/Testing (21 skills)
+### Development/Testing (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1705,8 +1713,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fix Log Service Critical](development/testing/089-fix_log_service_critical_394dc938/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/changes/FIX_LOG_SERVICE_CRITICAL.md) | ⭐ 15 | `development` |
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 | [Doe Methods](development/testing/085-doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
+| [Msw Setup](development/testing/msw_setup_128db1b4/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/MSW_SETUP.md) | ⭐ 13 | `development` |
 
-### Development/Tools (139 skills)
+### Development/Tools (143 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1848,9 +1857,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_f96b990a/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/SKILL.md) | ⭐ 19 | `development` |
 | [Multiphase Field Patterns](development/tools/330-multiphase_field_patterns_d615967c/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/multiphase_field_patterns.md) | ⭐ 19 | `development` |
 | [Surrogate Guidelines](development/tools/331-surrogate_guidelines_146893b4/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/surrogate_guidelines.md) | ⭐ 19 | `development` |
-| [Proxy Fixes](development/tools/proxy_fixes_4bc05c62/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/references/proxy_fixes.md) | ⭐ 581 | `development` |
+| [Proxy Fixes](development/tools/329-proxy_fixes_4bc05c62/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/references/proxy_fixes.md) | ⭐ 581 | `development` |
+| [Configuration](development/tools/configuration_c85d558c/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/CONFIGURATION.md) | ⭐ 161 | `development` |
+| [Langgraph Rlm Default](development/tools/langgraph-rlm-default_105f4a47/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/langgraph-rlm-default.md) | ⭐ 161 | `development` |
+| [Conversations](development/tools/conversations_bdf4dd0a/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/conversations.md) | ⭐ 13 | `development` |
+| [Architecture Explanation](development/tools/architecture_explanation_2c7a0866/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/web/src/pages/ChatAgent/hooks/ARCHITECTURE_EXPLANATION.md) | ⭐ 13 | `development` |
 
-### Investment (8 skills)
+### Investment (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1862,6 +1875,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Release Notes V5.2.0](investment/051-release-notes-v520_8fa19cd9/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/releases/RELEASE-NOTES-v5.2.0.md) | ⭐ 153 | `investment` |
 | [Convergence Theory](investment/050-convergence_theory_7c2662f7/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/references/convergence_theory.md) | ⭐ 19 | `investment` |
 | [Risk Management Framework](investment/048-risk-management-framework_326fdcf2/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/risk-management-framework.md) | ⭐ 1.8k | `investment` |
+| [Skill](investment/name-skill_c6fd5ad7/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/skills/creating-financial-models/SKILL.md) | ⭐ 13 | `investment` |
+| [Skill](investment/name-skill_4824f4ee/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/skills/user-profile/SKILL.md) | ⭐ 13 | `investment` |
+| [Onboarding](investment/onboarding_72f00cb2/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/skills/user-profile/onboarding.md) | ⭐ 13 | `investment` |
+| [Market Data](investment/market-data_902f7eb2/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/market-data.md) | ⭐ 13 | `investment` |
 
 ### Other (3 skills)
 
@@ -1914,7 +1931,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_7e4bca3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.8k | `productivity` |
 | [Portfolio Prioritization Models](productivity/173-portfolio-prioritization-models_f926f023/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md) | ⭐ 1.8k | `productivity` |
 
-### Research (68 skills)
+### Research (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1986,6 +2003,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [User Elicitation](research/256-user-elicitation_f5972be7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/context/user-elicitation.md) | 🔥 20.1k | `research` |
 | [Gci Guidelines](research/260-gci_guidelines_df1570cc/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/convergence-study/references/gci_guidelines.md) | ⭐ 19 | `research` |
 | [Validation Protocol](research/261-validation_protocol_9332ba00/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/validation_protocol.md) | ⭐ 19 | `research` |
+| [Rlm Realignment Strategy](research/rlm_realignment_strategy_c8ff8657/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/RLM_REALIGNMENT_STRATEGY.md) | ⭐ 161 | `research` |
 
 ## How Skills Are Organized
 
@@ -2037,5 +2055,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 06:22:34 UTC*
+*Last updated: 2026-02-16 06:22:54 UTC*
 *Automatically maintained by SkillFlow*
