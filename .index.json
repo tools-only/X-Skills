@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T06:22:53.520302",
+  "updated_at": "2026-02-16T06:23:44.799724",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -24445,6 +24445,20 @@
       "source_url": "https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/workflow.md",
       "display_name": "Workflow",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "4edec20357b58a3ec79e1703a772065cd13f9cb17face73490faf94f55ff8452",
+      "source_path": "docs/env_configuration.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/091-env_configuration_4edec203",
+      "category": "development/devops",
+      "name": "env_configuration_4edec203",
+      "indexed_at": "2026-02-16T06:23:44.799673",
+      "repo_stars": 4013,
+      "repo_updated_at": "2026-02-16T01:31:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/env_configuration.md",
+      "display_name": "Env Configuration",
+      "tags": "[\"development\"]"
     }
   ]
 }
