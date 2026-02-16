@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1970 AI-powered skills** organized into 15 categories.
+A curated collection of **1978 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,14 +8,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (29 skills)
-- **Automation/Workflow** (102 skills)
-- **Commercial** (69 skills)
-- **Communication** (46 skills)
-- **Content Creation** (149 skills)
-- **Daily Assistant** (122 skills)
+- **Automation/Scripting** (30 skills)
+- **Automation/Workflow** (103 skills)
+- **Commercial** (70 skills)
+- **Communication** (48 skills)
+- **Content Creation** (150 skills)
+- **Daily Assistant** (123 skills)
 - **Data Analysis** (323 skills)
-- **Development** (716 skills)
+- **Development** (717 skills)
 - **Development/Devops** (122 skills)
 - **Development/Testing** (21 skills)
 - **Development/Tools** (148 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (29 skills)
+### Automation/Scripting (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -213,9 +213,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](automation/scripting/033-configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
 | [Skill](automation/scripting/003-name-skill_27123973/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/SKILL.md) | ⭐ 19 | `automation` |
 | [Campaign Patterns](automation/scripting/096-campaign_patterns_6894dedf/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/campaign_patterns.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/name-skill_f351c451/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/SKILL.md) | ⭐ 1.5k | `automation` |
+| [Skill](automation/scripting/003-name-skill_f351c451/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/SKILL.md) | ⭐ 1.5k | `automation` |
+| [Skill](automation/scripting/name-skill_23b994f4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/SKILL.md) | ⭐ 16 | `automation` |
 
-### Automation/Workflow (102 skills)
+### Automation/Workflow (103 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -321,8 +322,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Common Pitfalls](automation/workflow/139-common_pitfalls_ac2d69a1/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-stability/references/common_pitfalls.md) | ⭐ 19 | `automation` |
 | [Log Patterns](automation/workflow/140-log_patterns_a86ae176/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/log_patterns.md) | ⭐ 19 | `automation` |
 | [Target User Panel Prompt](automation/workflow/133-target_user_panel_prompt_3309e19a/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md) | ⭐ 51 | `automation` |
+| [Audit Report](automation/workflow/audit_report_3a5f8b8d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/AUDIT_REPORT.md) | ⭐ 1.8k | `automation` |
 
-### Commercial (69 skills)
+### Commercial (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -395,8 +397,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Imex Guidelines](commercial/379-imex_guidelines_06634430/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/imex_guidelines.md) | ⭐ 19 | `commercial` |
 | [Splitting Catalog](commercial/380-splitting_catalog_bdcc6e9e/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/core-numerical/numerical-integration/references/splitting_catalog.md) | ⭐ 19 | `commercial` |
 | [Zerg Operational Spec](commercial/368-zerg-operational-spec_3aafa919/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/ZERG-OPERATIONAL-SPEC.md) | ⭐ 17 | `commercial` |
+| [Incident Response Framework](commercial/incident-response-framework_17331fc4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/incident-response-framework.md) | ⭐ 1.8k | `commercial` |
 
-### Communication (46 skills)
+### Communication (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -446,8 +449,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugins.Core](communication/252-pluginscore_489f6dbd/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.core.md) | ⭐ 17 | `communication` |
 | [Plugins.Details](communication/253-pluginsdetails_c6f328c7/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.details.md) | ⭐ 17 | `communication` |
 | [Plugins](communication/250-plugins_6afb0817/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.md) | ⭐ 17 | `communication` |
+| [Incident Report Template](communication/incident_report_template_04e51d53/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/assets/incident_report_template.md) | ⭐ 1.8k | `communication` |
+| [Runbook Template](communication/runbook_template_9a507ea7/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/assets/runbook_template.md) | ⭐ 1.8k | `communication` |
 
-### Content Creation (149 skills)
+### Content Creation (150 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -600,8 +605,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_0bb4b65b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.6k | `content creation` |
 | [V2.1 Tweets](content-creation/372-v21-tweets_fd2041f4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 2.6k | `content creation` |
 | [Research](content-creation/373-research_3b89b5a0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 2.6k | `content creation` |
+| [Installation](content-creation/installation_c2b7d645/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.8k | `content creation` |
 
-### Daily Assistant (122 skills)
+### Daily Assistant (123 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -727,6 +733,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Wm 004](daily-assistant/281-wm-004_c6015b47/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-004.md) | ⭐ 17 | `daily assistant` |
 | [Wm 005](daily-assistant/282-wm-005_2c401c6e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-005.md) | ⭐ 17 | `daily assistant` |
 | [Wm 006](daily-assistant/283-wm-006_efc03ea0/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/specs/worker-metrics/prompts/WM-006.md) | ⭐ 17 | `daily assistant` |
+| [Sla Management Guide](daily-assistant/sla-management-guide_2ad4c714/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/sla-management-guide.md) | ⭐ 1.8k | `daily assistant` |
 
 ### Data Analysis (323 skills)
 
@@ -1056,7 +1063,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
 | [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
 
-### Development (716 skills)
+### Development (717 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1776,6 +1783,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dc 001 Init Projectstack](development/2910-dc-001-init-projectstack_4c353f7e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-001-init-projectstack.md) | ⭐ 17 | `development` |
 | [Dc 007 Container Spawn Claude](development/2911-dc-007-container-spawn-claude_e01d2477/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-007-container-spawn-claude.md) | ⭐ 17 | `development` |
 | [Dc 009 Orchestrator Wiring](development/2912-dc-009-orchestrator-wiring_ad09de8e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-009-orchestrator-wiring.md) | ⭐ 17 | `development` |
+| [Skill](development/category-skill_0d00d140/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/SKILL.md) | ⭐ 1.8k | `development` |
 
 ### Development/Devops (122 skills)
 
@@ -2276,5 +2284,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-16 15:24:18 UTC*
+*Last updated: 2026-02-16 17:25:43 UTC*
 *Automatically maintained by SkillFlow*

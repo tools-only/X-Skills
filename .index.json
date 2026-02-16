@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-16T15:24:18.406884",
+  "updated_at": "2026-02-16T17:25:42.702169",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -27579,6 +27579,90 @@
       "repo_stars": 1485,
       "repo_updated_at": "2026-02-16T07:26:29+00:00",
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "3a5f8b8dc90f0eb1c911b9684d89c7a3c125feb36f63a42be2a6d5f71e0f1a28",
+      "source_path": "AUDIT_REPORT.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "automation/workflow/133-audit_report_3a5f8b8d",
+      "category": "automation/workflow",
+      "name": "audit_report_3a5f8b8d",
+      "indexed_at": "2026-02-16T17:25:40.143870",
+      "repo_stars": 1827,
+      "repo_updated_at": "2026-02-16T11:30:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/AUDIT_REPORT.md",
+      "display_name": "Audit Report",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "c2b7d6451bdecf6c5e9e3f8c11de9fdf2ab84b09298635dd6b834a3d58a02be8",
+      "source_path": "INSTALLATION.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "content-creation/344-installation_c2b7d645",
+      "category": "content-creation",
+      "name": "installation_c2b7d645",
+      "indexed_at": "2026-02-16T17:25:40.533193",
+      "repo_stars": 1827,
+      "repo_updated_at": "2026-02-16T11:30:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md",
+      "display_name": "Installation",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "0d00d140b9a919e281cf901af2d81a62c7a8cffa6386a01fd66df8941da98bba",
+      "source_path": "engineering-team/incident-commander/SKILL.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "development/2863-category-skill_0d00d140",
+      "category": "development",
+      "name": "category-skill_0d00d140",
+      "indexed_at": "2026-02-16T17:25:41.176617",
+      "repo_stars": 1827,
+      "repo_updated_at": "2026-02-16T11:30:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "17331fc4e97da8fa4e42894505a10275f1f1e8b2f53d0b3e02d7ade696ac7c59",
+      "source_path": "engineering-team/incident-commander/references/incident-response-framework.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "commercial/368-incident-response-framework_17331fc4",
+      "category": "commercial",
+      "name": "incident-response-framework_17331fc4",
+      "indexed_at": "2026-02-16T17:25:41.773225",
+      "repo_stars": 1827,
+      "repo_updated_at": "2026-02-16T11:30:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/incident-response-framework.md",
+      "display_name": "Incident Response Framework",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "2ad4c714b39ce72af695f7d6fff55bbf60df2619469532d9d6ab0f7160041136",
+      "source_path": "engineering-team/incident-commander/references/sla-management-guide.md",
+      "source_repo": "alirezarezvani/claude-skills",
+      "local_path": "daily-assistant/262-sla-management-guide_2ad4c714",
+      "category": "daily-assistant",
+      "name": "sla-management-guide_2ad4c714",
+      "indexed_at": "2026-02-16T17:25:42.205525",
+      "repo_stars": 1827,
+      "repo_updated_at": "2026-02-16T11:30:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/sla-management-guide.md",
+      "display_name": "Sla Management Guide",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "23b994f429015524cb9e36ef21147802d388901d543960354f3746b2c86d9ba1",
+      "source_path": "skills/azure-devops-skill/SKILL.md",
+      "source_repo": "julianobarbosa/claude-code-skills",
+      "local_path": "automation/scripting/003-name-skill_23b994f4",
+      "category": "automation/scripting",
+      "name": "name-skill_23b994f4",
+      "indexed_at": "2026-02-16T17:25:42.702126",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-16T10:35:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
     }
