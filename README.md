@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2063 AI-powered skills** organized into 15 categories.
+A curated collection of **2020 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (30 skills)
-- **Automation/Workflow** (105 skills)
+- **Automation/Workflow** (104 skills)
 - **Commercial** (73 skills)
 - **Communication** (48 skills)
 - **Content Creation** (150 skills)
-- **Daily Assistant** (130 skills)
-- **Data Analysis** (328 skills)
-- **Development** (760 skills)
-- **Development/Devops** (127 skills)
-- **Development/Testing** (28 skills)
-- **Development/Tools** (159 skills)
+- **Daily Assistant** (125 skills)
+- **Data Analysis** (323 skills)
+- **Development** (744 skills)
+- **Development/Devops** (126 skills)
+- **Development/Testing** (22 skills)
+- **Development/Tools** (152 skills)
 - **Investment** (12 skills)
 - **Other** (3 skills)
 - **Productivity** (38 skills)
-- **Research** (72 skills)
+- **Research** (70 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -216,7 +216,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_f351c451/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/SKILL.md) | ⭐ 1.5k | `automation` |
 | [Skill](automation/scripting/003-name-skill_23b994f4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/SKILL.md) | ⭐ 16 | `automation` |
 
-### Automation/Workflow (105 skills)
+### Automation/Workflow (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -324,7 +324,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Target User Panel Prompt](automation/workflow/133-target_user_panel_prompt_3309e19a/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/target_user_panel_prompt.md) | ⭐ 51 | `automation` |
 | [Audit Report](automation/workflow/133-audit_report_3a5f8b8d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/AUDIT_REPORT.md) | ⭐ 1.8k | `automation` |
 | [Rca Frameworks Guide](automation/workflow/134-rca_frameworks_guide_3dc1ace4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/rca_frameworks_guide.md) | ⭐ 1.8k | `automation` |
-| [Skill](automation/workflow/description-skill_e06b6681/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/SKILL.md) | ⭐ 17 | `automation` |
 
 ### Commercial (73 skills)
 
@@ -612,7 +611,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Research](content-creation/373-research_3b89b5a0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 2.6k | `content creation` |
 | [Installation](content-creation/344-installation_c2b7d645/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.8k | `content creation` |
 
-### Daily Assistant (130 skills)
+### Daily Assistant (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -741,13 +740,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sla Management Guide](daily-assistant/262-sla-management-guide_2ad4c714/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/sla-management-guide.md) | ⭐ 1.8k | `daily assistant` |
 | [Bias Mitigation Checklist](daily-assistant/284-bias_mitigation_checklist_9f5f7426/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/bias_mitigation_checklist.md) | ⭐ 1.8k | `daily assistant` |
 | [Debrief Facilitation Guide](daily-assistant/285-debrief_facilitation_guide_6861c96d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/interview-system-designer/references/debrief_facilitation_guide.md) | ⭐ 1.8k | `daily assistant` |
-| [Claude](daily-assistant/claude_34396f29/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/CLAUDE.md) | ⭐ 17 | `daily assistant` |
-| [Swarm Task Planner](daily-assistant/swarm-task-planner_48053ebd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/swarm-task-planner.md) | ⭐ 17 | `daily assistant` |
-| [Human Touchpoint Model](daily-assistant/human-touchpoint-model_dfcffc25/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/human-touchpoint-model.md) | ⭐ 17 | `daily assistant` |
-| [Feature Verifier](daily-assistant/feature-verifier_8fb1b728/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/feature-verifier.md) | ⭐ 17 | `daily assistant` |
-| [Skill](daily-assistant/description-skill_ca1f6203/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/forensic-review/SKILL.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (328 skills)
+### Data Analysis (323 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1074,13 +1068,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gemini3](data-analysis/477-gemini3_31010918/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/gemini3.md) | ⭐ 50 | `data analysis` |
 | [Thought Signatures](data-analysis/478-thought-signatures_6ffdcc2f/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/thought-signatures.md) | ⭐ 50 | `data analysis` |
 | [Images Vision](data-analysis/479-images-vision_ac331c72/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/images-vision.md) | ⭐ 50 | `data analysis` |
-| [Hallucination Triggers](data-analysis/hallucination-triggers_2f73b363/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/hallucination-triggers.md) | ⭐ 17 | `data analysis` |
-| [Language Manifest Schema](data-analysis/language-manifest-schema_18ff608a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/language-manifest-schema.md) | ⭐ 17 | `data analysis` |
-| [Role Resolution Protocol](data-analysis/role-resolution-protocol_e6f1a894/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/role-resolution-protocol.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/description-skill_40b7921e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/execution/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Typing Strategy](data-analysis/typing-strategy_7bc46e49/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/stdlib-scripting/references/typing-strategy.md) | ⭐ 17 | `data analysis` |
 
-### Development (760 skills)
+### Development (744 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1827,25 +1816,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Prioritization Framework](development/2941-prioritization-framework_03e47d8e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/prioritization-framework.md) | ⭐ 1.8k | `development` |
 | [Catalog](development/126-catalog_43db3465/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 9.8k | `development` |
 | [040 Flexible Admin Ui Sections](development/2864-040-flexible-admin-ui-sections_753884b1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/040-flexible-admin-ui-sections.md) | ⭐ 3.3k | `development` |
-| [Mcp Tools Availability Over Yaml Config E94E51D8.Plan](development/2866-mcp_tools_availability_over_yaml_config_e94e51d8plan_40928d3e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/mcp_tools_availability_over_yaml_config_e94e51d8.plan.md) | ⭐ 13 | `development` |
-| [Context Refinement](development/context-refinement_8f29f282/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/context-refinement.md) | ⭐ 17 | `development` |
-| [Service Documentation](development/service-documentation_0bbcae18/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/service-documentation.md) | ⭐ 17 | `development` |
-| [Artifact Conventions](development/artifact-conventions_6e6478db/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/artifact-conventions.md) | ⭐ 17 | `development` |
-| [Default Development Flow](development/default-development-flow_8159e4f4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/default-development-flow.md) | ⭐ 17 | `development` |
-| [Skill](development/description-skill_1b3c4935/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/context-integration/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/description-skill_6cb8066b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/discovery/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/description-skill_07529843/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/final-verification/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/description-skill_5cfeb2b7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/planning/SKILL.md) | ⭐ 17 | `development` |
-| [Reference Document Architecture](development/reference-document-architecture_ab15ba4c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/planning/reference-document-architecture.md) | ⭐ 17 | `development` |
-| [Tool Library Registry](development/tool-library-registry_c21255f0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/tool-library-registry.md) | ⭐ 17 | `development` |
-| [Command Execution](development/command-execution_10022cca/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/stdlib-scripting/references/command-execution.md) | ⭐ 17 | `development` |
-| [Type Safety Patterns](development/type-safety-patterns_c11def76/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/stdlib-scripting/references/type-safety-patterns.md) | ⭐ 17 | `development` |
-| [Integration Checker](development/integration-checker_6975b759/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/integration-checker.md) | ⭐ 17 | `development` |
-| [Language Manifest Template](development/language-manifest-template_492cc372/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/templates/language-manifest-template.md) | ⭐ 17 | `development` |
-| [Skill](development/description-skill_3fc51cde/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/validation-protocol/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/description-skill_f2e36b8a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/testing/analyze-test-failures/SKILL.md) | ⭐ 17 | `development` |
+| [Mcp Tools Availability Over Yaml Config E94E51D8.Plan](development/mcp_tools_availability_over_yaml_config_e94e51d8plan_40928d3e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/mcp_tools_availability_over_yaml_config_e94e51d8.plan.md) | ⭐ 13 | `development` |
 
-### Development/Devops (127 skills)
+### Development/Devops (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1975,9 +1948,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/383-tier-skill_d4764458/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/migration-architect/SKILL.md) | ⭐ 1.8k | `development` |
 | [Slo Cookbook](development/devops/384-slo_cookbook_6fca3afd/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/slo_cookbook.md) | ⭐ 1.8k | `development` |
 | [Configuration](development/devops/009-configuration_27348f38/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
-| [Agents](development/devops/agents_98de164c/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/AGENTS.md) | ⭐ 20 | `development` |
 
-### Development/Testing (28 skills)
+### Development/Testing (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2003,14 +1975,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_5755f365/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/developer/skills/prp-generator/SKILL.md) | ⭐ 23 | `development` |
 | [Doe Methods](development/testing/085-doe_methods_67382ad0/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/parameter-optimization/references/doe_methods.md) | ⭐ 19 | `development` |
 | [Skill](development/testing/002-name-skill_3a3ea1fb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/SKILL.md) | 🔥 9.8k | `development` |
-| [Codebase Analyzer](development/testing/codebase-analyzer_8e8b1577/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/codebase-analyzer.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/description-skill_35faf9f6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/description-skill_7df26737/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/task-decomposition/SKILL.md) | ⭐ 17 | `development` |
-| [Python Development Orchestration](development/testing/python-development-orchestration_219346a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/python-development-orchestration.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/description-skill_34f160d3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/testing/comprehensive-test-review/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/testing/description-skill_bf920823/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/testing/test-failure-mindset/SKILL.md) | ⭐ 17 | `development` |
 
-### Development/Tools (159 skills)
+### Development/Tools (152 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2165,14 +2131,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugins Llms](development/tools/324-plugins-llms_ceb8ccf9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/plugins-llms.md) | ⭐ 3.3k | `development` |
 | [Rest Design Rules](development/tools/333-rest_design_rules_a69236c8/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/api-design-reviewer/references/rest_design_rules.md) | ⭐ 1.8k | `development` |
 | [Api Reference](development/tools/073-api-reference_fd658f95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/go-rod-master/references/api-reference.md) | 🔥 9.8k | `development` |
-| [Configurable Mcp Argument Exclusion 818376Eb.Plan](development/tools/330-configurable_mcp_argument_exclusion_818376ebplan_8a0fad1e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/configurable_mcp_argument_exclusion_818376eb.plan.md) | ⭐ 13 | `development` |
-| [Context Gathering](development/tools/context-gathering_f6aaaddd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/context-gathering.md) | ⭐ 17 | `development` |
-| [Doc Drift Auditor](development/tools/doc-drift-auditor_962caa98/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/doc-drift-auditor.md) | ⭐ 17 | `development` |
-| [Sse Gap Analysis Verification](development/tools/sse-gap-analysis-verification_e77a20d7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/planning/sse-gap-analysis-verification.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/description-skill_ef2dec8f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/implementation-manager/SKILL.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/description-skill_6f4124cb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/SKILL.md) | ⭐ 17 | `development` |
-| [Plan Validator](development/tools/plan-validator_39eb6445/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/plan-validator.md) | ⭐ 17 | `development` |
-| [Skill](development/tools/description-skill_fea89735/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/stdlib-scripting/SKILL.md) | ⭐ 17 | `development` |
+| [Configurable Mcp Argument Exclusion 818376Eb.Plan](development/tools/configurable_mcp_argument_exclusion_818376ebplan_8a0fad1e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/configurable_mcp_argument_exclusion_818376eb.plan.md) | ⭐ 13 | `development` |
 
 ### Investment (12 skills)
 
@@ -2242,7 +2201,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_7e4bca3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.8k | `productivity` |
 | [Portfolio Prioritization Models](productivity/173-portfolio-prioritization-models_f926f023/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md) | ⭐ 1.8k | `productivity` |
 
-### Research (72 skills)
+### Research (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2316,8 +2275,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Validation Protocol](research/261-validation_protocol_9332ba00/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-validator/references/validation_protocol.md) | ⭐ 19 | `research` |
 | [Rlm Realignment Strategy](research/260-rlm_realignment_strategy_c8ff8657/) | [Hmbown/aleph](https://raw.githubusercontent.com/Hmbown/aleph/main/docs/RLM_REALIGNMENT_STRATEGY.md) | ⭐ 161 | `research` |
 | [Prompt Caching](research/257-prompt-caching_3811ec63/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/claude4_5/docs/prompt-caching.md) | ⭐ 50 | `research` |
-| [Ecosystem Researcher](research/ecosystem-researcher_cf042114/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/ecosystem-researcher.md) | ⭐ 17 | `research` |
-| [Feature Researcher](research/feature-researcher_cadd1845/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/feature-researcher.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -2369,5 +2326,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-17 00:22:59 UTC*
+*Last updated: 2026-02-16 22:25:38 UTC*
 *Automatically maintained by SkillFlow*
