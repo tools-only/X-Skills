@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-17T02:23:01.586137",
+  "updated_at": "2026-02-17T03:22:57.035632",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -29303,6 +29303,118 @@
       "source_url": "https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/ui-wireframe-diagrams.md",
       "display_name": "Ui Wireframe Diagrams",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "14997fbc6ad7af74305a4f66b5dfc54a7390a59805b9d4381f24a8bc2059842d",
+      "source_path": "sf-ai-agentscript/CREDITS.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/239-credits_14997fbc",
+      "category": "development",
+      "name": "credits_14997fbc",
+      "indexed_at": "2026-02-17T03:22:54.963662",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T21:54:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/CREDITS.md",
+      "display_name": "Credits",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8dc18cc4ac2eeaae3098df021a0f838ad784bed1347a46017e5e6ca78c14c207",
+      "source_path": "sf-ai-agentscript/resources/actions-reference.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/010-actions-reference_8dc18cc4",
+      "category": "development",
+      "name": "actions-reference_8dc18cc4",
+      "indexed_at": "2026-02-17T03:22:55.227888",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T21:54:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md",
+      "display_name": "Actions Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "94434e6c95e29c50e05a45a341d357683e858fee0c3232ac2d59bd6b66cada4b",
+      "source_path": "sf-ai-agentscript/resources/migration-guide.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/584-migration-guide_94434e6c",
+      "category": "development",
+      "name": "migration-guide_94434e6c",
+      "indexed_at": "2026-02-17T03:22:55.626423",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T21:54:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/migration-guide.md",
+      "display_name": "Migration Guide",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7737def8a966e742b9487f79ff7b3fff8abf2b13285ce529c00ce262683025a7",
+      "source_path": "sf-ai-agentscript/SKILL.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/tools/002-name-skill_7737def8",
+      "category": "development/tools",
+      "name": "name-skill_7737def8",
+      "indexed_at": "2026-02-17T03:22:55.909269",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T22:16:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5a21f80427de3e7ff275ccbe2e52167becb986ae9e067a35c330a2cce92e46e3",
+      "source_path": "sf-ai-agentscript/docs/patterns-quick-ref.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "commercial/144-patterns-quick-ref_5a21f804",
+      "category": "commercial",
+      "name": "patterns-quick-ref_5a21f804",
+      "indexed_at": "2026-02-17T03:22:56.155254",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T21:54:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md",
+      "display_name": "Patterns Quick Ref",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "d9935d4d799a18700cca21f2c14d7045b2c0db7f67625b59c07242045c834601",
+      "source_path": "sf-ai-agentscript/resources/grounding-multiagent.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "content-creation/352-grounding-multiagent_d9935d4d",
+      "category": "content-creation",
+      "name": "grounding-multiagent_d9935d4d",
+      "indexed_at": "2026-02-17T03:22:56.533617",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T21:54:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/grounding-multiagent.md",
+      "display_name": "Grounding Multiagent",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "d9682a4674c038e0fbc8c9d70a30bdb3745dfddf7876762bc3a5dfec1d2f2e26",
+      "source_path": "sf-ai-agentscript/resources/known-issues.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/devops/360-known-issues_d9682a46",
+      "category": "development/devops",
+      "name": "known-issues_d9682a46",
+      "indexed_at": "2026-02-17T03:22:56.861522",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T22:16:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/known-issues.md",
+      "display_name": "Known Issues",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "496def2afd1e6cbef46e73b142e958cf16ddb7cbad2dba49b428463b3002793f",
+      "source_path": "sf-ai-agentscript/resources/syntax-reference.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "data-analysis/478-syntax-reference_496def2a",
+      "category": "data-analysis",
+      "name": "syntax-reference_496def2a",
+      "indexed_at": "2026-02-17T03:22:57.035597",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-16T21:54:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md",
+      "display_name": "Syntax Reference",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
