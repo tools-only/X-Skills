@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2151 AI-powered skills** organized into 15 categories.
+A curated collection of **2160 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,12 +10,12 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (40 skills)
 - **Automation/Workflow** (107 skills)
-- **Commercial** (76 skills)
-- **Communication** (49 skills)
-- **Content Creation** (155 skills)
+- **Commercial** (78 skills)
+- **Communication** (50 skills)
+- **Content Creation** (160 skills)
 - **Daily Assistant** (138 skills)
 - **Data Analysis** (340 skills)
-- **Development** (784 skills)
+- **Development** (785 skills)
 - **Development/Devops** (136 skills)
 - **Development/Testing** (27 skills)
 - **Development/Tools** (168 skills)
@@ -336,9 +336,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rca Frameworks Guide](automation/workflow/134-rca_frameworks_guide_3dc1ace4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/rca_frameworks_guide.md) | ⭐ 1.8k | `automation` |
 | [Skill](automation/workflow/064-description-skill_e06b6681/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/SKILL.md) | ⭐ 17 | `automation` |
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_511d0715/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 80 | `automation` |
-| [Skill](automation/workflow/name-skill_f5c8490b/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/cloudflared-tunnel/SKILL.md) | ⭐ 20 | `automation` |
+| [Openai Agents](automation/workflow/openai-agents_8aa93fe1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/projects/openai-agents.md) | 🔥 36.0k | `automation` |
 
-### Commercial (76 skills)
+### Commercial (78 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -418,8 +418,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Terraform Roadmap](commercial/309-terraform-roadmap_820fb50a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/terraform-roadmap.md) | ⭐ 80 | `commercial` |
 | [03 Des Cost Estimate](commercial/369-03-des-cost-estimate_ce8c94fb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/aks-platform/03-des-cost-estimate.md) | ⭐ 80 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_5a21f804/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 74 | `commercial` |
+| [Skill](commercial/name-skill_a3e801fb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/SKILL.md) | 🔥 20.3k | `commercial` |
+| [Patterns And Examples](commercial/patterns_and_examples_fd824c30/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/patterns_and_examples.md) | 🔥 20.3k | `commercial` |
 
-### Communication (49 skills)
+### Communication (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -471,9 +473,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugins](communication/250-plugins_6afb0817/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/zerg/data/commands/plugins.md) | ⭐ 17 | `communication` |
 | [Incident Severity Matrix](communication/254-incident_severity_matrix_6d2a809f/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/incident_severity_matrix.md) | ⭐ 1.8k | `communication` |
 | [Alert Design Patterns](communication/255-alert_design_patterns_257b29ca/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/alert_design_patterns.md) | ⭐ 1.8k | `communication` |
-| [Skill](communication/name-skill_82372435/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 20 | `communication` |
+| [Skill](communication/127-name-skill_82372435/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 20 | `communication` |
+| [Index](communication/index_6db3f977/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 36.0k | `anthropic` `claude` `opus 4.6` |
 
-### Content Creation (155 skills)
+### Content Creation (160 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -599,7 +602,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_a3dcd490/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 97 | `wordpress` `sage` `theme` |
 | [Skill](content-creation/049-name-skill_1ea19e0b/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-publisher/SKILL.md) | ⭐ 110 | `content creation` |
 | [Skill](content-creation/049-name-skill_ca296a77/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/web-development/fastapi-endpoint/SKILL.md) | 🔥 20.1k | `fastapi` `python` `api` |
-| [V1.81.12](content-creation/351-v18112_11f0d7db/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 35.7k | `content creation` |
+| [V1.81.12](content-creation/v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
 | [Req](content-creation/371-req_78a53db3/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/req.md) | ⭐ 15 | `content creation` |
 | [Generate Content Spec](content-creation/372-generate-content-spec_cd1c4cdc/) | [mylxsw/llm-gateway](https://raw.githubusercontent.com/mylxsw/llm-gateway/main/docs/google/generate-content-spec.md) | ⭐ 15 | `content creation` |
 | [Beastmode3.1.Agent](content-creation/371-beastmode31agent_04455afe/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/agents/beastmode3.1.agent.md) | ⭐ 17 | `content creation` |
@@ -631,7 +634,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_b7da2ca8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/trace-annotation-tool/SKILL.md) | ⭐ 32 | `content creation` |
 | [Architect.Agent](content-creation/352-architectagent_3d5ed876/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/architect.agent.md) | ⭐ 80 | `content creation` |
 | [Grounding Multiagent](content-creation/352-grounding-multiagent_d9935d4d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/grounding-multiagent.md) | ⭐ 74 | `content creation` |
-| [Skill](content-creation/name-skill_20b4948e/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_20b4948e/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 20 | `content creation` |
+| [Api Methods](content-creation/api_methods_d06893ba/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_methods.md) | 🔥 20.3k | `content creation` |
+| [Api Types](content-creation/api_types_b0303d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_types.md) | 🔥 20.3k | `content creation` |
+| [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
+| [Index](content-creation/index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
+| [Config Settings](content-creation/config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Daily Assistant (138 skills)
 
@@ -774,7 +782,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Artifact H2 Reference.Instructions](daily-assistant/207-artifact-h2-referenceinstructions_61bb8cbe/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/artifact-h2-reference.instructions.md) | ⭐ 80 | `daily assistant` |
 | [Copilot Thought Logging.Instructions](daily-assistant/208-copilot-thought-logginginstructions_665558e7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/copilot-thought-logging.instructions.md) | ⭐ 80 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_b489b52d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 80 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_a3bcb6b7/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 20 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_a3bcb6b7/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 20 | `daily assistant` |
 
 ### Data Analysis (340 skills)
 
@@ -1121,7 +1129,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Infographic Types](data-analysis/483-infographic_types_f45f97e7/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/infographics/references/infographic_types.md) | 🔥 8.8k | `data analysis` |
 | [Evaluation Methodology](data-analysis/484-evaluation_methodology_053f836d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/agent-designer/references/evaluation_methodology.md) | ⭐ 1.8k | `data analysis` |
 
-### Development (784 skills)
+### Development (785 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1907,8 +1915,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/2935-tier-skill_c88e4d94/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/release-manager/SKILL.md) | ⭐ 1.8k | `development` |
 | [Tool Design Best Practices](development/2948-tool_design_best_practices_ff2aac14/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/agent-designer/references/tool_design_best_practices.md) | ⭐ 1.8k | `development` |
 | [Database Selection Decision Tree](development/2949-database_selection_decision_tree_18d1a914/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/database-designer/references/database_selection_decision_tree.md) | ⭐ 1.8k | `development` |
-| [Skill](development/name-skill_c9f31d9e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/name-skill_8bb04df5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-structoffset-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_c9f31d9e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_8bb04df5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-structoffset-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Logging](development/logging_b54e37ef/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/logging.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Development/Devops (136 skills)
 
@@ -2049,7 +2058,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_1573dd3a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 80 | `development` |
 | [Iac To Diagram](development/devops/220-iac-to-diagram_34b66430/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/iac-to-diagram.md) | ⭐ 80 | `development` |
 | [Known Issues](development/devops/360-known-issues_d9682a46/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/known-issues.md) | ⭐ 74 | `development` |
-| [Troubleshooting](development/devops/troubleshooting_d97c4fed/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/cloudflared-tunnel/references/troubleshooting.md) | ⭐ 20 | `development` |
+| [Virtual Keys](development/devops/virtual_keys_58995a51/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/virtual_keys.md) | 🔥 36.0k | `development` |
 
 ### Development/Testing (27 skills)
 
@@ -2254,7 +2263,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cloud Storage Guide](development/tools/336-cloud_storage_guide_7e71e767/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/imaging-data-commons/references/cloud_storage_guide.md) | 🔥 8.8k | `development` |
 | [Skill](development/tools/337-rag-skill_937372f4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/SKILL.md) | ⭐ 1.8k | `development` |
 | [Rag Evaluation Framework](development/tools/338-rag_evaluation_framework_6c625f57/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/references/rag_evaluation_framework.md) | ⭐ 1.8k | `development` |
-| [Agents](development/tools/agents_8e910981/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 20 | `development` |
+| [Agents](development/tools/015-agents_8e910981/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 20 | `development` |
 
 ### Investment (12 skills)
 
@@ -2457,5 +2466,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-17 06:25:37 UTC*
+*Last updated: 2026-02-17 14:25:39 UTC*
 *Automatically maintained by SkillFlow*
