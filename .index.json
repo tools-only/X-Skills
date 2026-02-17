@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-17T05:24:39.945225",
+  "updated_at": "2026-02-17T05:25:47.044928",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -29681,6 +29681,20 @@
       "source_url": "https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "2ad2d4da14dd8d4051918477b3bf4c07f603b30e9de2c4fe2b3b42fbe128a67a",
+      "source_path": "commands/fix.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2865-fix_2ad2d4da",
+      "category": "development",
+      "name": "fix_2ad2d4da",
+      "indexed_at": "2026-02-17T05:25:47.044871",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-16T23:30:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md",
+      "display_name": "Fix",
+      "tags": "[\"development\"]"
     }
   ]
 }
