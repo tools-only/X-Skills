@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2256 AI-powered skills** organized into 15 categories.
+A curated collection of **2266 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (40 skills)
+- **Automation/Scripting** (41 skills)
 - **Automation/Workflow** (108 skills)
-- **Commercial** (78 skills)
+- **Commercial** (79 skills)
 - **Communication** (53 skills)
 - **Content Creation** (162 skills)
-- **Daily Assistant** (146 skills)
-- **Data Analysis** (343 skills)
-- **Development** (791 skills)
+- **Daily Assistant** (148 skills)
+- **Data Analysis** (344 skills)
+- **Development** (794 skills)
 - **Development/Devops** (140 skills)
 - **Development/Testing** (27 skills)
-- **Development/Tools** (169 skills)
+- **Development/Tools** (171 skills)
 - **Investment** (78 skills)
 - **Other** (4 skills)
 - **Productivity** (39 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (40 skills)
+### Automation/Scripting (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -225,6 +225,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7d90042c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_4fbcc01c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_924e9c17/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/description-skill_93f9291e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-5.2-features/SKILL.md) | ⭐ 17 | `automation` |
 
 ### Automation/Workflow (108 skills)
 
@@ -339,7 +340,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_501f42e9/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/SKILL.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_5f59f25a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/openclaw/SKILL.md) | ⭐ 10 | `automation` |
 
-### Commercial (78 skills)
+### Commercial (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -421,6 +422,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_5a21f804/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 74 | `commercial` |
 | [Skill](commercial/210-name-skill_a3e801fb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/SKILL.md) | 🔥 20.3k | `commercial` |
 | [Fundamental Analysis](commercial/369-fundamental-analysis_2d0ee6d4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/fundamental-analysis.md) | ⭐ 33 | `commercial` |
+| [Skill](commercial/description-skill_48b29199/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-5.1-features/SKILL.md) | ⭐ 17 | `commercial` |
 
 ### Communication (53 skills)
 
@@ -647,7 +649,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
 | [Agents](content-creation/185-agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (146 skills)
+### Daily Assistant (148 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -797,8 +799,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_9dcf992a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/fireflies/SKILL.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_01c9749d/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 10 | `daily assistant` |
 | [Agent](daily-assistant/265-agent_52e57124/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/task-steward/AGENT.md) | ⭐ 10 | `daily assistant` |
+| [Hardstop Command](daily-assistant/hs_781fa60a/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/commands/hs.md) | ⭐ 16 | `daily assistant` |
+| [Skip](daily-assistant/skip_1a37438b/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/commands/skip.md) | ⭐ 16 | `daily assistant` |
 
-### Data Analysis (343 skills)
+### Data Analysis (344 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1074,7 +1078,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Claude](data-analysis/claude_9f942400/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 | [Release Notes V5.3.0](data-analysis/492-release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
 | [Development Readme](data-analysis/493-development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
 | [Grafana Dashboard](data-analysis/494-grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
@@ -1145,8 +1149,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Breadth Chart Analyst Skill Improvements V2.0](data-analysis/479-breadth-chart-analyst-skill_improvements_v20_63ae63af/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/Breadth%20Chart%20Analyst%20Skill_IMPROVEMENTS_v2.0.md) | ⭐ 33 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_36901b95/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/sector-analyst/SKILL.md) | ⭐ 33 | `data analysis` |
 | [Api](data-analysis/479-api_c439af5f/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/API.md) | ⭐ 606 | `data analysis` |
+| [Claude](data-analysis/036-claude_9f942400/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 
-### Development (791 skills)
+### Development (794 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1941,6 +1946,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Comparison](development/181-comparison_b2f494b4/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/comparison.md) | ⭐ 23 | `development` |
 | [Health Check](development/2873-health-check_f51b246d/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/health-check.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_0f17ab6e/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/limitless/SKILL.md) | ⭐ 10 | `development` |
+| [Ai Agents Skills For Embedded Engineers](development/ai-agents-skills-for-embedded-engineers_67a87268/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/ai-agents-skills-for-embedded-engineers.md) | ⭐ 17 | `development` |
+| [Skill](development/description-skill_c1487f02/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-5.3-features/SKILL.md) | ⭐ 17 | `development` |
+| [Claude](development/claude_5b391fbe/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/CLAUDE.md) | ⭐ 16 | `development` |
 
 ### Development/Devops (140 skills)
 
@@ -2085,7 +2093,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/devops/205-claude_29f835d4/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md) | ⭐ 606 | `development` |
 | [Installation](development/devops/171-installation_658ef4bb/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/INSTALLATION.md) | ⭐ 606 | `development` |
 | [Environment Variables](development/devops/362-environment_variables_62efb4de/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md) | ⭐ 606 | `development` |
-| [Index](development/devops/index_a1e3fabb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/index.md) | ⭐ 3.3k | `development` |
+| [Skill](development/devops/description-skill_c6e6fa8f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/gitlab-skill/skills/gitlab-skill/SKILL.md) | ⭐ 17 | `development` |
 
 ### Development/Testing (27 skills)
 
@@ -2119,7 +2127,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Python Development Orchestration](development/testing/084-python-development-orchestration_219346a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/python-development-orchestration.md) | ⭐ 17 | `development` |
 | [Ui Wireframe Diagrams](development/testing/043-ui-wireframe-diagrams_d9abfcf7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/ui-wireframe-diagrams.md) | ⭐ 80 | `development` |
 
-### Development/Tools (169 skills)
+### Development/Tools (171 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2292,6 +2300,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rag Evaluation Framework](development/tools/338-rag_evaluation_framework_6c625f57/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/references/rag_evaluation_framework.md) | ⭐ 1.8k | `development` |
 | [Agents](development/tools/015-agents_8e910981/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_c995b48a/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/maintaining-a-marketplace/SKILL.md) | ⭐ 116 | `development` |
+| [Skill](development/tools/name-skill_981e9baa/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/.claude/skills/hs/SKILL.md) | ⭐ 16 | `development` |
+| [Release Description](development/tools/release_description_334f90c3/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/RELEASE_DESCRIPTION.md) | ⭐ 24 | `development` |
 
 ### Investment (78 skills)
 
@@ -2562,5 +2572,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-17 16:25:28 UTC*
+*Last updated: 2026-02-17 17:26:08 UTC*
 *Automatically maintained by SkillFlow*

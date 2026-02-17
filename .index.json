@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-17T15:27:57.363724",
+  "updated_at": "2026-02-17T17:26:08.026539",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -31571,6 +31571,90 @@
       "source_url": "https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/API.md",
       "display_name": "Api",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "9f9424006641dbf1c0f416385249c8543392d7e2aab6e6b957d6acb097f62057",
+      "source_path": ".claude/CLAUDE.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "data-analysis/036-claude_9f942400",
+      "category": "data-analysis",
+      "name": "claude_9f942400",
+      "indexed_at": "2026-02-17T17:26:06.394332",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-14T22:24:50+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "67a87268b1d74bc2188677496b516402573c35f906e1751815ffa56785710c8e",
+      "source_path": "workshops/ai-agents-skills-for-embedded-engineers.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "development/1661-ai-agents-skills-for-embedded-engineers_67a87268",
+      "category": "development",
+      "name": "ai-agents-skills-for-embedded-engineers_67a87268",
+      "indexed_at": "2026-02-17T17:26:06.708981",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-11T05:13:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/ai-agents-skills-for-embedded-engineers.md",
+      "display_name": "Ai Agents Skills For Embedded Engineers",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c1487f02bb43ac7ebd78aeb1b933b4567e55a23507db3eccf83e7eca5586b735",
+      "source_path": "plugins/bash-development/skills/bash-5.3-features/SKILL.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "development/1530-description-skill_c1487f02",
+      "category": "development",
+      "name": "description-skill_c1487f02",
+      "indexed_at": "2026-02-17T17:26:06.992687",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-17T00:41:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-5.3-features/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5b391fbedbb5aefa265b5d6293514e788bb96a0782de7ed0a86bf0b435333e2e",
+      "source_path": "CLAUDE.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/140-claude_5b391fbe",
+      "category": "development",
+      "name": "claude_5b391fbe",
+      "indexed_at": "2026-02-17T17:26:07.336354",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-17T00:40:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c6e6fa8f6d55c89b7e2c369d5c02dbe7367c069d4230800586793eee8ca4eb4e",
+      "source_path": "plugins/gitlab-skill/skills/gitlab-skill/SKILL.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "development/devops/085-description-skill_c6e6fa8f",
+      "category": "development/devops",
+      "name": "description-skill_c6e6fa8f",
+      "indexed_at": "2026-02-17T17:26:07.683851",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-05T17:05:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/gitlab-skill/skills/gitlab-skill/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "981e9baad55e9fcdaeecd590da12d8d08cb39aaec90100a1880f69ebdf056290",
+      "source_path": ".claude/skills/hs/SKILL.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/tools/002-name-skill_981e9baa",
+      "category": "development/tools",
+      "name": "name-skill_981e9baa",
+      "indexed_at": "2026-02-17T17:26:08.025835",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-17T00:40:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/.claude/skills/hs/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
