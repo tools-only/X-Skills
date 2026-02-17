@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2271 AI-powered skills** organized into 15 categories.
+A curated collection of **2264 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,18 +10,18 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (41 skills)
 - **Automation/Workflow** (108 skills)
-- **Commercial** (78 skills)
-- **Communication** (50 skills)
-- **Content Creation** (161 skills)
-- **Daily Assistant** (144 skills)
-- **Data Analysis** (344 skills)
-- **Development** (789 skills)
-- **Development/Devops** (136 skills)
+- **Commercial** (79 skills)
+- **Communication** (56 skills)
+- **Content Creation** (162 skills)
+- **Daily Assistant** (149 skills)
+- **Data Analysis** (343 skills)
+- **Development** (791 skills)
+- **Development/Devops** (139 skills)
 - **Development/Testing** (27 skills)
 - **Development/Tools** (169 skills)
-- **Investment** (99 skills)
-- **Other** (8 skills)
-- **Productivity** (39 skills)
+- **Investment** (78 skills)
+- **Other** (4 skills)
+- **Productivity** (40 skills)
 - **Research** (78 skills)
 
 ## Patches - Curated Skill Bundles
@@ -225,7 +225,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7d90042c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_4fbcc01c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_924e9c17/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
-| [Strategy Reviewer](automation/scripting/strategy-reviewer_3c04ba86/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/agents/strategy-reviewer.md) | ⭐ 33 | `automation` |
+| [Skill](automation/scripting/name-skill_0f3109ab/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/quo/SKILL.md) | ⭐ 10 | `automation` |
 
 ### Automation/Workflow (108 skills)
 
@@ -337,10 +337,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rca Frameworks Guide](automation/workflow/134-rca_frameworks_guide_3dc1ace4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/references/rca_frameworks_guide.md) | ⭐ 1.8k | `automation` |
 | [Skill](automation/workflow/064-description-skill_e06b6681/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/SKILL.md) | ⭐ 17 | `automation` |
 | [Run Conductor.Prompt](automation/workflow/134-run-conductorprompt_511d0715/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/prompts/run-conductor.prompt.md) | ⭐ 80 | `automation` |
-| [Skill](automation/workflow/name-skill_501f42e9/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/SKILL.md) | ⭐ 33 | `automation` |
-| [Scenario Analyst](automation/workflow/scenario-analyst_2356adaf/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/agents/scenario-analyst.md) | ⭐ 33 | `automation` |
+| [Skill](automation/workflow/002-name-skill_501f42e9/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/SKILL.md) | ⭐ 33 | `automation` |
+| [Skill](automation/workflow/name-skill_5f59f25a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/openclaw/SKILL.md) | ⭐ 10 | `automation` |
 
-### Commercial (78 skills)
+### Commercial (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -421,9 +421,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [03 Des Cost Estimate](commercial/369-03-des-cost-estimate_ce8c94fb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/aks-platform/03-des-cost-estimate.md) | ⭐ 80 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_5a21f804/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 74 | `commercial` |
 | [Skill](commercial/210-name-skill_a3e801fb/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/SKILL.md) | 🔥 20.3k | `commercial` |
-| [Fundamental Analysis](commercial/fundamental-analysis_2d0ee6d4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/fundamental-analysis.md) | ⭐ 33 | `commercial` |
+| [Fundamental Analysis](commercial/369-fundamental-analysis_2d0ee6d4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/fundamental-analysis.md) | ⭐ 33 | `commercial` |
+| [Vapi Phone Skill](commercial/vapi-phone-skill_d1e90f35/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/docs/plans/vapi-phone-skill.md) | ⭐ 10 | `commercial` |
 
-### Communication (50 skills)
+### Communication (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -477,8 +478,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Alert Design Patterns](communication/255-alert_design_patterns_257b29ca/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/alert_design_patterns.md) | ⭐ 1.8k | `communication` |
 | [Skill](communication/127-name-skill_82372435/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/morning-routine/SKILL.md) | ⭐ 20 | `communication` |
 | [Index](communication/157-index_6db3f977/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_opus_4_6/index.md) | 🔥 36.0k | `anthropic` `claude` `opus 4.6` |
+| [Fleet](communication/fleet_9242d5b9/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 10 | `communication` |
+| [Skill](communication/name-skill_3688869a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/followupboss/SKILL.md) | ⭐ 10 | `communication` |
+| [Agent](communication/agent_242b093b/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md) | ⭐ 10 | `communication` |
+| [Agents](communication/agents_876b97d6/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/AGENTS.md) | ⭐ 10 | `communication` |
+| [Heartbeat](communication/heartbeat_0526a210/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/HEARTBEAT.md) | ⭐ 10 | `communication` |
+| [Identity](communication/identity_92c5fad6/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/IDENTITY.md) | ⭐ 10 | `communication` |
 
-### Content Creation (161 skills)
+### Content Creation (162 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -642,9 +649,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
 | [Index](content-creation/019-index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
 | [Config Settings](content-creation/379-config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Weekly Trade Blog Writer](content-creation/weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
+| [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
+| [Agents](content-creation/agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (144 skills)
+### Daily Assistant (149 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -786,14 +794,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Copilot Thought Logging.Instructions](daily-assistant/208-copilot-thought-logginginstructions_665558e7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/copilot-thought-logging.instructions.md) | ⭐ 80 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_b489b52d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 80 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_a3bcb6b7/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 20 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_7d23a0ad/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/SKILL.md) | ⭐ 33 | `daily assistant` |
-| [Technical Analysis Framework](daily-assistant/technical_analysis_framework_a530ffeb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/technical-analyst/references/technical_analysis_framework.md) | ⭐ 33 | `daily assistant` |
-| [Market News Analyzer](daily-assistant/market-news-analyzer_b89215fd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 33 | `daily assistant` |
-| [Scenario Analyzer](daily-assistant/scenario-analyzer_b0b76f0d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/commands/scenario-analyzer.md) | ⭐ 33 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_1477e659/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/SKILL.md) | ⭐ 33 | `daily assistant` |
-| [Earnings Report Template](daily-assistant/earnings_report_template_e810618e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-calendar/assets/earnings_report_template.md) | ⭐ 33 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_7d23a0ad/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/SKILL.md) | ⭐ 33 | `daily assistant` |
+| [Technical Analysis Framework](daily-assistant/263-technical_analysis_framework_a530ffeb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/technical-analyst/references/technical_analysis_framework.md) | ⭐ 33 | `daily assistant` |
+| [Market News Analyzer](daily-assistant/264-market-news-analyzer_b89215fd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 33 | `daily assistant` |
+| [Machine Setup](daily-assistant/machine-setup_b18261af/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/machine-setup.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_77892dd6/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/asana/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_9dcf992a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/fireflies/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_01c9749d/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Agent](daily-assistant/agent_52e57124/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/task-steward/AGENT.md) | ⭐ 10 | `daily assistant` |
+| [Memory](daily-assistant/memory_910fbf7f/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/MEMORY.md) | ⭐ 10 | `daily assistant` |
+| [Tools](daily-assistant/tools_054faffc/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/TOOLS.md) | ⭐ 10 | `daily assistant` |
+| [User](daily-assistant/user_b22ecd9c/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/USER.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (344 skills)
+### Data Analysis (343 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1137,12 +1150,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Design Principles](data-analysis/482-design_principles_8eac51fd/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/infographics/references/design_principles.md) | 🔥 8.8k | `data analysis` |
 | [Infographic Types](data-analysis/483-infographic_types_f45f97e7/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/infographics/references/infographic_types.md) | 🔥 8.8k | `data analysis` |
 | [Evaluation Methodology](data-analysis/484-evaluation_methodology_053f836d/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/agent-designer/references/evaluation_methodology.md) | ⭐ 1.8k | `data analysis` |
-| [Breadth Chart Analyst Skill Improvements V2.0](data-analysis/breadth-chart-analyst-skill_improvements_v20_63ae63af/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/Breadth%20Chart%20Analyst%20Skill_IMPROVEMENTS_v2.0.md) | ⭐ 33 | `data analysis` |
-| [Skill](data-analysis/name-skill_36901b95/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/sector-analyst/SKILL.md) | ⭐ 33 | `data analysis` |
-| [Skill](data-analysis/name-skill_43d2f8ad/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/SKILL.md) | ⭐ 33 | `data analysis` |
-| [Technical Analysis](data-analysis/technical-analysis_b72fd0b9/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/technical-analysis.md) | ⭐ 33 | `data analysis` |
+| [Breadth Chart Analyst Skill Improvements V2.0](data-analysis/479-breadth-chart-analyst-skill_improvements_v20_63ae63af/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/Breadth%20Chart%20Analyst%20Skill_IMPROVEMENTS_v2.0.md) | ⭐ 33 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_36901b95/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/sector-analyst/SKILL.md) | ⭐ 33 | `data analysis` |
+| [Api](data-analysis/api_c439af5f/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/API.md) | ⭐ 606 | `data analysis` |
 
-### Development (789 skills)
+### Development (791 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1461,7 +1473,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_c2160779/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/brainstorming/SKILL.md) | ⭐ 110 | `development` |
 | [Skill](development/1178-name-skill_1f304bcf/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/executing-an-implementation-plan/SKILL.md) | ⭐ 110 | `development` |
 | [Skill](development/1178-name-skill_18817fec/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/requesting-code-review/SKILL.md) | ⭐ 110 | `development` |
-| [Skill](development/name-skill_4b436e6d/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/starting-a-design-plan/SKILL.md) | ⭐ 116 | `development` |
+| [Skill](development/1178-name-skill_a12538e3/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/starting-a-design-plan/SKILL.md) | ⭐ 110 | `development` |
 | [Skill](development/1178-name-skill_f69f8335/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/systematic-debugging/SKILL.md) | ⭐ 110 | `development` |
 | [Skill](development/1178-name-skill_4a2f76b8/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/writing-design-plans/SKILL.md) | ⭐ 110 | `development` |
 | [Skill](development/1178-name-skill_bbad16f1/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/writing-implementation-plans/SKILL.md) | ⭐ 110 | `development` |
@@ -1931,12 +1943,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_c9f31d9e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_8bb04df5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-structoffset-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Logging](development/1620-logging_b54e37ef/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/logging.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Skill](development/name-skill_29873fb5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-calendar/SKILL.md) | ⭐ 33 | `development` |
-| [Fmp Api Documentation](development/fmp_api_documentation_10943ea7/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/references/fmp_api_documentation.md) | ⭐ 33 | `development` |
+| [Skill](development/1178-name-skill_29873fb5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-calendar/SKILL.md) | ⭐ 33 | `development` |
+| [Fmp Api Documentation](development/2868-fmp_api_documentation_10943ea7/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/references/fmp_api_documentation.md) | ⭐ 33 | `development` |
 | [Skill](development/1178-name-skill_4b436e6d/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/starting-a-design-plan/SKILL.md) | ⭐ 116 | `development` |
-| [Comparison](development/comparison_b2f494b4/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/comparison.md) | ⭐ 23 | `development` |
+| [Comparison](development/181-comparison_b2f494b4/) | [doramirdor/NadirClaw](https://raw.githubusercontent.com/doramirdor/NadirClaw/main/docs/comparison.md) | ⭐ 23 | `development` |
+| [Health Check](development/health-check_f51b246d/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/health-check.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_0f17ab6e/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/limitless/SKILL.md) | ⭐ 10 | `development` |
 
-### Development/Devops (136 skills)
+### Development/Devops (139 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2076,6 +2090,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Iac To Diagram](development/devops/220-iac-to-diagram_34b66430/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/iac-to-diagram.md) | ⭐ 80 | `development` |
 | [Known Issues](development/devops/360-known-issues_d9682a46/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/known-issues.md) | ⭐ 74 | `development` |
 | [Virtual Keys](development/devops/046-virtual_keys_58995a51/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/virtual_keys.md) | 🔥 36.0k | `development` |
+| [Claude](development/devops/claude_29f835d4/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md) | ⭐ 606 | `development` |
+| [Installation](development/devops/installation_658ef4bb/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/INSTALLATION.md) | ⭐ 606 | `development` |
+| [Environment Variables](development/devops/environment_variables_62efb4de/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md) | ⭐ 606 | `development` |
 
 ### Development/Testing (27 skills)
 
@@ -2281,9 +2298,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/337-rag-skill_937372f4/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/SKILL.md) | ⭐ 1.8k | `development` |
 | [Rag Evaluation Framework](development/tools/338-rag_evaluation_framework_6c625f57/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/references/rag_evaluation_framework.md) | ⭐ 1.8k | `development` |
 | [Agents](development/tools/015-agents_8e910981/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/AGENTS.md) | ⭐ 20 | `development` |
-| [Skill](development/tools/name-skill_c995b48a/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/maintaining-a-marketplace/SKILL.md) | ⭐ 116 | `development` |
+| [Skill](development/tools/002-name-skill_c995b48a/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-extending-claude/skills/maintaining-a-marketplace/SKILL.md) | ⭐ 116 | `development` |
 
-### Investment (99 skills)
+### Investment (78 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2299,108 +2316,83 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_4824f4ee/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/skills/user-profile/SKILL.md) | ⭐ 13 | `investment` |
 | [Onboarding](investment/050-onboarding_72f00cb2/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/skills/user-profile/onboarding.md) | ⭐ 13 | `investment` |
 | [Market Data](investment/051-market-data_902f7eb2/) | [ginlix-ai/LangAlpha](https://raw.githubusercontent.com/ginlix-ai/LangAlpha/main/docs/api/markdown/market-data.md) | ⭐ 13 | `investment` |
-| [Claude](investment/claude_8cd81a52/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 33 | `investment` |
-| [Todo](investment/todo_c14eb873/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/TODO.md) | ⭐ 33 | `investment` |
-| [Bubble Detector V2.0 Revision](investment/bubble-detector-v20-revision_be0b9d05/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/bubble-detector-v2.0-revision.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_424e08dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_0810188f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_a42d5f48/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_a66b8073/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_796e8047/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/options-strategy-advisor/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_f79ba78e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_0371899d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/technical-analyst/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_abe9d400/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_2dae190f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/SKILL.md) | ⭐ 33 | `investment` |
-| [Breadth Chart Methodology](investment/breadth_chart_methodology_d1f1f32a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/references/breadth_chart_methodology.md) | ⭐ 33 | `investment` |
-| [Canslim Methodology](investment/canslim_methodology_610234bb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/canslim_methodology.md) | ⭐ 33 | `investment` |
-| [Fmp Api Endpoints](investment/fmp_api_endpoints_b16a00e1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/fmp_api_endpoints.md) | ⭐ 33 | `investment` |
-| [Interpretation Guide](investment/interpretation_guide_e81b87eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/interpretation_guide.md) | ⭐ 33 | `investment` |
-| [Dividend Growth Compounding](investment/dividend_growth_compounding_ccee4f8a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/dividend_growth_compounding.md) | ⭐ 33 | `investment` |
-| [Fmp Api Guide](investment/fmp_api_guide_3ae21c58/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
-| [Rsi Oversold Strategy](investment/rsi_oversold_strategy_34906933/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/rsi_oversold_strategy.md) | ⭐ 33 | `investment` |
-| [Fmp Api Guide](investment/fmp_api_guide_26950e10/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-calendar/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
-| [Ftd Methodology](investment/ftd_methodology_ad12220e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/ftd-detector/references/ftd_methodology.md) | ⭐ 33 | `investment` |
-| [13F Filings Guide](investment/13f_filings_guide_3856a861/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/references/13f_filings_guide.md) | ⭐ 33 | `investment` |
-| [Institutional Investor Types](investment/institutional_investor_types_65d016c6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/references/institutional_investor_types.md) | ⭐ 33 | `investment` |
-| [Interpretation Framework](investment/interpretation_framework_17277b19/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/references/interpretation_framework.md) | ⭐ 33 | `investment` |
-| [Historical Regimes](investment/historical_regimes_2ae21390/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/historical_regimes.md) | ⭐ 33 | `investment` |
-| [Indicator Interpretation Guide](investment/indicator_interpretation_guide_bbf0e06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/indicator_interpretation_guide.md) | ⭐ 33 | `investment` |
-| [Regime Detection Methodology](investment/regime_detection_methodology_c8fa6cc4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/regime_detection_methodology.md) | ⭐ 33 | `investment` |
-| [Breadth Analysis Methodology](investment/breadth_analysis_methodology_48a3b229/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 33 | `investment` |
-| [Analysis Patterns](investment/analysis_patterns_30c85038/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/references/analysis_patterns.md) | ⭐ 33 | `investment` |
-| [Indicators](investment/indicators_edf91528/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/references/indicators.md) | ⭐ 33 | `investment` |
-| [Corporate News Impact](investment/corporate_news_impact_e2d0c372/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/corporate_news_impact.md) | ⭐ 33 | `investment` |
-| [Geopolitical Commodity Correlations](investment/geopolitical_commodity_correlations_b404fb71/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/geopolitical_commodity_correlations.md) | ⭐ 33 | `investment` |
-| [Market Event Patterns](investment/market_event_patterns_9b835e76/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/market_event_patterns.md) | ⭐ 33 | `investment` |
-| [Trusted News Sources](investment/trusted_news_sources_49e1cc93/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/trusted_news_sources.md) | ⭐ 33 | `investment` |
-| [Market Top Methodology](investment/market_top_methodology_059a1da0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-top-detector/references/market_top_methodology.md) | ⭐ 33 | `investment` |
-| [Cointegration Guide](investment/cointegration_guide_ec27ea67/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/references/cointegration_guide.md) | ⭐ 33 | `investment` |
-| [Methodology](investment/methodology_9bcf9d3c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/references/methodology.md) | ⭐ 33 | `investment` |
-| [Alpaca Mcp Setup](investment/alpaca-mcp-setup_fdfb5774/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/alpaca-mcp-setup.md) | ⭐ 33 | `investment` |
-| [Asset Allocation](investment/asset-allocation_afb273db/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/asset-allocation.md) | ⭐ 33 | `investment` |
-| [Diversification Principles](investment/diversification-principles_246880e1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/diversification-principles.md) | ⭐ 33 | `investment` |
-| [Portfolio Risk Metrics](investment/portfolio-risk-metrics_aeec1fb1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/portfolio-risk-metrics.md) | ⭐ 33 | `investment` |
-| [Position Evaluation](investment/position-evaluation_274428e8/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/position-evaluation.md) | ⭐ 33 | `investment` |
-| [Rebalancing Strategies](investment/rebalancing-strategies_9adf61ff/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/rebalancing-strategies.md) | ⭐ 33 | `investment` |
-| [Risk Profile Questionnaire](investment/risk-profile-questionnaire_2043a448/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/risk-profile-questionnaire.md) | ⭐ 33 | `investment` |
-| [Target Allocations](investment/target-allocations_c3896338/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/target-allocations.md) | ⭐ 33 | `investment` |
-| [Sector Rotation](investment/sector_rotation_9179d38c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/sector-analyst/references/sector_rotation.md) | ⭐ 33 | `investment` |
-| [Cross Sector Themes](investment/cross_sector_themes_b5fd9503/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/cross_sector_themes.md) | ⭐ 33 | `investment` |
-| [Finviz Industry Codes](investment/finviz_industry_codes_174a753e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/finviz_industry_codes.md) | ⭐ 33 | `investment` |
-| [Thematic Etf Catalog](investment/thematic_etf_catalog_684d4dd4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/thematic_etf_catalog.md) | ⭐ 33 | `investment` |
-| [Theme Detection Methodology](investment/theme_detection_methodology_c7d058dc/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/theme_detection_methodology.md) | ⭐ 33 | `investment` |
-| [Uptrend Methodology](investment/uptrend_methodology_cf2359f3/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 33 | `investment` |
-| [Bubble Framework](investment/bubble_framework_50d566aa/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/bubble_framework.md) | ⭐ 33 | `investment` |
-| [Historical Cases](investment/historical_cases_037e06eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/historical_cases.md) | ⭐ 33 | `investment` |
-| [Implementation Guide](investment/implementation_guide_c1442cbd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/implementation_guide.md) | ⭐ 33 | `investment` |
-| [Quick Reference](investment/quick_reference_c432309c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference.md) | ⭐ 33 | `investment` |
-| [Quick Reference En](investment/quick_reference_en_bdd813ca/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference_en.md) | ⭐ 33 | `investment` |
-| [Financial Metrics](investment/financial-metrics_8324f69a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/financial-metrics.md) | ⭐ 33 | `investment` |
-| [Fmp Api Guide](investment/fmp_api_guide_c39b1f5e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
-| [Screening Methodology](investment/screening_methodology_c723c1de/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/references/screening_methodology.md) | ⭐ 33 | `investment` |
-| [Fmp Api Endpoints](investment/fmp_api_endpoints_1e54f492/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/fmp_api_endpoints.md) | ⭐ 33 | `investment` |
-| [Scoring System](investment/scoring_system_8a4825b6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/scoring_system.md) | ⭐ 33 | `investment` |
-| [Druckenmiller Strategy Planner](investment/druckenmiller-strategy-planner_6904a4f2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 33 | `investment` |
-| [Technical Market Analyst](investment/technical-market-analyst_82829cee/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/technical-market-analyst.md) | ⭐ 33 | `investment` |
-| [Us Market Analyst](investment/us-market-analyst_e5a5571a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_5c1f2cd0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
-| [Earnings Calendar 2025 11 02](investment/earnings_calendar_2025-11-02_3865d06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 33 | `investment` |
-| [Readme.Ja](investment/readmeja_8e60a144/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/README.ja.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_14a4592c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/backtest-expert/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_cea0ca3a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/ftd-detector/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_00166b8f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_76d00c0d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_bb8759d9/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-top-detector/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_71a5b770/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_0325710a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_4de04c61/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/SKILL.md) | ⭐ 33 | `investment` |
-| [Claude](investment/claude_6b8ddd15/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/CLAUDE.md) | ⭐ 33 | `investment` |
-| [Failed Tests](investment/failed_tests_39183717/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/backtest-expert/references/failed_tests.md) | ⭐ 33 | `investment` |
-| [Methodology](investment/methodology_ad8822f4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/backtest-expert/references/methodology.md) | ⭐ 33 | `investment` |
-| [Breadth Analysis Template](investment/breadth_analysis_template_0a211c42/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/assets/breadth_analysis_template.md) | ⭐ 33 | `investment` |
-| [Scoring System](investment/scoring_system_09883e4c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/scoring_system.md) | ⭐ 33 | `investment` |
-| [Post Ftd Guide](investment/post_ftd_guide_9ef8afa3/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/ftd-detector/references/post_ftd_guide.md) | ⭐ 33 | `investment` |
-| [Distribution Day Guide](investment/distribution_day_guide_6f806e47/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-top-detector/references/distribution_day_guide.md) | ⭐ 33 | `investment` |
-| [Historical Tops](investment/historical_tops_979fc2b0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-top-detector/references/historical_tops.md) | ⭐ 33 | `investment` |
-| [Analysis Template](investment/analysis_template_0f9a7038/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/technical-analyst/assets/analysis_template.md) | ⭐ 33 | `investment` |
-| [Report Template](investment/report_template_9e4f1961/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/assets/report_template.md) | ⭐ 33 | `investment` |
-| [Report Template](investment/report-template_8b1c7c76/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/report-template.md) | ⭐ 33 | `investment` |
-| [Vcp Methodology](investment/vcp_methodology_9e69a318/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/vcp_methodology.md) | ⭐ 33 | `investment` |
+| [Claude](investment/048-claude_8cd81a52/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 33 | `investment` |
+| [Todo](investment/049-todo_c14eb873/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/TODO.md) | ⭐ 33 | `investment` |
+| [Bubble Detector V2.0 Revision](investment/050-bubble-detector-v20-revision_be0b9d05/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/bubble-detector-v2.0-revision.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_424e08dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_0810188f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_a42d5f48/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_a66b8073/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_796e8047/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/options-strategy-advisor/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_f79ba78e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_0371899d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/technical-analyst/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_abe9d400/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_2dae190f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/SKILL.md) | ⭐ 33 | `investment` |
+| [Breadth Chart Methodology](investment/051-breadth_chart_methodology_d1f1f32a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/references/breadth_chart_methodology.md) | ⭐ 33 | `investment` |
+| [Canslim Methodology](investment/052-canslim_methodology_610234bb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/canslim_methodology.md) | ⭐ 33 | `investment` |
+| [Fmp Api Endpoints](investment/053-fmp_api_endpoints_b16a00e1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/fmp_api_endpoints.md) | ⭐ 33 | `investment` |
+| [Interpretation Guide](investment/054-interpretation_guide_e81b87eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/interpretation_guide.md) | ⭐ 33 | `investment` |
+| [Dividend Growth Compounding](investment/055-dividend_growth_compounding_ccee4f8a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/dividend_growth_compounding.md) | ⭐ 33 | `investment` |
+| [Fmp Api Guide](investment/056-fmp_api_guide_3ae21c58/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
+| [Rsi Oversold Strategy](investment/057-rsi_oversold_strategy_34906933/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/rsi_oversold_strategy.md) | ⭐ 33 | `investment` |
+| [Fmp Api Guide](investment/056-fmp_api_guide_26950e10/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-calendar/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
+| [Ftd Methodology](investment/058-ftd_methodology_ad12220e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/ftd-detector/references/ftd_methodology.md) | ⭐ 33 | `investment` |
+| [13F Filings Guide](investment/059-13f_filings_guide_3856a861/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/references/13f_filings_guide.md) | ⭐ 33 | `investment` |
+| [Institutional Investor Types](investment/060-institutional_investor_types_65d016c6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/references/institutional_investor_types.md) | ⭐ 33 | `investment` |
+| [Interpretation Framework](investment/061-interpretation_framework_17277b19/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/references/interpretation_framework.md) | ⭐ 33 | `investment` |
+| [Historical Regimes](investment/062-historical_regimes_2ae21390/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/historical_regimes.md) | ⭐ 33 | `investment` |
+| [Indicator Interpretation Guide](investment/063-indicator_interpretation_guide_bbf0e06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/indicator_interpretation_guide.md) | ⭐ 33 | `investment` |
+| [Regime Detection Methodology](investment/064-regime_detection_methodology_c8fa6cc4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/regime_detection_methodology.md) | ⭐ 33 | `investment` |
+| [Breadth Analysis Methodology](investment/065-breadth_analysis_methodology_48a3b229/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 33 | `investment` |
+| [Analysis Patterns](investment/066-analysis_patterns_30c85038/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/references/analysis_patterns.md) | ⭐ 33 | `investment` |
+| [Indicators](investment/067-indicators_edf91528/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/references/indicators.md) | ⭐ 33 | `investment` |
+| [Corporate News Impact](investment/068-corporate_news_impact_e2d0c372/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/corporate_news_impact.md) | ⭐ 33 | `investment` |
+| [Geopolitical Commodity Correlations](investment/069-geopolitical_commodity_correlations_b404fb71/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/geopolitical_commodity_correlations.md) | ⭐ 33 | `investment` |
+| [Market Event Patterns](investment/070-market_event_patterns_9b835e76/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/market_event_patterns.md) | ⭐ 33 | `investment` |
+| [Trusted News Sources](investment/071-trusted_news_sources_49e1cc93/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/trusted_news_sources.md) | ⭐ 33 | `investment` |
+| [Market Top Methodology](investment/072-market_top_methodology_059a1da0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-top-detector/references/market_top_methodology.md) | ⭐ 33 | `investment` |
+| [Cointegration Guide](investment/073-cointegration_guide_ec27ea67/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/references/cointegration_guide.md) | ⭐ 33 | `investment` |
+| [Methodology](investment/074-methodology_9bcf9d3c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/references/methodology.md) | ⭐ 33 | `investment` |
+| [Alpaca Mcp Setup](investment/075-alpaca-mcp-setup_fdfb5774/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/alpaca-mcp-setup.md) | ⭐ 33 | `investment` |
+| [Asset Allocation](investment/076-asset-allocation_afb273db/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/asset-allocation.md) | ⭐ 33 | `investment` |
+| [Diversification Principles](investment/077-diversification-principles_246880e1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/diversification-principles.md) | ⭐ 33 | `investment` |
+| [Portfolio Risk Metrics](investment/078-portfolio-risk-metrics_aeec1fb1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/portfolio-risk-metrics.md) | ⭐ 33 | `investment` |
+| [Position Evaluation](investment/079-position-evaluation_274428e8/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/position-evaluation.md) | ⭐ 33 | `investment` |
+| [Rebalancing Strategies](investment/080-rebalancing-strategies_9adf61ff/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/rebalancing-strategies.md) | ⭐ 33 | `investment` |
+| [Risk Profile Questionnaire](investment/081-risk-profile-questionnaire_2043a448/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/risk-profile-questionnaire.md) | ⭐ 33 | `investment` |
+| [Target Allocations](investment/082-target-allocations_c3896338/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/portfolio-manager/references/target-allocations.md) | ⭐ 33 | `investment` |
+| [Sector Rotation](investment/083-sector_rotation_9179d38c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/sector-analyst/references/sector_rotation.md) | ⭐ 33 | `investment` |
+| [Cross Sector Themes](investment/084-cross_sector_themes_b5fd9503/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/cross_sector_themes.md) | ⭐ 33 | `investment` |
+| [Finviz Industry Codes](investment/085-finviz_industry_codes_174a753e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/finviz_industry_codes.md) | ⭐ 33 | `investment` |
+| [Thematic Etf Catalog](investment/086-thematic_etf_catalog_684d4dd4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/thematic_etf_catalog.md) | ⭐ 33 | `investment` |
+| [Theme Detection Methodology](investment/087-theme_detection_methodology_c7d058dc/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/theme_detection_methodology.md) | ⭐ 33 | `investment` |
+| [Uptrend Methodology](investment/088-uptrend_methodology_cf2359f3/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 33 | `investment` |
+| [Bubble Framework](investment/089-bubble_framework_50d566aa/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/bubble_framework.md) | ⭐ 33 | `investment` |
+| [Historical Cases](investment/090-historical_cases_037e06eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/historical_cases.md) | ⭐ 33 | `investment` |
+| [Implementation Guide](investment/091-implementation_guide_c1442cbd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/implementation_guide.md) | ⭐ 33 | `investment` |
+| [Quick Reference](investment/092-quick_reference_c432309c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference.md) | ⭐ 33 | `investment` |
+| [Quick Reference En](investment/093-quick_reference_en_bdd813ca/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference_en.md) | ⭐ 33 | `investment` |
+| [Financial Metrics](investment/094-financial-metrics_8324f69a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/financial-metrics.md) | ⭐ 33 | `investment` |
+| [Fmp Api Guide](investment/056-fmp_api_guide_c39b1f5e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
+| [Screening Methodology](investment/095-screening_methodology_c723c1de/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/references/screening_methodology.md) | ⭐ 33 | `investment` |
+| [Fmp Api Endpoints](investment/053-fmp_api_endpoints_1e54f492/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/fmp_api_endpoints.md) | ⭐ 33 | `investment` |
+| [Scoring System](investment/096-scoring_system_8a4825b6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/scoring_system.md) | ⭐ 33 | `investment` |
+| [Druckenmiller Strategy Planner](investment/097-druckenmiller-strategy-planner_6904a4f2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 33 | `investment` |
+| [Technical Market Analyst](investment/098-technical-market-analyst_82829cee/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/technical-market-analyst.md) | ⭐ 33 | `investment` |
+| [Us Market Analyst](investment/099-us-market-analyst_e5a5571a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 33 | `investment` |
+| [Skill](investment/021-name-skill_5c1f2cd0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
+| [Earnings Calendar 2025 11 02](investment/100-earnings_calendar_2025-11-02_3865d06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 33 | `investment` |
 
-### Other (8 skills)
+### Other (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Ambiguity Resolution](other/036-ambiguity-resolution_4a7f95ba/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/ambiguity-resolution.md) | ⭐ 99 | `other` |
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
-| [Sector Sensitivity Matrix](other/sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
-| [Headline Event Patterns](other/headline_event_patterns_175073dc/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/headline_event_patterns.md) | ⭐ 33 | `other` |
-| [Case Studies](other/case-studies_e3ea88cd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/case-studies.md) | ⭐ 33 | `other` |
-| [Investment Philosophy](other/investment-philosophy_0390a212/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/investment-philosophy.md) | ⭐ 33 | `other` |
-| [Market Analysis Guide](other/market-analysis-guide_855566ac/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/market-analysis-guide.md) | ⭐ 33 | `other` |
+| [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
 
-### Productivity (39 skills)
+### Productivity (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2443,6 +2435,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_7e4bca3c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/scrum-master/SKILL.md) | ⭐ 1.8k | `productivity` |
 | [Portfolio Prioritization Models](productivity/173-portfolio-prioritization-models_f926f023/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md) | ⭐ 1.8k | `productivity` |
 | [Agents Definitions.Instructions](productivity/173-agents-definitionsinstructions_f57bb24c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agents-definitions.instructions.md) | ⭐ 80 | `productivity` |
+| [Soul](productivity/soul_c47585c4/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/SOUL.md) | ⭐ 10 | `productivity` |
 
 ### Research (78 skills)
 
@@ -2525,7 +2518,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sql Patterns](research/260-sql_patterns_bc5079e7/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/imaging-data-commons/references/sql_patterns.md) | 🔥 8.8k | `research` |
 | [Use Cases](research/261-use_cases_9c3b01f9/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/imaging-data-commons/references/use_cases.md) | 🔥 8.8k | `research` |
 | [Embedding Model Benchmark](research/262-embedding_model_benchmark_033e3c0b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/references/embedding_model_benchmark.md) | ⭐ 1.8k | `research` |
-| [Scenario Playbooks](research/scenario_playbooks_57ea3a27/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/scenario_playbooks.md) | ⭐ 33 | `research` |
+| [Skill](research/name-skill_6320a441/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/parallel/SKILL.md) | ⭐ 10 | `research` |
 
 ## How Skills Are Organized
 
@@ -2577,5 +2570,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-17 14:28:14 UTC*
+*Last updated: 2026-02-17 15:27:58 UTC*
 *Automatically maintained by SkillFlow*
