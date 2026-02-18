@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2797 AI-powered skills** organized into 15 categories.
+A curated collection of **2793 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (85 skills)
-- **Automation/Workflow** (146 skills)
+- **Automation/Scripting** (82 skills)
+- **Automation/Workflow** (145 skills)
 - **Commercial** (103 skills)
-- **Communication** (66 skills)
-- **Content Creation** (202 skills)
-- **Daily Assistant** (199 skills)
-- **Data Analysis** (387 skills)
+- **Communication** (67 skills)
+- **Content Creation** (204 skills)
+- **Daily Assistant** (196 skills)
+- **Data Analysis** (385 skills)
 - **Development** (943 skills)
-- **Development/Devops** (179 skills)
+- **Development/Devops** (181 skills)
 - **Development/Testing** (42 skills)
-- **Development/Tools** (214 skills)
+- **Development/Tools** (213 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
 - **Productivity** (50 skills)
-- **Research** (84 skills)
+- **Research** (85 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (85 skills)
+### Automation/Scripting (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -265,13 +265,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_e1e9974f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_31b2fbbe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/085-description-skill_38c61f90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
-| [Parallel Dispatcher](automation/scripting/parallel-dispatcher_119b8526/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/parallel-dispatcher.md) | ⭐ 42 | `automation` |
-| [Skill](automation/scripting/name-skill_85ef5262/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/parallel-dispatch/SKILL.md) | ⭐ 42 | `automation` |
-| [Brainstorm](automation/scripting/brainstorm_abda7c07/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/brainstorm.md) | ⭐ 42 | `automation` |
-| [Execute Plan](automation/scripting/execute-plan_f9a7c251/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/execute-plan.md) | ⭐ 42 | `automation` |
-| [Critique Template](automation/scripting/critique_template_15130b22/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/assets/critique_template.md) | ⭐ 42 | `automation` |
+| [Parallel Dispatcher](automation/scripting/099-parallel-dispatcher_119b8526/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/parallel-dispatcher.md) | ⭐ 42 | `automation` |
+| [Skill](automation/scripting/003-name-skill_85ef5262/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/parallel-dispatch/SKILL.md) | ⭐ 42 | `automation` |
 
-### Automation/Workflow (146 skills)
+### Automation/Workflow (145 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -417,10 +414,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Step Transactions](automation/workflow/151-step-transactions_0d42104a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/step-transactions.md) | 🔥 11.4k | `automation` |
 | [Workflow Introspection](automation/workflow/145-workflow-introspection_2f88148b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
 | [Skill](automation/workflow/064-description-skill_bb607e93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
-| [Board Review](automation/workflow/board-review_ee5fc258/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/board-review.md) | ⭐ 42 | `automation` |
-| [Implement](automation/workflow/implement_b34bae22/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/implement.md) | ⭐ 42 | `automation` |
-| [Setup](automation/workflow/setup_4579caf4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/setup.md) | ⭐ 42 | `automation` |
-| [Ui Audit](automation/workflow/ui-audit_8b8a25c7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ui-audit.md) | ⭐ 42 | `automation` |
+| [Board Review](automation/workflow/140-board-review_ee5fc258/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/board-review.md) | ⭐ 42 | `automation` |
+| [Implement](automation/workflow/141-implement_b34bae22/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/implement.md) | ⭐ 42 | `automation` |
+| [Setup](automation/workflow/018-setup_4579caf4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/setup.md) | ⭐ 42 | `automation` |
 
 ### Commercial (103 skills)
 
@@ -521,16 +517,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Industry Icons](commercial/379-industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
 | [Cta Patterns](commercial/380-cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
 | [Disclaimer](commercial/370-disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
-| [Board Meeting](commercial/board-meeting_c91816e1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 42 | `commercial` |
-| [Ceo](commercial/ceo_c5da5855/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ceo.md) | ⭐ 42 | `commercial` |
-| [Status](commercial/status_5707e136/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/status.md) | ⭐ 42 | `commercial` |
-| [Skill](commercial/name-skill_c81cad39/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 42 | `commercial` |
-| [Skill](commercial/name-skill_d378f606/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-business-logic/SKILL.md) | ⭐ 42 | `commercial` |
-| [Skill](commercial/name-skill_cad96e65/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-integration/SKILL.md) | ⭐ 42 | `commercial` |
-| [Skill](commercial/name-skill_cd634626/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-execution-evaluator/SKILL.md) | ⭐ 42 | `commercial` |
-| [Chief Product Officer](commercial/chief-product-officer_2a501bbd/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-product-officer.md) | ⭐ 42 | `commercial` |
+| [Board Meeting](commercial/381-board-meeting_c91816e1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 42 | `commercial` |
+| [Ceo](commercial/382-ceo_c5da5855/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ceo.md) | ⭐ 42 | `commercial` |
+| [Status](commercial/383-status_5707e136/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/status.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/210-name-skill_c81cad39/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/210-name-skill_d378f606/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-business-logic/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/210-name-skill_cad96e65/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-integration/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/210-name-skill_cd634626/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-execution-evaluator/SKILL.md) | ⭐ 42 | `commercial` |
+| [Chief Product Officer](commercial/384-chief-product-officer_2a501bbd/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-product-officer.md) | ⭐ 42 | `commercial` |
 
-### Communication (66 skills)
+### Communication (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -599,9 +595,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Component Catalogue](communication/261-component-catalogue_e0043acb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/component-catalogue.md) | ⭐ 499 | `communication` |
 | [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
-| [Cmo](communication/cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
+| [Cmo](communication/263-cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
+| [Index](communication/index_614d782c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_sonnet_4_6/index.md) | 🔥 36.0k | `anthropic` `claude` `sonnet 4.6` |
 
-### Content Creation (202 skills)
+### Content Creation (204 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -763,8 +760,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Methods](content-creation/376-api_methods_d06893ba/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_methods.md) | 🔥 20.3k | `content creation` |
 | [Api Types](content-creation/377-api_types_b0303d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_types.md) | 🔥 20.3k | `content creation` |
 | [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
-| [Index](content-creation/019-index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
-| [Config Settings](content-creation/379-config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Index](content-creation/index_903353a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
+| [Config Settings](content-creation/config_settings_0a4cf12d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
 | [Agents](content-creation/185-agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 | [Graph](content-creation/078-graph_5f016311/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 167 | `content creation` |
@@ -800,15 +797,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflows](content-creation/060-workflows_a52616fc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/workflows.md) | ⭐ 499 | `content creation` |
 | [Card Patterns](content-creation/376-card-patterns_5bd74011/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/card-patterns.md) | ⭐ 499 | `content creation` |
 | [Contextual Ai Documentation Optimizer](content-creation/356-contextual-ai-documentation-optimizer_b6857016/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `content creation` |
-| [Conductor Orchestrator](content-creation/conductor-orchestrator_677bcf29/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/conductor-orchestrator.md) | ⭐ 42 | `content creation` |
-| [Loop Fixer](content-creation/loop-fixer_46ff46a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-fixer.md) | ⭐ 42 | `content creation` |
-| [Parallel Dispatcher](content-creation/parallel-dispatcher_401cb051/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/parallel-dispatcher.md) | ⭐ 42 | `content creation` |
-| [Task Worker](content-creation/task-worker_5a115c1e/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/task-worker.md) | ⭐ 42 | `content creation` |
-| [Task Worker](content-creation/task-worker_8f086799/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/task-worker.md) | ⭐ 42 | `content creation` |
-| [Chief Experience Officer](content-creation/chief-experience-officer_26ac3f85/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-experience-officer.md) | ⭐ 42 | `content creation` |
-| [Task Worker.Template](content-creation/task-workertemplate_6ad41d01/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/task-worker.template.md) | ⭐ 42 | `content creation` |
+| [Conductor Orchestrator](content-creation/377-conductor-orchestrator_677bcf29/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/conductor-orchestrator.md) | ⭐ 42 | `content creation` |
+| [Loop Fixer](content-creation/378-loop-fixer_46ff46a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-fixer.md) | ⭐ 42 | `content creation` |
+| [Parallel Dispatcher](content-creation/379-parallel-dispatcher_401cb051/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/parallel-dispatcher.md) | ⭐ 42 | `content creation` |
+| [Task Worker](content-creation/380-task-worker_5a115c1e/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/task-worker.md) | ⭐ 42 | `content creation` |
+| [Task Worker](content-creation/380-task-worker_8f086799/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/task-worker.md) | ⭐ 42 | `content creation` |
+| [Chief Experience Officer](content-creation/381-chief-experience-officer_26ac3f85/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-experience-officer.md) | ⭐ 42 | `content creation` |
+| [Index](content-creation/019-index_903353a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
+| [Gemini](content-creation/gemini_69587a4d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/gemini.md) | 🔥 36.0k | `content creation` |
+| [Config Settings](content-creation/366-config_settings_0a4cf12d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 
-### Daily Assistant (199 skills)
+### Daily Assistant (196 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -994,25 +993,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tui Quick Reference](daily-assistant/288-tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
 | [Walkthrough Checklist](daily-assistant/277-walkthrough-checklist_d4d7589a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/walkthrough-checklist.md) | ⭐ 499 | `daily assistant` |
 | [Backlog Item Groomer](daily-assistant/286-backlog-item-groomer_3fb25bb3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 18 | `daily assistant` |
-| [Loop Planner](daily-assistant/loop-planner_738100ef/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-planner.md) | ⭐ 42 | `daily assistant` |
-| [Ceo](daily-assistant/ceo_b984df07/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ceo.md) | ⭐ 42 | `daily assistant` |
-| [Cmo](daily-assistant/cmo_baa9b4a7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cmo.md) | ⭐ 42 | `daily assistant` |
-| [Cto](daily-assistant/cto_73adfce6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto.md) | ⭐ 42 | `daily assistant` |
-| [Loop Fixer](daily-assistant/loop-fixer_cf1fc72f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-fixer.md) | ⭐ 42 | `daily assistant` |
-| [Loop Plan Evaluator](daily-assistant/loop-plan-evaluator_45093ebf/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-plan-evaluator.md) | ⭐ 42 | `daily assistant` |
-| [Loop Planner](daily-assistant/loop-planner_ba691d88/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-planner.md) | ⭐ 42 | `daily assistant` |
-| [Ux Designer](daily-assistant/ux-designer_0e7542ab/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ux-designer.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_7a238df1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/brainstorming/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/ensures-skill_43b9174f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/business-docs-sync/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_f09a7f35/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_3ec846b5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-planner/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_382b9cde/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/track-manager/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_07d73726/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/using-superpowers/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [go](daily-assistant/go_f538e773/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/go.md) | ⭐ 42 | `daily assistant` |
-| [Write Plan](daily-assistant/write-plan_4da2b064/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/write-plan.md) | ⭐ 42 | `daily assistant` |
-| [Ui Worker.Template](daily-assistant/ui-workertemplate_328fa406/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/ui-worker.template.md) | ⭐ 42 | `daily assistant` |
+| [Loop Planner](daily-assistant/278-loop-planner_738100ef/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-planner.md) | ⭐ 42 | `daily assistant` |
+| [Ceo](daily-assistant/279-ceo_b984df07/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ceo.md) | ⭐ 42 | `daily assistant` |
+| [Cmo](daily-assistant/280-cmo_baa9b4a7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cmo.md) | ⭐ 42 | `daily assistant` |
+| [Cto](daily-assistant/281-cto_73adfce6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto.md) | ⭐ 42 | `daily assistant` |
+| [Loop Fixer](daily-assistant/282-loop-fixer_cf1fc72f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-fixer.md) | ⭐ 42 | `daily assistant` |
+| [Loop Plan Evaluator](daily-assistant/283-loop-plan-evaluator_45093ebf/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-plan-evaluator.md) | ⭐ 42 | `daily assistant` |
+| [Loop Planner](daily-assistant/278-loop-planner_ba691d88/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-planner.md) | ⭐ 42 | `daily assistant` |
+| [Ux Designer](daily-assistant/284-ux-designer_0e7542ab/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ux-designer.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_7a238df1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/brainstorming/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/285-ensures-skill_43b9174f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/business-docs-sync/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_f09a7f35/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_3ec846b5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-planner/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_382b9cde/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/track-manager/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_07d73726/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/using-superpowers/SKILL.md) | ⭐ 42 | `daily assistant` |
 
-### Data Analysis (387 skills)
+### Data Analysis (385 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1395,14 +1391,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tasks](data-analysis/482-tasks_f53afa83/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/tasks.md) | ⭐ 23 | `data analysis` |
 | [Spec](data-analysis/481-spec_abc0e01b/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
 | [Claude](data-analysis/036-claude_6ef63f75/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
-| [Loop Plan Evaluator](data-analysis/loop-plan-evaluator_3c2e1062/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-plan-evaluator.md) | ⭐ 42 | `data analysis` |
-| [Ux Designer](data-analysis/ux-designer_b9fefa6c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ux-designer.md) | ⭐ 42 | `data analysis` |
-| [Skill](data-analysis/name-skill_0d42199c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-ui-ux/SKILL.md) | ⭐ 42 | `data analysis` |
-| [Skill](data-analysis/name-skill_6b09403c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-fixer/SKILL.md) | ⭐ 42 | `data analysis` |
-| [Skill](data-analysis/name-skill_55f6ee5a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-plan-evaluator/SKILL.md) | ⭐ 42 | `data analysis` |
-| [Skill](data-analysis/name-skill_55544f64/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/message-bus/SKILL.md) | ⭐ 42 | `data analysis` |
-| [Skill](data-analysis/name-skill_7f117efa/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/go/SKILL.md) | ⭐ 42 | `data analysis` |
-| [Skill](data-analysis/name-skill_7a94372b/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/product-lead/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Loop Plan Evaluator](data-analysis/491-loop-plan-evaluator_3c2e1062/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-plan-evaluator.md) | ⭐ 42 | `data analysis` |
+| [Ux Designer](data-analysis/492-ux-designer_b9fefa6c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ux-designer.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0d42199c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-ui-ux/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6b09403c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-fixer/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_55f6ee5a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-plan-evaluator/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_55544f64/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/message-bus/SKILL.md) | ⭐ 42 | `data analysis` |
 
 ### Development (943 skills)
 
@@ -2328,31 +2322,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [Client Enqueue](development/2923-client-enqueue_ae8e773e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/client-enqueue.md) | 🔥 11.4k | `development` |
 | [Skill](development/1530-description-skill_ad1e8a07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1530-description-skill_93b4daeb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
-| [Code Reviewer](development/code-reviewer_b17be291/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/code-reviewer.md) | ⭐ 42 | `development` |
-| [Loop Execution Evaluator](development/loop-execution-evaluator_bec40e0d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-execution-evaluator.md) | ⭐ 42 | `development` |
-| [Loop Executor](development/loop-executor_1ebc4a14/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-executor.md) | ⭐ 42 | `development` |
-| [Loop Execution Evaluator](development/loop-execution-evaluator_0373a89a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-execution-evaluator.md) | ⭐ 42 | `development` |
-| [Loop Executor](development/loop-executor_0efcbfae/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-executor.md) | ⭐ 42 | `development` |
-| [Phase Review](development/phase-review_a4e51ca7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/phase-review.md) | ⭐ 42 | `development` |
-| [Workflow](development/workflow_3e8e366a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/workflow.md) | ⭐ 42 | `development` |
-| [New Track](development/new-track_580c1091/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/new-track.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_5da10c06/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/agent-factory/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_cc2657b4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_c65c7ac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-plan-reviewer/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_ecac652a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-code-quality/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_8a9198d4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/writing-plans/SKILL.md) | ⭐ 42 | `development` |
-| [Chief Security Officer](development/chief-security-officer_aa3c9e13/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-security-officer.md) | ⭐ 42 | `development` |
-| [Architecture Decision Records](development/architecture_decision_records_6cf0c166/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/architecture_decision_records.md) | ⭐ 42 | `development` |
-| [Engineering Metrics](development/engineering_metrics_e7ec87cc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/engineering_metrics.md) | ⭐ 42 | `development` |
-| [Technology Evaluation Framework](development/technology_evaluation_framework_58273842/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/technology_evaluation_framework.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_f7f32eed/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/knowledge-manager/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_1880e5f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/retrospective-agent/SKILL.md) | ⭐ 42 | `development` |
-| [Cto](development/cto_8e2d5858/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cto.md) | ⭐ 42 | `development` |
-| [Code Worker.Template](development/code-workertemplate_939eea2c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/code-worker.template.md) | ⭐ 42 | `development` |
-| [Integration Worker.Template](development/integration-workertemplate_49648e27/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/integration-worker.template.md) | ⭐ 42 | `development` |
-| [Skill](development/name-skill_67b42dbe/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/architecture-lead/SKILL.md) | ⭐ 42 | `development` |
+| [Code Reviewer](development/2591-code-reviewer_b17be291/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/code-reviewer.md) | ⭐ 42 | `development` |
+| [Loop Execution Evaluator](development/2919-loop-execution-evaluator_bec40e0d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-execution-evaluator.md) | ⭐ 42 | `development` |
+| [Loop Executor](development/2920-loop-executor_1ebc4a14/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-executor.md) | ⭐ 42 | `development` |
+| [Loop Execution Evaluator](development/2919-loop-execution-evaluator_0373a89a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-execution-evaluator.md) | ⭐ 42 | `development` |
+| [Loop Executor](development/2920-loop-executor_0efcbfae/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-executor.md) | ⭐ 42 | `development` |
+| [Phase Review](development/2921-phase-review_a4e51ca7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/phase-review.md) | ⭐ 42 | `development` |
+| [Workflow](development/1153-workflow_3e8e366a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/workflow.md) | ⭐ 42 | `development` |
+| [New Track](development/2922-new-track_580c1091/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/new-track.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_5da10c06/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/agent-factory/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_cc2657b4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_c65c7ac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-plan-reviewer/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_ecac652a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-code-quality/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_8a9198d4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/writing-plans/SKILL.md) | ⭐ 42 | `development` |
+| [Chief Security Officer](development/2923-chief-security-officer_aa3c9e13/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-security-officer.md) | ⭐ 42 | `development` |
+| [Architecture Decision Records](development/061-architecture_decision_records_6cf0c166/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/architecture_decision_records.md) | ⭐ 42 | `development` |
+| [Engineering Metrics](development/336-engineering_metrics_e7ec87cc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/engineering_metrics.md) | ⭐ 42 | `development` |
+| [Technology Evaluation Framework](development/1067-technology_evaluation_framework_58273842/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/technology_evaluation_framework.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_f7f32eed/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/knowledge-manager/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/1178-name-skill_1880e5f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/retrospective-agent/SKILL.md) | ⭐ 42 | `development` |
+| [Response Api](development/response_api_9b716c62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 36.0k | `development` |
+| [Generic Guardrail Api](development/generic_guardrail_api_42a0cdf8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md) | 🔥 36.0k | `development` |
+| [Prompt Management](development/prompt_management_8a79029b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prompt_management.md) | 🔥 36.0k | `development` |
+| [Rerank](development/rerank_4b2de441/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/watsonx/rerank.md) | 🔥 36.0k | `development` |
 
-### Development/Devops (179 skills)
+### Development/Devops (181 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2533,8 +2527,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hybrid Search Architecture](development/devops/256-hybrid-search-architecture_71a1f9be/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 448 | `development` |
 | [Virtual Mcp Server](development/devops/368-virtual-mcp-server_03fa9d5c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server.md) | ⭐ 448 | `development` |
 | [Roadmap](development/devops/097-roadmap_a2a1ef49/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
-| [Skill](development/devops/name-skill_397e2920/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-driven-development/SKILL.md) | ⭐ 42 | `development` |
-| [Chief Operations Officer](development/devops/chief-operations-officer_050f2246/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-operations-officer.md) | ⭐ 42 | `development` |
+| [Skill](development/devops/014-name-skill_397e2920/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-driven-development/SKILL.md) | ⭐ 42 | `development` |
+| [Chief Operations Officer](development/devops/372-chief-operations-officer_050f2246/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-operations-officer.md) | ⭐ 42 | `development` |
+| [Generic Prompt Management Api](development/devops/generic_prompt_management_api_92f3d1c9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_prompt_management_api.md) | 🔥 36.0k | `development` |
+| [Datadog](development/devops/datadog_a2c6b936/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/observability/datadog.md) | 🔥 36.0k | `development` |
 
 ### Development/Testing (42 skills)
 
@@ -2578,12 +2574,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sections](development/testing/086-_sections_f3a4cd34/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/_sections.md) | 🔥 11.4k | `development` |
 | [Sections](development/testing/086-_sections_77798351/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/_sections.md) | 🔥 11.4k | `development` |
 | [Sections](development/testing/086-_sections_2c62fa6e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/_sections.md) | 🔥 11.4k | `development` |
-| [Authority Matrix](development/testing/authority-matrix_60b9cdb2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/authority-matrix.md) | ⭐ 42 | `development` |
-| [Skill](development/testing/name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/testing/name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
-| [Test Worker.Template](development/testing/test-workertemplate_2f535f62/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/test-worker.template.md) | ⭐ 42 | `development` |
+| [Authority Matrix](development/testing/086-authority-matrix_60b9cdb2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/authority-matrix.md) | ⭐ 42 | `development` |
+| [Skill](development/testing/002-name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
+| [Rerank](development/testing/rerank_b0769579/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/rerank.md) | 🔥 36.0k | `development` |
 
-### Development/Tools (214 skills)
+### Development/Tools (213 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2798,9 +2794,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Virtual Mcp Server Explained](development/tools/333-virtual-mcp-server-explained_8511e4e0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server-explained.md) | ⭐ 448 | `development` |
 | [Architecture](development/tools/051-architecture_06ac770b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 27 | `development` |
 | [Env Reference](development/tools/339-env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
-| [Cto Advisor](development/tools/cto-advisor_241c28bc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto-advisor.md) | ⭐ 42 | `development` |
-| [Skill](development/tools/name-skill_4b53e35d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/tech-lead/SKILL.md) | ⭐ 42 | `development` |
-| [Ui Ux Audit Report](development/tools/ui-ux-audit-report_c54ccce2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ui-audit/UI-UX-AUDIT-REPORT.md) | ⭐ 42 | `development` |
+| [Cto Advisor](development/tools/333-cto-advisor_241c28bc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto-advisor.md) | ⭐ 42 | `development` |
+| [Skill](development/tools/002-name-skill_4b53e35d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/tech-lead/SKILL.md) | ⭐ 42 | `development` |
 
 ### Investment (93 skills)
 
@@ -2897,8 +2892,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Spec](investment/050-spec_ebf9e58e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/specs/hk-daily-data/spec.md) | ⭐ 23 | `investment` |
 | [Database Design](investment/034-database-design_cd7ad973/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 448 | `investment` |
 | [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_c9a82e78/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 448 | `investment` |
-| [Name Picker](investment/name-picker_acee9d61/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/name-picker.md) | ⭐ 42 | `investment` |
-| [Skill](investment/name-skill_13887d83/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/SKILL.md) | ⭐ 42 | `investment` |
+| [Name Picker](investment/052-name-picker_acee9d61/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/name-picker.md) | ⭐ 42 | `investment` |
+| [Skill](investment/021-name-skill_13887d83/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/SKILL.md) | ⭐ 42 | `investment` |
 
 ### Other (4 skills)
 
@@ -2959,12 +2954,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_3e6c66f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 91 | `productivity` |
 | [Skill](productivity/093-name-skill_6a04ed00/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 91 | `productivity` |
 | [Cost Optimization](productivity/173-cost-optimization_0b8bba82/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cost-optimization.md) | ⭐ 499 | `productivity` |
-| [Board Meeting](productivity/board-meeting_408cf61f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/board-meeting.md) | ⭐ 42 | `productivity` |
-| [Skill](productivity/name-skill_553f0bf8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/SKILL.md) | ⭐ 42 | `productivity` |
-| [Chief Architect](productivity/chief-architect_ec11836a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-architect.md) | ⭐ 42 | `productivity` |
-| [Critique Framework](productivity/critique_framework_ab6d1ff8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/references/critique_framework.md) | ⭐ 42 | `productivity` |
+| [Board Meeting](productivity/174-board-meeting_408cf61f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/board-meeting.md) | ⭐ 42 | `productivity` |
+| [Skill](productivity/093-name-skill_553f0bf8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/SKILL.md) | ⭐ 42 | `productivity` |
+| [Chief Architect](productivity/175-chief-architect_ec11836a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-architect.md) | ⭐ 42 | `productivity` |
+| [Critique Framework](productivity/176-critique_framework_ab6d1ff8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/references/critique_framework.md) | ⭐ 42 | `productivity` |
 
-### Research (84 skills)
+### Research (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3052,6 +3047,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_132d97bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/SKILL.md) | ⭐ 499 | `research` |
 | [Context Features](research/261-context-features_5d1bde1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/context-features.md) | ⭐ 499 | `research` |
 | [Step Transactions](research/262-step-transactions_bfb4e5e9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/step-transactions.md) | 🔥 11.4k | `research` |
+| [Index](research/index_29f88bad/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/search/index.md) | 🔥 36.0k | `research` |
 
 ## How Skills Are Organized
 
@@ -3103,5 +3099,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 19:09:53 UTC*
+*Last updated: 2026-02-18 22:08:05 UTC*
 *Automatically maintained by SkillFlow*

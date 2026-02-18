@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-18T19:09:52.897104",
+  "updated_at": "2026-02-18T22:08:04.856419",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -38935,6 +38935,118 @@
       "source_url": "https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-operations-officer.md",
       "display_name": "Chief Operations Officer",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9b716c6219ec833f50e3ded9c5f624b4361db47283e8cc851695b66676928953",
+      "source_path": "docs/my-website/docs/response_api.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/1220-response_api_9b716c62",
+      "category": "development",
+      "name": "response_api_9b716c62",
+      "indexed_at": "2026-02-18T22:08:01.999497",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-12T21:04:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md",
+      "display_name": "Response Api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "42a0cdf8c10d2bcea17edc53640ed1336cfc130996b1b3cfc65a05fce911e26a",
+      "source_path": "docs/my-website/docs/adding_provider/generic_guardrail_api.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2871-generic_guardrail_api_42a0cdf8",
+      "category": "development",
+      "name": "generic_guardrail_api_42a0cdf8",
+      "indexed_at": "2026-02-18T22:08:02.300919",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-16T16:34:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md",
+      "display_name": "Generic Guardrail Api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8a79029bcc1d429d675fb33a0996925b023bf75cefb1f28dd3123388c3d58933",
+      "source_path": "docs/my-website/docs/proxy/prompt_management.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2922-prompt_management_8a79029b",
+      "category": "development",
+      "name": "prompt_management_8a79029b",
+      "indexed_at": "2026-02-18T22:08:02.801786",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-17T21:10:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prompt_management.md",
+      "display_name": "Prompt Management",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "903353a99c698400e23c1ac3143a0d2d07f742de1f554bf13ae7487f0a6fb3c8",
+      "source_path": "docs/my-website/blog/claude_code_beta_headers/index.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/019-index_903353a9",
+      "category": "content-creation",
+      "name": "index_903353a9",
+      "indexed_at": "2026-02-18T22:08:03.156792",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-17T04:01:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md",
+      "display_name": "Index",
+      "tags": "[\"incident-report\", \"anthropic\", \"stability\"]"
+    },
+    {
+      "file_hash": "69587a4de38880077cc37f5a441f54988e4416fc4951628719b36fedc5886b3a",
+      "source_path": "docs/my-website/docs/providers/gemini.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/365-gemini_69587a4d",
+      "category": "content-creation",
+      "name": "gemini_69587a4d",
+      "indexed_at": "2026-02-18T22:08:03.498059",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-17T21:10:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/gemini.md",
+      "display_name": "Gemini",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "0a4cf12df6196f01174eb18c9a4bd7a48f6d521248269acac20fc3cd517e621b",
+      "source_path": "docs/my-website/docs/proxy/config_settings.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/366-config_settings_0a4cf12d",
+      "category": "content-creation",
+      "name": "config_settings_0a4cf12d",
+      "indexed_at": "2026-02-18T22:08:03.925267",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-18T16:01:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
+      "display_name": "Config Settings",
+      "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
+    },
+    {
+      "file_hash": "92f3d1c99d6762d5a6c26091522987f1e9069d8512d45e7374eb5568ab4aa332",
+      "source_path": "docs/my-website/docs/adding_provider/generic_prompt_management_api.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/369-generic_prompt_management_api_92f3d1c9",
+      "category": "development/devops",
+      "name": "generic_prompt_management_api_92f3d1c9",
+      "indexed_at": "2026-02-18T22:08:04.341390",
+      "repo_stars": 35958,
+      "repo_updated_at": "2025-12-12T19:55:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_prompt_management_api.md",
+      "display_name": "Generic Prompt Management Api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "29f88baddfd5f037e4c5dfef1758ef9372417a78ea0b80459c301f7b85519a9b",
+      "source_path": "docs/my-website/docs/search/index.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "research/264-index_29f88bad",
+      "category": "research",
+      "name": "index_29f88bad",
+      "indexed_at": "2026-02-18T22:08:04.856377",
+      "repo_stars": 35958,
+      "repo_updated_at": "2026-02-18T10:47:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/search/index.md",
+      "display_name": "Index",
+      "tags": "[\"research\"]"
     }
   ]
 }
