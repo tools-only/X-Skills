@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2612 AI-powered skills** organized into 15 categories.
+A curated collection of **2626 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,20 +9,20 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (47 skills)
-- **Automation/Workflow** (121 skills)
-- **Commercial** (98 skills)
-- **Communication** (68 skills)
-- **Content Creation** (195 skills)
-- **Daily Assistant** (182 skills)
-- **Data Analysis** (378 skills)
+- **Automation/Workflow** (120 skills)
+- **Commercial** (95 skills)
+- **Communication** (64 skills)
+- **Content Creation** (194 skills)
+- **Daily Assistant** (181 skills)
+- **Data Analysis** (380 skills)
 - **Development** (893 skills)
-- **Development/Devops** (168 skills)
-- **Development/Testing** (34 skills)
-- **Development/Tools** (209 skills)
-- **Investment** (85 skills)
+- **Development/Devops** (176 skills)
+- **Development/Testing** (33 skills)
+- **Development/Tools** (210 skills)
+- **Investment** (100 skills)
 - **Other** (4 skills)
 - **Productivity** (46 skills)
-- **Research** (84 skills)
+- **Research** (83 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -228,12 +228,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_5757d2f7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ResourceDataThink/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_3636259a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIdentity_SetEntityName/SKILL.md) | ⭐ 19 | `automation` |
 | [Debug Log Reference](automation/scripting/096-debug-log-reference_e57347b7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/docs/debug-log-reference.md) | ⭐ 67 | `automation` |
-| [Skill](automation/scripting/name-skill_23bd31f1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/SKILL.md) | ⭐ 499 | `automation` |
-| [Skill](automation/scripting/name-skill_d5400ed0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/SKILL.md) | ⭐ 499 | `automation` |
-| [D1 Specifics](automation/scripting/d1-specifics_07abb605/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/references/d1-specifics.md) | ⭐ 499 | `automation` |
-| [Recipes](automation/scripting/recipes_8e78c88c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/recipes.md) | ⭐ 499 | `automation` |
+| [Skill](automation/scripting/003-name-skill_23bd31f1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/SKILL.md) | ⭐ 499 | `automation` |
+| [Skill](automation/scripting/003-name-skill_d5400ed0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/SKILL.md) | ⭐ 499 | `automation` |
+| [D1 Specifics](automation/scripting/097-d1-specifics_07abb605/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/references/d1-specifics.md) | ⭐ 499 | `automation` |
+| [Recipes](automation/scripting/098-recipes_8e78c88c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/recipes.md) | ⭐ 499 | `automation` |
 
-### Automation/Workflow (121 skills)
+### Automation/Workflow (120 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -353,13 +353,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_6703a03b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 67 | `automation` |
 | [Cli Guide](automation/workflow/138-cli-guide_7630e4b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/cli-guide.md) | ⭐ 67 | `automation` |
 | [Skill](automation/workflow/002-name-skill_2ce1fa0e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-rollback/SKILL.md) | ⭐ 91 | `automation` |
-| [Skill](automation/workflow/name-skill_37dee5ad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/SKILL.md) | ⭐ 499 | `automation` |
-| [Skill](automation/workflow/name-skill_1212ff7f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/SKILL.md) | ⭐ 499 | `automation` |
-| [Dark Mode Palette](automation/workflow/dark-mode-palette_39b7f7bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/dark-mode-palette.md) | ⭐ 499 | `automation` |
-| [Skill](automation/workflow/name-skill_0624c82b/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/SKILL.md) | ⭐ 499 | `automation` |
-| [Skill](automation/workflow/name-skill_d0043359/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/SKILL.md) | ⭐ 499 | `automation` |
+| [Skill](automation/workflow/002-name-skill_37dee5ad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/SKILL.md) | ⭐ 499 | `automation` |
+| [Skill](automation/workflow/002-name-skill_1212ff7f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/SKILL.md) | ⭐ 499 | `automation` |
+| [Dark Mode Palette](automation/workflow/139-dark-mode-palette_39b7f7bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/dark-mode-palette.md) | ⭐ 499 | `automation` |
+| [Jwt Token Vending](automation/workflow/jwt-token-vending_26fd6275/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 448 | `automation` |
 
-### Commercial (98 skills)
+### Commercial (95 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -454,15 +453,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_91bbaa26/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 91 | `commercial` |
 | [Skill](commercial/210-name-skill_b1d3ed66/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/enable-semantic-search/SKILL.md) | ⭐ 91 | `commercial` |
 | [Skill](commercial/210-name-skill_7836d420/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/product-brief/SKILL.md) | ⭐ 91 | `commercial` |
-| [Knowledge Base](commercial/knowledge-base_5d55b4e7/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/knowledge-base.md) | ⭐ 899 | `commercial` |
-| [Industry Icons](commercial/industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
-| [Cta Patterns](commercial/cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
-| [Tool Examples](commercial/tool-examples_11472189/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/tool-examples.md) | ⭐ 499 | `commercial` |
-| [Workflow Examples](commercial/workflow-examples_ade5909e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/workflow-examples.md) | ⭐ 499 | `commercial` |
-| [Icon List](commercial/icon-list_3a3a7b47/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-chat-messages/references/icon-list.md) | ⭐ 499 | `commercial` |
-| [Schema Properties](commercial/schema-properties_c804ca07/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/seo-local-business/references/schema-properties.md) | ⭐ 499 | `commercial` |
+| [Knowledge Base](commercial/378-knowledge-base_5d55b4e7/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/knowledge-base.md) | ⭐ 899 | `commercial` |
+| [Industry Icons](commercial/379-industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
+| [Cta Patterns](commercial/380-cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
+| [Disclaimer](commercial/disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
 
-### Communication (68 skills)
+### Communication (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -525,17 +521,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_f463109a/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/meeting-prep/SKILL.md) | ⭐ 91 | `communication` |
 | [Skill](communication/127-name-skill_13759a9f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/screenpipe-setup/SKILL.md) | ⭐ 91 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_d5df3197/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
-| [Modules Catalog](communication/modules-catalog_4a0b2423/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/modules-catalog.md) | ⭐ 899 | `communication` |
-| [Skill](communication/name-skill_d50e48b9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/aussie-business-english/SKILL.md) | ⭐ 499 | `communication` |
-| [Patterns](communication/patterns_38306b75/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/patterns.md) | ⭐ 499 | `communication` |
-| [Component Catalogue](communication/component-catalogue_e0043acb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/component-catalogue.md) | ⭐ 499 | `communication` |
-| [Recipes](communication/recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
-| [Skill](communication/name-skill_92162caf/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/SKILL.md) | ⭐ 499 | `communication` |
-| [System Prompt Template](communication/system-prompt-template_b1e92c08/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/assets/system-prompt-template.md) | ⭐ 499 | `communication` |
-| [Endpoint Docs Template](communication/endpoint-docs-template_2ee6a288/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/references/endpoint-docs-template.md) | ⭐ 499 | `communication` |
-| [Svg Examples](communication/svg-examples_0052c267/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/svg-examples.md) | ⭐ 499 | `communication` |
+| [Modules Catalog](communication/260-modules-catalog_4a0b2423/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/modules-catalog.md) | ⭐ 899 | `communication` |
+| [Skill](communication/127-name-skill_d50e48b9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/aussie-business-english/SKILL.md) | ⭐ 499 | `communication` |
+| [Patterns](communication/084-patterns_38306b75/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/patterns.md) | ⭐ 499 | `communication` |
+| [Component Catalogue](communication/261-component-catalogue_e0043acb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/component-catalogue.md) | ⭐ 499 | `communication` |
+| [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
 
-### Content Creation (195 skills)
+### Content Creation (194 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -724,18 +716,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_a971f473/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/health-check/SKILL.md) | ⭐ 91 | `content creation` |
 | [Skill](content-creation/049-name-skill_140ef5a6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/journal/SKILL.md) | ⭐ 91 | `content creation` |
 | [Skill](content-creation/049-name-skill_f759f121/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/resume-builder/SKILL.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_ef653c98/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/dev-session/SKILL.md) | ⭐ 499 | `content creation` |
-| [Skill](content-creation/name-skill_61467cad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/SKILL.md) | ⭐ 499 | `content creation` |
-| [Skill](content-creation/name-skill_28f23bbb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/SKILL.md) | ⭐ 499 | `content creation` |
-| [Skill](content-creation/name-skill_1a58b193/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/SKILL.md) | ⭐ 499 | `content creation` |
-| [Compliance Guide](content-creation/compliance-guide_57ad846c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/compliance-guide.md) | ⭐ 499 | `content creation` |
-| [Release Workflow](content-creation/release-workflow_16b8c9a5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/github-release/references/release-workflow.md) | ⭐ 499 | `content creation` |
-| [Hono Patterns](content-creation/hono-patterns_50d4587f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/references/hono-patterns.md) | ⭐ 499 | `content creation` |
-| [Workflows](content-creation/workflows_a52616fc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/workflows.md) | ⭐ 499 | `content creation` |
-| [Card Patterns](content-creation/card-patterns_5bd74011/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/card-patterns.md) | ⭐ 499 | `content creation` |
-| [Skill](content-creation/name-skill_d5acfed6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/seo-local-business/SKILL.md) | ⭐ 499 | `content creation` |
+| [Skill](content-creation/049-name-skill_ef653c98/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/dev-session/SKILL.md) | ⭐ 499 | `content creation` |
+| [Skill](content-creation/049-name-skill_61467cad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/SKILL.md) | ⭐ 499 | `content creation` |
+| [Skill](content-creation/049-name-skill_28f23bbb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/SKILL.md) | ⭐ 499 | `content creation` |
+| [Skill](content-creation/049-name-skill_1a58b193/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/SKILL.md) | ⭐ 499 | `content creation` |
+| [Compliance Guide](content-creation/373-compliance-guide_57ad846c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/compliance-guide.md) | ⭐ 499 | `content creation` |
+| [Release Workflow](content-creation/374-release-workflow_16b8c9a5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/github-release/references/release-workflow.md) | ⭐ 499 | `content creation` |
+| [Hono Patterns](content-creation/375-hono-patterns_50d4587f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/references/hono-patterns.md) | ⭐ 499 | `content creation` |
+| [Workflows](content-creation/060-workflows_a52616fc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/workflows.md) | ⭐ 499 | `content creation` |
+| [Card Patterns](content-creation/376-card-patterns_5bd74011/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/card-patterns.md) | ⭐ 499 | `content creation` |
 
-### Daily Assistant (182 skills)
+### Daily Assistant (181 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -919,10 +910,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_af9988e2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-review/SKILL.md) | ⭐ 91 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_2477fd4c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/xray/SKILL.md) | ⭐ 91 | `daily assistant` |
 | [Tui Quick Reference](daily-assistant/288-tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
-| [Walkthrough Checklist](daily-assistant/walkthrough-checklist_d4d7589a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/walkthrough-checklist.md) | ⭐ 499 | `daily assistant` |
-| [Report Template](daily-assistant/report-template_1fa6c9ae/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/report-template.md) | ⭐ 499 | `daily assistant` |
+| [Walkthrough Checklist](daily-assistant/277-walkthrough-checklist_d4d7589a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/walkthrough-checklist.md) | ⭐ 499 | `daily assistant` |
 
-### Data Analysis (378 skills)
+### Data Analysis (380 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1287,23 +1277,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Syntax Reference](data-analysis/480-syntax-reference_f638bab2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) | ⭐ 67 | `data analysis` |
 | [Log Analysis Tools](data-analysis/481-log-analysis-tools_109c6f7c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/docs/log-analysis-tools.md) | ⭐ 67 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_741929bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/triage/SKILL.md) | ⭐ 91 | `data analysis` |
-| [Skill](data-analysis/name-skill_513701d0/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/SKILL.md) | ⭐ 899 | `data analysis` |
-| [Api Reference](data-analysis/api-reference_496ca6d2/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/api-reference.md) | ⭐ 899 | `data analysis` |
-| [Data Models](data-analysis/data-models_7520b07e/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/data-models.md) | ⭐ 899 | `data analysis` |
-| [Training Guide](data-analysis/training-guide_73f4524e/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/training-guide.md) | ⭐ 899 | `data analysis` |
-| [Skill](data-analysis/name-skill_4e418890/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-chat-messages/SKILL.md) | ⭐ 499 | `data analysis` |
-| [Column Patterns](data-analysis/column-patterns_2d89847b/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/references/column-patterns.md) | ⭐ 499 | `data analysis` |
-| [System Prompt Guide](data-analysis/system-prompt-guide_b7cb12ec/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/system-prompt-guide.md) | ⭐ 499 | `data analysis` |
-| [Extraction Methods](data-analysis/extraction-methods_b7934d74/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/extraction-methods.md) | ⭐ 499 | `data analysis` |
-| [Monogram Patterns](data-analysis/monogram-patterns_77865cd5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/monogram-patterns.md) | ⭐ 499 | `data analysis` |
-| [Safety Checklist](data-analysis/safety-checklist_b6614ad2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/github-release/references/safety-checklist.md) | ⭐ 499 | `data analysis` |
-| [Widget Reference](data-analysis/widget-reference_703019bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-chat-messages/references/widget-reference.md) | ⭐ 499 | `data analysis` |
-| [Style Presets](data-analysis/style-presets_3144d7f7/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/style-presets.md) | ⭐ 499 | `data analysis` |
-| [Output Patterns](data-analysis/output-patterns_946f772e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/output-patterns.md) | ⭐ 499 | `data analysis` |
-| [Architecture](data-analysis/architecture_da2f6f3e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/architecture.md) | ⭐ 499 | `data analysis` |
-| [Contrast Checking](data-analysis/contrast-checking_18090836/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/contrast-checking.md) | ⭐ 499 | `data analysis` |
-| [Shape Templates](data-analysis/shape-templates_94c0b3d6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/shape-templates.md) | ⭐ 499 | `data analysis` |
-| [Css Variables Template](data-analysis/css-variables-template_9e348ca9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-methodology/references/css-variables-template.md) | ⭐ 499 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_513701d0/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/SKILL.md) | ⭐ 899 | `data analysis` |
+| [Api Reference](data-analysis/404-api-reference_496ca6d2/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/api-reference.md) | ⭐ 899 | `data analysis` |
+| [Data Models](data-analysis/482-data-models_7520b07e/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/data-models.md) | ⭐ 899 | `data analysis` |
+| [Training Guide](data-analysis/483-training-guide_73f4524e/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/training-guide.md) | ⭐ 899 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_4e418890/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-chat-messages/SKILL.md) | ⭐ 499 | `data analysis` |
+| [Column Patterns](data-analysis/484-column-patterns_2d89847b/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/references/column-patterns.md) | ⭐ 499 | `data analysis` |
+| [System Prompt Guide](data-analysis/485-system-prompt-guide_b7cb12ec/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/system-prompt-guide.md) | ⭐ 499 | `data analysis` |
+| [Extraction Methods](data-analysis/486-extraction-methods_b7934d74/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/extraction-methods.md) | ⭐ 499 | `data analysis` |
+| [Monogram Patterns](data-analysis/487-monogram-patterns_77865cd5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/monogram-patterns.md) | ⭐ 499 | `data analysis` |
+| [Safety Checklist](data-analysis/488-safety-checklist_b6614ad2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/github-release/references/safety-checklist.md) | ⭐ 499 | `data analysis` |
+| [Widget Reference](data-analysis/489-widget-reference_703019bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-chat-messages/references/widget-reference.md) | ⭐ 499 | `data analysis` |
+| [Style Presets](data-analysis/490-style-presets_3144d7f7/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/style-presets.md) | ⭐ 499 | `data analysis` |
+| [Output Patterns](data-analysis/240-output-patterns_946f772e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/output-patterns.md) | ⭐ 499 | `data analysis` |
+| [Architecture](data-analysis/009-architecture_da2f6f3e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/architecture.md) | ⭐ 499 | `data analysis` |
+| [Spec](data-analysis/spec_50c2c107/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
+| [Tasks](data-analysis/tasks_f53afa83/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/tasks.md) | ⭐ 23 | `data analysis` |
+| [Spec](data-analysis/spec_abc0e01b/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
+| [Design](data-analysis/design_d6916725/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/design.md) | ⭐ 23 | `data analysis` |
+| [Proposal](data-analysis/proposal_362df0b0/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/proposal.md) | ⭐ 23 | `data analysis` |
 
 ### Development (893 skills)
 
@@ -2182,28 +2174,28 @@ ls ~/.claude/skills/patch-research-agent/
 | [Heavy](development/2905-heavy_ade26409/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_738a4ca0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/forge/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_9c6b0bce/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/setup/SKILL.md) | ⭐ 91 | `development` |
-| [Skill](development/name-skill_a28e9a79/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/gemini-peer-review/SKILL.md) | ⭐ 499 | `development` |
-| [Skill](development/name-skill_de5c5093/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/github-release/SKILL.md) | ⭐ 499 | `development` |
-| [Skill](development/name-skill_5b9cb481/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/SKILL.md) | ⭐ 499 | `development` |
-| [Skill](development/name-skill_77692fc2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-methodology/SKILL.md) | ⭐ 499 | `development` |
-| [Claude Code](development/claude-code_bf841927/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/references/claude-code.md) | ⭐ 499 | `development` |
-| [Common Issues](development/common-issues_7c0b51fb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/references/common-issues.md) | ⭐ 499 | `development` |
-| [Compaction Survival](development/compaction-survival_d2eeedfb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/dev-session/references/compaction-survival.md) | ⭐ 499 | `development` |
-| [Format Guide](development/format-guide_1cd3b78d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/format-guide.md) | ⭐ 499 | `development` |
-| [Quotas](development/quotas_6d20a654/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/quotas.md) | ⭐ 499 | `development` |
-| [Cloud Deployment](development/cloud-deployment_b82de5d1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/cloud-deployment.md) | ⭐ 499 | `development` |
-| [Production Patterns](development/production-patterns_f01f284f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/production-patterns.md) | ⭐ 499 | `development` |
-| [Dark Mode](development/dark-mode_33926266/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/dark-mode.md) | ⭐ 499 | `development` |
-| [Models](development/models_94341414/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/references/models.md) | ⭐ 499 | `development` |
-| [Shade Generation](development/shade-generation_2858925d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/shade-generation.md) | ⭐ 499 | `development` |
-| [Prompt Templates](development/prompt-templates_6350ed70/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/gemini-peer-review/references/prompt-templates.md) | ⭐ 499 | `development` |
-| [Scripts Template](development/scripts-template_19577a44/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/assets/SCRIPTS-TEMPLATE.md) | ⭐ 499 | `development` |
-| [Common Errors](development/common-errors_90e5314b/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/common-errors.md) | ⭐ 499 | `development` |
-| [Quality Criteria](development/quality-criteria_6f7e6f71/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/memory-manager/references/quality-criteria.md) | ⭐ 499 | `development` |
-| [Templates](development/templates_9ac0d8c5/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/memory-manager/references/templates.md) | ⭐ 499 | `development` |
-| [Migration Guide](development/migration-guide_4580c5c9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/migration-guide.md) | ⭐ 499 | `development` |
+| [Skill](development/1178-name-skill_a28e9a79/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/gemini-peer-review/SKILL.md) | ⭐ 499 | `development` |
+| [Skill](development/1178-name-skill_de5c5093/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/github-release/SKILL.md) | ⭐ 499 | `development` |
+| [Skill](development/1178-name-skill_5b9cb481/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/SKILL.md) | ⭐ 499 | `development` |
+| [Skill](development/1178-name-skill_77692fc2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-methodology/SKILL.md) | ⭐ 499 | `development` |
+| [Claude Code](development/2911-claude-code_bf841927/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/references/claude-code.md) | ⭐ 499 | `development` |
+| [Common Issues](development/2912-common-issues_7c0b51fb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/references/common-issues.md) | ⭐ 499 | `development` |
+| [Compaction Survival](development/2913-compaction-survival_d2eeedfb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/dev-session/references/compaction-survival.md) | ⭐ 499 | `development` |
+| [Format Guide](development/2914-format-guide_1cd3b78d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/favicon-gen/references/format-guide.md) | ⭐ 499 | `development` |
+| [Quotas](development/2915-quotas_6d20a654/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/quotas.md) | ⭐ 499 | `development` |
+| [Cloud Deployment](development/2916-cloud-deployment_b82de5d1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/cloud-deployment.md) | ⭐ 499 | `development` |
+| [Production Patterns](development/2917-production-patterns_f01f284f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/production-patterns.md) | ⭐ 499 | `development` |
+| [Dark Mode](development/2918-dark-mode_33926266/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/dark-mode.md) | ⭐ 499 | `development` |
+| [Tasks](development/tasks_85acf149/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/tasks.md) | ⭐ 23 | `development` |
+| [Auth](development/auth_90bdbf41/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/auth.md) | ⭐ 448 | `development` |
+| [Embeddings](development/embeddings_bfd33f42/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/embeddings.md) | ⭐ 448 | `development` |
+| [Index](development/index_666b7bc4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/index.md) | ⭐ 448 | `development` |
+| [Registry Auth Detailed](development/registry-auth-detailed_040998d5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-auth-detailed.md) | ⭐ 448 | `development` |
+| [Scopes](development/scopes_2d0b239c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/scopes.md) | ⭐ 448 | `development` |
+| [A2A Protocol Integration](development/a2a-protocol-integration_e590050a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/a2a-protocol-integration.md) | ⭐ 448 | `development` |
+| [Architectural Decision Reverse Proxy Vs Application Layer Gateway](development/architectural-decision-reverse-proxy-vs-application-layer-gateway_6daa93f1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/architectural-decision-reverse-proxy-vs-application-layer-gateway.md) | ⭐ 448 | `development` |
 
-### Development/Devops (168 skills)
+### Development/Devops (176 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2362,21 +2354,29 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_bbe977a3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-add-mcp/SKILL.md) | ⭐ 91 | `development` |
 | [Skill](development/devops/014-name-skill_3c6032b3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrate-mcp/SKILL.md) | ⭐ 91 | `development` |
 | [Roadmap](development/devops/097-roadmap_c398d237/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
-| [Claude](development/devops/claude_81506d2c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 499 | `development` |
-| [Skill](development/devops/name-skill_940df271/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/SKILL.md) | ⭐ 499 | `development` |
-| [Skill](development/devops/name-skill_c1dbdfc4/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/SKILL.md) | ⭐ 499 | `development` |
-| [Skill](development/devops/name-skill_7863e64f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/memory-manager/SKILL.md) | ⭐ 499 | `development` |
-| [Architecture](development/devops/architecture_d3fd27f3/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/references/architecture.md) | ⭐ 499 | `development` |
-| [Deployment](development/devops/deployment_d9b4f83e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/references/deployment.md) | ⭐ 499 | `development` |
-| [Cli Commands](development/devops/cli-commands_e572d521/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cli-commands.md) | ⭐ 499 | `development` |
-| [Cli Commands](development/devops/cli-commands_92e8cda1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/cli-commands.md) | ⭐ 499 | `development` |
-| [Customization Guide](development/devops/customization-guide_2b05ea92/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/references/customization-guide.md) | ⭐ 499 | `development` |
-| [Tech Stack](development/devops/tech-stack_69197def/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/references/tech-stack.md) | ⭐ 499 | `development` |
-| [Skill](development/devops/name-skill_a3314dc7/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/SKILL.md) | ⭐ 499 | `development` |
-| [Testing Guide](development/devops/testing-guide_23ff831a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/testing-guide.md) | ⭐ 499 | `development` |
-| [Project Types](development/devops/project-types_2aa9c632/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/memory-manager/references/project-types.md) | ⭐ 499 | `development` |
+| [Claude](development/devops/205-claude_81506d2c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 499 | `development` |
+| [Skill](development/devops/014-name-skill_940df271/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/SKILL.md) | ⭐ 499 | `development` |
+| [Skill](development/devops/014-name-skill_c1dbdfc4/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/SKILL.md) | ⭐ 499 | `development` |
+| [Skill](development/devops/014-name-skill_7863e64f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/memory-manager/SKILL.md) | ⭐ 499 | `development` |
+| [Architecture](development/devops/032-architecture_d3fd27f3/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/references/architecture.md) | ⭐ 499 | `development` |
+| [Deployment](development/devops/258-deployment_d9b4f83e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-worker-builder/references/deployment.md) | ⭐ 499 | `development` |
+| [Cli Commands](development/devops/319-cli-commands_e572d521/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cli-commands.md) | ⭐ 499 | `development` |
+| [Cli Commands](development/devops/319-cli-commands_92e8cda1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/cli-commands.md) | ⭐ 499 | `development` |
+| [Customization Guide](development/devops/370-customization-guide_2b05ea92/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/references/customization-guide.md) | ⭐ 499 | `development` |
+| [Tech Stack](development/devops/371-tech-stack_69197def/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/references/tech-stack.md) | ⭐ 499 | `development` |
+| [Faq](development/devops/faq_b12926e4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/FAQ.md) | ⭐ 448 | `development` |
+| [Features](development/devops/features_b7a5b6c7/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/FEATURES.md) | ⭐ 448 | `development` |
+| [Observability](development/devops/observability_b78f7cbb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md) | ⭐ 448 | `development` |
+| [A2A](development/devops/a2a_d091137d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/a2a.md) | ⭐ 448 | `development` |
+| [Complete Setup Guide](development/devops/complete-setup-guide_6c03ede3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/complete-setup-guide.md) | ⭐ 448 | `development` |
+| [Configuration](development/devops/configuration_a756d729/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/configuration.md) | ⭐ 448 | `development` |
+| [Installation](development/devops/installation_0d7707ed/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/installation.md) | ⭐ 448 | `development` |
+| [Macos Setup Guide](development/devops/macos-setup-guide_4684d640/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/macos-setup-guide.md) | ⭐ 448 | `development` |
+| [Database Abstraction Layer](development/devops/database-abstraction-layer_211cffb3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/database-abstraction-layer.md) | ⭐ 448 | `development` |
+| [Hybrid Search Architecture](development/devops/hybrid-search-architecture_71a1f9be/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 448 | `development` |
+| [Virtual Mcp Server](development/devops/virtual-mcp-server_03fa9d5c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server.md) | ⭐ 448 | `development` |
 
-### Development/Testing (34 skills)
+### Development/Testing (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2413,9 +2413,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/085-plugin-validator-tasks_1c020e4a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Agent Lifecycle Audit](development/testing/086-agent-lifecycle-audit_05fd0a7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/references/agent-lifecycle-audit.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/002-name-skill_5732a1d8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 32 | `development` |
-| [Session Template](development/testing/session-template_9034d897/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/dev-session/references/session-template.md) | ⭐ 499 | `development` |
 
-### Development/Tools (209 skills)
+### Development/Tools (210 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2621,15 +2620,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_10b17fbb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 67 | `development` |
 | [Skill](development/tools/002-name-skill_3af8e511/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/SKILL.md) | ⭐ 67 | `development` |
 | [Skill](development/tools/002-name-skill_1b1b73d0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/prompt-improver/SKILL.md) | ⭐ 91 | `development` |
-| [Agents Tools](development/tools/agents-tools_7d772865/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/agents-tools.md) | ⭐ 899 | `development` |
-| [Claude Ai](development/tools/claude-ai_106c9f75/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/references/claude-ai.md) | ⭐ 499 | `development` |
-| [Semantic Mapping](development/tools/semantic-mapping_181fab47/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/semantic-mapping.md) | ⭐ 499 | `development` |
-| [Api Reference](development/tools/api-reference_e8ca6b21/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/api-reference.md) | ⭐ 499 | `development` |
-| [Integration Patterns](development/tools/integration-patterns_4cc6b8a2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/integration-patterns.md) | ⭐ 499 | `development` |
-| [Common Gotchas](development/tools/common-gotchas_b42d35ce/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/common-gotchas.md) | ⭐ 499 | `development` |
-| [Browser Tools](development/tools/browser-tools_aa65c9f2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/browser-tools.md) | ⭐ 499 | `development` |
+| [Agents Tools](development/tools/329-agents-tools_7d772865/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/agents-tools.md) | ⭐ 899 | `development` |
+| [Claude Ai](development/tools/330-claude-ai_106c9f75/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/references/claude-ai.md) | ⭐ 499 | `development` |
+| [Semantic Mapping](development/tools/331-semantic-mapping_181fab47/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/semantic-mapping.md) | ⭐ 499 | `development` |
+| [Api Reference](development/tools/073-api-reference_e8ca6b21/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/api-reference.md) | ⭐ 499 | `development` |
+| [Integration Patterns](development/tools/332-integration-patterns_4cc6b8a2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/integration-patterns.md) | ⭐ 499 | `development` |
+| [Virtual Server Operations](development/tools/virtual-server-operations_c97d8057/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/virtual-server-operations.md) | ⭐ 448 | `development` |
+| [Virtual Mcp Server Explained](development/tools/virtual-mcp-server-explained_8511e4e0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server-explained.md) | ⭐ 448 | `development` |
+| [Tasks](development/tools/tasks_327570e0/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/tasks.md) | ⭐ 23 | `development` |
 
-### Investment (85 skills)
+### Investment (100 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2714,10 +2714,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_547ca791/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/.agents/skills/plugin-manager/SKILL.md) | ⭐ 23 | `investment` |
 | [Agentskills Specification](investment/048-agentskills-specification_8f83c6e4/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/docs/references/agentskills-specification.md) | ⭐ 10 | `investment` |
 | [Skill](investment/021-name-skill_2d27a181/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/reset/SKILL.md) | ⭐ 91 | `investment` |
-| [Skill](investment/name-skill_daa6e73e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/SKILL.md) | ⭐ 499 | `investment` |
-| [Hero Patterns](investment/hero-patterns_02bbda95/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/hero-patterns.md) | ⭐ 499 | `investment` |
-| [Trust Signals](investment/trust-signals_2e3e1184/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/trust-signals.md) | ⭐ 499 | `investment` |
-| [Testimonial Patterns](investment/testimonial-patterns_e053f840/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/testimonial-patterns.md) | ⭐ 499 | `investment` |
+| [Skill](investment/021-name-skill_daa6e73e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/SKILL.md) | ⭐ 499 | `investment` |
+| [Hero Patterns](investment/050-hero-patterns_02bbda95/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/hero-patterns.md) | ⭐ 499 | `investment` |
+| [Trust Signals](investment/051-trust-signals_2e3e1184/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/trust-signals.md) | ⭐ 499 | `investment` |
+| [Readme Hk Daily](investment/readme_hk_daily_5ddf8c7f/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/scripts/README_HK_DAILY.md) | ⭐ 23 | `investment` |
+| [Design](investment/design_f5d51142/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/design.md) | ⭐ 23 | `investment` |
+| [Spec](investment/spec_8e3cf9db/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/agent-debug-sidebar/spec.md) | ⭐ 23 | `investment` |
+| [Spec](investment/spec_0066a10e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-orchestration/spec.md) | ⭐ 23 | `investment` |
+| [Spec](investment/spec_ebf9e58e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/specs/hk-daily-data/spec.md) | ⭐ 23 | `investment` |
+| [Database Design](investment/database-design_cd7ad973/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 448 | `investment` |
+| [Storage Architecture Mongodb Documentdb](investment/storage-architecture-mongodb-documentdb_c9a82e78/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 448 | `investment` |
+| [Design](investment/design_69b696ff/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/design.md) | ⭐ 23 | `investment` |
+| [Proposal](investment/proposal_7e5075ad/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/proposal.md) | ⭐ 23 | `investment` |
+| [Tasks](investment/tasks_82e34f39/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/tasks.md) | ⭐ 23 | `investment` |
+| [Proposal](investment/proposal_2672bbec/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/proposal.md) | ⭐ 23 | `investment` |
+| [Design](investment/design_1350541f/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/design.md) | ⭐ 23 | `investment` |
+| [Proposal](investment/proposal_cf7ad561/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/proposal.md) | ⭐ 23 | `investment` |
+| [Spec](investment/spec_ce4fb617/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/specs/hk-smart-analysis/spec.md) | ⭐ 23 | `investment` |
+| [Spec](investment/spec_72974472/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/specs/agent-debug-sidebar/spec.md) | ⭐ 23 | `investment` |
+| [Spec](investment/spec_a64091ee/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-orchestrator-agent/specs/chat-orchestration/spec.md) | ⭐ 23 | `investment` |
 
 ### Other (4 skills)
 
@@ -2777,9 +2792,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_0200f02c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) | ⭐ 91 | `productivity` |
 | [Skill](productivity/093-name-skill_3e6c66f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 91 | `productivity` |
 | [Skill](productivity/093-name-skill_6a04ed00/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 91 | `productivity` |
-| [Cost Optimization](productivity/cost-optimization_0b8bba82/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cost-optimization.md) | ⭐ 499 | `productivity` |
+| [Cost Optimization](productivity/173-cost-optimization_0b8bba82/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cost-optimization.md) | ⭐ 499 | `productivity` |
 
-### Research (84 skills)
+### Research (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2864,9 +2879,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Step1 Customer Problems](research/263-step1-customer-problems_30570ace/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `research` |
 | [7 Agentfrontmatter Enum Models](research/257-7-agentfrontmatter-enum-models_2c94d022/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/7-agentfrontmatter-enum-models.md) | ⭐ 18 | `research` |
 | [Debugging Guide](research/260-debugging-guide_c5364ec9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/debugging-guide.md) | ⭐ 67 | `research` |
-| [Skill](research/name-skill_132d97bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/SKILL.md) | ⭐ 499 | `research` |
-| [Context Features](research/context-features_5d1bde1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/context-features.md) | ⭐ 499 | `research` |
-| [Preview Template](research/preview-template_f5f60323/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/preview-template.md) | ⭐ 499 | `research` |
+| [Skill](research/139-name-skill_132d97bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/SKILL.md) | ⭐ 499 | `research` |
+| [Context Features](research/261-context-features_5d1bde1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/context-features.md) | ⭐ 499 | `research` |
 
 ## How Skills Are Organized
 
@@ -2918,5 +2932,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 14:08:04 UTC*
+*Last updated: 2026-02-18 15:09:44 UTC*
 *Automatically maintained by SkillFlow*
