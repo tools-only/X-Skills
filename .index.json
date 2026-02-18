@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-18T22:08:04.856419",
+  "updated_at": "2026-02-18T23:09:23.033766",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -39047,6 +39047,34 @@
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/search/index.md",
       "display_name": "Index",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "4e7617013200f4a62346cb26d5139abedd146e2bd80289164b92c73b1476a225",
+      "source_path": "docs/my-website/docs/completion/message_sanitization.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/tools/331-message_sanitization_4e761701",
+      "category": "development/tools",
+      "name": "message_sanitization_4e761701",
+      "indexed_at": "2026-02-18T23:09:22.476873",
+      "repo_stars": 36126,
+      "repo_updated_at": "2026-02-18T07:37:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/message_sanitization.md",
+      "display_name": "Message Sanitization",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ba05d64f00c620e6c0bec268487ab791d5957e2b698f7ae437142e9168eb9c12",
+      "source_path": ".claude/skills/honcho-integration/SKILL.md",
+      "source_repo": "plastic-labs/honcho",
+      "local_path": "commercial/210-name-skill_ba05d64f",
+      "category": "commercial",
+      "name": "name-skill_ba05d64f",
+      "indexed_at": "2026-02-18T23:09:23.033681",
+      "repo_stars": 358,
+      "repo_updated_at": "2026-02-16T22:58:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"commercial\"]"
     }
   ]
 }

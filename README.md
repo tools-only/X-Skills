@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2793 AI-powered skills** organized into 15 categories.
+A curated collection of **2792 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (82 skills)
 - **Automation/Workflow** (145 skills)
-- **Commercial** (103 skills)
-- **Communication** (67 skills)
+- **Commercial** (104 skills)
+- **Communication** (66 skills)
 - **Content Creation** (204 skills)
 - **Daily Assistant** (196 skills)
 - **Data Analysis** (385 skills)
 - **Development** (943 skills)
-- **Development/Devops** (181 skills)
-- **Development/Testing** (42 skills)
-- **Development/Tools** (213 skills)
+- **Development/Devops** (180 skills)
+- **Development/Testing** (41 skills)
+- **Development/Tools** (214 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
 - **Productivity** (50 skills)
@@ -418,7 +418,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Implement](automation/workflow/141-implement_b34bae22/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/implement.md) | ⭐ 42 | `automation` |
 | [Setup](automation/workflow/018-setup_4579caf4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/setup.md) | ⭐ 42 | `automation` |
 
-### Commercial (103 skills)
+### Commercial (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -525,8 +525,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_cad96e65/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-integration/SKILL.md) | ⭐ 42 | `commercial` |
 | [Skill](commercial/210-name-skill_cd634626/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-execution-evaluator/SKILL.md) | ⭐ 42 | `commercial` |
 | [Chief Product Officer](commercial/384-chief-product-officer_2a501bbd/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-product-officer.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/name-skill_ba05d64f/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/SKILL.md) | ⭐ 358 | `commercial` |
 
-### Communication (67 skills)
+### Communication (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -596,7 +597,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 | [Cmo](communication/263-cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
-| [Index](communication/index_614d782c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_sonnet_4_6/index.md) | 🔥 36.0k | `anthropic` `claude` `sonnet 4.6` |
 
 ### Content Creation (204 skills)
 
@@ -760,8 +760,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Methods](content-creation/376-api_methods_d06893ba/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_methods.md) | 🔥 20.3k | `content creation` |
 | [Api Types](content-creation/377-api_types_b0303d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_types.md) | 🔥 20.3k | `content creation` |
 | [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
-| [Index](content-creation/index_903353a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
-| [Config Settings](content-creation/config_settings_0a4cf12d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Index](content-creation/019-index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
+| [Config Settings](content-creation/379-config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
 | [Agents](content-creation/185-agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 | [Graph](content-creation/078-graph_5f016311/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 167 | `content creation` |
@@ -804,7 +804,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task Worker](content-creation/380-task-worker_8f086799/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/task-worker.md) | ⭐ 42 | `content creation` |
 | [Chief Experience Officer](content-creation/381-chief-experience-officer_26ac3f85/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-experience-officer.md) | ⭐ 42 | `content creation` |
 | [Index](content-creation/019-index_903353a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
-| [Gemini](content-creation/gemini_69587a4d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/gemini.md) | 🔥 36.0k | `content creation` |
+| [Gemini](content-creation/365-gemini_69587a4d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/gemini.md) | 🔥 36.0k | `content creation` |
 | [Config Settings](content-creation/366-config_settings_0a4cf12d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Daily Assistant (196 skills)
@@ -2341,12 +2341,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Technology Evaluation Framework](development/1067-technology_evaluation_framework_58273842/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/technology_evaluation_framework.md) | ⭐ 42 | `development` |
 | [Skill](development/1178-name-skill_f7f32eed/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/knowledge-manager/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/1178-name-skill_1880e5f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/retrospective-agent/SKILL.md) | ⭐ 42 | `development` |
-| [Response Api](development/response_api_9b716c62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 36.0k | `development` |
-| [Generic Guardrail Api](development/generic_guardrail_api_42a0cdf8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md) | 🔥 36.0k | `development` |
-| [Prompt Management](development/prompt_management_8a79029b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prompt_management.md) | 🔥 36.0k | `development` |
-| [Rerank](development/rerank_4b2de441/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/watsonx/rerank.md) | 🔥 36.0k | `development` |
+| [Response Api](development/1220-response_api_9b716c62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 36.0k | `development` |
+| [Generic Guardrail Api](development/2871-generic_guardrail_api_42a0cdf8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md) | 🔥 36.0k | `development` |
+| [Prompt Management](development/2922-prompt_management_8a79029b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prompt_management.md) | 🔥 36.0k | `development` |
+| [Bot Frameworks](development/bot-frameworks_ae45e42a/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/references/bot-frameworks.md) | ⭐ 358 | `development` |
 
-### Development/Devops (181 skills)
+### Development/Devops (180 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2529,10 +2529,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Roadmap](development/devops/097-roadmap_a2a1ef49/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Skill](development/devops/014-name-skill_397e2920/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-driven-development/SKILL.md) | ⭐ 42 | `development` |
 | [Chief Operations Officer](development/devops/372-chief-operations-officer_050f2246/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-operations-officer.md) | ⭐ 42 | `development` |
-| [Generic Prompt Management Api](development/devops/generic_prompt_management_api_92f3d1c9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_prompt_management_api.md) | 🔥 36.0k | `development` |
-| [Datadog](development/devops/datadog_a2c6b936/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/observability/datadog.md) | 🔥 36.0k | `development` |
+| [Generic Prompt Management Api](development/devops/369-generic_prompt_management_api_92f3d1c9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_prompt_management_api.md) | 🔥 36.0k | `development` |
 
-### Development/Testing (42 skills)
+### Development/Testing (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2577,9 +2576,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authority Matrix](development/testing/086-authority-matrix_60b9cdb2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/authority-matrix.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
-| [Rerank](development/testing/rerank_b0769579/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/rerank.md) | 🔥 36.0k | `development` |
 
-### Development/Tools (213 skills)
+### Development/Tools (214 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2796,6 +2794,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Env Reference](development/tools/339-env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
 | [Cto Advisor](development/tools/333-cto-advisor_241c28bc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto-advisor.md) | ⭐ 42 | `development` |
 | [Skill](development/tools/002-name-skill_4b53e35d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/tech-lead/SKILL.md) | ⭐ 42 | `development` |
+| [Message Sanitization](development/tools/message_sanitization_4e761701/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/message_sanitization.md) | 🔥 36.1k | `development` |
 
 ### Investment (93 skills)
 
@@ -3047,7 +3046,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_132d97bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/SKILL.md) | ⭐ 499 | `research` |
 | [Context Features](research/261-context-features_5d1bde1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/context-features.md) | ⭐ 499 | `research` |
 | [Step Transactions](research/262-step-transactions_bfb4e5e9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/step-transactions.md) | 🔥 11.4k | `research` |
-| [Index](research/index_29f88bad/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/search/index.md) | 🔥 36.0k | `research` |
+| [Index](research/264-index_29f88bad/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/search/index.md) | 🔥 36.0k | `research` |
 
 ## How Skills Are Organized
 
@@ -3099,5 +3098,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 22:08:05 UTC*
+*Last updated: 2026-02-18 23:09:23 UTC*
 *Automatically maintained by SkillFlow*
