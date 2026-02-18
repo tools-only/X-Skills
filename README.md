@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2344 AI-powered skills** organized into 15 categories.
+A curated collection of **2442 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (40 skills)
-- **Automation/Workflow** (110 skills)
+- **Automation/Scripting** (52 skills)
+- **Automation/Workflow** (113 skills)
 - **Commercial** (84 skills)
 - **Communication** (54 skills)
-- **Content Creation** (167 skills)
-- **Daily Assistant** (155 skills)
-- **Data Analysis** (349 skills)
-- **Development** (829 skills)
-- **Development/Devops** (146 skills)
-- **Development/Testing** (27 skills)
-- **Development/Tools** (180 skills)
+- **Content Creation** (176 skills)
+- **Daily Assistant** (161 skills)
+- **Data Analysis** (359 skills)
+- **Development** (864 skills)
+- **Development/Devops** (147 skills)
+- **Development/Testing** (33 skills)
+- **Development/Tools** (195 skills)
 - **Investment** (80 skills)
 - **Other** (4 skills)
 - **Productivity** (40 skills)
-- **Research** (79 skills)
+- **Research** (80 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (40 skills)
+### Automation/Scripting (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -225,8 +225,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7d90042c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_4fbcc01c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_924e9c17/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_5757d2f7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ResourceDataThink/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_3636259a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIdentity_SetEntityName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_2b4a402c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSBotManager_AddBot-AND-g_pCSBotManager-AND-g_pNavMesh/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_a07fafce/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules__sm_mapGcBanInformation/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_acfe026f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_CheckJumpButton/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_84d8812b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_FullWalkMove-AND-CCSPlayer_MovementServices_CheckVelocity-AND-CCSPlayer_MovementServices_WaterMove/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_f2822a21/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGamePlayerEquip_InputTriggerForAllPlayers-AND-CGamePlayerEquip_InputTriggerForActivatedPlayer/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_5ef01f61/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNavMesh_GetNearestNavArea/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_228dcf73/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FindUseEntity/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_bac75564/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-GameSystem_Think_CheckSteamBan/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_fb0bdd82/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-TraceFunc-AND-g_GameTraceManager/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_e5e764a0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-TraceShape/SKILL.md) | ⭐ 19 | `automation` |
 
-### Automation/Workflow (110 skills)
+### Automation/Workflow (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -340,6 +352,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_5f59f25a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/openclaw/SKILL.md) | ⭐ 10 | `automation` |
 | [Customer Problems](automation/workflow/135-customer-problems_d092266a/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/spec/customer-problems.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_5a951ea1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 74 | `automation` |
+| [Backlog](automation/workflow/063-backlog_8d64e13f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/064-description-skill_4b8b39e3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/add-doc-updater/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill Lifecycle Audit](automation/workflow/135-skill-lifecycle-audit_a555057e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-lifecycle/references/skill-lifecycle-audit.md) | ⭐ 18 | `automation` |
 
 ### Commercial (84 skills)
 
@@ -428,7 +443,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents As Tools](commercial/237-agents-as-tools_7457d675/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/agents-as-tools.md) | ⭐ 167 | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_a6818a73/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 76 | `commercial` |
 | [Skill](commercial/210-name-skill_92e6bb5e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/SKILL.md) | ⭐ 74 | `commercial` |
-| [Skill](commercial/name-skill_e7572a95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-security-audit/SKILL.md) | 🔥 10.4k | `commercial` |
+| [Skill](commercial/210-name-skill_e7572a95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-security-audit/SKILL.md) | 🔥 10.4k | `commercial` |
 
 ### Communication (54 skills)
 
@@ -489,7 +504,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent](communication/251-agent_242b093b/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md) | ⭐ 10 | `communication` |
 | [Extensions](communication/256-extensions_32227a86/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/contribute/contributing/extensions.md) | ⭐ 167 | `communication` |
 
-### Content Creation (167 skills)
+### Content Creation (176 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -660,8 +675,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_03c26f41/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 74 | `content creation` |
 | [Skill](content-creation/049-name-skill_ad9076fe/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-observability/SKILL.md) | ⭐ 74 | `content creation` |
 | [Hooks Frontmatter Schema](content-creation/353-hooks-frontmatter-schema_12cd2ffd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hooks-frontmatter-schema.md) | ⭐ 74 | `content creation` |
+| [Refactor Executor](content-creation/353-refactor-executor_62570369/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/refactor-executor.md) | ⭐ 18 | `content creation` |
+| [Python Cli Architect](content-creation/354-python-cli-architect_7c048367/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/python-cli-architect.md) | ⭐ 18 | `content creation` |
+| [File Summarizer](content-creation/355-file-summarizer_80616872/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/summarizer/agents/file-summarizer.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/356-description-skill_9a087e3d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/claude-skills-overview-2026/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/356-description-skill_2a8ceef1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/write-frontmatter-description/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/356-description-skill_7ceedde7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/summarizer/skills/summarizer/SKILL.md) | ⭐ 18 | `content creation` |
+| [Synthesis Improvements From Research](content-creation/357-synthesis-improvements-from-research_100c80f9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/references/synthesis-improvements-from-research.md) | ⭐ 18 | `content creation` |
+| [Otel Attribute Mapping](content-creation/otel_attribute_mapping_da04f0d2/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/OTEL_ATTRIBUTE_MAPPING.md) | ⭐ 2.2k | `content creation` |
+| [Skill](content-creation/name-skill_aacff1fe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-DispatchParticleEffect/SKILL.md) | ⭐ 19 | `content creation` |
 
-### Daily Assistant (155 skills)
+### Daily Assistant (161 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -820,8 +844,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Requirements.Agent](daily-assistant/236-requirementsagent_aaec1a5e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/requirements.agent.md) | ⭐ 76 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_7ecdb213/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/SKILL.md) | ⭐ 74 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_f9782aa8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/SKILL.md) | ⭐ 74 | `daily assistant` |
+| [Refactor Plan](daily-assistant/115-refactor-plan_25f09ed4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/REFACTOR-PLAN.md) | ⭐ 18 | `daily assistant` |
+| [4 Hookconfig Pydantic Models](daily-assistant/266-4-hookconfig-pydantic-models_423f4153/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/4-hookconfig-pydantic-models.md) | ⭐ 18 | `daily assistant` |
+| [5 Mcpconfig Pydantic Models](daily-assistant/267-5-mcpconfig-pydantic-models_51b1d859/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/5-mcpconfig-pydantic-models.md) | ⭐ 18 | `daily assistant` |
+| [Refactor Planner](daily-assistant/118-refactor-planner_78aabb16/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/refactor-planner.md) | ⭐ 18 | `daily assistant` |
+| [Skill](daily-assistant/116-description-skill_69f1d260/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/assessor/SKILL.md) | ⭐ 18 | `daily assistant` |
+| [Skill](daily-assistant/116-description-skill_180ec289/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/implement-refactor/SKILL.md) | ⭐ 18 | `daily assistant` |
 
-### Data Analysis (349 skills)
+### Data Analysis (359 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1173,9 +1203,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Steering](data-analysis/257-steering_ca6f523c/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/experimental/steering.md) | ⭐ 167 | `data analysis` |
 | [Syntax Reference](data-analysis/480-syntax-reference_1877b789/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) | ⭐ 76 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_434af7d4/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/security-awareness/skills/security-awareness/SKILL.md) | ⭐ 125 | `data analysis` |
-| [Skill](data-analysis/name-skill_647f2590/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/react-flow-architect/SKILL.md) | 🔥 10.4k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_647f2590/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/react-flow-architect/SKILL.md) | 🔥 10.4k | `data analysis` |
+| [Claude](data-analysis/036-claude_819a924a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [12 Descriptionvalidator File Type Awareness](data-analysis/481-12-descriptionvalidator-file-type-awareness_5a13c529/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/12-descriptionvalidator-file-type-awareness.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/294-description-skill_20d35095/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Validation Rules](data-analysis/477-validation-rules_e5821a54/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/references/validation-rules.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/294-description-skill_e3a3925d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-lifecycle/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/294-description-skill_7137a36f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/plugin-creator/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/294-description-skill_bc746494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/summarizer/skills/file-summarization/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Workflow Diagram](data-analysis/296-workflow-diagram_fff7fd87/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/plugin-creator/references/workflow-diagram.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_078ec48f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/culture-index/skills/interpreting-culture-index/SKILL.md) | ⭐ 2.7k | `data analysis` |
+| [Ida Skill Preprocessor](data-analysis/ida_skill_preprocessor_23e6952d/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.serena/memories/ida_skill_preprocessor.md) | ⭐ 19 | `data analysis` |
 
-### Development (829 skills)
+### Development (864 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1920,7 +1960,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dashboard Best Practices](development/2939-dashboard_best_practices_b9215f45/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/dashboard_best_practices.md) | ⭐ 1.8k | `team` `service_type` `environment` |
 | [Debt Classification Taxonomy](development/2940-debt-classification-taxonomy_00e1313c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/debt-classification-taxonomy.md) | ⭐ 1.8k | `development` |
 | [Prioritization Framework](development/2941-prioritization-framework_03e47d8e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/prioritization-framework.md) | ⭐ 1.8k | `development` |
-| [Catalog](development/catalog_29c13a64/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 10.4k | `development` |
+| [Catalog](development/126-catalog_43db3465/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 9.8k | `development` |
 | [040 Flexible Admin Ui Sections](development/2864-040-flexible-admin-ui-sections_753884b1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/040-flexible-admin-ui-sections.md) | ⭐ 3.3k | `development` |
 | [Mcp Tools Availability Over Yaml Config E94E51D8.Plan](development/2866-mcp_tools_availability_over_yaml_config_e94e51d8plan_40928d3e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/mcp_tools_availability_over_yaml_config_e94e51d8.plan.md) | ⭐ 13 | `development` |
 | [Context Refinement](development/1665-context-refinement_8f29f282/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/context-refinement.md) | ⭐ 17 | `development` |
@@ -1953,7 +1993,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_808e57d7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_PassesTriggerFilters/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_e7833f84/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_928a37f9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FireBullets-AND-TraceAttack-AND-CTakeDamageInfo/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_3cb3c055/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_76f3a55f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Fix](development/2865-fix_2ad2d4da/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 10 | `development` |
 | [Dicomweb Guide](development/305-dicomweb_guide_ae8c9e6a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/imaging-data-commons/references/dicomweb_guide.md) | 🔥 8.8k | `development` |
 | [Skill](development/2935-tier-skill_405b2573/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/agent-designer/SKILL.md) | ⭐ 1.8k | `development` |
@@ -1961,8 +2001,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/2935-tier-skill_c88e4d94/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/release-manager/SKILL.md) | ⭐ 1.8k | `development` |
 | [Tool Design Best Practices](development/2948-tool_design_best_practices_ff2aac14/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/agent-designer/references/tool_design_best_practices.md) | ⭐ 1.8k | `development` |
 | [Database Selection Decision Tree](development/2949-database_selection_decision_tree_18d1a914/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/database-designer/references/database_selection_decision_tree.md) | ⭐ 1.8k | `development` |
-| [Skill](development/1178-name-skill_c9f31d9e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_8bb04df5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-structoffset-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_a24b0b7b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_9339b837/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-structoffset-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Logging](development/1620-logging_b54e37ef/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/logging.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Skill](development/1178-name-skill_29873fb5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-calendar/SKILL.md) | ⭐ 33 | `development` |
 | [Fmp Api Documentation](development/2868-fmp_api_documentation_10943ea7/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/references/fmp_api_documentation.md) | ⭐ 33 | `development` |
@@ -2005,11 +2045,46 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8a1a18e2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-data/SKILL.md) | ⭐ 74 | `development` |
 | [Skill](development/1178-name-skill_c69a30ef/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-soql/SKILL.md) | ⭐ 74 | `development` |
 | [Catalog](development/126-catalog_29c13a64/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 10.4k | `development` |
-| [Faq](development/faq_256da4b2/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md) | 🔥 10.4k | `development` |
-| [Getting Started](development/getting_started_8bfc9df5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 10.4k | `development` |
-| [Skill](development/name-skill_70271b37/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-expert/SKILL.md) | 🔥 10.4k | `development` |
+| [Faq](development/360-faq_256da4b2/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md) | 🔥 10.4k | `development` |
+| [Getting Started](development/423-getting_started_8bfc9df5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md) | 🔥 10.4k | `development` |
+| [Skill](development/1178-name-skill_70271b37/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-expert/SKILL.md) | 🔥 10.4k | `development` |
+| [Architect Plugin Linter](development/2876-architect-plugin-linter_9e5dac4d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-plugin-linter.md) | ⭐ 18 | `development` |
+| [Feature Context Plugin Linter](development/2877-feature-context-plugin-linter_0c4d0710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/feature-context-plugin-linter.md) | ⭐ 18 | `development` |
+| [Research Curator](development/2878-research-curator_274509a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/research-curator.md) | ⭐ 18 | `development` |
+| [Task File Format](development/2797-task_file_format_d7eeb784/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/TASK_FILE_FORMAT.md) | ⭐ 18 | `development` |
+| [Refactor Design Holistic Linting](development/2798-refactor-design-holistic-linting_b6196204/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/refactor-design-holistic-linting.md) | ⭐ 18 | `development` |
+| [Tasks Refactor Holistic Linting](development/2799-tasks-refactor-holistic-linting_a0e14708/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/tasks-refactor-holistic-linting.md) | ⭐ 18 | `development` |
+| [10 Lspconfigvalidator Implementation](development/2879-10-lspconfigvalidator-implementation_5994c741/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/10-lspconfigvalidator-implementation.md) | ⭐ 18 | `development` |
+| [Claude](development/140-claude_9b907af2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/CLAUDE.md) | ⭐ 18 | `development` |
+| [Plugin Validator Architecture](development/2801-plugin-validator-architecture_66f3a35b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-architecture.md) | ⭐ 18 | `development` |
+| [Claude](development/140-claude_5ba60568/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/scripts/CLAUDE.md) | ⭐ 18 | `development` |
+| [Readme Auto Sync](development/1700-readme-auto-sync_e5d381ea/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/scripts/README-auto-sync.md) | ⭐ 18 | `development` |
+| [One Task Per File Implementation](development/2802-one-task-per-file-implementation_0fca58f8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/docs/ONE-TASK-PER-FILE-IMPLEMENTATION.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_0bf827f7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_569b8c59/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_3ef8115d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-creator/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_1e0f17a9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-packaging/SKILL.md) | ⭐ 18 | `development` |
+| [Integration](development/476-integration_633fb45f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agentskills/references/integration.md) | ⭐ 18 | `development` |
+| [Reference Document Architecture](development/2880-reference-document-architecture_83d11cbb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/planning/reference-document-architecture.md) | ⭐ 18 | `development` |
+| [Tool Library Registry](development/2881-tool-library-registry_c3482643/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/tool-library-registry.md) | ⭐ 18 | `development` |
+| [User Project Conventions](development/2882-user-project-conventions_8568a1a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/user-project-conventions.md) | ⭐ 18 | `development` |
+| [Codex Invocation](development/2829-codex-invocation_4b382659/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/codex-invocation.md) | ⭐ 2.7k | `development` |
+| [Skill](development/name-skill_ad9e5556/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSBotManager_AddBot_BotNavIgnore/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_3f6ac772/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_CheckJumpButton_WaterPatch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_a7d684fa/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_FullWalkMove_SpeedClamp/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_0792d730/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNetworkGameServer_GetFreeClient/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_bd7cd293/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPhysBox_Use_PatchCaller/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_4fe5a845/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-patch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_a24b0b7b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_62d23ffa/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-vfuncoffset/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_494fdbff/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-patch-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_9339b837/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-structoffset-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_76f3a55f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_469fbe9a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/prompt-engineering/SKILL.md) | ⭐ 32 | `development` |
+| [Skill](development/name-skill_e432bb3a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseFilter_InputTestActivator/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_5ac14bbc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNetworkGameServer-AND-CServerSideClientBase_ClientPrintf/SKILL.md) | ⭐ 19 | `development` |
 
-### Development/Devops (146 skills)
+### Development/Devops (147 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2159,8 +2234,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_17224b60/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/tunnel-doctor/SKILL.md) | ⭐ 586 | `development` |
 | [Skill](development/devops/014-name-skill_9f0e81d9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/SKILL.md) | ⭐ 74 | `development` |
 | [Skill](development/devops/014-name-skill_f320a52c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/SKILL.md) | ⭐ 74 | `development` |
+| [Skill](development/devops/085-description-skill_cb972ccd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/gitlab-skill/skills/gitlab-skill/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Testing (27 skills)
+### Development/Testing (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2191,8 +2267,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/083-description-skill_7df26737/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/task-decomposition/SKILL.md) | ⭐ 17 | `development` |
 | [Python Development Orchestration](development/testing/084-python-development-orchestration_219346a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/python-development-orchestration.md) | ⭐ 17 | `development` |
 | [Ui Wireframe Diagrams](development/testing/043-ui-wireframe-diagrams_d9abfcf7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/ui-wireframe-diagrams.md) | ⭐ 80 | `development` |
+| [Tasks 2 Validator Ux Coverage](development/testing/082-tasks-2-validator-ux-coverage_437002b0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-2-validator-ux-coverage.md) | ⭐ 18 | `development` |
+| [1 Filetype Enum Extension](development/testing/083-1-filetype-enum-extension_d6d7f8de/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/1-filetype-enum-extension.md) | ⭐ 18 | `development` |
+| [Plugin Validator Qa Report](development/testing/084-plugin-validator-qa-report_4dbfa1f2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-qa-report.md) | ⭐ 18 | `development` |
+| [Plugin Validator Tasks](development/testing/085-plugin-validator-tasks_1c020e4a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
+| [Agent Lifecycle Audit](development/testing/086-agent-lifecycle-audit_05fd0a7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/references/agent-lifecycle-audit.md) | ⭐ 18 | `development` |
+| [Skill](development/testing/name-skill_5732a1d8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 32 | `development` |
 
-### Development/Tools (180 skills)
+### Development/Tools (195 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2376,6 +2458,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_e740cee5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/SKILL.md) | ⭐ 74 | `development` |
 | [Skill](development/tools/002-name-skill_03371df8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/SKILL.md) | ⭐ 74 | `development` |
 | [Skill](development/tools/002-name-skill_89232005/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-permissions/SKILL.md) | ⭐ 74 | `development` |
+| [Completeness Report Agentskills](development/tools/332-completeness-report-agentskills_49cdf3a3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/audits/completeness-report-agentskills.md) | ⭐ 18 | `development` |
+| [Refactor Design Python3 Development](development/tools/080-refactor-design-python3-development_8c61038e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/refactor-design-python3-development.md) | ⭐ 18 | `development` |
+| [Tasks Refactor Python3 Development](development/tools/081-tasks-refactor-python3-development_564365c1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/tasks-refactor-python3-development.md) | ⭐ 18 | `development` |
+| [Plugin Validator Architecture](development/tools/333-plugin-validator-architecture_53dc0683/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/plugin-validator-architecture.md) | ⭐ 18 | `development` |
+| [Architecture](development/tools/051-architecture_1410a80d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/references/ARCHITECTURE.md) | ⭐ 18 | `development` |
+| [Error Codes](development/tools/334-error_codes_e9cee051/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/references/ERROR_CODES.md) | ⭐ 18 | `development` |
+| [Usage](development/tools/335-usage_d06bfef9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/references/USAGE.md) | ⭐ 18 | `development` |
+| [Python Cli Design Spec](development/tools/088-python-cli-design-spec_9f3c245b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/python-cli-design-spec.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/086-description-skill_a03a1687/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agentskills/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/086-description-skill_cf3f39af/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/SKILL.md) | ⭐ 18 | `development` |
+| [Agent Schema](development/tools/092-agent-schema_7f6dff67/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-creator/references/agent-schema.md) | ⭐ 18 | `development` |
+| [Best Practices](development/tools/336-best-practices_2fb9766d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agentskills/references/best-practices.md) | ⭐ 18 | `development` |
+| [Specification](development/tools/337-specification_42a4d768/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agentskills/references/specification.md) | ⭐ 18 | `development` |
+| [Human Out Of Loop Prerequisites](development/tools/338-human-out-of-loop-prerequisites_692b1763/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/human-out-of-loop-prerequisites.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_622d1faf/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.7k | `development` |
 
 ### Investment (80 skills)
 
@@ -2516,7 +2613,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents Definitions.Instructions](productivity/173-agents-definitionsinstructions_f57bb24c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agents-definitions.instructions.md) | ⭐ 80 | `productivity` |
 | [Feature Proposals](productivity/173-feature-proposals_d08e3908/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/contribute/contributing/feature-proposals.md) | ⭐ 167 | `productivity` |
 
-### Research (79 skills)
+### Research (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2599,6 +2696,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Embedding Model Benchmark](research/262-embedding_model_benchmark_033e3c0b/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/rag-architect/references/embedding_model_benchmark.md) | ⭐ 1.8k | `research` |
 | [Skill](research/139-name-skill_6320a441/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/parallel/SKILL.md) | ⭐ 10 | `research` |
 | [Step1 Customer Problems](research/263-step1-customer-problems_30570ace/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `research` |
+| [7 Agentfrontmatter Enum Models](research/257-7-agentfrontmatter-enum-models_2c94d022/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-1-plugin-linter/7-agentfrontmatter-enum-models.md) | ⭐ 18 | `research` |
 
 ## How Skills Are Organized
 
@@ -2650,5 +2748,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 04:04:29 UTC*
+*Last updated: 2026-02-18 08:01:42 UTC*
 *Automatically maintained by SkillFlow*
