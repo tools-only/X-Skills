@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2626 AI-powered skills** organized into 15 categories.
+A curated collection of **2710 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,18 +8,18 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (47 skills)
+- **Automation/Scripting** (111 skills)
 - **Automation/Workflow** (120 skills)
 - **Commercial** (95 skills)
 - **Communication** (64 skills)
-- **Content Creation** (194 skills)
+- **Content Creation** (195 skills)
 - **Daily Assistant** (181 skills)
-- **Data Analysis** (380 skills)
-- **Development** (893 skills)
+- **Data Analysis** (378 skills)
+- **Development** (920 skills)
 - **Development/Devops** (176 skills)
-- **Development/Testing** (33 skills)
-- **Development/Tools** (210 skills)
-- **Investment** (100 skills)
+- **Development/Testing** (34 skills)
+- **Development/Tools** (212 skills)
+- **Investment** (91 skills)
 - **Other** (4 skills)
 - **Productivity** (46 skills)
 - **Research** (83 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (47 skills)
+### Automation/Scripting (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -215,23 +215,87 @@ ls ~/.claude/skills/patch-research-agent/
 | [Campaign Patterns](automation/scripting/096-campaign_patterns_6894dedf/) | [HeshamFS/materials-simulation-skills](https://raw.githubusercontent.com/HeshamFS/materials-simulation-skills/main/skills/simulation-workflow/simulation-orchestrator/references/campaign_patterns.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_f351c451/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/crates/ov_cli/SKILL.md) | ⭐ 1.5k | `automation` |
 | [Skill](automation/scripting/003-name-skill_23b994f4/) | [julianobarbosa/claude-code-skills](https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/azure-devops-skill/SKILL.md) | ⭐ 16 | `automation` |
-| [Skill](automation/scripting/003-name-skill_dbfc7556/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_ProcessUsercmds/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_fe43cd82/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_Respawn/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_ecea7d99/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_SetPawn/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_42d288e8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_GoToIntermission/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_a9926936/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_PickupItem-AND-CCSPlayer_WeaponServices_CanUse-AND-CCSPlayer_WeaponServices_EquipWeapon/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_f3a0138a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameResourceService_BuildResourceManifest/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_65f7f937/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameSceneNode_GetSkeletonInstance/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_7d90042c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_4fbcc01c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_924e9c17/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_5757d2f7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ResourceDataThink/SKILL.md) | ⭐ 19 | `automation` |
-| [Skill](automation/scripting/003-name-skill_3636259a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIdentity_SetEntityName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_4656f67a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_ProcessUsercmds/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_6fa20bc7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_Respawn/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_2b8a9186/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_SetPawn/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_e049ddf8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_GoToIntermission/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_7a33dac4/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_PickupItem-AND-CCSPlayer_WeaponServices_CanUse-AND-CCSPlayer_WeaponServices_EquipWeapon/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_9a392038/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameResourceService_BuildResourceManifest/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_cc0ce560/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameSceneNode_GetSkeletonInstance/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_3a329d70/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_8385a365/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_31b2fbbe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_d751330f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ResourceDataThink/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_670a71bd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIdentity_SetEntityName/SKILL.md) | ⭐ 19 | `automation` |
 | [Debug Log Reference](automation/scripting/096-debug-log-reference_e57347b7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/docs/debug-log-reference.md) | ⭐ 67 | `automation` |
 | [Skill](automation/scripting/003-name-skill_23bd31f1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/SKILL.md) | ⭐ 499 | `automation` |
 | [Skill](automation/scripting/003-name-skill_d5400ed0/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/SKILL.md) | ⭐ 499 | `automation` |
 | [D1 Specifics](automation/scripting/097-d1-specifics_07abb605/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/d1-drizzle-schema/references/d1-specifics.md) | ⭐ 499 | `automation` |
 | [Recipes](automation/scripting/098-recipes_8e78c88c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/recipes.md) | ⭐ 499 | `automation` |
+| [Skill](automation/scripting/name-skill_d47b860a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_EmitSoundFilter/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_4d71efc1/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_EmitSoundParams/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_bb939ad0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsAlive-AND-CBaseEntity_GetEyePosition-AND-CBasePlayerPawn_GetEyePosition/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_102e2541/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_Precache/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_e60685ce/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetOwner/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_18f5dc71/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetStateChanged/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_98e482ed/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_Use/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_4656f67a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_ProcessUsercmds/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_6fa20bc7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_Respawn/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_2b8a9186/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_SetPawn/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_305abcea/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_DropActivePlayerWeapon-AND-CCSPlayer_ItemServices_DropActivePlayerWeapon-AND-CCSPlayer_WeaponServices_DropWeapon/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_1f6e4c05/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_GetEyeAngles/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_e049ddf8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_GoToIntermission/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_c9db7773/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ChangeTeam/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_486ea13e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_InventoryUpdateThink/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_d751330f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_ResourceDataThink/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_bcac4a7f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerPawnBase_PostThink/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_197a69f0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_CanAcquire/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_f122f2d0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_RemoveWeapons/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_1f6f041b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_ProcessMovement-AND-CCSPlayer_MovementServices_CheckMovingGround/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_7a33dac4/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_PickupItem-AND-CCSPlayer_WeaponServices_CanUse-AND-CCSPlayer_WeaponServices_EquipWeapon/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_af5adb50/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_SelectItem/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_670a71bd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIdentity_SetEntityName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_b0c7fea4/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntitySystem_AddEntityIOEvent/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_9a392038/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameResourceService_BuildResourceManifest/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_cc0ce560/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameSceneNode_GetSkeletonInstance/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_13093149/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPointTeleport_Teleport/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_3a329d70/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2GameEntities_CheckTransmit-AND-CCheckTransmitInfo/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_14cf4eaf/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSource2Server_Init-AND-CGameEventManager_Init-AND-gameeventmanager-AND-s_GameEventManager/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_8385a365/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_e1e9974f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_31b2fbbe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_37685b69/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetGroundEntity/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_0aab4ce1/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseModelEntity_SetModel-AND-CBaseEntity_SetGravityScale/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_7e8c895b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_HandleCommand_JoinTeam/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_b458be1c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerController_SetPlayerName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_4bec7dd9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSBotManager_AddBot-AND-g_pCSBotManager-AND-g_pNavMesh/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_b9e1b57b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules__sm_mapGcBanInformation/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_04ff7354/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayerController_SwitchTeam/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_672e7399/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_CheckJumpButton/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_b9318330/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_FullWalkMove-AND-CCSPlayer_MovementServices_CheckVelocity-AND-CCSPlayer_MovementServices_WaterMove/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_5b852531/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIOOutput_FireOutputInternal/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_5a511509/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CEntityIdentity_AcceptInput/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_52358a82/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameEntitySystem_FindEntityByName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_c1f65468/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGamePlayerEquip_InputTriggerForAllPlayers-AND-CGamePlayerEquip_InputTriggerForActivatedPlayer/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_ec294afc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameRules_ClientSettingsChanged/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_80f71d50/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNavMesh_GetNearestNavArea/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_c1aea449/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CServerSideClient_IsHearingClient/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_b1d20bb2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTakeDamageInfo_GetWeaponName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_e2b09cfb/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerGravity_GravityTouch/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_c8b8807a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-ClientPrint/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_60821256/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FindUseEntity/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_65afc78a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-GameSystem_Think_CheckSteamBan/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_392ef03b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-GetCSWeaponDataFromKey/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_982ad99a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-Host_Say-AND-UTIL_SayTextFilter-AND-UTIL_SayTextFilter2/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_6301c177/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-ShowHudHint/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_dd2c2446/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-TraceFunc-AND-g_GameTraceManager/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_14d695a8/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-TraceShape/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_11f4eb2a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_ClientPrintAll/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_b0ddf889/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_CreateEntityByName/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_a3658596/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_PlayerSlotToPlayerController/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_644dc6df/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-UTIL_Remove/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_94de8baf/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-WeaponBuy/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/name-skill_3928e4c4/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameRules-AND-CGameRules_FindPickerEntity/SKILL.md) | ⭐ 19 | `automation` |
 
 ### Automation/Workflow (120 skills)
 
@@ -356,7 +420,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_37dee5ad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/SKILL.md) | ⭐ 499 | `automation` |
 | [Skill](automation/workflow/002-name-skill_1212ff7f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/SKILL.md) | ⭐ 499 | `automation` |
 | [Dark Mode Palette](automation/workflow/139-dark-mode-palette_39b7f7bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/dark-mode-palette.md) | ⭐ 499 | `automation` |
-| [Jwt Token Vending](automation/workflow/jwt-token-vending_26fd6275/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 448 | `automation` |
+| [Jwt Token Vending](automation/workflow/082-jwt-token-vending_26fd6275/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 448 | `automation` |
 
 ### Commercial (95 skills)
 
@@ -456,7 +520,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Knowledge Base](commercial/378-knowledge-base_5d55b4e7/) | [SynaLinks/synalinks-skills](https://raw.githubusercontent.com/SynaLinks/synalinks-skills/main/synalinks/references/knowledge-base.md) | ⭐ 899 | `commercial` |
 | [Industry Icons](commercial/379-industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
 | [Cta Patterns](commercial/380-cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
-| [Disclaimer](commercial/disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
+| [Disclaimer](commercial/370-disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
 
 ### Communication (64 skills)
 
@@ -527,7 +591,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Component Catalogue](communication/261-component-catalogue_e0043acb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/component-catalogue.md) | ⭐ 499 | `communication` |
 | [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
 
-### Content Creation (194 skills)
+### Content Creation (195 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -725,6 +789,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hono Patterns](content-creation/375-hono-patterns_50d4587f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/references/hono-patterns.md) | ⭐ 499 | `content creation` |
 | [Workflows](content-creation/060-workflows_a52616fc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/workflows.md) | ⭐ 499 | `content creation` |
 | [Card Patterns](content-creation/376-card-patterns_5bd74011/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/card-patterns.md) | ⭐ 499 | `content creation` |
+| [Skill](content-creation/name-skill_cff99d1e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-DispatchParticleEffect/SKILL.md) | ⭐ 19 | `content creation` |
 
 ### Daily Assistant (181 skills)
 
@@ -912,7 +977,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tui Quick Reference](daily-assistant/288-tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
 | [Walkthrough Checklist](daily-assistant/277-walkthrough-checklist_d4d7589a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/walkthrough-checklist.md) | ⭐ 499 | `daily assistant` |
 
-### Data Analysis (380 skills)
+### Data Analysis (378 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1291,13 +1356,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Style Presets](data-analysis/490-style-presets_3144d7f7/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/style-presets.md) | ⭐ 499 | `data analysis` |
 | [Output Patterns](data-analysis/240-output-patterns_946f772e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/output-patterns.md) | ⭐ 499 | `data analysis` |
 | [Architecture](data-analysis/009-architecture_da2f6f3e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/architecture.md) | ⭐ 499 | `data analysis` |
-| [Spec](data-analysis/spec_50c2c107/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
-| [Tasks](data-analysis/tasks_f53afa83/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/tasks.md) | ⭐ 23 | `data analysis` |
-| [Spec](data-analysis/spec_abc0e01b/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
-| [Design](data-analysis/design_d6916725/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/design.md) | ⭐ 23 | `data analysis` |
-| [Proposal](data-analysis/proposal_362df0b0/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/proposal.md) | ⭐ 23 | `data analysis` |
+| [Spec](data-analysis/481-spec_50c2c107/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
+| [Tasks](data-analysis/482-tasks_f53afa83/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/tasks.md) | ⭐ 23 | `data analysis` |
+| [Spec](data-analysis/481-spec_abc0e01b/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
 
-### Development (893 skills)
+### Development (920 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2068,13 +2131,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Credits](development/239-credits_14997fbc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/CREDITS.md) | ⭐ 74 | `development` |
 | [Actions Reference](development/010-actions-reference_8dc18cc4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 74 | `development` |
 | [Migration Guide](development/584-migration-guide_94434e6c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/migration-guide.md) | ⭐ 74 | `development` |
-| [Skill](development/1178-name-skill_ee4fec9f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_CollisionRulesChanged/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_f749decd/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_GetHammerUniqueId/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_917dcc2c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-AND-CBaseEntity_EndTouch/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_ab13ecd5/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_CommitSuicide/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_808e57d7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_PassesTriggerFilters/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_e7833f84/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_928a37f9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FireBullets-AND-TraceAttack-AND-CTakeDamageInfo/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_f5c4eea9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_CollisionRulesChanged/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_b587a48d/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_GetHammerUniqueId/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_f011ce60/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-AND-CBaseEntity_EndTouch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_60bdf7a0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_CommitSuicide/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_a6e61763/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_PassesTriggerFilters/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_46786eaf/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_09060445/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FireBullets-AND-TraceAttack-AND-CTakeDamageInfo/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_3cb3c055/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Fix](development/2865-fix_2ad2d4da/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 10 | `development` |
 | [Dicomweb Guide](development/305-dicomweb_guide_ae8c9e6a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/imaging-data-commons/references/dicomweb_guide.md) | 🔥 8.8k | `development` |
@@ -2151,11 +2214,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Library Registry](development/2881-tool-library-registry_c3482643/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/tool-library-registry.md) | ⭐ 18 | `development` |
 | [User Project Conventions](development/2882-user-project-conventions_8568a1a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/user-project-conventions.md) | ⭐ 18 | `development` |
 | [Codex Invocation](development/2829-codex-invocation_4b382659/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/references/codex-invocation.md) | ⭐ 2.7k | `development` |
-| [Skill](development/1178-name-skill_ad9e5556/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSBotManager_AddBot_BotNavIgnore/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_3f6ac772/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_CheckJumpButton_WaterPatch/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_a7d684fa/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_FullWalkMove_SpeedClamp/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_0792d730/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNetworkGameServer_GetFreeClient/SKILL.md) | ⭐ 19 | `development` |
-| [Skill](development/1178-name-skill_bd7cd293/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPhysBox_Use_PatchCaller/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_a3019126/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSBotManager_AddBot_BotNavIgnore/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_38e5aca1/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_CheckJumpButton_WaterPatch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_48b8ec72/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_FullWalkMove_SpeedClamp/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_92b42064/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNetworkGameServer_GetFreeClient/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_3f7fddce/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPhysBox_Use_PatchCaller/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_4fe5a845/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-patch/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_a24b0b7b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-structoffset/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_62d23ffa/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/generate-signature-for-vfuncoffset/SKILL.md) | ⭐ 19 | `development` |
@@ -2164,8 +2227,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_76f3a55f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_469fbe9a/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/prompt-engineering/SKILL.md) | ⭐ 32 | `development` |
 | [Third Party Licenses](development/2895-third_party_licenses_eff3ee1e/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/THIRD_PARTY_LICENSES.md) | ⭐ 25 | `development` |
-| [Architecture](development/055-architecture_90a288cd/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 25 | `development` |
-| [Skill](development/1178-name-skill_b49235d0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn-AND-CBaseEntity_IsPlayerController/SKILL.md) | ⭐ 19 | `development` |
+| [Architecture](development/architecture_433f7a11/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 27 | `development` |
+| [Skill](development/name-skill_95668fb0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn-AND-CBaseEntity_IsPlayerController/SKILL.md) | ⭐ 19 | `development` |
 | [Credits](development/239-credits_0a40a282/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/CREDITS.md) | ⭐ 67 | `development` |
 | [Actions Reference](development/010-actions-reference_274182eb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/actions-reference.md) | ⭐ 67 | `development` |
 | [Anti Patterns](development/042-anti-patterns_694e39f4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-apex/resources/anti-patterns.md) | ⭐ 67 | `development` |
@@ -2186,14 +2249,41 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cloud Deployment](development/2916-cloud-deployment_b82de5d1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/cloud-deployment.md) | ⭐ 499 | `development` |
 | [Production Patterns](development/2917-production-patterns_f01f284f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/production-patterns.md) | ⭐ 499 | `development` |
 | [Dark Mode](development/2918-dark-mode_33926266/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/references/dark-mode.md) | ⭐ 499 | `development` |
-| [Tasks](development/tasks_85acf149/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/tasks.md) | ⭐ 23 | `development` |
-| [Auth](development/auth_90bdbf41/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/auth.md) | ⭐ 448 | `development` |
-| [Embeddings](development/embeddings_bfd33f42/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/embeddings.md) | ⭐ 448 | `development` |
-| [Index](development/index_666b7bc4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/index.md) | ⭐ 448 | `development` |
-| [Registry Auth Detailed](development/registry-auth-detailed_040998d5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-auth-detailed.md) | ⭐ 448 | `development` |
-| [Scopes](development/scopes_2d0b239c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/scopes.md) | ⭐ 448 | `development` |
-| [A2A Protocol Integration](development/a2a-protocol-integration_e590050a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/a2a-protocol-integration.md) | ⭐ 448 | `development` |
-| [Architectural Decision Reverse Proxy Vs Application Layer Gateway](development/architectural-decision-reverse-proxy-vs-application-layer-gateway_6daa93f1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/architectural-decision-reverse-proxy-vs-application-layer-gateway.md) | ⭐ 448 | `development` |
+| [Tasks](development/1060-tasks_85acf149/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/tasks.md) | ⭐ 23 | `development` |
+| [Auth](development/1548-auth_90bdbf41/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/auth.md) | ⭐ 448 | `development` |
+| [Embeddings](development/2876-embeddings_bfd33f42/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/embeddings.md) | ⭐ 448 | `development` |
+| [Index](development/468-index_666b7bc4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/index.md) | ⭐ 448 | `development` |
+| [Registry Auth Detailed](development/2276-registry-auth-detailed_040998d5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/registry-auth-detailed.md) | ⭐ 448 | `development` |
+| [Scopes](development/2279-scopes_2d0b239c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/scopes.md) | ⭐ 448 | `development` |
+| [A2A Protocol Integration](development/2283-a2a-protocol-integration_e590050a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/a2a-protocol-integration.md) | ⭐ 448 | `development` |
+| [Architectural Decision Reverse Proxy Vs Application Layer Gateway](development/2286-architectural-decision-reverse-proxy-vs-application-layer-gateway_6daa93f1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/architectural-decision-reverse-proxy-vs-application-layer-gateway.md) | ⭐ 448 | `development` |
+| [Skill](development/1178-name-skill_f5c4eea9/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_CollisionRulesChanged/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_b587a48d/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_GetHammerUniqueId/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_95668fb0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_IsPlayerPawn-AND-CBaseEntity_IsPlayerController/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_f011ce60/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_StartTouch-AND-CBaseEntity_Touch-AND-CBaseEntity_EndTouch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_131509dc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_TakeDamageOld/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_60bdf7a0/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_CommitSuicide/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_9ac60f85/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBasePlayerPawn_RemovePlayerItem/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_a6e61763/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseTrigger_PassesTriggerFilters/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_a3019126/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSBotManager_AddBot_BotNavIgnore/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_61f0dcc2/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_ItemServices_GiveNamedItem/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_38e5aca1/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_CheckJumpButton_WaterPatch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_48b8ec72/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_MovementServices_FullWalkMove_SpeedClamp/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_92b42064/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNetworkGameServer_GetFreeClient/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_3f7fddce/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CPhysBox_Use_PatchCaller/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_46786eaf/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CTriggerPush_Touch/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/1178-name-skill_09060445/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FireBullets-AND-TraceAttack-AND-CTakeDamageInfo/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_d934c267/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-IGameSystem_LoopPostInitAllSystems_pEventDispatcher-AND-IGameSystem_LoopDestroyAllSystems_s_GameSystems/SKILL.md) | ⭐ 19 | `development` |
+| [Architecture](development/055-architecture_433f7a11/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 27 | `development` |
+| [Skill](development/name-skill_955ec19f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseEntity_SetMoveType/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_c56c2f7d/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CBaseFilter_InputTestActivator/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_b616e11a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSGameRules_TerminateRound-AND-CEntityInstance_AcceptInput/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_4c9f67ae/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CCSPlayer_WeaponServices_Weapon_GetSlot/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_3f38e69e/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CGameEntitySystem_FindEntityByClassName/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_efd803fc/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CNetworkGameServer-AND-CServerSideClientBase_ClientPrintf/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_5d43857b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-GiveNamedItem-AND-UTIL_CreateEntityByName-AND-CBaseEntity_DispatchSpawn/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_c26e905c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-IGameSystem_InitAllSystems-AND-IGameSystem_InitAllSystems_pFirst/SKILL.md) | ⭐ 19 | `development` |
+| [Skill](development/name-skill_15b32e65/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-LegacyGameEventListener/SKILL.md) | ⭐ 19 | `development` |
 
 ### Development/Devops (176 skills)
 
@@ -2364,19 +2454,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Commands](development/devops/319-cli-commands_92e8cda1/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/cli-commands.md) | ⭐ 499 | `development` |
 | [Customization Guide](development/devops/370-customization-guide_2b05ea92/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/references/customization-guide.md) | ⭐ 499 | `development` |
 | [Tech Stack](development/devops/371-tech-stack_69197def/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/vite-flare-starter/references/tech-stack.md) | ⭐ 499 | `development` |
-| [Faq](development/devops/faq_b12926e4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/FAQ.md) | ⭐ 448 | `development` |
-| [Features](development/devops/features_b7a5b6c7/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/FEATURES.md) | ⭐ 448 | `development` |
-| [Observability](development/devops/observability_b78f7cbb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md) | ⭐ 448 | `development` |
-| [A2A](development/devops/a2a_d091137d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/a2a.md) | ⭐ 448 | `development` |
-| [Complete Setup Guide](development/devops/complete-setup-guide_6c03ede3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/complete-setup-guide.md) | ⭐ 448 | `development` |
-| [Configuration](development/devops/configuration_a756d729/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/configuration.md) | ⭐ 448 | `development` |
-| [Installation](development/devops/installation_0d7707ed/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/installation.md) | ⭐ 448 | `development` |
-| [Macos Setup Guide](development/devops/macos-setup-guide_4684d640/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/macos-setup-guide.md) | ⭐ 448 | `development` |
-| [Database Abstraction Layer](development/devops/database-abstraction-layer_211cffb3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/database-abstraction-layer.md) | ⭐ 448 | `development` |
-| [Hybrid Search Architecture](development/devops/hybrid-search-architecture_71a1f9be/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 448 | `development` |
-| [Virtual Mcp Server](development/devops/virtual-mcp-server_03fa9d5c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server.md) | ⭐ 448 | `development` |
+| [Faq](development/devops/167-faq_b12926e4/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/FAQ.md) | ⭐ 448 | `development` |
+| [Features](development/devops/365-features_b7a5b6c7/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/FEATURES.md) | ⭐ 448 | `development` |
+| [Observability](development/devops/366-observability_b78f7cbb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md) | ⭐ 448 | `development` |
+| [A2A](development/devops/367-a2a_d091137d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/a2a.md) | ⭐ 448 | `development` |
+| [Complete Setup Guide](development/devops/239-complete-setup-guide_6c03ede3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/complete-setup-guide.md) | ⭐ 448 | `development` |
+| [Configuration](development/devops/009-configuration_a756d729/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/configuration.md) | ⭐ 448 | `development` |
+| [Installation](development/devops/171-installation_0d7707ed/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/installation.md) | ⭐ 448 | `development` |
+| [Macos Setup Guide](development/devops/243-macos-setup-guide_4684d640/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/macos-setup-guide.md) | ⭐ 448 | `development` |
+| [Database Abstraction Layer](development/devops/255-database-abstraction-layer_211cffb3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/database-abstraction-layer.md) | ⭐ 448 | `development` |
+| [Hybrid Search Architecture](development/devops/256-hybrid-search-architecture_71a1f9be/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 448 | `development` |
+| [Virtual Mcp Server](development/devops/368-virtual-mcp-server_03fa9d5c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server.md) | ⭐ 448 | `development` |
 
-### Development/Testing (33 skills)
+### Development/Testing (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2413,8 +2503,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/085-plugin-validator-tasks_1c020e4a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Agent Lifecycle Audit](development/testing/086-agent-lifecycle-audit_05fd0a7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/references/agent-lifecycle-audit.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/002-name-skill_5732a1d8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 32 | `development` |
+| [Skill](development/testing/name-skill_886f6fd9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 27 | `development` |
 
-### Development/Tools (210 skills)
+### Development/Tools (212 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2614,8 +2705,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Human Out Of Loop Prerequisites](development/tools/338-human-out-of-loop-prerequisites_692b1763/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/references/human-out-of-loop-prerequisites.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_622d1faf/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/second-opinion/skills/second-opinion/SKILL.md) | ⭐ 2.7k | `development` |
 | [Readme Cn](development/tools/232-readme_cn_8a8a83e6/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md) | ⭐ 25 | `development` |
-| [Architecture](development/tools/051-architecture_d5fcafaf/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 25 | `development` |
-| [Env Reference](development/tools/325-env_reference_0ec5dde5/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 25 | `development` |
+| [Architecture](development/tools/architecture_06ac770b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 27 | `development` |
+| [Env Reference](development/tools/env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
 | [Getting Started](development/tools/326-getting_started_7e0180fa/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/GETTING_STARTED.md) | ⭐ 25 | `development` |
 | [Skill](development/tools/002-name-skill_10b17fbb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 67 | `development` |
 | [Skill](development/tools/002-name-skill_3af8e511/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/SKILL.md) | ⭐ 67 | `development` |
@@ -2625,11 +2716,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Semantic Mapping](development/tools/331-semantic-mapping_181fab47/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/semantic-mapping.md) | ⭐ 499 | `development` |
 | [Api Reference](development/tools/073-api-reference_e8ca6b21/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/api-reference.md) | ⭐ 499 | `development` |
 | [Integration Patterns](development/tools/332-integration-patterns_4cc6b8a2/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/integration-patterns.md) | ⭐ 499 | `development` |
-| [Virtual Server Operations](development/tools/virtual-server-operations_c97d8057/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/virtual-server-operations.md) | ⭐ 448 | `development` |
-| [Virtual Mcp Server Explained](development/tools/virtual-mcp-server-explained_8511e4e0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server-explained.md) | ⭐ 448 | `development` |
-| [Tasks](development/tools/tasks_327570e0/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/tasks.md) | ⭐ 23 | `development` |
+| [Virtual Server Operations](development/tools/332-virtual-server-operations_c97d8057/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/virtual-server-operations.md) | ⭐ 448 | `development` |
+| [Virtual Mcp Server Explained](development/tools/333-virtual-mcp-server-explained_8511e4e0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server-explained.md) | ⭐ 448 | `development` |
+| [Architecture](development/tools/051-architecture_06ac770b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 27 | `development` |
+| [Env Reference](development/tools/339-env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
+| [Env Reference](development/tools/env_reference_2e8ff269/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ENV_REFERENCE.md) | ⭐ 27 | `development` |
 
-### Investment (100 skills)
+### Investment (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2717,22 +2810,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_daa6e73e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/SKILL.md) | ⭐ 499 | `investment` |
 | [Hero Patterns](investment/050-hero-patterns_02bbda95/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/hero-patterns.md) | ⭐ 499 | `investment` |
 | [Trust Signals](investment/051-trust-signals_2e3e1184/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/trust-signals.md) | ⭐ 499 | `investment` |
-| [Readme Hk Daily](investment/readme_hk_daily_5ddf8c7f/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/scripts/README_HK_DAILY.md) | ⭐ 23 | `investment` |
-| [Design](investment/design_f5d51142/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/design.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_8e3cf9db/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/agent-debug-sidebar/spec.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_0066a10e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-orchestration/spec.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_ebf9e58e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/specs/hk-daily-data/spec.md) | ⭐ 23 | `investment` |
-| [Database Design](investment/database-design_cd7ad973/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 448 | `investment` |
-| [Storage Architecture Mongodb Documentdb](investment/storage-architecture-mongodb-documentdb_c9a82e78/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 448 | `investment` |
-| [Design](investment/design_69b696ff/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/design.md) | ⭐ 23 | `investment` |
-| [Proposal](investment/proposal_7e5075ad/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/proposal.md) | ⭐ 23 | `investment` |
-| [Tasks](investment/tasks_82e34f39/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/tasks.md) | ⭐ 23 | `investment` |
-| [Proposal](investment/proposal_2672bbec/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/proposal.md) | ⭐ 23 | `investment` |
-| [Design](investment/design_1350541f/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/design.md) | ⭐ 23 | `investment` |
-| [Proposal](investment/proposal_cf7ad561/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/proposal.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_ce4fb617/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-hk-smart-analysis/specs/hk-smart-analysis/spec.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_72974472/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-agent-debug-sidebar/specs/agent-debug-sidebar/spec.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_a64091ee/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-orchestrator-agent/specs/chat-orchestration/spec.md) | ⭐ 23 | `investment` |
+| [Readme Hk Daily](investment/048-readme_hk_daily_5ddf8c7f/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/scripts/README_HK_DAILY.md) | ⭐ 23 | `investment` |
+| [Design](investment/049-design_f5d51142/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/design.md) | ⭐ 23 | `investment` |
+| [Spec](investment/050-spec_8e3cf9db/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/agent-debug-sidebar/spec.md) | ⭐ 23 | `investment` |
+| [Spec](investment/050-spec_0066a10e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-orchestration/spec.md) | ⭐ 23 | `investment` |
+| [Spec](investment/050-spec_ebf9e58e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/specs/hk-daily-data/spec.md) | ⭐ 23 | `investment` |
+| [Database Design](investment/034-database-design_cd7ad973/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 448 | `investment` |
+| [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_c9a82e78/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 448 | `investment` |
 
 ### Other (4 skills)
 
@@ -2932,5 +3016,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 15:09:44 UTC*
+*Last updated: 2026-02-18 16:09:23 UTC*
 *Automatically maintained by SkillFlow*
