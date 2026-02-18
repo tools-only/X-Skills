@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-18T08:01:42.267352",
+  "updated_at": "2026-02-18T08:04:34.490075",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -33978,6 +33978,104 @@
       "repo_updated_at": "2026-02-17T12:35:47+00:00",
       "source_url": "https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8a8a83e62ace03c805567ec4aa9ffe7c53b1c15b4498cf74fcaa88b4a25e7467",
+      "source_path": "README_CN.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/tools/232-readme_cn_8a8a83e6",
+      "category": "development/tools",
+      "name": "readme_cn_8a8a83e6",
+      "indexed_at": "2026-02-18T08:04:29.167529",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T05:36:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/README_CN.md",
+      "display_name": "Readme Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d5fcafaf4d5f41ab2b942a5ac71379d7965b90e0895c3b7ad2e9b3218fcc05de",
+      "source_path": "docs/en/ARCHITECTURE.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/tools/051-architecture_d5fcafaf",
+      "category": "development/tools",
+      "name": "architecture_d5fcafaf",
+      "indexed_at": "2026-02-18T08:04:29.940478",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T03:24:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md",
+      "display_name": "Architecture",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0ec5dde5dd9b6eb96164d27ff0e3d680430f252306e9d8e27b8c2e92a3dcacfe",
+      "source_path": "docs/en/ENV_REFERENCE.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/tools/325-env_reference_0ec5dde5",
+      "category": "development/tools",
+      "name": "env_reference_0ec5dde5",
+      "indexed_at": "2026-02-18T08:04:30.882355",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T05:36:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md",
+      "display_name": "Env Reference",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7e0180fa7e49de87d49ecfb6e22e58c4c308ada5e696593fc7858c653d729b44",
+      "source_path": "docs/zh/GETTING_STARTED.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/tools/326-getting_started_7e0180fa",
+      "category": "development/tools",
+      "name": "getting_started_7e0180fa",
+      "indexed_at": "2026-02-18T08:04:31.755719",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T01:43:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/GETTING_STARTED.md",
+      "display_name": "Getting Started",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "eff3ee1e064976adf47ae3452e16fdae05e8f436c1e968d8ee49e31c2b750a7d",
+      "source_path": "THIRD_PARTY_LICENSES.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/2895-third_party_licenses_eff3ee1e",
+      "category": "development",
+      "name": "third_party_licenses_eff3ee1e",
+      "indexed_at": "2026-02-18T08:04:32.577187",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T03:13:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/THIRD_PARTY_LICENSES.md",
+      "display_name": "Third Party Licenses",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "90a288cd0a5949eb873615fb509ff5c30b616d1c9922b434d78609cdbe8ee326",
+      "source_path": "docs/zh/ARCHITECTURE.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/055-architecture_90a288cd",
+      "category": "development",
+      "name": "architecture_90a288cd",
+      "indexed_at": "2026-02-18T08:04:33.483380",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T04:56:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md",
+      "display_name": "Architecture",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "93aa47a6808bfec474284e22341f637495863e837d0049a5e2b78e14079fe376",
+      "source_path": "docs/en/GETTING_STARTED.md",
+      "source_repo": "EXboys/skilllite",
+      "local_path": "development/devops/374-getting_started_93aa47a6",
+      "category": "development/devops",
+      "name": "getting_started_93aa47a6",
+      "indexed_at": "2026-02-18T08:04:34.490023",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-18T01:43:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/GETTING_STARTED.md",
+      "display_name": "Getting Started",
       "tags": "[\"development\"]"
     }
   ]
