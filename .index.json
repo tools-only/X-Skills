@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-18T12:08:48.405902",
+  "updated_at": "2026-02-18T13:08:11.318174",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -35099,6 +35099,34 @@
       "source_url": "https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/triage/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "d5df31973817e1ba330c88ea3a34f00fa9126eb8e9c5bf2ab882a7b6f7a86c7d",
+      "source_path": "docs/docs/architecture/rfc9728-compliance.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "communication/256-rfc9728-compliance_d5df3197",
+      "category": "communication",
+      "name": "rfc9728-compliance_d5df3197",
+      "indexed_at": "2026-02-18T13:08:10.994852",
+      "repo_stars": 3283,
+      "repo_updated_at": "2026-02-14T04:35:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md",
+      "display_name": "Rfc9728 Compliance",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "c398d2374882a57f5298d29664d735f0214b9ae6874105f49745155d580abc5d",
+      "source_path": "docs/docs/architecture/roadmap.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/097-roadmap_c398d237",
+      "category": "development/devops",
+      "name": "roadmap_c398d237",
+      "indexed_at": "2026-02-18T13:08:11.318145",
+      "repo_stars": 3283,
+      "repo_updated_at": "2026-02-16T08:37:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md",
+      "display_name": "Roadmap",
+      "tags": "[\"development\"]"
     }
   ]
 }

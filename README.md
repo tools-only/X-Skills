@@ -10,14 +10,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (43 skills)
 - **Automation/Workflow** (116 skills)
-- **Commercial** (92 skills)
+- **Commercial** (91 skills)
 - **Communication** (59 skills)
 - **Content Creation** (185 skills)
-- **Daily Assistant** (181 skills)
+- **Daily Assistant** (180 skills)
 - **Data Analysis** (361 skills)
 - **Development** (873 skills)
-- **Development/Devops** (154 skills)
-- **Development/Testing** (33 skills)
+- **Development/Devops** (155 skills)
+- **Development/Testing** (34 skills)
 - **Development/Tools** (202 skills)
 - **Investment** (81 skills)
 - **Other** (4 skills)
@@ -348,9 +348,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Lifecycle Audit](automation/workflow/135-skill-lifecycle-audit_a555057e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-lifecycle/references/skill-lifecycle-audit.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/002-name-skill_6703a03b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 67 | `automation` |
 | [Cli Guide](automation/workflow/138-cli-guide_7630e4b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/cli-guide.md) | ⭐ 67 | `automation` |
-| [Skill](automation/workflow/name-skill_2ce1fa0e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-rollback/SKILL.md) | ⭐ 91 | `automation` |
+| [Skill](automation/workflow/002-name-skill_2ce1fa0e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-rollback/SKILL.md) | ⭐ 91 | `automation` |
 
-### Commercial (92 skills)
+### Commercial (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -440,12 +440,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_e7572a95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-security-audit/SKILL.md) | 🔥 10.4k | `commercial` |
 | [Patterns Quick Ref](commercial/144-patterns-quick-ref_c18c4d54/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/docs/patterns-quick-ref.md) | ⭐ 67 | `commercial` |
 | [Action Patterns](commercial/377-action-patterns_0fcecd2a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/action-patterns.md) | ⭐ 67 | `commercial` |
-| [Usage Log](commercial/usage_log_aa6da86f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/usage_log.md) | ⭐ 91 | `commercial` |
-| [Skill](commercial/name-skill_556daf0b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-level-up/SKILL.md) | ⭐ 91 | `commercial` |
-| [Skill](commercial/name-skill_91bbaa26/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 91 | `commercial` |
-| [Skill](commercial/name-skill_b1d3ed66/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/enable-semantic-search/SKILL.md) | ⭐ 91 | `commercial` |
-| [Skill](commercial/name-skill_7836d420/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/product-brief/SKILL.md) | ⭐ 91 | `commercial` |
-| [Skill](commercial/name-skill_c56b427d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-demo/SKILL.md) | ⭐ 91 | `commercial` |
+| [Usage Log](commercial/287-usage_log_aa6da86f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/System/usage_log.md) | ⭐ 91 | `commercial` |
+| [Skill](commercial/210-name-skill_556daf0b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-level-up/SKILL.md) | ⭐ 91 | `commercial` |
+| [Skill](commercial/210-name-skill_91bbaa26/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-update/SKILL.md) | ⭐ 91 | `commercial` |
+| [Skill](commercial/210-name-skill_b1d3ed66/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/enable-semantic-search/SKILL.md) | ⭐ 91 | `commercial` |
+| [Skill](commercial/210-name-skill_7836d420/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/product-brief/SKILL.md) | ⭐ 91 | `commercial` |
 
 ### Communication (59 skills)
 
@@ -456,7 +455,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
-| [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
+| [Rfc9728 Compliance](communication/rfc9728-compliance_d5df3197/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 | [Implicit Constraints](communication/257-implicit-constraints_fe3c9296/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/implicit-constraints.md) | ⭐ 99 | `communication` |
 | [Multi Turn Consistency](communication/258-multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
 | [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
@@ -505,11 +504,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_3688869a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/followupboss/SKILL.md) | ⭐ 10 | `communication` |
 | [Agent](communication/251-agent_242b093b/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md) | ⭐ 10 | `communication` |
 | [Extensions](communication/256-extensions_32227a86/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/contribute/contributing/extensions.md) | ⭐ 167 | `communication` |
-| [Executive Summary](communication/executive_summary_85c61df7/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/EXECUTIVE_SUMMARY.md) | ⭐ 91 | `communication` |
-| [Skill](communication/name-skill_0c419930/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/commitment-scan/SKILL.md) | ⭐ 91 | `communication` |
-| [Skill](communication/name-skill_f463109a/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/meeting-prep/SKILL.md) | ⭐ 91 | `communication` |
-| [Skill](communication/name-skill_13759a9f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/screenpipe-setup/SKILL.md) | ⭐ 91 | `communication` |
-| [Ritual Command Bar](communication/ritual_command_bar_f0fe574e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/RITUAL_COMMAND_BAR.md) | ⭐ 91 | `communication` |
+| [Executive Summary](communication/257-executive_summary_85c61df7/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/EXECUTIVE_SUMMARY.md) | ⭐ 91 | `communication` |
+| [Skill](communication/127-name-skill_0c419930/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/commitment-scan/SKILL.md) | ⭐ 91 | `communication` |
+| [Skill](communication/127-name-skill_f463109a/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/meeting-prep/SKILL.md) | ⭐ 91 | `communication` |
+| [Skill](communication/127-name-skill_13759a9f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/screenpipe-setup/SKILL.md) | ⭐ 91 | `communication` |
+| [Rfc9728 Compliance](communication/256-rfc9728-compliance_d5df3197/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 
 ### Content Creation (185 skills)
 
@@ -660,7 +659,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Image Understanding](content-creation/354-image-understanding_8c564e55/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gemini3/docs/image-understanding.md) | ⭐ 50 | `content creation` |
 | [Streaming](content-creation/355-streaming_7c04727d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/streaming.md) | ⭐ 50 | `content creation` |
 | [Agents](content-creation/185-agents_6d77cacb/) | [makefinks/manim-generator](https://raw.githubusercontent.com/makefinks/manim-generator/main/AGENTS.md) | ⭐ 76 | `content creation` |
-| [Claude](content-creation/claude_cd844f91/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 91 | `content creation` |
+| [Claude](content-creation/007-claude_cd1eb1d2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 88 | `content creation` |
 | [Skill](content-creation/049-name-skill_0bb4b65b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.6k | `content creation` |
 | [V2.1 Tweets](content-creation/372-v21-tweets_fd2041f4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 2.6k | `content creation` |
 | [Research](content-creation/373-research_3b89b5a0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 2.6k | `content creation` |
@@ -692,16 +691,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Grounding Multiagent](content-creation/371-grounding-multiagent_71426f1d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/grounding-multiagent.md) | ⭐ 67 | `content creation` |
 | [Review Github Pr](content-creation/372-review-github-pr_227cd6c0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/review-github-pr.md) | ⭐ 10 | `content creation` |
 | [Claude](content-creation/007-claude_cd844f91/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 91 | `content creation` |
-| [Distribution Guide](content-creation/distribution_guide_370b7144/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/DISTRIBUTION_GUIDE.md) | ⭐ 91 | `content creation` |
-| [Ready To Publish](content-creation/ready_to_publish_2b5058fb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/READY_TO_PUBLISH.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_eb562d5d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/ai-setup/SKILL.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_67f8fff9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-skill/SKILL.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_935a7783/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-whats-new/SKILL.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_a971f473/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/health-check/SKILL.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_140ef5a6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/journal/SKILL.md) | ⭐ 91 | `content creation` |
-| [Skill](content-creation/name-skill_f759f121/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/resume-builder/SKILL.md) | ⭐ 91 | `content creation` |
+| [Distribution Guide](content-creation/356-distribution_guide_370b7144/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/DISTRIBUTION_GUIDE.md) | ⭐ 91 | `content creation` |
+| [Ready To Publish](content-creation/357-ready_to_publish_2b5058fb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/READY_TO_PUBLISH.md) | ⭐ 91 | `content creation` |
+| [Skill](content-creation/049-name-skill_eb562d5d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/ai-setup/SKILL.md) | ⭐ 91 | `content creation` |
+| [Skill](content-creation/049-name-skill_67f8fff9/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-skill/SKILL.md) | ⭐ 91 | `content creation` |
+| [Skill](content-creation/049-name-skill_935a7783/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-whats-new/SKILL.md) | ⭐ 91 | `content creation` |
+| [Skill](content-creation/049-name-skill_a971f473/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/health-check/SKILL.md) | ⭐ 91 | `content creation` |
+| [Skill](content-creation/049-name-skill_140ef5a6/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/journal/SKILL.md) | ⭐ 91 | `content creation` |
+| [Skill](content-creation/049-name-skill_f759f121/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/resume-builder/SKILL.md) | ⭐ 91 | `content creation` |
 
-### Daily Assistant (181 skills)
+### Daily Assistant (180 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -866,26 +865,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Refactor Planner](daily-assistant/118-refactor-planner_78aabb16/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/refactor-planner.md) | ⭐ 18 | `daily assistant` |
 | [Skill](daily-assistant/116-description-skill_69f1d260/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/assessor/SKILL.md) | ⭐ 18 | `daily assistant` |
 | [Skill](daily-assistant/116-description-skill_180ec289/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/implement-refactor/SKILL.md) | ⭐ 18 | `daily assistant` |
-| [Installation Quick Start](daily-assistant/installation_quick_start_1dc98130/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/INSTALLATION_QUICK_START.md) | ⭐ 91 | `daily assistant` |
-| [Plugin Readme](daily-assistant/plugin_readme_bdb366f1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/PLUGIN_README.md) | ⭐ 91 | `daily assistant` |
-| [Onboarding](daily-assistant/onboarding_4c77e25b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_d34bffbb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/ai-status/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_95513b21/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/beta-status/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_8f3a8438/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-mcp/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_b65af1a0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-plan/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_f038974d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-review/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_2a651165/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_9510f487/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-improve/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_d8ad9ae8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_5802c834/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/process-meetings/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_a79c3e91/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/project-health/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_b1c9aff2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/review/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_472252c7/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/save-insight/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_8313472f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-plan/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_af9988e2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-review/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_2477fd4c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/xray/SKILL.md) | ⭐ 91 | `daily assistant` |
-| [Tui Quick Reference](daily-assistant/tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_1b0a989e/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/beta-activate/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Installation Quick Start](daily-assistant/286-installation_quick_start_1dc98130/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/INSTALLATION_QUICK_START.md) | ⭐ 91 | `daily assistant` |
+| [Plugin Readme](daily-assistant/287-plugin_readme_bdb366f1/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/PLUGIN_README.md) | ⭐ 91 | `daily assistant` |
+| [Onboarding](daily-assistant/217-onboarding_4c77e25b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/flows/onboarding.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_d34bffbb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/ai-status/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_95513b21/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/beta-status/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_8f3a8438/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/create-mcp/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b65af1a0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-plan/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_f038974d/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/daily-review/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_2a651165/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-backlog/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_9510f487/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-improve/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_d8ad9ae8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/getting-started/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_5802c834/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/process-meetings/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_a79c3e91/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/project-health/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_b1c9aff2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/review/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_472252c7/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/save-insight/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_8313472f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-plan/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_af9988e2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/week-review/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_2477fd4c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/xray/SKILL.md) | ⭐ 91 | `daily assistant` |
+| [Tui Quick Reference](daily-assistant/288-tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
 
 ### Data Analysis (361 skills)
 
@@ -1251,7 +1249,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_078ec48f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/culture-index/skills/interpreting-culture-index/SKILL.md) | ⭐ 2.7k | `data analysis` |
 | [Syntax Reference](data-analysis/480-syntax-reference_f638bab2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/syntax-reference.md) | ⭐ 67 | `data analysis` |
 | [Log Analysis Tools](data-analysis/481-log-analysis-tools_109c6f7c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/docs/log-analysis-tools.md) | ⭐ 67 | `data analysis` |
-| [Skill](data-analysis/name-skill_741929bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/triage/SKILL.md) | ⭐ 91 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_741929bb/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/triage/SKILL.md) | ⭐ 91 | `data analysis` |
 
 ### Development (873 skills)
 
@@ -2129,9 +2127,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Commands](development/146-cli-commands_3587df79/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/docs/cli-commands.md) | ⭐ 67 | `development` |
 | [Heavy](development/2905-heavy_ade26409/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_738a4ca0/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/forge/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9c6b0bce/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/setup/SKILL.md) | ⭐ 91 | `development` |
+| [Skill](development/1178-name-skill_9c6b0bce/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/setup/SKILL.md) | ⭐ 91 | `development` |
 
-### Development/Devops (154 skills)
+### Development/Devops (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2211,7 +2209,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 | [Deploy](development/devops/037-deploy_b89179ca/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 87 | `development` |
 | [Question Patterns](development/devops/378-question-patterns_2c46f71b/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md) | ⭐ 1.1k | `development` |
-| [Roadmap](development/devops/097-roadmap_c9854362/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Roadmap](development/devops/roadmap_c398d237/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Configuration](development/devops/009-configuration_3a765019/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_f54065e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 | [Skill](development/devops/014-name-skill_ea49dc57/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright-e2e-builder/SKILL.md) | 🔥 20.1k | `playwright` `e2e` `testing` |
@@ -2287,10 +2285,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Known Issues](development/devops/368-known-issues_71ba8f01/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/known-issues.md) | ⭐ 67 | `development` |
 | [Cli Commands](development/devops/319-cli-commands_d7398a8b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-lwc/docs/cli-commands.md) | ⭐ 67 | `development` |
 | [Sf Cli Commands](development/devops/369-sf-cli-commands_c55f9711/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/docs/sf-cli-commands.md) | ⭐ 67 | `development` |
-| [Skill](development/devops/name-skill_bbe977a3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-add-mcp/SKILL.md) | ⭐ 91 | `development` |
-| [Skill](development/devops/name-skill_3c6032b3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrate-mcp/SKILL.md) | ⭐ 91 | `development` |
+| [Skill](development/devops/014-name-skill_bbe977a3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-add-mcp/SKILL.md) | ⭐ 91 | `development` |
+| [Skill](development/devops/014-name-skill_3c6032b3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrate-mcp/SKILL.md) | ⭐ 91 | `development` |
+| [Roadmap](development/devops/097-roadmap_c398d237/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (33 skills)
+### Development/Testing (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2327,6 +2326,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/085-plugin-validator-tasks_1c020e4a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Agent Lifecycle Audit](development/testing/086-agent-lifecycle-audit_05fd0a7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/references/agent-lifecycle-audit.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/002-name-skill_5732a1d8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 32 | `development` |
+| [Entra Id E2E](development/testing/entra-id-e2e_1275ac45/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/entra-id-e2e.md) | ⭐ 3.3k | `development` |
 
 ### Development/Tools (202 skills)
 
@@ -2533,7 +2533,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Getting Started](development/tools/326-getting_started_7e0180fa/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/GETTING_STARTED.md) | ⭐ 25 | `development` |
 | [Skill](development/tools/002-name-skill_10b17fbb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 67 | `development` |
 | [Skill](development/tools/002-name-skill_3af8e511/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/SKILL.md) | ⭐ 67 | `development` |
-| [Skill](development/tools/name-skill_1b1b73d0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/prompt-improver/SKILL.md) | ⭐ 91 | `development` |
+| [Skill](development/tools/002-name-skill_1b1b73d0/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/prompt-improver/SKILL.md) | ⭐ 91 | `development` |
 
 ### Investment (81 skills)
 
@@ -2619,7 +2619,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Earnings Calendar 2025 11 02](investment/100-earnings_calendar_2025-11-02_3865d06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_547ca791/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/.agents/skills/plugin-manager/SKILL.md) | ⭐ 23 | `investment` |
 | [Agentskills Specification](investment/048-agentskills-specification_8f83c6e4/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/docs/references/agentskills-specification.md) | ⭐ 10 | `investment` |
-| [Skill](investment/name-skill_2d27a181/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/reset/SKILL.md) | ⭐ 91 | `investment` |
+| [Skill](investment/021-name-skill_2d27a181/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/reset/SKILL.md) | ⭐ 91 | `investment` |
 
 ### Other (4 skills)
 
@@ -2674,11 +2674,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Portfolio Prioritization Models](productivity/173-portfolio-prioritization-models_f926f023/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/project-management/senior-pm/references/portfolio-prioritization-models.md) | ⭐ 1.8k | `productivity` |
 | [Agents Definitions.Instructions](productivity/173-agents-definitionsinstructions_f57bb24c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agents-definitions.instructions.md) | ⭐ 80 | `productivity` |
 | [Feature Proposals](productivity/173-feature-proposals_d08e3908/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/contribute/contributing/feature-proposals.md) | ⭐ 167 | `productivity` |
-| [Skill](productivity/name-skill_ed7d7847/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-coach/SKILL.md) | ⭐ 91 | `productivity` |
-| [Skill](productivity/name-skill_d00318ba/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-setup/SKILL.md) | ⭐ 91 | `productivity` |
-| [Skill](productivity/name-skill_0200f02c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) | ⭐ 91 | `productivity` |
-| [Skill](productivity/name-skill_3e6c66f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 91 | `productivity` |
-| [Skill](productivity/name-skill_6a04ed00/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 91 | `productivity` |
+| [Skill](productivity/093-name-skill_ed7d7847/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-coach/SKILL.md) | ⭐ 91 | `productivity` |
+| [Skill](productivity/093-name-skill_d00318ba/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/career-setup/SKILL.md) | ⭐ 91 | `productivity` |
+| [Skill](productivity/093-name-skill_0200f02c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-obsidian-setup/SKILL.md) | ⭐ 91 | `productivity` |
+| [Skill](productivity/093-name-skill_3e6c66f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 91 | `productivity` |
+| [Skill](productivity/093-name-skill_6a04ed00/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 91 | `productivity` |
 
 ### Research (81 skills)
 
@@ -2816,5 +2816,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 12:08:48 UTC*
+*Last updated: 2026-02-18 13:08:11 UTC*
 *Automatically maintained by SkillFlow*
