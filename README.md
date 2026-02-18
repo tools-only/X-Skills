@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2770 AI-powered skills** organized into 15 categories.
+A curated collection of **2713 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (79 skills)
-- **Automation/Workflow** (188 skills)
-- **Commercial** (95 skills)
-- **Communication** (64 skills)
-- **Content Creation** (194 skills)
-- **Daily Assistant** (190 skills)
+- **Automation/Scripting** (81 skills)
+- **Automation/Workflow** (142 skills)
+- **Commercial** (96 skills)
+- **Communication** (65 skills)
+- **Content Creation** (195 skills)
+- **Daily Assistant** (182 skills)
 - **Data Analysis** (379 skills)
-- **Development** (926 skills)
-- **Development/Devops** (176 skills)
-- **Development/Testing** (40 skills)
-- **Development/Tools** (214 skills)
+- **Development** (920 skills)
+- **Development/Devops** (177 skills)
+- **Development/Testing** (38 skills)
+- **Development/Tools** (212 skills)
 - **Investment** (91 skills)
 - **Other** (4 skills)
-- **Productivity** (46 skills)
+- **Productivity** (47 skills)
 - **Research** (84 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (79 skills)
+### Automation/Scripting (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -207,7 +207,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
-| [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/scripting/description-skill_38c61f90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
 | [Skill](automation/scripting/003-name-skill_32a134bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 23 | `automation` |
 | [Cli](automation/scripting/072-cli_dc21d97f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/cli.md) | ⭐ 364 | `automation` |
 | [Configuration](automation/scripting/033-configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
@@ -264,8 +264,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_8385a365/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_e1e9974f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_31b2fbbe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/085-description-skill_38c61f90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/scripting/description-skill_c5712ea0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-52-features/SKILL.md) | ⭐ 18 | `automation` |
 
-### Automation/Workflow (188 skills)
+### Automation/Workflow (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -305,7 +307,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_cc0cbbde/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/asking-clarifying-questions/SKILL.md) | ⭐ 110 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
 | [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/description-skill_bb607e93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/002-name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 | [Improvement Roadmap](automation/workflow/141-improvement_roadmap_6504ae62/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/IMPROVEMENT_ROADMAP.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_52ab9c8d/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/bim-visual-programming-automation/SKILL.md) | ⭐ 33 | `automation` |
@@ -389,76 +391,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_1212ff7f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/tailwind-theme-builder/SKILL.md) | ⭐ 499 | `automation` |
 | [Dark Mode Palette](automation/workflow/139-dark-mode-palette_39b7f7bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/color-palette/references/dark-mode-palette.md) | ⭐ 499 | `automation` |
 | [Jwt Token Vending](automation/workflow/082-jwt-token-vending_26fd6275/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/jwt-token-vending.md) | ⭐ 448 | `automation` |
-| [Skill](automation/workflow/name-skill_bcba95b7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/crypto-bd-agent/SKILL.md) | 🔥 11.4k | `automation` |
-| [Client Enqueue](automation/workflow/client-enqueue_075e7ded/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/client-enqueue.md) | 🔥 11.4k | `automation` |
-| [Queue Concurrency](automation/workflow/queue-concurrency_0cf2c87a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-concurrency.md) | 🔥 11.4k | `automation` |
-| [Queue Partitioning](automation/workflow/queue-partitioning_03bef7e4/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-partitioning.md) | 🔥 11.4k | `automation` |
-| [Queue Rate Limiting](automation/workflow/queue-rate-limiting_719e50f5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-rate-limiting.md) | 🔥 11.4k | `automation` |
-| [Workflow Introspection](automation/workflow/workflow-introspection_5b7c351e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
-| [Advanced Patching](automation/workflow/advanced-patching_cee21a7f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/advanced-patching.md) | 🔥 11.4k | `automation` |
-| [Client Enqueue](automation/workflow/client-enqueue_69218eee/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/client-enqueue.md) | 🔥 11.4k | `automation` |
-| [Comm Events](automation/workflow/comm-events_3165a77c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/comm-events.md) | 🔥 11.4k | `automation` |
-| [Queue Concurrency](automation/workflow/queue-concurrency_5f6ef20b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-concurrency.md) | 🔥 11.4k | `automation` |
-| [Queue Deduplication](automation/workflow/queue-deduplication_71c584da/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-deduplication.md) | 🔥 11.4k | `automation` |
-| [Queue Partitioning](automation/workflow/queue-partitioning_7df84ecd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-partitioning.md) | 🔥 11.4k | `automation` |
-| [Queue Rate Limiting](automation/workflow/queue-rate-limiting_6b7ef832/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-rate-limiting.md) | 🔥 11.4k | `automation` |
-| [Workflow Introspection](automation/workflow/workflow-introspection_60b0c15f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
-| [Workflow Timeout](automation/workflow/workflow-timeout_2ef50130/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-timeout.md) | 🔥 11.4k | `automation` |
-| [Pattern Idempotency](automation/workflow/pattern-idempotency_4745dd71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/pattern-idempotency.md) | 🔥 11.4k | `automation` |
-| [Queue Concurrency](automation/workflow/queue-concurrency_5eb81f48/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-concurrency.md) | 🔥 11.4k | `automation` |
-| [Queue Partitioning](automation/workflow/queue-partitioning_7eb69598/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-partitioning.md) | 🔥 11.4k | `automation` |
-| [Queue Rate Limiting](automation/workflow/queue-rate-limiting_690fad1d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-rate-limiting.md) | 🔥 11.4k | `automation` |
-| [Step Transactions](automation/workflow/step-transactions_0d42104a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/step-transactions.md) | 🔥 11.4k | `automation` |
-| [Workflow Introspection](automation/workflow/workflow-introspection_2f88148b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
-| [Advanced Patching](automation/workflow/advanced-patching_84f6484d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/advanced-patching.md) | 🔥 11.4k | `automation` |
-| [Advanced Versioning](automation/workflow/advanced-versioning_8995aacf/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/advanced-versioning.md) | 🔥 11.4k | `automation` |
-| [Comm Events](automation/workflow/comm-events_5b6ac94c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/comm-events.md) | 🔥 11.4k | `automation` |
-| [Comm Messages](automation/workflow/comm-messages_77ec5cbd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/comm-messages.md) | 🔥 11.4k | `automation` |
-| [Comm Streaming](automation/workflow/comm-streaming_f6c155e1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/comm-streaming.md) | 🔥 11.4k | `automation` |
-| [Pattern Debouncing](automation/workflow/pattern-debouncing_09aed5eb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/pattern-debouncing.md) | 🔥 11.4k | `automation` |
-| [Pattern Idempotency](automation/workflow/pattern-idempotency_dbbfa4a7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/pattern-idempotency.md) | 🔥 11.4k | `automation` |
-| [Queue Basics](automation/workflow/queue-basics_f09f1eaf/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-basics.md) | 🔥 11.4k | `automation` |
-| [Queue Deduplication](automation/workflow/queue-deduplication_4a5b91af/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-deduplication.md) | 🔥 11.4k | `automation` |
-| [Queue Listening](automation/workflow/queue-listening_59de5e65/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-listening.md) | 🔥 11.4k | `automation` |
-| [Queue Priority](automation/workflow/queue-priority_69dbab5f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-priority.md) | 🔥 11.4k | `automation` |
-| [Step Basics](automation/workflow/step-basics_fe421a93/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/step-basics.md) | 🔥 11.4k | `automation` |
-| [Step Concurrency](automation/workflow/step-concurrency_c437cbb7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/step-concurrency.md) | 🔥 11.4k | `automation` |
-| [Workflow Background](automation/workflow/workflow-background_5fdef9a3/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-background.md) | 🔥 11.4k | `automation` |
-| [Workflow Constraints](automation/workflow/workflow-constraints_4e8cd4a5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-constraints.md) | 🔥 11.4k | `automation` |
-| [Workflow Control](automation/workflow/workflow-control_88e42007/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-control.md) | 🔥 11.4k | `automation` |
-| [Workflow Determinism](automation/workflow/workflow-determinism_42106de9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-determinism.md) | 🔥 11.4k | `automation` |
-| [Workflow Timeout](automation/workflow/workflow-timeout_33d1740c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-timeout.md) | 🔥 11.4k | `automation` |
-| [Advanced Versioning](automation/workflow/advanced-versioning_242a7f95/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/advanced-versioning.md) | 🔥 11.4k | `automation` |
-| [Comm Messages](automation/workflow/comm-messages_5b3b23be/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/comm-messages.md) | 🔥 11.4k | `automation` |
-| [Comm Streaming](automation/workflow/comm-streaming_7bc937d8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/comm-streaming.md) | 🔥 11.4k | `automation` |
-| [Lifecycle Fastapi](automation/workflow/lifecycle-fastapi_d7af40b8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/lifecycle-fastapi.md) | 🔥 11.4k | `automation` |
-| [Pattern Classes](automation/workflow/pattern-classes_38acb619/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/pattern-classes.md) | 🔥 11.4k | `automation` |
-| [Pattern Debouncing](automation/workflow/pattern-debouncing_fec81ebe/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/pattern-debouncing.md) | 🔥 11.4k | `automation` |
-| [Pattern Idempotency](automation/workflow/pattern-idempotency_3a89f4f0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/pattern-idempotency.md) | 🔥 11.4k | `automation` |
-| [Queue Basics](automation/workflow/queue-basics_8621e190/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-basics.md) | 🔥 11.4k | `automation` |
-| [Queue Priority](automation/workflow/queue-priority_0961faa4/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-priority.md) | 🔥 11.4k | `automation` |
-| [Step Basics](automation/workflow/step-basics_baceecde/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/step-basics.md) | 🔥 11.4k | `automation` |
-| [Workflow Background](automation/workflow/workflow-background_02613869/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-background.md) | 🔥 11.4k | `automation` |
-| [Workflow Constraints](automation/workflow/workflow-constraints_2571753b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-constraints.md) | 🔥 11.4k | `automation` |
-| [Workflow Control](automation/workflow/workflow-control_885df4bd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-control.md) | 🔥 11.4k | `automation` |
-| [Workflow Determinism](automation/workflow/workflow-determinism_cb00f075/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-determinism.md) | 🔥 11.4k | `automation` |
-| [Advanced Versioning](automation/workflow/advanced-versioning_517d755f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/advanced-versioning.md) | 🔥 11.4k | `automation` |
-| [Comm Streaming](automation/workflow/comm-streaming_afab505d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/comm-streaming.md) | 🔥 11.4k | `automation` |
-| [Lifecycle Config](automation/workflow/lifecycle-config_75344dfd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/lifecycle-config.md) | 🔥 11.4k | `automation` |
-| [Lifecycle Express](automation/workflow/lifecycle-express_2ef3bbd1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/lifecycle-express.md) | 🔥 11.4k | `automation` |
-| [Pattern Debouncing](automation/workflow/pattern-debouncing_7c8f2841/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/pattern-debouncing.md) | 🔥 11.4k | `automation` |
-| [Queue Basics](automation/workflow/queue-basics_445217b9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-basics.md) | 🔥 11.4k | `automation` |
-| [Queue Deduplication](automation/workflow/queue-deduplication_f9775744/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-deduplication.md) | 🔥 11.4k | `automation` |
-| [Queue Listening](automation/workflow/queue-listening_14bf01af/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-listening.md) | 🔥 11.4k | `automation` |
-| [Queue Priority](automation/workflow/queue-priority_f3e3ff0d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-priority.md) | 🔥 11.4k | `automation` |
-| [Step Basics](automation/workflow/step-basics_48e887fb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/step-basics.md) | 🔥 11.4k | `automation` |
-| [Workflow Background](automation/workflow/workflow-background_1808a464/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-background.md) | 🔥 11.4k | `automation` |
-| [Workflow Constraints](automation/workflow/workflow-constraints_9f581a5a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-constraints.md) | 🔥 11.4k | `automation` |
-| [Workflow Control](automation/workflow/workflow-control_5e90ce42/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-control.md) | 🔥 11.4k | `automation` |
-| [Workflow Determinism](automation/workflow/workflow-determinism_66766a10/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-determinism.md) | 🔥 11.4k | `automation` |
-| [Workflow Timeout](automation/workflow/workflow-timeout_3e664ffb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-timeout.md) | 🔥 11.4k | `automation` |
+| [Skill](automation/workflow/002-name-skill_bcba95b7/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/crypto-bd-agent/SKILL.md) | 🔥 11.4k | `automation` |
+| [Client Enqueue](automation/workflow/141-client-enqueue_075e7ded/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/client-enqueue.md) | 🔥 11.4k | `automation` |
+| [Queue Concurrency](automation/workflow/142-queue-concurrency_0cf2c87a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-concurrency.md) | 🔥 11.4k | `automation` |
+| [Queue Partitioning](automation/workflow/143-queue-partitioning_03bef7e4/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-partitioning.md) | 🔥 11.4k | `automation` |
+| [Queue Rate Limiting](automation/workflow/144-queue-rate-limiting_719e50f5/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/queue-rate-limiting.md) | 🔥 11.4k | `automation` |
+| [Workflow Introspection](automation/workflow/145-workflow-introspection_5b7c351e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
+| [Advanced Patching](automation/workflow/146-advanced-patching_cee21a7f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/advanced-patching.md) | 🔥 11.4k | `automation` |
+| [Client Enqueue](automation/workflow/141-client-enqueue_69218eee/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/client-enqueue.md) | 🔥 11.4k | `automation` |
+| [Comm Events](automation/workflow/147-comm-events_3165a77c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/comm-events.md) | 🔥 11.4k | `automation` |
+| [Queue Concurrency](automation/workflow/142-queue-concurrency_5f6ef20b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-concurrency.md) | 🔥 11.4k | `automation` |
+| [Queue Deduplication](automation/workflow/148-queue-deduplication_71c584da/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-deduplication.md) | 🔥 11.4k | `automation` |
+| [Queue Partitioning](automation/workflow/143-queue-partitioning_7df84ecd/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-partitioning.md) | 🔥 11.4k | `automation` |
+| [Queue Rate Limiting](automation/workflow/144-queue-rate-limiting_6b7ef832/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-rate-limiting.md) | 🔥 11.4k | `automation` |
+| [Workflow Introspection](automation/workflow/145-workflow-introspection_60b0c15f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
+| [Workflow Timeout](automation/workflow/149-workflow-timeout_2ef50130/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/workflow-timeout.md) | 🔥 11.4k | `automation` |
+| [Pattern Idempotency](automation/workflow/150-pattern-idempotency_4745dd71/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/pattern-idempotency.md) | 🔥 11.4k | `automation` |
+| [Queue Concurrency](automation/workflow/142-queue-concurrency_5eb81f48/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-concurrency.md) | 🔥 11.4k | `automation` |
+| [Queue Partitioning](automation/workflow/143-queue-partitioning_7eb69598/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-partitioning.md) | 🔥 11.4k | `automation` |
+| [Queue Rate Limiting](automation/workflow/144-queue-rate-limiting_690fad1d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/queue-rate-limiting.md) | 🔥 11.4k | `automation` |
+| [Step Transactions](automation/workflow/151-step-transactions_0d42104a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/step-transactions.md) | 🔥 11.4k | `automation` |
+| [Workflow Introspection](automation/workflow/145-workflow-introspection_2f88148b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
+| [Skill](automation/workflow/064-description-skill_bb607e93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
 
-### Commercial (95 skills)
+### Commercial (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -557,8 +513,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Industry Icons](commercial/379-industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
 | [Cta Patterns](commercial/380-cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
 | [Disclaimer](commercial/370-disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
+| [Skill](commercial/description-skill_25bb1dab/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-51-features/SKILL.md) | ⭐ 18 | `commercial` |
 
-### Communication (64 skills)
+### Communication (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -567,7 +524,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
-| [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
+| [Rfc9728 Compliance](communication/rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 | [Implicit Constraints](communication/257-implicit-constraints_fe3c9296/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/implicit-constraints.md) | ⭐ 99 | `communication` |
 | [Multi Turn Consistency](communication/258-multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
 | [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
@@ -626,8 +583,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Patterns](communication/084-patterns_38306b75/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-apps-script/references/patterns.md) | ⭐ 499 | `communication` |
 | [Component Catalogue](communication/261-component-catalogue_e0043acb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/component-catalogue.md) | ⭐ 499 | `communication` |
 | [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
+| [Rfc9728 Compliance](communication/256-rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 
-### Content Creation (194 skills)
+### Content Creation (195 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -825,8 +783,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hono Patterns](content-creation/375-hono-patterns_50d4587f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/references/hono-patterns.md) | ⭐ 499 | `content creation` |
 | [Workflows](content-creation/060-workflows_a52616fc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/workflows.md) | ⭐ 499 | `content creation` |
 | [Card Patterns](content-creation/376-card-patterns_5bd74011/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/card-patterns.md) | ⭐ 499 | `content creation` |
+| [Contextual Ai Documentation Optimizer](content-creation/contextual-ai-documentation-optimizer_b6857016/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `content creation` |
 
-### Daily Assistant (190 skills)
+### Daily Assistant (182 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1011,15 +970,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_2477fd4c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/xray/SKILL.md) | ⭐ 91 | `daily assistant` |
 | [Tui Quick Reference](daily-assistant/288-tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
 | [Walkthrough Checklist](daily-assistant/277-walkthrough-checklist_d4d7589a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/walkthrough-checklist.md) | ⭐ 499 | `daily assistant` |
-| [Pattern Scheduled](daily-assistant/pattern-scheduled_10be31ad/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/pattern-scheduled.md) | 🔥 11.4k | `daily assistant` |
-| [Pattern Sleep](daily-assistant/pattern-sleep_fbd4e760/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/pattern-sleep.md) | 🔥 11.4k | `daily assistant` |
-| [Advanced Async](daily-assistant/advanced-async_4c081f87/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/advanced-async.md) | 🔥 11.4k | `daily assistant` |
-| [Lifecycle Config](daily-assistant/lifecycle-config_abacc19b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/lifecycle-config.md) | 🔥 11.4k | `daily assistant` |
-| [Pattern Scheduled](daily-assistant/pattern-scheduled_c8cbb061/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/pattern-scheduled.md) | 🔥 11.4k | `daily assistant` |
-| [Pattern Sleep](daily-assistant/pattern-sleep_e8a4c22b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/pattern-sleep.md) | 🔥 11.4k | `daily assistant` |
-| [Pattern Classes](daily-assistant/pattern-classes_f48ed4a4/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/pattern-classes.md) | 🔥 11.4k | `daily assistant` |
-| [Pattern Scheduled](daily-assistant/pattern-scheduled_fc853628/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/pattern-scheduled.md) | 🔥 11.4k | `daily assistant` |
-| [Pattern Sleep](daily-assistant/pattern-sleep_f7deaa37/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/pattern-sleep.md) | 🔥 11.4k | `daily assistant` |
+| [Backlog Item Groomer](daily-assistant/backlog-item-groomer_3fb25bb3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 18 | `daily assistant` |
 
 ### Data Analysis (379 skills)
 
@@ -1297,7 +1248,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Claude](data-analysis/claude_6ef63f75/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Release Notes V5.3.0](data-analysis/492-release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
 | [Development Readme](data-analysis/493-development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
 | [Grafana Dashboard](data-analysis/494-grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
@@ -1403,9 +1354,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Spec](data-analysis/481-spec_50c2c107/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
 | [Tasks](data-analysis/482-tasks_f53afa83/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/tasks.md) | ⭐ 23 | `data analysis` |
 | [Spec](data-analysis/481-spec_abc0e01b/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
-| [Queue Listening](data-analysis/queue-listening_bedf54dc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/queue-listening.md) | 🔥 11.4k | `data analysis` |
+| [Claude](data-analysis/036-claude_6ef63f75/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 
-### Development (926 skills)
+### Development (920 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2320,23 +2271,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_09060445/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-FireBullets-AND-TraceAttack-AND-CTakeDamageInfo/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_d934c267/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-IGameSystem_LoopPostInitAllSystems_pEventDispatcher-AND-IGameSystem_LoopDestroyAllSystems_s_GameSystems/SKILL.md) | ⭐ 19 | `development` |
 | [Architecture](development/055-architecture_433f7a11/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/zh/ARCHITECTURE.md) | ⭐ 27 | `development` |
-| [Usage](development/usage_d64dc8e0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/USAGE.md) | 🔥 11.4k | `development` |
-| [Agents](development/agents_b3f17985/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/AGENTS.md) | 🔥 11.4k | `development` |
-| [Skill](development/name-skill_e0d289a0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/SKILL.md) | 🔥 11.4k | `development` |
-| [Skill](development/name-skill_abc0cd4e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/SKILL.md) | 🔥 11.4k | `development` |
-| [Agents](development/agents_6ef25d14/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/AGENTS.md) | 🔥 11.4k | `development` |
-| [Skill](development/name-skill_bd67ff6d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/SKILL.md) | 🔥 11.4k | `development` |
-| [Client Enqueue](development/client-enqueue_ae8e773e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/client-enqueue.md) | 🔥 11.4k | `development` |
-| [Lifecycle Config](development/lifecycle-config_e51e4066/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/lifecycle-config.md) | 🔥 11.4k | `development` |
-| [Step Retries](development/step-retries_ab164af0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/step-retries.md) | 🔥 11.4k | `development` |
-| [Step Retries](development/step-retries_3625188b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/step-retries.md) | 🔥 11.4k | `development` |
-| [Advanced Patching](development/advanced-patching_23ef4212/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/advanced-patching.md) | 🔥 11.4k | `development` |
-| [Comm Events](development/comm-events_5d23a8b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/comm-events.md) | 🔥 11.4k | `development` |
-| [Comm Messages](development/comm-messages_4d3b9534/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/comm-messages.md) | 🔥 11.4k | `development` |
-| [Step Retries](development/step-retries_f2f2b3e9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/step-retries.md) | 🔥 11.4k | `development` |
-| [Test Setup](development/test-setup_102c2a88/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/test-setup.md) | 🔥 11.4k | `development` |
+| [Usage](development/2922-usage_d64dc8e0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/USAGE.md) | 🔥 11.4k | `development` |
+| [Agents](development/028-agents_b3f17985/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/AGENTS.md) | 🔥 11.4k | `development` |
+| [Skill](development/1178-name-skill_e0d289a0/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/SKILL.md) | 🔥 11.4k | `development` |
+| [Skill](development/1178-name-skill_abc0cd4e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/SKILL.md) | 🔥 11.4k | `development` |
+| [Agents](development/028-agents_6ef25d14/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/AGENTS.md) | 🔥 11.4k | `development` |
+| [Skill](development/1178-name-skill_bd67ff6d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/SKILL.md) | 🔥 11.4k | `development` |
+| [Client Enqueue](development/2923-client-enqueue_ae8e773e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/client-enqueue.md) | 🔥 11.4k | `development` |
+| [Skill](development/description-skill_ad1e8a07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/description-skill_93b4daeb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Devops (176 skills)
+### Development/Devops (177 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2416,7 +2361,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 | [Deploy](development/devops/037-deploy_b89179ca/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 87 | `development` |
 | [Question Patterns](development/devops/378-question-patterns_2c46f71b/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md) | ⭐ 1.1k | `development` |
-| [Roadmap](development/devops/097-roadmap_c9854362/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Roadmap](development/devops/roadmap_a2a1ef49/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Configuration](development/devops/009-configuration_3a765019/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_f54065e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 | [Skill](development/devops/014-name-skill_ea49dc57/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright-e2e-builder/SKILL.md) | 🔥 20.1k | `playwright` `e2e` `testing` |
@@ -2516,8 +2461,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Database Abstraction Layer](development/devops/255-database-abstraction-layer_211cffb3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/database-abstraction-layer.md) | ⭐ 448 | `development` |
 | [Hybrid Search Architecture](development/devops/256-hybrid-search-architecture_71a1f9be/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 448 | `development` |
 | [Virtual Mcp Server](development/devops/368-virtual-mcp-server_03fa9d5c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server.md) | ⭐ 448 | `development` |
+| [Roadmap](development/devops/097-roadmap_a2a1ef49/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (40 skills)
+### Development/Testing (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2555,14 +2501,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent Lifecycle Audit](development/testing/086-agent-lifecycle-audit_05fd0a7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-agent-lifecycle/references/agent-lifecycle-audit.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/002-name-skill_5732a1d8/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/go/SKILL.md) | ⭐ 32 | `development` |
 | [Skill](development/testing/002-name-skill_886f6fd9/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/.skills/http-request/SKILL.md) | ⭐ 27 | `development` |
-| [Agents](development/testing/agents_82ad2273/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/AGENTS.md) | 🔥 11.4k | `development` |
-| [Sections](development/testing/_sections_f3a4cd34/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/_sections.md) | 🔥 11.4k | `development` |
-| [Sections](development/testing/_sections_77798351/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/_sections.md) | 🔥 11.4k | `development` |
-| [Sections](development/testing/_sections_2c62fa6e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/_sections.md) | 🔥 11.4k | `development` |
-| [Test Setup](development/testing/test-setup_92352936/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/test-setup.md) | 🔥 11.4k | `development` |
-| [Test Fixtures](development/testing/test-fixtures_24f08bf1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/test-fixtures.md) | 🔥 11.4k | `development` |
+| [Agents](development/testing/024-agents_82ad2273/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/AGENTS.md) | 🔥 11.4k | `development` |
+| [Sections](development/testing/086-_sections_f3a4cd34/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/_sections.md) | 🔥 11.4k | `development` |
+| [Sections](development/testing/086-_sections_77798351/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/_sections.md) | 🔥 11.4k | `development` |
+| [Sections](development/testing/086-_sections_2c62fa6e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/_sections.md) | 🔥 11.4k | `development` |
 
-### Development/Tools (214 skills)
+### Development/Tools (212 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2777,9 +2721,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Virtual Mcp Server Explained](development/tools/333-virtual-mcp-server-explained_8511e4e0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server-explained.md) | ⭐ 448 | `development` |
 | [Architecture](development/tools/051-architecture_06ac770b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 27 | `development` |
 | [Env Reference](development/tools/339-env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
-| [Client Setup](development/tools/client-setup_025e58f8/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/client-setup.md) | 🔥 11.4k | `development` |
-| [Client Setup](development/tools/client-setup_980d4444/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/client-setup.md) | 🔥 11.4k | `development` |
-| [Client Setup](development/tools/client-setup_7489cffc/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/client-setup.md) | 🔥 11.4k | `development` |
+| [Skill](development/tools/name-skill_011128f9/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-full-deps/SKILL.md) | ⭐ 15 | `development` |
 
 ### Investment (91 skills)
 
@@ -2886,7 +2828,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
 
-### Productivity (46 skills)
+### Productivity (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2936,6 +2878,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_3e6c66f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 91 | `productivity` |
 | [Skill](productivity/093-name-skill_6a04ed00/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 91 | `productivity` |
 | [Cost Optimization](productivity/173-cost-optimization_0b8bba82/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cost-optimization.md) | ⭐ 499 | `productivity` |
+| [Contextual Ai Documentation Optimizer](productivity/contextual-ai-documentation-optimizer_f85c0f6b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `productivity` |
 
 ### Research (84 skills)
 
@@ -3024,7 +2967,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Debugging Guide](research/260-debugging-guide_c5364ec9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/debugging-guide.md) | ⭐ 67 | `research` |
 | [Skill](research/139-name-skill_132d97bd/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/claude-capabilities/SKILL.md) | ⭐ 499 | `research` |
 | [Context Features](research/261-context-features_5d1bde1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/references/context-features.md) | ⭐ 499 | `research` |
-| [Step Transactions](research/step-transactions_bfb4e5e9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/step-transactions.md) | 🔥 11.4k | `research` |
+| [Step Transactions](research/262-step-transactions_bfb4e5e9/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/step-transactions.md) | 🔥 11.4k | `research` |
 
 ## How Skills Are Organized
 
@@ -3076,5 +3019,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 17:08:03 UTC*
+*Last updated: 2026-02-18 18:09:42 UTC*
 *Automatically maintained by SkillFlow*
