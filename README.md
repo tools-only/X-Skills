@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2713 AI-powered skills** organized into 15 categories.
+A curated collection of **2797 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (81 skills)
-- **Automation/Workflow** (142 skills)
-- **Commercial** (96 skills)
-- **Communication** (65 skills)
-- **Content Creation** (195 skills)
-- **Daily Assistant** (182 skills)
-- **Data Analysis** (379 skills)
-- **Development** (920 skills)
-- **Development/Devops** (177 skills)
-- **Development/Testing** (38 skills)
-- **Development/Tools** (212 skills)
-- **Investment** (91 skills)
+- **Automation/Scripting** (85 skills)
+- **Automation/Workflow** (146 skills)
+- **Commercial** (103 skills)
+- **Communication** (66 skills)
+- **Content Creation** (202 skills)
+- **Daily Assistant** (199 skills)
+- **Data Analysis** (387 skills)
+- **Development** (943 skills)
+- **Development/Devops** (179 skills)
+- **Development/Testing** (42 skills)
+- **Development/Tools** (214 skills)
+- **Investment** (93 skills)
 - **Other** (4 skills)
-- **Productivity** (47 skills)
+- **Productivity** (50 skills)
 - **Research** (84 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (81 skills)
+### Automation/Scripting (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -207,7 +207,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Assign Agents](automation/scripting/096-assign_agents_5e56753e/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/assign_agents.md) | ⭐ 28 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cb26b85f/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md) | ⭐ 153 | `automation` |
 | [Skill](automation/scripting/003-name-skill_447862ae/) | [intellectronica/agent-skills](https://raw.githubusercontent.com/intellectronica/agent-skills/main/skills/here-be-git/SKILL.md) | ⭐ 192 | `automation` |
-| [Skill](automation/scripting/description-skill_38c61f90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/scripting/085-description-skill_41fdba4b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/scripting/003-name-skill_32a134bc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/documents/skills/pdf-processing-pro/SKILL.md) | ⭐ 23 | `automation` |
 | [Cli](automation/scripting/072-cli_dc21d97f/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/cli.md) | ⭐ 364 | `automation` |
 | [Configuration](automation/scripting/033-configuration_32185af5/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/reference/configuration.md) | ⭐ 364 | `automation` |
@@ -265,9 +265,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_e1e9974f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_31b2fbbe/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/085-description-skill_38c61f90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
-| [Skill](automation/scripting/description-skill_c5712ea0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-52-features/SKILL.md) | ⭐ 18 | `automation` |
+| [Parallel Dispatcher](automation/scripting/parallel-dispatcher_119b8526/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/parallel-dispatcher.md) | ⭐ 42 | `automation` |
+| [Skill](automation/scripting/name-skill_85ef5262/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/parallel-dispatch/SKILL.md) | ⭐ 42 | `automation` |
+| [Brainstorm](automation/scripting/brainstorm_abda7c07/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/brainstorm.md) | ⭐ 42 | `automation` |
+| [Execute Plan](automation/scripting/execute-plan_f9a7c251/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/execute-plan.md) | ⭐ 42 | `automation` |
+| [Critique Template](automation/scripting/critique_template_15130b22/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/assets/critique_template.md) | ⭐ 42 | `automation` |
 
-### Automation/Workflow (142 skills)
+### Automation/Workflow (146 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -307,7 +311,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_cc0cbbde/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/asking-clarifying-questions/SKILL.md) | ⭐ 110 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
 | [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/description-skill_bb607e93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 | [Improvement Roadmap](automation/workflow/141-improvement_roadmap_6504ae62/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/IMPROVEMENT_ROADMAP.md) | ⭐ 33 | `automation` |
 | [Skill](automation/workflow/002-name-skill_52ab9c8d/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/5_DDC_Innovative/bim-visual-programming-automation/SKILL.md) | ⭐ 33 | `automation` |
@@ -413,8 +417,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Step Transactions](automation/workflow/151-step-transactions_0d42104a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/step-transactions.md) | 🔥 11.4k | `automation` |
 | [Workflow Introspection](automation/workflow/145-workflow-introspection_2f88148b/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/workflow-introspection.md) | 🔥 11.4k | `automation` |
 | [Skill](automation/workflow/064-description-skill_bb607e93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
+| [Board Review](automation/workflow/board-review_ee5fc258/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/board-review.md) | ⭐ 42 | `automation` |
+| [Implement](automation/workflow/implement_b34bae22/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/implement.md) | ⭐ 42 | `automation` |
+| [Setup](automation/workflow/setup_4579caf4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/setup.md) | ⭐ 42 | `automation` |
+| [Ui Audit](automation/workflow/ui-audit_8b8a25c7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ui-audit.md) | ⭐ 42 | `automation` |
 
-### Commercial (96 skills)
+### Commercial (103 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -513,9 +521,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Industry Icons](commercial/379-industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
 | [Cta Patterns](commercial/380-cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
 | [Disclaimer](commercial/370-disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
-| [Skill](commercial/description-skill_25bb1dab/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-51-features/SKILL.md) | ⭐ 18 | `commercial` |
+| [Board Meeting](commercial/board-meeting_c91816e1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 42 | `commercial` |
+| [Ceo](commercial/ceo_c5da5855/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ceo.md) | ⭐ 42 | `commercial` |
+| [Status](commercial/status_5707e136/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/status.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/name-skill_c81cad39/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/name-skill_d378f606/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-business-logic/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/name-skill_cad96e65/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-integration/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/name-skill_cd634626/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-execution-evaluator/SKILL.md) | ⭐ 42 | `commercial` |
+| [Chief Product Officer](commercial/chief-product-officer_2a501bbd/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-product-officer.md) | ⭐ 42 | `commercial` |
 
-### Communication (65 skills)
+### Communication (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -524,7 +539,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
-| [Rfc9728 Compliance](communication/rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
+| [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 | [Implicit Constraints](communication/257-implicit-constraints_fe3c9296/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/implicit-constraints.md) | ⭐ 99 | `communication` |
 | [Multi Turn Consistency](communication/258-multi-turn-consistency_f078131b/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/multi-turn-consistency.md) | ⭐ 99 | `communication` |
 | [Partial Information](communication/259-partial-information_ceedc74c/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/partial-information.md) | ⭐ 99 | `communication` |
@@ -584,8 +599,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Component Catalogue](communication/261-component-catalogue_e0043acb/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/component-catalogue.md) | ⭐ 499 | `communication` |
 | [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
+| [Cmo](communication/cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
 
-### Content Creation (195 skills)
+### Content Creation (202 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -783,9 +799,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hono Patterns](content-creation/375-hono-patterns_50d4587f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/hono-api-scaffolder/references/hono-patterns.md) | ⭐ 499 | `content creation` |
 | [Workflows](content-creation/060-workflows_a52616fc/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/skill-creator/references/workflows.md) | ⭐ 499 | `content creation` |
 | [Card Patterns](content-creation/376-card-patterns_5bd74011/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/card-patterns.md) | ⭐ 499 | `content creation` |
-| [Contextual Ai Documentation Optimizer](content-creation/contextual-ai-documentation-optimizer_b6857016/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `content creation` |
+| [Contextual Ai Documentation Optimizer](content-creation/356-contextual-ai-documentation-optimizer_b6857016/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `content creation` |
+| [Conductor Orchestrator](content-creation/conductor-orchestrator_677bcf29/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/conductor-orchestrator.md) | ⭐ 42 | `content creation` |
+| [Loop Fixer](content-creation/loop-fixer_46ff46a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-fixer.md) | ⭐ 42 | `content creation` |
+| [Parallel Dispatcher](content-creation/parallel-dispatcher_401cb051/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/parallel-dispatcher.md) | ⭐ 42 | `content creation` |
+| [Task Worker](content-creation/task-worker_5a115c1e/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/task-worker.md) | ⭐ 42 | `content creation` |
+| [Task Worker](content-creation/task-worker_8f086799/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/task-worker.md) | ⭐ 42 | `content creation` |
+| [Chief Experience Officer](content-creation/chief-experience-officer_26ac3f85/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-experience-officer.md) | ⭐ 42 | `content creation` |
+| [Task Worker.Template](content-creation/task-workertemplate_6ad41d01/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/task-worker.template.md) | ⭐ 42 | `content creation` |
 
-### Daily Assistant (182 skills)
+### Daily Assistant (199 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -970,9 +993,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_2477fd4c/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/xray/SKILL.md) | ⭐ 91 | `daily assistant` |
 | [Tui Quick Reference](daily-assistant/288-tui_quick_reference_f67a283f/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/pi-extensions/dex/ui/TUI_QUICK_REFERENCE.md) | ⭐ 91 | `daily assistant` |
 | [Walkthrough Checklist](daily-assistant/277-walkthrough-checklist_d4d7589a/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/ux-audit/references/walkthrough-checklist.md) | ⭐ 499 | `daily assistant` |
-| [Backlog Item Groomer](daily-assistant/backlog-item-groomer_3fb25bb3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 18 | `daily assistant` |
+| [Backlog Item Groomer](daily-assistant/286-backlog-item-groomer_3fb25bb3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 18 | `daily assistant` |
+| [Loop Planner](daily-assistant/loop-planner_738100ef/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-planner.md) | ⭐ 42 | `daily assistant` |
+| [Ceo](daily-assistant/ceo_b984df07/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ceo.md) | ⭐ 42 | `daily assistant` |
+| [Cmo](daily-assistant/cmo_baa9b4a7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cmo.md) | ⭐ 42 | `daily assistant` |
+| [Cto](daily-assistant/cto_73adfce6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto.md) | ⭐ 42 | `daily assistant` |
+| [Loop Fixer](daily-assistant/loop-fixer_cf1fc72f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-fixer.md) | ⭐ 42 | `daily assistant` |
+| [Loop Plan Evaluator](daily-assistant/loop-plan-evaluator_45093ebf/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-plan-evaluator.md) | ⭐ 42 | `daily assistant` |
+| [Loop Planner](daily-assistant/loop-planner_ba691d88/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-planner.md) | ⭐ 42 | `daily assistant` |
+| [Ux Designer](daily-assistant/ux-designer_0e7542ab/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ux-designer.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_7a238df1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/brainstorming/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/ensures-skill_43b9174f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/business-docs-sync/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_f09a7f35/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_3ec846b5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-planner/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_382b9cde/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/track-manager/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_07d73726/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/using-superpowers/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [go](daily-assistant/go_f538e773/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/go.md) | ⭐ 42 | `daily assistant` |
+| [Write Plan](daily-assistant/write-plan_4da2b064/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/write-plan.md) | ⭐ 42 | `daily assistant` |
+| [Ui Worker.Template](daily-assistant/ui-workertemplate_328fa406/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/ui-worker.template.md) | ⭐ 42 | `daily assistant` |
 
-### Data Analysis (379 skills)
+### Data Analysis (387 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1248,7 +1288,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/claude_6ef63f75/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 | [Release Notes V5.3.0](data-analysis/492-release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
 | [Development Readme](data-analysis/493-development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
 | [Grafana Dashboard](data-analysis/494-grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
@@ -1355,8 +1395,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tasks](data-analysis/482-tasks_f53afa83/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/tasks.md) | ⭐ 23 | `data analysis` |
 | [Spec](data-analysis/481-spec_abc0e01b/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/archive/2026-02-17-add-chat-visualization/specs/chat-visualization/spec.md) | ⭐ 23 | `data analysis` |
 | [Claude](data-analysis/036-claude_6ef63f75/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Loop Plan Evaluator](data-analysis/loop-plan-evaluator_3c2e1062/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-plan-evaluator.md) | ⭐ 42 | `data analysis` |
+| [Ux Designer](data-analysis/ux-designer_b9fefa6c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ux-designer.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/name-skill_0d42199c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-ui-ux/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/name-skill_6b09403c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-fixer/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/name-skill_55f6ee5a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-plan-evaluator/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/name-skill_55544f64/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/message-bus/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/name-skill_7f117efa/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/go/SKILL.md) | ⭐ 42 | `data analysis` |
+| [Skill](data-analysis/name-skill_7a94372b/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/product-lead/SKILL.md) | ⭐ 42 | `data analysis` |
 
-### Development (920 skills)
+### Development (943 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2278,10 +2326,33 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_6ef25d14/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/AGENTS.md) | 🔥 11.4k | `development` |
 | [Skill](development/1178-name-skill_bd67ff6d/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/SKILL.md) | 🔥 11.4k | `development` |
 | [Client Enqueue](development/2923-client-enqueue_ae8e773e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/client-enqueue.md) | 🔥 11.4k | `development` |
-| [Skill](development/description-skill_ad1e8a07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
-| [Skill](development/description-skill_93b4daeb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_ad1e8a07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_93b4daeb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
+| [Code Reviewer](development/code-reviewer_b17be291/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/code-reviewer.md) | ⭐ 42 | `development` |
+| [Loop Execution Evaluator](development/loop-execution-evaluator_bec40e0d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-execution-evaluator.md) | ⭐ 42 | `development` |
+| [Loop Executor](development/loop-executor_1ebc4a14/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-executor.md) | ⭐ 42 | `development` |
+| [Loop Execution Evaluator](development/loop-execution-evaluator_0373a89a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-execution-evaluator.md) | ⭐ 42 | `development` |
+| [Loop Executor](development/loop-executor_0efcbfae/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-executor.md) | ⭐ 42 | `development` |
+| [Phase Review](development/phase-review_a4e51ca7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/phase-review.md) | ⭐ 42 | `development` |
+| [Workflow](development/workflow_3e8e366a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/workflow.md) | ⭐ 42 | `development` |
+| [New Track](development/new-track_580c1091/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/new-track.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_5da10c06/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/agent-factory/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_cc2657b4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_c65c7ac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-plan-reviewer/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_ecac652a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-code-quality/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_8a9198d4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/writing-plans/SKILL.md) | ⭐ 42 | `development` |
+| [Chief Security Officer](development/chief-security-officer_aa3c9e13/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-security-officer.md) | ⭐ 42 | `development` |
+| [Architecture Decision Records](development/architecture_decision_records_6cf0c166/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/architecture_decision_records.md) | ⭐ 42 | `development` |
+| [Engineering Metrics](development/engineering_metrics_e7ec87cc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/engineering_metrics.md) | ⭐ 42 | `development` |
+| [Technology Evaluation Framework](development/technology_evaluation_framework_58273842/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/technology_evaluation_framework.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_f7f32eed/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/knowledge-manager/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_1880e5f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/retrospective-agent/SKILL.md) | ⭐ 42 | `development` |
+| [Cto](development/cto_8e2d5858/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cto.md) | ⭐ 42 | `development` |
+| [Code Worker.Template](development/code-workertemplate_939eea2c/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/code-worker.template.md) | ⭐ 42 | `development` |
+| [Integration Worker.Template](development/integration-workertemplate_49648e27/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/integration-worker.template.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_67b42dbe/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/architecture-lead/SKILL.md) | ⭐ 42 | `development` |
 
-### Development/Devops (177 skills)
+### Development/Devops (179 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2361,7 +2432,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_100a5447/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/skills/claude-md-management/SKILL.md) | ⭐ 97 | `development` |
 | [Deploy](development/devops/037-deploy_b89179ca/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/deploy.md) | ⭐ 87 | `development` |
 | [Question Patterns](development/devops/378-question-patterns_2c46f71b/) | [severity1/claude-code-prompt-improver](https://raw.githubusercontent.com/severity1/claude-code-prompt-improver/main/skills/prompt-improver/references/question-patterns.md) | ⭐ 1.1k | `development` |
-| [Roadmap](development/devops/roadmap_a2a1ef49/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Roadmap](development/devops/097-roadmap_c9854362/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Configuration](development/devops/009-configuration_3a765019/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_f54065e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 | [Skill](development/devops/014-name-skill_ea49dc57/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/playwright-e2e-builder/SKILL.md) | 🔥 20.1k | `playwright` `e2e` `testing` |
@@ -2462,8 +2533,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hybrid Search Architecture](development/devops/256-hybrid-search-architecture_71a1f9be/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/hybrid-search-architecture.md) | ⭐ 448 | `development` |
 | [Virtual Mcp Server](development/devops/368-virtual-mcp-server_03fa9d5c/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server.md) | ⭐ 448 | `development` |
 | [Roadmap](development/devops/097-roadmap_a2a1ef49/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
+| [Skill](development/devops/name-skill_397e2920/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-driven-development/SKILL.md) | ⭐ 42 | `development` |
+| [Chief Operations Officer](development/devops/chief-operations-officer_050f2246/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-operations-officer.md) | ⭐ 42 | `development` |
 
-### Development/Testing (38 skills)
+### Development/Testing (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2505,8 +2578,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sections](development/testing/086-_sections_f3a4cd34/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-golang/references/_sections.md) | 🔥 11.4k | `development` |
 | [Sections](development/testing/086-_sections_77798351/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-python/references/_sections.md) | 🔥 11.4k | `development` |
 | [Sections](development/testing/086-_sections_2c62fa6e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/dbos-typescript/references/_sections.md) | 🔥 11.4k | `development` |
+| [Authority Matrix](development/testing/authority-matrix_60b9cdb2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/authority-matrix.md) | ⭐ 42 | `development` |
+| [Skill](development/testing/name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/testing/name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
+| [Test Worker.Template](development/testing/test-workertemplate_2f535f62/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/worker-templates/test-worker.template.md) | ⭐ 42 | `development` |
 
-### Development/Tools (212 skills)
+### Development/Tools (214 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2721,9 +2798,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Virtual Mcp Server Explained](development/tools/333-virtual-mcp-server-explained_8511e4e0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/virtual-mcp-server-explained.md) | ⭐ 448 | `development` |
 | [Architecture](development/tools/051-architecture_06ac770b/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ARCHITECTURE.md) | ⭐ 27 | `development` |
 | [Env Reference](development/tools/339-env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
-| [Skill](development/tools/name-skill_011128f9/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/python-full-deps/SKILL.md) | ⭐ 15 | `development` |
+| [Cto Advisor](development/tools/cto-advisor_241c28bc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto-advisor.md) | ⭐ 42 | `development` |
+| [Skill](development/tools/name-skill_4b53e35d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/tech-lead/SKILL.md) | ⭐ 42 | `development` |
+| [Ui Ux Audit Report](development/tools/ui-ux-audit-report_c54ccce2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ui-audit/UI-UX-AUDIT-REPORT.md) | ⭐ 42 | `development` |
 
-### Investment (91 skills)
+### Investment (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2818,6 +2897,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Spec](investment/050-spec_ebf9e58e/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/migrate-hk-daily-to-akshare/specs/hk-daily-data/spec.md) | ⭐ 23 | `investment` |
 | [Database Design](investment/034-database-design_cd7ad973/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/database-design.md) | ⭐ 448 | `investment` |
 | [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_c9a82e78/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 448 | `investment` |
+| [Name Picker](investment/name-picker_acee9d61/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/name-picker.md) | ⭐ 42 | `investment` |
+| [Skill](investment/name-skill_13887d83/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/SKILL.md) | ⭐ 42 | `investment` |
 
 ### Other (4 skills)
 
@@ -2828,7 +2909,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
 
-### Productivity (47 skills)
+### Productivity (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2878,7 +2959,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_3e6c66f8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-plan/SKILL.md) | ⭐ 91 | `productivity` |
 | [Skill](productivity/093-name-skill_6a04ed00/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/quarter-review/SKILL.md) | ⭐ 91 | `productivity` |
 | [Cost Optimization](productivity/173-cost-optimization_0b8bba82/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/references/cost-optimization.md) | ⭐ 499 | `productivity` |
-| [Contextual Ai Documentation Optimizer](productivity/contextual-ai-documentation-optimizer_f85c0f6b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `productivity` |
+| [Board Meeting](productivity/board-meeting_408cf61f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/board-meeting.md) | ⭐ 42 | `productivity` |
+| [Skill](productivity/name-skill_553f0bf8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/SKILL.md) | ⭐ 42 | `productivity` |
+| [Chief Architect](productivity/chief-architect_ec11836a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-architect.md) | ⭐ 42 | `productivity` |
+| [Critique Framework](productivity/critique_framework_ab6d1ff8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/references/critique_framework.md) | ⭐ 42 | `productivity` |
 
 ### Research (84 skills)
 
@@ -3019,5 +3103,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 18:09:42 UTC*
+*Last updated: 2026-02-18 19:09:53 UTC*
 *Automatically maintained by SkillFlow*
