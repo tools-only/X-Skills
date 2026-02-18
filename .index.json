@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-18T04:03:08.581907",
+  "updated_at": "2026-02-18T04:04:28.793476",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -32733,6 +32733,90 @@
       "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "29c13a6443e1e70fdf019f7224947d408270f0ff04ec426491ac96dd000783e0",
+      "source_path": "CATALOG.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/126-catalog_29c13a64",
+      "category": "development",
+      "name": "catalog_29c13a64",
+      "indexed_at": "2026-02-18T04:04:27.136081",
+      "repo_stars": 10416,
+      "repo_updated_at": "2026-02-16T12:28:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md",
+      "display_name": "Catalog",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "256da4b20ec709f9672f8cc5fe84fc877d3c898db3bb99e8895b7835cc444faa",
+      "source_path": "docs/FAQ.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/360-faq_256da4b2",
+      "category": "development",
+      "name": "faq_256da4b2",
+      "indexed_at": "2026-02-18T04:04:27.383979",
+      "repo_stars": 10416,
+      "repo_updated_at": "2026-02-10T09:36:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/FAQ.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8bfc9df52fb930c8caecd8fec0c8cfd7a4badd9418d4405a68c47e03cab23937",
+      "source_path": "docs/GETTING_STARTED.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/423-getting_started_8bfc9df5",
+      "category": "development",
+      "name": "getting_started_8bfc9df5",
+      "indexed_at": "2026-02-18T04:04:27.645044",
+      "repo_stars": 10416,
+      "repo_updated_at": "2026-02-10T09:36:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/GETTING_STARTED.md",
+      "display_name": "Getting Started",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "70271b376c0760df2a72094e5bb8e7cd6353d52e3dccef1c1b4a41756fabebf4",
+      "source_path": "skills/laravel-expert/SKILL.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "development/1178-name-skill_70271b37",
+      "category": "development",
+      "name": "name-skill_70271b37",
+      "indexed_at": "2026-02-18T04:04:27.968324",
+      "repo_stars": 10416,
+      "repo_updated_at": "2026-02-16T12:28:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-expert/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e7572a95e834db8ed66fc52290ca32f9aa6a6dccb0d84f7561b476c7c11f0991",
+      "source_path": "skills/laravel-security-audit/SKILL.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "commercial/210-name-skill_e7572a95",
+      "category": "commercial",
+      "name": "name-skill_e7572a95",
+      "indexed_at": "2026-02-18T04:04:28.389533",
+      "repo_stars": 10416,
+      "repo_updated_at": "2026-02-16T12:28:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-security-audit/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "647f2590961a038c2594f31a8f9d530b77e152831d884ae24936bf42734ab417",
+      "source_path": "skills/react-flow-architect/SKILL.md",
+      "source_repo": "sickn33/antigravity-awesome-skills",
+      "local_path": "data-analysis/226-name-skill_647f2590",
+      "category": "data-analysis",
+      "name": "name-skill_647f2590",
+      "indexed_at": "2026-02-18T04:04:28.793157",
+      "repo_stars": 10416,
+      "repo_updated_at": "2026-02-16T12:28:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/react-flow-architect/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
