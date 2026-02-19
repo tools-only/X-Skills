@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2792 AI-powered skills** organized into 15 categories.
+A curated collection of **2803 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,14 +11,14 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (82 skills)
 - **Automation/Workflow** (145 skills)
 - **Commercial** (104 skills)
-- **Communication** (66 skills)
-- **Content Creation** (204 skills)
-- **Daily Assistant** (196 skills)
+- **Communication** (67 skills)
+- **Content Creation** (205 skills)
+- **Daily Assistant** (197 skills)
 - **Data Analysis** (385 skills)
-- **Development** (943 skills)
+- **Development** (948 skills)
 - **Development/Devops** (180 skills)
 - **Development/Testing** (41 skills)
-- **Development/Tools** (214 skills)
+- **Development/Tools** (217 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
 - **Productivity** (50 skills)
@@ -525,9 +525,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_cad96e65/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-integration/SKILL.md) | ⭐ 42 | `commercial` |
 | [Skill](commercial/210-name-skill_cd634626/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-execution-evaluator/SKILL.md) | ⭐ 42 | `commercial` |
 | [Chief Product Officer](commercial/384-chief-product-officer_2a501bbd/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-product-officer.md) | ⭐ 42 | `commercial` |
-| [Skill](commercial/name-skill_ba05d64f/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/SKILL.md) | ⭐ 358 | `commercial` |
+| [Skill](commercial/210-name-skill_ba05d64f/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/SKILL.md) | ⭐ 358 | `commercial` |
 
-### Communication (66 skills)
+### Communication (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -597,8 +597,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Recipes](communication/262-recipes_52f41380/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/shadcn-ui/references/recipes.md) | ⭐ 499 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_b282055d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 | [Cmo](communication/263-cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
+| [2026 02 17 Thinking Content Integration](communication/2026-02-17_thinking-content-integration_2d018fb9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `communication` |
 
-### Content Creation (204 skills)
+### Content Creation (205 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -806,8 +807,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](content-creation/019-index_903353a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
 | [Gemini](content-creation/365-gemini_69587a4d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/gemini.md) | 🔥 36.0k | `content creation` |
 | [Config Settings](content-creation/366-config_settings_0a4cf12d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
+| [2026 02 17 Thinking Integration Plan Hardening](content-creation/2026-02-17-thinking-integration-plan-hardening_ba75de49/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-17-thinking-integration-plan-hardening.md) | ⭐ 113 | `content creation` |
 
-### Daily Assistant (196 skills)
+### Daily Assistant (197 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1007,6 +1009,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_3ec846b5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-planner/SKILL.md) | ⭐ 42 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_382b9cde/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/track-manager/SKILL.md) | ⭐ 42 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_07d73726/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/using-superpowers/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [2026 02 17 Thinking Content Integration](daily-assistant/2026-02-17_thinking-content-integration_905332ec/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `plan` `thinking-content` `reasoning` |
 
 ### Data Analysis (385 skills)
 
@@ -1398,7 +1401,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_55f6ee5a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-plan-evaluator/SKILL.md) | ⭐ 42 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_55544f64/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/message-bus/SKILL.md) | ⭐ 42 | `data analysis` |
 
-### Development (943 skills)
+### Development (948 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2119,7 +2122,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dc 007 Container Spawn Claude](development/2911-dc-007-container-spawn-claude_e01d2477/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-007-container-spawn-claude.md) | ⭐ 17 | `development` |
 | [Dc 009 Orchestrator Wiring](development/2912-dc-009-orchestrator-wiring_ad09de8e/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/.gsd/tasks/dynamic-devcontainer/prompts/DC-009-orchestrator-wiring.md) | ⭐ 17 | `development` |
 | [Skill](development/2863-category-skill_0d00d140/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering-team/incident-commander/SKILL.md) | ⭐ 1.8k | `development` |
-| [Claude](development/140-claude_ec0b3d3c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 113 | `development` |
+| [Claude](development/claude_6eb9182f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 113 | `development` |
 | [Continuous Learning](development/1418-continuous-learning_acaf20fd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/continuous-learning.md) | ⭐ 113 | `development` |
 | [2026 02 11 Compaction Pr378 Review Fixes](development/2863-2026-02-11-compaction-pr378-review-fixes_d0b9ce67/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-11-compaction-pr378-review-fixes.md) | ⭐ 113 | `development` |
 | [2026 02 11 Status Bar Content Row Regression](development/2864-2026-02-11-status-bar-content-row-regression_741b21e3/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-11-status-bar-content-row-regression.md) | ⭐ 113 | `development` |
@@ -2344,7 +2347,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Response Api](development/1220-response_api_9b716c62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 36.0k | `development` |
 | [Generic Guardrail Api](development/2871-generic_guardrail_api_42a0cdf8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md) | 🔥 36.0k | `development` |
 | [Prompt Management](development/2922-prompt_management_8a79029b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prompt_management.md) | 🔥 36.0k | `development` |
-| [Bot Frameworks](development/bot-frameworks_ae45e42a/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/references/bot-frameworks.md) | ⭐ 358 | `development` |
+| [Claude](development/140-claude_6eb9182f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 113 | `development` |
+| [2026 02 16 Context Rail Inspector Styling](development/2026-02-16-context-rail-inspector-styling_ec22be1a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-16-context-rail-inspector-styling.md) | ⭐ 113 | `development` |
+| [2026 02 16 Slopgotchi Pet Widget](development/2026-02-16-slopgotchi-pet-widget_36184264/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-16-slopgotchi-pet-widget.md) | ⭐ 113 | `development` |
+| [2026 02 16 Update File Before After Separator Lane](development/2026-02-16-update-file-before-after-separator-lane_0553d33c/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-16-update-file-before-after-separator-lane.md) | ⭐ 113 | `development` |
+| [2026 02 17 Thinking Delta Tui Integration](development/2026-02-17-thinking-delta-tui-integration_09df255d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-17-thinking-delta-tui-integration.md) | ⭐ 113 | `development` |
+| [2026 02 16 Diff Rendering Pipeline](development/2026-02-16_diff_rendering_pipeline_9cf5a41a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-16_diff_rendering_pipeline.md) | ⭐ 113 | `development` |
 
 ### Development/Devops (180 skills)
 
@@ -2577,7 +2585,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
 
-### Development/Tools (214 skills)
+### Development/Tools (217 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2794,7 +2802,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Env Reference](development/tools/339-env_reference_3fae3281/) | [EXboys/skilllite](https://raw.githubusercontent.com/EXboys/skilllite/main/docs/en/ENV_REFERENCE.md) | ⭐ 27 | `development` |
 | [Cto Advisor](development/tools/333-cto-advisor_241c28bc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/cto-advisor.md) | ⭐ 42 | `development` |
 | [Skill](development/tools/002-name-skill_4b53e35d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/tech-lead/SKILL.md) | ⭐ 42 | `development` |
-| [Message Sanitization](development/tools/message_sanitization_4e761701/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/message_sanitization.md) | 🔥 36.1k | `development` |
+| [Message Sanitization](development/tools/331-message_sanitization_4e761701/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/message_sanitization.md) | 🔥 36.1k | `development` |
+| [2026 02 12 Issue 382 Manual Compact Boundary Map](development/tools/2026-02-12_issue-382_manual-compact-boundary-map_37d619fa/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-12_issue-382_manual-compact-boundary-map.md) | ⭐ 113 | `development` |
+| [Tools](development/tools/tools_e7eb6c66/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/tools/tools.md) | ⭐ 113 | `development` |
+| [UI Layer](development/tools/ui_17b2442f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/ui/ui.md) | ⭐ 113 | `development` |
 
 ### Investment (93 skills)
 
@@ -3098,5 +3109,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-18 23:09:23 UTC*
+*Last updated: 2026-02-19 02:10:34 UTC*
 *Automatically maintained by SkillFlow*
