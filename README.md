@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2964 AI-powered skills** organized into 15 categories.
+A curated collection of **2987 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -13,12 +13,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Commercial** (114 skills)
 - **Communication** (69 skills)
 - **Content Creation** (242 skills)
-- **Daily Assistant** (199 skills)
+- **Daily Assistant** (205 skills)
 - **Data Analysis** (390 skills)
-- **Development** (996 skills)
-- **Development/Devops** (187 skills)
+- **Development** (1007 skills)
+- **Development/Devops** (192 skills)
 - **Development/Testing** (42 skills)
-- **Development/Tools** (242 skills)
+- **Development/Tools** (243 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
 - **Productivity** (51 skills)
@@ -875,7 +875,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Full](content-creation/357-llms-full_44d3b927/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-full.md) | ⭐ 17 | `content creation` |
 | [Llms Small](content-creation/359-llms-small_98e8a510/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-small.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (199 skills)
+### Daily Assistant (205 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1078,6 +1078,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 17 Thinking Content Integration](daily-assistant/263-2026-02-17_thinking-content-integration_905332ec/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `plan` `thinking-content` `reasoning` |
 | [Skill](daily-assistant/032-name-skill_56f6b513/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/SKILL.md) | ⭐ 79 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_360317d4/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-activity/SKILL.md) | ⭐ 15 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_25034c44/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/SKILL.md) | ⭐ 228 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_6e4f7ff7/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-fusion/SKILL.md) | ⭐ 228 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_0751f6a7/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/troubleshooting-astro-deployments/skill.md) | ⭐ 228 | `daily assistant` |
+| [Commit Push Pr](daily-assistant/286-commit-push-pr_3bc3d171/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/commit-commands/commands/commit-push-pr.md) | 🔥 7.6k | `daily assistant` |
+| [Commit](daily-assistant/287-commit_d1acbc2b/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/commit-commands/commands/commit.md) | 🔥 7.6k | `daily assistant` |
+| [Code Architect](daily-assistant/288-code-architect_c50fb08d/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/feature-dev/agents/code-architect.md) | 🔥 7.6k | `daily assistant` |
 
 ### Data Analysis (390 skills)
 
@@ -1474,7 +1480,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Image Specs](data-analysis/479-image-specs_411f66d3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/image-specs.md) | ⭐ 17 | `data analysis` |
 | [Modules](data-analysis/480-modules_10af5c24/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/modules.md) | ⭐ 17 | `data analysis` |
 
-### Development (996 skills)
+### Development (1007 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2474,8 +2480,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Full](development/2878-llms-full_b40c65e1/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/llms-full.md) | ⭐ 17 | `development` |
 | [Llms Txt](development/2882-llms-txt_e9bdd61a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/llms-txt.md) | ⭐ 17 | `development` |
 | [Llms](development/2877-llms_8a022ed3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/llms.md) | ⭐ 17 | `development` |
+| [Cosmos Config](development/1906-cosmos-config_c40b937a/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/cosmos-dbt-core/reference/cosmos-config.md) | ⭐ 228 | `development` |
+| [Agent Sdk Verifier Ts](development/2935-agent-sdk-verifier-ts_68fe9834/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/agent-sdk-dev/agents/agent-sdk-verifier-ts.md) | 🔥 7.6k | `development` |
+| [New Sdk App](development/2936-new-sdk-app_d273539c/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/agent-sdk-dev/commands/new-sdk-app.md) | 🔥 7.6k | `development` |
+| [Revise Claude Md](development/2937-revise-claude-md_d59ffd7e/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-md-management/commands/revise-claude-md.md) | 🔥 7.6k | `development` |
+| [Feature Dev](development/2938-feature-dev_652e5d62/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/feature-dev/commands/feature-dev.md) | 🔥 7.6k | `development` |
+| [Conversation Analyzer](development/2939-conversation-analyzer_535ec8ac/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/hookify/agents/conversation-analyzer.md) | 🔥 7.6k | `development` |
+| [Help](development/2940-help_39529a6e/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/hookify/commands/help.md) | 🔥 7.6k | `development` |
+| [Code Reviewer](development/2591-code-reviewer_533b9967/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/agents/code-reviewer.md) | 🔥 7.6k | `development` |
+| [Code Simplifier](development/1970-code-simplifier_976ddb22/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/agents/code-simplifier.md) | 🔥 7.6k | `development` |
+| [Silent Failure Hunter](development/2941-silent-failure-hunter_fa9b0dae/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/agents/silent-failure-hunter.md) | 🔥 7.6k | `development` |
+| [Review Pr](development/2942-review-pr_5e70c172/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/commands/review-pr.md) | 🔥 7.6k | `development` |
 
-### Development/Devops (187 skills)
+### Development/Devops (192 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2666,6 +2683,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_1c4916ab/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-cli/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/devops/014-name-skill_65d77acd/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/devops/014-name-skill_8e7b1303/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/SKILL.md) | ⭐ 17 | `development` |
+| [Agents](development/devops/053-agents_3703656e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/AGENTS.md) | ⭐ 228 | `development` |
+| [Skill](development/devops/014-name-skill_2ce3c36d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/managing-astro-deployments/skill.md) | ⭐ 228 | `development` |
+| [Skill](development/devops/014-name-skill_bd878905/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md) | 🔥 7.6k | `development` |
+| [Skill](development/devops/014-name-skill_b06c7420/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-md-management/skills/claude-md-improver/SKILL.md) | 🔥 7.6k | `development` |
+| [Mcp Servers](development/devops/373-mcp-servers_64a12ab2/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/references/mcp-servers.md) | 🔥 7.6k | `development` |
 
 ### Development/Testing (42 skills)
 
@@ -2714,7 +2736,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_b68ce2e1/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tdd-methodology-expert/SKILL.md) | ⭐ 17 | `development` |
 
-### Development/Tools (242 skills)
+### Development/Tools (243 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2843,8 +2865,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tools](development/tools/300-tools_f9f2a2ed/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/fastmcp-server/references/server/tools.md) | 🔥 20.1k | `development` |
 | [Build And Publish](development/tools/327-build_and_publish_582c9bf4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm-proxy-extras/build_and_publish.md) | 🔥 35.7k | `development` |
 | [Access Groups](development/tools/328-access_groups_686814b0/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/access_groups.md) | 🔥 35.7k | `development` |
-| [Agents](development/tools/agents_34dd3195/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 25 | `development` |
-| [Skill](development/tools/name-skill_166ca1b7/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 25 | `development` |
+| [Agents](development/tools/015-agents_70f8152c/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 24 | `development` |
+| [Skill](development/tools/002-name-skill_fb6098de/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 24 | `development` |
 | [Skill](development/tools/002-name-skill_997667e4/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/create-ultimate-skill/SKILL.md) | ⭐ 23 | `development` |
 | [Api Reference](development/tools/073-api-reference_b9fc66cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/plugins/ultimate-skill-creator/skills/create-ultimate-skill/references/api-reference.md) | ⭐ 23 | `development` |
 | [Index](development/tools/062-index_eba8d182/) | [waybarrios/vllm-mlx](https://raw.githubusercontent.com/waybarrios/vllm-mlx/main/docs/index.md) | ⭐ 364 | `development` |
@@ -2960,6 +2982,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Conductor](development/tools/339-claude-conductor_b6d71fc0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-conductor.md) | ⭐ 18 | `development` |
 | [Agents](development/tools/015-agents_34dd3195/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 25 | `development` |
 | [Skill](development/tools/002-name-skill_166ca1b7/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 25 | `development` |
+| [Otel Span Events And Attributes](development/tools/otel-span-events-and-attributes_9e9bddc3/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/otel-span-events-and-attributes.md) | ⭐ 2.2k | `development` |
 
 ### Investment (93 skills)
 
@@ -3270,5 +3293,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 09:26:13 UTC*
+*Last updated: 2026-02-19 11:37:06 UTC*
 *Automatically maintained by SkillFlow*
