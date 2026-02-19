@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2907 AI-powered skills** organized into 15 categories.
+A curated collection of **3012 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (84 skills)
-- **Automation/Workflow** (160 skills)
-- **Commercial** (108 skills)
-- **Communication** (68 skills)
-- **Content Creation** (225 skills)
-- **Daily Assistant** (199 skills)
-- **Data Analysis** (387 skills)
-- **Development** (977 skills)
-- **Development/Devops** (183 skills)
-- **Development/Testing** (41 skills)
-- **Development/Tools** (236 skills)
+- **Automation/Scripting** (85 skills)
+- **Automation/Workflow** (161 skills)
+- **Commercial** (116 skills)
+- **Communication** (69 skills)
+- **Content Creation** (246 skills)
+- **Daily Assistant** (200 skills)
+- **Data Analysis** (392 skills)
+- **Development** (1014 skills)
+- **Development/Devops** (188 skills)
+- **Development/Testing** (42 skills)
+- **Development/Tools** (242 skills)
 - **Investment** (93 skills)
-- **Other** (4 skills)
+- **Other** (22 skills)
 - **Productivity** (51 skills)
 - **Research** (91 skills)
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (84 skills)
+### Automation/Scripting (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -269,8 +269,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_85ef5262/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/parallel-dispatch/SKILL.md) | ⭐ 42 | `automation` |
 | [Skill](automation/scripting/003-name-skill_6954364a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_43f15238/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/SKILL.md) | ⭐ 79 | `automation` |
+| [Other](automation/scripting/other_4eb90208/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/revenuecat/references/other.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (160 skills)
+### Automation/Workflow (161 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -431,11 +432,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/064-description-skill_6d9a4128/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/implement-feature/SKILL.md) | ⭐ 18 | `automation` |
 | [Bootstrap Skill](automation/workflow/146-bootstrap_skill_06fdae7c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/BOOTSTRAP_SKILL.md) | 🔥 9.6k | `documentation` `scraping` `ai-skills` |
 | [Api Reference](automation/workflow/147-api_reference_a10ef524/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/API_REFERENCE.md) | 🔥 9.6k | `automation` |
-| [Skill](automation/workflow/002-name-skill_7e4de8ec/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/002-name-skill_9010d38f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/replicate-cli/SKILL.md) | ⭐ 17 | `automation` |
-| [Execution Guide](automation/workflow/134-execution-guide_7ce13977/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/references/execution-guide.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/name-skill_7e4de8ec/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/name-skill_9010d38f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/replicate-cli/SKILL.md) | ⭐ 17 | `automation` |
+| [Execution Guide](automation/workflow/execution-guide_7ce13977/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/references/execution-guide.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/name-skill_88df8892/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/SKILL.md) | ⭐ 17 | `automation` |
 
-### Commercial (108 skills)
+### Commercial (116 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -545,10 +547,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_ba05d64f/) | [plastic-labs/honcho](https://raw.githubusercontent.com/plastic-labs/honcho/main/.claude/skills/honcho-integration/SKILL.md) | ⭐ 358 | `commercial` |
 | [Roadmap](commercial/174-roadmap_225f2695/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/ROADMAP.md) | ⭐ 3.0k | `commercial` |
 | [Skill](commercial/210-name-skill_9a7fbdbe/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/SKILL.md) | ⭐ 79 | `commercial` |
-| [Skill](commercial/210-name-skill_8a97084e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ai-summary-request/SKILL.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/210-name-skill_dfcae142/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-stripe/SKILL.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/name-skill_8a97084e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ai-summary-request/SKILL.md) | ⭐ 17 | `commercial` |
+| [Skill](commercial/name-skill_dfcae142/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-stripe/SKILL.md) | ⭐ 17 | `commercial` |
+| [Llms Txt](commercial/llms-txt_21ecaab6/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/apify-js-sdk/references/llms-txt.md) | ⭐ 17 | `rainbow` |
+| [Guidelines](commercial/guidelines_9dd88a7f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/guidelines.md) | ⭐ 17 | `commercial` |
+| [Midjourney Style Guide](commercial/midjourney-style-guide_7ff1638b/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/midjourney-replicate-flux/references/midjourney-style-guide.md) | ⭐ 17 | `commercial` |
+| [Llms Full](commercial/llms-full_35ae5150/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms-full.md) | ⭐ 17 | `commercial` |
+| [Llms Txt](commercial/llms-txt_ac6759f7/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms-txt.md) | ⭐ 17 | `commercial` |
+| [Llms](commercial/llms_98c732bf/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms.md) | ⭐ 17 | `commercial` |
+| [Llms Full](commercial/llms-full_34ebb11d/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/apify-js-sdk/references/llms-full.md) | ⭐ 17 | `rainbow` |
+| [Testing Patterns](commercial/testing-patterns_934464f2/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tdd-methodology-expert/references/testing-patterns.md) | ⭐ 17 | `commercial` |
 
-### Communication (68 skills)
+### Communication (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -620,8 +630,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cmo](communication/263-cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
 | [2026 02 17 Thinking Content Integration](communication/250-2026-02-17_thinking-content-integration_2d018fb9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `communication` |
 | [Skill](communication/127-name-skill_76f3c42e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/SKILL.md) | ⭐ 79 | `communication` |
+| [Llms](communication/llms_f1c8a055/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms.md) | ⭐ 17 | `communication` |
 
-### Content Creation (225 skills)
+### Content Creation (246 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -850,8 +861,29 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/387-description-skill_5839997c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/start-task/SKILL.md) | ⭐ 18 | `content creation` |
 | [Cline](content-creation/286-cline_ece7d098/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/CLINE.md) | 🔥 9.6k | `content creation` |
 | [Integration Strategy](content-creation/289-integration_strategy_0b62f7e0/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/INTEGRATION_STRATEGY.md) | 🔥 9.6k | `content creation` |
+| [Skill](content-creation/name-skill_89c7bbf6/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ds-continuity/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_324630be/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/hashnode-api/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_996328dc/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/openrouter/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_63ad43cd/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tumblr/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_cd7789dc/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/writeas/SKILL.md) | ⭐ 17 | `content creation` |
+| [Team Patterns](content-creation/team-patterns_55c14760/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/references/team-patterns.md) | ⭐ 17 | `content creation` |
+| [Title Best Practices](content-creation/title_best_practices_1a8b3c29/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/article-title-optimizer/references/title_best_practices.md) | ⭐ 17 | `content creation` |
+| [Api](content-creation/api_9b6c81cf/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/hashnode-api/references/api.md) | ⭐ 17 | `content creation` |
+| [Llms Full](content-creation/llms-full_4e4de72a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/references/llms-full.md) | ⭐ 17 | `content creation` |
+| [Llms Txt](content-creation/llms-txt_87fb6563/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/references/llms-txt.md) | ⭐ 17 | `content creation` |
+| [Llms Full](content-creation/llms-full_b74af151/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/openrouter/references/llms-full.md) | ⭐ 17 | `content creation` |
+| [Llms Small](content-creation/llms-small_f4193566/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/openrouter/references/llms-small.md) | ⭐ 17 | `content creation` |
+| [Llms](content-creation/llms_3d6f888e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/openrouter/references/llms.md) | ⭐ 17 | `content creation` |
+| [Other](content-creation/other_b8aad963/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/openrouter/references/other.md) | ⭐ 17 | `content creation` |
+| [Api](content-creation/api_23838117/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/api.md) | ⭐ 17 | `content creation` |
+| [Llms Full](content-creation/llms-full_44d3b927/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-full.md) | ⭐ 17 | `content creation` |
+| [Llms Small](content-creation/llms-small_98e8a510/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-small.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_3ea7109a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/midjourney-replicate-flux/SKILL.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/name-skill_b2a4e654/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/word-count-checker/SKILL.md) | ⭐ 17 | `content creation` |
+| [Flux Model Optimization](content-creation/flux-model-optimization_4339fe1e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/midjourney-replicate-flux/references/flux-model-optimization.md) | ⭐ 17 | `content creation` |
+| [Index](content-creation/index_c5d404fc/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/writeas/references/index.md) | ⭐ 17 | `content creation` |
 
-### Daily Assistant (199 skills)
+### Daily Assistant (200 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1053,9 +1085,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_07d73726/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/using-superpowers/SKILL.md) | ⭐ 42 | `daily assistant` |
 | [2026 02 17 Thinking Content Integration](daily-assistant/263-2026-02-17_thinking-content-integration_905332ec/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `plan` `thinking-content` `reasoning` |
 | [Skill](daily-assistant/032-name-skill_56f6b513/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skill-builder/SKILL.md) | ⭐ 79 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_360317d4/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-activity/SKILL.md) | ⭐ 15 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_360317d4/) | [opendatahub-io/ai-helpers](https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/helpers/skills/jira-activity/SKILL.md) | ⭐ 15 | `daily assistant` |
+| [Hardware](daily-assistant/hardware_2121e429/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/replicate-cli/references/hardware.md) | ⭐ 17 | `daily assistant` |
 
-### Data Analysis (387 skills)
+### Data Analysis (392 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1445,9 +1478,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_55f6ee5a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-plan-evaluator/SKILL.md) | ⭐ 42 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_55544f64/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/message-bus/SKILL.md) | ⭐ 42 | `data analysis` |
 | [Mermaid Styling](data-analysis/144-mermaid-styling_8e020d21/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-mermaid/references/mermaid-styling.md) | ⭐ 79 | `data analysis` |
-| [Ai Agent Developer](data-analysis/ai-agent-developer_d4385262/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/ai-agent-developer.md) | ⭐ 449 | `data analysis` |
+| [Ai Agent Developer](data-analysis/485-ai-agent-developer_d4385262/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/ai-agent-developer.md) | ⭐ 449 | `data analysis` |
+| [Skill](data-analysis/name-skill_b53eb77c/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Image Specs](data-analysis/image-specs_411f66d3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/image-specs.md) | ⭐ 17 | `data analysis` |
+| [Modules](data-analysis/modules_10af5c24/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/modules.md) | ⭐ 17 | `data analysis` |
+| [Prompt Examples](data-analysis/prompt-examples_9436b40e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/midjourney-replicate-flux/references/prompt-examples.md) | ⭐ 17 | `data analysis` |
+| [Skill Patterns](data-analysis/skill-patterns_13c1cb1c/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/skill-extractor/references/skill-patterns.md) | ⭐ 17 | `data analysis` |
 
-### Development (977 skills)
+### Development (1014 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2422,14 +2460,51 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/140-claude_566012f9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/scripts/CLAUDE.md) | ⭐ 18 | `development` |
 | [Validator Findings Investigation](development/2934-validator-findings-investigation_ce5575e9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/.claude/reports/validator-findings-investigation.md) | ⭐ 18 | `development` |
 | [Skill](development/1530-description-skill_83160f85/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/memory-and-rules/SKILL.md) | ⭐ 18 | `development` |
-| [Security Engineer](development/security-engineer_21445e40/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/security-engineer.md) | ⭐ 449 | `development` |
-| [Skill](development/name-skill_f280f65a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/new-feature-design/SKILL.md) | ⭐ 449 | `development` |
-| [Skill](development/name-skill_f5b24a4b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/SKILL.md) | ⭐ 449 | `development` |
-| [Chief Architect](development/chief-architect_41de1edf/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/chief-architect.md) | ⭐ 449 | `development` |
-| [Frontend Developer](development/frontend-developer_0bda393a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/frontend-developer.md) | ⭐ 449 | `development` |
-| [Merge Specialist](development/merge-specialist_2561e3e5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/merge-specialist.md) | ⭐ 449 | `development` |
+| [Security Engineer](development/2957-security-engineer_21445e40/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/security-engineer.md) | ⭐ 449 | `development` |
+| [Skill](development/name-skill_b88438df/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/figlet-text-converter/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_3871689d/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/forem-api/SKILL.md) | ⭐ 17 | `webdev` `api` `tutorial` |
+| [Skill](development/name-skill_591dcc23/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/frankenphp/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_8819b28a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-paddle/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_cf985adc/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-mcp/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_968ccbad/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-api/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_b9821b5a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_4477d214/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/pinterest-api/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_7989a5c4/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/revenuecat/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_89ae2b81/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/skill-extractor/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_792627c4/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/snapas/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/name-skill_0fdd5046/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/threads-api/SKILL.md) | ⭐ 17 | `development` |
+| [Llms](development/llms_65cf5660/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/apify-js-sdk/references/llms.md) | ⭐ 17 | `development` |
+| [Api](development/api_bf349e09/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/cronjob-org/references/api.md) | ⭐ 17 | `development` |
+| [Usage Guide](development/usage-guide_135e6c7c/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/figlet-text-converter/references/usage-guide.md) | ⭐ 17 | `development` |
+| [Api](development/api_f968e661/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/pinterest-api/references/api.md) | ⭐ 17 | `development` |
+| [Llms Full](development/llms-full_2d40521f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/pinterest-api/references/llms-full.md) | ⭐ 17 | `development` |
+| [Llms Small](development/llms-small_d8c42e8a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/pinterest-api/references/llms-small.md) | ⭐ 17 | `development` |
+| [Llms](development/llms_73909ada/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/pinterest-api/references/llms.md) | ⭐ 17 | `development` |
+| [Code Smells](development/code-smells_336cbe45/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tdd-methodology-expert/references/code-smells.md) | ⭐ 17 | `development` |
+| [Tdd Principles](development/tdd-principles_c4f62cc7/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tdd-methodology-expert/references/tdd-principles.md) | ⭐ 17 | `development` |
+| [Llms Full](development/llms-full_b40c65e1/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/llms-full.md) | ⭐ 17 | `development` |
+| [Llms Txt](development/llms-txt_e9bdd61a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/llms-txt.md) | ⭐ 17 | `development` |
+| [Llms](development/llms_8a022ed3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/llms.md) | ⭐ 17 | `development` |
+| [Index](development/index_b9fb61a2/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/apify-js-sdk/references/index.md) | ⭐ 17 | `development` |
+| [Index](development/index_aceb3e2d/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/cronjob-org/references/index.md) | ⭐ 17 | `development` |
+| [Api](development/api_f4933c4b/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/forem-api/references/api.md) | ⭐ 17 | `development` |
+| [Index](development/index_01e3a84c/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/forem-api/references/index.md) | ⭐ 17 | `development` |
+| [Index](development/index_a592a191/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/hashnode-api/references/index.md) | ⭐ 17 | `development` |
+| [Other](development/other_72b5120b/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/haveibeenpwned/references/other.md) | ⭐ 17 | `development` |
+| [Api](development/api_06de0faa/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-api/references/api.md) | ⭐ 17 | `development` |
+| [Index](development/index_48cb0707/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-api/references/index.md) | ⭐ 17 | `development` |
+| [Index](development/index_7cb1dcbe/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/pinterest-api/references/index.md) | ⭐ 17 | `development` |
+| [Api](development/api_3def9ed3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/snapas/references/api.md) | ⭐ 17 | `development` |
+| [Index](development/index_0f415c0e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/snapas/references/index.md) | ⭐ 17 | `development` |
+| [Index](development/index_b7eef2e3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/threads-api/references/index.md) | ⭐ 17 | `development` |
+| [Other](development/other_e1c1ff18/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/threads-api/references/other.md) | ⭐ 17 | `development` |
+| [Api](development/api_5dd358ae/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tumblr/references/api.md) | ⭐ 17 | `development` |
+| [Index](development/index_50c73aea/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tumblr/references/index.md) | ⭐ 17 | `development` |
+| [Index](development/index_2a350115/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vastai-api/references/index.md) | ⭐ 17 | `development` |
+| [Index](development/index_3a5bfe91/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/index.md) | ⭐ 17 | `development` |
+| [Api](development/api_ea62e773/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/writeas/references/api.md) | ⭐ 17 | `development` |
 
-### Development/Devops (183 skills)
+### Development/Devops (188 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2603,7 +2678,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Observability](development/devops/366-observability_b78f7cbb/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/OBSERVABILITY.md) | ⭐ 448 | `development` |
 | [A2A](development/devops/367-a2a_d091137d/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/a2a.md) | ⭐ 448 | `development` |
 | [Complete Setup Guide](development/devops/239-complete-setup-guide_6c03ede3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/complete-setup-guide.md) | ⭐ 448 | `development` |
-| [Configuration](development/devops/configuration_0098b3f0/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/configuration.md) | ⭐ 449 | `development` |
+| [Configuration](development/devops/009-configuration_a756d729/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/configuration.md) | ⭐ 448 | `development` |
 | [Installation](development/devops/171-installation_0d7707ed/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/installation.md) | ⭐ 448 | `development` |
 | [Macos Setup Guide](development/devops/243-macos-setup-guide_4684d640/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/macos-setup-guide.md) | ⭐ 448 | `development` |
 | [Database Abstraction Layer](development/devops/255-database-abstraction-layer_211cffb3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/database-abstraction-layer.md) | ⭐ 448 | `development` |
@@ -2615,9 +2690,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Generic Prompt Management Api](development/devops/369-generic_prompt_management_api_92f3d1c9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_prompt_management_api.md) | 🔥 36.0k | `development` |
 | [Skill](development/devops/014-name-skill_dd068e22/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/SKILL.md) | ⭐ 79 | `development` |
 | [Skill](development/devops/014-name-skill_3d1569ff/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-integration/SKILL.md) | ⭐ 79 | `development` |
-| [Devops Engineer](development/devops/devops-engineer_3c8bdab3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/devops-engineer.md) | ⭐ 449 | `development` |
+| [Devops Engineer](development/devops/282-devops-engineer_3c8bdab3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/devops-engineer.md) | ⭐ 449 | `development` |
+| [Skill](development/devops/name-skill_cf067eb6/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/devops/name-skill_1c4916ab/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-cli/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/devops/name-skill_65d77acd/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/devops/name-skill_8e7b1303/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/SKILL.md) | ⭐ 17 | `development` |
+| [Other](development/devops/other_29a7025b/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/frankenphp/references/other.md) | ⭐ 17 | `development` |
 
-### Development/Testing (41 skills)
+### Development/Testing (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2662,8 +2742,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Authority Matrix](development/testing/086-authority-matrix_60b9cdb2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/authority-matrix.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/testing/name-skill_b68ce2e1/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tdd-methodology-expert/SKILL.md) | ⭐ 17 | `development` |
 
-### Development/Tools (236 skills)
+### Development/Tools (242 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2903,6 +2984,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_3ba4c733/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.6k | `development` |
 | [Universal Rag Preprocessor](development/tools/269-universal_rag_preprocessor_151ba401/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/blog/UNIVERSAL_RAG_PREPROCESSOR.md) | 🔥 9.6k | `development` |
 | [Mcp Setup](development/tools/188-mcp_setup_6c5697d1/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/guides/MCP_SETUP.md) | 🔥 9.6k | `development` |
+| [Skill](development/tools/name-skill_e3b2d03f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/github-issue-fetcher/SKILL.md) | ⭐ 17 | `development` |
+| [Skill](development/tools/name-skill_acbec7e3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/haveibeenpwned/SKILL.md) | ⭐ 17 | `development` |
+| [Extraction Criteria](development/tools/extraction-criteria_063f0b7c/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/skill-extractor/references/extraction-criteria.md) | ⭐ 17 | `development` |
+| [Index](development/tools/index_600bd91d/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-cli/references/index.md) | ⭐ 17 | `development` |
+| [Other](development/tools/other_14a40dc5/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-cli/references/other.md) | ⭐ 17 | `development` |
+| [Llms](development/tools/llms_54a962e4/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/references/llms.md) | ⭐ 17 | `development` |
 
 ### Investment (93 skills)
 
@@ -3002,7 +3089,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Name Picker](investment/052-name-picker_acee9d61/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/name-picker.md) | ⭐ 42 | `investment` |
 | [Skill](investment/021-name-skill_13887d83/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/SKILL.md) | ⭐ 42 | `investment` |
 
-### Other (4 skills)
+### Other (22 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3010,6 +3097,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
+| [Index](other/index_82e439f8/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/frankenphp/references/index.md) | ⭐ 17 | `other` |
+| [Index](other/index_f09201e4/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/haveibeenpwned/references/index.md) | ⭐ 17 | `other` |
+| [Index](other/index_1a82b48a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-paddle/references/index.md) | ⭐ 17 | `other` |
+| [Other](other/other_38612353/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-paddle/references/other.md) | ⭐ 17 | `other` |
+| [Index](other/index_48962f7a/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-stripe/references/index.md) | ⭐ 17 | `other` |
+| [Other](other/other_d8ff418d/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-cashier-stripe/references/other.md) | ⭐ 17 | `other` |
+| [Index](other/index_bc8a7430/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-dusk/references/index.md) | ⭐ 17 | `other` |
+| [Other](other/other_5192755f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-dusk/references/other.md) | ⭐ 17 | `other` |
+| [Index](other/index_2bf56abf/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-mcp/references/index.md) | ⭐ 17 | `other` |
+| [Other](other/other_88373ed1/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-mcp/references/other.md) | ⭐ 17 | `other` |
+| [Index](other/index_670b1fc2/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-prompts/references/index.md) | ⭐ 17 | `other` |
+| [Other](other/other_7e75d22e/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel-prompts/references/other.md) | ⭐ 17 | `other` |
+| [Index](other/index_c16908d3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel/references/index.md) | ⭐ 17 | `other` |
+| [Other](other/other_f441d1c5/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/laravel/references/other.md) | ⭐ 17 | `other` |
+| [Index](other/index_efac5f53/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/index.md) | ⭐ 17 | `other` |
+| [Index](other/index_7230297b/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/references/index.md) | ⭐ 17 | `other` |
+| [Index](other/index_cb07ca5d/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/openrouter/references/index.md) | ⭐ 17 | `other` |
+| [Index](other/index_464aa08f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/revenuecat/references/index.md) | ⭐ 17 | `other` |
 
 ### Productivity (51 skills)
 
@@ -3065,7 +3170,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_553f0bf8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/SKILL.md) | ⭐ 42 | `productivity` |
 | [Chief Architect](productivity/175-chief-architect_ec11836a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-architect.md) | ⭐ 42 | `productivity` |
 | [Critique Framework](productivity/176-critique_framework_ab6d1ff8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/references/critique_framework.md) | ⭐ 42 | `productivity` |
-| [Backend Developer](productivity/backend-developer_98ee075b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/backend-developer.md) | ⭐ 449 | `productivity` |
+| [Backend Developer](productivity/173-backend-developer_98ee075b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/backend-developer.md) | ⭐ 449 | `productivity` |
 
 ### Research (91 skills)
 
@@ -3161,7 +3266,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Github Patterns](research/162-github-patterns_df38fb37/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/research-agent-patterns/github-patterns.md) | ⭐ 18 | `research` |
 | [Skill](research/163-description-skill_56cc52bb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/SKILL.md) | ⭐ 18 | `research` |
 | [Skill](research/163-description-skill_b89b4dfd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 18 | `research` |
-| [Sre Engineer](research/sre-engineer_0aa720b5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/sre-engineer.md) | ⭐ 449 | `research` |
+| [Sre Engineer](research/264-sre-engineer_0aa720b5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/sre-engineer.md) | ⭐ 449 | `research` |
 
 ## How Skills Are Organized
 
@@ -3213,5 +3318,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 07:26:12 UTC*
+*Last updated: 2026-02-19 07:27:09 UTC*
 *Automatically maintained by SkillFlow*
