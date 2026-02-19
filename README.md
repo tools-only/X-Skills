@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2987 AI-powered skills** organized into 15 categories.
+A curated collection of **2992 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,12 +11,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (84 skills)
 - **Automation/Workflow** (160 skills)
 - **Commercial** (114 skills)
-- **Communication** (69 skills)
-- **Content Creation** (242 skills)
+- **Communication** (71 skills)
+- **Content Creation** (243 skills)
 - **Daily Assistant** (205 skills)
 - **Data Analysis** (390 skills)
-- **Development** (1007 skills)
-- **Development/Devops** (192 skills)
+- **Development** (1008 skills)
+- **Development/Devops** (193 skills)
 - **Development/Testing** (42 skills)
 - **Development/Tools** (243 skills)
 - **Investment** (93 skills)
@@ -554,7 +554,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Txt](commercial/370-llms-txt_ac6759f7/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms-txt.md) | ⭐ 17 | `commercial` |
 | [Llms](commercial/259-llms_98c732bf/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms.md) | ⭐ 17 | `commercial` |
 
-### Communication (69 skills)
+### Communication (71 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -627,8 +627,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 17 Thinking Content Integration](communication/250-2026-02-17_thinking-content-integration_2d018fb9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `communication` |
 | [Skill](communication/127-name-skill_76f3c42e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/SKILL.md) | ⭐ 79 | `communication` |
 | [Llms](communication/251-llms_f1c8a055/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms.md) | ⭐ 17 | `communication` |
+| [Customers](communication/customers_9aa574b8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/customers.md) | 🔥 36.0k | `communication` |
+| [Request Headers](communication/request_headers_3fd621ff/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/request_headers.md) | 🔥 36.0k | `communication` |
 
-### Content Creation (242 skills)
+### Content Creation (243 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -791,7 +793,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Types](content-creation/377-api_types_b0303d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_types.md) | 🔥 20.3k | `content creation` |
 | [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
 | [Index](content-creation/019-index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
-| [Config Settings](content-creation/379-config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](content-creation/config_settings_2baeb447/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
 | [Agents](content-creation/185-agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 | [Graph](content-creation/078-graph_5f016311/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 167 | `content creation` |
@@ -874,6 +876,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api](content-creation/072-api_23838117/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/api.md) | ⭐ 17 | `content creation` |
 | [Llms Full](content-creation/357-llms-full_44d3b927/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-full.md) | ⭐ 17 | `content creation` |
 | [Llms Small](content-creation/359-llms-small_98e8a510/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-small.md) | ⭐ 17 | `content creation` |
+| [Config Settings](content-creation/358-config_settings_2baeb447/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 
 ### Daily Assistant (205 skills)
 
@@ -1480,7 +1483,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Image Specs](data-analysis/479-image-specs_411f66d3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/image-specs.md) | ⭐ 17 | `data analysis` |
 | [Modules](data-analysis/480-modules_10af5c24/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/modules.md) | ⭐ 17 | `data analysis` |
 
-### Development (1007 skills)
+### Development (1008 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2491,8 +2494,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Simplifier](development/1970-code-simplifier_976ddb22/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/agents/code-simplifier.md) | 🔥 7.6k | `development` |
 | [Silent Failure Hunter](development/2941-silent-failure-hunter_fa9b0dae/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/agents/silent-failure-hunter.md) | 🔥 7.6k | `development` |
 | [Review Pr](development/2942-review-pr_5e70c172/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/commands/review-pr.md) | 🔥 7.6k | `development` |
+| [Index](development/index_fe1ea86a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/vllm_embeddings_incident/index.md) | 🔥 36.0k | `incident-report` `embeddings` `vllm` |
 
-### Development/Devops (192 skills)
+### Development/Devops (193 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2688,6 +2692,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_bd878905/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md) | 🔥 7.6k | `development` |
 | [Skill](development/devops/014-name-skill_b06c7420/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-md-management/skills/claude-md-improver/SKILL.md) | 🔥 7.6k | `development` |
 | [Mcp Servers](development/devops/373-mcp-servers_64a12ab2/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/references/mcp-servers.md) | 🔥 7.6k | `development` |
+| [Mcp](development/devops/mcp_0c4c204b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 36.0k | `development` |
 
 ### Development/Testing (42 skills)
 
@@ -2982,7 +2987,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Conductor](development/tools/339-claude-conductor_b6d71fc0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-conductor.md) | ⭐ 18 | `development` |
 | [Agents](development/tools/015-agents_34dd3195/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 25 | `development` |
 | [Skill](development/tools/002-name-skill_166ca1b7/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 25 | `development` |
-| [Otel Span Events And Attributes](development/tools/otel-span-events-and-attributes_9e9bddc3/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/otel-span-events-and-attributes.md) | ⭐ 2.2k | `development` |
+| [Otel Span Events And Attributes](development/tools/332-otel-span-events-and-attributes_9e9bddc3/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/otel-span-events-and-attributes.md) | ⭐ 2.2k | `development` |
 
 ### Investment (93 skills)
 
@@ -3293,5 +3298,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 11:37:06 UTC*
+*Last updated: 2026-02-19 12:34:34 UTC*
 *Automatically maintained by SkillFlow*

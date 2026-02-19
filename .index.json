@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T11:37:05.653477",
+  "updated_at": "2026-02-19T12:34:33.921534",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -41819,6 +41819,62 @@
       "source_url": "https://raw.githubusercontent.com/openlit/openlit/main/contributors/otel-span-events-and-attributes.md",
       "display_name": "Otel Span Events And Attributes",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0c4c204b920bb466ba3cd9a9227a5da710a31c3edaeaa891b4060d4b122c560e",
+      "source_path": "docs/my-website/docs/mcp.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/025-mcp_0c4c204b",
+      "category": "development/devops",
+      "name": "mcp_0c4c204b",
+      "indexed_at": "2026-02-19T12:34:32.358076",
+      "repo_stars": 35968,
+      "repo_updated_at": "2026-02-18T06:49:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md",
+      "display_name": "Mcp",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "fe1ea86ad1061d56859a1dbd621a03c64b80c094f8c730a20904e4d3e001e020",
+      "source_path": "docs/my-website/blog/vllm_embeddings_incident/index.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/468-index_fe1ea86a",
+      "category": "development",
+      "name": "index_fe1ea86a",
+      "indexed_at": "2026-02-19T12:34:32.878073",
+      "repo_stars": 35968,
+      "repo_updated_at": "2026-02-18T13:06:31+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/vllm_embeddings_incident/index.md",
+      "display_name": "Index",
+      "tags": "[\"incident-report\", \"embeddings\", \"vllm\"]"
+    },
+    {
+      "file_hash": "2baeb4474a5e5324cb44613e596fa636aa98176d8abcc07924b5874da2c1f98e",
+      "source_path": "docs/my-website/docs/proxy/config_settings.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/358-config_settings_2baeb447",
+      "category": "content-creation",
+      "name": "config_settings_2baeb447",
+      "indexed_at": "2026-02-19T12:34:33.345085",
+      "repo_stars": 35968,
+      "repo_updated_at": "2026-02-19T02:20:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md",
+      "display_name": "Config Settings",
+      "tags": "[\"cache_hit\", \"cache_key\", \"proxy_base_url\", \"user_api_key_alias\", \"user_api_key_user_id\"]"
+    },
+    {
+      "file_hash": "9aa574b8b22d2435bcd02861092e0cb0414a8c590471198d69d571603cd0acfc",
+      "source_path": "docs/my-website/docs/proxy/customers.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "communication/250-customers_9aa574b8",
+      "category": "communication",
+      "name": "customers_9aa574b8",
+      "indexed_at": "2026-02-19T12:34:33.921462",
+      "repo_stars": 35968,
+      "repo_updated_at": "2026-02-19T02:53:59+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/customers.md",
+      "display_name": "Customers",
+      "tags": "[\"communication\"]"
     }
   ]
 }
