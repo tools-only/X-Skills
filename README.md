@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **2804 AI-powered skills** organized into 15 categories.
+A curated collection of **2807 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (145 skills)
 - **Commercial** (104 skills)
 - **Communication** (67 skills)
-- **Content Creation** (205 skills)
+- **Content Creation** (207 skills)
 - **Daily Assistant** (197 skills)
 - **Data Analysis** (385 skills)
 - **Development** (948 skills)
 - **Development/Devops** (180 skills)
 - **Development/Testing** (41 skills)
-- **Development/Tools** (217 skills)
+- **Development/Tools** (218 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
 - **Productivity** (50 skills)
@@ -267,7 +267,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/085-description-skill_38c61f90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
 | [Parallel Dispatcher](automation/scripting/099-parallel-dispatcher_119b8526/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/parallel-dispatcher.md) | ⭐ 42 | `automation` |
 | [Skill](automation/scripting/003-name-skill_85ef5262/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/parallel-dispatch/SKILL.md) | ⭐ 42 | `automation` |
-| [Skill](automation/scripting/name-skill_6954364a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md) | ⭐ 19 | `automation` |
+| [Skill](automation/scripting/003-name-skill_6954364a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md) | ⭐ 19 | `automation` |
 
 ### Automation/Workflow (145 skills)
 
@@ -600,7 +600,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cmo](communication/263-cmo_9d9aeea0/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/cmo.md) | ⭐ 42 | `communication` |
 | [2026 02 17 Thinking Content Integration](communication/250-2026-02-17_thinking-content-integration_2d018fb9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-17_thinking-content-integration.md) | ⭐ 113 | `communication` |
 
-### Content Creation (205 skills)
+### Content Creation (207 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -750,8 +750,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Streaming](content-creation/355-streaming_7c04727d/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/glm5/docs/streaming.md) | ⭐ 50 | `content creation` |
 | [Agents](content-creation/185-agents_6d77cacb/) | [makefinks/manim-generator](https://raw.githubusercontent.com/makefinks/manim-generator/main/AGENTS.md) | ⭐ 76 | `content creation` |
 | [Claude](content-creation/007-claude_cd1eb1d2/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 88 | `content creation` |
-| [Skill](content-creation/049-name-skill_0bb4b65b/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.6k | `content creation` |
-| [V2.1 Tweets](content-creation/372-v21-tweets_fd2041f4/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 2.6k | `content creation` |
+| [Skill](content-creation/name-skill_0ccfac68/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.7k | `content creation` |
+| [V2.1 Tweets](content-creation/v21-tweets_b77d20f2/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 2.7k | `content creation` |
 | [Research](content-creation/373-research_3b89b5a0/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/variants/open/references/research.md) | ⭐ 2.6k | `content creation` |
 | [Installation](content-creation/344-installation_c2b7d645/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/INSTALLATION.md) | ⭐ 1.8k | `content creation` |
 | [Skill](content-creation/049-name-skill_4cd84fc2/) | [maragudk/skills](https://raw.githubusercontent.com/maragudk/skills/main/bluesky/SKILL.md) | ⭐ 32 | `content creation` |
@@ -809,6 +809,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Gemini](content-creation/365-gemini_69587a4d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/gemini.md) | 🔥 36.0k | `content creation` |
 | [Config Settings](content-creation/366-config_settings_0a4cf12d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [2026 02 17 Thinking Integration Plan Hardening](content-creation/354-2026-02-17-thinking-integration-plan-hardening_ba75de49/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-17-thinking-integration-plan-hardening.md) | ⭐ 113 | `content creation` |
+| [Skill](content-creation/049-name-skill_0ccfac68/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md) | ⭐ 2.7k | `content creation` |
+| [V2.1 Tweets](content-creation/355-v21-tweets_b77d20f2/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md) | ⭐ 2.7k | `content creation` |
 
 ### Daily Assistant (197 skills)
 
@@ -2586,7 +2588,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
 
-### Development/Tools (217 skills)
+### Development/Tools (218 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2807,6 +2809,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 12 Issue 382 Manual Compact Boundary Map](development/tools/332-2026-02-12_issue-382_manual-compact-boundary-map_37d619fa/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-12_issue-382_manual-compact-boundary-map.md) | ⭐ 113 | `development` |
 | [Tools](development/tools/300-tools_e7eb6c66/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/tools/tools.md) | ⭐ 113 | `development` |
 | [UI Layer](development/tools/333-ui_17b2442f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/ui/ui.md) | ⭐ 113 | `development` |
+| [Release Notes](development/tools/release-notes_a79a4d2d/) | [mvanhorn/last30days-skill](https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/release-notes.md) | ⭐ 2.7k | `development` |
 
 ### Investment (93 skills)
 
@@ -3110,5 +3113,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 05:25:29 UTC*
+*Last updated: 2026-02-19 06:25:08 UTC*
 *Automatically maintained by SkillFlow*

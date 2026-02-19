@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T05:25:28.982153",
+  "updated_at": "2026-02-19T06:25:07.951477",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -39257,6 +39257,48 @@
       "source_url": "https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "0ccfac68d398182d0b0d847226bd82c88635b8e427db76ca6af72c49ab4ffb69",
+      "source_path": "SKILL.md",
+      "source_repo": "mvanhorn/last30days-skill",
+      "local_path": "content-creation/049-name-skill_0ccfac68",
+      "category": "content-creation",
+      "name": "name-skill_0ccfac68",
+      "indexed_at": "2026-02-19T06:25:06.661362",
+      "repo_stars": 2697,
+      "repo_updated_at": "2026-02-17T20:16:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "b77d20f2c9126555426e1d84c91760f820533e7c47ea0ff8d549f23b29326250",
+      "source_path": "docs/v2.1-tweets.md",
+      "source_repo": "mvanhorn/last30days-skill",
+      "local_path": "content-creation/355-v21-tweets_b77d20f2",
+      "category": "content-creation",
+      "name": "v21-tweets_b77d20f2",
+      "indexed_at": "2026-02-19T06:25:07.367939",
+      "repo_stars": 2697,
+      "repo_updated_at": "2026-02-17T20:16:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/docs/v2.1-tweets.md",
+      "display_name": "V2.1 Tweets",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "a79a4d2d932ff226599641ed9d3515e04a2e168e1aa8f3c77306741181e6860a",
+      "source_path": "release-notes.md",
+      "source_repo": "mvanhorn/last30days-skill",
+      "local_path": "development/tools/251-release-notes_a79a4d2d",
+      "category": "development/tools",
+      "name": "release-notes_a79a4d2d",
+      "indexed_at": "2026-02-19T06:25:07.951403",
+      "repo_stars": 2697,
+      "repo_updated_at": "2026-02-17T20:16:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/mvanhorn/last30days-skill/main/release-notes.md",
+      "display_name": "Release Notes",
+      "tags": "[\"development\"]"
     }
   ]
 }
