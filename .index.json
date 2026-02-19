@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T18:37:28.160652",
+  "updated_at": "2026-02-19T19:36:36.885767",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -44717,6 +44717,34 @@
       "source_url": "https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "2b2844ec3f474411c61e32a2ec57541e4eec47ad75278294a1e300856dd8f606",
+      "source_path": "docs/guide/architecture.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "data-analysis/009-architecture_2b2844ec",
+      "category": "data-analysis",
+      "name": "architecture_2b2844ec",
+      "indexed_at": "2026-02-19T19:36:36.432659",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-19T14:50:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md",
+      "display_name": "Architecture",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "45f1f86b9e87563a94ed9b9e3b4cd78d3f70a01c470dfbd121c9b5f2b207bf17",
+      "source_path": "docs/guide/renderer/advanced_ui_features.md",
+      "source_repo": "RedHat-UX/next-gen-ui-agent",
+      "local_path": "data-analysis/493-advanced_ui_features_45f1f86b",
+      "category": "data-analysis",
+      "name": "advanced_ui_features_45f1f86b",
+      "indexed_at": "2026-02-19T19:36:36.885710",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-19T14:50:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/advanced_ui_features.md",
+      "display_name": "Advanced Ui Features",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

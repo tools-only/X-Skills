@@ -8,13 +8,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (94 skills)
+- **Automation/Scripting** (93 skills)
 - **Automation/Workflow** (166 skills)
 - **Commercial** (138 skills)
-- **Communication** (85 skills)
+- **Communication** (84 skills)
 - **Content Creation** (265 skills)
 - **Daily Assistant** (213 skills)
-- **Data Analysis** (400 skills)
+- **Data Analysis** (402 skills)
 - **Development** (1062 skills)
 - **Development/Devops** (216 skills)
 - **Development/Testing** (54 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (94 skills)
+### Automation/Scripting (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -278,7 +278,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cdc Guide](automation/scripting/090-cdc-guide_d15d0f4a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/cdc-guide.md) | ⭐ 80 | `automation` |
 | [Platform Events Guide](automation/scripting/091-platform-events-guide_89f49c95/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/platform-events-guide.md) | ⭐ 80 | `automation` |
 | [Scoring Rubric](automation/scripting/092-scoring-rubric_066feeb2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/scoring-rubric.md) | ⭐ 80 | `automation` |
-| [Skill](automation/scripting/name-skill_d2ec6458/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/aws-sso/SKILL.md) | ⭐ 10 | `automation` |
 
 ### Automation/Workflow (166 skills)
 
@@ -594,7 +593,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Board Meeting](commercial/382-board-meeting_3cbd18a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 109 | `commercial` |
 | [Skill](commercial/210-name-skill_58bebc5d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 109 | `commercial` |
 
-### Communication (85 skills)
+### Communication (84 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -682,7 +681,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pass Through](communication/257-pass_through_72bf6b1d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/pass_through.md) | 🔥 35.9k | `communication` |
 | [Project Management](communication/258-project_management_cecb5b62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/project_management.md) | 🔥 35.9k | `communication` |
 | [Claude](communication/024-claude_c17284e2/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 126 | `communication` |
-| [Skill](communication/name-skill_13fa8418/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/slack-latest/SKILL.md) | ⭐ 10 | `communication` |
 
 ### Content Creation (265 skills)
 
@@ -951,8 +949,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hive Coder Meta Agent Plan](content-creation/359-hive-coder-meta-agent-plan_58cfcf68/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/hive-coder-meta-agent-plan.md) | 🔥 7.3k | `content creation` |
 | [Skill](content-creation/049-name-skill_3f603cc5/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/image-generator/SKILL.md) | ⭐ 162 | `content creation` |
 | [Skill](content-creation/049-name-skill_0d049e7d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 162 | `content creation` |
-| [Skill](content-creation/name-skill_f88fdda3/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_33a6a664/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_f88fdda3/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_33a6a664/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md) | ⭐ 10 | `content creation` |
 
 ### Daily Assistant (213 skills)
 
@@ -1170,13 +1168,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Soql Syntax Reference](daily-assistant/265-soql-syntax-reference_5e658051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-syntax-reference.md) | ⭐ 80 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_7af82135/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 109 | `daily assistant` |
 | [Anti Patterns](daily-assistant/269-anti_patterns_f7d36f45/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/agents/hive_coder/reference/anti_patterns.md) | 🔥 7.3k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_c0390286/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c0390286/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (400 skills)
+### Data Analysis (402 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Architecture](data-analysis/009-architecture_f62cb9de/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md) | ⭐ 12 | `data analysis` |
+| [Architecture](data-analysis/architecture_2b2844ec/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md) | ⭐ 13 | `data analysis` |
 | [Configuration](data-analysis/046-configuration_cda8812a/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/configuration.md) | ⭐ 12 | `data analysis` |
 | [Transformation](data-analysis/481-transformation_39e9ae41/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/input_data/transformation.md) | ⭐ 12 | `data analysis` |
 | [Index](data-analysis/113-index_152f012b/) | [vstorm-co/pydantic-ai-middleware](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-middleware/main/docs/concepts/index.md) | ⭐ 10 | `data analysis` |
@@ -1576,6 +1574,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mermaid Styling](data-analysis/144-mermaid-styling_78eb4435/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/mermaid-styling.md) | ⭐ 80 | `data analysis` |
 | [Salesforce Erd](data-analysis/483-salesforce-erd_83f35f0f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/assets/datamodel/salesforce-erd.md) | ⭐ 80 | `data analysis` |
 | [Multi Graph Sessions](data-analysis/478-multi-graph-sessions_f886bc73/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/multi-graph-sessions.md) | 🔥 7.3k | `data analysis` |
+| [Architecture](data-analysis/009-architecture_2b2844ec/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md) | ⭐ 13 | `data analysis` |
+| [Advanced Ui Features](data-analysis/advanced_ui_features_45f1f86b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/advanced_ui_features.md) | ⭐ 13 | `data analysis` |
 
 ### Development (1062 skills)
 
@@ -2642,7 +2642,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Aden Vs Autogen](development/1552-aden-vs-autogen_807e83d8/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/aden-vs-autogen.md) | 🔥 7.3k | `development` |
 | [Framework Guide](development/2897-framework_guide_0a5ca1b0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/agents/hive_coder/reference/framework_guide.md) | 🔥 7.3k | `development` |
 | [Response Api](development/1220-response_api_ee8f0055/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 35.9k | `development` |
-| [Agents](development/agents_aff514f7/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/AGENTS.md) | ⭐ 10 | `development` |
+| [Agents](development/028-agents_aff514f7/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/AGENTS.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (216 skills)
 
@@ -3502,5 +3502,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 18:37:29 UTC*
+*Last updated: 2026-02-19 19:36:37 UTC*
 *Automatically maintained by SkillFlow*
