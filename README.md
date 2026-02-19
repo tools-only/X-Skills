@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3317 AI-powered skills** organized into 15 categories.
+A curated collection of **3301 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (93 skills)
-- **Automation/Workflow** (172 skills)
-- **Commercial** (155 skills)
+- **Automation/Workflow** (171 skills)
+- **Commercial** (149 skills)
 - **Communication** (87 skills)
-- **Content Creation** (292 skills)
-- **Daily Assistant** (216 skills)
+- **Content Creation** (290 skills)
+- **Daily Assistant** (215 skills)
 - **Data Analysis** (407 skills)
-- **Development** (1097 skills)
+- **Development** (1090 skills)
 - **Development/Devops** (220 skills)
-- **Development/Testing** (56 skills)
-- **Development/Tools** (271 skills)
+- **Development/Testing** (55 skills)
+- **Development/Tools** (272 skills)
 - **Investment** (95 skills)
 - **Other** (4 skills)
-- **Productivity** (55 skills)
+- **Productivity** (56 skills)
 - **Research** (97 skills)
 
 ## Patches - Curated Skill Bundles
@@ -279,7 +279,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Platform Events Guide](automation/scripting/091-platform-events-guide_89f49c95/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/platform-events-guide.md) | ⭐ 80 | `automation` |
 | [Scoring Rubric](automation/scripting/092-scoring-rubric_066feeb2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/scoring-rubric.md) | ⭐ 80 | `automation` |
 
-### Automation/Workflow (172 skills)
+### Automation/Workflow (171 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -450,13 +450,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orchestration](automation/workflow/137-orchestration_cd915230/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/orchestration.md) | ⭐ 80 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d2b82e9b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 7.3k | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_5aa40387/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 27 | `automation` |
-| [Skill](automation/workflow/name-skill_9cbe64e3/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/enterprise-readiness/SKILL.md) | ⭐ 11 | `automation` |
-| [Skill](automation/workflow/name-skill_425e1d94/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/SKILL.md) | ⭐ 11 | `automation` |
-| [Skill](automation/workflow/name-skill_7a1d055b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-incident-reporting/SKILL.md) | ⭐ 11 | `automation` |
-| [Criteria](automation/workflow/criteria_ddf73152/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/criteria.md) | ⭐ 11 | `automation` |
-| [Skill Php84](automation/workflow/skill-php84_ac898776/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-rector/SKILL-PHP84.md) | ⭐ 11 | `automation` |
+| [Skill](automation/workflow/002-name-skill_9cbe64e3/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/enterprise-readiness/SKILL.md) | ⭐ 11 | `automation` |
+| [Skill](automation/workflow/002-name-skill_425e1d94/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/SKILL.md) | ⭐ 11 | `automation` |
+| [Skill](automation/workflow/002-name-skill_7a1d055b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-incident-reporting/SKILL.md) | ⭐ 11 | `automation` |
+| [Criteria](automation/workflow/136-criteria_ddf73152/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/criteria.md) | ⭐ 11 | `automation` |
 
-### Commercial (155 skills)
+### Commercial (149 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -598,23 +597,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tutorials](commercial/381-tutorials_09dad033/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TUTORIALS.md) | ⭐ 43 | `commercial` |
 | [Board Meeting](commercial/382-board-meeting_3cbd18a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 109 | `commercial` |
 | [Skill](commercial/210-name-skill_58bebc5d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 109 | `commercial` |
-| [Skill](commercial/name-skill_6f38fcb8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ios-design/SKILL.md) | ⭐ 11 | `commercial` |
-| [Skill Eu](commercial/skill-eu_460342ce/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-EU.md) | ⭐ 11 | `commercial` |
-| [Skill Copywriting](commercial/skill-copywriting_7156b3fc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-COPYWRITING.md) | ⭐ 11 | `commercial` |
-| [Skill Pricing](commercial/skill-pricing_5ae4d6be/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-PRICING.md) | ⭐ 11 | `commercial` |
-| [Skill Php84](commercial/skill-php84_af929ebe/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/php-modernization/SKILL-PHP84.md) | ⭐ 11 | `commercial` |
-| [Skill Conditions](commercial/skill-conditions_bf94718d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-powermail/SKILL-CONDITIONS.md) | ⭐ 11 | `commercial` |
-| [Skill Custom Views](commercial/skill-custom-views_44cdc184/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-records-list-types/SKILL-CUSTOM-VIEWS.md) | ⭐ 11 | `commercial` |
-| [Skill](commercial/name-skill_0d0d5484/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-seo/SKILL.md) | ⭐ 11 | `commercial` |
-| [Skill Php84](commercial/skill-php84_e5d17e88/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-PHP84.md) | ⭐ 11 | `commercial` |
-| [Skill](commercial/name-skill_4dbcc02f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-context-mapping/SKILL.md) | 🔥 11.7k | `ddd` `context-map` `anti-corruption-layer` |
-| [Skill](commercial/name-skill_eb85dd0c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/domain-driven-design/SKILL.md) | 🔥 11.7k | `ddd` `domain` `bounded-context` |
-| [Skill Php84](commercial/skill-php84_65c93016/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-testing/SKILL-PHP84.md) | ⭐ 11 | `commercial` |
-| [Query Index Types](commercial/query-index-types_472a74f2/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/postgres-best-practices/references/query-index-types.md) | ⭐ 11 | `commercial` |
-| [Context Map Patterns](commercial/context-map-patterns_c2cb078a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-context-mapping/references/context-map-patterns.md) | 🔥 11.7k | `commercial` |
-| [Strategic Design Template](commercial/strategic-design-template_aa64bd01/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-strategic-design/references/strategic-design-template.md) | 🔥 11.7k | `commercial` |
-| [Implementation Playbook](commercial/implementation-playbook_98d2d707/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/event-store-design/resources/implementation-playbook.md) | 🔥 11.7k | `commercial` |
-| [Implementation Playbook](commercial/implementation-playbook_da6d6953/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/saga-orchestration/resources/implementation-playbook.md) | 🔥 11.7k | `commercial` |
+| [Skill](commercial/210-name-skill_6f38fcb8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ios-design/SKILL.md) | ⭐ 11 | `commercial` |
+| [Skill Eu](commercial/370-skill-eu_460342ce/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-EU.md) | ⭐ 11 | `commercial` |
+| [Skill Copywriting](commercial/371-skill-copywriting_7156b3fc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-COPYWRITING.md) | ⭐ 11 | `commercial` |
+| [Skill Pricing](commercial/372-skill-pricing_5ae4d6be/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-PRICING.md) | ⭐ 11 | `commercial` |
+| [Skill Php84](commercial/373-skill-php84_af929ebe/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/php-modernization/SKILL-PHP84.md) | ⭐ 11 | `commercial` |
+| [Skill Conditions](commercial/374-skill-conditions_bf94718d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-powermail/SKILL-CONDITIONS.md) | ⭐ 11 | `commercial` |
+| [Skill Custom Views](commercial/375-skill-custom-views_44cdc184/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-records-list-types/SKILL-CUSTOM-VIEWS.md) | ⭐ 11 | `commercial` |
+| [Skill](commercial/210-name-skill_0d0d5484/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-seo/SKILL.md) | ⭐ 11 | `commercial` |
+| [Skill Php84](commercial/373-skill-php84_e5d17e88/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-PHP84.md) | ⭐ 11 | `commercial` |
+| [Skill](commercial/210-name-skill_4dbcc02f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-context-mapping/SKILL.md) | 🔥 11.7k | `ddd` `context-map` `anti-corruption-layer` |
+| [Skill](commercial/210-name-skill_eb85dd0c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/domain-driven-design/SKILL.md) | 🔥 11.7k | `ddd` `domain` `bounded-context` |
 
 ### Communication (87 skills)
 
@@ -704,11 +697,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Pass Through](communication/257-pass_through_72bf6b1d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/pass_through.md) | 🔥 35.9k | `communication` |
 | [Project Management](communication/258-project_management_cecb5b62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/project_management.md) | 🔥 35.9k | `communication` |
 | [Claude](communication/024-claude_c17284e2/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 126 | `communication` |
-| [Skill](communication/name-skill_d44650dc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ipados-design/SKILL.md) | ⭐ 11 | `communication` |
-| [Skill Germany](communication/skill-germany_165aca19/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-GERMANY.md) | ⭐ 11 | `communication` |
-| [Skill Content Blocks](communication/skill-content-blocks_2fd809ac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `communication` |
+| [Skill](communication/127-name-skill_d44650dc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ipados-design/SKILL.md) | ⭐ 11 | `communication` |
+| [Skill Germany](communication/252-skill-germany_165aca19/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-GERMANY.md) | ⭐ 11 | `communication` |
+| [Skill Content Blocks](communication/253-skill-content-blocks_2fd809ac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `communication` |
 
-### Content Creation (292 skills)
+### Content Creation (290 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -978,34 +971,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_f88fdda3/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_33a6a664/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md) | ⭐ 10 | `content creation` |
 | [Amazon Bedrock](content-creation/077-amazon-bedrock_53def84d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/amazon-bedrock.md) | ⭐ 167 | `content creation` |
-| [Agents](content-creation/agents_722d7b4e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/AGENTS.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_2e34ac34/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ai-search-optimization/SKILL.md) | ⭐ 11 | `aeo` `geo` `ai-search` |
-| [Skill](content-creation/name-skill_eb7a4bdb/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_88f09a96/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/cro-funnel/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_04c6daaf/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill Cro](content-creation/skill-cro_5c94c3cb/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-CRO.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_5262d148/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill Supabase](content-creation/skill-supabase_e61d2895/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/postgres-best-practices/SKILL-SUPABASE.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_bfcfc68e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/tvos-design/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_66a0ab2f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-content-blocks/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill Php84](content-creation/skill-php84_c12582c5/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-core-contributions/SKILL-PHP84.md) | ⭐ 11 | `content creation` |
-| [Skill Content Blocks](content-creation/skill-content-blocks_df3c2763/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-datahandler/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
-| [Skill Content Blocks](content-creation/skill-content-blocks_284b8860/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-docs/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
-| [Skill Content Blocks](content-creation/skill-content-blocks_28603bbe/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-extension-upgrade/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_c061491c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-workspaces/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_6ae6f65e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/visionos-design/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_80dc113d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/web-platform-design/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_fe168660/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/webconsulting-create-documentation/SKILL.md) | ⭐ 11 | `content creation` |
-| [Skill](content-creation/name-skill_f92d35b9/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/.agents/skills/firecrawl/SKILL.md) | ⭐ 11 | `content creation` |
-| [Audio Visualization](content-creation/audio-visualization_0f4043de/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/remotion-best-practices/rules/audio-visualization.md) | ⭐ 11 | `content creation` |
-| [Sections](content-creation/_sections_a5017bd7/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/tvos-design/rules/_sections.md) | ⭐ 11 | `content creation` |
-| [Sections](content-creation/_sections_20aad284/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/web-platform-design/rules/_sections.md) | ⭐ 11 | `content creation` |
-| [Skill Examples](content-creation/skill-examples_d8074f1e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-powermail/SKILL-EXAMPLES.md) | ⭐ 11 | `content creation` |
-| [Skill Content Blocks](content-creation/skill-content-blocks_4309da99/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-seo/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
-| [Narration Examples](content-creation/narration-examples_ce320892/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/webconsulting-create-documentation/narration-examples.md) | ⭐ 11 | `content creation` |
-| [Ffmpeg](content-creation/ffmpeg_217c513f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/remotion-best-practices/rules/ffmpeg.md) | ⭐ 11 | `content creation` |
+| [Agents](content-creation/185-agents_722d7b4e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/AGENTS.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_2e34ac34/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ai-search-optimization/SKILL.md) | ⭐ 11 | `aeo` `geo` `ai-search` |
+| [Skill](content-creation/049-name-skill_eb7a4bdb/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_88f09a96/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/cro-funnel/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_04c6daaf/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill Cro](content-creation/358-skill-cro_5c94c3cb/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-CRO.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_5262d148/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill Supabase](content-creation/359-skill-supabase_e61d2895/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/postgres-best-practices/SKILL-SUPABASE.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_bfcfc68e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/tvos-design/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_66a0ab2f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-content-blocks/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill Php84](content-creation/360-skill-php84_c12582c5/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-core-contributions/SKILL-PHP84.md) | ⭐ 11 | `content creation` |
+| [Skill Content Blocks](content-creation/361-skill-content-blocks_df3c2763/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-datahandler/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
+| [Skill Content Blocks](content-creation/361-skill-content-blocks_284b8860/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-docs/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
+| [Skill Content Blocks](content-creation/361-skill-content-blocks_28603bbe/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-extension-upgrade/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_c061491c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-workspaces/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_6ae6f65e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/visionos-design/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_80dc113d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/web-platform-design/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_fe168660/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/webconsulting-create-documentation/SKILL.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/049-name-skill_f92d35b9/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/.agents/skills/firecrawl/SKILL.md) | ⭐ 11 | `content creation` |
+| [Audio Visualization](content-creation/362-audio-visualization_0f4043de/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/remotion-best-practices/rules/audio-visualization.md) | ⭐ 11 | `content creation` |
+| [Sections](content-creation/363-_sections_a5017bd7/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/tvos-design/rules/_sections.md) | ⭐ 11 | `content creation` |
+| [Sections](content-creation/363-_sections_20aad284/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/web-platform-design/rules/_sections.md) | ⭐ 11 | `content creation` |
+| [Reference](content-creation/reference_6b5c0369/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
+| [Reference](content-creation/reference_2963c69c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/tiktok-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
 
-### Daily Assistant (216 skills)
+### Daily Assistant (215 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1222,9 +1213,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_7af82135/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 109 | `daily assistant` |
 | [Anti Patterns](daily-assistant/269-anti_patterns_f7d36f45/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/agents/hive_coder/reference/anti_patterns.md) | 🔥 7.3k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_c0390286/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md) | ⭐ 10 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_95984721/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-strategic-design/SKILL.md) | 🔥 11.7k | `ddd` `strategic-design` `bounded-context` |
-| [Tactical Checklist](daily-assistant/tactical-checklist_c6fefa0a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-tactical-patterns/references/tactical-checklist.md) | 🔥 11.7k | `daily assistant` |
-| [Ddd Deliverables](daily-assistant/ddd-deliverables_b33a3aee/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/domain-driven-design/references/ddd-deliverables.md) | 🔥 11.7k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_95984721/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-strategic-design/SKILL.md) | 🔥 11.7k | `ddd` `strategic-design` `bounded-context` |
+| [Tactical Checklist](daily-assistant/268-tactical-checklist_c6fefa0a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-tactical-patterns/references/tactical-checklist.md) | 🔥 11.7k | `daily assistant` |
 
 ### Data Analysis (407 skills)
 
@@ -1632,13 +1622,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multi Graph Sessions](data-analysis/478-multi-graph-sessions_f886bc73/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/multi-graph-sessions.md) | 🔥 7.3k | `data analysis` |
 | [Architecture](data-analysis/009-architecture_2b2844ec/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/architecture.md) | ⭐ 13 | `data analysis` |
 | [Advanced Ui Features](data-analysis/493-advanced_ui_features_45f1f86b/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/advanced_ui_features.md) | ⭐ 13 | `data analysis` |
-| [Skill](data-analysis/name-skill_876e9419/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/document-processing/SKILL.md) | ⭐ 11 | `data analysis` |
-| [Skill](data-analysis/name-skill_eafbf51f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/og-image/SKILL.md) | ⭐ 11 | `data analysis` |
-| [Skill](data-analysis/name-skill_e57e316d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/remotion-best-practices/SKILL.md) | ⭐ 11 | `data analysis` |
-| [Skill](data-analysis/name-skill_1ae2d5c7/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/SKILL.md) | ⭐ 11 | `data analysis` |
-| [Sections](data-analysis/_sections_061e021e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ios-design/rules/_sections.md) | ⭐ 11 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_876e9419/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/document-processing/SKILL.md) | ⭐ 11 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_eafbf51f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/og-image/SKILL.md) | ⭐ 11 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e57e316d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/remotion-best-practices/SKILL.md) | ⭐ 11 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_1ae2d5c7/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/SKILL.md) | ⭐ 11 | `data analysis` |
+| [Sections](data-analysis/482-_sections_061e021e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ios-design/rules/_sections.md) | ⭐ 11 | `data analysis` |
 
-### Development (1097 skills)
+### Development (1090 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2710,35 +2700,28 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_ea4ae4f3/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/design/ai-elements-chatbot-jackspace-claudeskillz/SKILL.md) | ⭐ 82 | `development` |
 | [Skill](development/1178-name-skill_0d21973a/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/design/analysis-matteocervelli-llms/SKILL.md) | ⭐ 82 | `development` |
 | [Skill](development/1178-name-skill_f57b8f18/) | [majiayu000/claude-skill-registry](https://raw.githubusercontent.com/majiayu000/claude-skill-registry/main/skills/design/android-service-account-guide-hitoshura25-claude-devtools/SKILL.md) | ⭐ 82 | `development` |
-| [Sync Setup](development/sync-setup_85831e30/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/SYNC-SETUP.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_45214971/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/agent-md-refactor/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_da20f794/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/context7/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_6239826d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/php-modernization/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_09e5561b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/refactor-clean/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_019df702/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/refactor/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_aedbb5a5/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-audit/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Typo3](development/skill-typo3_f6c594b1/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-incident-reporting/SKILL-TYPO3.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_c2da0e2f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/shadcn-ui/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_f23bec31/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-conformance/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill Content Blocks](development/skill-content-blocks_e5f5b2f4/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-core-contributions/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_bddb5789/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-core-contributions/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_5d357069/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-datahandler/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_347ed253/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-docs/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_12f6b3df/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-extension-upgrade/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill Content Blocks](development/skill-content-blocks_ffe4ed74/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-rector/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_7a70c26b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-rector/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_86f26dcf/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_1d15c851/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_c4b59d2d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-seo/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_b41867dc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ui-design-patterns/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_87c9fbb6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-tactical-patterns/SKILL.md) | 🔥 11.7k | `ddd` `tactical` `aggregates` |
-| [Skill](development/name-skill_934edb03/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-conformance/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_373874c8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-datahandler/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_368abbb0/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-docs/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/skill-php84_6364761a/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-powermail/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill Content Blocks](development/skill-content-blocks_46d160a0/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-testing/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
-| [Skill](development/name-skill_72e4245d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/webconsulting-branding/SKILL.md) | ⭐ 11 | `development` |
-| [Agents](development/agents_e324b2d9/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/webconsulting-create-documentation/AGENTS.md) | ⭐ 11 | `development` |
+| [Sync Setup](development/2892-sync-setup_85831e30/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/SYNC-SETUP.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_45214971/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/agent-md-refactor/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_da20f794/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/context7/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_6239826d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/php-modernization/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_09e5561b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/refactor-clean/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_019df702/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/refactor/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_aedbb5a5/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-audit/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Typo3](development/2893-skill-typo3_f6c594b1/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-incident-reporting/SKILL-TYPO3.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_c2da0e2f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/shadcn-ui/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Php84](development/2894-skill-php84_f23bec31/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-conformance/SKILL-PHP84.md) | ⭐ 11 | `development` |
+| [Skill Content Blocks](development/2895-skill-content-blocks_e5f5b2f4/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-core-contributions/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_bddb5789/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-core-contributions/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_5d357069/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-datahandler/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_347ed253/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-docs/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Php84](development/2894-skill-php84_12f6b3df/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-extension-upgrade/SKILL-PHP84.md) | ⭐ 11 | `development` |
+| [Skill Content Blocks](development/2895-skill-content-blocks_ffe4ed74/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-rector/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_7a70c26b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-rector/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Php84](development/2894-skill-php84_86f26dcf/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL-PHP84.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_1d15c851/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Php84](development/2894-skill-php84_c4b59d2d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-seo/SKILL-PHP84.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_b41867dc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ui-design-patterns/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_87c9fbb6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-tactical-patterns/SKILL.md) | 🔥 11.7k | `ddd` `tactical` `aggregates` |
 
 ### Development/Devops (220 skills)
 
@@ -2960,12 +2943,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Clonar o repositório](development/devops/105-pt_b003e623/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/pt.md) | 🔥 7.3k | `development` |
 | [Клонировать репозиторий](development/devops/106-ru_fb105e0a/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/ru.md) | 🔥 7.3k | `development` |
 | [Zh Cn](development/devops/107-zh-cn_96d36bc0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/i18n/zh-CN.md) | 🔥 7.3k | `development` |
-| [Skill](development/devops/name-skill_2f7d3afe/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/find-skills/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Php84](development/devops/skill-php84_ae8617d8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-PHP84.md) | ⭐ 11 | `development` |
-| [Skill](development/devops/name-skill_63c9d7a6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL.md) | ⭐ 11 | `development` |
-| [Maturity Levels](development/devops/maturity-levels_fb9674af/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/maturity-levels.md) | ⭐ 11 | `development` |
+| [Skill](development/devops/014-name-skill_2f7d3afe/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/find-skills/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Php84](development/devops/365-skill-php84_ae8617d8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-PHP84.md) | ⭐ 11 | `development` |
+| [Skill](development/devops/014-name-skill_63c9d7a6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL.md) | ⭐ 11 | `development` |
+| [Maturity Levels](development/devops/366-maturity-levels_fb9674af/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/maturity-levels.md) | ⭐ 11 | `development` |
 
-### Development/Testing (56 skills)
+### Development/Testing (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3023,10 +3006,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Selector Patterns](development/testing/091-selector-patterns_9b606794/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/selector-patterns.md) | ⭐ 80 | `development` |
 | [Completion](development/testing/087-completion_7330a053/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/COMPLETION.md) | ⭐ 162 | `development` |
 | [Quickref](development/testing/088-quickref_71c0e0f6/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/QUICKREF.md) | ⭐ 162 | `development` |
-| [Skill Content Blocks](development/testing/skill-content-blocks_03162bac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
-| [Skill](development/testing/name-skill_7e28d3c1/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-testing/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Content Blocks](development/testing/087-skill-content-blocks_03162bac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
 
-### Development/Tools (271 skills)
+### Development/Tools (272 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3290,17 +3272,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Issue Queen Bee](development/tools/327-issue-queen-bee_ff145db4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/issue-queen-bee.md) | 🔥 7.3k | `development` |
 | [Pr Queen Bee](development/tools/328-pr-queen-bee_982e8042/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-queen-bee.md) | 🔥 7.3k | `development` |
 | [Elicitation](development/tools/328-elicitation_507810e3/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/design/elicitation.md) | ⭐ 4.2k | `development` |
-| [Skill](development/tools/name-skill_3b8aa192/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/cli-tools/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/tools/name-skill_6025ff8f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/macos-design/SKILL.md) | ⭐ 11 | `development` |
-| [Skill Migration](development/tools/skill-migration_95a3bdbc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-content-blocks/SKILL-MIGRATION.md) | ⭐ 11 | `development` |
-| [Skill](development/tools/name-skill_1c635742/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-extension-upgrade/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/tools/name-skill_87b4b22b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-powermail/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/tools/name-skill_3cc18bc8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-records-list-types/SKILL.md) | ⭐ 11 | `development` |
-| [Skill](development/tools/name-skill_34bbde11/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL.md) | ⭐ 11 | `development` |
-| [Sections](development/tools/_sections_2769f98c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ipados-design/rules/_sections.md) | ⭐ 11 | `development` |
-| [Sections](development/tools/_sections_39653d6f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/macos-design/rules/_sections.md) | ⭐ 11 | `development` |
-| [Sections](development/tools/_sections_2bc13a5c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/visionos-design/rules/_sections.md) | ⭐ 11 | `development` |
-| [Skill Content Blocks](development/tools/skill-content-blocks_fdcdd880/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-conformance/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_3b8aa192/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/cli-tools/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_6025ff8f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/macos-design/SKILL.md) | ⭐ 11 | `development` |
+| [Skill Migration](development/tools/340-skill-migration_95a3bdbc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-content-blocks/SKILL-MIGRATION.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_1c635742/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-extension-upgrade/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_87b4b22b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-powermail/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_3cc18bc8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-records-list-types/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_34bbde11/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL.md) | ⭐ 11 | `development` |
+| [Sections](development/tools/341-_sections_2769f98c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ipados-design/rules/_sections.md) | ⭐ 11 | `development` |
+| [Sections](development/tools/341-_sections_39653d6f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/macos-design/rules/_sections.md) | ⭐ 11 | `development` |
+| [Sections](development/tools/341-_sections_2bc13a5c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/visionos-design/rules/_sections.md) | ⭐ 11 | `development` |
+| [Auth](development/tools/auth_2177aad0/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/AUTH.md) | ⭐ 102 | `development` |
+| [Auth](development/tools/auth_d96fa346/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/tiktok-marketing/AUTH.md) | ⭐ 102 | `development` |
 
 ### Investment (95 skills)
 
@@ -3399,8 +3382,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Storage Architecture Mongodb Documentdb](investment/035-storage-architecture-mongodb-documentdb_c9a82e78/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/design/storage-architecture-mongodb-documentdb.md) | ⭐ 448 | `investment` |
 | [Name Picker](investment/052-name-picker_acee9d61/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/name-picker.md) | ⭐ 42 | `investment` |
 | [Skill](investment/021-name-skill_13887d83/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/SKILL.md) | ⭐ 42 | `investment` |
-| [Skill World](investment/skill-world_51308621/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-WORLD.md) | ⭐ 11 | `investment` |
-| [Skill Psychology](investment/skill-psychology_84cacb42/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-PSYCHOLOGY.md) | ⭐ 11 | `investment` |
+| [Skill World](investment/048-skill-world_51308621/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-WORLD.md) | ⭐ 11 | `investment` |
+| [Skill Psychology](investment/049-skill-psychology_84cacb42/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-PSYCHOLOGY.md) | ⭐ 11 | `investment` |
 
 ### Other (4 skills)
 
@@ -3411,7 +3394,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
 
-### Productivity (55 skills)
+### Productivity (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3467,9 +3450,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Critique Framework](productivity/176-critique_framework_ab6d1ff8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/references/critique_framework.md) | ⭐ 42 | `productivity` |
 | [Backend Developer](productivity/173-backend-developer_98ee075b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/backend-developer.md) | ⭐ 449 | `productivity` |
 | [Scoring Rubric](productivity/173-scoring-rubric_6f86b1fd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/scoring-rubric.md) | ⭐ 80 | `productivity` |
-| [Skill Seo](productivity/skill-seo_4bbb0ad1/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-SEO.md) | ⭐ 11 | `productivity` |
-| [Skill Content Blocks](productivity/skill-content-blocks_148774c6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `productivity` |
-| [Sections](productivity/_sections_980d2881/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/rules/_sections.md) | ⭐ 11 | `productivity` |
+| [Skill Seo](productivity/174-skill-seo_4bbb0ad1/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-SEO.md) | ⭐ 11 | `productivity` |
+| [Skill Content Blocks](productivity/175-skill-content-blocks_148774c6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `productivity` |
+| [Sections](productivity/176-_sections_980d2881/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/rules/_sections.md) | ⭐ 11 | `productivity` |
+| [Reference](productivity/reference_1334efc3/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/REFERENCE.md) | ⭐ 102 | `productivity` |
 
 ### Research (97 skills)
 
@@ -3570,8 +3554,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Debugging Guide](research/258-debugging-guide_548dfcb6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/debugging-guide.md) | ⭐ 80 | `research` |
 | [Governor Limits Reference](research/055-governor-limits-reference_9b9e160d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/governor-limits-reference.md) | ⭐ 80 | `research` |
 | [Advanced Features](research/259-advanced-features_e3d9d4e1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/advanced-features.md) | ⭐ 80 | `research` |
-| [Skill](research/name-skill_1eee4779/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/deepfake-detection/SKILL.md) | ⭐ 11 | `research` |
-| [Sections](research/_sections_5ac3d37c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/rules/_sections.md) | ⭐ 11 | `research` |
+| [Skill](research/139-name-skill_1eee4779/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/deepfake-detection/SKILL.md) | ⭐ 11 | `research` |
+| [Sections](research/258-_sections_5ac3d37c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/rules/_sections.md) | ⭐ 11 | `research` |
 
 ## How Skills Are Organized
 
@@ -3623,5 +3607,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 22:35:06 UTC*
+*Last updated: 2026-02-19 23:35:44 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T22:35:06.119125",
+  "updated_at": "2026-02-19T23:35:43.066301",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -46145,6 +46145,48 @@
       "source_url": "https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-tactical-patterns/references/tactical-checklist.md",
       "display_name": "Tactical Checklist",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "6b5c0369a544a975ebaf4a6b46feb881c011ae67368dce77ef4030dbfc67c835",
+      "source_path": "connectors/facebook-marketing/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "content-creation/026-reference_6b5c0369",
+      "category": "content-creation",
+      "name": "reference_6b5c0369",
+      "indexed_at": "2026-02-19T23:35:40.664595",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-19T02:24:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "2963c69cac782f6ab4c83fc2fb7d09932a62e83da98fb471480fcc4813b5d772",
+      "source_path": "connectors/tiktok-marketing/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "content-creation/026-reference_2963c69c",
+      "category": "content-creation",
+      "name": "reference_2963c69c",
+      "indexed_at": "2026-02-19T23:35:41.514252",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-19T00:52:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/tiktok-marketing/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "1334efc32af982fd2cf06195e08f6e469b97fe41bf91e0b18567ac525fc77be8",
+      "source_path": "connectors/freshdesk/REFERENCE.md",
+      "source_repo": "airbytehq/airbyte-agent-connectors",
+      "local_path": "productivity/173-reference_1334efc3",
+      "category": "productivity",
+      "name": "reference_1334efc3",
+      "indexed_at": "2026-02-19T23:35:43.066249",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-19T02:42:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/REFERENCE.md",
+      "display_name": "Reference",
+      "tags": "[\"productivity\"]"
     }
   ]
 }
