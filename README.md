@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3190 AI-powered skills** organized into 15 categories.
+A curated collection of **3196 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,14 +8,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (93 skills)
+- **Automation/Scripting** (94 skills)
 - **Automation/Workflow** (166 skills)
 - **Commercial** (138 skills)
-- **Communication** (84 skills)
-- **Content Creation** (263 skills)
-- **Daily Assistant** (212 skills)
+- **Communication** (85 skills)
+- **Content Creation** (265 skills)
+- **Daily Assistant** (213 skills)
 - **Data Analysis** (400 skills)
-- **Development** (1061 skills)
+- **Development** (1062 skills)
 - **Development/Devops** (216 skills)
 - **Development/Testing** (54 skills)
 - **Development/Tools** (259 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (93 skills)
+### Automation/Scripting (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -278,6 +278,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cdc Guide](automation/scripting/090-cdc-guide_d15d0f4a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/cdc-guide.md) | ⭐ 80 | `automation` |
 | [Platform Events Guide](automation/scripting/091-platform-events-guide_89f49c95/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/platform-events-guide.md) | ⭐ 80 | `automation` |
 | [Scoring Rubric](automation/scripting/092-scoring-rubric_066feeb2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/scoring-rubric.md) | ⭐ 80 | `automation` |
+| [Skill](automation/scripting/name-skill_d2ec6458/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/aws-sso/SKILL.md) | ⭐ 10 | `automation` |
 
 ### Automation/Workflow (166 skills)
 
@@ -593,7 +594,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Board Meeting](commercial/382-board-meeting_3cbd18a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 109 | `commercial` |
 | [Skill](commercial/210-name-skill_58bebc5d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 109 | `commercial` |
 
-### Communication (84 skills)
+### Communication (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -617,7 +618,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/258-instructions_7b33b000/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/email-construction/instructions.md) | ⭐ 33 | `communication` |
 | [01 About Us](communication/258-01-about-us_45873401/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 1.1k | `communication` |
 | [Create Tools](communication/256-create_tools_579a85b0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_tools.md) | ⭐ 28 | `communication` |
-| [Claude](communication/claude_c17284e2/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 126 | `communication` |
+| [Claude](communication/024-claude_29373bcc/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Claude](communication/024-claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Type System](communication/118-type-system_0495349d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/type-system.md) | ⭐ 16 | `communication` |
 | [Configuration](communication/035-configuration_f3ad7e39/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/CONFIGURATION.md) | ⭐ 153 | `communication` |
@@ -677,12 +678,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orchestration Guide](communication/080-orchestration-guide_f5ff734f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-guide.md) | ⭐ 80 | `communication` |
 | [Orchestration Parent Child](communication/081-orchestration-parent-child_fa4dd519/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-parent-child.md) | ⭐ 80 | `communication` |
 | [Query Optimization](communication/252-query-optimization_915c8b06/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/query-optimization.md) | ⭐ 80 | `communication` |
-| [Usage](communication/usage_30d46c49/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/usage.md) | 🔥 35.9k | `communication` |
-| [Pass Through](communication/pass_through_72bf6b1d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/pass_through.md) | 🔥 35.9k | `communication` |
-| [Project Management](communication/project_management_cecb5b62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/project_management.md) | 🔥 35.9k | `communication` |
+| [Usage](communication/256-usage_30d46c49/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/usage.md) | 🔥 35.9k | `communication` |
+| [Pass Through](communication/257-pass_through_72bf6b1d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/pass_through.md) | 🔥 35.9k | `communication` |
+| [Project Management](communication/258-project_management_cecb5b62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/project_management.md) | 🔥 35.9k | `communication` |
 | [Claude](communication/024-claude_c17284e2/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 126 | `communication` |
+| [Skill](communication/name-skill_13fa8418/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/slack-latest/SKILL.md) | ⭐ 10 | `communication` |
 
-### Content Creation (263 skills)
+### Content Creation (265 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -949,8 +951,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hive Coder Meta Agent Plan](content-creation/359-hive-coder-meta-agent-plan_58cfcf68/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/hive-coder-meta-agent-plan.md) | 🔥 7.3k | `content creation` |
 | [Skill](content-creation/049-name-skill_3f603cc5/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/image-generator/SKILL.md) | ⭐ 162 | `content creation` |
 | [Skill](content-creation/049-name-skill_0d049e7d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 162 | `content creation` |
+| [Skill](content-creation/name-skill_f88fdda3/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/name-skill_33a6a664/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (212 skills)
+### Daily Assistant (213 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1166,6 +1170,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Soql Syntax Reference](daily-assistant/265-soql-syntax-reference_5e658051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-syntax-reference.md) | ⭐ 80 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_7af82135/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 109 | `daily assistant` |
 | [Anti Patterns](daily-assistant/269-anti_patterns_f7d36f45/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/agents/hive_coder/reference/anti_patterns.md) | 🔥 7.3k | `daily assistant` |
+| [Skill](daily-assistant/name-skill_c0390286/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md) | ⭐ 10 | `daily assistant` |
 
 ### Data Analysis (400 skills)
 
@@ -1572,7 +1577,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Salesforce Erd](data-analysis/483-salesforce-erd_83f35f0f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/assets/datamodel/salesforce-erd.md) | ⭐ 80 | `data analysis` |
 | [Multi Graph Sessions](data-analysis/478-multi-graph-sessions_f886bc73/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/multi-graph-sessions.md) | 🔥 7.3k | `data analysis` |
 
-### Development (1061 skills)
+### Development (1062 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2515,7 +2520,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Technology Evaluation Framework](development/1067-technology_evaluation_framework_58273842/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/technology_evaluation_framework.md) | ⭐ 42 | `development` |
 | [Skill](development/1178-name-skill_f7f32eed/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/knowledge-manager/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/1178-name-skill_1880e5f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/knowledge/retrospective-agent/SKILL.md) | ⭐ 42 | `development` |
-| [Response Api](development/response_api_ee8f0055/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 35.9k | `development` |
+| [Response Api](development/1220-response_api_9b716c62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 36.0k | `development` |
 | [Generic Guardrail Api](development/2871-generic_guardrail_api_42a0cdf8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/adding_provider/generic_guardrail_api.md) | 🔥 36.0k | `development` |
 | [Prompt Management](development/2922-prompt_management_8a79029b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prompt_management.md) | 🔥 36.0k | `development` |
 | [Claude](development/140-claude_6eb9182f/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/CLAUDE.md) | ⭐ 113 | `development` |
@@ -2637,6 +2642,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Aden Vs Autogen](development/1552-aden-vs-autogen_807e83d8/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/articles/aden-vs-autogen.md) | 🔥 7.3k | `development` |
 | [Framework Guide](development/2897-framework_guide_0a5ca1b0/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/framework/agents/hive_coder/reference/framework_guide.md) | 🔥 7.3k | `development` |
 | [Response Api](development/1220-response_api_ee8f0055/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 35.9k | `development` |
+| [Agents](development/agents_aff514f7/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/AGENTS.md) | ⭐ 10 | `development` |
 
 ### Development/Devops (216 skills)
 
@@ -3496,5 +3502,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 18:35:24 UTC*
+*Last updated: 2026-02-19 18:37:29 UTC*
 *Automatically maintained by SkillFlow*

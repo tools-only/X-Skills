@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T18:35:24.053792",
+  "updated_at": "2026-02-19T18:37:28.160652",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -44661,6 +44661,62 @@
       "source_url": "https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md",
       "display_name": "Claude",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "aff514f7c365b4d9b73e40092175974f252e5de0fffe565297977e2507a71977",
+      "source_path": "AGENTS.md",
+      "source_repo": "dnouri/ai-config",
+      "local_path": "development/028-agents_aff514f7",
+      "category": "development",
+      "name": "agents_aff514f7",
+      "indexed_at": "2026-02-19T18:37:24.186326",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-28T11:03:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/dnouri/ai-config/master/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f88fdda38dc0f42ea0036fd4d8f717a30d39825df862f476bd1926880c33af93",
+      "source_path": "skills/improve-agents-md/SKILL.md",
+      "source_repo": "dnouri/ai-config",
+      "local_path": "content-creation/049-name-skill_f88fdda3",
+      "category": "content-creation",
+      "name": "name-skill_f88fdda3",
+      "indexed_at": "2026-02-19T18:37:25.469450",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-09T12:53:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "33a6a664dc616a058245a289d67faf15997d9b27044f2b14264f932d86f7f5a9",
+      "source_path": "skills/linear/SKILL.md",
+      "source_repo": "dnouri/ai-config",
+      "local_path": "content-creation/049-name-skill_33a6a664",
+      "category": "content-creation",
+      "name": "name-skill_33a6a664",
+      "indexed_at": "2026-02-19T18:37:26.765946",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-30T10:43:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c0390286fdfa204960371fc30d27f3639a599d7b5777edeba69e9308d76ddaab",
+      "source_path": "skills/tmux/SKILL.md",
+      "source_repo": "dnouri/ai-config",
+      "local_path": "daily-assistant/032-name-skill_c0390286",
+      "category": "daily-assistant",
+      "name": "name-skill_c0390286",
+      "indexed_at": "2026-02-19T18:37:28.160540",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-09T06:35:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }
