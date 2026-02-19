@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3246 AI-powered skills** organized into 15 categories.
+A curated collection of **3161 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (98 skills)
-- **Automation/Workflow** (175 skills)
-- **Commercial** (147 skills)
-- **Communication** (87 skills)
-- **Content Creation** (258 skills)
-- **Daily Assistant** (215 skills)
-- **Data Analysis** (403 skills)
-- **Development** (1073 skills)
-- **Development/Devops** (214 skills)
-- **Development/Testing** (65 skills)
-- **Development/Tools** (264 skills)
+- **Automation/Scripting** (93 skills)
+- **Automation/Workflow** (165 skills)
+- **Commercial** (138 skills)
+- **Communication** (80 skills)
+- **Content Creation** (259 skills)
+- **Daily Assistant** (211 skills)
+- **Data Analysis** (399 skills)
+- **Development** (1057 skills)
+- **Development/Devops** (206 skills)
+- **Development/Testing** (52 skills)
+- **Development/Tools** (257 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
-- **Productivity** (53 skills)
-- **Research** (97 skills)
+- **Productivity** (52 skills)
+- **Research** (95 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (98 skills)
+### Automation/Scripting (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -269,22 +269,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_85ef5262/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/parallel-dispatch/SKILL.md) | ⭐ 42 | `automation` |
 | [Skill](automation/scripting/003-name-skill_6954364a/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_43f15238/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-flow/SKILL.md) | ⭐ 79 | `automation` |
-| [Skill](automation/scripting/name-skill_3b553716/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/SKILL.md) | ⭐ 80 | `automation` |
-| [Code Review Checklist](automation/scripting/code-review-checklist_9e3ce14f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/code-review-checklist.md) | ⭐ 80 | `automation` |
-| [Naming Conventions](automation/scripting/naming-conventions_a2073ea1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/naming-conventions.md) | ⭐ 80 | `automation` |
-| [Debug Log Reference](automation/scripting/debug-log-reference_db8b225a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/debug-log-reference.md) | ⭐ 80 | `automation` |
-| [Best Practices](automation/scripting/best-practices_ff0462b8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/best-practices.md) | ⭐ 80 | `automation` |
-| [Flow Quick Reference](automation/scripting/flow-quick-reference_8ef81be1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/flow-quick-reference.md) | ⭐ 80 | `automation` |
-| [Cdc Guide](automation/scripting/cdc-guide_d15d0f4a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/cdc-guide.md) | ⭐ 80 | `automation` |
-| [Platform Events Guide](automation/scripting/platform-events-guide_89f49c95/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/platform-events-guide.md) | ⭐ 80 | `automation` |
-| [Scoring Rubric](automation/scripting/scoring-rubric_066feeb2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/scoring-rubric.md) | ⭐ 80 | `automation` |
-| [Quality Assessment](automation/scripting/quality-assessment_45c9100d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/quality-assessment.md) | ⭐ 80 | `automation` |
-| [Billing And Troubleshooting](automation/scripting/billing-and-troubleshooting_2c56b30b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/billing-and-troubleshooting.md) | ⭐ 80 | `automation` |
-| [Feature Validity](automation/scripting/feature-validity_b7bc04aa/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/feature-validity.md) | ⭐ 80 | `automation` |
-| [Bulk Testing Example](automation/scripting/bulk-testing-example_1440c888/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/bulk-testing-example.md) | ⭐ 80 | `automation` |
-| [Test Data Factory Usage](automation/scripting/test-data-factory-usage_f9e8d638/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/test-data-factory-usage.md) | ⭐ 80 | `automation` |
+| [Skill](automation/scripting/003-name-skill_3b553716/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/SKILL.md) | ⭐ 80 | `automation` |
+| [Code Review Checklist](automation/scripting/085-code-review-checklist_9e3ce14f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/code-review-checklist.md) | ⭐ 80 | `automation` |
+| [Naming Conventions](automation/scripting/086-naming-conventions_a2073ea1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/naming-conventions.md) | ⭐ 80 | `automation` |
+| [Debug Log Reference](automation/scripting/087-debug-log-reference_db8b225a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/debug-log-reference.md) | ⭐ 80 | `automation` |
+| [Best Practices](automation/scripting/088-best-practices_ff0462b8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/best-practices.md) | ⭐ 80 | `automation` |
+| [Flow Quick Reference](automation/scripting/089-flow-quick-reference_8ef81be1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/flow-quick-reference.md) | ⭐ 80 | `automation` |
+| [Cdc Guide](automation/scripting/090-cdc-guide_d15d0f4a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/cdc-guide.md) | ⭐ 80 | `automation` |
+| [Platform Events Guide](automation/scripting/091-platform-events-guide_89f49c95/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/platform-events-guide.md) | ⭐ 80 | `automation` |
+| [Scoring Rubric](automation/scripting/092-scoring-rubric_066feeb2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/scoring-rubric.md) | ⭐ 80 | `automation` |
 
-### Automation/Workflow (175 skills)
+### Automation/Workflow (165 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -448,23 +443,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_7e4de8ec/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_9010d38f/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/replicate-cli/SKILL.md) | ⭐ 17 | `automation` |
 | [Execution Guide](automation/workflow/134-execution-guide_7ce13977/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/agent-team-builder/references/execution-guide.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/name-skill_c254dc2d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/SKILL.md) | ⭐ 80 | `automation` |
-| [Cli Guide](automation/workflow/cli-guide_3ebd1229/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/cli-guide.md) | ⭐ 80 | `automation` |
-| [Oauth Flows](automation/workflow/oauth-flows_7a68b296/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/oauth-flows.md) | ⭐ 80 | `automation` |
-| [Named Credentials Automation](automation/workflow/named-credentials-automation_233cf327/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/named-credentials-automation.md) | ⭐ 80 | `automation` |
-| [Orchestration](automation/workflow/orchestration_cd915230/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/orchestration.md) | ⭐ 80 | `automation` |
-| [Agentic Fix Loop](automation/workflow/agentic-fix-loop_de4a58a4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/agentic-fix-loop.md) | ⭐ 80 | `automation` |
-| [Agentscript Agents](automation/workflow/agentscript-agents_ebd40913/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/agentscript-agents.md) | ⭐ 80 | `automation` |
-| [Automated Testing](automation/workflow/automated-testing_558672bf/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/automated-testing.md) | ⭐ 80 | `automation` |
-| [Fsm Architecture](automation/workflow/fsm-architecture_1f914381/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/fsm-architecture.md) | ⭐ 80 | `automation` |
-| [Testing Guide](automation/workflow/testing-guide_7283fd48/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/testing-guide.md) | ⭐ 80 | `automation` |
-| [Orchestration](automation/workflow/orchestration_36880873/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/orchestration.md) | ⭐ 80 | `automation` |
-| [Iteration Workflow](automation/workflow/iteration-workflow_54236ef9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/iteration-workflow.md) | ⭐ 80 | `automation` |
-| [Orchestration](automation/workflow/orchestration_1462eed8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration.md) | ⭐ 80 | `automation` |
-| [Testing Guide](automation/workflow/testing-guide_8d6e36e2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/testing-guide.md) | ⭐ 80 | `automation` |
-| [Permset Auto Generation](automation/workflow/permset-auto-generation_1b341c36/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/permset-auto-generation.md) | ⭐ 80 | `automation` |
+| [Skill](automation/workflow/002-name-skill_c254dc2d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/SKILL.md) | ⭐ 80 | `automation` |
+| [Cli Guide](automation/workflow/134-cli-guide_3ebd1229/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/cli-guide.md) | ⭐ 80 | `automation` |
+| [Oauth Flows](automation/workflow/135-oauth-flows_7a68b296/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/oauth-flows.md) | ⭐ 80 | `automation` |
+| [Named Credentials Automation](automation/workflow/136-named-credentials-automation_233cf327/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/named-credentials-automation.md) | ⭐ 80 | `automation` |
+| [Orchestration](automation/workflow/137-orchestration_cd915230/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/orchestration.md) | ⭐ 80 | `automation` |
 
-### Commercial (147 skills)
+### Commercial (138 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -563,10 +548,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Industry Icons](commercial/379-industry-icons_a577032d/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/icon-set-generator/references/industry-icons.md) | ⭐ 499 | `commercial` |
 | [Cta Patterns](commercial/380-cta-patterns_d1b17b81/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/web-design-patterns/references/cta-patterns.md) | ⭐ 499 | `commercial` |
 | [Disclaimer](commercial/370-disclaimer_8515c579/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/DISCLAIMER.md) | ⭐ 448 | `commercial` |
-| [Board Meeting](commercial/381-board-meeting_c91816e1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 42 | `commercial` |
+| [Board Meeting](commercial/board-meeting_3cbd18a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 109 | `commercial` |
 | [Ceo](commercial/382-ceo_c5da5855/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/ceo.md) | ⭐ 42 | `commercial` |
 | [Status](commercial/383-status_5707e136/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/status.md) | ⭐ 42 | `commercial` |
-| [Skill](commercial/210-name-skill_c81cad39/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 42 | `commercial` |
+| [Skill](commercial/name-skill_58bebc5d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 109 | `commercial` |
 | [Skill](commercial/210-name-skill_d378f606/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-business-logic/SKILL.md) | ⭐ 42 | `commercial` |
 | [Skill](commercial/210-name-skill_cad96e65/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-integration/SKILL.md) | ⭐ 42 | `commercial` |
 | [Skill](commercial/210-name-skill_cd634626/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-execution-evaluator/SKILL.md) | ⭐ 42 | `commercial` |
@@ -582,41 +567,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Full](commercial/369-llms-full_35ae5150/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms-full.md) | ⭐ 17 | `commercial` |
 | [Llms Txt](commercial/370-llms-txt_ac6759f7/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms-txt.md) | ⭐ 17 | `commercial` |
 | [Llms](commercial/259-llms_98c732bf/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms.md) | ⭐ 17 | `commercial` |
-| [Skill](commercial/name-skill_c48aba63/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/SKILL.md) | ⭐ 80 | `commercial` |
-| [Continuous Improvement](commercial/continuous-improvement_85a513b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/continuous-improvement.md) | ⭐ 80 | `commercial` |
-| [Conversation Patterns](commercial/conversation-patterns_d002e024/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/conversation-patterns.md) | ⭐ 80 | `commercial` |
-| [Guardrail Hierarchy](commercial/guardrail-hierarchy_59b1c2f2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/guardrail-hierarchy.md) | ⭐ 80 | `commercial` |
-| [Instruction Writing Guide](commercial/instruction-writing-guide_1f7c6e12/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/instruction-writing-guide.md) | ⭐ 80 | `commercial` |
-| [Persona Design Guide](commercial/persona-design-guide_62ed5cec/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/persona-design-guide.md) | ⭐ 80 | `commercial` |
-| [Retail Topic Architecture](commercial/retail-topic-architecture_7083df75/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/retail-topic-architecture.md) | ⭐ 80 | `commercial` |
-| [Action Patterns](commercial/action-patterns_c0c410d4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/action-patterns.md) | ⭐ 80 | `commercial` |
-| [Instruction Resolution](commercial/instruction-resolution_d2f28c28/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/instruction-resolution.md) | ⭐ 80 | `commercial` |
-| [Patterns Quick Ref](commercial/patterns-quick-ref_897ebff8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/patterns-quick-ref.md) | ⭐ 80 | `commercial` |
-| [Production Gotchas](commercial/production-gotchas_86596efd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/production-gotchas.md) | ⭐ 80 | `commercial` |
-| [Flow Integration](commercial/flow-integration_f382cae8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/flow-integration.md) | ⭐ 80 | `commercial` |
-| [Security Checklist](commercial/security-checklist_301f6a90/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/security-checklist.md) | ⭐ 80 | `commercial` |
-| [Bulk Operations Guide](commercial/bulk-operations-guide_05734faa/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/bulk-operations-guide.md) | ⭐ 80 | `commercial` |
-| [Deployment Workflows](commercial/deployment-workflows_4e970c1d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/deployment-workflows.md) | ⭐ 80 | `commercial` |
-| [Orchestration Sequential](commercial/orchestration-sequential_1df0d82b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-sequential.md) | ⭐ 80 | `commercial` |
-| [Triangle Pattern](commercial/triangle-pattern_a5e0c55a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/triangle-pattern.md) | ⭐ 80 | `commercial` |
-| [Flow Integration Guide](commercial/flow-integration-guide_0dae3399/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/flow-integration-guide.md) | ⭐ 80 | `commercial` |
-| [State Management](commercial/state-management_ed098686/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/state-management.md) | ⭐ 80 | `commercial` |
-| [Naming Conventions](commercial/naming-conventions_5ffe4a01/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/naming-conventions.md) | ⭐ 80 | `commercial` |
-| [Cli Commands](commercial/cli-commands_fd6e7c91/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/cli-commands.md) | ⭐ 80 | `commercial` |
-| [Agentic Fix Loops](commercial/agentic-fix-loops_72885278/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/agentic-fix-loops.md) | ⭐ 80 | `commercial` |
-| [Multi Turn Test Patterns](commercial/multi-turn-test-patterns_a131b4b4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/multi-turn-test-patterns.md) | ⭐ 80 | `commercial` |
-| [Scoring Rubric](commercial/scoring-rubric_a500ae58/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/scoring-rubric.md) | ⭐ 80 | `commercial` |
-| [Test Spec Guide](commercial/test-spec-guide_b56978af/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/test-spec-guide.md) | ⭐ 80 | `commercial` |
-| [Readme Legacy](commercial/readme-legacy_37b2ac55/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/assets/README-legacy.md) | ⭐ 80 | `commercial` |
-| [Integration Patterns](commercial/integration-patterns_4cc7ebea/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/integration-patterns.md) | ⭐ 80 | `commercial` |
-| [Screen Flow Example](commercial/screen-flow-example_97b1523f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/screen-flow-example.md) | ⭐ 80 | `commercial` |
-| [Cli Reference](commercial/cli-reference_dda215c2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/cli-reference.md) | ⭐ 80 | `commercial` |
-| [Custom Object Example](commercial/custom-object-example_4468c496/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/custom-object-example.md) | ⭐ 80 | `commercial` |
-| [Field Types Example](commercial/field-types-example_07ebd5dc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/field-types-example.md) | ⭐ 80 | `commercial` |
-| [Metadata Types Reference](commercial/metadata-types-reference_ec0fd06b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/metadata-types-reference.md) | ⭐ 80 | `commercial` |
-| [Permission Set Example](commercial/permission-set-example_fbeb98e3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/permission-set-example.md) | ⭐ 80 | `commercial` |
+| [Skill](commercial/210-name-skill_c48aba63/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/SKILL.md) | ⭐ 80 | `commercial` |
+| [Continuous Improvement](commercial/369-continuous-improvement_85a513b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/continuous-improvement.md) | ⭐ 80 | `commercial` |
+| [Conversation Patterns](commercial/328-conversation-patterns_d002e024/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/conversation-patterns.md) | ⭐ 80 | `commercial` |
+| [Guardrail Hierarchy](commercial/329-guardrail-hierarchy_59b1c2f2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/guardrail-hierarchy.md) | ⭐ 80 | `commercial` |
+| [Instruction Writing Guide](commercial/326-instruction-writing-guide_1f7c6e12/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/instruction-writing-guide.md) | ⭐ 80 | `commercial` |
+| [Persona Design Guide](commercial/327-persona-design-guide_62ed5cec/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/persona-design-guide.md) | ⭐ 80 | `commercial` |
+| [Retail Topic Architecture](commercial/370-retail-topic-architecture_7083df75/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/retail-topic-architecture.md) | ⭐ 80 | `commercial` |
+| [Action Patterns](commercial/371-action-patterns_c0c410d4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/action-patterns.md) | ⭐ 80 | `commercial` |
+| [Instruction Resolution](commercial/106-instruction-resolution_d2f28c28/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/instruction-resolution.md) | ⭐ 80 | `commercial` |
+| [Patterns Quick Ref](commercial/144-patterns-quick-ref_897ebff8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/patterns-quick-ref.md) | ⭐ 80 | `commercial` |
+| [Production Gotchas](commercial/372-production-gotchas_86596efd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/production-gotchas.md) | ⭐ 80 | `commercial` |
+| [Flow Integration](commercial/083-flow-integration_f382cae8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/flow-integration.md) | ⭐ 80 | `commercial` |
+| [Security Checklist](commercial/178-security-checklist_301f6a90/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/security-checklist.md) | ⭐ 80 | `commercial` |
+| [Bulk Operations Guide](commercial/029-bulk-operations-guide_05734faa/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/bulk-operations-guide.md) | ⭐ 80 | `commercial` |
+| [Deployment Workflows](commercial/059-deployment-workflows_4e970c1d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/deployment-workflows.md) | ⭐ 80 | `commercial` |
+| [Orchestration Sequential](commercial/137-orchestration-sequential_1df0d82b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-sequential.md) | ⭐ 80 | `commercial` |
+| [Triangle Pattern](commercial/200-triangle-pattern_a5e0c55a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/triangle-pattern.md) | ⭐ 80 | `commercial` |
+| [Flow Integration Guide](commercial/084-flow-integration-guide_0dae3399/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/flow-integration-guide.md) | ⭐ 80 | `commercial` |
+| [State Management](commercial/186-state-management_ed098686/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/state-management.md) | ⭐ 80 | `commercial` |
+| [Naming Conventions](commercial/131-naming-conventions_5ffe4a01/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/naming-conventions.md) | ⭐ 80 | `commercial` |
+| [Cli Commands](commercial/037-cli-commands_fd6e7c91/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/cli-commands.md) | ⭐ 80 | `commercial` |
+| [Tutorials](commercial/tutorials_09dad033/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TUTORIALS.md) | ⭐ 43 | `commercial` |
+| [Board Meeting](commercial/382-board-meeting_3cbd18a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/board-meeting.md) | ⭐ 109 | `commercial` |
+| [Skill](commercial/210-name-skill_58bebc5d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/conductor-orchestrator/SKILL.md) | ⭐ 109 | `commercial` |
 
-### Communication (87 skills)
+### Communication (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -690,25 +666,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_76f3c42e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/SKILL.md) | ⭐ 79 | `communication` |
 | [Llms](communication/251-llms_f1c8a055/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms.md) | ⭐ 17 | `communication` |
 | [Customers](communication/250-customers_9aa574b8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/customers.md) | 🔥 36.0k | `communication` |
-| [Tinyclaw](communication/tinyclaw_cd631143/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/research-agent-patterns/tinyclaw.md) | ⭐ 18 | `communication` |
-| [Skill](communication/name-skill_1a407bbb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/SKILL.md) | ⭐ 80 | `communication` |
-| [Escalation Patterns](communication/escalation-patterns_530799a2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/escalation-patterns.md) | ⭐ 80 | `communication` |
-| [Service Agent Persona](communication/service-agent-persona_0ec96a48/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/service-agent-persona.md) | ⭐ 80 | `communication` |
-| [Solid Principles](communication/solid-principles_5d04edb0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/solid-principles.md) | ⭐ 80 | `communication` |
-| [Trigger Deployment Safety](communication/trigger-deployment-safety_99489e5d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/trigger-deployment-safety.md) | ⭐ 80 | `communication` |
-| [Orchestration Conditional](communication/orchestration-conditional_d0bce501/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-conditional.md) | ⭐ 80 | `communication` |
-| [Orchestration Guide](communication/orchestration-guide_f5ff734f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-guide.md) | ⭐ 80 | `communication` |
-| [Orchestration Parent Child](communication/orchestration-parent-child_fa4dd519/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-parent-child.md) | ⭐ 80 | `communication` |
-| [Query Optimization](communication/query-optimization_915c8b06/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/query-optimization.md) | ⭐ 80 | `communication` |
-| [Connected App Setup](communication/connected-app-setup_e6e79941/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/connected-app-setup.md) | ⭐ 80 | `communication` |
-| [Deep Conversation History Patterns](communication/deep-conversation-history-patterns_e6a4d4f2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/deep-conversation-history-patterns.md) | ⭐ 80 | `communication` |
-| [Action Prompt Templates](communication/action-prompt-templates_f00639e9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/action-prompt-templates.md) | ⭐ 80 | `communication` |
-| [Examples Index](communication/examples-index_fa8fe61b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/examples-index.md) | ⭐ 80 | `communication` |
-| [Error Logging Example](communication/error-logging-example_c4195f6c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/error-logging-example.md) | ⭐ 80 | `communication` |
-| [Field And Cli Reference](communication/field-and-cli-reference_f21d48d2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/field-and-cli-reference.md) | ⭐ 80 | `communication` |
-| [Core Objects](communication/core-objects_1af73158/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/assets/erd/core-objects.md) | ⭐ 80 | `communication` |
+| [Tinyclaw](communication/250-tinyclaw_cd631143/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/research-agent-patterns/tinyclaw.md) | ⭐ 18 | `communication` |
+| [Skill](communication/127-name-skill_1a407bbb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/SKILL.md) | ⭐ 80 | `communication` |
+| [Escalation Patterns](communication/215-escalation-patterns_530799a2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/escalation-patterns.md) | ⭐ 80 | `communication` |
+| [Service Agent Persona](communication/251-service-agent-persona_0ec96a48/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/service-agent-persona.md) | ⭐ 80 | `communication` |
+| [Solid Principles](communication/108-solid-principles_5d04edb0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/solid-principles.md) | ⭐ 80 | `communication` |
+| [Trigger Deployment Safety](communication/116-trigger-deployment-safety_99489e5d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/trigger-deployment-safety.md) | ⭐ 80 | `communication` |
+| [Orchestration Conditional](communication/079-orchestration-conditional_d0bce501/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-conditional.md) | ⭐ 80 | `communication` |
+| [Orchestration Guide](communication/080-orchestration-guide_f5ff734f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-guide.md) | ⭐ 80 | `communication` |
+| [Orchestration Parent Child](communication/081-orchestration-parent-child_fa4dd519/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/orchestration-parent-child.md) | ⭐ 80 | `communication` |
+| [Query Optimization](communication/252-query-optimization_915c8b06/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/query-optimization.md) | ⭐ 80 | `communication` |
 
-### Content Creation (258 skills)
+### Content Creation (259 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -878,7 +847,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](content-creation/007-claude_1ac80fcb/) | [daymade/claude-code-skills](https://raw.githubusercontent.com/daymade/claude-code-skills/main/CLAUDE.md) | ⭐ 586 | `content creation` |
 | [Skill](content-creation/049-name-skill_03c26f41/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 74 | `content creation` |
 | [Skill](content-creation/049-name-skill_ad9076fe/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentforce-observability/SKILL.md) | ⭐ 74 | `content creation` |
-| [Hooks Frontmatter Schema](content-creation/hooks-frontmatter-schema_90bd0a5c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hooks-frontmatter-schema.md) | ⭐ 80 | `content creation` |
+| [Hooks Frontmatter Schema](content-creation/353-hooks-frontmatter-schema_12cd2ffd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hooks-frontmatter-schema.md) | ⭐ 74 | `content creation` |
 | [Refactor Executor](content-creation/353-refactor-executor_62570369/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/refactor-executor.md) | ⭐ 18 | `content creation` |
 | [Python Cli Architect](content-creation/354-python-cli-architect_7c048367/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/agents/python-cli-architect.md) | ⭐ 18 | `content creation` |
 | [File Summarizer](content-creation/355-file-summarizer_80616872/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/summarizer/agents/file-summarizer.md) | ⭐ 18 | `content creation` |
@@ -909,8 +878,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Contextual Ai Documentation Optimizer](content-creation/356-contextual-ai-documentation-optimizer_b6857016/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/contextual-ai-documentation-optimizer.md) | ⭐ 18 | `content creation` |
 | [Conductor Orchestrator](content-creation/377-conductor-orchestrator_677bcf29/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/conductor-orchestrator.md) | ⭐ 42 | `content creation` |
 | [Loop Fixer](content-creation/378-loop-fixer_46ff46a2/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-fixer.md) | ⭐ 42 | `content creation` |
-| [Parallel Dispatcher](content-creation/379-parallel-dispatcher_401cb051/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/parallel-dispatcher.md) | ⭐ 42 | `content creation` |
-| [Task Worker](content-creation/380-task-worker_5a115c1e/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/task-worker.md) | ⭐ 42 | `content creation` |
+| [Parallel Dispatcher](content-creation/parallel-dispatcher_ed9036f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/parallel-dispatcher.md) | ⭐ 109 | `content creation` |
+| [Task Worker](content-creation/task-worker_62ad3bf5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/task-worker.md) | ⭐ 109 | `content creation` |
 | [Task Worker](content-creation/380-task-worker_8f086799/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/task-worker.md) | ⭐ 42 | `content creation` |
 | [Chief Experience Officer](content-creation/381-chief-experience-officer_26ac3f85/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-experience-officer.md) | ⭐ 42 | `content creation` |
 | [Index](content-creation/019-index_903353a9/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
@@ -955,23 +924,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Full](content-creation/357-llms-full_44d3b927/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-full.md) | ⭐ 17 | `content creation` |
 | [Llms Small](content-creation/359-llms-small_98e8a510/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/references/llms-small.md) | ⭐ 17 | `content creation` |
 | [Config Settings](content-creation/358-config_settings_2baeb447/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Skill](content-creation/name-skill_093f6202/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 80 | `content creation` |
-| [Skill](content-creation/name-skill_529e982a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/SKILL.md) | ⭐ 80 | `content creation` |
-| [Credits](content-creation/credits_ff67976d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/CREDITS.md) | ⭐ 80 | `content creation` |
+| [Skill](content-creation/049-name-skill_093f6202/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/SKILL.md) | ⭐ 80 | `content creation` |
+| [Skill](content-creation/049-name-skill_529e982a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/SKILL.md) | ⭐ 80 | `content creation` |
+| [Credits](content-creation/011-credits_ff67976d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/CREDITS.md) | ⭐ 80 | `content creation` |
 | [Hooks Frontmatter Schema](content-creation/353-hooks-frontmatter-schema_90bd0a5c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/shared/hooks/docs/hooks-frontmatter-schema.md) | ⭐ 80 | `content creation` |
-| [Anti Patterns](content-creation/anti-patterns_6c21c90a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/anti-patterns.md) | ⭐ 80 | `content creation` |
-| [Industry Frameworks](content-creation/industry-frameworks_24019d11/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/industry-frameworks.md) | ⭐ 80 | `content creation` |
-| [Quality Metrics](content-creation/quality-metrics_208c1a38/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/quality-metrics.md) | ⭐ 80 | `content creation` |
-| [Troubleshooting](content-creation/troubleshooting_2b861638/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/troubleshooting.md) | ⭐ 80 | `content creation` |
-| [Grounding Multiagent](content-creation/grounding-multiagent_b9a8d650/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/grounding-multiagent.md) | ⭐ 80 | `content creation` |
-| [Preview Guide](content-creation/preview-guide_556b0117/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/preview-guide.md) | ⭐ 80 | `content creation` |
-| [Transform Vs Loop Guide](content-creation/transform-vs-loop-guide_84e4e667/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/transform-vs-loop-guide.md) | ⭐ 80 | `content creation` |
-| [Permission Model](content-creation/permission-model_58f34cd2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/permission-model.md) | ⭐ 80 | `content creation` |
-| [Credits](content-creation/credits_326a5bb5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/CREDITS.md) | ⭐ 80 | `content creation` |
-| [Architecture Patterns](content-creation/architecture-patterns_0b6af9dc/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/architecture-patterns.md) | ⭐ 80 | `content creation` |
-| [Workflow Examples](content-creation/workflow-examples_084bca20/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/workflow-examples.md) | ⭐ 80 | `content creation` |
+| [Anti Patterns](content-creation/274-anti-patterns_6c21c90a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/anti-patterns.md) | ⭐ 80 | `content creation` |
+| [Industry Frameworks](content-creation/275-industry-frameworks_24019d11/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/industry-frameworks.md) | ⭐ 80 | `content creation` |
+| [Quality Metrics](content-creation/276-quality-metrics_208c1a38/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/quality-metrics.md) | ⭐ 80 | `content creation` |
+| [Troubleshooting](content-creation/110-troubleshooting_2b861638/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/troubleshooting.md) | ⭐ 80 | `content creation` |
+| [Grounding Multiagent](content-creation/352-grounding-multiagent_b9a8d650/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/grounding-multiagent.md) | ⭐ 80 | `content creation` |
+| [Preview Guide](content-creation/354-preview-guide_556b0117/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/preview-guide.md) | ⭐ 80 | `content creation` |
+| [Transform Vs Loop Guide](content-creation/355-transform-vs-loop-guide_84e4e667/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/transform-vs-loop-guide.md) | ⭐ 80 | `content creation` |
+| [Permission Model](content-creation/023-permission-model_58f34cd2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/permission-model.md) | ⭐ 80 | `content creation` |
+| [Parallel Dispatcher](content-creation/382-parallel-dispatcher_ed9036f4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/parallel-dispatcher.md) | ⭐ 109 | `content creation` |
+| [Task Worker](content-creation/383-task-worker_62ad3bf5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/task-worker.md) | ⭐ 109 | `content creation` |
+| [Parameter Schema](content-creation/parameter-schema_50941731/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/parameter-schema.md) | ⭐ 109 | `content creation` |
+| [Skill](content-creation/name-skill_96233501/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/executing-plans/SKILL.md) | ⭐ 109 | `content creation` |
 
-### Daily Assistant (215 skills)
+### Daily Assistant (211 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1167,7 +1137,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ux Designer](daily-assistant/284-ux-designer_0e7542ab/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/ux-designer.md) | ⭐ 42 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_7a238df1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/brainstorming/SKILL.md) | ⭐ 42 | `daily assistant` |
 | [Skill](daily-assistant/285-ensures-skill_43b9174f/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/business-docs-sync/SKILL.md) | ⭐ 42 | `daily assistant` |
-| [Skill](daily-assistant/032-name-skill_f09a7f35/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 42 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_7af82135/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 109 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_3ec846b5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-planner/SKILL.md) | ⭐ 42 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_382b9cde/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/track-manager/SKILL.md) | ⭐ 42 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_07d73726/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/using-superpowers/SKILL.md) | ⭐ 42 | `daily assistant` |
@@ -1180,18 +1150,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Commit Push Pr](daily-assistant/286-commit-push-pr_3bc3d171/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/commit-commands/commands/commit-push-pr.md) | 🔥 7.6k | `daily assistant` |
 | [Commit](daily-assistant/287-commit_d1acbc2b/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/commit-commands/commands/commit.md) | 🔥 7.6k | `daily assistant` |
 | [Code Architect](daily-assistant/288-code-architect_c50fb08d/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/feature-dev/agents/code-architect.md) | 🔥 7.6k | `daily assistant` |
-| [Healthcare Escalation](daily-assistant/healthcare-escalation_362a1a4e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/healthcare-escalation.md) | ⭐ 80 | `daily assistant` |
-| [Soql Relationship Guide](daily-assistant/soql-relationship-guide_a134d99f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/soql-relationship-guide.md) | ⭐ 80 | `daily assistant` |
-| [Wait Patterns](daily-assistant/wait-patterns_4986c8c6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/wait-patterns.md) | ⭐ 80 | `daily assistant` |
-| [Profile Permission Guide](daily-assistant/profile-permission-guide_51dd8f40/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/profile-permission-guide.md) | ⭐ 80 | `daily assistant` |
-| [Soql Syntax Reference](daily-assistant/soql-syntax-reference_5e658051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-syntax-reference.md) | ⭐ 80 | `daily assistant` |
-| [Basic Extraction](daily-assistant/basic-extraction_c6edad98/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/basic-extraction.md) | ⭐ 80 | `daily assistant` |
-| [Filtered Extraction](daily-assistant/filtered-extraction_25d3b893/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/filtered-extraction.md) | ⭐ 80 | `daily assistant` |
-| [Execution Protocol](daily-assistant/execution-protocol_0d2a124c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/execution-protocol.md) | ⭐ 80 | `daily assistant` |
-| [Multi Turn Testing Guide](daily-assistant/multi-turn-testing-guide_eaca51ff/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/multi-turn-testing-guide.md) | ⭐ 80 | `daily assistant` |
-| [Prompt Templates](daily-assistant/prompt-templates_da843b80/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/references/prompt-templates.md) | ⭐ 80 | `daily assistant` |
+| [Healthcare Escalation](daily-assistant/263-healthcare-escalation_362a1a4e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/healthcare-escalation.md) | ⭐ 80 | `daily assistant` |
+| [Soql Relationship Guide](daily-assistant/025-soql-relationship-guide_a134d99f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/soql-relationship-guide.md) | ⭐ 80 | `daily assistant` |
+| [Wait Patterns](daily-assistant/031-wait-patterns_4986c8c6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/wait-patterns.md) | ⭐ 80 | `daily assistant` |
+| [Profile Permission Guide](daily-assistant/264-profile-permission-guide_51dd8f40/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/profile-permission-guide.md) | ⭐ 80 | `daily assistant` |
+| [Soql Syntax Reference](daily-assistant/265-soql-syntax-reference_5e658051/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-syntax-reference.md) | ⭐ 80 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_7af82135/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/context-loader/SKILL.md) | ⭐ 109 | `daily assistant` |
 
-### Data Analysis (403 skills)
+### Data Analysis (399 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1585,21 +1551,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_b53eb77c/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Image Specs](data-analysis/479-image-specs_411f66d3/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/image-specs.md) | ⭐ 17 | `data analysis` |
 | [Modules](data-analysis/480-modules_10af5c24/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/kdp-aplus-content/references/modules.md) | ⭐ 17 | `data analysis` |
-| [Analysis Cookbook](data-analysis/analysis-cookbook_6d0417a2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/analysis-cookbook.md) | ⭐ 80 | `data analysis` |
-| [Syntax Reference](data-analysis/syntax-reference_32ee3c85/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/syntax-reference.md) | ⭐ 80 | `data analysis` |
-| [Cleanup Rollback Guide](data-analysis/cleanup-rollback-guide_c5754f55/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/cleanup-rollback-guide.md) | ⭐ 80 | `data analysis` |
-| [Log Analysis Tools](data-analysis/log-analysis-tools_3a86c822/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/log-analysis-tools.md) | ⭐ 80 | `data analysis` |
-| [Color Palette](data-analysis/color-palette_b3105005/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/color-palette.md) | ⭐ 80 | `data analysis` |
-| [Diagram Conventions](data-analysis/diagram-conventions_c563370a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/diagram-conventions.md) | ⭐ 80 | `data analysis` |
-| [Erd Conventions](data-analysis/erd-conventions_1eb4d02c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/erd-conventions.md) | ⭐ 80 | `data analysis` |
-| [Mermaid Styling](data-analysis/mermaid-styling_78eb4435/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/mermaid-styling.md) | ⭐ 80 | `data analysis` |
-| [Salesforce Erd](data-analysis/salesforce-erd_83f35f0f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/assets/datamodel/salesforce-erd.md) | ⭐ 80 | `data analysis` |
-| [Analysis Examples](data-analysis/analysis-examples_b82b146c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/analysis-examples.md) | ⭐ 80 | `data analysis` |
-| [Scoring Rubric](data-analysis/scoring-rubric_17be0640/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/scoring-rubric.md) | ⭐ 80 | `data analysis` |
-| [Crud Workflow Example](data-analysis/crud-workflow-example_d8058f22/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/crud-workflow-example.md) | ⭐ 80 | `data analysis` |
-| [Architect Aesthetic Guide](data-analysis/architect-aesthetic-guide_197b1c0f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/architect-aesthetic-guide.md) | ⭐ 80 | `data analysis` |
+| [Analysis Cookbook](data-analysis/479-analysis-cookbook_6d0417a2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/analysis-cookbook.md) | ⭐ 80 | `data analysis` |
+| [Syntax Reference](data-analysis/478-syntax-reference_32ee3c85/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/syntax-reference.md) | ⭐ 80 | `data analysis` |
+| [Cleanup Rollback Guide](data-analysis/480-cleanup-rollback-guide_c5754f55/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/cleanup-rollback-guide.md) | ⭐ 80 | `data analysis` |
+| [Log Analysis Tools](data-analysis/481-log-analysis-tools_3a86c822/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/log-analysis-tools.md) | ⭐ 80 | `data analysis` |
+| [Color Palette](data-analysis/482-color-palette_b3105005/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/color-palette.md) | ⭐ 80 | `data analysis` |
+| [Diagram Conventions](data-analysis/072-diagram-conventions_c563370a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/diagram-conventions.md) | ⭐ 80 | `data analysis` |
+| [Erd Conventions](data-analysis/082-erd-conventions_1eb4d02c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/erd-conventions.md) | ⭐ 80 | `data analysis` |
+| [Mermaid Styling](data-analysis/144-mermaid-styling_78eb4435/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/mermaid-styling.md) | ⭐ 80 | `data analysis` |
+| [Salesforce Erd](data-analysis/483-salesforce-erd_83f35f0f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/assets/datamodel/salesforce-erd.md) | ⭐ 80 | `data analysis` |
 
-### Development (1073 skills)
+### Development (1057 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2524,18 +2486,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1530-description-skill_ad1e8a07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1530-description-skill_93b4daeb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
 | [Code Reviewer](development/2591-code-reviewer_b17be291/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/code-reviewer.md) | ⭐ 42 | `development` |
-| [Loop Execution Evaluator](development/2919-loop-execution-evaluator_bec40e0d/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-execution-evaluator.md) | ⭐ 42 | `development` |
-| [Loop Executor](development/2920-loop-executor_1ebc4a14/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-executor.md) | ⭐ 42 | `development` |
+| [Loop Execution Evaluator](development/loop-execution-evaluator_4ac95e35/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-execution-evaluator.md) | ⭐ 109 | `development` |
+| [Loop Executor](development/loop-executor_56a484f1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-executor.md) | ⭐ 109 | `development` |
 | [Loop Execution Evaluator](development/2919-loop-execution-evaluator_0373a89a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-execution-evaluator.md) | ⭐ 42 | `development` |
 | [Loop Executor](development/2920-loop-executor_0efcbfae/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/loop-executor.md) | ⭐ 42 | `development` |
 | [Phase Review](development/2921-phase-review_a4e51ca7/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/phase-review.md) | ⭐ 42 | `development` |
 | [Workflow](development/1153-workflow_3e8e366a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/workflow.md) | ⭐ 42 | `development` |
 | [New Track](development/2922-new-track_580c1091/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/commands/conductor/new-track.md) | ⭐ 42 | `development` |
 | [Skill](development/1178-name-skill_5da10c06/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/agent-factory/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/1178-name-skill_cc2657b4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_25ffa477/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/SKILL.md) | ⭐ 109 | `development` |
 | [Skill](development/1178-name-skill_c65c7ac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-plan-reviewer/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/1178-name-skill_ecac652a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/eval-code-quality/SKILL.md) | ⭐ 42 | `development` |
-| [Skill](development/1178-name-skill_8a9198d4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/writing-plans/SKILL.md) | ⭐ 42 | `development` |
+| [Skill](development/name-skill_732753f5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/writing-plans/SKILL.md) | ⭐ 109 | `development` |
 | [Chief Security Officer](development/2923-chief-security-officer_aa3c9e13/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-security-officer.md) | ⭐ 42 | `development` |
 | [Architecture Decision Records](development/061-architecture_decision_records_6cf0c166/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/architecture_decision_records.md) | ⭐ 42 | `development` |
 | [Engineering Metrics](development/336-engineering_metrics_e7ec87cc/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/cto-advisor/references/engineering_metrics.md) | ⭐ 42 | `development` |
@@ -2611,73 +2573,57 @@ ls ~/.claude/skills/patch-research-agent/
 | [Silent Failure Hunter](development/2941-silent-failure-hunter_fa9b0dae/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/agents/silent-failure-hunter.md) | 🔥 7.6k | `development` |
 | [Review Pr](development/2942-review-pr_5e70c172/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/pr-review-toolkit/commands/review-pr.md) | 🔥 7.6k | `development` |
 | [Index](development/468-index_fe1ea86a/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/vllm_embeddings_incident/index.md) | 🔥 36.0k | `incident-report` `embeddings` `vllm` |
-| [Tasks 3 Validator Ci Gate](development/tasks-3-validator-ci-gate_11d5ba9b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-3-validator-ci-gate.md) | ⭐ 18 | `development` |
-| [Skill](development/description-skill_de4f1061/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/lint/SKILL.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_55663392/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/SKILL.md) | ⭐ 80 | `development` |
-| [Skill](development/name-skill_f706c40c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/SKILL.md) | ⭐ 80 | `development` |
-| [Skill](development/name-skill_e989e018/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/SKILL.md) | ⭐ 80 | `development` |
-| [Credits](development/credits_aff10f20/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/CREDITS.md) | ⭐ 80 | `development` |
-| [Skill](development/name-skill_a0c90d63/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/SKILL.md) | ⭐ 80 | `development` |
-| [Skill](development/name-skill_4610f490/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/SKILL.md) | ⭐ 80 | `development` |
-| [Topic Architecture Guide](development/topic-architecture-guide_b917f78e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/topic-architecture-guide.md) | ⭐ 80 | `development` |
-| [Auth Setup](development/auth-setup_cc93f2a6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/auth-setup.md) | ⭐ 80 | `development` |
-| [Data Model Reference](development/data-model-reference_f7c247c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/data-model-reference.md) | ⭐ 80 | `development` |
-| [Query Patterns](development/query-patterns_d730b2b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/query-patterns.md) | ⭐ 80 | `development` |
-| [Custom Lightning Types](development/custom-lightning-types_5ddaa3dd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/references/custom-lightning-types.md) | ⭐ 80 | `development` |
-| [Models Api](development/models-api_85cb0253/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/references/models-api.md) | ⭐ 80 | `development` |
-| [Actions Reference](development/actions-reference_e6635ce1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/actions-reference.md) | ⭐ 80 | `development` |
-| [Migration Guide](development/migration-guide_8870fb19/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/migration-guide.md) | ⭐ 80 | `development` |
-| [Sources](development/sources_1d3bd0c3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/sources.md) | ⭐ 80 | `development` |
-| [Version History](development/version-history_40b23118/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/version-history.md) | ⭐ 80 | `development` |
-| [Anti Patterns](development/anti-patterns_28cafe3f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/anti-patterns.md) | ⭐ 80 | `development` |
-| [Bulkification Guide](development/bulkification-guide_7ee23cf9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/bulkification-guide.md) | ⭐ 80 | `development` |
-| [Design Patterns](development/design-patterns_5e336aa9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/design-patterns.md) | ⭐ 80 | `development` |
-| [Llm Anti Patterns](development/llm-anti-patterns_09c7deb4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/llm-anti-patterns.md) | ⭐ 80 | `development` |
-| [Troubleshooting](development/troubleshooting_1adfe80a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/troubleshooting.md) | ⭐ 80 | `development` |
-| [Migration Guide](development/migration-guide_d298b95a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/migration-guide.md) | ⭐ 80 | `development` |
-| [Anonymous Apex Guide](development/anonymous-apex-guide_cc99f47c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/anonymous-apex-guide.md) | ⭐ 80 | `development` |
-| [Benchmarking Guide](development/benchmarking-guide_0a22993d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/benchmarking-guide.md) | ⭐ 80 | `development` |
-| [Cli Commands](development/cli-commands_92db5e6d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/cli-commands.md) | ⭐ 80 | `development` |
-| [Mermaid Reference](development/mermaid-reference_9469378a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/mermaid-reference.md) | ⭐ 80 | `development` |
-| [Flow Best Practices](development/flow-best-practices_f3e74efe/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/flow-best-practices.md) | ⭐ 80 | `development` |
-| [Governance Checklist](development/governance-checklist_1a8e0b9c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/governance-checklist.md) | ⭐ 80 | `development` |
-| [Subflow Library](development/subflow-library_655c8c48/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/subflow-library.md) | ⭐ 80 | `development` |
-| [Messaging Api V2](development/messaging-api-v2_2671c423/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/messaging-api-v2.md) | ⭐ 80 | `development` |
-| [Security Best Practices](development/security-best-practices_565462c2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/security-best-practices.md) | ⭐ 80 | `development` |
-| [Component Patterns](development/component-patterns_4da3968c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/component-patterns.md) | ⭐ 80 | `development` |
-| [Lwc Best Practices](development/lwc-best-practices_e92beeeb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/lwc-best-practices.md) | ⭐ 80 | `development` |
-| [Performance Guide](development/performance-guide_d537f2e9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/performance-guide.md) | ⭐ 80 | `development` |
-| [Best Practices Scoring](development/best-practices-scoring_8c74c346/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/best-practices-scoring.md) | ⭐ 80 | `development` |
-| [Field Types Guide](development/field-types-guide_5d4b6487/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/field-types-guide.md) | ⭐ 80 | `development` |
-| [Fls Best Practices](development/fls-best-practices_f09c0415/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/fls-best-practices.md) | ⭐ 80 | `development` |
-| [Soql Reference](development/soql-reference_4f3c7a7f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/soql-reference.md) | ⭐ 80 | `development` |
-| [Anti Patterns](development/anti-patterns_34543947/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/anti-patterns.md) | ⭐ 80 | `development` |
-| [Field Coverage Rules](development/field-coverage-rules_62b0df0c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/field-coverage-rules.md) | ⭐ 80 | `development` |
-| [Fde Engineer](development/fde-engineer_9a689c08/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/agents/fde-engineer.md) | ⭐ 80 | `development` |
-| [Credits](development/credits_22dbfee6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/CREDITS.md) | ⭐ 80 | `development` |
-| [Skill](development/name-skill_d17d34ae/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/SKILL.md) | ⭐ 80 | `development` |
-| [Agentscript Testing Patterns](development/agentscript-testing-patterns_e1c16d73/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/agentscript-testing-patterns.md) | ⭐ 80 | `development` |
-| [Cli Commands](development/cli-commands_1f1408cf/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/cli-commands.md) | ⭐ 80 | `development` |
-| [Cli Testing Details](development/cli-testing-details_33af8ca3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/cli-testing-details.md) | ⭐ 80 | `development` |
-| [Coverage Analysis](development/coverage-analysis_5d31b32c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/coverage-analysis.md) | ⭐ 80 | `development` |
-| [Interview Wizard](development/interview-wizard_9bb635d1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/interview-wizard.md) | ⭐ 80 | `development` |
-| [Known Issues](development/known-issues_11adb348/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/known-issues.md) | ⭐ 80 | `development` |
-| [Multi Turn Execution](development/multi-turn-execution_2f8b40b5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/multi-turn-execution.md) | ⭐ 80 | `development` |
-| [Swarm Execution](development/swarm-execution_03c81f2d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/swarm-execution.md) | ⭐ 80 | `development` |
-| [Test Spec Reference](development/test-spec-reference_456e6787/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/test-spec-reference.md) | ⭐ 80 | `development` |
-| [Topic Name Resolution](development/topic-name-resolution_2a07edac/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/topic-name-resolution.md) | ⭐ 80 | `development` |
-| [Testing Guide](development/testing-guide_5e306917/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/testing-guide.md) | ⭐ 80 | `development` |
-| [Relationship Query Examples](development/relationship-query-examples_a70bfae9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/relationship-query-examples.md) | ⭐ 80 | `development` |
-| [Test Data Patterns](development/test-data-patterns_a5bd7ad4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/test-data-patterns.md) | ⭐ 80 | `development` |
-| [Scoring And Testing](development/scoring-and-testing_b266ddb6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/scoring-and-testing.md) | ⭐ 80 | `development` |
-| [Template Anti Patterns](development/template-anti-patterns_1b5e8c12/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/template-anti-patterns.md) | ⭐ 80 | `development` |
-| [Agent Access Guide](development/agent-access-guide_5d0b6a41/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/agent-access-guide.md) | ⭐ 80 | `development` |
-| [Permission Soql Queries](development/permission-soql-queries_20bdd704/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/permission-soql-queries.md) | ⭐ 80 | `development` |
-| [Usage Examples](development/usage-examples_6380049b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/usage-examples.md) | ⭐ 80 | `development` |
-| [Performance Optimization](development/performance-optimization_6e092af9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/references/performance-optimization.md) | ⭐ 80 | `development` |
-| [Test Fix Loop](development/test-fix-loop_77951e69/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/references/test-fix-loop.md) | ⭐ 80 | `development` |
+| [Tasks 3 Validator Ci Gate](development/2870-tasks-3-validator-ci-gate_11d5ba9b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-3-validator-ci-gate.md) | ⭐ 18 | `development` |
+| [Skill](development/1530-description-skill_de4f1061/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/lint/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_55663392/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/1178-name-skill_f706c40c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/1178-name-skill_e989e018/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/SKILL.md) | ⭐ 80 | `development` |
+| [Credits](development/239-credits_aff10f20/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/CREDITS.md) | ⭐ 80 | `development` |
+| [Skill](development/1178-name-skill_a0c90d63/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/1178-name-skill_4610f490/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/SKILL.md) | ⭐ 80 | `development` |
+| [Topic Architecture Guide](development/2211-topic-architecture-guide_b917f78e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/topic-architecture-guide.md) | ⭐ 80 | `development` |
+| [Auth Setup](development/075-auth-setup_cc93f2a6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/auth-setup.md) | ⭐ 80 | `development` |
+| [Data Model Reference](development/254-data-model-reference_f7c247c5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/data-model-reference.md) | ⭐ 80 | `development` |
+| [Query Patterns](development/752-query-patterns_d730b2b3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/query-patterns.md) | ⭐ 80 | `development` |
+| [Custom Lightning Types](development/246-custom-lightning-types_5ddaa3dd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/references/custom-lightning-types.md) | ⭐ 80 | `development` |
+| [Models Api](development/595-models-api_85cb0253/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce/references/models-api.md) | ⭐ 80 | `development` |
+| [Actions Reference](development/010-actions-reference_e6635ce1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/actions-reference.md) | ⭐ 80 | `development` |
+| [Migration Guide](development/584-migration-guide_8870fb19/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/migration-guide.md) | ⭐ 80 | `development` |
+| [Sources](development/2871-sources_1d3bd0c3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/sources.md) | ⭐ 80 | `development` |
+| [Version History](development/2872-version-history_40b23118/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/version-history.md) | ⭐ 80 | `development` |
+| [Anti Patterns](development/042-anti-patterns_28cafe3f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/anti-patterns.md) | ⭐ 80 | `development` |
+| [Bulkification Guide](development/115-bulkification-guide_7ee23cf9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/bulkification-guide.md) | ⭐ 80 | `development` |
+| [Design Patterns](development/278-design-patterns_5e336aa9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/design-patterns.md) | ⭐ 80 | `development` |
+| [Llm Anti Patterns](development/529-llm-anti-patterns_09c7deb4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/llm-anti-patterns.md) | ⭐ 80 | `development` |
+| [Troubleshooting](development/1097-troubleshooting_1adfe80a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/troubleshooting.md) | ⭐ 80 | `development` |
+| [Migration Guide](development/584-migration-guide_d298b95a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/migration-guide.md) | ⭐ 80 | `development` |
+| [Anonymous Apex Guide](development/041-anonymous-apex-guide_cc99f47c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/anonymous-apex-guide.md) | ⭐ 80 | `development` |
+| [Benchmarking Guide](development/101-benchmarking-guide_0a22993d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/benchmarking-guide.md) | ⭐ 80 | `development` |
+| [Cli Commands](development/146-cli-commands_92db5e6d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/references/cli-commands.md) | ⭐ 80 | `development` |
+| [Mermaid Reference](development/573-mermaid-reference_9469378a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/mermaid-reference.md) | ⭐ 80 | `development` |
+| [Flow Best Practices](development/386-flow-best-practices_f3e74efe/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/flow-best-practices.md) | ⭐ 80 | `development` |
+| [Governance Checklist](development/435-governance-checklist_1a8e0b9c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/governance-checklist.md) | ⭐ 80 | `development` |
+| [Subflow Library](development/1035-subflow-library_655c8c48/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/subflow-library.md) | ⭐ 80 | `development` |
+| [Messaging Api V2](development/574-messaging-api-v2_2671c423/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/messaging-api-v2.md) | ⭐ 80 | `development` |
+| [Security Best Practices](development/947-security-best-practices_565462c2/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/security-best-practices.md) | ⭐ 80 | `development` |
+| [Component Patterns](development/186-component-patterns_4da3968c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/component-patterns.md) | ⭐ 80 | `development` |
+| [Lwc Best Practices](development/538-lwc-best-practices_e92beeeb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/lwc-best-practices.md) | ⭐ 80 | `development` |
+| [Performance Guide](development/684-performance-guide_d537f2e9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/performance-guide.md) | ⭐ 80 | `development` |
+| [Best Practices Scoring](development/2873-best-practices-scoring_8c74c346/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/best-practices-scoring.md) | ⭐ 80 | `development` |
+| [Field Types Guide](development/375-field-types-guide_5d4b6487/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/field-types-guide.md) | ⭐ 80 | `development` |
+| [Fls Best Practices](development/387-fls-best-practices_f09c0415/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/fls-best-practices.md) | ⭐ 80 | `development` |
+| [Soql Reference](development/1001-soql-reference_4f3c7a7f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-permissions/references/soql-reference.md) | ⭐ 80 | `development` |
+| [Anti Patterns](development/042-anti-patterns_34543947/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/anti-patterns.md) | ⭐ 80 | `development` |
+| [Field Coverage Rules](development/373-field-coverage-rules_62b0df0c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/field-coverage-rules.md) | ⭐ 80 | `development` |
+| [Conductor Orchestrator](development/conductor-orchestrator_82fcab84/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/conductor-orchestrator.md) | ⭐ 109 | `development` |
+| [Loop Execution Evaluator](development/2927-loop-execution-evaluator_4ac95e35/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-execution-evaluator.md) | ⭐ 109 | `development` |
+| [Loop Executor](development/2928-loop-executor_56a484f1/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/agents/loop-executor.md) | ⭐ 109 | `development` |
+| [Checkpoint Protocol](development/checkpoint-protocol_38d4e552/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/docs/checkpoint-protocol.md) | ⭐ 109 | `development` |
+| [Skill](development/1178-name-skill_25ffa477/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/SKILL.md) | ⭐ 109 | `development` |
+| [Skill](development/1178-name-skill_732753f5/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/writing-plans/SKILL.md) | ⭐ 109 | `development` |
+| [Skill](development/name-skill_a10bed0c/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/evalview/examples/skills/code-reviewer/SKILL.md) | ⭐ 43 | `development` |
 
-### Development/Devops (214 skills)
+### Development/Devops (206 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2836,7 +2782,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_bbe977a3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/dex-add-mcp/SKILL.md) | ⭐ 91 | `development` |
 | [Skill](development/devops/014-name-skill_3c6032b3/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/integrate-mcp/SKILL.md) | ⭐ 91 | `development` |
 | [Roadmap](development/devops/097-roadmap_c398d237/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
-| [Claude](development/devops/claude_1c9d9ed9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 507 | `development` |
+| [Claude](development/devops/205-claude_81506d2c/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 499 | `development` |
 | [Skill](development/devops/014-name-skill_940df271/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/elevenlabs-agents/SKILL.md) | ⭐ 499 | `development` |
 | [Skill](development/devops/014-name-skill_c1dbdfc4/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/mcp-builder/SKILL.md) | ⭐ 499 | `development` |
 | [Skill](development/devops/014-name-skill_7863e64f/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/memory-manager/SKILL.md) | ⭐ 499 | `development` |
@@ -2874,29 +2820,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_b06c7420/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-md-management/skills/claude-md-improver/SKILL.md) | 🔥 7.6k | `development` |
 | [Mcp Servers](development/devops/373-mcp-servers_64a12ab2/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/references/mcp-servers.md) | 🔥 7.6k | `development` |
 | [Mcp](development/devops/025-mcp_0c4c204b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 36.0k | `development` |
-| [Skill](development/devops/name-skill_b26c4e47/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/SKILL.md) | ⭐ 80 | `development` |
-| [Skill](development/devops/name-skill_a018621f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/SKILL.md) | ⭐ 80 | `development` |
-| [Customer Web Client](development/devops/customer-web-client_dd5d8fe8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/customer-web-client.md) | ⭐ 80 | `development` |
-| [Known Issues](development/devops/known-issues_0bc7355f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/known-issues.md) | ⭐ 80 | `development` |
-| [Oauth Flows Reference](development/devops/oauth-flows-reference_100a2f63/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/oauth-flows-reference.md) | ⭐ 80 | `development` |
-| [Orchestration](development/devops/orchestration_a881ae07/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/orchestration.md) | ⭐ 80 | `development` |
-| [Agent Deployment Guide](development/devops/agent-deployment-guide_4ea8468e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/agent-deployment-guide.md) | ⭐ 80 | `development` |
-| [Named Credentials Guide](development/devops/named-credentials-guide_d621edf6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/named-credentials-guide.md) | ⭐ 80 | `development` |
-| [Async Notification Patterns](development/devops/async-notification-patterns_a6294ad0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/async-notification-patterns.md) | ⭐ 80 | `development` |
-| [Cli Commands](development/devops/cli-commands_a0c2b67c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/cli-commands.md) | ⭐ 80 | `development` |
-| [Sf Cli Commands](development/devops/sf-cli-commands_cd21d231/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/sf-cli-commands.md) | ⭐ 80 | `development` |
+| [Skill](development/devops/014-name-skill_b26c4e47/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/devops/014-name-skill_a018621f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/SKILL.md) | ⭐ 80 | `development` |
+| [Customer Web Client](development/devops/361-customer-web-client_dd5d8fe8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/customer-web-client.md) | ⭐ 80 | `development` |
+| [Known Issues](development/devops/360-known-issues_0bc7355f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/known-issues.md) | ⭐ 80 | `development` |
+| [Oauth Flows Reference](development/devops/362-oauth-flows-reference_100a2f63/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/oauth-flows-reference.md) | ⭐ 80 | `development` |
+| [Orchestration](development/devops/363-orchestration_a881ae07/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/orchestration.md) | ⭐ 80 | `development` |
+| [Agent Deployment Guide](development/devops/229-agent-deployment-guide_4ea8468e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/agent-deployment-guide.md) | ⭐ 80 | `development` |
+| [Named Credentials Guide](development/devops/364-named-credentials-guide_d621edf6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/named-credentials-guide.md) | ⭐ 80 | `development` |
+| [Async Notification Patterns](development/devops/230-async-notification-patterns_a6294ad0/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/async-notification-patterns.md) | ⭐ 80 | `development` |
+| [Cli Commands](development/devops/319-cli-commands_a0c2b67c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/cli-commands.md) | ⭐ 80 | `development` |
+| [Sf Cli Commands](development/devops/365-sf-cli-commands_cd21d231/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/sf-cli-commands.md) | ⭐ 80 | `development` |
 | [Claude](development/devops/205-claude_1c9d9ed9/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/CLAUDE.md) | ⭐ 507 | `development` |
-| [Skill](development/devops/name-skill_9b7ba2e6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/context-manager/SKILL.md) | ⭐ 507 | `development` |
-| [Eca Setup Guide](development/devops/eca-setup-guide_d01fb277/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/eca-setup-guide.md) | ⭐ 80 | `development` |
-| [Example Usage](development/devops/example-usage_ed06f4c7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/example-usage.md) | ⭐ 80 | `development` |
-| [Testing Validation Guide](development/devops/testing-validation-guide_c7afb689/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-connected-apps/references/testing-validation-guide.md) | ⭐ 80 | `development` |
-| [Deployment Report Template](development/devops/deployment-report-template_1bed13b5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/deployment-report-template.md) | ⭐ 80 | `development` |
-| [Usage Examples](development/devops/usage-examples_81b71c21/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-mermaid/references/usage-examples.md) | ⭐ 80 | `development` |
-| [Record Trigger Example](development/devops/record-trigger-example_4537101a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/record-trigger-example.md) | ⭐ 80 | `development` |
-| [Testing Checklist](development/devops/testing-checklist_97548667/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/testing-checklist.md) | ⭐ 80 | `development` |
-| [Project Types](development/devops/project-types_1b8dfef8/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/context-manager/references/project-types.md) | ⭐ 507 | `development` |
+| [Skill](development/devops/014-name-skill_9b7ba2e6/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/context-manager/SKILL.md) | ⭐ 507 | `development` |
 
-### Development/Testing (65 skills)
+### Development/Testing (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2942,31 +2880,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_3640aac4/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/loop-executor/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_37938ad6/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/leads/qa-lead/SKILL.md) | ⭐ 42 | `development` |
 | [Skill](development/testing/002-name-skill_b68ce2e1/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/tdd-methodology-expert/SKILL.md) | ⭐ 17 | `development` |
-| [Patterns Deep Dive](development/testing/patterns-deep-dive_b19a0029/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/patterns-deep-dive.md) | ⭐ 80 | `development` |
-| [Trigger Actions Framework](development/testing/trigger-actions-framework_a0eb4799/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/trigger-actions-framework.md) | ⭐ 80 | `development` |
-| [Xml Gotchas](development/testing/xml-gotchas_5f5b6963/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/xml-gotchas.md) | ⭐ 80 | `development` |
-| [Callout Patterns](development/testing/callout-patterns_0f90de0e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/callout-patterns.md) | ⭐ 80 | `development` |
-| [Event Patterns](development/testing/event-patterns_318d12ff/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/event-patterns.md) | ⭐ 80 | `development` |
-| [External Services Guide](development/testing/external-services-guide_324c56e1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/external-services-guide.md) | ⭐ 80 | `development` |
-| [Rest Callout Patterns](development/testing/rest-callout-patterns_0800e90e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/rest-callout-patterns.md) | ⭐ 80 | `development` |
-| [Lms Guide](development/testing/lms-guide_09037100/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/lms-guide.md) | ⭐ 80 | `development` |
-| [Triangle Pattern](development/testing/triangle-pattern_2184b13a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/triangle-pattern.md) | ⭐ 80 | `development` |
-| [Selector Patterns](development/testing/selector-patterns_9b606794/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/selector-patterns.md) | ⭐ 80 | `development` |
-| [Skill](development/testing/name-skill_56dd5bc6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/SKILL.md) | ⭐ 80 | `development` |
-| [Coverage Improvement](development/testing/coverage-improvement_4da43061/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/coverage-improvement.md) | ⭐ 80 | `development` |
-| [Credential Convention](development/testing/credential-convention_729e36bf/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/credential-convention.md) | ⭐ 80 | `development` |
-| [Key Insights](development/testing/key-insights_29f214cf/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/key-insights.md) | ⭐ 80 | `development` |
-| [Results Scoring](development/testing/results-scoring_3623ac25/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/results-scoring.md) | ⭐ 80 | `development` |
-| [Test Plan Format](development/testing/test-plan-format_768c2964/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/test-plan-format.md) | ⭐ 80 | `development` |
-| [Test Templates](development/testing/test-templates_d8f65ee8/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/test-templates.md) | ⭐ 80 | `development` |
-| [Testing Patterns](development/testing/testing-patterns_271fdbd6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/testing-patterns.md) | ⭐ 80 | `development` |
-| [Gemini Cli Setup](development/testing/gemini-cli-setup_b7e53d6f/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/gemini-cli-setup.md) | ⭐ 80 | `development` |
-| [Multi Step Dml Rollback Example](development/testing/multi-step-dml-rollback-example_86ca254e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/multi-step-dml-rollback-example.md) | ⭐ 80 | `development` |
-| [Mocking Patterns](development/testing/mocking-patterns_b49c07d5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/references/mocking-patterns.md) | ⭐ 80 | `development` |
-| [Test Patterns](development/testing/test-patterns_982697c3/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/references/test-patterns.md) | ⭐ 80 | `development` |
-| [Testing Best Practices](development/testing/testing-best-practices_9cd0fa62/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/references/testing-best-practices.md) | ⭐ 80 | `development` |
+| [Patterns Deep Dive](development/testing/082-patterns-deep-dive_b19a0029/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/patterns-deep-dive.md) | ⭐ 80 | `development` |
+| [Trigger Actions Framework](development/testing/083-trigger-actions-framework_a0eb4799/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/trigger-actions-framework.md) | ⭐ 80 | `development` |
+| [Xml Gotchas](development/testing/084-xml-gotchas_5f5b6963/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/xml-gotchas.md) | ⭐ 80 | `development` |
+| [Callout Patterns](development/testing/085-callout-patterns_0f90de0e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/callout-patterns.md) | ⭐ 80 | `development` |
+| [Event Patterns](development/testing/086-event-patterns_318d12ff/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/event-patterns.md) | ⭐ 80 | `development` |
+| [External Services Guide](development/testing/087-external-services-guide_324c56e1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/external-services-guide.md) | ⭐ 80 | `development` |
+| [Rest Callout Patterns](development/testing/088-rest-callout-patterns_0800e90e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/rest-callout-patterns.md) | ⭐ 80 | `development` |
+| [Lms Guide](development/testing/089-lms-guide_09037100/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/lms-guide.md) | ⭐ 80 | `development` |
+| [Triangle Pattern](development/testing/090-triangle-pattern_2184b13a/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/triangle-pattern.md) | ⭐ 80 | `development` |
+| [Selector Patterns](development/testing/091-selector-patterns_9b606794/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/selector-patterns.md) | ⭐ 80 | `development` |
 
-### Development/Tools (264 skills)
+### Development/Tools (257 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3213,27 +3138,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_34dd3195/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md) | ⭐ 25 | `development` |
 | [Skill](development/tools/002-name-skill_166ca1b7/) | [EliasOenal/term-cli](https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md) | ⭐ 25 | `development` |
 | [Otel Span Events And Attributes](development/tools/332-otel-span-events-and-attributes_9e9bddc3/) | [openlit/openlit](https://raw.githubusercontent.com/openlit/openlit/main/contributors/otel-span-events-and-attributes.md) | ⭐ 2.2k | `development` |
-| [Skill](development/tools/name-skill_772b7a78/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/SKILL.md) | ⭐ 80 | `development` |
-| [Skill](development/tools/name-skill_2295c661/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/SKILL.md) | ⭐ 80 | `development` |
-| [Skill](development/tools/name-skill_339ccd7e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/SKILL.md) | ⭐ 80 | `development` |
-| [Official Sources](development/tools/official-sources_99426f58/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/official-sources.md) | ⭐ 80 | `development` |
-| [Best Practices](development/tools/best-practices_064cbc39/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/best-practices.md) | ⭐ 80 | `development` |
-| [Code Smells Guide](development/tools/code-smells-guide_a17b41ed/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/code-smells-guide.md) | ⭐ 80 | `development` |
-| [Security Guide](development/tools/security-guide_e5e95a4e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/security-guide.md) | ⭐ 80 | `development` |
-| [Security Quick Reference](development/tools/security-quick-reference_3e11cae4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/security-quick-reference.md) | ⭐ 80 | `development` |
-| [Sf Cli Data Commands](development/tools/sf-cli-data-commands_591fac72/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/sf-cli-data-commands.md) | ⭐ 80 | `development` |
-| [Interview Questions](development/tools/interview-questions_4e32ebee/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/interview-questions.md) | ⭐ 80 | `development` |
-| [Agentforce Flow Integration](development/tools/agentforce-flow-integration_6d488343/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/agentforce-flow-integration.md) | ⭐ 80 | `development` |
-| [Lwc Integration Guide](development/tools/lwc-integration-guide_58fca1f9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/lwc-integration-guide.md) | ⭐ 80 | `development` |
-| [Accessibility Guide](development/tools/accessibility-guide_454ad326/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/accessibility-guide.md) | ⭐ 80 | `development` |
-| [Soql Reference](development/tools/soql-reference_85fa3761/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-reference.md) | ⭐ 80 | `development` |
-| [Cli Reference](development/tools/cli-reference_499603f5/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/cli-reference.md) | ⭐ 80 | `development` |
-| [Client Demo Queries](development/tools/client-demo-queries_42e9e5ba/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/client-demo-queries.md) | ⭐ 80 | `development` |
-| [Agent Api Reference](development/tools/agent-api-reference_c5553deb/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-testing/references/agent-api-reference.md) | ⭐ 80 | `development` |
-| [Cleanup Rollback Example](development/tools/cleanup-rollback-example_ab270d13/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/cleanup-rollback-example.md) | ⭐ 80 | `development` |
-| [Resources Index](development/tools/resources-index_4868c7ca/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/resources-index.md) | ⭐ 80 | `development` |
-| [Jest Testing](development/tools/jest-testing_1dc31638/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/jest-testing.md) | ⭐ 80 | `development` |
-| [Cli Commands](development/tools/cli-commands_37d14e54/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-testing/references/cli-commands.md) | ⭐ 80 | `development` |
+| [Skill](development/tools/002-name-skill_772b7a78/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/tools/002-name-skill_2295c661/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-debug/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/tools/002-name-skill_339ccd7e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/SKILL.md) | ⭐ 80 | `development` |
+| [Official Sources](development/tools/332-official-sources_99426f58/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/official-sources.md) | ⭐ 80 | `development` |
+| [Best Practices](development/tools/333-best-practices_064cbc39/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/best-practices.md) | ⭐ 80 | `development` |
+| [Code Smells Guide](development/tools/334-code-smells-guide_a17b41ed/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/code-smells-guide.md) | ⭐ 80 | `development` |
+| [Security Guide](development/tools/335-security-guide_e5e95a4e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/security-guide.md) | ⭐ 80 | `development` |
+| [Security Quick Reference](development/tools/336-security-quick-reference_3e11cae4/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/security-quick-reference.md) | ⭐ 80 | `development` |
+| [Sf Cli Data Commands](development/tools/337-sf-cli-data-commands_591fac72/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/sf-cli-data-commands.md) | ⭐ 80 | `development` |
+| [Interview Questions](development/tools/338-interview-questions_4e32ebee/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-diagram-nanobananapro/references/interview-questions.md) | ⭐ 80 | `development` |
+| [Agentforce Flow Integration](development/tools/339-agentforce-flow-integration_6d488343/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/agentforce-flow-integration.md) | ⭐ 80 | `development` |
+| [Lwc Integration Guide](development/tools/340-lwc-integration-guide_58fca1f9/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-flow/references/lwc-integration-guide.md) | ⭐ 80 | `development` |
+| [Accessibility Guide](development/tools/341-accessibility-guide_454ad326/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/accessibility-guide.md) | ⭐ 80 | `development` |
+| [Soql Reference](development/tools/342-soql-reference_85fa3761/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-reference.md) | ⭐ 80 | `development` |
 
 ### Investment (93 skills)
 
@@ -3342,7 +3260,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
 
-### Productivity (53 skills)
+### Productivity (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3397,10 +3315,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Chief Architect](productivity/175-chief-architect_ec11836a/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/board-of-directors/directors/chief-architect.md) | ⭐ 42 | `productivity` |
 | [Critique Framework](productivity/176-critique_framework_ab6d1ff8/) | [Ibrahim-3d/conductor-orchestrator-superpowers](https://raw.githubusercontent.com/Ibrahim-3d/conductor-orchestrator-superpowers/master/skills/plan-critiquer/references/critique_framework.md) | ⭐ 42 | `productivity` |
 | [Backend Developer](productivity/173-backend-developer_98ee075b/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/backend-developer.md) | ⭐ 449 | `productivity` |
-| [Scoring Rubric](productivity/scoring-rubric_6f86b1fd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/scoring-rubric.md) | ⭐ 80 | `productivity` |
-| [Triangle Pattern](productivity/triangle-pattern_ec79129b/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-apex/references/triangle-pattern.md) | ⭐ 80 | `productivity` |
+| [Scoring Rubric](productivity/173-scoring-rubric_6f86b1fd/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-conversationdesign/references/scoring-rubric.md) | ⭐ 80 | `productivity` |
 
-### Research (97 skills)
+### Research (95 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3495,12 +3412,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/163-description-skill_56cc52bb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/brainstorming-skill/skills/brainstorming-skill/SKILL.md) | ⭐ 18 | `research` |
 | [Skill](research/163-description-skill_b89b4dfd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/arl/SKILL.md) | ⭐ 18 | `research` |
 | [Sre Engineer](research/264-sre-engineer_0aa720b5/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/personas/sre-engineer.md) | ⭐ 449 | `research` |
-| [Complex Data Types](research/complex-data-types_a188b95d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/complex-data-types.md) | ⭐ 80 | `research` |
-| [Debugging Guide](research/debugging-guide_548dfcb6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/debugging-guide.md) | ⭐ 80 | `research` |
-| [Governor Limits Reference](research/governor-limits-reference_9b9e160d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/governor-limits-reference.md) | ⭐ 80 | `research` |
-| [Advanced Features](research/advanced-features_e3d9d4e1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/advanced-features.md) | ⭐ 80 | `research` |
-| [Debugging Sessions](research/debugging-sessions_dd32a18d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/debugging-sessions.md) | ⭐ 80 | `research` |
-| [Polars Cheatsheet](research/polars-cheatsheet_785d9993/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentforce-observability/references/polars-cheatsheet.md) | ⭐ 80 | `research` |
+| [Complex Data Types](research/257-complex-data-types_a188b95d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/complex-data-types.md) | ⭐ 80 | `research` |
+| [Debugging Guide](research/258-debugging-guide_548dfcb6/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-ai-agentscript/references/debugging-guide.md) | ⭐ 80 | `research` |
+| [Governor Limits Reference](research/055-governor-limits-reference_9b9e160d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-data/references/governor-limits-reference.md) | ⭐ 80 | `research` |
+| [Advanced Features](research/259-advanced-features_e3d9d4e1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/advanced-features.md) | ⭐ 80 | `research` |
 
 ## How Skills Are Organized
 
@@ -3552,5 +3467,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 13:35:20 UTC*
+*Last updated: 2026-02-19 14:36:39 UTC*
 *Automatically maintained by SkillFlow*
