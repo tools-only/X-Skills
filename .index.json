@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T07:27:08.654461",
+  "updated_at": "2026-02-19T09:26:12.864068",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -41455,6 +41455,48 @@
       "source_url": "https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/n8n/references/llms.md",
       "display_name": "Llms",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "b6d71fc06367dcd2200dfd1d7b9d1529d5cf0236ccb2df0dd5b818fb10cc0271",
+      "source_path": "research/developer-tools/claude-conductor.md",
+      "source_repo": "Jamie-BitFlight/claude_skills",
+      "local_path": "development/tools/339-claude-conductor_b6d71fc0",
+      "category": "development/tools",
+      "name": "claude-conductor_b6d71fc0",
+      "indexed_at": "2026-02-19T09:25:41.558746",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-17T23:09:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-conductor.md",
+      "display_name": "Claude Conductor",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "34dd31957ff07fff49571da7adfdb9e7a25a0a8f71d6f0d9243e85447cbce797",
+      "source_path": "AGENTS.md",
+      "source_repo": "EliasOenal/term-cli",
+      "local_path": "development/tools/015-agents_34dd3195",
+      "category": "development/tools",
+      "name": "agents_34dd3195",
+      "indexed_at": "2026-02-19T09:26:12.238955",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-19T00:15:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "166ca1b7950ff671a5ce6ce3970500866830472e8feabe17cdb8af613e6922f3",
+      "source_path": "skills/term-cli/SKILL.md",
+      "source_repo": "EliasOenal/term-cli",
+      "local_path": "development/tools/002-name-skill_166ca1b7",
+      "category": "development/tools",
+      "name": "name-skill_166ca1b7",
+      "indexed_at": "2026-02-19T09:26:12.861538",
+      "repo_stars": 25,
+      "repo_updated_at": "2026-02-19T00:15:56+00:00",
+      "source_url": "https://raw.githubusercontent.com/EliasOenal/term-cli/main/skills/term-cli/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
