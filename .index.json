@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T19:36:36.885767",
+  "updated_at": "2026-02-19T20:36:26.420659",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -44745,6 +44745,20 @@
       "source_url": "https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/advanced_ui_features.md",
       "display_name": "Advanced Ui Features",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "5aa4038776d2bc83d248c5ac94dd139cfa74496bde96c326073ae1afb97df87c",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "automation/workflow/040-readmeja_5aa40387",
+      "category": "automation/workflow",
+      "name": "readmeja_5aa40387",
+      "indexed_at": "2026-02-19T20:36:26.420541",
+      "repo_stars": 27,
+      "repo_updated_at": "2026-02-19T09:54:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
+      "tags": "[\"automation\"]"
     }
   ]
 }
