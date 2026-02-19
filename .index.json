@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T02:10:33.646215",
+  "updated_at": "2026-02-19T05:25:28.982153",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -39243,6 +39243,20 @@
       "source_url": "https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-17_thinking-content-integration.md",
       "display_name": "2026 02 17 Thinking Content Integration",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "6954364ad39f5c8844b75c341830915443378c442c25879b15e908e5d5e65c7d",
+      "source_path": ".claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md",
+      "source_repo": "hzqst/CS2_VibeSignatures",
+      "local_path": "automation/scripting/003-name-skill_6954364a",
+      "category": "automation/scripting",
+      "name": "name-skill_6954364a",
+      "indexed_at": "2026-02-19T05:25:28.982109",
+      "repo_stars": 19,
+      "repo_updated_at": "2026-02-18T15:34:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CDecalGameSystem_UpdateDecals-AND-CDecalGameSystem_ClientPreUpdate/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
