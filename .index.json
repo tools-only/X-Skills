@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-19T20:36:26.420659",
+  "updated_at": "2026-02-19T20:37:39.252165",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -44759,6 +44759,34 @@
       "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
       "display_name": "Readme.Ja",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "53def84dcb43c47e42054658af672856d998f142d47d31bff9cc63f2859a748e",
+      "source_path": "docs/user-guide/concepts/model-providers/amazon-bedrock.md",
+      "source_repo": "strands-agents/docs",
+      "local_path": "content-creation/077-amazon-bedrock_53def84d",
+      "category": "content-creation",
+      "name": "amazon-bedrock_53def84d",
+      "indexed_at": "2026-02-19T20:37:38.216869",
+      "repo_stars": 167,
+      "repo_updated_at": "2026-02-18T20:51:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/amazon-bedrock.md",
+      "display_name": "Amazon Bedrock",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "507810e3024d7cc0d2168d312482f20a7c000d3576ee60756c9ef8ae51cf8376",
+      "source_path": "docs/design/elicitation.md",
+      "source_repo": "gptme/gptme",
+      "local_path": "development/tools/328-elicitation_507810e3",
+      "category": "development/tools",
+      "name": "elicitation_507810e3",
+      "indexed_at": "2026-02-19T20:37:39.252088",
+      "repo_stars": 4187,
+      "repo_updated_at": "2026-02-18T14:58:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/gptme/gptme/master/docs/design/elicitation.md",
+      "display_name": "Elicitation",
+      "tags": "[\"development\"]"
     }
   ]
 }

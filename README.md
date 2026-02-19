@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3197 AI-powered skills** organized into 15 categories.
+A curated collection of **3199 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (167 skills)
 - **Commercial** (138 skills)
 - **Communication** (84 skills)
-- **Content Creation** (265 skills)
+- **Content Creation** (266 skills)
 - **Daily Assistant** (213 skills)
 - **Data Analysis** (402 skills)
 - **Development** (1062 skills)
 - **Development/Devops** (216 skills)
 - **Development/Testing** (54 skills)
-- **Development/Tools** (259 skills)
+- **Development/Tools** (260 skills)
 - **Investment** (93 skills)
 - **Other** (4 skills)
 - **Productivity** (52 skills)
@@ -449,7 +449,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Named Credentials Automation](automation/workflow/136-named-credentials-automation_233cf327/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-integration/references/named-credentials-automation.md) | ⭐ 80 | `automation` |
 | [Orchestration](automation/workflow/137-orchestration_cd915230/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-metadata/references/orchestration.md) | ⭐ 80 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d2b82e9b/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/.claude/skills/hive-create/SKILL.md) | 🔥 7.3k | `automation` |
-| [Readme.Ja](automation/workflow/readmeja_5aa40387/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 27 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_5aa40387/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 27 | `automation` |
 
 ### Commercial (138 skills)
 
@@ -683,7 +683,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Project Management](communication/258-project_management_cecb5b62/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/project_management.md) | 🔥 35.9k | `communication` |
 | [Claude](communication/024-claude_c17284e2/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 126 | `communication` |
 
-### Content Creation (265 skills)
+### Content Creation (266 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -952,6 +952,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_0d049e7d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 162 | `content creation` |
 | [Skill](content-creation/049-name-skill_f88fdda3/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_33a6a664/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md) | ⭐ 10 | `content creation` |
+| [Amazon Bedrock](content-creation/amazon-bedrock_53def84d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/amazon-bedrock.md) | ⭐ 167 | `content creation` |
 
 ### Daily Assistant (213 skills)
 
@@ -2925,7 +2926,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Completion](development/testing/087-completion_7330a053/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/COMPLETION.md) | ⭐ 162 | `development` |
 | [Quickref](development/testing/088-quickref_71c0e0f6/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/QUICKREF.md) | ⭐ 162 | `development` |
 
-### Development/Tools (259 skills)
+### Development/Tools (260 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3188,6 +3189,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Soql Reference](development/tools/342-soql-reference_85fa3761/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-soql/references/soql-reference.md) | ⭐ 80 | `development` |
 | [Issue Queen Bee](development/tools/327-issue-queen-bee_ff145db4/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/issue-queen-bee.md) | 🔥 7.3k | `development` |
 | [Pr Queen Bee](development/tools/328-pr-queen-bee_982e8042/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/pr-queen-bee.md) | 🔥 7.3k | `development` |
+| [Elicitation](development/tools/elicitation_507810e3/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/design/elicitation.md) | ⭐ 4.2k | `development` |
 
 ### Investment (93 skills)
 
@@ -3503,5 +3505,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-19 20:36:27 UTC*
+*Last updated: 2026-02-19 20:37:39 UTC*
 *Automatically maintained by SkillFlow*
