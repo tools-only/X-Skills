@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3514 AI-powered skills** organized into 15 categories.
+A curated collection of **3516 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (132 skills)
-- **Automation/Workflow** (176 skills)
+- **Automation/Workflow** (177 skills)
 - **Commercial** (155 skills)
 - **Communication** (91 skills)
 - **Content Creation** (331 skills)
 - **Daily Assistant** (223 skills)
 - **Data Analysis** (418 skills)
-- **Development** (1150 skills)
-- **Development/Devops** (228 skills)
+- **Development** (1149 skills)
+- **Development/Devops** (229 skills)
 - **Development/Testing** (61 skills)
-- **Development/Tools** (287 skills)
+- **Development/Tools** (288 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
@@ -318,7 +318,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Delegation Guide](automation/scripting/100-delegation-guide_46e6438c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/delegation-guide.md) | ⭐ 12 | `automation` |
 | [Skill](automation/scripting/101-description-skill_b6b8cc96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-hibernate-hbm/SKILL.md) | ⭐ 18 | `automation` |
 
-### Automation/Workflow (176 skills)
+### Automation/Workflow (177 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -498,6 +498,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Threat Analysis Prompt](automation/workflow/059-skill_threat_analysis_prompt_37243f9d/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 868 | `automation` |
 | [Skill](automation/workflow/002-name-skill_46d03aa4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/domain-hunter/SKILL.md) | ⭐ 329 | `automation` |
 | [Skill](automation/workflow/002-name-skill_b6087506/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/SKILL.md) | ⭐ 12 | `review` `planning` `quality-assurance` |
+| [Skill](automation/workflow/name-skill_a27a93de/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/SKILL.md) | ⭐ 74 | `automation` |
 
 ### Commercial (155 skills)
 
@@ -1742,7 +1743,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_aca5f999/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-page/SKILL.md) | ⭐ 894 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5d5799f7/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-programmatic/SKILL.md) | ⭐ 894 | `data analysis` |
 
-### Development (1150 skills)
+### Development (1149 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2895,9 +2896,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_033dd5f6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-hreflang/SKILL.md) | ⭐ 894 | `development` |
 | [Skill](development/1178-name-skill_c5c70d41/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 231 | `development` |
 | [Skill](development/1178-name-skill_ba263783/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 231 | `development` |
-| [Agent](development/agent_c312b92b/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.3k | `development` |
 
-### Development/Devops (228 skills)
+### Development/Devops (229 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3127,8 +3127,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Quickstarts](development/devops/374-claude-quickstarts_3410faea/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-quickstarts.md) | ⭐ 18 | `development` |
 | [Skill](development/devops/085-description-skill_d4b76543/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-tomcat-web/SKILL.md) | ⭐ 18 | `development` |
 | [Agents](development/devops/053-agents_240781ab/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/AGENTS.md) | ⭐ 231 | `development` |
-| [Custom Providers](development/devops/custom-providers_a31fe83a/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/custom-providers.md) | ⭐ 4.2k | `development` |
-| [Frontend Build System](development/devops/frontend_build_system_ba36515b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md) | ⭐ 4.0k | `development` |
+| [Custom Providers](development/devops/370-custom-providers_a31fe83a/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/custom-providers.md) | ⭐ 4.2k | `development` |
+| [Frontend Build System](development/devops/089-frontend_build_system_ba36515b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md) | ⭐ 4.0k | `development` |
+| [Smr Sdk Mcp Control Proposal 2026 02 19](development/devops/smr-sdk-mcp-control-proposal-2026-02-19_e535a98c/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/contracts/smr-sdk-mcp-control-proposal-2026-02-19.md) | ⭐ 74 | `development` |
 
 ### Development/Testing (61 skills)
 
@@ -3196,7 +3197,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Checklist](development/testing/088-checklist_2cf80242/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/checklist.md) | ⭐ 12 | `development` |
 | [Skill](development/testing/002-name-skill_93b151e1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/SKILL.md) | ⭐ 12 | `service` `business-logic` `dependency-injection` |
 
-### Development/Tools (287 skills)
+### Development/Tools (288 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3487,6 +3488,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cwv Thresholds](development/tools/346-cwv-thresholds_a8908977/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/cwv-thresholds.md) | ⭐ 894 | `development` |
 | [Skill](development/tools/002-name-skill_4f88c57e/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-technical/SKILL.md) | ⭐ 894 | `development` |
 | [Api Reference](development/tools/073-api-reference_2aa1ae5a/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 231 | `development` |
+| [Api Surface](development/tools/api-surface_8fd9886d/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md) | ⭐ 74 | `development` |
 
 ### Investment (99 skills)
 
@@ -3820,5 +3822,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 06:37:17 UTC*
+*Last updated: 2026-02-20 10:37:27 UTC*
 *Automatically maintained by SkillFlow*

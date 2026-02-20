@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T06:37:16.810604",
+  "updated_at": "2026-02-20T10:37:26.985729",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -49182,6 +49182,34 @@
       "repo_updated_at": "2026-02-20T00:02:58+00:00",
       "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md",
       "display_name": "Frontend Build System",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e535a98c91e57c084a881aa0b7beef855517b152f5b700fd19152a5e54eac7cf",
+      "source_path": "contracts/smr-sdk-mcp-control-proposal-2026-02-19.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/devops/375-smr-sdk-mcp-control-proposal-2026-02-19_e535a98c",
+      "category": "development/devops",
+      "name": "smr-sdk-mcp-control-proposal-2026-02-19_e535a98c",
+      "indexed_at": "2026-02-20T10:37:26.398397",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-19T16:57:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/contracts/smr-sdk-mcp-control-proposal-2026-02-19.md",
+      "display_name": "Smr Sdk Mcp Control Proposal 2026 02 19",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8fd9886de67e2813d1c3bab6970b92ccec231f38dce22c1c8a7d554c1fed56cb",
+      "source_path": "skills/synth-smr-control/references/api-surface.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/tools/347-api-surface_8fd9886d",
+      "category": "development/tools",
+      "name": "api-surface_8fd9886d",
+      "indexed_at": "2026-02-20T10:37:26.983540",
+      "repo_stars": 74,
+      "repo_updated_at": "2026-02-19T16:57:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md",
+      "display_name": "Api Surface",
       "tags": "[\"development\"]"
     }
   ]
