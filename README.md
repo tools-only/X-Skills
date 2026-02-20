@@ -15,10 +15,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (335 skills)
 - **Daily Assistant** (224 skills)
 - **Data Analysis** (420 skills)
-- **Development** (1160 skills)
+- **Development** (1159 skills)
 - **Development/Devops** (233 skills)
 - **Development/Testing** (61 skills)
-- **Development/Tools** (294 skills)
+- **Development/Tools** (295 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
@@ -1755,7 +1755,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_af627225/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/SKILL.md) | ⭐ 736 | `data analysis` |
 | [Output Patterns](data-analysis/240-output-patterns_a368d97e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/output-patterns.md) | ⭐ 271 | `data analysis` |
 
-### Development (1160 skills)
+### Development (1159 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2916,9 +2916,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Openocd Spi Dump](development/2933-claude-openocd-spi-dump_e800f879/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-openocd-spi-dump.md) | ⭐ 18 | `development` |
 | [Github Cli](development/2934-github-cli_642ef804/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/github-cli.md) | ⭐ 18 | `development` |
 | [Jirajs](development/2935-jirajs_08806143/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/jirajs.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_5a341157/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tactical-ddd/SKILL.md) | ⭐ 238 | `development` |
-| [Tdd Tech Lead](development/tdd-tech-lead_fbd6a78b/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/teams/tech-lead-tdd/tdd-tech-lead.md) | ⭐ 238 | `development` |
-| [Code Reviewer](development/code-reviewer_0fd40662/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/teams/tech-lead-tdd/code-reviewer.md) | ⭐ 238 | `development` |
+| [Skill](development/1178-name-skill_5a341157/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tactical-ddd/SKILL.md) | ⭐ 238 | `development` |
+| [Tdd Tech Lead](development/2888-tdd-tech-lead_fbd6a78b/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/teams/tech-lead-tdd/tdd-tech-lead.md) | ⭐ 238 | `development` |
 
 ### Development/Devops (233 skills)
 
@@ -3224,7 +3223,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Checklist](development/testing/088-checklist_2cf80242/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/checklist.md) | ⭐ 12 | `development` |
 | [Skill](development/testing/002-name-skill_93b151e1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/SKILL.md) | ⭐ 12 | `service` `business-logic` `dependency-injection` |
 
-### Development/Tools (294 skills)
+### Development/Tools (295 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3522,6 +3521,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Status](development/tools/334-status_8b8b7494/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/STATUS.md) | ⭐ 11 | `development` |
 | [Codex Skills](development/tools/335-codex-skills_dd46e53d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/codex-skills.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/086-description-skill_9425867e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/SKILL.md) | ⭐ 18 | `development` |
+| [08 Session](development/tools/08-session_5a5f7931/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/08-session.md) | ⭐ 2.9k | `development` |
 
 ### Investment (99 skills)
 
@@ -3856,5 +3856,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 13:36:35 UTC*
+*Last updated: 2026-02-20 15:35:38 UTC*
 *Automatically maintained by SkillFlow*
