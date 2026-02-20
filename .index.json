@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T01:36:49.889413",
+  "updated_at": "2026-02-20T02:35:20.433206",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -47587,6 +47587,104 @@
       "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md",
       "display_name": "Medium",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3ae346738840c59e18d15b39b6b0b156ad066998be8b7fda7d8de0c9e41bfa96",
+      "source_path": "skills/remotion-best-practices/SKILL.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/049-name-skill_3ae34673",
+      "category": "content-creation",
+      "name": "name-skill_3ae34673",
+      "indexed_at": "2026-02-20T02:35:16.602388",
+      "repo_stars": 749,
+      "repo_updated_at": "2026-02-19T06:38:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/skills/remotion-best-practices/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "1c08b85b4682ab44031169630314fc7dd1fd054c421631b44753b86de01f9971",
+      "source_path": "skills/remotion-best-practices/rules/audio-visualization.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/385-audio-visualization_1c08b85b",
+      "category": "content-creation",
+      "name": "audio-visualization_1c08b85b",
+      "indexed_at": "2026-02-20T02:35:17.342847",
+      "repo_stars": 749,
+      "repo_updated_at": "2026-02-19T06:38:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/skills/remotion-best-practices/rules/audio-visualization.md",
+      "display_name": "Audio Visualization",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "e28f52155b4c97c346de1fc5c6582256271accf139b19ff0652a1cf22414d6f4",
+      "source_path": "skills/remotion-best-practices/rules/voiceover.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/386-voiceover_e28f5215",
+      "category": "content-creation",
+      "name": "voiceover_e28f5215",
+      "indexed_at": "2026-02-20T02:35:18.107448",
+      "repo_stars": 749,
+      "repo_updated_at": "2026-02-19T06:38:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/skills/remotion-best-practices/rules/voiceover.md",
+      "display_name": "Voiceover",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c35ba5c75e5d37ccd71414b586dc780363cb78185474693947017104bd285d2a",
+      "source_path": "skills/gen-pdf/SKILL.md",
+      "source_repo": "antoniolg/agent-kit",
+      "local_path": "content-creation/049-name-skill_c35ba5c7",
+      "category": "content-creation",
+      "name": "name-skill_c35ba5c7",
+      "indexed_at": "2026-02-20T02:35:18.989352",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-19T10:58:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/gen-pdf/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "66237947af0f9664b51c7c9ae290a3a1549ecaa0686c66a0c9981b436abaf381",
+      "source_path": "skills/weekly-newsletter/SKILL.md",
+      "source_repo": "antoniolg/agent-kit",
+      "local_path": "content-creation/049-name-skill_66237947",
+      "category": "content-creation",
+      "name": "name-skill_66237947",
+      "indexed_at": "2026-02-20T02:35:19.499453",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-19T11:08:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "29541e789d367cecfcc4aba9d88591cb2630019922d4e0845ea839928c776657",
+      "source_path": "skills/youtube-publish/SKILL.md",
+      "source_repo": "antoniolg/agent-kit",
+      "local_path": "content-creation/049-name-skill_29541e78",
+      "category": "content-creation",
+      "name": "name-skill_29541e78",
+      "indexed_at": "2026-02-20T02:35:20.054936",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-19T11:08:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c9f4277d51086116c550009a4eddde38f3ee47ce9a7f46eb5a1dc1ab47016d07",
+      "source_path": "skills/gen-pdf/gen-pdf/SKILL.md",
+      "source_repo": "antoniolg/agent-kit",
+      "local_path": "content-creation/049-name-skill_c9f4277d",
+      "category": "content-creation",
+      "name": "name-skill_c9f4277d",
+      "indexed_at": "2026-02-20T02:35:20.432531",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-19T10:51:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/gen-pdf/gen-pdf/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
