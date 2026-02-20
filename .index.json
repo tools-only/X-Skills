@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T01:36:13.242280",
+  "updated_at": "2026-02-20T01:36:49.889413",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -47531,6 +47531,62 @@
       "source_url": "https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/seo-geo/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "998ca922b7c2c6d44ea761bd8d0022590abf99448c31e4b21385b63cf58695ad",
+      "source_path": "plugins/oh-my-claude/CLAUDE.md",
+      "source_repo": "TechDufus/oh-my-claude",
+      "local_path": "content-creation/007-claude_998ca922",
+      "category": "content-creation",
+      "name": "claude_998ca922",
+      "indexed_at": "2026-02-20T01:36:46.894921",
+      "repo_stars": 79,
+      "repo_updated_at": "2026-02-19T19:21:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechDufus/oh-my-claude/main/plugins/oh-my-claude/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "8fe7298c2a9662ee8c9ac7fafdaecf5d3c819654f8672195540b1372e152a791",
+      "source_path": "commands/fix.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2960-fix_8fe7298c",
+      "category": "development",
+      "name": "fix_8fe7298c",
+      "indexed_at": "2026-02-20T01:36:48.218095",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-19T22:01:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md",
+      "display_name": "Fix",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ca734ed6ecf04728f5e58691bbef6a3038e09d2d5e30a63ced7ba58be13f6415",
+      "source_path": "commands/heavy.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2961-heavy_ca734ed6",
+      "category": "development",
+      "name": "heavy_ca734ed6",
+      "indexed_at": "2026-02-20T01:36:49.136419",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-19T22:01:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md",
+      "display_name": "Heavy",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "80850da3c442f5dc5e408030a99e76c59bc02f9e567057a526ca35ec80ef9e58",
+      "source_path": "commands/medium.md",
+      "source_repo": "jwiegley/claude-prompts",
+      "local_path": "development/2962-medium_80850da3",
+      "category": "development",
+      "name": "medium_80850da3",
+      "indexed_at": "2026-02-20T01:36:49.889372",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-19T22:01:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md",
+      "display_name": "Medium",
+      "tags": "[\"development\"]"
     }
   ]
 }
