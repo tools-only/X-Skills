@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3605 AI-powered skills** organized into 15 categories.
+A curated collection of **3606 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (182 skills)
 - **Commercial** (155 skills)
 - **Communication** (94 skills)
-- **Content Creation** (340 skills)
+- **Content Creation** (341 skills)
 - **Daily Assistant** (226 skills)
 - **Data Analysis** (425 skills)
-- **Development** (1178 skills)
+- **Development** (1177 skills)
 - **Development/Devops** (238 skills)
 - **Development/Testing** (65 skills)
-- **Development/Tools** (304 skills)
+- **Development/Tools** (305 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
@@ -766,7 +766,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
 
-### Content Creation (340 skills)
+### Content Creation (341 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1032,7 +1032,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp Builder Tools Guide](content-creation/115-mcp_builder_tools_guide_cd13dcd7/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/core/MCP_BUILDER_TOOLS_GUIDE.md) | 🔥 7.3k | `content creation` |
 | [Hive Coder Meta Agent Plan](content-creation/359-hive-coder-meta-agent-plan_58cfcf68/) | [adenhq/hive](https://raw.githubusercontent.com/adenhq/hive/main/docs/hive-coder-meta-agent-plan.md) | 🔥 7.3k | `content creation` |
 | [Skill](content-creation/049-name-skill_3f603cc5/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/image-generator/SKILL.md) | ⭐ 162 | `content creation` |
-| [Skill](content-creation/049-name-skill_0d049e7d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 162 | `content creation` |
+| [Skill](content-creation/name-skill_d898a17d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 165 | `content creation` |
 | [Skill](content-creation/049-name-skill_f88fdda3/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/improve-agents-md/SKILL.md) | ⭐ 10 | `content creation` |
 | [Skill](content-creation/049-name-skill_33a6a664/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/linear/SKILL.md) | ⭐ 10 | `content creation` |
 | [Amazon Bedrock](content-creation/077-amazon-bedrock_53def84d/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/amazon-bedrock.md) | ⭐ 167 | `content creation` |
@@ -1110,6 +1110,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Data Explorer](content-creation/387-data-explorer_a580a70b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/agents/data-explorer.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/388-description-skill_729c14c9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/data-transformation/SKILL.md) | ⭐ 18 | `content creation` |
 | [Synthesis Improvements From Research](content-creation/389-synthesis-improvements-from-research_c129ff5e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/references/synthesis-improvements-from-research.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/049-name-skill_d898a17d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 165 | `content creation` |
 
 ### Daily Assistant (226 skills)
 
@@ -1772,7 +1773,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Format Patterns](data-analysis/487-format-patterns_5773a787/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/dasel-reference/references/format-patterns.md) | ⭐ 18 | `data analysis` |
 | [Transformation Patterns](data-analysis/333-transformation-patterns_037a152e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/data-transformation/references/transformation-patterns.md) | ⭐ 18 | `data analysis` |
 
-### Development (1178 skills)
+### Development (1177 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2173,7 +2174,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Overview](development/2703-01-overview_568c1a30/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 1.1k | `development` |
 | [Api Stability Lifecycle](development/2904-api-stability-lifecycle_015f6727/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specifications/api-stability-lifecycle.md) | ⭐ 74 | `development` |
 | [Integration](development/476-integration_d27fd4a3/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/INTEGRATION.md) | ⭐ 20 | `development` |
-| [Chat](development/chat_6cc837b6/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/chat.md) | ⭐ 20 | `development` |
+| [Chat](development/2848-chat_daf9cee0/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/chat.md) | ⭐ 20 | `development` |
 | [Manifest Schema](development/2849-manifest-schema_da56bdc5/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/manifest-schema.md) | ⭐ 20 | `development` |
 | [Python Api](development/740-python-api_78bd98af/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/python-api.md) | ⭐ 20 | `development` |
 | [Skills Index](development/2059-skills_index_7158fb19/) | [hannesill/m4](https://raw.githubusercontent.com/hannesill/m4/main/src/m4/skills/SKILLS_INDEX.md) | ⭐ 13 | `development` |
@@ -2948,12 +2949,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Investigation Escalation](development/2942-investigation-escalation_af788a37/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/orchestrator-discipline/skills/orchestrator-discipline/references/investigation-escalation.md) | ⭐ 18 | `development` |
 | [Reference Document Architecture](development/2943-reference-document-architecture_af03c197/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/planning/reference-document-architecture.md) | ⭐ 18 | `development` |
 | [Clang Format Style Options](development/2944-clang-format-style-options_57ebf225/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/clang-format/skills/clang-format/references/complete/clang-format-style-options.md) | ⭐ 18 | `development` |
-| [Troubleshooting](development/troubleshooting_b1b50ae5/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/troubleshooting.md) | ⭐ 20 | `development` |
+| [Troubleshooting](development/1097-troubleshooting_b1b50ae5/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/troubleshooting.md) | ⭐ 20 | `development` |
 | [Chat](development/2901-chat_6cc837b6/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/chat.md) | ⭐ 20 | `development` |
-| [Status](development/status_1b5d94e7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/status.md) | ⭐ 20 | `development` |
-| [Cli](development/cli_5b4d9d1c/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md) | ⭐ 20 | `development` |
-| [Index](development/index_b68e7323/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/index.md) | ⭐ 20 | `development` |
-| [Build](development/build_49f16b11/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/build.md) | ⭐ 20 | `development` |
+| [Status](development/2199-status_1b5d94e7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/status.md) | ⭐ 20 | `development` |
+| [Cli](development/2266-cli_5b4d9d1c/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_c5f7a2be/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/voice-changer/SKILL.md) | ⭐ 165 | `development` |
 
 ### Development/Devops (238 skills)
 
@@ -2995,9 +2995,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_d338685e/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/m365-agents-ts/SKILL.md) | 🔥 8.7k | `development` |
 | [Skill](development/devops/014-name-skill_52f24936/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-api/SKILL.md) | ⭐ 74 | `development` |
 | [Ui Issues](development/devops/359-ui_issues_60f56118/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/ui_issues.md) | 🔥 35.7k | `development` |
-| [Analyze](development/devops/analyze_98b27148/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/analyze.md) | ⭐ 20 | `development` |
-| [Llm Providers](development/devops/llm-providers_78faa506/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
-| [Plan](development/devops/plan_68ab0a7a/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
+| [Analyze](development/devops/360-analyze_e29205c6/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/analyze.md) | ⭐ 20 | `development` |
+| [Llm Providers](development/devops/361-llm-providers_16d48180/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md) | ⭐ 20 | `development` |
+| [Plan](development/devops/362-plan_dd8a94a7/) | [SkeneTechnologies/skene-growth](https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md) | ⭐ 20 | `development` |
 | [Android Termux Setup](development/devops/371-android_termux_setup_3ba327b7/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/android_termux_setup.md) | ⭐ 28 | `development` |
 | [Skill](development/devops/014-name-skill_e67c13d2/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-code-meta/skills/claude-code-hooks/SKILL.md) | ⭐ 10 | `development` |
 | [Agent Sdk Migration Guide](development/devops/363-agent-sdk_migration-guide_04cce82e/) | [emdashcodes/claude-code-plugins](https://raw.githubusercontent.com/emdashcodes/claude-code-plugins/trunk/plugins/claude-agent-sdk-dev/skills/claude-agent-sdk/references/agent-sdk_migration-guide.md) | ⭐ 10 | `development` |
@@ -3268,7 +3268,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/091-plugin-validator-tasks_53cfb505/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/092-description-skill_8b75fd5a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/setup/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Tools (304 skills)
+### Development/Tools (305 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3576,6 +3576,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dasel Guide](development/tools/338-dasel-guide_107781dd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/agents/dasel-guide.md) | ⭐ 18 | `development` |
 | [Claude](development/tools/017-claude_f3835234/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/orchestrator-discipline/rules/CLAUDE.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_f0b7a17d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 80 | `development` |
+| [Backend Implementations](development/tools/backend-implementations_002322e1/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/examples/backend-implementations.md) | ⭐ 43 | `development` |
 
 ### Investment (99 skills)
 
@@ -3911,5 +3912,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 17:52:52 UTC*
+*Last updated: 2026-02-20 20:55:59 UTC*
 *Automatically maintained by SkillFlow*
