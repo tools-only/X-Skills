@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3378 AI-powered skills** organized into 15 categories.
+A curated collection of **3400 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (128 skills)
-- **Automation/Workflow** (172 skills)
-- **Commercial** (151 skills)
+- **Automation/Scripting** (132 skills)
+- **Automation/Workflow** (175 skills)
+- **Commercial** (152 skills)
 - **Communication** (87 skills)
-- **Content Creation** (292 skills)
+- **Content Creation** (294 skills)
 - **Daily Assistant** (219 skills)
-- **Data Analysis** (407 skills)
-- **Development** (1122 skills)
-- **Development/Devops** (221 skills)
-- **Development/Testing** (55 skills)
-- **Development/Tools** (272 skills)
+- **Data Analysis** (408 skills)
+- **Development** (1125 skills)
+- **Development/Devops** (223 skills)
+- **Development/Testing** (58 skills)
+- **Development/Tools** (274 skills)
 - **Investment** (95 skills)
 - **Other** (4 skills)
 - **Productivity** (56 skills)
-- **Research** (97 skills)
+- **Research** (98 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (128 skills)
+### Automation/Scripting (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -312,9 +312,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_3163f06f/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-CSpawnGroupMgrGameSystem_GetSpawnGroups/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_3d61b53c/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-NetworkStateChanged/SKILL.md) | ⭐ 19 | `automation` |
 | [Skill](automation/scripting/003-name-skill_bc6f0f2b/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/find-g_pGameTypes-AND-IGameTypes_CreateWorkshopMapGroup/SKILL.md) | ⭐ 19 | `automation` |
-| [Review Checklist](automation/scripting/review-checklist_1d18a913/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/workflows/review-checklist.md) | ⭐ 2.8k | `automation` |
+| [Skill](automation/scripting/name-skill_a2eb56b2/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/banner-creator/SKILL.md) | ⭐ 329 | `automation` |
+| [Skill](automation/scripting/name-skill_8e33e6e4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/logo-creator/SKILL.md) | ⭐ 329 | `automation` |
+| [Skill](automation/scripting/name-skill_aee0659d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/twitter/SKILL.md) | ⭐ 329 | `automation` |
+| [Api Rationale](automation/scripting/api-rationale_dc8365cc/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/api-rationale.md) | ⭐ 868 | `automation` |
+| [Bug Report](automation/scripting/bug_report_775e4398/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 868 | `automation` |
 
-### Automation/Workflow (172 skills)
+### Automation/Workflow (175 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -489,9 +493,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_425e1d94/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/SKILL.md) | ⭐ 11 | `automation` |
 | [Skill](automation/workflow/002-name-skill_7a1d055b/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/security-incident-reporting/SKILL.md) | ⭐ 11 | `automation` |
 | [Criteria](automation/workflow/136-criteria_ddf73152/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/criteria.md) | ⭐ 11 | `automation` |
-| [Workflow Patterns](automation/workflow/workflow-patterns_060570ad/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/workflow-patterns.md) | ⭐ 2.8k | `automation` |
+| [Workflow Patterns](automation/workflow/135-workflow-patterns_060570ad/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/workflow-patterns.md) | ⭐ 2.8k | `automation` |
+| [Api Server](automation/workflow/api-server_c497a691/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/api-server.md) | ⭐ 868 | `automation` |
+| [Skill Threat Analysis Prompt](automation/workflow/skill_threat_analysis_prompt_37243f9d/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 868 | `automation` |
+| [Skill](automation/workflow/name-skill_46d03aa4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/domain-hunter/SKILL.md) | ⭐ 329 | `automation` |
 
-### Commercial (151 skills)
+### Commercial (152 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -644,8 +651,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Php84](commercial/373-skill-php84_e5d17e88/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-PHP84.md) | ⭐ 11 | `commercial` |
 | [Skill](commercial/210-name-skill_4dbcc02f/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-context-mapping/SKILL.md) | 🔥 11.7k | `ddd` `context-map` `anti-corruption-layer` |
 | [Skill](commercial/210-name-skill_eb85dd0c/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/domain-driven-design/SKILL.md) | 🔥 11.7k | `ddd` `domain` `bounded-context` |
-| [Workflows](commercial/workflows_acc28480/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 12.7k | `commercial` |
-| [Anti Patterns](commercial/anti-patterns_c225bb8e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/anti-patterns.md) | ⭐ 2.8k | `commercial` |
+| [Workflows](commercial/373-workflows_acc28480/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 12.7k | `commercial` |
+| [Anti Patterns](commercial/011-anti-patterns_c225bb8e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/anti-patterns.md) | ⭐ 2.8k | `commercial` |
+| [Skill](commercial/name-skill_908d7922/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/nanobanana/SKILL.md) | ⭐ 329 | `commercial` |
 
 ### Communication (87 skills)
 
@@ -739,7 +747,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Germany](communication/252-skill-germany_165aca19/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-GERMANY.md) | ⭐ 11 | `communication` |
 | [Skill Content Blocks](communication/253-skill-content-blocks_2fd809ac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `communication` |
 
-### Content Creation (292 skills)
+### Content Creation (294 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1033,8 +1041,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sections](content-creation/363-_sections_20aad284/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/web-platform-design/rules/_sections.md) | ⭐ 11 | `content creation` |
 | [Reference](content-creation/026-reference_6b5c0369/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/facebook-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
 | [Reference](content-creation/026-reference_2963c69c/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/tiktok-marketing/REFERENCE.md) | ⭐ 102 | `content creation` |
-| [Design A Workflow Skill](content-creation/design-a-workflow-skill_5830f4c8/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/workflows/design-a-workflow-skill.md) | ⭐ 2.8k | `content creation` |
-| [Discovery](content-creation/discovery_2bc2412a/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/testing-handbook-skills/skills/testing-handbook-generator/discovery.md) | ⭐ 2.8k | `content creation` |
+| [Design A Workflow Skill](content-creation/362-design-a-workflow-skill_5830f4c8/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/workflows/design-a-workflow-skill.md) | ⭐ 2.8k | `content creation` |
+| [Policy](content-creation/policy_88f176d7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/POLICY.md) | ⭐ 868 | `content creation` |
+| [Binary Handling](content-creation/binary-handling_5cdbf6ce/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/binary-handling.md) | ⭐ 868 | `content creation` |
+| [Scan Policy](content-creation/scan-policy_4aba8acb/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/scan-policy.md) | ⭐ 868 | `content creation` |
 
 ### Daily Assistant (219 skills)
 
@@ -1255,12 +1265,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_c0390286/) | [dnouri/ai-config](https://raw.githubusercontent.com/dnouri/ai-config/master/skills/tmux/SKILL.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_95984721/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-strategic-design/SKILL.md) | 🔥 11.7k | `ddd` `strategic-design` `bounded-context` |
 | [Tactical Checklist](daily-assistant/268-tactical-checklist_c6fefa0a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ddd-tactical-patterns/references/tactical-checklist.md) | 🔥 11.7k | `daily assistant` |
-| [Workflow Skill Reviewer](daily-assistant/workflow-skill-reviewer_8a042ec4/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/agents/workflow-skill-reviewer.md) | ⭐ 2.8k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_084718a2/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/SKILL.md) | ⭐ 2.8k | `daily assistant` |
-| [Progressive Disclosure Guide](daily-assistant/progressive-disclosure-guide_5c2ffff7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/progressive-disclosure-guide.md) | ⭐ 2.8k | `daily assistant` |
-| [Tool Assignment Guide](daily-assistant/tool-assignment-guide_79b58567/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/tool-assignment-guide.md) | ⭐ 2.8k | `daily assistant` |
+| [Workflow Skill Reviewer](daily-assistant/264-workflow-skill-reviewer_8a042ec4/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/agents/workflow-skill-reviewer.md) | ⭐ 2.8k | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_084718a2/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/SKILL.md) | ⭐ 2.8k | `daily assistant` |
+| [Progressive Disclosure Guide](daily-assistant/265-progressive-disclosure-guide_5c2ffff7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/progressive-disclosure-guide.md) | ⭐ 2.8k | `daily assistant` |
+| [Tool Assignment Guide](daily-assistant/266-tool-assignment-guide_79b58567/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/tool-assignment-guide.md) | ⭐ 2.8k | `daily assistant` |
 
-### Data Analysis (407 skills)
+### Data Analysis (408 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1671,8 +1681,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_e57e316d/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/remotion-best-practices/SKILL.md) | ⭐ 11 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_1ae2d5c7/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/SKILL.md) | ⭐ 11 | `data analysis` |
 | [Sections](data-analysis/482-_sections_061e021e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ios-design/rules/_sections.md) | ⭐ 11 | `data analysis` |
+| [Feature](data-analysis/feature_aa5ab56d/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/FEATURE.md) | ⭐ 868 | `data analysis` |
 
-### Development (1122 skills)
+### Development (1125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2417,7 +2428,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dashboard Best Practices](development/2939-dashboard_best_practices_b9215f45/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/observability-designer/references/dashboard_best_practices.md) | ⭐ 1.8k | `team` `service_type` `environment` |
 | [Debt Classification Taxonomy](development/2940-debt-classification-taxonomy_00e1313c/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/debt-classification-taxonomy.md) | ⭐ 1.8k | `development` |
 | [Prioritization Framework](development/2941-prioritization-framework_03e47d8e/) | [alirezarezvani/claude-skills](https://raw.githubusercontent.com/alirezarezvani/claude-skills/main/engineering/tech-debt-tracker/references/prioritization-framework.md) | ⭐ 1.8k | `development` |
-| [Catalog](development/catalog_7dea1e8a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 12.7k | `development` |
+| [Catalog](development/126-catalog_43db3465/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 9.8k | `development` |
 | [040 Flexible Admin Ui Sections](development/2864-040-flexible-admin-ui-sections_753884b1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/040-flexible-admin-ui-sections.md) | ⭐ 3.3k | `development` |
 | [Mcp Tools Availability Over Yaml Config E94E51D8.Plan](development/2866-mcp_tools_availability_over_yaml_config_e94e51d8plan_40928d3e/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/.cursor/plans/mcp_tools_availability_over_yaml_config_e94e51d8.plan.md) | ⭐ 13 | `development` |
 | [Context Refinement](development/1665-context-refinement_8f29f282/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/agents/context-refinement.md) | ⭐ 17 | `development` |
@@ -2789,17 +2800,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_e29b39e7/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vfunc-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Skill](development/1178-name-skill_5edd9e85/) | [hzqst/CS2_VibeSignatures](https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/skills/write-vtable-as-yaml/SKILL.md) | ⭐ 19 | `development` |
 | [Catalog](development/126-catalog_7dea1e8a/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 12.7k | `development` |
-| [Bundles](development/bundles_69754868/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/BUNDLES.md) | 🔥 12.7k | `development` |
-| [Skill](development/name-skill_b0b94dec/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/variant-analysis/skills/variant-analysis/SKILL.md) | ⭐ 2.8k | `development` |
-| [Dwarfdump](development/dwarfdump_7f2e1009/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/dwarf-expert/skills/dwarf-expert/reference/dwarfdump.md) | ⭐ 2.8k | `development` |
-| [Solana](development/solana_688de5e9/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/entry-point-analyzer/skills/entry-point-analyzer/references/solana.md) | ⭐ 2.8k | `development` |
-| [Quick Reference](development/quick-reference_0e7e73d1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/semgrep-rule-creator/skills/semgrep-rule-creator/references/quick-reference.md) | ⭐ 2.8k | `development` |
-| [Coding](development/coding_dcd6e788/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/dwarf-expert/skills/dwarf-expert/reference/coding.md) | ⭐ 2.8k | `development` |
-| [Ton](development/ton_d2cff4de/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/entry-point-analyzer/skills/entry-point-analyzer/references/ton.md) | ⭐ 2.8k | `development` |
-| [Workflow](development/workflow_7ef7fac3/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/semgrep-rule-creator/skills/semgrep-rule-creator/references/workflow.md) | ⭐ 2.8k | `development` |
-| [Variant Report Template](development/variant-report-template_03333c76/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/variant-analysis/skills/variant-analysis/resources/variant-report-template.md) | ⭐ 2.8k | `development` |
+| [Bundles](development/2884-bundles_69754868/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/BUNDLES.md) | 🔥 12.7k | `development` |
+| [Skill](development/1178-name-skill_b0b94dec/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/variant-analysis/skills/variant-analysis/SKILL.md) | ⭐ 2.8k | `development` |
+| [Dwarfdump](development/2885-dwarfdump_7f2e1009/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/dwarf-expert/skills/dwarf-expert/reference/dwarfdump.md) | ⭐ 2.8k | `development` |
+| [Solana](development/2886-solana_688de5e9/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/entry-point-analyzer/skills/entry-point-analyzer/references/solana.md) | ⭐ 2.8k | `development` |
+| [Quick Reference](development/2887-quick-reference_0e7e73d1/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/semgrep-rule-creator/skills/semgrep-rule-creator/references/quick-reference.md) | ⭐ 2.8k | `development` |
+| [Authoring](development/authoring_d8e70856/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/AUTHORING.md) | ⭐ 868 | `development` |
+| [Aidefense Analyzer](development/aidefense-analyzer_708d2986/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/aidefense-analyzer.md) | ⭐ 868 | `development` |
+| [Behavioral Analyzer](development/behavioral-analyzer_b61f6b36/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/behavioral-analyzer.md) | ⭐ 868 | `development` |
+| [Llm Analyzer](development/llm-analyzer_9643d352/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/llm-analyzer.md) | ⭐ 868 | `development` |
+| [Skill Meta Analysis Prompt](development/skill_meta_analysis_prompt_6227e8b9/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_meta_analysis_prompt.md) | ⭐ 868 | `development` |
+| [Skill](development/name-skill_654e04b8/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/producthunt/SKILL.md) | ⭐ 329 | `development` |
+| [Skill](development/name-skill_2bb413de/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/requesthunt/SKILL.md) | ⭐ 329 | `development` |
 
-### Development/Devops (221 skills)
+### Development/Devops (223 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3023,9 +3037,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Php84](development/devops/365-skill-php84_ae8617d8/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-PHP84.md) | ⭐ 11 | `development` |
 | [Skill](development/devops/014-name-skill_63c9d7a6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL.md) | ⭐ 11 | `development` |
 | [Maturity Levels](development/devops/366-maturity-levels_fb9674af/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/maturity-levels.md) | ⭐ 11 | `development` |
-| [Skill](development/devops/name-skill_07f16ece/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/devcontainer-setup/skills/devcontainer-setup/SKILL.md) | ⭐ 2.8k | `development` |
+| [Quickstart](development/devops/quickstart_3ae401d2/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/quickstart.md) | ⭐ 868 | `development` |
+| [Skill](development/devops/name-skill_4bc0f3ff/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/reddit/SKILL.md) | ⭐ 329 | `development` |
+| [Remote Skills Analysis](development/devops/remote-skills-analysis_f96ec7b5/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/remote-skills-analysis.md) | ⭐ 868 | `development` |
 
-### Development/Testing (55 skills)
+### Development/Testing (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3084,8 +3100,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Completion](development/testing/087-completion_7330a053/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/COMPLETION.md) | ⭐ 162 | `development` |
 | [Quickref](development/testing/088-quickref_71c0e0f6/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/QUICKREF.md) | ⭐ 162 | `development` |
 | [Skill Content Blocks](development/testing/087-skill-content-blocks_03162bac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
+| [Developing](development/testing/developing_fc684631/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/developing.md) | ⭐ 868 | `development` |
+| [Testing](development/testing/testing_843e0c52/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/TESTING.md) | ⭐ 868 | `development` |
+| [Skill](development/testing/name-skill_afb58b66/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/template/SKILL.md) | ⭐ 329 | `development` |
 
-### Development/Tools (272 skills)
+### Development/Tools (274 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3359,8 +3378,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sections](development/tools/341-_sections_2769f98c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ipados-design/rules/_sections.md) | ⭐ 11 | `development` |
 | [Sections](development/tools/341-_sections_39653d6f/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/macos-design/rules/_sections.md) | ⭐ 11 | `development` |
 | [Sections](development/tools/341-_sections_2bc13a5c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/visionos-design/rules/_sections.md) | ⭐ 11 | `development` |
-| [Claude](development/tools/claude_319806eb/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/CLAUDE.md) | ⭐ 2.8k | `development` |
-| [Readelf](development/tools/readelf_83846a1f/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/dwarf-expert/skills/dwarf-expert/reference/readelf.md) | ⭐ 2.8k | `development` |
+| [Claude](development/tools/017-claude_319806eb/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/CLAUDE.md) | ⭐ 2.8k | `development` |
+| [Architecture](development/tools/architecture_1d3b83c7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture.md) | ⭐ 868 | `development` |
+| [Meta Analyzer](development/tools/meta-analyzer_bec582c1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 868 | `development` |
+| [Threat Taxonomy](development/tools/threat-taxonomy_e4412146/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/threat-taxonomy.md) | ⭐ 868 | `development` |
 
 ### Investment (95 skills)
 
@@ -3532,7 +3553,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sections](productivity/176-_sections_980d2881/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/rules/_sections.md) | ⭐ 11 | `productivity` |
 | [Reference](productivity/173-reference_1334efc3/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/REFERENCE.md) | ⭐ 102 | `productivity` |
 
-### Research (97 skills)
+### Research (98 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3633,6 +3654,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Advanced Features](research/259-advanced-features_e3d9d4e1/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-lwc/references/advanced-features.md) | ⭐ 80 | `research` |
 | [Skill](research/139-name-skill_1eee4779/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/deepfake-detection/SKILL.md) | ⭐ 11 | `research` |
 | [Sections](research/258-_sections_5ac3d37c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/rules/_sections.md) | ⭐ 11 | `research` |
+| [Skill](research/name-skill_9a24534b/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/seo-geo/SKILL.md) | ⭐ 329 | `research` |
 
 ## How Skills Are Organized
 
@@ -3684,5 +3706,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 00:35:01 UTC*
+*Last updated: 2026-02-20 01:36:13 UTC*
 *Automatically maintained by SkillFlow*
