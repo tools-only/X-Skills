@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T15:35:38.105829",
+  "updated_at": "2026-02-20T15:36:28.041526",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -49700,6 +49700,20 @@
       "repo_updated_at": "2026-02-20T04:11:43+00:00",
       "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/08-session.md",
       "display_name": "08 Session",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b1d7aa92fbcfc1a71327f020770009101c74237cb82c2e807b62a214bb556b81",
+      "source_path": "docs/architecture/memory-redesign.md",
+      "source_repo": "openakita/openakita",
+      "local_path": "development/2966-memory-redesign_b1d7aa92",
+      "category": "development",
+      "name": "memory-redesign_b1d7aa92",
+      "indexed_at": "2026-02-20T15:36:28.041475",
+      "repo_stars": 332,
+      "repo_updated_at": "2026-02-19T18:14:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/openakita/openakita/main/docs/architecture/memory-redesign.md",
+      "display_name": "Memory Redesign",
       "tags": "[\"development\"]"
     }
   ]

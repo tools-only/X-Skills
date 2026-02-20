@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3550 AI-powered skills** organized into 15 categories.
+A curated collection of **3558 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (133 skills)
+- **Automation/Scripting** (135 skills)
 - **Automation/Workflow** (178 skills)
 - **Commercial** (155 skills)
 - **Communication** (94 skills)
-- **Content Creation** (335 skills)
-- **Daily Assistant** (224 skills)
+- **Content Creation** (336 skills)
+- **Daily Assistant** (226 skills)
 - **Data Analysis** (420 skills)
-- **Development** (1159 skills)
+- **Development** (1160 skills)
 - **Development/Devops** (233 skills)
-- **Development/Testing** (61 skills)
+- **Development/Testing** (62 skills)
 - **Development/Tools** (295 skills)
 - **Investment** (99 skills)
-- **Other** (4 skills)
+- **Other** (5 skills)
 - **Productivity** (58 skills)
 - **Research** (102 skills)
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (133 skills)
+### Automation/Scripting (135 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -318,6 +318,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Delegation Guide](automation/scripting/100-delegation-guide_46e6438c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/delegation-guide.md) | ⭐ 12 | `automation` |
 | [Skill](automation/scripting/101-description-skill_b6b8cc96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-hibernate-hbm/SKILL.md) | ⭐ 18 | `automation` |
 | [Workflow Patterns](automation/scripting/102-workflow-patterns_e7893632/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/workflow-patterns.md) | ⭐ 271 | `automation` |
+| [Policies](automation/scripting/policies_1fba21a9/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/identity/prompts/policies.md) | ⭐ 332 | `automation` |
+| [Skill](automation/scripting/name-skill_206512eb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/skills/skill-creator/SKILL.md) | ⭐ 332 | `automation` |
 
 ### Automation/Workflow (178 skills)
 
@@ -761,7 +763,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
 
-### Content Creation (335 skills)
+### Content Creation (336 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1100,8 +1102,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Integration](content-creation/387-integration_cb8f46b7/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/INTEGRATION.md) | ⭐ 11 | `content creation` |
 | [Publish Checklist](content-creation/388-publish_checklist_c3550490/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/PUBLISH_CHECKLIST.md) | ⭐ 11 | `content creation` |
 | [Hedra](content-creation/389-hedra_0f11e1f7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-design-tools/hedra.md) | ⭐ 18 | `content creation` |
+| [Third Party Notices](content-creation/third_party_notices_7c502dbb/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/THIRD_PARTY_NOTICES.md) | ⭐ 332 | `content creation` |
 
-### Daily Assistant (224 skills)
+### Daily Assistant (226 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1329,6 +1332,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Delegation](daily-assistant/291-delegation_54f97cec/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/delegation.md) | ⭐ 12 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_fd1e346f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/SKILL.md) | ⭐ 12 | `implementation` `orchestration` `team-dispatch` |
 | [Sred](daily-assistant/292-sred_85ef2ef4/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/sred-project-organizer/references/SRED.md) | ⭐ 271 | `daily assistant` |
+| [Agent.Core](daily-assistant/agentcore_e5562c15/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/identity/compiled/agent.core.md) | ⭐ 332 | `daily assistant` |
+| [Agent.Tooling](daily-assistant/agenttooling_5e17e946/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/identity/compiled/agent.tooling.md) | ⭐ 332 | `daily assistant` |
 
 ### Data Analysis (420 skills)
 
@@ -1755,7 +1760,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_af627225/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/SKILL.md) | ⭐ 736 | `data analysis` |
 | [Output Patterns](data-analysis/240-output-patterns_a368d97e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/output-patterns.md) | ⭐ 271 | `data analysis` |
 
-### Development (1159 skills)
+### Development (1160 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2918,6 +2923,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Jirajs](development/2935-jirajs_08806143/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/jirajs.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_5a341157/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tactical-ddd/SKILL.md) | ⭐ 238 | `development` |
 | [Tdd Tech Lead](development/2888-tdd-tech-lead_fbd6a78b/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/teams/tech-lead-tdd/tdd-tech-lead.md) | ⭐ 238 | `development` |
+| [Memory Redesign](development/memory-redesign_b1d7aa92/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/architecture/memory-redesign.md) | ⭐ 332 | `development` |
 
 ### Development/Devops (233 skills)
 
@@ -3157,7 +3163,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Perplexity Mcp Server](development/devops/372-perplexity-mcp-server_827acd08/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/perplexity-mcp-server.md) | ⭐ 18 | `development` |
 | [Development Guidelines](development/devops/121-development-guidelines_3a143276/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/development-guidelines.md) | ⭐ 18 | `development` |
 
-### Development/Testing (61 skills)
+### Development/Testing (62 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3222,6 +3228,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_9471b930/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/SKILL.md) | ⭐ 12 | `planning` `phases` `architecture` |
 | [Checklist](development/testing/088-checklist_2cf80242/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/checklist.md) | ⭐ 12 | `development` |
 | [Skill](development/testing/002-name-skill_93b151e1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/SKILL.md) | ⭐ 12 | `service` `business-logic` `dependency-injection` |
+| [Testing](development/testing/testing_165c22a4/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/docs/testing.md) | ⭐ 332 | `development` |
 
 ### Development/Tools (295 skills)
 
@@ -3521,7 +3528,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Status](development/tools/334-status_8b8b7494/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/STATUS.md) | ⭐ 11 | `development` |
 | [Codex Skills](development/tools/335-codex-skills_dd46e53d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/codex-skills.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/086-description-skill_9425867e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/SKILL.md) | ⭐ 18 | `development` |
-| [08 Session](development/tools/08-session_5a5f7931/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/08-session.md) | ⭐ 2.9k | `development` |
+| [08 Session](development/tools/288-08-session_5a5f7931/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/concepts/08-session.md) | ⭐ 2.9k | `development` |
 
 ### Investment (99 skills)
 
@@ -3627,7 +3634,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Breadth Analysis Methodology](investment/053-breadth_analysis_methodology_992b7af2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 38 | `investment` |
 | [Uptrend Methodology](investment/054-uptrend_methodology_561e4c02/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 38 | `investment` |
 
-### Other (4 skills)
+### Other (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3635,6 +3642,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
+| [Soul.Summary](other/soulsummary_be454702/) | [openakita/openakita](https://raw.githubusercontent.com/openakita/openakita/main/identity/compiled/soul.summary.md) | ⭐ 332 | `other` |
 
 ### Productivity (58 skills)
 
@@ -3856,5 +3864,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 15:35:38 UTC*
+*Last updated: 2026-02-20 15:36:28 UTC*
 *Automatically maintained by SkillFlow*
