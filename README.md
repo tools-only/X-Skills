@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3537 AI-powered skills** organized into 15 categories.
+A curated collection of **3550 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (178 skills)
 - **Commercial** (155 skills)
 - **Communication** (94 skills)
-- **Content Creation** (334 skills)
+- **Content Creation** (335 skills)
 - **Daily Assistant** (224 skills)
 - **Data Analysis** (420 skills)
-- **Development** (1154 skills)
-- **Development/Devops** (229 skills)
+- **Development** (1160 skills)
+- **Development/Devops** (233 skills)
 - **Development/Testing** (61 skills)
-- **Development/Tools** (292 skills)
+- **Development/Tools** (294 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
@@ -317,7 +317,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_aee0659d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/twitter/SKILL.md) | ⭐ 329 | `automation` |
 | [Delegation Guide](automation/scripting/100-delegation-guide_46e6438c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/delegation-guide.md) | ⭐ 12 | `automation` |
 | [Skill](automation/scripting/101-description-skill_b6b8cc96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-hibernate-hbm/SKILL.md) | ⭐ 18 | `automation` |
-| [Workflow Patterns](automation/scripting/workflow-patterns_e7893632/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/workflow-patterns.md) | ⭐ 271 | `automation` |
+| [Workflow Patterns](automation/scripting/102-workflow-patterns_e7893632/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/workflow-patterns.md) | ⭐ 271 | `automation` |
 
 ### Automation/Workflow (178 skills)
 
@@ -499,8 +499,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Threat Analysis Prompt](automation/workflow/059-skill_threat_analysis_prompt_37243f9d/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 868 | `automation` |
 | [Skill](automation/workflow/002-name-skill_46d03aa4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/domain-hunter/SKILL.md) | ⭐ 329 | `automation` |
 | [Skill](automation/workflow/002-name-skill_b6087506/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/SKILL.md) | ⭐ 12 | `review` `planning` `quality-assurance` |
-| [Skill](automation/workflow/name-skill_1052fbda/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 271 | `automation` |
-| [Skill Patterns](automation/workflow/skill-patterns_0d13d796/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 271 | `automation` |
+| [Skill](automation/workflow/002-name-skill_1052fbda/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md) | ⭐ 271 | `automation` |
+| [Skill Patterns](automation/workflow/076-skill-patterns_0d13d796/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/skill-patterns.md) | ⭐ 271 | `automation` |
 
 ### Commercial (155 skills)
 
@@ -759,9 +759,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Zeroclaw](communication/266-zeroclaw_cd47a054/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/zeroclaw.md) | ⭐ 18 | `communication` |
 | [Claude](communication/024-claude_34ef6435/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
-| [Skill](communication/name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
+| [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
 
-### Content Creation (334 skills)
+### Content Creation (335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1096,9 +1096,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecommerce](content-creation/402-ecommerce_dac322b2/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/ecommerce.md) | ⭐ 894 | `content creation` |
 | [Generic](content-creation/403-generic_5e3a8669/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/generic.md) | ⭐ 894 | `content creation` |
 | [Publisher](content-creation/404-publisher_52d3ebbe/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/publisher.md) | ⭐ 894 | `content creation` |
-| [Skill](content-creation/name-skill_16debbe3/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/create-pr/SKILL.md) | ⭐ 271 | `content creation` |
-| [Skill Synthesis](content-creation/skill-synthesis_46e4c8b3/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/docs/skill-synthesis.md) | ⭐ 271 | `content creation` |
-| [Project Template](content-creation/project-template_07570423/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/sred-project-organizer/references/project-template.md) | ⭐ 271 | `content creation` |
+| [Skill](content-creation/049-name-skill_16debbe3/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/create-pr/SKILL.md) | ⭐ 271 | `content creation` |
+| [Integration](content-creation/387-integration_cb8f46b7/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/INTEGRATION.md) | ⭐ 11 | `content creation` |
+| [Publish Checklist](content-creation/388-publish_checklist_c3550490/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/PUBLISH_CHECKLIST.md) | ⭐ 11 | `content creation` |
+| [Hedra](content-creation/389-hedra_0f11e1f7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-design-tools/hedra.md) | ⭐ 18 | `content creation` |
 
 ### Daily Assistant (224 skills)
 
@@ -1327,7 +1328,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Anthropic Takeaways](daily-assistant/290-anthropic-takeaways_b4a3ccc7/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-takeaways.md) | ⭐ 12 | `daily assistant` |
 | [Delegation](daily-assistant/291-delegation_54f97cec/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/delegation.md) | ⭐ 12 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_fd1e346f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/SKILL.md) | ⭐ 12 | `implementation` `orchestration` `team-dispatch` |
-| [Sred](daily-assistant/sred_85ef2ef4/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/sred-project-organizer/references/SRED.md) | ⭐ 271 | `daily assistant` |
+| [Sred](daily-assistant/292-sred_85ef2ef4/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/sred-project-organizer/references/SRED.md) | ⭐ 271 | `daily assistant` |
 
 ### Data Analysis (420 skills)
 
@@ -1752,9 +1753,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_aca5f999/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-page/SKILL.md) | ⭐ 894 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5d5799f7/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-programmatic/SKILL.md) | ⭐ 894 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_af627225/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/SKILL.md) | ⭐ 736 | `data analysis` |
-| [Output Patterns](data-analysis/output-patterns_a368d97e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/output-patterns.md) | ⭐ 271 | `data analysis` |
+| [Output Patterns](data-analysis/240-output-patterns_a368d97e/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/output-patterns.md) | ⭐ 271 | `data analysis` |
 
-### Development (1154 skills)
+### Development (1160 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2908,12 +2909,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_c5c70d41/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 231 | `development` |
 | [Skill](development/1178-name-skill_ba263783/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 231 | `development` |
 | [Maps](development/2078-maps_5a531e1c/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/maps.md) | ⭐ 736 | `development` |
-| [Skill](development/name-skill_3a1027a8/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 271 | `development` |
-| [Skill](development/name-skill_61b2372a/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/warden-lint-judge/SKILL.md) | ⭐ 271 | `development` |
-| [Claude Code Extensions](development/claude-code-extensions_dbee0397/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/claude-code-extensions.md) | ⭐ 271 | `development` |
-| [Design Principles](development/design-principles_5df3d820/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 271 | `development` |
+| [Skill](development/1178-name-skill_3a1027a8/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/SKILL.md) | ⭐ 271 | `development` |
+| [Skill](development/1178-name-skill_61b2372a/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/warden-lint-judge/SKILL.md) | ⭐ 271 | `development` |
+| [Claude Code Extensions](development/2965-claude-code-extensions_dbee0397/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/claude-code-extensions.md) | ⭐ 271 | `development` |
+| [Design Principles](development/2155-design-principles_5df3d820/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/design-principles.md) | ⭐ 271 | `development` |
+| [Claude Openocd Spi Dump](development/2933-claude-openocd-spi-dump_e800f879/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-openocd-spi-dump.md) | ⭐ 18 | `development` |
+| [Github Cli](development/2934-github-cli_642ef804/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/github-cli.md) | ⭐ 18 | `development` |
+| [Jirajs](development/2935-jirajs_08806143/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/jirajs.md) | ⭐ 18 | `development` |
+| [Skill](development/name-skill_5a341157/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/tactical-ddd/SKILL.md) | ⭐ 238 | `development` |
+| [Tdd Tech Lead](development/tdd-tech-lead_fbd6a78b/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/teams/tech-lead-tdd/tdd-tech-lead.md) | ⭐ 238 | `development` |
+| [Code Reviewer](development/code-reviewer_0fd40662/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/system-prompts/teams/tech-lead-tdd/code-reviewer.md) | ⭐ 238 | `development` |
 
-### Development/Devops (229 skills)
+### Development/Devops (233 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3146,6 +3153,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Custom Providers](development/devops/370-custom-providers_a31fe83a/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/custom-providers.md) | ⭐ 4.2k | `development` |
 | [Frontend Build System](development/devops/089-frontend_build_system_ba36515b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md) | ⭐ 4.0k | `development` |
 | [Smr Sdk Mcp Control Proposal 2026 02 19](development/devops/375-smr-sdk-mcp-control-proposal-2026-02-19_e535a98c/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/contracts/smr-sdk-mcp-control-proposal-2026-02-19.md) | ⭐ 74 | `development` |
+| [Skill](development/devops/370-multi-skill_fd37da1c/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/SKILL.md) | ⭐ 11 | `development` |
+| [Micro Agent](development/devops/371-micro-agent_4f5426d9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-frameworks/micro-agent.md) | ⭐ 18 | `development` |
+| [Perplexity Mcp Server](development/devops/372-perplexity-mcp-server_827acd08/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/perplexity-mcp-server.md) | ⭐ 18 | `development` |
+| [Development Guidelines](development/devops/121-development-guidelines_3a143276/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/development-guidelines.md) | ⭐ 18 | `development` |
 
 ### Development/Testing (61 skills)
 
@@ -3213,7 +3224,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Checklist](development/testing/088-checklist_2cf80242/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/checklist.md) | ⭐ 12 | `development` |
 | [Skill](development/testing/002-name-skill_93b151e1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/SKILL.md) | ⭐ 12 | `service` `business-logic` `dependency-injection` |
 
-### Development/Tools (292 skills)
+### Development/Tools (294 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3505,10 +3516,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_4f88c57e/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-technical/SKILL.md) | ⭐ 894 | `development` |
 | [Api Reference](development/tools/073-api-reference_2aa1ae5a/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 231 | `development` |
 | [Api Surface](development/tools/347-api-surface_8fd9886d/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md) | ⭐ 74 | `development` |
-| [Gepa Integration Analysis](development/tools/gepa_integration_analysis_120bea85/) | [julianghadially/CodeEvolver](https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/specs/analysis/gepa_integration_analysis.md) | ⭐ 12 | `development` |
-| [Skill](development/tools/name-skill_35d79ad9/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/agents-md/SKILL.md) | ⭐ 271 | `development` |
-| [Skill](development/tools/name-skill_8e6b88ed/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/sred-project-organizer/SKILL.md) | ⭐ 271 | `development` |
-| [Skill](development/tools/name-skill_2ccbcb74/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/sred-work-summary/SKILL.md) | ⭐ 271 | `development` |
+| [Gepa Integration Analysis](development/tools/348-gepa_integration_analysis_120bea85/) | [julianghadially/CodeEvolver](https://raw.githubusercontent.com/julianghadially/CodeEvolver/main/specs/analysis/gepa_integration_analysis.md) | ⭐ 12 | `development` |
+| [Skill](development/tools/002-name-skill_35d79ad9/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/agents-md/SKILL.md) | ⭐ 271 | `development` |
+| [Deploy](development/tools/333-deploy_fffcf650/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/DEPLOY.md) | ⭐ 11 | `development` |
+| [Status](development/tools/334-status_8b8b7494/) | [Scottcjn/grazer-skill](https://raw.githubusercontent.com/Scottcjn/grazer-skill/main/STATUS.md) | ⭐ 11 | `development` |
+| [Codex Skills](development/tools/335-codex-skills_dd46e53d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/codex-skills.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/086-description-skill_9425867e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/SKILL.md) | ⭐ 18 | `development` |
 
 ### Investment (99 skills)
 
@@ -3843,5 +3856,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 12:35:02 UTC*
+*Last updated: 2026-02-20 13:36:35 UTC*
 *Automatically maintained by SkillFlow*
