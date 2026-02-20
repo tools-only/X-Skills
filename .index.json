@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T06:36:23.885171",
+  "updated_at": "2026-02-20T06:37:16.810604",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -49154,6 +49154,34 @@
       "repo_updated_at": "2026-02-20T00:54:20+00:00",
       "source_url": "https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/AGENTS.md",
       "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a31fe83a6ca29986ea0c18d895de3bd5f79b4aa7717a938b78c40310109eddfe",
+      "source_path": "docs/custom-providers.md",
+      "source_repo": "gptme/gptme",
+      "local_path": "development/devops/370-custom-providers_a31fe83a",
+      "category": "development/devops",
+      "name": "custom-providers_a31fe83a",
+      "indexed_at": "2026-02-20T06:37:16.392100",
+      "repo_stars": 4194,
+      "repo_updated_at": "2026-02-20T01:10:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/gptme/gptme/master/docs/custom-providers.md",
+      "display_name": "Custom Providers",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ba36515b8f215ac3807bf7560227ba9aa47d4cf66349269a1e906696bef9fe12",
+      "source_path": "docs/FRONTEND_BUILD_SYSTEM.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/devops/089-frontend_build_system_ba36515b",
+      "category": "development/devops",
+      "name": "frontend_build_system_ba36515b",
+      "indexed_at": "2026-02-20T06:37:16.810498",
+      "repo_stars": 4024,
+      "repo_updated_at": "2026-02-20T00:02:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md",
+      "display_name": "Frontend Build System",
       "tags": "[\"development\"]"
     }
   ]

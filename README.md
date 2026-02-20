@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3518 AI-powered skills** organized into 15 categories.
+A curated collection of **3514 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,19 +10,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (132 skills)
 - **Automation/Workflow** (176 skills)
-- **Commercial** (156 skills)
+- **Commercial** (155 skills)
 - **Communication** (91 skills)
-- **Content Creation** (334 skills)
+- **Content Creation** (331 skills)
 - **Daily Assistant** (223 skills)
 - **Data Analysis** (418 skills)
 - **Development** (1150 skills)
-- **Development/Devops** (226 skills)
+- **Development/Devops** (228 skills)
 - **Development/Testing** (61 skills)
 - **Development/Tools** (287 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
-- **Research** (103 skills)
+- **Research** (101 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -499,7 +499,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_46d03aa4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/domain-hunter/SKILL.md) | ⭐ 329 | `automation` |
 | [Skill](automation/workflow/002-name-skill_b6087506/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/SKILL.md) | ⭐ 12 | `review` `planning` `quality-assurance` |
 
-### Commercial (156 skills)
+### Commercial (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -658,7 +658,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architect](commercial/385-architect_07781ce3/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/architect.md) | ⭐ 12 | `commercial` |
 | [Git Workflow](commercial/386-git-workflow_9a5c7726/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/git-workflow.md) | ⭐ 12 | `commercial` |
 | [Skill](commercial/210-name-skill_4e5c2016/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-e2e/SKILL.md) | ⭐ 12 | `e2e` `playwright` `testing` |
-| [Skill](commercial/name-skill_6f221f33/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-images/SKILL.md) | ⭐ 894 | `commercial` |
 
 ### Communication (91 skills)
 
@@ -756,7 +755,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Components](communication/031-components_4f1bb395/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/react-form-builder/components.md) | ⭐ 12 | `communication` |
 | [Zeroclaw](communication/266-zeroclaw_cd47a054/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/zeroclaw.md) | ⭐ 18 | `communication` |
 
-### Content Creation (334 skills)
+### Content Creation (331 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1075,25 +1074,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/387-description-skill_be055adb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/387-description-skill_d0748603/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-installanywhere/SKILL.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/387-description-skill_7ee4b200/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-spring-xml/SKILL.md) | ⭐ 18 | `content creation` |
-| [Seo Content](content-creation/seo-content_f608de24/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-content.md) | ⭐ 894 | `content creation` |
-| [Seo Sitemap](content-creation/seo-sitemap_14ae9c79/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-sitemap.md) | ⭐ 894 | `content creation` |
-| [Architecture](content-creation/architecture_cb48f3f2/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/ARCHITECTURE.md) | ⭐ 894 | `content creation` |
-| [Google Seo Reference](content-creation/google-seo-reference_a1e1b257/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/pdf/google-seo-reference.md) | ⭐ 894 | `content creation` |
-| [Eeat Framework](content-creation/eeat-framework_e5a71095/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/eeat-framework.md) | ⭐ 894 | `content creation` |
-| [Quality Gates](content-creation/quality-gates_5dec0bf5/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/quality-gates.md) | ⭐ 894 | `content creation` |
-| [Schema Types](content-creation/schema-types_c9dec4ca/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/schema-types.md) | ⭐ 894 | `content creation` |
-| [Skill](content-creation/name-skill_f6160440/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-content/SKILL.md) | ⭐ 894 | `content creation` |
-| [Skill](content-creation/name-skill_7658e181/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-geo/SKILL.md) | ⭐ 894 | `content creation` |
-| [Skill](content-creation/name-skill_efe6fd4c/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/SKILL.md) | ⭐ 894 | `content creation` |
-| [Skill](content-creation/name-skill_38c5f9be/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-schema/SKILL.md) | ⭐ 894 | `content creation` |
-| [Skill](content-creation/name-skill_d5c9155d/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-sitemap/SKILL.md) | ⭐ 894 | `content creation` |
-| [Agency](content-creation/agency_63f159b6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/agency.md) | ⭐ 894 | `content creation` |
-| [Ecommerce](content-creation/ecommerce_dac322b2/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/ecommerce.md) | ⭐ 894 | `content creation` |
-| [Generic](content-creation/generic_5e3a8669/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/generic.md) | ⭐ 894 | `content creation` |
-| [Publisher](content-creation/publisher_52d3ebbe/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/publisher.md) | ⭐ 894 | `content creation` |
-| [Seo Schema](content-creation/seo-schema_0cdfeb68/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-schema.md) | ⭐ 894 | `content creation` |
-| [Seo Visual](content-creation/seo-visual_0d4b38f8/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-visual.md) | ⭐ 894 | `content creation` |
-| [Troubleshooting](content-creation/troubleshooting_4a5158bf/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/TROUBLESHOOTING.md) | ⭐ 894 | `content creation` |
+| [Seo Content](content-creation/395-seo-content_f608de24/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-content.md) | ⭐ 894 | `content creation` |
+| [Seo Sitemap](content-creation/396-seo-sitemap_14ae9c79/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-sitemap.md) | ⭐ 894 | `content creation` |
+| [Architecture](content-creation/180-architecture_cb48f3f2/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/ARCHITECTURE.md) | ⭐ 894 | `content creation` |
+| [Google Seo Reference](content-creation/397-google-seo-reference_a1e1b257/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/pdf/google-seo-reference.md) | ⭐ 894 | `content creation` |
+| [Eeat Framework](content-creation/398-eeat-framework_e5a71095/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/eeat-framework.md) | ⭐ 894 | `content creation` |
+| [Quality Gates](content-creation/399-quality-gates_5dec0bf5/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/quality-gates.md) | ⭐ 894 | `content creation` |
+| [Schema Types](content-creation/400-schema-types_c9dec4ca/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/schema-types.md) | ⭐ 894 | `content creation` |
+| [Skill](content-creation/049-name-skill_f6160440/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-content/SKILL.md) | ⭐ 894 | `content creation` |
+| [Skill](content-creation/049-name-skill_7658e181/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-geo/SKILL.md) | ⭐ 894 | `content creation` |
+| [Skill](content-creation/049-name-skill_efe6fd4c/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/SKILL.md) | ⭐ 894 | `content creation` |
+| [Skill](content-creation/049-name-skill_38c5f9be/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-schema/SKILL.md) | ⭐ 894 | `content creation` |
+| [Skill](content-creation/049-name-skill_d5c9155d/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-sitemap/SKILL.md) | ⭐ 894 | `content creation` |
+| [Agency](content-creation/401-agency_63f159b6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/agency.md) | ⭐ 894 | `content creation` |
+| [Ecommerce](content-creation/402-ecommerce_dac322b2/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/ecommerce.md) | ⭐ 894 | `content creation` |
+| [Generic](content-creation/403-generic_5e3a8669/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/generic.md) | ⭐ 894 | `content creation` |
+| [Publisher](content-creation/404-publisher_52d3ebbe/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/publisher.md) | ⭐ 894 | `content creation` |
 
 ### Daily Assistant (223 skills)
 
@@ -1740,11 +1736,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_3abe6d87/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/drawio-mcp/SKILL.md) | ⭐ 12 | `diagrams` `drawio` `architecture` |
 | [Reference](data-analysis/286-reference_5c30fc8b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/reference.md) | ⭐ 12 | `data analysis` |
 | [Claude](data-analysis/036-claude_3c51b216/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
-| [Commands](data-analysis/commands_ecbbb252/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/COMMANDS.md) | ⭐ 894 | `data analysis` |
-| [Mcp Integration](data-analysis/mcp-integration_5a50784e/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/MCP-INTEGRATION.md) | ⭐ 894 | `data analysis` |
-| [Skill](data-analysis/name-skill_620e5ce3/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-competitor-pages/SKILL.md) | ⭐ 894 | `data analysis` |
-| [Skill](data-analysis/name-skill_aca5f999/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-page/SKILL.md) | ⭐ 894 | `data analysis` |
-| [Skill](data-analysis/name-skill_5d5799f7/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-programmatic/SKILL.md) | ⭐ 894 | `data analysis` |
+| [Commands](data-analysis/041-commands_ecbbb252/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/COMMANDS.md) | ⭐ 894 | `data analysis` |
+| [Mcp Integration](data-analysis/496-mcp-integration_5a50784e/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/MCP-INTEGRATION.md) | ⭐ 894 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_620e5ce3/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-competitor-pages/SKILL.md) | ⭐ 894 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_aca5f999/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-page/SKILL.md) | ⭐ 894 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5d5799f7/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-programmatic/SKILL.md) | ⭐ 894 | `data analysis` |
 
 ### Development (1150 skills)
 
@@ -2896,12 +2892,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Research Curator](development/2955-research-curator_a9b131e4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/research-curator.md) | ⭐ 18 | `development` |
 | [2026 02 19 Ruamel Yaml Migration Design](development/2956-2026-02-19-ruamel-yaml-migration-design_93224bce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-design.md) | ⭐ 18 | `development` |
 | [Hook Creator](development/2957-hook-creator_28c7c844/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_033dd5f6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-hreflang/SKILL.md) | ⭐ 894 | `development` |
-| [Skill](development/name-skill_c5c70d41/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 231 | `development` |
-| [Skill](development/name-skill_ba263783/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 231 | `development` |
-| [Installation](development/installation_f2dd870d/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/docs/INSTALLATION.md) | ⭐ 894 | `development` |
+| [Skill](development/1178-name-skill_033dd5f6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-hreflang/SKILL.md) | ⭐ 894 | `development` |
+| [Skill](development/1178-name-skill_c5c70d41/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 231 | `development` |
+| [Skill](development/1178-name-skill_ba263783/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 231 | `development` |
+| [Agent](development/agent_c312b92b/) | [zhayujie/chatgpt-on-wechat](https://raw.githubusercontent.com/zhayujie/chatgpt-on-wechat/master/docs/agent.md) | 🔥 41.3k | `development` |
 
-### Development/Devops (226 skills)
+### Development/Devops (228 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3092,7 +3088,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_1c4916ab/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/linode-cli/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/devops/014-name-skill_65d77acd/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/ollama/SKILL.md) | ⭐ 17 | `development` |
 | [Skill](development/devops/014-name-skill_8e7b1303/) | [rawveg/skillsforge-marketplace](https://raw.githubusercontent.com/rawveg/skillsforge-marketplace/main/vercel/SKILL.md) | ⭐ 17 | `development` |
-| [Agents](development/devops/agents_240781ab/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/AGENTS.md) | ⭐ 231 | `development` |
+| [Agents](development/devops/053-agents_3703656e/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/AGENTS.md) | ⭐ 228 | `development` |
 | [Skill](development/devops/014-name-skill_2ce3c36d/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/managing-astro-deployments/skill.md) | ⭐ 228 | `development` |
 | [Skill](development/devops/014-name-skill_bd878905/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md) | 🔥 7.6k | `development` |
 | [Skill](development/devops/014-name-skill_b06c7420/) | [anthropics/claude-plugins-official](https://raw.githubusercontent.com/anthropics/claude-plugins-official/main/plugins/claude-md-management/skills/claude-md-improver/SKILL.md) | 🔥 7.6k | `development` |
@@ -3131,6 +3127,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude Quickstarts](development/devops/374-claude-quickstarts_3410faea/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-quickstarts.md) | ⭐ 18 | `development` |
 | [Skill](development/devops/085-description-skill_d4b76543/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-tomcat-web/SKILL.md) | ⭐ 18 | `development` |
 | [Agents](development/devops/053-agents_240781ab/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/astro-airflow-mcp/AGENTS.md) | ⭐ 231 | `development` |
+| [Custom Providers](development/devops/custom-providers_a31fe83a/) | [gptme/gptme](https://raw.githubusercontent.com/gptme/gptme/master/docs/custom-providers.md) | ⭐ 4.2k | `development` |
+| [Frontend Build System](development/devops/frontend_build_system_ba36515b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/FRONTEND_BUILD_SYSTEM.md) | ⭐ 4.0k | `development` |
 
 ### Development/Testing (61 skills)
 
@@ -3485,10 +3483,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_101cae69/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/sequential-thinking-mcp/SKILL.md) | ⭐ 12 | `reasoning` `analysis` `debugging` |
 | [Softaworks Agent Toolkit](development/tools/085-softaworks-agent-toolkit_19c426ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/softaworks-agent-toolkit.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_06d25b3d/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 86 | `development` |
-| [Todo](development/tools/todo_9674497f/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/TODO.md) | ⭐ 894 | `development` |
-| [Cwv Thresholds](development/tools/cwv-thresholds_a8908977/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/cwv-thresholds.md) | ⭐ 894 | `development` |
-| [Skill](development/tools/name-skill_4f88c57e/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-technical/SKILL.md) | ⭐ 894 | `development` |
-| [Api Reference](development/tools/api-reference_2aa1ae5a/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 231 | `development` |
+| [Todo](development/tools/345-todo_9674497f/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/TODO.md) | ⭐ 894 | `development` |
+| [Cwv Thresholds](development/tools/346-cwv-thresholds_a8908977/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/references/cwv-thresholds.md) | ⭐ 894 | `development` |
+| [Skill](development/tools/002-name-skill_4f88c57e/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-technical/SKILL.md) | ⭐ 894 | `development` |
+| [Api Reference](development/tools/073-api-reference_2aa1ae5a/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/api-reference.md) | ⭐ 231 | `development` |
 
 ### Investment (99 skills)
 
@@ -3663,10 +3661,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Content Blocks](productivity/175-skill-content-blocks_148774c6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `productivity` |
 | [Sections](productivity/176-_sections_980d2881/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/rules/_sections.md) | ⭐ 11 | `productivity` |
 | [Reference](productivity/173-reference_1334efc3/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/REFERENCE.md) | ⭐ 102 | `productivity` |
-| [Seo Performance](productivity/seo-performance_f8446ecd/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-performance.md) | ⭐ 894 | `productivity` |
-| [Local Service](productivity/local-service_e6ab4578/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/local-service.md) | ⭐ 894 | `productivity` |
+| [Seo Performance](productivity/177-seo-performance_f8446ecd/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-performance.md) | ⭐ 894 | `productivity` |
+| [Local Service](productivity/178-local-service_e6ab4578/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/local-service.md) | ⭐ 894 | `productivity` |
 
-### Research (103 skills)
+### Research (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3769,10 +3767,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sections](research/258-_sections_5ac3d37c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/rules/_sections.md) | ⭐ 11 | `research` |
 | [Skill](research/139-name-skill_9a24534b/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/seo-geo/SKILL.md) | ⭐ 329 | `research` |
 | [Skill](research/139-name-skill_1cdc9a02/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/tavily-mcp/SKILL.md) | ⭐ 12 | `search` `web` `research` |
-| [Skill](research/name-skill_464edfa0/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/SKILL.md) | ⭐ 894 | `research` |
-| [Saas](research/saas_f8f25394/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/saas.md) | ⭐ 894 | `research` |
-| [Seo Technical](research/seo-technical_36003c48/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-technical.md) | ⭐ 894 | `research` |
-| [Skill](research/name-skill_89719321/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-audit/SKILL.md) | ⭐ 894 | `research` |
+| [Skill](research/139-name-skill_464edfa0/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/SKILL.md) | ⭐ 894 | `research` |
+| [Saas](research/264-saas_f8f25394/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/saas.md) | ⭐ 894 | `research` |
 
 ## How Skills Are Organized
 
@@ -3824,5 +3820,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 06:36:24 UTC*
+*Last updated: 2026-02-20 06:37:17 UTC*
 *Automatically maintained by SkillFlow*
