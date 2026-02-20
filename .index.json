@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T11:35:58.683332",
+  "updated_at": "2026-02-20T11:37:02.372066",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -49253,6 +49253,34 @@
       "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/sequencing.md",
       "display_name": "Sequencing",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "34ef64356c238da0b2b90f9cb56a082396b5f78081a18c2d6afb97fdf7dc7e9f",
+      "source_path": "CLAUDE.md",
+      "source_repo": "pocketpaw/pocketpaw",
+      "local_path": "communication/024-claude_34ef6435",
+      "category": "communication",
+      "name": "claude_34ef6435",
+      "indexed_at": "2026-02-20T11:37:01.938140",
+      "repo_stars": 407,
+      "repo_updated_at": "2026-02-19T15:31:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "c44cad3d06ecab4a0f9e40d380838324a0e48b2fb74480891a9cc5099109c781",
+      "source_path": "docs/CLAUDE.md",
+      "source_repo": "pocketpaw/pocketpaw",
+      "local_path": "communication/024-claude_c44cad3d",
+      "category": "communication",
+      "name": "claude_c44cad3d",
+      "indexed_at": "2026-02-20T11:37:02.372023",
+      "repo_stars": 407,
+      "repo_updated_at": "2026-02-19T15:31:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"communication\"]"
     }
   ]
 }

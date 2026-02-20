@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3531 AI-powered skills** organized into 15 categories.
+A curated collection of **3520 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,18 +11,18 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (132 skills)
 - **Automation/Workflow** (176 skills)
 - **Commercial** (155 skills)
-- **Communication** (91 skills)
-- **Content Creation** (339 skills)
+- **Communication** (93 skills)
+- **Content Creation** (331 skills)
 - **Daily Assistant** (223 skills)
-- **Data Analysis** (421 skills)
-- **Development** (1151 skills)
+- **Data Analysis** (419 skills)
+- **Development** (1150 skills)
 - **Development/Devops** (229 skills)
 - **Development/Testing** (61 skills)
 - **Development/Tools** (288 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
-- **Research** (104 skills)
+- **Research** (102 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -659,13 +659,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Git Workflow](commercial/386-git-workflow_9a5c7726/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/git-workflow.md) | ⭐ 12 | `commercial` |
 | [Skill](commercial/210-name-skill_4e5c2016/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-e2e/SKILL.md) | ⭐ 12 | `e2e` `playwright` `testing` |
 
-### Communication (91 skills)
+### Communication (93 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Troubleshoot](communication/221-troubleshoot_7a8329e7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot.md) | 🔥 35.9k | `communication` |
 | [Web Search](communication/206-web_search_6a939ba7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/web_search.md) | 🔥 35.9k | `communication` |
-| [Claude](communication/024-claude_8fbab90f/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 31 | `communication` |
+| [Claude](communication/claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Control Set 01 Authentication](communication/037-control-set-01-authentication_315e4b3c/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/control-set-01-authentication.md) | ⭐ 151 | `communication` |
 | [Reference Set 02 Idor Prevention](communication/096-reference-set-02-idor-prevention_344c8152/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-02-idor-prevention.md) | ⭐ 151 | `communication` |
 | [Rfc9728 Compliance](communication/256-rfc9728-compliance_816fa077/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
@@ -683,7 +683,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](communication/258-instructions_7b33b000/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/4_DDC_Curated/Document-Generation/email-construction/instructions.md) | ⭐ 33 | `communication` |
 | [01 About Us](communication/258-01-about-us_45873401/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 1.1k | `communication` |
 | [Create Tools](communication/256-create_tools_579a85b0/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/docs/create_tools.md) | ⭐ 28 | `communication` |
-| [Claude](communication/024-claude_29373bcc/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 120 | `communication` |
+| [Claude](communication/claude_34ef6435/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Claude](communication/024-claude_8386e6f0/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 120 | `communication` |
 | [Type System](communication/118-type-system_0495349d/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/architecture/type-system.md) | ⭐ 16 | `communication` |
 | [Configuration](communication/035-configuration_f3ad7e39/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/CONFIGURATION.md) | ⭐ 153 | `communication` |
@@ -754,8 +754,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Anthropic Skills Guide](communication/265-anthropic-skills-guide_9ed2d133/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-skills-guide.md) | ⭐ 12 | `project-management` `automation` |
 | [Components](communication/031-components_4f1bb395/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/react-form-builder/components.md) | ⭐ 12 | `communication` |
 | [Zeroclaw](communication/266-zeroclaw_cd47a054/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/zeroclaw.md) | ⭐ 18 | `communication` |
+| [Claude](communication/024-claude_34ef6435/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 407 | `communication` |
+| [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 
-### Content Creation (339 skills)
+### Content Creation (331 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1090,14 +1092,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecommerce](content-creation/402-ecommerce_dac322b2/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/ecommerce.md) | ⭐ 894 | `content creation` |
 | [Generic](content-creation/403-generic_5e3a8669/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/generic.md) | ⭐ 894 | `content creation` |
 | [Publisher](content-creation/404-publisher_52d3ebbe/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/publisher.md) | ⭐ 894 | `content creation` |
-| [3d](content-creation/3d_42cef6d6/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/3d.md) | ⭐ 736 | `content creation` |
-| [Animations](content-creation/animations_4fbc3c90/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/animations.md) | ⭐ 736 | `content creation` |
-| [Assets](content-creation/assets_68b70928/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/assets.md) | ⭐ 736 | `content creation` |
-| [Extract Frames](content-creation/extract-frames_771eb211/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/extract-frames.md) | ⭐ 736 | `content creation` |
-| [Get Video Dimensions](content-creation/get-video-dimensions_ed1bb6e0/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/get-video-dimensions.md) | ⭐ 736 | `content creation` |
-| [Measuring Dom Nodes](content-creation/measuring-dom-nodes_4017103b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/measuring-dom-nodes.md) | ⭐ 736 | `content creation` |
-| [Timing](content-creation/timing_3bc19fff/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/timing.md) | ⭐ 736 | `content creation` |
-| [Trimming](content-creation/trimming_ae00948f/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/trimming.md) | ⭐ 736 | `content creation` |
 
 ### Daily Assistant (223 skills)
 
@@ -1327,7 +1321,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Delegation](daily-assistant/291-delegation_54f97cec/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/delegation.md) | ⭐ 12 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_fd1e346f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/SKILL.md) | ⭐ 12 | `implementation` `orchestration` `team-dispatch` |
 
-### Data Analysis (421 skills)
+### Data Analysis (419 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1749,11 +1743,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_620e5ce3/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-competitor-pages/SKILL.md) | ⭐ 894 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_aca5f999/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-page/SKILL.md) | ⭐ 894 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_5d5799f7/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-programmatic/SKILL.md) | ⭐ 894 | `data analysis` |
-| [Skill](data-analysis/name-skill_af627225/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/SKILL.md) | ⭐ 736 | `data analysis` |
-| [Images](data-analysis/images_833e0a03/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/images.md) | ⭐ 736 | `data analysis` |
-| [Parameters](data-analysis/parameters_890448c5/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/parameters.md) | ⭐ 736 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_af627225/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/SKILL.md) | ⭐ 736 | `data analysis` |
 
-### Development (1151 skills)
+### Development (1150 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2906,8 +2898,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_033dd5f6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-hreflang/SKILL.md) | ⭐ 894 | `development` |
 | [Skill](development/1178-name-skill_c5c70d41/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 231 | `development` |
 | [Skill](development/1178-name-skill_ba263783/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 231 | `development` |
-| [Maps](development/maps_5a531e1c/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/maps.md) | ⭐ 736 | `development` |
-| [Compositions](development/compositions_3223ce93/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/compositions.md) | ⭐ 736 | `development` |
+| [Maps](development/2078-maps_5a531e1c/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/maps.md) | ⭐ 736 | `development` |
 
 ### Development/Devops (229 skills)
 
@@ -3678,7 +3669,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Seo Performance](productivity/177-seo-performance_f8446ecd/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-performance.md) | ⭐ 894 | `productivity` |
 | [Local Service](productivity/178-local-service_e6ab4578/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/local-service.md) | ⭐ 894 | `productivity` |
 
-### Research (104 skills)
+### Research (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3783,9 +3774,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_1cdc9a02/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/tavily-mcp/SKILL.md) | ⭐ 12 | `search` `web` `research` |
 | [Skill](research/139-name-skill_464edfa0/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/seo/SKILL.md) | ⭐ 894 | `research` |
 | [Saas](research/264-saas_f8f25394/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/saas.md) | ⭐ 894 | `research` |
-| [Sequencing](research/sequencing_7c18f2ac/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/sequencing.md) | ⭐ 736 | `research` |
-| [Lottie](research/lottie_6dd0a845/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/lottie.md) | ⭐ 736 | `research` |
-| [Tailwind](research/tailwind_6212ce72/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/tailwind.md) | ⭐ 736 | `research` |
+| [Sequencing](research/257-sequencing_7c18f2ac/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/sequencing.md) | ⭐ 736 | `research` |
 
 ## How Skills Are Organized
 
@@ -3837,5 +3826,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 11:35:59 UTC*
+*Last updated: 2026-02-20 11:37:02 UTC*
 *Automatically maintained by SkillFlow*
