@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T10:37:26.985729",
+  "updated_at": "2026-02-20T11:35:58.683332",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -49211,6 +49211,48 @@
       "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md",
       "display_name": "Api Surface",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "af627225edda7420907d4f66bc07d9a111ee5e276bd3e45705bf118fb8e7cdbb",
+      "source_path": "seed_skills/remotion-best-practices/SKILL.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "data-analysis/226-name-skill_af627225",
+      "category": "data-analysis",
+      "name": "name-skill_af627225",
+      "indexed_at": "2026-02-20T11:35:56.889932",
+      "repo_stars": 736,
+      "repo_updated_at": "2026-02-20T03:29:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "5a531e1c925c58c4aa019c33bf2b6c0412560af3359295ab080f33e063e01d61",
+      "source_path": "seed_skills/remotion-best-practices/rules/maps.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/2078-maps_5a531e1c",
+      "category": "development",
+      "name": "maps_5a531e1c",
+      "indexed_at": "2026-02-20T11:35:57.706429",
+      "repo_stars": 736,
+      "repo_updated_at": "2026-02-20T03:29:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/maps.md",
+      "display_name": "Maps",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7c18f2ac36974fd7b85c01efa1135ea06a14e8492dd9fe82ced3bec0b4bb605d",
+      "source_path": "seed_skills/remotion-best-practices/rules/sequencing.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "research/257-sequencing_7c18f2ac",
+      "category": "research",
+      "name": "sequencing_7c18f2ac",
+      "indexed_at": "2026-02-20T11:35:58.683266",
+      "repo_stars": 736,
+      "repo_updated_at": "2026-02-20T03:29:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/sequencing.md",
+      "display_name": "Sequencing",
+      "tags": "[\"research\"]"
     }
   ]
 }
