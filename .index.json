@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T16:37:03.858008",
+  "updated_at": "2026-02-20T17:52:52.044080",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -50331,6 +50331,118 @@
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/references/pre-existing-issues-protocol.md",
       "display_name": "Pre Existing Issues Protocol",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "b1b50ae5e170482ff22b0b53531490336872b35bc8bc262562286fbb6fcd5177",
+      "source_path": "docs/troubleshooting.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/1097-troubleshooting_b1b50ae5",
+      "category": "development",
+      "name": "troubleshooting_b1b50ae5",
+      "indexed_at": "2026-02-20T17:52:43.017053",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-17T12:22:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/troubleshooting.md",
+      "display_name": "Troubleshooting",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f0b7a17d549fdfb9c8b2d95640384664c8ee5fb59e330dccb01671f43b19f54e",
+      "source_path": "sf-ai-agentscript/SKILL.md",
+      "source_repo": "Jaganpro/sf-skills",
+      "local_path": "development/tools/002-name-skill_f0b7a17d",
+      "category": "development/tools",
+      "name": "name-skill_f0b7a17d",
+      "indexed_at": "2026-02-20T17:52:44.468027",
+      "repo_stars": 80,
+      "repo_updated_at": "2026-02-18T14:52:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6cc837b675a9a6222bee8a63766f47e3f2c874739a182a09ef8fd0f3a3b8f567",
+      "source_path": "docs/guides/chat.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/2901-chat_6cc837b6",
+      "category": "development",
+      "name": "chat_6cc837b6",
+      "indexed_at": "2026-02-20T17:52:45.940754",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-18T11:16:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/chat.md",
+      "display_name": "Chat",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1b5d94e753da9f1de5c436c79a0df356098b5b862a5c5aaab6971d0058732063",
+      "source_path": "docs/guides/status.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/2199-status_1b5d94e7",
+      "category": "development",
+      "name": "status_1b5d94e7",
+      "indexed_at": "2026-02-20T17:52:47.001417",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-13T14:50:13+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/status.md",
+      "display_name": "Status",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5b4d9d1cc3ca72f75d8c20b3cae1d101e1dd51b5a0cd3ac124edbae1e29faf62",
+      "source_path": "docs/reference/cli.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/2266-cli_5b4d9d1c",
+      "category": "development",
+      "name": "cli_5b4d9d1c",
+      "indexed_at": "2026-02-20T17:52:48.675426",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-18T14:25:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/reference/cli.md",
+      "display_name": "Cli",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "98b271484e97f372f95c58718bb1d5fefba29719ab3caa8dba53a46ae647a18c",
+      "source_path": "docs/guides/analyze.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/devops/375-analyze_98b27148",
+      "category": "development/devops",
+      "name": "analyze_98b27148",
+      "indexed_at": "2026-02-20T17:52:49.773708",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-17T12:40:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/analyze.md",
+      "display_name": "Analyze",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "78faa50650e1d0ac86c67174a89e43c0841e10b80000af275019248099392ec0",
+      "source_path": "docs/guides/llm-providers.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/devops/376-llm-providers_78faa506",
+      "category": "development/devops",
+      "name": "llm-providers_78faa506",
+      "indexed_at": "2026-02-20T17:52:50.858608",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-17T12:22:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/llm-providers.md",
+      "display_name": "Llm Providers",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "68ab0a7a8366c5aed6ab8c6bcf11f377ab0705ab2971223e58e4770767797dd2",
+      "source_path": "docs/guides/plan.md",
+      "source_repo": "SkeneTechnologies/skene-growth",
+      "local_path": "development/devops/377-plan_68ab0a7a",
+      "category": "development/devops",
+      "name": "plan_68ab0a7a",
+      "indexed_at": "2026-02-20T17:52:52.043993",
+      "repo_stars": 20,
+      "repo_updated_at": "2026-02-18T14:25:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/SkeneTechnologies/skene-growth/main/docs/guides/plan.md",
+      "display_name": "Plan",
+      "tags": "[\"development\"]"
     }
   ]
 }
