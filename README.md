@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3500 AI-powered skills** organized into 15 categories.
+A curated collection of **3478 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (134 skills)
-- **Automation/Workflow** (177 skills)
+- **Automation/Scripting** (132 skills)
+- **Automation/Workflow** (176 skills)
 - **Commercial** (155 skills)
-- **Communication** (93 skills)
+- **Communication** (91 skills)
 - **Content Creation** (315 skills)
 - **Daily Assistant** (223 skills)
-- **Data Analysis** (415 skills)
-- **Development** (1150 skills)
-- **Development/Devops** (226 skills)
-- **Development/Testing** (64 skills)
+- **Data Analysis** (413 skills)
+- **Development** (1146 skills)
+- **Development/Devops** (225 skills)
+- **Development/Testing** (61 skills)
 - **Development/Tools** (283 skills)
-- **Investment** (104 skills)
+- **Investment** (99 skills)
 - **Other** (4 skills)
-- **Productivity** (57 skills)
-- **Research** (100 skills)
+- **Productivity** (56 skills)
+- **Research** (99 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (134 skills)
+### Automation/Scripting (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -315,12 +315,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_a2eb56b2/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/banner-creator/SKILL.md) | ⭐ 329 | `automation` |
 | [Skill](automation/scripting/003-name-skill_8e33e6e4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/logo-creator/SKILL.md) | ⭐ 329 | `automation` |
 | [Skill](automation/scripting/003-name-skill_aee0659d/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/twitter/SKILL.md) | ⭐ 329 | `automation` |
-| [Delegation Guide](automation/scripting/delegation-guide_46e6438c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/delegation-guide.md) | ⭐ 12 | `automation` |
-| [Skill](automation/scripting/description-skill_b6b8cc96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-hibernate-hbm/SKILL.md) | ⭐ 18 | `automation` |
-| [Strategy Report Template](automation/scripting/strategy_report_template_3bcc6b4f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/assets/strategy_report_template.md) | ⭐ 38 | `automation` |
-| [Skill](automation/scripting/description-skill_55c5d46d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-maven-pom/SKILL.md) | ⭐ 18 | `automation` |
+| [Delegation Guide](automation/scripting/100-delegation-guide_46e6438c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/delegation-guide.md) | ⭐ 12 | `automation` |
+| [Skill](automation/scripting/101-description-skill_b6b8cc96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-hibernate-hbm/SKILL.md) | ⭐ 18 | `automation` |
 
-### Automation/Workflow (177 skills)
+### Automation/Workflow (176 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -499,8 +497,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Server](automation/workflow/057-api-server_c497a691/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/api-server.md) | ⭐ 868 | `automation` |
 | [Skill Threat Analysis Prompt](automation/workflow/059-skill_threat_analysis_prompt_37243f9d/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/skill_scanner/data/prompts/skill_threat_analysis_prompt.md) | ⭐ 868 | `automation` |
 | [Skill](automation/workflow/002-name-skill_46d03aa4/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/domain-hunter/SKILL.md) | ⭐ 329 | `automation` |
-| [Skill](automation/workflow/name-skill_b6087506/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/SKILL.md) | ⭐ 12 | `review` `planning` `quality-assurance` |
-| [Plan Review Template](automation/workflow/plan-review-template_ae502d4e/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/PLAN-REVIEW-TEMPLATE.md) | ⭐ 12 | `automation` |
+| [Skill](automation/workflow/002-name-skill_b6087506/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/SKILL.md) | ⭐ 12 | `review` `planning` `quality-assurance` |
 
 ### Commercial (155 skills)
 
@@ -658,11 +655,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflows](commercial/373-workflows_acc28480/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/docs/WORKFLOWS.md) | 🔥 12.7k | `commercial` |
 | [Anti Patterns](commercial/011-anti-patterns_c225bb8e/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/anti-patterns.md) | ⭐ 2.8k | `commercial` |
 | [Skill](commercial/210-name-skill_908d7922/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/nanobanana/SKILL.md) | ⭐ 329 | `commercial` |
-| [Architect](commercial/architect_07781ce3/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/architect.md) | ⭐ 12 | `commercial` |
-| [Git Workflow](commercial/git-workflow_9a5c7726/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/git-workflow.md) | ⭐ 12 | `commercial` |
-| [Skill](commercial/name-skill_4e5c2016/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-e2e/SKILL.md) | ⭐ 12 | `e2e` `playwright` `testing` |
+| [Architect](commercial/385-architect_07781ce3/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/architect.md) | ⭐ 12 | `commercial` |
+| [Git Workflow](commercial/386-git-workflow_9a5c7726/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/git-workflow.md) | ⭐ 12 | `commercial` |
+| [Skill](commercial/210-name-skill_4e5c2016/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-e2e/SKILL.md) | ⭐ 12 | `e2e` `playwright` `testing` |
 
-### Communication (93 skills)
+### Communication (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -753,12 +750,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_d44650dc/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ipados-design/SKILL.md) | ⭐ 11 | `communication` |
 | [Skill Germany](communication/252-skill-germany_165aca19/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-GERMANY.md) | ⭐ 11 | `communication` |
 | [Skill Content Blocks](communication/253-skill-content-blocks_2fd809ac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-security/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `communication` |
-| [Database](communication/database_2f5ea994/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/database.md) | ⭐ 12 | `communication` |
-| [Anthropic Skills Guide](communication/anthropic-skills-guide_9ed2d133/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-skills-guide.md) | ⭐ 12 | `project-management` `automation` |
-| [Components](communication/components_4f1bb395/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/react-form-builder/components.md) | ⭐ 12 | `communication` |
-| [Zeroclaw](communication/zeroclaw_cd47a054/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/zeroclaw.md) | ⭐ 18 | `communication` |
-| [Pages And Layouts](communication/pages-and-layouts_7d3e0fea/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/pages-and-layouts.md) | ⭐ 12 | `communication` |
-| [Route Handlers](communication/route-handlers_0a1e5462/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/route-handlers.md) | ⭐ 12 | `communication` |
+| [Database](communication/264-database_2f5ea994/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/database.md) | ⭐ 12 | `communication` |
+| [Anthropic Skills Guide](communication/265-anthropic-skills-guide_9ed2d133/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-skills-guide.md) | ⭐ 12 | `project-management` `automation` |
+| [Components](communication/031-components_4f1bb395/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/react-form-builder/components.md) | ⭐ 12 | `communication` |
+| [Zeroclaw](communication/266-zeroclaw_cd47a054/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/zeroclaw.md) | ⭐ 18 | `communication` |
 
 ### Content Creation (315 skills)
 
@@ -1066,19 +1061,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_66237947/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/weekly-newsletter/SKILL.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_29541e78/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/youtube-publish/SKILL.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_c9f4277d/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/gen-pdf/gen-pdf/SKILL.md) | ⭐ 20 | `content creation` |
-| [Workflow](content-creation/workflow_50f02b1f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/workflow.md) | ⭐ 12 | `content creation` |
-| [Builder](content-creation/builder_5b3f7c95/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/team/builder.md) | ⭐ 12 | `content creation` |
-| [Validator](content-creation/validator_f295ae5d/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/team/validator.md) | ⭐ 12 | `content creation` |
-| [Skill](content-creation/name-skill_d2acb607/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/SKILL.md) | ⭐ 12 | `review` `security` `compliance` |
-| [Skill](content-creation/name-skill_51b4ccf4/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/dev/SKILL.md) | ⭐ 12 | `implementation` `development` `skill-routing` |
-| [Skill](content-creation/name-skill_49a5f2ca/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/improve-prompt/SKILL.md) | ⭐ 12 | `prompting` `productivity` `workflow` |
-| [Delegation](content-creation/delegation_27a3024a/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/delegation.md) | ⭐ 12 | `content creation` |
-| [Team Operations](content-creation/team-operations_3f83884e/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/references/team-operations.md) | ⭐ 12 | `content creation` |
-| [2026 02 19 Ruamel Yaml Migration Plan](content-creation/2026-02-19-ruamel-yaml-migration-plan_840b543c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-plan.md) | ⭐ 18 | `content creation` |
-| [Agent Creator](content-creation/agent-creator_c08b7cb5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/agent-creator.md) | ⭐ 18 | `content creation` |
-| [Skill](content-creation/description-skill_be055adb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
-| [Skill](content-creation/description-skill_d0748603/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-installanywhere/SKILL.md) | ⭐ 18 | `content creation` |
-| [Skill](content-creation/description-skill_7ee4b200/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-spring-xml/SKILL.md) | ⭐ 18 | `content creation` |
+| [Workflow](content-creation/079-workflow_50f02b1f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/workflow.md) | ⭐ 12 | `content creation` |
+| [Builder](content-creation/389-builder_5b3f7c95/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/team/builder.md) | ⭐ 12 | `content creation` |
+| [Validator](content-creation/390-validator_f295ae5d/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/team/validator.md) | ⭐ 12 | `content creation` |
+| [Skill](content-creation/049-name-skill_d2acb607/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/SKILL.md) | ⭐ 12 | `review` `security` `compliance` |
+| [Skill](content-creation/049-name-skill_51b4ccf4/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/dev/SKILL.md) | ⭐ 12 | `implementation` `development` `skill-routing` |
+| [Skill](content-creation/049-name-skill_49a5f2ca/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/improve-prompt/SKILL.md) | ⭐ 12 | `prompting` `productivity` `workflow` |
+| [Delegation](content-creation/391-delegation_27a3024a/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/delegation.md) | ⭐ 12 | `content creation` |
+| [Team Operations](content-creation/392-team-operations_3f83884e/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/references/team-operations.md) | ⭐ 12 | `content creation` |
+| [2026 02 19 Ruamel Yaml Migration Plan](content-creation/393-2026-02-19-ruamel-yaml-migration-plan_840b543c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-plan.md) | ⭐ 18 | `content creation` |
+| [Agent Creator](content-creation/394-agent-creator_c08b7cb5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/agent-creator.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/387-description-skill_be055adb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/387-description-skill_d0748603/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-installanywhere/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/387-description-skill_7ee4b200/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-spring-xml/SKILL.md) | ⭐ 18 | `content creation` |
 
 ### Daily Assistant (223 skills)
 
@@ -1303,12 +1298,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_084718a2/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/SKILL.md) | ⭐ 2.8k | `daily assistant` |
 | [Progressive Disclosure Guide](daily-assistant/265-progressive-disclosure-guide_5c2ffff7/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/progressive-disclosure-guide.md) | ⭐ 2.8k | `daily assistant` |
 | [Tool Assignment Guide](daily-assistant/266-tool-assignment-guide_79b58567/) | [trailofbits/skills](https://raw.githubusercontent.com/trailofbits/skills/main/plugins/workflow-skill-design/skills/designing-workflow-skills/references/tool-assignment-guide.md) | ⭐ 2.8k | `daily assistant` |
-| [Anthropic Best Practices](daily-assistant/anthropic-best-practices_8ddc3f71/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-best-practices.md) | ⭐ 12 | `daily assistant` |
-| [Anthropic Takeaways](daily-assistant/anthropic-takeaways_b4a3ccc7/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-takeaways.md) | ⭐ 12 | `daily assistant` |
-| [Delegation](daily-assistant/delegation_54f97cec/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/delegation.md) | ⭐ 12 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_fd1e346f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/SKILL.md) | ⭐ 12 | `implementation` `orchestration` `team-dispatch` |
+| [Anthropic Best Practices](daily-assistant/289-anthropic-best-practices_8ddc3f71/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-best-practices.md) | ⭐ 12 | `daily assistant` |
+| [Anthropic Takeaways](daily-assistant/290-anthropic-takeaways_b4a3ccc7/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-takeaways.md) | ⭐ 12 | `daily assistant` |
+| [Delegation](daily-assistant/291-delegation_54f97cec/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/delegation.md) | ⭐ 12 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_fd1e346f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/SKILL.md) | ⭐ 12 | `implementation` `orchestration` `team-dispatch` |
 
-### Data Analysis (415 skills)
+### Data Analysis (413 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1584,7 +1579,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/claude_3c51b216/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
 | [Release Notes V5.3.0](data-analysis/492-release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
 | [Development Readme](data-analysis/493-development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
 | [Grafana Dashboard](data-analysis/494-grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
@@ -1720,15 +1715,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_1ae2d5c7/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/SKILL.md) | ⭐ 11 | `data analysis` |
 | [Sections](data-analysis/482-_sections_061e021e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/ios-design/rules/_sections.md) | ⭐ 11 | `data analysis` |
 | [Feature](data-analysis/483-feature_aa5ab56d/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/FEATURE.md) | ⭐ 868 | `data analysis` |
-| [Forms](data-analysis/forms_73fee516/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/forms.md) | ⭐ 12 | `data analysis` |
-| [Anthropic Hooks Reference](data-analysis/anthropic-hooks-reference_5f3eda56/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-hooks-reference.md) | ⭐ 12 | `data analysis` |
-| [Skill](data-analysis/name-skill_3abe6d87/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/drawio-mcp/SKILL.md) | ⭐ 12 | `diagrams` `drawio` `architecture` |
-| [Reference](data-analysis/reference_5c30fc8b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/reference.md) | ⭐ 12 | `data analysis` |
+| [Forms](data-analysis/494-forms_73fee516/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/forms.md) | ⭐ 12 | `data analysis` |
+| [Anthropic Hooks Reference](data-analysis/495-anthropic-hooks-reference_5f3eda56/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-hooks-reference.md) | ⭐ 12 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3abe6d87/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/drawio-mcp/SKILL.md) | ⭐ 12 | `diagrams` `drawio` `architecture` |
+| [Reference](data-analysis/286-reference_5c30fc8b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/reference.md) | ⭐ 12 | `data analysis` |
 | [Claude](data-analysis/036-claude_3c51b216/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
-| [Skill](data-analysis/name-skill_ad097103/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/SKILL.md) | ⭐ 38 | `data analysis` |
-| [Admin](data-analysis/admin_0cac7740/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/admin.md) | ⭐ 12 | `data analysis` |
 
-### Development (1150 skills)
+### Development (1146 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2563,7 +2556,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_70271b37/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/laravel-expert/SKILL.md) | 🔥 10.4k | `development` |
 | [Architect Plugin Linter](development/2876-architect-plugin-linter_9e5dac4d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-plugin-linter.md) | ⭐ 18 | `development` |
 | [Feature Context Plugin Linter](development/2877-feature-context-plugin-linter_0c4d0710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/feature-context-plugin-linter.md) | ⭐ 18 | `development` |
-| [Research Curator](development/research-curator_a9b131e4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/research-curator.md) | ⭐ 18 | `development` |
+| [Research Curator](development/2878-research-curator_274509a8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/research-curator.md) | ⭐ 18 | `development` |
 | [Task File Format](development/2797-task_file_format_d7eeb784/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/TASK_FILE_FORMAT.md) | ⭐ 18 | `development` |
 | [Refactor Design Holistic Linting](development/2798-refactor-design-holistic-linting_b6196204/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/refactor-design-holistic-linting.md) | ⭐ 18 | `development` |
 | [Tasks Refactor Holistic Linting](development/2799-tasks-refactor-holistic-linting_a0e14708/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/tasks-refactor-holistic-linting.md) | ⭐ 18 | `development` |
@@ -2860,30 +2853,26 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fix](development/2960-fix_8fe7298c/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/fix.md) | ⭐ 10 | `development` |
 | [Heavy](development/2961-heavy_ca734ed6/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/heavy.md) | ⭐ 10 | `development` |
 | [Medium](development/2962-medium_80850da3/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/commands/medium.md) | ⭐ 10 | `development` |
-| [Code Quality Reviewer](development/code-quality-reviewer_f0c8bd3f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/code-quality-reviewer.md) | ⭐ 12 | `development` |
-| [Doc Updater](development/doc-updater_1ae4b995/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/doc-updater.md) | ⭐ 12 | `development` |
-| [Coding Style](development/coding-style_20e335ab/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/coding-style.md) | ⭐ 12 | `development` |
-| [I18N](development/i18n_67f8ab3a/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/i18n.md) | ⭐ 12 | `development` |
-| [Patterns](development/patterns_78664dc9/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/patterns.md) | ⭐ 12 | `development` |
-| [Pre Implementation Analysis](development/pre-implementation-analysis_8ecac7e2/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/pre-implementation-analysis.md) | ⭐ 12 | `development` |
-| [Anthropic Agents Info](development/anthropic-agents-info_e841cd01/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-agents-info.md) | ⭐ 12 | `development` |
-| [Anthropic Claude Code Agents](development/anthropic-claude-code-agents_4816dd54/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-claude-code-agents.md) | ⭐ 12 | `development` |
-| [Anthropic Memory And Prompting](development/anthropic-memory-and-prompting_8f521c6b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-memory-and-prompting.md) | ⭐ 12 | `development` |
-| [Anthropic Teams](development/anthropic-teams_d5fece5a/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-teams.md) | ⭐ 12 | `development` |
-| [Skill](development/name-skill_ebbf4ccc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/audit-plan/SKILL.md) | ⭐ 12 | `planning` `audit` `dependencies` |
-| [Skill](development/name-skill_ed92000b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/builder-workflow/SKILL.md) | ⭐ 12 | `implementation` `building` `phase-execution` |
-| [Skill](development/name-skill_4cdc83e3/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/postgres-expert/SKILL.md) | ⭐ 12 | `postgres` `supabase` `sql` |
-| [Skill](development/name-skill_22bf0edc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/react-form-builder/SKILL.md) | ⭐ 12 | `react` `form` `validation` |
-| [Skill](development/name-skill_ea7806c1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/SKILL.md) | ⭐ 12 | `server-action` `mutation` `validation` |
+| [Code Quality Reviewer](development/2946-code-quality-reviewer_f0c8bd3f/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/code-quality-reviewer.md) | ⭐ 12 | `development` |
+| [Doc Updater](development/2947-doc-updater_1ae4b995/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/doc-updater.md) | ⭐ 12 | `development` |
+| [Coding Style](development/2948-coding-style_20e335ab/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/coding-style.md) | ⭐ 12 | `development` |
+| [I18N](development/2949-i18n_67f8ab3a/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/i18n.md) | ⭐ 12 | `development` |
+| [Patterns](development/672-patterns_78664dc9/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/patterns.md) | ⭐ 12 | `development` |
+| [Pre Implementation Analysis](development/2950-pre-implementation-analysis_8ecac7e2/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/pre-implementation-analysis.md) | ⭐ 12 | `development` |
+| [Anthropic Agents Info](development/2951-anthropic-agents-info_e841cd01/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-agents-info.md) | ⭐ 12 | `development` |
+| [Anthropic Claude Code Agents](development/2952-anthropic-claude-code-agents_4816dd54/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-claude-code-agents.md) | ⭐ 12 | `development` |
+| [Anthropic Memory And Prompting](development/2953-anthropic-memory-and-prompting_8f521c6b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-memory-and-prompting.md) | ⭐ 12 | `development` |
+| [Anthropic Teams](development/2954-anthropic-teams_d5fece5a/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-teams.md) | ⭐ 12 | `development` |
+| [Skill](development/1178-name-skill_ebbf4ccc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/audit-plan/SKILL.md) | ⭐ 12 | `planning` `audit` `dependencies` |
+| [Skill](development/1178-name-skill_ed92000b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/builder-workflow/SKILL.md) | ⭐ 12 | `implementation` `building` `phase-execution` |
+| [Skill](development/1178-name-skill_4cdc83e3/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/postgres-expert/SKILL.md) | ⭐ 12 | `postgres` `supabase` `sql` |
+| [Skill](development/1178-name-skill_22bf0edc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/react-form-builder/SKILL.md) | ⭐ 12 | `react` `form` `validation` |
+| [Skill](development/1178-name-skill_ea7806c1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/SKILL.md) | ⭐ 12 | `server-action` `mutation` `validation` |
 | [Research Curator](development/2955-research-curator_a9b131e4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/research-curator.md) | ⭐ 18 | `development` |
-| [2026 02 19 Ruamel Yaml Migration Design](development/2026-02-19-ruamel-yaml-migration-design_93224bce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-design.md) | ⭐ 18 | `development` |
-| [Hook Creator](development/hook-creator_28c7c844/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
-| [Plugins](development/plugins_8e97b35d/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/plugins.md) | ⭐ 12 | `development` |
-| [Examples](development/examples_77d97607/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/examples.md) | ⭐ 12 | `development` |
-| [Code Review Template](development/code-review-template_0c2166ba/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/references/CODE-REVIEW-TEMPLATE.md) | ⭐ 12 | `development` |
-| [Plan Template](development/plan-template_dd1f368c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/PLAN-TEMPLATE.md) | ⭐ 12 | `architecture` `planning` |
+| [2026 02 19 Ruamel Yaml Migration Design](development/2956-2026-02-19-ruamel-yaml-migration-design_93224bce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-design.md) | ⭐ 18 | `development` |
+| [Hook Creator](development/2957-hook-creator_28c7c844/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
 
-### Development/Devops (226 skills)
+### Development/Devops (225 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3109,12 +3098,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Maturity Levels](development/devops/366-maturity-levels_fb9674af/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/readiness-report/references/maturity-levels.md) | ⭐ 11 | `development` |
 | [Quickstart](development/devops/179-quickstart_3ae401d2/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/quickstart.md) | ⭐ 868 | `development` |
 | [Skill](development/devops/014-name-skill_4bc0f3ff/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/reddit/SKILL.md) | ⭐ 329 | `development` |
-| [Skill](development/devops/name-skill_8422fa38/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/customize/SKILL.md) | ⭐ 12 | `onboarding` `customization` `configuration` |
-| [Claude Quickstarts](development/devops/claude-quickstarts_3410faea/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-quickstarts.md) | ⭐ 18 | `development` |
-| [Skill](development/devops/description-skill_d4b76543/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-tomcat-web/SKILL.md) | ⭐ 18 | `development` |
-| [Examples](development/devops/examples_0bd93ae0/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/customize/examples.md) | ⭐ 12 | `development` |
+| [Skill](development/devops/014-name-skill_8422fa38/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/customize/SKILL.md) | ⭐ 12 | `onboarding` `customization` `configuration` |
+| [Claude Quickstarts](development/devops/374-claude-quickstarts_3410faea/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-quickstarts.md) | ⭐ 18 | `development` |
+| [Skill](development/devops/085-description-skill_d4b76543/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-tomcat-web/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Testing (64 skills)
+### Development/Testing (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3174,14 +3162,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickref](development/testing/088-quickref_71c0e0f6/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/x-fetcher-skill/QUICKREF.md) | ⭐ 162 | `development` |
 | [Skill Content Blocks](development/testing/087-skill-content-blocks_03162bac/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-ddev/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `development` |
 | [Developing](development/testing/038-developing_fc684631/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/developing.md) | ⭐ 868 | `development` |
-| [Tdd Guide](development/testing/tdd-guide_019c0edc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/tdd-guide.md) | ⭐ 12 | `development` |
-| [Checklist](development/testing/checklist_e467a3de/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/checklist.md) | ⭐ 12 | `development` |
-| [Skill](development/testing/name-skill_9471b930/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/SKILL.md) | ⭐ 12 | `planning` `phases` `architecture` |
-| [Checklist](development/testing/checklist_2cf80242/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/checklist.md) | ⭐ 12 | `development` |
-| [Skill](development/testing/name-skill_93b151e1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/SKILL.md) | ⭐ 12 | `service` `business-logic` `dependency-injection` |
-| [Testing](development/testing/testing_054f7976/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/testing.md) | ⭐ 12 | `development` |
-| [Examples](development/testing/examples_507907a5/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/examples.md) | ⭐ 12 | `development` |
-| [Phase Template](development/testing/phase-template_10101240/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/references/PHASE-TEMPLATE.md) | ⭐ 12 | `phase` `implementation` |
+| [Tdd Guide](development/testing/087-tdd-guide_019c0edc/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/tdd-guide.md) | ⭐ 12 | `development` |
+| [Checklist](development/testing/088-checklist_e467a3de/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/code-review/checklist.md) | ⭐ 12 | `development` |
+| [Skill](development/testing/002-name-skill_9471b930/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/create-plan/SKILL.md) | ⭐ 12 | `planning` `phases` `architecture` |
+| [Checklist](development/testing/088-checklist_2cf80242/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/checklist.md) | ⭐ 12 | `development` |
+| [Skill](development/testing/002-name-skill_93b151e1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/service-builder/SKILL.md) | ⭐ 12 | `service` `business-logic` `dependency-injection` |
 
 ### Development/Tools (283 skills)
 
@@ -3360,7 +3345,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bicep Whatif Subagent.Agent](development/tools/327-bicep-whatif-subagentagent_27a3b126/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-whatif-subagent.agent.md) | ⭐ 76 | `development` |
 | [Gemini](development/tools/040-gemini_d210070b/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/model-providers/gemini.md) | ⭐ 167 | `development` |
 | [Skill](development/tools/002-name-skill_238e6396/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 76 | `development` |
-| [Skill](development/tools/002-name-skill_49b9d84d/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 80 | `development` |
+| [Skill](development/tools/name-skill_06d25b3d/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 86 | `development` |
 | [Skill](development/tools/002-name-skill_e4c89019/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 74 | `development` |
 | [Skill](development/tools/002-name-skill_f0645b32/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-debug/SKILL.md) | ⭐ 74 | `development` |
 | [Skill](development/tools/002-name-skill_fe5d0b5c/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-diagram-nanobananapro/SKILL.md) | ⭐ 74 | `development` |
@@ -3461,17 +3446,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architecture](development/tools/051-architecture_1d3b83c7/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/architecture.md) | ⭐ 868 | `development` |
 | [Meta Analyzer](development/tools/201-meta-analyzer_bec582c1/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/meta-analyzer.md) | ⭐ 868 | `development` |
 | [Threat Taxonomy](development/tools/342-threat-taxonomy_e4412146/) | [cisco-ai-defense/skill-scanner](https://raw.githubusercontent.com/cisco-ai-defense/skill-scanner/main/docs/threat-taxonomy.md) | ⭐ 868 | `development` |
-| [Security Reviewer](development/tools/security-reviewer_89512d4b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/security-reviewer.md) | ⭐ 12 | `development` |
-| [Mcp Tools](development/tools/mcp-tools_906f3e39/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/mcp-tools.md) | ⭐ 12 | `development` |
-| [Ui Components](development/tools/ui-components_32ca2838/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/ui-components.md) | ⭐ 12 | `development` |
-| [Anthropic Skills Info](development/tools/anthropic-skills-info_b785b5f9/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-skills-info.md) | ⭐ 12 | `development` |
-| [Skill](development/tools/name-skill_1a3d2682/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/context7-mcp/SKILL.md) | ⭐ 12 | `docs` `documentation` `libraries` |
-| [Skill](development/tools/name-skill_1dd8c109/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-mcp/SKILL.md) | ⭐ 12 | `playwright` `browser` `automation` |
-| [Skill](development/tools/name-skill_101cae69/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/sequential-thinking-mcp/SKILL.md) | ⭐ 12 | `reasoning` `analysis` `debugging` |
-| [Softaworks Agent Toolkit](development/tools/softaworks-agent-toolkit_19c426ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/softaworks-agent-toolkit.md) | ⭐ 18 | `development` |
-| [Claude](development/tools/claude_b370223c/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/CLAUDE.md) | ⭐ 12 | `development` |
+| [Security Reviewer](development/tools/342-security-reviewer_89512d4b/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/security-reviewer.md) | ⭐ 12 | `development` |
+| [Mcp Tools](development/tools/043-mcp-tools_906f3e39/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/mcp-tools.md) | ⭐ 12 | `development` |
+| [Ui Components](development/tools/343-ui-components_32ca2838/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/ui-components.md) | ⭐ 12 | `development` |
+| [Anthropic Skills Info](development/tools/344-anthropic-skills-info_b785b5f9/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/docs/research/anthropic-skills-info.md) | ⭐ 12 | `development` |
+| [Skill](development/tools/002-name-skill_1a3d2682/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/context7-mcp/SKILL.md) | ⭐ 12 | `docs` `documentation` `libraries` |
+| [Skill](development/tools/002-name-skill_1dd8c109/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-mcp/SKILL.md) | ⭐ 12 | `playwright` `browser` `automation` |
+| [Skill](development/tools/002-name-skill_101cae69/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/sequential-thinking-mcp/SKILL.md) | ⭐ 12 | `reasoning` `analysis` `debugging` |
+| [Softaworks Agent Toolkit](development/tools/085-softaworks-agent-toolkit_19c426ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/softaworks-agent-toolkit.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_06d25b3d/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 86 | `development` |
 
-### Investment (104 skills)
+### Investment (99 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3492,7 +3477,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bubble Detector V2.0 Revision](investment/050-bubble-detector-v20-revision_be0b9d05/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/bubble-detector-v2.0-revision.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_424e08dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_0810188f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/name-skill_1bd9fcf1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 38 | `investment` |
+| [Skill](investment/021-name-skill_a42d5f48/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_a66b8073/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_796e8047/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/options-strategy-advisor/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_f79ba78e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pair-trade-screener/SKILL.md) | ⭐ 33 | `investment` |
@@ -3514,7 +3499,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Historical Regimes](investment/062-historical_regimes_2ae21390/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/historical_regimes.md) | ⭐ 33 | `investment` |
 | [Indicator Interpretation Guide](investment/063-indicator_interpretation_guide_bbf0e06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/indicator_interpretation_guide.md) | ⭐ 33 | `investment` |
 | [Regime Detection Methodology](investment/064-regime_detection_methodology_c8fa6cc4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/macro-regime-detector/references/regime_detection_methodology.md) | ⭐ 33 | `investment` |
-| [Breadth Analysis Methodology](investment/breadth_analysis_methodology_992b7af2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 38 | `investment` |
+| [Breadth Analysis Methodology](investment/065-breadth_analysis_methodology_48a3b229/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 33 | `investment` |
 | [Analysis Patterns](investment/066-analysis_patterns_30c85038/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/references/analysis_patterns.md) | ⭐ 33 | `investment` |
 | [Indicators](investment/067-indicators_edf91528/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-environment-analysis/references/indicators.md) | ⭐ 33 | `investment` |
 | [Corporate News Impact](investment/068-corporate_news_impact_e2d0c372/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/references/corporate_news_impact.md) | ⭐ 33 | `investment` |
@@ -3537,7 +3522,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Finviz Industry Codes](investment/085-finviz_industry_codes_174a753e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/finviz_industry_codes.md) | ⭐ 33 | `investment` |
 | [Thematic Etf Catalog](investment/086-thematic_etf_catalog_684d4dd4/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/thematic_etf_catalog.md) | ⭐ 33 | `investment` |
 | [Theme Detection Methodology](investment/087-theme_detection_methodology_c7d058dc/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/theme_detection_methodology.md) | ⭐ 33 | `investment` |
-| [Uptrend Methodology](investment/uptrend_methodology_561e4c02/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 38 | `investment` |
+| [Uptrend Methodology](investment/088-uptrend_methodology_cf2359f3/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 33 | `investment` |
 | [Bubble Framework](investment/089-bubble_framework_50d566aa/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/bubble_framework.md) | ⭐ 33 | `investment` |
 | [Historical Cases](investment/090-historical_cases_037e06eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/historical_cases.md) | ⭐ 33 | `investment` |
 | [Implementation Guide](investment/091-implementation_guide_c1442cbd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/implementation_guide.md) | ⭐ 33 | `investment` |
@@ -3571,14 +3556,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill World](investment/048-skill-world_51308621/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/legal-impressum/SKILL-WORLD.md) | ⭐ 11 | `investment` |
 | [Skill Psychology](investment/049-skill-psychology_84cacb42/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/marketing-skills/SKILL-PSYCHOLOGY.md) | ⭐ 11 | `investment` |
 | [Skill](investment/021-name-skill_1bd9fcf1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 38 | `investment` |
-| [Skill](investment/name-skill_88a8b777/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/SKILL.md) | ⭐ 38 | `investment` |
+| [Skill](investment/021-name-skill_88a8b777/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/SKILL.md) | ⭐ 38 | `investment` |
 | [Breadth Analysis Methodology](investment/053-breadth_analysis_methodology_992b7af2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 38 | `investment` |
 | [Uptrend Methodology](investment/054-uptrend_methodology_561e4c02/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 38 | `investment` |
-| [Skill](investment/name-skill_6801a092/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-top-detector/SKILL.md) | ⭐ 38 | `investment` |
-| [Skill](investment/name-skill_8048d113/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/SKILL.md) | ⭐ 38 | `investment` |
-| [Case Studies](investment/case-studies_d86070bf/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/case-studies.md) | ⭐ 38 | `investment` |
-| [Investment Philosophy](investment/investment-philosophy_fa985fb5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/investment-philosophy.md) | ⭐ 38 | `investment` |
-| [Market Analysis Guide](investment/market-analysis-guide_81d4afed/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/market-analysis-guide.md) | ⭐ 38 | `investment` |
 
 ### Other (4 skills)
 
@@ -3589,7 +3569,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
 
-### Productivity (57 skills)
+### Productivity (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3649,9 +3629,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Content Blocks](productivity/175-skill-content-blocks_148774c6/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-update/SKILL-CONTENT-BLOCKS.md) | ⭐ 11 | `productivity` |
 | [Sections](productivity/176-_sections_980d2881/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/watchos-design/rules/_sections.md) | ⭐ 11 | `productivity` |
 | [Reference](productivity/173-reference_1334efc3/) | [airbytehq/airbyte-agent-connectors](https://raw.githubusercontent.com/airbytehq/airbyte-agent-connectors/main/connectors/freshdesk/REFERENCE.md) | ⭐ 102 | `productivity` |
-| [Conviction Matrix](productivity/conviction_matrix_23f84199/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/conviction_matrix.md) | ⭐ 38 | `productivity` |
 
-### Research (100 skills)
+### Research (99 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3753,8 +3732,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_1eee4779/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/deepfake-detection/SKILL.md) | ⭐ 11 | `research` |
 | [Sections](research/258-_sections_5ac3d37c/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/android-design/rules/_sections.md) | ⭐ 11 | `research` |
 | [Skill](research/139-name-skill_9a24534b/) | [ReScienceLab/opc-skills](https://raw.githubusercontent.com/ReScienceLab/opc-skills/main/skills/seo-geo/SKILL.md) | ⭐ 329 | `research` |
-| [Skill](research/name-skill_1cdc9a02/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/tavily-mcp/SKILL.md) | ⭐ 12 | `search` `web` `research` |
-| [Examples](research/examples_c6f83898/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/postgres-expert/examples.md) | ⭐ 12 | `research` |
+| [Skill](research/139-name-skill_1cdc9a02/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/tavily-mcp/SKILL.md) | ⭐ 12 | `search` `web` `research` |
 
 ## How Skills Are Organized
 
@@ -3806,5 +3784,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 05:35:22 UTC*
+*Last updated: 2026-02-20 05:36:09 UTC*
 *Automatically maintained by SkillFlow*

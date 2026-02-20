@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-20T05:35:21.759229",
+  "updated_at": "2026-02-20T05:36:09.160535",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -48679,6 +48679,20 @@
       "source_url": "https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/review-plan/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"review\", \"planning\", \"quality-assurance\", \"compliance\"]"
+    },
+    {
+      "file_hash": "06d25b3db5a2c829887c839b8295293b597c25af799d8bd371d588ee395cbb5b",
+      "source_path": "SKILL.md",
+      "source_repo": "seojoonkim/prompt-guard",
+      "local_path": "development/tools/002-name-skill_06d25b3d",
+      "category": "development/tools",
+      "name": "name-skill_06d25b3d",
+      "indexed_at": "2026-02-20T05:36:09.160478",
+      "repo_stars": 86,
+      "repo_updated_at": "2026-02-19T06:00:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
