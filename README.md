@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3823 AI-powered skills** organized into 15 categories.
+A curated collection of **3846 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,16 +10,16 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (139 skills)
 - **Automation/Workflow** (197 skills)
-- **Commercial** (160 skills)
-- **Communication** (95 skills)
-- **Content Creation** (358 skills)
-- **Daily Assistant** (262 skills)
-- **Data Analysis** (448 skills)
-- **Development** (1264 skills)
+- **Commercial** (159 skills)
+- **Communication** (96 skills)
+- **Content Creation** (357 skills)
+- **Daily Assistant** (259 skills)
+- **Data Analysis** (446 skills)
+- **Development** (1292 skills)
 - **Development/Devops** (252 skills)
 - **Development/Testing** (65 skills)
 - **Development/Tools** (309 skills)
-- **Investment** (106 skills)
+- **Investment** (107 skills)
 - **Other** (4 skills)
 - **Productivity** (59 skills)
 - **Research** (105 skills)
@@ -322,8 +322,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orc](automation/scripting/092-orc_7bd72adf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 629 | `automation` |
 | [Side Effect](automation/scripting/097-side-effect_797728e6/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/side-effect.md) | ⭐ 629 | `automation` |
 | [Param Forge Reference](automation/scripting/100-param_forge_reference_bb2e5ad1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
-| [Cost Tracking](automation/scripting/cost-tracking_0785bf33/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/cost-tracking.md) | ⭐ 308 | `automation` |
-| [Eviction](automation/scripting/eviction_e4d20559/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/eviction.md) | ⭐ 308 | `automation` |
+| [Cost Tracking](automation/scripting/098-cost-tracking_0785bf33/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/cost-tracking.md) | ⭐ 308 | `automation` |
+| [Eviction](automation/scripting/099-eviction_e4d20559/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/eviction.md) | ⭐ 308 | `automation` |
 
 ### Automation/Workflow (197 skills)
 
@@ -525,9 +525,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Github Actions.Instructions](automation/workflow/131-github-actionsinstructions_160e3240/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/github-actions.instructions.md) | ⭐ 85 | `automation` |
 | [Asset Decision Tree](automation/workflow/143-asset-decision-tree_157ef710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/asset-decision-tree.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/002-name-skill_418867d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dual-axis-skill-reviewer/SKILL.md) | ⭐ 38 | `automation` |
-| [Skill](automation/workflow/name-skill_a186b9ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/diagram-design/SKILL.md) | ⭐ 308 | `automation` |
+| [Skill](automation/workflow/002-name-skill_a186b9ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/diagram-design/SKILL.md) | ⭐ 308 | `automation` |
 
-### Commercial (160 skills)
+### Commercial (159 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -690,9 +690,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Soul Leech](commercial/402-soul_leech_84797cf1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/soul_leech.md) | ⭐ 51 | `commercial` |
 | [03 Des Cost Estimate](commercial/374-03-des-cost-estimate_3a2a73e6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/aks-platform/03-des-cost-estimate.md) | ⭐ 85 | `commercial` |
 | [07 Compliance Matrix](commercial/312-07-compliance-matrix_0204123c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-compliance-matrix.md) | ⭐ 85 | `commercial` |
-| [Multi User](commercial/multi-user_1065e222/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/multi-user.md) | ⭐ 308 | `commercial` |
 
-### Communication (95 skills)
+### Communication (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -790,9 +789,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_34ef6435/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
-| [Processors](communication/processors_f97ff44b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 308 | `communication` |
+| [Processors](communication/256-processors_f97ff44b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 308 | `communication` |
+| [Latency Overhead](communication/latency_overhead_793ab770/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 36.1k | `communication` |
 
-### Content Creation (358 skills)
+### Content Creation (357 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -955,7 +955,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Types](content-creation/377-api_types_b0303d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_types.md) | 🔥 20.3k | `content creation` |
 | [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
 | [Index](content-creation/019-index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
-| [Config Settings](content-creation/379-config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](content-creation/config_settings_94e10ab1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
 | [Agents](content-creation/185-agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 | [Graph](content-creation/078-graph_5f016311/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 167 | `content creation` |
@@ -1150,12 +1150,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_9fc0bf89/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/agent-memory-mcp/SKILL.md) | 🔥 12.7k | `content creation` |
 | [Skill](content-creation/049-name-skill_ae0aa858/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ai-engineer/SKILL.md) | 🔥 12.7k | `content creation` |
 | [Skill](content-creation/387-description-skill_6e15c3d9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
-| [Context Files](content-creation/context-files_da06b773/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/context-files.md) | ⭐ 308 | `content creation` |
-| [Toolsets](content-creation/toolsets_adad4e05/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 308 | `content creation` |
-| [Deep](content-creation/deep_43caf146/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/workspace/DEEP.md) | ⭐ 308 | `content creation` |
-| [Hooks](content-creation/hooks_50d4c0e5/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/hooks.md) | ⭐ 308 | `content creation` |
+| [Context Files](content-creation/390-context-files_da06b773/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/context-files.md) | ⭐ 308 | `content creation` |
+| [Toolsets](content-creation/360-toolsets_adad4e05/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 308 | `content creation` |
+| [Config Settings](content-creation/352-config_settings_94e10ab1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
 
-### Daily Assistant (262 skills)
+### Daily Assistant (259 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1416,13 +1415,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Azure Artifacts.Instructions](daily-assistant/274-azure-artifactsinstructions_8c2ade19/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/azure-artifacts.instructions.md) | ⭐ 85 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_b274177e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 85 | `daily assistant` |
 | [Market News Analyzer](daily-assistant/293-market-news-analyzer_adf32822/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 38 | `daily assistant` |
-| [Agent](daily-assistant/agent_b8df94d3/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/agent.md) | ⭐ 308 | `daily assistant` |
-| [Toolsets](daily-assistant/toolsets_3d5f0cbb/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/toolsets.md) | ⭐ 308 | `daily assistant` |
-| [Memory](daily-assistant/memory_f18c6b48/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/workspace/MEMORY.md) | ⭐ 308 | `daily assistant` |
-| [Plan Mode](daily-assistant/plan-mode_a4828d10/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/plan-mode.md) | ⭐ 308 | `daily assistant` |
-| [Teams](daily-assistant/teams_b89fe916/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/teams.md) | ⭐ 308 | `daily assistant` |
+| [Agent](daily-assistant/270-agent_b8df94d3/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/agent.md) | ⭐ 308 | `daily assistant` |
+| [Toolsets](daily-assistant/271-toolsets_3d5f0cbb/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/toolsets.md) | ⭐ 308 | `daily assistant` |
 
-### Data Analysis (448 skills)
+### Data Analysis (446 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1872,10 +1868,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_636bb1b3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/SKILL.md) | ⭐ 85 | `data analysis` |
 | [Claude](data-analysis/036-claude_74816494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Master Workflow](data-analysis/497-master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
-| [Testing](data-analysis/testing_266d7ecc/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/examples/full_app/TESTING.md) | ⭐ 308 | `data analysis` |
-| [Deep](data-analysis/deep_c02e6cab/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/examples/full_app/workspace/DEEP.md) | ⭐ 308 | `data analysis` |
 
-### Development (1264 skills)
+### Development (1292 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3136,13 +3130,41 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_8b71c27f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/skill-optimizer/SKILL.md) | ⭐ 10 | `development` |
 | [Hook Creator](development/2957-hook-creator_8f366937/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
 | [Claude](development/140-claude_333e6d87/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 38 | `development` |
-| [Memory](development/memory_ec76aa09/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/memory.md) | ⭐ 308 | `development` |
-| [Output Styles](development/output-styles_96a41eee/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/output-styles.md) | ⭐ 308 | `development` |
-| [Subagents](development/subagents_9d439146/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/subagents.md) | ⭐ 308 | `development` |
-| [Processors](development/processors_1f5dbcf0/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/processors.md) | ⭐ 308 | `development` |
-| [Types](development/types_1980d9a2/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/types.md) | ⭐ 308 | `development` |
-| [Agents](development/agents_1ac80648/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/agents.md) | ⭐ 308 | `development` |
-| [Middleware](development/middleware_3c7f59a1/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/middleware.md) | ⭐ 308 | `development` |
+| [Memory](development/2957-memory_ec76aa09/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/memory.md) | ⭐ 308 | `development` |
+| [Output Styles](development/2958-output-styles_96a41eee/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/output-styles.md) | ⭐ 308 | `development` |
+| [Subagents](development/1701-subagents_9d439146/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/subagents.md) | ⭐ 308 | `development` |
+| [Processors](development/2959-processors_1f5dbcf0/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/processors.md) | ⭐ 308 | `development` |
+| [Types](development/1529-types_1980d9a2/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/types.md) | ⭐ 308 | `development` |
+| [Agents](development/028-agents_1ac80648/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/agents.md) | ⭐ 308 | `development` |
+| [Claude](development/140-claude_04c6755d/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/CLAUDE.md) | ⭐ 13 | `development` |
+| [Bundle Creation Guide](development/2931-bundle_creation_guide_b853c879/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/.bundles/BUNDLE_CREATION_GUIDE.md) | ⭐ 13 | `development` |
+| [Skill Creation Pr Checklist](development/2932-skill_creation_pr_checklist_59bf371c/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/SKILL_CREATION_PR_CHECKLIST.md) | ⭐ 13 | `development` |
+| [Skill Self Containment Standard](development/2933-skill_self_containment_standard_f60cb104/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/SKILL_SELF_CONTAINMENT_STANDARD.md) | ⭐ 13 | `development` |
+| [Versioning](development/1128-versioning_2c410444/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/VERSIONING.md) | ⭐ 13 | `development` |
+| [Readme Voice Checker](development/2934-readme_voice_checker_d9a3fa92/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/scripts/README_VOICE_CHECKER.md) | ⭐ 13 | `development` |
+| [Bundle](development/2935-bundle_c7ea1be4/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/.bundles/universal-development/BUNDLE.md) | ⭐ 13 | `development` |
+| [Structure](development/1033-structure_76ecfffb/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/architecture/STRUCTURE.md) | ⭐ 13 | `development` |
+| [Governance](development/2936-governance_3b0de34f/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/community/GOVERNANCE.md) | ⭐ 13 | `development` |
+| [Quick Setup Guide](development/2937-quick_setup_guide_0b6e5d13/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/guides/QUICK_SETUP_GUIDE.md) | ⭐ 13 | `development` |
+| [Voice Consistency Guide](development/2938-voice_consistency_guide_5b7f7ae0/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/guides/VOICE_CONSISTENCY_GUIDE.md) | ⭐ 13 | `development` |
+| [Github Repository Setup](development/2939-github_repository_setup_ebc9c647/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/infrastructure/GITHUB_REPOSITORY_SETUP.md) | ⭐ 13 | `development` |
+| [Ai Prompt Training Techniques 2025 11 30](development/2940-ai-prompt-training-techniques-2025-11-30_28d9efbd/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/ai-prompt-training-techniques-2025-11-30.md) | ⭐ 13 | `development` |
+| [Datadog Skill Research 2026 01 28](development/2941-datadog-skill-research-2026-01-28_7dbb15ea/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/datadog-skill-research-2026-01-28.md) | ⭐ 13 | `development` |
+| [Go Advanced Patterns 2025 12 01](development/2942-go-advanced-patterns-2025-12-01_787038ba/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/go-advanced-patterns-2025-12-01.md) | ⭐ 13 | `development` |
+| [Inter Skill References Summary](development/2943-inter-skill-references-summary_094c3d13/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/inter-skill-references-summary.md) | ⭐ 13 | `development` |
+| [Java Advanced Patterns 2025 12 01](development/2944-java-advanced-patterns-2025-12-01_1cbaa5b1/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/java-advanced-patterns-2025-12-01.md) | ⭐ 13 | `development` |
+| [Php Modern Patterns Advanced Guide 2025 12 01](development/2945-php-modern-patterns-advanced-guide-2025-12-01_3b0ae60d/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/php-modern-patterns-advanced-guide-2025-12-01.md) | ⭐ 13 | `development` |
+| [Rust Advanced Patterns 2025 12 01](development/2946-rust-advanced-patterns-2025-12-01_6f4c423e/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/rust-advanced-patterns-2025-12-01.md) | ⭐ 13 | `development` |
+| [Skill Compliance Analysis 2025 12 01](development/2947-skill-compliance-analysis-2025-12-01_326b0521/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/skill-compliance-analysis-2025-12-01.md) | ⭐ 13 | `...` |
+| [Skill Deployment Structure Analysis 2025 12 03](development/2948-skill-deployment-structure-analysis-2025-12-03_e8f49cff/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/skill-deployment-structure-analysis-2025-12-03.md) | ⭐ 13 | `development` |
+| [Skill Structure Summary 2025 11 30](development/2949-skill-structure-summary-2025-11-30_29527039/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/skill-structure-summary-2025-11-30.md) | ⭐ 13 | `development` |
+| [Skills Documentation Analysis 2025 12 02](development/2950-skills-documentation-analysis-2025-12-02_f0a6e6b0/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/skills-documentation-analysis-2025-12-02.md) | ⭐ 13 | `tag1` `tag2` `tag3` |
+| [Web Performance Skill Gap Analysis 2025 12 02](development/2951-web-performance-skill-gap-analysis-2025-12-02_174cbac6/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/web-performance-skill-gap-analysis-2025-12-02.md) | ⭐ 13 | `development` |
+| [Wordpress Development Ecosystem 2025 01 30](development/2952-wordpress-development-ecosystem-2025-01-30_eb45a0d9/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/wordpress-development-ecosystem-2025-01-30.md) | ⭐ 13 | `development` |
+| [Documentation Status 2025 12 03](development/2953-documentation-status-2025-12-03_62908bd9/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/documentation-status-2025-12-03.md) | ⭐ 13 | `development` |
+| [Skills Improvement 2025 12 03](development/2954-skills-improvement-2025-12-03_daa993f8/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/skills-improvement-2025-12-03.md) | ⭐ 13 | `development` |
+| [Reasoning Content](development/reasoning_content_59834855/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/reasoning_content.md) | 🔥 36.1k | `development` |
+| [Index](development/index_7947a413/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/gemin_3.1/index.md) | 🔥 36.1k | `gemini` `day 0 support` `llms` |
 
 ### Development/Devops (252 skills)
 
@@ -3782,10 +3804,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_f7dcfa26/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/AGENTS.md) | ⭐ 51 | `development` |
 | [Pan](development/tools/331-pan_84b4ddb2/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/pan.md) | ⭐ 51 | `development` |
 | [Claude](development/tools/017-claude_6dbc39da/) | [religa/multi_mcp](https://raw.githubusercontent.com/religa/multi_mcp/main/CLAUDE.md) | ⭐ 16 | `development` |
-| [Claude](development/tools/claude_f5696034/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 308 | `development` |
-| [Checkpointing](development/tools/checkpointing_a0ad9f8e/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/checkpointing.md) | ⭐ 308 | `development` |
+| [Claude](development/tools/017-claude_f5696034/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 308 | `development` |
+| [Checkpointing](development/tools/336-checkpointing_a0ad9f8e/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/checkpointing.md) | ⭐ 308 | `development` |
 
-### Investment (106 skills)
+### Investment (107 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3895,6 +3917,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Druckenmiller Strategy Planner](investment/058-druckenmiller-strategy-planner_234e4a47/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 38 | `investment` |
 | [Us Market Analyst](investment/059-us-market-analyst_89409104/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 38 | `investment` |
 | [Earnings Calendar 2025 11 02](investment/060-earnings_calendar_2025-11-02_f32c73d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 38 | `investment` |
+| [Benchmarks](investment/benchmarks_0984a1bc/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm/proxy/guardrails/guardrail_hooks/litellm_content_filter/guardrail_benchmarks/results/BENCHMARKS.md) | 🔥 36.1k | `investment` |
 
 ### Other (4 skills)
 
@@ -4076,8 +4099,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Saas](research/264-saas_f8f25394/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/saas.md) | ⭐ 894 | `research` |
 | [Sequencing](research/257-sequencing_7c18f2ac/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/sequencing.md) | ⭐ 736 | `research` |
 | [Discuss Context](research/263-discuss-context_5f70a3ff/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/dasel-plugin/discuss-CONTEXT.md) | ⭐ 18 | `research` |
-| [Skill](research/name-skill_e520b928/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/report-writing/SKILL.md) | ⭐ 308 | `research` |
-| [Skill](research/name-skill_5e5287c1/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/research-methodology/SKILL.md) | ⭐ 308 | `research` |
+| [Skill](research/139-name-skill_e520b928/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/report-writing/SKILL.md) | ⭐ 308 | `research` |
+| [Skill](research/139-name-skill_5e5287c1/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/research-methodology/SKILL.md) | ⭐ 308 | `research` |
 
 ## How Skills Are Organized
 
@@ -4129,5 +4152,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 07:58:08 UTC*
+*Last updated: 2026-02-21 11:54:22 UTC*
 *Automatically maintained by SkillFlow*
