@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T11:54:21.161391",
+  "updated_at": "2026-02-21T11:56:39.242406",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -53817,6 +53817,76 @@
       "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md",
       "display_name": "Latency Overhead",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "991180844da9e5da2475472925320baffc26750bed257f81d19741d44d45fe6f",
+      "source_path": "CLAUDE.md",
+      "source_repo": "verygoodplugins/automem",
+      "local_path": "development/devops/205-claude_99118084",
+      "category": "development/devops",
+      "name": "claude_99118084",
+      "indexed_at": "2026-02-21T11:56:33.156422",
+      "repo_stars": 607,
+      "repo_updated_at": "2026-02-19T22:08:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d77394c4e4e2a43438bc31d858a513f1baf315a968177fee6e4c5a53a2b7811f",
+      "source_path": "docs/ENVIRONMENT_VARIABLES.md",
+      "source_repo": "verygoodplugins/automem",
+      "local_path": "development/devops/362-environment_variables_d77394c4",
+      "category": "development/devops",
+      "name": "environment_variables_d77394c4",
+      "indexed_at": "2026-02-21T11:56:35.163234",
+      "repo_stars": 607,
+      "repo_updated_at": "2026-02-20T19:07:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md",
+      "display_name": "Environment Variables",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1baea77c7ae52f6c9a92e7c4f9dc65df1b96cc6765291b4cf73dac4474c9e111",
+      "source_path": "docs/RAILWAY_DEPLOYMENT.md",
+      "source_repo": "verygoodplugins/automem",
+      "local_path": "data-analysis/483-railway_deployment_1baea77c",
+      "category": "data-analysis",
+      "name": "railway_deployment_1baea77c",
+      "indexed_at": "2026-02-21T11:56:36.541344",
+      "repo_stars": 607,
+      "repo_updated_at": "2026-02-20T19:07:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/RAILWAY_DEPLOYMENT.md",
+      "display_name": "Railway Deployment",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "d39269e882e6274c75b8a9cb517fe96ceafb53614659fb2a4f1608056518a685",
+      "source_path": "AGENTS.md",
+      "source_repo": "strands-agents/sdk-python",
+      "local_path": "development/028-agents_d39269e8",
+      "category": "development",
+      "name": "agents_d39269e8",
+      "indexed_at": "2026-02-21T11:56:38.047948",
+      "repo_stars": 5111,
+      "repo_updated_at": "2026-02-20T17:45:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "becf16ed5da648bea0b20578c4c9b0e10ecc3422cfa74db217bf336dc77771e0",
+      "source_path": "docs/src/.claude/rules/code-snippets.md",
+      "source_repo": "nottelabs/notte",
+      "local_path": "development/tools/031-code-snippets_becf16ed",
+      "category": "development/tools",
+      "name": "code-snippets_becf16ed",
+      "indexed_at": "2026-02-21T11:56:39.242346",
+      "repo_stars": 1865,
+      "repo_updated_at": "2026-02-17T08:25:28+00:00",
+      "source_url": "https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md",
+      "display_name": "Code Snippets",
+      "tags": "[\"development\"]"
     }
   ]
 }
