@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T00:56:09.342091",
+  "updated_at": "2026-02-21T02:56:03.763833",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -51815,6 +51815,62 @@
       "source_url": "https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/soul_leech.md",
       "display_name": "Soul Leech",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "fe22f102d5b8f099e8c42959e1c8ac1f45ba16495cd0df8f030042679c8f5549",
+      "source_path": "README_es.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/373-readme_es_fe22f102",
+      "category": "development/devops",
+      "name": "readme_es_fe22f102",
+      "indexed_at": "2026-02-21T02:56:01.150009",
+      "repo_stars": 783,
+      "repo_updated_at": "2026-02-20T15:58:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md",
+      "display_name": "Readme Es",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d1001ad49198f47af9be64a2bb62ec3261a13919f79689d60a76ad89f1625a72",
+      "source_path": "README_ja.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/374-readme_ja_d1001ad4",
+      "category": "development/devops",
+      "name": "readme_ja_d1001ad4",
+      "indexed_at": "2026-02-21T02:56:02.025318",
+      "repo_stars": 783,
+      "repo_updated_at": "2026-02-20T15:58:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md",
+      "display_name": "Readme Ja",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d9114203026616d938d423de4d7e502b33003544006b2e54ed54b5110d7c6315",
+      "source_path": "README_pt-BR.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/375-readme_pt-br_d9114203",
+      "category": "development/devops",
+      "name": "readme_pt-br_d9114203",
+      "indexed_at": "2026-02-21T02:56:02.886208",
+      "repo_stars": 783,
+      "repo_updated_at": "2026-02-20T15:58:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_pt-BR.md",
+      "display_name": "Readme Pt Br",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8fa738057629a4f8bbfd92bb566ef1ce4919344dbc42b501dbb7b75195e545ed",
+      "source_path": "README_zh-CN.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/376-readme_zh-cn_8fa73805",
+      "category": "development/devops",
+      "name": "readme_zh-cn_8fa73805",
+      "indexed_at": "2026-02-21T02:56:03.763733",
+      "repo_stars": 783,
+      "repo_updated_at": "2026-02-20T15:58:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md",
+      "display_name": "Readme Zh Cn",
+      "tags": "[\"development\"]"
     }
   ]
 }
