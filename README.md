@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **348 AI-powered skills** organized into 12 categories.
+A curated collection of **355 AI-powered skills** organized into 13 categories.
 
 ## Overview
 
@@ -8,16 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Workflow** (8 skills)
-- **Commercial** (15 skills)
+- **Automation/Workflow** (9 skills)
+- **Commercial** (16 skills)
 - **Communication** (9 skills)
 - **Content Creation** (29 skills)
-- **Daily Assistant** (3 skills)
-- **Data Analysis** (47 skills)
-- **Development** (81 skills)
+- **Daily Assistant** (4 skills)
+- **Data Analysis** (49 skills)
+- **Development** (82 skills)
 - **Development/Devops** (86 skills)
 - **Development/Testing** (3 skills)
 - **Development/Tools** (45 skills)
+- **Investment** (1 skill)
 - **Productivity** (3 skills)
 - **Research** (19 skills)
 
@@ -178,7 +179,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Workflow (8 skills)
+### Automation/Workflow (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -190,8 +191,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Export Import](automation/workflow/150-export-import_af809418/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/export-import.md) | ⭐ 3.3k | `automation` |
 | [Mcp Cli](automation/workflow/151-mcp-cli_dbea27bc/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/mcp-cli.md) | ⭐ 3.3k | `automation` |
 | [Libreoffice Server](automation/workflow/152-libreoffice-server_2c0ac43b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/libreoffice-server.md) | ⭐ 3.3k | `automation` |
+| [Skill](automation/workflow/name-skill_15b7286f/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md) | ⭐ 1.4k | `automation` |
 
-### Commercial (15 skills)
+### Commercial (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -210,6 +212,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Grpc Services](commercial/394-grpc-services_a969a94f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/grpc-services.md) | ⭐ 3.3k | `commercial` |
 | [Query Param Auth](commercial/395-query-param-auth_e000b191/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/query-param-auth.md) | ⭐ 3.3k | `commercial` |
 | [Cards](commercial/378-cards_6c04640b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/cards.md) | ⭐ 117 | `commercial` |
+| [Skill](commercial/name-skill_1b74b4fe/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/stored-procedure-generator/skills/generating-stored-procedures/SKILL.md) | ⭐ 1.4k | `commercial` |
 
 ### Communication (9 skills)
 
@@ -256,18 +259,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Shiny Formatting](content-creation/361-shiny-formatting_30dd05e6/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/shiny-formatting.md) | ⭐ 117 | `content creation` |
 | [Conversion Blogdown](content-creation/362-conversion-blogdown_038f094b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-blogdown.md) | ⭐ 117 | `data` |
 | [Conversion Distill](content-creation/363-conversion-distill_69039bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-distill.md) | ⭐ 117 | `content creation` |
-| [Features](content-creation/features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
-| [Skill](content-creation/name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
+| [Features](content-creation/109-features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
+| [Skill](content-creation/049-name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
 
-### Daily Assistant (3 skills)
+### Daily Assistant (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Package Configs](daily-assistant/294-package-configs_66bf674a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/package-configs.md) | ⭐ 102 | `daily assistant` |
 | [Crewai](daily-assistant/295-crewai_c93ce999/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/agents/crewai.md) | ⭐ 3.3k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_165a91fb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/create-release-checklist/SKILL.md) | ⭐ 117 | `daily assistant` |
+| [Claude](daily-assistant/claude_60cb35f0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.4k | `daily assistant` |
 
-### Data Analysis (47 skills)
+### Data Analysis (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -318,8 +322,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Prompt Optimization](data-analysis/488-prompt-optimization_f32f3366/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/prompt-optimization.md) | ⭐ 18 | `data analysis` |
 | [Research Utilities](data-analysis/489-research-utilities_a32adef1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/research-utilities.md) | ⭐ 18 | `data analysis` |
 | [Contextual Ai Documentation Optimizer Adapter](data-analysis/490-contextual-ai-documentation-optimizer-adapter_394973bd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/adapters/contextual-ai-documentation-optimizer-adapter.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/name-skill_bf9acbc8/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/mempool-analyzer/skills/analyzing-mempool/SKILL.md) | ⭐ 1.4k | `data analysis` |
+| [Skill](data-analysis/name-skill_fecbac2d/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md) | ⭐ 1.4k | `data analysis` |
 
-### Development (81 skills)
+### Development (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -404,6 +410,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_c856efe0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-completeness/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_1640461c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/lint/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_5f0e587a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/memory-and-rules/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/name-skill_becad5b3/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/token-launch-tracker/skills/tracking-token-launches/SKILL.md) | ⭐ 1.4k | `development` |
 
 ### Development/Devops (86 skills)
 
@@ -554,6 +561,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_d5053e84/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/toml-python/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_6f3596ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.claude/skills/embedded-debug-tools/SKILL.md) | ⭐ 18 | `development` |
 
+### Investment (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Skill](investment/name-skill_65b23c64/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/whale-alert-monitor/skills/monitoring-whale-activity/SKILL.md) | ⭐ 1.4k | `investment` |
+
 ### Productivity (3 skills)
 
 | Skill | Source | Popularity | Tags |
@@ -572,19 +585,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Divs And Spans](research/262-divs-and-spans_a11251da/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/divs-and-spans.md) | ⭐ 117 | `research` |
 | [Layout](research/263-layout_f4e230b1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/layout.md) | ⭐ 117 | `research` |
 | [Yaml Front Matter](research/264-yaml-front-matter_8c124133/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/yaml-front-matter.md) | ⭐ 117 | `research` |
-| [Claude](research/claude_b0ed45bf/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/CLAUDE.md) | ⭐ 829 | `research` |
-| [Writer](research/writer_1664b873/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/.claude/WRITER.md) | ⭐ 829 | `research` |
-| [Api](research/api_a79b5e1a/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/API.md) | ⭐ 829 | `research` |
-| [Skill](research/name-skill_83163c0c/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/citation-management/SKILL.md) | ⭐ 829 | `research` |
-| [Skill](research/name-skill_995bd408/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/SKILL.md) | ⭐ 829 | `research` |
-| [Skill](research/name-skill_ed983e74/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/research-lookup/SKILL.md) | ⭐ 829 | `research` |
-| [Citation Validation](research/citation_validation_5901b5ff/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/citation-management/references/citation_validation.md) | ⭐ 829 | `research` |
-| [Api Reference](research/api_reference_bd3cf235/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/api_reference.md) | ⭐ 829 | `research` |
-| [Deep Research Guide](research/deep_research_guide_c3d92b15/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/deep_research_guide.md) | ⭐ 829 | `research` |
-| [Extraction Patterns](research/extraction_patterns_49ce48cf/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/extraction_patterns.md) | ⭐ 829 | `research` |
-| [Search Best Practices](research/search_best_practices_8ba3e7fe/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/search_best_practices.md) | ⭐ 829 | `research` |
-| [Workflow Recipes](research/workflow_recipes_0676ea23/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/workflow_recipes.md) | ⭐ 829 | `research` |
-| [Claude.Scientific Writer](research/claudescientific-writer_8ab28031/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/templates/CLAUDE.scientific-writer.md) | ⭐ 829 | `research` |
+| [Claude](research/015-claude_b0ed45bf/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/CLAUDE.md) | ⭐ 829 | `research` |
+| [Writer](research/144-writer_1664b873/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/.claude/WRITER.md) | ⭐ 829 | `research` |
+| [Api](research/146-api_a79b5e1a/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/API.md) | ⭐ 829 | `research` |
+| [Skill](research/139-name-skill_83163c0c/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/citation-management/SKILL.md) | ⭐ 829 | `research` |
+| [Skill](research/139-name-skill_995bd408/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/SKILL.md) | ⭐ 829 | `research` |
+| [Skill](research/139-name-skill_ed983e74/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/research-lookup/SKILL.md) | ⭐ 829 | `research` |
+| [Citation Validation](research/014-citation_validation_5901b5ff/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/citation-management/references/citation_validation.md) | ⭐ 829 | `research` |
+| [Api Reference](research/007-api_reference_bd3cf235/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/api_reference.md) | ⭐ 829 | `research` |
+| [Deep Research Guide](research/258-deep_research_guide_c3d92b15/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/deep_research_guide.md) | ⭐ 829 | `research` |
+| [Extraction Patterns](research/259-extraction_patterns_49ce48cf/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/extraction_patterns.md) | ⭐ 829 | `research` |
+| [Search Best Practices](research/260-search_best_practices_8ba3e7fe/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/search_best_practices.md) | ⭐ 829 | `research` |
+| [Workflow Recipes](research/261-workflow_recipes_0676ea23/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/workflow_recipes.md) | ⭐ 829 | `research` |
+| [Skill](research/name-skill_41583fad/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges/SKILL.md) | ⭐ 1.4k | `research` |
 
 ## How Skills Are Organized
 
@@ -636,5 +649,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 21:39:16 UTC*
+*Last updated: 2026-02-21 23:00:08 UTC*
 *Automatically maintained by SkillFlow*

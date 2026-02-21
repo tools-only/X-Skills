@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T21:39:16.600360",
+  "updated_at": "2026-02-21T23:00:08.814510",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -4859,6 +4859,118 @@
       "source_url": "https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "60cb35f0996a137db2022ec0776883abc5a520e33287346ef6117aeedf547ffc",
+      "source_path": "CLAUDE.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "daily-assistant/037-claude_60cb35f0",
+      "category": "daily-assistant",
+      "name": "claude_60cb35f0",
+      "indexed_at": "2026-02-21T23:00:08.221076",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-02-11T08:53:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "41583fad7bb4fe3dfa0db5d079f74e52cbf13ab9dc1e01e2ea55d92eb4976bed",
+      "source_path": "plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "research/139-name-skill_41583fad",
+      "category": "research",
+      "name": "name-skill_41583fad",
+      "indexed_at": "2026-02-21T23:00:08.287068",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-17T06:13:23+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "15b7286f87367b759c5ca9820bd91dd8c1ef319f430bc88f74fe7d2307477760",
+      "source_path": "plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "automation/workflow/002-name-skill_15b7286f",
+      "category": "automation/workflow",
+      "name": "name-skill_15b7286f",
+      "indexed_at": "2026-02-21T23:00:08.385237",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-17T05:48:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "bf9acbc84377383578d05497152d26980290c487cb6736c09a23d292c36e7be0",
+      "source_path": "plugins/crypto/mempool-analyzer/skills/analyzing-mempool/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "data-analysis/226-name-skill_bf9acbc8",
+      "category": "data-analysis",
+      "name": "name-skill_bf9acbc8",
+      "indexed_at": "2026-02-21T23:00:08.500723",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-17T05:39:47+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/mempool-analyzer/skills/analyzing-mempool/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "fecbac2d8154d25ed85f69ae6202c75352f7b0cc59113ca94f84256e0ed660bd",
+      "source_path": "plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "data-analysis/226-name-skill_fecbac2d",
+      "category": "data-analysis",
+      "name": "name-skill_fecbac2d",
+      "indexed_at": "2026-02-21T23:00:08.587381",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-17T05:56:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "becad5b3575cd6ef71953f1cfd95c7147ccd8d5c570479d8da63bab7a72977e2",
+      "source_path": "plugins/crypto/token-launch-tracker/skills/tracking-token-launches/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "development/1178-name-skill_becad5b3",
+      "category": "development",
+      "name": "name-skill_becad5b3",
+      "indexed_at": "2026-02-21T23:00:08.661301",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-17T06:06:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/token-launch-tracker/skills/tracking-token-launches/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "65b23c641d5a28fb86281eb17e00c72b021c7df2d67b597676882dcce5c9790b",
+      "source_path": "plugins/crypto/whale-alert-monitor/skills/monitoring-whale-activity/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "investment/021-name-skill_65b23c64",
+      "category": "investment",
+      "name": "name-skill_65b23c64",
+      "indexed_at": "2026-02-21T23:00:08.742430",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-17T05:33:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/whale-alert-monitor/skills/monitoring-whale-activity/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "1b74b4fe075a219be6669decd9f0b22810deaf289fa93c9ac01d4828ad09cbd1",
+      "source_path": "plugins/database/stored-procedure-generator/skills/generating-stored-procedures/SKILL.md",
+      "source_repo": "jeremylongshore/claude-code-plugins-plus-skills",
+      "local_path": "commercial/210-name-skill_1b74b4fe",
+      "category": "commercial",
+      "name": "name-skill_1b74b4fe",
+      "indexed_at": "2026-02-21T23:00:08.814454",
+      "repo_stars": 1365,
+      "repo_updated_at": "2026-01-20T05:06:12+00:00",
+      "source_url": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/stored-procedure-generator/skills/generating-stored-procedures/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"commercial\"]"
     }
   ]
 }
