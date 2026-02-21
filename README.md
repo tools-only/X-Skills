@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3859 AI-powered skills** organized into 15 categories.
+A curated collection of **3870 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (139 skills)
+- **Automation/Scripting** (140 skills)
 - **Automation/Workflow** (199 skills)
 - **Commercial** (160 skills)
 - **Communication** (96 skills)
-- **Content Creation** (361 skills)
-- **Daily Assistant** (259 skills)
+- **Content Creation** (360 skills)
+- **Daily Assistant** (260 skills)
 - **Data Analysis** (447 skills)
-- **Development** (1293 skills)
+- **Development** (1299 skills)
 - **Development/Devops** (254 skills)
-- **Development/Testing** (65 skills)
-- **Development/Tools** (312 skills)
+- **Development/Testing** (66 skills)
+- **Development/Tools** (313 skills)
 - **Investment** (106 skills)
-- **Other** (4 skills)
+- **Other** (5 skills)
 - **Productivity** (59 skills)
-- **Research** (105 skills)
+- **Research** (106 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (139 skills)
+### Automation/Scripting (140 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -324,6 +324,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Param Forge Reference](automation/scripting/100-param_forge_reference_bb2e5ad1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
 | [Cost Tracking](automation/scripting/098-cost-tracking_0785bf33/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/cost-tracking.md) | ⭐ 308 | `automation` |
 | [Eviction](automation/scripting/099-eviction_e4d20559/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/eviction.md) | ⭐ 308 | `automation` |
+| [Save Context](automation/scripting/save-context_5455d46f/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/commands/save-context.md) | ⭐ 134 | `automation` |
 
 ### Automation/Workflow (199 skills)
 
@@ -526,8 +527,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Asset Decision Tree](automation/workflow/143-asset-decision-tree_157ef710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/asset-decision-tree.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/002-name-skill_418867d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dual-axis-skill-reviewer/SKILL.md) | ⭐ 38 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a186b9ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/diagram-design/SKILL.md) | ⭐ 308 | `automation` |
-| [Skill](automation/workflow/name-skill_3f83c893/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-collect/SKILL.md) | ⭐ 101 | `automation` |
-| [Skill](automation/workflow/name-skill_0457ea28/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-publish/SKILL.md) | ⭐ 101 | `automation` |
+| [Skill](automation/workflow/002-name-skill_3f83c893/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-collect/SKILL.md) | ⭐ 101 | `automation` |
+| [Skill](automation/workflow/002-name-skill_0457ea28/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-publish/SKILL.md) | ⭐ 101 | `automation` |
 
 ### Commercial (160 skills)
 
@@ -692,7 +693,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Soul Leech](commercial/402-soul_leech_84797cf1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/soul_leech.md) | ⭐ 51 | `commercial` |
 | [03 Des Cost Estimate](commercial/374-03-des-cost-estimate_3a2a73e6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/aks-platform/03-des-cost-estimate.md) | ⭐ 85 | `commercial` |
 | [07 Compliance Matrix](commercial/312-07-compliance-matrix_0204123c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-compliance-matrix.md) | ⭐ 85 | `commercial` |
-| [X For You Feed Algorithm](commercial/x-for-you-feed-algorithm_d7978788/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/X-For-You-Feed-Algorithm.md) | ⭐ 101 | `commercial` |
+| [X For You Feed Algorithm](commercial/374-x-for-you-feed-algorithm_d7978788/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/X-For-You-Feed-Algorithm.md) | ⭐ 101 | `commercial` |
 
 ### Communication (96 skills)
 
@@ -795,7 +796,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Processors](communication/256-processors_f97ff44b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 308 | `communication` |
 | [Latency Overhead](communication/250-latency_overhead_793ab770/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 36.1k | `communication` |
 
-### Content Creation (361 skills)
+### Content Creation (360 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1156,12 +1157,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Context Files](content-creation/390-context-files_da06b773/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/context-files.md) | ⭐ 308 | `content creation` |
 | [Toolsets](content-creation/360-toolsets_adad4e05/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 308 | `content creation` |
 | [Config Settings](content-creation/352-config_settings_94e10ab1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Skill](content-creation/name-skill_9085604e/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/SKILL.md) | ⭐ 101 | `content creation` |
-| [Skill](content-creation/name-skill_c6afb970/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-filter/SKILL.md) | ⭐ 101 | `content creation` |
-| [X Skills Optimization](content-creation/x-skills-optimization_c60aab57/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-skills-optimization.md) | ⭐ 101 | `content creation` |
-| [User Profile](content-creation/user-profile_76ec9f28/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/references/user-profile.md) | ⭐ 101 | `content creation` |
+| [Skill](content-creation/049-name-skill_9085604e/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/SKILL.md) | ⭐ 101 | `content creation` |
+| [Skill](content-creation/049-name-skill_c6afb970/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-filter/SKILL.md) | ⭐ 101 | `content creation` |
+| [Docs Researcher](content-creation/docs-researcher_0cd499d3/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/docs-researcher.md) | ⭐ 134 | `content creation` |
 
-### Daily Assistant (259 skills)
+### Daily Assistant (260 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1424,6 +1424,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Market News Analyzer](daily-assistant/293-market-news-analyzer_adf32822/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 38 | `daily assistant` |
 | [Agent](daily-assistant/270-agent_b8df94d3/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/agent.md) | ⭐ 308 | `daily assistant` |
 | [Toolsets](daily-assistant/271-toolsets_3d5f0cbb/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/api/toolsets.md) | ⭐ 308 | `daily assistant` |
+| [Work Until Loop](daily-assistant/work-until-loop_cfe60f63/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/work-until-loop.md) | ⭐ 134 | `daily assistant` |
 
 ### Data Analysis (447 skills)
 
@@ -1877,7 +1878,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Master Workflow](data-analysis/497-master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
 | [Railway Deployment](data-analysis/483-railway_deployment_1baea77c/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/RAILWAY_DEPLOYMENT.md) | ⭐ 607 | `data analysis` |
 
-### Development (1293 skills)
+### Development (1299 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3173,7 +3174,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skills Improvement 2025 12 03](development/2954-skills-improvement-2025-12-03_daa993f8/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/skills-improvement-2025-12-03.md) | ⭐ 13 | `development` |
 | [Reasoning Content](development/2866-reasoning_content_59834855/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/reasoning_content.md) | 🔥 36.1k | `development` |
 | [Agents](development/028-agents_d39269e8/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.1k | `development` |
-| [Post Patterns](development/post-patterns_8b922076/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/references/post-patterns.md) | ⭐ 101 | `development` |
+| [Pebble Guide](development/pebble_guide_80d50f5d/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/PEBBLE_GUIDE.md) | ⭐ 134 | `development` |
+| [Soul](development/soul_b30ca0e6/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SOUL.md) | ⭐ 134 | `development` |
+| [Plan Reviewer](development/plan-reviewer_13d67a43/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/plan-reviewer.md) | ⭐ 134 | `development` |
+| [Index](development/index_ddf6eaa6/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/api-docs/INDEX.md) | ⭐ 134 | `development` |
+| [Agent Operating Manual](development/agent-operating-manual_daa8c0c5/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 134 | `development` |
+| [Skill](development/name-skill_858a2a44/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/planning/SKILL.md) | ⭐ 134 | `development` |
+| [Architect](development/architect_d9738d48/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/architect.md) | ⭐ 134 | `development` |
 
 ### Development/Devops (254 skills)
 
@@ -3434,7 +3441,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/devops/205-claude_99118084/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md) | ⭐ 607 | `development` |
 | [Environment Variables](development/devops/362-environment_variables_d77394c4/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md) | ⭐ 607 | `development` |
 
-### Development/Testing (65 skills)
+### Development/Testing (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3503,8 +3510,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Qa Report](development/testing/090-plugin-validator-qa-report_52d7cc90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-qa-report.md) | ⭐ 18 | `development` |
 | [Plugin Validator Tasks](development/testing/091-plugin-validator-tasks_53cfb505/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/092-description-skill_8b75fd5a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/setup/SKILL.md) | ⭐ 18 | `development` |
+| [Setup Guide](development/testing/setup_guide_f5509dd5/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SETUP_GUIDE.md) | ⭐ 134 | `development` |
 
-### Development/Tools (312 skills)
+### Development/Tools (313 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3818,8 +3826,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_f5696034/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 308 | `development` |
 | [Checkpointing](development/tools/336-checkpointing_a0ad9f8e/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/checkpointing.md) | ⭐ 308 | `development` |
 | [Code Snippets](development/tools/031-code-snippets_becf16ed/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md) | ⭐ 1.9k | `development` |
-| [Readme En](development/tools/readme_en_c8b386c3/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/README_EN.md) | ⭐ 101 | `development` |
-| [Release Notes V2.0](development/tools/release_notes_v20_a815aa8a/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/RELEASE_NOTES_v2.0.md) | ⭐ 101 | `development` |
+| [Readme En](development/tools/242-readme_en_c8b386c3/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/README_EN.md) | ⭐ 101 | `development` |
+| [Code Health Reviewer](development/tools/code-health-reviewer_0a81db4d/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/code-health-reviewer.md) | ⭐ 134 | `development` |
+| [Code Reviewer](development/tools/code-reviewer_c97ed330/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/code-reviewer.md) | ⭐ 134 | `development` |
 
 ### Investment (106 skills)
 
@@ -3932,7 +3941,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Us Market Analyst](investment/059-us-market-analyst_89409104/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 38 | `investment` |
 | [Earnings Calendar 2025 11 02](investment/060-earnings_calendar_2025-11-02_f32c73d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 38 | `investment` |
 
-### Other (4 skills)
+### Other (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3940,6 +3949,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
+| [Workspace](other/workspace_ff38301d/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/WORKSPACE.md) | ⭐ 134 | `other` |
 
 ### Productivity (59 skills)
 
@@ -4005,7 +4015,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Local Service](productivity/178-local-service_e6ab4578/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/local-service.md) | ⭐ 894 | `productivity` |
 | [Agents Definitions.Instructions](productivity/173-agents-definitionsinstructions_14891550/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/agents-definitions.instructions.md) | ⭐ 85 | `productivity` |
 
-### Research (105 skills)
+### Research (106 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -4114,6 +4124,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Discuss Context](research/263-discuss-context_5f70a3ff/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/dasel-plugin/discuss-CONTEXT.md) | ⭐ 18 | `research` |
 | [Skill](research/139-name-skill_e520b928/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/report-writing/SKILL.md) | ⭐ 308 | `research` |
 | [Skill](research/139-name-skill_5e5287c1/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/research-methodology/SKILL.md) | ⭐ 308 | `research` |
+| [Index](research/index_48202fdd/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/adrs/INDEX.md) | ⭐ 134 | `research` |
 
 ## How Skills Are Organized
 
@@ -4165,5 +4176,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 12:54:17 UTC*
+*Last updated: 2026-02-21 14:40:22 UTC*
 *Automatically maintained by SkillFlow*
