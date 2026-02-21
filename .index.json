@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T02:58:01.029854",
+  "updated_at": "2026-02-21T03:55:10.222094",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -52347,6 +52347,62 @@
       "source_url": "https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-compliance-matrix.md",
       "display_name": "07 Compliance Matrix",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "2344a88d1c290cfb2e7190bfc1705fbd79576f47456b3da23915b97963da1bf7",
+      "source_path": "src/upskill/agent_cards/skill_gen.md",
+      "source_repo": "huggingface/upskill",
+      "local_path": "development/2882-skill_gen_2344a88d",
+      "category": "development",
+      "name": "skill_gen_2344a88d",
+      "indexed_at": "2026-02-21T03:55:07.931188",
+      "repo_stars": 334,
+      "repo_updated_at": "2026-01-22T12:18:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/huggingface/upskill/main/src/upskill/agent_cards/skill_gen.md",
+      "display_name": "Skill Gen",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9187cbce64515f3453689be60e64738937cf04ac3f3e443de125d1b305d3309c",
+      "source_path": "docs/docs/manage/sso-entra-role-mapping.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/2883-sso-entra-role-mapping_9187cbce",
+      "category": "development",
+      "name": "sso-entra-role-mapping_9187cbce",
+      "indexed_at": "2026-02-21T03:55:08.629042",
+      "repo_stars": 3287,
+      "repo_updated_at": "2026-02-20T23:18:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-entra-role-mapping.md",
+      "display_name": "Sso Entra Role Mapping",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7c7224c897d9855c634bde181fb57d6e6ce21bba889e914b9e5176a5ecb9a36d",
+      "source_path": "docs/docs/manage/sso-microsoft-entra-id-tutorial.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/2884-sso-microsoft-entra-id-tutorial_7c7224c8",
+      "category": "development",
+      "name": "sso-microsoft-entra-id-tutorial_7c7224c8",
+      "indexed_at": "2026-02-21T03:55:09.511188",
+      "repo_stars": 3287,
+      "repo_updated_at": "2026-02-20T23:18:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-microsoft-entra-id-tutorial.md",
+      "display_name": "Sso Microsoft Entra Id Tutorial",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "76f04f4de9d1f86a83e9ca057a6a88e73f29ccd4cd065804e992f31f0d347386",
+      "source_path": "docs/docs/manage/configuration.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/009-configuration_76f04f4d",
+      "category": "development/devops",
+      "name": "configuration_76f04f4d",
+      "indexed_at": "2026-02-21T03:55:10.222029",
+      "repo_stars": 3287,
+      "repo_updated_at": "2026-02-20T23:18:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
     }
   ]
 }
