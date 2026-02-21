@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3747 AI-powered skills** organized into 15 categories.
+A curated collection of **3807 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (139 skills)
-- **Automation/Workflow** (194 skills)
+- **Automation/Scripting** (137 skills)
+- **Automation/Workflow** (197 skills)
 - **Commercial** (159 skills)
 - **Communication** (94 skills)
-- **Content Creation** (345 skills)
-- **Daily Assistant** (256 skills)
-- **Data Analysis** (444 skills)
-- **Development** (1226 skills)
-- **Development/Devops** (253 skills)
-- **Development/Testing** (66 skills)
-- **Development/Tools** (306 skills)
-- **Investment** (99 skills)
-- **Other** (4 skills)
+- **Content Creation** (354 skills)
+- **Daily Assistant** (257 skills)
+- **Data Analysis** (447 skills)
+- **Development** (1257 skills)
+- **Development/Devops** (252 skills)
+- **Development/Testing** (65 skills)
+- **Development/Tools** (307 skills)
+- **Investment** (113 skills)
+- **Other** (6 skills)
 - **Productivity** (59 skills)
 - **Research** (103 skills)
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (139 skills)
+### Automation/Scripting (137 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -322,10 +322,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orc](automation/scripting/092-orc_7bd72adf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 629 | `automation` |
 | [Side Effect](automation/scripting/097-side-effect_797728e6/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/side-effect.md) | ⭐ 629 | `automation` |
 | [Param Forge Reference](automation/scripting/100-param_forge_reference_bb2e5ad1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
-| [Evaluator](automation/scripting/evaluator_3c8fca9d/) | [huggingface/upskill](https://raw.githubusercontent.com/huggingface/upskill/main/src/upskill/agent_cards/evaluator.md) | ⭐ 334 | `automation` |
-| [Test Gen](automation/scripting/test_gen_86227296/) | [huggingface/upskill](https://raw.githubusercontent.com/huggingface/upskill/main/src/upskill/agent_cards/test_gen.md) | ⭐ 334 | `automation` |
 
-### Automation/Workflow (194 skills)
+### Automation/Workflow (197 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -364,7 +362,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Self Correction](automation/workflow/137-self-correction_8bd20857/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/self-correction.md) | ⭐ 99 | `automation` |
 | [Skill](automation/workflow/002-name-skill_cc0cbbde/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/asking-clarifying-questions/SKILL.md) | ⭐ 110 | `automation` |
 | [Skill](automation/workflow/002-name-skill_f935a13c/) | [ed3dai/ed3d-plugins](https://raw.githubusercontent.com/ed3dai/ed3d-plugins/main/plugins/ed3d-plan-and-execute/skills/finishing-a-development-branch/SKILL.md) | ⭐ 110 | `automation` |
-| [Backlog](automation/workflow/063-backlog_1ba542aa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 17 | `automation` |
+| [Backlog](automation/workflow/backlog_cef78426/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/064-description-skill_4b4ab2e5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 17 | `automation` |
 | [Skill](automation/workflow/002-name-skill_92ef91b1/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/azure-eventhub-ts/SKILL.md) | 🔥 8.7k | `automation` |
 | [Improvement Roadmap](automation/workflow/141-improvement_roadmap_6504ae62/) | [datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction](https://raw.githubusercontent.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/main/IMPROVEMENT_ROADMAP.md) | ⭐ 33 | `automation` |
@@ -477,7 +475,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_12b06f60/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md) | ⭐ 79 | `automation` |
 | [Backlog](automation/workflow/063-backlog_e699b99e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `automation` |
 | [Retio Pagemap](automation/workflow/142-retio-pagemap_1ad54b93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/retio-pagemap.md) | ⭐ 18 | `automation` |
-| [Asset Decision Tree](automation/workflow/143-asset-decision-tree_c7a37f93/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/asset-decision-tree.md) | ⭐ 18 | `automation` |
+| [Asset Decision Tree](automation/workflow/asset-decision-tree_157ef710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/asset-decision-tree.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/064-description-skill_f9b8351e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-browser/SKILL.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/064-description-skill_ad26a08a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `automation` |
 | [Transcript Analyst](automation/workflow/144-transcript-analyst_9b890382/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/agents/transcript-analyst.md) | ⭐ 18 | `automation` |
@@ -523,6 +521,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Copier](automation/workflow/140-copier_380036ff/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/copier.md) | ⭐ 18 | `automation` |
 | [Prefect](automation/workflow/141-prefect_8ef93f0c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/prefect.md) | ⭐ 18 | `automation` |
 | [Github Actions.Instructions](automation/workflow/131-github-actionsinstructions_160e3240/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/github-actions.instructions.md) | ⭐ 85 | `automation` |
+| [Asset Decision Tree](automation/workflow/143-asset-decision-tree_157ef710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/asset-decision-tree.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/name-skill_418867d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dual-axis-skill-reviewer/SKILL.md) | ⭐ 38 | `automation` |
+| [Scoring Rubric](automation/workflow/scoring_rubric_f6b7bebc/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dual-axis-skill-reviewer/references/scoring_rubric.md) | ⭐ 38 | `automation` |
 
 ### Commercial (159 skills)
 
@@ -787,7 +788,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
 
-### Content Creation (345 skills)
+### Content Creation (354 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1103,7 +1104,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Team Operations](content-creation/392-team-operations_3f83884e/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/implement/references/team-operations.md) | ⭐ 12 | `content creation` |
 | [2026 02 19 Ruamel Yaml Migration Plan](content-creation/393-2026-02-19-ruamel-yaml-migration-plan_840b543c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-plan.md) | ⭐ 18 | `content creation` |
 | [Agent Creator](content-creation/394-agent-creator_c08b7cb5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/agent-creator.md) | ⭐ 18 | `content creation` |
-| [Skill](content-creation/387-description-skill_be055adb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/description-skill_6e15c3d9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/387-description-skill_d0748603/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-installanywhere/SKILL.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/387-description-skill_7ee4b200/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-spring-xml/SKILL.md) | ⭐ 18 | `content creation` |
 | [Seo Content](content-creation/395-seo-content_f608de24/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-content.md) | ⭐ 894 | `content creation` |
@@ -1136,8 +1137,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Target User Agentic Harness V0](content-creation/385-target_user_agentic_harness_v0_179904bc/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 | [Markdown.Instructions](content-creation/256-markdowninstructions_6d220523/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/markdown.instructions.md) | ⭐ 85 | `bicep` `iac` `azure` |
 | [Skill](content-creation/049-name-skill_389c333c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/SKILL.md) | ⭐ 85 | `content creation` |
+| [Claude](content-creation/007-claude_3945e665/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/CLAUDE.md) | ⭐ 99 | `content creation` |
+| [Distribution Guide](content-creation/363-distribution_guide_3c3327d8/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/DISTRIBUTION_GUIDE.md) | ⭐ 99 | `content creation` |
+| [Ready To Publish](content-creation/364-ready_to_publish_430fb059/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude-plugin/READY_TO_PUBLISH.md) | ⭐ 99 | `content creation` |
+| [Dex Technical Guide](content-creation/365-dex_technical_guide_46aec9b4/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Dex_Technical_Guide.md) | ⭐ 99 | `content creation` |
+| [Memory Ownership](content-creation/366-memory_ownership_1990406b/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/06-Resources/Dex_System/Memory_Ownership.md) | ⭐ 99 | `content creation` |
+| [Skill](content-creation/049-name-skill_146c9341/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/todoist-setup/SKILL.md) | ⭐ 99 | `content creation` |
+| [Skill](content-creation/049-name-skill_9fc0bf89/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/agent-memory-mcp/SKILL.md) | 🔥 12.7k | `content creation` |
+| [Skill](content-creation/049-name-skill_ae0aa858/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/ai-engineer/SKILL.md) | 🔥 12.7k | `content creation` |
+| [Skill](content-creation/387-description-skill_6e15c3d9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/hook-creator/SKILL.md) | ⭐ 18 | `content creation` |
 
-### Daily Assistant (256 skills)
+### Daily Assistant (257 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1281,7 +1291,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_a3bcb6b7/) | [antoniolg/agent-kit](https://raw.githubusercontent.com/antoniolg/agent-kit/main/skills/bird-cli/SKILL.md) | ⭐ 20 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_7d23a0ad/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/economic-calendar-fetcher/SKILL.md) | ⭐ 33 | `daily assistant` |
 | [Technical Analysis Framework](daily-assistant/263-technical_analysis_framework_a530ffeb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/technical-analyst/references/technical_analysis_framework.md) | ⭐ 33 | `daily assistant` |
-| [Market News Analyzer](daily-assistant/264-market-news-analyzer_b89215fd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 33 | `daily assistant` |
+| [Market News Analyzer](daily-assistant/market-news-analyzer_adf32822/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 38 | `daily assistant` |
 | [Machine Setup](daily-assistant/264-machine-setup_b18261af/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/devops/machine-setup.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_77892dd6/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/asana/SKILL.md) | ⭐ 10 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_9dcf992a/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/fireflies/SKILL.md) | ⭐ 10 | `daily assistant` |
@@ -1397,8 +1407,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [09 Diagnose.Agent](daily-assistant/273-09-diagnoseagent_6f341e88/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 85 | `daily assistant` |
 | [Azure Artifacts.Instructions](daily-assistant/274-azure-artifactsinstructions_8c2ade19/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/azure-artifacts.instructions.md) | ⭐ 85 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_b274177e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-artifacts/SKILL.md) | ⭐ 85 | `daily assistant` |
+| [Market News Analyzer](daily-assistant/293-market-news-analyzer_adf32822/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/market-news-analyzer.md) | ⭐ 38 | `daily assistant` |
 
-### Data Analysis (444 skills)
+### Data Analysis (447 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1674,7 +1685,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Narrative](data-analysis/482-narrative_3c7a4281/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/character_analysis/narrative.md) | ⭐ 28 | `data analysis` |
 | [Production](data-analysis/483-production_f969b214/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/production.md) | ⭐ 16 | `data analysis` |
 | [Structured Outputs](data-analysis/484-structured-outputs_61848aff/) | [lydakis/alloy](https://raw.githubusercontent.com/lydakis/alloy/main/docs/guide/structured-outputs.md) | ⭐ 16 | `data analysis` |
-| [Claude](data-analysis/036-claude_5ce3ca30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 17 | `data analysis` |
+| [Claude](data-analysis/claude_74816494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Release Notes V5.3.0](data-analysis/492-release-notes-v530_a5cc3312/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/RELEASE-NOTES-v5.3.0.md) | ⭐ 153 | `data analysis` |
 | [Development Readme](data-analysis/493-development-readme_0cf4f4aa/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/.agent/DEVELOPMENT-README.md) | ⭐ 153 | `data analysis` |
 | [Grafana Dashboard](data-analysis/494-grafana-dashboard_3a1723cd/) | [alekspetrov/navigator](https://raw.githubusercontent.com/alekspetrov/navigator/main/docs/GRAFANA-DASHBOARD.md) | ⭐ 153 | `data analysis` |
@@ -1846,8 +1857,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Estimate.Instructions](data-analysis/482-cost-estimateinstructions_000e6740/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/cost-estimate.instructions.md) | ⭐ 85 | `data analysis` |
 | [04 Governance Constraints](data-analysis/382-04-governance-constraints_30a1d2a6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/04-governance-constraints.md) | ⭐ 85 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_636bb1b3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/SKILL.md) | ⭐ 85 | `data analysis` |
+| [Claude](data-analysis/036-claude_74816494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Master Workflow](data-analysis/master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
+| [Llm Review Schema](data-analysis/llm_review_schema_66d4e7f6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dual-axis-skill-reviewer/references/llm_review_schema.md) | ⭐ 38 | `data analysis` |
 
-### Development (1226 skills)
+### Development (1257 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2996,7 +3010,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_ea7806c1/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/server-action-builder/SKILL.md) | ⭐ 12 | `server-action` `mutation` `validation` |
 | [Research Curator](development/2955-research-curator_a9b131e4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/research-curator.md) | ⭐ 18 | `development` |
 | [2026 02 19 Ruamel Yaml Migration Design](development/2956-2026-02-19-ruamel-yaml-migration-design_93224bce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/plans/2026-02-19-ruamel-yaml-migration-design.md) | ⭐ 18 | `development` |
-| [Hook Creator](development/2957-hook-creator_28c7c844/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
+| [Hook Creator](development/hook-creator_8f366937/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_033dd5f6/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-hreflang/SKILL.md) | ⭐ 894 | `development` |
 | [Skill](development/1178-name-skill_c5c70d41/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/airflow/SKILL.md) | ⭐ 231 | `development` |
 | [Skill](development/1178-name-skill_ba263783/) | [astronomer/agents](https://raw.githubusercontent.com/astronomer/agents/main/skills/debugging-dags/SKILL.md) | ⭐ 231 | `development` |
@@ -3074,11 +3088,42 @@ ls ~/.claude/skills/patch-research-agent/
 | [07 Design Document](development/2122-07-design-document_9c3413f4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-design-document.md) | ⭐ 85 | `development` |
 | [07 Operations Runbook](development/2123-07-operations-runbook_0feef88c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-operations-runbook.md) | ⭐ 85 | `development` |
 | [Skill](development/1178-name-skill_6e7dee7f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-adr/SKILL.md) | ⭐ 85 | `development` |
-| [Skill Gen](development/skill_gen_2344a88d/) | [huggingface/upskill](https://raw.githubusercontent.com/huggingface/upskill/main/src/upskill/agent_cards/skill_gen.md) | ⭐ 334 | `development` |
-| [Sso Entra Role Mapping](development/sso-entra-role-mapping_9187cbce/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-entra-role-mapping.md) | ⭐ 3.3k | `development` |
-| [Sso Microsoft Entra Id Tutorial](development/sso-microsoft-entra-id-tutorial_7c7224c8/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-microsoft-entra-id-tutorial.md) | ⭐ 3.3k | `development` |
+| [Skill Gen](development/2882-skill_gen_2344a88d/) | [huggingface/upskill](https://raw.githubusercontent.com/huggingface/upskill/main/src/upskill/agent_cards/skill_gen.md) | ⭐ 334 | `development` |
+| [Sso Entra Role Mapping](development/2883-sso-entra-role-mapping_9187cbce/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-entra-role-mapping.md) | ⭐ 3.3k | `development` |
+| [Sso Microsoft Entra Id Tutorial](development/2884-sso-microsoft-entra-id-tutorial_7c7224c8/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-microsoft-entra-id-tutorial.md) | ⭐ 3.3k | `development` |
+| [Contributors](development/1897-contributors_95bbd67e/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/CONTRIBUTORS.md) | 🔥 14.2k | `development` |
+| [Claude](development/140-claude_3ee25e9b/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Og Review](development/2954-og-review_76b92bd7/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/OG-review.md) | ⭐ 10 | `development` |
+| [Audit Plans](development/2955-audit-plans_07684ba6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/audit-plans.md) | ⭐ 10 | `development` |
+| [Cleanproject](development/2956-cleanproject_dfc0088f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/cleanproject.md) | ⭐ 10 | `development` |
+| [Commit](development/174-commit_14acca21/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/commit.md) | ⭐ 10 | `development` |
+| [Create Todos](development/2957-create-todos_b717da5d/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/create-todos.md) | ⭐ 10 | `development` |
+| [Designer](development/2958-designer_6557d95b/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/designer.md) | ⭐ 10 | `development` |
+| [Docs](development/2959-docs_4303f873/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/docs.md) | ⭐ 10 | `development` |
+| [Explain Like Senior](development/2960-explain-like-senior_c53fe59c/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/explain-like-senior.md) | ⭐ 10 | `development` |
+| [Fix Todos](development/2961-fix-todos_2e6d1284/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/fix-todos.md) | ⭐ 10 | `development` |
+| [Make It Pretty](development/2962-make-it-pretty_1a111cfd/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/make-it-pretty.md) | ⭐ 10 | `development` |
+| [Refactor](development/827-refactor_25a89083/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/refactor.md) | ⭐ 10 | `development` |
+| [Remove Comments](development/2963-remove-comments_a2ae06f9/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/remove-comments.md) | ⭐ 10 | `development` |
+| [Requirements Current](development/2964-requirements-current_a6501ef7/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/requirements-current.md) | ⭐ 10 | `development` |
+| [Requirements Start](development/2965-requirements-start_e49d1345/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/requirements-start.md) | ⭐ 10 | `development` |
+| [Scaffold](development/1512-scaffold_89053471/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/scaffold.md) | ⭐ 10 | `development` |
+| [Security Scan](development/950-security-scan_a2359939/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/security-scan.md) | ⭐ 10 | `development` |
+| [Session Report](development/2966-session-report_45984d12/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/session-report.md) | ⭐ 10 | `development` |
+| [Session Start](development/2967-session-start_f9177979/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/session-start.md) | ⭐ 10 | `development` |
+| [Todos To Issues](development/2968-todos-to-issues_1129d25a/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/todos-to-issues.md) | ⭐ 10 | `development` |
+| [Understand](development/2969-understand_7bb8efbf/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/understand.md) | ⭐ 10 | `development` |
+| [Undo](development/2970-undo_3966ee66/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/undo.md) | ⭐ 10 | `development` |
+| [Pro Plan](development/2971-pro-plan_c5be5ca4/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/workflows/pro-plan.md) | ⭐ 10 | `development` |
+| [Review](development/920-review_9fffb076/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/workflows/review.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_d51517f3/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/architecture-md-builder/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_5e0e3b6f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/beads-task-tracker/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_9ca409c9/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-md-manager/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_8b71c27f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/skill-optimizer/SKILL.md) | ⭐ 10 | `development` |
+| [Hook Creator](development/2957-hook-creator_8f366937/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
+| [Claude](development/claude_333e6d87/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 38 | `development` |
 
-### Development/Devops (253 skills)
+### Development/Devops (252 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3106,7 +3151,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reference Set Ext 12 Cicd Security](development/devops/076-reference-set-ext-12-cicd-security_0521ba12/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-cicd-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Npm Security](development/devops/077-reference-set-ext-12-npm-security_3c3eb33b/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-npm-security.md) | ⭐ 151 | `development` |
 | [Reference Set Ext 12 Supply Chain Security](development/devops/078-reference-set-ext-12-supply-chain-security_90024891/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-ext-12-supply-chain-security.md) | ⭐ 151 | `development` |
-| [Configuration](development/devops/configuration_76f04f4d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/009-configuration_9d0f3514/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Batch Eval Quickstart](development/devops/371-batch_eval_quickstart_8a1c7ae5/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/docs/BATCH_EVAL_QUICKSTART.md) | ⭐ 19 | `development` |
 | [Instructions](development/devops/197-instructions_39d88d4f/) | [SkeneTechnologies/skene-cookbook](https://raw.githubusercontent.com/SkeneTechnologies/skene-cookbook/main/skills-library/reference/scientific/modal/instructions.md) | ⭐ 19 | `development` |
 | [Docker Compose Guide](development/devops/090-docker-compose-guide_72061a3c/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/docker-compose-guide.md) | ⭐ 4.0k | `development` |
@@ -3334,9 +3379,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [03 Des Cost Estimate](development/devops/210-03-des-cost-estimate_3afb6d9f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/03-des-cost-estimate.md) | ⭐ 85 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_aa42a270/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 85 | `development` |
 | [Configuration](development/devops/009-configuration_76f04f4d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_bcf8f6b8/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/index.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (66 skills)
+### Development/Testing (65 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3405,9 +3449,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Qa Report](development/testing/090-plugin-validator-qa-report_52d7cc90/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-qa-report.md) | ⭐ 18 | `development` |
 | [Plugin Validator Tasks](development/testing/091-plugin-validator-tasks_53cfb505/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/092-description-skill_8b75fd5a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/setup/SKILL.md) | ⭐ 18 | `development` |
-| [Entra Id E2E](development/testing/entra-id-e2e_003eccaa/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/entra-id-e2e.md) | ⭐ 3.3k | `development` |
 
-### Development/Tools (306 skills)
+### Development/Tools (307 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3717,8 +3760,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_f0b7a17d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 80 | `development` |
 | [Agents](development/tools/015-agents_f7dcfa26/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/AGENTS.md) | ⭐ 51 | `development` |
 | [Pan](development/tools/331-pan_84b4ddb2/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/pan.md) | ⭐ 51 | `development` |
+| [Claude](development/tools/017-claude_6dbc39da/) | [religa/multi_mcp](https://raw.githubusercontent.com/religa/multi_mcp/main/CLAUDE.md) | ⭐ 16 | `development` |
 
-### Investment (99 skills)
+### Investment (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3738,7 +3782,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Todo](investment/049-todo_c14eb873/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/TODO.md) | ⭐ 33 | `investment` |
 | [Bubble Detector V2.0 Revision](investment/050-bubble-detector-v20-revision_be0b9d05/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/bubble-detector-v2.0-revision.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_424e08dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
-| [Skill](investment/021-name-skill_0810188f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/name-skill_6c4e6e24/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 38 | `investment` |
 | [Skill](investment/021-name-skill_a42d5f48/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_a66b8073/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_796e8047/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/options-strategy-advisor/SKILL.md) | ⭐ 33 | `investment` |
@@ -3748,8 +3792,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_2dae190f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/SKILL.md) | ⭐ 33 | `investment` |
 | [Breadth Chart Methodology](investment/051-breadth_chart_methodology_d1f1f32a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/references/breadth_chart_methodology.md) | ⭐ 33 | `investment` |
 | [Canslim Methodology](investment/052-canslim_methodology_610234bb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/canslim_methodology.md) | ⭐ 33 | `investment` |
-| [Fmp Api Endpoints](investment/053-fmp_api_endpoints_b16a00e1/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/fmp_api_endpoints.md) | ⭐ 33 | `investment` |
-| [Interpretation Guide](investment/054-interpretation_guide_e81b87eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/interpretation_guide.md) | ⭐ 33 | `investment` |
+| [Fmp Api Endpoints](investment/fmp_api_endpoints_362eaa5d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/fmp_api_endpoints.md) | ⭐ 38 | `investment` |
+| [Interpretation Guide](investment/interpretation_guide_7152d91d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/interpretation_guide.md) | ⭐ 38 | `investment` |
 | [Dividend Growth Compounding](investment/055-dividend_growth_compounding_ccee4f8a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/dividend_growth_compounding.md) | ⭐ 33 | `investment` |
 | [Fmp Api Guide](investment/056-fmp_api_guide_3ae21c58/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
 | [Rsi Oversold Strategy](investment/057-rsi_oversold_strategy_34906933/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dividend-growth-pullback-screener/references/rsi_oversold_strategy.md) | ⭐ 33 | `investment` |
@@ -3789,17 +3833,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Historical Cases](investment/090-historical_cases_037e06eb/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/historical_cases.md) | ⭐ 33 | `investment` |
 | [Implementation Guide](investment/091-implementation_guide_c1442cbd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/implementation_guide.md) | ⭐ 33 | `investment` |
 | [Quick Reference](investment/092-quick_reference_c432309c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference.md) | ⭐ 33 | `investment` |
-| [Quick Reference En](investment/093-quick_reference_en_bdd813ca/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference_en.md) | ⭐ 33 | `investment` |
+| [Quick Reference En](investment/quick_reference_en_416ab352/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference_en.md) | ⭐ 38 | `investment` |
 | [Financial Metrics](investment/094-financial-metrics_8324f69a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/references/financial-metrics.md) | ⭐ 33 | `investment` |
 | [Fmp Api Guide](investment/056-fmp_api_guide_c39b1f5e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/references/fmp_api_guide.md) | ⭐ 33 | `investment` |
 | [Screening Methodology](investment/095-screening_methodology_c723c1de/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/value-dividend-screener/references/screening_methodology.md) | ⭐ 33 | `investment` |
 | [Fmp Api Endpoints](investment/053-fmp_api_endpoints_1e54f492/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/fmp_api_endpoints.md) | ⭐ 33 | `investment` |
 | [Scoring System](investment/096-scoring_system_8a4825b6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/references/scoring_system.md) | ⭐ 33 | `investment` |
-| [Druckenmiller Strategy Planner](investment/097-druckenmiller-strategy-planner_6904a4f2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 33 | `investment` |
+| [Druckenmiller Strategy Planner](investment/druckenmiller-strategy-planner_234e4a47/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 38 | `investment` |
 | [Technical Market Analyst](investment/098-technical-market-analyst_82829cee/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/technical-market-analyst.md) | ⭐ 33 | `investment` |
-| [Us Market Analyst](investment/099-us-market-analyst_e5a5571a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 33 | `investment` |
+| [Us Market Analyst](investment/us-market-analyst_89409104/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 38 | `investment` |
 | [Skill](investment/021-name-skill_5c1f2cd0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
-| [Earnings Calendar 2025 11 02](investment/100-earnings_calendar_2025-11-02_3865d06f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 33 | `investment` |
+| [Earnings Calendar 2025 11 02](investment/earnings_calendar_2025-11-02_f32c73d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 38 | `investment` |
 | [Skill](investment/021-name-skill_547ca791/) | [neondatabase/agent-skills](https://raw.githubusercontent.com/neondatabase/agent-skills/main/.agents/skills/plugin-manager/SKILL.md) | ⭐ 23 | `investment` |
 | [Agentskills Specification](investment/048-agentskills-specification_8f83c6e4/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/docs/references/agentskills-specification.md) | ⭐ 10 | `investment` |
 | [Skill](investment/021-name-skill_2d27a181/) | [davekilleen/Dex](https://raw.githubusercontent.com/davekilleen/Dex/main/.claude/skills/reset/SKILL.md) | ⭐ 91 | `investment` |
@@ -3821,8 +3865,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_88a8b777/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/SKILL.md) | ⭐ 38 | `investment` |
 | [Breadth Analysis Methodology](investment/053-breadth_analysis_methodology_992b7af2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-breadth-analyzer/references/breadth_analysis_methodology.md) | ⭐ 38 | `investment` |
 | [Uptrend Methodology](investment/054-uptrend_methodology_561e4c02/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/uptrend-analyzer/references/uptrend_methodology.md) | ⭐ 38 | `investment` |
+| [Skill](investment/021-name-skill_6c4e6e24/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 38 | `investment` |
+| [Fmp Api Endpoints](investment/055-fmp_api_endpoints_362eaa5d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/fmp_api_endpoints.md) | ⭐ 38 | `investment` |
+| [Interpretation Guide](investment/056-interpretation_guide_7152d91d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/interpretation_guide.md) | ⭐ 38 | `investment` |
+| [Quick Reference En](investment/057-quick_reference_en_416ab352/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-market-bubble-detector/references/quick_reference_en.md) | ⭐ 38 | `investment` |
+| [Druckenmiller Strategy Planner](investment/058-druckenmiller-strategy-planner_234e4a47/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 38 | `investment` |
+| [Us Market Analyst](investment/059-us-market-analyst_89409104/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 38 | `investment` |
+| [Earnings Calendar 2025 11 02](investment/060-earnings_calendar_2025-11-02_f32c73d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 38 | `investment` |
+| [Readme.Ja](investment/readmeja_5b98962e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/README.ja.md) | ⭐ 38 | `investment` |
+| [Skill](investment/name-skill_1883ab4d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/backtest-expert/SKILL.md) | ⭐ 38 | `investment` |
+| [Skill](investment/name-skill_dff770db/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/us-stock-analysis/SKILL.md) | ⭐ 38 | `investment` |
+| [Failed Tests](investment/failed_tests_84fe35cd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/backtest-expert/references/failed_tests.md) | ⭐ 38 | `investment` |
+| [Methodology](investment/methodology_eb2a73ca/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/backtest-expert/references/methodology.md) | ⭐ 38 | `investment` |
+| [Scoring System](investment/scoring_system_4601d259/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/references/scoring_system.md) | ⭐ 38 | `investment` |
+| [Investment Philosophy](investment/investment-philosophy_a97a3305/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/stanley-druckenmiller-investment/references/investment-philosophy.md) | ⭐ 38 | `investment` |
 
-### Other (4 skills)
+### Other (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3830,6 +3888,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nuanced Classification](other/037-nuanced-classification_c60b88ed/) | [oaustegard/claude-skills](https://raw.githubusercontent.com/oaustegard/claude-skills/main/down-skilling/gaps/nuanced-classification.md) | ⭐ 99 | `other` |
 | [Existential Therapy](other/036-existential_therapy_a6cbf58d/) | [eliranwong/agentmake](https://raw.githubusercontent.com/eliranwong/agentmake/main/agentmake/systems/counsellors/Existential_Therapy.md) | ⭐ 28 | `other` |
 | [Sector Sensitivity Matrix](other/036-sector_sensitivity_matrix_65d04f8e/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/scenario-analyzer/references/sector_sensitivity_matrix.md) | ⭐ 33 | `other` |
+| [Case Studies](other/case-studies_beb24f11/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/stanley-druckenmiller-investment/references/case-studies.md) | ⭐ 38 | `other` |
+| [Investment Philosophy](other/investment-philosophy_5fa70fc6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/stanley-druckenmiller-investment/references/investment-philosophy.md) | ⭐ 38 | `other` |
 
 ### Productivity (59 skills)
 
@@ -4053,5 +4113,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 03:55:10 UTC*
+*Last updated: 2026-02-21 04:55:25 UTC*
 *Automatically maintained by SkillFlow*
