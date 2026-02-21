@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T18:41:08.991381",
+  "updated_at": "2026-02-21T19:39:21.134729",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -54209,6 +54209,90 @@
       "source_url": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "38060e27f048923757997349ad72213975369235107e7bdde8f1fd8617126d1c",
+      "source_path": "plugins/developer-kit-core/docs/installation.md",
+      "source_repo": "giuseppe-trisciuoglio/developer-kit",
+      "local_path": "development/474-installation_38060e27",
+      "category": "development",
+      "name": "installation_38060e27",
+      "indexed_at": "2026-02-21T19:39:15.203167",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-20T09:36:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-core/docs/installation.md",
+      "display_name": "Installation",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0f59145105249836f4443d1faef33d3d675cab37d1c4b6691ebb43e2181fb20e",
+      "source_path": ".claude/agents/vtable-fixer.md",
+      "source_repo": "hzqst/CS2_VibeSignatures",
+      "local_path": "development/2885-vtable-fixer_0f591451",
+      "category": "development",
+      "name": "vtable-fixer_0f591451",
+      "indexed_at": "2026-02-21T19:39:16.386100",
+      "repo_stars": 19,
+      "repo_updated_at": "2026-02-21T10:32:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/hzqst/CS2_VibeSignatures/main/.claude/agents/vtable-fixer.md",
+      "display_name": "Vtable Fixer",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0aa4f73fb5c9459df9d64fe678a2984adcd841199de9a7ca5fece3acddcb93c7",
+      "source_path": "plugins/developer-kit-typescript/skills/nextjs-authentication/SKILL.md",
+      "source_repo": "giuseppe-trisciuoglio/developer-kit",
+      "local_path": "development/1178-name-skill_0aa4f73f",
+      "category": "development",
+      "name": "name-skill_0aa4f73f",
+      "indexed_at": "2026-02-21T19:39:17.250231",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-19T11:40:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-authentication/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4ad4e6d669650a84fe1bdf9a2e38be815814e4b6fcb49eb3add1def13c24f49a",
+      "source_path": "plugins/developer-kit-typescript/skills/nextjs-performance/SKILL.md",
+      "source_repo": "giuseppe-trisciuoglio/developer-kit",
+      "local_path": "development/1178-name-skill_4ad4e6d6",
+      "category": "development",
+      "name": "name-skill_4ad4e6d6",
+      "indexed_at": "2026-02-21T19:39:18.748597",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-19T14:06:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-performance/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"products\"]"
+    },
+    {
+      "file_hash": "abe50d59290b4e8f4a7df25f769627a394b13ad3028bc40a385fe0ea58e27ac4",
+      "source_path": "plugins/developer-kit-php/skills/aws-lambda-php-integration/references/bref-lambda.md",
+      "source_repo": "giuseppe-trisciuoglio/developer-kit",
+      "local_path": "development/2967-bref-lambda_abe50d59",
+      "category": "development",
+      "name": "bref-lambda_abe50d59",
+      "indexed_at": "2026-02-21T19:39:19.786969",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-15T20:49:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/aws-lambda-php-integration/references/bref-lambda.md",
+      "display_name": "Bref Lambda",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "15f76685e741b10cf865068594796792b4da274c3d33791329d5ed8fbd0d7148",
+      "source_path": "plugins/developer-kit-python/skills/aws-lambda-python-integration/references/raw-python-lambda.md",
+      "source_repo": "giuseppe-trisciuoglio/developer-kit",
+      "local_path": "development/2968-raw-python-lambda_15f76685",
+      "category": "development",
+      "name": "raw-python-lambda_15f76685",
+      "indexed_at": "2026-02-21T19:39:21.134673",
+      "repo_stars": 102,
+      "repo_updated_at": "2026-02-15T20:49:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/aws-lambda-python-integration/references/raw-python-lambda.md",
+      "display_name": "Raw Python Lambda",
+      "tags": "[\"development\"]"
     }
   ]
 }
