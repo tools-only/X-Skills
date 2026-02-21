@@ -1,0 +1,24 @@
+# Toolsets
+
+| Property | Value |
+|----------|-------|
+| **Name** | Toolsets |
+| **Repository** | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) (⭐ 308) |
+| **Original Path** | `docs/concepts/toolsets.md` |
+| **Category** | content-creation |
+| **Subcategory** | writing |
+| **Tags** | content creation |
+| **Created** | 2025-11-29 |
+| **Updated** | 2026-02-17 |
+| **File Hash** | `adad4e0593518dab...` |
+
+## Description
+
+Toolsets are collections of tools that extend agent capabilities. pydanticdeep includes four builtin toolsets.
+
+**Tags:** `content creation`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md)*
