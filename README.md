@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **285 AI-powered skills** organized into 12 categories.
+A curated collection of **348 AI-powered skills** organized into 12 categories.
 
 ## Overview
 
@@ -11,15 +11,15 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (8 skills)
 - **Commercial** (15 skills)
 - **Communication** (9 skills)
-- **Content Creation** (28 skills)
+- **Content Creation** (29 skills)
 - **Daily Assistant** (3 skills)
-- **Data Analysis** (35 skills)
-- **Development** (57 skills)
+- **Data Analysis** (47 skills)
+- **Development** (81 skills)
 - **Development/Devops** (86 skills)
-- **Development/Testing** (7 skills)
-- **Development/Tools** (28 skills)
+- **Development/Testing** (3 skills)
+- **Development/Tools** (45 skills)
 - **Productivity** (3 skills)
-- **Research** (6 skills)
+- **Research** (19 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -209,7 +209,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](commercial/102-index_833de47b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/index.md) | ⭐ 3.3k | `commercial` |
 | [Grpc Services](commercial/394-grpc-services_a969a94f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/grpc-services.md) | ⭐ 3.3k | `commercial` |
 | [Query Param Auth](commercial/395-query-param-auth_e000b191/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/query-param-auth.md) | ⭐ 3.3k | `commercial` |
-| [Cards](commercial/cards_6c04640b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/cards.md) | ⭐ 117 | `commercial` |
+| [Cards](commercial/378-cards_6c04640b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/cards.md) | ⭐ 117 | `commercial` |
 
 ### Communication (9 skills)
 
@@ -222,10 +222,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Database Adapter](communication/271-database-adapter_0b083935/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-authentication/references/database-adapter.md) | ⭐ 102 | `communication` |
 | [Rfc9728 Compliance](communication/272-rfc9728-compliance_0ee721f6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/rfc9728-compliance.md) | ⭐ 3.3k | `communication` |
 | [Password Management](communication/273-password-management_bc5d8451/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
-| [Inputs](communication/inputs_0e8fceb4/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/inputs.md) | ⭐ 117 | `communication` |
-| [Toasts](communication/toasts_88d5e31e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/toasts.md) | ⭐ 117 | `communication` |
+| [Inputs](communication/269-inputs_0e8fceb4/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/inputs.md) | ⭐ 117 | `communication` |
+| [Toasts](communication/270-toasts_88d5e31e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/toasts.md) | ⭐ 117 | `communication` |
 
-### Content Creation (28 skills)
+### Content Creation (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -250,13 +250,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Chunker Server](content-creation/417-chunker-server_334bf908/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/chunker-server.md) | ⭐ 3.3k | `content creation` |
 | [Eval Server](content-creation/418-eval-server_35d409dc/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/eval-server.md) | ⭐ 3.3k | `content creation` |
 | [Url To Markdown Server](content-creation/419-url-to-markdown-server_55cb28c7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/url-to-markdown-server.md) | ⭐ 3.3k | `content creation` |
-| [Skill](content-creation/name-skill_6b88bec6/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/SKILL.md) | ⭐ 117 | `package` |
-| [Skill](content-creation/name-skill_e7bf1e39/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/SKILL.md) | ⭐ 117 | `content creation` |
-| [Content Guidelines](content-creation/content-guidelines_b4f2960a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/content-guidelines.md) | ⭐ 117 | `content creation` |
-| [Shiny Formatting](content-creation/shiny-formatting_30dd05e6/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/shiny-formatting.md) | ⭐ 117 | `content creation` |
-| [Conversion Blogdown](content-creation/conversion-blogdown_038f094b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-blogdown.md) | ⭐ 117 | `data` |
-| [Conversion Distill](content-creation/conversion-distill_69039bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-distill.md) | ⭐ 117 | `content creation` |
-| [Sidebars](content-creation/sidebars_3d2a60c4/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/sidebars.md) | ⭐ 117 | `content creation` |
+| [Skill](content-creation/049-name-skill_6b88bec6/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/SKILL.md) | ⭐ 117 | `package` |
+| [Skill](content-creation/049-name-skill_e7bf1e39/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/SKILL.md) | ⭐ 117 | `content creation` |
+| [Content Guidelines](content-creation/360-content-guidelines_b4f2960a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/content-guidelines.md) | ⭐ 117 | `content creation` |
+| [Shiny Formatting](content-creation/361-shiny-formatting_30dd05e6/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/shiny-formatting.md) | ⭐ 117 | `content creation` |
+| [Conversion Blogdown](content-creation/362-conversion-blogdown_038f094b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-blogdown.md) | ⭐ 117 | `data` |
+| [Conversion Distill](content-creation/363-conversion-distill_69039bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-distill.md) | ⭐ 117 | `content creation` |
+| [Features](content-creation/features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
+| [Skill](content-creation/name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
 
 ### Daily Assistant (3 skills)
 
@@ -264,9 +265,9 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Package Configs](daily-assistant/294-package-configs_66bf674a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/package-configs.md) | ⭐ 102 | `daily assistant` |
 | [Crewai](daily-assistant/295-crewai_c93ce999/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/agents/crewai.md) | ⭐ 3.3k | `daily assistant` |
-| [Skill](daily-assistant/name-skill_165a91fb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/create-release-checklist/SKILL.md) | ⭐ 117 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_165a91fb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/create-release-checklist/SKILL.md) | ⭐ 117 | `daily assistant` |
 
-### Data Analysis (35 skills)
+### Data Analysis (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -286,27 +287,39 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plotly Server](data-analysis/508-plotly-server_3921f69a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/plotly-server.md) | ⭐ 3.3k | `data analysis` |
 | [Pptx Server](data-analysis/509-pptx-server_9c6d336a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/pptx-server.md) | ⭐ 3.3k | `data analysis` |
 | [Python Sandbox Server](data-analysis/510-python-sandbox-server_563cf18c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/python-sandbox-server.md) | ⭐ 3.3k | `data analysis` |
-| [Brand Yml In R](data-analysis/brand-yml-in-r_780fb3bb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/brand-yml-in-r.md) | ⭐ 117 | `data analysis` |
-| [Quarto](data-analysis/quarto_81427cd4/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/quarto.md) | ⭐ 117 | `data analysis` |
-| [Shiny R](data-analysis/shiny-r_0109581d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/shiny-r.md) | ⭐ 117 | `data analysis` |
-| [Skill](data-analysis/name-skill_533d0b3b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/SKILL.md) | ⭐ 117 | `data analysis` |
-| [Callouts](data-analysis/callouts_e4d4e5e1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/callouts.md) | ⭐ 117 | `data analysis` |
-| [Conversion Bookdown](data-analysis/conversion-bookdown_d994073b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-bookdown.md) | ⭐ 117 | `data analysis` |
-| [Conversion Rmarkdown](data-analysis/conversion-rmarkdown_aee6105e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-rmarkdown.md) | ⭐ 117 | `data analysis` |
-| [Cross References](data-analysis/cross-references_202cb6fe/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/cross-references.md) | ⭐ 117 | `data analysis` |
-| [Diagrams](data-analysis/diagrams_c3d9252d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/diagrams.md) | ⭐ 117 | `data analysis` |
-| [Shortcodes](data-analysis/shortcodes_3dd7acd7/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/shortcodes.md) | ⭐ 117 | `data analysis` |
-| [Tables](data-analysis/tables_15e26f8d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/tables.md) | ⭐ 117 | `data analysis` |
-| [Accordions](data-analysis/accordions_c86bfde7/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/accordions.md) | ⭐ 117 | `data analysis` |
-| [Navigation](data-analysis/navigation_d4984c12/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/navigation.md) | ⭐ 117 | `data analysis` |
-| [Page Layouts](data-analysis/page-layouts_7aa85757/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/page-layouts.md) | ⭐ 117 | `data analysis` |
-| [Theming](data-analysis/theming_77a63bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/theming.md) | ⭐ 117 | `data analysis` |
-| [Value Boxes](data-analysis/value-boxes_3b530b15/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/value-boxes.md) | ⭐ 117 | `data analysis` |
-| [Best Practices](data-analysis/best-practices_4497c81a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/best-practices.md) | ⭐ 117 | `data analysis` |
-| [Filling](data-analysis/filling_dee25c83/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/filling.md) | ⭐ 117 | `data analysis` |
-| [Grid Layouts](data-analysis/grid-layouts_48cb430a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/grid-layouts.md) | ⭐ 117 | `data analysis` |
+| [Brand Yml In R](data-analysis/479-brand-yml-in-r_780fb3bb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/brand-yml-in-r.md) | ⭐ 117 | `data analysis` |
+| [Quarto](data-analysis/480-quarto_81427cd4/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/quarto.md) | ⭐ 117 | `data analysis` |
+| [Shiny R](data-analysis/481-shiny-r_0109581d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/shiny-r.md) | ⭐ 117 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_533d0b3b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/SKILL.md) | ⭐ 117 | `data analysis` |
+| [Callouts](data-analysis/482-callouts_e4d4e5e1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/callouts.md) | ⭐ 117 | `data analysis` |
+| [Conversion Bookdown](data-analysis/483-conversion-bookdown_d994073b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-bookdown.md) | ⭐ 117 | `data analysis` |
+| [Conversion Rmarkdown](data-analysis/484-conversion-rmarkdown_aee6105e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-rmarkdown.md) | ⭐ 117 | `data analysis` |
+| [Cross References](data-analysis/485-cross-references_202cb6fe/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/cross-references.md) | ⭐ 117 | `data analysis` |
+| [Diagrams](data-analysis/442-diagrams_c3d9252d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/diagrams.md) | ⭐ 117 | `data analysis` |
+| [Shortcodes](data-analysis/486-shortcodes_3dd7acd7/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/shortcodes.md) | ⭐ 117 | `data analysis` |
+| [Tables](data-analysis/487-tables_15e26f8d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/tables.md) | ⭐ 117 | `data analysis` |
+| [Accordions](data-analysis/488-accordions_c86bfde7/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/accordions.md) | ⭐ 117 | `data analysis` |
+| [Navigation](data-analysis/489-navigation_d4984c12/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/navigation.md) | ⭐ 117 | `data analysis` |
+| [Page Layouts](data-analysis/490-page-layouts_7aa85757/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/page-layouts.md) | ⭐ 117 | `data analysis` |
+| [Theming](data-analysis/491-theming_77a63bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/theming.md) | ⭐ 117 | `data analysis` |
+| [Value Boxes](data-analysis/492-value-boxes_3b530b15/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/value-boxes.md) | ⭐ 117 | `data analysis` |
+| [Claude](data-analysis/036-claude_8dccc45b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Orchestrator Discipline Patterns](data-analysis/486-orchestrator-discipline-patterns_95fa0f32/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/orchestrator-discipline-patterns.md) | ⭐ 18 | `data analysis` |
+| [Research Scripts Refs](data-analysis/487-research-scripts-refs_9880003d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-scripts-refs.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3854a340/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0637d133/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/swarm-primitives/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_a73903d5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/skills/kaizen-improvement/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_4667e05f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/dasel-reference/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_0f557dc7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-lifecycle/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_5d22706c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/plugin-creator/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7bfb55e1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/summarizer/skills/file-summarization/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7326fbc9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/summarizer/skills/image-summarization/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_58a16c4c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/workflows/execution/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Prompt Optimization](data-analysis/488-prompt-optimization_f32f3366/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/prompt-optimization.md) | ⭐ 18 | `data analysis` |
+| [Research Utilities](data-analysis/489-research-utilities_a32adef1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/research-utilities.md) | ⭐ 18 | `data analysis` |
+| [Contextual Ai Documentation Optimizer Adapter](data-analysis/490-contextual-ai-documentation-optimizer-adapter_394973bd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/adapters/contextual-ai-documentation-optimizer-adapter.md) | ⭐ 18 | `data analysis` |
 
-### Development (57 skills)
+### Development (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -344,29 +357,53 @@ ls ~/.claude/skills/patch-research-agent/
 | [Calculator Server](development/3002-calculator-server_84a343ea/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/calculator-server.md) | ⭐ 3.3k | `development` |
 | [Box](development/3003-box_1e5cdfee/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/external/box/box.md) | ⭐ 3.3k | `development` |
 | [Monday Mcp](development/3004-monday-mcp_91796fb7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/external/monday/monday-mcp.md) | ⭐ 3.3k | `development` |
-| [Skill](development/name-skill_17e6beab/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/SKILL.md) | ⭐ 117 | `development` |
-| [Brand Yml Spec](development/brand-yml-spec_4c1c8800/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/brand-yml-spec.md) | ⭐ 117 | `development` |
-| [Shiny Python](development/shiny-python_6d034f3b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/shiny-python.md) | ⭐ 117 | `development` |
-| [Skill](development/name-skill_d8e79aed/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/posit-dev/critical-code-reviewer/SKILL.md) | ⭐ 117 | `development` |
-| [Skill](development/name-skill_e5da82b8/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/posit-dev/describe-design/SKILL.md) | ⭐ 117 | `development` |
-| [Skill](development/name-skill_06ff523f/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/posit-dev/pr-create/SKILL.md) | ⭐ 117 | `development` |
-| [Skill](development/name-skill_b817f91f/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/SKILL.md) | ⭐ 117 | `development` |
-| [Skill](development/name-skill_faade469/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cran-extrachecks/SKILL.md) | ⭐ 117 | `development` |
-| [Skill](development/name-skill_1a9af13a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/lifecycle/SKILL.md) | ⭐ 117 | `development` |
-| [Tidyverse Formatting](development/tidyverse-formatting_6f9d8aae/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/tidyverse-formatting.md) | ⭐ 117 | `package-name` `category` |
-| [Code Cells](development/code-cells_4883683d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/code-cells.md) | ⭐ 117 | `development` |
-| [Conditional Content](development/conditional-content_3c229e8a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conditional-content.md) | ⭐ 117 | `development` |
-| [Conversion Xaringan](development/conversion-xaringan_39d57dc1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-xaringan.md) | ⭐ 117 | `development` |
-| [Extensions](development/extensions_7560b3bd/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/extensions.md) | ⭐ 117 | `development` |
-| [Figures](development/figures_c0e7f57e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/figures.md) | ⭐ 117 | `development` |
-| [Markdown Linting](development/markdown-linting_0dff392d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/markdown-linting.md) | ⭐ 117 | `development` |
-| [Ansi Operations](development/ansi-operations_3b86a218/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/ansi-operations.md) | ⭐ 117 | `development` |
-| [Inline Markup](development/inline-markup_1ed5cb03/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/inline-markup.md) | ⭐ 117 | `development` |
-| [Progress](development/progress_d7998082/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/progress.md) | ⭐ 117 | `development` |
-| [Lifecycle Stages](development/lifecycle-stages_4f024f57/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/lifecycle/references/lifecycle-stages.md) | ⭐ 117 | `development` |
-| [Migration](development/migration_55087718/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/migration.md) | ⭐ 117 | `development` |
-| [Themes](development/themes_27469ad2/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/themes.md) | ⭐ 117 | `development` |
-| [Snapshots](development/snapshots_c4861fa9/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/references/snapshots.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_17e6beab/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/SKILL.md) | ⭐ 117 | `development` |
+| [Brand Yml Spec](development/2903-brand-yml-spec_4c1c8800/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/brand-yml-spec.md) | ⭐ 117 | `development` |
+| [Shiny Python](development/2904-shiny-python_6d034f3b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/brand-yml/references/shiny-python.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_d8e79aed/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/posit-dev/critical-code-reviewer/SKILL.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_e5da82b8/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/posit-dev/describe-design/SKILL.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_06ff523f/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/posit-dev/pr-create/SKILL.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_b817f91f/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/SKILL.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_faade469/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cran-extrachecks/SKILL.md) | ⭐ 117 | `development` |
+| [Skill](development/1178-name-skill_1a9af13a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/lifecycle/SKILL.md) | ⭐ 117 | `development` |
+| [Tidyverse Formatting](development/2905-tidyverse-formatting_6f9d8aae/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/release-post/references/tidyverse-formatting.md) | ⭐ 117 | `package-name` `category` |
+| [Code Cells](development/2906-code-cells_4883683d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/code-cells.md) | ⭐ 117 | `development` |
+| [Conditional Content](development/2907-conditional-content_3c229e8a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conditional-content.md) | ⭐ 117 | `development` |
+| [Conversion Xaringan](development/2908-conversion-xaringan_39d57dc1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/conversion-xaringan.md) | ⭐ 117 | `development` |
+| [Extensions](development/2909-extensions_7560b3bd/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/extensions.md) | ⭐ 117 | `development` |
+| [Figures](development/2910-figures_c0e7f57e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/figures.md) | ⭐ 117 | `development` |
+| [Markdown Linting](development/2911-markdown-linting_0dff392d/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/markdown-linting.md) | ⭐ 117 | `development` |
+| [Ansi Operations](development/2912-ansi-operations_3b86a218/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/ansi-operations.md) | ⭐ 117 | `development` |
+| [Inline Markup](development/2913-inline-markup_1ed5cb03/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/inline-markup.md) | ⭐ 117 | `development` |
+| [Progress](development/714-progress_d7998082/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/progress.md) | ⭐ 117 | `development` |
+| [Lifecycle Stages](development/2914-lifecycle-stages_4f024f57/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/lifecycle/references/lifecycle-stages.md) | ⭐ 117 | `development` |
+| [Migration](development/2204-migration_55087718/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/migration.md) | ⭐ 117 | `development` |
+| [Feature Context Validate Orchestrator Discipline](development/2977-feature-context-validate-orchestrator-discipline_1964559c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/feature-context-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
+| [Task File Format](development/2797-task_file_format_c1ef2af8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/TASK_FILE_FORMAT.md) | ⭐ 18 | `development` |
+| [Claude](development/140-claude_76000a30/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/CLAUDE.md) | ⭐ 18 | `development` |
+| [Research Agents](development/2978-research-agents_1d3d3c9d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-agents.md) | ⭐ 18 | `development` |
+| [Research Architecture Pattern](development/2979-research-architecture-pattern_edc4bb85/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-architecture-pattern.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_3bc11637/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-creator/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_771f59ba/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-merge-request-changelog/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_4a8cf475/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/external-pattern-integrator/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_45901b1b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/orchestrating-swarms/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_013658d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/scientific-thinking/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_d1022c7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/swarm-operations/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_d132f8a1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/swarm-patterns/SKILL.md) | ⭐ 18 | `development` |
+| [Claude](development/140-claude_f69e49c5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/scripts/CLAUDE.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_798aebc4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_fde04101/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_bbf386d9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-lint/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_8e1c6987/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-logging/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_e6f15e2d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/commitlint/skills/commitlint/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_67bd8e87/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting-orchestrator/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_fe04c1e3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/holistic-linting/skills/holistic-linting/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_6e18624e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/litellm/skills/litellm/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_4fd6044a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/llamafile/skills/llamafile/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_ff9fe8fb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-creator/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_c856efe0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-completeness/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_1640461c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/lint/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_5f0e587a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/memory-and-rules/SKILL.md) | ⭐ 18 | `development` |
 
 ### Development/Devops (86 skills)
 
@@ -459,19 +496,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Langflow Server](development/devops/434-langflow-server_4739c90c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/third-party/langflow-server.md) | ⭐ 3.3k | `development` |
 | [Github](development/devops/397-github_cda2891c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/external/microsoft/github.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (7 skills)
+### Development/Testing (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](development/testing/002-name-skill_187b30c5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nestjs-drizzle-crud-generator/SKILL.md) | ⭐ 102 | `development` |
 | [Nestjs Config](development/testing/089-nestjs-config_ab544f6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/nestjs-config.md) | ⭐ 102 | `development` |
 | [Db Performance](development/testing/090-db-performance_9aa0f078/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/db-performance.md) | ⭐ 3.3k | `development` |
-| [Skill](development/testing/name-skill_6cb2208f/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/SKILL.md) | ⭐ 117 | `development` |
-| [Advanced](development/testing/advanced_97f68de6/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/references/advanced.md) | ⭐ 117 | `development` |
-| [Bdd](development/testing/bdd_28373d27/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/references/bdd.md) | ⭐ 117 | `development` |
-| [Mocking](development/testing/mocking_c2f5cabf/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/references/mocking.md) | ⭐ 117 | `development` |
 
-### Development/Tools (28 skills)
+### Development/Tools (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -499,29 +532,59 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instana](development/tools/366-instana_c81a89af/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/ibm/instana.md) | ⭐ 3.3k | `development` |
 | [Mermaid Server](development/tools/367-mermaid-server_f0be2d55/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/mermaid-server.md) | ⭐ 3.3k | `development` |
 | [Index](development/tools/062-index_ec82d631/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/external/open/index.md) | ⭐ 3.3k | `development` |
-| [Skill](development/tools/name-skill_fe5d0c93/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/SKILL.md) | ⭐ 117 | `development` |
-| [Conditions](development/tools/conditions_fbf1013a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/conditions.md) | ⭐ 117 | `development` |
-| [Sass And Css Variables](development/tools/sass-and-css-variables_db885c80/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/sass-and-css-variables.md) | ⭐ 117 | `development` |
-| [Fixtures](development/tools/fixtures_8ab18c23/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/references/fixtures.md) | ⭐ 117 | `development` |
+| [Skill](development/tools/002-name-skill_fe5d0c93/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/SKILL.md) | ⭐ 117 | `development` |
+| [Conditions](development/tools/329-conditions_fbf1013a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/conditions.md) | ⭐ 117 | `development` |
+| [Sass And Css Variables](development/tools/330-sass-and-css-variables_db885c80/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/sass-and-css-variables.md) | ⭐ 117 | `development` |
+| [Backlog](development/tools/336-backlog_5f579c4c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
+| [Copilot Instructions](development/tools/337-copilot-instructions_727ce275/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.github/copilot-instructions.md) | ⭐ 18 | `development` |
+| [Architect Validate Orchestrator Discipline](development/tools/338-architect-validate-orchestrator-discipline_2adb21c5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
+| [Tasks 4 Validate Orchestrator Discipline](development/tools/339-tasks-4-validate-orchestrator-discipline_55f8f536/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-4-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
+| [Orchestrator Discipline Grooming 2026 02 20](development/tools/340-orchestrator-discipline-grooming-2026-02-20_115fd850/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/orchestrator-discipline-grooming-2026-02-20.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_f8e7b13a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/commit-staged/SKILL.md) | ⭐ 18 | `development` |
+| [2026 02 20 Duckdb Lock Scope Flag](development/tools/341-2026-02-20-duckdb-lock-scope-flag_18db1838/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/docs/plans/2026-02-20-duckdb-lock-scope-flag.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_0fffb33b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/clang-format/skills/clang-format/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_98d88f7e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_97365666/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/implementation-manager/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_b65d9a7d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_900d15ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agentskills/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_da240963/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/claude-plugins-reference-2026/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_ab8de90a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_7c7e3416/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/implementation-manager/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_2be1a33c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_d5053e84/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/toml-python/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_6f3596ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.claude/skills/embedded-debug-tools/SKILL.md) | ⭐ 18 | `development` |
 
 ### Productivity (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Parallel Session Cleanup](productivity/179-parallel-session-cleanup_d83f616a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/parallel-session-cleanup.md) | ⭐ 3.3k | `productivity` |
-| [Dark Mode](productivity/dark-mode_77760605/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/dark-mode.md) | ⭐ 117 | `productivity` |
-| [Tooltips Popovers](productivity/tooltips-popovers_f123d4bd/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/tooltips-popovers.md) | ⭐ 117 | `productivity` |
+| [Dark Mode](productivity/176-dark-mode_77760605/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/dark-mode.md) | ⭐ 117 | `productivity` |
+| [Tooltips Popovers](productivity/177-tooltips-popovers_f123d4bd/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/tooltips-popovers.md) | ⭐ 117 | `productivity` |
 
-### Research (6 skills)
+### Research (19 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Pandoc Server](research/265-pandoc-server_a65d4d68/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/go/pandoc-server.md) | ⭐ 3.3k | `research` |
 | [Latex Server](research/266-latex-server_e6f7093b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/latex-server.md) | ⭐ 3.3k | `research` |
-| [Citations](research/citations_00e0d6bf/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/citations.md) | ⭐ 117 | `research` |
-| [Divs And Spans](research/divs-and-spans_a11251da/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/divs-and-spans.md) | ⭐ 117 | `research` |
-| [Layout](research/layout_f4e230b1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/layout.md) | ⭐ 117 | `research` |
-| [Yaml Front Matter](research/yaml-front-matter_8c124133/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/yaml-front-matter.md) | ⭐ 117 | `research` |
+| [Citations](research/261-citations_00e0d6bf/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/citations.md) | ⭐ 117 | `research` |
+| [Divs And Spans](research/262-divs-and-spans_a11251da/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/divs-and-spans.md) | ⭐ 117 | `research` |
+| [Layout](research/263-layout_f4e230b1/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/layout.md) | ⭐ 117 | `research` |
+| [Yaml Front Matter](research/264-yaml-front-matter_8c124133/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/quarto/quarto-authoring/references/yaml-front-matter.md) | ⭐ 117 | `research` |
+| [Claude](research/claude_b0ed45bf/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/CLAUDE.md) | ⭐ 829 | `research` |
+| [Writer](research/writer_1664b873/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/.claude/WRITER.md) | ⭐ 829 | `research` |
+| [Api](research/api_a79b5e1a/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/API.md) | ⭐ 829 | `research` |
+| [Skill](research/name-skill_83163c0c/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/citation-management/SKILL.md) | ⭐ 829 | `research` |
+| [Skill](research/name-skill_995bd408/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/SKILL.md) | ⭐ 829 | `research` |
+| [Skill](research/name-skill_ed983e74/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/research-lookup/SKILL.md) | ⭐ 829 | `research` |
+| [Citation Validation](research/citation_validation_5901b5ff/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/citation-management/references/citation_validation.md) | ⭐ 829 | `research` |
+| [Api Reference](research/api_reference_bd3cf235/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/api_reference.md) | ⭐ 829 | `research` |
+| [Deep Research Guide](research/deep_research_guide_c3d92b15/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/deep_research_guide.md) | ⭐ 829 | `research` |
+| [Extraction Patterns](research/extraction_patterns_49ce48cf/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/extraction_patterns.md) | ⭐ 829 | `research` |
+| [Search Best Practices](research/search_best_practices_8ba3e7fe/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/search_best_practices.md) | ⭐ 829 | `research` |
+| [Workflow Recipes](research/workflow_recipes_0676ea23/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/workflow_recipes.md) | ⭐ 829 | `research` |
+| [Claude.Scientific Writer](research/claudescientific-writer_8ab28031/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/templates/CLAUDE.scientific-writer.md) | ⭐ 829 | `research` |
 
 ## How Skills Are Organized
 
@@ -573,5 +636,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 19:42:34 UTC*
+*Last updated: 2026-02-21 21:39:16 UTC*
 *Automatically maintained by SkillFlow*
