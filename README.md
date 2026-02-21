@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3870 AI-powered skills** organized into 15 categories.
+A curated collection of **3878 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,11 +15,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (360 skills)
 - **Daily Assistant** (259 skills)
 - **Data Analysis** (447 skills)
-- **Development** (1301 skills)
+- **Development** (1302 skills)
 - **Development/Devops** (254 skills)
 - **Development/Testing** (66 skills)
 - **Development/Tools** (313 skills)
-- **Investment** (106 skills)
+- **Investment** (113 skills)
 - **Other** (4 skills)
 - **Productivity** (59 skills)
 - **Research** (105 skills)
@@ -1878,7 +1878,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Master Workflow](data-analysis/497-master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
 | [Railway Deployment](data-analysis/483-railway_deployment_1baea77c/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/RAILWAY_DEPLOYMENT.md) | ⭐ 607 | `data analysis` |
 
-### Development (1301 skills)
+### Development (1302 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3138,7 +3138,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_9ca409c9/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-md-manager/SKILL.md) | ⭐ 10 | `development` |
 | [Skill](development/1178-name-skill_8b71c27f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/skill-optimizer/SKILL.md) | ⭐ 10 | `development` |
 | [Hook Creator](development/2957-hook-creator_8f366937/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/agents/hook-creator.md) | ⭐ 18 | `development` |
-| [Claude](development/140-claude_333e6d87/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 38 | `development` |
+| [Claude](development/claude_2b971b04/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 39 | `development` |
 | [Memory](development/2957-memory_ec76aa09/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/memory.md) | ⭐ 308 | `development` |
 | [Output Styles](development/2958-output-styles_96a41eee/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/output-styles.md) | ⭐ 308 | `development` |
 | [Subagents](development/1701-subagents_9d439146/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/subagents.md) | ⭐ 308 | `development` |
@@ -3180,9 +3180,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_ddf6eaa6/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/api-docs/INDEX.md) | ⭐ 134 | `development` |
 | [Agent Operating Manual](development/2218-agent-operating-manual_daa8c0c5/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 134 | `development` |
 | [Skill](development/1178-name-skill_858a2a44/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/planning/SKILL.md) | ⭐ 134 | `development` |
-| [Faq](development/faq_8474bae0/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/FAQ.md) | ⭐ 23 | `development` |
-| [Faq](development/faq_865ecfe7/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/guides/FAQ.md) | ⭐ 23 | `development` |
-| [Faq](development/faq_d8cb17b9/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md) | ⭐ 23 | `development` |
+| [Faq](development/360-faq_8474bae0/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/FAQ.md) | ⭐ 23 | `development` |
+| [Faq](development/360-faq_865ecfe7/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/guides/FAQ.md) | ⭐ 23 | `development` |
+| [Faq](development/360-faq_d8cb17b9/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md) | ⭐ 23 | `development` |
+| [Claude](development/140-claude_2b971b04/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 39 | `development` |
 
 ### Development/Devops (254 skills)
 
@@ -3832,7 +3833,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Code Health Reviewer](development/tools/329-code-health-reviewer_0a81db4d/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/code-health-reviewer.md) | ⭐ 134 | `development` |
 | [Code Reviewer](development/tools/330-code-reviewer_c97ed330/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/agents/code-reviewer.md) | ⭐ 134 | `development` |
 
-### Investment (106 skills)
+### Investment (113 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3851,7 +3852,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](investment/048-claude_8cd81a52/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 33 | `investment` |
 | [Todo](investment/049-todo_c14eb873/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/TODO.md) | ⭐ 33 | `investment` |
 | [Bubble Detector V2.0 Revision](investment/050-bubble-detector-v20-revision_be0b9d05/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/docs/revisions/bubble-detector-v2.0-revision.md) | ⭐ 33 | `investment` |
-| [Skill](investment/021-name-skill_424e08dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 33 | `investment` |
+| [Skill](investment/name-skill_6c51ba11/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 39 | `investment` |
 | [Skill](investment/021-name-skill_0810188f/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_a42d5f48/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/institutional-flow-tracker/SKILL.md) | ⭐ 33 | `investment` |
 | [Skill](investment/021-name-skill_a66b8073/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/market-news-analyst/SKILL.md) | ⭐ 33 | `investment` |
@@ -3942,6 +3943,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Druckenmiller Strategy Planner](investment/058-druckenmiller-strategy-planner_234e4a47/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 38 | `investment` |
 | [Us Market Analyst](investment/059-us-market-analyst_89409104/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 38 | `investment` |
 | [Earnings Calendar 2025 11 02](investment/060-earnings_calendar_2025-11-02_f32c73d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 38 | `investment` |
+| [Skill](investment/021-name-skill_6c51ba11/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md) | ⭐ 39 | `investment` |
+| [Readme.Ja](investment/readmeja_f446d7e0/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/README.ja.md) | ⭐ 39 | `investment` |
+| [Skill](investment/name-skill_07f037dd/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-trade-analyzer/SKILL.md) | ⭐ 39 | `investment` |
+| [Skill](investment/name-skill_e88731dc/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pead-screener/SKILL.md) | ⭐ 39 | `investment` |
+| [Scoring Methodology](investment/scoring_methodology_4fb6a3a6/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/earnings-trade-analyzer/references/scoring_methodology.md) | ⭐ 39 | `investment` |
+| [Entry Exit Rules](investment/entry_exit_rules_604d29b8/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pead-screener/references/entry_exit_rules.md) | ⭐ 39 | `investment` |
+| [Pead Strategy](investment/pead_strategy_78bbaa26/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/pead-screener/references/pead_strategy.md) | ⭐ 39 | `investment` |
 
 ### Other (4 skills)
 
@@ -4176,5 +4184,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 18:40:07 UTC*
+*Last updated: 2026-02-21 18:41:11 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T18:40:06.965165",
+  "updated_at": "2026-02-21T18:41:08.991381",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -54181,6 +54181,34 @@
       "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md",
       "display_name": "Faq",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2b971b04d0cfec47b5a7ba0ef92c79fd90a8cb6cc44e1eb57b0a22dfaa86534b",
+      "source_path": "CLAUDE.md",
+      "source_repo": "tradermonty/claude-trading-skills",
+      "local_path": "development/140-claude_2b971b04",
+      "category": "development",
+      "name": "claude_2b971b04",
+      "indexed_at": "2026-02-21T18:41:07.446536",
+      "repo_stars": 39,
+      "repo_updated_at": "2026-02-21T15:29:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "6c51ba1181dc711ee8ddeed9f653f67aa149fb73324bf3ba012fdef2c15864a5",
+      "source_path": "skills/breadth-chart-analyst/SKILL.md",
+      "source_repo": "tradermonty/claude-trading-skills",
+      "local_path": "investment/021-name-skill_6c51ba11",
+      "category": "investment",
+      "name": "name-skill_6c51ba11",
+      "indexed_at": "2026-02-21T18:41:08.991319",
+      "repo_stars": 39,
+      "repo_updated_at": "2026-02-21T13:01:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/breadth-chart-analyst/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
     }
   ]
 }
