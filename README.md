@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3867 AI-powered skills** organized into 15 categories.
+A curated collection of **3870 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (360 skills)
 - **Daily Assistant** (259 skills)
 - **Data Analysis** (447 skills)
-- **Development** (1298 skills)
+- **Development** (1301 skills)
 - **Development/Devops** (254 skills)
 - **Development/Testing** (66 skills)
 - **Development/Tools** (313 skills)
@@ -325,7 +325,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Tracking](automation/scripting/098-cost-tracking_0785bf33/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/cost-tracking.md) | ⭐ 308 | `automation` |
 | [Eviction](automation/scripting/099-eviction_e4d20559/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/eviction.md) | ⭐ 308 | `automation` |
 | [Save Context](automation/scripting/085-save-context_5455d46f/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/commands/save-context.md) | ⭐ 134 | `automation` |
-| [Similar Apps](automation/scripting/similar_apps_f4180199/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/SIMILAR_APPS.md) | ⭐ 24 | `automation` |
+| [Similar Apps](automation/scripting/086-similar_apps_f4180199/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/SIMILAR_APPS.md) | ⭐ 24 | `automation` |
 
 ### Automation/Workflow (199 skills)
 
@@ -1878,7 +1878,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Master Workflow](data-analysis/497-master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
 | [Railway Deployment](data-analysis/483-railway_deployment_1baea77c/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/RAILWAY_DEPLOYMENT.md) | ⭐ 607 | `data analysis` |
 
-### Development (1298 skills)
+### Development (1301 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3180,6 +3180,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/468-index_ddf6eaa6/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/api-docs/INDEX.md) | ⭐ 134 | `development` |
 | [Agent Operating Manual](development/2218-agent-operating-manual_daa8c0c5/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 134 | `development` |
 | [Skill](development/1178-name-skill_858a2a44/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/planning/SKILL.md) | ⭐ 134 | `development` |
+| [Faq](development/faq_8474bae0/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/FAQ.md) | ⭐ 23 | `development` |
+| [Faq](development/faq_865ecfe7/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/guides/FAQ.md) | ⭐ 23 | `development` |
+| [Faq](development/faq_d8cb17b9/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md) | ⭐ 23 | `development` |
 
 ### Development/Devops (254 skills)
 
@@ -4173,5 +4176,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 15:41:29 UTC*
+*Last updated: 2026-02-21 18:40:07 UTC*
 *Automatically maintained by SkillFlow*

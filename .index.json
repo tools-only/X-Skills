@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T15:41:28.742397",
+  "updated_at": "2026-02-21T18:40:06.965165",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -54139,6 +54139,48 @@
       "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/SIMILAR_APPS.md",
       "display_name": "Similar Apps",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "8474bae0afcba271a70a115f64d453cf5d6134b40eed6aa5c12080206bfea4f4",
+      "source_path": "FAQ.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/360-faq_8474bae0",
+      "category": "development",
+      "name": "faq_8474bae0",
+      "indexed_at": "2026-02-21T18:40:05.173023",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-02T14:38:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/FAQ.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "865ecfe709823d6b9fa8843e0184dfc9acaa7ddfcd38628cc3421f9e6e232306",
+      "source_path": "docs/guides/FAQ.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/360-faq_865ecfe7",
+      "category": "development",
+      "name": "faq_865ecfe7",
+      "indexed_at": "2026-02-21T18:40:05.889439",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-01-15T03:46:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/guides/FAQ.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d8cb17b951b55a161440a89f9e36654b03035786946365524d6d4edf12ee26c5",
+      "source_path": "docs/superdocs/reference/faq.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "development/360-faq_d8cb17b9",
+      "category": "development",
+      "name": "faq_d8cb17b9",
+      "indexed_at": "2026-02-21T18:40:06.965103",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-02T14:38:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/superdocs/reference/faq.md",
+      "display_name": "Faq",
+      "tags": "[\"development\"]"
     }
   ]
 }
