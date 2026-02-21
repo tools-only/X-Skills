@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3690 AI-powered skills** organized into 15 categories.
+A curated collection of **3716 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (136 skills)
-- **Automation/Workflow** (193 skills)
-- **Commercial** (155 skills)
+- **Automation/Scripting** (137 skills)
+- **Automation/Workflow** (194 skills)
+- **Commercial** (157 skills)
 - **Communication** (94 skills)
-- **Content Creation** (342 skills)
-- **Daily Assistant** (245 skills)
-- **Data Analysis** (438 skills)
-- **Development** (1216 skills)
+- **Content Creation** (356 skills)
+- **Daily Assistant** (247 skills)
+- **Data Analysis** (440 skills)
+- **Development** (1217 skills)
 - **Development/Devops** (238 skills)
 - **Development/Testing** (65 skills)
-- **Development/Tools** (304 skills)
+- **Development/Tools** (306 skills)
 - **Investment** (99 skills)
 - **Other** (4 skills)
 - **Productivity** (58 skills)
-- **Research** (103 skills)
+- **Research** (104 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (136 skills)
+### Automation/Scripting (137 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -319,10 +319,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/101-description-skill_b6b8cc96/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/domains/enterprise-hibernate-hbm/SKILL.md) | ⭐ 18 | `automation` |
 | [Workflow Patterns](automation/scripting/102-workflow-patterns_e7893632/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/skill-creator/references/workflow-patterns.md) | ⭐ 271 | `automation` |
 | [Process Research Integration](automation/scripting/097-process-research-integration_ad88faed/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/commands/process-research-integration.md) | ⭐ 18 | `automation` |
-| [Orc](automation/scripting/orc_7bd72adf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 629 | `automation` |
-| [Side Effect](automation/scripting/side-effect_797728e6/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/side-effect.md) | ⭐ 629 | `automation` |
+| [Orc](automation/scripting/092-orc_7bd72adf/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/orc.md) | ⭐ 629 | `automation` |
+| [Side Effect](automation/scripting/097-side-effect_797728e6/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/side-effect.md) | ⭐ 629 | `automation` |
+| [Param Forge Reference](automation/scripting/param_forge_reference_bb2e5ad1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/param_forge_reference.md) | ⭐ 51 | `automation` |
 
-### Automation/Workflow (193 skills)
+### Automation/Workflow (194 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -519,8 +520,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Environment Variables](automation/workflow/139-environment-variables_6f0a752f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/hatchling/references/build-system/environment-variables.md) | ⭐ 18 | `automation` |
 | [Copier](automation/workflow/140-copier_380036ff/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/copier.md) | ⭐ 18 | `automation` |
 | [Prefect](automation/workflow/141-prefect_8ef93f0c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/prefect.md) | ⭐ 18 | `automation` |
+| [Crop Square](automation/workflow/crop_square_9649ecdd/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/crop_square.md) | ⭐ 51 | `automation` |
 
-### Commercial (155 skills)
+### Commercial (157 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -679,6 +681,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architect](commercial/385-architect_07781ce3/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/agents/architect.md) | ⭐ 12 | `commercial` |
 | [Git Workflow](commercial/386-git-workflow_9a5c7726/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/rules/git-workflow.md) | ⭐ 12 | `commercial` |
 | [Skill](commercial/210-name-skill_4e5c2016/) | [darraghh1/my-claude-setup](https://raw.githubusercontent.com/darraghh1/my-claude-setup/main/.claude/skills/playwright-e2e/SKILL.md) | ⭐ 12 | `e2e` `playwright` `testing` |
+| [Extract Dna](commercial/extract_dna_1e1f9861/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/extract_dna.md) | ⭐ 51 | `commercial` |
+| [Soul Leech](commercial/soul_leech_84797cf1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/soul_leech.md) | ⭐ 51 | `commercial` |
 
 ### Communication (94 skills)
 
@@ -779,13 +783,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
 
-### Content Creation (342 skills)
+### Content Creation (356 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Openai](content-creation/359-openai_4ef0cd71/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/openai.md) | 🔥 35.9k | `content creation` |
 | [Skill](content-creation/049-name-skill_a9cca04f/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
-| [Target User Agentic Harness V0](content-creation/375-target_user_agentic_harness_v0_a84a827c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
+| [Target User Agentic Harness V0](content-creation/target_user_agentic_harness_v0_179904bc/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
 | [Claude](content-creation/007-claude_a0274342/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/CLAUDE.md) | 🔥 20.1k | `content creation` |
 | [Reference Set 01 Credential Stuffing Prevention](content-creation/092-reference-set-01-credential-stuffing-prevention_06dc56b3/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-credential-stuffing-prevention.md) | ⭐ 151 | `content creation` |
 | [Reference Set 01 Saml Security](content-creation/093-reference-set-01-saml-security_5bf46ff0/) | [fr33d3m0n/threat-modeling](https://raw.githubusercontent.com/fr33d3m0n/threat-modeling/main/knowledge/security-controls/references/reference-set-01-saml-security.md) | ⭐ 151 | `content creation` |
@@ -1124,9 +1128,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/388-description-skill_729c14c9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/data-transformation/SKILL.md) | ⭐ 18 | `content creation` |
 | [Synthesis Improvements From Research](content-creation/389-synthesis-improvements-from-research_c129ff5e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/references/synthesis-improvements-from-research.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/049-name-skill_d898a17d/) | [wlzh/skills](https://raw.githubusercontent.com/wlzh/skills/main/youtube-to-blog-post/SKILL.md) | ⭐ 165 | `content creation` |
-| [Subsystem Template](content-creation/subsystem-template_be30624e/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem-template.md) | ⭐ 629 | `content creation` |
+| [Spawn V0 Local Only](content-creation/spawn_v0_local_only_0adbb1db/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/spawn_v0_local_only.md) | ⭐ 51 | `content creation` |
+| [Target User Agentic Harness V0](content-creation/385-target_user_agentic_harness_v0_179904bc/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/prds/target_user_agentic_harness_v0.md) | ⭐ 51 | `content creation` |
+| [Realtime Canvas User Benefits Story](content-creation/realtime_canvas_user_benefits_story_8aba51b8/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/realtime_canvas_user_benefits_story.md) | ⭐ 51 | `content creation` |
+| [Annotate](content-creation/annotate_cc51335e/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/annotate.md) | ⭐ 51 | `content creation` |
+| [Background Replace](content-creation/background_replace_80bd225b/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/background_replace.md) | ⭐ 51 | `content creation` |
+| [Bridge](content-creation/bridge_0d765114/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/bridge.md) | ⭐ 51 | `content creation` |
+| [Combine](content-creation/combine_ced9b594/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/combine.md) | ⭐ 51 | `content creation` |
+| [Create Layers](content-creation/create_layers_edff85e1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/create_layers.md) | ⭐ 51 | `content creation` |
+| [Extract Rule](content-creation/extract_rule_799b9c39/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/extract_rule.md) | ⭐ 51 | `content creation` |
+| [Lasso](content-creation/lasso_960508a4/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/lasso.md) | ⭐ 51 | `content creation` |
+| [Odd One Out](content-creation/odd_one_out_13b684d0/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/odd_one_out.md) | ⭐ 51 | `content creation` |
+| [Recast](content-creation/recast_e1766999/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/recast.md) | ⭐ 51 | `content creation` |
+| [Remove People](content-creation/remove_people_76273b08/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/remove_people.md) | ⭐ 51 | `content creation` |
+| [Swap Dna](content-creation/swap_dna_5ead45df/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/swap_dna.md) | ⭐ 51 | `content creation` |
+| [Variations](content-creation/variations_09672ac1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/variations.md) | ⭐ 51 | `content creation` |
 
-### Daily Assistant (245 skills)
+### Daily Assistant (247 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1373,10 +1391,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/116-description-skill_64e8f16d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/ensure-complete/SKILL.md) | ⭐ 18 | `daily assistant` |
 | [Skill](daily-assistant/116-description-skill_7bedb6e4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/implement-refactor/SKILL.md) | ⭐ 18 | `daily assistant` |
 | [Create Feature Task](daily-assistant/134-create-feature-task_1be08264/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/commands/development/create-feature-task.md) | ⭐ 18 | `daily assistant` |
-| [Report](daily-assistant/report_719aa89d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/report.md) | ⭐ 629 | `daily assistant` |
-| [Review](daily-assistant/review_6130b407/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 629 | `daily assistant` |
+| [Report](daily-assistant/280-report_719aa89d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/report.md) | ⭐ 629 | `daily assistant` |
+| [Review](daily-assistant/281-review_6130b407/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/review.md) | ⭐ 629 | `daily assistant` |
+| [Copilot Instructions](daily-assistant/copilot-instructions_bebc028c/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.github/copilot-instructions.md) | ⭐ 51 | `daily assistant` |
+| [Brood Aip](daily-assistant/brood-aip_73ab1c15/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/.windsurf/rules/brood-aip.md) | ⭐ 51 | `daily assistant` |
 
-### Data Analysis (438 skills)
+### Data Analysis (440 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1818,8 +1838,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Typing Strategy](data-analysis/484-typing-strategy_31adbe37/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/stdlib-scripting/references/typing-strategy.md) | ⭐ 18 | `data analysis` |
 | [Bidict](data-analysis/299-bidict_4798eb2b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/bidict.md) | ⭐ 18 | `data analysis` |
 | [Datasette](data-analysis/300-datasette_cd26fd6f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/references/modern-modules/datasette.md) | ⭐ 18 | `data analysis` |
+| [Realtime Canvas Intent Generation Flow](data-analysis/realtime_canvas_intent_generation_flow_c2e69372/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/realtime_canvas_intent_generation_flow.md) | ⭐ 51 | `data analysis` |
+| [Visual Prompting V0](data-analysis/visual_prompting_v0_794e48a2/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/visual_prompting_v0.md) | ⭐ 51 | `data analysis` |
 
-### Development (1216 skills)
+### Development (1217 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -2431,7 +2453,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Function Calling](development/2866-function-calling_3bb0b907/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/function-calling.md) | ⭐ 50 | `development` |
 | [Migrate To Responses](development/2871-migrate-to-responses_173363a6/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/migrate-to-responses.md) | ⭐ 50 | `development` |
 | [Text](development/2872-text_6e7a1c9a/) | [Prism-Shadow/AgentHub](https://raw.githubusercontent.com/Prism-Shadow/AgentHub/main/llmsdk_docs/gpt5_2/docs/text.md) | ⭐ 50 | `development` |
-| [Desktop](development/2862-desktop_a0060359/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
+| [Desktop](development/desktop_4445b8f9/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
 | [Architecture](development/055-architecture_d90795ce/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/ARCHITECTURE.md) | ⭐ 17 | `development` |
 | [Project Instructions](development/2874-project_instructions_1974e25d/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/PROJECT_INSTRUCTIONS.md) | ⭐ 17 | `development` |
 | [Zerg Project Instructions](development/2875-zerg_project_instructions_a4bbec22/) | [rocklambros/zerg](https://raw.githubusercontent.com/rocklambros/zerg/main/ZERG_PROJECT_INSTRUCTIONS.md) | ⭐ 17 | `development` |
@@ -3014,31 +3036,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1530-description-skill_02f8700b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/agent-creator/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1530-description-skill_81bd592b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/audit-skill-completeness/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1530-description-skill_7f011e19/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/skills/memory-and-rules/SKILL.md) | ⭐ 18 | `development` |
-| [Callstack](development/callstack_37eab4d6/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/callstack.md) | ⭐ 629 | `development` |
-| [Debugging Inline](development/debugging-inline_5b777a69/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/debugging-inline.md) | ⭐ 629 | `development` |
-| [Debugging](development/debugging_d59da319/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/debugging.md) | ⭐ 629 | `development` |
-| [False Positive Guide](development/false-positive-guide_b0fa5f65/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/false-positive-guide.md) | ⭐ 629 | `development` |
-| [Technical Patterns](development/technical-patterns_43e47524/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/technical-patterns.md) | ⭐ 629 | `development` |
-| [Debug Code](development/debug-code_74bc5667/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-code.md) | ⭐ 629 | `development` |
-| [Debug Commits](development/debug-commits_3e35554d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-commits.md) | ⭐ 629 | `development` |
-| [Debug Report](development/debug-report_df95193d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-report.md) | ⭐ 629 | `development` |
-| [Debug Reproducer](development/debug-reproducer_e08df20b/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-reproducer.md) | ⭐ 629 | `development` |
-| [Debug](development/debug_0284849c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug.md) | ⭐ 629 | `development` |
-| [Fixes](development/fixes_f3e758b3/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/fixes.md) | ⭐ 629 | `development` |
-| [Lore](development/lore_8014c532/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/lore.md) | ⭐ 629 | `development` |
-| [Overview](development/overview_ea607455/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/overview.md) | ⭐ 629 | `development` |
-| [Io Uring](development/io_uring_f0aee78d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/io_uring.md) | ⭐ 629 | `development` |
-| [Locking](development/locking_1342dd17/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/locking.md) | ⭐ 629 | `development` |
-| [Mm Alloc](development/mm-alloc_93875e44/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-alloc.md) | ⭐ 629 | `development` |
-| [Mm Folio](development/mm-folio_258ed4d2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-folio.md) | ⭐ 629 | `development` |
-| [Mm Largepage](development/mm-largepage_a2350f74/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-largepage.md) | ⭐ 629 | `development` |
-| [Mm Pagetable](development/mm-pagetable_8ec77923/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-pagetable.md) | ⭐ 629 | `development` |
-| [Mm Reclaim](development/mm-reclaim_e764ad36/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-reclaim.md) | ⭐ 629 | `development` |
-| [Mm Vma](development/mm-vma_efe07031/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-vma.md) | ⭐ 629 | `development` |
-| [Networking](development/networking_44c7f9d8/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/networking.md) | ⭐ 629 | `development` |
-| [Rcu](development/rcu_330d58ee/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/rcu.md) | ⭐ 629 | `development` |
-| [Subsystem](development/subsystem_6b46bbe2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem.md) | ⭐ 629 | `development` |
-| [Syscall](development/syscall_7c3203d4/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/syscall.md) | ⭐ 629 | `development` |
+| [Callstack](development/2854-callstack_37eab4d6/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/callstack.md) | ⭐ 629 | `development` |
+| [Debugging Inline](development/2936-debugging-inline_5b777a69/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/debugging-inline.md) | ⭐ 629 | `development` |
+| [Debugging](development/266-debugging_d59da319/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/debugging.md) | ⭐ 629 | `development` |
+| [False Positive Guide](development/2855-false-positive-guide_b0fa5f65/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/false-positive-guide.md) | ⭐ 629 | `development` |
+| [Technical Patterns](development/2937-technical-patterns_43e47524/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/technical-patterns.md) | ⭐ 629 | `development` |
+| [Debug Code](development/2938-debug-code_74bc5667/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-code.md) | ⭐ 629 | `development` |
+| [Debug Commits](development/2939-debug-commits_3e35554d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-commits.md) | ⭐ 629 | `development` |
+| [Debug Report](development/2940-debug-report_df95193d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-report.md) | ⭐ 629 | `development` |
+| [Debug Reproducer](development/2941-debug-reproducer_e08df20b/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug-reproducer.md) | ⭐ 629 | `development` |
+| [Debug](development/2942-debug_0284849c/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/debug.md) | ⭐ 629 | `development` |
+| [Fixes](development/2943-fixes_f3e758b3/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/fixes.md) | ⭐ 629 | `development` |
+| [Lore](development/2944-lore_8014c532/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/lore.md) | ⭐ 629 | `development` |
+| [Overview](development/650-overview_ea607455/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/agent/overview.md) | ⭐ 629 | `development` |
+| [Io Uring](development/2945-io_uring_f0aee78d/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/io_uring.md) | ⭐ 629 | `development` |
+| [Locking](development/2946-locking_1342dd17/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/locking.md) | ⭐ 629 | `development` |
+| [Mm Alloc](development/2947-mm-alloc_93875e44/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-alloc.md) | ⭐ 629 | `development` |
+| [Mm Folio](development/2948-mm-folio_258ed4d2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-folio.md) | ⭐ 629 | `development` |
+| [Mm Largepage](development/2949-mm-largepage_a2350f74/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-largepage.md) | ⭐ 629 | `development` |
+| [Mm Pagetable](development/2950-mm-pagetable_8ec77923/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-pagetable.md) | ⭐ 629 | `development` |
+| [Mm Reclaim](development/2951-mm-reclaim_e764ad36/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-reclaim.md) | ⭐ 629 | `development` |
+| [Mm Vma](development/2952-mm-vma_efe07031/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/mm-vma.md) | ⭐ 629 | `development` |
+| [Networking](development/617-networking_44c7f9d8/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/networking.md) | ⭐ 629 | `development` |
+| [Rcu](development/2862-rcu_330d58ee/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/rcu.md) | ⭐ 629 | `development` |
+| [Subsystem](development/2953-subsystem_6b46bbe2/) | [masoncl/review-prompts](https://raw.githubusercontent.com/masoncl/review-prompts/main/kernel/subsystem/subsystem.md) | ⭐ 629 | `development` |
+| [Releasing](development/releasing_46552d5b/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/RELEASING.md) | ⭐ 51 | `development` |
+| [Desktop](development/2945-desktop_4445b8f9/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/desktop.md) | ⭐ 51 | `development` |
 
 ### Development/Devops (238 skills)
 
@@ -3353,7 +3376,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/091-plugin-validator-tasks_53cfb505/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/092-description-skill_8b75fd5a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/setup/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Tools (304 skills)
+### Development/Tools (306 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3661,6 +3684,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dasel Guide](development/tools/338-dasel-guide_107781dd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/agents/dasel-guide.md) | ⭐ 18 | `development` |
 | [Claude](development/tools/017-claude_f3835234/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/orchestrator-discipline/rules/CLAUDE.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_f0b7a17d/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/SKILL.md) | ⭐ 80 | `development` |
+| [Agents](development/tools/agents_f7dcfa26/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/AGENTS.md) | ⭐ 51 | `development` |
+| [Pan](development/tools/pan_84b4ddb2/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/pan.md) | ⭐ 51 | `development` |
 
 ### Investment (99 skills)
 
@@ -3838,7 +3863,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Seo Performance](productivity/177-seo-performance_f8446ecd/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/agents/seo-performance.md) | ⭐ 894 | `productivity` |
 | [Local Service](productivity/178-local-service_e6ab4578/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/local-service.md) | ⭐ 894 | `productivity` |
 
-### Research (103 skills)
+### Research (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3945,6 +3970,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Saas](research/264-saas_f8f25394/) | [AgriciDaniel/claude-seo](https://raw.githubusercontent.com/AgriciDaniel/claude-seo/main/skills/seo-plan/assets/saas.md) | ⭐ 894 | `research` |
 | [Sequencing](research/257-sequencing_7c18f2ac/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/remotion-best-practices/rules/sequencing.md) | ⭐ 736 | `research` |
 | [Discuss Context](research/263-discuss-context_5f70a3ff/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/dasel-plugin/discuss-CONTEXT.md) | ⭐ 18 | `research` |
+| [Triforce](research/triforce_4d1ffac3/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/triforce.md) | ⭐ 51 | `research` |
 
 ## How Skills Are Organized
 
@@ -3996,5 +4022,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-20 23:55:10 UTC*
+*Last updated: 2026-02-21 00:56:09 UTC*
 *Automatically maintained by SkillFlow*
