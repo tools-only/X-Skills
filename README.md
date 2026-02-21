@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3850 AI-powered skills** organized into 15 categories.
+A curated collection of **3859 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (139 skills)
-- **Automation/Workflow** (197 skills)
-- **Commercial** (159 skills)
+- **Automation/Workflow** (199 skills)
+- **Commercial** (160 skills)
 - **Communication** (96 skills)
-- **Content Creation** (357 skills)
+- **Content Creation** (361 skills)
 - **Daily Assistant** (259 skills)
 - **Data Analysis** (447 skills)
-- **Development** (1292 skills)
-- **Development/Devops** (255 skills)
+- **Development** (1293 skills)
+- **Development/Devops** (254 skills)
 - **Development/Testing** (65 skills)
-- **Development/Tools** (310 skills)
+- **Development/Tools** (312 skills)
 - **Investment** (106 skills)
 - **Other** (4 skills)
 - **Productivity** (59 skills)
@@ -325,7 +325,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Tracking](automation/scripting/098-cost-tracking_0785bf33/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/cost-tracking.md) | ⭐ 308 | `automation` |
 | [Eviction](automation/scripting/099-eviction_e4d20559/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/eviction.md) | ⭐ 308 | `automation` |
 
-### Automation/Workflow (197 skills)
+### Automation/Workflow (199 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -526,8 +526,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Asset Decision Tree](automation/workflow/143-asset-decision-tree_157ef710/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/asset-decision-tree.md) | ⭐ 18 | `automation` |
 | [Skill](automation/workflow/002-name-skill_418867d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/dual-axis-skill-reviewer/SKILL.md) | ⭐ 38 | `automation` |
 | [Skill](automation/workflow/002-name-skill_a186b9ed/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/deepresearch/skills/diagram-design/SKILL.md) | ⭐ 308 | `automation` |
+| [Skill](automation/workflow/name-skill_3f83c893/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-collect/SKILL.md) | ⭐ 101 | `automation` |
+| [Skill](automation/workflow/name-skill_0457ea28/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-publish/SKILL.md) | ⭐ 101 | `automation` |
 
-### Commercial (159 skills)
+### Commercial (160 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -690,6 +692,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Soul Leech](commercial/402-soul_leech_84797cf1/) | [kevinshowkat/brood](https://raw.githubusercontent.com/kevinshowkat/brood/main/docs/skills/soul_leech.md) | ⭐ 51 | `commercial` |
 | [03 Des Cost Estimate](commercial/374-03-des-cost-estimate_3a2a73e6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/aks-platform/03-des-cost-estimate.md) | ⭐ 85 | `commercial` |
 | [07 Compliance Matrix](commercial/312-07-compliance-matrix_0204123c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/static-webapp/07-compliance-matrix.md) | ⭐ 85 | `commercial` |
+| [X For You Feed Algorithm](commercial/x-for-you-feed-algorithm_d7978788/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/X-For-You-Feed-Algorithm.md) | ⭐ 101 | `commercial` |
 
 ### Communication (96 skills)
 
@@ -792,7 +795,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Processors](communication/256-processors_f97ff44b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 308 | `communication` |
 | [Latency Overhead](communication/250-latency_overhead_793ab770/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 36.1k | `communication` |
 
-### Content Creation (357 skills)
+### Content Creation (361 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1153,6 +1156,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Context Files](content-creation/390-context-files_da06b773/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/context-files.md) | ⭐ 308 | `content creation` |
 | [Toolsets](content-creation/360-toolsets_adad4e05/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/concepts/toolsets.md) | ⭐ 308 | `content creation` |
 | [Config Settings](content-creation/352-config_settings_94e10ab1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Skill](content-creation/name-skill_9085604e/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/SKILL.md) | ⭐ 101 | `content creation` |
+| [Skill](content-creation/name-skill_c6afb970/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-filter/SKILL.md) | ⭐ 101 | `content creation` |
+| [X Skills Optimization](content-creation/x-skills-optimization_c60aab57/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-skills-optimization.md) | ⭐ 101 | `content creation` |
+| [User Profile](content-creation/user-profile_76ec9f28/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/references/user-profile.md) | ⭐ 101 | `content creation` |
 
 ### Daily Assistant (259 skills)
 
@@ -1868,9 +1875,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_636bb1b3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/SKILL.md) | ⭐ 85 | `data analysis` |
 | [Claude](data-analysis/036-claude_74816494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Master Workflow](data-analysis/497-master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
-| [Railway Deployment](data-analysis/railway_deployment_1baea77c/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/RAILWAY_DEPLOYMENT.md) | ⭐ 607 | `data analysis` |
+| [Railway Deployment](data-analysis/483-railway_deployment_1baea77c/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/RAILWAY_DEPLOYMENT.md) | ⭐ 607 | `data analysis` |
 
-### Development (1292 skills)
+### Development (1293 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3165,9 +3172,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Documentation Status 2025 12 03](development/2953-documentation-status-2025-12-03_62908bd9/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/documentation-status-2025-12-03.md) | ⭐ 13 | `development` |
 | [Skills Improvement 2025 12 03](development/2954-skills-improvement-2025-12-03_daa993f8/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/skills-improvement-2025-12-03.md) | ⭐ 13 | `development` |
 | [Reasoning Content](development/2866-reasoning_content_59834855/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/reasoning_content.md) | 🔥 36.1k | `development` |
-| [Agents](development/agents_d39269e8/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.1k | `development` |
+| [Agents](development/028-agents_d39269e8/) | [strands-agents/sdk-python](https://raw.githubusercontent.com/strands-agents/sdk-python/main/AGENTS.md) | 🔥 5.1k | `development` |
+| [Post Patterns](development/post-patterns_8b922076/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/references/post-patterns.md) | ⭐ 101 | `development` |
 
-### Development/Devops (255 skills)
+### Development/Devops (254 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3307,9 +3315,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Iac To Diagram](development/devops/220-iac-to-diagram_34b66430/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-diagrams/references/iac-to-diagram.md) | ⭐ 80 | `development` |
 | [Known Issues](development/devops/360-known-issues_d9682a46/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/resources/known-issues.md) | ⭐ 74 | `development` |
 | [Virtual Keys](development/devops/046-virtual_keys_58995a51/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/virtual_keys.md) | 🔥 36.0k | `development` |
-| [Claude](development/devops/claude_99118084/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md) | ⭐ 607 | `development` |
+| [Claude](development/devops/205-claude_29f835d4/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md) | ⭐ 606 | `development` |
 | [Installation](development/devops/171-installation_658ef4bb/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/INSTALLATION.md) | ⭐ 606 | `development` |
-| [Environment Variables](development/devops/environment_variables_d77394c4/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md) | ⭐ 607 | `development` |
+| [Environment Variables](development/devops/362-environment_variables_62efb4de/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md) | ⭐ 606 | `development` |
 | [Skill](development/devops/085-description-skill_c6e6fa8f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/gitlab-skill/skills/gitlab-skill/SKILL.md) | ⭐ 17 | `development` |
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_a90c5396/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 76 | `development` |
 | [Validation](development/devops/363-validation_b50497d7/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-ai-agentscript/VALIDATION.md) | ⭐ 76 | `development` |
@@ -3425,7 +3433,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/devops/009-configuration_76f04f4d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Claude](development/devops/205-claude_99118084/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/CLAUDE.md) | ⭐ 607 | `development` |
 | [Environment Variables](development/devops/362-environment_variables_d77394c4/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/ENVIRONMENT_VARIABLES.md) | ⭐ 607 | `development` |
-| [Testing](development/devops/testing_f512d665/) | [verygoodplugins/automem](https://raw.githubusercontent.com/verygoodplugins/automem/main/docs/TESTING.md) | ⭐ 607 | `development` |
 
 ### Development/Testing (65 skills)
 
@@ -3497,7 +3504,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/091-plugin-validator-tasks_53cfb505/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/092-description-skill_8b75fd5a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/setup/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Tools (310 skills)
+### Development/Tools (312 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3810,7 +3817,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_6dbc39da/) | [religa/multi_mcp](https://raw.githubusercontent.com/religa/multi_mcp/main/CLAUDE.md) | ⭐ 16 | `development` |
 | [Claude](development/tools/017-claude_f5696034/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 308 | `development` |
 | [Checkpointing](development/tools/336-checkpointing_a0ad9f8e/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/checkpointing.md) | ⭐ 308 | `development` |
-| [Code Snippets](development/tools/code-snippets_becf16ed/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md) | ⭐ 1.9k | `development` |
+| [Code Snippets](development/tools/031-code-snippets_becf16ed/) | [nottelabs/notte](https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md) | ⭐ 1.9k | `development` |
+| [Readme En](development/tools/readme_en_c8b386c3/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/README_EN.md) | ⭐ 101 | `development` |
+| [Release Notes V2.0](development/tools/release_notes_v20_a815aa8a/) | [kangarooking/x-skills](https://raw.githubusercontent.com/kangarooking/x-skills/main/RELEASE_NOTES_v2.0.md) | ⭐ 101 | `development` |
 
 ### Investment (106 skills)
 
@@ -4156,5 +4165,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 11:56:40 UTC*
+*Last updated: 2026-02-21 12:54:17 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T11:56:39.242406",
+  "updated_at": "2026-02-21T12:54:16.858211",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -53887,6 +53887,90 @@
       "source_url": "https://raw.githubusercontent.com/nottelabs/notte/main/docs/src/.claude/rules/code-snippets.md",
       "display_name": "Code Snippets",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c8b386c3134073073bd7bd4d1b1be70e960bd9f52d304ceba17f39a36f9d9560",
+      "source_path": "README_EN.md",
+      "source_repo": "kangarooking/x-skills",
+      "local_path": "development/tools/242-readme_en_c8b386c3",
+      "category": "development/tools",
+      "name": "readme_en_c8b386c3",
+      "indexed_at": "2026-02-21T12:54:14.428802",
+      "repo_stars": 101,
+      "repo_updated_at": "2026-01-20T16:06:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/kangarooking/x-skills/main/README_EN.md",
+      "display_name": "Readme En",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d7978788d517ff9af974b7e24182a776ebf501a6081f609ec1d46248bf080a67",
+      "source_path": "X-For-You-Feed-Algorithm.md",
+      "source_repo": "kangarooking/x-skills",
+      "local_path": "commercial/374-x-for-you-feed-algorithm_d7978788",
+      "category": "commercial",
+      "name": "x-for-you-feed-algorithm_d7978788",
+      "indexed_at": "2026-02-21T12:54:14.953601",
+      "repo_stars": 101,
+      "repo_updated_at": "2026-01-25T15:39:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/kangarooking/x-skills/main/X-For-You-Feed-Algorithm.md",
+      "display_name": "X For You Feed Algorithm",
+      "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "9085604e2db1e8a85630b63180abcab9bcd775e0cbb41c17a5a2591cd6a0f211",
+      "source_path": "x-create/SKILL.md",
+      "source_repo": "kangarooking/x-skills",
+      "local_path": "content-creation/049-name-skill_9085604e",
+      "category": "content-creation",
+      "name": "name-skill_9085604e",
+      "indexed_at": "2026-02-21T12:54:15.445462",
+      "repo_stars": 101,
+      "repo_updated_at": "2026-01-25T15:39:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/kangarooking/x-skills/main/x-create/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c6afb9708fd714ac77f47ff535664f1aa03477aa85ddff20cb016e113f246c68",
+      "source_path": "x-filter/SKILL.md",
+      "source_repo": "kangarooking/x-skills",
+      "local_path": "content-creation/049-name-skill_c6afb970",
+      "category": "content-creation",
+      "name": "name-skill_c6afb970",
+      "indexed_at": "2026-02-21T12:54:15.901212",
+      "repo_stars": 101,
+      "repo_updated_at": "2026-01-25T15:39:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/kangarooking/x-skills/main/x-filter/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "3f83c893a79773fc64e85e1cea92fbc816ab8984f439f0e9f28411415fd594a2",
+      "source_path": "x-collect/SKILL.md",
+      "source_repo": "kangarooking/x-skills",
+      "local_path": "automation/workflow/002-name-skill_3f83c893",
+      "category": "automation/workflow",
+      "name": "name-skill_3f83c893",
+      "indexed_at": "2026-02-21T12:54:16.353806",
+      "repo_stars": 101,
+      "repo_updated_at": "2026-01-25T15:39:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/kangarooking/x-skills/main/x-collect/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "0457ea285c59d02a2752f7bda0fb7233ed36c56ab42beff8fdec6453d608bd43",
+      "source_path": "x-publish/SKILL.md",
+      "source_repo": "kangarooking/x-skills",
+      "local_path": "automation/workflow/002-name-skill_0457ea28",
+      "category": "automation/workflow",
+      "name": "name-skill_0457ea28",
+      "indexed_at": "2026-02-21T12:54:16.858161",
+      "repo_stars": 101,
+      "repo_updated_at": "2026-01-25T15:39:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/kangarooking/x-skills/main/x-publish/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
