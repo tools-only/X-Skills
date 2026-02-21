@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **3846 AI-powered skills** organized into 15 categories.
+A curated collection of **3845 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,11 +15,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (357 skills)
 - **Daily Assistant** (259 skills)
 - **Data Analysis** (446 skills)
-- **Development** (1292 skills)
+- **Development** (1291 skills)
 - **Development/Devops** (252 skills)
 - **Development/Testing** (65 skills)
-- **Development/Tools** (309 skills)
-- **Investment** (107 skills)
+- **Development/Tools** (310 skills)
+- **Investment** (106 skills)
 - **Other** (4 skills)
 - **Productivity** (59 skills)
 - **Research** (105 skills)
@@ -790,7 +790,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](communication/024-claude_c44cad3d/) | [pocketpaw/pocketpaw](https://raw.githubusercontent.com/pocketpaw/pocketpaw/main/docs/CLAUDE.md) | ⭐ 407 | `communication` |
 | [Skill](communication/127-name-skill_de35b3e7/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/commit/SKILL.md) | ⭐ 271 | `communication` |
 | [Processors](communication/256-processors_f97ff44b/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/processors.md) | ⭐ 308 | `communication` |
-| [Latency Overhead](communication/latency_overhead_793ab770/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 36.1k | `communication` |
+| [Latency Overhead](communication/250-latency_overhead_793ab770/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/latency_overhead.md) | 🔥 36.1k | `communication` |
 
 ### Content Creation (357 skills)
 
@@ -955,7 +955,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Types](content-creation/377-api_types_b0303d9d/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/telegram-bot-builder/reference/api_types.md) | 🔥 20.3k | `content creation` |
 | [V1.81.12](content-creation/378-v18112_0923936c/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.0k | `content creation` |
 | [Index](content-creation/019-index_f5d02c5e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/claude_code_beta_headers/index.md) | 🔥 36.0k | `incident-report` `anthropic` `stability` |
-| [Config Settings](content-creation/config_settings_94e10ab1/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](content-creation/379-config_settings_6ed65090/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.0k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Weekly Trade Blog Writer](content-creation/353-weekly-trade-blog-writer_5fab873a/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/weekly-trade-blog-writer.md) | ⭐ 33 | `content creation` |
 | [Agents](content-creation/185-agents_22a111c7/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/AGENTS.md) | ⭐ 10 | `content creation` |
 | [Graph](content-creation/078-graph_5f016311/) | [strands-agents/docs](https://raw.githubusercontent.com/strands-agents/docs/main/docs/user-guide/concepts/multi-agent/graph.md) | ⭐ 167 | `content creation` |
@@ -1869,7 +1869,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](data-analysis/036-claude_74816494/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Master Workflow](data-analysis/497-master-workflow_1e1e70d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/knowledge/workflow-diagrams/master-workflow.md) | ⭐ 18 | `data analysis` |
 
-### Development (1292 skills)
+### Development (1291 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3163,8 +3163,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Wordpress Development Ecosystem 2025 01 30](development/2952-wordpress-development-ecosystem-2025-01-30_eb45a0d9/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/research/wordpress-development-ecosystem-2025-01-30.md) | ⭐ 13 | `development` |
 | [Documentation Status 2025 12 03](development/2953-documentation-status-2025-12-03_62908bd9/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/documentation-status-2025-12-03.md) | ⭐ 13 | `development` |
 | [Skills Improvement 2025 12 03](development/2954-skills-improvement-2025-12-03_daa993f8/) | [bobmatnyc/claude-mpm-skills](https://raw.githubusercontent.com/bobmatnyc/claude-mpm-skills/main/docs/status/skills-improvement-2025-12-03.md) | ⭐ 13 | `development` |
-| [Reasoning Content](development/reasoning_content_59834855/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/reasoning_content.md) | 🔥 36.1k | `development` |
-| [Index](development/index_7947a413/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/gemin_3.1/index.md) | 🔥 36.1k | `gemini` `day 0 support` `llms` |
+| [Reasoning Content](development/2866-reasoning_content_59834855/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/reasoning_content.md) | 🔥 36.1k | `development` |
 
 ### Development/Devops (252 skills)
 
@@ -3493,7 +3492,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Plugin Validator Tasks](development/testing/091-plugin-validator-tasks_53cfb505/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/planning/plugin-validator-tasks.md) | ⭐ 18 | `development` |
 | [Skill](development/testing/092-description-skill_8b75fd5a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/setup/SKILL.md) | ⭐ 18 | `development` |
 
-### Development/Tools (309 skills)
+### Development/Tools (310 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3806,8 +3805,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_6dbc39da/) | [religa/multi_mcp](https://raw.githubusercontent.com/religa/multi_mcp/main/CLAUDE.md) | ⭐ 16 | `development` |
 | [Claude](development/tools/017-claude_f5696034/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/CLAUDE.md) | ⭐ 308 | `development` |
 | [Checkpointing](development/tools/336-checkpointing_a0ad9f8e/) | [vstorm-co/pydantic-deepagents](https://raw.githubusercontent.com/vstorm-co/pydantic-deepagents/main/docs/advanced/checkpointing.md) | ⭐ 308 | `development` |
+| [Skill](development/tools/name-skill_6ad2c784/) | [getsentry/skills](https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/gh-review-requests/SKILL.md) | ⭐ 268 | `development` |
 
-### Investment (107 skills)
+### Investment (106 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -3917,7 +3917,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Druckenmiller Strategy Planner](investment/058-druckenmiller-strategy-planner_234e4a47/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/druckenmiller-strategy-planner.md) | ⭐ 38 | `investment` |
 | [Us Market Analyst](investment/059-us-market-analyst_89409104/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/.claude/agents/us-market-analyst.md) | ⭐ 38 | `investment` |
 | [Earnings Calendar 2025 11 02](investment/060-earnings_calendar_2025-11-02_f32c73d5/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/weekly-trade-strategy/skills/earnings-calendar/earnings_calendar_2025-11-02.md) | ⭐ 38 | `investment` |
-| [Benchmarks](investment/benchmarks_0984a1bc/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/litellm/proxy/guardrails/guardrail_hooks/litellm_content_filter/guardrail_benchmarks/results/BENCHMARKS.md) | 🔥 36.1k | `investment` |
 
 ### Other (4 skills)
 
@@ -4152,5 +4151,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 11:54:22 UTC*
+*Last updated: 2026-02-21 11:55:06 UTC*
 *Automatically maintained by SkillFlow*
