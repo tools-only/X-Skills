@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T14:40:22.258466",
+  "updated_at": "2026-02-21T15:41:28.742397",
   "skills": [
     {
       "file_hash": "6a5a0c415ea762f4d0ddb8824b648fffae8083140d054906b0a2891dc7eac06f",
@@ -54124,6 +54124,20 @@
       "repo_updated_at": "2026-02-12T01:07:31+00:00",
       "source_url": "https://raw.githubusercontent.com/markmdev/meridian/main/.claude/commands/save-context.md",
       "display_name": "Save Context",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "f4180199a46dfe66b616939b2f113ef6421ac20b9640b25466ba470c79a77e46",
+      "source_path": "docs/SIMILAR_APPS.md",
+      "source_repo": "michaelbeijer/Supervertaler",
+      "local_path": "automation/scripting/086-similar_apps_f4180199",
+      "category": "automation/scripting",
+      "name": "similar_apps_f4180199",
+      "indexed_at": "2026-02-21T15:41:28.742345",
+      "repo_stars": 24,
+      "repo_updated_at": "2026-01-09T23:27:34+00:00",
+      "source_url": "https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/SIMILAR_APPS.md",
+      "display_name": "Similar Apps",
       "tags": "[\"automation\"]"
     }
   ]
