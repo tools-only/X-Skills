@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-21T23:59:20.981374",
+  "updated_at": "2026-02-22T00:01:01.884075",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5209,6 +5209,104 @@
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "6a65e564ed352f9c95c83eaafd1d3378bc7f111fafc0e84ff62b1e3a82cdf431",
+      "source_path": "claude-code-updates/commands/whats-new.md",
+      "source_repo": "NTCoding/claude-skillz",
+      "local_path": "content-creation/354-whats-new_6a65e564",
+      "category": "content-creation",
+      "name": "whats-new_6a65e564",
+      "indexed_at": "2026-02-22T00:00:53.213033",
+      "repo_stars": 239,
+      "repo_updated_at": "2026-02-21T14:37:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md",
+      "display_name": "Whats New",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "3ce7b1fff0d4e90c43f0d9de1ffc74e318aed509c4e2c6753f310476538773ac",
+      "source_path": "skills/core-development/claude-usage/SKILL.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "data-analysis/226-name-skill_3ce7b1ff",
+      "category": "data-analysis",
+      "name": "name-skill_3ce7b1ff",
+      "indexed_at": "2026-02-22T00:01:01.247069",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-21T19:07:52+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-usage/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "07dab008caa594a5bd7e689524cb041fc4c5b8167c7e404e021744bb36018b72",
+      "source_path": "skills/integration-automation/codex-cto/SKILL.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "development/tools/002-name-skill_07dab008",
+      "category": "development/tools",
+      "name": "name-skill_07dab008",
+      "indexed_at": "2026-02-22T00:01:01.353824",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-21T18:16:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7c48cfe939f198fbf33f8a23e87decab2d583f929a287065819bbcdc7045a411",
+      "source_path": "skills/integration-automation/codex-orchestrator/SKILL.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "development/devops/014-name-skill_7c48cfe9",
+      "category": "development/devops",
+      "name": "name-skill_7c48cfe9",
+      "indexed_at": "2026-02-22T00:01:01.657132",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-21T18:16:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "087484d050f23c701d86fa0d2bbfb47e536afadd61af18778d091c7534923b61",
+      "source_path": "skills/integration-automation/codex-cto/agents/cto.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "development/2917-cto_087484d0",
+      "category": "development",
+      "name": "cto_087484d0",
+      "indexed_at": "2026-02-22T00:01:01.716308",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-21T18:16:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/agents/cto.md",
+      "display_name": "Cto",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4b0a81e2d3fa111155362675aa33058bd29dc3c50746d939e595a802e64fe9ea",
+      "source_path": "skills/integration-automation/codex-orchestrator/references/subagent-patterns.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "development/2918-subagent-patterns_4b0a81e2",
+      "category": "development",
+      "name": "subagent-patterns_4b0a81e2",
+      "indexed_at": "2026-02-22T00:01:01.819299",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-21T18:16:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/subagent-patterns.md",
+      "display_name": "Subagent Patterns",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "4cf972bb502f9c3faa4055a33f2dc05235574f3ab0edc1f050837b83540939d3",
+      "source_path": "skills/integration-automation/codex-orchestrator/references/codex-models.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "daily-assistant/270-codex-models_4cf972bb",
+      "category": "daily-assistant",
+      "name": "codex-models_4cf972bb",
+      "indexed_at": "2026-02-22T00:01:01.884047",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-21T18:16:29+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md",
+      "display_name": "Codex Models",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }

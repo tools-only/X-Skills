@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **374 AI-powered skills** organized into 14 categories.
+A curated collection of **381 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,17 +8,17 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (3 skills)
+- **Automation/Scripting** (2 skills)
 - **Automation/Workflow** (9 skills)
-- **Commercial** (17 skills)
-- **Communication** (12 skills)
-- **Content Creation** (31 skills)
-- **Daily Assistant** (4 skills)
-- **Data Analysis** (49 skills)
-- **Development** (86 skills)
-- **Development/Devops** (89 skills)
+- **Commercial** (16 skills)
+- **Communication** (13 skills)
+- **Content Creation** (32 skills)
+- **Daily Assistant** (5 skills)
+- **Data Analysis** (50 skills)
+- **Development** (88 skills)
+- **Development/Devops** (90 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (47 skills)
+- **Development/Tools** (49 skills)
 - **Investment** (1 skill)
 - **Productivity** (3 skills)
 - **Research** (20 skills)
@@ -180,13 +180,12 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (3 skills)
+### Automation/Scripting (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Agent Calibration](automation/scripting/agent-calibration_a87c080f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/agent-calibration.md) | ⭐ 61 | `automation` |
-| [Skill](automation/scripting/name-skill_570982e2/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 31 | `automation` |
-| [Self Diagnosis](automation/scripting/self-diagnosis_bdfda1d7/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/self-diagnosis.md) | ⭐ 61 | `automation` |
+| [Agent Calibration](automation/scripting/085-agent-calibration_a87c080f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/agent-calibration.md) | ⭐ 61 | `automation` |
+| [Skill](automation/scripting/003-name-skill_570982e2/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 31 | `automation` |
 
 ### Automation/Workflow (9 skills)
 
@@ -202,7 +201,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Libreoffice Server](automation/workflow/152-libreoffice-server_2c0ac43b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/libreoffice-server.md) | ⭐ 3.3k | `automation` |
 | [Skill](automation/workflow/002-name-skill_15b7286f/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md) | ⭐ 1.4k | `automation` |
 
-### Commercial (17 skills)
+### Commercial (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -222,9 +221,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Query Param Auth](commercial/395-query-param-auth_e000b191/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/query-param-auth.md) | ⭐ 3.3k | `commercial` |
 | [Cards](commercial/378-cards_6c04640b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/cards.md) | ⭐ 117 | `commercial` |
 | [Skill](commercial/210-name-skill_1b74b4fe/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/stored-procedure-generator/skills/generating-stored-procedures/SKILL.md) | ⭐ 1.4k | `commercial` |
-| [Canary Deployments](commercial/canary-deployments_4d2eecfd/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/canary-deployments.md) | ⭐ 61 | `commercial` |
 
-### Communication (12 skills)
+### Communication (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -237,11 +235,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Password Management](communication/273-password-management_bc5d8451/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/password-management.md) | ⭐ 3.3k | `communication` |
 | [Inputs](communication/269-inputs_0e8fceb4/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/inputs.md) | ⭐ 117 | `communication` |
 | [Toasts](communication/270-toasts_88d5e31e/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/toasts.md) | ⭐ 117 | `communication` |
-| [Skill](communication/name-skill_5efa5b4b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/SKILL.md) | ⭐ 61 | `team:support` |
-| [Import Export](communication/import-export_9220633d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/import-export.md) | ⭐ 61 | `communication` |
-| [Sdk Usage](communication/sdk-usage_484ce649/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/sdk-usage.md) | ⭐ 61 | `tenant:acme` |
+| [Skill](communication/127-name-skill_5efa5b4b/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/SKILL.md) | ⭐ 61 | `team:support` |
+| [Import Export](communication/251-import-export_9220633d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/import-export.md) | ⭐ 61 | `communication` |
+| [Sdk Usage](communication/252-sdk-usage_484ce649/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/sdk-usage.md) | ⭐ 61 | `tenant:acme` |
+| [Ensoul](communication/ensoul_ee0d59ef/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/commands/ensoul.md) | ⭐ 10 | `communication` |
 
-### Content Creation (31 skills)
+### Content Creation (32 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -275,9 +274,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Features](content-creation/109-features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
 | [Skill](content-creation/049-name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
 | [V1.81.12](content-creation/351-v18112_b76af1d8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.4k | `content creation` |
-| [Skill](content-creation/name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/049-name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
+| [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
 
-### Daily Assistant (4 skills)
+### Daily Assistant (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -285,8 +285,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Crewai](daily-assistant/295-crewai_c93ce999/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/agents/crewai.md) | ⭐ 3.3k | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_165a91fb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/create-release-checklist/SKILL.md) | ⭐ 117 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_60cb35f0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.4k | `daily assistant` |
+| [Codex Models](daily-assistant/codex-models_4cf972bb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (49 skills)
+### Data Analysis (50 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -339,8 +340,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Contextual Ai Documentation Optimizer Adapter](data-analysis/490-contextual-ai-documentation-optimizer-adapter_394973bd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/workflows/adapters/contextual-ai-documentation-optimizer-adapter.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_bf9acbc8/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/mempool-analyzer/skills/analyzing-mempool/SKILL.md) | ⭐ 1.4k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_fecbac2d/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md) | ⭐ 1.4k | `data analysis` |
+| [Skill](data-analysis/name-skill_3ce7b1ff/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-usage/SKILL.md) | ⭐ 10 | `data analysis` |
 
-### Development (86 skills)
+### Development (88 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -428,10 +430,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_becad5b3/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/token-launch-tracker/skills/tracking-token-launches/SKILL.md) | ⭐ 1.4k | `development` |
 | [Response Api](development/1220-response_api_7468ad4b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/response_api.md) | 🔥 36.4k | `development` |
 | [Auto Routing](development/2892-auto_routing_e7ca64fd/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/auto_routing.md) | 🔥 36.4k | `development` |
-| [Grooming 2026 02 21](development/grooming-2026-02-21_f58716b3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/grooming-2026-02-21.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_7063d1fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/SKILL.md) | ⭐ 18 | `development` |
+| [Grooming 2026 02 21](development/2869-grooming-2026-02-21_f58716b3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/grooming-2026-02-21.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_7063d1fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/SKILL.md) | ⭐ 18 | `development` |
+| [Cto](development/cto_087484d0/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/agents/cto.md) | ⭐ 10 | `development` |
+| [Subagent Patterns](development/subagent-patterns_4b0a81e2/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/subagent-patterns.md) | ⭐ 10 | `development` |
 
-### Development/Devops (89 skills)
+### Development/Devops (90 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -522,8 +526,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Langflow Server](development/devops/434-langflow-server_4739c90c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/third-party/langflow-server.md) | ⭐ 3.3k | `development` |
 | [Github](development/devops/397-github_cda2891c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/external/microsoft/github.md) | ⭐ 3.3k | `development` |
 | [Rollback](development/devops/364-rollback_4f482aad/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/troubleshoot/rollback.md) | 🔥 36.4k | `development` |
-| [Cli Commands](development/devops/cli-commands_4a42a248/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/cli-commands.md) | ⭐ 61 | `development` |
-| [Multi Tenancy](development/devops/multi-tenancy_677a145e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/multi-tenancy.md) | ⭐ 61 | ``tenant:${tenantId}`` `role:support` |
+| [Cli Commands](development/devops/319-cli-commands_4a42a248/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/cli-commands.md) | ⭐ 61 | `development` |
+| [Multi Tenancy](development/devops/361-multi-tenancy_677a145e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/multi-tenancy.md) | ⭐ 61 | ``tenant:${tenantId}`` `role:support` |
+| [Skill](development/devops/name-skill_7c48cfe9/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/SKILL.md) | ⭐ 10 | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -533,7 +538,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nestjs Config](development/testing/089-nestjs-config_ab544f6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/nestjs-config.md) | ⭐ 102 | `development` |
 | [Db Performance](development/testing/090-db-performance_9aa0f078/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/db-performance.md) | ⭐ 3.3k | `development` |
 
-### Development/Tools (47 skills)
+### Development/Tools (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -582,8 +587,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_2be1a33c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/python3-development/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_d5053e84/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/toml-python/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_6f3596ac/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.claude/skills/embedded-debug-tools/SKILL.md) | ⭐ 18 | `development` |
-| [Fact Checker](development/tools/fact-checker_7699dca6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/fact-checker.md) | ⭐ 18 | `development` |
-| [Skill](development/tools/name-skill_f380706f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/fact-check/SKILL.md) | ⭐ 18 | `development` |
+| [Fact Checker](development/tools/329-fact-checker_7699dca6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/fact-checker.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_f380706f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/fact-check/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/name-skill_07dab008/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/SKILL.md) | ⭐ 10 | `development` |
+| [Codex Cli](development/tools/codex-cli_7fc7c368/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-cli.md) | ⭐ 10 | `development` |
 
 ### Investment (1 skills)
 
@@ -622,7 +629,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Search Best Practices](research/260-search_best_practices_8ba3e7fe/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/search_best_practices.md) | ⭐ 829 | `research` |
 | [Workflow Recipes](research/261-workflow_recipes_0676ea23/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/parallel-web/references/workflow_recipes.md) | ⭐ 829 | `research` |
 | [Skill](research/139-name-skill_41583fad/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/cross-chain-bridge-monitor/skills/monitoring-cross-chain-bridges/SKILL.md) | ⭐ 1.4k | `research` |
-| [Fleet Config](research/fleet-config_ee28fcec/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/fleet-config.md) | ⭐ 61 | `]                            # Optional: key:value strings for filtering
+| [Fleet Config](research/257-fleet-config_ee28fcec/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/fleet-config.md) | ⭐ 61 | `]                            # Optional: key:value strings for filtering
     memory_blocks: [` |
 
 ## How Skills Are Organized
@@ -675,5 +682,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-21 23:59:21 UTC*
+*Last updated: 2026-02-22 00:01:02 UTC*
 *Automatically maintained by SkillFlow*
