@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **392 AI-powered skills** organized into 14 categories.
+A curated collection of **394 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,14 +8,14 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (2 skills)
+- **Automation/Scripting** (3 skills)
 - **Automation/Workflow** (10 skills)
 - **Commercial** (16 skills)
 - **Communication** (12 skills)
 - **Content Creation** (34 skills)
 - **Daily Assistant** (5 skills)
 - **Data Analysis** (52 skills)
-- **Development** (88 skills)
+- **Development** (89 skills)
 - **Development/Devops** (96 skills)
 - **Development/Testing** (3 skills)
 - **Development/Tools** (49 skills)
@@ -180,12 +180,13 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (2 skills)
+### Automation/Scripting (3 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Agent Calibration](automation/scripting/085-agent-calibration_a87c080f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/agent-calibration.md) | ⭐ 61 | `automation` |
 | [Skill](automation/scripting/003-name-skill_570982e2/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 31 | `automation` |
+| [Skill](automation/scripting/name-skill_28ff4f04/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-search-api/skills/yandex-search-api/SKILL.md) | ⭐ 38 | `automation` |
 
 ### Automation/Workflow (10 skills)
 
@@ -344,9 +345,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_fecbac2d/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md) | ⭐ 1.4k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3ce7b1ff/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-usage/SKILL.md) | ⭐ 10 | `data analysis` |
 | [014 Security Headers Cors Middleware](data-analysis/481-014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
-| [Skill](data-analysis/name-skill_95cf7107/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_95cf7107/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 
-### Development (88 skills)
+### Development (89 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -438,6 +439,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_7063d1fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/SKILL.md) | ⭐ 18 | `development` |
 | [Cto](development/2917-cto_087484d0/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/agents/cto.md) | ⭐ 10 | `development` |
 | [Subagent Patterns](development/2918-subagent-patterns_4b0a81e2/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/subagent-patterns.md) | ⭐ 10 | `development` |
+| [Skill](development/name-skill_4a33313e/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 38 | `development` |
 
 ### Development/Devops (96 skills)
 
@@ -600,7 +602,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fact Checker](development/tools/329-fact-checker_7699dca6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/fact-checker.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_f380706f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/fact-check/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_07dab008/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/SKILL.md) | ⭐ 10 | `development` |
-| [Agents](development/tools/agents_d9ec1552/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 182 | `development` |
+| [Agents](development/tools/015-agents_d9ec1552/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 182 | `development` |
 
 ### Investment (1 skills)
 
@@ -693,5 +695,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 07:19:12 UTC*
+*Last updated: 2026-02-22 07:20:23 UTC*
 *Automatically maintained by SkillFlow*

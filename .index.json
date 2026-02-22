@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T07:19:12.308321",
+  "updated_at": "2026-02-22T07:20:23.103026",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5489,6 +5489,34 @@
       "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "4a33313e43b5f35b767054d4f8b9462e4d1b6b7047da5cb7af43049a1d903f47",
+      "source_path": "plugins/codex-review/skills/codex-review/SKILL.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "development/1178-name-skill_4a33313e",
+      "category": "development",
+      "name": "name-skill_4a33313e",
+      "indexed_at": "2026-02-22T07:20:23.049137",
+      "repo_stars": 38,
+      "repo_updated_at": "2026-02-19T08:58:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "28ff4f0485f8cd03c8ae9857c08771cdbcd85e6787a51acbd0e2d9728f82f1f4",
+      "source_path": "plugins/yandex-search-api/skills/yandex-search-api/SKILL.md",
+      "source_repo": "artwist-polyakov/polyakov-claude-skills",
+      "local_path": "automation/scripting/003-name-skill_28ff4f04",
+      "category": "automation/scripting",
+      "name": "name-skill_28ff4f04",
+      "indexed_at": "2026-02-22T07:20:23.102973",
+      "repo_stars": 38,
+      "repo_updated_at": "2026-02-21T17:14:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-search-api/skills/yandex-search-api/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
