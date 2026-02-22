@@ -1,0 +1,253 @@
+# GitHub Integration — Detailed Steps and Examples
+
+## Step 2.5: GitHub Issue Sync
+
+<github_sync>
+
+After extracting item fields (Step 2), check for an existing linked issue:
+
+1. Search the matched item for `**Issue**: #N` field.
+2. If found: issue already linked. Run:
+
+   ```bash
+   gh issue view N -R Jamie-BitFlight/claude_skills --json number,title,state,labels
+   ```
+
+   Report the issue state. If open, proceed. If closed, warn the user before re-opening planning.
+
+3. If not found AND priority is P0 or P1: offer to create a GitHub Issue:
+
+   ```text
+   This P1 item has no linked GitHub issue. Create one? (yes/no)
+   ```
+
+   If yes, proceed to 2.5a.
+   If no, skip GitHub sync; BACKLOG.md remains the only record.
+
+4. If not found AND priority is P2 or Ideas: do not prompt; skip GitHub sync silently.
+
+</github_sync>
+
+## Step 2.5a: Create GitHub Issue
+
+<github_create_issue>
+
+1. Construct the issue body from the story template:
+
+   ```markdown
+   ## Story
+
+   As a **developer**, I want **{description goal}** so that **{benefit}**.
+
+   ## Description
+
+   {description text from BACKLOG.md}
+
+   ## Acceptance Criteria
+
+   - [ ] {derive from description — 2-3 concrete criteria}
+
+   ## Context
+
+   - **Source**: {source}
+   - **Priority**: {P0 / P1 / P2 / Idea}
+   - **Added**: {added date}
+   - **Research questions**: {research_first text, or "None"}
+   ```
+
+2. Run:
+
+   ```bash
+   gh issue create -R Jamie-BitFlight/claude_skills \
+     --title "{conventional-commits-type}: {item title}" \
+     --body "{constructed body}" \
+     --label "priority:{p0|p1|p2|idea}" \
+     --label "type:{feature|bug|refactor|docs|chore}" \
+     --label "status:needs-grooming"
+   ```
+
+   Type label inference:
+   - Bug descriptions → `type:bug`
+   - "add", "create", "implement" → `type:feature`
+   - "fix", "correct", "remove hardcoded" → `type:bug` or `type:refactor`
+   - "document", "update SKILL.md" → `type:docs`
+
+3. Capture the issue number from the output URL.
+
+4. Write back to BACKLOG.md: add `**Issue**: #N` field to the matched item.
+
+5. If a milestone exists in the repo, ask: "Add to a milestone?" — optionally assign.
+
+</github_create_issue>
+
+## Step 2.7: Set In-Progress Label
+
+<github_in_progress>
+
+When `$ARGUMENTS` is a title substring (active work mode, not browser mode):
+
+If the item has a linked issue (`**Issue**: #N`) and is in a milestone, use the Python script:
+
+```bash
+uv run .claude/skills/gh/scripts/github_project_setup.py milestone start \
+  --number {milestone_number} --repo Jamie-BitFlight/claude_skills
+```
+
+If the item has a linked issue but no milestone, edit only that issue:
+
+```bash
+gh issue edit {issue_number} -R Jamie-BitFlight/claude_skills \
+  --add-label "status:in-progress" \
+  --remove-label "status:needs-grooming"
+```
+
+</github_in_progress>
+
+## Step 9 Extension: Close GitHub Issue
+
+<github_close_issue>
+
+After writing the closing record to BACKLOG.md (Step 9e), if the item has `**Issue**: #N`:
+
+```bash
+gh issue close {issue_number} -R Jamie-BitFlight/claude_skills \
+  --comment "Completed. Checklist {checked}/{total} — PASS. Plan: {plan file path}"
+```
+
+If the item has no `**Issue**:` field, skip silently.
+
+</github_close_issue>
+
+## setup-github Command
+
+**Trigger:** `$ARGUMENTS` is exactly `setup-github`.
+
+<setup_github>
+
+1. Run label taxonomy setup:
+
+   ```bash
+   uv run .claude/skills/gh/scripts/github_project_setup.py labels \
+     --repo Jamie-BitFlight/claude_skills
+   ```
+
+2. Check for existing milestones:
+
+   ```bash
+   gh api repos/Jamie-BitFlight/claude_skills/milestones
+   ```
+
+   If none exist, create the first milestone:
+
+   ```bash
+   gh api repos/Jamie-BitFlight/claude_skills/milestones \
+     -X POST \
+     -f title="v1.0 — Skills Foundation" \
+     -f description="Initial stable milestone for claude_skills skills and plugins" \
+     -f due_on="2026-03-31T00:00:00Z"
+   ```
+
+3. Check for existing projects:
+
+   ```bash
+   gh project list --owner Jamie-BitFlight
+   ```
+
+   If none exist, prompt: "Create GitHub Project 'claude_skills Backlog'? (yes/no)"
+   If yes:
+
+   ```bash
+   gh project create --owner Jamie-BitFlight --title "claude_skills Backlog"
+   gh project link 1 --owner Jamie-BitFlight --repo Jamie-BitFlight/claude_skills
+   ```
+
+4. Report setup summary:
+
+   ```text
+   GitHub setup complete:
+   - Labels: N created
+   - Milestone: #1 "v1.0 — Skills Foundation"
+   - Project: #1 "claude_skills Backlog" (linked to repo)
+
+   Next steps:
+   - Add custom fields: .claude/skills/gh/references/projects-v2.md
+   - Import existing backlog: /work-backlog-item <title> for each P0/P1 item
+   ```
+
+</setup_github>
+
+---
+
+## Example Sessions
+
+### GitHub Issue Creation Flow
+
+```text
+> /work-backlog-item clang-format YAML frontmatter
+
+Found: "clang-format: Fix broken YAML frontmatter" (P1)
+No grooming manifest. Running groom-backlog-item first...
+
+RT-ICA: APPROVED
+This P1 item has no linked GitHub issue. Create one? yes
+
+Creating issue...
+  Title: fix: correct YAML frontmatter in clang-format SKILL.md
+  Labels: priority:p1, type:bug, status:needs-grooming
+
+Created: #59 — https://github.com/Jamie-BitFlight/claude_skills/issues/59
+Updated BACKLOG.md: **Issue**: #59
+
+Setting status:in-progress...
+  ✓ Added status:in-progress, removed status:needs-grooming
+
+Composing feature request...
+Invoking /python3-development:add-new-feature...
+
+[SAM phases run]
+
+Updated BACKLOG.md with Plan: plan/tasks-3-clang-format-yaml.md
+GitHub issue #59 — Plan added to issue body.
+
+Next steps:
+- To execute:      /python3-development:implement-feature clang-format-yaml
+- To close when done: /work-backlog-item close clang-format
+```
+
+### GitHub Setup Session
+
+```text
+> /work-backlog-item setup-github
+
+Setting up GitHub project infrastructure...
+
+1. Creating label taxonomy...
+   created: priority:p0, priority:p1, priority:p2, priority:idea
+   created: type:feature, type:bug, type:refactor, type:docs, type:chore
+   created: status:in-progress, status:blocked, status:needs-grooming, status:needs-review
+   Labels: 13 created, 0 skipped
+
+2. Creating milestone: v1.0 — Skills Foundation
+   Created milestone #1
+
+3. Create GitHub Project 'claude_skills Backlog'? yes
+   Created project #1, linked to repo
+
+GitHub setup complete.
+```
+
+---
+
+## Field Mapping Reference
+
+```text
+BACKLOG.md          →  GitHub Issue
+  Priority section  →  priority:* label
+  Description       →  Issue body (story format)
+  Status            →  status:* label
+  Plan file         →  Issue body Notes
+  **Issue**: #N     ←  written back after creation
+  Completed         →  Issue closed
+```
+
+See [issue-stories.md](.claude/skills/gh/references/issue-stories.md) for the full body template and lifecycle.
