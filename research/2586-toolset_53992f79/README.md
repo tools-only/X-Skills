@@ -1,0 +1,28 @@
+# Toolset
+
+| Property | Value |
+|----------|-------|
+| **Name** | Toolset |
+| **Repository** | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/toolset.md) (⭐ 106) |
+| **Original Path** | `docs/api/toolset.md` |
+| **Category** | research |
+| **Subcategory** | academic |
+| **Tags** | research |
+| **Created** | 2025-12-19 |
+| **Updated** | 2026-01-24 |
+| **File Hash** | `53992f791e5daa05...` |
+
+## Description
+
+::: pydantic_ai_skills.toolset.SkillsToolset
+options:
+members:  init  get_instructions  get_skill  skills
+show_source: true
+heading_level: 2
+
+**Tags:** `research`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/toolset.md)*

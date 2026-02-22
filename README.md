@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **649 AI-powered skills** organized into 14 categories.
+A curated collection of **687 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,18 +10,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (5 skills)
 - **Automation/Workflow** (30 skills)
-- **Commercial** (42 skills)
+- **Commercial** (43 skills)
 - **Communication** (15 skills)
-- **Content Creation** (55 skills)
-- **Daily Assistant** (17 skills)
-- **Data Analysis** (67 skills)
-- **Development** (174 skills)
-- **Development/Devops** (122 skills)
-- **Development/Testing** (6 skills)
-- **Development/Tools** (82 skills)
-- **Investment** (4 skills)
+- **Content Creation** (58 skills)
+- **Daily Assistant** (27 skills)
+- **Data Analysis** (71 skills)
+- **Development** (176 skills)
+- **Development/Devops** (125 skills)
+- **Development/Testing** (8 skills)
+- **Development/Tools** (83 skills)
+- **Investment** (9 skills)
+- **Other** (1 skill)
 - **Productivity** (6 skills)
-- **Research** (24 skills)
+- **Research** (30 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -225,7 +226,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontmatter Options](automation/workflow/133-frontmatter-options_58425037/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/frontmatter-options.md) | ⭐ 34 | `automation` |
 | [Cli Reference](automation/workflow/134-cli-reference_ef10a01a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/cli-reference.md) | ⭐ 34 | `automation` |
 
-### Commercial (42 skills)
+### Commercial (43 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -271,6 +272,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [03 Auto Checkpoint Hooks](commercial/386-03-auto-checkpoint-hooks_9b1442c1/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/03-auto-checkpoint-hooks.md) | ⭐ 10 | `commercial` |
 | [Web Security](commercial/387-web-security_71e93443/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/security/web-security.md) | ⭐ 10 | `security` `owasp` `web` |
 | [Style Reference](commercial/388-style-reference_1406cd42/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/image-generation/references/style-reference.md) | ⭐ 34 | `commercial` |
+| [Exceptions](commercial/249-exceptions_3dbd3b44/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/exceptions.md) | ⭐ 106 | `commercial` |
 
 ### Communication (15 skills)
 
@@ -292,7 +294,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openclaw Integration](communication/253-openclaw_integration_9a5f9478/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openclaw_integration.md) | 🔥 36.1k | `communication` |
 | [Tool Reference](communication/253-tool-reference_51413bad/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/tool-reference.md) | ⭐ 34 | `communication` |
 
-### Content Creation (55 skills)
+### Content Creation (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -351,8 +353,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_e0c8b935/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-advanced-module-composition/SKILL.md) | ⭐ 38 | `content creation` |
 | [Frontmatter Options](content-creation/362-frontmatter-options_2e27656a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
 | [Platforms](content-creation/212-platforms_1737d684/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/platforms.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/049-name-skill_15483b26/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cfb-data/SKILL.md) | ⭐ 24 | `content creation` |
+| [Skill](content-creation/049-name-skill_4213150f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 24 | `content creation` |
+| [Skill](content-creation/name-skill_5843ee53/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/audio-extractor/SKILL.md) | ⭐ 858 | `content creation` |
 
-### Daily Assistant (17 skills)
+### Daily Assistant (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -373,8 +378,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_d5f7ff6c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/kanchi-dividend-sop/SKILL.md) | ⭐ 41 | `daily assistant` |
 | [Security Analysis V070](daily-assistant/267-security_analysis_v070_14e0aad1/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/SECURITY_ANALYSIS_v070.md) | ⭐ 34 | `daily assistant` |
 | [Quality Checklist](daily-assistant/268-quality-checklist_aed25b68/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/quality-checklist.md) | ⭐ 34 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_3480447c/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_35f731fa/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_a23716e1/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_df9bd73a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nba-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c4d6be83/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nfl-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_cc67ac0f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/nhl-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_9307b4b7/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/tennis-data/SKILL.md) | ⭐ 24 | `daily assistant` |
+| [Commands](daily-assistant/271-commands_29378f0a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/commands.md) | ⭐ 24 | `daily assistant` |
+| [Commands](daily-assistant/271-commands_5dfbe33f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/commands.md) | ⭐ 24 | `daily assistant` |
+| [Schemas](daily-assistant/272-schemas_34ab5339/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/schemas.md) | ⭐ 24 | `daily assistant` |
 
-### Data Analysis (67 skills)
+### Data Analysis (71 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -445,8 +460,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [React Patterns](data-analysis/481-react-patterns_fd65e047/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/code/react-patterns.md) | ⭐ 10 | `react` `hooks` `components` |
 | [Skill](data-analysis/226-name-skill_3bb374d5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Script Patterns](data-analysis/482-script-patterns_842143ab/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/references/script-patterns.md) | ⭐ 34 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_3ac3579a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cbb-data/SKILL.md) | ⭐ 24 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_154869da/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/golf-data/SKILL.md) | ⭐ 24 | `data analysis` |
+| [Advanced](data-analysis/334-advanced_8b673c79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/advanced.md) | ⭐ 106 | `data analysis` |
+| [Quickstart](data-analysis/253-quickstart_25901d75/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/quickstart.md) | ⭐ 858 | `data analysis` |
 
-### Development (174 skills)
+### Development (176 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -623,9 +642,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_379c3eee/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/commit/SKILL.md) | ⭐ 34 | `development` |
 | [Skill](development/1178-name-skill_9cba2968/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 34 | `development` |
 | [Badges](development/096-badges_7a989932/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/readme-maker/references/badges.md) | ⭐ 34 | `development` |
-| [Sqlcipher Install](development/sqlcipher_install_a9f7b6cf/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SQLCIPHER_INSTALL.md) | ⭐ 4.0k | `development` |
+| [Sqlcipher Install](development/1539-sqlcipher_install_a9f7b6cf/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SQLCIPHER_INSTALL.md) | ⭐ 4.0k | `development` |
+| [Agents](development/028-agents_fa9578ce/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/AGENTS.md) | ⭐ 106 | `development` |
+| [Warp](development/warp_d095774e/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/humanizer/WARP.md) | ⭐ 858 | `development` |
 
-### Development/Devops (122 skills)
+### Development/Devops (125 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -719,10 +740,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Commands](development/devops/319-cli-commands_4a42a248/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/cli-commands.md) | ⭐ 61 | `development` |
 | [Multi Tenancy](development/devops/361-multi-tenancy_677a145e/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/multi-tenancy.md) | ⭐ 61 | ``tenant:${tenantId}`` `role:support` |
 | [Skill](development/devops/014-name-skill_7c48cfe9/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/SKILL.md) | ⭐ 10 | `development` |
-| [Readme Es](development/devops/435-readme_es_1474cf17/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md) | ⭐ 820 | `development` |
-| [Readme Ja](development/devops/436-readme_ja_a026d9c8/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md) | ⭐ 820 | `development` |
+| [Readme Es](development/devops/readme_es_ae0fbdc4/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md) | ⭐ 858 | `development` |
+| [Readme Ja](development/devops/readme_ja_d27afd34/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md) | ⭐ 858 | `development` |
 | [Readme Pt Br](development/devops/437-readme_pt-br_698660d2/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_pt-BR.md) | ⭐ 820 | `development` |
-| [Readme Zh Cn](development/devops/438-readme_zh-cn_b5fce0bf/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 820 | `development` |
+| [Readme Zh Cn](development/devops/readme_zh-cn_7b293e68/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 858 | `development` |
 | [Mcp](development/devops/025-mcp_b3a0b417/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/concepts/mcp.md) | ⭐ 820 | `development` |
 | [Securing](development/devops/361-securing_0ab63085/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Agents](development/devops/053-agents_05228376/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.7k | `development` |
@@ -750,9 +771,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Evaluation](development/devops/367-skill-evaluation_75680f21/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/skill-evaluation.md) | ⭐ 10 | `frontend` `ui` |
 | [Ci Cd Patterns](development/devops/368-ci-cd-patterns_80a16cb1/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/ci-cd-patterns.md) | ⭐ 10 | `ci-cd` `github-actions` `pipeline` |
 | [Git Workflows](development/devops/369-git-workflows_870cd392/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/git-workflows.md) | ⭐ 10 | `git` `version-control` `branching` |
-| [Developing](development/devops/developing_551cf265/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 4.0k | `development` |
+| [Developing](development/devops/371-developing_551cf265/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 4.0k | `development` |
+| [Readme Es](development/devops/362-readme_es_ae0fbdc4/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md) | ⭐ 858 | `development` |
+| [Readme Ja](development/devops/363-readme_ja_d27afd34/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md) | ⭐ 858 | `development` |
+| [Readme Zh Cn](development/devops/364-readme_zh-cn_7b293e68/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 858 | `development` |
 
-### Development/Testing (6 skills)
+### Development/Testing (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -762,8 +786,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backends](development/testing/091-backends_3471597a/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/backends.md) | ⭐ 36 | `development` |
 | [Architecture](development/testing/085-architecture_40b6849a/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/docs/ARCHITECTURE.md) | ⭐ 151 | `development` |
 | [Create Pr](development/testing/086-create-pr_a6287a1c/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/.claude/commands/github/create-pr.md) | ⭐ 151 | `development` |
+| [Patterns](development/testing/059-patterns_aed86128/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/patterns.md) | ⭐ 106 | `development` |
+| [Programmatic Skills](development/testing/085-programmatic-skills_3ca2713a/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/programmatic-skills.md) | ⭐ 106 | `development` |
 
-### Development/Tools (82 skills)
+### Development/Tools (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -849,8 +875,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_5cc9ba34/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/push-pr/SKILL.md) | ⭐ 34 | `development` |
 | [Lenses](development/tools/343-lenses_d6bf568b/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/lenses.md) | ⭐ 34 | `development` |
 | [Skill Anatomy](development/tools/344-skill-anatomy_b3b8b3b0/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/skill-anatomy.md) | ⭐ 34 | `development` |
+| [Types](development/tools/331-types_bae5a72e/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/types.md) | ⭐ 106 | `development` |
 
-### Investment (4 skills)
+### Investment (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -858,6 +885,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Input Schema](investment/048-input-schema_cad1183d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/kanchi-dividend-review-monitor/references/input-schema.md) | ⭐ 41 | `investment` |
 | [Theme Detection Methodology](investment/049-theme_detection_methodology_bfb5c432/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/theme_detection_methodology.md) | ⭐ 41 | `investment` |
 | [Skill](investment/050-description-skill_8b0ec79b/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/thinking-partner/SKILL.md) | ⭐ 34 | `investment` |
+| [Skill](investment/021-name-skill_76ec2b17/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/SKILL.md) | ⭐ 24 | `investment` |
+| [Skill](investment/021-name-skill_b71219b9/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/polymarket/SKILL.md) | ⭐ 24 | `investment` |
+| [Skill](investment/021-name-skill_9fd4c364/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/wnba-data/SKILL.md) | ⭐ 24 | `investment` |
+| [Commands](investment/050-commands_b3537439/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/commands.md) | ⭐ 24 | `investment` |
+| [Series Tickers](investment/051-series-tickers_fb5fea49/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/series-tickers.md) | ⭐ 24 | `investment` |
+
+### Other (1 skills)
+
+| Skill | Source | Popularity | Tags |
+|-------|--------|------------|------|
+| [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 
 ### Productivity (6 skills)
 
@@ -870,7 +908,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Correction Detection](productivity/174-correction-detection_42a7a5e8/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/correction-detection.md) | ⭐ 10 | `correction` `user-feedback` |
 | [Skill](productivity/093-name-skill_a23fac79/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/updateclaudemd/SKILL.md) | ⭐ 34 | `productivity` |
 
-### Research (24 skills)
+### Research (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -899,6 +937,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [02 Quick Start](research/258-02-quick-start_aa356bca/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/02-quick-start.md) | 🔥 9.7k | `research` |
 | [01 Core Concepts](research/259-01-core-concepts_8eaa4c6e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/01-core-concepts.md) | 🔥 9.7k | `research` |
 | [Clear Framework](research/168-clear-framework_08305a60/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/clear-framework.md) | ⭐ 18 | `research` |
+| [Concepts](research/265-concepts_6e75c0f3/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/concepts.md) | ⭐ 106 | `research` |
+| [Creating Skills](research/266-creating-skills_2fd29c76/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/creating-skills.md) | ⭐ 106 | `csv` `data` `analysis` |
+| [Index](research/267-index_e98d9570/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/index.md) | ⭐ 106 | `research` |
+| [Quick Start](research/268-quick-start_543c444a/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/quick-start.md) | ⭐ 106 | `research` |
+| [Toolset](research/269-toolset_53992f79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/toolset.md) | ⭐ 106 | `research` |
+| [Skill](research/name-skill_b96d1e1c/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/SKILL.md) | ⭐ 15 | `research` |
 
 ## How Skills Are Organized
 
@@ -950,5 +994,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 19:52:55 UTC*
+*Last updated: 2026-02-22 19:55:08 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,0 +1,27 @@
+# Skill
+
+| Property | Value |
+|----------|-------|
+| **Name** | Skill |
+| **Repository** | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) (⭐ 24) |
+| **Original Path** | `skills/sports-news/SKILL.md` |
+| **Category** | content-creation |
+| **Subcategory** | writing |
+| **Tags** | content creation |
+| **Created** | 2026-02-16 |
+| **Updated** | 2026-02-21 |
+| **File Hash** | `4213150f810865aa...` |
+
+## Description
+
+Prefer the CLI — it avoids Python import path issues:
+bash
+sportsskills news fetch_items google_news query="Arsenal transfer" limit=5
+sportsskills news fetch_feed url="https://feeds.bbci.co.uk/sport/football/rss.xml"
+
+**Tags:** `content creation`
+
+---
+
+*This skill is maintained by [SkillFlow](https://github.com/tools-only/SkillFlow)*
+*Source: [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md)*
