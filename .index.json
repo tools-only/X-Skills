@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T06:18:14.459334",
+  "updated_at": "2026-02-22T07:17:55.281743",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5419,6 +5419,48 @@
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md",
       "display_name": "014 Security Headers Cors Middleware",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "a0bce514662ef0c6ce47f868741d0b63ed56240e9def3046a61bec16128ab42f",
+      "source_path": "skills/create-blog-post/SKILL.md",
+      "source_repo": "jim60105/copilot-prompt",
+      "local_path": "content-creation/049-name-skill_a0bce514",
+      "category": "content-creation",
+      "name": "name-skill_a0bce514",
+      "indexed_at": "2026-02-22T07:17:55.012395",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-21T20:37:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "49868b1b5d32bbc173fbace2b15b5f2c082a4dc759f6ea72307002d768c0267c",
+      "source_path": "skills/create-blog-post/references/writing-guidelines.md",
+      "source_repo": "jim60105/copilot-prompt",
+      "local_path": "content-creation/355-writing-guidelines_49868b1b",
+      "category": "content-creation",
+      "name": "writing-guidelines_49868b1b",
+      "indexed_at": "2026-02-22T07:17:55.160684",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-21T20:37:09+00:00",
+      "source_url": "https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md",
+      "display_name": "Writing Guidelines",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "c8bfa18566c59d86f75ae74c5d57f980f425894eb34a66b4c80de8308ecb012e",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "automation/workflow/040-readmeja_c8bfa185",
+      "category": "automation/workflow",
+      "name": "readmeja_c8bfa185",
+      "indexed_at": "2026-02-22T07:17:55.279244",
+      "repo_stars": 28,
+      "repo_updated_at": "2026-02-21T07:57:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
+      "tags": "[\"automation\"]"
     }
   ]
 }

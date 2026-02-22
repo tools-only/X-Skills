@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **387 AI-powered skills** organized into 14 categories.
+A curated collection of **390 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,10 +9,10 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (2 skills)
-- **Automation/Workflow** (9 skills)
+- **Automation/Workflow** (10 skills)
 - **Commercial** (16 skills)
 - **Communication** (12 skills)
-- **Content Creation** (32 skills)
+- **Content Creation** (34 skills)
 - **Daily Assistant** (5 skills)
 - **Data Analysis** (51 skills)
 - **Development** (88 skills)
@@ -187,7 +187,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agent Calibration](automation/scripting/085-agent-calibration_a87c080f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/agent-calibration.md) | ⭐ 61 | `automation` |
 | [Skill](automation/scripting/003-name-skill_570982e2/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 31 | `automation` |
 
-### Automation/Workflow (9 skills)
+### Automation/Workflow (10 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -200,6 +200,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp Cli](automation/workflow/151-mcp-cli_dbea27bc/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/mcp-cli.md) | ⭐ 3.3k | `automation` |
 | [Libreoffice Server](automation/workflow/152-libreoffice-server_2c0ac43b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/libreoffice-server.md) | ⭐ 3.3k | `automation` |
 | [Skill](automation/workflow/002-name-skill_15b7286f/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md) | ⭐ 1.4k | `automation` |
+| [Readme.Ja](automation/workflow/readmeja_c8bfa185/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 28 | `automation` |
 
 ### Commercial (16 skills)
 
@@ -239,7 +240,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Import Export](communication/251-import-export_9220633d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/import-export.md) | ⭐ 61 | `communication` |
 | [Sdk Usage](communication/252-sdk-usage_484ce649/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/sdk-usage.md) | ⭐ 61 | `tenant:acme` |
 
-### Content Creation (32 skills)
+### Content Creation (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -275,6 +276,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [V1.81.12](content-creation/351-v18112_b76af1d8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
+| [Skill](content-creation/name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
+| [Writing Guidelines](content-creation/writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
 
 ### Daily Assistant (5 skills)
 
@@ -340,7 +343,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_bf9acbc8/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/mempool-analyzer/skills/analyzing-mempool/SKILL.md) | ⭐ 1.4k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_fecbac2d/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md) | ⭐ 1.4k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3ce7b1ff/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-usage/SKILL.md) | ⭐ 10 | `data analysis` |
-| [014 Security Headers Cors Middleware](data-analysis/014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
+| [014 Security Headers Cors Middleware](data-analysis/481-014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
 
 ### Development (88 skills)
 
@@ -487,7 +490,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Proxy](development/devops/401-proxy_5a83e05a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/proxy.md) | ⭐ 3.3k | `development` |
 | [Rbac](development/devops/010-rbac_46494f27/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Scale](development/devops/402-scale_5375b413/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/scale.md) | ⭐ 3.3k | `development` |
-| [Securing](development/devops/securing_0ab63085/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
+| [Securing](development/devops/403-securing_264f96d4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Self Signed Certificates](development/devops/404-self-signed-certificates_c29006e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/self-signed-certificates.md) | ⭐ 3.3k | `development` |
 | [Sso Generic Oidc Tutorial](development/devops/405-sso-generic-oidc-tutorial_1cf7119b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-generic-oidc-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso Google Tutorial](development/devops/406-sso-google-tutorial_ec0b87b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-google-tutorial.md) | ⭐ 3.3k | `development` |
@@ -688,5 +691,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 06:18:14 UTC*
+*Last updated: 2026-02-22 07:17:55 UTC*
 *Automatically maintained by SkillFlow*
