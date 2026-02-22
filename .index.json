@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T19:55:08.312952",
+  "updated_at": "2026-02-22T20:52:42.324486",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -9605,6 +9605,118 @@
       "source_url": "https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "560359e5494cce8fb5a5b6647a1da50eedb472c782450cd3b8fb90a4371b4b85",
+      "source_path": "CLAUDE.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/140-claude_560359e5",
+      "category": "development",
+      "name": "claude_560359e5",
+      "indexed_at": "2026-02-22T20:52:35.348171",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-22T05:57:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "41f381c2d2dc552ea001fbb3d73fd2856146560965aa1b90d6a2c5d3c3a000ed",
+      "source_path": ".claude/skills/hs/SKILL.md",
+      "source_repo": "frmoretto/hardstop",
+      "local_path": "development/tools/002-name-skill_41f381c2",
+      "category": "development/tools",
+      "name": "name-skill_41f381c2",
+      "indexed_at": "2026-02-22T20:52:35.503151",
+      "repo_stars": 16,
+      "repo_updated_at": "2026-02-22T05:50:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/frmoretto/hardstop/main/.claude/skills/hs/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "62041f2cbfa06a4e914a1d047c0b7340fb55aac4c1e1d5e17ec8deb6e9c43550",
+      "source_path": "docs/docs/architecture/security-features.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/365-security-features_62041f2c",
+      "category": "development/devops",
+      "name": "security-features_62041f2c",
+      "indexed_at": "2026-02-22T20:52:41.675221",
+      "repo_stars": 3312,
+      "repo_updated_at": "2026-02-22T12:52:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/security-features.md",
+      "display_name": "Security Features",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "befa1307153a0fe4103b5a872340942c95b506d1b8eafa055c68dad8ffe08c52",
+      "source_path": "docs/docs/manage/configuration.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/009-configuration_befa1307",
+      "category": "development/devops",
+      "name": "configuration_befa1307",
+      "indexed_at": "2026-02-22T20:52:41.768165",
+      "repo_stars": 3312,
+      "repo_updated_at": "2026-02-22T12:52:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ca57609ffee91388ba5b8213f5bd8fc4cd4fafe16d99e7bd1a1d6b6247507b23",
+      "source_path": "docs/docs/manage/proxy.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/366-proxy_ca57609f",
+      "category": "development/devops",
+      "name": "proxy_ca57609f",
+      "indexed_at": "2026-02-22T20:52:41.899348",
+      "repo_stars": 3312,
+      "repo_updated_at": "2026-02-22T12:52:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/proxy.md",
+      "display_name": "Proxy",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "37c36d5847ac8f1fd2b6d583596221097d8f1ef642662719bd8ca792dba04383",
+      "source_path": "docs/docs/manage/securing.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/367-securing_37c36d58",
+      "category": "development/devops",
+      "name": "securing_37c36d58",
+      "indexed_at": "2026-02-22T20:52:42.102262",
+      "repo_stars": 3312,
+      "repo_updated_at": "2026-02-22T12:52:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md",
+      "display_name": "Securing",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "078f40c73e4e4dc55e771e20642c668b44490f715c125777c8ab2ec774d4e9c6",
+      "source_path": "docs/docs/manage/sso.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/368-sso_078f40c7",
+      "category": "development/devops",
+      "name": "sso_078f40c7",
+      "indexed_at": "2026-02-22T20:52:42.214749",
+      "repo_stars": 3312,
+      "repo_updated_at": "2026-02-22T12:52:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md",
+      "display_name": "Sso",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "047a8541dbadeab09039f46221e3ef104414cbab0d9e1d7c9134643e5ff2b982",
+      "source_path": "docs/docs/using/reverse-proxy.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/369-reverse-proxy_047a8541",
+      "category": "development/devops",
+      "name": "reverse-proxy_047a8541",
+      "indexed_at": "2026-02-22T20:52:42.324428",
+      "repo_stars": 3312,
+      "repo_updated_at": "2026-02-22T12:52:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md",
+      "display_name": "Reverse Proxy",
+      "tags": "[\"development\"]"
     }
   ]
 }
