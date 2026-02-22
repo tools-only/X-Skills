@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **516 AI-powered skills** organized into 14 categories.
+A curated collection of **649 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (3 skills)
-- **Automation/Workflow** (21 skills)
-- **Commercial** (18 skills)
-- **Communication** (14 skills)
-- **Content Creation** (48 skills)
-- **Daily Assistant** (9 skills)
-- **Data Analysis** (59 skills)
-- **Development** (133 skills)
-- **Development/Devops** (113 skills)
+- **Automation/Scripting** (5 skills)
+- **Automation/Workflow** (30 skills)
+- **Commercial** (42 skills)
+- **Communication** (15 skills)
+- **Content Creation** (55 skills)
+- **Daily Assistant** (17 skills)
+- **Data Analysis** (67 skills)
+- **Development** (174 skills)
+- **Development/Devops** (122 skills)
 - **Development/Testing** (6 skills)
-- **Development/Tools** (64 skills)
-- **Investment** (1 skill)
-- **Productivity** (3 skills)
+- **Development/Tools** (82 skills)
+- **Investment** (4 skills)
+- **Productivity** (6 skills)
 - **Research** (24 skills)
 
 ## Patches - Curated Skill Bundles
@@ -180,15 +180,17 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (3 skills)
+### Automation/Scripting (5 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Agent Calibration](automation/scripting/085-agent-calibration_a87c080f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/agent-calibration.md) | ⭐ 61 | `automation` |
 | [Skill](automation/scripting/003-name-skill_570982e2/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 31 | `automation` |
 | [Skill](automation/scripting/003-name-skill_28ff4f04/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-search-api/skills/yandex-search-api/SKILL.md) | ⭐ 38 | `automation` |
+| [01 Configuration](automation/scripting/080-01-configuration_398bf016/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.2k | `automation` |
+| [Ecomode](automation/scripting/086-ecomode_f42e5d09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/ecomode.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (21 skills)
+### Automation/Workflow (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -208,13 +210,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Detecting Llm Hallucinations In Ci](automation/workflow/133-detecting-llm-hallucinations-in-ci_da061733/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/guides/detecting-llm-hallucinations-in-ci.md) | ⭐ 43 | `automation` |
 | [Github Workflows](automation/workflow/135-github_workflows_50507981/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/docs/GITHUB_WORKFLOWS.md) | ⭐ 151 | `automation` |
 | [Release](automation/workflow/054-release_3485bb27/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/.claude/commands/github/release.md) | ⭐ 151 | `automation` |
-| [Skill](automation/workflow/name-skill_80557270/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/complete-milestone/SKILL.md) | ⭐ 18 | `automation` |
-| [Skill](automation/workflow/name-skill_927abc66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-milestone/SKILL.md) | ⭐ 18 | `automation` |
-| [Skill](automation/workflow/name-skill_a46079fe/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/start-milestone/SKILL.md) | ⭐ 18 | `automation` |
-| [Skill](automation/workflow/name-skill_e93ca9fa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/complete-implementation/SKILL.md) | ⭐ 18 | `automation` |
-| [Registry Guide](automation/workflow/registry-guide_891eeecf/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/the-rewrite-room/skills/the-rewrite-room/references/registry-guide.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/002-name-skill_80557270/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/complete-milestone/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/002-name-skill_927abc66/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-milestone/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/002-name-skill_a46079fe/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/start-milestone/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/002-name-skill_e93ca9fa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/complete-implementation/SKILL.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/002-name-skill_79eacb2d/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-bootstrap-fewshot/SKILL.md) | ⭐ 38 | `automation` |
+| [Skill](automation/workflow/002-name-skill_e7c99d7c/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-gepa-reflective/SKILL.md) | ⭐ 38 | `automation` |
+| [Skill](automation/workflow/002-name-skill_cf8e98c4/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-miprov2-optimizer/SKILL.md) | ⭐ 38 | `automation` |
+| [Skill](automation/workflow/002-name-skill_36fd08e8/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-rag-pipeline/SKILL.md) | ⭐ 38 | `automation` |
+| [Skill](automation/workflow/002-name-skill_91a7f888/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/edge-candidate-agent/SKILL.md) | ⭐ 41 | `automation` |
+| [Skill](automation/workflow/002-name-skill_5b34f272/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/vcp-screener/SKILL.md) | ⭐ 41 | `automation` |
+| [Skill](automation/workflow/002-name-skill_7f260aa5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/SKILL.md) | ⭐ 34 | `automation` |
+| [Skill](automation/workflow/002-name-skill_d59eab83/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/SKILL.md) | ⭐ 34 | `automation` |
+| [Frontmatter Options](automation/workflow/133-frontmatter-options_58425037/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/frontmatter-options.md) | ⭐ 34 | `automation` |
+| [Cli Reference](automation/workflow/134-cli-reference_ef10a01a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/cli-reference.md) | ⭐ 34 | `automation` |
 
-### Commercial (18 skills)
+### Commercial (42 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -236,8 +247,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_1b74b4fe/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/stored-procedure-generator/skills/generating-stored-procedures/SKILL.md) | ⭐ 1.4k | `commercial` |
 | [Tutorials](commercial/368-tutorials_9acb070e/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TUTORIALS.md) | ⭐ 43 | `commercial` |
 | [Ui Store Model Db Setting](commercial/367-ui_store_model_db_setting_e86381b4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/ui_store_model_db_setting.md) | 🔥 36.1k | `commercial` |
+| [Skill](commercial/210-name-skill_24f220a9/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-haystack-integration/SKILL.md) | ⭐ 38 | `commercial` |
+| [Prompt Extraction](commercial/369-prompt-extraction_571db0db/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-haystack-integration/references/prompt-extraction.md) | ⭐ 38 | `commercial` |
+| [00 Overview](commercial/368-00-overview_bf57f153/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/00-overview.md) | ⭐ 10 | `setup` `test` |
+| [Cco](commercial/369-cco_e8197f0c/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/cco.md) | ⭐ 10 | `commercial` |
+| [kc](commercial/370-kc_75e40a38/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/kc.md) | ⭐ 10 | `commercial` |
+| [me](commercial/371-me_15e356ae/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/me.md) | ⭐ 10 | `commercial` |
+| [ta](commercial/372-ta_4704bd09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/ta.md) | ⭐ 10 | `commercial` |
+| [Continue](commercial/373-continue_f379530a/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/continue.md) | ⭐ 10 | `commercial` |
+| [Knowledge Copilot](commercial/374-knowledge-copilot_33ced865/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/knowledge-copilot.md) | ⭐ 10 | `commercial` |
+| [Memory](commercial/375-memory_f09c9b79/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/memory.md) | ⭐ 10 | `commercial` |
+| [Pause](commercial/376-pause_b44ab317/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/pause.md) | ⭐ 10 | `commercial` |
+| [Setup Copilot](commercial/377-setup-copilot_be32540f/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/setup-copilot.md) | ⭐ 10 | `commercial` |
+| [Setup Knowledge Sync](commercial/378-setup-knowledge-sync_9688f5ba/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/setup-knowledge-sync.md) | ⭐ 10 | `commercial` |
+| [Setup Project](commercial/379-setup-project_aebf9fc8/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/setup-project.md) | ⭐ 10 | `commercial` |
+| [Setup](commercial/380-setup_d9762a9a/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/setup.md) | ⭐ 10 | `commercial` |
+| [Skills Approve](commercial/381-skills-approve_58a41431/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/skills-approve.md) | ⭐ 10 | `commercial` |
+| [Update Copilot](commercial/382-update-copilot_89b98d8f/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/update-copilot.md) | ⭐ 10 | `commercial` |
+| [Protocol Injection](commercial/383-protocol-injection_65b58405/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/hooks/protocol-injection.md) | ⭐ 10 | `commercial` |
+| [00 Overview](commercial/368-00-overview_6550b0a9/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/10-architecture/00-overview.md) | ⭐ 10 | `commercial` |
+| [04 Token Efficiency Playbook](commercial/384-04-token-efficiency-playbook_f25854fb/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/30-operations/04-token-efficiency-playbook.md) | ⭐ 10 | `commercial` |
+| [00 Enhancement Features](commercial/385-00-enhancement-features_2f6b098e/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/00-enhancement-features.md) | ⭐ 10 | `agent-improvement` `typescript` `compilation` |
+| [03 Auto Checkpoint Hooks](commercial/386-03-auto-checkpoint-hooks_9b1442c1/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/03-auto-checkpoint-hooks.md) | ⭐ 10 | `commercial` |
+| [Web Security](commercial/387-web-security_71e93443/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/security/web-security.md) | ⭐ 10 | `security` `owasp` `web` |
+| [Style Reference](commercial/388-style-reference_1406cd42/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/image-generation/references/style-reference.md) | ⭐ 34 | `commercial` |
 
-### Communication (14 skills)
+### Communication (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -255,8 +290,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sdk Usage](communication/252-sdk-usage_484ce649/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/sdk-usage.md) | ⭐ 61 | `tenant:acme` |
 | [Cost Tracking](communication/251-cost_tracking_1bfec4b3/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/COST_TRACKING.md) | ⭐ 43 | `communication` |
 | [Openclaw Integration](communication/253-openclaw_integration_9a5f9478/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openclaw_integration.md) | 🔥 36.1k | `communication` |
+| [Tool Reference](communication/253-tool-reference_51413bad/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/tool-reference.md) | ⭐ 34 | `communication` |
 
-### Content Creation (48 skills)
+### Content Creation (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -290,7 +326,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Features](content-creation/109-features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
 | [Skill](content-creation/049-name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
 | [V1.81.12](content-creation/351-v18112_b76af1d8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.4k | `content creation` |
-| [Skill](content-creation/name-skill_0237a6a0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/049-name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
 | [Skill](content-creation/049-name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
 | [Writing Guidelines](content-creation/355-writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
@@ -305,11 +341,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Solrfal](content-creation/356-skill-solrfal_37d65441/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-solr/SKILL-SOLRFAL.md) | ⭐ 12 | `content creation` |
 | [Migration V2](content-creation/360-migration_v2_e4def2aa/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/docs/MIGRATION_V2.md) | ⭐ 151 | `content creation` |
 | [Config Settings](content-creation/361-config_settings_6990ffd4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
-| [Skill](content-creation/name-skill_047ceb54/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/session-historian/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/049-name-skill_047ceb54/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/session-historian/SKILL.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/049-name-skill_0237a6a0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
-| [Development Guidelines](content-creation/development-guidelines_8c46d36d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/development-guidelines.md) | ⭐ 18 | `content creation` |
+| [Development Guidelines](content-creation/364-development-guidelines_8c46d36d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/development-guidelines.md) | ⭐ 18 | `content creation` |
+| [cw](content-creation/355-cw_50bb228b/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/cw.md) | ⭐ 10 | `content creation` |
+| [Sec](content-creation/357-sec_c729bce6/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/sec.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_aff47338/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/video-social/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/049-name-skill_880c972f/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/049-name-skill_e0c8b935/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-advanced-module-composition/SKILL.md) | ⭐ 38 | `content creation` |
+| [Frontmatter Options](content-creation/362-frontmatter-options_2e27656a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
+| [Platforms](content-creation/212-platforms_1737d684/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/platforms.md) | ⭐ 34 | `content creation` |
 
-### Daily Assistant (9 skills)
+### Daily Assistant (17 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -320,10 +363,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Codex Models](daily-assistant/270-codex-models_4cf972bb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_53ac8506/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/CLAUDE.md) | ⭐ 151 | `daily assistant` |
 | [Claude Md Guardian](daily-assistant/265-claude-md-guardian_3c6331d8/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/agent/claude-md-guardian.md) | ⭐ 151 | `daily assistant` |
-| [Project Workflow.Draft](daily-assistant/project_workflowdraft_208d2544/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/project_workflow.draft.md) | ⭐ 18 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_ef7d33fa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/add-new-feature/SKILL.md) | ⭐ 18 | `daily assistant` |
+| [Project Workflow.Draft](daily-assistant/271-project_workflowdraft_208d2544/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/project_workflow.draft.md) | ⭐ 18 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_ef7d33fa/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/add-new-feature/SKILL.md) | ⭐ 18 | `daily assistant` |
+| [Config](daily-assistant/262-config_1bbda31c/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/config.md) | ⭐ 10 | `ecomode_config` |
+| [Reflect](daily-assistant/263-reflect_d329d123/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/reflect.md) | ⭐ 10 | `daily assistant` |
+| [Update Project](daily-assistant/264-update-project_cb2cb2b8/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/update-project.md) | ⭐ 10 | `daily assistant` |
+| [03 Time Free Language Guide](daily-assistant/265-03-time-free-language-guide_9ea7470f/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/60-qa/03-time-free-language-guide.md) | ⭐ 10 | `daily assistant` |
+| [Kubernetes](daily-assistant/266-kubernetes_9cfcbaab/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/kubernetes.md) | ⭐ 10 | `kubernetes` `k8s` `containers` |
+| [Skill](daily-assistant/032-name-skill_d5f7ff6c/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/kanchi-dividend-sop/SKILL.md) | ⭐ 41 | `daily assistant` |
+| [Security Analysis V070](daily-assistant/267-security_analysis_v070_14e0aad1/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/SECURITY_ANALYSIS_v070.md) | ⭐ 34 | `daily assistant` |
+| [Quality Checklist](daily-assistant/268-quality-checklist_aed25b68/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/quality-checklist.md) | ⭐ 34 | `daily assistant` |
 
-### Data Analysis (59 skills)
+### Data Analysis (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -385,9 +436,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_510e04d3/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 | [Skill Frontend](data-analysis/479-skill-frontend_03f46ca5/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-solr/SKILL-FRONTEND.md) | ⭐ 12 | `data analysis` |
 | [Getting Started](data-analysis/480-getting_started_c7386cf9/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/GETTING_STARTED.md) | ⭐ 43 | `data analysis` |
-| [Skill](data-analysis/name-skill_cf8ea07d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/group-items-to-milestone/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cf8ea07d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/group-items-to-milestone/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Readme Cn](data-analysis/436-readme_cn_29975317/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/README_CN.md) | ⭐ 3.2k | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7a78b921/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-optimize-anything/SKILL.md) | ⭐ 38 | `data analysis` |
+| [Orchestration Guide](data-analysis/478-orchestration_guide_2a0a46be/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/orchestrator/ORCHESTRATION_GUIDE.md) | ⭐ 10 | `data analysis` |
+| [02 Interaction Design](data-analysis/479-02-interaction-design_55738d76/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/tasks/interactive-tui/02-interaction-design.md) | ⭐ 10 | `data analysis` |
+| [Python Idioms](data-analysis/480-python-idioms_4902bf23/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/code/python-idioms.md) | ⭐ 10 | `python` `idioms` `patterns` |
+| [React Patterns](data-analysis/481-react-patterns_fd65e047/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/code/react-patterns.md) | ⭐ 10 | `react` `hooks` `components` |
+| [Skill](data-analysis/226-name-skill_3bb374d5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
+| [Script Patterns](data-analysis/482-script-patterns_842143ab/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-creator/references/script-patterns.md) | ⭐ 34 | `data analysis` |
 
-### Development (133 skills)
+### Development (174 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -459,8 +518,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_d1022c7b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/swarm-operations/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_d132f8a1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/swarm-patterns/SKILL.md) | ⭐ 18 | `development` |
 | [Claude](development/140-claude_f69e49c5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/plugin-creator/scripts/CLAUDE.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_c08c967a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_5581cf21/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_798aebc4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_fde04101/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-53-features/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_bbf386d9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-lint/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_8e1c6987/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/bash-development/skills/bash-logging/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_e6f15e2d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/commitlint/skills/commitlint/SKILL.md) | ⭐ 18 | `development` |
@@ -514,18 +573,59 @@ ls ~/.claude/skills/patch-research-agent/
 | [How To Use](development/451-how_to_use_abac3394/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/skill/HOW_TO_USE.md) | ⭐ 151 | `development` |
 | [Skill](development/1178-name-skill_901ff1ab/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/skill/SKILL.md) | ⭐ 151 | `development` |
 | [Commit Smart](development/2449-commit-smart_792ffa0e/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/.claude/commands/github/commit-smart.md) | ⭐ 151 | `development` |
-| [Localai](development/localai_42b73c5b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/llm-infrastructure/localai.md) | ⭐ 18 | `development` |
-| [Skill](development/name-skill_92a46630/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-backlog-item/SKILL.md) | ⭐ 18 | `development` |
-| [Issue Stories](development/issue-stories_38ea1d07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/issue-stories.md) | ⭐ 18 | `development` |
-| [Github Integration](development/github-integration_38beca7d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/github-integration.md) | ⭐ 18 | `development` |
+| [Localai](development/2923-localai_42b73c5b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/llm-infrastructure/localai.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_92a46630/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-backlog-item/SKILL.md) | ⭐ 18 | `development` |
+| [Issue Stories](development/2924-issue-stories_38ea1d07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/issue-stories.md) | ⭐ 18 | `development` |
+| [Github Integration](development/2925-github-integration_38beca7d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/github-integration.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_c08c967a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/how-to-delegate/SKILL.md) | ⭐ 18 | `development` |
-| [Community Practices](development/community-practices_97872c86/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/community-practices.md) | ⭐ 18 | `development` |
-| [Evaluation Guide](development/evaluation-guide_8b06b6e9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/evaluation-guide.md) | ⭐ 18 | `development` |
-| [Mcp Best Practices](development/mcp-best-practices_8ff83b58/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/mcp-best-practices.md) | ⭐ 18 | `development` |
-| [Validation Plan](development/validation-plan_380b06d5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/validation-plan.md) | ⭐ 18 | `development` |
-| [Prompts And Templates](development/prompts-and-templates_2ddd015f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/prompts-and-templates.md) | ⭐ 18 | `development` |
+| [Community Practices](development/2926-community-practices_97872c86/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/community-practices.md) | ⭐ 18 | `development` |
+| [Evaluation Guide](development/2927-evaluation-guide_8b06b6e9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/evaluation-guide.md) | ⭐ 18 | `development` |
+| [Mcp Best Practices](development/2928-mcp-best-practices_8ff83b58/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/mcp-best-practices.md) | ⭐ 18 | `development` |
+| [01 Overview](development/2703-01-overview_f7adeb76/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md) | ⭐ 3.2k | `development` |
+| [Faq](development/360-faq_1dfa4d66/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/faq/faq.md) | ⭐ 3.2k | `development` |
+| [Agents](development/028-agents_bf83e48f/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/AGENTS.md) | ⭐ 38 | `development` |
+| [Dspy Framework](development/2880-dspy-framework_71928957/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/docs/dspy-framework.md) | ⭐ 38 | `development` |
+| [Skill](development/1178-name-skill_e9cd0dfe/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-output-refinement-constraints/SKILL.md) | ⭐ 38 | `development` |
+| [Skill](development/1178-name-skill_9babc8cf/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-react-agent-builder/SKILL.md) | ⭐ 38 | `development` |
+| [Skill](development/1178-name-skill_65d28443/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/skills/dspy-signature-designer/SKILL.md) | ⭐ 38 | `development` |
+| [Claude Reference](development/2885-claude_reference_e90f0b78/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/CLAUDE_REFERENCE.md) | ⭐ 10 | `development` |
+| [Code Review Overview](development/2886-code_review_overview_7b5d10f4/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/CODE_REVIEW_OVERVIEW.md) | ⭐ 10 | `development` |
+| [Project Context](development/2887-project-context_3c779b49/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/project-context.md) | ⭐ 10 | `development` |
+| [Service Designer](development/2888-service-designer_3269e6ee/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/service-designer.md) | ⭐ 10 | `development` |
+| [Ux Designer](development/1303-ux-designer_19082b95/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/ux-designer.md) | ⭐ 10 | `development` |
+| [Development Rules](development/2889-development-rules_01de8421/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/reference/development-rules.md) | ⭐ 10 | `development` |
+| [01 Agents](development/2890-01-agents_692ac406/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/10-architecture/01-agents.md) | ⭐ 10 | `development` |
+| [02 Philosophy](development/2891-02-philosophy_ae785666/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/10-architecture/02-philosophy.md) | ⭐ 10 | `development` |
+| [03 Decision Guide](development/2892-03-decision-guide_556a6b6d/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/10-architecture/03-decision-guide.md) | ⭐ 10 | `development` |
+| [02 Customization](development/2893-02-customization_1fd255ef/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/20-configuration/02-customization.md) | ⭐ 10 | `development` |
+| [02 Documentation Guide](development/2894-02-documentation-guide_28037300/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/30-operations/02-documentation-guide.md) | ⭐ 10 | `development` |
+| [02 Api Reference](development/2895-02-api-reference_abbd76cb/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/02-api-reference.md) | ⭐ 10 | `development` |
+| [03 Knowledge Sync](development/2896-03-knowledge-sync_0850e4bf/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/03-knowledge-sync.md) | ⭐ 10 | `development` |
+| [04 Goal Driven Agents](development/2897-04-goal-driven-agents_75941d63/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/04-goal-driven-agents.md) | ⭐ 10 | `development` |
+| [06 Opus 46 Capabilities](development/2898-06-opus-46-capabilities_9717c785/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/06-opus-46-capabilities.md) | ⭐ 10 | `development` |
+| [Magic Keywords](development/2899-magic-keywords_518a7c2b/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/magic-keywords.md) | ⭐ 10 | `development` |
+| [Progress Hud](development/2900-progress-hud_7ed6d284/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/progress-hud.md) | ⭐ 10 | `development` |
+| [01 Framework Validation Strategy](development/2901-01-framework-validation-strategy_183331a6/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/60-qa/01-framework-validation-strategy.md) | ⭐ 10 | `development` |
+| [00 Quick Reference](development/2902-00-quick-reference_4ff3f348/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/70-reference/00-quick-reference.md) | ⭐ 10 | `development` |
+| [01 Usage Guide](development/2903-01-usage-guide_f94a5e9c/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/70-reference/01-usage-guide.md) | ⭐ 10 | `development` |
+| [Triggers](development/2904-triggers_eefca6aa/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/mcp-servers/skills-copilot/TRIGGERS.md) | ⭐ 10 | `development` |
+| [Deliverables](development/2905-deliverables_45b207a3/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/scripts/knowledge-sync/DELIVERABLES.md) | ⭐ 10 | `development` |
+| [Quick Start](development/756-quick-start_5839d418/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/scripts/knowledge-sync/QUICK-START.md) | ⭐ 10 | `development` |
+| [00 Plan Overview](development/2906-00-plan-overview_b35a7edc/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/tasks/interactive-tui/00-plan-overview.md) | ⭐ 10 | `development` |
+| [01 Experience Design](development/2907-01-experience-design_717b1214/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/tasks/interactive-tui/01-experience-design.md) | ⭐ 10 | `development` |
+| [04 Phase Tasks](development/2908-04-phase-tasks_60addeaf/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/tasks/interactive-tui/04-phase-tasks.md) | ⭐ 10 | `development` |
+| [Javascript Patterns](development/2909-javascript-patterns_8aa06c4c/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/code/javascript-patterns.md) | ⭐ 10 | `javascript` `typescript` `nodejs` |
+| [Api Docs](development/2759-api-docs_cd3abd1c/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/documentation/api-docs.md) | ⭐ 10 | `api` `documentation` `openapi` |
+| [Crypto Patterns](development/2910-crypto-patterns_f252f989/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/security/crypto-patterns.md) | ⭐ 10 | `security` `cryptography` `encryption` |
+| [Claude](development/140-claude_873a74f2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 41 | `development` |
+| [Pipeline If V1](development/2911-pipeline_if_v1_190b7f52/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/edge-candidate-agent/references/pipeline_if_v1.md) | ⭐ 41 | `development` |
+| [Claude](development/140-claude_e9228d7d/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/CLAUDE.md) | ⭐ 34 | `development` |
+| [Skill](development/1178-name-skill_379c3eee/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/commit/SKILL.md) | ⭐ 34 | `development` |
+| [Skill](development/1178-name-skill_9cba2968/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 34 | `development` |
+| [Badges](development/096-badges_7a989932/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/readme-maker/references/badges.md) | ⭐ 34 | `development` |
+| [Sqlcipher Install](development/sqlcipher_install_a9f7b6cf/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SQLCIPHER_INSTALL.md) | ⭐ 4.0k | `development` |
 
-### Development/Devops (113 skills)
+### Development/Devops (122 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -639,9 +739,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quickstart Langgraph](development/devops/367-quickstart_langgraph_89171e4f/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/QUICKSTART_LANGGRAPH.md) | ⭐ 43 | `development` |
 | [V1.81.14](development/devops/370-v18114_726abb57/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.14.md) | 🔥 36.1k | `development` |
 | [Index](development/devops/050-index_89352769/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/blog/server_root_path/index.md) | 🔥 36.1k | `incident-report` `ui` `stability` |
-| [Skill](development/devops/name-skill_48cceb05/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/SKILL.md) | ⭐ 18 | `development` |
-| [Gitlab Ci Local Guide](development/devops/gitlab-ci-local-guide_cc9fc740/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/gitlab-skill/skills/gitlab-skill/references/gitlab-ci-local-guide.md) | ⭐ 18 | `development` |
-| [Example Projects](development/devops/example-projects_5d1c90ad/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/example-projects.md) | ⭐ 18 | `development` |
+| [Skill](development/devops/014-name-skill_48cceb05/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/SKILL.md) | ⭐ 18 | `development` |
+| [Gitlab Ci Local Guide](development/devops/123-gitlab-ci-local-guide_cc9fc740/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/gitlab-skill/skills/gitlab-skill/references/gitlab-ci-local-guide.md) | ⭐ 18 | `development` |
+| [Keyword Updates V2.8](development/devops/362-keyword_updates_v28_ec0aa0de/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/KEYWORD_UPDATES_V2.8.md) | ⭐ 10 | `development` |
+| [Stream E Implementation Summary](development/devops/363-stream-e-implementation-summary_a69ff379/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/STREAM-E-IMPLEMENTATION-SUMMARY.md) | ⭐ 10 | `development` |
+| [02 Learning Roadmap](development/devops/364-02-learning-roadmap_5da15d75/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/01-getting-started/02-learning-roadmap.md) | ⭐ 10 | `development` |
+| [01 Configuration](development/devops/314-01-configuration_5d02e38c/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/20-configuration/01-configuration.md) | ⭐ 10 | `development` |
+| [01 Working Protocol](development/devops/365-01-working-protocol_c4d03ee5/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/30-operations/01-working-protocol.md) | ⭐ 10 | `development` |
+| [Lifecycle Hooks](development/devops/366-lifecycle-hooks_b2dfa81a/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/lifecycle-hooks.md) | ⭐ 10 | `development` |
+| [Skill Evaluation](development/devops/367-skill-evaluation_75680f21/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/skill-evaluation.md) | ⭐ 10 | `frontend` `ui` |
+| [Ci Cd Patterns](development/devops/368-ci-cd-patterns_80a16cb1/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/ci-cd-patterns.md) | ⭐ 10 | `ci-cd` `github-actions` `pipeline` |
+| [Git Workflows](development/devops/369-git-workflows_870cd392/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/git-workflows.md) | ⭐ 10 | `git` `version-control` `branching` |
+| [Developing](development/devops/developing_551cf265/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 4.0k | `development` |
 
 ### Development/Testing (6 skills)
 
@@ -654,7 +763,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architecture](development/testing/085-architecture_40b6849a/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/docs/ARCHITECTURE.md) | ⭐ 151 | `development` |
 | [Create Pr](development/testing/086-create-pr_a6287a1c/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/.claude/commands/github/create-pr.md) | ⭐ 151 | `development` |
 
-### Development/Tools (64 skills)
+### Development/Tools (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -685,14 +794,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_fe5d0c93/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/SKILL.md) | ⭐ 117 | `development` |
 | [Conditions](development/tools/329-conditions_fbf1013a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/conditions.md) | ⭐ 117 | `development` |
 | [Sass And Css Variables](development/tools/330-sass-and-css-variables_db885c80/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/sass-and-css-variables.md) | ⭐ 117 | `development` |
-| [Backlog](development/tools/backlog_385378a6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
+| [Backlog](development/tools/336-backlog_5f579c4c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
 | [Copilot Instructions](development/tools/337-copilot-instructions_727ce275/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.github/copilot-instructions.md) | ⭐ 18 | `development` |
 | [Architect Validate Orchestrator Discipline](development/tools/338-architect-validate-orchestrator-discipline_2adb21c5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
 | [Tasks 4 Validate Orchestrator Discipline](development/tools/339-tasks-4-validate-orchestrator-discipline_55f8f536/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-4-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
 | [Orchestrator Discipline Grooming 2026 02 20](development/tools/340-orchestrator-discipline-grooming-2026-02-20_115fd850/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/orchestrator-discipline-grooming-2026-02-20.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_f8e7b13a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/commit-staged/SKILL.md) | ⭐ 18 | `development` |
 | [2026 02 20 Duckdb Lock Scope Flag](development/tools/341-2026-02-20-duckdb-lock-scope-flag_18db1838/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/docs/plans/2026-02-20-duckdb-lock-scope-flag.md) | ⭐ 18 | `development` |
-| [Skill](development/tools/name-skill_39c40974/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/clang-format/skills/clang-format/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_0fffb33b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/clang-format/skills/clang-format/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_98d88f7e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_97365666/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/implementation-manager/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_b65d9a7d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/SKILL.md) | ⭐ 18 | `development` |
@@ -716,26 +825,50 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Categories](development/tools/333-tool_categories_7ce43e0f/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TOOL_CATEGORIES.md) | ⭐ 43 | `development` |
 | [Troubleshooting](development/tools/205-troubleshooting_50903b7f/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TROUBLESHOOTING.md) | ⭐ 43 | `development` |
 | [Backlog](development/tools/331-backlog_385378a6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
-| [Labels](development/tools/labels_8c835f7a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/labels.md) | ⭐ 18 | `development` |
-| [Milestones](development/tools/milestones_b673eaf0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/milestones.md) | ⭐ 18 | `development` |
-| [Projects V2](development/tools/projects-v2_67064eaf/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/projects-v2.md) | ⭐ 18 | `development` |
+| [Labels](development/tools/332-labels_8c835f7a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/labels.md) | ⭐ 18 | `development` |
+| [Milestones](development/tools/333-milestones_b673eaf0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/milestones.md) | ⭐ 18 | `development` |
+| [Projects V2](development/tools/334-projects-v2_67064eaf/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/references/projects-v2.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_39c40974/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/clang-format/skills/clang-format/SKILL.md) | ⭐ 18 | `development` |
-| [Typescript Mcp Server](development/tools/typescript-mcp-server_292a1388/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/typescript-mcp-server.md) | ⭐ 18 | `development` |
-| [Skill](development/tools/name-skill_1b580663/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 94 | `development` |
+| [Typescript Mcp Server](development/tools/096-typescript-mcp-server_292a1388/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/typescript-mcp-server.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/002-name-skill_1b580663/) | [seojoonkim/prompt-guard](https://raw.githubusercontent.com/seojoonkim/prompt-guard/main/SKILL.md) | ⭐ 94 | `development` |
+| [01 Overview](development/tools/334-01-overview_dfb3df0b/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md) | ⭐ 3.2k | `development` |
+| [Skill](development/tools/002-name-skill_27b948e8/) | [OmidZamani/dspy-skills](https://raw.githubusercontent.com/OmidZamani/dspy-skills/master/.claude/skills-skill-perfection/SKILL.md) | ⭐ 38 | `development` |
+| [Claude](development/tools/017-claude_94ff948e/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Engineer](development/tools/331-engineer_be08fbfc/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/engineer.md) | ⭐ 10 | `development` |
+| [Ui Designer](development/tools/332-ui-designer_4f74bc0e/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/agents/ui-designer.md) | ⭐ 10 | `development` |
+| [01 User Journey](development/tools/333-01-user-journey_31174cba/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/01-getting-started/01-user-journey.md) | ⭐ 10 | `development` |
+| [03 Agent Guide](development/tools/334-03-agent-guide_096afe72/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/30-operations/03-agent-guide.md) | ⭐ 10 | `development` |
+| [02 Orchestration Workflow](development/tools/335-02-orchestration-workflow_564b5875/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/02-orchestration-workflow.md) | ⭐ 10 | `development` |
+| [04 Orchestration Troubleshooting](development/tools/336-04-orchestration-troubleshooting_fe428adf/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/04-orchestration-troubleshooting.md) | ⭐ 10 | `development` |
+| [05 Worktree Isolation](development/tools/337-05-worktree-isolation_1c408e7e/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/05-worktree-isolation.md) | ⭐ 10 | `development` |
+| [Zero Config Installation](development/tools/338-zero-config-installation_417d1ca7/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/zero-config-installation.md) | ⭐ 10 | `development` |
+| [02 Upgrade Guide](development/tools/339-02-upgrade-guide_df24dcca/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/70-reference/02-upgrade-guide.md) | ⭐ 10 | `development` |
+| [Changelog Slim](development/tools/340-changelog-slim_aca6472f/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/mcp-servers/copilot-memory/CHANGELOG-SLIM.md) | ⭐ 10 | `development` |
+| [Implementation](development/tools/341-implementation_5d198633/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/scripts/knowledge-sync/IMPLEMENTATION.md) | ⭐ 10 | `development` |
+| [03 Technical Architecture](development/tools/342-03-technical-architecture_eb886e76/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/tasks/interactive-tui/03-technical-architecture.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_5cc9ba34/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/push-pr/SKILL.md) | ⭐ 34 | `development` |
+| [Lenses](development/tools/343-lenses_d6bf568b/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/lenses.md) | ⭐ 34 | `development` |
+| [Skill Anatomy](development/tools/344-skill-anatomy_b3b8b3b0/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/skill-anatomy.md) | ⭐ 34 | `development` |
 
-### Investment (1 skills)
+### Investment (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](investment/021-name-skill_65b23c64/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/whale-alert-monitor/skills/monitoring-whale-activity/SKILL.md) | ⭐ 1.4k | `investment` |
+| [Input Schema](investment/048-input-schema_cad1183d/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/kanchi-dividend-review-monitor/references/input-schema.md) | ⭐ 41 | `investment` |
+| [Theme Detection Methodology](investment/049-theme_detection_methodology_bfb5c432/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/theme-detector/references/theme_detection_methodology.md) | ⭐ 41 | `investment` |
+| [Skill](investment/050-description-skill_8b0ec79b/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/thinking-partner/SKILL.md) | ⭐ 34 | `investment` |
 
-### Productivity (3 skills)
+### Productivity (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Parallel Session Cleanup](productivity/179-parallel-session-cleanup_d83f616a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/parallel-session-cleanup.md) | ⭐ 3.3k | `productivity` |
 | [Dark Mode](productivity/176-dark-mode_77760605/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/dark-mode.md) | ⭐ 117 | `productivity` |
 | [Tooltips Popovers](productivity/177-tooltips-popovers_f123d4bd/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/tooltips-popovers.md) | ⭐ 117 | `productivity` |
+| [Protocol](productivity/173-protocol_d5300386/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/protocol.md) | ⭐ 10 | `productivity` |
+| [Correction Detection](productivity/174-correction-detection_42a7a5e8/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/correction-detection.md) | ⭐ 10 | `correction` `user-feedback` |
+| [Skill](productivity/093-name-skill_a23fac79/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/updateclaudemd/SKILL.md) | ⭐ 34 | `productivity` |
 
 ### Research (24 skills)
 
@@ -765,7 +898,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Introduction](research/267-introduction_9d11f1af/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/introduction.md) | ⭐ 820 | `research` |
 | [02 Quick Start](research/258-02-quick-start_aa356bca/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/02-quick-start.md) | 🔥 9.7k | `research` |
 | [01 Core Concepts](research/259-01-core-concepts_8eaa4c6e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/01-core-concepts.md) | 🔥 9.7k | `research` |
-| [Clear Framework](research/clear-framework_08305a60/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/clear-framework.md) | ⭐ 18 | `research` |
+| [Clear Framework](research/168-clear-framework_08305a60/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agent-orchestration/skills/agent-orchestration/clear-framework.md) | ⭐ 18 | `research` |
 
 ## How Skills Are Organized
 
@@ -817,5 +950,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 17:09:32 UTC*
+*Last updated: 2026-02-22 19:52:55 UTC*
 *Automatically maintained by SkillFlow*
