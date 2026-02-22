@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T05:18:29.957057",
+  "updated_at": "2026-02-22T06:18:14.459334",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5391,6 +5391,34 @@
       "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/introduction.md",
       "display_name": "Introduction",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "0ab63085214debbd8df99c799eae7eff2ba0e01c0d18a68b395ddae9945cc03b",
+      "source_path": "docs/docs/manage/securing.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/361-securing_0ab63085",
+      "category": "development/devops",
+      "name": "securing_0ab63085",
+      "indexed_at": "2026-02-22T06:18:14.337413",
+      "repo_stars": 3308,
+      "repo_updated_at": "2026-02-21T15:59:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md",
+      "display_name": "Securing",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f2c11a7aa14e4b8c386b893dd2b71e2d3ae63e3512c5e2ed1200cc135f7b4067",
+      "source_path": "docs/docs/architecture/adr/014-security-headers-cors-middleware.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "data-analysis/481-014-security-headers-cors-middleware_f2c11a7a",
+      "category": "data-analysis",
+      "name": "014-security-headers-cors-middleware_f2c11a7a",
+      "indexed_at": "2026-02-22T06:18:14.459273",
+      "repo_stars": 3308,
+      "repo_updated_at": "2026-02-21T15:59:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md",
+      "display_name": "014 Security Headers Cors Middleware",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
