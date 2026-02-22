@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T08:17:29.599373",
+  "updated_at": "2026-02-22T09:17:28.409344",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5895,6 +5895,104 @@
       "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/01-core-concepts.md",
       "display_name": "01 Core Concepts",
       "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "8e8685eefce4c98af45c41746b6e8a5fa393b10ea3b0279d7724a59567038fea",
+      "source_path": "CLAUDE.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "development/140-claude_8e8685ee",
+      "category": "development",
+      "name": "claude_8e8685ee",
+      "indexed_at": "2026-02-22T09:17:27.801886",
+      "repo_stars": 36,
+      "repo_updated_at": "2025-12-28T04:54:04+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "cdb8d3d28a06c4267cf71dd462b1a45335df6b96df2fd8132694f8b42bae66e5",
+      "source_path": "docs/includes/abbreviations.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "development/3076-abbreviations_cdb8d3d2",
+      "category": "development",
+      "name": "abbreviations_cdb8d3d2",
+      "indexed_at": "2026-02-22T09:17:27.953270",
+      "repo_stars": 36,
+      "repo_updated_at": "2026-01-22T23:49:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/includes/abbreviations.md",
+      "display_name": "Abbreviations",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3471597ac6490c6133499533d1c3c38a4a03b5b46e84697fcae2f689c372cf5e",
+      "source_path": "docs/concepts/backends.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "development/testing/091-backends_3471597a",
+      "category": "development/testing",
+      "name": "backends_3471597a",
+      "indexed_at": "2026-02-22T09:17:28.072238",
+      "repo_stars": 36,
+      "repo_updated_at": "2026-02-15T23:10:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/backends.md",
+      "display_name": "Backends",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a0e2ee39f4ff1e1a73d4e4cfb7b1bf9d58960a2bd81f730e98821b1889fb65d5",
+      "source_path": "docs/api/index.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "content-creation/019-index_a0e2ee39",
+      "category": "content-creation",
+      "name": "index_a0e2ee39",
+      "indexed_at": "2026-02-22T09:17:28.115795",
+      "repo_stars": 36,
+      "repo_updated_at": "2026-01-19T11:49:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/index.md",
+      "display_name": "Index",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "5e962330579ad22750ea074dd99792be9dd39e1675c6f51276d9dd7719a35945",
+      "source_path": "docs/api/toolsets.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "content-creation/360-toolsets_5e962330",
+      "category": "content-creation",
+      "name": "toolsets_5e962330",
+      "indexed_at": "2026-02-22T09:17:28.182094",
+      "repo_stars": 36,
+      "repo_updated_at": "2026-01-19T11:49:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/toolsets.md",
+      "display_name": "Toolsets",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "a2a7b2fa3b081fa0c70b7facb188d41f76383d787f3229c25060bf00fd555348",
+      "source_path": "docs/concepts/console-toolset.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "content-creation/420-console-toolset_a2a7b2fa",
+      "category": "content-creation",
+      "name": "console-toolset_a2a7b2fa",
+      "indexed_at": "2026-02-22T09:17:28.293784",
+      "repo_stars": 36,
+      "repo_updated_at": "2026-02-15T23:10:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/console-toolset.md",
+      "display_name": "Console Toolset",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "d9e87c5032f0f6e05db539020109959c6c3724666b1ce520682d44f5045e8412",
+      "source_path": "docs/concepts/docker.md",
+      "source_repo": "vstorm-co/pydantic-ai-backend",
+      "local_path": "data-analysis/511-docker_d9e87c50",
+      "category": "data-analysis",
+      "name": "docker_d9e87c50",
+      "indexed_at": "2026-02-22T09:17:28.409303",
+      "repo_stars": 36,
+      "repo_updated_at": "2026-01-16T23:43:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/docker.md",
+      "display_name": "Docker",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
