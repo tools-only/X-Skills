@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **394 AI-powered skills** organized into 14 categories.
+A curated collection of **425 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -9,19 +9,19 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (3 skills)
-- **Automation/Workflow** (10 skills)
+- **Automation/Workflow** (14 skills)
 - **Commercial** (16 skills)
 - **Communication** (12 skills)
-- **Content Creation** (34 skills)
-- **Daily Assistant** (5 skills)
+- **Content Creation** (37 skills)
+- **Daily Assistant** (6 skills)
 - **Data Analysis** (52 skills)
-- **Development** (89 skills)
-- **Development/Devops** (96 skills)
+- **Development** (99 skills)
+- **Development/Devops** (101 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (49 skills)
+- **Development/Tools** (55 skills)
 - **Investment** (1 skill)
 - **Productivity** (3 skills)
-- **Research** (21 skills)
+- **Research** (23 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -186,9 +186,9 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Agent Calibration](automation/scripting/085-agent-calibration_a87c080f/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/agent-calibration.md) | ⭐ 61 | `automation` |
 | [Skill](automation/scripting/003-name-skill_570982e2/) | [ALBEDO-TABAI/lets-go-rss](https://raw.githubusercontent.com/ALBEDO-TABAI/lets-go-rss/main/SKILL.md) | ⭐ 31 | `automation` |
-| [Skill](automation/scripting/name-skill_28ff4f04/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-search-api/skills/yandex-search-api/SKILL.md) | ⭐ 38 | `automation` |
+| [Skill](automation/scripting/003-name-skill_28ff4f04/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-search-api/skills/yandex-search-api/SKILL.md) | ⭐ 38 | `automation` |
 
-### Automation/Workflow (10 skills)
+### Automation/Workflow (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -202,6 +202,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Libreoffice Server](automation/workflow/152-libreoffice-server_2c0ac43b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/libreoffice-server.md) | ⭐ 3.3k | `automation` |
 | [Skill](automation/workflow/002-name-skill_15b7286f/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md) | ⭐ 1.4k | `automation` |
 | [Readme.Ja](automation/workflow/040-readmeja_c8bfa185/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 28 | `automation` |
+| [Custom Workflows](automation/workflow/custom-workflows_4c3bac3c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/advanced/custom-workflows.md) | 🔥 9.7k | `automation` |
+| [04 Next Steps](automation/workflow/04-next-steps_12451d6e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/04-next-steps.md) | 🔥 9.7k | `automation` |
+| [04 Packaging](automation/workflow/04-packaging_49de9086/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/04-packaging.md) | 🔥 9.7k | `automation` |
+| [03 Enhancement](automation/workflow/03-enhancement_0cf2c7f5/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/03-enhancement.md) | 🔥 9.7k | `automation` |
 
 ### Commercial (16 skills)
 
@@ -241,7 +245,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Import Export](communication/251-import-export_9220633d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/import-export.md) | ⭐ 61 | `communication` |
 | [Sdk Usage](communication/252-sdk-usage_484ce649/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/sdk-usage.md) | ⭐ 61 | `tenant:acme` |
 
-### Content Creation (34 skills)
+### Content Creation (37 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -279,8 +283,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
 | [Skill](content-creation/049-name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
 | [Writing Guidelines](content-creation/355-writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
+| [P5 Guide](content-creation/p5-guide_f110bc04/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/p5-guide.md) | ⭐ 49 | `content creation` |
+| [02 Scraping](content-creation/02-scraping_eb8fe18d/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/02-scraping.md) | 🔥 9.7k | `content creation` |
+| [Usage](content-creation/usage_cd9a1109/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/USAGE.md) | 🔥 9.7k | `content creation` |
 
-### Daily Assistant (5 skills)
+### Daily Assistant (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -289,6 +296,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_165a91fb/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/open-source/create-release-checklist/SKILL.md) | ⭐ 117 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_60cb35f0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.4k | `daily assistant` |
 | [Codex Models](daily-assistant/270-codex-models_4cf972bb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_61d2f46a/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/demo-tests/procrastination-buster/SKILL.md) | ⭐ 43 | `daily assistant` |
 
 ### Data Analysis (52 skills)
 
@@ -347,7 +355,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [014 Security Headers Cors Middleware](data-analysis/481-014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_95cf7107/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 
-### Development (89 skills)
+### Development (99 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -439,9 +447,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_7063d1fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/gh/SKILL.md) | ⭐ 18 | `development` |
 | [Cto](development/2917-cto_087484d0/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/agents/cto.md) | ⭐ 10 | `development` |
 | [Subagent Patterns](development/2918-subagent-patterns_4b0a81e2/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/subagent-patterns.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_4a33313e/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 38 | `development` |
+| [Skill](development/1178-name-skill_4a33313e/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/codex-review/skills/codex-review/SKILL.md) | ⭐ 38 | `development` |
+| [Documentation Updates Summary](development/documentation_updates_summary_665ee62f/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/DOCUMENTATION_UPDATES_SUMMARY.md) | 🔥 9.7k | `development` |
+| [Multi Source](development/multi-source_9f256d80/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/advanced/multi-source.md) | 🔥 9.7k | `development` |
+| [Unified Scraping](development/unified_scraping_1d019192/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/features/UNIFIED_SCRAPING.md) | 🔥 9.7k | `development` |
+| [01 Installation](development/01-installation_39803a31/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/01-installation.md) | 🔥 9.7k | `development` |
+| [03 Your First Skill](development/03-your-first-skill_c9fe1c7e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/03-your-first-skill.md) | 🔥 9.7k | `development` |
+| [Cli Reference](development/cli_reference_ba8e75e8/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/CLI_REFERENCE.md) | 🔥 9.7k | `development` |
+| [Config Format](development/config_format_e39c2327/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/CONFIG_FORMAT.md) | 🔥 9.7k | `development` |
+| [06 Troubleshooting](development/06-troubleshooting_78ddfebd/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/06-troubleshooting.md) | 🔥 9.7k | `development` |
+| [Cli Reference](development/cli_reference_2e61f4f8/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CLI_REFERENCE.md) | 🔥 9.7k | `development` |
+| [Config Format](development/config_format_af066045/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CONFIG_FORMAT.md) | 🔥 9.7k | `development` |
 
-### Development/Devops (96 skills)
+### Development/Devops (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -541,6 +559,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Zh Cn](development/devops/438-readme_zh-cn_b5fce0bf/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 820 | `development` |
 | [Mcp](development/devops/025-mcp_b3a0b417/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/concepts/mcp.md) | ⭐ 820 | `development` |
 | [Securing](development/devops/361-securing_0ab63085/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
+| [Agents](development/devops/agents_05228376/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/AGENTS.md) | 🔥 9.7k | `development` |
+| [Environment Variables](development/devops/environment_variables_588fc08a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/ENVIRONMENT_VARIABLES.md) | 🔥 9.7k | `development` |
+| [05 Workflows](development/devops/05-workflows_75f7af4a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
+| [Quick Reference](development/devops/quick_reference_07ac890f/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.7k | `development` |
+| [05 Workflows](development/devops/05-workflows_f0c92b2a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
 
 ### Development/Testing (3 skills)
 
@@ -550,7 +573,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nestjs Config](development/testing/089-nestjs-config_ab544f6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/nestjs-config.md) | ⭐ 102 | `development` |
 | [Db Performance](development/testing/090-db-performance_9aa0f078/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/db-performance.md) | ⭐ 3.3k | `development` |
 
-### Development/Tools (49 skills)
+### Development/Tools (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -603,6 +626,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_f380706f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/fact-check/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_07dab008/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/SKILL.md) | ⭐ 10 | `development` |
 | [Agents](development/tools/015-agents_d9ec1552/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 182 | `development` |
+| [Claude](development/tools/claude_69bd09db/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/CLAUDE.md) | 🔥 9.7k | `development` |
+| [Architecture](development/tools/architecture_97bc174a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/ARCHITECTURE.md) | 🔥 9.7k | `development` |
+| [Mcp Server](development/tools/mcp-server_11035d67/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/advanced/mcp-server.md) | 🔥 9.7k | `development` |
+| [Mcp Reference](development/tools/mcp_reference_9b2d06aa/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/MCP_REFERENCE.md) | 🔥 9.7k | `development` |
+| [Skills Testing](development/tools/skills_testing_7461e898/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/SKILLS_TESTING.md) | ⭐ 43 | `development` |
+| [Quickstart](development/tools/quickstart_b8ea202c/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICKSTART.md) | 🔥 9.7k | `development` |
 
 ### Investment (1 skills)
 
@@ -618,7 +647,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dark Mode](productivity/176-dark-mode_77760605/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/dark-mode.md) | ⭐ 117 | `productivity` |
 | [Tooltips Popovers](productivity/177-tooltips-popovers_f123d4bd/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/tooltips-popovers.md) | ⭐ 117 | `productivity` |
 
-### Research (21 skills)
+### Research (23 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -644,6 +673,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fleet Config](research/257-fleet-config_ee28fcec/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/fleet-config.md) | ⭐ 61 | `]                            # Optional: key:value strings for filtering
     memory_blocks: [` |
 | [Introduction](research/267-introduction_9d11f1af/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/introduction.md) | ⭐ 820 | `research` |
+| [02 Quick Start](research/02-quick-start_aa356bca/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/02-quick-start.md) | 🔥 9.7k | `research` |
+| [01 Core Concepts](research/01-core-concepts_8eaa4c6e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/01-core-concepts.md) | 🔥 9.7k | `research` |
 
 ## How Skills Are Organized
 
@@ -695,5 +726,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 07:20:23 UTC*
+*Last updated: 2026-02-22 08:17:29 UTC*
 *Automatically maintained by SkillFlow*
