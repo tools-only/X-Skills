@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **429 AI-powered skills** organized into 14 categories.
+A curated collection of **438 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -14,9 +14,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (12 skills)
 - **Content Creation** (40 skills)
 - **Daily Assistant** (5 skills)
-- **Data Analysis** (53 skills)
-- **Development** (102 skills)
-- **Development/Devops** (101 skills)
+- **Data Analysis** (55 skills)
+- **Development** (105 skills)
+- **Development/Devops** (105 skills)
 - **Development/Testing** (4 skills)
 - **Development/Tools** (53 skills)
 - **Investment** (1 skill)
@@ -299,7 +299,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](daily-assistant/037-claude_60cb35f0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.4k | `daily assistant` |
 | [Codex Models](daily-assistant/270-codex-models_4cf972bb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (53 skills)
+### Data Analysis (55 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -356,8 +356,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [014 Security Headers Cors Middleware](data-analysis/481-014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_95cf7107/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 | [Docker](data-analysis/511-docker_d9e87c50/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/docker.md) | ⭐ 36 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_ef75fc67/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/code-to-diagram/SKILL.md) | ⭐ 867 | `data analysis` |
+| [Mermaid Patterns](data-analysis/478-mermaid-patterns_17eac38b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/code-to-diagram/references/mermaid-patterns.md) | ⭐ 867 | `data analysis` |
 
-### Development (102 skills)
+### Development (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -462,9 +464,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Config Format](development/2878-config_format_af066045/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CONFIG_FORMAT.md) | 🔥 9.7k | `development` |
 | [Claude](development/140-claude_8e8685ee/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/CLAUDE.md) | ⭐ 36 | `development` |
 | [Abbreviations](development/3076-abbreviations_cdb8d3d2/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/includes/abbreviations.md) | ⭐ 36 | `development` |
-| [Skill](development/name-skill_d55098c1/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 240 | `development` |
+| [Skill](development/1178-name-skill_d55098c1/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 240 | `development` |
+| [Prompting Guide](development/prompting_guide_e84adb81/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/prompting_guide.md) | ⭐ 478 | `development` |
+| [Prompting Guide](development/prompting_guide_7e3a5594/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/pdd/docs/prompting_guide.md) | ⭐ 478 | `development` |
+| [Setup With Gemini](development/setup_with_gemini_14e7ae1e/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/SETUP_WITH_GEMINI.md) | ⭐ 478 | `development` |
 
-### Development/Devops (101 skills)
+### Development/Devops (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -569,6 +574,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [05 Workflows](development/devops/363-05-workflows_75f7af4a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
 | [Quick Reference](development/devops/364-quick_reference_07ac890f/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.7k | `development` |
 | [05 Workflows](development/devops/363-05-workflows_f0c92b2a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
+| [Readme Es](development/devops/361-readme_es_853948d5/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md) | ⭐ 867 | `development` |
+| [Readme Ja](development/devops/362-readme_ja_c5cebf0e/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md) | ⭐ 867 | `development` |
+| [Readme Pt Br](development/devops/363-readme_pt-br_bb8b45ba/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_pt-BR.md) | ⭐ 867 | `development` |
+| [Readme Zh Cn](development/devops/364-readme_zh-cn_a711b2d7/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 867 | `development` |
 
 ### Development/Testing (4 skills)
 
@@ -730,5 +739,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 09:19:26 UTC*
+*Last updated: 2026-02-22 09:20:12 UTC*
 *Automatically maintained by SkillFlow*
