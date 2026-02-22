@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T09:17:28.409344",
+  "updated_at": "2026-02-22T09:19:26.118878",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5993,6 +5993,20 @@
       "source_url": "https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/docker.md",
       "display_name": "Docker",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "d55098c1586b15d515fd1ffe4a917b1fc0837d521c029b056aeb8f8f1816e34a",
+      "source_path": "separation-of-concerns/SKILL.md",
+      "source_repo": "NTCoding/claude-skillz",
+      "local_path": "development/1178-name-skill_d55098c1",
+      "category": "development",
+      "name": "name-skill_d55098c1",
+      "indexed_at": "2026-02-22T09:19:26.118808",
+      "repo_stars": 240,
+      "repo_updated_at": "2026-02-21T21:57:17+00:00",
+      "source_url": "https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }

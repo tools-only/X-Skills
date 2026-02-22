@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **442 AI-powered skills** organized into 14 categories.
+A curated collection of **429 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -10,15 +10,15 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (3 skills)
 - **Automation/Workflow** (13 skills)
-- **Commercial** (18 skills)
+- **Commercial** (16 skills)
 - **Communication** (12 skills)
-- **Content Creation** (44 skills)
+- **Content Creation** (40 skills)
 - **Daily Assistant** (5 skills)
-- **Data Analysis** (54 skills)
-- **Development** (104 skills)
-- **Development/Devops** (102 skills)
-- **Development/Testing** (5 skills)
-- **Development/Tools** (55 skills)
+- **Data Analysis** (53 skills)
+- **Development** (102 skills)
+- **Development/Devops** (101 skills)
+- **Development/Testing** (4 skills)
+- **Development/Tools** (53 skills)
 - **Investment** (1 skill)
 - **Productivity** (3 skills)
 - **Research** (23 skills)
@@ -206,7 +206,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [04 Next Steps](automation/workflow/134-04-next-steps_12451d6e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/getting-started/04-next-steps.md) | 🔥 9.7k | `automation` |
 | [04 Packaging](automation/workflow/135-04-packaging_49de9086/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/04-packaging.md) | 🔥 9.7k | `automation` |
 
-### Commercial (18 skills)
+### Commercial (16 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -226,8 +226,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Query Param Auth](commercial/395-query-param-auth_e000b191/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/query-param-auth.md) | ⭐ 3.3k | `commercial` |
 | [Cards](commercial/378-cards_6c04640b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/cards.md) | ⭐ 117 | `commercial` |
 | [Skill](commercial/210-name-skill_1b74b4fe/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/database/stored-procedure-generator/skills/generating-stored-procedures/SKILL.md) | ⭐ 1.4k | `commercial` |
-| [Permissions](commercial/permissions_1f64e2d9/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/permissions.md) | ⭐ 36 | `commercial` |
-| [Multi User](commercial/multi-user_505b1d3c/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/examples/multi-user.md) | ⭐ 36 | `commercial` |
 
 ### Communication (12 skills)
 
@@ -246,7 +244,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Import Export](communication/251-import-export_9220633d/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/import-export.md) | ⭐ 61 | `communication` |
 | [Sdk Usage](communication/252-sdk-usage_484ce649/) | [letta-ai/skills](https://raw.githubusercontent.com/letta-ai/skills/main/letta/fleet-management/reference/sdk-usage.md) | ⭐ 61 | `tenant:acme` |
 
-### Content Creation (44 skills)
+### Content Creation (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -287,13 +285,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [P5 Guide](content-creation/353-p5-guide_f110bc04/) | [dmccreary/claude-skills](https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/microsim-generator/references/p5-guide.md) | ⭐ 49 | `content creation` |
 | [02 Scraping](content-creation/354-02-scraping_eb8fe18d/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/02-scraping.md) | 🔥 9.7k | `content creation` |
 | [Usage](content-creation/042-usage_cd9a1109/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/USAGE.md) | 🔥 9.7k | `content creation` |
-| [Index](content-creation/index_a0e2ee39/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/index.md) | ⭐ 36 | `content creation` |
-| [Toolsets](content-creation/toolsets_5e962330/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/toolsets.md) | ⭐ 36 | `content creation` |
-| [Console Toolset](content-creation/console-toolset_a2a7b2fa/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/console-toolset.md) | ⭐ 36 | `content creation` |
-| [Backends](content-creation/backends_8631f33a/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/backends.md) | ⭐ 36 | `content creation` |
-| [Docker](content-creation/docker_94863f0f/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/docker.md) | ⭐ 36 | `content creation` |
-| [Permissions](content-creation/permissions_f36bcca1/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/permissions.md) | ⭐ 36 | `content creation` |
-| [Types](content-creation/types_57d018af/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/types.md) | ⭐ 36 | `content creation` |
+| [Index](content-creation/019-index_a0e2ee39/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/index.md) | ⭐ 36 | `content creation` |
+| [Toolsets](content-creation/360-toolsets_5e962330/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/api/toolsets.md) | ⭐ 36 | `content creation` |
+| [Console Toolset](content-creation/420-console-toolset_a2a7b2fa/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/console-toolset.md) | ⭐ 36 | `content creation` |
 
 ### Daily Assistant (5 skills)
 
@@ -305,7 +299,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](daily-assistant/037-claude_60cb35f0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.4k | `daily assistant` |
 | [Codex Models](daily-assistant/270-codex-models_4cf972bb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (54 skills)
+### Data Analysis (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -361,10 +355,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_3ce7b1ff/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-usage/SKILL.md) | ⭐ 10 | `data analysis` |
 | [014 Security Headers Cors Middleware](data-analysis/481-014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_95cf7107/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
-| [Docker](data-analysis/docker_d9e87c50/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/docker.md) | ⭐ 36 | `data analysis` |
-| [Docker Sandbox](data-analysis/docker-sandbox_0981cd42/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/examples/docker-sandbox.md) | ⭐ 36 | `data analysis` |
+| [Docker](data-analysis/511-docker_d9e87c50/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/docker.md) | ⭐ 36 | `data analysis` |
 
-### Development (104 skills)
+### Development (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -467,13 +460,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [06 Troubleshooting](development/2879-06-troubleshooting_78ddfebd/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/06-troubleshooting.md) | 🔥 9.7k | `development` |
 | [Cli Reference](development/1593-cli_reference_2e61f4f8/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CLI_REFERENCE.md) | 🔥 9.7k | `development` |
 | [Config Format](development/2878-config_format_af066045/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CONFIG_FORMAT.md) | 🔥 9.7k | `development` |
-| [Claude](development/claude_8e8685ee/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/CLAUDE.md) | ⭐ 36 | `development` |
-| [Abbreviations](development/abbreviations_cdb8d3d2/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/includes/abbreviations.md) | ⭐ 36 | `development` |
-| [Installation](development/installation_b151f30f/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/installation.md) | ⭐ 36 | `development` |
-| [Cli Agent](development/cli-agent_8017030b/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/examples/cli-agent.md) | ⭐ 36 | `development` |
-| [Local Backend](development/local-backend_752c9262/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/examples/local-backend.md) | ⭐ 36 | `development` |
+| [Claude](development/140-claude_8e8685ee/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/CLAUDE.md) | ⭐ 36 | `development` |
+| [Abbreviations](development/3076-abbreviations_cdb8d3d2/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/includes/abbreviations.md) | ⭐ 36 | `development` |
+| [Skill](development/name-skill_d55098c1/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 240 | `development` |
 
-### Development/Devops (102 skills)
+### Development/Devops (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -578,19 +569,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [05 Workflows](development/devops/363-05-workflows_75f7af4a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
 | [Quick Reference](development/devops/364-quick_reference_07ac890f/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.7k | `development` |
 | [05 Workflows](development/devops/363-05-workflows_f0c92b2a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/user-guide/05-workflows.md) | 🔥 9.7k | `development` |
-| [Index](development/devops/index_e539cf55/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/examples/index.md) | ⭐ 36 | `development` |
 
-### Development/Testing (5 skills)
+### Development/Testing (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Skill](development/testing/002-name-skill_187b30c5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nestjs-drizzle-crud-generator/SKILL.md) | ⭐ 102 | `development` |
 | [Nestjs Config](development/testing/089-nestjs-config_ab544f6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/nestjs-config.md) | ⭐ 102 | `development` |
 | [Db Performance](development/testing/090-db-performance_9aa0f078/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/db-performance.md) | ⭐ 3.3k | `development` |
-| [Backends](development/testing/backends_3471597a/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/backends.md) | ⭐ 36 | `development` |
-| [Index](development/testing/index_9516d09b/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/index.md) | ⭐ 36 | `development` |
+| [Backends](development/testing/091-backends_3471597a/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/backends.md) | ⭐ 36 | `development` |
 
-### Development/Tools (55 skills)
+### Development/Tools (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -647,8 +636,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architecture](development/tools/051-architecture_97bc174a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/ARCHITECTURE.md) | 🔥 9.7k | `development` |
 | [Mcp Server](development/tools/330-mcp-server_11035d67/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/advanced/mcp-server.md) | 🔥 9.7k | `development` |
 | [Mcp Reference](development/tools/331-mcp_reference_9b2d06aa/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/MCP_REFERENCE.md) | 🔥 9.7k | `development` |
-| [Getting Help](development/tools/getting-help_75a6ba4c/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/getting-help.md) | ⭐ 36 | `development` |
-| [Index](development/tools/index_8f2ce9d0/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/concepts/index.md) | ⭐ 36 | `development` |
 
 ### Investment (1 skills)
 
@@ -743,5 +730,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 09:17:28 UTC*
+*Last updated: 2026-02-22 09:19:26 UTC*
 *Automatically maintained by SkillFlow*
