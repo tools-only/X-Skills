@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T20:52:42.324486",
+  "updated_at": "2026-02-22T21:52:35.530104",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -9717,6 +9717,104 @@
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md",
       "display_name": "Reverse Proxy",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "933b4179de50083e8580b1bbdf8bd0e8af847fdb54e52a4a8950d5163b3a8599",
+      "source_path": "skills/workflow-builder/SKILL.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "communication/127-name-skill_933b4179",
+      "category": "communication",
+      "name": "name-skill_933b4179",
+      "indexed_at": "2026-02-22T21:52:34.792883",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-18T19:22:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "dcf1a7b4a3e0487f8c7ba31df3228c5baa1b1dfdf0ded2b81a2c7c676f2be088",
+      "source_path": "workflows/email-steward/AGENT.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "communication/253-agent_dcf1a7b4",
+      "category": "communication",
+      "name": "agent_dcf1a7b4",
+      "indexed_at": "2026-02-22T21:52:34.904488",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-20T13:14:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md",
+      "display_name": "Agent",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "2796dd59b68b0fe2cecdc6f41244688b030936964b77ab7c95bc8cb1ec2d9b08",
+      "source_path": ".claude/commands/update-model.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "daily-assistant/262-update-model_2796dd59",
+      "category": "daily-assistant",
+      "name": "update-model_2796dd59",
+      "indexed_at": "2026-02-22T21:52:35.068990",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-21T22:02:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md",
+      "display_name": "Update Model",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "1882d3aadcc0ee6845801a680046062431f1c56b1af202dc2df9e507720866bc",
+      "source_path": "skills/librarian/SKILL.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "daily-assistant/032-name-skill_1882d3aa",
+      "category": "daily-assistant",
+      "name": "name-skill_1882d3aa",
+      "indexed_at": "2026-02-22T21:52:35.174948",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-18T18:12:08+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "76f22eb9252c0233caf756fad3d1055424591e86f28a38f439c86adce2779455",
+      "source_path": "skills/smart-delegation/SKILL.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "daily-assistant/032-name-skill_76f22eb9",
+      "category": "daily-assistant",
+      "name": "name-skill_76f22eb9",
+      "indexed_at": "2026-02-22T21:52:35.280483",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-20T13:14:37+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/smart-delegation/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "1a9c6299d2d4ad6c8d450eb4a0176633821984aa3b0d709406c7edd6e20d35f8",
+      "source_path": ".claude/commands/fleet.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "automation/scripting/086-fleet_1a9c6299",
+      "category": "automation/scripting",
+      "name": "fleet_1a9c6299",
+      "indexed_at": "2026-02-22T21:52:35.429070",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-21T22:02:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md",
+      "display_name": "Fleet",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "e26dd8512c921be7d18835db3d9428d801a5b92ddbf7a18e17a14329a81ebe67",
+      "source_path": "skills/create-great-prompts/SKILL.md",
+      "source_repo": "TechNickAI/openclaw-config",
+      "local_path": "content-creation/049-name-skill_e26dd851",
+      "category": "content-creation",
+      "name": "name-skill_e26dd851",
+      "indexed_at": "2026-02-22T21:52:35.530019",
+      "repo_stars": 13,
+      "repo_updated_at": "2026-02-18T18:23:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
     }
   ]
 }

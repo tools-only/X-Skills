@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **694 AI-powered skills** organized into 15 categories.
+A curated collection of **705 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,12 +8,12 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (5 skills)
+- **Automation/Scripting** (6 skills)
 - **Automation/Workflow** (30 skills)
 - **Commercial** (43 skills)
-- **Communication** (15 skills)
-- **Content Creation** (57 skills)
-- **Daily Assistant** (27 skills)
+- **Communication** (18 skills)
+- **Content Creation** (58 skills)
+- **Daily Assistant** (33 skills)
 - **Data Analysis** (71 skills)
 - **Development** (177 skills)
 - **Development/Devops** (131 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (5 skills)
+### Automation/Scripting (6 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -190,6 +190,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_28ff4f04/) | [artwist-polyakov/polyakov-claude-skills](https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/yandex-search-api/skills/yandex-search-api/SKILL.md) | ⭐ 38 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_398bf016/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.2k | `automation` |
 | [Ecomode](automation/scripting/086-ecomode_f42e5d09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/ecomode.md) | ⭐ 10 | `automation` |
+| [Fleet](automation/scripting/fleet_1a9c6299/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 13 | `automation` |
 
 ### Automation/Workflow (30 skills)
 
@@ -274,7 +275,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Style Reference](commercial/388-style-reference_1406cd42/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/image-generation/references/style-reference.md) | ⭐ 34 | `commercial` |
 | [Exceptions](commercial/249-exceptions_3dbd3b44/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/exceptions.md) | ⭐ 106 | `commercial` |
 
-### Communication (15 skills)
+### Communication (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -293,8 +294,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Tracking](communication/251-cost_tracking_1bfec4b3/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/COST_TRACKING.md) | ⭐ 43 | `communication` |
 | [Openclaw Integration](communication/253-openclaw_integration_9a5f9478/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openclaw_integration.md) | 🔥 36.1k | `communication` |
 | [Tool Reference](communication/253-tool-reference_51413bad/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/tool-reference.md) | ⭐ 34 | `communication` |
+| [Skill](communication/name-skill_933b4179/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md) | ⭐ 13 | `communication` |
+| [Agent](communication/agent_dcf1a7b4/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md) | ⭐ 13 | `communication` |
+| [Agents](communication/agents_3786a33f/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/AGENTS.md) | ⭐ 13 | `communication` |
 
-### Content Creation (57 skills)
+### Content Creation (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -355,8 +359,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Platforms](content-creation/212-platforms_1737d684/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/platforms.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_15483b26/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cfb-data/SKILL.md) | ⭐ 24 | `content creation` |
 | [Skill](content-creation/049-name-skill_4213150f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 24 | `content creation` |
+| [Skill](content-creation/name-skill_e26dd851/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 13 | `content creation` |
 
-### Daily Assistant (27 skills)
+### Daily Assistant (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -387,6 +392,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Commands](daily-assistant/271-commands_29378f0a/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/fastf1/references/commands.md) | ⭐ 24 | `daily assistant` |
 | [Commands](daily-assistant/271-commands_5dfbe33f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/commands.md) | ⭐ 24 | `daily assistant` |
 | [Schemas](daily-assistant/272-schemas_34ab5339/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/football-data/references/schemas.md) | ⭐ 24 | `daily assistant` |
+| [Update Model](daily-assistant/update-model_2796dd59/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 13 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_1882d3aa/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 13 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_76f22eb9/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/smart-delegation/SKILL.md) | ⭐ 13 | `daily assistant` |
+| [Boot](daily-assistant/boot_95e5425c/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/BOOT.md) | ⭐ 13 | `daily assistant` |
+| [Memory](daily-assistant/memory_445b6492/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/MEMORY.md) | ⭐ 13 | `daily assistant` |
+| [Tools](daily-assistant/tools_1873a68e/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/templates/TOOLS.md) | ⭐ 13 | `daily assistant` |
 
 ### Data Analysis (71 skills)
 
@@ -672,7 +683,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_ccaab12c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_3c572c12/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/index.md) | ⭐ 3.3k | `development` |
 | [Roadmap](development/devops/097-roadmap_c9aa8183/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
-| [Security Features](development/devops/security-features_62041f2c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/security-features.md) | ⭐ 3.3k | `development` |
+| [Security Features](development/devops/384-security-features_012c8460/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/security-features.md) | ⭐ 3.3k | `development` |
 | [Input Validation](development/devops/228-input-validation_01d87216/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/input-validation.md) | ⭐ 3.3k | `development` |
 | [Mcp Architecture Patterns](development/devops/385-mcp-architecture-patterns_230d8859/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/mcp-architecture-patterns.md) | ⭐ 3.3k | `development` |
 | [Argocd](development/devops/386-argocd_31a49405/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/argocd.md) | ⭐ 3.3k | `development` |
@@ -692,18 +703,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_0010150a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/faq/index.md) | ⭐ 3.3k | `development` |
 | [Admin Ui Customization](development/devops/398-admin-ui-customization_b4697c47/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/admin-ui-customization.md) | ⭐ 3.3k | `development` |
 | [Api Usage](development/devops/399-api-usage_930cc30b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/api-usage.md) | ⭐ 3.3k | `development` |
-| [Configuration](development/devops/configuration_befa1307/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/009-configuration_ed70f974/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_7c9efd7f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 | [Logging](development/devops/400-logging_7601ca0a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/logging.md) | ⭐ 3.3k | `development` |
-| [Proxy](development/devops/proxy_ca57609f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/proxy.md) | ⭐ 3.3k | `development` |
+| [Proxy](development/devops/401-proxy_5a83e05a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/proxy.md) | ⭐ 3.3k | `development` |
 | [Rbac](development/devops/010-rbac_46494f27/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Scale](development/devops/402-scale_5375b413/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/scale.md) | ⭐ 3.3k | `development` |
-| [Securing](development/devops/securing_37c36d58/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
+| [Securing](development/devops/403-securing_264f96d4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Self Signed Certificates](development/devops/404-self-signed-certificates_c29006e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/self-signed-certificates.md) | ⭐ 3.3k | `development` |
 | [Sso Generic Oidc Tutorial](development/devops/405-sso-generic-oidc-tutorial_1cf7119b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-generic-oidc-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso Google Tutorial](development/devops/406-sso-google-tutorial_ec0b87b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-google-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso Keycloak Tutorial](development/devops/407-sso-keycloak-tutorial_bc429daa/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-keycloak-tutorial.md) | ⭐ 3.3k | `development` |
-| [Sso](development/devops/sso_078f40c7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
+| [Sso](development/devops/408-sso_3ff6196e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
 | [Tuning](development/devops/409-tuning_b13077bc/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/tuning.md) | ⭐ 3.3k | `development` |
 | [Upgrade](development/devops/410-upgrade_b3150af6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/upgrade.md) | ⭐ 3.3k | `development` |
 | [Well Known Uris](development/devops/411-well-known-uris_b7a6cdf4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/well-known-uris.md) | ⭐ 3.3k | `development` |
@@ -715,7 +726,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openwebui Tutorial](development/devops/416-openwebui-tutorial_ace5026d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/openwebui-tutorial.md) | ⭐ 3.3k | `development` |
 | [Mcpgateway Translate](development/devops/417-mcpgateway-translate_199775f5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/mcpgateway-translate.md) | ⭐ 3.3k | `development` |
 | [Multi Auth Headers](development/devops/418-multi-auth-headers_d4462e80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/multi-auth-headers.md) | ⭐ 3.3k | `development` |
-| [Reverse Proxy](development/devops/reverse-proxy_047a8541/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md) | ⭐ 3.3k | `development` |
+| [Reverse Proxy](development/devops/419-reverse-proxy_a49bea67/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md) | ⭐ 3.3k | `development` |
 | [014 Security Headers Cors Middleware](development/devops/420-014-security-headers-cors-middleware_009499c3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `development` |
 | [015 Well Known Uri Handler](development/devops/421-015-well-known-uri-handler_198ce9fb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/015-well-known-uri-handler.md) | ⭐ 3.3k | `development` |
 | [018 Built In Response Compression](development/devops/422-018-built-in-response-compression_161e1ccb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/018-built-in-response-compression.md) | ⭐ 3.3k | `development` |
@@ -1001,5 +1012,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 20:52:42 UTC*
+*Last updated: 2026-02-22 21:52:35 UTC*
 *Automatically maintained by SkillFlow*
