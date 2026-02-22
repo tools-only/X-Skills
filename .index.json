@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T07:17:55.281743",
+  "updated_at": "2026-02-22T07:19:12.308321",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5461,6 +5461,34 @@
       "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
       "display_name": "Readme.Ja",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "d9ec1552ba3b6f7046ffe2261d0f1b6067fb2db8eab3af811d22be6a49211a7f",
+      "source_path": "AGENTS.md",
+      "source_repo": "bowenliang123/md_exporter",
+      "local_path": "development/tools/015-agents_d9ec1552",
+      "category": "development/tools",
+      "name": "agents_d9ec1552",
+      "indexed_at": "2026-02-22T07:19:12.180110",
+      "repo_stars": 182,
+      "repo_updated_at": "2026-02-21T19:01:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "95cf7107575ca66defae28a34f063d3966307af734134f4cd8b756094cf7a222",
+      "source_path": "SKILL.md",
+      "source_repo": "bowenliang123/md_exporter",
+      "local_path": "data-analysis/226-name-skill_95cf7107",
+      "category": "data-analysis",
+      "name": "name-skill_95cf7107",
+      "indexed_at": "2026-02-22T07:19:12.308234",
+      "repo_stars": 182,
+      "repo_updated_at": "2026-02-22T02:16:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **390 AI-powered skills** organized into 14 categories.
+A curated collection of **392 AI-powered skills** organized into 14 categories.
 
 ## Overview
 
@@ -14,11 +14,11 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (12 skills)
 - **Content Creation** (34 skills)
 - **Daily Assistant** (5 skills)
-- **Data Analysis** (51 skills)
+- **Data Analysis** (52 skills)
 - **Development** (88 skills)
 - **Development/Devops** (96 skills)
 - **Development/Testing** (3 skills)
-- **Development/Tools** (48 skills)
+- **Development/Tools** (49 skills)
 - **Investment** (1 skill)
 - **Productivity** (3 skills)
 - **Research** (21 skills)
@@ -200,7 +200,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Mcp Cli](automation/workflow/151-mcp-cli_dbea27bc/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/mcp-cli.md) | ⭐ 3.3k | `automation` |
 | [Libreoffice Server](automation/workflow/152-libreoffice-server_2c0ac43b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/servers/python/libreoffice-server.md) | ⭐ 3.3k | `automation` |
 | [Skill](automation/workflow/002-name-skill_15b7286f/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/gas-fee-optimizer/skills/optimizing-gas-fees/SKILL.md) | ⭐ 1.4k | `automation` |
-| [Readme.Ja](automation/workflow/readmeja_c8bfa185/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 28 | `automation` |
+| [Readme.Ja](automation/workflow/040-readmeja_c8bfa185/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 28 | `automation` |
 
 ### Commercial (16 skills)
 
@@ -276,8 +276,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [V1.81.12](content-creation/351-v18112_b76af1d8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
-| [Skill](content-creation/name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
-| [Writing Guidelines](content-creation/writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
+| [Skill](content-creation/049-name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
+| [Writing Guidelines](content-creation/355-writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
 
 ### Daily Assistant (5 skills)
 
@@ -289,7 +289,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](daily-assistant/037-claude_60cb35f0/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/CLAUDE.md) | ⭐ 1.4k | `daily assistant` |
 | [Codex Models](daily-assistant/270-codex-models_4cf972bb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (51 skills)
+### Data Analysis (52 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -344,6 +344,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_fecbac2d/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/nft-rarity-analyzer/skills/analyzing-nft-rarity/SKILL.md) | ⭐ 1.4k | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3ce7b1ff/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-usage/SKILL.md) | ⭐ 10 | `data analysis` |
 | [014 Security Headers Cors Middleware](data-analysis/481-014-security-headers-cors-middleware_f2c11a7a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `data analysis` |
+| [Skill](data-analysis/name-skill_95cf7107/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/SKILL.md) | ⭐ 182 | `data analysis` |
 
 ### Development (88 skills)
 
@@ -547,7 +548,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nestjs Config](development/testing/089-nestjs-config_ab544f6a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/references/nestjs-config.md) | ⭐ 102 | `development` |
 | [Db Performance](development/testing/090-db-performance_9aa0f078/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/db-performance.md) | ⭐ 3.3k | `development` |
 
-### Development/Tools (48 skills)
+### Development/Tools (49 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -599,6 +600,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fact Checker](development/tools/329-fact-checker_7699dca6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/fact-checker.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_f380706f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/fact-check/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/002-name-skill_07dab008/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-cto/SKILL.md) | ⭐ 10 | `development` |
+| [Agents](development/tools/agents_d9ec1552/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/md_exporter/main/AGENTS.md) | ⭐ 182 | `development` |
 
 ### Investment (1 skills)
 
@@ -691,5 +693,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 07:17:55 UTC*
+*Last updated: 2026-02-22 07:19:12 UTC*
 *Automatically maintained by SkillFlow*
