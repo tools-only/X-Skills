@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-22T00:01:01.884075",
+  "updated_at": "2026-02-22T05:18:29.957057",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -5307,6 +5307,90 @@
       "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/codex-orchestrator/references/codex-models.md",
       "display_name": "Codex Models",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "1474cf1714f00288456125aed7301185731b87ae62ab7b34d70478d394824690",
+      "source_path": "README_es.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/435-readme_es_1474cf17",
+      "category": "development/devops",
+      "name": "readme_es_1474cf17",
+      "indexed_at": "2026-02-22T05:18:28.978611",
+      "repo_stars": 820,
+      "repo_updated_at": "2026-02-21T07:39:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md",
+      "display_name": "Readme Es",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a026d9c8c2156c1fec346290e60a6cdcce53d54523034891ec537d65a90b2317",
+      "source_path": "README_ja.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/436-readme_ja_a026d9c8",
+      "category": "development/devops",
+      "name": "readme_ja_a026d9c8",
+      "indexed_at": "2026-02-22T05:18:29.125109",
+      "repo_stars": 820,
+      "repo_updated_at": "2026-02-21T07:39:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md",
+      "display_name": "Readme Ja",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "698660d278326dc51ade9aabc1fc9375d9db95a4dcb810f06eb3944afb786397",
+      "source_path": "README_pt-BR.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/437-readme_pt-br_698660d2",
+      "category": "development/devops",
+      "name": "readme_pt-br_698660d2",
+      "indexed_at": "2026-02-22T05:18:29.365301",
+      "repo_stars": 820,
+      "repo_updated_at": "2026-02-21T07:39:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_pt-BR.md",
+      "display_name": "Readme Pt Br",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b5fce0bfa0ea0ce15464ac886423e971dba97dce0ff6e3946398b74efba2c122",
+      "source_path": "README_zh-CN.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/438-readme_zh-cn_b5fce0bf",
+      "category": "development/devops",
+      "name": "readme_zh-cn_b5fce0bf",
+      "indexed_at": "2026-02-22T05:18:29.631697",
+      "repo_stars": 820,
+      "repo_updated_at": "2026-02-21T07:39:48+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md",
+      "display_name": "Readme Zh Cn",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b3a0b41784030508ced2a97c1c8f0720a9a1cf2d3e0dbba3ce10e9e140839962",
+      "source_path": "docs/docs/concepts/mcp.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/devops/025-mcp_b3a0b417",
+      "category": "development/devops",
+      "name": "mcp_b3a0b417",
+      "indexed_at": "2026-02-22T05:18:29.796392",
+      "repo_stars": 820,
+      "repo_updated_at": "2026-02-21T13:56:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/concepts/mcp.md",
+      "display_name": "Mcp",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9d11f1af95d94579a5696def330aeb5946657ede2c4b43f56cf6371a25b84303",
+      "source_path": "docs/docs/introduction.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "research/267-introduction_9d11f1af",
+      "category": "research",
+      "name": "introduction_9d11f1af",
+      "indexed_at": "2026-02-22T05:18:29.956977",
+      "repo_stars": 820,
+      "repo_updated_at": "2026-02-21T13:56:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/introduction.md",
+      "display_name": "Introduction",
+      "tags": "[\"research\"]"
     }
   ]
 }
