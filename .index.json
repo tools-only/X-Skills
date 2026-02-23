@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T12:06:56.039747",
+  "updated_at": "2026-02-23T13:16:49.945328",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -16465,6 +16465,76 @@
       "source_url": "https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/other.md",
       "display_name": "Other",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "cc82a6669e5dc5bf6a0a00dd4cd6d420e117846a5c8bb995a3079f0328c5c4c6",
+      "source_path": "plugins/claude-coding/skills/clean-branches/SKILL.md",
+      "source_repo": "gupsammy/Claudest",
+      "local_path": "data-analysis/226-name-skill_cc82a666",
+      "category": "data-analysis",
+      "name": "name-skill_cc82a666",
+      "indexed_at": "2026-02-23T13:16:48.088458",
+      "repo_stars": 34,
+      "repo_updated_at": "2026-02-22T11:33:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "a41f4990682f89aa237f7b842d42baa8f169028f776014e31b46b580ed96635f",
+      "source_path": "plugins/claude-thinking/skills/brainstorm/SKILL.md",
+      "source_repo": "gupsammy/Claudest",
+      "local_path": "investment/021-name-skill_a41f4990",
+      "category": "investment",
+      "name": "name-skill_a41f4990",
+      "indexed_at": "2026-02-23T13:16:48.745370",
+      "repo_stars": 34,
+      "repo_updated_at": "2026-02-23T07:28:35+00:00",
+      "source_url": "https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/brainstorm/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "df97bfb29973656225e8291b45105166f1bdac0b3183cf33dd90ca2dde9275d8",
+      "source_path": "plugins/claude-skills/skills/create-skill/references/frontmatter-options.md",
+      "source_repo": "gupsammy/Claudest",
+      "local_path": "content-creation/362-frontmatter-options_df97bfb2",
+      "category": "content-creation",
+      "name": "frontmatter-options_df97bfb2",
+      "indexed_at": "2026-02-23T13:16:49.225168",
+      "repo_stars": 34,
+      "repo_updated_at": "2026-02-23T07:15:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-skill/references/frontmatter-options.md",
+      "display_name": "Frontmatter Options",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "3da5f5bc9f6d34e034ef4342a3c9473ca9bfb9246790d7c155aba06f703f1281",
+      "source_path": "plugins/claude-skills/skills/repair-skill/references/frontmatter-options.md",
+      "source_repo": "gupsammy/Claudest",
+      "local_path": "automation/workflow/133-frontmatter-options_3da5f5bc",
+      "category": "automation/workflow",
+      "name": "frontmatter-options_3da5f5bc",
+      "indexed_at": "2026-02-23T13:16:49.517412",
+      "repo_stars": 34,
+      "repo_updated_at": "2026-02-23T07:15:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/frontmatter-options.md",
+      "display_name": "Frontmatter Options",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "6cf90d5d0f258a071788232c2f7142168f65260bfc79365fbeac3995fa229952",
+      "source_path": "plugins/claude-skills/skills/repair-skill/references/quality-checklist.md",
+      "source_repo": "gupsammy/Claudest",
+      "local_path": "daily-assistant/268-quality-checklist_6cf90d5d",
+      "category": "daily-assistant",
+      "name": "quality-checklist_6cf90d5d",
+      "indexed_at": "2026-02-23T13:16:49.945271",
+      "repo_stars": 34,
+      "repo_updated_at": "2026-02-23T13:04:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/quality-checklist.md",
+      "display_name": "Quality Checklist",
+      "tags": "[\"daily assistant\"]"
     }
   ]
 }
