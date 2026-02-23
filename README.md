@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1092 AI-powered skills** organized into 15 categories.
+A curated collection of **1091 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -14,9 +14,9 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Communication** (30 skills)
 - **Content Creation** (83 skills)
 - **Daily Assistant** (49 skills)
-- **Data Analysis** (97 skills)
-- **Development** (349 skills)
-- **Development/Devops** (164 skills)
+- **Data Analysis** (96 skills)
+- **Development** (348 skills)
+- **Development/Devops** (165 skills)
 - **Development/Testing** (25 skills)
 - **Development/Tools** (115 skills)
 - **Investment** (9 skills)
@@ -499,7 +499,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Scuttle And Reform](daily-assistant/304-scuttle-and-reform_496947da/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/scuttle-and-reform.md) | ⭐ 143 | `daily assistant` |
 | [Session Resumption](daily-assistant/305-session-resumption_9df13ad4/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/session-resumption.md) | ⭐ 143 | `daily assistant` |
 
-### Data Analysis (97 skills)
+### Data Analysis (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -599,9 +599,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
 | [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
-| [Examples](data-analysis/examples_6ebaa4bf/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/EXAMPLES.md) | ⭐ 24 | `data analysis` |
 
-### Development (349 skills)
+### Development (348 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -950,12 +949,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Crew Roles](development/3081-crew-roles_ff61add7/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/crew-roles.md) | ⭐ 143 | `development` |
 | [Royal Marines](development/3082-royal-marines_92007cea/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/royal-marines.md) | ⭐ 143 | `development` |
 | [Context Guide](development/2884-context_guide_789638a4/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/guides/CONTEXT_GUIDE.md) | ⭐ 24 | `development` |
-| [Workflow Troubleshooting](development/workflow_troubleshooting_d48aaa23/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/WORKFLOW_TROUBLESHOOTING.md) | ⭐ 24 | `development` |
+| [Workflow Troubleshooting](development/2875-workflow_troubleshooting_d48aaa23/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/WORKFLOW_TROUBLESHOOTING.md) | ⭐ 24 | `development` |
 | [Configuration](development/191-configuration_41aedf4b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
-| [Session Summary](development/session_summary_a4a22d16/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/SESSION_SUMMARY.md) | ⭐ 24 | `development` |
-| [Developer Guide](development/developer_guide_b493d5f8/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/guides/DEVELOPER_GUIDE.md) | ⭐ 24 | `development` |
+| [Session Summary](development/2877-session_summary_a4a22d16/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/SESSION_SUMMARY.md) | ⭐ 24 | `development` |
 
-### Development/Devops (164 skills)
+### Development/Devops (165 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1080,7 +1078,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill Evaluation](development/devops/367-skill-evaluation_75680f21/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/skill-evaluation.md) | ⭐ 10 | `frontend` `ui` |
 | [Ci Cd Patterns](development/devops/368-ci-cd-patterns_80a16cb1/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/ci-cd-patterns.md) | ⭐ 10 | `ci-cd` `github-actions` `pipeline` |
 | [Git Workflows](development/devops/369-git-workflows_870cd392/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/devops/git-workflows.md) | ⭐ 10 | `git` `version-control` `branching` |
-| [Developing](development/devops/developing_f9dbbab5/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 4.0k | `development` |
+| [Developing](development/devops/371-developing_551cf265/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 4.0k | `development` |
 | [Readme Es](development/devops/362-readme_es_ae0fbdc4/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_es.md) | ⭐ 858 | `development` |
 | [Readme Ja](development/devops/363-readme_ja_d27afd34/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_ja.md) | ⭐ 858 | `development` |
 | [Readme Zh Cn](development/devops/364-readme_zh-cn_7b293e68/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/README_zh-CN.md) | ⭐ 858 | `development` |
@@ -1123,6 +1121,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Tooling Az](development/devops/161-readme_flat_tooling_az_38ad2f96/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 24.6k | `development` |
 | [Skill](development/devops/085-description-skill_dc4dba10/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.cursor/skills/ha-zigbee2mqtt-docker/SKILL.md) | ⭐ 18 | `development` |
 | [Developing](development/devops/365-developing_f9dbbab5/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/developing.md) | ⭐ 4.0k | `development` |
+| [Smr Sdk Mcp Control Proposal 2026 02 19](development/devops/smr-sdk-mcp-control-proposal-2026-02-19_d3b17850/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/contracts/smr-sdk-mcp-control-proposal-2026-02-19.md) | ⭐ 75 | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -1271,8 +1270,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Az](development/tools/178-readme_flat_workflows_az_ec5961ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 24.6k | `development` |
 | [Backlog](development/tools/368-backlog_23d86cd2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
 | [Skill](development/tools/086-description-skill_aebb20d3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.cursor/skills/embedded-debug-tools/SKILL.md) | ⭐ 18 | `development` |
-| [Claude](development/tools/claude_2b3b5dfe/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/CLAUDE.md) | ⭐ 24 | `development` |
-| [Troubleshooting](development/tools/troubleshooting_0f249dcd/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/guides/TROUBLESHOOTING.md) | ⭐ 24 | `development` |
+| [Claude](development/tools/017-claude_2b3b5dfe/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/CLAUDE.md) | ⭐ 24 | `development` |
+| [Api Surface](development/tools/api-surface_956ec1cb/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md) | ⭐ 75 | `development` |
 
 ### Investment (9 skills)
 
@@ -1347,7 +1346,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tlaplus Syntax](research/258-tlaplus_syntax_cf31ead9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
 | [Tlaplus Syntax](research/258-tlaplus_syntax_54ea0eea/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
 | [Docx Js](research/258-docx-js_0d24521f/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/docx/docx-js.md) | ⭐ 600 | `research` |
-| [Faq](research/faq_3a909ea1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/faq.md) | ⭐ 4.0k | `research` |
+| [Faq](research/153-faq_3a909ea1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/faq.md) | ⭐ 4.0k | `research` |
 
 ## How Skills Are Organized
 
@@ -1399,5 +1398,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 03:47:22 UTC*
+*Last updated: 2026-02-23 03:49:00 UTC*
 *Automatically maintained by SkillFlow*
