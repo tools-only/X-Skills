@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T11:06:46.569638",
+  "updated_at": "2026-02-23T12:05:03.623546",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -15793,6 +15793,90 @@
       "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "bd4d17e8b3dac850f5c3f2a9b0e341177da6b54e3a0a75b22e824d3db14e67d5",
+      "source_path": "openspec/changes/add-knowledge-sync/proposal.md",
+      "source_repo": "Yourdaylight/stock_datasource",
+      "local_path": "development/2045-proposal_bd4d17e8",
+      "category": "development",
+      "name": "proposal_bd4d17e8",
+      "indexed_at": "2026-02-23T12:05:02.700300",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-22T03:16:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/proposal.md",
+      "display_name": "Proposal",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "0235a7be5ac062df4bed96272691c7ea41d489dfb736446b430a70b18aee5d98",
+      "source_path": "openspec/changes/add-knowledge-sync/specs/knowledge-sync/spec.md",
+      "source_repo": "Yourdaylight/stock_datasource",
+      "local_path": "development/2193-spec_0235a7be",
+      "category": "development",
+      "name": "spec_0235a7be",
+      "indexed_at": "2026-02-23T12:05:02.848839",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-22T03:16:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/specs/knowledge-sync/spec.md",
+      "display_name": "Spec",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b252b37972ab2ef077a024176df9a6fbc16fdedde0f9b4c82260e6406dd3b8f1",
+      "source_path": "openspec/changes/add-knowledge-sync/tasks.md",
+      "source_repo": "Yourdaylight/stock_datasource",
+      "local_path": "daily-assistant/272-tasks_b252b379",
+      "category": "daily-assistant",
+      "name": "tasks_b252b379",
+      "indexed_at": "2026-02-23T12:05:03.052230",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-22T03:16:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/tasks.md",
+      "display_name": "Tasks",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "80de3ee47696f4a6168562bfe12248e42815e2728e6fe9dd252e4645d9242fce",
+      "source_path": "openspec/changes/add-optional-knowledge-base/design.md",
+      "source_repo": "Yourdaylight/stock_datasource",
+      "local_path": "investment/050-design_80de3ee4",
+      "category": "investment",
+      "name": "design_80de3ee4",
+      "indexed_at": "2026-02-23T12:05:03.262877",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-22T03:16:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/design.md",
+      "display_name": "Design",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "2473f453b162d223452714fef205e71d1906751df2ee11c050de6c82edcd7e79",
+      "source_path": "openspec/changes/add-optional-knowledge-base/proposal.md",
+      "source_repo": "Yourdaylight/stock_datasource",
+      "local_path": "investment/051-proposal_2473f453",
+      "category": "investment",
+      "name": "proposal_2473f453",
+      "indexed_at": "2026-02-23T12:05:03.470200",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-22T03:16:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md",
+      "display_name": "Proposal",
+      "tags": "[\"investment\"]"
+    },
+    {
+      "file_hash": "b61286a31a6174e3258072aecfd72913ce4389fc61a86d7c1cfb0810ab48a791",
+      "source_path": "openspec/changes/add-optional-knowledge-base/tasks.md",
+      "source_repo": "Yourdaylight/stock_datasource",
+      "local_path": "data-analysis/493-tasks_b61286a3",
+      "category": "data-analysis",
+      "name": "tasks_b61286a3",
+      "indexed_at": "2026-02-23T12:05:03.623518",
+      "repo_stars": 23,
+      "repo_updated_at": "2026-02-22T03:16:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/tasks.md",
+      "display_name": "Tasks",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
