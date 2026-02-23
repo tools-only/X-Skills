@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1262 AI-powered skills** organized into 15 categories.
+A curated collection of **1263 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (105 skills)
 - **Daily Assistant** (59 skills)
 - **Data Analysis** (103 skills)
-- **Development** (406 skills)
+- **Development** (407 skills)
 - **Development/Devops** (184 skills)
 - **Development/Testing** (30 skills)
 - **Development/Tools** (138 skills)
@@ -287,7 +287,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Developer Workstation](commercial/060-developer-workstation_2f62c709/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/developer-workstation.md) | ⭐ 3.3k | `commercial` |
 | [Oauth Troubleshooting](commercial/392-oauth-troubleshooting_2786d167/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/oauth-troubleshooting.md) | ⭐ 3.3k | `commercial` |
 | [Supported Databases](commercial/393-supported-databases_d8a56a4d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/supported-databases.md) | ⭐ 3.3k | `commercial` |
-| [Index](commercial/index_a1dd3e58/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/index.md) | ⭐ 3.3k | `commercial` |
+| [Index](commercial/102-index_833de47b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/index.md) | ⭐ 3.3k | `commercial` |
 | [Grpc Services](commercial/394-grpc-services_a969a94f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/grpc-services.md) | ⭐ 3.3k | `commercial` |
 | [Query Param Auth](commercial/395-query-param-auth_e000b191/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/query-param-auth.md) | ⭐ 3.3k | `commercial` |
 | [Cards](commercial/378-cards_6c04640b/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/cards.md) | ⭐ 117 | `commercial` |
@@ -659,15 +659,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_cc82a666/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Snyk Cli Cpp Scans](data-analysis/484-snyk-cli-cpp-scans_7bfc7afd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/code-auditing/snyk-cli-cpp-scans.md) | ⭐ 20 | `data analysis` |
 | [Sourcesyncai](data-analysis/485-sourcesyncai_b4bfd453/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/sourcesyncai.md) | ⭐ 20 | `data analysis` |
-| [Skill](data-analysis/name-skill_7db1a822/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/bump-version/SKILL.md) | ⭐ 17 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7db1a822/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/bump-version/SKILL.md) | ⭐ 17 | `data analysis` |
 
-### Development (406 skills)
+### Development (407 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Multitenancy](development/1203-multitenancy_d26020b1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/multitenancy.md) | ⭐ 3.3k | `development` |
 | [Plugins](development/698-plugins_b81593c7/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/plugins.md) | ⭐ 3.3k | `openai` `moderation` `content-safety` |
-| [Selecting An Mcp Gateway](development/selecting-an-mcp-gateway_f6009185/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md) | ⭐ 3.3k | `development` |
+| [Selecting An Mcp Gateway](development/955-selecting-an-mcp-gateway_cec67c55/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md) | ⭐ 3.3k | `development` |
 | [Postgresql Schema Configuration](development/2977-postgresql-schema-configuration_9f6cd11d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/deployment/postgresql-schema-configuration.md) | ⭐ 3.3k | `development` |
 | [Mcp Developer Guide Json Rpc](development/2978-mcp-developer-guide-json-rpc_2bfea8c1/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/mcp-developer-guide-json-rpc.md) | ⭐ 3.3k | `development` |
 | [Profiling](development/2979-profiling_d8b52edd/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/development/profiling.md) | ⭐ 3.3k | `development` |
@@ -1048,7 +1048,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Nano Banana Pro Prompting](development/2891-nano-banana-pro-prompting_82732dc9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/nano-banana-pro-prompting.md) | ⭐ 20 | `development` |
 | [Skill](development/1178-name-skill_745fb11f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/knowledge-explorer/SKILL.md) | ⭐ 20 | `development` |
 | [Cross Platform Notes](development/2892-cross-platform-notes_b77d95b9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/docs/cross-platform-notes.md) | ⭐ 20 | `development` |
-| [Agents](development/agents_cc7c396a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
+| [Agents](development/028-agents_931b90f5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
 | [Llm Chat](development/2884-llm-chat_ac2f3d70/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/llm-chat.md) | ⭐ 3.3k | `development` |
 | [Jina Ai](development/2879-jina-ai_261e752d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/jina-ai.md) | ⭐ 18 | `development` |
 | [System Prompts Ai Tools](development/2880-system-prompts-ai-tools_7926f107/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/system-prompts-ai-tools.md) | ⭐ 18 | `development` |
@@ -1071,6 +1071,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_ed7a4c36/) | [tsaol/awesome-claude](https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-review/SKILL.md) | ⭐ 41 | `development` |
 | [Agents](development/028-agents_cc7c396a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
 | [Selecting An Mcp Gateway](development/955-selecting-an-mcp-gateway_f6009185/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md) | ⭐ 3.3k | `development` |
+| [Claude](development/claude_19d442cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 29 | `development` |
 
 ### Development/Devops (184 skills)
 
@@ -1095,8 +1096,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Docker Patterns](development/devops/381-docker-patterns_6cc95fae/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-deployment/references/docker-patterns.md) | ⭐ 102 | `development` |
 | [Basics](development/devops/382-basics_94f6201e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nx-monorepo/references/basics.md) | ⭐ 102 | `development` |
 | [Mcp Server Python](development/devops/383-mcp-server-python_5f654215/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcp-server-python.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_e7838fd3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md) | ⭐ 3.3k | `development` |
-| [Index](development/devops/index_87804a1c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/index.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/050-index_ccaab12c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md) | ⭐ 3.3k | `development` |
+| [Index](development/devops/050-index_3c572c12/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/index.md) | ⭐ 3.3k | `development` |
 | [Roadmap](development/devops/097-roadmap_c9aa8183/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/roadmap.md) | ⭐ 3.3k | `development` |
 | [Security Features](development/devops/384-security-features_012c8460/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/security-features.md) | ⭐ 3.3k | `development` |
 | [Input Validation](development/devops/228-input-validation_01d87216/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/input-validation.md) | ⭐ 3.3k | `development` |
@@ -1135,7 +1136,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Well Known Uris](development/devops/411-well-known-uris_b7a6cdf4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/well-known-uris.md) | ⭐ 3.3k | `development` |
 | [Config Validation](development/devops/412-config-validation_dc2663b4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/operations/config-validation.md) | ⭐ 3.3k | `development` |
 | [Cpu Spin Loop Mitigation](development/devops/413-cpu-spin-loop-mitigation_fdb3b575/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/operations/cpu-spin-loop-mitigation.md) | ⭐ 3.3k | `development` |
-| [Features](development/devops/features_9cb406c3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/features.md) | ⭐ 3.3k | `development` |
+| [Features](development/devops/361-features_4c3fbb11/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/features.md) | ⭐ 3.3k | `development` |
 | [Admin UI](development/devops/414-ui_223c1cd2/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/ui.md) | ⭐ 3.3k | `development` |
 | [Argocd Helm Deployment Ibm Cloud Iks](development/devops/415-argocd-helm-deployment-ibm-cloud-iks_8a45b06f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/argocd-helm-deployment-ibm-cloud-iks.md) | ⭐ 3.3k | `development` |
 | [Openwebui Tutorial](development/devops/416-openwebui-tutorial_ace5026d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/openwebui-tutorial.md) | ⭐ 3.3k | `development` |
@@ -1304,7 +1305,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_034a479c/) | [netresearch/jira-skill](https://raw.githubusercontent.com/netresearch/jira-skill/main/skills/jira-communication/SKILL.md) | ⭐ 24 | `development` |
 | [Developing](development/tools/350-developing_4eef14b0/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/DEVELOPING.md) | ⭐ 3.3k | `development` |
 | [Enable Payload Logging](development/tools/351-enable_payload_logging_c75da92d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/enable_payload_logging.md) | ⭐ 3.3k | `development` |
-| [Mcpgateway](development/tools/mcpgateway_b15e19eb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md) | ⭐ 3.3k | `development` |
+| [Mcpgateway](development/tools/010-mcpgateway_f02247c0/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md) | ⭐ 3.3k | `development` |
 | [Plugins Llms](development/tools/352-plugins-llms_8fca01fe/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/plugins-llms.md) | ⭐ 3.3k | `development` |
 | [Oauth Authorization Code Ui Design](development/tools/011-oauth-authorization-code-ui-design_ec055b8d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-authorization-code-ui-design.md) | ⭐ 3.3k | `development` |
 | [Oauth Design](development/tools/012-oauth-design_dd0d2a41/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/oauth-design.md) | ⭐ 3.3k | `development` |
@@ -1569,5 +1570,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 19:30:09 UTC*
+*Last updated: 2026-02-23 19:30:59 UTC*
 *Automatically maintained by SkillFlow*

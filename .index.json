@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T19:30:08.699433",
+  "updated_at": "2026-02-23T19:30:59.405733",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17669,6 +17669,20 @@
       "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/index.md",
       "display_name": "Index",
       "tags": "[\"commercial\"]"
+    },
+    {
+      "file_hash": "19d442cce2ed95fd9e744900621bcd8fb21cffaee8cf4a37dcd9a61ec8d2cfbe",
+      "source_path": "CLAUDE.md",
+      "source_repo": "henkisdabro/wookstar-claude-plugins",
+      "local_path": "development/140-claude_19d442cc",
+      "category": "development",
+      "name": "claude_19d442cc",
+      "indexed_at": "2026-02-23T19:30:59.405503",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-23T09:31:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
     }
   ]
 }
