@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T17:29:39.096471",
+  "updated_at": "2026-02-23T17:33:09.495006",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17136,6 +17136,20 @@
       "repo_updated_at": "2026-02-23T01:51:46+00:00",
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/piebald.md",
       "display_name": "Piebald",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "05d25cf2d1e4eff10b02b2207f5c84a999a1f420d93716b6cba9935974a6cb1e",
+      "source_path": "docs/prompting_guide.md",
+      "source_repo": "promptdriven/pdd",
+      "local_path": "development/730-prompting_guide_05d25cf2",
+      "category": "development",
+      "name": "prompting_guide_05d25cf2",
+      "indexed_at": "2026-02-23T17:33:09.494945",
+      "repo_stars": 486,
+      "repo_updated_at": "2026-02-23T07:46:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/promptdriven/pdd/main/docs/prompting_guide.md",
+      "display_name": "Prompting Guide",
       "tags": "[\"development\"]"
     }
   ]
