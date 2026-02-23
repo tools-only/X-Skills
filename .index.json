@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T10:06:43.147292",
+  "updated_at": "2026-02-23T11:06:46.569638",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -15764,6 +15764,34 @@
       "repo_updated_at": "2026-02-22T11:56:47+00:00",
       "source_url": "https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/json.instructions.md",
       "display_name": "Json.Instructions",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "65270bfdf75eaf1170f75fb40078ad8bdabcaec9c979aa529beb25f93c5c4b78",
+      "source_path": "daiv/automation/agent/skills/plan/SKILL.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "development/1178-name-skill_65270bfd",
+      "category": "development",
+      "name": "name-skill_65270bfd",
+      "indexed_at": "2026-02-23T11:06:46.273825",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-19T00:11:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/plan/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "982a6fa3b73b3b6aae508bb51e124abc011277e99a79ca6ddebc7f80d292e514",
+      "source_path": "daiv/automation/agent/skills/skill-creator/SKILL.md",
+      "source_repo": "srtab/daiv",
+      "local_path": "content-creation/049-name-skill_982a6fa3",
+      "category": "content-creation",
+      "name": "name-skill_982a6fa3",
+      "indexed_at": "2026-02-23T11:06:46.569532",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-19T00:11:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md",
+      "display_name": "Skill",
       "tags": "[\"content creation\"]"
     }
   ]

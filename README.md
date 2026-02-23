@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1130 AI-powered skills** organized into 15 categories.
+A curated collection of **1131 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,13 +12,13 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (62 skills)
 - **Commercial** (60 skills)
 - **Communication** (30 skills)
-- **Content Creation** (89 skills)
+- **Content Creation** (91 skills)
 - **Daily Assistant** (52 skills)
 - **Data Analysis** (97 skills)
-- **Development** (360 skills)
-- **Development/Devops** (174 skills)
-- **Development/Testing** (25 skills)
-- **Development/Tools** (120 skills)
+- **Development** (361 skills)
+- **Development/Devops** (173 skills)
+- **Development/Testing** (27 skills)
+- **Development/Tools** (117 skills)
 - **Investment** (9 skills)
 - **Other** (1 skill)
 - **Productivity** (10 skills)
@@ -360,7 +360,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Todowrite Usage Guide](communication/253-todowrite-usage-guide_04def9e0/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/todowrite-usage-guide.md) | ⭐ 600 | `communication` |
 | [Snapshot Refs](communication/274-snapshot-refs_edfb3fd8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/snapshot-refs.md) | ⭐ 18 | `communication` |
 
-### Content Creation (89 skills)
+### Content Creation (91 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -452,7 +452,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Recipes](content-creation/354-recipes_24c9be07/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/recipes.md) | ⭐ 10 | `content creation` |
 | [Claude](content-creation/007-claude_fae8645d/) | [calderbuild/agentcut](https://raw.githubusercontent.com/calderbuild/agentcut/main/CLAUDE.md) | ⭐ 12 | `content creation` |
 | [Paperdraw](content-creation/353-paperdraw_8e90ac11/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/paperdraw.md) | ⭐ 20 | `content creation` |
-| [Json.Instructions](content-creation/jsoninstructions_943a0630/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/json.instructions.md) | ⭐ 85 | `content creation` |
+| [Json.Instructions](content-creation/363-jsoninstructions_943a0630/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/json.instructions.md) | ⭐ 85 | `content creation` |
+| [Skill](content-creation/name-skill_982a6fa3/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
+| [Simple Plan](content-creation/simple-plan_cda0e75c/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/plan/examples/simple-plan.md) | ⭐ 17 | `content creation` |
 
 ### Daily Assistant (52 skills)
 
@@ -507,9 +509,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Man Overboard](daily-assistant/303-man-overboard_6d08a8b7/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/man-overboard.md) | ⭐ 143 | `daily assistant` |
 | [Scuttle And Reform](daily-assistant/304-scuttle-and-reform_496947da/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/scuttle-and-reform.md) | ⭐ 143 | `daily assistant` |
 | [Session Resumption](daily-assistant/305-session-resumption_9df13ad4/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/session-resumption.md) | ⭐ 143 | `daily assistant` |
-| [05 Bicep Planner.Agent](daily-assistant/05-bicep-planneragent_fa4a7199/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05-bicep-planner.agent.md) | ⭐ 85 | `Environment` `ManagedBy` `Project` |
-| [06 Bicep Code Generator.Agent](daily-assistant/06-bicep-code-generatoragent_05c5a469/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06-bicep-code-generator.agent.md) | ⭐ 85 | `daily assistant` |
-| [09 Diagnose.Agent](daily-assistant/09-diagnoseagent_34470559/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 85 | `daily assistant` |
+| [05 Bicep Planner.Agent](daily-assistant/269-05-bicep-planneragent_fa4a7199/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05-bicep-planner.agent.md) | ⭐ 85 | `Environment` `ManagedBy` `Project` |
+| [06 Bicep Code Generator.Agent](daily-assistant/270-06-bicep-code-generatoragent_05c5a469/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06-bicep-code-generator.agent.md) | ⭐ 85 | `daily assistant` |
+| [09 Diagnose.Agent](daily-assistant/271-09-diagnoseagent_34470559/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 85 | `daily assistant` |
 
 ### Data Analysis (97 skills)
 
@@ -611,9 +613,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
 | [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
-| [03 Architect.Agent](data-analysis/03-architectagent_b9ce6108/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 85 | `data analysis` |
+| [03 Architect.Agent](data-analysis/483-03-architectagent_b9ce6108/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 85 | `data analysis` |
 
-### Development (360 skills)
+### Development (361 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -972,13 +974,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cline](development/2874-cline_883e86e1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/coding-agents/cline.md) | ⭐ 20 | `development` |
 | [Google Ai Studio](development/2875-google-ai-studio_293ed116/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/google-ai-studio.md) | ⭐ 20 | `development` |
 | [Google Ai Studio](development/2875-google-ai-studio_fc156345/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/google-ai-studio.md) | ⭐ 20 | `development` |
-| [Code Review.Instructions](development/code-reviewinstructions_13235676/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/code-review.instructions.md) | ⭐ 85 | `development` |
-| [Javascript.Instructions](development/javascriptinstructions_1bc0e8cb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/javascript.instructions.md) | ⭐ 85 | `development` |
-| [Skill](development/name-skill_abaaca97/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-troubleshooting/SKILL.md) | ⭐ 85 | `development` |
-| [Skill](development/name-skill_787bdca4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-docs/SKILL.md) | ⭐ 85 | `development` |
-| [Skill](development/name-skill_116d8d2c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-skill-creator/SKILL.md) | ⭐ 85 | `development` |
+| [Code Review.Instructions](development/2923-code-reviewinstructions_13235676/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/code-review.instructions.md) | ⭐ 85 | `development` |
+| [Javascript.Instructions](development/2924-javascriptinstructions_1bc0e8cb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/javascript.instructions.md) | ⭐ 85 | `development` |
+| [Skill](development/1178-name-skill_abaaca97/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-troubleshooting/SKILL.md) | ⭐ 85 | `development` |
+| [Skill](development/1178-name-skill_787bdca4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-docs/SKILL.md) | ⭐ 85 | `development` |
+| [Skill](development/1178-name-skill_116d8d2c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-skill-creator/SKILL.md) | ⭐ 85 | `development` |
+| [Skill](development/name-skill_65270bfd/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/plan/SKILL.md) | ⭐ 17 | `development` |
 
-### Development/Devops (174 skills)
+### Development/Devops (173 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1154,10 +1157,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Security Scanner](development/devops/004-security-scanner_23f0cff7/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/security-scanner.md) | ⭐ 449 | `development` |
 | [Fly Io](development/devops/365-fly-io_8538885d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/fly-io.md) | ⭐ 20 | `development` |
 | [Motia](development/devops/366-motia_5fa96f76/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/motia.md) | ⭐ 20 | `development` |
-| [Copilot Instructions](development/devops/copilot-instructions_ba9657e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 85 | `development` |
-| [Skill](development/devops/name-skill_b6c838f7/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-bicep-patterns/SKILL.md) | ⭐ 85 | `development` |
+| [Copilot Instructions](development/devops/309-copilot-instructions_ba9657e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 85 | `development` |
 
-### Development/Testing (25 skills)
+### Development/Testing (27 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1186,8 +1188,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Python Replay](development/testing/087-python-replay_5cd4a143/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/python-replay.md) | ⭐ 10 | `development` |
 | [Dependency Formats](development/testing/088-dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
 | [Commands](development/testing/092-commands_cc6cc178/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/commands.md) | ⭐ 18 | `development` |
+| [Complex Plan](development/testing/complex-plan_3edb7d0a/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/plan/examples/complex-plan.md) | ⭐ 17 | `development` |
+| [Complex Plan Template](development/testing/complex-plan-template_d333eebb/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/plan/references/complex-plan-template.md) | ⭐ 17 | `development` |
 
-### Development/Tools (120 skills)
+### Development/Tools (117 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1308,9 +1312,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Surface](development/tools/345-api-surface_956ec1cb/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md) | ⭐ 75 | `development` |
 | [Iam Settings Ui](development/tools/335-iam-settings-ui_2f16319a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/iam-settings-ui.md) | ⭐ 449 | `development` |
 | [Tmux Claude Workflow](development/tools/330-tmux-claude-workflow_ec924085/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/docs/tmux-claude-workflow.md) | ⭐ 10 | `development` |
-| [Python.Instructions](development/tools/pythoninstructions_793a2932/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/python.instructions.md) | ⭐ 85 | `development` |
-| [Skill](development/tools/name-skill_e11cbab1/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/make-skill-template/SKILL.md) | ⭐ 85 | `development` |
-| [Skill](development/tools/name-skill_6269e6dd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-code-reference/SKILL.md) | ⭐ 85 | `development` |
 
 ### Investment (9 skills)
 
@@ -1437,5 +1438,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 10:06:43 UTC*
+*Last updated: 2026-02-23 11:06:46 UTC*
 *Automatically maintained by SkillFlow*
