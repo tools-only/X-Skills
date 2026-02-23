@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1105 AI-powered skills** organized into 15 categories.
+A curated collection of **1100 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (8 skills)
-- **Automation/Workflow** (62 skills)
+- **Automation/Scripting** (7 skills)
+- **Automation/Workflow** (60 skills)
 - **Commercial** (60 skills)
 - **Communication** (30 skills)
-- **Content Creation** (86 skills)
+- **Content Creation** (87 skills)
 - **Daily Assistant** (49 skills)
-- **Data Analysis** (98 skills)
-- **Development** (348 skills)
-- **Development/Devops** (169 skills)
+- **Data Analysis** (96 skills)
+- **Development** (349 skills)
+- **Development/Devops** (168 skills)
 - **Development/Testing** (25 skills)
 - **Development/Tools** (115 skills)
 - **Investment** (9 skills)
 - **Other** (1 skill)
 - **Productivity** (10 skills)
-- **Research** (35 skills)
+- **Research** (34 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (8 skills)
+### Automation/Scripting (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -192,9 +192,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecomode](automation/scripting/086-ecomode_f42e5d09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/ecomode.md) | ⭐ 10 | `automation` |
 | [Fleet](automation/scripting/086-fleet_1a9c6299/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 13 | `automation` |
 | [Vulnerability Databases](automation/scripting/086-vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
-| [Skill](automation/scripting/name-skill_96995a36/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-generate/SKILL.md) | ⭐ 17 | `automation` |
 
-### Automation/Workflow (62 skills)
+### Automation/Workflow (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -257,9 +256,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Automation](automation/workflow/032-automation_3dfb4b4c/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/AUTOMATION.md) | ⭐ 24 | `automation` |
 | [Build](automation/workflow/136-build_34d67a2d/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/BUILD.md) | ⭐ 24 | `automation` |
 | [Learning Guide](automation/workflow/137-learning_guide_9fc21bb7/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/LEARNING_GUIDE.md) | ⭐ 24 | `automation` |
-| [Skill](automation/workflow/name-skill_d8e49039/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-restore/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/name-skill_8db59672/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-edit/SKILL.md) | ⭐ 17 | `automation` |
-| [Skill](automation/workflow/name-skill_587234c9/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-story/SKILL.md) | ⭐ 17 | `automation` |
+| [Skill](automation/workflow/002-name-skill_d8e49039/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-restore/SKILL.md) | ⭐ 17 | `automation` |
 
 ### Commercial (60 skills)
 
@@ -361,7 +358,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Todowrite Usage Guide](communication/253-todowrite-usage-guide_04def9e0/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/todowrite-usage-guide.md) | ⭐ 600 | `communication` |
 | [Snapshot Refs](communication/274-snapshot-refs_edfb3fd8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/snapshot-refs.md) | ⭐ 18 | `communication` |
 
-### Content Creation (86 skills)
+### Content Creation (87 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -451,6 +448,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_8d3e47e8/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/SKILL.md) | ⭐ 10 | `content creation` |
 | [Magick Reference](content-creation/353-magick-reference_7febcf3f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/magick-reference.md) | ⭐ 10 | `content creation` |
 | [Recipes](content-creation/354-recipes_24c9be07/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/recipes.md) | ⭐ 10 | `content creation` |
+| [Claude](content-creation/claude_fae8645d/) | [calderbuild/agentcut](https://raw.githubusercontent.com/calderbuild/agentcut/main/CLAUDE.md) | ⭐ 12 | `content creation` |
 
 ### Daily Assistant (49 skills)
 
@@ -506,7 +504,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Scuttle And Reform](daily-assistant/304-scuttle-and-reform_496947da/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/scuttle-and-reform.md) | ⭐ 143 | `daily assistant` |
 | [Session Resumption](daily-assistant/305-session-resumption_9df13ad4/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/session-resumption.md) | ⭐ 143 | `daily assistant` |
 
-### Data Analysis (98 skills)
+### Data Analysis (96 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -606,10 +604,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
 | [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
-| [Skill](data-analysis/name-skill_d6b5a666/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-icon/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skill](data-analysis/name-skill_7139d201/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana/SKILL.md) | ⭐ 17 | `data analysis` |
 
-### Development (348 skills)
+### Development (349 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -961,8 +957,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow Troubleshooting](development/2875-workflow_troubleshooting_d48aaa23/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/WORKFLOW_TROUBLESHOOTING.md) | ⭐ 24 | `development` |
 | [Configuration](development/191-configuration_41aedf4b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
 | [Session Summary](development/2877-session_summary_a4a22d16/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/SESSION_SUMMARY.md) | ⭐ 24 | `development` |
+| [Skill](development/name-skill_8f7ac62b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md) | ⭐ 915 | `development` |
 
-### Development/Devops (169 skills)
+### Development/Devops (168 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1012,9 +1009,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_7c9efd7f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 | [Logging](development/devops/400-logging_7601ca0a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/logging.md) | ⭐ 3.3k | `development` |
 | [Proxy](development/devops/401-proxy_5a83e05a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/proxy.md) | ⭐ 3.3k | `development` |
-| [Rbac](development/devops/rbac_941810a9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
+| [Rbac](development/devops/010-rbac_46494f27/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Scale](development/devops/402-scale_5375b413/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/scale.md) | ⭐ 3.3k | `development` |
-| [Securing](development/devops/securing_f01095ce/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
+| [Securing](development/devops/403-securing_264f96d4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Self Signed Certificates](development/devops/404-self-signed-certificates_c29006e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/self-signed-certificates.md) | ⭐ 3.3k | `development` |
 | [Sso Generic Oidc Tutorial](development/devops/405-sso-generic-oidc-tutorial_1cf7119b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-generic-oidc-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso Google Tutorial](development/devops/406-sso-google-tutorial_ec0b87b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-google-tutorial.md) | ⭐ 3.3k | `development` |
@@ -1031,7 +1028,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Openwebui Tutorial](development/devops/416-openwebui-tutorial_ace5026d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/tutorials/openwebui-tutorial.md) | ⭐ 3.3k | `development` |
 | [Mcpgateway Translate](development/devops/417-mcpgateway-translate_199775f5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/mcpgateway-translate.md) | ⭐ 3.3k | `development` |
 | [Multi Auth Headers](development/devops/418-multi-auth-headers_d4462e80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/multi-auth-headers.md) | ⭐ 3.3k | `development` |
-| [Reverse Proxy](development/devops/reverse-proxy_c536397f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md) | ⭐ 3.3k | `development` |
+| [Reverse Proxy](development/devops/419-reverse-proxy_a49bea67/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md) | ⭐ 3.3k | `development` |
 | [014 Security Headers Cors Middleware](development/devops/420-014-security-headers-cors-middleware_009499c3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/014-security-headers-cors-middleware.md) | ⭐ 3.3k | `development` |
 | [015 Well Known Uri Handler](development/devops/421-015-well-known-uri-handler_198ce9fb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/015-well-known-uri-handler.md) | ⭐ 3.3k | `development` |
 | [018 Built In Response Compression](development/devops/422-018-built-in-response-compression_161e1ccb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/adr/018-built-in-response-compression.md) | ⭐ 3.3k | `development` |
@@ -1134,7 +1131,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rbac](development/devops/010-rbac_941810a9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Securing](development/devops/366-securing_f01095ce/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Reverse Proxy](development/devops/378-reverse-proxy_c536397f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md) | ⭐ 3.3k | `development` |
-| [Skill](development/devops/name-skill_c56d1f21/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-diagram/SKILL.md) | ⭐ 17 | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -1321,7 +1317,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_7d504321/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/multi-agent-brainstorming/SKILL.md) | 🔥 13.4k | `productivity` |
 | [Skill](productivity/093-name-skill_3e8d7700/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/SKILL.md) | ⭐ 143 | `productivity` |
 
-### Research (35 skills)
+### Research (34 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1360,7 +1356,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tlaplus Syntax](research/258-tlaplus_syntax_54ea0eea/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
 | [Docx Js](research/258-docx-js_0d24521f/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/docx/docx-js.md) | ⭐ 600 | `research` |
 | [Faq](research/153-faq_3a909ea1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/faq.md) | ⭐ 4.0k | `research` |
-| [Skill](research/name-skill_e9f01b32/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-pattern/SKILL.md) | ⭐ 17 | `research` |
 
 ## How Skills Are Organized
 
@@ -1412,5 +1407,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 04:47:04 UTC*
+*Last updated: 2026-02-23 05:49:25 UTC*
 *Automatically maintained by SkillFlow*

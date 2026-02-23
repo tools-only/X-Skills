@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T04:47:04.609132",
+  "updated_at": "2026-02-23T05:49:25.827099",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -15373,6 +15373,34 @@
       "source_url": "https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-restore/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "fae8645d082ef751217d6b96d1d420ac50a15fdfc1c8f31dfb8a338999152f0f",
+      "source_path": "CLAUDE.md",
+      "source_repo": "calderbuild/agentcut",
+      "local_path": "content-creation/007-claude_fae8645d",
+      "category": "content-creation",
+      "name": "claude_fae8645d",
+      "indexed_at": "2026-02-23T05:49:25.659763",
+      "repo_stars": 12,
+      "repo_updated_at": "2026-02-19T13:19:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/calderbuild/agentcut/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "8f7ac62bcf726c06cd83e72c8a0f396990a29815eea9a6ccf5c8e70e12603b52",
+      "source_path": "seed_skills/skill-finder/SKILL.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "development/1178-name-skill_8f7ac62b",
+      "category": "development",
+      "name": "name-skill_8f7ac62b",
+      "indexed_at": "2026-02-23T05:49:25.827044",
+      "repo_stars": 915,
+      "repo_updated_at": "2026-02-23T04:21:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
