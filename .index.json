@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T19:32:58.673008",
+  "updated_at": "2026-02-23T21:30:18.860069",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17725,6 +17725,62 @@
       "source_url": "https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/UI.md",
       "display_name": "Skills",
       "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "a28935252b9783da8a3de47f4d89716f512f2e9aa0ec64196911eb68cdbfb246",
+      "source_path": ".meridian/SOUL.md",
+      "source_repo": "markmdev/meridian",
+      "local_path": "development/2214-soul_a2893525",
+      "category": "development",
+      "name": "soul_a2893525",
+      "indexed_at": "2026-02-23T21:30:18.335909",
+      "repo_stars": 135,
+      "repo_updated_at": "2026-02-23T05:09:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SOUL.md",
+      "display_name": "Soul",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "37e4ab162259267c499efeaf11b33401c39fb3932873dbdb80a10a8871e32663",
+      "source_path": ".meridian/prompts/agent-operating-manual.md",
+      "source_repo": "markmdev/meridian",
+      "local_path": "development/2218-agent-operating-manual_37e4ab16",
+      "category": "development",
+      "name": "agent-operating-manual_37e4ab16",
+      "indexed_at": "2026-02-23T21:30:18.528342",
+      "repo_stars": 135,
+      "repo_updated_at": "2026-02-23T05:09:07+00:00",
+      "source_url": "https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md",
+      "display_name": "Agent Operating Manual",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3dc5fe3c61c24bae181f31351146bb369d1d604c6cb84dc7e0195656f365b222",
+      "source_path": ".claude/skills/error-audit/SKILL.md",
+      "source_repo": "markmdev/meridian",
+      "local_path": "development/1178-name-skill_3dc5fe3c",
+      "category": "development",
+      "name": "name-skill_3dc5fe3c",
+      "indexed_at": "2026-02-23T21:30:18.687686",
+      "repo_stars": 135,
+      "repo_updated_at": "2026-02-23T00:10:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/error-audit/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1c7fc8df5210c538a109e24514dbc2acc35263ed888b242abe87f95f332f3ba1",
+      "source_path": ".claude/skills/ux-states-audit/SKILL.md",
+      "source_repo": "markmdev/meridian",
+      "local_path": "development/1178-name-skill_1c7fc8df",
+      "category": "development",
+      "name": "name-skill_1c7fc8df",
+      "indexed_at": "2026-02-23T21:30:18.859939",
+      "repo_stars": 135,
+      "repo_updated_at": "2026-02-23T00:10:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/ux-states-audit/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }

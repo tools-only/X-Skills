@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1267 AI-powered skills** organized into 15 categories.
+A curated collection of **1271 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,12 +15,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (105 skills)
 - **Daily Assistant** (60 skills)
 - **Data Analysis** (104 skills)
-- **Development** (408 skills)
+- **Development** (413 skills)
 - **Development/Devops** (184 skills)
 - **Development/Testing** (30 skills)
 - **Development/Tools** (138 skills)
 - **Investment** (12 skills)
-- **Other** (2 skills)
+- **Other** (1 skill)
 - **Productivity** (12 skills)
 - **Research** (34 skills)
 
@@ -663,7 +663,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_7db1a822/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/bump-version/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Skills](data-analysis/484-ui_868a4f0e/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/UI.md) | ⭐ 45 | `data analysis` |
 
-### Development (408 skills)
+### Development (413 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1075,6 +1075,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Selecting An Mcp Gateway](development/955-selecting-an-mcp-gateway_f6009185/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md) | ⭐ 3.3k | `development` |
 | [Claude](development/140-claude_19d442cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 29 | `development` |
 | [Skill](development/1178-name-skill_628d5f75/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/anywidget/SKILL.md) | ⭐ 45 | `development` |
+| [Soul](development/soul_a2893525/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SOUL.md) | ⭐ 135 | `development` |
+| [Agent Operating Manual](development/agent-operating-manual_37e4ab16/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 135 | `development` |
+| [Skill](development/name-skill_3dc5fe3c/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/error-audit/SKILL.md) | ⭐ 135 | `development` |
+| [Skill](development/name-skill_1c7fc8df/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/ux-states-audit/SKILL.md) | ⭐ 135 | `development` |
+| [Skill](development/name-skill_1435bebb/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/observability-audit/SKILL.md) | ⭐ 135 | `development` |
 
 ### Development/Devops (184 skills)
 
@@ -1460,12 +1465,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Proposal](investment/051-proposal_2473f453/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md) | ⭐ 23 | `investment` |
 | [Skill](investment/021-name-skill_a41f4990/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/brainstorm/SKILL.md) | ⭐ 34 | `investment` |
 
-### Other (2 skills)
+### Other (1 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
-| [Claude](other/claude_ffc278c6/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/CLAUDE.md) | ⭐ 1.1k | `other` |
 
 ### Productivity (12 skills)
 
@@ -1574,5 +1578,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 20:31:25 UTC*
+*Last updated: 2026-02-23 21:30:19 UTC*
 *Automatically maintained by SkillFlow*
