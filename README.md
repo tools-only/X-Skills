@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1227 AI-powered skills** organized into 15 categories.
+A curated collection of **1261 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,17 +11,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (9 skills)
 - **Automation/Workflow** (72 skills)
 - **Commercial** (60 skills)
-- **Communication** (34 skills)
-- **Content Creation** (104 skills)
-- **Daily Assistant** (57 skills)
-- **Data Analysis** (103 skills)
-- **Development** (390 skills)
-- **Development/Devops** (181 skills)
+- **Communication** (36 skills)
+- **Content Creation** (105 skills)
+- **Daily Assistant** (60 skills)
+- **Data Analysis** (102 skills)
+- **Development** (407 skills)
+- **Development/Devops** (182 skills)
 - **Development/Testing** (30 skills)
-- **Development/Tools** (129 skills)
+- **Development/Tools** (139 skills)
 - **Investment** (12 skills)
 - **Other** (1 skill)
-- **Productivity** (11 skills)
+- **Productivity** (12 skills)
 - **Research** (34 skills)
 
 ## Patches - Curated Skill Bundles
@@ -337,7 +337,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Platform Guides](commercial/377-platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
 | [Distributed Patterns](commercial/378-distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
 
-### Communication (34 skills)
+### Communication (36 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -375,8 +375,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Full](communication/154-llms-full_0b7dbf1a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/llms-full.md) | ⭐ 112 | `communication` |
 | [Other](communication/155-other_61abba5c/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/other.md) | ⭐ 112 | `communication` |
 | [Alerting](communication/142-alerting_b6089350/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/alerting.md) | 🔥 36.5k | `communication` |
+| [2026 02 01 Openai Chat Invalid Response](communication/2026-02-01_openai-chat-invalid-response_a3376a5a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-02-01_openai-chat-invalid-response.md) | ⭐ 113 | `communication` |
+| [2026 02 22 Compact Command Ux Mapping](communication/2026-02-22_compact-command-ux-mapping_d2257cfe/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-22_compact-command-ux-mapping.md) | ⭐ 113 | `communication` |
 
-### Content Creation (104 skills)
+### Content Creation (105 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -484,8 +486,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Google Adk Context Engineering](content-creation/355-google-adk-context-engineering_d89b7763/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/research-agent-patterns/google-adk-context-engineering.md) | ⭐ 20 | `content creation` |
 | [Config Settings](content-creation/352-config_settings_a090ee3b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.5k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Skill](content-creation/049-name-skill_c1f59f1a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
+| [2026 02 22 Mypy Type Contract Fixes](content-creation/2026-02-22-mypy-type-contract-fixes_c3a176d9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-22-mypy-type-contract-fixes.md) | ⭐ 113 | `content creation` |
 
-### Daily Assistant (57 skills)
+### Daily Assistant (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -546,8 +549,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](daily-assistant/032-name-skill_6847714f/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/task-tracking-dots/SKILL.md) | ⭐ 11 | `daily assistant` |
 | [Quality Checklist](daily-assistant/268-quality-checklist_6cf90d5d/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/quality-checklist.md) | ⭐ 34 | `daily assistant` |
 | [Critic Prompt](daily-assistant/262-critic-prompt_58f2a390/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/critic-prompt.md) | ⭐ 18 | `daily assistant` |
+| [Memory System](daily-assistant/memory_system_e6e59cfe/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/MEMORY_SYSTEM.md) | ⭐ 23 | `daily assistant` |
+| [2026 02 20 System Prompt Tooling Refresh](daily-assistant/2026-02-20-system-prompt-tooling-refresh_3e8dd37e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-20-system-prompt-tooling-refresh.md) | ⭐ 113 | `daily assistant` |
+| [Examples](daily-assistant/examples_2d4abf79/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXAMPLES.md) | ⭐ 23 | `daily assistant` |
 
-### Data Analysis (103 skills)
+### Data Analysis (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -653,9 +659,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_cc82a666/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
 | [Snyk Cli Cpp Scans](data-analysis/484-snyk-cli-cpp-scans_7bfc7afd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/code-auditing/snyk-cli-cpp-scans.md) | ⭐ 20 | `data analysis` |
 | [Sourcesyncai](data-analysis/485-sourcesyncai_b4bfd453/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/sourcesyncai.md) | ⭐ 20 | `data analysis` |
-| [Cli Reference](data-analysis/cli_reference_9ff924b7/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/CLI_REFERENCE.md) | ⭐ 43 | `data analysis` |
 
-### Development (390 skills)
+### Development (407 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -761,7 +766,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/140-claude_8e8685ee/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/CLAUDE.md) | ⭐ 36 | `development` |
 | [Abbreviations](development/3076-abbreviations_cdb8d3d2/) | [vstorm-co/pydantic-ai-backend](https://raw.githubusercontent.com/vstorm-co/pydantic-ai-backend/main/docs/includes/abbreviations.md) | ⭐ 36 | `development` |
 | [Skill](development/1178-name-skill_d55098c1/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/separation-of-concerns/SKILL.md) | ⭐ 240 | `development` |
-| [Prompting Guide](development/prompting_guide_05d25cf2/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/prompting_guide.md) | ⭐ 486 | `development` |
+| [Prompting Guide](development/730-prompting_guide_e84adb81/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/prompting_guide.md) | ⭐ 478 | `development` |
 | [Prompting Guide](development/730-prompting_guide_7e3a5594/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/pdd/docs/prompting_guide.md) | ⭐ 478 | `development` |
 | [Setup With Gemini](development/970-setup_with_gemini_14e7ae1e/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/SETUP_WITH_GEMINI.md) | ⭐ 478 | `development` |
 | [Onboarding](development/635-onboarding_e59a6011/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/ONBOARDING.md) | ⭐ 478 | `development` |
@@ -1049,8 +1054,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sam Definition](development/2890-sam-definition_543ade47/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 18 | `development` |
 | [Piebald](development/2889-piebald_af113e02/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/piebald.md) | ⭐ 18 | `development` |
 | [Prompting Guide](development/730-prompting_guide_05d25cf2/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/prompting_guide.md) | ⭐ 486 | `development` |
+| [Custom Tools](development/custom_tools_3fe9d124/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/CUSTOM_TOOLS.md) | ⭐ 23 | `development` |
+| [Troubleshooting](development/troubleshooting_ad9c2d31/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/TROUBLESHOOTING.md) | ⭐ 23 | `development` |
+| [Agents](development/agents_91dc5b78/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AGENTS.md) | ⭐ 113 | `development` |
+| [2026 02 20 App Lifecycle Class Refactor](development/2026-02-20-app-lifecycle-class-refactor_1b2690be/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-20-app-lifecycle-class-refactor.md) | ⭐ 113 | `development` |
+| [2026 02 20 Disable Agent Text Streaming Default](development/2026-02-20-disable-agent-text-streaming-default_a9652570/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-20-disable-agent-text-streaming-default.md) | ⭐ 113 | `development` |
+| [2026 02 21 Minimax Tool Call Bugs](development/2026-02-21_minimax-tool-call-bugs_3aa542ef/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-21_minimax-tool-call-bugs.md) | ⭐ 113 | `minimax` `tool-call` `bug` |
+| [2026 02 22 Enable Mypy Pre Commit Hook](development/2026-02-22-enable-mypy-pre-commit-hook_fcaca880/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-22-enable-mypy-pre-commit-hook.md) | ⭐ 113 | `development` |
+| [2026 02 19 Api Key Ux Improvement](development/2026-02-19_api-key-ux-improvement_f4a703af/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/plan/2026-02-19_api-key-ux-improvement.md) | ⭐ 113 | `plan` `api-key-ux` `ui` |
+| [2026 02 19 Api Key Ux Improvement](development/2026-02-19_api-key-ux-improvement_11552849/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-19_api-key-ux-improvement.md) | ⭐ 113 | `development` |
+| [Core](development/core_8c5f7474/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/core/core.md) | ⭐ 113 | `development` |
+| [Hashline Subsystem](development/hashline-subsystem_921790b7/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/tools/hashline-subsystem.md) | ⭐ 113 | `development` |
+| [System Prompt](development/system_prompt_33e93cb1/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/src/tunacode/prompts/system_prompt.md) | ⭐ 113 | `development` |
+| [Plan](development/plan_8882b9fb/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/src/tunacode/ui/PLAN.md) | ⭐ 113 | `development` |
+| [Info](development/info_a6173cba/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/info.md) | ⭐ 23 | `development` |
+| [Hacs Troubleshooting](development/hacs_troubleshooting_9b295d2a/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/HACS_TROUBLESHOOTING.md) | ⭐ 23 | `development` |
+| [Migration](development/migration_11718c09/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/MIGRATION.md) | ⭐ 23 | `development` |
+| [Audit Small Wins Plan](development/audit_small_wins_plan_6f840c9d/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/AUDIT_SMALL_WINS_PLAN.md) | ⭐ 113 | `development` |
 
-### Development/Devops (181 skills)
+### Development/Devops (182 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1234,7 +1256,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Configuration](development/devops/009-configuration_2267df46/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Rbac](development/devops/010-rbac_958da781/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Sso](development/devops/372-sso_12f5b35b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
-| [Skills Testing](development/devops/skills_testing_8e178a34/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/SKILLS_TESTING.md) | ⭐ 43 | `development` |
+| [Configuration](development/devops/configuration_eb635dd9/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/CONFIGURATION.md) | ⭐ 23 | `development` |
+| [Example Configs](development/devops/example_configs_1aea15ee/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXAMPLE_CONFIGS.md) | ⭐ 23 | `development` |
 
 ### Development/Testing (30 skills)
 
@@ -1271,7 +1294,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Anti Patterns](development/testing/082-anti_patterns_29dba73b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/anti_patterns.md) | ⭐ 18 | `development` |
 | [Framework Configs](development/testing/083-framework_configs_3e99d492/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/framework_configs.md) | ⭐ 18 | `development` |
 
-### Development/Tools (129 skills)
+### Development/Tools (139 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1404,6 +1427,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Prompt Engine](development/tools/335-prompt-engine_ef3e271f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/prompt-engine.md) | ⭐ 20 | `development` |
 | [Skillsmp](development/tools/336-skillsmp_dc7f6216/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/skillsmp.md) | ⭐ 20 | `development` |
 | [Noma Security](development/tools/330-noma_security_c78fb2cd/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/noma_security.md) | 🔥 36.5k | `development` |
+| [Api Reference](development/tools/api_reference_ac25e371/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/API_REFERENCE.md) | ⭐ 23 | `development` |
+| [Architecture](development/tools/architecture_6c7a6cdb/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/ARCHITECTURE.md) | ⭐ 23 | `development` |
+| [Faq](development/tools/faq_d6f435f1/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/FAQ.md) | ⭐ 23 | `development` |
+| [Vector Db Setup](development/tools/vector_db_setup_9f5dc409/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/VECTOR_DB_SETUP.md) | ⭐ 23 | `development` |
+| [Plan](development/tools/plan_b6da1620/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/plan.md) | ⭐ 113 | `development` |
+| [Small Wins Audit](development/tools/small_wins_audit_67d8c08e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/reports/SMALL_WINS_AUDIT.md) | ⭐ 113 | `development` |
+| [2026 02 04 15 20 48 Core Directory Analysis](development/tools/2026-02-04_15-20-48_core_directory_analysis_774731cd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-04_15-20-48_core_directory_analysis.md) | ⭐ 113 | `development` |
+| [Tools](development/tools/tools_b91e0aa6/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/tools/tools.md) | ⭐ 113 | `development` |
+| [Agent Tool Mappings](development/tools/agent_tool_mappings_4b6e52f5/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/AGENT_TOOL_MAPPINGS.md) | ⭐ 23 | `development` |
+| [Installation](development/tools/installation_d98cb150/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/INSTALLATION.md) | ⭐ 23 | `development` |
 
 ### Investment (12 skills)
 
@@ -1428,7 +1461,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 
-### Productivity (11 skills)
+### Productivity (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1443,6 +1476,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_7d504321/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/multi-agent-brainstorming/SKILL.md) | 🔥 13.4k | `productivity` |
 | [Skill](productivity/093-name-skill_3e8d7700/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/SKILL.md) | ⭐ 143 | `productivity` |
 | [Skill](productivity/093-name-skill_98a816b8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/update-claudemd/SKILL.md) | ⭐ 34 | `productivity` |
+| [External Llm](productivity/external_llm_6f65f5e7/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXTERNAL_LLM.md) | ⭐ 23 | `productivity` |
 
 ### Research (34 skills)
 
@@ -1534,5 +1568,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 17:33:09 UTC*
+*Last updated: 2026-02-23 18:29:42 UTC*
 *Automatically maintained by SkillFlow*
