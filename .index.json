@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T13:16:49.945328",
+  "updated_at": "2026-02-23T14:14:33.558585",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -16535,6 +16535,118 @@
       "source_url": "https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/quality-checklist.md",
       "display_name": "Quality Checklist",
       "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "58f2a3908a14230ca29179180096120a8cac7ef467436c50d0a5a6cb94971f61",
+      "source_path": "daydream/critic-prompt.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "daily-assistant/262-critic-prompt_58f2a390",
+      "category": "daily-assistant",
+      "name": "critic-prompt_58f2a390",
+      "indexed_at": "2026-02-23T14:14:32.088520",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-22T18:45:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/critic-prompt.md",
+      "display_name": "Critic Prompt",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "5778367345c5866b8971a9fdfef590930c21c6828db2d00dfd9133742f1e83a0",
+      "source_path": "docs/my-website/docs/caching/all_caches.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/2885-all_caches_57783673",
+      "category": "development",
+      "name": "all_caches_57783673",
+      "indexed_at": "2026-02-23T14:14:32.276135",
+      "repo_stars": 36515,
+      "repo_updated_at": "2026-01-16T04:15:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/caching/all_caches.md",
+      "display_name": "All Caches",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "972e04a2501cffc997831e894aa56c6853f22a0ee3dd4fdfe4bed49c9f8ea99f",
+      "source_path": "daydream/instructions.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "automation/scripting/086-instructions_972e04a2",
+      "category": "automation/scripting",
+      "name": "instructions_972e04a2",
+      "indexed_at": "2026-02-23T14:14:32.425940",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-22T18:47:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/instructions.md",
+      "display_name": "Instructions",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "8ff431a11ab2a14d3f6a34a9de396012aa901dc27606904e5d9f6765828132da",
+      "source_path": "tdd/SKILL.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "development/testing/002-name-skill_8ff431a1",
+      "category": "development/testing",
+      "name": "name-skill_8ff431a1",
+      "indexed_at": "2026-02-23T14:14:32.873971",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-19T23:17:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "29dba73b06e0731fc5f3693b8b3a0afd48ab056553fbc4789b50fa539402b572",
+      "source_path": "tdd/references/anti_patterns.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "development/testing/082-anti_patterns_29dba73b",
+      "category": "development/testing",
+      "name": "anti_patterns_29dba73b",
+      "indexed_at": "2026-02-23T14:14:33.067667",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-19T21:16:02+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/anti_patterns.md",
+      "display_name": "Anti Patterns",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "3e99d4927d5d6ce9c76838d09634942c5aa4f5f737a6fcc063f06c13f036c88c",
+      "source_path": "tdd/references/framework_configs.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "development/testing/083-framework_configs_3e99d492",
+      "category": "development/testing",
+      "name": "framework_configs_3e99d492",
+      "indexed_at": "2026-02-23T14:14:33.251667",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-19T22:36:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/framework_configs.md",
+      "display_name": "Framework Configs",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f32bc31064ce2bf6a7a68e7de1ccd14a01294ba73d99cb2be2ee0118bae536e0",
+      "source_path": "telegram/SKILL.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "content-creation/049-name-skill_f32bc310",
+      "category": "content-creation",
+      "name": "name-skill_f32bc310",
+      "indexed_at": "2026-02-23T14:14:33.346212",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-14T17:46:01+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/telegram/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "830030ad2b0cd12af560f287f0636a1fc9825185c9eb072b35c2e4ba7f6a8715",
+      "source_path": "tdd/references/agent_prompts.md",
+      "source_repo": "glebis/claude-skills",
+      "local_path": "development/tools/331-agent_prompts_830030ad",
+      "category": "development/tools",
+      "name": "agent_prompts_830030ad",
+      "indexed_at": "2026-02-23T14:14:33.558460",
+      "repo_stars": 18,
+      "repo_updated_at": "2026-02-19T23:17:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/agent_prompts.md",
+      "display_name": "Agent Prompts",
+      "tags": "[\"development\"]"
     }
   ]
 }
