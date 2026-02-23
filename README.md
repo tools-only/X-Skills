@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1212 AI-powered skills** organized into 15 categories.
+A curated collection of **1218 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,12 +12,12 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (72 skills)
 - **Commercial** (60 skills)
 - **Communication** (33 skills)
-- **Content Creation** (103 skills)
+- **Content Creation** (102 skills)
 - **Daily Assistant** (57 skills)
 - **Data Analysis** (102 skills)
-- **Development** (383 skills)
-- **Development/Devops** (177 skills)
-- **Development/Testing** (30 skills)
+- **Development** (386 skills)
+- **Development/Devops** (180 skills)
+- **Development/Testing** (31 skills)
 - **Development/Tools** (128 skills)
 - **Investment** (12 skills)
 - **Other** (1 skill)
@@ -267,10 +267,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_cfa29e46/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/search-youtube/SKILL.md) | ⭐ 34 | `automation` |
 | [Cli Reference](automation/workflow/139-cli-reference_d6f5e806/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/search-youtube/references/cli-reference.md) | ⭐ 34 | `automation` |
 | [Frontmatter Options](automation/workflow/133-frontmatter-options_3da5f5bc/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/frontmatter-options.md) | ⭐ 34 | `automation` |
-| [Mcp Implementation Roadmap](automation/workflow/mcp-implementation-roadmap_6f8b3152/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/mcp-implementation-roadmap.md) | ⭐ 20 | `automation` |
-| [Tembo](automation/workflow/tembo_6e9e2574/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/coding-agents/tembo.md) | ⭐ 20 | `automation` |
-| [Biome](automation/workflow/biome_7c46c8b2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/biome.md) | ⭐ 20 | `automation` |
-| [Sourcesyncai Mcp](automation/workflow/sourcesyncai-mcp_8b1c62cc/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/sourcesyncai-mcp.md) | ⭐ 20 | `automation` |
+| [Mcp Implementation Roadmap](automation/workflow/136-mcp-implementation-roadmap_6f8b3152/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/mcp-implementation-roadmap.md) | ⭐ 20 | `automation` |
+| [Tembo](automation/workflow/137-tembo_6e9e2574/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/coding-agents/tembo.md) | ⭐ 20 | `automation` |
+| [Biome](automation/workflow/138-biome_7c46c8b2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/biome.md) | ⭐ 20 | `automation` |
+| [Sourcesyncai Mcp](automation/workflow/139-sourcesyncai-mcp_8b1c62cc/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/sourcesyncai-mcp.md) | ⭐ 20 | `automation` |
 
 ### Commercial (60 skills)
 
@@ -375,7 +375,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llms Full](communication/154-llms-full_0b7dbf1a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/llms-full.md) | ⭐ 112 | `communication` |
 | [Other](communication/155-other_61abba5c/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/other.md) | ⭐ 112 | `communication` |
 
-### Content Creation (103 skills)
+### Content Creation (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -480,8 +480,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_a1fc47f3/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/SKILL.md) | ⭐ 34 | `content creation` |
 | [Frontmatter Options](content-creation/362-frontmatter-options_df97bfb2/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-skill/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_f32bc310/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/telegram/SKILL.md) | ⭐ 18 | `content creation` |
-| [Google Adk Context Engineering](content-creation/google-adk-context-engineering_d89b7763/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/research-agent-patterns/google-adk-context-engineering.md) | ⭐ 20 | `content creation` |
-| [Jimeng](content-creation/jimeng_49770ea7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ai-design-tools/jimeng.md) | ⭐ 20 | `content creation` |
+| [Google Adk Context Engineering](content-creation/355-google-adk-context-engineering_d89b7763/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/research-agent-patterns/google-adk-context-engineering.md) | ⭐ 20 | `content creation` |
 
 ### Daily Assistant (57 skills)
 
@@ -649,10 +648,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tasks](data-analysis/493-tasks_b61286a3/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/tasks.md) | ⭐ 23 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_e1822d2a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 112 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cc82a666/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
-| [Snyk Cli Cpp Scans](data-analysis/snyk-cli-cpp-scans_7bfc7afd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/code-auditing/snyk-cli-cpp-scans.md) | ⭐ 20 | `data analysis` |
-| [Sourcesyncai](data-analysis/sourcesyncai_b4bfd453/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/sourcesyncai.md) | ⭐ 20 | `data analysis` |
+| [Snyk Cli Cpp Scans](data-analysis/484-snyk-cli-cpp-scans_7bfc7afd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/code-auditing/snyk-cli-cpp-scans.md) | ⭐ 20 | `data analysis` |
+| [Sourcesyncai](data-analysis/485-sourcesyncai_b4bfd453/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/sourcesyncai.md) | ⭐ 20 | `data analysis` |
 
-### Development (383 skills)
+### Development (386 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -682,7 +681,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Security Hooks](development/2997-security-hooks_aa01ca2a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/plugins/security-hooks.md) | ⭐ 3.3k | `development` |
 | [A2A](development/2998-a2a_9a2ca7a0/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/agents/a2a.md) | ⭐ 3.3k | `development` |
 | [Cline](development/2999-cline_8713195d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/cline.md) | ⭐ 3.3k | `development` |
-| [Llm Chat](development/3000-llm-chat_b4fec4c4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/llm-chat.md) | ⭐ 3.3k | `development` |
+| [Llm Chat](development/llm-chat_ac2f3d70/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/llm-chat.md) | ⭐ 3.3k | `development` |
 | [Index](development/468-index_79b6cf6d/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/index.md) | ⭐ 3.3k | `custom` `filter` |
 | [Lifecycle](development/2173-lifecycle_17a38751/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/lifecycle.md) | ⭐ 3.3k | `plugin` |
 | [Rust Plugins](development/3001-rust-plugins_b6ecb04f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/plugins/rust-plugins.md) | ⭐ 3.3k | `development` |
@@ -1028,19 +1027,22 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_0b9ff3ff/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 34 | `development` |
 | [Skill](development/1178-name-skill_e0869701/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/wechat-article-aggregator/SKILL.md) | ⭐ 112 | `development` |
 | [All Caches](development/2885-all_caches_57783673/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/caching/all_caches.md) | 🔥 36.5k | `development` |
-| [Mcp Index](development/mcp-index_330937ca/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/MCP-INDEX.md) | ⭐ 20 | `development` |
-| [Mcp Architecture Analysis](development/mcp-architecture-analysis_e20724eb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/mcp-architecture-analysis.md) | ⭐ 20 | `development` |
-| [Mcp Quickstart](development/mcp-quickstart_9b27d6d4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/mcp-quickstart.md) | ⭐ 20 | `development` |
-| [Dify](development/dify_0bddf0fe/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-frameworks/dify.md) | ⭐ 20 | `development` |
-| [Code Simplifier](development/code-simplifier_9e954890/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/coding-agents/code-simplifier.md) | ⭐ 20 | `development` |
-| [Cocoindex](development/cocoindex_3804f128/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/data-infrastructure/cocoindex.md) | ⭐ 20 | `development` |
-| [Claude Pilot](development/claude-pilot_576ba63e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-pilot.md) | ⭐ 20 | `development` |
-| [Microgpt Playground](development/microgpt-playground_192e9c0b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/microgpt-playground.md) | ⭐ 20 | `development` |
-| [Nano Banana Pro Prompting](development/nano-banana-pro-prompting_82732dc9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/nano-banana-pro-prompting.md) | ⭐ 20 | `development` |
-| [Skill](development/name-skill_745fb11f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/knowledge-explorer/SKILL.md) | ⭐ 20 | `development` |
-| [Cross Platform Notes](development/cross-platform-notes_b77d95b9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/docs/cross-platform-notes.md) | ⭐ 20 | `development` |
+| [Mcp Index](development/2884-mcp-index_330937ca/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/MCP-INDEX.md) | ⭐ 20 | `development` |
+| [Mcp Architecture Analysis](development/2885-mcp-architecture-analysis_e20724eb/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/mcp-architecture-analysis.md) | ⭐ 20 | `development` |
+| [Mcp Quickstart](development/2886-mcp-quickstart_9b27d6d4/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/docs/mcp-quickstart.md) | ⭐ 20 | `development` |
+| [Dify](development/2887-dify_0bddf0fe/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-frameworks/dify.md) | ⭐ 20 | `development` |
+| [Code Simplifier](development/1970-code-simplifier_9e954890/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/coding-agents/code-simplifier.md) | ⭐ 20 | `development` |
+| [Cocoindex](development/2888-cocoindex_3804f128/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/data-infrastructure/cocoindex.md) | ⭐ 20 | `development` |
+| [Claude Pilot](development/2889-claude-pilot_576ba63e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/claude-pilot.md) | ⭐ 20 | `development` |
+| [Microgpt Playground](development/2890-microgpt-playground_192e9c0b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/ml-infrastructure/microgpt-playground.md) | ⭐ 20 | `development` |
+| [Nano Banana Pro Prompting](development/2891-nano-banana-pro-prompting_82732dc9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/nano-banana-pro-prompting.md) | ⭐ 20 | `development` |
+| [Skill](development/1178-name-skill_745fb11f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/knowledge-explorer/SKILL.md) | ⭐ 20 | `development` |
+| [Cross Platform Notes](development/2892-cross-platform-notes_b77d95b9/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/agentskill-kaizen/docs/cross-platform-notes.md) | ⭐ 20 | `development` |
+| [Agents](development/agents_931b90f5/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
+| [Llm Chat](development/2884-llm-chat_ac2f3d70/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/llm-chat.md) | ⭐ 3.3k | `development` |
+| [Acceptance](development/acceptance_25122937/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/testing/acceptance.md) | ⭐ 3.3k | `development` |
 
-### Development/Devops (177 skills)
+### Development/Devops (180 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1086,18 +1088,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_0010150a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/faq/index.md) | ⭐ 3.3k | `development` |
 | [Admin Ui Customization](development/devops/398-admin-ui-customization_b4697c47/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/admin-ui-customization.md) | ⭐ 3.3k | `development` |
 | [Api Usage](development/devops/399-api-usage_930cc30b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/api-usage.md) | ⭐ 3.3k | `development` |
-| [Configuration](development/devops/009-configuration_ed70f974/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Configuration](development/devops/configuration_2267df46/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_7c9efd7f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/index.md) | ⭐ 3.3k | `development` |
 | [Logging](development/devops/400-logging_7601ca0a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/logging.md) | ⭐ 3.3k | `development` |
 | [Proxy](development/devops/401-proxy_5a83e05a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/proxy.md) | ⭐ 3.3k | `development` |
-| [Rbac](development/devops/010-rbac_46494f27/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
+| [Rbac](development/devops/rbac_958da781/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Scale](development/devops/402-scale_5375b413/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/scale.md) | ⭐ 3.3k | `development` |
 | [Securing](development/devops/403-securing_264f96d4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Self Signed Certificates](development/devops/404-self-signed-certificates_c29006e4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/self-signed-certificates.md) | ⭐ 3.3k | `development` |
 | [Sso Generic Oidc Tutorial](development/devops/405-sso-generic-oidc-tutorial_1cf7119b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-generic-oidc-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso Google Tutorial](development/devops/406-sso-google-tutorial_ec0b87b6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-google-tutorial.md) | ⭐ 3.3k | `development` |
 | [Sso Keycloak Tutorial](development/devops/407-sso-keycloak-tutorial_bc429daa/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso-keycloak-tutorial.md) | ⭐ 3.3k | `development` |
-| [Sso](development/devops/408-sso_3ff6196e/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
+| [Sso](development/devops/sso_12f5b35b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
 | [Tuning](development/devops/409-tuning_b13077bc/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/tuning.md) | ⭐ 3.3k | `development` |
 | [Upgrade](development/devops/410-upgrade_b3150af6/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/upgrade.md) | ⭐ 3.3k | `development` |
 | [Well Known Uris](development/devops/411-well-known-uris_b7a6cdf4/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/well-known-uris.md) | ⭐ 3.3k | `development` |
@@ -1219,10 +1221,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Copilot Instructions](development/devops/309-copilot-instructions_ba9657e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 85 | `development` |
 | [Skill](development/devops/014-name-skill_87f34582/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/SKILL.md) | ⭐ 11 | `development` |
 | [Skill](development/devops/014-name-skill_47257f12/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/xiaohuihui-tech-article/Skill.md) | ⭐ 112 | `development` |
-| [Picoclaw](development/devops/picoclaw_19bfcb71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/picoclaw.md) | ⭐ 20 | `development` |
-| [Pocketbase](development/devops/pocketbase_73f8156c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/pocketbase.md) | ⭐ 20 | `development` |
+| [Picoclaw](development/devops/372-picoclaw_19bfcb71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/picoclaw.md) | ⭐ 20 | `development` |
+| [Pocketbase](development/devops/373-pocketbase_73f8156c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/pocketbase.md) | ⭐ 20 | `development` |
+| [Configuration](development/devops/009-configuration_2267df46/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md) | ⭐ 3.3k | `development` |
+| [Rbac](development/devops/010-rbac_958da781/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
+| [Sso](development/devops/372-sso_12f5b35b/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md) | ⭐ 3.3k | `development` |
 
-### Development/Testing (30 skills)
+### Development/Testing (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1256,6 +1261,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_8ff431a1/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/SKILL.md) | ⭐ 18 | `development` |
 | [Anti Patterns](development/testing/082-anti_patterns_29dba73b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/anti_patterns.md) | ⭐ 18 | `development` |
 | [Framework Configs](development/testing/083-framework_configs_3e99d492/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/framework_configs.md) | ⭐ 18 | `development` |
+| [Action Testing Infrastructure](development/testing/action-testing-infrastructure_e23f0f7a/) | [Kirill89/reviewcerberus](https://raw.githubusercontent.com/Kirill89/reviewcerberus/main/spec/action-testing-infrastructure.md) | ⭐ 25 | `development` |
 
 ### Development/Tools (128 skills)
 
@@ -1387,8 +1393,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cli Guidelines](development/tools/016-cli-guidelines_b6c5c4db/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-cli/references/cli-guidelines.md) | ⭐ 34 | `development` |
 | [Effectiveness Rubric](development/tools/340-effectiveness-rubric_aef59bd9/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/improve-skill/references/effectiveness-rubric.md) | ⭐ 34 | `development` |
 | [Agent Prompts](development/tools/331-agent_prompts_830030ad/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/agent_prompts.md) | ⭐ 18 | `development` |
-| [Prompt Engine](development/tools/prompt-engine_ef3e271f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/prompt-engine.md) | ⭐ 20 | `development` |
-| [Skillsmp](development/tools/skillsmp_dc7f6216/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/skillsmp.md) | ⭐ 20 | `development` |
+| [Prompt Engine](development/tools/335-prompt-engine_ef3e271f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/prompt-engine.md) | ⭐ 20 | `development` |
+| [Skillsmp](development/tools/336-skillsmp_dc7f6216/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/skillsmp.md) | ⭐ 20 | `development` |
 
 ### Investment (12 skills)
 
@@ -1519,5 +1525,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 14:15:23 UTC*
+*Last updated: 2026-02-23 14:16:04 UTC*
 *Automatically maintained by SkillFlow*

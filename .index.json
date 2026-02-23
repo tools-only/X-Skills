@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T14:15:23.396324",
+  "updated_at": "2026-02-23T14:16:04.044859",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -16954,6 +16954,76 @@
       "repo_updated_at": "2026-02-23T02:29:44+00:00",
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/skill-generation-tools/skillsmp.md",
       "display_name": "Skillsmp",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "931b90f593888b4fd8bd0461804e8f7a1a62ff9948e9bd292b8f1be50da17854",
+      "source_path": "AGENTS.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/028-agents_931b90f5",
+      "category": "development",
+      "name": "agents_931b90f5",
+      "indexed_at": "2026-02-23T14:16:03.267188",
+      "repo_stars": 3316,
+      "repo_updated_at": "2026-02-21T19:16:24+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ac2f3d7079967011b21b4b77ff10c1d6787ab5999745e03b8a50384bd195377b",
+      "source_path": "docs/docs/using/clients/llm-chat.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/2884-llm-chat_ac2f3d70",
+      "category": "development",
+      "name": "llm-chat_ac2f3d70",
+      "indexed_at": "2026-02-23T14:16:03.474928",
+      "repo_stars": 3316,
+      "repo_updated_at": "2026-02-23T10:40:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/llm-chat.md",
+      "display_name": "Llm Chat",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2267df46e0845b1351e505d67c6ef553b3ab390eb0bf5ba41f567633ac755cb2",
+      "source_path": "docs/docs/manage/configuration.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/009-configuration_2267df46",
+      "category": "development/devops",
+      "name": "configuration_2267df46",
+      "indexed_at": "2026-02-23T14:16:03.679201",
+      "repo_stars": 3316,
+      "repo_updated_at": "2026-02-23T10:40:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/configuration.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "958da7811060bdc18d8b21677724ab8a50c55e5d39ef4be40a6e2b8c61a913d1",
+      "source_path": "docs/docs/manage/rbac.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/010-rbac_958da781",
+      "category": "development/devops",
+      "name": "rbac_958da781",
+      "indexed_at": "2026-02-23T14:16:03.790787",
+      "repo_stars": 3316,
+      "repo_updated_at": "2026-02-22T15:24:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md",
+      "display_name": "Rbac",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "12f5b35bd9ac5d16010aecad2dc80b6850970bde19ddab91c7c4c72b513ea772",
+      "source_path": "docs/docs/manage/sso.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/372-sso_12f5b35b",
+      "category": "development/devops",
+      "name": "sso_12f5b35b",
+      "indexed_at": "2026-02-23T14:16:04.043438",
+      "repo_stars": 3316,
+      "repo_updated_at": "2026-02-23T03:29:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/sso.md",
+      "display_name": "Sso",
       "tags": "[\"development\"]"
     }
   ]
