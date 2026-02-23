@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T18:29:42.477605",
+  "updated_at": "2026-02-23T18:32:54.390296",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17543,6 +17543,20 @@
       "source_url": "https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-22-mypy-type-contract-fixes.md",
       "display_name": "2026 02 22 Mypy Type Contract Fixes",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "ed7a4c36f37a088568bea22579b904217c6f78c3db3c4b2a5a8a5a9d01e107ef",
+      "source_path": "skills/git-review/SKILL.md",
+      "source_repo": "tsaol/awesome-claude",
+      "local_path": "development/1178-name-skill_ed7a4c36",
+      "category": "development",
+      "name": "name-skill_ed7a4c36",
+      "indexed_at": "2026-02-23T18:32:54.390211",
+      "repo_stars": 41,
+      "repo_updated_at": "2026-02-23T13:07:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-review/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
     }
   ]
 }
