@@ -1,0 +1,118 @@
+# SAM (Stateless Agent Methodology) — Definition
+
+## What SAM Is
+
+**SAM (Stateless Agent Methodology)** is a constraint-driven development framework that compensates for LLM limitations through architectural structure rather than behavioral instructions. It treats Claude as a **stateless computation engine**—not a knowledge worker—that receives complete context and returns verified artifacts.
+
+**Core insight**: Claude is a pure function. Input: complete context (task file with all answers). Output: verified result. No side effects: fresh context each time. No memory: everything externalized to artifact files.
+
+The **canonical SAM specification** lives in the [bitflight-devops/stateless-agent-methodology](https://github.com/bitflight-devops/stateless-agent-methodology) repository. The `work-backlog-item` skill and `development-harness` plugin in claude_skills implement SAM patterns for backlog-driven feature work. This file is the self-contained SAM definition for use within this repo.
+
+---
+
+## Core Principles
+
+(Canonical spec: https://github.com/bitflight-devops/stateless-agent-methodology — stateless-software-engineering-framework.md Part 2.)
+
+- **Stateless agents** — Each agent gets fresh context with exactly what it needs. Eliminates context pressure and accumulated errors.
+- **Externalized memory** — All state lives in artifact files, not in conversation. Survives session resets, enables verification.
+- **Single responsibility** — Each agent does exactly one thing. Reduces complexity, enables specialization.
+- **Message passing** — Agents communicate via artifacts, not shared context. Decouples stages, creates audit trail.
+- **Verification at boundaries** — Every stage validates the previous stage's output. Catches errors before they propagate.
+- **Deterministic backpressure** — Gate progress on deterministic checks (build/tests/lint/security scans) executed by tools, not "advice" in prompts. Converts non-deterministic generation into a measurable loop.
+- **Embedded methodology** — The process IS the prompt, not instructions to follow. Cannot skip what structures the task.
+- **No recall required** — Task files contain all answers needed for the task. Reduces reliance on unverified recall; verification still required for synthesis/logic.
+- **RT-ICA gate** — Reverse Thinking - Information Completeness Assessment runs before planning. Prerequisites marked AVAILABLE | DERIVABLE | MISSING; BLOCK if any MISSING.
+- **Semantic artifact tokens** — Storage-agnostic pattern `ARTIFACT:{TYPE}({SCOPE_OR_ID})` for DISCOVERY, PLAN, TASK, EXECUTION, REVIEW, VERIFICATION.
+- **Structure over instruction** — Behavioral instructions cannot override architectural limitations. The pipeline structure enforces behavior.
+- **AI cannot self-evaluate** — Independent verification required. Execution Agent and Forensic Review Agent are structurally separate.
+
+---
+
+## Pipeline Stages
+
+(Canonical spec: https://github.com/bitflight-devops/stateless-agent-methodology — stateless-software-engineering-framework.md Part 2.2 and Part 3.)
+
+| Stage | Name | Input | Output | Agent |
+|-------|------|-------|--------|-------|
+| S1 | Discovery | User request, problem statement | ARTIFACT:DISCOVERY(SCOPE:...) | Discovery Agent |
+| S2 | Planning | Discovery artifacts | ARTIFACT:PLAN(SCOPE:...) | Planning Agent (with RT-ICA) |
+| S3 | Context Integration | Plan + codebase | ARTIFACT:PLAN(SCOPE:...) contextualized | Context Integration Agent |
+| S4 | Task Decomposition | Contextualized plan | ARTIFACT:TASK(TASK:...) per task | Task Decomposition Agent |
+| S5 | Execution | Single task file (complete prompt) | ARTIFACT:EXECUTION(TASK:...) | Execution Agent (fresh session) |
+| S6 | Forensic Review | Execution + task + plan | ARTIFACT:REVIEW(TASK:...) — COMPLETE / NEEDS_WORK | Forensic Review Agent |
+| S7 | Final Verification | All completed tasks + original goals | ARTIFACT:VERIFICATION(SCOPE:...) — CERTIFIED / NOT_CERTIFIED | Final Verification Agent |
+
+**Iteration loop**: If S6 returns NEEDS_WORK, Planner Agent creates new tasks; Orchestrator dispatches back to S5. Loop until COMPLETE, then S7.
+
+---
+
+## Artifact Flow
+
+```text
+User Request → DISCOVERY → PLAN → PLAN (contextualized) → TASK(s) → EXECUTION(s) → REVIEW(s) → VERIFICATION
+```
+
+Each artifact type uses the token pattern `ARTIFACT:{TYPE}({SCOPE_OR_ID})`. Storage is implementation-dependent (filesystem, SQL, etc.); the framework document gives example mappings (e.g. `.sam/artifacts/`).
+
+---
+
+## How to Embody SAM
+
+### For Agents and Developers
+
+1. **Use the SAM pipeline for feature work**
+   - Canonical flow: Follow the 7-stage pipeline in the framework document.
+   - In claude_skills: Invoke `/development-harness` or `/python3-development:add-new-feature` for feature planning and implementation.
+   - Bridge backlog items: Invoke `/work-backlog-item` to bring BACKLOG.md items into SAM planning.
+
+2. **Produce artifacts at every stage**
+   - Use `ARTIFACT:{TYPE}({ID})` tokens in artifact headers; cross-reference predecessor/successor.
+   - In claude_skills: Store in `.planning/harness/` with naming `discovery-{feature-slug}.md`, `plan-{feature-slug}.md`, `task-{id}-{task-slug}.md`, etc.
+
+3. **Apply structural gates, not instructions**
+   - Run quality gates (format, lint, typecheck, test) after each stage.
+   - Gate progression on artifact completion and validation.
+   - Use RT-ICA before planning; do not proceed if BLOCKED.
+
+4. **Separate producer from evaluator**
+   - S5 Execution Agent implements; S6 Forensic Review Agent verifies. Do not rely on self-critique alone.
+   - Forensic Review compares execution against acceptance criteria and returns COMPLETE or NEEDS_WORK.
+
+5. **Escalate when constraints are unbound**
+   - Gate 1 (after S1): Escalate if unbound constraints or domain knowledge gaps.
+   - Gate 2 (after S4): Escalate if high complexity or novel architecture.
+   - After 3 NEEDS_WORK loops on the same task, escalate to human.
+   - After 2 NOT_CERTIFIED loops in S7, escalate to human.
+
+6. **Commit atomically per task**
+   - One atomic git commit per completed task for granular rollback.
+
+---
+
+## Source
+
+### Canonical SAM (external repo)
+
+Canonical spec: **https://github.com/bitflight-devops/stateless-agent-methodology**. Key documents: `stateless-agent-methodology.md`, `stateless-software-engineering-framework.md`, `README.md`, `docs/guides/sam-harness.md`.
+
+**Fetch via gh (when repo is not cloned locally):** Requires `gh` and auth (`gh auth status`). Example:
+
+```bash
+gh api repos/bitflight-devops/stateless-agent-methodology/contents/stateless-agent-methodology.md -H "Accept: application/vnd.github.raw"
+gh api repos/bitflight-devops/stateless-agent-methodology/contents/stateless-software-engineering-framework.md -H "Accept: application/vnd.github.raw"
+```
+
+### claude_skills implementation
+
+| Component | Path | Purpose |
+|-----------|------|---------|
+| **Development harness** | `plugins/development-harness/` | SAM 7-stage pipeline, artifact conventions |
+| **Default flow** | `plugins/development-harness/skills/development-harness/references/default-development-flow.md` | Default development flow |
+| **Artifact conventions** | `plugins/development-harness/skills/development-harness/references/artifact-conventions.md` | Artifact naming and structure |
+| **Human touchpoint model** | `plugins/development-harness/skills/development-harness/references/human-touchpoint-model.md` | Escalation and human gates |
+| **Work-backlog-item bridge** | `.claude/skills/work-backlog-item/SKILL.md` | Bridges BACKLOG.md items into SAM planning |
+
+---
+
+*Access date: 2026-02-23*
