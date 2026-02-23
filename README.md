@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1135 AI-powered skills** organized into 15 categories.
+A curated collection of **1202 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (7 skills)
-- **Automation/Workflow** (62 skills)
+- **Automation/Scripting** (11 skills)
+- **Automation/Workflow** (69 skills)
 - **Commercial** (60 skills)
-- **Communication** (30 skills)
-- **Content Creation** (90 skills)
-- **Daily Assistant** (53 skills)
-- **Data Analysis** (98 skills)
-- **Development** (363 skills)
-- **Development/Devops** (173 skills)
-- **Development/Testing** (25 skills)
-- **Development/Tools** (117 skills)
-- **Investment** (12 skills)
+- **Communication** (33 skills)
+- **Content Creation** (101 skills)
+- **Daily Assistant** (58 skills)
+- **Data Analysis** (102 skills)
+- **Development** (376 skills)
+- **Development/Devops** (177 skills)
+- **Development/Testing** (28 skills)
+- **Development/Tools** (129 skills)
+- **Investment** (11 skills)
 - **Other** (1 skill)
-- **Productivity** (10 skills)
+- **Productivity** (12 skills)
 - **Research** (34 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (7 skills)
+### Automation/Scripting (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -192,8 +192,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecomode](automation/scripting/086-ecomode_f42e5d09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/ecomode.md) | ⭐ 10 | `automation` |
 | [Fleet](automation/scripting/086-fleet_1a9c6299/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 13 | `automation` |
 | [Vulnerability Databases](automation/scripting/086-vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
+| [Skill](automation/scripting/name-skill_cd9bc25c/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/slipbox/SKILL.md) | ⭐ 11 | `tag1` `tag2` |
+| [Skill](automation/scripting/name-skill_90b40111/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/generate-image/SKILL.md) | ⭐ 34 | `automation` |
+| [Basic](automation/scripting/basic_9b23099b/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/basic.md) | ⭐ 112 | `automation` |
+| [Cli](automation/scripting/cli_87782589/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/cli.md) | ⭐ 112 | `automation` |
 
-### Automation/Workflow (62 skills)
+### Automation/Workflow (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -259,6 +263,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_d8e49039/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-restore/SKILL.md) | ⭐ 17 | `automation` |
 | [Claude](automation/workflow/061-claude_f54cc682/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/CLAUDE.md) | ⭐ 10 | `automation` |
 | [Tinyfish](automation/workflow/133-tinyfish_03b55251/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/tinyfish.md) | ⭐ 20 | `automation` |
+| [Agents](automation/workflow/agents_7c27359c/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/AGENTS.md) | ⭐ 11 | `automation` |
+| [Agent Skills Learnings](automation/workflow/agent-skills-learnings_5965710d/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/docs/agent-skills-learnings.md) | ⭐ 11 | `automation` |
+| [Skill](automation/workflow/name-skill_f7601bd9/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/recall-conversations/SKILL.md) | ⭐ 34 | `automation` |
+| [Skill](automation/workflow/name-skill_cfa29e46/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/search-youtube/SKILL.md) | ⭐ 34 | `automation` |
+| [Cli Reference](automation/workflow/cli-reference_d6f5e806/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/search-youtube/references/cli-reference.md) | ⭐ 34 | `automation` |
+| [Skill](automation/workflow/name-skill_89ed0a34/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/unreal/SKILL.md) | ⭐ 11 | `automation` |
+| [Godot](automation/workflow/godot_5ab53401/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/commands/godot.md) | ⭐ 11 | `automation` |
 
 ### Commercial (60 skills)
 
@@ -325,7 +336,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Platform Guides](commercial/377-platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
 | [Distributed Patterns](commercial/378-distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
 
-### Communication (30 skills)
+### Communication (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -359,8 +370,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Security Events](communication/262-security_events_e42caca5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/security_events.md) | ⭐ 10 | `communication` |
 | [Todowrite Usage Guide](communication/253-todowrite-usage-guide_04def9e0/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/todowrite-usage-guide.md) | ⭐ 600 | `communication` |
 | [Snapshot Refs](communication/274-snapshot-refs_edfb3fd8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/snapshot-refs.md) | ⭐ 18 | `communication` |
+| [Tool Reference](communication/tool-reference_6dcd0045/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/recall-conversations/references/tool-reference.md) | ⭐ 34 | `communication` |
+| [Llms Full](communication/llms-full_0b7dbf1a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/llms-full.md) | ⭐ 112 | `communication` |
+| [Other](communication/other_61abba5c/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/siliconflow-api-skills/references/other.md) | ⭐ 112 | `communication` |
 
-### Content Creation (90 skills)
+### Content Creation (101 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -454,8 +468,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Paperdraw](content-creation/353-paperdraw_8e90ac11/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/paperdraw.md) | ⭐ 20 | `content creation` |
 | [Json.Instructions](content-creation/363-jsoninstructions_943a0630/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/json.instructions.md) | ⭐ 85 | `content creation` |
 | [Skill](content-creation/049-name-skill_982a6fa3/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/skill-creator/SKILL.md) | ⭐ 17 | `content creation` |
+| [Loop](content-creation/loop_5b60a2a2/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/commands/loop.md) | ⭐ 11 | `content creation` |
+| [Skill](content-creation/name-skill_99929f7f/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/make-changelog/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_9f73ca78/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/make-readme/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_769fa1c6/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/update-readme/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_4ab99fb7/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/convert-video/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_5150822a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/share-social/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_b09aff56/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/run-research/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_fea592c3/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-skill/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_a1fc47f3/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/SKILL.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_0be90799/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/extract-audio/SKILL.md) | ⭐ 34 | `content creation` |
+| [Example Cli Spec](content-creation/example-cli-spec_000bbf54/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-cli/examples/example-cli-spec.md) | ⭐ 34 | `content creation` |
 
-### Daily Assistant (53 skills)
+### Daily Assistant (58 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -511,9 +536,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [05 Bicep Planner.Agent](daily-assistant/269-05-bicep-planneragent_fa4a7199/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05-bicep-planner.agent.md) | ⭐ 85 | `Environment` `ManagedBy` `Project` |
 | [06 Bicep Code Generator.Agent](daily-assistant/270-06-bicep-code-generatoragent_05c5a469/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06-bicep-code-generator.agent.md) | ⭐ 85 | `daily assistant` |
 | [09 Diagnose.Agent](daily-assistant/271-09-diagnoseagent_34470559/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 85 | `daily assistant` |
-| [Tasks](daily-assistant/tasks_b252b379/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/tasks.md) | ⭐ 23 | `daily assistant` |
+| [Tasks](daily-assistant/272-tasks_b252b379/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/tasks.md) | ⭐ 23 | `daily assistant` |
+| [Implement Loop](daily-assistant/implement-loop_6c51faf7/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/implement-loop.md) | ⭐ 11 | `daily assistant` |
+| [Skill](daily-assistant/name-skill_6847714f/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/task-tracking-dots/SKILL.md) | ⭐ 11 | `daily assistant` |
+| [Slipbox](daily-assistant/slipbox_6b0bdc1f/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/slipbox/commands/slipbox.md) | ⭐ 11 | `daily assistant` |
+| [Task Tracking Dots](daily-assistant/task-tracking-dots_6b23b987/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/task-tracking-dots/commands/task-tracking-dots.md) | ⭐ 11 | `daily assistant` |
+| [Sample Analysis](daily-assistant/sample-analysis_1d5a513c/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/improve-skill/examples/sample-analysis.md) | ⭐ 34 | `daily assistant` |
 
-### Data Analysis (98 skills)
+### Data Analysis (102 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -589,7 +619,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Advanced](data-analysis/334-advanced_8b673c79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/advanced.md) | ⭐ 106 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_25901d75/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/quickstart.md) | ⭐ 858 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_15ac6ffa/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
-| [Skill](data-analysis/226-name-skill_e9b319b6/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 107 | `data analysis` |
+| [Skill](data-analysis/name-skill_e1822d2a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 112 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cd720ae1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cdcc854e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_b0a4f9f8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/SKILL.md) | ⭐ 10 | `data analysis` |
@@ -614,9 +644,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
 | [03 Architect.Agent](data-analysis/483-03-architectagent_b9ce6108/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 85 | `data analysis` |
-| [Tasks](data-analysis/tasks_b61286a3/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/tasks.md) | ⭐ 23 | `data analysis` |
+| [Tasks](data-analysis/493-tasks_b61286a3/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/tasks.md) | ⭐ 23 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e1822d2a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 112 | `data analysis` |
+| [Manage Memory](data-analysis/manage-memory_c96f21c3/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/commands/manage-memory.md) | ⭐ 34 | `data analysis` |
+| [Skill](data-analysis/name-skill_452dc1a2/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/compress-video/SKILL.md) | ⭐ 34 | `data analysis` |
+| [Skill](data-analysis/name-skill_1b2e7d67/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/make-gif/SKILL.md) | ⭐ 34 | `data analysis` |
 
-### Development (363 skills)
+### Development (376 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -789,9 +823,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Crypto Patterns](development/2910-crypto-patterns_f252f989/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/skills/security/crypto-patterns.md) | ⭐ 10 | `security` `cryptography` `encryption` |
 | [Claude](development/140-claude_873a74f2/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/CLAUDE.md) | ⭐ 41 | `development` |
 | [Pipeline If V1](development/2911-pipeline_if_v1_190b7f52/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/edge-candidate-agent/references/pipeline_if_v1.md) | ⭐ 41 | `development` |
-| [Claude](development/140-claude_e9228d7d/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/CLAUDE.md) | ⭐ 34 | `development` |
+| [Claude](development/claude_d60ac545/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/CLAUDE.md) | ⭐ 34 | `development` |
 | [Skill](development/1178-name-skill_379c3eee/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/commit/SKILL.md) | ⭐ 34 | `development` |
-| [Skill](development/1178-name-skill_9cba2968/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 34 | `development` |
+| [Skill](development/name-skill_0b9ff3ff/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 34 | `development` |
 | [Badges](development/096-badges_7a989932/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/readme-maker/references/badges.md) | ⭐ 34 | `development` |
 | [Sqlcipher Install](development/1539-sqlcipher_install_a9f7b6cf/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/SQLCIPHER_INSTALL.md) | ⭐ 4.0k | `development` |
 | [Agents](development/028-agents_fa9578ce/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/AGENTS.md) | ⭐ 106 | `development` |
@@ -981,10 +1015,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_787bdca4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-docs/SKILL.md) | ⭐ 85 | `development` |
 | [Skill](development/1178-name-skill_116d8d2c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/microsoft-skill-creator/SKILL.md) | ⭐ 85 | `development` |
 | [Skill](development/1178-name-skill_65270bfd/) | [srtab/daiv](https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agent/skills/plan/SKILL.md) | ⭐ 17 | `development` |
-| [Proposal](development/proposal_bd4d17e8/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/proposal.md) | ⭐ 23 | `development` |
-| [Spec](development/spec_0235a7be/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/specs/knowledge-sync/spec.md) | ⭐ 23 | `development` |
+| [Proposal](development/2045-proposal_bd4d17e8/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/proposal.md) | ⭐ 23 | `development` |
+| [Spec](development/2193-spec_0235a7be/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/specs/knowledge-sync/spec.md) | ⭐ 23 | `development` |
+| [Looping Design](development/looping_design_3634b46f/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/LOOPING_DESIGN.md) | ⭐ 11 | `development` |
+| [Skill](development/name-skill_890f0a3a/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/SKILL.md) | ⭐ 11 | `development` |
+| [Loop Shared](development/loop-shared_c6f7d617/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/loop-shared.md) | ⭐ 11 | `development` |
+| [Assertions](development/assertions_2a159f64/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/references/assertions.md) | ⭐ 11 | `development` |
+| [Scene Runner](development/scene-runner_49a2fff0/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/references/scene-runner.md) | ⭐ 11 | `development` |
+| [Claude](development/140-claude_d60ac545/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/CLAUDE.md) | ⭐ 34 | `development` |
+| [Skill](development/1178-name-skill_0b9ff3ff/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/extract-learnings/SKILL.md) | ⭐ 34 | `development` |
+| [Skill](development/name-skill_e0869701/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/wechat-article-aggregator/SKILL.md) | ⭐ 112 | `development` |
+| [Deployment](development/deployment_a37e868d/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/references/deployment.md) | ⭐ 11 | `development` |
+| [Remote Control](development/remote-control_9c7996b7/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/unreal/references/remote-control.md) | ⭐ 11 | `development` |
+| [Effectiveness Report Template](development/effectiveness-report-template_cb93a902/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/improve-skill/references/effectiveness-report-template.md) | ⭐ 34 | `development` |
+| [Api](development/api_c93e1f81/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/api.md) | ⭐ 112 | `development` |
+| [Library](development/library_dd03a306/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/library.md) | ⭐ 112 | `development` |
 
-### Development/Devops (173 skills)
+### Development/Devops (177 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1161,8 +1208,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fly Io](development/devops/365-fly-io_8538885d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/fly-io.md) | ⭐ 20 | `development` |
 | [Motia](development/devops/366-motia_5fa96f76/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/motia.md) | ⭐ 20 | `development` |
 | [Copilot Instructions](development/devops/309-copilot-instructions_ba9657e0/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/copilot-instructions.md) | ⭐ 85 | `development` |
+| [Skill](development/devops/name-skill_87f34582/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/devops/name-skill_47257f12/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/xiaohuihui-tech-article/Skill.md) | ⭐ 112 | `development` |
+| [Full](development/devops/full_a445d649/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/full.md) | ⭐ 112 | `development` |
+| [Webapp](development/devops/webapp_ba39c423/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/webapp.md) | ⭐ 112 | `development` |
 
-### Development/Testing (25 skills)
+### Development/Testing (28 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1191,8 +1242,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Python Replay](development/testing/087-python-replay_5cd4a143/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/python-replay.md) | ⭐ 10 | `development` |
 | [Dependency Formats](development/testing/088-dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
 | [Commands](development/testing/092-commands_cc6cc178/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/commands.md) | ⭐ 18 | `development` |
+| [Ci Integration](development/testing/ci-integration_4758018b/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/references/ci-integration.md) | ⭐ 11 | `development` |
+| [Playgodot](development/testing/playgodot_8ad79088/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/references/playgodot.md) | ⭐ 11 | `development` |
+| [Gdunit4 Quickstart](development/testing/gdunit4-quickstart_164e3508/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/godot/references/gdunit4-quickstart.md) | ⭐ 11 | `development` |
 
-### Development/Tools (117 skills)
+### Development/Tools (129 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1313,8 +1367,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api Surface](development/tools/345-api-surface_956ec1cb/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md) | ⭐ 75 | `development` |
 | [Iam Settings Ui](development/tools/335-iam-settings-ui_2f16319a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/iam-settings-ui.md) | ⭐ 449 | `development` |
 | [Tmux Claude Workflow](development/tools/330-tmux-claude-workflow_ec924085/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/docs/tmux-claude-workflow.md) | ⭐ 10 | `development` |
+| [Research Loop](development/tools/research-loop_d2499127/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/research-loop.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/name-skill_5c92f21d/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-cli/SKILL.md) | ⭐ 34 | `development` |
+| [Skill](development/tools/name-skill_3139f329/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/improve-skill/SKILL.md) | ⭐ 34 | `development` |
+| [Lenses](development/tools/lenses_95face14/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/recall-conversations/references/lenses.md) | ⭐ 34 | `development` |
+| [Sources](development/tools/sources_16ac5dc3/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-research/skills/run-research/references/sources.md) | ⭐ 34 | `development` |
+| [Agent Aware Design](development/tools/agent-aware-design_a076db67/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-cli/references/agent-aware-design.md) | ⭐ 34 | `development` |
+| [Cli Guidelines](development/tools/cli-guidelines_b6c5c4db/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/create-cli/references/cli-guidelines.md) | ⭐ 34 | `development` |
+| [Effectiveness Rubric](development/tools/effectiveness-rubric_aef59bd9/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/improve-skill/references/effectiveness-rubric.md) | ⭐ 34 | `development` |
+| [Unreal](development/tools/unreal_1d87fdfa/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/unreal/commands/unreal.md) | ⭐ 11 | `development` |
+| [Automation Driver](development/tools/automation-driver_8a5bc7ff/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/unreal/references/automation-driver.md) | ⭐ 11 | `development` |
+| [Umg Automation](development/tools/umg-automation_b8c65b14/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/unreal/references/umg-automation.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/name-skill_61d00112/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/convert-to-markdown/SKILL.md) | ⭐ 34 | `development` |
 
-### Investment (12 skills)
+### Investment (11 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1327,9 +1393,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_9fd4c364/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/wnba-data/SKILL.md) | ⭐ 24 | `investment` |
 | [Commands](investment/050-commands_b3537439/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/commands.md) | ⭐ 24 | `investment` |
 | [Series Tickers](investment/051-series-tickers_fb5fea49/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/series-tickers.md) | ⭐ 24 | `investment` |
-| [Design](investment/design_80de3ee4/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/design.md) | ⭐ 23 | `investment` |
-| [Proposal](investment/proposal_2473f453/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md) | ⭐ 23 | `investment` |
-| [Spec](investment/spec_6ddc4b2c/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/specs/knowledge-base-integration/spec.md) | ⭐ 23 | `investment` |
+| [Design](investment/050-design_80de3ee4/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/design.md) | ⭐ 23 | `investment` |
+| [Proposal](investment/051-proposal_2473f453/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md) | ⭐ 23 | `investment` |
 
 ### Other (1 skills)
 
@@ -1337,7 +1402,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 
-### Productivity (10 skills)
+### Productivity (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1351,6 +1416,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_1f0c7074/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/SKILL.md) | ⭐ 10 | `productivity` |
 | [Skill](productivity/093-name-skill_7d504321/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/multi-agent-brainstorming/SKILL.md) | 🔥 13.4k | `productivity` |
 | [Skill](productivity/093-name-skill_3e8d7700/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/SKILL.md) | ⭐ 143 | `productivity` |
+| [Skill](productivity/name-skill_98a816b8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/update-claudemd/SKILL.md) | ⭐ 34 | `productivity` |
+| [Playunreal](productivity/playunreal_bd5f711e/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/unreal/references/playunreal.md) | ⭐ 11 | `productivity` |
 
 ### Research (34 skills)
 
@@ -1442,5 +1509,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 12:05:03 UTC*
+*Last updated: 2026-02-23 12:06:56 UTC*
 *Automatically maintained by SkillFlow*
