@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1271 AI-powered skills** organized into 15 categories.
+A curated collection of **1267 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,19 +8,19 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (10 skills)
+- **Automation/Scripting** (9 skills)
 - **Automation/Workflow** (72 skills)
 - **Commercial** (61 skills)
 - **Communication** (36 skills)
 - **Content Creation** (105 skills)
 - **Daily Assistant** (60 skills)
-- **Data Analysis** (105 skills)
-- **Development** (411 skills)
+- **Data Analysis** (104 skills)
+- **Development** (408 skills)
 - **Development/Devops** (184 skills)
 - **Development/Testing** (30 skills)
 - **Development/Tools** (138 skills)
 - **Investment** (12 skills)
-- **Other** (1 skill)
+- **Other** (2 skills)
 - **Productivity** (12 skills)
 - **Research** (34 skills)
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (10 skills)
+### Automation/Scripting (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -194,7 +194,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Vulnerability Databases](automation/scripting/086-vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cd9bc25c/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/slipbox/SKILL.md) | ⭐ 11 | `tag1` `tag2` |
 | [Instructions](automation/scripting/086-instructions_972e04a2/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/instructions.md) | ⭐ 18 | `automation` |
-| [Skill](automation/scripting/name-skill_7a851eca/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-batch/SKILL.md) | ⭐ 45 | `automation` |
 
 ### Automation/Workflow (72 skills)
 
@@ -553,9 +552,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Critic Prompt](daily-assistant/262-critic-prompt_58f2a390/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/critic-prompt.md) | ⭐ 18 | `daily assistant` |
 | [Memory System](daily-assistant/264-memory_system_e6e59cfe/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/MEMORY_SYSTEM.md) | ⭐ 23 | `daily assistant` |
 | [2026 02 20 System Prompt Tooling Refresh](daily-assistant/265-2026-02-20-system-prompt-tooling-refresh_3e8dd37e/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-20-system-prompt-tooling-refresh.md) | ⭐ 113 | `daily assistant` |
-| [Copilot](daily-assistant/copilot_68c1852b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/copilot.md) | 🔥 14.3k | `daily assistant` |
+| [Copilot](daily-assistant/266-copilot_68c1852b/) | [OthmanAdi/planning-with-files](https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/copilot.md) | 🔥 14.3k | `daily assistant` |
 
-### Data Analysis (105 skills)
+### Data Analysis (104 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -662,10 +661,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Snyk Cli Cpp Scans](data-analysis/484-snyk-cli-cpp-scans_7bfc7afd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/code-auditing/snyk-cli-cpp-scans.md) | ⭐ 20 | `data analysis` |
 | [Sourcesyncai](data-analysis/485-sourcesyncai_b4bfd453/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/sourcesyncai.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_7db1a822/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/bump-version/SKILL.md) | ⭐ 17 | `data analysis` |
-| [Skills](data-analysis/ui_868a4f0e/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/UI.md) | ⭐ 45 | `data analysis` |
-| [Skill](data-analysis/name-skill_7c1a191c/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/jupyter-to-marimo/SKILL.md) | ⭐ 45 | `data analysis` |
+| [Skills](data-analysis/484-ui_868a4f0e/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/UI.md) | ⭐ 45 | `data analysis` |
 
-### Development (411 skills)
+### Development (408 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1076,10 +1074,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_cc7c396a/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md) | ⭐ 3.3k | `development` |
 | [Selecting An Mcp Gateway](development/955-selecting-an-mcp-gateway_f6009185/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md) | ⭐ 3.3k | `development` |
 | [Claude](development/140-claude_19d442cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 29 | `development` |
-| [Skill](development/name-skill_628d5f75/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/anywidget/SKILL.md) | ⭐ 45 | `development` |
-| [Skill](development/name-skill_e227095a/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/SKILL.md) | ⭐ 45 | `development` |
-| [Sql](development/sql_7e35530c/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/SQL.md) | ⭐ 45 | `development` |
-| [Top Level Imports](development/top-level-imports_bc5180e7/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/TOP-LEVEL-IMPORTS.md) | ⭐ 45 | `development` |
+| [Skill](development/1178-name-skill_628d5f75/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/anywidget/SKILL.md) | ⭐ 45 | `development` |
 
 ### Development/Devops (184 skills)
 
@@ -1465,11 +1460,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Proposal](investment/051-proposal_2473f453/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md) | ⭐ 23 | `investment` |
 | [Skill](investment/021-name-skill_a41f4990/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/brainstorm/SKILL.md) | ⭐ 34 | `investment` |
 
-### Other (1 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
+| [Claude](other/claude_ffc278c6/) | [EmbeddedLLM/JamAIBase](https://raw.githubusercontent.com/EmbeddedLLM/JamAIBase/main/CLAUDE.md) | ⭐ 1.1k | `other` |
 
 ### Productivity (12 skills)
 
@@ -1578,5 +1574,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 19:32:58 UTC*
+*Last updated: 2026-02-23 20:31:25 UTC*
 *Automatically maintained by SkillFlow*
