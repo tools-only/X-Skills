@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T19:30:59.405733",
+  "updated_at": "2026-02-23T19:32:58.673008",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17683,6 +17683,48 @@
       "source_url": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md",
       "display_name": "Claude",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "68c1852bc250d08579232ebe81e93912c5e3161056e45a81961afcf046f49a27",
+      "source_path": "docs/copilot.md",
+      "source_repo": "OthmanAdi/planning-with-files",
+      "local_path": "daily-assistant/266-copilot_68c1852b",
+      "category": "daily-assistant",
+      "name": "copilot_68c1852b",
+      "indexed_at": "2026-02-23T19:32:58.246336",
+      "repo_stars": 14268,
+      "repo_updated_at": "2026-02-22T14:03:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/OthmanAdi/planning-with-files/master/docs/copilot.md",
+      "display_name": "Copilot",
+      "tags": "[\"daily assistant\"]"
+    },
+    {
+      "file_hash": "628d5f75e9f4e6f4609590b88a0248c62b2f8ab20581a3a084940b4c7ce2018f",
+      "source_path": "skills/anywidget/SKILL.md",
+      "source_repo": "marimo-team/skills",
+      "local_path": "development/1178-name-skill_628d5f75",
+      "category": "development",
+      "name": "name-skill_628d5f75",
+      "indexed_at": "2026-02-23T19:32:58.406140",
+      "repo_stars": 45,
+      "repo_updated_at": "2026-02-10T10:30:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/marimo-team/skills/main/skills/anywidget/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "868a4f0e93906fa876fbca7c5cb2423c1d6f40f883c7038d6cd536fd62d8bd2f",
+      "source_path": "skills/marimo-notebook/references/UI.md",
+      "source_repo": "marimo-team/skills",
+      "local_path": "data-analysis/484-ui_868a4f0e",
+      "category": "data-analysis",
+      "name": "ui_868a4f0e",
+      "indexed_at": "2026-02-23T19:32:58.672963",
+      "repo_stars": 45,
+      "repo_updated_at": "2026-02-22T20:39:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/UI.md",
+      "display_name": "Skills",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
