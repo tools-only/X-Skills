@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1047 AI-powered skills** organized into 15 categories.
+A curated collection of **1106 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (7 skills)
-- **Automation/Workflow** (54 skills)
-- **Commercial** (60 skills)
-- **Communication** (29 skills)
-- **Content Creation** (80 skills)
-- **Daily Assistant** (39 skills)
-- **Data Analysis** (94 skills)
-- **Development** (335 skills)
-- **Development/Devops** (162 skills)
-- **Development/Testing** (24 skills)
-- **Development/Tools** (111 skills)
+- **Automation/Scripting** (8 skills)
+- **Automation/Workflow** (56 skills)
+- **Commercial** (61 skills)
+- **Communication** (30 skills)
+- **Content Creation** (86 skills)
+- **Daily Assistant** (63 skills)
+- **Data Analysis** (97 skills)
+- **Development** (345 skills)
+- **Development/Devops** (164 skills)
+- **Development/Testing** (25 skills)
+- **Development/Tools** (114 skills)
 - **Investment** (9 skills)
-- **Other** (1 skill)
-- **Productivity** (9 skills)
+- **Other** (2 skills)
+- **Productivity** (13 skills)
 - **Research** (33 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (7 skills)
+### Automation/Scripting (8 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -192,8 +192,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Ecomode](automation/scripting/086-ecomode_f42e5d09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/ecomode.md) | ⭐ 10 | `automation` |
 | [Fleet](automation/scripting/086-fleet_1a9c6299/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 13 | `automation` |
 | [Vulnerability Databases](automation/scripting/086-vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
+| [Nelson](automation/scripting/nelson_b9dcb8b1/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/agents/nelson.md) | ⭐ 143 | `automation` |
 
-### Automation/Workflow (54 skills)
+### Automation/Workflow (56 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -250,9 +251,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Formal Tools](automation/workflow/135-formal_tools_dea54acb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/references/formal_tools.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d13fa0ae/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/design-orchestration/SKILL.md) | 🔥 13.4k | `automation` |
 | [Readme Flat Skills Updated](automation/workflow/135-readme_flat_skills_updated_7e94df01/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 24.4k | `automation` |
-| [Readme Flat Skills Az](automation/workflow/readme_flat_skills_az_51532ca9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 24.6k | `automation` |
+| [Readme Flat Skills Az](automation/workflow/135-readme_flat_skills_az_51532ca9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 24.6k | `automation` |
+| [Kernel Sh](automation/workflow/kernel-sh_b42fc39c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/agent-infrastructure/kernel-sh.md) | ⭐ 18 | `automation` |
+| [Skill](automation/workflow/name-skill_8fb34807/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/development/implement-feature/SKILL.md) | ⭐ 18 | `automation` |
 
-### Commercial (60 skills)
+### Commercial (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -316,8 +319,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Isabelle Syntax](commercial/376-isabelle_syntax_ba669e84/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/references/isabelle_syntax.md) | ⭐ 10 | `commercial` |
 | [Platform Guides](commercial/377-platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
 | [Distributed Patterns](commercial/378-distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
+| [Damage Report](commercial/damage-report_27293645/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/damage-report.md) | ⭐ 143 | `commercial` |
 
-### Communication (29 skills)
+### Communication (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -350,8 +354,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Best Practices](communication/261-best_practices_3273e09c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/best_practices.md) | ⭐ 10 | `communication` |
 | [Security Events](communication/262-security_events_e42caca5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/security_events.md) | ⭐ 10 | `communication` |
 | [Todowrite Usage Guide](communication/253-todowrite-usage-guide_04def9e0/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/todowrite-usage-guide.md) | ⭐ 600 | `communication` |
+| [Snapshot Refs](communication/snapshot-refs_edfb3fd8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/snapshot-refs.md) | ⭐ 18 | `communication` |
 
-### Content Creation (80 skills)
+### Content Creation (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -385,7 +390,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Features](content-creation/109-features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
 | [Skill](content-creation/049-name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
 | [V1.81.12](content-creation/351-v18112_b76af1d8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.4k | `content creation` |
-| [Skill](content-creation/049-name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/name-skill_4c8c6a8a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
 | [Skill](content-creation/049-name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
 | [Writing Guidelines](content-creation/355-writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
@@ -435,8 +440,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_13b3ef93/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/TTS/SKILL.md) | ⭐ 600 | `content creation` |
 | [Skill](content-creation/049-name-skill_7e56cadf/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/video-generation/SKILL.md) | ⭐ 600 | `content creation` |
 | [Skill](content-creation/049-name-skill_3b4f2543/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/web-reader/SKILL.md) | ⭐ 600 | `content creation` |
+| [Topic Specialist](content-creation/topic-specialist_df4d546d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/topic-specialist.md) | ⭐ 18 | `content creation` |
+| [Skill](content-creation/049-name-skill_4c8c6a8a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
+| [Relief On Station](content-creation/relief-on-station_cde95eb3/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/relief-on-station.md) | ⭐ 143 | `content creation` |
+| [Admiral At The Helm](content-creation/admiral-at-the-helm_59f5aa78/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/admiral-at-the-helm.md) | ⭐ 143 | `content creation` |
+| [Captain At The Capstan](content-creation/captain-at-the-capstan_08746c02/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/captain-at-the-capstan.md) | ⭐ 143 | `content creation` |
+| [Split Keel](content-creation/split-keel_8e31437d/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/split-keel.md) | ⭐ 143 | `content creation` |
 
-### Daily Assistant (39 skills)
+### Daily Assistant (63 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -479,8 +490,32 @@ ls ~/.claude/skills/patch-research-agent/
 | [Clarification Patterns](daily-assistant/266-clarification_patterns_8eea096a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/clarification_patterns.md) | ⭐ 10 | `daily assistant` |
 | [Requirement Patterns](daily-assistant/267-requirement_patterns_5931ff4c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/requirement_patterns.md) | ⭐ 10 | `daily assistant` |
 | [Step1 Customer Problems](daily-assistant/263-step1-customer-problems_9c1de879/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `daily assistant` |
+| [Tasks 5 Sam Error Recovery](daily-assistant/tasks-5-sam-error-recovery_f6d8494e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-5-sam-error-recovery.md) | ⭐ 18 | `daily assistant` |
+| [Profiling](daily-assistant/profiling_896fbd9e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/profiling.md) | ⭐ 18 | `daily assistant` |
+| [Reddit Reply Graduated Discipline](daily-assistant/reddit-reply-graduated-discipline_dc3c1c09/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/docs/reddit-reply-graduated-discipline.md) | ⭐ 143 | `daily assistant` |
+| [Commendations](daily-assistant/commendations_e16b6ff4/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/commendations.md) | ⭐ 143 | `daily assistant` |
+| [Squadron Composition](daily-assistant/squadron-composition_d5a66e2c/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/squadron-composition.md) | ⭐ 143 | `daily assistant` |
+| [Escalation](daily-assistant/escalation_806cb18a/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/escalation.md) | ⭐ 143 | `daily assistant` |
+| [Hull Integrity](daily-assistant/hull-integrity_530e2263/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/hull-integrity.md) | ⭐ 143 | `daily assistant` |
+| [Man Overboard](daily-assistant/man-overboard_6d08a8b7/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/man-overboard.md) | ⭐ 143 | `daily assistant` |
+| [Scuttle And Reform](daily-assistant/scuttle-and-reform_496947da/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/scuttle-and-reform.md) | ⭐ 143 | `daily assistant` |
+| [Session Resumption](daily-assistant/session-resumption_9df13ad4/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/session-resumption.md) | ⭐ 143 | `daily assistant` |
+| [Battle Plan](daily-assistant/battle-plan_2d57da09/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/battle-plan.md) | ⭐ 143 | `daily assistant` |
+| [Red Cell Review](daily-assistant/red-cell-review_302363c8/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/red-cell-review.md) | ⭐ 143 | `daily assistant` |
+| [Ship Manifest](daily-assistant/ship-manifest_d205dc45/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/ship-manifest.md) | ⭐ 143 | `daily assistant` |
+| [Turnover Brief](daily-assistant/turnover-brief_9936992c/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/turnover-brief.md) | ⭐ 143 | `daily assistant` |
+| [Crew Overrun](daily-assistant/crew-overrun_dfc12cfb/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/crew-overrun.md) | ⭐ 143 | `daily assistant` |
+| [Partial Rollback](daily-assistant/partial-rollback_e36ef810/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/partial-rollback.md) | ⭐ 143 | `daily assistant` |
+| [All Hands On Deck](daily-assistant/all-hands-on-deck_22850de9/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/all-hands-on-deck.md) | ⭐ 143 | `daily assistant` |
+| [Battalion Ashore](daily-assistant/battalion-ashore_84ef6e73/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/battalion-ashore.md) | ⭐ 143 | `daily assistant` |
+| [Becalmed Fleet](daily-assistant/becalmed-fleet_10b25444/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/becalmed-fleet.md) | ⭐ 143 | `daily assistant` |
+| [Crew Without Canvas](daily-assistant/crew-without-canvas_f54b8688/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/crew-without-canvas.md) | ⭐ 143 | `daily assistant` |
+| [Drifting Anchorage](daily-assistant/drifting-anchorage_3d78dff6/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/drifting-anchorage.md) | ⭐ 143 | `daily assistant` |
+| [Press Ganged Navigator](daily-assistant/press-ganged-navigator_67116023/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/press-ganged-navigator.md) | ⭐ 143 | `daily assistant` |
+| [Skeleton Crew](daily-assistant/skeleton-crew_b086befd/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/skeleton-crew.md) | ⭐ 143 | `daily assistant` |
+| [Unclassified Engagement](daily-assistant/unclassified-engagement_6b3dd7be/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/unclassified-engagement.md) | ⭐ 143 | `daily assistant` |
 
-### Data Analysis (94 skills)
+### Data Analysis (97 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -516,7 +551,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Page Layouts](data-analysis/490-page-layouts_7aa85757/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/page-layouts.md) | ⭐ 117 | `data analysis` |
 | [Theming](data-analysis/491-theming_77a63bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/theming.md) | ⭐ 117 | `data analysis` |
 | [Value Boxes](data-analysis/492-value-boxes_3b530b15/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/value-boxes.md) | ⭐ 117 | `data analysis` |
-| [Claude](data-analysis/036-claude_8dccc45b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Claude](data-analysis/claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Orchestrator Discipline Patterns](data-analysis/486-orchestrator-discipline-patterns_95fa0f32/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/orchestrator-discipline-patterns.md) | ⭐ 18 | `data analysis` |
 | [Research Scripts Refs](data-analysis/487-research-scripts-refs_9880003d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-scripts-refs.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3854a340/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 18 | `data analysis` |
@@ -578,8 +613,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Semantic Analysis](data-analysis/482-semantic_analysis_f2c05cc4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/semantic_analysis.md) | ⭐ 10 | `data analysis` |
 | [Detection Patterns](data-analysis/483-detection_patterns_888fe31a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/references/detection_patterns.md) | ⭐ 10 | `data analysis` |
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
+| [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
+| [Skill](data-analysis/description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
+| [Session Hygiene](data-analysis/session-hygiene_74b84912/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/session-hygiene.md) | ⭐ 143 | `data analysis` |
 
-### Development (335 skills)
+### Development (345 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -644,7 +682,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Research Agents](development/2978-research-agents_1d3d3c9d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-agents.md) | ⭐ 18 | `development` |
 | [Research Architecture Pattern](development/2979-research-architecture-pattern_edc4bb85/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-architecture-pattern.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_3bc11637/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/agent-creator/SKILL.md) | ⭐ 18 | `development` |
-| [Skill](development/1178-name-skill_771f59ba/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-merge-request-changelog/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/name-skill_993fd8f5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-merge-request-changelog/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_4a8cf475/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/external-pattern-integrator/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_45901b1b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/orchestrating-swarms/SKILL.md) | ⭐ 18 | `development` |
 | [Skill](development/1178-name-skill_013658d1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/scientific-thinking/SKILL.md) | ⭐ 18 | `development` |
@@ -917,9 +955,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Optimization Summary](development/2874-optimization_summary_829204c9/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/frontend-design/OPTIMIZATION_SUMMARY.md) | ⭐ 600 | `development` |
 | [Skill](development/1178-name-skill_b2af3b48/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/web-search/SKILL.md) | ⭐ 600 | `development` |
 | [Skill](development/1178-name-skill_53f1cebe/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/SKILL.md) | ⭐ 10 | `development` |
-| [Cooldown](development/cooldown_4267ed35/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/COOLDOWN.md) | 🔥 24.6k | `development` |
+| [Cooldown](development/2920-cooldown_4267ed35/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/COOLDOWN.md) | 🔥 24.6k | `development` |
+| [Ai Agents Skills For Embedded Engineers Cursor](development/ai-agents-skills-for-embedded-engineers-cursor_1284f72d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/ai-agents-skills-for-embedded-engineers-cursor.md) | ⭐ 18 | `development` |
+| [Skill](development/name-skill_692faca7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/1178-name-skill_993fd8f5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-merge-request-changelog/SKILL.md) | ⭐ 18 | `development` |
+| [Proxy Support](development/proxy-support_4c44ba60/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/proxy-support.md) | ⭐ 18 | `development` |
+| [Skill](development/description-skill_4c9f2d09/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.cursor/skills/c-embedded-standards/SKILL.md) | ⭐ 18 | `development` |
+| [Claude](development/claude_867c1488/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/CLAUDE.md) | ⭐ 143 | `development` |
+| [Action Stations](development/action-stations_d64772d5/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/action-stations.md) | ⭐ 143 | `development` |
+| [Crew Roles](development/crew-roles_ff61add7/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/crew-roles.md) | ⭐ 143 | `development` |
+| [Royal Marines](development/royal-marines_92007cea/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/royal-marines.md) | ⭐ 143 | `development` |
+| [Pressed Crew](development/pressed-crew_eb6817d8/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/standing-orders/pressed-crew.md) | ⭐ 143 | `development` |
 
-### Development/Devops (162 skills)
+### Development/Devops (164 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1078,15 +1126,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_a1cc67a6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/architect-review/SKILL.md) | 🔥 13.4k | `development` |
 | [Skill](development/devops/014-name-skill_f9416fde/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/performance-engineer/SKILL.md) | 🔥 13.4k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_7e2219ec/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 24.4k | `development` |
-| [Readme Awesome](development/devops/readme_awesome_8f88676e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 24.6k | `development` |
-| [Readme Classic](development/devops/readme_classic_58de1a77/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 24.6k | `development` |
-| [Readme Flat All Az](development/devops/readme_flat_all_az_46e4168e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 24.6k | `development` |
-| [Readme Flat All Releases](development/devops/readme_flat_all_releases_1b29b908/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 24.6k | `development` |
-| [Readme Flat Claude Md Az](development/devops/readme_flat_claude-md_az_12d1ad30/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 24.6k | `development` |
-| [Readme Flat Claude Md Releases](development/devops/readme_flat_claude-md_releases_b8e41ed9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 24.6k | `development` |
-| [Readme Flat Tooling Az](development/devops/readme_flat_tooling_az_38ad2f96/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Awesome](development/devops/154-readme_awesome_8f88676e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 24.6k | `development` |
+| [Readme Classic](development/devops/155-readme_classic_58de1a77/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 24.6k | `development` |
+| [Readme Flat All Az](development/devops/157-readme_flat_all_az_46e4168e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat All Releases](development/devops/159-readme_flat_all_releases_1b29b908/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 24.6k | `development` |
+| [Readme Flat Claude Md Az](development/devops/370-readme_flat_claude-md_az_12d1ad30/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Claude Md Releases](development/devops/371-readme_flat_claude-md_releases_b8e41ed9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 24.6k | `development` |
+| [Readme Flat Tooling Az](development/devops/161-readme_flat_tooling_az_38ad2f96/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 24.6k | `development` |
+| [Skill](development/devops/description-skill_dc4dba10/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.cursor/skills/ha-zigbee2mqtt-docker/SKILL.md) | ⭐ 18 | `development` |
+| [Marine Deployment Brief](development/devops/marine-deployment-brief_fc7f5c6e/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/marine-deployment-brief.md) | ⭐ 143 | `development` |
 
-### Development/Testing (24 skills)
+### Development/Testing (25 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1114,8 +1164,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Failure Patterns](development/testing/086-failure-patterns_d331f78a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-root-cause-analyzer/references/failure-patterns.md) | ⭐ 10 | `development` |
 | [Python Replay](development/testing/087-python-replay_5cd4a143/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/python-replay.md) | ⭐ 10 | `development` |
 | [Dependency Formats](development/testing/088-dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
+| [Commands](development/testing/commands_cc6cc178/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/commands.md) | ⭐ 18 | `development` |
 
-### Development/Tools (111 skills)
+### Development/Tools (114 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1146,7 +1197,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_fe5d0c93/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/SKILL.md) | ⭐ 117 | `development` |
 | [Conditions](development/tools/329-conditions_fbf1013a/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/cli/references/conditions.md) | ⭐ 117 | `development` |
 | [Sass And Css Variables](development/tools/330-sass-and-css-variables_db885c80/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib-theming/references/sass-and-css-variables.md) | ⭐ 117 | `development` |
-| [Backlog](development/tools/336-backlog_5f579c4c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
+| [Backlog](development/tools/backlog_23d86cd2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
 | [Copilot Instructions](development/tools/337-copilot-instructions_727ce275/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.github/copilot-instructions.md) | ⭐ 18 | `development` |
 | [Architect Validate Orchestrator Discipline](development/tools/338-architect-validate-orchestrator-discipline_2adb21c5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/architect-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
 | [Tasks 4 Validate Orchestrator Discipline](development/tools/339-tasks-4-validate-orchestrator-discipline_55f8f536/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/tasks-4-validate-orchestrator-discipline.md) | ⭐ 18 | `development` |
@@ -1222,14 +1273,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_676983da/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 24.4k | `development` |
 | [Readme Flat Statusline Updated](development/tools/173-readme_flat_statusline_updated_202be4cb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 24.4k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_f60e4311/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 24.4k | `development` |
-| [Readme Flat Clients Az](development/tools/readme_flat_clients_az_34ec63b2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 24.6k | `development` |
-| [Readme Flat Clients Updated](development/tools/readme_flat_clients_updated_038bed5f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 24.6k | `development` |
-| [Readme Flat Commands Releases](development/tools/readme_flat_commands_releases_34ade65c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 24.6k | `development` |
-| [Readme Flat Docs Created](development/tools/readme_flat_docs_created_fc64977c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 24.6k | `development` |
-| [Readme Flat Hooks Az](development/tools/readme_flat_hooks_az_687deee8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 24.6k | `development` |
-| [Readme Flat Statusline Az](development/tools/readme_flat_statusline_az_fb5537d0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 24.6k | `development` |
-| [Readme Flat Styles Az](development/tools/readme_flat_styles_az_ef4a07bb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 24.6k | `development` |
-| [Readme Flat Workflows Az](development/tools/readme_flat_workflows_az_ec5961ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Clients Az](development/tools/156-readme_flat_clients_az_34ec63b2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Clients Updated](development/tools/159-readme_flat_clients_updated_038bed5f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 24.6k | `development` |
+| [Readme Flat Commands Releases](development/tools/160-readme_flat_commands_releases_34ade65c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 24.6k | `development` |
+| [Readme Flat Docs Created](development/tools/162-readme_flat_docs_created_fc64977c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 24.6k | `development` |
+| [Readme Flat Hooks Az](development/tools/165-readme_flat_hooks_az_687deee8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Statusline Az](development/tools/170-readme_flat_statusline_az_fb5537d0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Styles Az](development/tools/174-readme_flat_styles_az_ef4a07bb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Workflows Az](development/tools/178-readme_flat_workflows_az_ec5961ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 24.6k | `development` |
+| [Backlog](development/tools/368-backlog_23d86cd2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/description-skill_aebb20d3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.cursor/skills/embedded-debug-tools/SKILL.md) | ⭐ 18 | `development` |
+| [Skill](development/tools/name-skill_f7505fd3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/python3-development/skills/shebangpython/SKILL.md) | ⭐ 18 | `development` |
 
 ### Investment (9 skills)
 
@@ -1245,13 +1299,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Commands](investment/050-commands_b3537439/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/commands.md) | ⭐ 24 | `investment` |
 | [Series Tickers](investment/051-series-tickers_fb5fea49/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/series-tickers.md) | ⭐ 24 | `investment` |
 
-### Other (1 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
+| [Captains Log](other/captains-log_fba4a3ac/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/captains-log.md) | ⭐ 143 | `other` |
 
-### Productivity (9 skills)
+### Productivity (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1264,6 +1319,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_34f178e8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-optimizer/SKILL.md) | ⭐ 10 | `productivity` |
 | [Skill](productivity/093-name-skill_1f0c7074/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/SKILL.md) | ⭐ 10 | `productivity` |
 | [Skill](productivity/093-name-skill_7d504321/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/multi-agent-brainstorming/SKILL.md) | 🔥 13.4k | `productivity` |
+| [Skill](productivity/name-skill_3e8d7700/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/SKILL.md) | ⭐ 143 | `productivity` |
+| [Crew Briefing](productivity/crew-briefing_1d7c26c5/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/crew-briefing.md) | ⭐ 143 | `productivity` |
+| [Quarterdeck Report](productivity/quarterdeck-report_5771e982/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/quarterdeck-report.md) | ⭐ 143 | `productivity` |
+| [Sailing Orders](productivity/sailing-orders_3a1003c2/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/admiralty-templates/sailing-orders.md) | ⭐ 143 | `productivity` |
 
 ### Research (33 skills)
 
@@ -1354,5 +1413,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 01:09:06 UTC*
+*Last updated: 2026-02-23 02:06:44 UTC*
 *Automatically maintained by SkillFlow*
