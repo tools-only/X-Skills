@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T18:32:54.390296",
+  "updated_at": "2026-02-23T19:30:08.699433",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17557,6 +17557,118 @@
       "source_url": "https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/git-review/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "7db1a822adb0b730779c8802dacb20f372370a55c6500b45e0a75d92e57c3dc2",
+      "source_path": "skills/bump-version/SKILL.md",
+      "source_repo": "jim60105/copilot-prompt",
+      "local_path": "data-analysis/226-name-skill_7db1a822",
+      "category": "data-analysis",
+      "name": "name-skill_7db1a822",
+      "indexed_at": "2026-02-23T19:30:06.661035",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-15T00:08:00+00:00",
+      "source_url": "https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/bump-version/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "cc7c396a7c3bb9fb53d5bbcc35ccb284d748e999030f254e940f13eb1220967d",
+      "source_path": "AGENTS.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/028-agents_cc7c396a",
+      "category": "development",
+      "name": "agents_cc7c396a",
+      "indexed_at": "2026-02-23T19:30:06.905040",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f6009185771065488ab7e0cbead002edb703cf727fafc1e22e731417912b1fac",
+      "source_path": "docs/docs/best-practices/selecting-an-mcp-gateway.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/955-selecting-an-mcp-gateway_f6009185",
+      "category": "development",
+      "name": "selecting-an-mcp-gateway_f6009185",
+      "indexed_at": "2026-02-23T19:30:07.243387",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md",
+      "display_name": "Selecting An Mcp Gateway",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "b15e19ebee0686afa9cc64da07baddddca26bb53ab23494eb2740a77ccc8d550",
+      "source_path": "llms/mcpgateway.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/tools/010-mcpgateway_b15e19eb",
+      "category": "development/tools",
+      "name": "mcpgateway_b15e19eb",
+      "indexed_at": "2026-02-23T19:30:07.681070",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md",
+      "display_name": "Mcpgateway",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "e7838fd3e00303e60f7da539207b3ab66cc415c29d48493eb80b73483fe148db",
+      "source_path": "docs/docs/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/050-index_e7838fd3",
+      "category": "development/devops",
+      "name": "index_e7838fd3",
+      "indexed_at": "2026-02-23T19:30:08.056980",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "87804a1c25699a3ca95208345b4b001d691fb44220e8416fc683ca34584fd8ad",
+      "source_path": "docs/docs/architecture/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/050-index_87804a1c",
+      "category": "development/devops",
+      "name": "index_87804a1c",
+      "indexed_at": "2026-02-23T19:30:08.229363",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/index.md",
+      "display_name": "Index",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "9cb406c356679df5f82cd799ee1ee7b2058d89588f8dd7d1c7a6237721c06713",
+      "source_path": "docs/docs/overview/features.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/367-features_9cb406c3",
+      "category": "development/devops",
+      "name": "features_9cb406c3",
+      "indexed_at": "2026-02-23T19:30:08.516625",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/features.md",
+      "display_name": "Features",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a1dd3e58b8bde688d3dad704744c9b8af4657dc18be452f59d6a12fa2f505981",
+      "source_path": "docs/docs/overview/index.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "commercial/102-index_a1dd3e58",
+      "category": "commercial",
+      "name": "index_a1dd3e58",
+      "indexed_at": "2026-02-23T19:30:08.699387",
+      "repo_stars": 3315,
+      "repo_updated_at": "2026-02-23T13:48:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/index.md",
+      "display_name": "Index",
+      "tags": "[\"commercial\"]"
     }
   ]
 }
