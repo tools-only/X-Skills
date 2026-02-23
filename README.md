@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1204 AI-powered skills** organized into 15 categories.
+A curated collection of **1035 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (10 skills)
-- **Automation/Workflow** (56 skills)
-- **Commercial** (66 skills)
-- **Communication** (36 skills)
-- **Content Creation** (94 skills)
-- **Daily Assistant** (40 skills)
-- **Data Analysis** (112 skills)
-- **Development** (422 skills)
-- **Development/Devops** (159 skills)
-- **Development/Testing** (51 skills)
-- **Development/Tools** (100 skills)
+- **Automation/Scripting** (7 skills)
+- **Automation/Workflow** (53 skills)
+- **Commercial** (61 skills)
+- **Communication** (30 skills)
+- **Content Creation** (80 skills)
+- **Daily Assistant** (39 skills)
+- **Data Analysis** (95 skills)
+- **Development** (335 skills)
+- **Development/Devops** (155 skills)
+- **Development/Testing** (24 skills)
+- **Development/Tools** (103 skills)
 - **Investment** (10 skills)
 - **Other** (1 skill)
-- **Productivity** (12 skills)
-- **Research** (35 skills)
+- **Productivity** (9 skills)
+- **Research** (33 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (10 skills)
+### Automation/Scripting (7 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -191,12 +191,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](automation/scripting/080-01-configuration_398bf016/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.2k | `automation` |
 | [Ecomode](automation/scripting/086-ecomode_f42e5d09/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/ecomode.md) | ⭐ 10 | `automation` |
 | [Fleet](automation/scripting/086-fleet_1a9c6299/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 13 | `automation` |
-| [Vulnerability Databases](automation/scripting/vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
-| [Skill](automation/scripting/name-skill_325a6813/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/wechat-article-fetcher/SKILL.md) | ⭐ 107 | `automation` |
-| [Basic](automation/scripting/basic_6f188b3f/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/basic.md) | ⭐ 107 | `automation` |
-| [Cli](automation/scripting/cli_2733f929/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/cli.md) | ⭐ 107 | `automation` |
+| [Vulnerability Databases](automation/scripting/086-vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (56 skills)
+### Automation/Workflow (53 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -231,33 +228,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontmatter Options](automation/workflow/133-frontmatter-options_58425037/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/skill-repair/references/frontmatter-options.md) | ⭐ 34 | `automation` |
 | [Cli Reference](automation/workflow/134-cli-reference_ef10a01a/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-utilities/skills/youtube-research/references/cli-reference.md) | ⭐ 34 | `automation` |
 | [Readme Flat Skills Created](automation/workflow/138-readme_flat_skills_created_e05fd193/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_CREATED.md) | 🔥 24.5k | `automation` |
-| [Skill](automation/workflow/name-skill_1209e1d0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-history-summarizer/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_f0b22b17/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cd-pipeline-generator/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_790d366d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ci-pipeline-synthesizer/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_af396e21/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/critical-interval-security-checker/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_9d2db4ac/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-smell-detector/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_7a87c712/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-difference-analyzer/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_c200f5ba/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/markdown-document-structurer/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_70f25ca2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_25b1e455/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-failure-explainer/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_0c5cc123/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-skeleton-generator/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_ea28e9c9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-consistency-checker/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_6f6be860/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-coverage-checker/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_529d2618/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-property-inference/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_9de1f003/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_e18f1be4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-reasoning-verifier/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_920f39fb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-spec-code-mapper/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_cc708543/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-pattern-matcher/SKILL.md) | ⭐ 10 | `automation` |
-| [Interval Analysis](automation/workflow/interval_analysis_38a233b2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-difference-analyzer/references/interval_analysis.md) | ⭐ 10 | `automation` |
-| [Isabelle Lemmas](automation/workflow/isabelle_lemmas_b858c64e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/references/isabelle_lemmas.md) | ⭐ 10 | `automation` |
-| [Formal Tools](automation/workflow/formal_tools_dea54acb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/references/formal_tools.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_9d0c49b9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/config-consistency-checker/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_e8943194/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/library-for-proof-advisor/SKILL.md) | ⭐ 10 | `automation` |
-| [Skill](automation/workflow/name-skill_2ebf59d5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-migration-assistant/SKILL.md) | ⭐ 10 | `automation` |
-| [Test Update Strategies](automation/workflow/test-update-strategies_e15c11bb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-guided-regression-test-update/references/test-update-strategies.md) | ⭐ 10 | `automation` |
-| [Failure Types](automation/workflow/failure_types_866fad7c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-bug-detector/references/failure_types.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_1209e1d0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-history-summarizer/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_f0b22b17/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cd-pipeline-generator/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_790d366d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ci-pipeline-synthesizer/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_af396e21/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/critical-interval-security-checker/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_9d2db4ac/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-smell-detector/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_7a87c712/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-difference-analyzer/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_c200f5ba/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/markdown-document-structurer/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_70f25ca2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_25b1e455/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-failure-explainer/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_0c5cc123/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-skeleton-generator/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_ea28e9c9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-consistency-checker/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_6f6be860/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-coverage-checker/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_529d2618/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-property-inference/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_9de1f003/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_e18f1be4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-reasoning-verifier/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_920f39fb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-spec-code-mapper/SKILL.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_cc708543/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-pattern-matcher/SKILL.md) | ⭐ 10 | `automation` |
+| [Interval Analysis](automation/workflow/133-interval_analysis_38a233b2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-difference-analyzer/references/interval_analysis.md) | ⭐ 10 | `automation` |
+| [Isabelle Lemmas](automation/workflow/134-isabelle_lemmas_b858c64e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/references/isabelle_lemmas.md) | ⭐ 10 | `automation` |
+| [Formal Tools](automation/workflow/135-formal_tools_dea54acb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/references/formal_tools.md) | ⭐ 10 | `automation` |
+| [Skill](automation/workflow/002-name-skill_d13fa0ae/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/design-orchestration/SKILL.md) | 🔥 13.4k | `automation` |
+| [Readme Flat Skills Updated](automation/workflow/135-readme_flat_skills_updated_7e94df01/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 24.4k | `automation` |
 
-### Commercial (66 skills)
+### Commercial (61 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -305,30 +299,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Style Reference](commercial/388-style-reference_1406cd42/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-content/skills/image-generation/references/style-reference.md) | ⭐ 34 | `commercial` |
 | [Exceptions](commercial/249-exceptions_3dbd3b44/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/exceptions.md) | ⭐ 106 | `commercial` |
 | [Cooldown Enforcement](commercial/379-cooldown-enforcement_6206b24f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/development/cooldown-enforcement.md) | 🔥 24.5k | `commercial` |
-| [Skill](commercial/name-skill_1689a2dc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ambiguity-detector/SKILL.md) | ⭐ 10 | `commercial` |
-| [Skill](commercial/name-skill_4de8311f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/assertion-synthesizer/SKILL.md) | ⭐ 10 | `commercial` |
-| [Skill](commercial/name-skill_d32d6cde/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-comment-generator/SKILL.md) | ⭐ 10 | `commercial` |
-| [Skill](commercial/name-skill_7a71ebfa/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/SKILL.md) | ⭐ 10 | `commercial` |
-| [Skill](commercial/name-skill_cf7a2136/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/scenario-generator/SKILL.md) | ⭐ 10 | `commercial` |
-| [Abstract Domains](commercial/abstract_domains_5d58dce8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-domain-explorer/references/abstract_domains.md) | ⭐ 10 | `commercial` |
-| [Loop Invariants](commercial/loop_invariants_62b05ab3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/loop_invariants.md) | ⭐ 10 | `commercial` |
-| [Smell Patterns](commercial/smell-patterns_372f30a8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-smell-detector/references/smell-patterns.md) | ⭐ 10 | `commercial` |
-| [Conflict Patterns](commercial/conflict_patterns_b5ce72e0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/references/conflict_patterns.md) | ⭐ 10 | `commercial` |
-| [Selection Guide](commercial/selection_guide_aae206f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-pattern-suggestor/references/selection_guide.md) | ⭐ 10 | `commercial` |
-| [Smell Catalog](commercial/smell_catalog_2cd2eff1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-smell-detector/references/smell_catalog.md) | ⭐ 10 | `commercial` |
-| [Invariant Patterns](commercial/invariant-patterns_e28ad843/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/invariant-inference/references/invariant-patterns.md) | ⭐ 10 | `commercial` |
-| [Architecture Patterns](commercial/architecture_patterns_abdb78e2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/references/architecture_patterns.md) | ⭐ 10 | `commercial` |
-| [Isabelle Syntax](commercial/isabelle_syntax_ba669e84/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/references/isabelle_syntax.md) | ⭐ 10 | `commercial` |
-| [Platform Guides](commercial/platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
-| [Distributed Patterns](commercial/distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
-| [Skill](commercial/name-skill_323b36d0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/integration-test-generator/SKILL.md) | ⭐ 10 | `commercial` |
-| [Skill](commercial/name-skill_c7627ced/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/template-code-generator/SKILL.md) | ⭐ 10 | `commercial` |
-| [Abstract Domains](commercial/abstract_domains_c803ef07/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-state-analyzer/references/abstract_domains.md) | ⭐ 10 | `commercial` |
-| [Llm Patterns](commercial/llm_patterns_2c7db9c0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/directed-test-input-generator/references/llm_patterns.md) | ⭐ 10 | `commercial` |
-| [Documentation Templates](commercial/documentation-templates_3a81ef3d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-case-documentation/references/documentation-templates.md) | ⭐ 10 | `commercial` |
-| [Test Patterns](commercial/test_patterns_a6d4e028/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/unit-test-generator/references/test_patterns.md) | ⭐ 10 | `commercial` |
+| [Skill](commercial/210-name-skill_1689a2dc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ambiguity-detector/SKILL.md) | ⭐ 10 | `commercial` |
+| [Skill](commercial/210-name-skill_4de8311f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/assertion-synthesizer/SKILL.md) | ⭐ 10 | `commercial` |
+| [Skill](commercial/210-name-skill_d32d6cde/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-comment-generator/SKILL.md) | ⭐ 10 | `commercial` |
+| [Skill](commercial/210-name-skill_7a71ebfa/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/SKILL.md) | ⭐ 10 | `commercial` |
+| [Skill](commercial/210-name-skill_cf7a2136/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/scenario-generator/SKILL.md) | ⭐ 10 | `commercial` |
+| [Abstract Domains](commercial/368-abstract_domains_5d58dce8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-domain-explorer/references/abstract_domains.md) | ⭐ 10 | `commercial` |
+| [Loop Invariants](commercial/369-loop_invariants_62b05ab3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/loop_invariants.md) | ⭐ 10 | `commercial` |
+| [Smell Patterns](commercial/370-smell-patterns_372f30a8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-smell-detector/references/smell-patterns.md) | ⭐ 10 | `commercial` |
+| [Conflict Patterns](commercial/371-conflict_patterns_b5ce72e0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/references/conflict_patterns.md) | ⭐ 10 | `commercial` |
+| [Selection Guide](commercial/372-selection_guide_aae206f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-pattern-suggestor/references/selection_guide.md) | ⭐ 10 | `commercial` |
+| [Smell Catalog](commercial/373-smell_catalog_2cd2eff1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-smell-detector/references/smell_catalog.md) | ⭐ 10 | `commercial` |
+| [Invariant Patterns](commercial/374-invariant-patterns_e28ad843/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/invariant-inference/references/invariant-patterns.md) | ⭐ 10 | `commercial` |
+| [Architecture Patterns](commercial/375-architecture_patterns_abdb78e2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/references/architecture_patterns.md) | ⭐ 10 | `commercial` |
+| [Isabelle Syntax](commercial/376-isabelle_syntax_ba669e84/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/references/isabelle_syntax.md) | ⭐ 10 | `commercial` |
+| [Platform Guides](commercial/377-platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
+| [Distributed Patterns](commercial/378-distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
+| [Step3 Customer Needs](commercial/step3-customer-needs_f94832af/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step3-customer-needs.md) | ⭐ 10 | `commercial` |
 
-### Communication (36 skills)
+### Communication (30 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -349,27 +338,21 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tool Reference](communication/253-tool-reference_51413bad/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-memory/skills/past-conversations/references/tool-reference.md) | ⭐ 34 | `communication` |
 | [Skill](communication/127-name-skill_933b4179/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/workflow-builder/SKILL.md) | ⭐ 13 | `communication` |
 | [Agent](communication/253-agent_dcf1a7b4/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/workflows/email-steward/AGENT.md) | ⭐ 13 | `communication` |
-| [Skill](communication/name-skill_6ad0ed8f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-design-assistant/SKILL.md) | ⭐ 10 | `communication` |
-| [Ambiguity Patterns](communication/ambiguity_patterns_6fbc78bd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ambiguity-detector/references/ambiguity_patterns.md) | ⭐ 10 | `communication` |
-| [Best Practices](communication/best-practices_b5adde16/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-design-assistant/references/best-practices.md) | ⭐ 10 | `communication` |
-| [Mutation Operators](communication/mutation_operators_eee9b805/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/references/mutation_operators.md) | ⭐ 10 | `communication` |
-| [Time Intervals](communication/time_intervals_ff219d1f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/critical-interval-security-checker/references/time_intervals.md) | ⭐ 10 | `communication` |
-| [Refactoring Strategies](communication/refactoring_strategies_3786b869/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-smell-detector/references/refactoring_strategies.md) | ⭐ 10 | `communication` |
-| [Openapi Patterns](communication/openapi-patterns_7c7d0e06/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/references/openapi-patterns.md) | ⭐ 10 | `communication` |
-| [Python Patterns](communication/python-patterns_2f31991f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/references/python-patterns.md) | ⭐ 10 | `communication` |
-| [Constraint Patterns](communication/constraint_patterns_3f4286c8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/nl-to-constraints/references/constraint_patterns.md) | ⭐ 10 | `communication` |
-| [Best Practices](communication/best_practices_3273e09c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/best_practices.md) | ⭐ 10 | `communication` |
-| [Security Events](communication/security_events_e42caca5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/security_events.md) | ⭐ 10 | `communication` |
-| [Question Templates](communication/question_templates_4e94bf3d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ambiguity-detector/references/question_templates.md) | ⭐ 10 | `communication` |
-| [Openapi Template](communication/openapi-template_49271ae9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-design-assistant/references/openapi-template.md) | ⭐ 10 | `communication` |
-| [Language Patterns](communication/language_patterns_c52b5fd8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-translation/references/language_patterns.md) | ⭐ 10 | `communication` |
-| [Violation Patterns](communication/violation-patterns_5c89d093/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/references/violation-patterns.md) | ⭐ 10 | `communication` |
-| [Change Patterns](communication/change_patterns_f39b2366/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/java-regression-test-generator/references/change_patterns.md) | ⭐ 10 | `communication` |
-| [Examples](communication/examples_f0bb767b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-enhancer/references/examples.md) | ⭐ 10 | `communication` |
-| [Tlaplus Syntax](communication/tlaplus_syntax_26c65828/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/tlaplus_syntax.md) | ⭐ 10 | `communication` |
-| [Java Jml](communication/java_jml_3c509d7a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-reasoning-verifier/references/java_jml.md) | ⭐ 10 | `communication` |
+| [Skill](communication/127-name-skill_6ad0ed8f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-design-assistant/SKILL.md) | ⭐ 10 | `communication` |
+| [Ambiguity Patterns](communication/253-ambiguity_patterns_6fbc78bd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/ambiguity-detector/references/ambiguity_patterns.md) | ⭐ 10 | `communication` |
+| [Best Practices](communication/254-best-practices_b5adde16/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-design-assistant/references/best-practices.md) | ⭐ 10 | `communication` |
+| [Mutation Operators](communication/255-mutation_operators_eee9b805/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/references/mutation_operators.md) | ⭐ 10 | `communication` |
+| [Time Intervals](communication/256-time_intervals_ff219d1f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/critical-interval-security-checker/references/time_intervals.md) | ⭐ 10 | `communication` |
+| [Refactoring Strategies](communication/257-refactoring_strategies_3786b869/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-smell-detector/references/refactoring_strategies.md) | ⭐ 10 | `communication` |
+| [Openapi Patterns](communication/258-openapi-patterns_7c7d0e06/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/references/openapi-patterns.md) | ⭐ 10 | `communication` |
+| [Python Patterns](communication/259-python-patterns_2f31991f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/references/python-patterns.md) | ⭐ 10 | `communication` |
+| [Constraint Patterns](communication/260-constraint_patterns_3f4286c8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/nl-to-constraints/references/constraint_patterns.md) | ⭐ 10 | `communication` |
+| [Best Practices](communication/261-best_practices_3273e09c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/best_practices.md) | ⭐ 10 | `communication` |
+| [Security Events](communication/262-security_events_e42caca5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/security_events.md) | ⭐ 10 | `communication` |
+| [Todowrite Usage Guide](communication/253-todowrite-usage-guide_04def9e0/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/todowrite-usage-guide.md) | ⭐ 600 | `communication` |
+| [Crm Example](communication/crm-example_9c0fce33/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/crm-example.md) | ⭐ 10 | `communication` |
 
-### Content Creation (94 skills)
+### Content Creation (80 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -431,44 +414,30 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_15483b26/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/cfb-data/SKILL.md) | ⭐ 24 | `content creation` |
 | [Skill](content-creation/049-name-skill_4213150f/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/sports-news/SKILL.md) | ⭐ 24 | `content creation` |
 | [Skill](content-creation/049-name-skill_e26dd851/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/create-great-prompts/SKILL.md) | ⭐ 13 | `content creation` |
-| [Skill](content-creation/name-skill_db245f9b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/git-master/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_35f1170f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_24937c5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-trace-summarizer/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_8609e66e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/reference-searcher/SKILL.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_730e35d5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/strategic-planner/SKILL.md) | ⭐ 10 | `content creation` |
-| [Resolution Strategies](content-creation/resolution_strategies_56d0b692/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/references/resolution_strategies.md) | ⭐ 10 | `content creation` |
-| [Python Deprecations](content-creation/python_deprecations_ce2aa423/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/references/python_deprecations.md) | ⭐ 10 | `content creation` |
-| [Coq Lemmas](content-creation/coq_lemmas_7f1b2e55/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/references/coq_lemmas.md) | ⭐ 10 | `content creation` |
-| [Proof Patterns](content-creation/proof_patterns_f7f352c2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/references/proof_patterns.md) | ⭐ 10 | `content creation` |
-| [Failure Patterns](content-creation/failure_patterns_47486de5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-failure-explainer/references/failure_patterns.md) | ⭐ 10 | `content creation` |
-| [Coq Tactics](content-creation/coq_tactics_1b27841a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-skeleton-generator/references/coq_tactics.md) | ⭐ 10 | `content creation` |
-| [Tactic Interpretation](content-creation/tactic_interpretation_6843b67e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-trace-summarizer/references/tactic_interpretation.md) | ⭐ 10 | `content creation` |
-| [Common Violations](content-creation/common_violations_08c1ab71/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-specification-consistency-checker/references/common_violations.md) | ⭐ 10 | `content creation` |
-| [Ambiguity Resolution](content-creation/ambiguity_resolution_054c3383/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/references/ambiguity_resolution.md) | ⭐ 10 | `content creation` |
-| [Ctl Patterns](content-creation/ctl_patterns_c1f0cf77/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/references/ctl_patterns.md) | ⭐ 10 | `content creation` |
-| [Cwe Patterns](content-creation/cwe_patterns_ffe73f52/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-vulnerability-detector/references/cwe_patterns.md) | ⭐ 10 | `content creation` |
-| [Coq Tactics](content-creation/coq_tactics_d29b3b60/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tactic-suggestion-assistant/references/coq_tactics.md) | ⭐ 10 | `content creation` |
-| [Proof Patterns](content-creation/proof_patterns_877a5e99/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tactic-suggestion-assistant/references/proof_patterns.md) | ⭐ 10 | `content creation` |
-| [Skill](content-creation/name-skill_0a22b0dc/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/seedance-video-creator/SKILL.md) | ⭐ 107 | `content creation` |
-| [Example Prompts](content-creation/example-prompts_db8ccd60/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/seedance-video-creator/examples/example-prompts.md) | ⭐ 107 | `content creation` |
-| [Wechat Html Structure](content-creation/wechat_html_structure_067bc2a7/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/wechat-article-fetcher/references/wechat_html_structure.md) | ⭐ 107 | `content creation` |
-| [Skill](content-creation/name-skill_05b73da5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tactic-suggestion-assistant/SKILL.md) | ⭐ 10 | `content creation` |
-| [Verification Guide](content-creation/verification_guide_81fa2c76/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cpp-to-dafny-translator/references/verification_guide.md) | ⭐ 10 | `content creation` |
-| [Coq Patterns](content-creation/coq_patterns_b9484ca0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/formal-spec-generator/references/coq_patterns.md) | ⭐ 10 | `content creation` |
-| [Coq Library](content-creation/coq_library_031ded7e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/library-for-proof-advisor/references/coq_library.md) | ⭐ 10 | `content creation` |
-| [Examples](content-creation/examples_fa794db1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/library-for-proof-advisor/references/examples.md) | ⭐ 10 | `content creation` |
-| [Document Patterns](content-creation/document-patterns_1d444a57/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/markdown-document-structurer/references/document-patterns.md) | ⭐ 10 | `content creation` |
-| [Stdlib Mappings](content-creation/stdlib_mappings_0be04a3f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-level-code-translator/references/stdlib_mappings.md) | ⭐ 10 | `content creation` |
-| [Verification Patterns](content-creation/verification_patterns_9d19e113/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-correctness-prover/references/verification_patterns.md) | ⭐ 10 | `content creation` |
-| [Examples](content-creation/examples_c8eabb18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-skeleton-generator/references/examples.md) | ⭐ 10 | `content creation` |
-| [Isabelle Tactics](content-creation/isabelle_tactics_71d07202/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-skeleton-generator/references/isabelle_tactics.md) | ⭐ 10 | `content creation` |
-| [Summarization Patterns](content-creation/summarization_patterns_75d5b925/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-trace-summarizer/references/summarization_patterns.md) | ⭐ 10 | `content creation` |
-| [Common Patterns](content-creation/common_patterns_abb700ad/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-property-inference/references/common_patterns.md) | ⭐ 10 | `content creation` |
-| [Hdl Patterns](content-creation/hdl_patterns_805b7faf/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-specification-consistency-checker/references/hdl_patterns.md) | ⭐ 10 | `content creation` |
-| [Ltl Patterns](content-creation/ltl_patterns_a50931bc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/references/ltl_patterns.md) | ⭐ 10 | `content creation` |
-| [Isabelle Tactics](content-creation/isabelle_tactics_d9321181/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tactic-suggestion-assistant/references/isabelle_tactics.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_db245f9b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/git-master/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_35f1170f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_24937c5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-trace-summarizer/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_8609e66e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/reference-searcher/SKILL.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_730e35d5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/strategic-planner/SKILL.md) | ⭐ 10 | `content creation` |
+| [Resolution Strategies](content-creation/353-resolution_strategies_56d0b692/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/references/resolution_strategies.md) | ⭐ 10 | `content creation` |
+| [Python Deprecations](content-creation/354-python_deprecations_ce2aa423/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/references/python_deprecations.md) | ⭐ 10 | `content creation` |
+| [Coq Lemmas](content-creation/355-coq_lemmas_7f1b2e55/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/references/coq_lemmas.md) | ⭐ 10 | `content creation` |
+| [Proof Patterns](content-creation/356-proof_patterns_f7f352c2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lemma-discovery-assistant/references/proof_patterns.md) | ⭐ 10 | `content creation` |
+| [Failure Patterns](content-creation/357-failure_patterns_47486de5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-failure-explainer/references/failure_patterns.md) | ⭐ 10 | `content creation` |
+| [Coq Tactics](content-creation/358-coq_tactics_1b27841a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-skeleton-generator/references/coq_tactics.md) | ⭐ 10 | `content creation` |
+| [Tactic Interpretation](content-creation/359-tactic_interpretation_6843b67e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-trace-summarizer/references/tactic_interpretation.md) | ⭐ 10 | `content creation` |
+| [Common Violations](content-creation/360-common_violations_08c1ab71/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-specification-consistency-checker/references/common_violations.md) | ⭐ 10 | `content creation` |
+| [Ambiguity Resolution](content-creation/361-ambiguity_resolution_054c3383/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/references/ambiguity_resolution.md) | ⭐ 10 | `content creation` |
+| [Ctl Patterns](content-creation/362-ctl_patterns_c1f0cf77/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/references/ctl_patterns.md) | ⭐ 10 | `content creation` |
+| [Cwe Patterns](content-creation/363-cwe_patterns_ffe73f52/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-vulnerability-detector/references/cwe_patterns.md) | ⭐ 10 | `content creation` |
+| [Coq Tactics](content-creation/358-coq_tactics_d29b3b60/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tactic-suggestion-assistant/references/coq_tactics.md) | ⭐ 10 | `content creation` |
+| [Proof Patterns](content-creation/356-proof_patterns_877a5e99/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tactic-suggestion-assistant/references/proof_patterns.md) | ⭐ 10 | `content creation` |
+| [Skill](content-creation/049-name-skill_4759d125/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/LLM/SKILL.md) | ⭐ 600 | `content creation` |
+| [Skill](content-creation/049-name-skill_13b3ef93/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/TTS/SKILL.md) | ⭐ 600 | `content creation` |
+| [Skill](content-creation/049-name-skill_7e56cadf/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/video-generation/SKILL.md) | ⭐ 600 | `content creation` |
+| [Skill](content-creation/049-name-skill_3b4f2543/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/web-reader/SKILL.md) | ⭐ 600 | `content creation` |
 
-### Daily Assistant (40 skills)
+### Daily Assistant (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -502,18 +471,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [Update Model](daily-assistant/262-update-model_2796dd59/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/update-model.md) | ⭐ 13 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_1882d3aa/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/librarian/SKILL.md) | ⭐ 13 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_76f22eb9/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/skills/smart-delegation/SKILL.md) | ⭐ 13 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_c007a5d0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/SKILL.md) | ⭐ 10 | `daily assistant` |
-| [Skill](daily-assistant/name-skill_90ef8c73/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/SKILL.md) | ⭐ 10 | `daily assistant` |
-| [Verification Languages](daily-assistant/verification_languages_11c5b1da/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/verification_languages.md) | ⭐ 10 | `daily assistant` |
-| [Build Systems](daily-assistant/build-systems_4f54dc2b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/references/build-systems.md) | ⭐ 10 | `daily assistant` |
-| [Kubernetes Patterns](daily-assistant/kubernetes_patterns_551806a2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/containerization-assistant/references/kubernetes_patterns.md) | ⭐ 10 | `daily assistant` |
-| [Java Edge Cases](daily-assistant/java_edge_cases_f163cab6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/java_edge_cases.md) | ⭐ 10 | `daily assistant` |
-| [Clarification Patterns](daily-assistant/clarification_patterns_8eea096a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/clarification_patterns.md) | ⭐ 10 | `daily assistant` |
-| [Requirement Patterns](daily-assistant/requirement_patterns_5931ff4c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/requirement_patterns.md) | ⭐ 10 | `daily assistant` |
-| [Translation Patterns](daily-assistant/translation_patterns_695cb645/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/c-cpp-to-lean4-translator/references/translation_patterns.md) | ⭐ 10 | `daily assistant` |
-| [Memory Patterns](daily-assistant/memory_patterns_e9b6ab05/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cpp-to-dafny-translator/references/memory_patterns.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_c007a5d0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Skill](daily-assistant/032-name-skill_90ef8c73/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/SKILL.md) | ⭐ 10 | `daily assistant` |
+| [Verification Languages](daily-assistant/262-verification_languages_11c5b1da/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/verification_languages.md) | ⭐ 10 | `daily assistant` |
+| [Build Systems](daily-assistant/263-build-systems_4f54dc2b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/references/build-systems.md) | ⭐ 10 | `daily assistant` |
+| [Kubernetes Patterns](daily-assistant/264-kubernetes_patterns_551806a2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/containerization-assistant/references/kubernetes_patterns.md) | ⭐ 10 | `daily assistant` |
+| [Java Edge Cases](daily-assistant/265-java_edge_cases_f163cab6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/java_edge_cases.md) | ⭐ 10 | `daily assistant` |
+| [Clarification Patterns](daily-assistant/266-clarification_patterns_8eea096a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/clarification_patterns.md) | ⭐ 10 | `daily assistant` |
+| [Requirement Patterns](daily-assistant/267-requirement_patterns_5931ff4c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/requirement_patterns.md) | ⭐ 10 | `daily assistant` |
+| [Step1 Customer Problems](daily-assistant/step1-customer-problems_9c1de879/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (112 skills)
+### Data Analysis (95 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -589,48 +557,31 @@ ls ~/.claude/skills/patch-research-agent/
 | [Advanced](data-analysis/334-advanced_8b673c79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/advanced.md) | ⭐ 106 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_25901d75/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/quickstart.md) | ⭐ 858 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_15ac6ffa/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
-| [Skill](data-analysis/name-skill_e9b319b6/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 107 | `data analysis` |
-| [Skill](data-analysis/name-skill_cd720ae1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_cdcc854e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_b0a4f9f8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_836250f1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/invariant-inference/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_70c3d5a4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/metamorphic-property-extractor/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_e195bd17/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/nl-to-constraints/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_bba613c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-java-code/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_714a343b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-dafny-translator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_6edd9188/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/reproduction-trace-instrumenter/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_7bb11b2b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-summarizer/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_e98d823e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-specification-consistency-checker/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_801d35ad/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_30b268f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/spring-mvc-to-boot-migrator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_23dd6bfa/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-model-reduction/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Function Contracts](data-analysis/function_contracts_b53b7484/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/function_contracts.md) | ⭐ 10 | `data analysis` |
-| [Mutation Analysis Report](data-analysis/mutation_analysis_report_a17c88c6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/assets/mutation_analysis_report.md) | ⭐ 10 | `data analysis` |
-| [Vulnerability Patterns](data-analysis/vulnerability_patterns_cbd37ad3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/critical-interval-security-checker/references/vulnerability_patterns.md) | ⭐ 10 | `data analysis` |
-| [Bug Patterns](data-analysis/bug_patterns_8f60e2c0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-bug-detector/references/bug_patterns.md) | ⭐ 10 | `data analysis` |
-| [Semantic Analysis](data-analysis/semantic_analysis_f2c05cc4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/semantic_analysis.md) | ⭐ 10 | `data analysis` |
-| [Detection Patterns](data-analysis/detection_patterns_888fe31a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/references/detection_patterns.md) | ⭐ 10 | `data analysis` |
-| [Extraction Patterns](data-analysis/extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_7d23586f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/control-flow-abstraction-generator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_ad52dc3c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-profiling-performance-analyzer/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_3c330478/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/req-to-test/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_c4a90290/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_b0ee3f87/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/system-diagram-generator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_0ca9441e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-deduplicator/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Skill](data-analysis/name-skill_1bcd61d7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/trace-collection-assistant/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Comment Examples](data-analysis/comment_examples_b57a2f09/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-comment-generator/references/comment_examples.md) | ⭐ 10 | `data analysis` |
-| [Boundary Indicators](data-analysis/boundary-indicators_c9ead61c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/references/boundary-indicators.md) | ⭐ 10 | `data analysis` |
-| [Cfg Patterns](data-analysis/cfg_patterns_271320c3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/control-flow-abstraction-generator/references/cfg_patterns.md) | ⭐ 10 | `data analysis` |
-| [Properties](data-analysis/properties_197486eb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/metamorphic-test-generator/references/properties.md) | ⭐ 10 | `data analysis` |
-| [Type Mappings](data-analysis/type_mappings_89326bbf/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-lean4-translator/references/type_mappings.md) | ⭐ 10 | `data analysis` |
-| [Mermaid Patterns](data-analysis/mermaid-patterns_0c4baeb4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/system-diagram-generator/references/mermaid-patterns.md) | ⭐ 10 | `data analysis` |
-| [Code Patterns](data-analysis/code_patterns_aa9f6821/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/template-code-generator/references/code_patterns.md) | ⭐ 10 | `data analysis` |
-| [Deduplication Methodology](data-analysis/deduplication_methodology_15c4db67/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-deduplicator/references/deduplication_methodology.md) | ⭐ 10 | `data analysis` |
-| [Framework Guides](data-analysis/framework_guides_4447fd19/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-suite-prioritizer/references/framework_guides.md) | ⭐ 10 | `data analysis` |
-| [Prioritization Algorithms](data-analysis/prioritization_algorithms_f10834d3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-suite-prioritizer/references/prioritization_algorithms.md) | ⭐ 10 | `data analysis` |
-| [Reduction Techniques](data-analysis/reduction_techniques_662307c8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-model-reduction/references/reduction_techniques.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e9b319b6/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 107 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cd720ae1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_cdcc854e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_b0a4f9f8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/conflict-analyzer/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_836250f1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/invariant-inference/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_70c3d5a4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/metamorphic-property-extractor/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e195bd17/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/nl-to-constraints/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_bba613c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-java-code/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_714a343b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-dafny-translator/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_6edd9188/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/reproduction-trace-instrumenter/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_7bb11b2b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-summarizer/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_e98d823e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-specification-consistency-checker/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_801d35ad/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_30b268f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/spring-mvc-to-boot-migrator/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_23dd6bfa/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-model-reduction/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Function Contracts](data-analysis/478-function_contracts_b53b7484/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/function_contracts.md) | ⭐ 10 | `data analysis` |
+| [Mutation Analysis Report](data-analysis/479-mutation_analysis_report_a17c88c6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/assets/mutation_analysis_report.md) | ⭐ 10 | `data analysis` |
+| [Vulnerability Patterns](data-analysis/480-vulnerability_patterns_cbd37ad3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/critical-interval-security-checker/references/vulnerability_patterns.md) | ⭐ 10 | `data analysis` |
+| [Bug Patterns](data-analysis/481-bug_patterns_8f60e2c0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-bug-detector/references/bug_patterns.md) | ⭐ 10 | `data analysis` |
+| [Semantic Analysis](data-analysis/482-semantic_analysis_f2c05cc4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/semantic_analysis.md) | ⭐ 10 | `data analysis` |
+| [Detection Patterns](data-analysis/483-detection_patterns_888fe31a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/references/detection_patterns.md) | ⭐ 10 | `data analysis` |
+| [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
+| [Microer Example](data-analysis/microer-example_a24fc591/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/microer-example.md) | ⭐ 10 | `data analysis` |
 
-### Development (422 skills)
+### Development (335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -811,253 +762,166 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/028-agents_fa9578ce/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/AGENTS.md) | ⭐ 106 | `development` |
 | [Warp](development/2871-warp_d095774e/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/humanizer/WARP.md) | ⭐ 858 | `development` |
 | [Claude](development/140-claude_560359e5/) | [frmoretto/hardstop](https://raw.githubusercontent.com/frmoretto/hardstop/main/CLAUDE.md) | ⭐ 16 | `development` |
-| [Readme Zh](development/readme-zh_1d655b75/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/README-zh.md) | ⭐ 10 | `development` |
-| [Deployment](development/deployment_c894faca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/DEPLOYMENT.md) | ⭐ 10 | `development` |
-| [Github Pages Setup](development/github-pages-setup_3ea86591/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/GITHUB-PAGES-SETUP.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_4cb1e073/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-domain-explorer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_41240558/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_8aaa9d19/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-state-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_d131277b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-trace-summarizer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_cf753f0e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-documentation-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_552fdaca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavior-preservation-checker/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_039c7923/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_3e035e64/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bisect-aware-instrumentation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_719e8f6a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-localization/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9f69aa96/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-to-patch-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_3e1e46b9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/c-cpp-to-lean4-translator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_2ec9c676/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-change-summarizer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_1088e1e6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-completion-semantic-constraints/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9f522f28/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-pattern-extractor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_e03f470f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-refactoring-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_34483783/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-repair-generation-combo/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_f7f5b1b1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-review-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_0bec5f8f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-search-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9232fa36/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-summarizer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_5ec17124/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-translation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9df9a74d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_09a577ca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dead-code-removal/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b1cc8add/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dependency-resolver/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_e3f28d67/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-pattern-suggestor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_97859a59/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_74dcf989/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/exploitability-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_2ea0b7b3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/failure-oriented-instrumentation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_4273f85a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/formal-spec-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_6e888f33/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/frontend-ui-ux/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_ab3b61e3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/function-class-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_c38f99c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/fuzzing-input-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_0c83b772/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/git-bisect-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_6d4ef9c3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/github-triage/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_abb965fe/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/imperative-to-coq-model-extractor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_4c5c35eb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-java-programmer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_75bac2fd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-contract-verifier/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_17cb7ac9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/issue-report-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b5f041fc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lsp-refactoring/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_e30ce380/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/model-guided-code-repair/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_dc35d689/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/modular-code-enforcement/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7257094b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-level-code-translator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_84894089/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/playwright-automation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_6fac8170/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_85d7bf18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-refactoring-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_081380af/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-extractor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_e246bb36/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-repo-quickstart/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_36c47dfe/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-lean4-translator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_97af31c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/readme-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b885c309/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/release-change-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_6687e21f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/release-notes-writer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_c74442e6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_382004ca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-comparison-reporter/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_45ae72f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-enhancer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_328e3976/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-summary/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b1cae492/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_0747239a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/runtime-error-explainer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_647ce833/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-patch-advisor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_725edb80/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_8977aa19/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-bug-detector/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_a99fc336/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/session-handoff/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7d7e61cb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smart-mutation-operator-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_d6ab2ea2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smv-model-extractor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7c185aa2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7fdc7c5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b2bb0fdd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-vulnerability-detector/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_53e00a5f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_11102597/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/szz-bug-identifier/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_af3b8b54/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/technical-debt-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_635bd5c1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_eed33985/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-guided-code-repair/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b8705431/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_e113998e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_28a1c731/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_00f2dfd7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-pseudocode-extractor/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_f78acac1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Api Reference](development/api_reference_47f35914/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-domain-explorer/references/api_reference.md) | ⭐ 10 | `development` |
-| [Abstract Interpretation](development/abstract_interpretation_dc1d8434/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-trace-summarizer/references/abstract_interpretation.md) | ⭐ 10 | `development` |
-| [Frama C Integration](development/frama_c_integration_3d5496e9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/acsl-annotation-assistant/references/frama_c_integration.md) | ⭐ 10 | `development` |
-| [Comparison Techniques](development/comparison_techniques_00532933/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavior-preservation-checker/references/comparison_techniques.md) | ⭐ 10 | `development` |
-| [Difference Patterns](development/difference_patterns_003cae23/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavior-preservation-checker/references/difference_patterns.md) | ⭐ 10 | `development` |
-| [Exit Codes](development/exit_codes_0f6c6de3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bisect-aware-instrumentation/references/exit_codes.md) | ⭐ 10 | `development` |
-| [Git Bisect Guide](development/git_bisect_guide_24b6e3a4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bisect-aware-instrumentation/references/git_bisect_guide.md) | ⭐ 10 | `development` |
-| [Style Guides](development/style_guides_958e560a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-comment-generator/references/style_guides.md) | ⭐ 10 | `development` |
-| [Refactoring Patterns](development/refactoring-patterns_3ffdddfd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-smell-detector/references/refactoring-patterns.md) | ⭐ 10 | `development` |
-| [Cve Analysis](development/cve_analysis_66dbec59/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/references/cve_analysis.md) | ⭐ 10 | `development` |
-| [Language Guide](development/language_guide_46ebc092/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/references/language_guide.md) | ⭐ 10 | `development` |
-| [Reachability Patterns](development/reachability_patterns_aaeeebc9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/references/reachability_patterns.md) | ⭐ 10 | `development` |
-| [Action Guidelines](development/action_guidelines_db08b980/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/references/action_guidelines.md) | ⭐ 10 | `development` |
-| [Risk Scoring](development/risk_scoring_b916321e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/references/risk_scoring.md) | ⭐ 10 | `development` |
-| [Java Deprecations](development/java_deprecations_14ed814d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/references/java_deprecations.md) | ⭐ 10 | `development` |
-| [Javascript Deprecations](development/javascript_deprecations_72e1bfae/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/references/javascript_deprecations.md) | ⭐ 10 | `development` |
-| [C Cpp Edge Cases](development/c_cpp_edge_cases_ca826cd2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/c_cpp_edge_cases.md) | ⭐ 10 | `development` |
-| [Javascript Edge Cases](development/javascript_edge_cases_9dc16b42/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/javascript_edge_cases.md) | ⭐ 10 | `development` |
-| [Platform Instructions](development/platform_instructions_817b3b55/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/environment-setup-assistant/references/platform_instructions.md) | ⭐ 10 | `development` |
-| [Assessment Criteria](development/assessment_criteria_53e1884e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/exploitability-analyzer/references/assessment_criteria.md) | ⭐ 10 | `development` |
-| [Framework Comparison](development/framework_comparison_cf5d2ba4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/references/framework_comparison.md) | ⭐ 10 | `development` |
-| [Fuzzing Patterns](development/fuzzing-patterns_882c12c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/fuzzing-input-generator/references/fuzzing-patterns.md) | ⭐ 10 | `development` |
-| [Extraction Patterns](development/extraction_patterns_2f3afd0a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/imperative-to-coq-model-extractor/references/extraction_patterns.md) | ⭐ 10 | `development` |
-| [Implementation Patterns](development/implementation-patterns_290fdc50/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-python-programmer/references/implementation-patterns.md) | ⭐ 10 | `development` |
-| [Api Reference](development/api_reference_ea6d127a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/references/api_reference.md) | ⭐ 10 | `development` |
-| [Abstract Interpretation](development/abstract_interpretation_fb585db4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-difference-analyzer/references/abstract_interpretation.md) | ⭐ 10 | `development` |
-| [Optimization Patterns](development/optimization-patterns_9f396a8e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-profiling-performance-analyzer/references/optimization-patterns.md) | ⭐ 10 | `development` |
-| [Report Patterns](development/report_patterns_89b708c1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/issue-report-generator/references/report_patterns.md) | ⭐ 10 | `development` |
-| [Dependency Analysis](development/dependency_analysis_290ff993/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/references/dependency_analysis.md) | ⭐ 10 | `development` |
-| [Temporal Logic Patterns](development/temporal_logic_patterns_7c96bb0c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/model-guided-code-repair/references/temporal_logic_patterns.md) | ⭐ 10 | `development` |
-| [Documentation Patterns](development/documentation-patterns_2d211ed6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/references/documentation-patterns.md) | ⭐ 10 | `development` |
-| [Java Patterns](development/java-patterns_605d10e6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/references/java-patterns.md) | ⭐ 10 | `development` |
-| [Language Patterns](development/language_patterns_b94de45b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/references/language_patterns.md) | ⭐ 10 | `development` |
-| [Coq Pcc](development/coq_pcc_a8152856/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/references/coq_pcc.md) | ⭐ 10 | `development` |
-| [Safety Properties](development/safety_properties_5b9928f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/references/safety_properties.md) | ⭐ 10 | `development` |
-| [Refactoring Patterns](development/refactoring_patterns_745b5a7e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-refactoring-assistant/references/refactoring_patterns.md) | ⭐ 10 | `development` |
-| [Pseudocode Patterns](development/pseudocode-patterns_d74fefe1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-python-code/references/pseudocode-patterns.md) | ⭐ 10 | `development` |
-| [Coq Refinement](development/coq_refinement_f2931f85/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/references/coq_refinement.md) | ⭐ 10 | `development` |
-| [Isabelle Refinement](development/isabelle_refinement_3f8663a1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/references/isabelle_refinement.md) | ⭐ 10 | `development` |
-| [Refinement Patterns](development/refinement_patterns_ce1ff05f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/references/refinement_patterns.md) | ⭐ 10 | `development` |
-| [Detection Strategies](development/detection_strategies_a741df25/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-consistency-checker/references/detection_strategies.md) | ⭐ 10 | `development` |
-| [Instrumentation Techniques](development/instrumentation_techniques_9337f605/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/reproduction-trace-instrumenter/references/instrumentation_techniques.md) | ⭐ 10 | `development` |
-| [Analysis Patterns](development/analysis-patterns_4825f0f8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-comparison-reporter/references/analysis-patterns.md) | ⭐ 10 | `development` |
-| [Analysis Framework](development/analysis_framework_521328e8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-enhancer/references/analysis_framework.md) | ⭐ 10 | `development` |
-| [Debugging Guide](development/debugging_guide_823bbbef/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/runtime-error-explainer/references/debugging_guide.md) | ⭐ 10 | `development` |
-| [Remediation Strategies](development/remediation_strategies_6c76acc2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-patch-advisor/references/remediation_strategies.md) | ⭐ 10 | `development` |
-| [Language Patterns](development/language_patterns_d5190632/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/language_patterns.md) | ⭐ 10 | `development` |
-| [Formal Verification](development/formal_verification_752d3796/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/references/formal_verification.md) | ⭐ 10 | `development` |
-| [Symbolic Execution](development/symbolic_execution_64987aba/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/references/symbolic_execution.md) | ⭐ 10 | `development` |
-| [Language Support](development/language_support_c5de8ba0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/language_support.md) | ⭐ 10 | `development` |
-| [Szz Algorithm](development/szz_algorithm_7389292c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/szz_algorithm.md) | ⭐ 10 | `development` |
-| [Extraction Patterns](development/extraction_patterns_3fa08400/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smv-model-extractor/references/extraction_patterns.md) | ⭐ 10 | `development` |
-| [Instrumentation Guide](development/instrumentation_guide_7d5fc1cb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/references/instrumentation_guide.md) | ⭐ 10 | `development` |
-| [Snapshot Format](development/snapshot_format_adcc0b5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/references/snapshot_format.md) | ⭐ 10 | `development` |
-| [Use Cases](development/use_cases_a8936535/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/references/use_cases.md) | ⭐ 10 | `development` |
-| [Constraint Solving](development/constraint_solving_c7029da5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/references/constraint_solving.md) | ⭐ 10 | `development` |
-| [Path Exploration](development/path_exploration_34b7ff48/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/references/path_exploration.md) | ⭐ 10 | `development` |
-| [Tool Integration](development/tool_integration_72b88b4e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/references/tool_integration.md) | ⭐ 10 | `development` |
-| [Szz Algorithm](development/szz_algorithm_106b9607/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/szz-bug-identifier/references/szz_algorithm.md) | ⭐ 10 | `development` |
-| [Api Reference](development/api_reference_9d07b088/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/taint-instrumentation-assistant/references/api_reference.md) | ⭐ 10 | `development` |
-| [Repair Patterns](development/repair_patterns_14367a84/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-guided-code-repair/references/repair_patterns.md) | ⭐ 10 | `development` |
-| [Code Scanning](development/code_scanning_a8773842/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/code_scanning.md) | ⭐ 10 | `development` |
-| [Boundary Patterns](development/boundary_patterns_0cf177d7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/boundary_patterns.md) | ⭐ 10 | `development` |
-| [Coq Analysis](development/coq_analysis_abfbdbfd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/coq_analysis.md) | ⭐ 10 | `development` |
-| [Dafny Analysis](development/dafny_analysis_cdbf3d93/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/dafny_analysis.md) | ⭐ 10 | `development` |
-| [Isabelle Analysis](development/isabelle_analysis_b7eb79b4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/isabelle_analysis.md) | ⭐ 10 | `development` |
-| [Mapping Patterns](development/mapping_patterns_ad93136e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-spec-code-mapper/references/mapping_patterns.md) | ⭐ 10 | `development` |
-| [Api Reference](development/api_reference_988443f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-pattern-matcher/references/api_reference.md) | ⭐ 10 | `development` |
-| [Vulnerability Patterns](development/vulnerability_patterns_2d771fb2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-pattern-matcher/references/vulnerability_patterns.md) | ⭐ 10 | `development` |
-| [Analysis Strategies](development/analysis_strategies_b9283726/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/references/analysis_strategies.md) | ⭐ 10 | `development` |
-| [Root Causes](development/root_causes_720b1819/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/references/root_causes.md) | ⭐ 10 | `development` |
-| [Vulnerability Patterns](development/vulnerability_patterns_fb8a1472/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/references/vulnerability_patterns.md) | ⭐ 10 | `development` |
-| [Api](development/api_806bf34d/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/api.md) | ⭐ 107 | `development` |
-| [Library](development/library_487514b5/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/library.md) | ⭐ 107 | `development` |
-| [Storyboard Template](development/storyboard-template_23cdfa12/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/seedance-video-creator/templates/storyboard-template.md) | ⭐ 107 | `development` |
-| [Demo](development/demo_f56b79db/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/DEMO.md) | ⭐ 10 | `development` |
-| [Quickstart](development/quickstart_7b166792/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/QUICKSTART.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_382cd75a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/acsl-annotation-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_ac6e0afe/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-reproduction-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_88a0050c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-instrumentation-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_2d5188de/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-explainer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_d1cd4412/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7361a3a3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cpp-to-dafny-translator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_352c3ad5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/directed-test-input-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7920e1b9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/environment-setup-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_30d5e983/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-guided-regression-test-update/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_ad1356fe/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/java-api-consistency-validator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b10c94ce/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/metamorphic-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_b1ed4f77/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7439d0b8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/multi-version-behavior-comparator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_73358960/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-correctness-prover/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_a79f5b0b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-python-code/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_6fa5a480/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-api-consistency-validator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_7245ea18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_1a5233a6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-driven-generation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_cfd74989/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_c103790c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/taint-instrumentation-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_a1130ab1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-case-documentation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_db15dd04/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-driven-generation/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_d6fb068b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-bug-detector/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_79df218e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-debloating/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_9f35ad6e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-oracle-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/name-skill_94d93ae2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-suite-prioritizer/SKILL.md) | ⭐ 10 | `development` |
-| [Verification Workflow](development/verification-workflow_fb707fd6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-packs/formal-verification-toolkit/demo/verification-workflow.md) | ⭐ 10 | `development` |
-| [Invariant Templates](development/invariant_templates_79feb337/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/references/invariant_templates.md) | ⭐ 10 | `development` |
-| [Analysis Patterns](development/analysis_patterns_200f2422/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-state-analyzer/references/analysis_patterns.md) | ⭐ 10 | `development` |
-| [Examples](development/examples_4c5e03d4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-trace-summarizer/references/examples.md) | ⭐ 10 | `development` |
-| [Acsl Reference](development/acsl_reference_b7e07625/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/acsl-annotation-assistant/references/acsl_reference.md) | ⭐ 10 | `development` |
-| [Common Patterns](development/common_patterns_4c43f365/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/acsl-annotation-assistant/references/common_patterns.md) | ⭐ 10 | `development` |
-| [Api Doc Template](development/api-doc-template_9b4d4e28/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-documentation-generator/assets/api-doc-template.md) | ⭐ 10 | `development` |
-| [Test Patterns](development/test_patterns_3fc006a3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/references/test_patterns.md) | ⭐ 10 | `development` |
-| [Tool Integration](development/tool_integration_1658dd8c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/references/tool_integration.md) | ⭐ 10 | `development` |
-| [Pr Templates](development/pr-templates_fd8be3f1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-change-summarizer/references/pr-templates.md) | ⭐ 10 | `development` |
-| [Bug Fix Report Template](development/bug-fix-report-template_df9372b8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-repair-generation-combo/assets/bug-fix-report-template.md) | ⭐ 10 | `development` |
-| [Python Testing](development/python-testing_61f3d729/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-repair-generation-combo/references/python-testing.md) | ⭐ 10 | `development` |
-| [Idiomatic Guide](development/idiomatic_guide_2fd05385/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-translation/references/idiomatic_guide.md) | ⭐ 10 | `development` |
-| [App Configs](development/app_configs_8a0473f3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/configuration-generator/references/app_configs.md) | ⭐ 10 | `development` |
-| [Specification Types](development/specification-types_ca4cf53c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-explainer/references/specification-types.md) | ⭐ 10 | `development` |
-| [Model Checker Formats](development/model_checker_formats_e0cc34a4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-to-test-generator/references/model_checker_formats.md) | ⭐ 10 | `development` |
-| [Type Mappings](development/type_mappings_6a70d470/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cpp-to-dafny-translator/references/type_mappings.md) | ⭐ 10 | `development` |
-| [Coverage Strategies](development/coverage_strategies_05f0686c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/directed-test-input-generator/references/coverage_strategies.md) | ⭐ 10 | `development` |
-| [C Cpp](development/c-cpp_7b6f8d38/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/failure-oriented-instrumentation/references/c-cpp.md) | ⭐ 10 | `development` |
-| [Java](development/java_be569076/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/failure-oriented-instrumentation/references/java.md) | ⭐ 10 | `development` |
-| [Javascript](development/javascript_a7095634/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/failure-oriented-instrumentation/references/javascript.md) | ⭐ 10 | `development` |
-| [Python](development/python_d82bd372/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/failure-oriented-instrumentation/references/python.md) | ⭐ 10 | `development` |
-| [Examples](development/examples_deb9b60a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/formal-spec-generator/references/examples.md) | ⭐ 10 | `development` |
-| [Isabelle Patterns](development/isabelle_patterns_6de1ac43/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/formal-spec-generator/references/isabelle_patterns.md) | ⭐ 10 | `development` |
-| [Design By Contract](development/design_by_contract_9e00148b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-contract-verifier/references/design_by_contract.md) | ⭐ 10 | `development` |
-| [Validation Rules](development/validation-rules_f2395da2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/references/validation-rules.md) | ⭐ 10 | `development` |
-| [Interval Analysis](development/interval-analysis_1ee87038/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-guided-regression-test-update/references/interval-analysis.md) | ⭐ 10 | `development` |
-| [Profiling Tools](development/profiling-tools_02848727/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-profiling-performance-analyzer/references/profiling-tools.md) | ⭐ 10 | `development` |
-| [Markdown Best Practices](development/markdown-best-practices_e39e8709/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/markdown-document-structurer/references/markdown-best-practices.md) | ⭐ 10 | `development` |
-| [Language Mappings](development/language_mappings_a78410b8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-level-code-translator/references/language_mappings.md) | ⭐ 10 | `development` |
-| [Extraction Patterns](development/extraction_patterns_e58d0c4b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/references/extraction_patterns.md) | ⭐ 10 | `development` |
-| [Isabelle Pcc](development/isabelle_pcc_b0532525/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/references/isabelle_pcc.md) | ⭐ 10 | `development` |
-| [Mapping Patterns](development/mapping_patterns_7be92c90/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-java-code/references/mapping_patterns.md) | ⭐ 10 | `development` |
-| [Python Idioms](development/python-idioms_afc53224/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-python-code/references/python-idioms.md) | ⭐ 10 | `development` |
-| [Api Reference](development/api_reference_b4310735/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-regression-test-generator/references/api_reference.md) | ⭐ 10 | `development` |
-| [Translation Patterns](development/translation_patterns_01c79b06/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-dafny-translator/references/translation_patterns.md) | ⭐ 10 | `development` |
-| [Advanced Features](development/advanced_features_197ba392/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-lean4-translator/references/advanced_features.md) | ⭐ 10 | `development` |
-| [Common Patterns](development/common_patterns_8e16ece4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-lean4-translator/references/common_patterns.md) | ⭐ 10 | `development` |
-| [Replay Tools](development/replay-tools_f39b1aad/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/replay-tools.md) | ⭐ 10 | `development` |
-| [Coverage Checklist](development/coverage_checklist_6161c348/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/req-to-test/references/coverage_checklist.md) | ⭐ 10 | `development` |
-| [Test Patterns](development/test_patterns_0fd7524c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/req-to-test/references/test_patterns.md) | ⭐ 10 | `development` |
-| [Report Template](development/report-template_be0d171a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-comparison-reporter/references/report-template.md) | ⭐ 10 | `development` |
-| [Equivalence Patterns](development/equivalence_patterns_7ea250e5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/references/equivalence_patterns.md) | ⭐ 10 | `development` |
-| [Error Catalog](development/error_catalog_9875ef57/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/runtime-error-explainer/references/error_catalog.md) | ⭐ 10 | `development` |
-| [Examples](development/examples_9e8a42c4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-patch-advisor/references/examples.md) | ⭐ 10 | `development` |
-| [Equivalence Report Template](development/equivalence_report_template_0ab195d4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/assets/equivalence_report_template.md) | ⭐ 10 | `development` |
-| [Language Patterns](development/language_patterns_06be4c78/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/references/language_patterns.md) | ⭐ 10 | `development` |
-| [Standard Operators](development/standard_operators_323d957d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smart-mutation-operator-generator/references/standard_operators.md) | ⭐ 10 | `development` |
-| [Examples](development/examples_c41a2e0a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-vulnerability-detector/references/examples.md) | ⭐ 10 | `development` |
-| [Template Patterns](development/template_patterns_16c2573f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/template-code-generator/references/template_patterns.md) | ⭐ 10 | `development` |
-| [Algorithms](development/algorithms_4d6ec8ce/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-case-reducer/references/algorithms.md) | ⭐ 10 | `development` |
-| [Analysis Strategies](development/analysis_strategies_67873252/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-bug-detector/references/analysis_strategies.md) | ⭐ 10 | `development` |
-| [Bug Patterns](development/bug_patterns_d1e78537/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-bug-detector/references/bug_patterns.md) | ⭐ 10 | `development` |
-| [Coverage Tools](development/coverage_tools_919e355a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-debloating/references/coverage_tools.md) | ⭐ 10 | `development` |
-| [Debloating Strategy](development/debloating_strategy_184f5ee0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-debloating/references/debloating_strategy.md) | ⭐ 10 | `development` |
-| [Migration Scenarios](development/migration_scenarios_9230c6f6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-migration-assistant/references/migration_scenarios.md) | ⭐ 10 | `development` |
-| [Metamorphic Patterns](development/metamorphic_patterns_f376e23f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-oracle-generator/references/metamorphic_patterns.md) | ⭐ 10 | `development` |
-| [Property Patterns](development/property_patterns_a6e31ede/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-oracle-generator/references/property_patterns.md) | ⭐ 10 | `development` |
-| [Tlaplus To Cpp Mapping](development/tlaplus_to_cpp_mapping_242c792a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-guided-code-repair/references/tlaplus_to_cpp_mapping.md) | ⭐ 10 | `development` |
-| [Json Schema](development/json_schema_d588769f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/trace-collection-assistant/references/json_schema.md) | ⭐ 10 | `development` |
-| [Trace Formats](development/trace_formats_8efa7bcd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/trace-collection-assistant/references/trace_formats.md) | ⭐ 10 | `development` |
-| [Assertion Guide](development/assertion_guide_bd76228f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/unit-test-generator/references/assertion_guide.md) | ⭐ 10 | `development` |
-| [Examples](development/examples_9b55aadd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-pseudocode-extractor/references/examples.md) | ⭐ 10 | `development` |
-| [Extraction Patterns](development/extraction_patterns_af0660bc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-pseudocode-extractor/references/extraction_patterns.md) | ⭐ 10 | `development` |
+| [Readme Zh](development/2870-readme-zh_1d655b75/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/README-zh.md) | ⭐ 10 | `development` |
+| [Deployment](development/272-deployment_c894faca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/DEPLOYMENT.md) | ⭐ 10 | `development` |
+| [Github Pages Setup](development/2871-github-pages-setup_3ea86591/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/GITHUB-PAGES-SETUP.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_4cb1e073/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-domain-explorer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_41240558/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-invariant-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_8aaa9d19/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-state-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_d131277b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-trace-summarizer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_cf753f0e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/api-documentation-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_552fdaca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavior-preservation-checker/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_039c7923/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavioral-mutation-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_3e035e64/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bisect-aware-instrumentation/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_719e8f6a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-localization/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_9f69aa96/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bug-to-patch-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_3e1e46b9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/c-cpp-to-lean4-translator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_2ec9c676/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-change-summarizer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_1088e1e6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-completion-semantic-constraints/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_9f522f28/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-pattern-extractor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_e03f470f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-refactoring-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_34483783/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-repair-generation-combo/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_f7f5b1b1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-review-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_0bec5f8f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-search-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_9232fa36/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-summarizer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_5ec17124/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-translation/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_9df9a74d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_09a577ca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dead-code-removal/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_b1cc8add/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dependency-resolver/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_e3f28d67/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-pattern-suggestor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_97859a59/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_74dcf989/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/exploitability-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_2ea0b7b3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/failure-oriented-instrumentation/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_4273f85a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/formal-spec-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_6e888f33/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/frontend-ui-ux/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_ab3b61e3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/function-class-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_c38f99c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/fuzzing-input-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_0c83b772/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/git-bisect-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_6d4ef9c3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/github-triage/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_abb965fe/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/imperative-to-coq-model-extractor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_4c5c35eb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-java-programmer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_75bac2fd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-contract-verifier/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_17cb7ac9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/issue-report-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_b5f041fc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/lsp-refactoring/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_e30ce380/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/model-guided-code-repair/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_dc35d689/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/modular-code-enforcement/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_7257094b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-level-code-translator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_84894089/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/playwright-automation/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_6fac8170/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_85d7bf18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-refactoring-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_081380af/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-extractor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_e246bb36/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-repo-quickstart/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_36c47dfe/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-to-lean4-translator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_97af31c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/readme-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_b885c309/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/release-change-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_6687e21f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/release-notes-writer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_c74442e6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_382004ca/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-comparison-reporter/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_45ae72f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-enhancer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_328e3976/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-summary/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_b1cae492/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_0747239a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/runtime-error-explainer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_647ce833/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-patch-advisor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_725edb80/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_8977aa19/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-bug-detector/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_a99fc336/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/session-handoff/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_7d7e61cb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smart-mutation-operator-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_d6ab2ea2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smv-model-extractor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_7c185aa2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_7fdc7c5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_b2bb0fdd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-vulnerability-detector/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_53e00a5f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_11102597/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/szz-bug-identifier/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_af3b8b54/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/technical-debt-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_635bd5c1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_eed33985/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-guided-code-repair/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_b8705431/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_e113998e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_28a1c731/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_00f2dfd7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-pseudocode-extractor/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_f78acac1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Api Reference](development/051-api_reference_47f35914/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-domain-explorer/references/api_reference.md) | ⭐ 10 | `development` |
+| [Abstract Interpretation](development/2872-abstract_interpretation_dc1d8434/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-trace-summarizer/references/abstract_interpretation.md) | ⭐ 10 | `development` |
+| [Frama C Integration](development/2873-frama_c_integration_3d5496e9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/acsl-annotation-assistant/references/frama_c_integration.md) | ⭐ 10 | `development` |
+| [Comparison Techniques](development/2874-comparison_techniques_00532933/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavior-preservation-checker/references/comparison_techniques.md) | ⭐ 10 | `development` |
+| [Difference Patterns](development/2875-difference_patterns_003cae23/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/behavior-preservation-checker/references/difference_patterns.md) | ⭐ 10 | `development` |
+| [Exit Codes](development/2876-exit_codes_0f6c6de3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bisect-aware-instrumentation/references/exit_codes.md) | ⭐ 10 | `development` |
+| [Git Bisect Guide](development/2877-git_bisect_guide_24b6e3a4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/bisect-aware-instrumentation/references/git_bisect_guide.md) | ⭐ 10 | `development` |
+| [Style Guides](development/2878-style_guides_958e560a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-comment-generator/references/style_guides.md) | ⭐ 10 | `development` |
+| [Refactoring Patterns](development/2879-refactoring-patterns_3ffdddfd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-smell-detector/references/refactoring-patterns.md) | ⭐ 10 | `development` |
+| [Cve Analysis](development/2880-cve_analysis_66dbec59/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/references/cve_analysis.md) | ⭐ 10 | `development` |
+| [Language Guide](development/2881-language_guide_46ebc092/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/references/language_guide.md) | ⭐ 10 | `development` |
+| [Reachability Patterns](development/2882-reachability_patterns_aaeeebc9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-reachability-analyzer/references/reachability_patterns.md) | ⭐ 10 | `development` |
+| [Action Guidelines](development/2883-action_guidelines_db08b980/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/references/action_guidelines.md) | ⭐ 10 | `development` |
+| [Risk Scoring](development/2884-risk_scoring_b916321e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/references/risk_scoring.md) | ⭐ 10 | `development` |
+| [Java Deprecations](development/2885-java_deprecations_14ed814d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/references/java_deprecations.md) | ⭐ 10 | `development` |
+| [Javascript Deprecations](development/2886-javascript_deprecations_72e1bfae/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/references/javascript_deprecations.md) | ⭐ 10 | `development` |
+| [C Cpp Edge Cases](development/2887-c_cpp_edge_cases_ca826cd2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/c_cpp_edge_cases.md) | ⭐ 10 | `development` |
+| [Javascript Edge Cases](development/2888-javascript_edge_cases_9dc16b42/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/javascript_edge_cases.md) | ⭐ 10 | `development` |
+| [Platform Instructions](development/2889-platform_instructions_817b3b55/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/environment-setup-assistant/references/platform_instructions.md) | ⭐ 10 | `development` |
+| [Assessment Criteria](development/2890-assessment_criteria_53e1884e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/exploitability-analyzer/references/assessment_criteria.md) | ⭐ 10 | `development` |
+| [Framework Comparison](development/2891-framework_comparison_cf5d2ba4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/references/framework_comparison.md) | ⭐ 10 | `development` |
+| [Fuzzing Patterns](development/2892-fuzzing-patterns_882c12c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/fuzzing-input-generator/references/fuzzing-patterns.md) | ⭐ 10 | `development` |
+| [Extraction Patterns](development/2893-extraction_patterns_2f3afd0a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/imperative-to-coq-model-extractor/references/extraction_patterns.md) | ⭐ 10 | `development` |
+| [Implementation Patterns](development/2076-implementation-patterns_290fdc50/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-python-programmer/references/implementation-patterns.md) | ⭐ 10 | `development` |
+| [Api Reference](development/051-api_reference_ea6d127a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interface-specification-generator/references/api_reference.md) | ⭐ 10 | `development` |
+| [Abstract Interpretation](development/2872-abstract_interpretation_fb585db4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-difference-analyzer/references/abstract_interpretation.md) | ⭐ 10 | `development` |
+| [Optimization Patterns](development/2894-optimization-patterns_9f396a8e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/interval-profiling-performance-analyzer/references/optimization-patterns.md) | ⭐ 10 | `development` |
+| [Report Patterns](development/2895-report_patterns_89b708c1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/issue-report-generator/references/report_patterns.md) | ⭐ 10 | `development` |
+| [Dependency Analysis](development/2896-dependency_analysis_290ff993/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/references/dependency_analysis.md) | ⭐ 10 | `development` |
+| [Temporal Logic Patterns](development/2897-temporal_logic_patterns_7c96bb0c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/model-guided-code-repair/references/temporal_logic_patterns.md) | ⭐ 10 | `development` |
+| [Documentation Patterns](development/2898-documentation-patterns_2d211ed6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/references/documentation-patterns.md) | ⭐ 10 | `development` |
+| [Java Patterns](development/2899-java-patterns_605d10e6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-component-generator/references/java-patterns.md) | ⭐ 10 | `development` |
+| [Language Patterns](development/2900-language_patterns_b94de45b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/references/language_patterns.md) | ⭐ 10 | `development` |
+| [Coq Pcc](development/2901-coq_pcc_a8152856/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/references/coq_pcc.md) | ⭐ 10 | `development` |
+| [Safety Properties](development/2902-safety_properties_5b9928f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-carrying-code-generator/references/safety_properties.md) | ⭐ 10 | `development` |
+| [Refactoring Patterns](development/2903-refactoring_patterns_745b5a7e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/proof-refactoring-assistant/references/refactoring_patterns.md) | ⭐ 10 | `development` |
+| [Pseudocode Patterns](development/2904-pseudocode-patterns_d74fefe1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/pseudocode-to-python-code/references/pseudocode-patterns.md) | ⭐ 10 | `development` |
+| [Coq Refinement](development/2905-coq_refinement_f2931f85/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/references/coq_refinement.md) | ⭐ 10 | `development` |
+| [Isabelle Refinement](development/2906-isabelle_refinement_3f8663a1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/references/isabelle_refinement.md) | ⭐ 10 | `development` |
+| [Refinement Patterns](development/2907-refinement_patterns_ce1ff05f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/references/refinement_patterns.md) | ⭐ 10 | `development` |
+| [Detection Strategies](development/2908-detection_strategies_a741df25/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-consistency-checker/references/detection_strategies.md) | ⭐ 10 | `development` |
+| [Instrumentation Techniques](development/2909-instrumentation_techniques_9337f605/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/reproduction-trace-instrumenter/references/instrumentation_techniques.md) | ⭐ 10 | `development` |
+| [Analysis Patterns](development/2910-analysis-patterns_4825f0f8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-comparison-reporter/references/analysis-patterns.md) | ⭐ 10 | `development` |
+| [Analysis Framework](development/2911-analysis_framework_521328e8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-enhancer/references/analysis_framework.md) | ⭐ 10 | `development` |
+| [Debugging Guide](development/1383-debugging_guide_823bbbef/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/runtime-error-explainer/references/debugging_guide.md) | ⭐ 10 | `development` |
+| [Remediation Strategies](development/2912-remediation_strategies_6c76acc2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-patch-advisor/references/remediation_strategies.md) | ⭐ 10 | `development` |
+| [Language Patterns](development/2900-language_patterns_d5190632/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/language_patterns.md) | ⭐ 10 | `development` |
+| [Formal Verification](development/2913-formal_verification_752d3796/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/references/formal_verification.md) | ⭐ 10 | `development` |
+| [Symbolic Execution](development/2914-symbolic_execution_64987aba/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-equivalence-verifier/references/symbolic_execution.md) | ⭐ 10 | `development` |
+| [Language Support](development/2915-language_support_c5de8ba0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/language_support.md) | ⭐ 10 | `development` |
+| [Szz Algorithm](development/2916-szz_algorithm_7389292c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/szz_algorithm.md) | ⭐ 10 | `development` |
+| [Extraction Patterns](development/2893-extraction_patterns_3fa08400/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smv-model-extractor/references/extraction_patterns.md) | ⭐ 10 | `development` |
+| [Instrumentation Guide](development/2917-instrumentation_guide_7d5fc1cb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/references/instrumentation_guide.md) | ⭐ 10 | `development` |
+| [Snapshot Format](development/2918-snapshot_format_adcc0b5a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/references/snapshot_format.md) | ⭐ 10 | `development` |
+| [Use Cases](development/1779-use_cases_a8936535/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/state-snapshot-instrumenter/references/use_cases.md) | ⭐ 10 | `development` |
+| [Constraint Solving](development/2919-constraint_solving_c7029da5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/references/constraint_solving.md) | ⭐ 10 | `development` |
+| [Path Exploration](development/2920-path_exploration_34b7ff48/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/references/path_exploration.md) | ⭐ 10 | `development` |
+| [Tool Integration](development/2921-tool_integration_72b88b4e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/symbolic-execution-assistant/references/tool_integration.md) | ⭐ 10 | `development` |
+| [Szz Algorithm](development/2916-szz_algorithm_106b9607/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/szz-bug-identifier/references/szz_algorithm.md) | ⭐ 10 | `development` |
+| [Api Reference](development/051-api_reference_9d07b088/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/taint-instrumentation-assistant/references/api_reference.md) | ⭐ 10 | `development` |
+| [Repair Patterns](development/2922-repair_patterns_14367a84/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-guided-code-repair/references/repair_patterns.md) | ⭐ 10 | `development` |
+| [Code Scanning](development/2923-code_scanning_a8773842/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/code_scanning.md) | ⭐ 10 | `development` |
+| [Boundary Patterns](development/2924-boundary_patterns_0cf177d7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/boundary_patterns.md) | ⭐ 10 | `development` |
+| [Coq Analysis](development/2925-coq_analysis_abfbdbfd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/coq_analysis.md) | ⭐ 10 | `development` |
+| [Dafny Analysis](development/2926-dafny_analysis_cdbf3d93/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/dafny_analysis.md) | ⭐ 10 | `development` |
+| [Isabelle Analysis](development/2927-isabelle_analysis_b7eb79b4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verification-boundary-reporter/references/isabelle_analysis.md) | ⭐ 10 | `development` |
+| [Mapping Patterns](development/2928-mapping_patterns_ad93136e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/verified-spec-code-mapper/references/mapping_patterns.md) | ⭐ 10 | `development` |
+| [Api Reference](development/051-api_reference_988443f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-pattern-matcher/references/api_reference.md) | ⭐ 10 | `development` |
+| [Vulnerability Patterns](development/2929-vulnerability_patterns_2d771fb2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-pattern-matcher/references/vulnerability_patterns.md) | ⭐ 10 | `development` |
+| [Analysis Strategies](development/2930-analysis_strategies_b9283726/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/references/analysis_strategies.md) | ⭐ 10 | `development` |
+| [Root Causes](development/2931-root_causes_720b1819/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/references/root_causes.md) | ⭐ 10 | `development` |
+| [Vulnerability Patterns](development/2929-vulnerability_patterns_fb8a1472/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/vulnerability-root-cause-analyzer/references/vulnerability_patterns.md) | ⭐ 10 | `development` |
+| [Catalog](development/126-catalog_15bc0fce/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/CATALOG.md) | 🔥 13.4k | `development` |
+| [Skill](development/1178-name-skill_96c5cffb/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/code-reviewer/SKILL.md) | 🔥 13.4k | `development` |
+| [Readme Flat Skills Releases](development/799-readme_flat_skills_releases_9c4e255d/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_RELEASES.md) | 🔥 24.4k | `development` |
+| [Streaming Sse Guide](development/2873-streaming-sse-guide_56799ef2/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/streaming-sse-guide.md) | ⭐ 600 | `development` |
+| [Optimization Summary](development/2874-optimization_summary_829204c9/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/frontend-design/OPTIMIZATION_SUMMARY.md) | ⭐ 600 | `development` |
+| [Skill](development/1178-name-skill_b2af3b48/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/web-search/SKILL.md) | ⭐ 600 | `development` |
+| [Skill](development/name-skill_53f1cebe/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/SKILL.md) | ⭐ 10 | `development` |
+| [Zigzag Validator](development/zigzag-validator_17a38f3a/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/zigzag-validator.md) | ⭐ 10 | `development` |
 
-### Development/Devops (159 skills)
+### Development/Devops (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1200,28 +1064,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Commands Az](development/devops/380-readme_flat_commands_az_4e6b10d3/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_AZ.md) | 🔥 24.5k | `development` |
 | [Readme Flat Commands Updated](development/devops/381-readme_flat_commands_updated_051d5cf1/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_UPDATED.md) | 🔥 24.5k | `development` |
 | [Readme Flat Tooling Created](development/devops/162-readme_flat_tooling_created_66311c52/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_CREATED.md) | 🔥 24.5k | `development` |
-| [Skill](development/devops/name-skill_dc6361a6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/change-log-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/devops/name-skill_9a58dcd1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/configuration-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/devops/name-skill_eadf1bfd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/containerization-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/devops/name-skill_3d634c6a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Ci Platforms](development/devops/ci-platforms_999207f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/references/ci-platforms.md) | ⭐ 10 | `linux` |
-| [Project Migration](development/devops/project_migration_37a98145/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-translation/references/project_migration.md) | ⭐ 10 | `development` |
-| [Infra Configs](development/devops/infra_configs_015d228e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/configuration-generator/references/infra_configs.md) | ⭐ 10 | `development` |
-| [Dockerfile Best Practices](development/devops/dockerfile_best_practices_fbac54ba/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/containerization-assistant/references/dockerfile_best_practices.md) | ⭐ 10 | `development` |
-| [Tool Guides](development/devops/tool_guides_4609e245/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/environment-setup-assistant/references/tool_guides.md) | ⭐ 10 | `development` |
-| [Database Rollback Patterns](development/devops/database_rollback_patterns_1204166d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/database_rollback_patterns.md) | ⭐ 10 | `development` |
-| [Framework Comparison](development/devops/framework_comparison_5ee1caae/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/spring-mvc-to-boot-migrator/references/framework_comparison.md) | ⭐ 10 | `development` |
-| [Migration Guide](development/devops/migration_guide_6ad9289a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/spring-mvc-to-boot-migrator/references/migration_guide.md) | ⭐ 10 | `development` |
-| [Graphviz Patterns](development/devops/graphviz-patterns_ddba74c0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/system-diagram-generator/references/graphviz-patterns.md) | ⭐ 10 | `development` |
-| [Full](development/devops/full_99108017/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/full.md) | ⭐ 107 | `development` |
-| [Webapp](development/devops/webapp_3d654b31/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/templates/webapp.md) | ⭐ 107 | `development` |
-| [Deploy Checklist](development/devops/deploy-checklist_24542b18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/DEPLOY-CHECKLIST.md) | ⭐ 10 | `development` |
-| [Deploy Quick](development/devops/deploy-quick_aaaed93d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skill-manager/DEPLOY-QUICK.md) | ⭐ 10 | `development` |
-| [Report Template](development/devops/report_template_5ec50cc3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/assets/report_template.md) | ⭐ 10 | `development` |
-| [Plantuml Patterns](development/devops/plantuml-patterns_13231cf2/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/system-diagram-generator/references/plantuml-patterns.md) | ⭐ 10 | `development` |
-| [Migration Strategy](development/devops/migration_strategy_90ac39fb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-guided-migration-assistant/references/migration_strategy.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_dc6361a6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/change-log-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_9a58dcd1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/configuration-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_eadf1bfd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/containerization-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_3d634c6a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/cve-watchlist-action-recommendation-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Ci Platforms](development/devops/362-ci-platforms_999207f0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/references/ci-platforms.md) | ⭐ 10 | `linux` |
+| [Project Migration](development/devops/363-project_migration_37a98145/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-translation/references/project_migration.md) | ⭐ 10 | `development` |
+| [Infra Configs](development/devops/364-infra_configs_015d228e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/configuration-generator/references/infra_configs.md) | ⭐ 10 | `development` |
+| [Dockerfile Best Practices](development/devops/365-dockerfile_best_practices_fbac54ba/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/containerization-assistant/references/dockerfile_best_practices.md) | ⭐ 10 | `development` |
+| [Tool Guides](development/devops/366-tool_guides_4609e245/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/environment-setup-assistant/references/tool_guides.md) | ⭐ 10 | `development` |
+| [Database Rollback Patterns](development/devops/367-database_rollback_patterns_1204166d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/database_rollback_patterns.md) | ⭐ 10 | `development` |
+| [Framework Comparison](development/devops/368-framework_comparison_5ee1caae/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/spring-mvc-to-boot-migrator/references/framework_comparison.md) | ⭐ 10 | `development` |
+| [Migration Guide](development/devops/011-migration_guide_6ad9289a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/spring-mvc-to-boot-migrator/references/migration_guide.md) | ⭐ 10 | `development` |
+| [Graphviz Patterns](development/devops/369-graphviz-patterns_ddba74c0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/system-diagram-generator/references/graphviz-patterns.md) | ⭐ 10 | `development` |
+| [Skill](development/devops/014-name-skill_a1cc67a6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/architect-review/SKILL.md) | 🔥 13.4k | `development` |
+| [Skill](development/devops/014-name-skill_f9416fde/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/performance-engineer/SKILL.md) | 🔥 13.4k | `development` |
+| [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_7e2219ec/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 24.4k | `development` |
 
-### Development/Testing (51 skills)
+### Development/Testing (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1233,51 +1093,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Create Pr](development/testing/086-create-pr_a6287a1c/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/.claude/commands/github/create-pr.md) | ⭐ 151 | `development` |
 | [Patterns](development/testing/059-patterns_aed86128/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/patterns.md) | ⭐ 106 | `development` |
 | [Programmatic Skills](development/testing/085-programmatic-skills_3ca2713a/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/programmatic-skills.md) | ⭐ 106 | `development` |
-| [Skill](development/testing/name-skill_0eb6112a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/agent-browser/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_21ba0401/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/coverage-enhancer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_ada59ba6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_fa978da1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/error-explanation-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_94e280c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_0f0dd6fd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-python-programmer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_76eee166/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/init-deep/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_52e52268/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-root-cause-analyzer/SKILL.md) | ⭐ 10 | `development` |
-| [Pattern Catalog](development/testing/pattern_catalog_d1a14b18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-pattern-suggestor/references/pattern_catalog.md) | ⭐ 10 | `development` |
-| [Python Edge Cases](development/testing/python_edge_cases_c20c67e3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/python_edge_cases.md) | ⭐ 10 | `development` |
-| [Debugging Strategies](development/testing/debugging_strategies_d90ef8c8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/error-explanation-generator/references/debugging_strategies.md) | ⭐ 10 | `development` |
-| [Error Patterns](development/testing/error_patterns_f4a78eb7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/error-explanation-generator/references/error_patterns.md) | ⭐ 10 | `development` |
-| [Migration Guide](development/testing/migration_guide_395a5136/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/references/migration_guide.md) | ⭐ 10 | `development` |
-| [Failure Patterns](development/testing/failure-patterns_d331f78a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-root-cause-analyzer/references/failure-patterns.md) | ⭐ 10 | `development` |
-| [Python Replay](development/testing/python-replay_5cd4a143/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/python-replay.md) | ⭐ 10 | `development` |
-| [Dependency Formats](development/testing/dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_e6b8767e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-to-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_9cfec36d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/flaky-test-detector/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_76e02d11/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/java-regression-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_94d8fdc3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/java-test-updater/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_20e4881b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/mocking-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_c35eefd0/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-regression-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_65d74cfb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-test-updater/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_56670afc/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-case-reducer/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/testing/name-skill_7e3ca422/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/unit-test-generator/SKILL.md) | ⭐ 10 | `development` |
-| [Cpp Testing](development/testing/cpp-testing_6d9b36d5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-repair-generation-combo/references/cpp-testing.md) | ⭐ 10 | `development` |
-| [Java Testing](development/testing/java-testing_aec93689/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-repair-generation-combo/references/java-testing.md) | ⭐ 10 | `development` |
-| [Examples](development/testing/examples_87358999/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-debugger/references/examples.md) | ⭐ 10 | `development` |
-| [Nitpick Guide](development/testing/nitpick_guide_e9c3db12/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-debugger/references/nitpick_guide.md) | ⭐ 10 | `development` |
-| [Quickchick Guide](development/testing/quickchick_guide_2a580187/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-debugger/references/quickchick_guide.md) | ⭐ 10 | `development` |
-| [Flaky Patterns](development/testing/flaky-patterns_06468b24/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/flaky-test-detector/references/flaky-patterns.md) | ⭐ 10 | `development` |
-| [Remediation Strategies](development/testing/remediation-strategies_603cd58e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/flaky-test-detector/references/remediation-strategies.md) | ⭐ 10 | `development` |
-| [Testing Strategies](development/testing/testing-strategies_9706412c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-python-programmer/references/testing-strategies.md) | ⭐ 10 | `development` |
-| [Patterns](development/testing/patterns_ea031d1c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/integration-test-generator/references/patterns.md) | ⭐ 10 | `development` |
-| [Test Data](development/testing/test_data_af1e8216/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/integration-test-generator/references/test_data.md) | ⭐ 10 | `development` |
-| [Test Patterns](development/testing/test_patterns_4d92ba3d/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/java-regression-test-generator/references/test_patterns.md) | ⭐ 10 | `development` |
-| [Java Patterns](development/testing/java_patterns_5dc15478/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/mocking-test-generator/references/java_patterns.md) | ⭐ 10 | `development` |
-| [Python Patterns](development/testing/python_patterns_63fcfbe1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/mocking-test-generator/references/python_patterns.md) | ⭐ 10 | `development` |
-| [Testing Frameworks](development/testing/testing_frameworks_348009f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/module-level-code-translator/references/testing_frameworks.md) | ⭐ 10 | `development` |
-| [Test Generation Patterns](development/testing/test_generation_patterns_94b3d070/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-regression-test-generator/references/test_generation_patterns.md) | ⭐ 10 | `development` |
-| [Test Update Patterns](development/testing/test-update-patterns_13a129f9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-test-updater/references/test-update-patterns.md) | ⭐ 10 | `development` |
-| [Language Specific](development/testing/language-specific_fa51982a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/test-case-reducer/references/language-specific.md) | ⭐ 10 | `development` |
-| [Analysis Guide](development/testing/analysis_guide_102dc24c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/trace-collection-assistant/references/analysis_guide.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_0eb6112a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/agent-browser/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_21ba0401/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/coverage-enhancer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_ada59ba6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/deprecated-api-updater/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_fa978da1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/error-explanation-generator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_94e280c7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_0f0dd6fd/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/incremental-python-programmer/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_76eee166/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/init-deep/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/002-name-skill_52e52268/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-root-cause-analyzer/SKILL.md) | ⭐ 10 | `development` |
+| [Pattern Catalog](development/testing/082-pattern_catalog_d1a14b18/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/design-pattern-suggestor/references/pattern_catalog.md) | ⭐ 10 | `development` |
+| [Python Edge Cases](development/testing/083-python_edge_cases_c20c67e3/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/python_edge_cases.md) | ⭐ 10 | `development` |
+| [Debugging Strategies](development/testing/084-debugging_strategies_d90ef8c8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/error-explanation-generator/references/debugging_strategies.md) | ⭐ 10 | `development` |
+| [Error Patterns](development/testing/085-error_patterns_f4a78eb7/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/error-explanation-generator/references/error_patterns.md) | ⭐ 10 | `development` |
+| [Migration Guide](development/testing/039-migration_guide_395a5136/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/references/migration_guide.md) | ⭐ 10 | `development` |
+| [Failure Patterns](development/testing/086-failure-patterns_d331f78a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/regression-root-cause-analyzer/references/failure-patterns.md) | ⭐ 10 | `development` |
+| [Python Replay](development/testing/087-python-replay_5cd4a143/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/python-replay.md) | ⭐ 10 | `development` |
+| [Dependency Formats](development/testing/088-dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
 
-### Development/Tools (100 skills)
+### Development/Tools (103 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1371,16 +1204,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Statusline Created](development/tools/171-readme_flat_statusline_created_26ae1ec4/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_CREATED.md) | 🔥 24.5k | `development` |
 | [Readme Flat Styles Created](development/tools/175-readme_flat_styles_created_41e22aa8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_CREATED.md) | 🔥 24.5k | `development` |
 | [Readme Flat Workflows Created](development/tools/179-readme_flat_workflows_created_7a42507e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_CREATED.md) | 🔥 24.5k | `development` |
-| [Skill](development/tools/name-skill_c3528e8b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-smell-detector/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/tools/name-skill_248c9a31/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dead-code-eliminator/SKILL.md) | ⭐ 10 | `development` |
-| [Skill](development/tools/name-skill_13bb49ce/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/SKILL.md) | ⭐ 10 | `development` |
-| [Dead Code Patterns](development/tools/dead-code-patterns_6ae799f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dead-code-eliminator/references/dead-code-patterns.md) | ⭐ 10 | `development` |
-| [Migration Patterns](development/tools/migration_patterns_d4bc0348/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/references/migration_patterns.md) | ⭐ 10 | `development` |
-| [Code Quality Checklist](development/tools/code_quality_checklist_8e709a3a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/references/code_quality_checklist.md) | ⭐ 10 | `development` |
-| [Python Contracts](development/tools/python_contracts_a8a56814/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-reasoning-verifier/references/python_contracts.md) | ⭐ 10 | `development` |
-| [Skill](development/tools/name-skill_1669bb68/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-debugger/SKILL.md) | ⭐ 10 | `development` |
-| [Python Patterns](development/tools/python-patterns_863ebe74/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/python-repo-quickstart/references/python-patterns.md) | ⭐ 10 | `development` |
-| [Tool Syntax](development/tools/tool_syntax_33425e79/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/specification-to-temporal-logic-generator/references/tool_syntax.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_c3528e8b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-smell-detector/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_248c9a31/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dead-code-eliminator/SKILL.md) | ⭐ 10 | `development` |
+| [Skill](development/tools/002-name-skill_13bb49ce/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/SKILL.md) | ⭐ 10 | `development` |
+| [Dead Code Patterns](development/tools/330-dead-code-patterns_6ae799f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/dead-code-eliminator/references/dead-code-patterns.md) | ⭐ 10 | `development` |
+| [Migration Patterns](development/tools/331-migration_patterns_d4bc0348/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/framework-migration-assistant/references/migration_patterns.md) | ⭐ 10 | `development` |
+| [Code Quality Checklist](development/tools/332-code_quality_checklist_8e709a3a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/legacy-code-summarizer/references/code_quality_checklist.md) | ⭐ 10 | `development` |
+| [Python Contracts](development/tools/333-python_contracts_a8a56814/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-reasoning-verifier/references/python_contracts.md) | ⭐ 10 | `development` |
+| [Readme Flat Hooks Releases](development/tools/167-readme_flat_hooks_releases_75b26790/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_RELEASES.md) | 🔥 24.4k | `development` |
+| [Readme Flat Docs Az](development/tools/161-readme_flat_docs_az_3c66a52c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_AZ.md) | 🔥 24.4k | `development` |
+| [Readme Flat Styles Releases](development/tools/176-readme_flat_styles_releases_3f7c42c6/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_RELEASES.md) | 🔥 24.4k | `development` |
+| [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_676983da/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 24.4k | `development` |
+| [Readme Flat Statusline Updated](development/tools/173-readme_flat_statusline_updated_202be4cb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 24.4k | `development` |
+| [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_f60e4311/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 24.4k | `development` |
 
 ### Investment (10 skills)
 
@@ -1395,7 +1231,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_9fd4c364/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/wnba-data/SKILL.md) | ⭐ 24 | `investment` |
 | [Commands](investment/050-commands_b3537439/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/commands.md) | ⭐ 24 | `investment` |
 | [Series Tickers](investment/051-series-tickers_fb5fea49/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/series-tickers.md) | ⭐ 24 | `investment` |
-| [Isabelle Library](investment/isabelle_library_464f419f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/library-for-proof-advisor/references/isabelle_library.md) | ⭐ 10 | `investment` |
+| [Complexity Analysis](investment/complexity-analysis_97792283/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/complexity-analysis.md) | ⭐ 10 | `investment` |
 
 ### Other (1 skills)
 
@@ -1403,7 +1239,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 
-### Productivity (12 skills)
+### Productivity (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1413,14 +1249,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Protocol](productivity/173-protocol_d5300386/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/.claude/commands/protocol.md) | ⭐ 10 | `productivity` |
 | [Correction Detection](productivity/174-correction-detection_42a7a5e8/) | [Everyone-Needs-A-Copilot/claude-copilot](https://raw.githubusercontent.com/Everyone-Needs-A-Copilot/claude-copilot/main/docs/50-features/correction-detection.md) | ⭐ 10 | `correction` `user-feedback` |
 | [Skill](productivity/093-name-skill_a23fac79/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/updateclaudemd/SKILL.md) | ⭐ 34 | `productivity` |
-| [Skill](productivity/name-skill_34f178e8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-optimizer/SKILL.md) | ⭐ 10 | `productivity` |
-| [Skill](productivity/name-skill_1f0c7074/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/SKILL.md) | ⭐ 10 | `productivity` |
-| [Skill](productivity/name-skill_0f144496/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/mutation-test-suite-optimizer/SKILL.md) | ⭐ 10 | `productivity` |
-| [Language Specifics](productivity/language_specifics_833e4f1a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/abstract-state-analyzer/references/language_specifics.md) | ⭐ 10 | `productivity` |
-| [Explanation Patterns](productivity/explanation-patterns_187fcc2b/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/counterexample-explainer/references/explanation-patterns.md) | ⭐ 10 | `productivity` |
-| [Non Determinism](productivity/non-determinism_885036c6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/non-determinism.md) | ⭐ 10 | `productivity` |
+| [Skill](productivity/093-name-skill_34f178e8/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/code-optimizer/SKILL.md) | ⭐ 10 | `productivity` |
+| [Skill](productivity/093-name-skill_1f0c7074/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/refinement-step-generator/SKILL.md) | ⭐ 10 | `productivity` |
+| [Skill](productivity/093-name-skill_7d504321/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/multi-agent-brainstorming/SKILL.md) | 🔥 13.4k | `productivity` |
 
-### Research (35 skills)
+### Research (33 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1455,11 +1288,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quick Start](research/268-quick-start_543c444a/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/quick-start.md) | ⭐ 106 | `research` |
 | [Toolset](research/269-toolset_53992f79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/api/toolset.md) | ⭐ 106 | `research` |
 | [Skill](research/139-name-skill_b96d1e1c/) | [ThepExcel/agent-skills](https://raw.githubusercontent.com/ThepExcel/agent-skills/main/deep-research/SKILL.md) | ⭐ 15 | `research` |
-| [Tlaplus Syntax](research/tlaplus_syntax_cf31ead9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
-| [Tlaplus Syntax](research/tlaplus_syntax_54ea0eea/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
-| [Hoare Logic](research/hoare_logic_d56ea9ad/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-correctness-prover/references/hoare_logic.md) | ⭐ 10 | `research` |
-| [Sva Syntax](research/sva_syntax_b5ea7fb6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-property-inference/references/sva_syntax.md) | ⭐ 10 | `research` |
-| [Smv Syntax](research/smv_syntax_5988ba9f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/smv-model-extractor/references/smv_syntax.md) | ⭐ 10 | `research` |
+| [Tlaplus Syntax](research/258-tlaplus_syntax_cf31ead9/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
+| [Tlaplus Syntax](research/258-tlaplus_syntax_54ea0eea/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
+| [Docx Js](research/258-docx-js_0d24521f/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/docx/docx-js.md) | ⭐ 600 | `research` |
 
 ## How Skills Are Organized
 
@@ -1511,5 +1342,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-22 21:55:38 UTC*
+*Last updated: 2026-02-23 00:07:41 UTC*
 *Automatically maintained by SkillFlow*
