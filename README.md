@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1035 AI-powered skills** organized into 15 categories.
+A curated collection of **1032 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,16 +10,16 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (7 skills)
 - **Automation/Workflow** (53 skills)
-- **Commercial** (61 skills)
-- **Communication** (30 skills)
+- **Commercial** (60 skills)
+- **Communication** (29 skills)
 - **Content Creation** (80 skills)
 - **Daily Assistant** (39 skills)
 - **Data Analysis** (95 skills)
-- **Development** (335 skills)
-- **Development/Devops** (155 skills)
+- **Development** (334 skills)
+- **Development/Devops** (156 skills)
 - **Development/Testing** (24 skills)
 - **Development/Tools** (103 skills)
-- **Investment** (10 skills)
+- **Investment** (9 skills)
 - **Other** (1 skill)
 - **Productivity** (9 skills)
 - **Research** (33 skills)
@@ -251,7 +251,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_d13fa0ae/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/design-orchestration/SKILL.md) | 🔥 13.4k | `automation` |
 | [Readme Flat Skills Updated](automation/workflow/135-readme_flat_skills_updated_7e94df01/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 24.4k | `automation` |
 
-### Commercial (61 skills)
+### Commercial (60 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -315,9 +315,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Isabelle Syntax](commercial/376-isabelle_syntax_ba669e84/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/program-to-model-extractor/references/isabelle_syntax.md) | ⭐ 10 | `commercial` |
 | [Platform Guides](commercial/377-platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
 | [Distributed Patterns](commercial/378-distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
-| [Step3 Customer Needs](commercial/step3-customer-needs_f94832af/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step3-customer-needs.md) | ⭐ 10 | `commercial` |
 
-### Communication (30 skills)
+### Communication (29 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -350,7 +349,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Best Practices](communication/261-best_practices_3273e09c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/best_practices.md) | ⭐ 10 | `communication` |
 | [Security Events](communication/262-security_events_e42caca5/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/security-sensitive-path-instrumenter/references/security_events.md) | ⭐ 10 | `communication` |
 | [Todowrite Usage Guide](communication/253-todowrite-usage-guide_04def9e0/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/todowrite-usage-guide.md) | ⭐ 600 | `communication` |
-| [Crm Example](communication/crm-example_9c0fce33/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/crm-example.md) | ⭐ 10 | `communication` |
 
 ### Content Creation (80 skills)
 
@@ -479,7 +477,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Java Edge Cases](daily-assistant/265-java_edge_cases_f163cab6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/edge-case-generator/references/java_edge_cases.md) | ⭐ 10 | `daily assistant` |
 | [Clarification Patterns](daily-assistant/266-clarification_patterns_8eea096a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/clarification_patterns.md) | ⭐ 10 | `daily assistant` |
 | [Requirement Patterns](daily-assistant/267-requirement_patterns_5931ff4c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/requirement_patterns.md) | ⭐ 10 | `daily assistant` |
-| [Step1 Customer Problems](daily-assistant/step1-customer-problems_9c1de879/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `daily assistant` |
+| [Step1 Customer Problems](daily-assistant/263-step1-customer-problems_9c1de879/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `daily assistant` |
 
 ### Data Analysis (95 skills)
 
@@ -579,9 +577,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Semantic Analysis](data-analysis/482-semantic_analysis_f2c05cc4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/semantic_analysis.md) | ⭐ 10 | `data analysis` |
 | [Detection Patterns](data-analysis/483-detection_patterns_888fe31a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/references/detection_patterns.md) | ⭐ 10 | `data analysis` |
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
-| [Microer Example](data-analysis/microer-example_a24fc591/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/microer-example.md) | ⭐ 10 | `data analysis` |
+| [Cli Reference](data-analysis/cli_reference_8460513a/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/CLI_REFERENCE.md) | ⭐ 43 | `data analysis` |
 
-### Development (335 skills)
+### Development (334 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -918,10 +916,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Streaming Sse Guide](development/2873-streaming-sse-guide_56799ef2/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/docs/streaming-sse-guide.md) | ⭐ 600 | `development` |
 | [Optimization Summary](development/2874-optimization_summary_829204c9/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/frontend-design/OPTIMIZATION_SUMMARY.md) | ⭐ 600 | `development` |
 | [Skill](development/1178-name-skill_b2af3b48/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/web-search/SKILL.md) | ⭐ 600 | `development` |
-| [Skill](development/name-skill_53f1cebe/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/SKILL.md) | ⭐ 10 | `development` |
-| [Zigzag Validator](development/zigzag-validator_17a38f3a/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/zigzag-validator.md) | ⭐ 10 | `development` |
+| [Skill](development/1178-name-skill_53f1cebe/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/SKILL.md) | ⭐ 10 | `development` |
 
-### Development/Devops (155 skills)
+### Development/Devops (156 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1080,6 +1077,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_a1cc67a6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/architect-review/SKILL.md) | 🔥 13.4k | `development` |
 | [Skill](development/devops/014-name-skill_f9416fde/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/performance-engineer/SKILL.md) | 🔥 13.4k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_7e2219ec/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 24.4k | `development` |
+| [Skills Testing](development/devops/skills_testing_d62e7eff/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/SKILLS_TESTING.md) | ⭐ 43 | `development` |
 
 ### Development/Testing (24 skills)
 
@@ -1218,7 +1216,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Statusline Updated](development/tools/173-readme_flat_statusline_updated_202be4cb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 24.4k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_f60e4311/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 24.4k | `development` |
 
-### Investment (10 skills)
+### Investment (9 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1231,7 +1229,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_9fd4c364/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/wnba-data/SKILL.md) | ⭐ 24 | `investment` |
 | [Commands](investment/050-commands_b3537439/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/commands.md) | ⭐ 24 | `investment` |
 | [Series Tickers](investment/051-series-tickers_fb5fea49/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/kalshi/references/series-tickers.md) | ⭐ 24 | `investment` |
-| [Complexity Analysis](investment/complexity-analysis_97792283/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/complexity-analysis.md) | ⭐ 10 | `investment` |
 
 ### Other (1 skills)
 
@@ -1342,5 +1339,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 00:07:41 UTC*
+*Last updated: 2026-02-23 00:09:00 UTC*
 *Automatically maintained by SkillFlow*
