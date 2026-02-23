@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1100 AI-powered skills** organized into 15 categories.
+A curated collection of **1105 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -15,10 +15,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Content Creation** (87 skills)
 - **Daily Assistant** (49 skills)
 - **Data Analysis** (96 skills)
-- **Development** (349 skills)
-- **Development/Devops** (168 skills)
+- **Development** (351 skills)
+- **Development/Devops** (170 skills)
 - **Development/Testing** (25 skills)
-- **Development/Tools** (115 skills)
+- **Development/Tools** (116 skills)
 - **Investment** (9 skills)
 - **Other** (1 skill)
 - **Productivity** (10 skills)
@@ -448,7 +448,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_8d3e47e8/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/SKILL.md) | ⭐ 10 | `content creation` |
 | [Magick Reference](content-creation/353-magick-reference_7febcf3f/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/magick-reference.md) | ⭐ 10 | `content creation` |
 | [Recipes](content-creation/354-recipes_24c9be07/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/recipes.md) | ⭐ 10 | `content creation` |
-| [Claude](content-creation/claude_fae8645d/) | [calderbuild/agentcut](https://raw.githubusercontent.com/calderbuild/agentcut/main/CLAUDE.md) | ⭐ 12 | `content creation` |
+| [Claude](content-creation/007-claude_fae8645d/) | [calderbuild/agentcut](https://raw.githubusercontent.com/calderbuild/agentcut/main/CLAUDE.md) | ⭐ 12 | `content creation` |
 
 ### Daily Assistant (49 skills)
 
@@ -605,7 +605,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
 
-### Development (349 skills)
+### Development (351 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -957,9 +957,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Workflow Troubleshooting](development/2875-workflow_troubleshooting_d48aaa23/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/WORKFLOW_TROUBLESHOOTING.md) | ⭐ 24 | `development` |
 | [Configuration](development/191-configuration_41aedf4b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
 | [Session Summary](development/2877-session_summary_a4a22d16/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/SESSION_SUMMARY.md) | ⭐ 24 | `development` |
-| [Skill](development/name-skill_8f7ac62b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md) | ⭐ 915 | `development` |
+| [Skill](development/1178-name-skill_8f7ac62b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md) | ⭐ 915 | `development` |
+| [Skill](development/name-skill_a93c5015/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/new-feature-design/SKILL.md) | ⭐ 449 | `development` |
+| [Skill](development/name-skill_1c3e32a8/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/SKILL.md) | ⭐ 449 | `development` |
 
-### Development/Devops (168 skills)
+### Development/Devops (170 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1131,6 +1133,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rbac](development/devops/010-rbac_941810a9/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Securing](development/devops/366-securing_f01095ce/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md) | ⭐ 3.3k | `development` |
 | [Reverse Proxy](development/devops/378-reverse-proxy_c536397f/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md) | ⭐ 3.3k | `development` |
+| [Entra Id Setup](development/devops/entra-id-setup_33e50d9e/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/entra-id-setup.md) | ⭐ 449 | `development` |
+| [Security Scanner](development/devops/security-scanner_23f0cff7/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/security-scanner.md) | ⭐ 449 | `development` |
 
 ### Development/Testing (25 skills)
 
@@ -1162,7 +1166,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Dependency Formats](development/testing/088-dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
 | [Commands](development/testing/092-commands_cc6cc178/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.agents/skills/agent-browser/references/commands.md) | ⭐ 18 | `development` |
 
-### Development/Tools (115 skills)
+### Development/Tools (116 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1281,6 +1285,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/086-description-skill_aebb20d3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/workshops/.cursor/skills/embedded-debug-tools/SKILL.md) | ⭐ 18 | `development` |
 | [Claude](development/tools/017-claude_2b3b5dfe/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/CLAUDE.md) | ⭐ 24 | `development` |
 | [Api Surface](development/tools/345-api-surface_956ec1cb/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md) | ⭐ 75 | `development` |
+| [Iam Settings Ui](development/tools/iam-settings-ui_2f16319a/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/iam-settings-ui.md) | ⭐ 449 | `development` |
 
 ### Investment (9 skills)
 
@@ -1407,5 +1412,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 05:49:25 UTC*
+*Last updated: 2026-02-23 07:48:13 UTC*
 *Automatically maintained by SkillFlow*

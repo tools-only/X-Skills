@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T05:49:25.827099",
+  "updated_at": "2026-02-23T07:48:13.628312",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -15399,6 +15399,76 @@
       "repo_stars": 915,
       "repo_updated_at": "2026-02-23T04:21:19+00:00",
       "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "33e50d9eea4d863a5137d7d548a5782c086155fc214cb42a246df54e074641a6",
+      "source_path": "docs/entra-id-setup.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/devops/240-entra-id-setup_33e50d9e",
+      "category": "development/devops",
+      "name": "entra-id-setup_33e50d9e",
+      "indexed_at": "2026-02-23T07:48:12.332909",
+      "repo_stars": 449,
+      "repo_updated_at": "2026-02-19T17:08:39+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/entra-id-setup.md",
+      "display_name": "Entra Id Setup",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "23f0cff7e1fc76f68f529561966426ef33f9d94c7899781c3080bd87669184f2",
+      "source_path": "docs/security-scanner.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/devops/004-security-scanner_23f0cff7",
+      "category": "development/devops",
+      "name": "security-scanner_23f0cff7",
+      "indexed_at": "2026-02-23T07:48:12.655316",
+      "repo_stars": 449,
+      "repo_updated_at": "2026-02-20T04:25:51+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/security-scanner.md",
+      "display_name": "Security Scanner",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2f16319a8ac59d24a987c6c762e6bd9579c9cf91d4c0350d14cec7c7f0eb72b0",
+      "source_path": "docs/iam-settings-ui.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/tools/335-iam-settings-ui_2f16319a",
+      "category": "development/tools",
+      "name": "iam-settings-ui_2f16319a",
+      "indexed_at": "2026-02-23T07:48:13.022391",
+      "repo_stars": 449,
+      "repo_updated_at": "2026-02-19T19:24:58+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/docs/iam-settings-ui.md",
+      "display_name": "Iam Settings Ui",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a93c50156ea05fca76c20dd2642edd1929df05470138edb83a6565c3e00dd68a",
+      "source_path": ".claude/skills/new-feature-design/SKILL.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/1178-name-skill_a93c5015",
+      "category": "development",
+      "name": "name-skill_a93c5015",
+      "indexed_at": "2026-02-23T07:48:13.331175",
+      "repo_stars": 449,
+      "repo_updated_at": "2026-02-20T04:34:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/new-feature-design/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "1c3e32a87156d44188fb8d4737bf99ed83147b0b6dd762f50a57f624ec38f248",
+      "source_path": ".claude/skills/pr-review/SKILL.md",
+      "source_repo": "agentic-community/mcp-gateway-registry",
+      "local_path": "development/1178-name-skill_1c3e32a8",
+      "category": "development",
+      "name": "name-skill_1c3e32a8",
+      "indexed_at": "2026-02-23T07:48:13.628261",
+      "repo_stars": 449,
+      "repo_updated_at": "2026-02-20T04:34:11+00:00",
+      "source_url": "https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/pr-review/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"development\"]"
     }
