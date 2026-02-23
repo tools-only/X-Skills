@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T03:49:00.295542",
+  "updated_at": "2026-02-23T04:47:04.609132",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -15275,6 +15275,104 @@
       "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/skills/synth-smr-control/references/api-surface.md",
       "display_name": "Api Surface",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8d3e47e827c0c79aafa57b84cab71c4f9f9da7268b130ba9fa637e383f01ae70",
+      "source_path": "skills/design-media/image-forge/SKILL.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "content-creation/049-name-skill_8d3e47e8",
+      "category": "content-creation",
+      "name": "name-skill_8d3e47e8",
+      "indexed_at": "2026-02-23T03:49:23.117459",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-22T23:35:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "7febcf3f511186c81fc61c29dbcda9f053e65c156d0442a6b246035c792bd8ec",
+      "source_path": "skills/design-media/image-forge/references/magick-reference.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "content-creation/353-magick-reference_7febcf3f",
+      "category": "content-creation",
+      "name": "magick-reference_7febcf3f",
+      "indexed_at": "2026-02-23T03:49:23.556990",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-22T23:35:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/magick-reference.md",
+      "display_name": "Magick Reference",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "24c9be07cff280368744ce4759d0ddba18c6b8feb5f8d6cfeac8cf58a2a69ed2",
+      "source_path": "skills/design-media/image-forge/references/recipes.md",
+      "source_repo": "tdimino/claude-code-minoan",
+      "local_path": "content-creation/354-recipes_24c9be07",
+      "category": "content-creation",
+      "name": "recipes_24c9be07",
+      "indexed_at": "2026-02-23T03:49:24.312436",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-22T23:35:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/design-media/image-forge/references/recipes.md",
+      "display_name": "Recipes",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "941810a9a91887e1fc9712ba93b3eb6eafab223d655ce803731104eaa1b6a1a4",
+      "source_path": "docs/docs/manage/rbac.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/010-rbac_941810a9",
+      "category": "development/devops",
+      "name": "rbac_941810a9",
+      "indexed_at": "2026-02-23T04:47:04.097739",
+      "repo_stars": 3313,
+      "repo_updated_at": "2026-02-22T15:24:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md",
+      "display_name": "Rbac",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f01095ce817ea9d246a80997eb886f0ac7b6ba67f7372ade77b3d45de105b185",
+      "source_path": "docs/docs/manage/securing.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/366-securing_f01095ce",
+      "category": "development/devops",
+      "name": "securing_f01095ce",
+      "indexed_at": "2026-02-23T04:47:04.270251",
+      "repo_stars": 3313,
+      "repo_updated_at": "2026-02-22T15:24:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/securing.md",
+      "display_name": "Securing",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c536397fcf937e453004d31d606b7888576971edb950ad17c783e678e286ff46",
+      "source_path": "docs/docs/using/reverse-proxy.md",
+      "source_repo": "IBM/mcp-context-forge",
+      "local_path": "development/devops/378-reverse-proxy_c536397f",
+      "category": "development/devops",
+      "name": "reverse-proxy_c536397f",
+      "indexed_at": "2026-02-23T04:47:04.437743",
+      "repo_stars": 3313,
+      "repo_updated_at": "2026-02-22T18:30:40+00:00",
+      "source_url": "https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/reverse-proxy.md",
+      "display_name": "Reverse Proxy",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "d8e49039db6575391f3d7faf285449c248d6ac2a785ee609726bc6ffb542065d",
+      "source_path": "skills/nanobanana-restore/SKILL.md",
+      "source_repo": "jim60105/copilot-prompt",
+      "local_path": "automation/workflow/002-name-skill_d8e49039",
+      "category": "automation/workflow",
+      "name": "name-skill_d8e49039",
+      "indexed_at": "2026-02-23T04:47:04.609058",
+      "repo_stars": 17,
+      "repo_updated_at": "2026-02-22T19:11:30+00:00",
+      "source_url": "https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/nanobanana-restore/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
     }
   ]
 }
