@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-23T21:30:18.860069",
+  "updated_at": "2026-02-23T22:31:21.936868",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -17780,6 +17780,76 @@
       "repo_updated_at": "2026-02-23T00:10:01+00:00",
       "source_url": "https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/ux-states-audit/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "bd250760c877328214249021d70b726790de6562a237e449f3face129d80fb7d",
+      "source_path": "COMPARISON.md",
+      "source_repo": "vibheksoni/stealth-browser-mcp",
+      "local_path": "development/181-comparison_bd250760",
+      "category": "development",
+      "name": "comparison_bd250760",
+      "indexed_at": "2026-02-23T22:31:20.633976",
+      "repo_stars": 337,
+      "repo_updated_at": "2025-08-09T23:01:21+00:00",
+      "source_url": "https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/COMPARISON.md",
+      "display_name": "Comparison",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "ac77d60e55d389dfee6b2ebcd83991e095276ce72575b1d1e4a257c7b6692a63",
+      "source_path": "HALL_OF_FAME.md",
+      "source_repo": "vibheksoni/stealth-browser-mcp",
+      "local_path": "automation/workflow/136-hall_of_fame_ac77d60e",
+      "category": "automation/workflow",
+      "name": "hall_of_fame_ac77d60e",
+      "indexed_at": "2026-02-23T22:31:21.127414",
+      "repo_stars": 337,
+      "repo_updated_at": "2026-02-10T16:29:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/HALL_OF_FAME.md",
+      "display_name": "Hall Of Fame",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "b82aaf4be24f3a3b69609c79d097c893b355ad52673e3e61a03b9f2444ffa224",
+      "source_path": "CLAUDE.md",
+      "source_repo": "DareDev256/fcpxml-mcp-server",
+      "local_path": "development/tools/017-claude_b82aaf4b",
+      "category": "development/tools",
+      "name": "claude_b82aaf4b",
+      "indexed_at": "2026-02-23T22:31:21.321508",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-23T15:38:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/CLAUDE.md",
+      "display_name": "Claude",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "165f332ec615c9be305022a409145805446eb421360ec1413378a0331f9d7bae",
+      "source_path": "docs/specs/02_FCPXML_STRUCTURE.md",
+      "source_repo": "DareDev256/fcpxml-mcp-server",
+      "local_path": "content-creation/355-02_fcpxml_structure_165f332e",
+      "category": "content-creation",
+      "name": "02_fcpxml_structure_165f332e",
+      "indexed_at": "2026-02-23T22:31:21.597005",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-20T20:52:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/02_FCPXML_STRUCTURE.md",
+      "display_name": "02 Fcpxml Structure",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "1df057e9e304cfcd6a8d163d38fc95d02babe79c05225a1993a60689bfacaa19",
+      "source_path": "docs/specs/06_IMPLEMENTATION_ROADMAP.md",
+      "source_repo": "DareDev256/fcpxml-mcp-server",
+      "local_path": "development/testing/082-06_implementation_roadmap_1df057e9",
+      "category": "development/testing",
+      "name": "06_implementation_roadmap_1df057e9",
+      "indexed_at": "2026-02-23T22:31:21.936821",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-01-20T20:52:55+00:00",
+      "source_url": "https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/06_IMPLEMENTATION_ROADMAP.md",
+      "display_name": "06 Implementation Roadmap",
       "tags": "[\"development\"]"
     }
   ]

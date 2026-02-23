@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1271 AI-powered skills** organized into 15 categories.
+A curated collection of **1284 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,18 +9,18 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (9 skills)
-- **Automation/Workflow** (72 skills)
+- **Automation/Workflow** (73 skills)
 - **Commercial** (61 skills)
 - **Communication** (36 skills)
-- **Content Creation** (105 skills)
+- **Content Creation** (108 skills)
 - **Daily Assistant** (60 skills)
 - **Data Analysis** (104 skills)
-- **Development** (413 skills)
-- **Development/Devops** (184 skills)
-- **Development/Testing** (30 skills)
-- **Development/Tools** (138 skills)
+- **Development** (416 skills)
+- **Development/Devops** (185 skills)
+- **Development/Testing** (31 skills)
+- **Development/Tools** (141 skills)
 - **Investment** (12 skills)
-- **Other** (1 skill)
+- **Other** (2 skills)
 - **Productivity** (12 skills)
 - **Research** (34 skills)
 
@@ -195,7 +195,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_cd9bc25c/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/slipbox/SKILL.md) | ⭐ 11 | `tag1` `tag2` |
 | [Instructions](automation/scripting/086-instructions_972e04a2/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/instructions.md) | ⭐ 18 | `automation` |
 
-### Automation/Workflow (72 skills)
+### Automation/Workflow (73 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -271,6 +271,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tembo](automation/workflow/137-tembo_6e9e2574/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/coding-agents/tembo.md) | ⭐ 20 | `automation` |
 | [Biome](automation/workflow/138-biome_7c46c8b2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/biome.md) | ⭐ 20 | `automation` |
 | [Sourcesyncai Mcp](automation/workflow/139-sourcesyncai-mcp_8b1c62cc/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/mcp-ecosystem/sourcesyncai-mcp.md) | ⭐ 20 | `automation` |
+| [Hall Of Fame](automation/workflow/hall_of_fame_ac77d60e/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/HALL_OF_FAME.md) | ⭐ 337 | `automation` |
 
 ### Commercial (61 skills)
 
@@ -379,7 +380,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 01 Openai Chat Invalid Response](communication/136-2026-02-01_openai-chat-invalid-response_a3376a5a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-02-01_openai-chat-invalid-response.md) | ⭐ 113 | `communication` |
 | [2026 02 22 Compact Command Ux Mapping](communication/254-2026-02-22_compact-command-ux-mapping_d2257cfe/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-22_compact-command-ux-mapping.md) | ⭐ 113 | `communication` |
 
-### Content Creation (105 skills)
+### Content Creation (108 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -488,6 +489,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Config Settings](content-creation/352-config_settings_a090ee3b/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.5k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Skill](content-creation/049-name-skill_c1f59f1a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [2026 02 22 Mypy Type Contract Fixes](content-creation/355-2026-02-22-mypy-type-contract-fixes_c3a176d9/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/delta/2026-02-22-mypy-type-contract-fixes.md) | ⭐ 113 | `content creation` |
+| [02 Fcpxml Structure](content-creation/02_fcpxml_structure_165f332e/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/02_FCPXML_STRUCTURE.md) | ⭐ 10 | `content creation` |
+| [Workflows](content-creation/workflows_51982fbb/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/WORKFLOWS.md) | ⭐ 10 | `content creation` |
+| [04 Auto Rough Cut Algorithm](content-creation/04_auto_rough_cut_algorithm_f877cb0f/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/04_AUTO_ROUGH_CUT_ALGORITHM.md) | ⭐ 10 | `content creation` |
 
 ### Daily Assistant (60 skills)
 
@@ -663,7 +667,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_7db1a822/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/bump-version/SKILL.md) | ⭐ 17 | `data analysis` |
 | [Skills](data-analysis/484-ui_868a4f0e/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/marimo-notebook/references/UI.md) | ⭐ 45 | `data analysis` |
 
-### Development (413 skills)
+### Development (416 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1075,13 +1079,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Selecting An Mcp Gateway](development/955-selecting-an-mcp-gateway_f6009185/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/best-practices/selecting-an-mcp-gateway.md) | ⭐ 3.3k | `development` |
 | [Claude](development/140-claude_19d442cc/) | [henkisdabro/wookstar-claude-plugins](https://raw.githubusercontent.com/henkisdabro/wookstar-claude-plugins/main/CLAUDE.md) | ⭐ 29 | `development` |
 | [Skill](development/1178-name-skill_628d5f75/) | [marimo-team/skills](https://raw.githubusercontent.com/marimo-team/skills/main/skills/anywidget/SKILL.md) | ⭐ 45 | `development` |
-| [Soul](development/soul_a2893525/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SOUL.md) | ⭐ 135 | `development` |
-| [Agent Operating Manual](development/agent-operating-manual_37e4ab16/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 135 | `development` |
-| [Skill](development/name-skill_3dc5fe3c/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/error-audit/SKILL.md) | ⭐ 135 | `development` |
-| [Skill](development/name-skill_1c7fc8df/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/ux-states-audit/SKILL.md) | ⭐ 135 | `development` |
-| [Skill](development/name-skill_1435bebb/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/observability-audit/SKILL.md) | ⭐ 135 | `development` |
+| [Soul](development/2214-soul_a2893525/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/SOUL.md) | ⭐ 135 | `development` |
+| [Agent Operating Manual](development/2218-agent-operating-manual_37e4ab16/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.meridian/prompts/agent-operating-manual.md) | ⭐ 135 | `development` |
+| [Skill](development/1178-name-skill_3dc5fe3c/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/error-audit/SKILL.md) | ⭐ 135 | `development` |
+| [Skill](development/1178-name-skill_1c7fc8df/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/ux-states-audit/SKILL.md) | ⭐ 135 | `development` |
+| [Comparison](development/comparison_bd250760/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/COMPARISON.md) | ⭐ 337 | `development` |
+| [Stealth Tests](development/stealth_tests_9ef31e8b/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/STEALTH_TESTS.md) | ⭐ 337 | `development` |
+| [Augment Hero Clone](development/augment-hero-clone_022d0efa/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/demo/augment-hero-clone.md) | ⭐ 337 | `development` |
+| [Claude Prompts](development/claude_prompts_6635f16f/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/examples/claude_prompts.md) | ⭐ 337 | `development` |
 
-### Development/Devops (184 skills)
+### Development/Devops (185 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1269,8 +1276,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/devops/050-index_e7838fd3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/index.md) | ⭐ 3.3k | `development` |
 | [Index](development/devops/050-index_87804a1c/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/architecture/index.md) | ⭐ 3.3k | `development` |
 | [Features](development/devops/367-features_9cb406c3/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/features.md) | ⭐ 3.3k | `development` |
+| [Roadmap](development/devops/roadmap_81697364/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/ROADMAP.md) | ⭐ 337 | `development` |
 
-### Development/Testing (30 skills)
+### Development/Testing (31 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1304,8 +1312,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_8ff431a1/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/SKILL.md) | ⭐ 18 | `development` |
 | [Anti Patterns](development/testing/082-anti_patterns_29dba73b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/anti_patterns.md) | ⭐ 18 | `development` |
 | [Framework Configs](development/testing/083-framework_configs_3e99d492/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/framework_configs.md) | ⭐ 18 | `development` |
+| [06 Implementation Roadmap](development/testing/06_implementation_roadmap_1df057e9/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/06_IMPLEMENTATION_ROADMAP.md) | ⭐ 10 | `development` |
 
-### Development/Tools (138 skills)
+### Development/Tools (141 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1447,6 +1456,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 04 15 20 48 Core Directory Analysis](development/tools/241-2026-02-04_15-20-48_core_directory_analysis_774731cd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-04_15-20-48_core_directory_analysis.md) | ⭐ 113 | `development` |
 | [Tools](development/tools/300-tools_b91e0aa6/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/tools/tools.md) | ⭐ 113 | `development` |
 | [Mcpgateway](development/tools/010-mcpgateway_b15e19eb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md) | ⭐ 3.3k | `development` |
+| [Claude](development/tools/claude_b82aaf4b/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Bug Report](development/tools/bug_report_0b2ec1c5/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 337 | `development` |
+| [01 Tool Schemas](development/tools/01_tool_schemas_3d7fd7db/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/01_TOOL_SCHEMAS.md) | ⭐ 10 | `development` |
 
 ### Investment (12 skills)
 
@@ -1465,11 +1477,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Proposal](investment/051-proposal_2473f453/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md) | ⭐ 23 | `investment` |
 | [Skill](investment/021-name-skill_a41f4990/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/brainstorm/SKILL.md) | ⭐ 34 | `investment` |
 
-### Other (1 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
+| [Feature Request](other/feature_request_895f9725/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 337 | `other` |
 
 ### Productivity (12 skills)
 
@@ -1578,5 +1591,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 21:30:19 UTC*
+*Last updated: 2026-02-23 22:31:22 UTC*
 *Automatically maintained by SkillFlow*
