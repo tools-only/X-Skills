@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1032 AI-powered skills** organized into 15 categories.
+A curated collection of **1047 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (7 skills)
-- **Automation/Workflow** (53 skills)
+- **Automation/Workflow** (54 skills)
 - **Commercial** (60 skills)
 - **Communication** (29 skills)
 - **Content Creation** (80 skills)
 - **Daily Assistant** (39 skills)
-- **Data Analysis** (95 skills)
-- **Development** (334 skills)
-- **Development/Devops** (156 skills)
+- **Data Analysis** (94 skills)
+- **Development** (335 skills)
+- **Development/Devops** (162 skills)
 - **Development/Testing** (24 skills)
-- **Development/Tools** (103 skills)
+- **Development/Tools** (111 skills)
 - **Investment** (9 skills)
 - **Other** (1 skill)
 - **Productivity** (9 skills)
@@ -193,7 +193,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Fleet](automation/scripting/086-fleet_1a9c6299/) | [TechNickAI/openclaw-config](https://raw.githubusercontent.com/TechNickAI/openclaw-config/main/.claude/commands/fleet.md) | ⭐ 13 | `automation` |
 | [Vulnerability Databases](automation/scripting/086-vulnerability_databases_01d8449e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/vulnerability_databases.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (53 skills)
+### Automation/Workflow (54 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -250,6 +250,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Formal Tools](automation/workflow/135-formal_tools_dea54acb/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rtl-equivalence-checker/references/formal_tools.md) | ⭐ 10 | `automation` |
 | [Skill](automation/workflow/002-name-skill_d13fa0ae/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/design-orchestration/SKILL.md) | 🔥 13.4k | `automation` |
 | [Readme Flat Skills Updated](automation/workflow/135-readme_flat_skills_updated_7e94df01/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_UPDATED.md) | 🔥 24.4k | `automation` |
+| [Readme Flat Skills Az](automation/workflow/readme_flat_skills_az_51532ca9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_SKILLS_AZ.md) | 🔥 24.6k | `automation` |
 
 ### Commercial (60 skills)
 
@@ -479,7 +480,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Requirement Patterns](daily-assistant/267-requirement_patterns_5931ff4c/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/requirement-to-tlaplus-property-generator/references/requirement_patterns.md) | ⭐ 10 | `daily assistant` |
 | [Step1 Customer Problems](daily-assistant/263-step1-customer-problems_9c1de879/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/references/step1-customer-problems.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (95 skills)
+### Data Analysis (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -577,9 +578,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Semantic Analysis](data-analysis/482-semantic_analysis_f2c05cc4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/semantic-szz-analyzer/references/semantic_analysis.md) | ⭐ 10 | `data analysis` |
 | [Detection Patterns](data-analysis/483-detection_patterns_888fe31a/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/static-bug-detector/references/detection_patterns.md) | ⭐ 10 | `data analysis` |
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
-| [Cli Reference](data-analysis/cli_reference_8460513a/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/CLI_REFERENCE.md) | ⭐ 43 | `data analysis` |
 
-### Development (334 skills)
+### Development (335 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -917,8 +917,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Optimization Summary](development/2874-optimization_summary_829204c9/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/frontend-design/OPTIMIZATION_SUMMARY.md) | ⭐ 600 | `development` |
 | [Skill](development/1178-name-skill_b2af3b48/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/web-search/SKILL.md) | ⭐ 600 | `development` |
 | [Skill](development/1178-name-skill_53f1cebe/) | [RafaelGorski/Problem-Based-SRS](https://raw.githubusercontent.com/RafaelGorski/Problem-Based-SRS/main/skills/problem-based-srs/SKILL.md) | ⭐ 10 | `development` |
+| [Cooldown](development/cooldown_4267ed35/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/docs/COOLDOWN.md) | 🔥 24.6k | `development` |
 
-### Development/Devops (156 skills)
+### Development/Devops (162 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1077,7 +1078,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_a1cc67a6/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/architect-review/SKILL.md) | 🔥 13.4k | `development` |
 | [Skill](development/devops/014-name-skill_f9416fde/) | [sickn33/antigravity-awesome-skills](https://raw.githubusercontent.com/sickn33/antigravity-awesome-skills/main/skills/performance-engineer/SKILL.md) | 🔥 13.4k | `development` |
 | [Readme Flat Tooling Releases](development/devops/163-readme_flat_tooling_releases_7e2219ec/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_RELEASES.md) | 🔥 24.4k | `development` |
-| [Skills Testing](development/devops/skills_testing_d62e7eff/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/SKILLS_TESTING.md) | ⭐ 43 | `development` |
+| [Readme Awesome](development/devops/readme_awesome_8f88676e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_AWESOME.md) | 🔥 24.6k | `development` |
+| [Readme Classic](development/devops/readme_classic_58de1a77/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_CLASSIC.md) | 🔥 24.6k | `development` |
+| [Readme Flat All Az](development/devops/readme_flat_all_az_46e4168e/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat All Releases](development/devops/readme_flat_all_releases_1b29b908/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_ALL_RELEASES.md) | 🔥 24.6k | `development` |
+| [Readme Flat Claude Md Az](development/devops/readme_flat_claude-md_az_12d1ad30/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Claude Md Releases](development/devops/readme_flat_claude-md_releases_b8e41ed9/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLAUDE-MD_RELEASES.md) | 🔥 24.6k | `development` |
+| [Readme Flat Tooling Az](development/devops/readme_flat_tooling_az_38ad2f96/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_TOOLING_AZ.md) | 🔥 24.6k | `development` |
 
 ### Development/Testing (24 skills)
 
@@ -1108,7 +1115,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Python Replay](development/testing/087-python-replay_5cd4a143/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/replay-oriented-instrumentation/references/python-replay.md) | ⭐ 10 | `development` |
 | [Dependency Formats](development/testing/088-dependency_formats_fb90d6f4/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/time-aware-dependency-cve-scanner/references/dependency_formats.md) | ⭐ 10 | `development` |
 
-### Development/Tools (103 skills)
+### Development/Tools (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1215,6 +1222,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Readme Flat Workflows Releases](development/tools/180-readme_flat_workflows_releases_676983da/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_RELEASES.md) | 🔥 24.4k | `development` |
 | [Readme Flat Statusline Updated](development/tools/173-readme_flat_statusline_updated_202be4cb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_UPDATED.md) | 🔥 24.4k | `development` |
 | [Readme Flat Workflows Updated](development/tools/181-readme_flat_workflows_updated_f60e4311/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_UPDATED.md) | 🔥 24.4k | `development` |
+| [Readme Flat Clients Az](development/tools/readme_flat_clients_az_34ec63b2/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Clients Updated](development/tools/readme_flat_clients_updated_038bed5f/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_CLIENTS_UPDATED.md) | 🔥 24.6k | `development` |
+| [Readme Flat Commands Releases](development/tools/readme_flat_commands_releases_34ade65c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_COMMANDS_RELEASES.md) | 🔥 24.6k | `development` |
+| [Readme Flat Docs Created](development/tools/readme_flat_docs_created_fc64977c/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_DOCS_CREATED.md) | 🔥 24.6k | `development` |
+| [Readme Flat Hooks Az](development/tools/readme_flat_hooks_az_687deee8/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_HOOKS_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Statusline Az](development/tools/readme_flat_statusline_az_fb5537d0/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STATUSLINE_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Styles Az](development/tools/readme_flat_styles_az_ef4a07bb/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_STYLES_AZ.md) | 🔥 24.6k | `development` |
+| [Readme Flat Workflows Az](development/tools/readme_flat_workflows_az_ec5961ff/) | [hesreallyhim/awesome-claude-code](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/main/README_ALTERNATIVES/README_FLAT_WORKFLOWS_AZ.md) | 🔥 24.6k | `development` |
 
 ### Investment (9 skills)
 
@@ -1339,5 +1354,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-23 00:09:00 UTC*
+*Last updated: 2026-02-23 01:09:06 UTC*
 *Automatically maintained by SkillFlow*
