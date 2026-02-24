@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T19:35:19.736268",
+  "updated_at": "2026-02-24T19:36:33.761000",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -24795,6 +24795,34 @@
       "source_url": "https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Subscripts.md",
       "display_name": "Subscripts",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "06e2775a3cd5386adba97a581f410f4e4e6a6f3ec4ba922434dad309ab4e0ca4",
+      "source_path": "api.md",
+      "source_repo": "anthropics/anthropic-sdk-python",
+      "local_path": "development/tools/050-api_06e2775a",
+      "category": "development/tools",
+      "name": "api_06e2775a",
+      "indexed_at": "2026-02-24T19:36:33.527895",
+      "repo_stars": 2803,
+      "repo_updated_at": "2026-02-18T20:24:27+00:00",
+      "source_url": "https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/api.md",
+      "display_name": "Api",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c4b8ba5ee85be537b76efd6b0e17f763d38765a7f5b925102765abaf01f67b3b",
+      "source_path": "helpers.md",
+      "source_repo": "anthropics/anthropic-sdk-python",
+      "local_path": "development/tools/339-helpers_c4b8ba5e",
+      "category": "development/tools",
+      "name": "helpers_c4b8ba5e",
+      "indexed_at": "2026-02-24T19:36:33.760947",
+      "repo_stars": 2803,
+      "repo_updated_at": "2024-12-10T19:31:43+00:00",
+      "source_url": "https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/helpers.md",
+      "display_name": "Helpers",
+      "tags": "[\"development\"]"
     }
   ]
 }
