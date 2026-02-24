@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T19:36:33.761000",
+  "updated_at": "2026-02-24T20:35:12.938998",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -24823,6 +24823,90 @@
       "source_url": "https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/helpers.md",
       "display_name": "Helpers",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "25b7669323d75028a06ca1cfff7f08a19cad7bd0d79c775841416291da7f7871",
+      "source_path": "plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/SKILL.md",
+      "source_repo": "trailofbits/skills-curated",
+      "local_path": "development/tools/002-name-skill_25b76693",
+      "category": "development/tools",
+      "name": "name-skill_25b76693",
+      "indexed_at": "2026-02-24T20:35:11.718671",
+      "repo_stars": 192,
+      "repo_updated_at": "2026-02-23T06:09:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "759ffd0f3c3a7c3d43b316d10d145295aefd271562543ef5e5e012e5f06a8307",
+      "source_path": "plugins/humanizer/skills/humanizer/SKILL.md",
+      "source_repo": "trailofbits/skills-curated",
+      "local_path": "development/1178-name-skill_759ffd0f",
+      "category": "development",
+      "name": "name-skill_759ffd0f",
+      "indexed_at": "2026-02-24T20:35:11.934633",
+      "repo_stars": 192,
+      "repo_updated_at": "2026-02-23T22:44:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "086b22376d2a3fae01909033d7c60771658e4d41ead1d041df79fdc8f5551874",
+      "source_path": "plugins/skill-extractor/skills/skill-extractor/SKILL.md",
+      "source_repo": "trailofbits/skills-curated",
+      "local_path": "development/1178-name-skill_086b2237",
+      "category": "development",
+      "name": "name-skill_086b2237",
+      "indexed_at": "2026-02-24T20:35:12.151809",
+      "repo_stars": 192,
+      "repo_updated_at": "2026-02-23T06:09:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "381b74bb34086fe4d0501cae4a748fe8e864a52ffe064011bd92010a03cfb95e",
+      "source_path": "plugins/wooyun-legacy/skills/wooyun-legacy/SKILL.md",
+      "source_repo": "trailofbits/skills-curated",
+      "local_path": "development/1178-name-skill_381b74bb",
+      "category": "development",
+      "name": "name-skill_381b74bb",
+      "indexed_at": "2026-02-24T20:35:12.473529",
+      "repo_stars": 192,
+      "repo_updated_at": "2026-02-23T06:09:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a8c55f7c24a65ebe195710df59e1fbfd4aaa5b4885b210865bb91c8f34ad4d8a",
+      "source_path": "plugins/planning-with-files/skills/planning-with-files/SKILL.md",
+      "source_repo": "trailofbits/skills-curated",
+      "local_path": "content-creation/049-name-skill_a8c55f7c",
+      "category": "content-creation",
+      "name": "name-skill_a8c55f7c",
+      "indexed_at": "2026-02-24T20:35:12.708535",
+      "repo_stars": 192,
+      "repo_updated_at": "2026-02-23T06:09:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/planning-with-files/skills/planning-with-files/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "ae2119081bc3b4b80007d8634f716389bfa454351d050da8e8c39b74f0efa0fc",
+      "source_path": "plugins/humanizer/skills/humanizer/references/patterns.md",
+      "source_repo": "trailofbits/skills-curated",
+      "local_path": "content-creation/310-patterns_ae211908",
+      "category": "content-creation",
+      "name": "patterns_ae211908",
+      "indexed_at": "2026-02-24T20:35:12.938944",
+      "repo_stars": 192,
+      "repo_updated_at": "2026-02-23T22:44:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/humanizer/skills/humanizer/references/patterns.md",
+      "display_name": "Patterns",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
