@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1322 AI-powered skills** organized into 15 categories.
+A curated collection of **1417 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (10 skills)
-- **Automation/Workflow** (78 skills)
-- **Commercial** (61 skills)
-- **Communication** (37 skills)
-- **Content Creation** (109 skills)
-- **Daily Assistant** (63 skills)
-- **Data Analysis** (109 skills)
-- **Development** (426 skills)
-- **Development/Devops** (196 skills)
-- **Development/Testing** (31 skills)
-- **Development/Tools** (141 skills)
+- **Automation/Scripting** (12 skills)
+- **Automation/Workflow** (81 skills)
+- **Commercial** (66 skills)
+- **Communication** (41 skills)
+- **Content Creation** (119 skills)
+- **Daily Assistant** (64 skills)
+- **Data Analysis** (111 skills)
+- **Development** (453 skills)
+- **Development/Devops** (213 skills)
+- **Development/Testing** (46 skills)
+- **Development/Tools** (145 skills)
 - **Investment** (13 skills)
-- **Other** (1 skill)
-- **Productivity** (12 skills)
-- **Research** (35 skills)
+- **Other** (4 skills)
+- **Productivity** (13 skills)
+- **Research** (36 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (10 skills)
+### Automation/Scripting (12 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -195,8 +195,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_cd9bc25c/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/slipbox/SKILL.md) | ⭐ 11 | `tag1` `tag2` |
 | [Instructions](automation/scripting/086-instructions_972e04a2/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/daydream/instructions.md) | ⭐ 18 | `automation` |
 | [Skill](automation/scripting/003-name-skill_7cb11cd0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/refresh-research/SKILL.md) | ⭐ 20 | `automation` |
+| [Skill](automation/scripting/name-skill_cd62022c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-bedrock/SKILL.md) | ⭐ 103 | `automation` |
+| [Skill](automation/scripting/name-skill_b32d11ec/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md) | ⭐ 103 | `automation` |
 
-### Automation/Workflow (78 skills)
+### Automation/Workflow (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -276,10 +278,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Kuyuchi Threat Model](automation/workflow/137-kuyuchi-threat-model_eef4d743/) | [nociza/cuti](https://raw.githubusercontent.com/nociza/cuti/main/docs/kuyuchi-threat-model.md) | ⭐ 15 | `automation` |
 | [Skill](automation/workflow/002-name-skill_20256e3b/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/edge-candidate-agent/SKILL.md) | ⭐ 42 | `automation` |
 | [Sdlc Layer Amendments For Review](automation/workflow/136-sdlc-layer-amendments-for-review_52a205c0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/sdlc-layer-amendments-for-review.md) | ⭐ 20 | `automation` |
-| [Skill](automation/workflow/name-skill_06a03677/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md) | ⭐ 54 | `automation` |
-| [Instructions](automation/workflow/instructions_d7b7b879/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 54 | `automation` |
+| [Skill](automation/workflow/002-name-skill_06a03677/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md) | ⭐ 54 | `automation` |
+| [Instructions](automation/workflow/136-instructions_d7b7b879/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 54 | `automation` |
+| [Skill](automation/workflow/name-skill_cfc8da10/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 103 | `automation` |
+| [Skill](automation/workflow/name-skill_9293219a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 103 | `automation` |
+| [Skill](automation/workflow/name-skill_df9a72a4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-vector-stores-configuration/SKILL.md) | ⭐ 103 | `automation` |
 
-### Commercial (61 skills)
+### Commercial (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -344,8 +349,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Platform Guides](commercial/377-platform_guides_5a3e2d4f/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/rollback-strategy-advisor/references/platform_guides.md) | ⭐ 10 | `commercial` |
 | [Distributed Patterns](commercial/378-distributed_patterns_e5145e30/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/distributed_patterns.md) | ⭐ 10 | `commercial` |
 | [Index](commercial/102-index_a1dd3e58/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/overview/index.md) | ⭐ 3.3k | `commercial` |
+| [Skill](commercial/name-skill_b287ff62/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-ai-services-patterns/SKILL.md) | ⭐ 103 | `commercial` |
+| [Skill](commercial/name-skill_e017e3b0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-rag-implementation-patterns/SKILL.md) | ⭐ 103 | `commercial` |
+| [Skill](commercial/name-skill_b14ddda4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-saga-pattern/SKILL.md) | ⭐ 103 | `commercial` |
+| [Skill](commercial/name-skill_c4ae6915/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 103 | `commercial` |
+| [Skill](commercial/name-skill_85d62cf7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-caching/SKILL.md) | ⭐ 103 | `commercial` |
 
-### Communication (37 skills)
+### Communication (41 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -386,13 +396,17 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 01 Openai Chat Invalid Response](communication/136-2026-02-01_openai-chat-invalid-response_a3376a5a/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/.claude/debug_history/2026-02-01_openai-chat-invalid-response.md) | ⭐ 113 | `communication` |
 | [2026 02 22 Compact Command Ux Mapping](communication/254-2026-02-22_compact-command-ux-mapping_d2257cfe/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-22_compact-command-ux-mapping.md) | ⭐ 113 | `communication` |
 | [Clawdbot](communication/252-clawdbot_83a3b776/) | [nociza/cuti](https://raw.githubusercontent.com/nociza/cuti/main/docs/clawdbot.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_94fe200e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 103 | `communication` |
+| [Agents](communication/agents_382612d6/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/frontend/AGENTS.md) | 🔥 6.5k | `communication` |
+| [Skill](communication/name-skill_363ccfeb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-bean-validation/SKILL.md) | ⭐ 103 | `communication` |
+| [Skill](communication/name-skill_0bf8e0e4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-config-properties/SKILL.md) | ⭐ 103 | `communication` |
 
-### Content Creation (109 skills)
+### Content Creation (119 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
-| [Skill](content-creation/049-name-skill_df94dda4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/drizzle-orm-patterns/SKILL.md) | ⭐ 102 | `drizzle` `orm` `database` |
-| [Skill](content-creation/049-name-skill_feaebcdb/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-app-router/SKILL.md) | ⭐ 102 | `nextjs` `next.js` `app-router` |
+| [Skill](content-creation/name-skill_c3d9c15b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/drizzle-orm-patterns/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_8013913e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-app-router/SKILL.md) | ⭐ 103 | `content creation` |
 | [Skill](content-creation/049-name-skill_2cfa63f4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-data-fetching/SKILL.md) | ⭐ 102 | `posts` |
 | [App Router Fundamentals](content-creation/405-app-router-fundamentals_5db2d98d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-app-router/references/app-router-fundamentals.md) | ⭐ 102 | `content creation` |
 | [Metadata Api](content-creation/406-metadata-api_464de7c9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-app-router/references/metadata-api.md) | ⭐ 102 | `content creation` |
@@ -500,8 +514,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Strategy Draft Schema](content-creation/355-strategy_draft_schema_60c710b7/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/edge-strategy-designer/references/strategy_draft_schema.md) | ⭐ 42 | `content creation` |
 | [Skill](content-creation/049-name-skill_df289d52/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/create-backlog-item/SKILL.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_39cb0e51/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/name-skill_ee7afc94/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-openapi-documentation/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_54f51577/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-data-jpa/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/049-name-skill_c3d9c15b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/drizzle-orm-patterns/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/049-name-skill_8013913e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-app-router/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_ff542073/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/react-patterns/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_cad7986b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_a476f87d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-testing-strategies/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_b6a71ee1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-test-patterns/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_ac144852/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-controller-layer/SKILL.md) | ⭐ 103 | `content creation` |
+| [Skill](content-creation/name-skill_ee5632b4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-parameterized/SKILL.md) | ⭐ 103 | `content creation` |
 
-### Daily Assistant (63 skills)
+### Daily Assistant (64 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -568,8 +592,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sdlc Layer L0 Integration Suggestions](daily-assistant/266-sdlc-layer-l0-integration-suggestions_a6a98a1b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/sdlc-layer-L0-integration-suggestions.md) | ⭐ 20 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_34c4ffc2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/CLAUDE.md) | ⭐ 20 | `daily assistant` |
 | [Github Integration](daily-assistant/267-github-integration_9a45eeb7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/github-integration.md) | ⭐ 20 | `daily assistant` |
+| [Introduction](daily-assistant/introduction_df9b0ffd/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/introduction.md) | 🔥 6.5k | `daily assistant` |
 
-### Data Analysis (109 skills)
+### Data Analysis (111 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -682,8 +707,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sdlc Layer Arl Integration Suggestions](data-analysis/485-sdlc-layer-arl-integration-suggestions_9037cf07/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/sdlc-layer-ARL-integration-suggestions.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_4383c03f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 20 | `data analysis` |
 | [Role Resolution Protocol](data-analysis/486-role-resolution-protocol_b9113866/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/role-resolution-protocol.md) | ⭐ 20 | `data analysis` |
+| [Skill](data-analysis/name-skill_2105a9b0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/chunking-strategy/SKILL.md) | ⭐ 103 | `data analysis` |
+| [Skill](data-analysis/name-skill_54e99581/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-mapper-converter/SKILL.md) | ⭐ 103 | `data analysis` |
 
-### Development (426 skills)
+### Development (453 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1113,20 +1140,47 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_17af804a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/knowledge-explorer/SKILL.md) | ⭐ 20 | `development` |
 | [Sam Definition](development/2893-sam-definition_c220f102/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 20 | `development` |
 | [Language Manifest Schema](development/2894-language-manifest-schema_57f76c28/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/language-manifest-schema.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_51a96559/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-rds-spring-boot-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_40e95eb2/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-core/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_fe59e850/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-dynamodb/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_a88dc928/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-kms/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_112dcd03/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-lambda/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_25eec512/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-rds/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_f3d15391/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-secrets-manager/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_1b125e58/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-mcp-server-patterns/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_75de8a4a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-spring-boot-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_95773272/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-ai-mcp-server-patterns/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_d9c83ab0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-event-driven-patterns/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_a1f14c5e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-resilience4j/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_0830982b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-rest-api-standards/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_e858338b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_34d979d4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/better-auth/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_9f84be72/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/typescript-docs/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_7b870a6e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudfront/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_29574015/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-dynamodb/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_6c37297d/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-ec2/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_026d780e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-ecs/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_cafd5935/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-iam/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_78d1c7e7/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-rds/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_0bb810d9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-s3/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_25ef7944/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_0ef71eca/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws/aws-drawio-architecture-diagrams/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_3fa51958/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-data-neo4j/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/name-skill_a2ca7b90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-boundary-conditions/SKILL.md) | ⭐ 103 | `development` |
 
-### Development/Devops (196 skills)
+### Development/Devops (213 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Agent Deployment Guide](development/devops/229-agent-deployment-guide_fc15347e/) | [Jaganpro/sf-skills](https://raw.githubusercontent.com/Jaganpro/sf-skills/main/skills/sf-deploy/references/agent-deployment-guide.md) | ⭐ 80 | `development` |
 | [Guide Skills Frontend](development/devops/376-guide-skills-frontend_2f63a088/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/docs/guide-skills-frontend.md) | ⭐ 102 | `development` |
 | [Guide Skills Monorepo](development/devops/377-guide-skills-monorepo_83c4b53f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/docs/guide-skills-monorepo.md) | ⭐ 102 | `development` |
-| [Skill](development/devops/014-name-skill_1ec7fc18/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-lambda-java-integration/SKILL.md) | ⭐ 102 | `aws` `lambda` `java` |
-| [Skill](development/devops/014-name-skill_9bc6e00e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/aws-lambda-php-integration/SKILL.md) | ⭐ 102 | `aws` `lambda` `php` |
-| [Skill](development/devops/014-name-skill_3c0620fc/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/aws-lambda-python-integration/SKILL.md) | ⭐ 102 | `aws` `lambda` `python` |
-| [Skill](development/devops/014-name-skill_2658dda5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/aws-lambda-typescript-integration/SKILL.md) | ⭐ 102 | `aws` `lambda` `typescript` |
-| [Skill](development/devops/014-name-skill_62d193fa/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-deployment/SKILL.md) | ⭐ 102 | `nextjs` `next.js` `deployment` |
-| [Skill](development/devops/014-name-skill_d0e8129e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nx-monorepo/SKILL.md) | ⭐ 102 | `nx` `monorepo` `typescript` |
+| [Skill](development/devops/name-skill_f3ed6951/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-lambda-java-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_191c8df8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/aws-lambda-php-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_2b306eb8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/aws-lambda-python-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_80b3a408/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/aws-lambda-typescript-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_b54ef3a0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-deployment/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_b69118e6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nx-monorepo/SKILL.md) | ⭐ 103 | `development` |
 | [Skill](development/devops/014-name-skill_4133613a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/turborepo-monorepo/SKILL.md) | ⭐ 102 | `development` |
 | [Raw Java Lambda](development/devops/378-raw-java-lambda_bc77ac25/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-lambda-java-integration/references/raw-java-lambda.md) | ⭐ 102 | `development` |
 | [Serverless Deployment](development/devops/379-serverless-deployment_7a94e770/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-lambda-java-integration/references/serverless-deployment.md) | ⭐ 102 | `development` |
@@ -1314,8 +1368,25 @@ ls ~/.claude/skills/patch-research-agent/
 | [Devcontainer](development/devops/373-devcontainer_ad2e96af/) | [nociza/cuti](https://raw.githubusercontent.com/nociza/cuti/main/docs/devcontainer.md) | ⭐ 15 | `development` |
 | [Kuyuchi Container Audit](development/devops/374-kuyuchi-container-audit_c6a2da18/) | [nociza/cuti](https://raw.githubusercontent.com/nociza/cuti/main/docs/kuyuchi-container-audit.md) | ⭐ 15 | `development` |
 | [Copier Astral](development/devops/114-copier-astral_9e1d0343/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/copier-astral.md) | ⭐ 20 | `development` |
+| [Skill](development/devops/014-name-skill_f3ed6951/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-lambda-java-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_1c2e1fd0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/qdrant/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/014-name-skill_191c8df8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/aws-lambda-php-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/014-name-skill_2b306eb8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/aws-lambda-python-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/014-name-skill_80b3a408/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/aws-lambda-typescript-integration/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/014-name-skill_b54ef3a0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-deployment/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/014-name-skill_b69118e6/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nx-monorepo/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_dcd9a75b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-auto-scaling/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_951bbdf8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-lambda/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_6ab61bb1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-task-ecs-deploy-gh/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/devops/name-skill_a1afaf7e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-vpc/SKILL.md) | ⭐ 103 | `development` |
+| [2026 02 15 Docs Hugo Docsy](development/devops/2026-02-15-docs-hugo-docsy_35601fc3/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/plans/2026-02-15-docs-hugo-docsy.md) | 🔥 6.5k | `development` |
+| [2026 02 16 Hextra Switch](development/devops/2026-02-16-hextra-switch_137a4a18/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/plans/2026-02-16-hextra-switch.md) | 🔥 6.5k | `development` |
+| [Index](development/devops/_index_1ded3236/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/installation/_index.md) | 🔥 6.5k | `development` |
+| [Docker Compose](development/devops/docker-compose_45d07a32/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/installation/docker-compose.md) | 🔥 6.5k | `development` |
+| [Docker Swarm](development/devops/docker-swarm_071abcf3/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/installation/docker-swarm.md) | 🔥 6.5k | `development` |
+| [Getting Started](development/devops/getting-started_29b30ff0/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/usage/getting-started.md) | 🔥 6.5k | `development` |
 
-### Development/Testing (31 skills)
+### Development/Testing (46 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1350,8 +1421,23 @@ ls ~/.claude/skills/patch-research-agent/
 | [Anti Patterns](development/testing/082-anti_patterns_29dba73b/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/anti_patterns.md) | ⭐ 18 | `development` |
 | [Framework Configs](development/testing/083-framework_configs_3e99d492/) | [glebis/claude-skills](https://raw.githubusercontent.com/glebis/claude-skills/main/tdd/references/framework_configs.md) | ⭐ 18 | `development` |
 | [06 Implementation Roadmap](development/testing/082-06_implementation_roadmap_1df057e9/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/docs/specs/06_IMPLEMENTATION_ROADMAP.md) | ⭐ 10 | `development` |
+| [Skill](development/testing/name-skill_9b0c0267/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-bedrock/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_0c9c5d21/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-s3/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_d885bd3c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-cache/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_c0a6f1d1/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-dependency-injection/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_3a381fc5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-security-jwt/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_bdcfe77f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
+| [Release Notes](development/testing/release_notes_9d858f7e/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
+| [Skill](development/testing/name-skill_b59656b8/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_f572865f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-application-events/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_257e5704/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-exception-handler/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_2124cef0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-json-serialization/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_8b34db12/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-scheduled-async/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_65f08f74/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-security-authorization/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_10ae3180/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-service-layer/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/testing/name-skill_47022d8a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-wiremock-rest-api/SKILL.md) | ⭐ 103 | `development` |
 
-### Development/Tools (141 skills)
+### Development/Tools (145 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1496,6 +1582,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](development/tools/017-claude_b82aaf4b/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/CLAUDE.md) | ⭐ 10 | `development` |
 | [Backlog](development/tools/335-backlog_f51eb8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `development` |
 | [Tornado](development/tools/223-tornado_23352d91/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/tornado.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/name-skill_59b4fe90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-messaging/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/tools/name-skill_568f70e5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-crud-patterns/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/tools/name-skill_ca8e518c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
+| [Skill](development/tools/name-skill_53b4b91c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/unit-test-utility-methods/SKILL.md) | ⭐ 103 | `development` |
 
 ### Investment (13 skills)
 
@@ -1515,13 +1605,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_a41f4990/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/brainstorm/SKILL.md) | ⭐ 34 | `investment` |
 | [Skill](investment/021-name-skill_d0483423/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 42 | `investment` |
 
-### Other (1 skills)
+### Other (4 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
+| [Index](other/_index_0b887783/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/_index.md) | 🔥 6.5k | `other` |
+| [Index](other/_index_373c440f/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/others/_index.md) | 🔥 6.5k | `other` |
+| [Index](other/_index_6afe9808/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/docs/usage/_index.md) | 🔥 6.5k | `other` |
 
-### Productivity (12 skills)
+### Productivity (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1537,8 +1630,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_3e8d7700/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/SKILL.md) | ⭐ 143 | `productivity` |
 | [Skill](productivity/093-name-skill_98a816b8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/update-claudemd/SKILL.md) | ⭐ 34 | `productivity` |
 | [External Llm](productivity/173-external_llm_6f65f5e7/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXTERNAL_LLM.md) | ⭐ 23 | `productivity` |
+| [Index](productivity/_index_f8f52061/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/content/en/_index.md) | 🔥 6.5k | `productivity` |
 
-### Research (35 skills)
+### Research (36 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1578,6 +1672,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Docx Js](research/258-docx-js_0d24521f/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/docx/docx-js.md) | ⭐ 600 | `research` |
 | [Faq](research/153-faq_3a909ea1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/faq.md) | ⭐ 4.0k | `research` |
 | [Skill](research/139-name-skill_416a280f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
+| [Skill](research/name-skill_7c8c990f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/rag/SKILL.md) | ⭐ 103 | `research` |
 
 ## How Skills Are Organized
 
@@ -1629,5 +1724,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 00:30:45 UTC*
+*Last updated: 2026-02-24 00:32:23 UTC*
 *Automatically maintained by SkillFlow*
