@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T14:37:00.658874",
+  "updated_at": "2026-02-24T15:35:08.616495",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -23423,6 +23423,76 @@
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-background-agent-result-deduplication-after-compaction.md",
       "display_name": "P2 Background Agent Result Deduplication After Compaction",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "a5c03ca31739eab5ccbc66f3b0f04b6ce7286681c56c8f9d54d5f278579f7803",
+      "source_path": "docs/en/api/01-overview.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/tools/319-01-overview_a5c03ca3",
+      "category": "development/tools",
+      "name": "01-overview_a5c03ca3",
+      "indexed_at": "2026-02-24T15:35:07.290922",
+      "repo_stars": 3513,
+      "repo_updated_at": "2026-02-24T05:40:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/api/01-overview.md",
+      "display_name": "01 Overview",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "5a5b980a2acfe23e7fe8538b69691c51e2e087a035fba886985ccd9c8cdbe083",
+      "source_path": "docs/design/multi-tenant-design.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/370-multi-tenant-design_5a5b980a",
+      "category": "development/devops",
+      "name": "multi-tenant-design_5a5b980a",
+      "indexed_at": "2026-02-24T15:35:07.670218",
+      "repo_stars": 3513,
+      "repo_updated_at": "2026-02-24T05:40:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/multi-tenant-design.md",
+      "display_name": "Multi Tenant Design",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2ae84edda4088ce067b432fcd4249b7155ae2f7c3f9da7d8e0ffb688c35d9f74",
+      "source_path": "docs/zh/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/devops/314-01-configuration_2ae84edd",
+      "category": "development/devops",
+      "name": "01-configuration_2ae84edd",
+      "indexed_at": "2026-02-24T15:35:08.111967",
+      "repo_stars": 3513,
+      "repo_updated_at": "2026-02-24T05:40:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "cf067339d41c6c8a5f73931a655cd6ec84037ed28fbcac6b80261d4b6b0d8ffb",
+      "source_path": "docs/en/guides/01-configuration.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "automation/scripting/080-01-configuration_cf067339",
+      "category": "automation/scripting",
+      "name": "01-configuration_cf067339",
+      "indexed_at": "2026-02-24T15:35:08.319064",
+      "repo_stars": 3513,
+      "repo_updated_at": "2026-02-24T05:40:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md",
+      "display_name": "01 Configuration",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "59e9abff19de3218461904e0e3c2db6946e4d9eedb0da1fabcd14d54987abbf1",
+      "source_path": "docs/zh/api/01-overview.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "development/2703-01-overview_59e9abff",
+      "category": "development",
+      "name": "01-overview_59e9abff",
+      "indexed_at": "2026-02-24T15:35:08.616445",
+      "repo_stars": 3513,
+      "repo_updated_at": "2026-02-24T05:40:44+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/api/01-overview.md",
+      "display_name": "01 Overview",
+      "tags": "[\"development\"]"
     }
   ]
 }
