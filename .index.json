@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T09:29:54.194385",
+  "updated_at": "2026-02-24T09:31:18.330421",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -21519,6 +21519,20 @@
       "source_url": "https://raw.githubusercontent.com/tenequm/claude-plugins/main/skill-finder/references/installation-workflow.md",
       "display_name": "Installation Workflow",
       "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "3108a39cfc01184a68cca3e7f359916fe13822aff177793fc6e5f58e74a61437",
+      "source_path": "README.ja.md",
+      "source_repo": "japan1988/multi-agent-mediation",
+      "local_path": "development/1201-readmeja_3108a39c",
+      "category": "development",
+      "name": "readmeja_3108a39c",
+      "indexed_at": "2026-02-24T09:31:18.330367",
+      "repo_stars": 29,
+      "repo_updated_at": "2026-02-24T02:30:46+00:00",
+      "source_url": "https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md",
+      "display_name": "Readme.Ja",
+      "tags": "[\"development\"]"
     }
   ]
 }

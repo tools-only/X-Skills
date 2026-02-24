@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1537 AI-powered skills** organized into 15 categories.
+A curated collection of **1538 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -11,10 +11,10 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Scripting** (21 skills)
 - **Automation/Workflow** (86 skills)
 - **Commercial** (67 skills)
-- **Communication** (46 skills)
-- **Content Creation** (144 skills)
+- **Communication** (45 skills)
+- **Content Creation** (147 skills)
 - **Daily Assistant** (78 skills)
-- **Data Analysis** (131 skills)
+- **Data Analysis** (130 skills)
 - **Development** (476 skills)
 - **Development/Devops** (213 skills)
 - **Development/Testing** (39 skills)
@@ -370,7 +370,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Cost Analysis](commercial/371-cost-analysis_5c210100/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/cost-analysis.md) | ⭐ 19 | `commercial` |
 | [Explore Collection](commercial/371-explore_collection_f0e49749/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/explore_collection.md) | ⭐ 26 | `commercial` |
 
-### Communication (46 skills)
+### Communication (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -419,9 +419,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontend Interface](communication/252-frontend_interface_4bd6d7cc/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/frontend_interface.md) | ⭐ 26 | `communication` |
 | [01 About Us](communication/253-01-about-us_0fcb0eeb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 3.5k | `communication` |
 | [Quick Start](communication/254-quick_start_73af323f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/QUICK_START.md) | ⭐ 10 | `communication` |
-| [Presidio Pii Masking](communication/presidio_pii_masking_9484ec80/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/presidio_pii_masking.md) | 🔥 36.6k | `communication` |
 
-### Content Creation (144 skills)
+### Content Creation (147 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -469,7 +468,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_9adf125e/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/firecrawl/SKILL.md) | ⭐ 12 | `content creation` |
 | [Skill Solrfal](content-creation/356-skill-solrfal_37d65441/) | [dirnbauer/webconsulting-skills](https://raw.githubusercontent.com/dirnbauer/webconsulting-skills/main/skills/typo3-solr/SKILL-SOLRFAL.md) | ⭐ 12 | `content creation` |
 | [Migration V2](content-creation/360-migration_v2_e4def2aa/) | [alirezarezvani/ClaudeForge](https://raw.githubusercontent.com/alirezarezvani/ClaudeForge/dev/docs/MIGRATION_V2.md) | ⭐ 151 | `content creation` |
-| [Config Settings](content-creation/config_settings_b4a5e0a2/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.6k | `cache_hit` `cache_key` `proxy_base_url` |
+| [Config Settings](content-creation/361-config_settings_6990ffd4/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/config_settings.md) | 🔥 36.1k | `cache_hit` `cache_key` `proxy_base_url` |
 | [Skill](content-creation/049-name-skill_047ceb54/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/session-historian/SKILL.md) | ⭐ 18 | `content creation` |
 | [Skill](content-creation/049-name-skill_0237a6a0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [Development Guidelines](content-creation/364-development-guidelines_8c46d36d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/development-guidelines.md) | ⭐ 18 | `content creation` |
@@ -569,6 +568,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_cfd4226a/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/impactful-writing/SKILL.md) | ⭐ 14 | `content creation` |
 | [Founder Playbook](content-creation/355-founder-playbook_6f8041c3/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/founder-playbook/references/founder-playbook.md) | ⭐ 14 | `content creation` |
 | [Issues](content-creation/356-issues_809478db/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/gh-cli/references/issues.md) | ⭐ 14 | `content creation` |
+| [Repositories](content-creation/357-repositories_7642cdb4/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/gh-cli/references/repositories.md) | ⭐ 14 | `content creation` |
+| [Structure Patterns](content-creation/358-structure-patterns_7b29f35d/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/impactful-writing/references/structure-patterns.md) | ⭐ 14 | `content creation` |
+| [Installation Workflow](content-creation/359-installation-workflow_a294ee88/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/skill-finder/references/installation-workflow.md) | ⭐ 14 | `content creation` |
 
 ### Daily Assistant (78 skills)
 
@@ -653,7 +655,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Titan Handover Protocol](daily-assistant/270-titan_handover_protocol_b8d60a4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/TITAN_HANDOVER_PROTOCOL.md) | ⭐ 10 | `daily assistant` |
 | [Release Protocol](daily-assistant/271-release-protocol_b1b92a4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.agent/workflows/release-protocol.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (131 skills)
+### Data Analysis (130 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -787,7 +789,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Engram Specification](data-analysis/487-engram_specification_4a2954e4/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/ENGRAM_SPECIFICATION.md) | ⭐ 10 | `data analysis` |
 | [Governance Policies](data-analysis/488-governance_policies_4fcbaa4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/GOVERNANCE_POLICIES.md) | ⭐ 10 | `data analysis` |
 | [Specification](data-analysis/489-specification_72e96569/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/SPECIFICATION.md) | ⭐ 10 | `data analysis` |
-| [Realtime Guardrails](data-analysis/realtime_guardrails_3403da37/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/guardrails/realtime_guardrails.md) | 🔥 36.6k | `data analysis` |
 
 ### Development (476 skills)
 
@@ -1266,9 +1267,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Best Practices](development/102-best-practices_b061db80/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-md-manager/references/best-practices.md) | ⭐ 10 | `development` |
 | [Memory Hierarchy](development/2908-memory-hierarchy_1d445a4a/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/core-development/claude-md-manager/references/memory-hierarchy.md) | ⭐ 10 | `development` |
 | [Computer Api](development/2909-computer-api_2d97c320/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/references/computer-api.md) | ⭐ 10 | `development` |
-| [Google Genai Sdk](development/google_genai_sdk_1d4f444e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/google_genai_sdk.md) | 🔥 36.6k | `development` |
-| [Openai Agents Sdk](development/openai_agents_sdk_841feff7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openai_agents_sdk.md) | 🔥 36.6k | `development` |
-| [Groq](development/groq_41149c40/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/groq.md) | 🔥 36.6k | `development` |
+| [Google Genai Sdk](development/2928-google_genai_sdk_1d4f444e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/google_genai_sdk.md) | 🔥 36.6k | `development` |
+| [Openai Agents Sdk](development/2929-openai_agents_sdk_841feff7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openai_agents_sdk.md) | 🔥 36.6k | `development` |
+| [Readme.Ja](development/readmeja_3108a39c/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 29 | `development` |
 
 ### Development/Devops (213 skills)
 
@@ -1847,5 +1848,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 09:29:53 UTC*
+*Last updated: 2026-02-24 09:31:18 UTC*
 *Automatically maintained by SkillFlow*
