@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1712 AI-powered skills** organized into 15 categories.
+A curated collection of **1721 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,16 +9,16 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (33 skills)
-- **Automation/Workflow** (86 skills)
-- **Commercial** (73 skills)
+- **Automation/Workflow** (87 skills)
+- **Commercial** (76 skills)
 - **Communication** (50 skills)
-- **Content Creation** (158 skills)
+- **Content Creation** (157 skills)
 - **Daily Assistant** (90 skills)
-- **Data Analysis** (162 skills)
-- **Development** (517 skills)
-- **Development/Devops** (224 skills)
+- **Data Analysis** (164 skills)
+- **Development** (519 skills)
+- **Development/Devops** (225 skills)
 - **Development/Testing** (42 skills)
-- **Development/Tools** (171 skills)
+- **Development/Tools** (172 skills)
 - **Investment** (23 skills)
 - **Other** (1 skill)
 - **Productivity** (16 skills)
@@ -217,9 +217,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Plan Artifact Diverges From Implementation Without Update Me](automation/scripting/091-p2-plan-artifact-diverges-from-implementation-without-update-me_e6c19d57/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-plan-artifact-diverges-from-implementation-without-update-me.md) | ⭐ 20 | `automation` |
 | [Skill](automation/scripting/003-name-skill_af59add8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/refresh-research/SKILL.md) | ⭐ 20 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_cf067339/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.5k | `automation` |
-| [Skill](automation/scripting/name-skill_567045e5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/examples/sample-command/SKILL.md) | ⭐ 34 | `automation` |
+| [Time Spine](automation/scripting/time-spine_7a1d4728/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/time-spine.md) | ⭐ 193 | `automation` |
 
-### Automation/Workflow (86 skills)
+### Automation/Workflow (87 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -309,8 +309,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sync Public](automation/workflow/139-sync-public_2e96a6dd/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.agent/workflows/sync-public.md) | ⭐ 10 | `automation` |
 | [Claude](automation/workflow/061-claude_e007c36e/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/CLAUDE.md) | ⭐ 10 | `automation` |
 | [Safety And Permissions](automation/workflow/139-safety-and-permissions_9f4c0016/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/references/safety-and-permissions.md) | ⭐ 10 | `automation` |
+| [Installing Dbt Fusion](automation/workflow/installing-dbt-fusion_1c65a18d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 193 | `automation` |
 
-### Commercial (73 skills)
+### Commercial (76 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -387,6 +388,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [User Journey](commercial/375-user_journey_1c997993/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/user_journey.md) | 🔥 9.2k | `commercial` |
 | [Security Reviewer](commercial/371-security-reviewer_de06635a/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/security-reviewer.md) | ⭐ 10 | `commercial` |
 | [Deployer](commercial/372-deployer_a2b9e2d7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/agents/deployer.md) | 🔥 20.7k | `commercial` |
+| [V1.0.15](commercial/v1015_9a8914f3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.15.md) | ⭐ 450 | `commercial` |
+| [Legacy Spec](commercial/legacy-spec_08aaa28e/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/legacy-spec.md) | ⭐ 193 | `commercial` |
+| [Latest Spec](commercial/latest-spec_e3b006f9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/latest-spec.md) | ⭐ 193 | `commercial` |
 
 ### Communication (50 skills)
 
@@ -443,7 +447,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Background Agent Result Deduplication After Compaction](communication/253-p2-background-agent-result-deduplication-after-compaction_02cb6c71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-background-agent-result-deduplication-after-compaction.md) | ⭐ 20 | `communication` |
 | [Skill](communication/127-name-skill_79505d99/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/agent-messaging/SKILL.md) | 🔥 20.7k | `communication` |
 
-### Content Creation (158 skills)
+### Content Creation (157 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -599,12 +603,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_f28618d5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/backlog/SKILL.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_de88384b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 20 | `content creation` |
 | [Claude](content-creation/007-claude_d712e2c0/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/CLAUDE.md) | 🔥 20.7k | `content creation` |
-| [Skill](content-creation/name-skill_bc827437/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/SKILL.md) | ⭐ 34 | `content creation` |
-| [Frontmatter Options](content-creation/frontmatter-options_112570ab/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
-| [Audit Calibration](content-creation/audit-calibration_a64ea751/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/audit-calibration.md) | ⭐ 34 | `content creation` |
-| [Yaml Schema](content-creation/yaml_schema_68e649af/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/YAML_SCHEMA.md) | ⭐ 44 | `content creation` |
-| [Claw Patterns](content-creation/claw-patterns_84cd637d/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/references/claw-patterns.md) | ⭐ 34 | `content creation` |
-| [Sample Repair](content-creation/sample-repair_d1c4e5bf/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/examples/sample-repair.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/049-name-skill_bc827437/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/SKILL.md) | ⭐ 34 | `content creation` |
+| [Frontmatter Options](content-creation/360-frontmatter-options_112570ab/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
+| [Audit Calibration](content-creation/361-audit-calibration_a64ea751/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/audit-calibration.md) | ⭐ 34 | `content creation` |
+| [Skill](content-creation/name-skill_e1a69cb9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 193 | `content creation` |
+| [Generating Unit Tests](content-creation/generating-unit-tests_24b4fc33/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/generating-unit-tests.md) | ⭐ 193 | `content creation` |
 
 ### Daily Assistant (90 skills)
 
@@ -701,7 +704,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sdlc Layer L0 Integration Suggestions](daily-assistant/269-sdlc-layer-l0-integration-suggestions_4bf3ad9c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/archive/grooming-reports-2026-02-23/sdlc-layer-L0-integration-suggestions.md) | ⭐ 20 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_34a4a128/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/planning/SKILL.md) | 🔥 20.7k | `daily assistant` |
 
-### Data Analysis (162 skills)
+### Data Analysis (164 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -866,9 +869,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_2f7c99a5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/dasel-reference/SKILL.md) | ⭐ 20 | `data analysis` |
 | [Format Patterns](data-analysis/486-format-patterns_7973ee10/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/dasel/skills/dasel-reference/references/format-patterns.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_d4d2e030/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/agent-management/SKILL.md) | 🔥 20.7k | `data analysis` |
-| [Script Patterns](data-analysis/script-patterns_d67898f8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/references/script-patterns.md) | ⭐ 34 | `data analysis` |
+| [Script Patterns](data-analysis/487-script-patterns_d67898f8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/references/script-patterns.md) | ⭐ 34 | `data analysis` |
+| [Custom Configuration](data-analysis/custom_configuration_73611169/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 193 | `data analysis` |
+| [Switching Targets](data-analysis/switching-targets_a45837f2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/switching-targets.md) | ⭐ 193 | `data analysis` |
 
-### Development (517 skills)
+### Development (519 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1388,9 +1393,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_1359a23c/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/docs-search/SKILL.md) | 🔥 20.7k | `development` |
 | [Skill](development/1178-name-skill_6af133cf/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/graph-query/SKILL.md) | 🔥 20.7k | `development` |
 | [Skill](development/1178-name-skill_34d7aa67/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/memory-search/SKILL.md) | 🔥 20.7k | `development` |
-| [Quality Checklist](development/quality-checklist_0809ed01/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/references/quality-checklist.md) | ⭐ 34 | `development` |
+| [Quality Checklist](development/2893-quality-checklist_0809ed01/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/references/quality-checklist.md) | ⭐ 34 | `development` |
+| [Skill](development/name-skill_3111866b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/SKILL.md) | ⭐ 193 | `development` |
+| [Managing Packages](development/managing-packages_301391af/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 193 | `development` |
 
-### Development/Devops (224 skills)
+### Development/Devops (225 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1621,6 +1628,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Multi Tenant Design](development/devops/370-multi-tenant-design_5a5b980a/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/design/multi-tenant-design.md) | ⭐ 3.5k | `development` |
 | [01 Configuration](development/devops/314-01-configuration_2ae84edd/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 3.5k | `development` |
 | [Skill](development/devops/014-name-skill_455a810e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/agirails-agent-payments/SKILL.md) | 🔥 20.7k | `development` |
+| [Skill](development/devops/name-skill_10d67dc1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/release-notes/SKILL.md) | ⭐ 450 | `development` |
 
 ### Development/Testing (42 skills)
 
@@ -1669,7 +1677,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/testing/024-agents_53464cf3/) | [scarletkc/vexor](https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md) | ⭐ 204 | `development` |
 | [Skill](development/testing/002-name-skill_be3db193/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/evaluate-sdlc-layers/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Tools (171 skills)
+### Development/Tools (172 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1726,8 +1734,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Architecture](development/tools/051-architecture_97bc174a/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/ARCHITECTURE.md) | 🔥 9.7k | `development` |
 | [Mcp Server](development/tools/330-mcp-server_11035d67/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/advanced/mcp-server.md) | 🔥 9.7k | `development` |
 | [Mcp Reference](development/tools/331-mcp_reference_9b2d06aa/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/reference/MCP_REFERENCE.md) | 🔥 9.7k | `development` |
-| [Debugging](development/tools/debugging_9691495e/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/DEBUGGING.md) | ⭐ 44 | `development` |
-| [Evaluation Metrics](development/tools/evaluation_metrics_a129229d/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/EVALUATION_METRICS.md) | ⭐ 44 | `development` |
+| [Debugging](development/tools/331-debugging_7b3de054/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/DEBUGGING.md) | ⭐ 43 | `development` |
+| [Evaluation Metrics](development/tools/332-evaluation_metrics_131ff394/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/EVALUATION_METRICS.md) | ⭐ 43 | `development` |
 | [Tool Categories](development/tools/333-tool_categories_7ce43e0f/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TOOL_CATEGORIES.md) | ⭐ 43 | `development` |
 | [Troubleshooting](development/tools/205-troubleshooting_50903b7f/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/TROUBLESHOOTING.md) | ⭐ 43 | `development` |
 | [Backlog](development/tools/331-backlog_385378a6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 18 | `development` |
@@ -1842,8 +1850,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Addon Structure](development/tools/339-addon-structure_5d3d60fc/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/gmod-addon-maker/references/addon-structure.md) | 🔥 20.7k | `development` |
 | [Debugging](development/tools/334-debugging_9691495e/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/DEBUGGING.md) | ⭐ 44 | `development` |
 | [Evaluation Metrics](development/tools/335-evaluation_metrics_a129229d/) | [hidai25/eval-view](https://raw.githubusercontent.com/hidai25/eval-view/main/docs/EVALUATION_METRICS.md) | ⭐ 44 | `development` |
-| [Skill](development/tools/name-skill_15916ba5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/SKILL.md) | ⭐ 34 | `development` |
-| [Agent Anatomy](development/tools/agent-anatomy_b88e36dc/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/references/agent-anatomy.md) | ⭐ 34 | `development` |
+| [Skill](development/tools/002-name-skill_15916ba5/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/SKILL.md) | ⭐ 34 | `development` |
+| [Skill](development/tools/name-skill_14b387f2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/SKILL.md) | ⭐ 193 | `development` |
+| [Best Practices](development/tools/best-practices_3245769a/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/best-practices.md) | ⭐ 193 | `development` |
 
 ### Investment (23 skills)
 
@@ -2022,5 +2031,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 15:38:59 UTC*
+*Last updated: 2026-02-24 16:35:10 UTC*
 *Automatically maintained by SkillFlow*
