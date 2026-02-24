@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T23:36:14.416794",
+  "updated_at": "2026-02-24T23:38:01.599230",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -26153,6 +26153,104 @@
       "source_url": "https://raw.githubusercontent.com/getsentry/skills/main/plugins/sentry-skills/skills/iterate-pr/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "30bc3ec799c2893a7adb1462232c98659c7ec69cd13bfd36c5973b497de87c1d",
+      "source_path": "docs/my-website/docs/proxy/prometheus.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "development/devops/042-prometheus_30bc3ec7",
+      "category": "development/devops",
+      "name": "prometheus_30bc3ec7",
+      "indexed_at": "2026-02-24T23:37:59.537397",
+      "repo_stars": 36206,
+      "repo_updated_at": "2026-02-24T19:51:42+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/proxy/prometheus.md",
+      "display_name": "Prometheus",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "2da29948c3daa2ba08426ca2b1776106e671b53501b48551f8df757ea01ec917",
+      "source_path": "docs/roadmap.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/devops/097-roadmap_2da29948",
+      "category": "development/devops",
+      "name": "roadmap_2da29948",
+      "indexed_at": "2026-02-24T23:37:59.821350",
+      "repo_stars": 7783,
+      "repo_updated_at": "2026-02-23T04:48:10+00:00",
+      "source_url": "https://raw.githubusercontent.com/aden-hive/hive/main/docs/roadmap.md",
+      "display_name": "Roadmap",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "97100352ee334e6481408f62b466ce04ba3a992fe4e224e6bb93983e48061ff2",
+      "source_path": "docs/my-website/release_notes/v1.81.12.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "content-creation/351-v18112_97100352",
+      "category": "content-creation",
+      "name": "v18112_97100352",
+      "indexed_at": "2026-02-24T23:38:00.163964",
+      "repo_stars": 36206,
+      "repo_updated_at": "2026-02-21T20:45:41+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md",
+      "display_name": "V1.81.12",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "4820e57eb640577f15eb3a25fd9052d84ebd72b4036b500f63594828854ebecd",
+      "source_path": "docs/my-website/docs/providers/perplexity.md",
+      "source_repo": "BerriAI/litellm",
+      "local_path": "communication/249-perplexity_4820e57e",
+      "category": "communication",
+      "name": "perplexity_4820e57e",
+      "indexed_at": "2026-02-24T23:38:00.407137",
+      "repo_stars": 36206,
+      "repo_updated_at": "2026-02-19T03:14:03+00:00",
+      "source_url": "https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/providers/perplexity.md",
+      "display_name": "Perplexity",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "00ad36cff251d4384cc105ac7ebd4aea8f556b35e55626dbd2a48bbf35f9afdb",
+      "source_path": "docs/credential-identity-plan.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "communication/257-credential-identity-plan_00ad36cf",
+      "category": "communication",
+      "name": "credential-identity-plan_00ad36cf",
+      "indexed_at": "2026-02-24T23:38:00.751344",
+      "repo_stars": 7783,
+      "repo_updated_at": "2026-02-20T21:55:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/aden-hive/hive/main/docs/credential-identity-plan.md",
+      "display_name": "Credential Identity Plan",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "1da3828714f99d216477c8ddd73d331628539d4c18668f86b59594300a700c9f",
+      "source_path": "docs/credential-system-analysis.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/tools/340-credential-system-analysis_1da38287",
+      "category": "development/tools",
+      "name": "credential-system-analysis_1da38287",
+      "indexed_at": "2026-02-24T23:38:01.105697",
+      "repo_stars": 7783,
+      "repo_updated_at": "2026-02-20T21:55:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/aden-hive/hive/main/docs/credential-system-analysis.md",
+      "display_name": "Credential System Analysis",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "8164e623692e9afea8656a1181922a4aa827b07552534b98ef4765786aa86206",
+      "source_path": "docs/i18n/zh-CN.md",
+      "source_repo": "adenhq/hive",
+      "local_path": "development/1567-zh-cn_8164e623",
+      "category": "development",
+      "name": "zh-cn_8164e623",
+      "indexed_at": "2026-02-24T23:38:01.599184",
+      "repo_stars": 7783,
+      "repo_updated_at": "2026-02-21T00:29:45+00:00",
+      "source_url": "https://raw.githubusercontent.com/aden-hive/hive/main/docs/i18n/zh-CN.md",
+      "display_name": "Zh Cn",
+      "tags": "[\"development\"]"
     }
   ]
 }
