@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1389 AI-powered skills** organized into 15 categories.
+A curated collection of **1390 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (12 skills)
+- **Automation/Scripting** (13 skills)
 - **Automation/Workflow** (80 skills)
 - **Commercial** (65 skills)
 - **Communication** (39 skills)
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (12 skills)
+### Automation/Scripting (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -197,6 +197,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7cb11cd0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/refresh-research/SKILL.md) | ⭐ 20 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cd62022c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-bedrock/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/scripting/003-name-skill_b32d11ec/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md) | ⭐ 103 | `automation` |
+| [Patternfly Npm](automation/scripting/patternfly_npm_cea73619/) | [RedHat-UX/next-gen-ui-agent](https://raw.githubusercontent.com/RedHat-UX/next-gen-ui-agent/main/docs/guide/renderer/patternfly_npm.md) | ⭐ 13 | `automation` |
 
 ### Automation/Workflow (80 skills)
 
@@ -699,7 +700,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_4383c03f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 20 | `data analysis` |
 | [Role Resolution Protocol](data-analysis/486-role-resolution-protocol_b9113866/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/role-resolution-protocol.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2105a9b0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/chunking-strategy/SKILL.md) | ⭐ 103 | `data analysis` |
-| [Skill](data-analysis/name-skill_23ff1c36/) | [Decodo/decodo-openclaw-skill](https://raw.githubusercontent.com/Decodo/decodo-openclaw-skill/main/SKILL.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_23ff1c36/) | [Decodo/decodo-openclaw-skill](https://raw.githubusercontent.com/Decodo/decodo-openclaw-skill/main/SKILL.md) | ⭐ 10 | `data analysis` |
 
 ### Development (451 skills)
 
@@ -1696,5 +1697,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 00:33:00 UTC*
+*Last updated: 2026-02-24 02:30:11 UTC*
 *Automatically maintained by SkillFlow*
