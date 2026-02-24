@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1500 AI-powered skills** organized into 15 categories.
+A curated collection of **1492 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,13 +8,13 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (22 skills)
-- **Automation/Workflow** (85 skills)
-- **Commercial** (68 skills)
-- **Communication** (43 skills)
-- **Content Creation** (136 skills)
+- **Automation/Scripting** (21 skills)
+- **Automation/Workflow** (83 skills)
+- **Commercial** (67 skills)
+- **Communication** (44 skills)
+- **Content Creation** (137 skills)
 - **Daily Assistant** (74 skills)
-- **Data Analysis** (128 skills)
+- **Data Analysis** (127 skills)
 - **Development** (464 skills)
 - **Development/Devops** (210 skills)
 - **Development/Testing** (39 skills)
@@ -22,7 +22,7 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Investment** (13 skills)
 - **Other** (1 skill)
 - **Productivity** (14 skills)
-- **Research** (52 skills)
+- **Research** (47 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (22 skills)
+### Automation/Scripting (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -205,10 +205,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backlog](automation/scripting/090-backlog_d302c0d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `automation` |
 | [Idea Validator](automation/scripting/097-idea-validator_c53d5eac/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/idea-validator.md) | ⭐ 1.4k | `automation` |
 | [Yt Scraper](automation/scripting/098-yt-scraper_fe6d36b9/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/yt-scraper.md) | ⭐ 1.4k | `automation` |
-| [Import Data](automation/scripting/import_data_79b8d24e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/import_data.md) | ⭐ 26 | `automation` |
-| [List Collections](automation/scripting/list_collections_ba756b81/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/list_collections.md) | ⭐ 26 | `automation` |
+| [Import Data](automation/scripting/085-import_data_79b8d24e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/import_data.md) | ⭐ 26 | `automation` |
 
-### Automation/Workflow (85 skills)
+### Automation/Workflow (83 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -293,12 +292,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_cfc8da10/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/workflow/002-name-skill_9293219a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/workflow/002-name-skill_fba8986b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 20 | `automation` |
-| [Explore](automation/workflow/explore_cee87e25/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/explore.md) | ⭐ 26 | `automation` |
-| [Search](automation/workflow/search_5609460c/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/search.md) | ⭐ 26 | `automation` |
-| [Ask](automation/workflow/ask_2bc23073/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/ask.md) | ⭐ 26 | `automation` |
-| [Collections](automation/workflow/collections_b76d61f3/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/collections.md) | ⭐ 26 | `automation` |
+| [Explore](automation/workflow/137-explore_cee87e25/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/explore.md) | ⭐ 26 | `automation` |
+| [Search](automation/workflow/138-search_5609460c/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/search.md) | ⭐ 26 | `automation` |
 
-### Commercial (68 skills)
+### Commercial (67 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -368,10 +365,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_b14ddda4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-saga-pattern/SKILL.md) | ⭐ 103 | `commercial` |
 | [Skill](commercial/210-name-skill_c4ae6915/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 103 | `commercial` |
 | [Cost Analysis](commercial/371-cost-analysis_5c210100/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/cost-analysis.md) | ⭐ 19 | `commercial` |
-| [Explore Collection](commercial/explore_collection_f0e49749/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/explore_collection.md) | ⭐ 26 | `commercial` |
-| [Get Collection](commercial/get_collection_9934f703/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/get_collection.md) | ⭐ 26 | `commercial` |
+| [Explore Collection](commercial/371-explore_collection_f0e49749/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/explore_collection.md) | ⭐ 26 | `commercial` |
 
-### Communication (43 skills)
+### Communication (44 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -417,9 +413,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Email Capture](communication/252-email-capture_a265f4ef/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/email-capture.md) | ⭐ 19 | `activity/email` `project/relevant-tag` |
 | [Skill](communication/127-name-skill_977aff84/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/slack/SKILL.md) | ⭐ 15 | `communication` |
 | [Skill](communication/127-name-skill_f3b5107e/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-observability/SKILL.md) | ⭐ 11 | `communication` |
-| [Frontend Interface](communication/frontend_interface_4bd6d7cc/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/frontend_interface.md) | ⭐ 26 | `communication` |
+| [Frontend Interface](communication/252-frontend_interface_4bd6d7cc/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/frontend_interface.md) | ⭐ 26 | `communication` |
+| [01 About Us](communication/01-about-us_0fcb0eeb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 3.5k | `communication` |
 
-### Content Creation (136 skills)
+### Content Creation (137 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -554,11 +551,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_138142a3/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-brief/SKILL.md) | ⭐ 1.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_bd16c90b/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-outline/SKILL.md) | ⭐ 1.4k | `content creation` |
 | [Skill](content-creation/049-name-skill_b2952acb/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-packaging/SKILL.md) | ⭐ 1.4k | `content creation` |
-| [Skill](content-creation/name-skill_0d98f548/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/brand-identity/SKILL.md) | ⭐ 957 | `content creation` |
-| [Skill](content-creation/name-skill_4eaad875/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/copywriting/SKILL.md) | ⭐ 957 | `content creation` |
-| [Query](content-creation/query_92436bd6/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/query.md) | ⭐ 26 | `content creation` |
-| [Advanced Rag](content-creation/advanced_rag_eb1ce100/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/advanced_rag.md) | ⭐ 26 | `content creation` |
-| [Keyword Search](content-creation/keyword_search_c279eebe/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/keyword_search.md) | ⭐ 26 | `content creation` |
+| [Skill](content-creation/049-name-skill_0d98f548/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/brand-identity/SKILL.md) | ⭐ 957 | `content creation` |
+| [Skill](content-creation/049-name-skill_4eaad875/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/copywriting/SKILL.md) | ⭐ 957 | `content creation` |
+| [Query](content-creation/356-query_92436bd6/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/query.md) | ⭐ 26 | `content creation` |
+| [Advanced Rag](content-creation/357-advanced_rag_eb1ce100/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/advanced_rag.md) | ⭐ 26 | `content creation` |
+| [Keyword Search](content-creation/358-keyword_search_c279eebe/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/keyword_search.md) | ⭐ 26 | `content creation` |
+| [01 About Us](content-creation/01-about-us_2e4e587f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 3.5k | `content creation` |
 
 ### Daily Assistant (74 skills)
 
@@ -639,7 +637,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Task File Format](daily-assistant/276-task-file-format_cae7639f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/task-file-format.md) | ⭐ 20 | `daily assistant` |
 | [Verification Protocol](daily-assistant/277-verification-protocol_ecbdcbf0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/verification-protocol.md) | ⭐ 20 | `daily assistant` |
 
-### Data Analysis (128 skills)
+### Data Analysis (127 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -770,7 +768,6 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orphan Finder](data-analysis/498-orphan-finder_a6300787/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/orphan-finder.md) | ⭐ 19 | `data analysis` |
 | [Claude](data-analysis/036-claude_672f20b7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_01fc4f62/) | [bowenliang123/markdown-exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
-| [Create Collection](data-analysis/create_collection_1993d31e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/create_collection.md) | ⭐ 26 | `data analysis` |
 
 ### Development (464 skills)
 
@@ -1235,11 +1232,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_685d0afc/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/SKILL.md) | ⭐ 11 | `development` |
 | [Skill](development/1178-name-skill_8dd71d26/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-research/SKILL.md) | ⭐ 1.4k | `development` |
 | [Prompt Patterns](development/729-prompt-patterns_b749ede7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/prompt-engineer/references/prompt-patterns.md) | ⭐ 3.3k | `development` |
-| [Async Client](development/async_client_2881d252/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/async_client.md) | ⭐ 26 | `development` |
-| [Basic Agent](development/basic_agent_56d3e857/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/basic_agent.md) | ⭐ 26 | `development` |
-| [Basic Rag](development/basic_rag_3c589f00/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/basic_rag.md) | ⭐ 26 | `development` |
-| [Data Explorer](development/data_explorer_aff4b70b/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/data_explorer.md) | ⭐ 26 | `development` |
-| [Project Setup](development/project_setup_5c5898fa/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/project_setup.md) | ⭐ 26 | `development` |
+| [Async Client](development/2896-async_client_2881d252/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/async_client.md) | ⭐ 26 | `development` |
+| [Basic Agent](development/2897-basic_agent_56d3e857/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/basic_agent.md) | ⭐ 26 | `development` |
+| [Basic Rag](development/2898-basic_rag_3c589f00/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/basic_rag.md) | ⭐ 26 | `development` |
+| [Data Explorer](development/2899-data_explorer_aff4b70b/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/data_explorer.md) | ⭐ 26 | `development` |
+| [Project Setup](development/2900-project_setup_5c5898fa/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/project_setup.md) | ⭐ 26 | `development` |
 
 ### Development/Devops (210 skills)
 
@@ -1655,9 +1652,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Linting Discovery Protocol](development/tools/336-linting-discovery-protocol_c691aead/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/linting-discovery-protocol.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_aa8b92aa/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-prompt-migration/SKILL.md) | ⭐ 11 | `development` |
 | [Cli](development/tools/263-cli_c4a88cd3/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/references/cli.md) | ⭐ 11 | `development` |
-| [Agents](development/tools/agents_70732fe5/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/AGENTS.md) | ⭐ 26 | `development` |
-| [Skill](development/tools/name-skill_a0cc4faf/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/SKILL.md) | ⭐ 26 | `development` |
-| [Agentic Rag](development/tools/agentic_rag_61487ec0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/agentic_rag.md) | ⭐ 26 | `development` |
+| [Agents](development/tools/015-agents_70732fe5/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/AGENTS.md) | ⭐ 26 | `development` |
+| [Skill](development/tools/002-name-skill_a0cc4faf/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/SKILL.md) | ⭐ 26 | `development` |
+| [Agentic Rag](development/tools/336-agentic_rag_61487ec0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/agentic_rag.md) | ⭐ 26 | `development` |
 
 ### Investment (13 skills)
 
@@ -1702,7 +1699,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Exec Summary](productivity/174-exec-summary_39604b88/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/exec-summary.md) | ⭐ 19 | `productivity` |
 | [Skill](productivity/093-name-skill_5833ac61/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-ideation/SKILL.md) | ⭐ 1.4k | `productivity` |
 
-### Research (52 skills)
+### Research (47 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1745,20 +1742,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](research/139-name-skill_7c8c990f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/rag/SKILL.md) | ⭐ 103 | `research` |
 | [Youtube Analyze](research/257-youtube-analyze_a1668835/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/youtube-analyze.md) | ⭐ 19 | `content/youtube` `domain/relevant-tag` |
 | [Skill](research/139-name-skill_31098f50/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
-| [Fetch](research/fetch_15bd8b2e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/fetch.md) | ⭐ 26 | `research` |
-| [Quickstart](research/quickstart_8548c926/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/quickstart.md) | ⭐ 26 | `research` |
-| [Skill](research/name-skill_15d34e8e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/SKILL.md) | ⭐ 26 | `research` |
-| [Pdf Multimodal Rag](research/pdf_multimodal_rag_4bfa3c61/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/pdf_multimodal_rag.md) | ⭐ 26 | `research` |
-| [Query Agent Chatbot](research/query_agent_chatbot_83590bcb/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/query_agent_chatbot.md) | ⭐ 26 | `research` |
-| [Fetch Filter](research/fetch_filter_a93242ff/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/fetch_filter.md) | ⭐ 26 | `research` |
-| [Hybrid Search](research/hybrid_search_ffd4b768/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/hybrid_search.md) | ⭐ 26 | `research` |
-| [Query Search](research/query_search_68afba11/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/query_search.md) | ⭐ 26 | `research` |
-| [Semantic Search](research/semantic_search_3e5098c0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/semantic_search.md) | ⭐ 26 | `research` |
-| [Data](research/data_824962e9/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/data.md) | ⭐ 26 | `research` |
-| [Environment Requirements](research/environment_requirements_835ae075/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/environment_requirements.md) | ⭐ 26 | `research` |
-| [Ask](research/ask_5ab82170/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/ask.md) | ⭐ 26 | `research` |
-| [Environment Requirements](research/environment_requirements_15813ece/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/environment_requirements.md) | ⭐ 26 | `research` |
-| [Example Data](research/example_data_3d72c7ef/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/example_data.md) | ⭐ 26 | `research` |
+| [Fetch](research/257-fetch_15bd8b2e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/fetch.md) | ⭐ 26 | `research` |
+| [Quickstart](research/258-quickstart_8548c926/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/quickstart.md) | ⭐ 26 | `research` |
+| [Skill](research/139-name-skill_15d34e8e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/SKILL.md) | ⭐ 26 | `research` |
+| [Pdf Multimodal Rag](research/259-pdf_multimodal_rag_4bfa3c61/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/pdf_multimodal_rag.md) | ⭐ 26 | `research` |
+| [Query Agent Chatbot](research/260-query_agent_chatbot_83590bcb/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/query_agent_chatbot.md) | ⭐ 26 | `research` |
+| [Fetch Filter](research/261-fetch_filter_a93242ff/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/fetch_filter.md) | ⭐ 26 | `research` |
+| [Hybrid Search](research/262-hybrid_search_ffd4b768/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/hybrid_search.md) | ⭐ 26 | `research` |
+| [Query Search](research/263-query_search_68afba11/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/query_search.md) | ⭐ 26 | `research` |
+| [Semantic Search](research/264-semantic_search_3e5098c0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/semantic_search.md) | ⭐ 26 | `research` |
 
 ## How Skills Are Organized
 
@@ -1810,5 +1802,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 05:29:58 UTC*
+*Last updated: 2026-02-24 05:33:04 UTC*
 *Automatically maintained by SkillFlow*

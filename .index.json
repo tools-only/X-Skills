@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T05:29:58.766167",
+  "updated_at": "2026-02-24T05:33:03.983466",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -20861,6 +20861,34 @@
       "source_url": "https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/import_data.md",
       "display_name": "Import Data",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "2e4e587f00d863119c000631ea778b3b29077bbef8aa2bf2180fbfa93805938f",
+      "source_path": "docs/en/about/01-about-us.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "content-creation/359-01-about-us_2e4e587f",
+      "category": "content-creation",
+      "name": "01-about-us_2e4e587f",
+      "indexed_at": "2026-02-24T05:33:03.633263",
+      "repo_stars": 3456,
+      "repo_updated_at": "2026-02-14T12:30:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md",
+      "display_name": "01 About Us",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "0fcb0eebe25e381de409bb8b233b8894d4e73ac6281686df7f3bc7ffcfbed995",
+      "source_path": "docs/zh/about/01-about-us.md",
+      "source_repo": "volcengine/OpenViking",
+      "local_path": "communication/253-01-about-us_0fcb0eeb",
+      "category": "communication",
+      "name": "01-about-us_0fcb0eeb",
+      "indexed_at": "2026-02-24T05:33:03.983417",
+      "repo_stars": 3456,
+      "repo_updated_at": "2026-02-14T12:27:05+00:00",
+      "source_url": "https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md",
+      "display_name": "01 About Us",
+      "tags": "[\"communication\"]"
     }
   ]
 }
