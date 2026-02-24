@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1538 AI-powered skills** organized into 15 categories.
+A curated collection of **1653 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (21 skills)
+- **Automation/Scripting** (24 skills)
 - **Automation/Workflow** (86 skills)
-- **Commercial** (67 skills)
-- **Communication** (45 skills)
-- **Content Creation** (147 skills)
-- **Daily Assistant** (78 skills)
-- **Data Analysis** (130 skills)
-- **Development** (476 skills)
-- **Development/Devops** (213 skills)
-- **Development/Testing** (39 skills)
-- **Development/Tools** (159 skills)
-- **Investment** (15 skills)
-- **Other** (1 skill)
-- **Productivity** (14 skills)
-- **Research** (47 skills)
+- **Commercial** (71 skills)
+- **Communication** (48 skills)
+- **Content Creation** (151 skills)
+- **Daily Assistant** (86 skills)
+- **Data Analysis** (159 skills)
+- **Development** (495 skills)
+- **Development/Devops** (221 skills)
+- **Development/Testing** (40 skills)
+- **Development/Tools** (162 skills)
+- **Investment** (24 skills)
+- **Other** (2 skills)
+- **Productivity** (15 skills)
+- **Research** (69 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (21 skills)
+### Automation/Scripting (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -206,6 +206,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Idea Validator](automation/scripting/097-idea-validator_c53d5eac/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/idea-validator.md) | ⭐ 1.4k | `automation` |
 | [Yt Scraper](automation/scripting/098-yt-scraper_fe6d36b9/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/yt-scraper.md) | ⭐ 1.4k | `automation` |
 | [Import Data](automation/scripting/085-import_data_79b8d24e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/import_data.md) | ⭐ 26 | `automation` |
+| [Skill](automation/scripting/name-skill_ca9a2f2f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/SKILL.md) | 🔥 9.2k | `automation` |
+| [Event Stream](automation/scripting/event_stream_ce0ae028/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/event_stream.md) | ⭐ 75 | `automation` |
+| [Api Reference](automation/scripting/api_reference_69942b90/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/timesfm-forecasting/references/api_reference.md) | 🔥 9.2k | `automation` |
 
 ### Automation/Workflow (86 skills)
 
@@ -298,7 +301,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](automation/workflow/061-claude_e007c36e/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/CLAUDE.md) | ⭐ 10 | `automation` |
 | [Safety And Permissions](automation/workflow/139-safety-and-permissions_9f4c0016/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/references/safety-and-permissions.md) | ⭐ 10 | `automation` |
 
-### Commercial (67 skills)
+### Commercial (71 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -369,8 +372,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_c4ae6915/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 103 | `commercial` |
 | [Cost Analysis](commercial/371-cost-analysis_5c210100/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/cost-analysis.md) | ⭐ 19 | `commercial` |
 | [Explore Collection](commercial/371-explore_collection_f0e49749/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/explore_collection.md) | ⭐ 26 | `commercial` |
+| [Economic Indicators](commercial/economic-indicators_70da549c/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/economic-indicators.md) | 🔥 9.2k | `commercial` |
+| [C4 Diagram](commercial/c4_68e7f4b4/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/c4.md) | 🔥 9.2k | `commercial` |
+| [State](commercial/state_a735d97b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/state.md) | 🔥 9.2k | `commercial` |
+| [User Journey](commercial/user_journey_1c997993/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/user_journey.md) | 🔥 9.2k | `commercial` |
 
-### Communication (45 skills)
+### Communication (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -419,8 +426,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontend Interface](communication/252-frontend_interface_4bd6d7cc/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/frontend_interface.md) | ⭐ 26 | `communication` |
 | [01 About Us](communication/253-01-about-us_0fcb0eeb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 3.5k | `communication` |
 | [Quick Start](communication/254-quick_start_73af323f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/QUICK_START.md) | ⭐ 10 | `communication` |
+| [Project Map](communication/project-map_e748e321/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/spec/project-map.md) | ⭐ 75 | `communication` |
+| [Pyrepl](communication/pyrepl_7123da50/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/pyrepl.md) | ⭐ 75 | `communication` |
+| [Tui](communication/tui_d26da9e1/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/tui.md) | ⭐ 75 | `communication` |
 
-### Content Creation (147 skills)
+### Content Creation (151 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -571,8 +581,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Repositories](content-creation/357-repositories_7642cdb4/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/gh-cli/references/repositories.md) | ⭐ 14 | `content creation` |
 | [Structure Patterns](content-creation/358-structure-patterns_7b29f35d/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/impactful-writing/references/structure-patterns.md) | ⭐ 14 | `content creation` |
 | [Installation Workflow](content-creation/359-installation-workflow_a294ee88/) | [tenequm/claude-plugins](https://raw.githubusercontent.com/tenequm/claude-plugins/main/skill-finder/references/installation-workflow.md) | ⭐ 14 | `content creation` |
+| [Skill](content-creation/name-skill_69742dd1/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/SKILL.md) | 🔥 9.2k | `content creation` |
+| [Api Reference](content-creation/api_reference_6d368df0/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/open-notebook/references/api_reference.md) | 🔥 9.2k | `content creation` |
+| [Examples](content-creation/examples_b6bc5275/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/open-notebook/references/examples.md) | 🔥 9.2k | `content creation` |
+| [Example Research Report](content-creation/example-research-report_05a9e64b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/assets/examples/example-research-report.md) | 🔥 9.2k | `content creation` |
 
-### Daily Assistant (78 skills)
+### Daily Assistant (86 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -654,8 +668,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Reddit Launch Post](daily-assistant/269-reddit_launch_post_88fd38ca/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/REDDIT_LAUNCH_POST.md) | ⭐ 10 | `daily assistant` |
 | [Titan Handover Protocol](daily-assistant/270-titan_handover_protocol_b8d60a4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/TITAN_HANDOVER_PROTOCOL.md) | ⭐ 10 | `daily assistant` |
 | [Release Protocol](daily-assistant/271-release-protocol_b1b92a4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.agent/workflows/release-protocol.md) | ⭐ 10 | `daily assistant` |
+| [Api Overview](daily-assistant/api-overview_f415d7bf/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/api-overview.md) | 🔥 9.2k | `daily assistant` |
+| [Endpoints Metadata](daily-assistant/endpoints-metadata_0f0f0e74/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/endpoints-metadata.md) | 🔥 9.2k | `daily assistant` |
+| [Parameters](daily-assistant/parameters_dfe4292a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/parameters.md) | 🔥 9.2k | `daily assistant` |
+| [System Requirements](daily-assistant/system_requirements_6b2225f5/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/timesfm-forecasting/references/system_requirements.md) | 🔥 9.2k | `daily assistant` |
+| [Datasets Debt](daily-assistant/datasets-debt_89d816b0/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/datasets-debt.md) | 🔥 9.2k | `daily assistant` |
+| [Datasets Interest Rates](daily-assistant/datasets-interest-rates_8bb87bf0/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/datasets-interest-rates.md) | 🔥 9.2k | `daily assistant` |
+| [Parameters](daily-assistant/parameters_c3560feb/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/parameters.md) | 🔥 9.2k | `daily assistant` |
+| [Requirement](daily-assistant/requirement_52b77e05/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/requirement.md) | 🔥 9.2k | `daily assistant` |
 
-### Data Analysis (130 skills)
+### Data Analysis (159 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -789,8 +811,37 @@ ls ~/.claude/skills/patch-research-agent/
 | [Engram Specification](data-analysis/487-engram_specification_4a2954e4/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/ENGRAM_SPECIFICATION.md) | ⭐ 10 | `data analysis` |
 | [Governance Policies](data-analysis/488-governance_policies_4fcbaa4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/GOVERNANCE_POLICIES.md) | ⭐ 10 | `data analysis` |
 | [Specification](data-analysis/489-specification_72e96569/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/SPECIFICATION.md) | ⭐ 10 | `data analysis` |
+| [Skill](data-analysis/name-skill_9eaba390/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-decision-support/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Skill](data-analysis/name-skill_49af0bad/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/clinical-reports/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Skill](data-analysis/name-skill_e52f2980/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/market-research-reports/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Skill](data-analysis/name-skill_da728536/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markitdown/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Skill](data-analysis/name-skill_25be47a6/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/timesfm-forecasting/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Skill](data-analysis/name-skill_1260dc9c/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Options](data-analysis/options_e99ce842/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/options.md) | 🔥 9.2k | `data analysis` |
+| [Technical Indicators](data-analysis/technical-indicators_dd9cc896/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/technical-indicators.md) | 🔥 9.2k | `data analysis` |
+| [Filings](data-analysis/filings_a8b516ab/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/filings.md) | 🔥 9.2k | `data analysis` |
+| [Endpoints Series Data](data-analysis/endpoints-series-data_040136b4/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/endpoints-series-data.md) | 🔥 9.2k | `data analysis` |
+| [Data Preparation](data-analysis/data_preparation_d7f1209f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/timesfm-forecasting/references/data_preparation.md) | 🔥 9.2k | `data analysis` |
+| [Api Basics](data-analysis/api-basics_d3ef08b2/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/api-basics.md) | 🔥 9.2k | `data analysis` |
+| [Block](data-analysis/block_37db54de/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/block.md) | 🔥 9.2k | `data analysis` |
+| [Gantt](data-analysis/gantt_b51ef540/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/gantt.md) | 🔥 9.2k | `data analysis` |
+| [Git Graph](data-analysis/git_graph_b93d7f71/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/git_graph.md) | 🔥 9.2k | `data analysis` |
+| [Kanban](data-analysis/kanban_b682c5f7/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/kanban.md) | 🔥 9.2k | `data analysis` |
+| [Mindmap](data-analysis/mindmap_3a6dc95f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/mindmap.md) | 🔥 9.2k | `data analysis` |
+| [Pie](data-analysis/pie_94fdb61d/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/pie.md) | 🔥 9.2k | `data analysis` |
+| [Quadrant](data-analysis/quadrant_861a0238/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/quadrant.md) | 🔥 9.2k | `data analysis` |
+| [Radar](data-analysis/radar_2024c1e2/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/radar.md) | 🔥 9.2k | `data analysis` |
+| [Sankey](data-analysis/sankey_622a103a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/sankey.md) | 🔥 9.2k | `data analysis` |
+| [Xy Chart](data-analysis/xy_chart_4df50afc/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/xy_chart.md) | 🔥 9.2k | `data analysis` |
+| [Readme Zh](data-analysis/readme_zh_f74f4437/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/README_ZH.md) | ⭐ 75 | `data analysis` |
+| [Skill](data-analysis/name-skill_f178bf78/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/infographics/SKILL.md) | 🔥 9.2k | `data analysis` |
+| [Financial Data](data-analysis/financial-data_0057ef1b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/financial-data.md) | 🔥 9.2k | `data analysis` |
+| [Xbrl](data-analysis/xbrl_29615467/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/xbrl.md) | 🔥 9.2k | `data analysis` |
+| [Examples](data-analysis/examples_77deb599/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/examples.md) | 🔥 9.2k | `data analysis` |
+| [How To Guide](data-analysis/how_to_guide_df0f491d/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/how_to_guide.md) | 🔥 9.2k | `data analysis` |
+| [Issue](data-analysis/issue_66a7f074/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/issue.md) | 🔥 9.2k | `data analysis` |
 
-### Development (476 skills)
+### Development (495 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1269,9 +1320,28 @@ ls ~/.claude/skills/patch-research-agent/
 | [Computer Api](development/2909-computer-api_2d97c320/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/references/computer-api.md) | ⭐ 10 | `development` |
 | [Google Genai Sdk](development/2928-google_genai_sdk_1d4f444e/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/google_genai_sdk.md) | 🔥 36.6k | `development` |
 | [Openai Agents Sdk](development/2929-openai_agents_sdk_841feff7/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/tutorials/openai_agents_sdk.md) | 🔥 36.6k | `development` |
-| [Readme.Ja](development/readmeja_3108a39c/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 29 | `development` |
+| [Readme.Ja](development/1201-readmeja_3108a39c/) | [japan1988/multi-agent-mediation](https://raw.githubusercontent.com/japan1988/multi-agent-mediation/main/README.ja.md) | ⭐ 29 | `development` |
+| [Scientific Skills](development/scientific-skills_58dc8bbc/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/docs/scientific-skills.md) | 🔥 9.2k | `development` |
+| [Commodities](development/commodities_ca45be10/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/commodities.md) | 🔥 9.2k | `development` |
+| [Companies](development/companies_f11abde4/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/companies.md) | 🔥 9.2k | `development` |
+| [Datasets Fiscal](development/datasets-fiscal_4211be07/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/datasets-fiscal.md) | 🔥 9.2k | `development` |
+| [Response Format](development/response-format_2e40e12c/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/response-format.md) | 🔥 9.2k | `development` |
+| [Class](development/class_1700e36f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/class.md) | 🔥 9.2k | `development` |
+| [Entity Relationship (ER) Diagram](development/er_86c581b8/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/er.md) | 🔥 9.2k | `development` |
+| [Packet](development/packet_2f456c05/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/packet.md) | 🔥 9.2k | `development` |
+| [Treemap](development/treemap_45980d28/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/treemap.md) | 🔥 9.2k | `development` |
+| [Zenuml](development/zenuml_69cfe24f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/zenuml.md) | 🔥 9.2k | `development` |
+| [Copilot Instructions](development/copilot-instructions_ba72f188/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/.github/copilot-instructions.md) | ⭐ 75 | `development` |
+| [Meta](development/meta_b25941cc/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/spec/meta.md) | ⭐ 75 | `development` |
+| [Overall Spec](development/overall-spec_1ec83adc/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/spec/overall-spec.md) | ⭐ 75 | `development` |
+| [Introduction](development/introduction_06b566e6/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/introduction.md) | ⭐ 75 | `development` |
+| [Llm Chat](development/llm_chat_cceac93e/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/detailed_guide/llm_chat.md) | ⭐ 75 | `development` |
+| [Pull Request](development/pull_request_737981cb/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/pull_request.md) | 🔥 9.2k | `development` |
+| [Examples](development/examples_59e9732c/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/examples.md) | 🔥 9.2k | `development` |
+| [Complex Examples](development/complex_examples_d58319e3/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/complex_examples.md) | 🔥 9.2k | `development` |
+| [Examples](development/examples_96895c39/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/examples.md) | ⭐ 75 | `development` |
 
-### Development/Devops (213 skills)
+### Development/Devops (221 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1491,8 +1561,16 @@ ls ~/.claude/skills/patch-research-agent/
 | [Rbac](development/devops/010-rbac_1c5c5b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
 | [Binary Shielding Track 1 5](development/devops/373-binary_shielding_track_1_5_8339aa5f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/architecture/BINARY_SHIELDING_TRACK_1_5.md) | ⭐ 10 | `development` |
 | [Launch Posts V060](development/devops/374-launch_posts_v060_2f971198/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/strategy/LAUNCH_POSTS_v060.md) | ⭐ 10 | `development` |
+| [Ai Integration](development/devops/ai-integration_6aeb298b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/ai-integration.md) | 🔥 9.2k | `development` |
+| [Mermaid Style Guide](development/devops/mermaid_style_guide_f4aaeebe/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/mermaid_style_guide.md) | 🔥 9.2k | `development` |
+| [Architecture](development/devops/architecture_d5a21e25/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/open-notebook/references/architecture.md) | 🔥 9.2k | `development` |
+| [Configuration](development/devops/configuration_a448271b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/open-notebook/references/configuration.md) | 🔥 9.2k | `development` |
+| [Architecture](development/devops/architecture_a0ce8122/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/architecture.md) | 🔥 9.2k | `development` |
+| [Flowchart](development/devops/flowchart_d450c52f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/flowchart.md) | 🔥 9.2k | `development` |
+| [Timeline](development/devops/timeline_920a533f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/timeline.md) | 🔥 9.2k | `development` |
+| [Project Documentation](development/devops/project_documentation_43da7e54/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/project_documentation.md) | 🔥 9.2k | `development` |
 
-### Development/Testing (39 skills)
+### Development/Testing (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1535,8 +1613,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_bdcfe77f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
 | [Release Notes](development/testing/079-release_notes_9d858f7e/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 | [Skill](development/testing/002-name-skill_3161d56a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/evaluate-sdlc-layers/SKILL.md) | ⭐ 20 | `development` |
+| [Agent](development/testing/agent_1342a4c6/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/AGENT.md) | ⭐ 75 | `development` |
 
-### Development/Tools (159 skills)
+### Development/Tools (162 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1699,8 +1778,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Index](development/tools/062-index_e4d75dd9/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/hooks/INDEX.md) | ⭐ 10 | `development` |
 | [Skill](development/tools/002-name-skill_07599adb/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/SKILL.md) | ⭐ 10 | `development` |
 | [Python Api Reference](development/tools/329-python-api-reference_ab4581e6/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/research/firecrawl/references/python-api-reference.md) | ⭐ 10 | `development` |
+| [Sequence](development/tools/sequence_9457d932/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/diagrams/sequence.md) | 🔥 9.2k | `development` |
+| [Langfuse Integration](development/tools/langfuse_integration_39d4abe5/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/langfuse_integration.md) | ⭐ 75 | `development` |
+| [Kanban](development/tools/kanban_1d3e0d6f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/kanban.md) | 🔥 9.2k | `development` |
 
-### Investment (15 skills)
+### Investment (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1719,14 +1801,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](investment/021-name-skill_d0483423/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 42 | `investment` |
 | [Roadmap](investment/051-roadmap_d52bd6ef/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/ROADMAP.md) | ⭐ 10 | `investment` |
 | [Tool Router Pattern](investment/052-tool_router_pattern_658a2ac4/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/architecture/TOOL_ROUTER_PATTERN.md) | ⭐ 10 | `investment` |
+| [Skill](investment/name-skill_075de626/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/SKILL.md) | 🔥 9.2k | `investment` |
+| [Forex Crypto](investment/forex-crypto_2b0dc15e/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/forex-crypto.md) | 🔥 9.2k | `investment` |
+| [Fundamentals](investment/fundamentals_e9ba2386/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/fundamentals.md) | 🔥 9.2k | `investment` |
+| [Intelligence](investment/intelligence_da5dc756/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/intelligence.md) | 🔥 9.2k | `investment` |
+| [Time Series](investment/time-series_ac931b20/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/references/time-series.md) | 🔥 9.2k | `investment` |
+| [Data Objects](investment/data-objects_9c7f5f52/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/data-objects.md) | 🔥 9.2k | `investment` |
+| [Datasets](investment/datasets_4ed7be2a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/datasets.md) | 🔥 9.2k | `investment` |
+| [Datasets Securities](investment/datasets-securities_25b464e0/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/usfiscaldata/references/datasets-securities.md) | 🔥 9.2k | `investment` |
+| [Skill](investment/name-skill_95102691/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/alpha-vantage/SKILL.md) | 🔥 9.2k | `investment` |
 
-### Other (1 skills)
+### Other (2 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
+| [Index](other/index_89a31915/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/index.md) | ⭐ 75 | `other` |
 
-### Productivity (14 skills)
+### Productivity (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1744,8 +1836,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [External Llm](productivity/173-external_llm_6f65f5e7/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXTERNAL_LLM.md) | ⭐ 23 | `productivity` |
 | [Exec Summary](productivity/174-exec-summary_39604b88/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/exec-summary.md) | ⭐ 19 | `productivity` |
 | [Skill](productivity/093-name-skill_5833ac61/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-ideation/SKILL.md) | ⭐ 1.4k | `productivity` |
+| [Entity Facts](productivity/entity-facts_f66d3c9f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/entity-facts.md) | 🔥 9.2k | `productivity` |
 
-### Research (47 skills)
+### Research (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1797,6 +1890,28 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hybrid Search](research/262-hybrid_search_ffd4b768/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/hybrid_search.md) | ⭐ 26 | `research` |
 | [Query Search](research/263-query_search_68afba11/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/query_search.md) | ⭐ 26 | `research` |
 | [Semantic Search](research/264-semantic_search_3e5098c0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/semantic_search.md) | ⭐ 26 | `research` |
+| [Skill](research/name-skill_9653a4eb/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/citation-management/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_77a49dd4/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hypothesis-generation/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_ab409977/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/latex-posters/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_c316d46b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/literature-review/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_a8d5cc80/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/open-notebook/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_a1894be9/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/peer-review/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_0b8cb7e4/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pptx-posters/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_12f9bf1a/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-grants/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_7a4b1317/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/research-lookup/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_08090721/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-critical-thinking/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_aab7c1b4/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-schematics/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_51b74373/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-slides/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_ffc9f519/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/scientific-writing/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_d77afba0/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/treatment-plans/SKILL.md) | 🔥 9.2k | `research` |
+| [Endpoints Combined](research/endpoints-combined_26644ad8/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/hedgefundmonitor/references/endpoints-combined.md) | 🔥 9.2k | `research` |
+| [Markdown Style Guide](research/markdown_style_guide_01338438/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/references/markdown_style_guide.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_0662799b/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/paper-2-web/SKILL.md) | 🔥 9.2k | `research` |
+| [Skill](research/name-skill_aab1614c/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/venue-templates/SKILL.md) | 🔥 9.2k | `research` |
+| [Decision Record](research/decision_record_30192e49/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/decision_record.md) | 🔥 9.2k | `research` |
+| [Presentation](research/presentation_37538565/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/presentation.md) | 🔥 9.2k | `research` |
+| [Research Paper](research/research_paper_5fdcf37e/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/research_paper.md) | 🔥 9.2k | `research` |
+| [Status Report](research/status_report_090b5af7/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/markdown-mermaid-writing/templates/status_report.md) | 🔥 9.2k | `research` |
 
 ## How Skills Are Organized
 
@@ -1848,5 +1963,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 09:31:18 UTC*
+*Last updated: 2026-02-24 12:00:49 UTC*
 *Automatically maintained by SkillFlow*
