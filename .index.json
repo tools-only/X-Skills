@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T20:36:26.397103",
+  "updated_at": "2026-02-24T20:38:41.402772",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -25481,6 +25481,48 @@
       "source_url": "https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-4-conductor.prompt.md",
       "display_name": "Phase 4 Conductor.Prompt",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "21d594c1ea219d8c5b10f39e30a4a0fe75b423f0ff783691ea9340a09c656df4",
+      "source_path": "AGENTS.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "development/028-agents_21d594c1",
+      "category": "development",
+      "name": "agents_21d594c1",
+      "indexed_at": "2026-02-24T20:38:40.487420",
+      "repo_stars": 77,
+      "repo_updated_at": "2026-02-24T19:42:32+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "a7b799494c235725ef146f3c42d2e35f848124569e985da6a1b0d2bc4cfe84f3",
+      "source_path": "specs/http_openai.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "data-analysis/487-http_openai_a7b79949",
+      "category": "data-analysis",
+      "name": "http_openai_a7b79949",
+      "indexed_at": "2026-02-24T20:38:40.985536",
+      "repo_stars": 77,
+      "repo_updated_at": "2026-02-24T19:55:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specs/http_openai.md",
+      "display_name": "Http Openai",
+      "tags": "[\"data analysis\"]"
+    },
+    {
+      "file_hash": "401ae5684eb4741817a14c8bed5f3de632693d020f854cfa6086927fd71bcaf3",
+      "source_path": "specs/sdk_logic.md",
+      "source_repo": "synth-laboratories/synth-ai",
+      "local_path": "communication/254-sdk_logic_401ae568",
+      "category": "communication",
+      "name": "sdk_logic_401ae568",
+      "indexed_at": "2026-02-24T20:38:41.402717",
+      "repo_stars": 77,
+      "repo_updated_at": "2026-02-24T19:55:18+00:00",
+      "source_url": "https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specs/sdk_logic.md",
+      "display_name": "Sdk Logic",
+      "tags": "[\"communication\"]"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1821 AI-powered skills** organized into 15 categories.
+A curated collection of **1823 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -9,13 +9,13 @@ This repository contains automatically aggregated skills from various open-sourc
 ## Categories
 
 - **Automation/Scripting** (35 skills)
-- **Automation/Workflow** (91 skills)
+- **Automation/Workflow** (90 skills)
 - **Commercial** (78 skills)
-- **Communication** (50 skills)
+- **Communication** (51 skills)
 - **Content Creation** (165 skills)
 - **Daily Assistant** (106 skills)
-- **Data Analysis** (166 skills)
-- **Development** (569 skills)
+- **Data Analysis** (167 skills)
+- **Development** (570 skills)
 - **Development/Devops** (232 skills)
 - **Development/Testing** (42 skills)
 - **Development/Tools** (176 skills)
@@ -218,10 +218,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_af59add8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/refresh-research/SKILL.md) | ⭐ 20 | `automation` |
 | [01 Configuration](automation/scripting/080-01-configuration_cf067339/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/guides/01-configuration.md) | ⭐ 3.5k | `automation` |
 | [Time Spine](automation/scripting/092-time-spine_7a1d4728/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/time-spine.md) | ⭐ 193 | `automation` |
-| [Phase 2 Agents Core.Prompt](automation/scripting/phase-2-agents-coreprompt_812b7a36/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-2-agents-core.prompt.md) | ⭐ 93 | `automation` |
-| [Phase 4 Conductor.Prompt](automation/scripting/phase-4-conductorprompt_9dad8672/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-4-conductor.prompt.md) | ⭐ 93 | `automation` |
+| [Phase 2 Agents Core.Prompt](automation/scripting/085-phase-2-agents-coreprompt_812b7a36/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-2-agents-core.prompt.md) | ⭐ 93 | `automation` |
+| [Phase 4 Conductor.Prompt](automation/scripting/086-phase-4-conductorprompt_9dad8672/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-4-conductor.prompt.md) | ⭐ 93 | `automation` |
 
-### Automation/Workflow (91 skills)
+### Automation/Workflow (90 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -312,10 +312,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](automation/workflow/061-claude_e007c36e/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/CLAUDE.md) | ⭐ 10 | `automation` |
 | [Safety And Permissions](automation/workflow/139-safety-and-permissions_9f4c0016/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/references/safety-and-permissions.md) | ⭐ 10 | `automation` |
 | [Installing Dbt Fusion](automation/workflow/136-installing-dbt-fusion_1c65a18d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 193 | `automation` |
-| [Issue 85 Parent](automation/workflow/issue-85-parent_3f21764a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-85-parent.md) | ⭐ 93 | `automation` |
-| [Issue Child 07 Governance](automation/workflow/issue-child-07-governance_886369a4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-07-governance.md) | ⭐ 93 | `automation` |
-| [Phase 5 Quality Gates.Prompt](automation/workflow/phase-5-quality-gatesprompt_19689274/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-5-quality-gates.prompt.md) | ⭐ 93 | `automation` |
-| [Bicep Lint Subagent.Agent](automation/workflow/bicep-lint-subagentagent_3d71befe/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-lint-subagent.agent.md) | ⭐ 93 | `automation` |
+| [Issue 85 Parent](automation/workflow/138-issue-85-parent_3f21764a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-85-parent.md) | ⭐ 93 | `automation` |
+| [Issue Child 07 Governance](automation/workflow/139-issue-child-07-governance_886369a4/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-07-governance.md) | ⭐ 93 | `automation` |
+| [Phase 5 Quality Gates.Prompt](automation/workflow/140-phase-5-quality-gatesprompt_19689274/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-5-quality-gates.prompt.md) | ⭐ 93 | `automation` |
 
 ### Commercial (78 skills)
 
@@ -400,7 +399,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Initialization](commercial/379-initialization_c74b674e/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Initialization.md) | ⭐ 39 | `commercial` |
 | [Nestedtypes](commercial/380-nestedtypes_7e59bfa9/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/NestedTypes.md) | ⭐ 39 | `commercial` |
 
-### Communication (50 skills)
+### Communication (51 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -454,6 +453,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tui](communication/255-tui_d26da9e1/) | [NiJingzhe/SimpleLLMFunc](https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/tui.md) | ⭐ 75 | `communication` |
 | [P2 Background Agent Result Deduplication After Compaction](communication/253-p2-background-agent-result-deduplication-after-compaction_02cb6c71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-background-agent-result-deduplication-after-compaction.md) | ⭐ 20 | `communication` |
 | [Skill](communication/127-name-skill_79505d99/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/agent-messaging/SKILL.md) | 🔥 20.7k | `communication` |
+| [Sdk Logic](communication/sdk_logic_401ae568/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specs/sdk_logic.md) | ⭐ 77 | `communication` |
 
 ### Content Creation (165 skills)
 
@@ -678,9 +678,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Man Overboard](daily-assistant/303-man-overboard_6d08a8b7/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/man-overboard.md) | ⭐ 143 | `daily assistant` |
 | [Scuttle And Reform](daily-assistant/304-scuttle-and-reform_496947da/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/scuttle-and-reform.md) | ⭐ 143 | `daily assistant` |
 | [Session Resumption](daily-assistant/305-session-resumption_9df13ad4/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/damage-control/session-resumption.md) | ⭐ 143 | `daily assistant` |
-| [05 Bicep Planner.Agent](daily-assistant/05-bicep-planneragent_ce9739a3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05-bicep-planner.agent.md) | ⭐ 93 | `Environment` `ManagedBy` `Project` |
-| [06 Bicep Code Generator.Agent](daily-assistant/06-bicep-code-generatoragent_f35ef6dd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06-bicep-code-generator.agent.md) | ⭐ 93 | `daily assistant` |
-| [09 Diagnose.Agent](daily-assistant/09-diagnoseagent_a09ec7d9/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 93 | `daily assistant` |
+| [05 Bicep Planner.Agent](daily-assistant/269-05-bicep-planneragent_fa4a7199/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05-bicep-planner.agent.md) | ⭐ 85 | `Environment` `ManagedBy` `Project` |
+| [06 Bicep Code Generator.Agent](daily-assistant/270-06-bicep-code-generatoragent_05c5a469/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06-bicep-code-generator.agent.md) | ⭐ 85 | `daily assistant` |
+| [09 Diagnose.Agent](daily-assistant/271-09-diagnoseagent_34470559/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 85 | `daily assistant` |
 | [Tasks](daily-assistant/272-tasks_b252b379/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-knowledge-sync/tasks.md) | ⭐ 23 | `daily assistant` |
 | [Implement Loop](daily-assistant/272-implement-loop_6c51faf7/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/loop/implement-loop.md) | ⭐ 11 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_6847714f/) | [Randroids-Dojo/skills](https://raw.githubusercontent.com/Randroids-Dojo/skills/main/plugins/task-tracking-dots/SKILL.md) | ⭐ 11 | `daily assistant` |
@@ -723,20 +723,20 @@ ls ~/.claude/skills/patch-research-agent/
 | [Functions](daily-assistant/278-functions_af10de74/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Functions.md) | ⭐ 39 | `daily assistant` |
 | [Methods](daily-assistant/279-methods_59fc2060/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Methods.md) | ⭐ 39 | `daily assistant` |
 | [Properties](daily-assistant/280-properties_875c5268/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Properties.md) | ⭐ 39 | `daily assistant` |
-| [02 Requirements.Agent](daily-assistant/02-requirementsagent_ec27e496/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/02-requirements.agent.md) | ⭐ 93 | `daily assistant` |
-| [04 Design.Agent](daily-assistant/04-designagent_e256d471/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/04-design.agent.md) | ⭐ 93 | `daily assistant` |
+| [02 Requirements.Agent](daily-assistant/266-02-requirementsagent_ec27e496/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/02-requirements.agent.md) | ⭐ 93 | `daily assistant` |
+| [04 Design.Agent](daily-assistant/267-04-designagent_e256d471/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/04-design.agent.md) | ⭐ 93 | `daily assistant` |
 | [05 Bicep Planner.Agent](daily-assistant/268-05-bicep-planneragent_ce9739a3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/05-bicep-planner.agent.md) | ⭐ 93 | `Environment` `ManagedBy` `Project` |
 | [06 Bicep Code Generator.Agent](daily-assistant/269-06-bicep-code-generatoragent_f35ef6dd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/06-bicep-code-generator.agent.md) | ⭐ 93 | `daily assistant` |
-| [07 Deploy.Agent](daily-assistant/07-deployagent_dba6843e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/07-deploy.agent.md) | ⭐ 93 | `daily assistant` |
-| [08 As Built.Agent](daily-assistant/08-as-builtagent_fbee6402/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/08-as-built.agent.md) | ⭐ 93 | `daily assistant` |
+| [07 Deploy.Agent](daily-assistant/270-07-deployagent_dba6843e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/07-deploy.agent.md) | ⭐ 93 | `daily assistant` |
+| [08 As Built.Agent](daily-assistant/271-08-as-builtagent_fbee6402/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/08-as-built.agent.md) | ⭐ 93 | `daily assistant` |
 | [09 Diagnose.Agent](daily-assistant/272-09-diagnoseagent_a09ec7d9/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/09-diagnose.agent.md) | ⭐ 93 | `daily assistant` |
-| [10 Challenger.Agent](daily-assistant/10-challengeragent_654cb154/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/10-challenger.agent.md) | ⭐ 93 | `daily assistant` |
-| [Backlog](daily-assistant/backlog_e9f15924/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/BACKLOG.md) | ⭐ 93 | `daily assistant` |
-| [Terraform Azure Planning.Agent](daily-assistant/terraform-azure-planningagent_749f2328/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-azure-planning.agent.md) | ⭐ 93 | `daily assistant` |
-| [Issue Child 08 Documentation](daily-assistant/issue-child-08-documentation_382e2600/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-08-documentation.md) | ⭐ 93 | `daily assistant` |
-| [00 Session Start.Prompt](daily-assistant/00-session-startprompt_e8b745e3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/00-session-start.prompt.md) | ⭐ 93 | `daily assistant` |
+| [10 Challenger.Agent](daily-assistant/273-10-challengeragent_654cb154/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/10-challenger.agent.md) | ⭐ 93 | `daily assistant` |
+| [Backlog](daily-assistant/274-backlog_e9f15924/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/BACKLOG.md) | ⭐ 93 | `daily assistant` |
+| [Terraform Azure Planning.Agent](daily-assistant/275-terraform-azure-planningagent_749f2328/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-azure-planning.agent.md) | ⭐ 93 | `daily assistant` |
+| [Issue Child 08 Documentation](daily-assistant/276-issue-child-08-documentation_382e2600/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-08-documentation.md) | ⭐ 93 | `daily assistant` |
+| [00 Session Start.Prompt](daily-assistant/277-00-session-startprompt_e8b745e3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/00-session-start.prompt.md) | ⭐ 93 | `daily assistant` |
 
-### Data Analysis (166 skills)
+### Data Analysis (167 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -836,7 +836,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Extraction Patterns](data-analysis/484-extraction_patterns_84b5b7b6/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/traceability-matrix-generator/references/extraction_patterns.md) | ⭐ 10 | `data analysis` |
 | [Claude](data-analysis/036-claude_671c19ce/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/294-description-skill_db9c540a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/daily-releases/SKILL.md) | ⭐ 18 | `data analysis` |
-| [03 Architect.Agent](data-analysis/03-architectagent_f0f55e35/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 93 | `data analysis` |
+| [03 Architect.Agent](data-analysis/483-03-architectagent_b9ce6108/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 85 | `data analysis` |
 | [Tasks](data-analysis/493-tasks_b61286a3/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/tasks.md) | ⭐ 23 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_e1822d2a/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 112 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cc82a666/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/clean-branches/SKILL.md) | ⭐ 34 | `data analysis` |
@@ -905,9 +905,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Custom Configuration](data-analysis/516-custom_configuration_73611169/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 193 | `data analysis` |
 | [Switching Targets](data-analysis/517-switching-targets_a45837f2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/switching-targets.md) | ⭐ 193 | `data analysis` |
 | [03 Architect.Agent](data-analysis/488-03-architectagent_f0f55e35/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/03-architect.agent.md) | ⭐ 93 | `data analysis` |
-| [Phase 3 Subagents.Prompt](data-analysis/phase-3-subagentsprompt_d1dd8feb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-3-subagents.prompt.md) | ⭐ 93 | `data analysis` |
+| [Phase 3 Subagents.Prompt](data-analysis/489-phase-3-subagentsprompt_d1dd8feb/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-3-subagents.prompt.md) | ⭐ 93 | `data analysis` |
+| [Http Openai](data-analysis/http_openai_a7b79949/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/specs/http_openai.md) | ⭐ 77 | `data analysis` |
 
-### Development (569 skills)
+### Development (570 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1325,7 +1326,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_1c7fc8df/) | [markmdev/meridian](https://raw.githubusercontent.com/markmdev/meridian/main/.claude/skills/ux-states-audit/SKILL.md) | ⭐ 135 | `development` |
 | [Comparison](development/181-comparison_bd250760/) | [vibheksoni/stealth-browser-mcp](https://raw.githubusercontent.com/vibheksoni/stealth-browser-mcp/master/COMPARISON.md) | ⭐ 337 | `development` |
 | [Branch Ruleset Config](development/2925-branch-ruleset-config_c0bfa0d5/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/branch-ruleset-config.md) | ⭐ 87 | `development` |
-| [01 Conductor.Agent](development/01-conductoragent_90085df3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/01-conductor.agent.md) | ⭐ 93 | `development` |
+| [01 Conductor.Agent](development/2926-01-conductoragent_bc33d6cd/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/01-conductor.agent.md) | ⭐ 87 | `development` |
 | [Agents Full Reference V1.9.313 2026 02 23](development/2887-agents_full_reference_v19313_2026-02-23_b581da1a/) | [michaelbeijer/Supervertaler](https://raw.githubusercontent.com/michaelbeijer/Supervertaler/main/docs/agent-archive/AGENTS_FULL_REFERENCE_v1.9.313_2026-02-23.md) | ⭐ 24 | `development` |
 | [Sdlc Layer L1 Integration Suggestions](development/2887-sdlc-layer-l1-integration-suggestions_2991c864/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/sdlc-layer-L1-integration-suggestions.md) | ⭐ 20 | `development` |
 | [Sdlc Layer L2 Integration Suggestions](development/2888-sdlc-layer-l2-integration-suggestions_9ac5df2a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/sdlc-layer-L2-integration-suggestions.md) | ⭐ 20 | `development` |
@@ -1469,17 +1470,18 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_086b2237/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/skill-extractor/skills/skill-extractor/SKILL.md) | ⭐ 192 | `development` |
 | [Skill](development/1178-name-skill_381b74bb/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/wooyun-legacy/skills/wooyun-legacy/SKILL.md) | ⭐ 192 | `development` |
 | [01 Conductor.Agent](development/2895-01-conductoragent_90085df3/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/01-conductor.agent.md) | ⭐ 93 | `development` |
-| [Skill](development/name-skill_c9c2a6d6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/SKILL.md) | ⭐ 93 | `development` |
-| [Terraform Azure Implement.Agent](development/terraform-azure-implementagent_b8a6a8e6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-azure-implement.agent.md) | ⭐ 93 | `development` |
-| [Terraform.Agent](development/terraformagent_611ccecc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform.agent.md) | ⭐ 93 | `development` |
-| [Governance Discovery Subagent.Agent](development/governance-discovery-subagentagent_0091e699/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/governance-discovery-subagent.agent.md) | ⭐ 93 | `development` |
-| [Issue Child 02 Instructions Skills](development/issue-child-02-instructions-skills_a63a555b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-02-instructions-skills.md) | ⭐ 93 | `development` |
-| [Issue Child 03 Agents Core](development/issue-child-03-agents-core_97e7cbb2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-03-agents-core.md) | ⭐ 93 | `development` |
-| [Issue Child 05 Conductor](development/issue-child-05-conductor_86efe22c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-05-conductor.md) | ⭐ 93 | `development` |
-| [Issue Child 06 Quality Gates](development/issue-child-06-quality-gates_fc4ac655/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-06-quality-gates.md) | ⭐ 93 | `development` |
-| [Phase 0 Foundation.Prompt](development/phase-0-foundationprompt_d6594841/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-0-foundation.prompt.md) | ⭐ 93 | `development` |
-| [Phase 6 Governance Migration.Prompt](development/phase-6-governance-migrationprompt_5ba7b73e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-6-governance-migration.prompt.md) | ⭐ 93 | `development` |
-| [Phase 7 Documentation.Prompt](development/phase-7-documentationprompt_68f1f457/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-7-documentation.prompt.md) | ⭐ 93 | `Environment` `ManagedBy="Terraform` `Project` |
+| [Skill](development/1178-name-skill_c9c2a6d6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/SKILL.md) | ⭐ 93 | `development` |
+| [Terraform Azure Implement.Agent](development/2896-terraform-azure-implementagent_b8a6a8e6/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-azure-implement.agent.md) | ⭐ 93 | `development` |
+| [Terraform.Agent](development/2897-terraformagent_611ccecc/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform.agent.md) | ⭐ 93 | `development` |
+| [Governance Discovery Subagent.Agent](development/2870-governance-discovery-subagentagent_0091e699/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/governance-discovery-subagent.agent.md) | ⭐ 93 | `development` |
+| [Issue Child 02 Instructions Skills](development/2898-issue-child-02-instructions-skills_a63a555b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-02-instructions-skills.md) | ⭐ 93 | `development` |
+| [Issue Child 03 Agents Core](development/2899-issue-child-03-agents-core_97e7cbb2/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-03-agents-core.md) | ⭐ 93 | `development` |
+| [Issue Child 05 Conductor](development/2900-issue-child-05-conductor_86efe22c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-05-conductor.md) | ⭐ 93 | `development` |
+| [Issue Child 06 Quality Gates](development/2901-issue-child-06-quality-gates_fc4ac655/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-06-quality-gates.md) | ⭐ 93 | `development` |
+| [Phase 0 Foundation.Prompt](development/2902-phase-0-foundationprompt_d6594841/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-0-foundation.prompt.md) | ⭐ 93 | `development` |
+| [Phase 6 Governance Migration.Prompt](development/2903-phase-6-governance-migrationprompt_5ba7b73e/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-6-governance-migration.prompt.md) | ⭐ 93 | `development` |
+| [Phase 7 Documentation.Prompt](development/2904-phase-7-documentationprompt_68f1f457/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-7-documentation.prompt.md) | ⭐ 93 | `Environment` `ManagedBy="Terraform` `Project` |
+| [Agents](development/agents_21d594c1/) | [synth-laboratories/synth-ai](https://raw.githubusercontent.com/synth-laboratories/synth-ai/main/AGENTS.md) | ⭐ 77 | `development` |
 
 ### Development/Devops (232 skills)
 
@@ -1674,7 +1676,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Bicep Code Best Practices.Instructions](development/devops/208-bicep-code-best-practicesinstructions_b88de29a/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/instructions/bicep-code-best-practices.instructions.md) | ⭐ 87 | `development` |
 | [02 Architecture Assessment](development/devops/373-02-architecture-assessment_e1d4c251/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/aks-platform/02-architecture-assessment.md) | ⭐ 87 | `development` |
 | [02 Architecture Assessment](development/devops/373-02-architecture-assessment_17cf6aad/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/agent-output/pci-dss-gw/02-architecture-assessment.md) | ⭐ 87 | `development` |
-| [Bicep Review Subagent.Agent](development/devops/bicep-review-subagentagent_37ab672d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 93 | `development` |
+| [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_5ec93b77/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 87 | `development` |
 | [Skill](development/devops/014-name-skill_4030654f/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/azure-defaults/SKILL.md) | ⭐ 87 | `development` |
 | [Repo Architecture](development/devops/310-repo-architecture_91a76396/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/skills/docs-writer/references/repo-architecture.md) | ⭐ 87 | `development` |
 | [Skill](development/devops/014-name-skill_b5c3ac9f/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/.agents/skills/defold-docs-fetch/SKILL.md) | ⭐ 22 | `development` |
@@ -1713,13 +1715,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [01 Configuration](development/devops/314-01-configuration_2ae84edd/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/guides/01-configuration.md) | ⭐ 3.5k | `development` |
 | [Skill](development/devops/014-name-skill_455a810e/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/development/agirails-agent-payments/SKILL.md) | 🔥 20.7k | `development` |
 | [Skill](development/devops/014-name-skill_10d67dc1/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/release-notes/SKILL.md) | ⭐ 450 | `development` |
-| [Progress](development/devops/progress_906de111/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/PROGRESS.md) | ⭐ 93 | `development` |
-| [Azure Verified Modules Terraform.Agent](development/devops/azure-verified-modules-terraformagent_6c53ab2b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/azure-verified-modules-terraform.agent.md) | ⭐ 93 | `development` |
-| [Terraform Iac Reviewer.Agent](development/devops/terraform-iac-revieweragent_6cdff350/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-iac-reviewer.agent.md) | ⭐ 93 | `development` |
-| [Tf Support Plan.Prompt](development/devops/tf-support-planprompt_ab0b9a6c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/tf-support-plan.prompt.md) | ⭐ 93 | `development` |
+| [Progress](development/devops/369-progress_906de111/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/PROGRESS.md) | ⭐ 93 | `development` |
+| [Azure Verified Modules Terraform.Agent](development/devops/370-azure-verified-modules-terraformagent_6c53ab2b/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/azure-verified-modules-terraform.agent.md) | ⭐ 93 | `development` |
+| [Terraform Iac Reviewer.Agent](development/devops/371-terraform-iac-revieweragent_6cdff350/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/terraform-iac-reviewer.agent.md) | ⭐ 93 | `development` |
+| [Tf Support Plan.Prompt](development/devops/372-tf-support-planprompt_ab0b9a6c/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/tf-support-plan.prompt.md) | ⭐ 93 | `development` |
 | [Bicep Review Subagent.Agent](development/devops/213-bicep-review-subagentagent_37ab672d/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-review-subagent.agent.md) | ⭐ 93 | `development` |
-| [Phase 1 Instructions Skills.Prompt](development/devops/phase-1-instructions-skillsprompt_c95f9230/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-1-instructions-skills.prompt.md) | ⭐ 93 | `development` |
-| [Regression Check.Prompt](development/devops/regression-checkprompt_056e1171/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/regression-check.prompt.md) | ⭐ 93 | `development` |
+| [Phase 1 Instructions Skills.Prompt](development/devops/373-phase-1-instructions-skillsprompt_c95f9230/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/phase-1-instructions-skills.prompt.md) | ⭐ 93 | `development` |
+| [Regression Check.Prompt](development/devops/374-regression-checkprompt_056e1171/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/prompts/regression-check.prompt.md) | ⭐ 93 | `development` |
 
 ### Development/Testing (42 skills)
 
@@ -1946,8 +1948,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Api](development/tools/050-api_06e2775a/) | [anthropics/anthropic-sdk-python](https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/api.md) | ⭐ 2.8k | `development` |
 | [Helpers](development/tools/339-helpers_c4b8ba5e/) | [anthropics/anthropic-sdk-python](https://raw.githubusercontent.com/anthropics/anthropic-sdk-python/main/helpers.md) | ⭐ 2.8k | `development` |
 | [Skill](development/tools/002-name-skill_25b76693/) | [trailofbits/skills-curated](https://raw.githubusercontent.com/trailofbits/skills-curated/main/plugins/ffuf-web-fuzzing/skills/ffuf-web-fuzzing/SKILL.md) | ⭐ 192 | `development` |
-| [Bicep Whatif Subagent.Agent](development/tools/bicep-whatif-subagentagent_61909c56/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-whatif-subagent.agent.md) | ⭐ 93 | `development` |
-| [Issue Child 01 Foundation](development/tools/issue-child-01-foundation_d3ae6857/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-01-foundation.md) | ⭐ 93 | `development` |
+| [Bicep Whatif Subagent.Agent](development/tools/331-bicep-whatif-subagentagent_61909c56/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/.github/agents/_subagents/bicep-whatif-subagent.agent.md) | ⭐ 93 | `development` |
+| [Issue Child 01 Foundation](development/tools/336-issue-child-01-foundation_d3ae6857/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-01-foundation.md) | ⭐ 93 | `development` |
 
 ### Investment (23 skills)
 
@@ -2079,7 +2081,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [False Positive Prevention](research/262-false-positive-prevention_307e1923/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/false-positive-prevention.md) | ⭐ 972 | `research` |
 | [Model Fingerprints](research/263-model-fingerprints_557e707b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/model-fingerprints.md) | ⭐ 972 | `research` |
 | [Vocabulary Patterns](research/264-vocabulary-patterns_e1991609/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/vocabulary-patterns.md) | ⭐ 972 | `research` |
-| [Issue Child 04 Subagents](research/issue-child-04-subagents_634cb553/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-04-subagents.md) | ⭐ 93 | `research` |
+| [Issue Child 04 Subagents](research/257-issue-child-04-subagents_634cb553/) | [jonathan-vella/azure-agentic-infraops](https://raw.githubusercontent.com/jonathan-vella/azure-agentic-infraops/main/docs/tf-support/github-issues/issue-child-04-subagents.md) | ⭐ 93 | `research` |
 
 ## How Skills Are Organized
 
@@ -2131,5 +2133,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 20:36:26 UTC*
+*Last updated: 2026-02-24 20:38:41 UTC*
 *Automatically maintained by SkillFlow*
