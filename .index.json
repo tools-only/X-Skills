@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T00:29:48.682529",
+  "updated_at": "2026-02-24T00:30:44.677173",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -18480,6 +18480,34 @@
       "repo_updated_at": "2026-02-23T18:17:45+00:00",
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/refresh-research/SKILL.md",
       "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "06a036779739c7b3ea65b5c2d8b0835de459209096f7411b8924962264f32a48",
+      "source_path": "skills/atac/SKILL.md",
+      "source_repo": "ATaC-team/ATaC",
+      "local_path": "automation/workflow/002-name-skill_06a03677",
+      "category": "automation/workflow",
+      "name": "name-skill_06a03677",
+      "indexed_at": "2026-02-24T00:30:44.461741",
+      "repo_stars": 54,
+      "repo_updated_at": "2026-02-23T05:35:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/ATaC-team/ATaC/main/skills/atac/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "d7b7b87971966fd5e39e934b8872fef11198a94590f09c77c69d7919f3c80401",
+      "source_path": "src/atac/mcp/INSTRUCTIONS.md",
+      "source_repo": "ATaC-team/ATaC",
+      "local_path": "automation/workflow/136-instructions_d7b7b879",
+      "category": "automation/workflow",
+      "name": "instructions_d7b7b879",
+      "indexed_at": "2026-02-24T00:30:44.677111",
+      "repo_stars": 54,
+      "repo_updated_at": "2026-02-23T05:35:49+00:00",
+      "source_url": "https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md",
+      "display_name": "Instructions",
       "tags": "[\"automation\"]"
     }
   ]
