@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1728 AI-powered skills** organized into 15 categories.
+A curated collection of **1771 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -10,12 +10,12 @@ This repository contains automatically aggregated skills from various open-sourc
 
 - **Automation/Scripting** (33 skills)
 - **Automation/Workflow** (87 skills)
-- **Commercial** (75 skills)
+- **Commercial** (78 skills)
 - **Communication** (50 skills)
-- **Content Creation** (161 skills)
-- **Daily Assistant** (90 skills)
+- **Content Creation** (163 skills)
+- **Daily Assistant** (94 skills)
 - **Data Analysis** (164 skills)
-- **Development** (520 skills)
+- **Development** (554 skills)
 - **Development/Devops** (225 skills)
 - **Development/Testing** (42 skills)
 - **Development/Tools** (171 skills)
@@ -311,7 +311,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Safety And Permissions](automation/workflow/139-safety-and-permissions_9f4c0016/) | [tdimino/claude-code-minoan](https://raw.githubusercontent.com/tdimino/claude-code-minoan/main/skills/integration-automation/open-interpreter/references/safety-and-permissions.md) | ⭐ 10 | `automation` |
 | [Installing Dbt Fusion](automation/workflow/136-installing-dbt-fusion_1c65a18d/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/installing-dbt-fusion.md) | ⭐ 193 | `automation` |
 
-### Commercial (75 skills)
+### Commercial (78 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -390,6 +390,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Deployer](commercial/372-deployer_a2b9e2d7/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/.claude/agents/deployer.md) | 🔥 20.7k | `commercial` |
 | [V1.0.15](commercial/376-v1015_9a8914f3/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/release-notes/v1.0.15.md) | ⭐ 450 | `commercial` |
 | [Legacy Spec](commercial/377-legacy-spec_08aaa28e/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/legacy-spec.md) | ⭐ 193 | `commercial` |
+| [Deinitialization](commercial/deinitialization_f7f6b0df/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Deinitialization.md) | ⭐ 39 | `commercial` |
+| [Initialization](commercial/initialization_c74b674e/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Initialization.md) | ⭐ 39 | `commercial` |
+| [Nestedtypes](commercial/nestedtypes_7e59bfa9/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/NestedTypes.md) | ⭐ 39 | `commercial` |
 
 ### Communication (50 skills)
 
@@ -446,7 +449,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Background Agent Result Deduplication After Compaction](communication/253-p2-background-agent-result-deduplication-after-compaction_02cb6c71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-background-agent-result-deduplication-after-compaction.md) | ⭐ 20 | `communication` |
 | [Skill](communication/127-name-skill_79505d99/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/agent-messaging/SKILL.md) | 🔥 20.7k | `communication` |
 
-### Content Creation (161 skills)
+### Content Creation (163 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -607,12 +610,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Audit Calibration](content-creation/361-audit-calibration_a64ea751/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/audit-calibration.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_e1a69cb9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 193 | `content creation` |
 | [Agents](content-creation/185-agents_20a1c390/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/AGENTS.md) | ⭐ 22 | `content creation` |
-| [Content Patterns](content-creation/content-patterns_afcd19a1/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/content-patterns.md) | ⭐ 972 | `content creation` |
-| [Formatting Patterns](content-creation/formatting-patterns_75578f9a/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/formatting-patterns.md) | ⭐ 972 | `content creation` |
-| [Markup Artifacts](content-creation/markup-artifacts_5a371cec/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/markup-artifacts.md) | ⭐ 972 | `content creation` |
-| [Structural Patterns](content-creation/structural-patterns_e18b94ee/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/structural-patterns.md) | ⭐ 972 | `content creation` |
+| [Content Patterns](content-creation/375-content-patterns_afcd19a1/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/content-patterns.md) | ⭐ 972 | `content creation` |
+| [Formatting Patterns](content-creation/376-formatting-patterns_75578f9a/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/formatting-patterns.md) | ⭐ 972 | `content creation` |
+| [Markup Artifacts](content-creation/377-markup-artifacts_5a371cec/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/markup-artifacts.md) | ⭐ 972 | `content creation` |
+| [Structural Patterns](content-creation/378-structural-patterns_e18b94ee/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/structural-patterns.md) | ⭐ 972 | `content creation` |
+| [Inheritance](content-creation/inheritance_5664bb86/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Inheritance.md) | ⭐ 39 | `content creation` |
+| [Subscripts](content-creation/subscripts_54844cf5/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Subscripts.md) | ⭐ 39 | `content creation` |
 
-### Daily Assistant (90 skills)
+### Daily Assistant (94 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -706,6 +711,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Sam Costtoken Management](daily-assistant/268-p2-sam-costtoken-management_a1867dec/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-sam-costtoken-management.md) | ⭐ 20 | `daily assistant` |
 | [Sdlc Layer L0 Integration Suggestions](daily-assistant/269-sdlc-layer-l0-integration-suggestions_4bf3ad9c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/archive/grooming-reports-2026-02-23/sdlc-layer-L0-integration-suggestions.md) | ⭐ 20 | `daily assistant` |
 | [Skill](daily-assistant/032-name-skill_34a4a128/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/planning/SKILL.md) | 🔥 20.7k | `daily assistant` |
+| [Extensions](daily-assistant/extensions_f85e4338/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Extensions.md) | ⭐ 39 | `daily assistant` |
+| [Functions](daily-assistant/functions_af10de74/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Functions.md) | ⭐ 39 | `daily assistant` |
+| [Methods](daily-assistant/methods_59fc2060/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Methods.md) | ⭐ 39 | `daily assistant` |
+| [Properties](daily-assistant/properties_875c5268/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Properties.md) | ⭐ 39 | `daily assistant` |
 
 ### Data Analysis (164 skills)
 
@@ -876,7 +885,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Custom Configuration](data-analysis/516-custom_configuration_73611169/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 193 | `data analysis` |
 | [Switching Targets](data-analysis/517-switching-targets_a45837f2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/switching-targets.md) | ⭐ 193 | `data analysis` |
 
-### Development (520 skills)
+### Development (554 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1400,6 +1409,40 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_3111866b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/SKILL.md) | ⭐ 193 | `development` |
 | [Managing Packages](development/543-managing-packages_301391af/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 193 | `development` |
 | [Readme Ru](development/2894-readme_ru_5a27631d/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/README_RU.md) | ⭐ 22 | `development` |
+| [Claude](development/claude_3632398f/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/CLAUDE.md) | ⭐ 39 | `development` |
+| [Skill](development/name-skill_d84f52fd/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/SKILL.md) | ⭐ 39 | `development` |
+| [Aboutswift](development/aboutswift_e87bf7bc/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/GuidedTour/AboutSwift.md) | ⭐ 39 | `development` |
+| [Compatibility](development/compatibility_c9c81fe8/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/GuidedTour/Compatibility.md) | ⭐ 39 | `development` |
+| [Guidedtour](development/guidedtour_e673dbc6/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/GuidedTour/GuidedTour.md) | ⭐ 39 | `development` |
+| [Accesscontrol](development/accesscontrol_af4c7975/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/AccessControl.md) | ⭐ 39 | `development` |
+| [Advancedoperators](development/advancedoperators_47b57b78/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/AdvancedOperators.md) | ⭐ 39 | `development` |
+| [Automaticreferencecounting](development/automaticreferencecounting_76f2feb1/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/AutomaticReferenceCounting.md) | ⭐ 39 | `development` |
+| [Basicoperators](development/basicoperators_1a515132/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/BasicOperators.md) | ⭐ 39 | `development` |
+| [Classesandstructures](development/classesandstructures_3dccadb0/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/ClassesAndStructures.md) | ⭐ 39 | `development` |
+| [Closures](development/closures_301b6360/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Closures.md) | ⭐ 39 | `development` |
+| [Collectiontypes](development/collectiontypes_fbd73557/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/CollectionTypes.md) | ⭐ 39 | `development` |
+| [Concurrency](development/concurrency_d1c645e1/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Concurrency.md) | ⭐ 39 | `development` |
+| [Controlflow](development/controlflow_d64bf2bf/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/ControlFlow.md) | ⭐ 39 | `development` |
+| [Enumerations](development/enumerations_02613db1/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Enumerations.md) | ⭐ 39 | `development` |
+| [Errorhandling](development/errorhandling_b4f13eff/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/ErrorHandling.md) | ⭐ 39 | `development` |
+| [Generics](development/generics_6b6c2cd0/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Generics.md) | ⭐ 39 | `development` |
+| [Macros](development/macros_6cebe6f0/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Macros.md) | ⭐ 39 | `development` |
+| [Memorysafety](development/memorysafety_993dcdbd/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/MemorySafety.md) | ⭐ 39 | `development` |
+| [Opaquetypes](development/opaquetypes_c139890c/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/OpaqueTypes.md) | ⭐ 39 | `development` |
+| [Optionalchaining](development/optionalchaining_d67c0a49/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/OptionalChaining.md) | ⭐ 39 | `development` |
+| [Protocols](development/protocols_06e6b9cc/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/Protocols.md) | ⭐ 39 | `development` |
+| [Stringsandcharacters](development/stringsandcharacters_2bd49127/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/StringsAndCharacters.md) | ⭐ 39 | `development` |
+| [Thebasics](development/thebasics_040d4e57/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/TheBasics.md) | ⭐ 39 | `development` |
+| [Typecasting](development/typecasting_2271c6b1/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/LanguageGuide/TypeCasting.md) | ⭐ 39 | `development` |
+| [Aboutthelanguagereference](development/aboutthelanguagereference_a8f697ca/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/AboutTheLanguageReference.md) | ⭐ 39 | `development` |
+| [Attributes](development/attributes_edcb3e9b/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/Attributes.md) | ⭐ 39 | `development` |
+| [Declarations](development/declarations_367e33e9/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/Declarations.md) | ⭐ 39 | `development` |
+| [Expressions](development/expressions_6f09949c/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/Expressions.md) | ⭐ 39 | `development` |
+| [Genericparametersandarguments](development/genericparametersandarguments_bd8bdf97/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/GenericParametersAndArguments.md) | ⭐ 39 | `development` |
+| [Lexicalstructure](development/lexicalstructure_3b383eb0/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/LexicalStructure.md) | ⭐ 39 | `development` |
+| [Patterns](development/patterns_89002b2c/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/Patterns.md) | ⭐ 39 | `development` |
+| [Statements](development/statements_e4232168/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/Statements.md) | ⭐ 39 | `development` |
+| [Types](development/types_72b3c973/) | [kylehughes/the-unofficial-swift-programming-language-skill](https://raw.githubusercontent.com/kylehughes/the-unofficial-swift-programming-language-skill/main/programming-swift/ReferenceManual/Types.md) | ⭐ 39 | `development` |
 
 ### Development/Devops (225 skills)
 
@@ -1983,10 +2026,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Githubprojectsetuppy Add Github Projects V2 Status Field Upd](research/257-p2-githubprojectsetuppy-add-github-projects-v2-status-field-upd_f576e5ab/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-githubprojectsetuppy-add-github-projects-v2-status-field-upd.md) | ⭐ 20 | `research` |
 | [Skill](research/139-name-skill_68fb4889/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
 | [Skill](research/139-name-skill_cf2149d5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/sports/footballbin-predictions/SKILL.md) | 🔥 20.7k | `research` |
-| [Citation Patterns](research/citation-patterns_73904272/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/citation-patterns.md) | ⭐ 972 | `research` |
-| [False Positive Prevention](research/false-positive-prevention_307e1923/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/false-positive-prevention.md) | ⭐ 972 | `research` |
-| [Model Fingerprints](research/model-fingerprints_557e707b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/model-fingerprints.md) | ⭐ 972 | `research` |
-| [Vocabulary Patterns](research/vocabulary-patterns_e1991609/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/vocabulary-patterns.md) | ⭐ 972 | `research` |
+| [Citation Patterns](research/261-citation-patterns_73904272/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/citation-patterns.md) | ⭐ 972 | `research` |
+| [False Positive Prevention](research/262-false-positive-prevention_307e1923/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/false-positive-prevention.md) | ⭐ 972 | `research` |
+| [Model Fingerprints](research/263-model-fingerprints_557e707b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/model-fingerprints.md) | ⭐ 972 | `research` |
+| [Vocabulary Patterns](research/264-vocabulary-patterns_e1991609/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/vocabulary-patterns.md) | ⭐ 972 | `research` |
 
 ## How Skills Are Organized
 
@@ -2038,5 +2081,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 17:36:23 UTC*
+*Last updated: 2026-02-24 19:35:19 UTC*
 *Automatically maintained by SkillFlow*
