@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1476 AI-powered skills** organized into 15 categories.
+A curated collection of **1453 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (19 skills)
-- **Automation/Workflow** (82 skills)
-- **Commercial** (68 skills)
+- **Automation/Scripting** (18 skills)
+- **Automation/Workflow** (81 skills)
+- **Commercial** (66 skills)
 - **Communication** (42 skills)
-- **Content Creation** (129 skills)
-- **Daily Assistant** (77 skills)
-- **Data Analysis** (130 skills)
-- **Development** (462 skills)
+- **Content Creation** (126 skills)
+- **Daily Assistant** (74 skills)
+- **Data Analysis** (127 skills)
+- **Development** (457 skills)
 - **Development/Devops** (210 skills)
-- **Development/Testing** (40 skills)
-- **Development/Tools** (149 skills)
+- **Development/Testing** (39 skills)
+- **Development/Tools** (148 skills)
 - **Investment** (13 skills)
 - **Other** (1 skill)
-- **Productivity** (14 skills)
-- **Research** (40 skills)
+- **Productivity** (13 skills)
+- **Research** (38 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (19 skills)
+### Automation/Scripting (18 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -197,15 +197,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/scripting/003-name-skill_7cb11cd0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/refresh-research/SKILL.md) | ⭐ 20 | `automation` |
 | [Skill](automation/scripting/003-name-skill_cd62022c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-bedrock/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/scripting/003-name-skill_b32d11ec/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md) | ⭐ 103 | `automation` |
-| [Architecture Report](automation/scripting/architecture-report_0da5d0cb/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/architecture-report.md) | ⭐ 19 | `automation` |
-| [Nfr Review](automation/scripting/nfr-review_4a12f3f2/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/nfr-review.md) | ⭐ 19 | `automation` |
-| [Video Digest](automation/scripting/video-digest_9b142829/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/video-digest.md) | ⭐ 19 | `automation` |
-| [Check Weblinks](automation/scripting/check-weblinks_50d8012b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/check-weblinks.md) | ⭐ 19 | `automation` |
-| [Quality Report](automation/scripting/quality-report_36d918fe/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/quality-report.md) | ⭐ 19 | `automation` |
-| [Backlog](automation/scripting/backlog_d302c0d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `automation` |
-| [Broken Links](automation/scripting/broken-links_28ae1646/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/broken-links.md) | ⭐ 19 | `automation` |
+| [Architecture Report](automation/scripting/085-architecture-report_0da5d0cb/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/architecture-report.md) | ⭐ 19 | `automation` |
+| [Nfr Review](automation/scripting/086-nfr-review_4a12f3f2/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/nfr-review.md) | ⭐ 19 | `automation` |
+| [Video Digest](automation/scripting/087-video-digest_9b142829/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/video-digest.md) | ⭐ 19 | `automation` |
+| [Check Weblinks](automation/scripting/088-check-weblinks_50d8012b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/check-weblinks.md) | ⭐ 19 | `automation` |
+| [Quality Report](automation/scripting/089-quality-report_36d918fe/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/quality-report.md) | ⭐ 19 | `automation` |
+| [Backlog](automation/scripting/090-backlog_d302c0d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `automation` |
 
-### Automation/Workflow (82 skills)
+### Automation/Workflow (81 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -289,10 +288,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Instructions](automation/workflow/136-instructions_d7b7b879/) | [ATaC-team/ATaC](https://raw.githubusercontent.com/ATaC-team/ATaC/main/src/atac/mcp/INSTRUCTIONS.md) | ⭐ 54 | `automation` |
 | [Skill](automation/workflow/002-name-skill_cfc8da10/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/workflow/002-name-skill_9293219a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 103 | `automation` |
-| [Skill](automation/workflow/name-skill_fba8986b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 20 | `automation` |
-| [Skill Creator](automation/workflow/skill-creator_910ca1a5/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/knowledge/skill-creator.md) | ⭐ 19 | `automation` |
+| [Skill](automation/workflow/002-name-skill_fba8986b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 20 | `automation` |
 
-### Commercial (68 skills)
+### Commercial (66 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -361,9 +359,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_e017e3b0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-rag-implementation-patterns/SKILL.md) | ⭐ 103 | `commercial` |
 | [Skill](commercial/210-name-skill_b14ddda4/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-saga-pattern/SKILL.md) | ⭐ 103 | `commercial` |
 | [Skill](commercial/210-name-skill_c4ae6915/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 103 | `commercial` |
-| [Cost Analysis](commercial/cost-analysis_5c210100/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/cost-analysis.md) | ⭐ 19 | `commercial` |
-| [01 Declaration Order](commercial/01-declaration-order_d6d862d5/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/examples/diagramming/01-declaration-order.md) | ⭐ 19 | `commercial` |
-| [Nfr Capture](commercial/nfr-capture_b4278519/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/nfr-capture.md) | ⭐ 19 | `commercial` |
+| [Cost Analysis](commercial/371-cost-analysis_5c210100/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/cost-analysis.md) | ⭐ 19 | `commercial` |
 
 ### Communication (42 skills)
 
@@ -408,11 +404,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Clawdbot](communication/252-clawdbot_83a3b776/) | [nociza/cuti](https://raw.githubusercontent.com/nociza/cuti/main/docs/clawdbot.md) | ⭐ 15 | `communication` |
 | [Skill](communication/127-name-skill_94fe200e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/langchain4j-tool-function-calling-patterns/SKILL.md) | ⭐ 103 | `communication` |
 | [Agents](communication/253-agents_382612d6/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/frontend/AGENTS.md) | 🔥 6.5k | `communication` |
-| [Email Capture](communication/email-capture_a265f4ef/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/email-capture.md) | ⭐ 19 | `activity/email` `project/relevant-tag` |
-| [Skill](communication/name-skill_977aff84/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/slack/SKILL.md) | ⭐ 15 | `communication` |
-| [Find Decisions](communication/find-decisions_ec2ac8e5/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/knowledge/find-decisions.md) | ⭐ 19 | `communication` |
+| [Email Capture](communication/252-email-capture_a265f4ef/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/email-capture.md) | ⭐ 19 | `activity/email` `project/relevant-tag` |
+| [Skill](communication/127-name-skill_977aff84/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/slack/SKILL.md) | ⭐ 15 | `communication` |
+| [Skill](communication/name-skill_f3b5107e/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-observability/SKILL.md) | ⭐ 11 | `communication` |
 
-### Content Creation (129 skills)
+### Content Creation (126 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -446,7 +442,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Features](content-creation/109-features_40be1130/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/docs/FEATURES.md) | ⭐ 829 | `content creation` |
 | [Skill](content-creation/049-name-skill_aa320b97/) | [K-Dense-AI/claude-scientific-writer](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-writer/main/skills/scientific-writing/SKILL.md) | ⭐ 829 | `content creation` |
 | [V1.81.12](content-creation/351-v18112_b76af1d8/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/release_notes/v1.81.12.md) | 🔥 36.4k | `content creation` |
-| [Skill](content-creation/name-skill_6475c2ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 20 | `content creation` |
+| [Skill](content-creation/049-name-skill_232ae8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 18 | `content creation` |
 | [Whats New](content-creation/354-whats-new_6a65e564/) | [NTCoding/claude-skillz](https://raw.githubusercontent.com/NTCoding/claude-skillz/main/claude-code-updates/commands/whats-new.md) | ⭐ 239 | `content creation` |
 | [Skill](content-creation/049-name-skill_a0bce514/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/SKILL.md) | ⭐ 17 | `content creation` |
 | [Writing Guidelines](content-creation/355-writing-guidelines_49868b1b/) | [jim60105/copilot-prompt](https://raw.githubusercontent.com/jim60105/copilot-prompt/master/skills/create-blog-post/references/writing-guidelines.md) | ⭐ 17 | `content creation` |
@@ -531,22 +527,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](content-creation/049-name-skill_8013913e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/nextjs-app-router/SKILL.md) | ⭐ 103 | `content creation` |
 | [Skill](content-creation/049-name-skill_ff542073/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/react-patterns/SKILL.md) | ⭐ 103 | `content creation` |
 | [Skill](content-creation/049-name-skill_cad7986b/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-php/skills/wordpress/wordpress-sage-theme/SKILL.md) | ⭐ 103 | `content creation` |
-| [Agent Teams Guide](content-creation/agent-teams-guide_26137832/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/agent-teams-guide.md) | ⭐ 19 | `content creation` |
-| [Skills Reference](content-creation/skills-reference_fc153779/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/skills-reference.md) | ⭐ 19 | `content creation` |
-| [Hook Patterns](content-creation/hook-patterns_64a1e5e8/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/hook-patterns.md) | ⭐ 19 | `content creation` |
-| [Installation](content-creation/installation_1552a4ce/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/installation.md) | ⭐ 19 | `content creation` |
-| [Find Related](content-creation/find-related_811d46a8/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/knowledge/find-related.md) | ⭐ 19 | `content creation` |
-| [Meeting Notes](content-creation/meeting-notes_f4b7a1a4/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/meeting-notes.md) | ⭐ 19 | `activity/meeting` `project/relevant-tag` |
-| [Auto Summary](content-creation/auto-summary_5f793154/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/auto-summary.md) | ⭐ 19 | `content creation` |
-| [Link Checker](content-creation/link-checker_5590f161/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/link-checker.md) | ⭐ 19 | `content creation` |
-| [Backlog Item Groomer](content-creation/backlog-item-groomer_db0c508c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 20 | `content creation` |
+| [Agent Teams Guide](content-creation/355-agent-teams-guide_26137832/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/agent-teams-guide.md) | ⭐ 19 | `content creation` |
+| [Skills Reference](content-creation/356-skills-reference_fc153779/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/skills-reference.md) | ⭐ 19 | `content creation` |
+| [Hook Patterns](content-creation/357-hook-patterns_64a1e5e8/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/hook-patterns.md) | ⭐ 19 | `content creation` |
+| [Installation](content-creation/344-installation_1552a4ce/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/installation.md) | ⭐ 19 | `content creation` |
+| [Find Related](content-creation/358-find-related_811d46a8/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/knowledge/find-related.md) | ⭐ 19 | `content creation` |
+| [Meeting Notes](content-creation/359-meeting-notes_f4b7a1a4/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/meeting-notes.md) | ⭐ 19 | `activity/meeting` `project/relevant-tag` |
+| [Auto Summary](content-creation/360-auto-summary_5f793154/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/auto-summary.md) | ⭐ 19 | `content creation` |
+| [Link Checker](content-creation/361-link-checker_5590f161/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/link-checker.md) | ⭐ 19 | `content creation` |
+| [Backlog Item Groomer](content-creation/362-backlog-item-groomer_db0c508c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_6475c2ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 20 | `content creation` |
-| [Orchestrator Discipline](content-creation/orchestrator-discipline_4c1fd3a6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/orchestrator-discipline.md) | ⭐ 20 | `content creation` |
-| [Article](content-creation/article_c94f9331/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/article.md) | ⭐ 19 | `content/article` `domain/relevant-tag` |
-| [De Ai Ify](content-creation/de-ai-ify_7dd4abea/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/de-ai-ify.md) | ⭐ 19 | `content creation` |
-| [Weblink](content-creation/weblink_f394cc64/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/weblink.md) | ⭐ 19 | `content/weblink` `domain/relevant-tag` |
+| [Orchestrator Discipline](content-creation/363-orchestrator-discipline_4c1fd3a6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/orchestrator-discipline.md) | ⭐ 20 | `content creation` |
 
-### Daily Assistant (77 skills)
+### Daily Assistant (74 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -613,22 +606,19 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sdlc Layer L0 Integration Suggestions](daily-assistant/266-sdlc-layer-l0-integration-suggestions_a6a98a1b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/grooming-reports/sdlc-layer-L0-integration-suggestions.md) | ⭐ 20 | `daily assistant` |
 | [Claude](daily-assistant/037-claude_34c4ffc2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/CLAUDE.md) | ⭐ 20 | `daily assistant` |
 | [Github Integration](daily-assistant/267-github-integration_9a45eeb7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/github-integration.md) | ⭐ 20 | `daily assistant` |
-| [Impact Analysis](daily-assistant/impact-analysis_7c6fa12d/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/impact-analysis.md) | ⭐ 19 | `daily assistant` |
-| [Scenario Compare](daily-assistant/scenario-compare_5c7497d2/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/scenario-compare.md) | ⭐ 19 | `daily assistant` |
-| [Project Report](daily-assistant/project-report_a5bcfabe/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/reporting/project-report.md) | ⭐ 19 | `daily assistant` |
-| [Weekly Summary](daily-assistant/weekly-summary_02088666/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/reporting/weekly-summary.md) | ⭐ 19 | `daily assistant` |
-| [Rename](daily-assistant/rename_622a37a9/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/rename.md) | ⭐ 19 | `daily assistant` |
-| [Startup Diagnostic](daily-assistant/startup-diagnostic_1a971607/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/startup-diagnostic.md) | ⭐ 19 | `daily assistant` |
-| [Arl Touchpoints](daily-assistant/arl-touchpoints_7bcf2e12/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/arl-touchpoints.md) | ⭐ 20 | `daily assistant` |
-| [Artifact Conventions](daily-assistant/artifact-conventions_34a836fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/artifact-conventions.md) | ⭐ 20 | `daily assistant` |
-| [Sam Pipeline](daily-assistant/sam-pipeline_a7664b8e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/sam-pipeline.md) | ⭐ 20 | `daily assistant` |
-| [Task File Format](daily-assistant/task-file-format_cae7639f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/task-file-format.md) | ⭐ 20 | `daily assistant` |
-| [Verification Protocol](daily-assistant/verification-protocol_ecbdcbf0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/verification-protocol.md) | ⭐ 20 | `daily assistant` |
-| [Rt Ica Gate](daily-assistant/rt-ica-gate_8d305fde/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/rt-ica-gate.md) | ⭐ 20 | `daily assistant` |
-| [Harness Role Mapping](daily-assistant/harness-role-mapping_bbab1169/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/harness-role-mapping.md) | ⭐ 20 | `daily assistant` |
-| [Stack Profile Template](daily-assistant/stack-profile-template_ddcef221/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/docs/layer-2/stack-profile-template.md) | ⭐ 20 | `daily assistant` |
+| [Impact Analysis](daily-assistant/267-impact-analysis_7c6fa12d/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/impact-analysis.md) | ⭐ 19 | `daily assistant` |
+| [Scenario Compare](daily-assistant/268-scenario-compare_5c7497d2/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/scenario-compare.md) | ⭐ 19 | `daily assistant` |
+| [Project Report](daily-assistant/269-project-report_a5bcfabe/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/reporting/project-report.md) | ⭐ 19 | `daily assistant` |
+| [Weekly Summary](daily-assistant/270-weekly-summary_02088666/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/reporting/weekly-summary.md) | ⭐ 19 | `daily assistant` |
+| [Rename](daily-assistant/271-rename_622a37a9/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/rename.md) | ⭐ 19 | `daily assistant` |
+| [Startup Diagnostic](daily-assistant/272-startup-diagnostic_1a971607/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/startup-diagnostic.md) | ⭐ 19 | `daily assistant` |
+| [Arl Touchpoints](daily-assistant/273-arl-touchpoints_7bcf2e12/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/arl-touchpoints.md) | ⭐ 20 | `daily assistant` |
+| [Artifact Conventions](daily-assistant/274-artifact-conventions_34a836fd/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/artifact-conventions.md) | ⭐ 20 | `daily assistant` |
+| [Sam Pipeline](daily-assistant/275-sam-pipeline_a7664b8e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/sam-pipeline.md) | ⭐ 20 | `daily assistant` |
+| [Task File Format](daily-assistant/276-task-file-format_cae7639f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/task-file-format.md) | ⭐ 20 | `daily assistant` |
+| [Verification Protocol](daily-assistant/277-verification-protocol_ecbdcbf0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/verification-protocol.md) | ⭐ 20 | `daily assistant` |
 
-### Data Analysis (130 skills)
+### Data Analysis (127 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -664,7 +654,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Page Layouts](data-analysis/490-page-layouts_7aa85757/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/page-layouts.md) | ⭐ 117 | `data analysis` |
 | [Theming](data-analysis/491-theming_77a63bbc/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/theming.md) | ⭐ 117 | `data analysis` |
 | [Value Boxes](data-analysis/492-value-boxes_3b530b15/) | [posit-dev/skills](https://raw.githubusercontent.com/posit-dev/skills/main/shiny/shiny-bslib/references/value-boxes.md) | ⭐ 117 | `data analysis` |
-| [Claude](data-analysis/claude_672f20b7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `data analysis` |
+| [Claude](data-analysis/036-claude_8dccc45b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 18 | `data analysis` |
 | [Orchestrator Discipline Patterns](data-analysis/486-orchestrator-discipline-patterns_95fa0f32/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plan/codebase/orchestrator-discipline-patterns.md) | ⭐ 18 | `data analysis` |
 | [Research Scripts Refs](data-analysis/487-research-scripts-refs_9880003d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/plan/the-rewrite-room/research-scripts-refs.md) | ⭐ 18 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_3854a340/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/research-curator/SKILL.md) | ⭐ 18 | `data analysis` |
@@ -703,7 +693,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_154869da/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/golf-data/SKILL.md) | ⭐ 24 | `data analysis` |
 | [Advanced](data-analysis/334-advanced_8b673c79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/advanced.md) | ⭐ 106 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_25901d75/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/quickstart.md) | ⭐ 858 | `data analysis` |
-| [Skill](data-analysis/226-name-skill_15ac6ffa/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
+| [Skill](data-analysis/name-skill_01fc4f62/) | [bowenliang123/markdown-exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_e9b319b6/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 107 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cd720ae1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cdcc854e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/SKILL.md) | ⭐ 10 | `data analysis` |
@@ -743,27 +733,24 @@ ls ~/.claude/skills/patch-research-agent/
 | [Role Resolution Protocol](data-analysis/486-role-resolution-protocol_b9113866/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/skills/development-harness/references/role-resolution-protocol.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_2105a9b0/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/chunking-strategy/SKILL.md) | ⭐ 103 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_23ff1c36/) | [Decodo/decodo-openclaw-skill](https://raw.githubusercontent.com/Decodo/decodo-openclaw-skill/main/SKILL.md) | ⭐ 10 | `data analysis` |
-| [Blog Post](data-analysis/blog-post_37986881/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/blog-post.md) | ⭐ 19 | `data analysis` |
-| [Adr](data-analysis/adr_09e8f0f0/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/adr.md) | ⭐ 19 | `domain/architecture` `activity/decision` |
-| [Dependency Graph](data-analysis/dependency-graph_6a6dc3fa/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/dependency-graph.md) | ⭐ 19 | `data analysis` |
-| [Book Notes](data-analysis/book-notes_54472b0b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/book-notes.md) | ⭐ 19 | `content/book` `domain/relevant-tag` |
-| [Csv To Page](data-analysis/csv-to-page_f5aafd36/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/csv-to-page.md) | ⭐ 19 | `data analysis` |
-| [Document Extract](data-analysis/document-extract_118ab773/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/document-extract.md) | ⭐ 19 | `content/document` `domain/relevant-tag` |
-| [Pdf Extract](data-analysis/pdf-extract_2c7618f4/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/pdf-extract.md) | ⭐ 19 | `content/document` `domain/relevant-tag` |
-| [Pptx Extract](data-analysis/pptx-extract_5ab71a07/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/pptx-extract.md) | ⭐ 19 | `content/presentation` `domain/relevant-tag` |
-| [C4 Diagram](data-analysis/c4-diagram_266f3b84/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/diagramming/c4-diagram.md) | ⭐ 19 | `activity/architecture` `domain/tooling` `type/diagram` |
-| [Diagram Review](data-analysis/diagram-review_f0bf697a/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/diagramming/diagram-review.md) | ⭐ 19 | `data analysis` |
-| [Diagram](data-analysis/diagram_7ea89d6b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/diagramming/diagram.md) | ⭐ 19 | `activity/architecture` `domain/tooling` `type/diagram` |
-| [Voice Meeting](data-analysis/voice-meeting_0293fe1e/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/voice-meeting.md) | ⭐ 19 | `activity/meeting` `project/relevant-tag` |
-| [Score Document](data-analysis/score-document_2babed2a/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/score-document.md) | ⭐ 19 | `data analysis` |
-| [Orphan Finder](data-analysis/orphan-finder_a6300787/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/orphan-finder.md) | ⭐ 19 | `data analysis` |
+| [Blog Post](data-analysis/485-blog-post_37986881/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/blog-post.md) | ⭐ 19 | `data analysis` |
+| [Adr](data-analysis/486-adr_09e8f0f0/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/adr.md) | ⭐ 19 | `domain/architecture` `activity/decision` |
+| [Dependency Graph](data-analysis/487-dependency-graph_6a6dc3fa/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/dependency-graph.md) | ⭐ 19 | `data analysis` |
+| [Book Notes](data-analysis/488-book-notes_54472b0b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/book-notes.md) | ⭐ 19 | `content/book` `domain/relevant-tag` |
+| [Csv To Page](data-analysis/489-csv-to-page_f5aafd36/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/csv-to-page.md) | ⭐ 19 | `data analysis` |
+| [Document Extract](data-analysis/490-document-extract_118ab773/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/document-extract.md) | ⭐ 19 | `content/document` `domain/relevant-tag` |
+| [Pdf Extract](data-analysis/491-pdf-extract_2c7618f4/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/pdf-extract.md) | ⭐ 19 | `content/document` `domain/relevant-tag` |
+| [Pptx Extract](data-analysis/492-pptx-extract_5ab71a07/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/pptx-extract.md) | ⭐ 19 | `content/presentation` `domain/relevant-tag` |
+| [C4 Diagram](data-analysis/493-c4-diagram_266f3b84/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/diagramming/c4-diagram.md) | ⭐ 19 | `activity/architecture` `domain/tooling` `type/diagram` |
+| [Diagram Review](data-analysis/494-diagram-review_f0bf697a/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/diagramming/diagram-review.md) | ⭐ 19 | `data analysis` |
+| [Diagram](data-analysis/495-diagram_7ea89d6b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/diagramming/diagram.md) | ⭐ 19 | `activity/architecture` `domain/tooling` `type/diagram` |
+| [Voice Meeting](data-analysis/496-voice-meeting_0293fe1e/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/voice-meeting.md) | ⭐ 19 | `activity/meeting` `project/relevant-tag` |
+| [Score Document](data-analysis/497-score-document_2babed2a/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/score-document.md) | ⭐ 19 | `data analysis` |
+| [Orphan Finder](data-analysis/498-orphan-finder_a6300787/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/orphan-finder.md) | ⭐ 19 | `data analysis` |
 | [Claude](data-analysis/036-claude_672f20b7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `data analysis` |
-| [02 C4 Context Diagram](data-analysis/02-c4-context-diagram_e0ff0595/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/examples/diagramming/02-c4-context-diagram.md) | ⭐ 19 | `data analysis` |
-| [03 C4 Container Diagram](data-analysis/03-c4-container-diagram_70e842bd/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/examples/diagramming/03-c4-container-diagram.md) | ⭐ 19 | `data analysis` |
-| [05 Real World Example](data-analysis/05-real-world-example_656d73c8/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/examples/diagramming/05-real-world-example.md) | ⭐ 19 | `data analysis` |
-| [Timeline](data-analysis/timeline_b4d76182/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/knowledge/timeline.md) | ⭐ 19 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_01fc4f62/) | [bowenliang123/markdown-exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
 
-### Development (462 skills)
+### Development (457 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1154,7 +1141,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Llm Chat](development/2884-llm-chat_ac2f3d70/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/using/clients/llm-chat.md) | ⭐ 3.3k | `development` |
 | [Jina Ai](development/2879-jina-ai_261e752d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/context-management/jina-ai.md) | ⭐ 18 | `development` |
 | [System Prompts Ai Tools](development/2880-system-prompts-ai-tools_7926f107/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/prompt-engineering/system-prompts-ai-tools.md) | ⭐ 18 | `development` |
-| [Sam Definition](development/sam-definition_442d159a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 20 | `development` |
+| [Sam Definition](development/2890-sam-definition_543ade47/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 18 | `development` |
 | [Piebald](development/2889-piebald_af113e02/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/developer-tools/piebald.md) | ⭐ 18 | `development` |
 | [Prompting Guide](development/730-prompting_guide_05d25cf2/) | [promptdriven/pdd](https://raw.githubusercontent.com/promptdriven/pdd/main/docs/prompting_guide.md) | ⭐ 486 | `development` |
 | [Custom Tools](development/2886-custom_tools_3fe9d124/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/CUSTOM_TOOLS.md) | ⭐ 23 | `development` |
@@ -1218,17 +1205,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/1178-name-skill_0bb810d9/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-s3/SKILL.md) | ⭐ 103 | `development` |
 | [Skill](development/1178-name-skill_25ef7944/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-security/SKILL.md) | ⭐ 103 | `development` |
 | [Skill](development/1178-name-skill_0ef71eca/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws/aws-drawio-architecture-diagrams/SKILL.md) | ⭐ 103 | `development` |
-| [Configuration](development/configuration_f2b2cb11/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/configuration.md) | ⭐ 19 | `development` |
-| [Hook Lifecycle](development/hook-lifecycle_07cd37ab/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/hook-lifecycle.md) | ⭐ 19 | `development` |
-| [Arl Meta Layer](development/arl-meta-layer_90cdf372/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/arl-meta-layer.md) | ⭐ 20 | `development` |
-| [Layer 1 Overview](development/layer-1-overview_c8bbcd99/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/layer-1-overview.md) | ⭐ 20 | `development` |
+| [Configuration](development/191-configuration_f2b2cb11/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/configuration.md) | ⭐ 19 | `development` |
+| [Hook Lifecycle](development/2886-hook-lifecycle_07cd37ab/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/docs/hooks/hook-lifecycle.md) | ⭐ 19 | `development` |
+| [Arl Meta Layer](development/2887-arl-meta-layer_90cdf372/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/arl-meta-layer.md) | ⭐ 20 | `development` |
+| [Layer 1 Overview](development/2888-layer-1-overview_c8bbcd99/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/layer-1-overview.md) | ⭐ 20 | `development` |
 | [Sam Definition](development/2889-sam-definition_442d159a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 20 | `development` |
-| [Meta Agent](development/meta-agent_f6e35113/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/agents/meta-agent.md) | ⭐ 19 | `development` |
-| [No Ascii Diagrams](development/no-ascii-diagrams_593ba98b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/.claude/rules/no-ascii-diagrams.md) | ⭐ 19 | `development` |
-| [04 C4 Component Diagram](development/04-c4-component-diagram_1567a7c7/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/examples/diagramming/04-c4-component-diagram.md) | ⭐ 19 | `development` |
-| [Tmp Issue Body](development/tmp-issue-body_fd1bb668/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/tmp-issue-body.md) | ⭐ 20 | `development` |
-| [Language Manifest Template](development/language-manifest-template_0475f968/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/language-manifest-template.md) | ⭐ 20 | `development` |
-| [Workflow Pattern Taxonomy](development/workflow-pattern-taxonomy_58b8a0b3/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/workflow-pattern-taxonomy.md) | ⭐ 20 | `development` |
+| [Skill](development/name-skill_685d0afc/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/SKILL.md) | ⭐ 11 | `development` |
 
 ### Development/Devops (210 skills)
 
@@ -1443,12 +1425,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_a1afaf7e/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-vpc/SKILL.md) | ⭐ 103 | `development` |
 | [2026 02 15 Docs Hugo Docsy](development/devops/368-2026-02-15-docs-hugo-docsy_35601fc3/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/plans/2026-02-15-docs-hugo-docsy.md) | 🔥 6.5k | `development` |
 | [2026 02 16 Hextra Switch](development/devops/369-2026-02-16-hextra-switch_137a4a18/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/docs/plans/2026-02-16-hextra-switch.md) | 🔥 6.5k | `development` |
-| [Auto Tag](development/devops/auto-tag_f4e583f6/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/auto-tag.md) | ⭐ 19 | `]`)
+| [Auto Tag](development/devops/373-auto-tag_f4e583f6/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/auto-tag.md) | ⭐ 19 | `]`)
    - Notes with fewer than 2 tags
    - Notes with flat (non-hierarchical) tags
 4. **Exclude directories:** `Templates/`` ``.obsidian/`` ``.claude/`` |
 
-### Development/Testing (40 skills)
+### Development/Testing (39 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1490,10 +1472,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_3a381fc5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-security-jwt/SKILL.md) | ⭐ 103 | `development` |
 | [Skill](development/testing/002-name-skill_bdcfe77f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
 | [Release Notes](development/testing/079-release_notes_9d858f7e/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
-| [Skill](development/testing/name-skill_3161d56a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/evaluate-sdlc-layers/SKILL.md) | ⭐ 20 | `development` |
-| [Python Fastapi](development/testing/python-fastapi_7e4bb71d/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/docs/layer-2/stack-profiles/python-fastapi.md) | ⭐ 20 | `development` |
+| [Skill](development/testing/002-name-skill_3161d56a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/evaluate-sdlc-layers/SKILL.md) | ⭐ 20 | `development` |
 
-### Development/Tools (149 skills)
+### Development/Tools (148 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1641,11 +1622,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_59b4fe90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-messaging/SKILL.md) | ⭐ 103 | `development` |
 | [Skill](development/tools/002-name-skill_568f70e5/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-crud-patterns/SKILL.md) | ⭐ 103 | `development` |
 | [Skill](development/tools/002-name-skill_ca8e518c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
-| [Evidence Discipline](development/tools/evidence-discipline_5ccce0a1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/evidence-discipline.md) | ⭐ 20 | `development` |
-| [Linting Discovery Protocol](development/tools/linting-discovery-protocol_c691aead/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/linting-discovery-protocol.md) | ⭐ 20 | `development` |
-| [Layer 2 Overview](development/tools/layer-2-overview_04809226/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/docs/layer-2/layer-2-overview.md) | ⭐ 20 | `development` |
-| [Stack Profile Schema](development/tools/stack-profile-schema_3a5e95e2/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/docs/layer-2/stack-profile-schema.md) | ⭐ 20 | `development` |
-| [Python Cli](development/tools/python-cli_1dceb161/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/development-harness/docs/layer-2/stack-profiles/python-cli.md) | ⭐ 20 | `development` |
+| [Evidence Discipline](development/tools/335-evidence-discipline_5ccce0a1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/evidence-discipline.md) | ⭐ 20 | `development` |
+| [Linting Discovery Protocol](development/tools/336-linting-discovery-protocol_c691aead/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/linting-discovery-protocol.md) | ⭐ 20 | `development` |
+| [Skill](development/tools/name-skill_aa8b92aa/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-prompt-migration/SKILL.md) | ⭐ 11 | `development` |
+| [Cli](development/tools/cli_c4a88cd3/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/references/cli.md) | ⭐ 11 | `development` |
 
 ### Investment (13 skills)
 
@@ -1671,7 +1651,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 
-### Productivity (14 skills)
+### Productivity (13 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1687,10 +1667,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_3e8d7700/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/SKILL.md) | ⭐ 143 | `productivity` |
 | [Skill](productivity/093-name-skill_98a816b8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/update-claudemd/SKILL.md) | ⭐ 34 | `productivity` |
 | [External Llm](productivity/173-external_llm_6f65f5e7/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXTERNAL_LLM.md) | ⭐ 23 | `productivity` |
-| [Exec Summary](productivity/exec-summary_39604b88/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/exec-summary.md) | ⭐ 19 | `productivity` |
-| [Summarize](productivity/summarize_f5d0b9c0/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/knowledge/summarize.md) | ⭐ 19 | `productivity` |
+| [Exec Summary](productivity/174-exec-summary_39604b88/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/exec-summary.md) | ⭐ 19 | `productivity` |
 
-### Research (40 skills)
+### Research (38 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1729,12 +1708,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Tlaplus Syntax](research/258-tlaplus_syntax_54ea0eea/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/tlaplus-spec-generator/references/tlaplus_syntax.md) | ⭐ 10 | `research` |
 | [Docx Js](research/258-docx-js_0d24521f/) | [jjyaoao/HelloAgents](https://raw.githubusercontent.com/jjyaoao/HelloAgents/main/skills/docx/docx-js.md) | ⭐ 600 | `research` |
 | [Faq](research/153-faq_3a909ea1/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/faq.md) | ⭐ 4.0k | `research` |
-| [Skill](research/name-skill_31098f50/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
+| [Skill](research/139-name-skill_416a280f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
 | [Skill](research/139-name-skill_7c8c990f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/rag/SKILL.md) | ⭐ 103 | `research` |
-| [Youtube Analyze](research/youtube-analyze_a1668835/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/youtube-analyze.md) | ⭐ 19 | `content/youtube` `domain/relevant-tag` |
+| [Youtube Analyze](research/257-youtube-analyze_a1668835/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/content-processing/youtube-analyze.md) | ⭐ 19 | `content/youtube` `domain/relevant-tag` |
 | [Skill](research/139-name-skill_31098f50/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
-| [Arl Human Probing Design](research/arl-human-probing-design_d197db9b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/arl-human-probing-design.md) | ⭐ 20 | `research` |
-| [Accessing Online Resources](research/accessing_online_resources_dc23d0f5/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/fastmcp-creator/skills/fastmcp-creator/references/accessing_online_resources.md) | ⭐ 20 | `research` |
 
 ## How Skills Are Organized
 
@@ -1786,5 +1763,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 03:29:55 UTC*
+*Last updated: 2026-02-24 03:30:58 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T03:29:55.208243",
+  "updated_at": "2026-02-24T03:30:57.815356",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -20273,6 +20273,76 @@
       "source_url": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/linting-discovery-protocol.md",
       "display_name": "Linting Discovery Protocol",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "f3b5107e2feb88c129e5aba884d38048a1566a37feeeb12656a333330709bfb8",
+      "source_path": "skills/langfuse-observability/SKILL.md",
+      "source_repo": "langfuse/skills",
+      "local_path": "communication/127-name-skill_f3b5107e",
+      "category": "communication",
+      "name": "name-skill_f3b5107e",
+      "indexed_at": "2026-02-24T03:30:57.020251",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-13T20:09:06+00:00",
+      "source_url": "https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-observability/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "aa8b92aa0ed6357a445495e4fb3d479a65d4518b4a5456121a9e301545b0e645",
+      "source_path": "skills/langfuse-prompt-migration/SKILL.md",
+      "source_repo": "langfuse/skills",
+      "local_path": "development/tools/002-name-skill_aa8b92aa",
+      "category": "development/tools",
+      "name": "name-skill_aa8b92aa",
+      "indexed_at": "2026-02-24T03:30:57.198370",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-01-23T10:44:19+00:00",
+      "source_url": "https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-prompt-migration/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "c4a88cd3de418bbb299c329d6783d317c0fe073821a4ab8d7ddf40b056e5282e",
+      "source_path": "skills/langfuse/references/cli.md",
+      "source_repo": "langfuse/skills",
+      "local_path": "development/tools/263-cli_c4a88cd3",
+      "category": "development/tools",
+      "name": "cli_c4a88cd3",
+      "indexed_at": "2026-02-24T03:30:57.441989",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-23T19:53:15+00:00",
+      "source_url": "https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/references/cli.md",
+      "display_name": "Cli",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "685d0afcaf40a41a2a1e4b48913aaf8eba0ec1152cec8a295fa1182fb47c327e",
+      "source_path": "skills/langfuse/SKILL.md",
+      "source_repo": "langfuse/skills",
+      "local_path": "development/1178-name-skill_685d0afc",
+      "category": "development",
+      "name": "name-skill_685d0afc",
+      "indexed_at": "2026-02-24T03:30:57.642895",
+      "repo_stars": 11,
+      "repo_updated_at": "2026-02-23T20:06:14+00:00",
+      "source_url": "https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "01fc4f62f6a9f4c8b4171f4180a6a011c4e12ae1d08ee572829d3edc40eabf36",
+      "source_path": "SKILL.md",
+      "source_repo": "bowenliang123/markdown-exporter",
+      "local_path": "data-analysis/226-name-skill_01fc4f62",
+      "category": "data-analysis",
+      "name": "name-skill_01fc4f62",
+      "indexed_at": "2026-02-24T03:30:57.815292",
+      "repo_stars": 183,
+      "repo_updated_at": "2026-02-23T16:09:54+00:00",
+      "source_url": "https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
