@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1492 AI-powered skills** organized into 15 categories.
+A curated collection of **1530 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,21 +8,21 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (21 skills)
-- **Automation/Workflow** (83 skills)
-- **Commercial** (67 skills)
-- **Communication** (44 skills)
-- **Content Creation** (137 skills)
-- **Daily Assistant** (74 skills)
-- **Data Analysis** (127 skills)
-- **Development** (464 skills)
-- **Development/Devops** (210 skills)
-- **Development/Testing** (39 skills)
-- **Development/Tools** (151 skills)
-- **Investment** (13 skills)
+- **Automation/Scripting** (24 skills)
+- **Automation/Workflow** (85 skills)
+- **Commercial** (69 skills)
+- **Communication** (45 skills)
+- **Content Creation** (142 skills)
+- **Daily Assistant** (79 skills)
+- **Data Analysis** (132 skills)
+- **Development** (467 skills)
+- **Development/Devops** (214 skills)
+- **Development/Testing** (40 skills)
+- **Development/Tools** (155 skills)
+- **Investment** (15 skills)
 - **Other** (1 skill)
 - **Productivity** (14 skills)
-- **Research** (47 skills)
+- **Research** (48 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (21 skills)
+### Automation/Scripting (24 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -206,8 +206,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Idea Validator](automation/scripting/097-idea-validator_c53d5eac/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/idea-validator.md) | ⭐ 1.4k | `automation` |
 | [Yt Scraper](automation/scripting/098-yt-scraper_fe6d36b9/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/yt-scraper.md) | ⭐ 1.4k | `automation` |
 | [Import Data](automation/scripting/085-import_data_79b8d24e/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/import_data.md) | ⭐ 26 | `automation` |
+| [Context](automation/scripting/context_3da94173/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.brain_live_test/memory/context.md) | ⭐ 10 | `automation` |
+| [Bug Report](automation/scripting/bug_report_d7ca9910/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.github/ISSUE_TEMPLATE/bug_report.md) | ⭐ 10 | `automation` |
+| [Example](automation/scripting/example_f8934524/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/website/src/content/docs/reference/example.md) | ⭐ 10 | `automation` |
 
-### Automation/Workflow (83 skills)
+### Automation/Workflow (85 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -294,8 +297,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_fba8986b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 20 | `automation` |
 | [Explore](automation/workflow/137-explore_cee87e25/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/explore.md) | ⭐ 26 | `automation` |
 | [Search](automation/workflow/138-search_5609460c/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/search.md) | ⭐ 26 | `automation` |
+| [Sync Public](automation/workflow/sync-public_2e96a6dd/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.agent/workflows/sync-public.md) | ⭐ 10 | `automation` |
+| [Mcp Client Tests](automation/workflow/mcp_client_tests_5883ec69/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/MCP_CLIENT_TESTS.md) | ⭐ 10 | `automation` |
 
-### Commercial (67 skills)
+### Commercial (69 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -366,8 +371,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](commercial/210-name-skill_c4ae6915/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-elasticache/SKILL.md) | ⭐ 103 | `commercial` |
 | [Cost Analysis](commercial/371-cost-analysis_5c210100/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/architecture/cost-analysis.md) | ⭐ 19 | `commercial` |
 | [Explore Collection](commercial/371-explore_collection_f0e49749/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/explore_collection.md) | ⭐ 26 | `commercial` |
+| [Demo Storyboard](commercial/demo_storyboard_de84cbed/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/DEMO_STORYBOARD.md) | ⭐ 10 | `commercial` |
+| [Thread Registry](commercial/thread_registry_6805a45e/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.brain_live_test/meta/thread_registry.md) | ⭐ 10 | `commercial` |
 
-### Communication (44 skills)
+### Communication (45 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -414,9 +421,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](communication/127-name-skill_977aff84/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/slack/SKILL.md) | ⭐ 15 | `communication` |
 | [Skill](communication/127-name-skill_f3b5107e/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-observability/SKILL.md) | ⭐ 11 | `communication` |
 | [Frontend Interface](communication/252-frontend_interface_4bd6d7cc/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/frontend_interface.md) | ⭐ 26 | `communication` |
-| [01 About Us](communication/01-about-us_0fcb0eeb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 3.5k | `communication` |
+| [01 About Us](communication/253-01-about-us_0fcb0eeb/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/zh/about/01-about-us.md) | ⭐ 3.5k | `communication` |
+| [Quick Start](communication/quick_start_73af323f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/QUICK_START.md) | ⭐ 10 | `communication` |
 
-### Content Creation (137 skills)
+### Content Creation (142 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -556,9 +564,14 @@ ls ~/.claude/skills/patch-research-agent/
 | [Query](content-creation/356-query_92436bd6/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/commands/query.md) | ⭐ 26 | `content creation` |
 | [Advanced Rag](content-creation/357-advanced_rag_eb1ce100/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/advanced_rag.md) | ⭐ 26 | `content creation` |
 | [Keyword Search](content-creation/358-keyword_search_c279eebe/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/keyword_search.md) | ⭐ 26 | `content creation` |
-| [01 About Us](content-creation/01-about-us_2e4e587f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 3.5k | `content creation` |
+| [01 About Us](content-creation/359-01-about-us_2e4e587f/) | [volcengine/OpenViking](https://raw.githubusercontent.com/volcengine/OpenViking/main/docs/en/about/01-about-us.md) | ⭐ 3.5k | `content creation` |
+| [Phase C Short Script](content-creation/phase_c_short_script_b893e4f7/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/PHASE_C_SHORT_SCRIPT.md) | ⭐ 10 | `content creation` |
+| [Nucleus Commands](content-creation/nucleus-commands_c6ebf141/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.agent/workflows/nucleus-commands.md) | ⭐ 10 | `content creation` |
+| [Launch Package V1](content-creation/launch_package_v1_923fb92e/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/strategy/LAUNCH_PACKAGE_V1.md) | ⭐ 10 | `content creation` |
+| [Launch Readiness Checklist](content-creation/launch_readiness_checklist_a3181a79/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/strategy/LAUNCH_READINESS_CHECKLIST.md) | ⭐ 10 | `content creation` |
+| [Phase B Short Script](content-creation/phase_b_short_script_05b3a252/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/PHASE_B_SHORT_SCRIPT.md) | ⭐ 10 | `content creation` |
 
-### Daily Assistant (74 skills)
+### Daily Assistant (79 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -636,8 +649,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Sam Pipeline](daily-assistant/275-sam-pipeline_a7664b8e/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/sam-pipeline.md) | ⭐ 20 | `daily assistant` |
 | [Task File Format](daily-assistant/276-task-file-format_cae7639f/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/task-file-format.md) | ⭐ 20 | `daily assistant` |
 | [Verification Protocol](daily-assistant/277-verification-protocol_ecbdcbf0/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/verification-protocol.md) | ⭐ 20 | `daily assistant` |
+| [Changelog V1.0.7](daily-assistant/changelog_v107_40e9b287/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/CHANGELOG_v1.0.7.md) | ⭐ 10 | `daily assistant` |
+| [Reddit Launch Post](daily-assistant/reddit_launch_post_88fd38ca/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/REDDIT_LAUNCH_POST.md) | ⭐ 10 | `daily assistant` |
+| [Titan Handover Protocol](daily-assistant/titan_handover_protocol_b8d60a4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/TITAN_HANDOVER_PROTOCOL.md) | ⭐ 10 | `daily assistant` |
+| [Release Protocol](daily-assistant/release-protocol_b1b92a4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.agent/workflows/release-protocol.md) | ⭐ 10 | `daily assistant` |
+| [Example](daily-assistant/example_515d9abd/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/website/src/content/docs/guides/example.md) | ⭐ 10 | `daily assistant` |
 
-### Data Analysis (127 skills)
+### Data Analysis (132 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -768,8 +786,13 @@ ls ~/.claude/skills/patch-research-agent/
 | [Orphan Finder](data-analysis/498-orphan-finder_a6300787/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/orphan-finder.md) | ⭐ 19 | `data analysis` |
 | [Claude](data-analysis/036-claude_672f20b7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_01fc4f62/) | [bowenliang123/markdown-exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
+| [Engram Specification](data-analysis/engram_specification_4a2954e4/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/ENGRAM_SPECIFICATION.md) | ⭐ 10 | `data analysis` |
+| [Governance Policies](data-analysis/governance_policies_4fcbaa4f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/GOVERNANCE_POLICIES.md) | ⭐ 10 | `data analysis` |
+| [Specification](data-analysis/specification_72e96569/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/SPECIFICATION.md) | ⭐ 10 | `data analysis` |
+| [Demo Script](data-analysis/demo_script_eb81b445/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/DEMO_SCRIPT.md) | ⭐ 10 | `data analysis` |
+| [Phase A Short Script](data-analysis/phase_a_short_script_f539a039/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/PHASE_A_SHORT_SCRIPT.md) | ⭐ 10 | `data analysis` |
 
-### Development (464 skills)
+### Development (467 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1237,8 +1260,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Basic Rag](development/2898-basic_rag_3c589f00/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/basic_rag.md) | ⭐ 26 | `development` |
 | [Data Explorer](development/2899-data_explorer_aff4b70b/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/data_explorer.md) | ⭐ 26 | `development` |
 | [Project Setup](development/2900-project_setup_5c5898fa/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/project_setup.md) | ⭐ 26 | `development` |
+| [Readme Godmode](development/readme_godmode_4dcb6b6a/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/README_GODMODE.md) | ⭐ 10 | `development` |
+| [Comparison](development/comparison_35f30c19/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/COMPARISON.md) | ⭐ 10 | `development` |
+| [Why Local First Ai Matters](development/why-local-first-ai-matters_0417f772/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/website/src/content/docs/blog/why-local-first-ai-matters.md) | ⭐ 10 | `Local-First` `AI Memory` `Data Sovereignty` |
 
-### Development/Devops (210 skills)
+### Development/Devops (214 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1455,8 +1481,12 @@ ls ~/.claude/skills/patch-research-agent/
    - Notes with fewer than 2 tags
    - Notes with flat (non-hierarchical) tags
 4. **Exclude directories:** `Templates/`` ``.obsidian/`` ``.claude/`` |
+| [Rbac](development/devops/010-rbac_1c5c5b80/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/docs/docs/manage/rbac.md) | ⭐ 3.3k | `development` |
+| [Binary Shielding Track 1 5](development/devops/binary_shielding_track_1_5_8339aa5f/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/architecture/BINARY_SHIELDING_TRACK_1_5.md) | ⭐ 10 | `development` |
+| [Launch Posts V060](development/devops/launch_posts_v060_2f971198/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/strategy/LAUNCH_POSTS_v060.md) | ⭐ 10 | `development` |
+| [Manual Runbook](development/devops/manual_runbook_ec809af9/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/tests/e2e/MANUAL_RUNBOOK.md) | ⭐ 10 | `development` |
 
-### Development/Testing (39 skills)
+### Development/Testing (40 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1499,8 +1529,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/testing/002-name-skill_bdcfe77f/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-python/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
 | [Release Notes](development/testing/079-release_notes_9d858f7e/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/release_notes.md) | 🔥 6.5k | `development` |
 | [Skill](development/testing/002-name-skill_3161d56a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/evaluate-sdlc-layers/SKILL.md) | ⭐ 20 | `development` |
+| [Feature Request](development/testing/feature_request_10d99342/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/.github/ISSUE_TEMPLATE/feature_request.md) | ⭐ 10 | `development` |
 
-### Development/Tools (151 skills)
+### Development/Tools (155 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1642,7 +1673,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [2026 02 04 15 20 48 Core Directory Analysis](development/tools/241-2026-02-04_15-20-48_core_directory_analysis_774731cd/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/memory-bank/research/2026-02-04_15-20-48_core_directory_analysis.md) | ⭐ 113 | `development` |
 | [Tools](development/tools/300-tools_b91e0aa6/) | [alchemiststudiosDOTai/tunacode](https://raw.githubusercontent.com/alchemiststudiosDOTai/tunacode/master/docs/modules/tools/tools.md) | ⭐ 113 | `development` |
 | [Mcpgateway](development/tools/010-mcpgateway_b15e19eb/) | [IBM/mcp-context-forge](https://raw.githubusercontent.com/IBM/mcp-context-forge/main/llms/mcpgateway.md) | ⭐ 3.3k | `development` |
-| [Claude](development/tools/017-claude_b82aaf4b/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/CLAUDE.md) | ⭐ 10 | `development` |
+| [Claude](development/tools/claude_d62662c1/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/CLAUDE.md) | ⭐ 10 | `development` |
 | [Backlog](development/tools/335-backlog_f51eb8b1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `development` |
 | [Tornado](development/tools/223-tornado_23352d91/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/research/api-frameworks/tornado.md) | ⭐ 20 | `development` |
 | [Skill](development/tools/002-name-skill_59b4fe90/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/aws-sdk-java-v2-messaging/SKILL.md) | ⭐ 103 | `development` |
@@ -1655,8 +1686,12 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](development/tools/015-agents_70732fe5/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/AGENTS.md) | ⭐ 26 | `development` |
 | [Skill](development/tools/002-name-skill_a0cc4faf/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/SKILL.md) | ⭐ 26 | `development` |
 | [Agentic Rag](development/tools/336-agentic_rag_61487ec0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate-cookbooks/references/agentic_rag.md) | ⭐ 26 | `development` |
+| [Faq](development/tools/faq_396c0a25/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/FAQ.md) | ⭐ 10 | `development` |
+| [Dsor V060](development/tools/dsor_v060_40fa2dbd/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/architecture/DSOR_V060.md) | ⭐ 10 | `development` |
+| [Strategic Qa Launch](development/tools/strategic_qa_launch_afb5e3ee/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/strategy/STRATEGIC_QA_LAUNCH.md) | ⭐ 10 | `development` |
+| [Claude](development/tools/017-claude_d62662c1/) | [DareDev256/fcpxml-mcp-server](https://raw.githubusercontent.com/DareDev256/fcpxml-mcp-server/main/CLAUDE.md) | ⭐ 10 | `development` |
 
-### Investment (13 skills)
+### Investment (15 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1673,6 +1708,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Proposal](investment/051-proposal_2473f453/) | [Yourdaylight/stock_datasource](https://raw.githubusercontent.com/Yourdaylight/stock_datasource/main/openspec/changes/add-optional-knowledge-base/proposal.md) | ⭐ 23 | `investment` |
 | [Skill](investment/021-name-skill_a41f4990/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-thinking/skills/brainstorm/SKILL.md) | ⭐ 34 | `investment` |
 | [Skill](investment/021-name-skill_d0483423/) | [tradermonty/claude-trading-skills](https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/skills/canslim-screener/SKILL.md) | ⭐ 42 | `investment` |
+| [Roadmap](investment/roadmap_d52bd6ef/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/ROADMAP.md) | ⭐ 10 | `investment` |
+| [Tool Router Pattern](investment/tool_router_pattern_658a2ac4/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/docs/architecture/TOOL_ROUTER_PATTERN.md) | ⭐ 10 | `investment` |
 
 ### Other (1 skills)
 
@@ -1699,7 +1736,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Exec Summary](productivity/174-exec-summary_39604b88/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/exec-summary.md) | ⭐ 19 | `productivity` |
 | [Skill](productivity/093-name-skill_5833ac61/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-ideation/SKILL.md) | ⭐ 1.4k | `productivity` |
 
-### Research (47 skills)
+### Research (48 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1751,6 +1788,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Hybrid Search](research/262-hybrid_search_ffd4b768/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/hybrid_search.md) | ⭐ 26 | `research` |
 | [Query Search](research/263-query_search_68afba11/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/query_search.md) | ⭐ 26 | `research` |
 | [Semantic Search](research/264-semantic_search_3e5098c0/) | [weaviate/agent-skills](https://raw.githubusercontent.com/weaviate/agent-skills/main/skills/weaviate/references/semantic_search.md) | ⭐ 26 | `research` |
+| [Domain Ground Truth](research/domain_ground_truth_ffcfe5db/) | [eidetic-works/nucleus-mcp](https://raw.githubusercontent.com/eidetic-works/nucleus-mcp/main/brain/knowledge/DOMAIN_GROUND_TRUTH.md) | ⭐ 10 | `research` |
 
 ## How Skills Are Organized
 
@@ -1802,5 +1840,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 05:33:04 UTC*
+*Last updated: 2026-02-24 07:30:11 UTC*
 *Automatically maintained by SkillFlow*
