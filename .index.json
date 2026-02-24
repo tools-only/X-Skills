@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T16:35:10.479257",
+  "updated_at": "2026-02-24T16:38:34.657002",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -24053,6 +24053,34 @@
       "source_url": "https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/references/time-spine.md",
       "display_name": "Time Spine",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "20a1c390b02494d027f65d37ddbe0f4d26f30cde6c6363536244628d5bb21c4b",
+      "source_path": "AGENTS.md",
+      "source_repo": "indiesoftby/defold-agent-config",
+      "local_path": "content-creation/185-agents_20a1c390",
+      "category": "content-creation",
+      "name": "agents_20a1c390",
+      "indexed_at": "2026-02-24T16:38:34.181601",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-24T14:43:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "5a27631d494270e8c7bc03ad78633623c70e470fb7509cff8ac1b4da8cb754b3",
+      "source_path": "README_RU.md",
+      "source_repo": "indiesoftby/defold-agent-config",
+      "local_path": "development/2894-readme_ru_5a27631d",
+      "category": "development",
+      "name": "readme_ru_5a27631d",
+      "indexed_at": "2026-02-24T16:38:34.656963",
+      "repo_stars": 22,
+      "repo_updated_at": "2026-02-24T14:43:57+00:00",
+      "source_url": "https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/README_RU.md",
+      "display_name": "Readme Ru",
+      "tags": "[\"development\"]"
     }
   ]
 }
