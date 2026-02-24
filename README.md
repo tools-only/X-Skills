@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1721 AI-powered skills** organized into 15 categories.
+A curated collection of **1728 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -12,17 +12,17 @@ This repository contains automatically aggregated skills from various open-sourc
 - **Automation/Workflow** (87 skills)
 - **Commercial** (75 skills)
 - **Communication** (50 skills)
-- **Content Creation** (157 skills)
+- **Content Creation** (161 skills)
 - **Daily Assistant** (90 skills)
 - **Data Analysis** (164 skills)
-- **Development** (521 skills)
+- **Development** (520 skills)
 - **Development/Devops** (225 skills)
 - **Development/Testing** (42 skills)
 - **Development/Tools** (171 skills)
 - **Investment** (23 skills)
 - **Other** (1 skill)
 - **Productivity** (16 skills)
-- **Research** (66 skills)
+- **Research** (70 skills)
 
 ## Patches - Curated Skill Bundles
 
@@ -446,7 +446,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Background Agent Result Deduplication After Compaction](communication/253-p2-background-agent-result-deduplication-after-compaction_02cb6c71/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-background-agent-result-deduplication-after-compaction.md) | ⭐ 20 | `communication` |
 | [Skill](communication/127-name-skill_79505d99/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/ai-maestro/agent-messaging/SKILL.md) | 🔥 20.7k | `communication` |
 
-### Content Creation (157 skills)
+### Content Creation (161 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -606,7 +606,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Frontmatter Options](content-creation/360-frontmatter-options_112570ab/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-claw/skills/create-claw-skill/references/frontmatter-options.md) | ⭐ 34 | `content creation` |
 | [Audit Calibration](content-creation/361-audit-calibration_a64ea751/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-skill/references/audit-calibration.md) | ⭐ 34 | `content creation` |
 | [Skill](content-creation/049-name-skill_e1a69cb9/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/building-dbt-semantic-layer/SKILL.md) | ⭐ 193 | `content creation` |
-| [Agents](content-creation/agents_20a1c390/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/AGENTS.md) | ⭐ 22 | `content creation` |
+| [Agents](content-creation/185-agents_20a1c390/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/AGENTS.md) | ⭐ 22 | `content creation` |
+| [Content Patterns](content-creation/content-patterns_afcd19a1/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/content-patterns.md) | ⭐ 972 | `content creation` |
+| [Formatting Patterns](content-creation/formatting-patterns_75578f9a/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/formatting-patterns.md) | ⭐ 972 | `content creation` |
+| [Markup Artifacts](content-creation/markup-artifacts_5a371cec/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/markup-artifacts.md) | ⭐ 972 | `content creation` |
+| [Structural Patterns](content-creation/structural-patterns_e18b94ee/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/structural-patterns.md) | ⭐ 972 | `content creation` |
 
 ### Daily Assistant (90 skills)
 
@@ -872,7 +876,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Custom Configuration](data-analysis/516-custom_configuration_73611169/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-core-to-fusion/references/custom_configuration.md) | ⭐ 193 | `data analysis` |
 | [Switching Targets](data-analysis/517-switching-targets_a45837f2/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/references/switching-targets.md) | ⭐ 193 | `data analysis` |
 
-### Development (521 skills)
+### Development (520 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1395,8 +1399,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Quality Checklist](development/2893-quality-checklist_0809ed01/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-skills/skills/repair-agent/references/quality-checklist.md) | ⭐ 34 | `development` |
 | [Skill](development/1178-name-skill_3111866b/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt-migration/skills/migrating-dbt-project-across-platforms/SKILL.md) | ⭐ 193 | `development` |
 | [Managing Packages](development/543-managing-packages_301391af/) | [dbt-labs/dbt-agent-skills](https://raw.githubusercontent.com/dbt-labs/dbt-agent-skills/main/skills/dbt/skills/using-dbt-for-analytics-engineering/references/managing-packages.md) | ⭐ 193 | `development` |
-| [Readme Ru](development/readme_ru_5a27631d/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/README_RU.md) | ⭐ 22 | `development` |
-| [Skill](development/name-skill_feb18939/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/.agents/skills/defold-assets-search/SKILL.md) | ⭐ 22 | `development` |
+| [Readme Ru](development/2894-readme_ru_5a27631d/) | [indiesoftby/defold-agent-config](https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/README_RU.md) | ⭐ 22 | `development` |
 
 ### Development/Devops (225 skills)
 
@@ -1909,7 +1912,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Entity Facts](productivity/175-entity-facts_f66d3c9f/) | [K-Dense-AI/claude-scientific-skills](https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/edgartools/references/entity-facts.md) | 🔥 9.2k | `productivity` |
 | [Coq Reviewer](productivity/174-coq-reviewer_2a58deca/) | [jwiegley/claude-prompts](https://raw.githubusercontent.com/jwiegley/claude-prompts/main/agents/coq-reviewer.md) | ⭐ 10 | `productivity` |
 
-### Research (66 skills)
+### Research (70 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1980,6 +1983,10 @@ ls ~/.claude/skills/patch-research-agent/
 | [P2 Githubprojectsetuppy Add Github Projects V2 Status Field Upd](research/257-p2-githubprojectsetuppy-add-github-projects-v2-status-field-upd_f576e5ab/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/backlog/p2-githubprojectsetuppy-add-github-projects-v2-status-field-upd.md) | ⭐ 20 | `research` |
 | [Skill](research/139-name-skill_68fb4889/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/groom-backlog-item/SKILL.md) | ⭐ 20 | `research` |
 | [Skill](research/139-name-skill_cf2149d5/) | [davila7/claude-code-templates](https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/sports/footballbin-predictions/SKILL.md) | 🔥 20.7k | `research` |
+| [Citation Patterns](research/citation-patterns_73904272/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/citation-patterns.md) | ⭐ 972 | `research` |
+| [False Positive Prevention](research/false-positive-prevention_307e1923/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/false-positive-prevention.md) | ⭐ 972 | `research` |
+| [Model Fingerprints](research/model-fingerprints_557e707b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/model-fingerprints.md) | ⭐ 972 | `research` |
+| [Vocabulary Patterns](research/vocabulary-patterns_e1991609/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/vocabulary-patterns.md) | ⭐ 972 | `research` |
 
 ## How Skills Are Organized
 
@@ -2031,5 +2038,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 16:38:35 UTC*
+*Last updated: 2026-02-24 17:36:23 UTC*
 *Automatically maintained by SkillFlow*

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T16:38:34.657002",
+  "updated_at": "2026-02-24T17:36:22.695922",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -24081,6 +24081,118 @@
       "source_url": "https://raw.githubusercontent.com/indiesoftby/defold-agent-config/main/README_RU.md",
       "display_name": "Readme Ru",
       "tags": "[\"development\"]"
+    },
+    {
+      "file_hash": "739042724587de94197aaac51281c9b74983cb68858a12e777ad75f813633331",
+      "source_path": "seed_skills/ai-writing-detection/references/citation-patterns.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "research/261-citation-patterns_73904272",
+      "category": "research",
+      "name": "citation-patterns_73904272",
+      "indexed_at": "2026-02-24T17:36:19.745279",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/citation-patterns.md",
+      "display_name": "Citation Patterns",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "307e192313ce560d28acac57fc2b63a70ec909a2b4263f094eeb096e397a88e3",
+      "source_path": "seed_skills/ai-writing-detection/references/false-positive-prevention.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "research/262-false-positive-prevention_307e1923",
+      "category": "research",
+      "name": "false-positive-prevention_307e1923",
+      "indexed_at": "2026-02-24T17:36:20.060668",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/false-positive-prevention.md",
+      "display_name": "False Positive Prevention",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "557e707bd3dd79977d92b882811e3c63ee89391d3a20dba86d8f2a283ecf63b4",
+      "source_path": "seed_skills/ai-writing-detection/references/model-fingerprints.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "research/263-model-fingerprints_557e707b",
+      "category": "research",
+      "name": "model-fingerprints_557e707b",
+      "indexed_at": "2026-02-24T17:36:20.319115",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/model-fingerprints.md",
+      "display_name": "Model Fingerprints",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "e199160916b11a6dc649d75677f9c32d57720da1426f0ef8e0a08b077185ecde",
+      "source_path": "seed_skills/ai-writing-detection/references/vocabulary-patterns.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "research/264-vocabulary-patterns_e1991609",
+      "category": "research",
+      "name": "vocabulary-patterns_e1991609",
+      "indexed_at": "2026-02-24T17:36:20.716073",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/vocabulary-patterns.md",
+      "display_name": "Vocabulary Patterns",
+      "tags": "[\"research\"]"
+    },
+    {
+      "file_hash": "afcd19a1dc0200de1b935f7ac820e228919a4682046eefaa4762ce15eb2eebda",
+      "source_path": "seed_skills/ai-writing-detection/references/content-patterns.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/375-content-patterns_afcd19a1",
+      "category": "content-creation",
+      "name": "content-patterns_afcd19a1",
+      "indexed_at": "2026-02-24T17:36:21.102938",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/content-patterns.md",
+      "display_name": "Content Patterns",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "75578f9a6215c66b56b78e05308481b6a670e96617a99744579292170e19029b",
+      "source_path": "seed_skills/ai-writing-detection/references/formatting-patterns.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/376-formatting-patterns_75578f9a",
+      "category": "content-creation",
+      "name": "formatting-patterns_75578f9a",
+      "indexed_at": "2026-02-24T17:36:21.586480",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/formatting-patterns.md",
+      "display_name": "Formatting Patterns",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "5a371cec37d7d2bf245e4072987c611c1d47c16823db202b3418a7bc862680a9",
+      "source_path": "seed_skills/ai-writing-detection/references/markup-artifacts.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/377-markup-artifacts_5a371cec",
+      "category": "content-creation",
+      "name": "markup-artifacts_5a371cec",
+      "indexed_at": "2026-02-24T17:36:22.059978",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/markup-artifacts.md",
+      "display_name": "Markup Artifacts",
+      "tags": "[\"content creation\"]"
+    },
+    {
+      "file_hash": "e18b94eefd29f8e01333f0a246d6fe35def090c2f1d607042b6cc22c6b97ce99",
+      "source_path": "seed_skills/ai-writing-detection/references/structural-patterns.md",
+      "source_repo": "MooseGoose0701/skill-compose",
+      "local_path": "content-creation/378-structural-patterns_e18b94ee",
+      "category": "content-creation",
+      "name": "structural-patterns_e18b94ee",
+      "indexed_at": "2026-02-24T17:36:22.695618",
+      "repo_stars": 972,
+      "repo_updated_at": "2026-02-24T06:56:33+00:00",
+      "source_url": "https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/ai-writing-detection/references/structural-patterns.md",
+      "display_name": "Structural Patterns",
+      "tags": "[\"content creation\"]"
     }
   ]
 }
