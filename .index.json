@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T00:32:23.620507",
+  "updated_at": "2026-02-24T00:33:00.483716",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -19433,6 +19433,20 @@
       "source_url": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-aws/skills/aws-cloudformation/aws-cloudformation-cloudwatch/SKILL.md",
       "display_name": "Skill",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "23ff1c36cac472ed4372eb7b80cf80753f0e0c730b0b31c6f20861715535aa20",
+      "source_path": "SKILL.md",
+      "source_repo": "Decodo/decodo-openclaw-skill",
+      "local_path": "data-analysis/226-name-skill_23ff1c36",
+      "category": "data-analysis",
+      "name": "name-skill_23ff1c36",
+      "indexed_at": "2026-02-24T00:33:00.483642",
+      "repo_stars": 10,
+      "repo_updated_at": "2026-02-19T10:08:36+00:00",
+      "source_url": "https://raw.githubusercontent.com/Decodo/decodo-openclaw-skill/main/SKILL.md",
+      "display_name": "Skill",
+      "tags": "[\"data analysis\"]"
     }
   ]
 }
