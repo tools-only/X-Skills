@@ -1,6 +1,6 @@
 # X-Skills
 
-A curated collection of **1453 AI-powered skills** organized into 15 categories.
+A curated collection of **1469 AI-powered skills** organized into 15 categories.
 
 ## Overview
 
@@ -8,20 +8,20 @@ This repository contains automatically aggregated skills from various open-sourc
 
 ## Categories
 
-- **Automation/Scripting** (18 skills)
-- **Automation/Workflow** (81 skills)
+- **Automation/Scripting** (21 skills)
+- **Automation/Workflow** (82 skills)
 - **Commercial** (66 skills)
 - **Communication** (42 skills)
-- **Content Creation** (126 skills)
+- **Content Creation** (135 skills)
 - **Daily Assistant** (74 skills)
 - **Data Analysis** (127 skills)
-- **Development** (457 skills)
+- **Development** (459 skills)
 - **Development/Devops** (210 skills)
 - **Development/Testing** (39 skills)
 - **Development/Tools** (148 skills)
 - **Investment** (13 skills)
 - **Other** (1 skill)
-- **Productivity** (13 skills)
+- **Productivity** (14 skills)
 - **Research** (38 skills)
 
 ## Patches - Curated Skill Bundles
@@ -181,7 +181,7 @@ ls ~/.claude/skills/patch-research-agent/
 ## Skills Directory
 
 
-### Automation/Scripting (18 skills)
+### Automation/Scripting (21 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -203,8 +203,11 @@ ls ~/.claude/skills/patch-research-agent/
 | [Check Weblinks](automation/scripting/088-check-weblinks_50d8012b/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/check-weblinks.md) | ⭐ 19 | `automation` |
 | [Quality Report](automation/scripting/089-quality-report_36d918fe/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/vault-health/quality-report.md) | ⭐ 19 | `automation` |
 | [Backlog](automation/scripting/090-backlog_d302c0d8/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/BACKLOG.md) | ⭐ 20 | `automation` |
+| [Idea Validator](automation/scripting/idea-validator_c53d5eac/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/idea-validator.md) | ⭐ 1.4k | `automation` |
+| [Yt Scraper](automation/scripting/yt-scraper_fe6d36b9/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/yt-scraper.md) | ⭐ 1.4k | `automation` |
+| [Yt Ideate](automation/scripting/yt-ideate_53f7475c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/yt-ideate.md) | ⭐ 1.4k | `automation` |
 
-### Automation/Workflow (81 skills)
+### Automation/Workflow (82 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -289,6 +292,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](automation/workflow/002-name-skill_cfc8da10/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-ai/skills/prompt-engineering/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/workflow/002-name-skill_9293219a/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-java/skills/spring-boot-actuator/SKILL.md) | ⭐ 103 | `automation` |
 | [Skill](automation/workflow/002-name-skill_fba8986b/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/plugins/conventional-commits/skills/conventional-commits/SKILL.md) | ⭐ 20 | `automation` |
+| [Youtube Strategy](automation/workflow/youtube-strategy_7bbf00c5/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/youtube-strategy.md) | ⭐ 1.4k | `automation` |
 
 ### Commercial (66 skills)
 
@@ -406,9 +410,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Agents](communication/253-agents_382612d6/) | [crestalnetwork/intentkit](https://raw.githubusercontent.com/crestalnetwork/intentkit/main/frontend/AGENTS.md) | 🔥 6.5k | `communication` |
 | [Email Capture](communication/252-email-capture_a265f4ef/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/meetings/email-capture.md) | ⭐ 19 | `activity/email` `project/relevant-tag` |
 | [Skill](communication/127-name-skill_977aff84/) | [BrOrlandi/my-claude-skills](https://raw.githubusercontent.com/BrOrlandi/my-claude-skills/main/slack/SKILL.md) | ⭐ 15 | `communication` |
-| [Skill](communication/name-skill_f3b5107e/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-observability/SKILL.md) | ⭐ 11 | `communication` |
+| [Skill](communication/127-name-skill_f3b5107e/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-observability/SKILL.md) | ⭐ 11 | `communication` |
 
-### Content Creation (126 skills)
+### Content Creation (135 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -538,6 +542,15 @@ ls ~/.claude/skills/patch-research-agent/
 | [Backlog Item Groomer](content-creation/362-backlog-item-groomer_db0c508c/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/agents/backlog-item-groomer.md) | ⭐ 20 | `content creation` |
 | [Skill](content-creation/049-name-skill_6475c2ae/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/SKILL.md) | ⭐ 20 | `content creation` |
 | [Orchestrator Discipline](content-creation/363-orchestrator-discipline_4c1fd3a6/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/orchestrator-discipline.md) | ⭐ 20 | `content creation` |
+| [Channel Analyzer](content-creation/channel-analyzer_b59c1513/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/agents/channel-analyzer.md) | ⭐ 1.4k | `content creation` |
+| [Yt Pipeline](content-creation/yt-pipeline_6c64caa5/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/yt-pipeline.md) | ⭐ 1.4k | `content creation` |
+| [Skill](content-creation/name-skill_138142a3/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-brief/SKILL.md) | ⭐ 1.4k | `content creation` |
+| [Skill](content-creation/name-skill_bd16c90b/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-outline/SKILL.md) | ⭐ 1.4k | `content creation` |
+| [Skill](content-creation/name-skill_b2952acb/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-packaging/SKILL.md) | ⭐ 1.4k | `content creation` |
+| [Yt Brief](content-creation/yt-brief_06279d5c/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/yt-brief.md) | ⭐ 1.4k | `content creation` |
+| [Yt Outline](content-creation/yt-outline_8621dc96/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/yt-outline.md) | ⭐ 1.4k | `content creation` |
+| [Yt Package](content-creation/yt-package_534a43c9/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/yt-package.md) | ⭐ 1.4k | `content creation` |
+| [Yt Research](content-creation/yt-research_164cfd4f/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/commands/yt-research.md) | ⭐ 1.4k | `content creation` |
 
 ### Daily Assistant (74 skills)
 
@@ -693,7 +706,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](data-analysis/226-name-skill_154869da/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/golf-data/SKILL.md) | ⭐ 24 | `data analysis` |
 | [Advanced](data-analysis/334-advanced_8b673c79/) | [DougTrajano/pydantic-ai-skills](https://raw.githubusercontent.com/DougTrajano/pydantic-ai-skills/main/docs/advanced.md) | ⭐ 106 | `data analysis` |
 | [Quickstart](data-analysis/253-quickstart_25901d75/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/docs/docs/quickstart.md) | ⭐ 858 | `data analysis` |
-| [Skill](data-analysis/name-skill_01fc4f62/) | [bowenliang123/markdown-exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
+| [Skill](data-analysis/226-name-skill_15ac6ffa/) | [bowenliang123/md_exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_e9b319b6/) | [wwwzhouhui/skills_collection](https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/github-readme-generator/SKILL.md) | ⭐ 107 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cd720ae1/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/build-ci-migration-assistant/SKILL.md) | ⭐ 10 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_cdcc854e/) | [ArabelaTso/Skills-4-SE](https://raw.githubusercontent.com/ArabelaTso/Skills-4-SE/main/skills/component-boundary-identifier/SKILL.md) | ⭐ 10 | `data analysis` |
@@ -750,7 +763,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Claude](data-analysis/036-claude_672f20b7/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/CLAUDE.md) | ⭐ 20 | `data analysis` |
 | [Skill](data-analysis/226-name-skill_01fc4f62/) | [bowenliang123/markdown-exporter](https://raw.githubusercontent.com/bowenliang123/markdown-exporter/main/SKILL.md) | ⭐ 183 | `data analysis` |
 
-### Development (457 skills)
+### Development (459 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1210,7 +1223,9 @@ ls ~/.claude/skills/patch-research-agent/
 | [Arl Meta Layer](development/2887-arl-meta-layer_90cdf372/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/arl-meta-layer.md) | ⭐ 20 | `development` |
 | [Layer 1 Overview](development/2888-layer-1-overview_c8bbcd99/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/layer-1-overview.md) | ⭐ 20 | `development` |
 | [Sam Definition](development/2889-sam-definition_442d159a/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/skills/work-backlog-item/references/sam-definition.md) | ⭐ 20 | `development` |
-| [Skill](development/name-skill_685d0afc/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/1178-name-skill_685d0afc/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/SKILL.md) | ⭐ 11 | `development` |
+| [Skill](development/name-skill_8dd71d26/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-research/SKILL.md) | ⭐ 1.4k | `development` |
+| [Prompt Patterns](development/prompt-patterns_b749ede7/) | [Jeffallan/claude-skills](https://raw.githubusercontent.com/Jeffallan/claude-skills/main/skills/prompt-engineer/references/prompt-patterns.md) | ⭐ 3.3k | `development` |
 
 ### Development/Devops (210 skills)
 
@@ -1624,8 +1639,8 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/tools/002-name-skill_ca8e518c/) | [giuseppe-trisciuoglio/developer-kit](https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/plugins/developer-kit-typescript/skills/clean-architecture/SKILL.md) | ⭐ 103 | `development` |
 | [Evidence Discipline](development/tools/335-evidence-discipline_5ccce0a1/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-0/evidence-discipline.md) | ⭐ 20 | `development` |
 | [Linting Discovery Protocol](development/tools/336-linting-discovery-protocol_c691aead/) | [Jamie-BitFlight/claude_skills](https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/.claude/docs/sdlc-layers/layer-1/linting-discovery-protocol.md) | ⭐ 20 | `development` |
-| [Skill](development/tools/name-skill_aa8b92aa/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-prompt-migration/SKILL.md) | ⭐ 11 | `development` |
-| [Cli](development/tools/cli_c4a88cd3/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/references/cli.md) | ⭐ 11 | `development` |
+| [Skill](development/tools/002-name-skill_aa8b92aa/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse-prompt-migration/SKILL.md) | ⭐ 11 | `development` |
+| [Cli](development/tools/263-cli_c4a88cd3/) | [langfuse/skills](https://raw.githubusercontent.com/langfuse/skills/main/skills/langfuse/references/cli.md) | ⭐ 11 | `development` |
 
 ### Investment (13 skills)
 
@@ -1651,7 +1666,7 @@ ls ~/.claude/skills/patch-research-agent/
 |-------|--------|------------|------|
 | [Team Ids](other/036-team-ids_bb32d02b/) | [machina-sports/sports-skills](https://raw.githubusercontent.com/machina-sports/sports-skills/main/skills/mlb-data/references/team-ids.md) | ⭐ 24 | `other` |
 
-### Productivity (13 skills)
+### Productivity (14 skills)
 
 | Skill | Source | Popularity | Tags |
 |-------|--------|------------|------|
@@ -1668,6 +1683,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](productivity/093-name-skill_98a816b8/) | [gupsammy/Claudest](https://raw.githubusercontent.com/gupsammy/Claudest/main/plugins/claude-coding/skills/update-claudemd/SKILL.md) | ⭐ 34 | `productivity` |
 | [External Llm](productivity/173-external_llm_6f65f5e7/) | [aradlein/hass-agent-llm](https://raw.githubusercontent.com/aradlein/hass-agent-llm/main/docs/EXTERNAL_LLM.md) | ⭐ 23 | `productivity` |
 | [Exec Summary](productivity/174-exec-summary_39604b88/) | [DavidROliverBA/Daves-Claude-Code-Skills](https://raw.githubusercontent.com/DavidROliverBA/Daves-Claude-Code-Skills/main/skills/scoring/exec-summary.md) | ⭐ 19 | `productivity` |
+| [Skill](productivity/name-skill_5833ac61/) | [jeremylongshore/claude-code-plugins-plus-skills](https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/productivity/youtube-strategy/skills/yt-ideation/SKILL.md) | ⭐ 1.4k | `productivity` |
 
 ### Research (38 skills)
 
@@ -1763,5 +1779,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-24 03:30:58 UTC*
+*Last updated: 2026-02-24 03:32:26 UTC*
 *Automatically maintained by SkillFlow*
