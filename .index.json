@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-24T12:00:48.740289",
+  "updated_at": "2026-02-24T12:02:48.516264",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -22821,6 +22821,20 @@
       "source_url": "https://raw.githubusercontent.com/NiJingzhe/SimpleLLMFunc/master/docs/source/tui.md",
       "display_name": "Tui",
       "tags": "[\"communication\"]"
+    },
+    {
+      "file_hash": "53464cf36a1c0e1b9ce756ee93224085c5cf91e2a7a986eb57c3eb32dd8cfae8",
+      "source_path": "AGENTS.md",
+      "source_repo": "scarletkc/vexor",
+      "local_path": "development/testing/024-agents_53464cf3",
+      "category": "development/testing",
+      "name": "agents_53464cf3",
+      "indexed_at": "2026-02-24T12:02:48.516213",
+      "repo_stars": 204,
+      "repo_updated_at": "2026-02-06T08:47:22+00:00",
+      "source_url": "https://raw.githubusercontent.com/scarletkc/vexor/main/AGENTS.md",
+      "display_name": "Agents",
+      "tags": "[\"development\"]"
     }
   ]
 }
