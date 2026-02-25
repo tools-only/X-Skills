@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-02-25T04:35:56.299720",
+  "updated_at": "2026-02-25T05:38:13.227447",
   "skills": [
     {
       "file_hash": "9dfecfa2c428872b33950225ef727048588c0df1eafbae60d29d5ae6974e10c6",
@@ -28057,6 +28057,20 @@
       "source_url": "https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/04-packaging.md",
       "display_name": "04 Packaging",
       "tags": "[\"automation\"]"
+    },
+    {
+      "file_hash": "ead927825d7f215c82243c01186c5af51840fb6ffdffddf772781495788ba2b5",
+      "source_path": "docs/CONFIGURATION.md",
+      "source_repo": "LearningCircuit/local-deep-research",
+      "local_path": "development/191-configuration_ead92782",
+      "category": "development",
+      "name": "configuration_ead92782",
+      "indexed_at": "2026-02-25T05:38:13.227403",
+      "repo_stars": 4034,
+      "repo_updated_at": "2026-02-25T00:38:20+00:00",
+      "source_url": "https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md",
+      "display_name": "Configuration",
+      "tags": "[\"development\"]"
     }
   ]
 }

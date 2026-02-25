@@ -1338,7 +1338,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Royal Marines](development/3082-royal-marines_92007cea/) | [harrymunro/nelson](https://raw.githubusercontent.com/harrymunro/nelson/main/skills/nelson/references/royal-marines.md) | ⭐ 143 | `development` |
 | [Context Guide](development/2884-context_guide_789638a4/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/guides/CONTEXT_GUIDE.md) | ⭐ 24 | `development` |
 | [Workflow Troubleshooting](development/2875-workflow_troubleshooting_d48aaa23/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/WORKFLOW_TROUBLESHOOTING.md) | ⭐ 24 | `development` |
-| [Configuration](development/191-configuration_41aedf4b/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
+| [Configuration](development/configuration_ead92782/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
 | [Session Summary](development/2877-session_summary_a4a22d16/) | [doobidoo/MCP-Context-Provider](https://raw.githubusercontent.com/doobidoo/MCP-Context-Provider/main/docs/phase3/SESSION_SUMMARY.md) | ⭐ 24 | `development` |
 | [Skill](development/1178-name-skill_8f7ac62b/) | [MooseGoose0701/skill-compose](https://raw.githubusercontent.com/MooseGoose0701/skill-compose/main/seed_skills/skill-finder/SKILL.md) | ⭐ 915 | `development` |
 | [Skill](development/1178-name-skill_a93c5015/) | [agentic-community/mcp-gateway-registry](https://raw.githubusercontent.com/agentic-community/mcp-gateway-registry/main/.claude/skills/new-feature-design/SKILL.md) | ⭐ 449 | `development` |
@@ -1608,7 +1608,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Kimi Analysis Comparison](development/2358-kimi_analysis_comparison_b93d745e/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/strategy/KIMI_ANALYSIS_COMPARISON.md) | 🔥 9.8k | `development` |
 | [06 Troubleshooting](development/2912-06-troubleshooting_b4f31460/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/user-guide/06-troubleshooting.md) | 🔥 9.8k | `development` |
 | [Cli Reference](development/1593-cli_reference_cd51d682/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/zh-CN/reference/CLI_REFERENCE.md) | 🔥 9.8k | `development` |
-| [Prompt Caching](development/prompt_caching_cc25e38f/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/completion/prompt_caching.md) | 🔥 36.6k | `development` |
+| [Configuration](development/191-configuration_ead92782/) | [LearningCircuit/local-deep-research](https://raw.githubusercontent.com/LearningCircuit/local-deep-research/main/docs/CONFIGURATION.md) | ⭐ 4.0k | `development` |
 
 ### Development/Devops (253 skills)
 
@@ -1866,7 +1866,7 @@ ls ~/.claude/skills/patch-research-agent/
 | [Skill](development/devops/014-name-skill_295854ad/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/context-manager/SKILL.md) | ⭐ 536 | `development` |
 | [Skill](development/devops/014-name-skill_7621df25/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-health/SKILL.md) | ⭐ 536 | `development` |
 | [Skill](development/devops/014-name-skill_cbe51c1e/) | [jezweb/claude-skills](https://raw.githubusercontent.com/jezweb/claude-skills/main/plugins/dev-tools/skills/project-kickoff/SKILL.md) | ⭐ 536 | `development` |
-| [Mcp](development/devops/mcp_161c6f6d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 36.6k | `development` |
+| [Mcp](development/devops/025-mcp_161c6f6d/) | [BerriAI/litellm](https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/docs/mcp.md) | 🔥 36.7k | `development` |
 | [Chroma](development/devops/272-chroma_f8545364/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/CHROMA.md) | 🔥 9.8k | `development` |
 | [Qdrant](development/devops/273-qdrant_1399da48/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/integrations/QDRANT.md) | 🔥 9.8k | `development` |
 | [Quick Reference](development/devops/378-quick_reference_1f0f2bf4/) | [yusufkaraaslan/Skill_Seekers](https://raw.githubusercontent.com/yusufkaraaslan/Skill_Seekers/development/docs/archive/legacy/QUICK_REFERENCE.md) | 🔥 9.8k | `development` |
@@ -2315,5 +2315,5 @@ This repository is automatically maintained by [SkillFlow](https://github.com/to
 
 ---
 
-*Last updated: 2026-02-25 05:35:56 UTC*
+*Last updated: 2026-02-25 05:38:13 UTC*
 *Automatically maintained by SkillFlow*
